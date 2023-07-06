@@ -1,0 +1,14 @@
+services:
+  frontend:
+    build: ./frontend
+    restart: on-failure
+    ports:
+      - 8501:8501
+    volumes:
+      - ./frontend/app:/app
+  qas:
+    ports:
+      - 8000:8000
+    build: ./qas
+    restart: on-failure
+    hostname: qas
