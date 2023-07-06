@@ -1,0 +1,77 @@
+COOPERATIVE PATENT CLASSIFICATION
+GENERATION; CONVERSION OR DISTRIBUTION OF ELECTRIC POWER
+GENERATION OF ELECTRIC POWER BY CONVERSION OF INFRA-RED
+RADIATION, VISIBLE LIGHT OR ULTRAVIOLET LIGHT, e.g. USING
+PHOTOVOLTAIC [PV] MODULES (obtaining electrical energy from radioactive sources
+G21H 1/12; light sensitive inorganic semiconductor devices H01L 31/00; light sensitive organic
+semiconductor devices H10K 30/00; thermoelectric devices H10N 10/00; pyroelectric devices
+   10/00    PV power plants; Combinations of PV energy
+systems with other systems for the generation of
+   10/10    . including a supplementary source of electric power,
+e.g. hybrid diesel-PV energy systems (combinations
+with gas-turbine plants F02C 6/00)
+   10/12    . . Hybrid wind-PV energy systems
+   10/20    . Systems characterised by their energy storage
+means (H02S 40/38 takes precedence)
+   10/30    . Thermophotovoltaic systems (photovoltaic cells
+specially adapted for conversion or sensing of infra-
+red [IR] radiation H01L 31/00; thermoelectric
+   10/40    . Mobile PV generator systems
+   20/00    Supporting structures for PV modules
+Supporting structures also intended for use with
+solar heat collectors should also be classified in
+groups  F24S 25/00-F24S 30/00  or  F24S 50/20
+   20/10    . Supporting structures directly fixed to the ground
+   20/20    . Supporting structures directly fixed to an
+immovable object (H02S 20/30 takes precedence)
+   20/21    . . specially adapted for motorways, e.g. integrated
+   20/22    . . specially adapted for buildings
+   20/23    . . . specially adapted for roof structures
+   20/24    . . . . specially adapted for flat roofs
+   20/25    . . . . Roof tile elements
+   20/26    . . . Building materials integrated with PV modules,
+e.g. façade elements (H02S 20/25 takes
+   20/30    . Supporting structures being movable or adjustable,
+   20/32    . . specially adapted for solar tracking
+   30/00    Structural details of PV modules other than those
+related to light conversion (semiconductor device
+aspects of modules of electrolytic light sensitive
+devices H01G 9/20, of inorganic PV modules
+H01L 31/00, of organic PV modules H10K 30/00)
+   30/20    . Collapsible or foldable PV modules
+   40/00    Components or accessories in combination
+with PV modules, not provided for in groups
+   40/10    . Cleaning arrangements
+   40/12    . . Means for removing snow
+   40/20    . Optical components
+   40/22    . . Light-reflecting or light-concentrating means
+(directly associated with the PV cell or integrated
+   40/30    . Electrical components
+   40/32    . . comprising DC/AC inverter means associated
+with the PV module itself, e.g. AC modules
+   40/34    . . comprising specially adapted electrical
+connection means to be structurally associated
+with the PV module, e.g. junction boxes
+   40/345   . . . {with cooling means associated with the
+electrical connection means, e.g. cooling means
+associated with or applied to the junction box
+(cooling means for PV cells H01L 31/052, for
+   40/36    . . characterised by special electrical interconnection
+means between two or more PV modules, e.g.
+electrical module-to-module connection
+   40/38    . . Energy storage means, e.g. batteries, structurally
+   40/40    . Thermal components (H02S 10/30 takes
+   40/42    . . Cooling means (cooling means directly associated
+or integrated with the PV cell H01L 31/052)
+   40/425   . . . {using a gaseous or a liquid coolant, e.g. air
+flow ventilation, water circulation}
+   40/44    . . Means to utilise heat energy, e.g. hybrid systems
+producing warm water and electricity at the same
+time (directly associated with the PV cell or
+integrated with the PV cell H01L 31/0525)
+   50/00    Monitoring or testing of PV systems, e.g. load
+balancing or fault identification
+   50/10    . Testing of PV devices, e.g. of PV modules or single
+PV cells (testing of semiconductor devices during
+   50/15    . . using optical means, e.g. using
+   99/00    Subject matter not provided for in other groups of

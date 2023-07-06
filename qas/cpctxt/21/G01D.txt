@@ -1,0 +1,528 @@
+COOPERATIVE PATENT CLASSIFICATION
+MEASURING NOT SPECIALLY ADAPTED FOR A SPECIFIC VARIABLE;
+ARRANGEMENTS FOR MEASURING TWO OR MORE VARIABLES NOT
+COVERED IN A SINGLE OTHER SUBCLASS; TARIFF METERING APPARATUS;
+MEASURING OR TESTING NOT OTHERWISE PROVIDED FOR
+• devices for indicating or recording the results of measurements, not peculiar to variables covered by a single other
+• analogous apparatus but in which the input is not a variable to be measured, e.g. a hand operation;
+• details of measuring instruments, which are of general interest;
+• measurement transducers not adapted solely for the measurement of a single specified variable and not provided for
+elsewhere, i.e. means for converting the output of a sensing member to another variable where the form or nature of the
+sensing member does not constrain the means for converting;
+• measuring or testing not otherwise provided for.
+2. Attention is drawn to the Notes following the title of class G01.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Measuring arrangements giving results other
+than momentary value of variable, of general
+application (G01D 3/00 takes precedence; in tariff
+metering apparatus G01D 4/00; transducers not
+specially adapted for a specific variable G01D 5/00)
+    1/02    . giving mean values, e.g. root means square values
+(measuring root mean square values of currents or
+    1/04    . giving integrated values (giving mean values
+    1/06    . . by intermittent summation
+    1/08    . . . over fixed periods of time
+    1/10    . giving differentiated values
+    1/12    . giving a maximum or minimum of a value
+    1/14    . giving a distribution function of a value, i.e. number
+of times the value comes within specified ranges of
+    1/16    . giving a value which is a function of two or more
+    1/18    . with arrangements for signalling that a
+predetermined value of an unspecified parameter
+has been exceeded (G01D 1/14 takes precedence)
+    3/00    Indicating or recording apparatus with provision
+for the special purposes referred to in the
+    3/02    . with provision for altering or correcting the law of
+    3/021   . . {using purely analogue techniques}
+    3/022   . . {having an ideal characteristic, map or correction
+data stored in a digital memory}
+    3/024   . . for range change; Arrangements for substituting
+    3/028   . mitigating undesired influences, e.g. temperature,
+    3/032   . . affecting incoming signal, e.g. by averaging;
+    3/036   . . on measuring arrangements themselves
+    3/0365  . . . {the undesired influence being measured using
+a separate sensor, which produces an influence
+    3/06    . with provision for operation by a null method
+    3/063   . . {Comparing the measuring value with a reference
+value which periodically or incidentally scans the
+    3/066   . . {Balancing a force which represents the
+measuring value, by means of a reference force}
+    3/08    . with provision for safeguarding the apparatus, e.g.
+against abnormal operation, against breakdown
+    3/10    . with provision for switching-in of additional or
+auxiliary indicators or recorders
+    4/00    Tariff metering apparatus (in taximeters
+G07B 13/00; apparatus actuated by coins, cards or the
+like with meter-controlled dispensing of liquid, gas, or
+    4/002   . {Remote reading of utility meters}
+    4/004   . . {Remote reading of utility meters to a fixed
+    4/006   . . {Remote reading of utility meters to a non-fixed
+location, i.e. mobile location}
+    4/008   . {Modifications to installed utility meters to enable
+    4/04    . . Resetting-mechanisms, e.g. for indicating
+    4/06    . . Arrangement of clutches between driving and
+indicating member, e.g. of hysteresis clutch
+    4/08    . . Transfer of indication from a counter into a
+    4/10    . Maximum indicating or recording apparatus, i.e.
+where the tariff for a period is based on a maximum
+    4/12    . . Apparatus for indicating or recording progressive
+    4/14    . . Fixed-demand indicating or recording
+apparatus, i.e. where indication is made when
+a predetermined quantity has been consumed
+during a time interval greater or less than a
+    4/16    . Apparatus for indicating or recording maximum or
+    4/18    . Apparatus for indicating or recording
+overconsumption with opposing torque which
+comes into effect when a predetermined level is
+exceeded, e.g. subtraction meters
+    5/00    Mechanical means for transferring the output of a
+sensing member; Means for converting the output
+of a sensing member to another variable where
+the form or nature of the sensing member does not
+constrain the means for converting; Transducers
+not specially adapted for a specific variable
+(G01D 3/00 takes precedence; specially adapted for
+apparatus giving results other than momentary value
+The subgroups of this main group are
+distinguished by the means which is of major
+importance. Thus the mere application of other
+means for giving a final indication does not affect
+    5/02    . using mechanical means
+    5/04    . . using levers; using cams; using gearing
+    5/06    . . acting through a wall or enclosure, e.g. by
+    5/08    . . Reducing the effects of friction, e.g. by applying
+    5/10    . . Applying external forces to increase force
+available for operation of indicating or recording
+    5/12    . using electric or magnetic means (G01D 5/06 takes
+    5/125   . . {characterised by a first part whose movement
+represents the measuring value, and by a second
+part which is moved by an external force in order
+to follow the movement of the first part}
+    5/14    . . influencing the magnitude of a current or voltage
+    5/142   . . . {using Hall-effect devices (measuring
+magnetic variables using Hall-effect or other
+galvanomagnetic devices G01R 33/06)}
+    5/145   . . . . {influenced by the relative movement
+between the Hall device and magnetic fields
+    5/147   . . . . {influenced by the movement of a third
+element, the position of Hall device and
+the source of magnetic field being fixed in
+    5/16    . . . by varying resistance
+    5/165   . . . . by relative movement of a point of contact
+{or actuation} and a resistive track
+    5/1655  . . . . . {more than one point of contact or
+actuation on one or more tracks}
+    5/18    . . . by varying effective impedance of discharge
+    5/183   . . . . {Sensing rotation or linear movement using
+strain, force or pressure sensors}
+    5/185   . . . . . {using piezoelectric sensors}
+    5/20    . . . by varying inductance, e.g. by a movable
+    5/2006  . . . . {by influencing the self-induction of one or
+more coils (G01D 5/22 takes precedence)}
+    5/2013  . . . . . {by a movable ferromagnetic element, e.g.
+a core (G01D 5/2033 takes precedence)}
+    5/202   . . . . . {by movable a non-ferromagnetic
+conductive element (G01D 5/2033 takes
+    5/2026  . . . . . . {constituting a short-circuiting element}
+    5/2033  . . . . . {controlling the saturation of a magnetic
+circuit by means of a movable element,
+    5/204   . . . . {by influencing the mutual induction
+between two or more coils (G01D 5/22 takes
+    5/2046  . . . . . {by a movable ferromagnetic element, e.g.
+    5/2053  . . . . . {by a movable non-ferromagnetic
+    5/206   . . . . . . {constituting a short-circuiting element}
+    5/2066  . . . . . {by movement of a single coil with respect
+    5/2073  . . . . . {by movement of a single coil with respect
+    5/208   . . . . . . {using polyphase currents}
+    5/2086  . . . . . {by movement of two or more coils with
+respect to two or more other coils}
+    5/2093  . . . . . . {using polyphase currents}
+    5/22    . . . . differentially influencing two coils
+    5/2208  . . . . . {by influencing the self-induction of the
+    5/2216  . . . . . . {by a movable ferromagnetic element,
+    5/2225  . . . . . . {by a movable non-ferromagnetic
+    5/2233  . . . . . . . {constituting a short-circuiting
+    5/2241  . . . . . . {by controlling the saturation of a
+magnetic circuit by means of a movable
+    5/225   . . . . . {by influencing the mutual induction
+    5/2258  . . . . . . {by a movable ferromagnetic element,
+    5/2266  . . . . . . . {specially adapted circuits therefor}
+    5/2275  . . . . . . {by a movable non-ferromagnetic
+    5/2283  . . . . . . . {constituting a short-circuiting
+    5/2291  . . . . . {Linear or rotary variable differential
+transformers (LVDTs/RVDTs) having
+a single primary coil and two secondary
+    5/24    . . . by varying capacitance
+    5/2403  . . . . {by moving plates, not forming part of the
+capacitor itself, e.g. shields}
+    5/2405  . . . . {by varying dielectric}
+    5/241   . . . . by relative movement of capacitor electrodes
+    5/2412  . . . . . {by varying overlap}
+    5/2415  . . . . . . {adapted for encoders}
+    5/2417  . . . . . {by varying separation}
+    5/242   . . . by carrying output of an electrodynamic device,
+    5/243   . . influencing the phase or frequency of ac
+    5/244   . . influencing characteristics of pulses or pulse
+trains; generating pulses or pulse trains
+    5/24404 . . . {Interpolation using high frequency signals}
+    5/24409 . . . {Interpolation using memories}
+    5/24414 . . . {Encoders having selectable interpolation
+    5/24419 . . . {Interpolation not coverd by groups
+    5/24423 . . . {Mounting means or means for restraining
+during shipping (G01D 5/24442 takes
+    5/24428 . . . {Error prevention}
+    5/24433 . . . . {by mechanical means}
+    5/24438 . . . . . {Special design of the sensing element or
+    5/24442 . . . . . {by mounting means}
+    5/24447 . . . . {by energy backup}
+    5/24457 . . . {Failure detection}
+    5/24461 . . . . {by redundancy or plausibility}
+    5/24466 . . . . {Comparison of the error value to a
+    5/24471 . . . {Error correction}
+    5/24476 . . . . {Signal processing
+(G01D 5/2448 - G01D 5/24495 take
+    5/2448  . . . . {Correction of gain, threshold, offset or
+    5/24485 . . . . {using other sensors}
+    5/2449  . . . . {using hard-stored calibration data}
+    5/24495 . . . . {using previous values}
+    5/245   . . . using a variable number of pulses in a train
+    5/2451  . . . . {Incremental encoders (G01D 5/2454 takes
+    5/2452  . . . . . {incorporating two or more tracks having
+    5/2454  . . . . {Encoders incorporating incremental and
+    5/2455  . . . . . {with incremental and absolute tracks on
+    5/2457  . . . . . . {Incremental encoders having reference
+    5/2458  . . . . . {with incremental and absolute tracks on
+    5/246   . . . by varying the duration of individual pulses
+    5/247   . . . using time shifts of pulses
+    5/248   . . . by varying pulse repetition frequency
+    5/249   . . . using pulse code
+    5/2492  . . . . {Pulse stream}
+    5/2495  . . . . . {Pseudo-random code}
+    5/2497  . . . . {Absolute encoders (G01D 5/2454 takes
+    5/25    . . Selecting one or more conductors or channels
+from a plurality of conductors or channels, e.g. by
+    5/251   . . . one conductor or channel
+    5/2515  . . . . {with magnetically controlled switches, e.g.
+    5/252   . . . a combination of conductors or channels
+    5/2525  . . . . {with magnetically controlled switches, e.g.
+    5/26    . characterised by optical transfer means, i.e. using
+infra-red, visible, or ultra-violet light
+    5/262   . . {with optical projection of a pointer or a scale}
+    5/264   . . {Mechanical constructional elements therefor
+(G01D 5/28, G01D 5/32, G01D 5/39 and
+G01D 5/40 take precedence); Mechanical
+    5/266   . . {by interferometric means (G01D 5/353 takes
+    5/268   . . {using optical fibres (G01D 5/28 - G01D 5/38
+    5/28    . . with deflection of beams of light, e.g. for direct
+optical indication (G01D 5/40 takes precedence;
+{mechanical adjustment G01D 5/264})
+    5/285   . . . {using a movable mirror}
+    5/30    . . . the beams of light being detected by photocells
+    5/305   . . . . {controlling the movement of a following
+    5/32    . . with attenuation or whole or partial obturation of
+beams of light (G01D 5/40 takes precedence {;
+mechanical adjustment G01D 5/264})
+    5/34    . . . the beams of light being detected by photocells
+    5/341   . . . . {controlling the movement of a following
+    5/342   . . . . {the sensed object being the obturating part}
+    5/344   . . . . {using polarisation (G01D 5/35303 takes
+    5/345   . . . . . {Polarising encoders}
+    5/347   . . . . using displacement encoding scales
+    5/34707 . . . . . {Scales; Discs, e.g. fixation, fabrication,
+    5/34715 . . . . . . {Scale reading or illumination devices}
+    5/34723 . . . . . . . {involving light-guides}
+    5/3473  . . . . . {Circular or rotary encoders}
+    5/34738 . . . . . . {Axles; Driving or coupling means}
+    5/34746 . . . . . {Linear encoders}
+    5/34753 . . . . . . {Carriages; Driving or coupling means}
+    5/34761 . . . . . . {Protection devices, e.g. caps; Blowing
+    5/34769 . . . . . . . {Sealing means}
+    5/34776 . . . . . {Absolute encoders with analogue or
+    5/34784 . . . . . . {with only analogue scales or both
+analogue and incremental scales}
+    5/34792 . . . . . . {with only digital scales or both digital
+    5/34794 . . . . . . . {Optical encoders using the Vernier
+principle, i.e. incorporating two or
+more tracks having a (n, n+1, ...)
+    5/353   . . . . influencing the transmission properties of an
+    5/35303 . . . . . {using a reference fibre, e.g.
+    5/35306 . . . . . {using an interferometer arrangement}
+    5/35309 . . . . . . {using multiple waves interferometer}
+    5/35312 . . . . . . . {using a Fabry Perot}
+    5/35316 . . . . . . . {using a Bragg gratings}
+    5/35319 . . . . . . . {using other multiple wave
+    5/35322 . . . . . . {using interferometer with one loop
+with several directions of circulation of
+the light, e.g. Sagnac interferometer}
+    5/35325 . . . . . . {using interferometer with two
+arms in reflection, e.g. Mickelson
+    5/35329 . . . . . . {using interferometer with two arms
+in transmission, e.g. Mach-Zender
+    5/35332 . . . . . . {using other interferometers}
+    5/35335 . . . . . . {Aspects of emitters or receivers used
+by an interferometer in an optical fibre
+sensor arrangement (using multiple
+sensor devices using multiplexing
+    5/35338 . . . . . {using other arrangements than
+    5/35341 . . . . . . {Sensor working in transmission}
+    5/35345 . . . . . . . {using Amplitude variations to detect
+    5/35348 . . . . . . . {using stimulated emission to detect
+    5/35351 . . . . . . . {using other means to detect the
+    5/35354 . . . . . . {Sensor working in reflection}
+    5/35358 . . . . . . . {using backscattering to detect the
+    5/35361 . . . . . . . . {using elastic backscattering to
+detect the measured quantity, e.g.
+    5/35364 . . . . . . . . {using inelastic backscattering
+to detect the measured quantity,
+    5/35367 . . . . . . . {using reflected light other than
+backscattered to detect the measured
+    5/3537  . . . . . {Optical fibre sensor using a particular
+arrangement of the optical fibre itself}
+    5/35374 . . . . . . {Particular layout of the fiber}
+    5/35377 . . . . . . {Means for amplifying or modifying the
+    5/3538  . . . . . . {using a particular type of fiber, e.g.
+fibre with several cores, PANDA fiber,
+fiber with an elliptic core or the like}
+    5/35383 . . . . . {using multiple sensor devices using
+    5/35387 . . . . . . {using wavelength division
+    5/3539  . . . . . . {using time division multiplexing}
+    5/35393 . . . . . . {using frequency division multiplexing}
+    5/35396 . . . . . . {using other forms of multiplexing}
+    5/36    . . . . Forming the light into pulses
+    5/363   . . . . . {Direction discrimination}
+    5/366   . . . . . {Particular pulse shapes}
+    5/38    . . . . . by diffraction gratings
+    5/39    . . Scanning a visible indication of the measured
+value and reproducing this indication at the
+remote place, e.g. on the screen of a cathode ray
+tube {(mechanical adjustment G01D 5/264)}
+    5/40    . . specially adapted for use with infra-red light
+{(mechanical adjustment G01D 5/264)}
+    5/42    . using fluid means
+    5/425   . . {characterised by a first part whose movement
+represents the measuring value, and by a second
+part which is moved by an external force in order
+to follow the movement of the first part}
+    5/44    . . using jets of fluid
+    5/46    . . . by deflecting or throttling the flow
+    5/48    . using wave or particle radiation means (G01D 5/26
+    5/485   . . {using magnetostrictive devices}
+    5/50    . . derived from a radioactive source
+    5/52    . . . detected by a counter tube
+    5/54    . using means specified in two or more of groups
+G01D 5/02, G01D 5/12, G01D 5/26, G01D 5/42,
+1. For a combination of two or more of the
+means specified, the first applicable one of the
+subgroups below takes precedence over any
+2. Classification is made in this group only
+if no other group can be selected as being
+    5/56    . . using electric or magnetic means
+    5/58    . . using optical means, i.e. using infra-red, visible or
+    5/60    . . using fluid means
+    5/62    . . using wave or particle radiation means not
+    7/00    Indicating measured values
+    7/002   . {giving both analog and numerical indication}
+    7/005   . {Indication of measured value by colour change}
+    7/007   . {Indication of measured value by tactile means}
+    7/02    . Indicating value of two or more variables
+    7/04    . . using a separate indicating element for each
+    7/06    . . . Luminous indications projected on a common
+    7/08    . . using a common indicating element for two or
+    7/10    . . . giving indication in co-ordinate form
+    7/12    . Audible indication of meter readings, e.g. for the
+    9/00    Recording measured values
+    9/005   . {Solid-state data loggers}
+    9/007   . . {Data loggers attached to transport containers for
+perishable products, e.g. food or medicines}
+    9/02    . Producing one or more recordings of the values of a
+    9/04    . . with provision for multiple or alternative
+    9/06    . . . Multiple recording, e.g. duplicating
+    9/08    . . . . giving both graphical and numerical
+    9/10    . . the recording element, e.g. stylus, being
+controlled in accordance with the variable, and
+the recording medium, e.g. paper roll, being
+controlled in accordance with time
+    9/12    . . . recording occurring continuously
+    9/14    . . . . with provision for altering speed of recording
+medium in accordance with the magnitude of
+    9/16    . . . recording occurring at separated intervals, e.g.
+    9/18    . . . . recording element actuated only upon change
+    9/20    . . the recording element, e.g. stylus, being
+controlled in accordance with time and the
+recording medium, e.g. paper roll, being
+controlled in accordance with the variable
+    9/22    . . . recording occurring continuously
+    9/24    . . . recording occurring at separated intervals, e.g.
+    9/26    . . either the recording element, e.g. stylus, or
+the recording medium, e.g. paper roll, being
+controlled in accordance with both time and the
+    9/28    . Producing one or more recordings, each recording
+being of the values of two or more different
+variables (G01D 9/38, G01D 9/40 take precedence)
+    9/285   . . {producing additional marks (e.g. reference lines
+    9/30    . . there being a separate recording element for each
+variable, e.g. multiple-pen recorder
+    9/32    . . there being a common recording element for two
+    9/34    . . . the variables being recorded in a predetermined
+    9/36    . . . . in separate columns
+    9/38    . Producing one or more recordings, each recording
+being produced by controlling the recording
+element, e.g. stylus, in accordance with one variable
+and controlling the recording medium, e.g. paper
+roll, in accordance with another variable
+    9/40    . Producing one or more recordings, each recording
+being produced by controlling either the recording
+element, e.g. stylus or the recording medium, e.g.
+paper roll, in accordance with two or more variables
+    9/42    . Recording indications of measuring instruments by
+photographic means, e.g. of counters
+   11/00    Component parts of measuring arrangements
+not specially adapted for a specific variable
+(G01D 13/00, G01D 15/00 take precedence)
+   11/02    . Bearings or suspensions for moving parts
+   11/04    . . Knive-edge bearings
+   11/06    . . Strip or thread suspensions, e.g. in tension
+   11/08    . Elements for balancing moving parts
+   11/10    . Elements for damping the movement of parts
+   11/12    . . using fluid damping
+   11/14    . . using magnetic induction damping
+   11/16    . Elements for restraining, or preventing the
+movement of, parts, e.g. for zeroising (caging of
+moving parts when not in use G01D 11/20)
+   11/18    . . Springs (G01D 11/06 takes precedence)
+   11/20    . Caging devices for moving parts when not in use
+   11/22    . . automatically actuated
+   11/24    . Housings {; Casings for instruments}
+   11/245   . . {Housings for sensors}
+   11/26    . . Windows; Cover glasses; Sealings therefor
+   11/28    . Structurally-combined illuminating devices
+   11/30    . Supports specially adapted for an instrument;
+Supports specially adapted for a set of instruments
+   11/305   . . {Panel mounting of instruments}
+   13/00    Component parts of indicators for measuring
+arrangements not specially adapted for a specific
+   13/06    . . . Moving bands (G01D 13/10 takes precedence)
+   13/08    . . . Rotating drums (G01D 13/10 takes precedence)
+   13/10    . . . with adjustable scales; with auxiliary scales,
+   13/14    . . . for rotations of more than 360 degrees
+   13/16    . . . with staggered markings
+   13/18    . . . with raised or recessed markings
+   13/20    . . . with luminescent markings
+   13/22    . Pointers, e.g. settable pointer
+   13/24    . . for indicating a maximum or minimum
+   13/26    . . adapted to perform a further operation, e.g.
+   13/265   . . . {Pointers which conduct light}
+   13/28    . . with luminescent markings
+   15/00    Component parts of recorders for measuring
+arrangements not specially adapted for a specific
+   15/005   . {Effaceable recording}
+   15/02    . Styli or other recording elements acting to
+mechanically deform or perforate the recording
+surface (printing recording elements G01D 15/20)
+   15/04    . . acting to punch holes in the recording surface
+   15/06    . Electric recording elements, e.g. electrolytic
+   15/08    . . for spark erosion
+   15/10    . Heated recording elements acting on heatsensitive
+   15/12    . Magnetic recording elements
+   15/14    . Optical recording elements; Recording elements
+   15/16    . Recording elements transferring recording material,
+e.g. ink, to the recording surface (printing recording
+   15/18    . . Nozzles emitting recording material
+   15/20    . Recording elements for printing with ink or for
+printing by deformation or perforation of the
+recording surface, e.g. embossing
+   15/22    . Chopper bars for bringing recording element into
+   15/24    . Drives for recording elements and surfaces not
+   15/26    . . operating by clockwork
+   15/28    . Holding means for recording surfaces; Guiding
+means for recording surfaces; Exchanging means
+   15/30    . . for foldable strip charts
+   15/32    . . for circular charts
+   15/34    . Recording surfaces
+   15/342   . . {of circular shape}
+   15/345   . . {of cylindrical shape}
+   15/347   . . {Strip or Tape}
+   18/00    Testing or calibrating apparatus or arrangements
+provided for in groups G01D 1/00 - G01D 15/00
+   18/001   . {Calibrating encoders}
+   18/002   . {Automatic recalibration (G01D 18/008 takes
+   18/004   . . {Continuous recalibration}
+   18/006   . . {Intermittent recalibration}
+   18/008   . {with calibration coefficients stored in memory}
+   21/00    Measuring or testing not otherwise provided for
+   21/02    . Measuring two or more variables by means not
+covered by a single other subclass
+ 2204/00    Indexing scheme relating to details of tariff-
+ 2204/10    . Analysing; Displaying
+ 2204/12    . . Determination or prediction of behaviour, e.g.
+likely power consumption or unusual usage
+ 2204/125   . . . Utility meter reading systems specially adapted
+for determining the environmental impact of
+ 2204/14    . . Displaying of utility usage with respect to time,
+e.g. for monitoring evolution of usage or with
+ 2204/16    . . Displaying of utility pricing or cost
+ 2204/18    . . Remote displaying of utility meter readings
+ 2204/20    . Monitoring; Controlling
+ 2204/22    . . Arrangements for detecting or reporting faults,
+ 2204/24    . . Identification of individual loads, e.g. by
+analysing current/voltage waveforms
+ 2204/26    . . Remote utility meter reading systems with
+control function, i.e. reading systems including
+mechanisms for turning on/off the supply
+ 2204/28    . . Processes or tasks scheduled according to the
+power required, the power available or the power
+ 2204/30    . Remote utility meter reading systems specially
+adapted for metering the generated energy or power
+ 2204/35    . . Monitoring the performance of renewable
+electricity generating systems, e.g. of solar panels
+ 2204/40    . Networks; Topology
+ 2204/43    . . Identification of a specific meter
+ 2204/45    . . Utility meters networked together within a single
+ 2204/47    . . Methods for determining the topology or
+arrangement of meters in a network
+ 2205/00    Indexing scheme relating to details of means for
+transferring or converting the output of a sensing
+ 2205/10    . Detecting linear movement
+ 2205/14    . . by converting the linear movement into a rotary
+ 2205/18    . . using magnetic means not otherwise provided for
+ 2205/20    . Detecting rotary movement
+ 2205/22    . . by converting the rotary movement into a linear
+ 2205/24    . . using magnetic means not otherwise provided for
+ 2205/26    . . Details of encoders or position sensors specially
+adapted to detect rotation beyond a full turn of
+ 2205/28    . . The target being driven in rotation by additional
+ 2205/40    . Position sensors comprising arrangements for
+concentrating or redirecting magnetic flux
+ 2205/50    . Grounding or electrostatically shielding a position
+ 2205/60    . Means for precisely aligning or centering the disk of
+a rotary encoder, e.g. fitting jigs
+ 2205/70    . Position sensors comprising a moving target with
+particular shapes, e.g. of soft magnetic targets
+ 2205/73    . . Targets mounted eccentrically with respect to the
+ 2205/77    . . Specific profiles
+ 2205/771   . . . Toothed profiles
+ 2205/772   . . . . Sawtooth profiles
+ 2205/773   . . . Spiral profiles
+ 2205/774   . . . Profiles with a discontinuity, e.g. edge or
+ 2205/775   . . . Tapered profiles
+ 2205/776   . . . Cam-shaped profiles
+ 2205/777   . . . Whorl-shaped profiles
+ 2205/80    . Manufacturing details of magnetic targets for
+ 2205/85    . Determining the direction of movement of an
+encoder, e.g. of an incremental encoder
+ 2205/90    . Two-dimensional encoders, i.e. having one or two
+codes extending in two directions
+ 2205/95    . Three-dimensional encoders, i.e. having codes
+ 2207/00    Indexing scheme relating to details of indicating
+ 2207/10    . Displays which are primarily used in aircraft or
+display aircraft-specific information
+ 2207/20    . Displays for vehicles in which information is
+superimposed on an external view, e.g. heads-up
+displays or enhanced reality displays
+ 2207/30    . Displays providing further information, in addition
+to measured values, e.g. status
+ 2213/00    Indexing scheme relating to constructional details
+ 2213/10    . Drivers for gauges
+ 2213/20    . Gauges having a single pointer and two or more
+ 2218/00    Indexing scheme relating to details of testing or
+ 2218/10    . Testing of sensors or measuring arrangements

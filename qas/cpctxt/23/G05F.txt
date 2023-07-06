@@ -1,0 +1,175 @@
+COOPERATIVE PATENT CLASSIFICATION
+SYSTEMS FOR REGULATING ELECTRIC OR MAGNETIC VARIABLES (regulating
+the timing or recurrence frequency of pulses in radar or radio navigation systems G01S;
+regulation of current or voltage, specially adapted for use in electronic time-pieces G04G 19/02;
+closed-loop systems for regulating non-electric variables by electric means G05D; regulating
+power supply of digital computers G06F 1/26; for obtaining desired operating characteristics of
+electromagnets with armatures H01F 7/18; regulating electric power distribution networks H02J;
+regulating the charging of batteries H02J 7/00; regulation of the output of static converters, e.g.
+switching regulators H02M; regulation of the output of electric generators H02N, H02P 9/00;
+controlling transformers, reactors or choke coils H02P 13/00; regulating frequency response,
+gain, maximum output, amplitude or bandwidth of amplifiers H03G; regulating tuning of
+resonant circuits H03J; regulating characteristics of transmission lines H04B; controlling electric
+light sources H05B 39/04, H05B 41/36, H05B 45/10, H05B 45/20, H05B 47/10; electric control
+• use of hydraulic, pneumatic, mechanical, and electrical  motors for varying electric characteristics of devices  which restore
+• the combination of static converters and current or voltage  regulators, if the invention resides in the combination.
+2. This subclass does not cover elements per se, which are covered by the relevant subclasses.
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Automatic systems in which deviations of an
+electric quantity from one or more predetermined
+values are detected at the output of the system and
+fed back to a device within the system to restore
+the detected quantity to its predetermined value or
+values, i.e. retroactive systems
+    1/02    . Regulating electric characteristics of arcs
+(arrangements for feeding electrodes B23K 9/12,
+H05B 7/109, H05B 31/18; automatic control of
+power for heating by discharge H05B 7/148)
+    1/04    . . by means of saturable magnetic devices
+    1/06    . . by means of discharge tubes
+    1/08    . . by means of semiconductor devices
+    1/10    . Regulating voltage or current (G05F 1/02 takes
+precedence; for electric railways B60M 3/02)
+    1/12    . . wherein the variable actually regulated by the
+final control device is ac (G05F 1/625 takes
+    1/13    . . . using ferroresonant transformers as final
+    1/14    . . . using tap transformers or tap changing
+inductors as final control devices
+    1/147   . . . . with motor driven tap switch
+    1/153   . . . . . controlled by discharge tubes or
+    1/16    . . . . combined with discharge tubes or
+    1/20    . . . . . semiconductor devices only
+    1/22    . . . . combined with separate magnetic control
+devices having a controllable degree of
+    1/24    . . . using bucking or boosting transformers as final
+    1/247   . . . . with motor in control circuit
+    1/253   . . . . the transformers including plural windings in
+series between source and load (G05F 1/247
+    1/26    . . . . combined with discharge tubes or
+    1/30    . . . . . semiconductor devices only
+    1/32    . . . using magnetic devices having a controllable
+degree of saturation as final control devices
+    1/325   . . . . with specific core structure, e.g. gap,
+aperture, slot, permanent magnet
+    1/33    . . . . with plural windings through which current
+    1/335   . . . . . on different cores
+    1/34    . . . . combined with discharge tubes or
+    1/38    . . . . . semiconductor devices only
+    1/40    . . . using discharge tubes or semiconductor devices
+    1/42    . . . . discharge tubes only
+    1/44    . . . . semiconductor devices only
+    1/445   . . . . . being transistors in series with the load
+    1/45    . . . . . being controlled rectifiers in series with
+    1/452   . . . . . . {with pulse-burst modulation control}
+    1/455   . . . . . . with phase control
+    1/46    . . wherein the variable actually regulated by the
+final control device is dc (G05F 1/625 takes
+    1/461   . . . {using an operational amplifier as final control
+    1/462   . . . {as a function of the requirements of the load,
+e.g. delay, temperature, specific voltage/current
+    1/463   . . . . {Sources providing an output which depends
+    1/465   . . . . {Internal voltage generators for integrated
+circuits, e.g. step down generators}
+    1/466   . . . . {Sources with reduced influence on
+    1/467   . . . . {Sources with noise compensation}
+    1/468   . . . {characterised by reference voltage circuitry,
+e.g. soft start, remote shutdown}
+    1/52    . . . using discharge tubes in series with the load as
+    1/54    . . . . additionally controlled by the unregulated
+    1/56    . . . using semiconductor devices in series with the
+load as final control devices (G05F 1/461 takes
+    1/561   . . . . {Voltage to current converters (amplifiers
+    1/562   . . . . {with a threshold detection shunting the
+control path of the final control device}
+    1/563   . . . . including two stages of regulation at least
+one of which is output level responsive, e.g.
+    1/565   . . . . sensing a condition of the system or its load
+in addition to means responsive to deviations
+in the output of the system, e.g. current,
+voltage, power factor (G05F 1/563 takes
+    1/567   . . . . . for temperature compensation
+    1/569   . . . . . for protection
+    1/571   . . . . . . with overvoltage detector
+    1/573   . . . . . . with overcurrent detector
+    1/5735  . . . . . . . {with foldback current limiting}
+    1/575   . . . . characterised by the feedback circuit
+    1/577   . . . . for plural loads
+    1/585   . . . . . providing voltages of opposite polarities
+    1/59    . . . . including plural semiconductor devices as
+final control devices for a single load
+    1/595   . . . . . semiconductor devices connected in series
+    1/607   . . . using discharge tubes in parallel with the load
+    1/61    . . . . including two stages of regulation, at least
+one of which is output level responsive
+    1/613   . . . using semiconductor devices in parallel with
+the load as final control devices (G05F 1/461
+    1/614   . . . . including two stages of regulation, at least
+one of which is output level responsive
+    1/618   . . . using semiconductor devices in series and in
+parallel with the load as final control devices
+    1/62    . . . using bucking or boosting dc sources
+    1/625   . . wherein it is irrelevant whether the variable
+    1/63    . . . using variable impedances in series with the
+    1/635   . . . . being Hall effect devices, magnetoresistors
+    1/644   . . . . being pressure-sensitive resistors
+    1/648   . . . . being plural resistors among which a
+    1/652   . . . using variable impedances in parallel with the
+    1/656   . . . using variable impedances in series and in
+parallel with the load as final control devices
+    1/66    . Regulating electric power
+    1/67    . . to the maximum power available from a
+generator, e.g. from solar cell
+    1/70    . Regulating power factor; Regulating reactive
+    3/00    Non-retroactive systems for regulating electric
+variables by using an uncontrolled element,
+or an uncontrolled combination of elements,
+such element or such combination having
+self-regulating properties {(current generators
+specially designed for use in phase-locked loops
+    3/02    . Regulating voltage or current
+    3/04    . . wherein the variable is ac
+    3/06    . . . using combinations of saturated and
+unsaturated inductive devices, e.g. combined
+    3/08    . . wherein the variable is dc
+    3/10    . . . using uncontrolled devices with non-linear
+    3/12    . . . . being glow discharge tubes
+    3/16    . . . . being semiconductor devices
+    3/18    . . . . . using Zener diodes
+    3/185   . . . . . . {and field-effect transistors}
+    3/20    . . . . . using diode- transistor combinations
+    3/205   . . . . . . {Substrate bias-voltage generators (for
+    3/22    . . . . . . wherein the transistors are of the bipolar
+type only (G05F 3/26, G05F 3/30 take
+    3/222   . . . . . . . {with compensation for device
+parameters, e.g. Early effect, gain,
+manufacturing process, or external
+variations, e.g. temperature, loading,
+    3/225   . . . . . . . . {producing a current or voltage as
+a predetermined function of the
+    3/227   . . . . . . . . {producing a current or voltage as
+a predetermined function of the
+    3/24    . . . . . . wherein the transistors are of the
+field-effect type only (G05F 3/205,
+G05F 3/26, G05F 3/30 take precedence)
+    3/242   . . . . . . . {with compensation for device
+processing, or external variations, e.g.
+temperature, loading, supply voltage}
+    3/245   . . . . . . . . {producing a voltage or current as
+a predetermined function of the
+    3/247   . . . . . . . . {producing a voltage or current as
+a predetermined function of the
+    3/26    . . . . . . Current mirrors
+    3/262   . . . . . . . {using field-effect transistors only}
+    3/265   . . . . . . . {using bipolar transistors only}
+    3/267   . . . . . . . {using both bipolar and field-effect
+    3/30    . . . . . . Regulators using the difference between
+the base-emitter voltages of two bipolar
+transistors operating at different current
+densities (G05F 3/26 takes precedence)
+    5/00    Systems for regulating electric variables by
+detecting deviations in the electric input to the
+system and thereby controlling a device within the
+system to obtain a regulated output
+    7/00    Regulating magnetic variables (details of apparatus
+for measuring magnetic variables involving magnetic

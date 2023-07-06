@@ -1,0 +1,214 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+MACHINE TOOLS; METAL-WORKING NOT OTHERWISE PROVIDED FOR
+MAKING GEARS OR TOOTHED RACKS (by stamping B21D; by rolling B21H; by forging
+or pressing B21K; by casting B22; arrangements for copying or controlling B23Q; machines or
+devices for grinding or polishing, in general B24B)
+• the use of methods or apparatus specially designed to produce accurately the shapes of gear teeth which are essential for
+proper intermeshing of toothed gearing elements to ensure the required relative motions;
+• the use of similar methods or apparatus in the production of other articles of toothed or like form, e.g. dog clutches, splined
+2. This subclass does not cover the production of such other articles of toothed or like form using methods or apparatus other
+than those mentioned under Note (1) above.
+3. In this subclass, the following terms or expressions are used with the meanings indicated:
+• "gear teeth" covers the teeth or lobes of other accurately-intermeshing members having relative movement of a similar
+kind, such as rotors of rotary pumps and blowers;
+• "profile" may include the outline of both faces or only one face of a tooth, or the opposing faces of adjacent teeth;
+• "straight" means that a tooth as a whole (ignoring any curvature of the tooth-face alone, e.g. crowning) is straight in the
+direction of its length, for example as seen in the direction of a radius of a spur wheel. It accordingly includes the teeth of
+helical gears and of the normal type of bevel gear;
+• "broach-milling" means milling with a rotary cutter having a number of teeth of progressively increasing depth or width.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Making gear teeth by tools of which the profile
+matches the profile of the required surface (special
+adaptations for making curved teeth B23F 9/00)
+    1/023   . . {the tool being a grinding worm}
+    1/026   . . {with plural tools}
+    1/04    . by planing or slotting
+    1/065   . . {with plural tools}
+    1/08    . by broaching; by broach-milling
+    1/083   . . {by broach-milling}
+    1/086   . . {Pot broaching}
+    3/00    Making gear teeth involving copying operations
+controlled by templates having a profile which
+matches that of the required tooth face or part
+thereof or a copy thereof to a different scale
+(copying systems or devices per se B23Q 35/00)
+    5/00    Making straight gear teeth involving moving a tool
+relatively to a workpiece with a rolling-off or an
+enveloping motion with respect to the gear teeth to
+    5/04    . . the tool being a grinding worm
+    5/06    . . the tool being a grinding disc with a plane front
+    5/065   . . . {and the grinding disc axis varying angularly
+with respect to the workpiece axis}
+    5/08    . . the tool being a grinding disc having the same
+profile as the tooth or teeth of a rack
+    5/085   . . . {and the grinding disc axis varying angularly
+with respect to the workpiece axis}
+    5/10    . . the tool being a grinding disc having the same
+profile as the tooth or teeth of a crown or bevel
+    5/12    . by planing or slotting
+    5/125   . . {with two single-tooth tools mounted on
+    5/14    . . the tool having the same profile as a tooth or teeth
+    5/16    . . the tool having a shape similar to that of a spur
+    5/163   . . . {the tool and workpiece being in crossed
+axis arrangement, e.g. skiving, i.e.
+    5/166   . . . {with plural tools}
+    5/18    . . the tool having the same profile as a tooth of a
+    5/202   . . {the tool having a shape similar to that of a gear
+or part thereof, with cutting edges situated on the
+tooth contour lines (tools therefor B23F 21/122)}
+    5/205   . . {with plural tools}
+    5/207   . . . {the tools being interlocked}
+    5/22    . . the tool being a hob for making spur gears
+    5/24    . . the tool being a hob for making bevel gears
+    5/26    . . the tool having the same profile as a tooth or teeth
+of a rack, for making spur gears
+    5/27    . . the tool having the same profile as a tooth or teeth
+    5/28    . by broaching; by broach-milling
+    5/285   . . {broaching with working tools mounted on an
+    7/00    Making herringbone gear teeth
+    9/00    Making gears having teeth curved in their
+    9/006   . . {broaching with working tools mounted on an
+    9/025   . . {with a face-mill-type, i.e. cup-shaped, grinding
+    9/04    . by planing or slotting with reciprocating cutting
+    9/06    . . having a shape similar to a spur-wheel or part
+    9/07    . . having a shape similar to a crown wheel or a part
+    9/08    . by milling, e.g. with helicoidal hob
+    9/084   . . . {the hob being tapered}
+    9/086   . . {with two or more tools}
+    9/088   . . . {the tools being interlocked}
+    9/10    . . with a face-mill
+    9/105   . . . {with continuous indexing, i.e. with continuous
+    9/12    . . . for non-continuous generating processes
+    9/14    . . . for continuous generating processes
+   11/00    Making worm wheels, e.g. by hobbing
+   13/00    Making worms by methods essentially requiring
+the use of machines of the gear-cutting type
+   13/003   . {making worms of conical or barrel shape}
+   13/02    . Making worms of cylindrical shape
+   13/06    . Making worms of globoidal shape
+   15/00    Methods or machines for making gear
+wheels of special kinds not covered by groups
+   15/005   . {Making sprocket teeth}
+   15/02    . Making gear teeth on wheels of varying radius of
+operation, e.g. on elliptical wheels
+   15/04    . Making fine-pitch gear teeth on clock wheels or the
+   15/06    . Making gear teeth on the front surface of wheels,
+e.g. for clutches or couplings with toothed faces
+   15/08    . Making intermeshing rotors, e.g. of pumps
+   17/00    Special methods or machines for making gear
+teeth, not covered by the preceding groups
+   17/001   . {for making gear pairs}
+   17/003   . {for dry cutting}
+   17/005   . {for machining tooth fillet or tooth root}
+   17/006   . {using different machines or machining operations}
+   17/008   . . {Features relating to transfer of work gears
+between different work stations}
+   19/00    Finishing gear teeth by other tools than those used
+   19/002   . {Modifying the theoretical tooth flank form, e.g.
+crowning (B23F 19/10 takes precedence)}
+   19/005   . . {using a face-mill-type tool, e.g. a milling or a
+   19/007   . . {using a gear-shaped tool}
+   19/02    . Lapping gear teeth
+   19/025   . . {Lapping bevel gears by making use of a
+correspondingly shaped counterpart}
+   19/04    . . Lapping spur gears by making use of a
+correspondingly shaped counterpart
+   19/045   . . . {the counterpart having internal toothing}
+   19/05    . Honing gear teeth
+   19/052   . . {by making use of a tool in the shape of a worm}
+   19/055   . . {by making use of a tool in the shape of a bevel
+   19/057   . . {by making use of a tool in the shape of an
+   19/06    . Shaving the faces of gear teeth
+   19/063   . . {by making use of a tool in the shape of an
+   19/066   . . {with plural tools}
+   19/10    . Chamfering the end edges of gear teeth
+   19/104   . . . {the tool being a hob}
+   19/105   . . . {the tool being an end mill}
+   19/107   . . . {the tool being a fly cutter}
+   19/125   . . . {the tool being a grinding worm}
+   21/00    Tools specially adapted for use in machines for
+   21/005   . {with plural tools on a common axis}
+   21/02    . Grinding discs; Grinding worms (truing grinding
+tools B24B; grinding tools in general B24D)
+   21/023   . . {Face-mill-type, i.e. cup-shaped, grinding
+   21/026   . . {Grinding worms}
+   21/04    . Planing or slotting tools
+   21/043   . . {with inserted cutting elements}
+   21/046   . . . {in exchangeable arrangement}
+   21/06    . . having a profile which matches a gear tooth
+   21/063   . . . {with inserted cutting elements}
+   21/066   . . . . {in exchangeable arrangement}
+   21/08    . . having the same profile as a tooth or teeth of a
+   21/083   . . . {with inserted cutting elements}
+   21/086   . . . . {in exchangeable arrangement}
+   21/10    . . Gear-shaper cutters having a shape similar to a
+   21/103   . . . {with inserted cutting elements}
+   21/106   . . . . {in exchangeable arrangement}
+   21/122   . . {having a shape similar to that of a gear or part
+thereof, with cutting edges situated on the tooth
+   21/124   . . {with cutting teeth disposed on the inner
+   21/126   . . {with inserted cutting elements}
+   21/128   . . . {in exchangeable arrangement}
+   21/14    . . Profile cutters of disc type
+   21/143   . . . {with inserted cutting elements}
+   21/146   . . . . {in exchangeable arrangement}
+   21/163   . . . {with inserted cutting elements}
+   21/166   . . . . {in exchangeable arrangement}
+   21/18    . . . Taper hobs, e.g. for bevel gears
+   21/183   . . . . {with inserted cutting elements}
+   21/186   . . . . . {in exchangeable arrangement}
+   21/203   . . . {with inserted cutting elements}
+   21/206   . . . . {in exchangeable arrangement}
+   21/22    . . Face-mills for longitudinally-curved gear teeth
+   21/223   . . . {with inserted cutting elements}
+   21/226   . . . . {in exchangeable arrangement}
+   21/23    . . . with cutter teeth arranged on a spiral curve for
+continuous generating processes
+   21/233   . . . . {with inserted cutting elements}
+   21/236   . . . . . {in exchangeable arrangement}
+   21/24    . Broach-milling tools
+   21/241   . . {with inserted cutting elements}
+   21/243   . . . {in exchangeable arrangement}
+   21/245   . . {Face broach mills}
+   21/246   . . . {with inserted cutting elements}
+   21/248   . . . . {in exchangeable arrangement}
+   21/262   . . {with inserted cutting elements (B23F 21/266 and
+   21/264   . . . {in exchangeable arrangement}
+   21/266   . . {mounted on an endless chain or belt}
+   21/282   . . {with inserted cutting elements}
+   21/284   . . . {in exchangeable arrangement}
+   21/286   . . {having the shape of an internal gear}
+   21/288   . . {the cutting edges on consecutive teeth being
+   23/00    Accessories or equipment combined with or
+arranged in, or specially designed to form part of,
+gear-cutting machines (tool-guiding mechanisms,
+see the relevant groups for making gear teeth;
+accessories or equipment not restricted to gear-cutting
+   23/003   . {Generating mechanisms}
+   23/006   . {Equipment for synchronising movement of cutting
+tool and workpiece, the cutting tool and workpiece
+not being mechanically coupled}
+   23/02    . Loading, {unloading} or chucking arrangements for
+   23/04    . . Loading {or unloading} arrangements
+   23/06    . . Chucking arrangements
+   23/085   . . {of the continuous type}
+   23/10    . Arrangements for compensating irregularities in
+   23/12    . Other devices, e.g. tool holders; Checking devices
+for controlling workpieces in machines for
+   23/1206  . . {Tool mountings}
+   23/1212  . . . {using fluid pressure means}
+   23/1218  . . {Checking devices for controlling workpieces in
+machines for manufacturing gear teeth}
+   23/1225  . . {Arrangements of abrasive wheel dressing
+devices on gear-cutting machines (dressing
+   23/1231  . . . {using a gear-shaped dressing tool}
+   23/1243  . . . {Hob holders}
+   23/125   . . . {Face mill holders}
+   23/1256  . . . {Rack cutter holders}
+   23/1262  . . . {Grinding disc holders; Disc-type milling-
+   23/1268  . . . {Face-mill-type grinding wheel holders}
+   23/1275  . . . {Grinding or honing worm holders}
+   23/1281  . . . {Honing, shaving or lapping tool holders}
+   23/1287  . . . {Pinion shaper cutter holders}
+   23/1293  . . {Workpiece heads}

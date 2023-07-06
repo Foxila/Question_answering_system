@@ -1,0 +1,1469 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+MACHINE TOOLS; METAL-WORKING NOT OTHERWISE PROVIDED FOR
+TURNING; BORING (arrangements for copying or controlling B23Q)
+The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+B23Q 1/01; B23Q 1/03; B23Q 1/25
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Methods for turning or working essentially
+requiring the use of turning-machines; Use of
+auxiliary equipment in connection with such
+    3/00    General-purpose turning-machines or devices, e.g.
+centre lathes with feed rod and lead screw; Sets of
+    3/02    . Small lathes, e.g. for toolmakers (specially designed
+    3/04    . Turning-machines in which the workpiece is rotated
+by means at a distance from the headstock
+    3/06    . Turning-machines or devices characterised only
+by the special arrangement of constructional units
+(B23Q 37/00 takes precedence; structural features
+of details, see the relevant groups; such features of
+    3/065   . . {Arrangements for performing other machining
+operations, e.g. milling, drilling}
+    3/08    . Turning-machines characterised by the use of
+    3/10    . . with the faceplate horizontal, i.e. vertical boring
+    3/12    . . with the faceplate vertical, i.e. face lathes
+    3/14    . . Mountings or drives of faceplates {(rotatable
+members, e.g. faceplates B23Q 1/50)}
+    3/16    . Turret lathes for turning individually-chucked
+workpieces {(turrets B23B 29/24)}
+    3/161   . . {lathe with one toolslide carrying one turret head}
+    3/162   . . . {Arrangements for performing other machining
+operations, e.g. milling, drilling}
+    3/164   . . {lathe with one toolslide carrying two or more
+    3/165   . . . {Arrangements for performing other machining
+operations, e.g. milling, drilling}
+    3/167   . . {lathe with two or more toolslides carrying
+    3/168   . . . {Arrangements for performing other machining
+operations, e.g. milling, drilling}
+    3/22    . Turning-machines or devices with rotary tool heads
+{(B23B 5/08, B23B 5/14 and B23B 5/16 take
+    3/24    . . the tools of which do not perform a radial
+movement; Rotary tool heads therefor
+    3/26    . . the tools of which perform a radial movement;
+    3/265   . . . {Surfacing or grooving flanges}
+    3/30    . Turning-machines with two or more working-
+spindles, e.g. in fixed arrangement
+    3/32    . . for performing identical operations
+simultaneously on two or more workpieces
+    3/34    . Short turning-machines with one or multiple
+working-spindles attended from the end (B23B 3/12
+    3/36    . Associations of only turning-machines directed
+to a particular metal-working result (if the metal-
+working result is not essential B23Q 39/00)
+    5/00    Turning-machines or devices specially adapted
+for particular work; Accessories specially adapted
+    5/02    . for turning hubs or brake drums (B23B 5/04 takes
+    5/04    . for reconditioning hubs or brake drums or axle
+spindles without removing same from the vehicle
+    5/06    . for turning valves or valve bodies {(turning conical
+surfaces in general B23B 5/38; tools for working
+    5/08    . for turning axles, bars, rods, tubes, rolls, i.e. shaft-
+turning lathes, roll lathes; Centreless turning
+    5/10    . . for turning pilgrim rolls
+    5/12    . . for peeling bars or tubes by making use of cutting
+bits arranged around the workpiece (otherwise
+    5/14    . Cutting-off lathes ({B23D 21/00 takes precedence}
+    5/16    . for bevelling, chamfering, or deburring the ends of
+    5/161   . . {Devices attached to the workpiece}
+    5/162   . . . {with an internal clamping device}
+    5/163   . . . {with an external clamping device}
+    5/165   . . {Workpieces clamped on a bench, e.g. a vice}
+    5/166   . . {Devices for working electrodes}
+    5/167   . . {Tools for chamfering the ends of bars or tubes}
+    5/168   . . . {with guiding devices}
+    5/18    . for turning crankshafts, eccentrics, or cams, e.g.
+    5/20    . . without removing same from the engine
+    5/26    . for simultaneously turning internal and external
+    5/28    . for turning wheels or wheel sets or cranks thereon,
+    5/32    . . for reconditioning wheel sets without removing
+same from the vehicle; Underfloor wheel lathes
+    5/36    . for turning specially-shaped surfaces by making use
+of relative movement of the tool and work produced
+by geometrical mechanisms, i.e. forming-lathes
+    5/365   . . {for toroidal surfaces}
+    5/38    . . for turning conical surfaces inside or outside, e.g.
+taper pins {(for turning valves or valve bodies
+    5/40    . . for turning spherical surfaces inside or outside
+    5/46    . . for turning helical or spiral surfaces (thread
+    5/48    . . . for cutting grooves, e.g. oil grooves of
+    7/00    Automatic or semi-automatic turning-machines
+with a single working-spindle, e.g. controlled by
+cams; Equipment therefor; Features common to
+automatic and semi-automatic turning-machines
+with one or more working-spindles {(arrangements
+or accessories for enabling machine tools not
+specially designed only for thread cutting to be used
+    7/02    . Automatic or semi-automatic machines for turning
+    7/04    . . Turret machines
+    7/06    . . with sliding headstock
+    7/10    . . Accessories, e.g. guards {(guards B23Q 11/08
+    7/12    . Automatic or semi-automatic machines for turning
+    9/00    Automatic or semi-automatic turning-machines
+with a plurality of working-spindles, e.g.
+automatic multiple-spindle machines with spindles
+arranged in a drum carrier able to be moved into
+predetermined positions; Equipment therefor
+(equipment applicable to single-spindle machines
+    9/005   . {Spindle carriers: constructional details, drives for
+    9/02    . Automatic or semi-automatic machines for turning
+    9/08    . Automatic or semi-automatic machines for turning
+   11/00    Automatic or semi-automatic turning-machines
+incorporating equipment for performing other
+working procedures, e.g. slotting, milling, rolling
+{(B23B 3/065 and B23B 3/16 take precedence;
+machines incorporating a plurality of sub- assemblies,
+each capable of performing a metal-working
+operation, the sub-assemblies being arranged
+to operate simultaneously at different stations
+   13/00    Arrangements for automatically conveying or
+   13/02    . for turning-machines with a single working-spindle
+   13/021   . . {Feeding device having intermittent movement}
+   13/022   . . . {being placed in the spindle}
+   13/024   . . . . {including two collets}
+   13/025   . . {with stock drum}
+   13/027   . . {Feeding by pistons under fluid-pressure}
+   13/028   . . {the material being fed from a reel}
+   13/04    . for turning-machines with a plurality of working-
+   13/06    . Arrangements for switching-off the drive of turning-
+machines after the stock has been completely
+   13/08    . Arrangements for reducing vibrations in feeding-
+passages or for damping noise (damping noise in
+   13/10    . with magazines for stock
+   13/12    . Accessories, e.g. stops, grippers
+   13/121   . . {Stops (stops for equipment for precise
+positioning of tool or work into particular
+locations not otherwise provided for
+   13/123   . . {Grippers, pushers or guiding tubes
+(arrangements for reducing vibrations in feeding-
+passages or for damping noise B23B 13/08)}
+   13/125   . . . {Feed collets (feeding device having
+intermittent movement being placed in the
+spindle including two collets B23B 13/024;
+   13/128   . . {Stock rest handling devices, e.g. ejectors}
+Components or accessories particularly for turning machines
+   23/00    Tailstocks; Centres {(for grinding machines
+   23/005   . {the centres being adjustable}
+   23/025   . . {the centres being adjustable}
+   23/045   . . {the centres being adjustable}
+   25/00    Accessories or auxiliary equipment for turning-
+machines (for machine tools in general B23Q;
+cooling or lubricating B23Q 11/12)
+   25/02    . Arrangements for chip-breaking in turning-
+machines (on cutting tools B23B 27/22)
+   25/04    . Safety guards specially designed for turning
+machines ({B23Q 11/08 takes precedence;} in
+   25/06    . Measuring, gauging, or adjusting equipment
+on turning-machines for setting-on, feeding,
+controlling, or monitoring the cutting tools or work
+(measuring devices or gauges G01B)
+   25/065   . . {Tool setting height gauges}
+   27/00    Tools for turning or boring machines (for drilling
+machines B23B 51/00); Tools of a similar kind in
+all subgroups except B23B 27/12 relate to tools
+   27/002   . {with vibration damping means}
+   27/005   . {Geometry of the chip-forming or the clearance
+planes, e.g. tool angles (B23B 27/141 and
+   27/007   . {for internal turning (boring bars B23B 29/02,
+boring heads B23B 29/03; milling cutters
+B23C 5/00; reamers B23D 77/00)}
+   27/02    . Cutting tools with straight main part and cutting
+edge at an angle (B23B 27/04 - B23B 27/08 take
+   27/04    . Cutting-off tools (B23B 27/08 takes precedence {;
+toolholders for cutting-off inserts B23B 29/043})
+   27/045   . . {with chip-breaking arrangements}
+   27/06    . Profile cutting tools, i.e. forming-tools
+   27/065   . . {Thread-turning tools}
+   27/08    . Cutting tools with blade- or disc-like main parts
+{(with disc-like main parts B23B 27/083)}
+   27/083   . . {Cutting tools with disc-like main parts}
+   27/086   . . {with yieldable support for the cutting insert}
+   27/10    . Cutting tools with special provision for cooling
+{(drills with lubricating or cooling equipment
+B23B 51/06; features relating to lubricating or
+cooling of milling cutters B23C 5/28; arrangements
+or devices for cooling or lubricating tools or work
+   27/12    . . with a continuously-rotated circular cutting edge;
+   27/14    . Cutting tools of which the bits or tips {or cutting
+inserts} are of special material
+3Components or accessories particularly for turning machines
+   27/141   . . {Specially shaped plate-like cutting inserts, i.e.
+length greater or equal to width, width greater
+than or equal to thickness (with specially shaped
+plate-like exchangeable cutting inserts, e.g. chip-
+breaking groove, B23B 27/1603; with removable
+plate-like milling cutting inserts of special shape
+   27/143   . . . {characterised by having chip-breakers}
+   27/145   . . . {characterised by having a special shape}
+   27/146   . . . . {Means to improve the adhesion between the
+   27/148   . . {Composition of the cutting inserts}
+   27/16    . . with exchangeable cutting bits {or cutting
+inserts}, e.g. able to be clamped
+   27/1603  . . . {with specially shaped plate-like exchangeable
+cutting inserts, e.g. chip-breaking groove
+(B23B 27/1614 - B23B 27/1655 take
+   27/1607  . . . . {characterised by having chip-breakers}
+   27/1611  . . . . {characterised by having a special shape}
+   27/1614  . . . {with plate-like cutting inserts of special shape
+clamped against the walls of the recess in the
+shank by a clamping member acting upon the
+wall of a hole in the insert (B23B 27/1644 takes
+   27/1618  . . . . {characterised by having chip-breakers}
+   27/1622  . . . . {characterised by having a special shape}
+   27/1625  . . . {with plate-like cutting inserts of special shape
+clamped by a clamping member acting almost
+perpendicularly on the chip-forming plane
+(B23B 27/1644 takes precedence)}
+   27/1629  . . . . {in which the clamping member breaks the
+   27/1633  . . . . {in which the chip-breaking clamping
+   27/1637  . . . . {characterised by having chip-breakers}
+   27/164   . . . . {characterised by having a special shape}
+   27/1644  . . . {with plate-like cutting inserts of special shape
+clamped by a clamping member acting almost
+perpendicularly on the chip-forming plane and
+at the same time upon the wall of a hole in the
+   27/1648  . . . . {characterised by having chip-breakers}
+   27/1651  . . . . {characterised by having a special shape}
+   27/1655  . . . {Adjustable position of the plate-like cutting
+   27/1659  . . . {with plate-like exchangeable cutting
+inserts (B23B 27/1662 - B23B 27/1681 take
+   27/1662  . . . {with plate-like cutting inserts clamped against
+the walls of the recess in the shank by a
+clamping member acting upon the wall of a
+hole in the cutting insert (B23B 27/1677 takes
+   27/1666  . . . {with plate-like cutting inserts clamped
+by a clamping member acting almost
+perpendicularly on chip-forming plane
+(B23B 27/1677 takes precedence)}
+   27/167   . . . . {in which the clamping member breaks the
+   27/1674  . . . . {in which the chip-breaking clamping
+   27/1677  . . . {with plate-like cutting inserts clamped
+by a clamping member acting almost
+perpendicularly on the chip-forming plane and
+at the same time upon the wall of a hole in the
+   27/1681  . . . {Adjustable position of the plate-like cutting
+   27/1685  . . . {Adjustable position of the cutting inserts
+(B23B 27/1655 and B23B 27/1681 take
+   27/1688  . . . . {Height of the cutting tip adjustable}
+   27/1692  . . . . {Angular position of the cutting insert
+adjustable around an axis parallel to the chip-
+   27/1696  . . . . {Angular position of the cutting insert
+adjustable around an axis generally
+perpendicularly to the chip-forming plane}
+   27/18    . . with cutting bits or tips {or cutting inserts} rigidly
+   27/20    . . . with diamond bits {or cutting inserts}
+   27/22    . Cutting tools with chip-breaking equipment
+{(B23B 27/045, B23B 27/143, B23B 27/16 take
+precedence; arrangements for chip-breaking
+B23B 25/02; for milling tools B23C 5/165)}
+   29/00    Holders for non-rotary cutting tools (B23B 27/12
+takes precedence); Boring bars or boring heads;
+   29/022   . . {with vibration reducing means}
+   29/025   . . {Boring toolholders fixed on the boring bar}
+   29/027   . . {Steadies for boring bars (auxiliary devices, e.g.
+   29/034   . . with tools moving radially, e.g. for making
+   29/03403 . . . {radially adjustable before starting
+   29/03407 . . . . {by means of screws and nuts}
+   29/0341  . . . . . {Cartridges}
+   29/03414 . . . . . {adjustment of the tool placed in the hole
+   29/03417 . . . . {by means of inclined planes}
+   29/03421 . . . . {by pivoting the tool carriers or by elastic
+   29/03425 . . . . {by means of gears and racks}
+   29/03428 . . . . {by means of an eccentric}
+   29/03432 . . . {radially adjustable during manufacturing}
+   29/03435 . . . . {by means of screws and nuts}
+   29/03439 . . . . . {Boring and facing heads}
+   29/03442 . . . . . {Grooving tool}
+   29/03446 . . . . {by means of inclined planes}
+   29/0345  . . . . . {Boring and facing heads}
+   29/03453 . . . . . {Grooving tool}
+   29/03457 . . . . {by pivoting the tool carriers or by elastic
+   29/0346  . . . . . {Boring and facing heads}
+   29/03464 . . . . . {Grooving tool}
+   29/03467 . . . . {by means of gears and racks}
+   29/03471 . . . . . {Boring and facing heads}
+   29/03475 . . . . . {Grooving tool}
+   29/03478 . . . . {by means of an eccentric}
+   29/03482 . . . . . {Boring and facing heads}
+4Components or accessories particularly for turning machines
+   29/03485 . . . . . {Grooving tool}
+   29/03489 . . . . {Adjustment means not specified
+   29/03492 . . . . . {Boring and facing heads}
+   29/03496 . . . . . {Grooving tool}
+   29/04    . Tool holders for a single cutting tool
+   29/043   . . {with cutting-off, grooving or profile cutting
+tools, i.e. blade- or disc-like main cutting parts
+   29/046   . . {with an intermediary toolholder}
+   29/06    . . Tool holders equipped with longitudinally-
+arranged grooves for setting the cutting tool
+   29/08    . . Tool holders equipped with grooves arranged
+crosswise to the longitudinal direction for setting
+   29/10    . . . with adjustable counterbase for the cutting tool
+   29/12    . . Special arrangements on tool holders
+   29/125   . . . {Vibratory toolholders}
+   29/14    . . . affording a yielding support of the cutting
+tool, e.g. by spring clamping {(cutting tools
+with yieldable support for the cutting insert
+   29/16    . . . for supporting the workpiece in a backrest
+   29/18    . . . for retracting the cutting tool
+   29/20    . . . for placing same by shanks in sleeves of a
+   29/205   . . . . {the tools being adjustable}
+   29/22    . . . for tool adjustment by means of shims or
+   29/24    . Tool holders for a plurality of cutting tools, e.g.
+turrets {(indexing devices B23Q 16/00)}
+   29/242   . . {Turrets, without description of the angular
+positioning device (turret lathes for turning
+individually-chucked workpieces B23B 3/16;
+turrets with manually operated angular
+positioning devices B23B 29/282; turrets with
+power operated angular positioning devices
+   29/244   . . {Toolposts, i.e. clamping quick-change
+toolholders, without description of the
+angular positioning device (toolposts with
+manually operated angular positioning devices
+B23B 29/285; toolposts with power operated
+angular positioning devices B23B 29/326)}
+   29/246   . . . {Quick-change tool holders}
+   29/248   . . {with individually adjustable toolholders}
+   29/26    . . Tool holders in fixed position
+   29/28    . . Turrets manually adjustable about a vertical
+{or horizontal} pivot {(indexing devices
+   29/282   . . . {Turrets with manually operated angular
+   29/285   . . . {Toolposts with manually operated angular
+   29/287   . . . {Turret toolholder with manually operated
+   29/32    . . Turrets adjustable by power drive, i.e. turret
+heads {(indexing devices B23Q 16/00)}
+   29/323   . . . {Turrets with power operated angular
+   29/326   . . . {Toolposts with power operated angular
+   29/34    . . Turrets equipped with triggers for releasing the
+   31/00    Chucks {(allowing axial oscillation of percussion
+tool bits B25D 17/08)}; Expansion mandrels;
+Adaptations thereof for remote control (faceplates
+B23Q 1/50; rotary devices holding by magnetic
+and/or electrical force acting directly on work
+   31/001   . {Protection against entering of chips or dust}
+   31/003   . {Work or tool ejection means}
+   31/005   . {Cylindrical shanks of tools}
+   31/006   . {Conical shanks of tools}
+   31/008   . {with arrangements for transmitting torque}
+   31/023   . . {for screw-threads}
+   31/026   . . {the radial or angular position of the tool being
+adjustable (boring heads with tools moving
+radially B23B 29/034; holding tools yieldably
+B23B 31/08; with means for adjusting the chuck
+with respect to the working spindle B23B 31/36)}
+   31/0261  . . . {for centering the tool}
+   31/028   . . {the axial positioning of the tool being adjustable
+(B23B 31/208 takes precedence; with means for
+adjusting the chuck with respect to the working
+   31/06    . . Features relating to the removal of tools;
+   31/07    . . . Ejector wedges
+   31/08    . . holding tools yieldably
+   31/086   . . . . {having an overload clutch}
+   31/10    . . characterised by the retaining or gripping devices
+or their immediate operating means
+Group B23B 31/12 takes precedence
+B23B 31/102,}B23B 31/103 - B23B 31/117
+   31/101   . . . {Chucks with separately-acting jaws movable
+radially (B23B 31/1602, B23B 31/16062,
+B23B 31/1625 and B23B 31/16283 take
+precedence; Chucks with simultaneously acting
+jaws moving radially B23B 31/16)}
+   31/102   . . . {Jaws, accessories or adjustment means
+B23B 31/16237, B23B 31/1627 take
+   31/103   . . . Retention by pivotal elements, e.g. catches,
+   31/107   . . . Retention by laterally-acting detents, e.g. pins,
+screws, wedges; Retention by loose elements,
+   31/1071  . . . . {Retention by balls (balls acting as jaws
+   31/1072  . . . . {Retention by axially or circumferentially
+oriented cylindrical elements (cylindrical
+elements acting as jaws B23B 31/22)}
+5Components or accessories particularly for turning machines
+   31/1073  . . . . {Retention by conical elements (conical
+elements acting as jaws B23B 31/22)}
+   31/10741 . . . . {Retention by substantially radially oriented
+   31/1075  . . . . {Retention by screws}
+   31/1076  . . . . . {with conical ends}
+   31/1077  . . . . . {acting on a floating pin}
+   31/1078  . . . . {Retention by wedges}
+   31/1079  . . . . {Retention by spring or wire}
+   31/11    . . . Retention by threaded connection
+   31/1107  . . . . {for conical parts}
+   31/1115  . . . . . {using conical threads}
+   31/1122  . . . . . {using cylindrical threads}
+   31/113   . . . Retention by bayonet connection
+   31/117   . . . Retention by friction only, e.g. using springs,
+   31/1171  . . . . {not used, see subgroups and B23B 31/117}
+   31/1172  . . . . . {using fluid-pressure means to actuate the
+   31/1173  . . . . {using springs}
+   31/1174  . . . . . {using fluid-pressure means to actuate the
+   31/1175  . . . . {using elastomer rings or sleeves}
+   31/1176  . . . . . {using fluid-pressure means to actuate the
+   31/1177  . . . . {using resilient metallic rings or sleeves}
+   31/1178  . . . . . {using fluid-pressure means to actuate the
+   31/1179  . . . . {using heating and cooling}
+   31/12    . . . Chucks with simultaneously-acting jaws,
+whether or not also individually adjustable
+   31/1207  . . . . {moving obliquely to the axis of the chuck in
+   31/1215  . . . . . {Details of the jaws}
+   31/1223  . . . . . {using fluid-pressure means in the chuck
+   31/123   . . . . . {with locking arrangements (locking
+simultaneously-acting jaws moving
+radially actuated by one or more spiral
+   31/1238  . . . . . {Jaws movement actuated by a nut with
+   31/1246  . . . . . {Jaws movement actuated by a bolt with
+   31/1253  . . . . . {Jaws movement actuated by an axially
+   31/1261  . . . . {pivotally movable in a radial plane}
+   31/1269  . . . . . {Details of the jaws}
+   31/1276  . . . . . {using fluid-pressure means to actuate the
+   31/1284  . . . . . {with a centre}
+   31/1292  . . . . . {using mechanical transmission through
+   31/14    . . . . involving the use of centrifugal force
+   31/141   . . . . . {To counterbalance the jaws}
+   31/142   . . . . . {To grip a tool or workpiece}
+   31/16    . . . . moving radially
+   31/16004 . . . . . {Jaws movement actuated by one or more
+   31/16008 . . . . . . {Details of the jaws}
+   31/16012 . . . . . . . {Form of the jaws}
+   31/16016 . . . . . . . {Fixation on the master jaw}
+   31/1602  . . . . . . . {Individually adjustable jaws}
+   31/16025 . . . . . . {using fluid-pressure means to actuate
+   31/16029 . . . . . . . {using mechanical transmission
+   31/16033 . . . . . . {with a centre}
+   31/16037 . . . . . . {using mechanical transmission through
+the spindle (B23B 31/16029 takes
+   31/16041 . . . . . . {with locking arrangements (locking
+simultaneously-acting jaws moving
+obliquely to the axis of the chuck
+in a plane containing this axis
+   31/16045 . . . . . {Jaws movement actuated by screws and
+   31/1605  . . . . . . {Details of the jaws}
+   31/16054 . . . . . . . {Form of the jaws}
+   31/16058 . . . . . . . {Fixation on the master jaw}
+   31/16062 . . . . . . . {Individually adjustable jaws}
+   31/16066 . . . . . . {using fluid-pressure means to actuate
+   31/1607  . . . . . . . {using mechanical transmission
+   31/16075 . . . . . . {with a centre}
+   31/16079 . . . . . . {using mechanical transmission through
+the spindle (B23B 31/1607 takes
+   31/16083 . . . . . {Jaws movement actuated by gears and
+   31/16087 . . . . . . {Details of the jaws}
+   31/16091 . . . . . . . {Form of the jaws}
+   31/16095 . . . . . . . {Fixation on the master jaw}
+   31/161   . . . . . . . {Individually adjustable jaws}
+   31/16104 . . . . . . {using fluid-pressure means to actuate
+   31/16108 . . . . . . . {using mechanical transmission
+   31/16112 . . . . . . {with a centre}
+   31/16116 . . . . . . {using mechanical transmission through
+the spindle (B23B 31/16108 takes
+   31/1612  . . . . . {Jaws movement actuated by cam surface
+   31/16125 . . . . . . {Details of the jaws}
+   31/16129 . . . . . . . {Form of the jaws}
+   31/16133 . . . . . . . {Fixation on the master jaw}
+   31/16137 . . . . . . . {Individually adjustable jaws}
+   31/16141 . . . . . . {using fluid-pressure means to actuate
+   31/16145 . . . . . . . {using mechanical transmission
+   31/1615  . . . . . . {with a centre}
+   31/16154 . . . . . . {using mechanical transmission through
+the spindle (B23B 31/16145 takes
+   31/16158 . . . . . {Jaws movement actuated by coaxial
+   31/16162 . . . . . . {Details of the jaws}
+   31/16166 . . . . . . . {Form of the jaws}
+   31/1617  . . . . . . . {Fixation on the master jaw}
+   31/16175 . . . . . . . {Individually adjustable jaws}
+6Components or accessories particularly for turning machines
+   31/16179 . . . . . . {using fluid-pressure means to actuate
+   31/16183 . . . . . . . {using mechanical transmission
+   31/16187 . . . . . . {with a centre}
+   31/16191 . . . . . . {using mechanical transmission through
+the spindle (B23B 31/16183 takes
+   31/16195 . . . . . {Jaws movement actuated by levers
+moved by a coaxial control rod}
+   31/162   . . . . . . {Details of the jaws}
+   31/16204 . . . . . . . {Form of the jaws}
+   31/16208 . . . . . . . {Fixation on the master jaw}
+   31/16212 . . . . . . . {Individually adjustable jaws}
+   31/16216 . . . . . . {using fluid-pressure means to actuate
+   31/1622  . . . . . . . {using mechanical transmission
+   31/16225 . . . . . . {with a centre}
+   31/16229 . . . . . . {using mechanical transmission through
+the spindle (B23B 31/1622 takes
+   31/16233 . . . . . {Jaws movement actuated by oblique
+surfaces of a coaxial control rod}
+   31/16237 . . . . . . {Details of the jaws}
+   31/16241 . . . . . . . {Form of the jaws}
+   31/16245 . . . . . . . {Fixation on the master jaw}
+   31/1625  . . . . . . . {Individually adjustable jaws}
+   31/16254 . . . . . . {using fluid-pressure means to actuate
+   31/16258 . . . . . . . {using mechanical transmission
+   31/16262 . . . . . . {with a centre}
+   31/16266 . . . . . . {using mechanical transmission through
+the spindle (B23B 31/16258 takes
+   31/1627  . . . . . {Details of the jaws}
+   31/16275 . . . . . . {Form of the jaws}
+   31/16279 . . . . . . {Fixation on the master jaw}
+   31/16283 . . . . . . {Indivudually adjustable jaws}
+   31/16287 . . . . . {using fluid-pressure means to actuate the
+   31/16291 . . . . . {with a centre}
+   31/16295 . . . . . {with means preventing the ejection of the
+   31/18    . . . . pivotally movable in planes containing the
+   31/185   . . . . . {moving first parallel to the axis then
+pivotally in planes containing the axis of
+   31/19    . . . . moving parallel to the axis of the chuck
+{(B23B 31/185 takes precedence)}
+   31/20    . . . . Longitudinally-split sleeves, e.g. collet
+   31/201   . . . . . {Characterized by features relating
+primarily to remote control of the gripping
+   31/2012  . . . . . . {Threaded cam actuator}
+   31/20125 . . . . . . . {Axially fixed cam, moving jaws}
+   31/202   . . . . . . {Details of the jaws}
+   31/2025  . . . . . . . {Wherein the sleeve is split into two
+   31/204   . . . . . . {using fluid-pressure means to actuate
+the gripping means (B23B 31/207 take
+   31/206   . . . . . . {Reciprocating cam actuator
+(B23B 31/207 takes precedence)}
+   31/207   . . . . . . {using mechanical transmission through
+   31/2072  . . . . . . . {Axially moving cam, fixed jaws}
+   31/2073  . . . . . . . {Axially fixed cam, moving jaws
+(B23B 31/20125 takes precedence)}
+   31/208   . . . . . {with a tool positioning stop (axial
+positioning of the tool being adjustable
+   31/22    . . . . Jaws in the form of balls {(retention by balls
+   31/223   . . . . . {Jaws in the form of cylindrical elements
+(retention by cylindrical elements
+   31/226   . . . . . {Jaws in the form of conical elements
+   31/24    . . characterised by features relating primarily
+to remote control of the gripping means
+{(B23B 31/201 takes precedence)}
+   31/26    . . . using mechanical transmission through
+the working-spindle {(B23B 31/16 and
+   31/261   . . . . {clamping the end of the toolholder shank}
+   31/263   . . . . . {by means of balls}
+   31/265   . . . . . {by means of collets}
+   31/266   . . . . . {using a threaded spindle}
+   31/268   . . . . . {using a bayonet connection}
+   31/28    . . . using electric or magnetic means in the chuck
+   31/30    . . . using fluid-pressure means in the chuck
+{(B23B 31/10 and B23B 31/40 take
+   31/302   . . . . {Hydraulic equipment, e.g. pistons, valves,
+   31/305   . . . . {the gripping means is a deformable sleeve}
+   31/307   . . . . {Vacuum chucks}
+   31/32    . . with jaws carried by diaphragm
+   31/34    . . with means enabling the workpiece to be reversed
+   31/36    . . with means for adjusting the chuck with respect
+   31/38    . . with overload clutches {(B23B 31/086 takes
+   31/40    . Expansion mandrels
+   31/4006  . . {Gripping the work or tool by a split sleeve
+   31/4013  . . . {Details of the jaws}
+   31/402   . . . {using fluid-pressure means to actuate the
+   31/4026  . . . . {using mechanical transmission through the
+   31/4033  . . . {using mechanical transmission through the
+spindle (B23B 31/4026 takes precedence)}
+   31/404   . . {Gripping the work or tool by jaws moving
+radially controlled by conical surfaces (see also
+   31/4046  . . . {Details of the jaws}
+   31/4053  . . . {using fluid-pressure means to actuate the
+7Components or accessories particularly for turning machines
+   31/406   . . . . {using mechanical transmission through the
+   31/4066  . . . {using mechanical transmission through the
+spindle (B23B 31/406 takes precedence)}
+   31/4073  . . {Gripping the work or tool between planes almost
+   31/408   . . {Work or tool supported by two conical surfaces}
+   31/4086  . . {Work or tool gripped by a roller movable on an
+   31/4093  . . {Tube supporting means including a centerhole}
+   31/42    . . characterised by features relating primarily to
+remote control of the gripping means
+   33/00    Drivers; Driving centres, Nose clutches, e.g. lathe
+   33/005   . {Drivers with driving pins or the like}
+Boring; Drilling (for surgical purposes A61B 17/16; in metal using
+electric current B23H 9/14; by laser beam B23K 26/00; earth or rock
+   35/00    Methods for boring or drilling, or for working
+essentially requiring the use of boring or
+drilling machines; Use of auxiliary equipment in
+   35/005   . {Measures for preventing splittering}
+   37/00    Boring by making use of ultrasonic energy
+(essentially using abrasive material B24B, e.g.
+   39/00    General-purpose boring or drilling machines or
+devices; Sets of boring and/or drilling machines
+   39/003   . {Drilling machine situated underneath the
+   39/006   . {Portal drilling machines}
+   39/02    . Boring machines; Combined horizontal boring and
+   39/04    . Co-ordinate boring or drilling machines; Machines
+for making holes without previous marking
+   39/06    . . Equipment for positioning work
+   39/08    . . Devices for programme control
+   39/10    . characterised by the drive, e.g. by fluid-pressure
+   39/12    . Radial drilling machines
+   39/14    . with special provision to enable the machine or the
+drilling or boring head to be moved into any desired
+position, e.g. with respect to immovable work
+   39/16    . Drilling machines with a plurality of working-
+   39/161   . . {with parallel work spindles}
+   39/162   . . . {having gear transmissions}
+   39/163   . . . {having crank pin transmissions}
+   39/165   . . . {having universal joint transmissions}
+   39/166   . . . {having flexible shaft transmissions}
+   39/167   . . . {having belt and chain transmissions}
+   39/168   . . {with the work spindles being oblique to each
+   39/18    . . Setting work or tool carrier along a straight index
+   39/20    . . Setting work or tool carrier along a circular index
+line; Turret head drilling machines
+   39/205   . . . {Turret head drilling machines}
+   39/22    . . with working-spindles in opposite headstocks
+   39/24    . . designed for programme control
+   39/26    . in which the working position of tool or work is
+controlled by copying discrete points of a pattern
+(features of copying devices B23Q 35/02)
+   39/28    . Associations of only boring or drilling machines
+directed to a particular metal-working result (if
+not producing a particular metal-working result
+   41/00    Boring or drilling machines or devices specially
+adapted for particular work {(surgical drilling
+machines A61B 17/16)}; Accessories specially
+   41/003   . {for drilling elongated pieces, e.g. beams}
+   41/006   . . {the machining device being moved along a fixed
+   41/02    . for boring deep holes; Trepanning, e.g. of gun or
+   41/04    . for boring polygonal or other non-circular holes
+   41/06    . for boring conical holes
+   41/10    . for boring holes in steam boilers
+   41/12    . for forming working surfaces of cylinders, of
+bearings, e.g. in heads of driving rods, or of other
+   41/14    . for very small holes
+   41/16    . for boring holes with high-quality surface
+   43/00    Boring or drilling devices able to be attached
+to a machine tool, whether or not replacing an
+operative portion of the machine tool (if specially
+adapted for particular work B23B 41/00)
+   43/02    . to the tailstock of a lathe
+   45/00    Hand-held or like portable drilling machines,
+e.g. drill guns; Equipment therefor (details or
+components, e.g. casings, bodies, of portable power-
+driven tools not particularly related to the operation
+   45/001   . {Housing of the drill, e.g. handgrip}
+   45/005   . . {Flexible shafts}
+   45/006   . {Keys for operating the chucks}
+   45/008   . {Gear boxes, clutches, bearings, feeding
+   45/02    . driven by electric power
+   45/04    . driven by fluid-pressure or pneumatic power
+   45/042   . . {Turbine motors}
+   45/044   . . {Rotary vane type motors}
+   45/046   . . {Piston engines}
+   45/048   . . . {Internal combustion piston engines}
+   45/06    . driven by man-power
+   45/08    . . for drilling rails or profiled stock
+   45/10    . . by using a fiddle bow or a belt
+   45/12    . . by using a ratchet brace
+Components or accessories for boring or drilling machines
+   47/00    Constructional features of components specially
+designed for boring or drilling machines;
+Accessories therefor (working-spindles, bearing
+sleeves therefor B23Q 1/70; for machine tools in
+   47/26    . Liftable or lowerable drill heads or headstocks;
+Balancing arrangements therefor {(weight and
+flexion compensation B23Q 11/001)}
+   47/28    . Drill jigs for workpieces (equipment for setting or
+8Components or accessories for boring or drilling machines
+   47/281   . . {Jigs for drilling cylindrical parts}
+   47/282   . . {Jigs for drilling spherical parts}
+   47/284   . . {Jigs for drilling rivets or bolts}
+   47/285   . . {Jigs for drilling ski bindings}
+   47/287   . . {Jigs for drilling plate-like workpieces (templates
+for marking the position of fittings on wings or
+   47/288   . . . {involving dowelling}
+   47/30    . Additional gear with one or more working-
+spindles attachable to the main working-spindle
+and mounting the additional gear {(multi-spindle
+   47/32    . Arrangements for preventing the running-out of
+drills or fracture of drills when getting through
+   47/34    . Arrangements for removing chips out of the holes
+made; Chip- breaking arrangements attached
+to the tool {(chip-breaking in turning machines
+B23B 25/02; in turning tools B23B 27/22)}
+   49/00    Measuring or gauging equipment on boring
+machines for positioning or guiding the drill;
+Devices for indicating failure of drills during
+boring; Centering devices for holes to be bored
+(marking-out equipment B25H 7/00; measuring
+   49/001   . {Devices for detecting or indicating failure of drills}
+   49/003   . {Stops attached to drilling tools, tool holders or
+drilling machines (B23B 51/104 takes precedence)}
+   49/005   . . {Attached to the drill}
+   49/006   . . {Attached to drilling machines}
+   49/008   . . . {Attached to the nose of the drilling machines}
+   49/02    . Boring templates or bushings
+   49/023   . . {Bushings and their connection to the template}
+   49/026   . . {Boring bushing carriers attached to the
+workpiece by glue, magnets, suction devices or
+   49/04    . Devices for boring or drilling centre holes in
+   49/06    . Devices for drilling holes in brake bands or brake
+   51/00    Tools for drilling machines
+Group B23B 51/00 is impacted by reclassification
+into groups B23B 51/0002, B23B 51/0003,
+B23B 51/00035, B23B 51/0004, B23B 51/0005,
+B23B 51/0006, B23B 51/0007, B23B 51/0008,
+B23B 51/0011, B23B 51/0095, B23B 51/011 and
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   51/0002  . {Drills with connected cutting heads, e.g. with non-
+exchangeable cutting heads; Drills with a single
+insert extending across the rotational axis and
+having at least two radially extending cutting edges
+Group B23B 51/0002 is incomplete pending
+reclassification of documents from groups
+B23B 51/00, B23B 51/02, B23B 2251/50 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   51/0003  . . {with exchangeable heads or inserts}
+Groups B23B 51/0003, B23B 51/0004 and
+B23B 51/0005 are incomplete pending
+reclassification of documents from groups
+B23B 51/00, B23B 51/02, B23B 2251/02,
+B23B 2251/50 and B23B 2251/505.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   51/00035 . . . {Spade drills}
+Group B23B 51/00035 is incomplete
+pending reclassification of documents from
+groups B23B 51/00, B23B 2251/50 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   51/0004  . . . {with cutting heads or inserts attached by screw
+   51/0005  . . . {with cutting heads or inserts attached by
+   51/0006  . {Drills with cutting inserts (B23B 51/0002 takes
+Group B23B 51/0006 is incomplete pending
+reclassification of documents from groups
+B23B 51/00, B23B 51/02, B23B 2251/50 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+9Components or accessories for boring or drilling machines
+   51/0007  . . {with exchangeable cutting insert}
+Groups B23B 51/0007 and B23B 51/0008
+are incomplete pending reclassification
+of documents from groups B23B 51/00,
+B23B 51/02, B23B 51/04, B23B 51/0426,
+B23B 51/044, B23B 51/0453, B23B 51/0466,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   51/0008  . . . {with indexable or reversible cutting inserts}
+   51/0011  . . {with radially inner and outer cutting inserts}
+Group B23B 51/0011 is incomplete pending
+reclassification of documents from groups
+B23B 51/00, B23B 51/02, B23B 2251/50 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   51/0018  . {Drills for enlarging a hole}
+   51/0027  . . {by tool swivelling}
+   51/0036  . . {by a tool-carrying eccentric}
+   51/0045  . . {by expanding or tilting the toolhead}
+   51/0054  . {Drill guiding devices}
+   51/0072  . {Drills for making non-circular holes}
+   51/0095  . {Spade drills (B23B 51/00035 takes precedence)}
+Group B23B 51/0095 is incomplete pending
+reclassification of documents from group
+Groups B23B 51/00 and B23B 51/0095 should
+be considered in order to perform a complete
+Group B23B 51/011 is incomplete pending
+reclassification of documents from groups
+Groups B23B 51/00, B23B 51/02 and
+B23B 51/011 should be considered in order to
+Group B23B 51/02 is impacted by
+reclassification into groups B23B 51/0002,
+B23B 51/0003, B23B 51/0004, B23B 51/0005,
+B23B 51/0006, B23B 51/0007, B23B 51/0008,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   51/04    . {Drills} for trepanning
+Group B23B 51/04 is incomplete pending
+reclassification of documents from group
+Group B23B 51/04 is also impacted by
+reclassification into groups B23B 51/0007,
+B23B 51/0008, B23B 51/0411, B23B 51/0417,
+B23B 51/0426, B23B 51/044, B23B 51/0461,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   51/0411  . . {with stepped tubular cutting bodies}
+Group B23B 51/0411 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   51/0413  . . {with core-cutting-off devices}
+   51/0417  . . {including chamfer or spot bore cutter}
+Group B23B 51/0417 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   51/042   . . {with lubricating or cooling equipment}
+   51/0426  . . {with centering devices}
+Group B23B 51/0426 is incomplete pending
+reclassification of documents from groups
+Group B23B 51/0426 is also impacted by
+reclassification into groups B23B 51/0007,
+All groups listed in this Warning should be
+considered in order to perform a complete
+10Components or accessories for boring or drilling machines
+   51/044   . . {with core holding devices}
+Group B23B 51/044 is incomplete pending
+reclassification of documents from groups
+Group B23B 51/044 is also impacted by
+reclassification into groups B23B 51/0007,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   51/0453  . . {with ejecting devices}
+Group B23B 51/0453 is impacted by
+reclassification into groups B23B 51/0007,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   51/0461  . . {with exchangeable cutting heads or crowns}
+   51/0466  . . {with exchangeable cutting inserts, e.g. able to be
+Group B23B 51/0466 is incomplete
+pending reclassification of documents from
+groups B23B 51/0426, B23B 51/044 and
+Group B23B 51/0466 is also impacted by
+reclassification into groups B23B 51/0007,
+B23B 51/0008, B23B 51/04, B23B 51/0411,
+B23B 51/0417, B23B 51/0426, B23B 51/044,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   51/0467  . . {Details of the tubular body sidewall}
+Groups B23B 51/0467 - B23B 51/0469
+are incomplete pending reclassification of
+documents from groups B23B 51/04 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   51/0468  . . . {Internal grooves}
+   51/0469  . . . {Eccentric or non-circular}
+   51/0473  . . {Details about the connection between the driven
+shaft and the tubular cutting part; Arbors}
+. . {with lubricating or cooling equipment
+(B23B 51/042 takes precedence)}
+Group B23B 51/0486 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups B23B 51/063 and B23B 51/066.
+Groups B23B 51/0486, B23B 51/063 and
+B23B 51/066 should be considered in order to
+. . . {with exchangeable cutting inserts, e.g. able to
+Group B23B 51/0493 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups B23B 51/0007,
+B23B 51/0008, B23B 51/06, B23B 51/063,
+B23B 51/066, B23B 51/068, B23B 51/0682,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   51/05    . . for cutting discs from sheet
+   51/06    . Drills with lubricating or cooling equipment
+{(B23B 51/042 takes precedence)}
+Group B23B 51/06 is incomplete pending
+reclassification of documents from group
+Group B23B 51/06 is also impacted by
+reclassification into groups B23B 51/063,
+B23B 51/066, B23B 51/068, B23B 51/0682,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   51/063   . . {Deep hole drills, e.g. ejector drills}
+Groups B23B 51/063 and B23B 51/066
+are incomplete pending reclassification of
+documents from groups B23B 51/0486,
+All groups listed in this Warning should be
+considered in order to perform a complete
+11Components or accessories for boring or drilling machines
+   51/068   . . {Details of the lubricating or cooling channel}
+Groups B23B 51/068 - B23B 51/0686 are
+incomplete pending reclassification of
+documents from groups B23B 51/0493 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   51/0682  . . . {Coolant moves along outside of tool periphery
+   51/0684  . . . {Deflector or nozzle on drill to point the
+coolant in a desired direction}
+   51/0686  . . . {Cross-sectional shape of coolant hole}
+   51/08    . Drills combined with tool parts or tools for
+performing additional working {(B23G 5/20 takes
+   51/10    . Bits for countersinking
+Group B23B 51/10 is impacted by
+reclassification into group B23B 51/109.
+Groups B23B 51/10 and B23B 51/109 should
+be considered in order to perform a complete
+   51/101   . . {Deburring tools (B23B 51/103 takes
+   51/102   . . {Back spot-facing or chamfering}
+   51/103   . . {Deburring or chamfering tools for the ends of
+   51/105   . . {Deburring or countersinking of radial holes}
+   51/106   . . {with a cutting edge adjustable along a direction
+   51/107   . . {having a pilot}
+Group B23B 51/107 is impacted by
+reclassification into group B23B 51/109.
+Groups B23B 51/107 and B23B 51/109 should
+be considered in order to perform a complete
+   51/108   . . {having a centering drill}
+Group B23B 51/108 is impacted by
+reclassification into group B23B 51/1085.
+Groups B23B 51/108 and B23B 51/1085
+should be considered in order to perform a
+   51/1085  . . . {countersink in the form of an attachment to
+Group B23B 51/1085 is incomplete pending
+reclassification of documents from group
+Groups B23B 51/108 and B23B 51/1085
+should be considered in order to perform a
+   51/109   . . {Counterboring tools (B23B 51/102 takes
+Group B23B 51/109 is incomplete pending
+reclassification of documents from groups
+B23B 51/10, B23B 51/107 and B23B 51/108.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   51/12    . Adapters for drills or chucks; Tapered sleeves
+   51/123   . . {Conical reduction sleeves}
+   51/126   . . {Tool elongating devices}
+   51/14    . . Adapters for broken drills
+ 2200/00    Details of cutting inserts
+ 2200/0466  . . Segment or sector of a circle
+ 2200/08    . Rake or top surfaces
+ 2200/081   . . with projections (chip breaking projections in
+ 2200/082   . . with elevated clamping surface
+ 2200/086   . . with one or more grooves
+ 2200/087   . . . for chip breaking (chip breaking depressions in
+general B23B 2200/323, multiple chip breaking
+ 2200/12    . Side or flank surfaces
+ 2200/121   . . with projections
+ 2200/128   . . with one or more grooves
+ 2200/16    . Supporting or bottom surfaces
+ 2200/161   . . with projections
+ 2200/165   . . with one or more grooves
+ 2200/167   . . with serrations
+ 2200/20    . Top or side views of the cutting edge
+ 2200/201   . . Details of the nose radius and immediately
+ 2200/202   . . with curved cutting edge
+ 2200/204   . . with discontinuous cutting edge
+ 2200/205   . . with cutting edge having a wave form
+ 2200/207   . . for cutting a particular form corresponding to the
+ 2200/208   . . with wiper, i.e. an auxiliary cutting edge to
+ 2200/24    . Cross section of the cutting edge
+ 2200/242   . . bevelled or chamfered
+ 2200/283   . . Negative cutting angles
+ 2200/286   . . Positive cutting angles
+ 2200/32    . Chip breaking or chip evacuation
+ 2200/321   . . by chip breaking projections (with projections on
+ 2200/323   . . by chip breaking depressions (with one or
+more grooves on top surface for chip breaking
+B23B 2200/087, with multiple chip breaking
+ 2200/325   . . by multiple chip-breaking grooves (with one or
+more grooves on top surface for chip breaking
+B23B 2200/087, with chip breaking depression
+ 2200/326   . . by chip breaking-plates
+ 2200/328   . . Details of chip evacuation
+ 2200/36    . Other features of cutting inserts not covered by
+ 2200/3627  . . Indexing (with grooves on bottom surfaces
+B23C 2200/165, with polygonal bottom surfaces
+B23B 2200/166, with star form bottom surfaces
+ 2200/3636  . . . with cutting geometries differing according to
+ 2200/3645  . . Lands, i.e. the outer peripheral section of the rake
+ 2200/3654  . . . being variable (negative lands of variable width
+ 2200/3663  . . . having negative cutting angles (with bevelled
+ 2200/3672  . . . . being variable (lands with variable width
+ 2200/3681  . . Split inserts, i.e. comprising two or more sections
+roughly equal in size and having similar or
+ 2200/369   . . Mounted tangentially, i.e. where the rake face is
+not the face with the largest area
+ 2205/00    Fixation of cutting inserts in holders
+ 2205/02    . Fixation using an elastically deformable clamping
+ 2205/04    . Fixation screws, bolts or pins of particular form
+ 2205/045   . . orientated obliquely to the hole in the insert or to
+ 2205/08    . using an eccentric
+ 2205/10    . using two or more fixation screws
+ 2205/12    . Seats for cutting inserts
+ 2205/125   . . One or more walls of the seat being elastically
+ 2205/18    . Systems for indexing the cutting insert
+ 2205/21    . Systems for changing the cutting insert
+ 2205/215   . . using a magazine
+ 2210/00    Details of turning tools
+ 2210/02    . Tool holders having multiple cutting inserts
+ 2210/025   . . . Grooving inserts arranged on a turret
+ 2210/027   . . . Means for adjusting the grooving inserts
+ 2210/04    . Self-sharpening tools
+ 2210/08    . Tools comprising intermediary toolholders
+ 2210/12    . Tools comprising weakened spot on the tool at a
+preferred breakage location (break points on shanks
+ 2215/00    Details of workpieces
+ 2215/04    . Aircraft components
+ 2215/08    . Automobile wheels
+ 2215/10    . Ammunition cartridge cases
+ 2215/24    . Components of internal combustion engines
+(B23B 2215/16 and B23B 2215/20 take precedence)
+ 2215/242   . . Cylinder liners
+ 2215/64    . Thin walled components
+ 2215/68    . Threaded components
+ 2215/76    . Components for turbines
+ 2220/00    Details of turning, boring or drilling processes
+ 2220/04    . Chamferring (B23B 2220/28 takes precedence)
+ 2220/123   . . Producing internal grooves
+ 2220/126   . . Producing ring grooves
+ 2220/24    . Finishing (roughing and finishing B23B 2220/445)
+ 2220/28    . Parting off and chamferring simultaneously
+ 2220/32    . Drilling holes from both sides
+ 2220/36    . Turning, boring or drilling at high speeds
+ 2222/00    Materials of tools or workpieces composed of
+metals, alloys or metal matrices
+ 2222/14    . Cast iron (iron B23B 2222/44)
+ 2222/28    . Details of hard metal, i.e. cemented carbide
+ 2222/32    . Details of high speed steel (stainless steel
+B23B 2222/80, steel B23B 2222/84)
+ 2222/36    . Nickel chrome alloys, e.g. Inconel®
+ 2222/41    . Nickel steel alloys, e.g. invar®
+ 2222/44    . Iron (cast iron B23B 2222/14)
+ 2222/56    . Non-specified metals
+ 2222/61    . Metal matrices with non-metallic particles or fibres
+ 2222/80    . Stainless steel (high speed steel B23B 2222/32, steel
+ 2222/84    . Steel (high speed steel B23B 2222/32, stainless steel
+ 2224/00    Materials of tools or workpieces composed of a
+ 2224/08    . Aluminium nitride
+ 2224/16    . Molybdenum disulphide
+ 2224/24    . Titanium aluminium nitride
+ 2224/32    . Titanium carbide nitride (TiCN)
+ 2224/40    . Tungsten disulphide
+ 2226/00    Materials of tools or workpieces not comprising a
+ 2226/04    . Aromatic polyamides
+ 2226/275   . . Carbon fibre reinforced carbon composites
+ 2226/315   . . polycrystalline [PCD]
+ 2226/33    . Elastomers, e.g. rubber
+ 2226/42    . Gem, i.e. precious stone
+ 2226/45    . Glass (turning glass B28D 1/16, drilling glass
+ 2226/57    . Plasterboard, i.e. sheetrock
+ 2226/61    . Plastics not otherwise provided for, e.g. nylon
+ 2226/66    . Polytetrafluoroethylene
+ 2226/75    . Stone, rock or concrete (working of stone B28D)
+ 2228/00    Properties of materials of tools or workpieces,
+materials of tools or workpieces applied in a
+ 2228/04    . applied by chemical vapour deposition [CVD]
+ 2228/08    . applied by physical vapour deposition [PVD]
+ 2228/105   . . with specified thickness
+ 2228/16    . Shape memory alloys
+ 2228/21    . Cast, i.e. In the form of a casting
+ 2228/24    . Hard, i.e. after being hardened
+ 2228/41    . Highly conductive
+ 2228/44    . Materials having grain size less than 1 micrometre,
+ 2228/48    . Self-luminous, i.e. light-emitting, e.g. fluorescent
+ 2228/56    . Two phase materials
+ 2228/61    . Materials comprising whiskers
+ 2229/00    Details of boring bars or boring heads
+ 2229/08    . Cutting edges of different lengths or at different
+ 2229/12    . Cutting inserts located on different radii
+ 2229/16    . Boring, facing or grooving heads with integral
+ 2231/00    Details of chucks, toolholder shanks or tool shanks
+ 2231/02    . Features of shanks of tools not relating to the
+operation performed by the tool
+ 2231/0204  . . Connection of shanks to working elements of
+ 2231/0212  . . Shanks of tools having a reduced cross section
+at a position where breakage of the tool is
+preferred (break points on tools not in shank
+area B23B 2210/12, shanks with reduced cross
+sections in general B23B 2231/0252)
+ 2231/0216  . . Overall cross sectional shape of the shank
+ 2231/0224  . . . . Rounded triangular
+ 2231/0244  . . . Special forms not otherwise provided for
+ 2231/0248  . . Codes for diameters
+ 2231/0252  . . Shanks having a section of reduced diameter
+(to provide a preferred breaking point
+ 2231/026   . . Grooves (keyways B23B 2231/0276)
+ 2231/0264  . . . Axial grooves
+ 2231/0268  . . . Radial grooves
+ 2231/0272  . . . Grooves on conical clamping surfaces
+ 2231/0276  . . Keyways (axial grooves B23B 2231/0264)
+ 2231/0288  . . Conical shanks of tools in which the cone is not
+formed as one continuous surface
+ 2231/0292  . . Flanges of conical shanks
+ 2231/0296  . . Ends of conical shanks, e.g. pull studs, tangs
+ 2231/06    . Chucks for handtools having means for opening
+and closing the jaws using the driving motor of the
+ 2231/08    . Chucks for shanks of tools having means for
+reducing the bending of the retained shanks
+ 2231/10    . Chucks having data storage chips
+ 2231/12    . Chucks having means to amplify the force produced
+by the actuating means to increase the clamping
+ 2231/14    . Chucks with clamping force limitation means
+ 2231/2002  . . Collets having blade-like jaws
+ 2231/2005  . . Keys preventing rotation
+ 2231/2008  . . Bores holding the collet having a slightly conical
+ 2231/201   . . Operating surfaces of collets, i.e. the surface of
+the collet acted on by the operating means
+ 2231/2013  . . . Non-cylindrical (polygonal B23B 2231/2016)
+ 2231/2018  . . . with a saw-tooth profile
+ 2231/2021  . . . comprising two different cones
+ 2231/2024  . . Non-circular surfaces of collets for the
+ 2231/2027  . . Gripping surfaces, i.e. the surface contacting the
+ 2231/2032  . . . with non-cylindrical cross section
+ 2231/204   . . . with saw tooth profiles
+ 2231/2043  . . . Discontinuous, interrupted or split
+ 2231/2045  . . . comprising two or more diameters, e.g. stepped
+ 2231/2048  . . Collets comprising inserts
+ 2231/2051  . . . brazed in position
+ 2231/2054  . . . glued in position
+ 2231/2056  . . . where the insert forms part of the surface
+ 2231/2062  . . . Inserts mechanically clamped in the collet
+ 2231/2064  . . . Inserts in the form of a roll
+ 2231/207   . . . Inserts welded in position
+ 2231/2072  . . Jaws of collets
+ 2231/2075  . . . of special form
+ 2231/2078  . . Jaw carriers, i.e. components retaining the collet
+ 2231/2081  . . Keys, spanners or wrenches to operate the collet
+ 2231/2083  . . Collets comprising screw threads
+ 2231/2086  . . Collets in which the jaws are formed as separate
+elements, i.e. not joined together
+ 2231/2089  . . Slits of collets
+ 2231/2091  . . . extending from both axial ends of the collet
+ 2231/2097  . . . having a special form not otherwise provided
+ 2231/22    . Compensating chucks, i.e. with means for the
+compensation of irregularities of form or position
+ 2231/24    . Cooling or lubrication means
+ 2231/26    . Detection of clamping (in general B23Q 17/006)
+ 2231/28    . Dust covers (nose pieces in chucks B23B 2231/44,
+dust covers for turning, boring or drilling in general
+ 2231/30    . Chucks with four jaws
+ 2231/32    . Guideways for jaws
+ 2231/341   . . Jaws with hard inserts
+ 2231/342   . . Padded or cushioned jaws
+ 2231/38    . Keyless chucks for hand tools
+ 2231/40    . Chucks having a pivotal retention element in the
+ 2231/42    . Chucks operated by a motor which is movable to
+engage with, or disengage from, the chuck operating
+ 2231/44    . Nose pieces (dust covers in chucks B23B 2231/28,
+dust covers for turning, boring or drilling in general
+ 2231/48    . Polygonal cross sections
+ 2231/50    . Devices to counteract clamping forces exerted
+within the spindle in order to release the tool or
+ 2231/52    . Chucks with means to loosely retain the tool or
+workpiece in the unclamped position
+ 2231/56    . Chucks with more than one set of gripping means
+ 2231/565   . . Wherein only one means is usable at a time
+ 2231/58    . Self-grasping, i.e., automatic grasping upon
+ 2233/00    Details of centres or drivers
+ 2233/04    . Means to allow the facing of the axial end of the
+workpiece near the axis of rotation
+ 2233/08    . Centres or drivers comprising a ball
+ 2233/12    . Centres or drivers with a special arrangement of
+bearings or with special bearings
+ 2233/16    . Centres or drivers comrprising chucks
+ 2233/20    . Centres or drivers with convex surfaces
+ 2233/24    . Centres or drivers with inserts
+ 2233/28    . Centres or drivers supporting the workpiece at three
+points around the circumference
+ 2233/32    . Yieldable centres
+ 2235/00    Turning of brake discs, drums or hubs
+ 2235/04    . Machining of brake discs
+ 2235/045   . . Simultaneous machining of both sides of the
+ 2235/12    . Machining of brake drums
+ 2235/16    . Machining of hubs
+ 2235/21    . Compensation of run out
+ 2240/00    Details of connections of tools or workpieces
+ 2240/04    . Bayonet connections
+ 2240/08    . Brazed connections
+ 2240/11    . Soldered connections
+ 2240/16    . Welded connections
+ 2240/21    . Glued connections
+ 2240/24    . Connections using hollow screws, e.g. for the
+ 2240/28    . Shrink-fitted connections, i.e. using heating and
+cooling to produce interference fits (shrink fits
+ 2240/36    . Connections using a tongue and a hollow of
+ 2247/00    Details of drilling jigs
+ 2247/02    . Jigs for drilling spectacles (machines for drilling
+ 2247/04    . Jigs using one or more holes as datums for drilling
+ 2247/06    . Jigs for drilling holes for lock sets for doors
+ 2247/08    . Jigs for drilling overlapping or interfering holes
+ 2247/10    . Jigs for drilling inclined holes
+ 2247/12    . Drilling jigs with means to affix the jig to the
+ 2247/14    . Jigs for drilling flanges
+ 2247/16    . Jigs for drilling stairs and associated components,
+ 2247/18    . Jigs comprising V-blocks
+ 2247/20    . Jigs for drilling holes for lock wires in bolts or nuts
+ 2250/00    Compensating adverse effects during turning,
+Group B23B 2250/00 is impacted by
+reclassification into group B23B 2250/18.
+Groups B23B 2250/00 and B23B 2250/18 should
+be considered in order to perform a complete
+ 2250/04    . Balancing rotating components
+ 2250/08    . Compensation of centrifugal force
+ 2250/12    . Cooling and lubrication
+Group B23B 2250/12 is impacted by
+reclassification into groups B23B 2250/121,
+B23B 2250/122, B23B 2250/123 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2250/121   . . Insert with coolant channels
+Group B23B 2250/121 is incomplete pending
+reclassification of documents from group
+Groups B23B 2250/12 and B23B 2250/121
+should be considered in order to perform a
+ 2250/122   . . Internal coolant reservoir
+Group B23B 2250/122 is incomplete pending
+reclassification of documents from group
+Groups B23B 2250/12 and B23B 2250/122
+should be considered in order to perform a
+ 2250/123   . . Meltable lubricant
+Group B23B 2250/123 is incomplete pending
+reclassification of documents from group
+Groups B23B 2250/12 and B23B 2250/123
+should be considered in order to perform a
+ 2250/124   . . Coolant trapping reservoir, e.g. recesses, pockets
+Group B23B 2250/124 is incomplete pending
+reclassification of documents from group
+Groups B23B 2250/12 and B23B 2250/124
+should be considered in order to perform a
+ 2250/125   . . Improving heat transfer away from the working
+ 2250/16    . Damping of vibrations
+ 2250/18    . Surface of tool modified by roughening, scratching,
+etc. to modify friction or other adverse effect
+Group B23B 2250/18 is incomplete pending
+reclassification of documents from group
+Groups B23B 2250/00 and B23B 2250/18 should
+be considered in order to perform a complete
+ 2251/00    Details of tools for drilling machines
+Group B23B 2251/00 is impacted by
+reclassification into groups B23B 2251/16,
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+. Connections between shanks and removable cutting
+Group B23B 2251/02 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups B23B 51/0003, B23B 51/0004 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2251/04    . Angles, e.g. cutting angles
+Group B23B 2251/04 is impacted by
+reclassification into groups B23B 2251/047 and
+Groups B23B 2251/04, B23B 2251/047 and
+B23B 2251/048 should be considered in order to
+ 2251/047   . . Axial clearance angles
+Group B23B 2251/047 is incomplete pending
+reclassification of documents from groups
+Groups B23B 2251/04, B23B 2251/14 and
+B23B 2251/047 should be considered in order
+ 2251/048   . . Radial clearance angles
+Group B23B 2251/048 is incomplete pending
+reclassification of documents from groups
+Groups B23B 2251/04, B23B 2251/14 and
+B23B 2251/048 should be considered in order
+ 2251/08    . Side or plan views of cutting edges
+ 2251/082   . . Curved cutting edges
+Group B23B 2251/082 is impacted by
+reclassification into group B23B 2251/0825.
+Groups B23B 2251/082 and B23B 2251/0825
+should be considered in order to perform a
+ 2251/0825  . . . Curved in the axial direction
+Group B23B 2251/0825 is incomplete
+pending reclassification of documents from
+B23B 2251/0825 should be considered in
+order to perform a complete search.
+ 2251/085   . . Discontinuous or interrupted cutting edges
+ 2251/087   . . Cutting edges with a wave form
+ 2251/12    . Cross sectional views of the cutting edges
+ 2251/122   . . Bevelled cutting edges
+ 2251/125   . . Rounded cutting edges
+ 2251/127   . . Sharp cutting edges
+ 2251/14    . Configuration of the cutting part, i.e. the main
+Group B23B 2251/14 is impacted by
+reclassification into groups B23B 2251/047 and
+Groups B23B 2251/14, B23B 2251/047 and
+B23B 2251/048 should be considered in order to
+ 2251/16    . New cutting edge by fracture, wear, or recycling
+Group B23B 2251/16 is incomplete pending
+reclassification of documents from group
+Groups B23B 2251/00 and B23B 2251/16 should
+be considered in order to perform a complete
+ 2251/18    . Configuration of the drill point
+Group B23B 2251/18 is impacted by
+reclassification into groups B23B 2251/182,
+B23B 2251/185 and B23B 2251/188.
+All groups listed in this Warning should be
+considered in order to perform a complete
+Group B23B 2251/182 is incomplete pending
+reclassification of documents from group
+Groups B23B 2251/18 and B23B 2251/182
+should be considered in order to perform a
+ 2251/185   . . Point angles less than 90 degrees
+Group B23B 2251/185 is incomplete pending
+reclassification of documents from group
+Groups B23B 2251/18 and B23B 2251/185
+should be considered in order to perform a
+ 2251/188   . . Variable point angles
+Group B23B 2251/188 is incomplete pending
+reclassification of documents from group
+Groups B23B 2251/18 and B23B 2251/188
+should be considered in order to perform a
+ 2251/20    . Number of cutting edges
+ 2251/201   . . Single cutting edge
+ 2251/202   . . Three cutting edges
+ 2251/204   . . Four cutting edges
+ 2251/205   . . Five cutting edges
+ 2251/207   . . Six cutting edges
+ 2251/208   . . Eight cutting edges
+ 2251/24    . Overall form of drilling tools
+Group B23B 2251/24 is impacted by
+reclassification into group B23B 2251/249.
+Groups B23B 2251/24 and B23B 2251/249
+should be considered in order to perform a
+ 2251/241   . . Cross sections of the diameter of the drill
+ 2251/242   . . . increasing in a direction towards the shank
+ 2251/244   . . . decreasing in a direction towards the shank
+ 2251/245   . . . Variable cross sections
+ 2251/247   . . Drilling tools having a working portion at both
+ 2251/248   . . Drills in which the outer surface is of special form
+ 2251/249   . . Drills in which the shank is flexible
+Group B23B 2251/249 is incomplete pending
+reclassification of documents from groups
+B23B 51/00, B23B 51/02 and B23B 2251/24.
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2251/28    . Arrangement of teeth
+ 2251/282   . . Unequal spacing of cutting edges in the
+ 2251/285   . . Cutting teeth arranged at different heights
+ 2251/287   . . Cutting edges having different lengths
+ 2251/40    . Flutes, i.e. chip conveying grooves
+Group B23B 2251/40 is impacted by
+reclassification into groups B23B 2251/4011 and
+Groups B23B 2251/40, B23B 2251/4011 and
+B23B 2251/4012 should be considered in order
+ 2251/4011  . . Two flutes merge into one flute
+Group B23B 2251/4011 is incomplete pending
+reclassification of documents from group
+Groups B23B 2251/40 and B23B 2251/4011
+should be considered in order to perform a
+ 2251/4012  . . Flutes with sleeves
+Group B23B 2251/4012 is incomplete pending
+reclassification of documents from group
+Groups B23B 2251/40 and B23B 2251/4012
+should be considered in order to perform a
+ 2251/402   . . with increasing depth in a direction towards the
+ 2251/404   . . with decreasing depth in a direction towards the
+ 2251/406   . . of special form not otherwise provided for
+Group B23B 2251/406 is impacted by
+reclassification into group B23B 2251/4062.
+Groups B23B 2251/406 and B23B 2251/4062
+should be considered in order to perform a
+ 2251/4062  . . . Reverse flutes
+Group B23B 2251/4062 is incomplete
+pending reclassification of documents from
+B23B 2251/4062 should be considered in
+order to perform a complete search.
+ 2251/44    . Margins, i.e. the narrow portion of the land
+which is not cut away to provide clearance on the
+Group B23B 2251/44 is impacted by
+reclassification into group B23B 2251/448.
+Groups B23B 2251/44 and B23B 2251/448
+should be considered in order to perform a
+ 2251/443   . . Double margin drills
+ 2251/446   . . Drills with variable margins
+ 2251/448   . . Drills with axial cutting edge extending along
+Group B23B 2251/448 is incomplete pending
+reclassification of documents from group
+Groups B23B 2251/44 and B23B 2251/448
+should be considered in order to perform a
+ 2251/46    . Drills having a centre free from cutting edges or
+. Drilling tools comprising cutting inserts
+Group B23B 2251/50 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups B23B 51/0002, B23B 51/0003,
+B23B 51/00035, B23B 51/0004, B23B 51/0005,
+B23B 51/0006, B23B 51/0007, B23B 51/0008
+All groups listed in this Warning should be
+considered in order to perform a complete
+Group B23B 2251/505 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups B23B 51/0002, B23B 51/0003,
+B23B 51/0005, B23B 51/0006, B23B 51/0007,
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2251/51    . Drills with means for feeding cable
+Group B23B 2251/51 is incomplete pending
+reclassification of documents from group
+Groups B23B 2251/00 and B23B 2251/51 should
+be considered in order to perform a complete
+ 2251/60    . Drills with pilots
+ 2251/603   . . Detachable pilots, e.g. in the form of a drill
+ 2251/606   . . . being a twist drill
+ 2251/62    . Drilling tools having means to reinforce the shank,
+e.g. drills having small shanks being gripped by
+ 2251/64    . Drills operating in the reverse direction, i.e. in the
+unscrewing direction of a right-hand thread
+ 2251/66    . Drills with provision to be used as a screwdriver
+ 2251/68    . Drills with provision for suction
+ 2251/70    . Drills with vibration suppressing means
+ 2251/74    . Drills for drilling a flat bottomed hole
+Group B23B 2251/74 is incomplete pending
+reclassification of documents from group
+Groups B23B 2251/00 and B23B 2251/74 should
+be considered in order to perform a complete
+ 2260/00    Details of constructional elements
+ 2260/004   . Adjustable elements
+ 2260/0045  . . Two elements adjustable relative to each other in
+three mutually perpendicular directions
+ 2260/0082  . . Sliding contact bearings
+ 2260/0085  . . Needle roller bearings
+ 2260/0087  . . Preloading of bearings
+ 2260/026   . Bushings, e.g. adapter sleeves
+ 2260/04    . Centre drills of known configuration, e.g. the
+provision of a centre drill in centres or chucks
+ 2260/042   . Collets of known configuration, i.e. devices using a
+ 2260/0445  . . Overload clutches
+ 2260/048   . Devices to regulate the depth of cut
+ 2260/0482  . . Depth controls, e.g. depth stops (stops
+ 2260/0487  . . Depth indicators (indication scales
+ 2260/056   . Differential screw threads
+ 2260/058   . Dust covers (dust covers in chucks B23B 2231/28,
+nose pieces in chucks B23B 2231/44)
+ 2260/066   . Electrostrictive elements
+ 2260/076   . Harmonic drive gearboxes, i.e. reduction gearing
+including wave generator, flex spline and a circular
+ 2260/078   . Hand tools used to operate chucks or to assemble,
+adjust or disassemble tools or equipment used for
+ 2260/0785  . . for unclamping cutting inserts
+ 2260/088   . Indication scales
+ 2260/094   . Levels, e.g. spirit levels
+ 2260/102   . Magnetostrictive elements
+ 2260/104   . Markings, i.e. symbols or other indicating marks
+ 2260/108   . Piezoelectric elements
+ 2260/118   . Suction pads or vacuum cups, e.g. for attachment of
+ 2260/12    . Stops (depth controls B23B 2260/0482)
+ 2260/1285  . . Vibration sensors
+ 2260/132   . Serrations (cutting inserts with serrated bottom
+ 2260/134   . Spacers or shims (shims for supporting cutting
+ 2260/1383  . . with round thread profile
+ 2260/1385  . . with square thread profile
+ 2260/1386  . . with trapezoidal thread profile
+ 2260/1388  . . with special profile not otherwise provided for
+ 2260/158   . Worms and worm wheels
+ 2265/00    Details of general geometric configurations
+ 2270/00    Details of turning, boring or drilling machines,
+processes or tools not otherwise provided for
+ 2270/02    . Use of a particular power source
+ 2270/04    . Use of centrifugal force (compensating centrifugal
+ 2270/06    . Use of elastic deformation
+ 2270/08    . Clamping mechanisms; Provisions for clamping
+(B23B 2210/00 takes precedence)
+ 2270/09    . Details relating to unclamping
+ 2270/10    . Use of ultrasound
+ 2270/12    . Centering of two components relative to one another
+ 2270/14    . Constructions comprising exactly two similar
+ 2270/16    . Constructions comprising three or more similar
+ 2270/20    . Internally located features, machining or gripping of
+ 2270/205   . . Machining or gripping both internal and external
+ 2270/22    . Externally located features, machining or gripping
+of external surfaces (machining or gripping of both
+internal and external surfaces B23B 2270/205)
+ 2270/24    . Tool, chuck or other device activated by the coolant
+or lubrication system of the machine tool
+ 2270/30    . Chip guiding or removal (use of suction
+B23B 2270/62, drilling tools with provision for
+ 2270/32    . Use of electronics
+ 2270/34    . Means for guiding
+ 2270/36    . Identification of tooling or other equipment
+ 2270/38    . Using magnetic fields (magnets B23B 2260/10)
+ 2270/48    . Measuring or detecting
+ 2270/483   . . Measurement of force
+ 2270/486   . . Measurement of rotational speed
+ 2270/54    . Methods of turning, boring or drilling not otherwise
+ 2270/56    . Turning, boring or drilling tools or machines with
+ 2270/60    . Prevention of rotation
+ 2270/62    . Use of suction (suction pads or vacuum cups
+B23B 2260/118, drilling tools with provision
+for suction B23B 2251/68, chip removal

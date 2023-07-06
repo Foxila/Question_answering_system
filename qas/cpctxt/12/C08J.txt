@@ -1,0 +1,1311 @@
+COOPERATIVE PATENT CLASSIFICATION
+ORGANIC MACROMOLECULAR COMPOUNDS; THEIR PREPARATION OR
+CHEMICAL WORKING-UP; COMPOSITIONS BASED THEREON
+WORKING-UP; GENERAL PROCESSES OF COMPOUNDING; AFTER-TREATMENT
+NOT COVERED BY SUBCLASSES C08B, C08C, C08F, C08G or C08H (working, e.g.
+1. This subclass covers processes, not covered by subclasses C08B - C08H, for treating polymers.
+In this subclass, in the absence of an indication to the contrary, classification is made in the last appropriate place.
+2. When classifying in subclass C08J, the treatment of specific polymers is indicated using indexing codes chosen from
+C08J 2300/00 or subgroups thereof.
+• Preparation of particles of polystyrene by impregnation of the particles with the blowing agent: C08J 9/18 and
+3. The use of a polymeric component in minority, e.g. masterbatch, coating, impregnating agent or thin binder is indicated using
+indexing codes chosen from C08J 2400/00 or subgroups thereof.
+• Use of PMMA as masterbatch in a polystyrene composition: C08J 3/226 and C08J 2325/06 and C08J 2433/10
+• Bonding of polystyrene by heating:  C08J 5/121 and C08J 2325/06
+• Coating of a polyethylene substrate with a polyurethane coating: C08J 7/0427 and C08J 2323/06 and C08J 2475/04
+• Use of ABS as an additive for foamed polyacrylamide : C08J 9/0061 and C08J 2333/26 and C08J 2455/02
+4. In the following subgroups, the codes of  C08J 2300/00 - C08J 2399/00 are used to specify:
+• C08J 3/226: the polymeric material to which the masterbatch carrier is added.
+• C08J 7/0427: the polymeric substrate to be coated.
+• C08J 9/0061: the polymeric component in majority in a multicomponents foamable blend.
+5. Group C08J 2400/00 was introduced on January 1st, 2012. Patent documents are continuously being reclassified. As a
+consequence, documents published before 01/01/2012, and to which C08J 2400/00 indexing codes were allocated, are indexed
+in the corresponding head group.
+• Use of PMMA as masterbatch in a polystyrene composition: C08J 3/226 and C08J 2325/06 and C08J 2433/00, instead of
+6. In the following subgroups, the codes of C08J 2400/00 - C08J 2499/00  are used to specify:
+• C08J 3/226: the polymeric carrier in a masterbatch.
+• C08J 5/12: the chemical nature of the adhesive
+• C08J 7/0427: the chemical nature of the coating(s).
+• C08J 9/0061: the polymeric component in minority in a multicomponents foamable blend.
+• C08J 9/224, C08J 9/236, C08J 9/36, C08J 9/40 and C08J 9/42: the polymer used for coating, binding, or impregnating the
+foam. C08J 9/26: the polymer to be leached out.
+• C08J 9/33 and C08J 9/35: the foam fragments included in the (foamable) polymer matrix.
+• in all other subgroups, when the presence of a polymeric component in minority is of relevance.
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+B24D 3/22, B24D 3/28, F16D 69/02
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    3/00    Processes of treating or compounding
+    3/005   . {Processes for mixing polymers}
+    3/02    . Making solutions, dispersions, lattices or gels
+by other methods than by solution, emulsion or
+suspension polymerisation techniques
+    3/03    . . in aqueous media
+    3/05    . . . from solid polymers
+    3/07    . . . from polymer solutions
+    3/075   . . . Macromolecular gels
+    3/09    . . in organic liquids
+    3/091   . . . {characterised by the chemical constitution of
+    3/092   . . . . {Hydrocarbons}
+    3/093   . . . . {Halogenated hydrocarbons}
+    3/095   . . . . {Oxygen containing compounds}
+    3/096   . . . . {Nitrogen containing compounds}
+    3/097   . . . . {Sulfur containing compounds}
+    3/098   . . . . {Other compounds}
+    3/11    . . . from solid polymers
+    3/12    . Powdering or granulating
+    3/122   . . {Pulverisation by spraying}
+    3/124   . . {Treatment for improving the free-flowing
+    3/126   . . {Polymer particles coated by polymer, e.g. core
+    3/128   . . {Polymer particles coated by inorganic and non-
+macromolecular organic compounds}
+    3/14    . . by precipitation from solutions {(C08J 3/122
+    3/16    . . by coagulating dispersions {(C08J 3/122 takes
+    3/18    . Plasticising macromolecular compounds
+    3/20    . Compounding polymers with additives, e.g.
+    3/201   . . {Pre-melted polymers}
+    3/203   . . {Solid polymers with solid and/or liquid
+    3/205   . . in the presence of a {continuous} liquid phase
+    3/2053  . . . {the additives only being premixed with a
+    3/2056  . . . . {the polymer being pre-melted}
+    3/21    . . . the polymer being premixed with a liquid phase
+    3/212   . . . . {and solid additives}
+    3/215   . . . . at least one additive being also premixed
+    3/22    . . using masterbatch techniques
+    3/223   . . . {Packed additives}
+    3/226   . . . {using a polymer as a carrier}
+    3/24    . Crosslinking, e.g. vulcanising, of macromolecules
+(mechanical aspects B29C 35/00; crosslinking
+    3/241   . . {Preventing premature crosslinking by physical
+separation of components, e.g. encapsulation}
+    3/242   . . {Applying crosslinking or accelerating agent
+onto compounding ingredients such as fillers,
+    3/243   . . {Two or more independent types of crosslinking
+    3/244   . . {Stepwise homogeneous crosslinking of one
+polymer with one crosslinking system, e.g. partial
+    3/245   . . {Differential crosslinking of one polymer with
+one crosslinking type, e.g. surface crosslinking}
+    3/246   . . {Intercrosslinking of at least two polymers}
+    3/247   . . {Heating methods}
+    3/248   . . {Measuring crosslinking reactions}
+    3/28    . Treatment by wave energy or particle radiation
+    5/00    Manufacture of articles or shaped materials
+containing macromolecular substances
+(manufacture of semi-permeable membranes
+    5/005   . {Reinforced macromolecular compounds with
+nanosized materials, e.g. nanoparticles, nanofibres,
+nanotubes, nanowires, nanorods or nanolayered
+    5/02    . Direct processing of dispersions, e.g. latex, to
+    5/04    . Reinforcing macromolecular compounds with loose
+    5/0405  . . {with inorganic fibres}
+    5/041   . . . {with metal fibres}
+    5/042   . . . {with carbon fibres}
+    5/043   . . . {with glass fibres}
+    5/045   . . {with vegetable or animal fibrous material}
+    5/046   . . {with synthetic macromolecular fibrous material}
+{ Note 2 following the title of subclass C08J
+    5/047   . . {with mixed fibrous material}
+    5/048   . . . {Macromolecular compound to be reinforced
+    5/06    . . using pretreated fibrous materials
+    5/10    . . characterised by the additives used in the polymer
+    5/12    . Bonding of a preformed macromolecular material to
+the same or other solid material such as metal, glass,
+    5/122   . . {using low molecular chemically inert solvents,
+    5/124   . . {using adhesives based on a macromolecular
+    5/125   . . . {Adhesives in organic diluents}
+    5/127   . . . {Aqueous adhesives}
+    5/128   . . . {Adhesives without diluent}
+    5/18    . Manufacture of films or sheets
+    5/20    . Manufacture of shaped structures of ion-exchange
+    5/22    . . Films, membranes or diaphragms
+1. {Membranes of which at least the ion-
+exchanging parts are inorganic, i.e. mixtures of
+non polymeric ion exchange compounds, e.g.
+inorganic salts, and at least one polymer are
+classified in C08J 5/22; membranes based on
+cellulose are classified in C08J 5/2212.}
+2. Methods for incorporating reinforcement
+supports or filling bodies are classified in
+C08J 5/2206 (the support or filling body has
+3. Groups, e.g. SO2F, which do not have ion-
+exchanging properties, but which may, by
+simple hydrolysis in an alkaline, neutral
+or acid medium, be transformed into ion-
+exchanging groups, e.g. SO2H, are considered
+4. Ion-exchanging fibrous fabrics are considered
+as heterogeneous membranes and are
+classified in C08J 5/2275; they include
+composite membranes, mixtures of two or
+5. Membranes obtained by homogeneous
+melting or from a solution are considered as
+homogeneous, even if the membrane contains
+(after solidification of the melt or the solution)
+heterogeneous elements, e.g. filling bodies,
+supports e.g. in the form of fabrics, or the
+like, i.e. the ion exchange resin forms the
+6. Reactions which change the nature of the
+ion-exchanging groups, introduction of ion-
+exchanging groups, after-treatment (membrane
+has already been formed) are classified in
+7. Quaternising reactions are not considered as
+    5/2206  . . . {based on organic and/or inorganic
+    5/2212  . . . . {Natural macromolecular compounds}
+    5/2218  . . . . {Synthetic macromolecular compounds}
+    5/2225  . . . . . {containing fluorine}
+    5/2231  . . . . . {based on macromolecular compounds
+obtained by reactions involving
+unsaturated carbon-to-carbon bonds}
+    5/2237  . . . . . . {containing fluorine}
+    5/2243  . . . . . . {obtained by introduction of active
+groups capable of ion-exchange into
+compounds of the type C08J 5/2231}
+    5/225   . . . . . . . {containing fluorine}
+    5/2256  . . . . . {based on macromolecular compounds
+obtained by reactions other than those
+involving carbon-to-carbon bonds, e.g.
+    5/2262  . . . . . . {containing fluorine}
+    5/2268  . . . . . {based on macromolecular compounds
+obtained by reactions involving
+unsaturated carbon-to-carbon bonds, and
+by reactions not involving this type of
+    5/2275  . . . . {Heterogeneous membranes}
+    5/2281  . . . . . {fluorine containing heterogeneous
+    5/2287  . . . {After-treatment}
+    5/2293  . . . . {After-treatment of fluorine-containing
+    5/24    . Impregnating materials with prepolymers which can
+be polymerised in situ, e.g. manufacture of prepregs
+{In groups C08J 5/24 - C08J 5/249, the last place
+priority rule is not applied, i.e. the common rule
+    5/241   . . {using inorganic fibres}
+    5/242   . . . {using metal fibres}
+    5/243   . . . {using carbon fibres}
+    5/244   . . . {using glass fibres}
+    5/245   . . {using natural fibres}
+    5/246   . . {using polymer based synthetic fibres}
+    5/247   . . {using fibres of at least two types}
+    5/248   . . {using pre-treated fibres}
+    5/249   . . {characterised by the additives used in the
+    7/00    Chemical treatment or coating of shaped articles
+made of macromolecular substances (coating with
+metallic material C23C; electrolytic deposition of
+    7/02    . with solvents, e.g. swelling agents
+    7/042   . . {with two or more layers, where at least one layer
+of a composition contains a polymer binder}
+    7/0423  . . . {with at least one layer of inorganic material
+and at least one layer of a composition
+    7/0427  . . {with only one layer of a composition containing
+a polymer binder (with more layers C08J 7/042)}
+    7/043   . . Improving the adhesiveness of the coatings per
+se, e.g. forming primers (adhesives in the form of
+films or foils characterised by the primer layers
+between the polymer carriers and the adhesives
+    7/044   . . Forming conductive coatings; Forming coatings
+    7/046   . . Forming abrasion-resistant coatings; Forming
+    7/048   . . Forming gas barrier coatings
+    7/05    . . Forming flame retardant coatings or fire resistant
+    7/052   . . Forming heat-sealable coatings
+    7/054   . . Forming anti-misting or drip-proofing coatings
+    7/056   . . Forming hydrophilic coatings
+    7/06    . . with compositions not containing macromolecular
+    7/065   . . . {Low-molecular-weight organic substances,
+e.g. absorption of additives in the surface of the
+    7/12    . Chemical modification
+    7/123   . . {Treatment by wave energy or particle radiation
+    7/14    . . with acids, their salts or anhydrides
+    7/16    . . with polymerisable compounds
+    7/18    . . . using wave energy or particle radiation
+    9/00    Working-up of macromolecular substances to
+porous or cellular articles or materials; After-
+treatment thereof (mechanical aspects of shaping
+of plastics or substances in a plastic state for the
+production of porous or cellular articles B29C)
+In groups C08J 9/16 - C08J 9/22, the following
+term is used with the meaning indicated:
+• "expandable" includes also expanding, pre-
+{This Note corresponds to IPC Note (1) relating to
+    9/0004  . {Use of compounding ingredients, the chemical
+constitution of which is unknown, broadly defined,
+    9/0009  . . {Phase change materials}
+    9/0014  . {Use of organic additives}
+    9/0023  . . {containing oxygen}
+    9/0028  . . {containing nitrogen}
+    9/0033  . . {containing sulfur}
+    9/0038  . . {containing phosphorus}
+    9/0042  . . {containing silicon}
+    9/0047  . . {containing boron}
+    9/0052  . . {Organo-metallic compounds}
+    9/0057  . . {containing antimony, arsenic, or bismuth}
+    9/0061  . {characterized by the use of several polymeric
+    9/0066  . {Use of inorganic compounding ingredients}
+    9/0071  . . {Nanosized fillers, i.e. having at least one
+dimension below 100 nanometers}
+    9/008   . . . {Nanoparticles}
+    9/0085  . {Use of fibrous compounding ingredients
+(C08J 9/0076 takes precedence)}
+    9/009   . {Use of pretreated compounding ingredients}
+    9/0095  . {Mixtures of at least two compounding ingredients
+belonging to different one-dot groups}
+    9/02    . using blowing gases generated by the reacting
+monomers or modifying agents during the
+preparation or modification of macromolecules
+    9/04    . using blowing gases generated by a previously
+    9/06    . . by a chemical blowing agent
+    9/065   . . . {Hydrides or carbides}
+    9/08    . . . developing carbon dioxide
+    9/10    . . . developing nitrogen {, the blowing agent being
+a compound containing a nitrogen-to-nitrogen
+    9/101   . . . . {Agents modifying the decomposition
+    9/102   . . . . {Azo-compounds}
+    9/103   . . . . . {Azodicarbonamide}
+    9/104   . . . . {Hydrazines; Hydrazides; Semicarbazides;
+Semicarbazones; Hydrazones; Derivatives
+    9/105   . . . . . {containing sulfur}
+    9/107   . . . . {Nitroso compounds}
+    9/108   . . . . {in a heterocyclic ring containing at least one
+    9/12    . . by a physical blowing agent
+    9/122   . . . {Hydrogen, oxygen, CO2, nitrogen or noble
+    9/125   . . . {Water, e.g. hydrated salts}
+    9/127   . . . {Mixtures of organic and inorganic blowing
+    9/141   . . . . {Hydrocarbons}
+    9/142   . . . . {Compounds containing oxygen but no
+    9/143   . . . . {Halogen containing compounds}
+    9/144   . . . . . {containing carbon, halogen and hydrogen
+    9/145   . . . . . . {only chlorine as halogen atoms}
+    9/146   . . . . . . {only fluorine as halogen atoms}
+    9/147   . . . . . {containing carbon and halogen atoms
+    9/148   . . . . . . {perfluorinated}
+    9/149   . . . . {Mixtures of blowing agents covered
+    9/16    . Making expandable particles
+    9/18    . . by impregnating polymer particles with the
+    9/20    . . by suspension polymerisation in the presence of
+    9/22    . After-treatment of expandable particles; Forming
+    9/224   . . Surface treatment
+    9/228   . . Forming foamed products
+    9/232   . . . by sintering expandable particles
+    9/236   . . . using binding agents
+    9/24    . by surface fusion and bonding of particles to
+form voids, e.g. sintering (of expandable particles
+    9/26    . by elimination of a solid phase from a
+macromolecular composition or article, e.g.
+    9/28    . by elimination of a liquid phase from a
+macromolecular composition or article, e.g. drying
+    9/283   . . {a discontinuous liquid phase emulsified in a
+continuous macromolecular phase}
+    9/286   . . {the liquid phase being a solvent for
+the monomers but not for the resulting
+macromolecular composition, i.e. macroporous or
+    9/30    . by mixing gases into liquid compositions or
+plastisols, e.g. frothing with air
+    9/32    . from compositions containing microballoons, e.g.
+    9/33    . Agglomerating foam fragments, e.g. waste foam
+    9/34    . Chemical features in the manufacture of articles
+consisting of a foamed macromolecular core and
+a macromolecular surface layer having a higher
+    9/35    . Composite foams, i.e. continuous macromolecular
+foams containing discontinuous cellular particles or
+    9/36    . After-treatment (C08J 9/22 takes precedence)
+    9/38    . . Destruction of cell membranes
+    9/405   . . . {with polymerisable compounds}
+    9/42    . . . with macromolecular compounds
+   11/00    Recovery or working-up of waste materials
+(recovery of plastics B29B 17/00; polymerisation
+processes involving purification or recycling of waste
+polymers or their depolymerisation products C08B,
+   11/02    . of solvents, plasticisers or unreacted monomers
+   11/06    . . without chemical reactions
+   11/08    . . . using selective solvents for polymer
+   11/10    . . by chemically breaking down the molecular
+chains of polymers or breaking of crosslinks, e.g.
+devulcanisation (depolymerisation to the original
+   11/105   . . . {by treatment with enzymes}
+   11/12    . . . by dry-heat treatment only
+   11/14    . . . by treatment with steam or water
+   11/16    . . . by treatment with inorganic material
+   11/18    . . . by treatment with organic material
+   11/20    . . . . by treatment with hydrocarbons or
+   11/22    . . . . by treatment with organic oxygen-containing
+   11/24    . . . . . containing hydroxyl groups
+   11/26    . . . . . containing carboxylic acid groups, their
+   11/28    . . . . by treatment with organic compounds
+containing nitrogen, sulfur or phosphorus
+   99/00    Subject matter not provided for in other groups of
+ 2201/00    Foams characterised by the foaming process
+ 2201/02    . characterised by mechanical pre- or post-treatments
+ 2201/022   . . premixing or pre-blending a part of the
+components of a foamable composition, e.g.
+premixing the polyol with the blowing agent,
+surfactant and catalyst and only adding the
+isocyanate at the time of foaming
+ 2201/024   . . Preparation or use of a blowing agent concentrate,
+i.e. masterbatch in a foamable composition
+ 2201/026   . . Crosslinking before of after foaming
+ 2201/028   . . Foaming by preparing of a high internal phase
+ 2201/03    . . Extrusion of the foamable blend
+ 2201/032   . . Impregnation of a formed object with a gas
+(expandable particles, e.g. polystyrene beads
+ 2201/034   . . Post-expanding of foam beads or sheets
+ 2201/036   . . Use of an organic, non-polymeric compound to
+impregnate, bind or coat a foam, e.g. fatty acid
+ 2201/038   . . Use of an inorganic compound to impregnate,
+bind or coat a foam, e.g. waterglass
+ 2201/04    . characterised by the elimination of a liquid or
+solid component, e.g. precipitation, leaching out,
+When the elimination is performed in several
+steps, only the first step is indicated using codes
+ 2201/042   . . Elimination of an organic solid phase
+ 2201/0422  . . . containing oxygen atoms, e.g. saccharose
+ 2201/0424  . . . containing halogen, nitrogen, sulphur or
+ 2201/044   . . Elimination of an inorganic solid phase
+ 2201/0442  . . . the inorganic phase being a metal, its oxide or
+ 2201/0446  . . . . Elimination of NaCl only
+ 2201/046   . . Elimination of a polymeric phase
+ 2201/0462  . . . using organic solvents
+ 2201/0464  . . . using water or inorganic fluids
+ 2201/048   . . Elimination of a frozen liquid phase
+ 2201/0482  . . . the liquid phase being organic
+ 2201/0484  . . . the liquid phase being aqueous
+ 2201/05    . . Elimination by evaporation or heat degradation of
+ 2201/0502  . . . the liquid phase being organic
+ 2201/0504  . . . the liquid phase being aqueous
+ 2201/052   . . Inducing phase separation by thermal treatment,
+ 2201/0522  . . . the liquid phase being organic
+ 2201/0524  . . . the liquid phase being aqueous
+ 2201/054   . . Precipitating the polymer by adding a non-solvent
+ 2201/0542  . . . from an organic solvent-based polymer
+ 2201/0543  . . . . the non-solvent being organic
+ 2201/0544  . . . . the non-solvent being aqueous
+ 2201/0545  . . . from an aqueous solvent-based polymer
+ 2201/0546  . . . . the non-solvent being organic
+ 2201/0547  . . . . the non-solvent being aqueous
+ 2203/00    Foams characterized by the expanding agent
+ 2203/02    . CO2-releasing, e.g. NaHCO3 and citric acid
+ 2203/04    . N2 releasing, ex azodicarbonamide or nitroso
+ 2203/06    . CO2, N2 or noble gases
+ 2203/08    . Supercritical fluid
+ 2203/10    . Water or water-releasing compounds
+ 2203/12    . Organic compounds only containing carbon,
+hydrogen and oxygen atoms, e.g. ketone or alcohol
+ 2203/14    . Saturated hydrocarbons, e.g. butane; Unspecified
+ 2203/142   . . Halogenated saturated hydrocarbons, e.g. H3C-
+ 2203/144   . . . Perhalogenated saturated hydrocarbons, e.g.
+ 2203/146   . . Saturated hydrocarbons containing oxygen and
+halogen atoms, e.g. F3C-O-CH2-CH3
+ 2203/16    . Unsaturated hydrocarbons
+ 2203/162   . . Halogenated unsaturated hydrocarbons, e.g.
+ 2203/164   . . . Perhalogenated unsaturated hydrocarbons, e.g.
+ 2203/166   . . Unsaturated hydrocarbons containing oxygen and
+halogen atoms, e.g. F3C-O-CH=CH2
+ 2203/18    . Binary blends of expanding agents
+ 2203/182   . . of physical blowing agents, e.g. acetone and
+The blowing agents should be specified by
+using codes C08J 2203/06 - C08J 2203/166.
+ 2203/184   . . of chemical foaming agent and physical blowing
+agent, e.g. azodicarbonamide and fluorocarbon
+The expanding agents should be specified by
+using codes C08J 2203/02 - C08J 2203/166.
+ 2203/20    . Ternary blends of expanding agents
+ 2203/202   . . of physical blowing agents
+The blowing agents should be specified by
+using codes C08J 2203/02 - C08J 2203/166.
+ 2203/204   . . of chemical foaming agent and physical blowing
+The expanding agents should be specified by
+using codes C08J 2203/02 - C08J 2203/166.
+ 2203/22    . Expandable microspheres, e.g. Expancel®
+ 2205/00    Foams characterised by their properties
+ 2205/02    . the finished foam itself being a gel or a gel being
+temporarily formed when processing the foamable
+ 2205/022   . . Hydrogel, i.e. a gel containing an aqueous
+ 2205/024   . . Organogel, i.e. a gel containing an organic
+ 2205/026   . . Aerogel, i.e. a supercritically dried gel
+ 2205/028   . . Xerogel, i.e. an air dried gel
+ 2205/04    . characterised by the foam pores
+ 2205/042   . . Nanopores, i.e. the average diameter being
+ 2205/044   . . Micropores, i.e. average diameter being between
+0,1 micrometer and 0,1 millimeter
+ 2205/046   . . Unimodal pore distribution
+ 2205/048   . . Bimodal pore distribution, e.g. micropores and
+nanopores coexisting in the same foam
+ 2205/05    . . Open cells, i.e. more than 50% of the pores are
+ 2205/052   . . Closed cells, i.e. more than 50% of the pores are
+ 2205/08    . Semi-flexible foams
+ 2207/00    Foams characterised by their intended use
+ 2207/04    . Aerosol, e.g. polyurethane foam spray
+ 2207/06    . Electrical wire insulation
+ 2207/10    . Medical applications, e.g. biocompatible scaffolds
+ 2207/12    . Sanitary use, e.g. diapers, napkins or bandages
+Characterizing the main polymer used in a working-up process
+ 2300/00    Characterised by the use of unspecified polymers
+ 2300/10    . Polymers characterised by the presence of specified
+groups, e.g. terminal or pendant functional groups
+ 2300/102   . . containing halogen atoms
+ 2300/104   . . containing oxygen atoms
+ 2300/105   . . . containing carboxyl groups
+ 2300/106   . . containing nitrogen atoms
+ 2300/108   . . containing hydrolysable silane groups
+ 2300/12    . Polymers characterised by physical features, e.g.
+anisotropy, viscosity or electrical conductivity
+ 2300/14    . Water soluble or water swellable polymers, e.g.
+ 2300/16    . Biodegradable polymers
+ 2300/20    . Polymers characterized by their physical structure
+ 2300/202   . . Dendritic macromolecules, e.g. dendrimers or
+ 2300/204   . . Supramolecular materials
+ 2300/208   . . Interpenetrating networks [IPN]
+ 2300/21    . . Polyrotaxanes; Polycatenanes
+ 2300/22    . Thermoplastic resins
+ 2300/24    . Thermosetting resins
+ 2300/30    . Polymeric waste or recycled polymer
+ 2301/00    Characterised by the use of cellulose, modified
+cellulose or cellulose derivatives
+ 2301/02    . Cellulose; Modified cellulose
+ 2301/04    . Oxycellulose; Hydrocellulose
+ 2301/06    . Cellulose hydrate
+ 2301/08    . Cellulose derivatives
+ 2301/10    . . Esters of organic acids
+ 2301/12    . . . Cellulose acetate
+ 2301/16    . . Esters of inorganic acids
+ 2301/18    . . . Cellulose nitrate
+ 2301/20    . . Esters of both organic acids and inorganic acids
+ 2301/22    . . Cellulose xanthate
+ 2301/26    . . Cellulose ethers
+ 2301/30    . . . Aryl ethers; Aralkyl ethers
+ 2301/32    . . Cellulose ether-esters
+ 2303/00    Characterised by the use of starch, amylose or
+amylopectin or of their derivatives or degradation
+ 2303/02    . Starch; Degradation products thereof, e.g. dextrin
+ 2303/04    . Starch derivatives
+ 2303/10    . . Oxidised starch
+ 2303/12    . Amylose; Amylopectin; Degradation products
+ 2303/14    . Amylose derivatives; Amylopectin derivatives
+ 2303/20    . . Oxidised amylose; Oxidised amylopectin
+ 2305/00    Characterised by the use of polysaccharides or
+of their derivatives not provided for in groups
+ 2305/02    . Dextran; Derivatives thereof
+ 2305/04    . Alginic acid; Derivatives thereof
+ 2305/06    . Pectin; Derivatives thereof
+ 2305/08    . Chitin; Chondroitin sulfate; Hyaluronic acid;
+ 2305/10    . Heparin; Derivatives thereof
+ 2305/12    . Agar-agar; Derivatives thereof
+ 2305/14    . Hemicellulose; Derivatives thereof
+ 2305/16    . Cyclodextrin; Derivatives thereof
+ 2307/00    Characterised by the use of natural rubber
+ 2309/00    Characterised by the use of homopolymers or
+copolymers of conjugated diene hydrocarbons
+ 2309/02    . Copolymers with acrylonitrile
+ 2309/06    . Copolymers with styrene
+6Characterizing the main polymer used in a working-up process
+ 2309/10    . Latex (C08J 2309/04, C08J 2309/08 take
+ 2311/00    Characterised by the use of homopolymers or
+ 2313/00    Characterised by the use of rubbers containing
+ 2315/00    Characterised by the use of rubber derivatives
+(C08J 2311/00, C08J 2313/00 takes precedence)
+ 2315/02    . Rubber derivatives containing halogen
+ 2317/00    Characterised by the use of reclaimed rubber
+ 2319/00    Characterised by the use of rubbers not provided
+for in groups C08J 2307/00 - C08J 2317/00
+ 2321/00    Characterised by the use of unspecified rubbers
+ 2323/00    Characterised by the use of homopolymers or
+copolymers of unsaturated aliphatic hydrocarbons
+having only one carbon-to-carbon double bond;
+ 2323/02    . not modified by chemical after treatment
+ 2323/04    . . Homopolymers or copolymers of ethene
+ 2323/08    . . . Copolymers of ethene (C08J 2323/16 takes
+ 2323/10    . . Homopolymers or copolymers of propene
+ 2323/14    . . . Copolymers of propene (C08J 2323/16 takes
+ 2323/16    . . Ethene-propene or ethene-propene-diene
+ 2323/18    . . Homopolymers or copolymers of hydrocarbons
+having four or more carbon atoms
+ 2323/20    . . . having four to nine carbon atoms
+ 2323/22    . . . . Copolymers of isobutene; butyl rubber
+ 2323/24    . . . having ten or more carbon atoms
+ 2323/26    . modified by chemical after-treatment
+ 2323/28    . . by reaction with halogens or halogen-containing
+compounds (C08J 2323/32 takes precedence)
+ 2323/32    . . by reaction with phosphorus- or sulfur-containing
+ 2323/34    . . . by chlorosulfonation
+ 2323/36    . . by reaction with nitrogen-containing compounds,
+ 2325/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by an aromatic carbocyclic
+ring; Derivatives of such polymers
+ 2325/02    . Homopolymers or copolymers of hydrocarbons
+ 2325/04    . . Homopolymers or copolymers of styrene
+ 2325/08    . . . Copolymers of styrene (C08J 2329/08,
+C08J 2335/06, C08J 2355/02 take precedence)
+ 2325/10    . . . . with conjugated dienes
+ 2325/12    . . . . with unsaturated nitriles
+ 2325/14    . . . . with unsaturated esters
+ 2325/16    . . Homopolymers or copolymers of alkyl-
+ 2325/18    . Homopolymers or copolymers of aromatic
+monomers containing elements other than carbon
+ 2327/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a halogen; Derivatives of
+ 2327/02    . not modified by chemical after-treatment
+ 2327/04    . . containing chlorine atoms
+ 2327/06    . . . Homopolymers or copolymers of vinyl chloride
+ 2327/08    . . . Homopolymers or copolymers of vinylidene
+ 2327/10    . . containing bromine or iodine atoms
+ 2327/12    . . containing fluorine atoms
+ 2327/14    . . . Homopolymers or copolymers of vinyl fluoride
+ 2327/16    . . . Homopolymers or copolymers of vinylidene
+ 2327/18    . . . Homopolymers or copolymers of
+ 2327/20    . . . Homopolymers or copolymers of
+ 2327/22    . modified by chemical after-treatment
+ 2329/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having
+only one carbon-to-carbon double bond, and
+at least one being terminated by an alcohol,
+ether, aldehydo, ketonic, acetal, or ketal radical;
+Hydrolysed polymers of esters of unsaturated
+alcohols with saturated carboxylic acids;
+ 2329/02    . Homopolymers or copolymers of unsaturated
+alcohols (C08J 2329/14 takes precedence)
+ 2329/04    . . Polyvinyl alcohol; Partially hydrolysed
+homopolymers or copolymers of esters of
+unsaturated alcohols with saturated carboxylic
+ 2329/06    . . Copolymers of allyl alcohol
+ 2329/08    . . . with vinyl aromatic monomers
+ 2329/10    . Homopolymers or copolymers of unsaturated ethers
+(C08J 2335/08 takes precedence)
+ 2329/12    . Homopolymers or copolymers of unsaturated
+ 2329/14    . Homopolymers or copolymers of acetals or ketals
+obtained by polymerisation of unsaturated acetals
+or ketals or by after-treatment of polymers of
+ 2331/00    Characterised by the use of copolymers of
+compounds having one or more unsaturated
+aliphatic radicals, each having only one carbon-
+to-carbon double bond, and at least one
+being terminated by an acyloxy radical of a
+saturated carboxylic acid, or carbonic acid, or
+of a haloformic acid (of hydrolysed polymers
+7Characterizing the main polymer used in a working-up process
+ 2331/02    . Characterised by the use of omopolymers or
+copolymers of esters of monocarboxylic acids
+ 2331/04    . . Homopolymers or copolymers of vinyl acetate
+ 2331/06    . Homopolymers or copolymers of esters of
+ 2331/08    . . of phthalic acid
+ 2333/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and only one
+being terminated by only one carboxyl radical,
+or of salts, anhydrides, esters, amides, imides, or
+nitriles thereof; Derivatives of such polymers
+ 2333/02    . Homopolymers or copolymers of acids; Metal or
+ 2333/06    . . of esters containing only carbon, hydrogen, and
+oxygen, the oxygen atom being present only as
+ 2333/08    . . . Homopolymers or copolymers of acrylic acid
+ 2333/10    . . . Homopolymers or copolymers of methacrylic
+ 2333/12    . . . . Homopolymers or copolymers of methyl
+ 2333/14    . . of esters containing halogen, nitrogen, sulfur, or
+oxygen atoms in addition to the carboxy oxygen
+ 2333/16    . . . Homopolymers or copolymers of esters
+ 2333/18    . Homopolymers or copolymers of nitriles
+ 2333/20    . . Homopolymers or copolymers of acrylonitrile
+(C08J 2355/02 takes precedence)
+ 2333/22    . . Homopolymers or copolymers of nitriles
+containing four or more carbon atoms
+ 2333/24    . Homopolymers or copolymers of amides or imides
+ 2333/26    . . Homopolymers or copolymers of acrylamide or
+ 2335/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a carboxyl radical, and
+containing at least one other carboxyl radical
+in the molecule, or of salts, anhydrides, esters,
+amides, imides or nitriles thereof; Derivatives of
+ 2335/02    . Characterised by the use of homopolymers or
+copolymers of esters (C08J 2335/06, C08J 2335/08
+ 2335/04    . Homopolymers or copolymers of nitriles
+(C08J 2335/06, C08J 2335/08 take precedence)
+ 2335/06    . Copolymers with vinyl aromatic monomers
+ 2335/08    . Copolymers with vinyl ethers
+ 2337/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a heterocyclic ring
+containing oxygen (of cyclic esters of polyfunctional
+acids C08J 2331/00; of cyclic anhydrides of
+unsaturated acids C08J 2335/00); Derivatives of such
+ 2339/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a single or double bond
+to nitrogen or by a heterocyclic ring containing
+nitrogen; Derivatives of such polymers
+ 2339/02    . Homopolymers or copolymers of vinylamine
+ 2339/04    . Homopolymers or copolymers of monomers
+containing heterocyclic rings having nitrogen as
+ 2339/06    . . Homopolymers or copolymers of N-vinyl-
+ 2339/08    . . Homopolymers or copolymers of vinyl-pyridine
+ 2341/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a bond to sulfur or by a
+heterocyclic ring containing sulfur; Derivatives of
+ 2343/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and containing
+boron, silicon, phosphorus, selenium, tellurium
+or a metal; Derivatives of such polymers (of metal
+salts, e.g. phenolates, alcoholates, see the parent
+ 2343/02    . Homopolymers or copolymers of monomers
+ 2343/04    . Homopolymers or copolymers of monomers
+ 2345/00    Characterised by the use of homopolymers or
+copolymers of compounds having no unsaturated
+aliphatic radicals in side chain, and having one
+or more carbon-to-carbon double bonds in a
+carbocyclic or in a heterocyclic ring system;
+Derivatives of such polymers (of cyclic anhydrides
+or imides C08J 2335/00; of cyclic esters of
+polyfunctional acids C08J 2331/00)
+ 2345/02    . of coumarone-indene polymers
+ 2347/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, at least one having
+two or more carbon-to-carbon double bonds;
+Derivatives of such polymers (C08J 2345/00
+takes precedence; of conjugated diene rubbers
+ 2349/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+carbon-to-carbon triple bonds; Derivatives of such
+ 2351/00    Characterised by the use of graft polymers
+in which the grafted component is obtained
+by reactions only involving carbon-to-
+carbon unsaturated bonds (for ABS polymers
+C08J 2355/02); Derivatives of such polymers
+ 2351/02    . grafted on to polysaccharides
+ 2351/04    . grafted on to rubbers
+8Characterizing the main polymer used in a working-up process
+ 2351/06    . grafted on to homopolymers or copolymers of
+aliphatic hydrocarbons containing only one carbon-
+ 2351/08    . grafted on to macromolecular compounds obtained
+otherwise than by reactions only involving carbon-
+ 2351/10    . grafted on to inorganic materials
+ 2353/00    Characterised by the use of block copolymers
+containing at least one sequence of a polymer
+obtained by reactions only involving carbon-to-
+carbon unsaturated bonds; Derivatives of such
+ 2353/02    . of vinyl aromatic monomers and conjugated dienes
+ 2355/00    Characterised by the use of homopolymers
+or copolymers, obtained by polymerisation
+reactions only involving carbon-to-carbon
+unsaturated bonds, not provided for in groups
+ 2355/02    . Acrylonitrile-Butadiene-Styrene [ABS] polymers
+ 2355/04    . Polyadducts obtained by the diene synthesis
+ 2357/00    Characterised by the use of unspecified polymers
+obtained by reactions only involving carbon-to-
+ 2357/02    . Copolymers of mineral oil hydrocarbons
+ 2357/04    . Copolymers in which only the monomer in minority
+ 2357/06    . Homopolymers or copolymers containing elements
+ 2357/08    . . containing halogen atoms
+ 2357/10    . . containing oxygen atoms
+ 2357/12    . . containing nitrogen atoms
+ 2359/00    Characterised by the use of polyacetals containing
+polyoxymethylene sequences only
+ 2359/02    . Copolyoxymethylenes
+ 2361/00    Characterised by the use of condensation polymers
+of aldehydes or ketones (with polyalcohols
+C08J 2359/00; with polynitriles C08J 2377/00);
+ 2361/02    . Condensation polymers of aldehydes or ketones
+ 2361/04    . Condensation polymers of aldehydes or ketones
+ 2361/06    . . of aldehydes with phenols
+ 2361/08    . . . with monohydric phenols
+ 2361/10    . . . . Phenol-formaldehyde condensates
+ 2361/12    . . . with polyhydric phenols
+ 2361/14    . . . Modified phenol-aldehyde condensates
+ 2361/16    . . of ketones with phenols
+ 2361/18    . Condensation polymers of aldehydes or ketones
+with aromatic hydrocarbons or their halogen
+ 2361/20    . Condensation polymers of aldehydes or ketones
+with only compounds containing hydrogen attached
+to nitrogen (with amino phenols C08J 2361/04)
+ 2361/22    . . of aldehydes with acyclic or carbocyclic
+ 2361/24    . . . with urea or thiourea
+ 2361/26    . . of aldehydes with heterocyclic compounds
+ 2361/28    . . . with melamine
+ 2361/30    . . of aldehydes with heterocyclic and acyclic or
+ 2361/32    . . Modified amine-aldehyde condensateS
+ 2361/34    . Condensation polymers of aldehydes or ketones
+with monomers covered by at least two of
+the groups C08J 2361/04, C08J 2361/18, and
+ 2363/00    Characterised by the use of epoxy resins;
+ 2363/02    . Polyglycidyl ethers of bis-phenols
+ 2363/06    . Triglycidylisocyanurates
+ 2363/08    . Epoxidised polymerised polyenes
+ 2363/10    . Epoxy resins modified by unsaturated compounds
+ 2365/00    Characterised by the use of macromolecular
+compounds obtained by reactions forming
+a carbon-to-carbon link in the main chain
+(C08J 2307/00 - C08J 2357/00, C08J 2361/00 take
+precedence); Derivatives of such polymers
+ 2367/00    Characterised by the use of polyesters obtained
+by reactions forming a carboxylic ester link in the
+main chain (of polyester-amides C08J 2377/12; of
+polyester-imides C08J 2379/08); Derivatives of such
+ 2367/02    . Polyesters derived from dicarboxylic acids and
+dihydroxy compounds; (C08J 2367/06 takes
+ 2367/03    . . the dicarboxylic acids and dihydroxy compounds
+having the hydroxy and the carboxyl groups
+directly linked to aromatic rings
+ 2367/04    . Polyesters derived from hydroxy carboxylic acids,
+e.g. lactones (C08J 2367/06 takes precedence)
+ 2367/06    . Unsaturated polyesters
+ 2367/07    . . having terminal carbon-to-carbon unsaturated
+ 2367/08    . Polyesters modified with higher fatty oils or their
+acids, or with resins or resin acids
+ 2369/00    Characterised by the use of polycarbonates;
+ 2371/00    Characterised by the use of polyethers obtained
+by reactions forming an ether link in the main
+chain (of polyacetals C08J 2359/00; of epoxy resins
+C08J 2363/00; of polythioether-ethers C08J 2381/02;
+of polyethersulfones C08J 2381/06); Derivatives of
+ 2371/02    . Polyalkylene oxides
+ 2371/03    . . Polyepihalohydrins
+ 2371/08    . Polyethers derived from hydroxy compounds or
+from their metallic derivatives (C08J 2371/02 takes
+ 2371/12    . . . Polyphenylene oxides
+ 2371/14    . . Furfuryl alcohol polymers
+ 2373/00    Characterised by the use of macromolecular
+compounds obtained by reactions forming a
+linkage containing oxygen or oxygen and carbon
+in the main chain, not provided for in groups
+C08J 2359/00 - C08J 2371/00; Derivatives of such
+9Characterizing the main polymer used in a working-up process
+ 2375/00    Characterised by the use of polyureas or
+polyurethanes; Derivatives of such polymers
+ 2375/06    . . from polyesters
+ 2375/08    . . from polyethers
+ 2375/10    . . from polyacetals
+ 2375/12    . . from compounds containing nitrogen and active
+hydrogen, the nitrogen atom not being part of an
+ 2375/14    . . Polyurethanes having carbon-to-carbon
+ 2375/16    . . . having terminal carbon-to-carbon unsaturated
+ 2377/00    Characterised by the use of polyamides obtained
+by reactions forming a carboxylic amide link in
+the main chain (of polyhydrazides C08J 2379/06; of
+polyamide-imides or polyamide acids C08J 2379/08);
+ 2377/02    . Polyamides derived from omega-amino carboxylic
+acids or from lactams thereof (C08J 2377/10 takes
+ 2377/04    . Polyamides derived from alpha-amino carboxylic
+acids (C08J 2377/10 takes precedence)
+ 2377/06    . Polyamides derived from polyamines and
+polycarboxylic acids (C08J 2377/10 takes
+ 2377/08    . . from polyamines and polymerised unsaturated
+ 2377/10    . Polyamides derived from aromatically bound amino
+and carboxyl groups of amino carboxylic acids or of
+polyamines and polycarboxylic acids
+ 2379/00    Characterised by the use of macromolecular
+compounds obtained by reactions forming in
+the main chain of the macromolecule a linkage
+containing nitrogen with or without oxygen,
+or carbon only, not provided for in groups
+ 2379/04    . Polycondensates having nitrogen-containing
+heterocyclic rings in the main chain;
+Polyhydrazides; Polyamide acids or similar
+ 2379/06    . . Polyhydrazides; Polytriazoles; Polyamino-
+ 2379/08    . . Polyimides; Polyester-imides; Polyamide-imides;
+Polyamide acids or similar polyimide precursors
+ 2381/00    Characterised by the use of macromolecular
+compounds obtained by reactions forming in
+the main chain of the macromolecule a linkage
+containing sulfur with or without nitrogen, oxygen,
+or carbon only; Polysulfones; Derivatives of such
+ 2381/02    . Polythioethers; Polythioether-ethers
+ 2381/06    . Polysulfones; Polyethersulfones
+ 2381/10    . Polysulfonamides; Polysulfonimides
+ 2383/00    Characterised by the use of macromolecular
+compounds obtained by reactions forming in
+the main chain of the macromolecule a linkage
+containing silicon with or without sulfur, nitrogen,
+oxygen, or carbon only; Derivatives of such
+ 2383/05    . . containing silicon bound to hydrogen
+ 2383/06    . . containing silicon bound to oxygen-containing
+groups (C08J 2383/12 takes precedence)
+ 2383/07    . . containing silicon bound to unsaturated aliphatic
+ 2383/08    . . containing silicon bound to organic groups
+containing atoms other than carbon, hydrogen,
+ 2383/10    . Block- or graft-copolymers containing polysiloxane
+sequences (obtained by polymerising a compound
+having a carbon-to-carbon double bond on to a
+polysiloxane C08J 2351/08, C08J 2353/00)
+ 2383/12    . . containing polyether sequences
+ 2383/14    . in which at least two but not all the silicon atoms
+are connected by linkages other than oxygen atoms
+(C08J 2383/10 takes precedence)
+ 2383/16    . in which all the silicon atoms are connected by
+linkages other than oxygen atoms
+ 2385/00    Characterised by the use of macromolecular
+compounds obtained by reactions forming in
+the main chain of the macromolecule a linkage
+containing atoms other than silicon, sulfur,
+nitrogen, oxygen, and carbon; Derivatives of such
+ 2385/02    . containing phosphorus
+ 2387/00    Characterised by the use of unspecified
+macromolecular compounds, obtained otherwise
+than by polymerisation reactions only involving
+unsaturated carbon-to-carbon bonds
+ 2389/00    Characterised by the use of proteins; Derivatives
+ 2389/02    . Casein-aldehyde condensates
+ 2389/04    . Products derived from waste materials, e.g. horn,
+ 2389/06    . . derived from leather or skin
+ 2391/00    Characterised by the use of oils, fats or waxes;
+ 2391/02    . Vulcanised oils, e.g. factice
+ 2393/00    Characterised by the use of natural resins;
+Derivatives thereof (of polysaccharides
+C08J 2301/00 - C08J 2305/00; of natural rubber
+ 2395/00    Bituminous materials, e.g. asphalt, tar or pitch
+ 2397/00    Characterised by the use of lignin-
+containing materials (of polysaccharides
+10Characterizing the main polymer used in a working-up process
+ 2397/02    . Lignocellulosic material, e.g. wood, straw or
+ 2399/00    Characterised by the use of natural
+derivatives thereof not provided for in
+groups C08J 2301/00 - C08J 2307/00 or
+Characterizing additional polymers used in a working-up process
+ 2400/00    Characterised by the use of unspecified polymers
+ 2400/10    . Polymers characterised by the presence of specified
+groups, e.g. terminal or pendant functional groups
+ 2400/102   . . containing halogen atoms
+ 2400/104   . . containing oxygen atoms
+ 2400/105   . . . containing carboxyl groups
+ 2400/106   . . containing nitrogen atoms
+ 2400/108   . . containing hydrolysable silane groups
+ 2400/12    . Polymers characterised by physical features, e.g.
+anisotropy, viscosity or electrical conductivity
+ 2400/14    . Water soluble or water swellable polymers, e.g.
+ 2400/16    . Biodegradable polymers
+ 2400/20    . Polymers characterized by their physical structure
+ 2400/202   . . Dendritic macromolecules, e.g. dendrimers or
+ 2400/204   . . Supramolecular materials
+ 2400/208   . . Interpenetrating networks [IPN]
+ 2400/21    . . Polyrotaxanes; Polycatenanes
+ 2400/22    . Thermoplastic resins
+ 2400/24    . Thermosetting resins
+ 2400/30    . Polymeric waste or recycled polymer
+ 2401/00    Characterised by the use of cellulose, modified
+cellulose or cellulose derivatives
+ 2401/02    . Cellulose; Modified cellulose
+ 2401/04    . . Oxycellulose; Hydrocellulose
+ 2401/06    . . Cellulose hydrate
+ 2401/08    . Cellulose derivatives
+ 2401/10    . . Esters of organic acids
+ 2401/12    . . . Cellulose acetate
+ 2401/16    . . Esters of inorganic acids
+ 2401/18    . . . Cellulose nitrate
+ 2401/20    . . Esters of both organic acids and inorganic acids
+ 2401/22    . . Cellulose xanthate
+ 2401/26    . . Cellulose ethers
+ 2401/30    . . . Aryl ethers; Aralkyl ethers
+ 2401/32    . . Cellulose ether-esters
+ 2403/00    Characterised by the use of starch, amylose or
+amylopectin or of their derivatives or degradation
+ 2403/02    . Starch; Degradation products thereof, e.g. dextrin
+ 2403/04    . Starch derivatives
+ 2403/10    . . Oxidised starch
+ 2403/12    . Amylose; Amylopectin; Degradation products
+ 2403/14    . Amylose derivatives; Amylopectin derivatives
+ 2403/20    . . Oxidised amylose; Oxidised amylopectin
+ 2405/00    Characterised by the use of polysaccharides or
+of their derivatives not provided for in groups
+ 2405/02    . Dextran; Derivatives thereof
+ 2405/04    . Alginic acid; Derivatives thereof
+ 2405/06    . Pectin; Derivatives thereof
+ 2405/08    . Chitin; Chondroitin sulfate; Hyaluronic acid;
+ 2405/10    . Heparin; Derivatives thereof
+ 2405/12    . Agar-agar; Derivatives thereof
+ 2405/14    . Hemicellulose; Derivatives thereof
+ 2405/16    . Cyclodextrin; Derivatives thereof
+ 2407/00    Characterised by the use of natural rubber
+ 2409/00    Characterised by the use of homopolymers or
+copolymers of conjugated diene hydrocarbons
+ 2409/02    . Copolymers with acrylonitrile
+ 2409/06    . Copolymers with styrene
+ 2409/10    . Latex (C08J 2409/04, C08J 2409/08 take
+ 2411/00    Characterised by the use of homopolymers or
+ 2413/00    Characterised by the use of rubbers containing
+ 2415/00    Characterised by the use of rubber derivatives
+(C08J 2411/00, C08J 2413/00 takes precedence)
+ 2415/02    . Rubber derivatives containing halogen
+ 2417/00    Characterised by the use of reclaimed rubber
+ 2419/00    Characterised by the use of rubbers not provided
+for in groups C08J 2407/00 - C08J 2417/00
+ 2421/00    Characterised by the use of unspecified rubbers
+ 2423/00    Characterised by the use of homopolymers or
+copolymers of unsaturated aliphatic hydrocarbons
+having only one carbon-to-carbon double bond;
+ 2423/02    . not modified by chemical after treatment
+ 2423/04    . . Homopolymers or copolymers of ethene
+ 2423/08    . . . Copolymers of ethene (C08J 2423/16 takes
+ 2423/10    . . Homopolymers or copolymers of propene
+ 2423/14    . . . Copolymers of propene (C08J 2423/16 takes
+ 2423/16    . . Ethene-propene or ethene-propene-diene
+11Characterizing additional polymers used in a working-up process
+ 2423/18    . . Homopolymers or copolymers of hydrocarbons
+having four or more carbon atoms
+ 2423/20    . . . having four to nine carbon atoms
+ 2423/22    . . . . Copolymers of isobutene; butyl rubber
+ 2423/24    . . . having ten or more carbon atoms
+ 2423/26    . modified by chemical after-treatment
+ 2423/28    . . by reaction with halogens or halogen-containing
+compounds (C08J 2423/32 takes precedence)
+ 2423/32    . . by reaction with phosphorus- or sulfur-containing
+ 2423/34    . . . by chlorosulfonation
+ 2423/36    . . by reaction with nitrogen-containing compounds,
+ 2425/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by an aromatic carbocyclic
+ring; Derivatives of such polymers
+ 2425/02    . Homopolymers or copolymers of hydrocarbons
+ 2425/04    . . Homopolymers or copolymers of styrene
+ 2425/08    . . . Copolymers of styrene (C08J 2429/08,
+C08J 2435/06, C08J 2455/02 take precedence)
+ 2425/10    . . . . with conjugated dienes
+ 2425/12    . . . . with unsaturated nitriles
+ 2425/14    . . . with unsaturated esters
+ 2425/16    . . Homopolymers or copolymers of alkyl-
+ 2425/18    . Homopolymers or copolymers of aromatic
+monomers containing elements other than carbon
+ 2427/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a halogen; Derivatives of
+ 2427/02    . not modified by chemical after-treatment
+ 2427/04    . . containing chlorine atoms
+ 2427/06    . . . Homopolymers or copolymers of vinyl chloride
+ 2427/08    . . . Homopolymers or copolymers of vinylidene
+ 2427/10    . . containing bromine or iodine atoms
+ 2427/12    . . containing fluorine atoms
+ 2427/14    . . . Homopolymers or copolymers of vinyl fluoride
+ 2427/16    . . . Homopolymers or copolymers of vinylidene
+ 2427/18    . . . Homopolymers or copolymers of
+ 2427/20    . . . Homopolymers or copolymers of
+ 2427/22    . modified by chemical after-treatment
+ 2429/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having
+only one carbon-to-carbon double bond, and
+at least one being terminated by an alcohol,
+ether, aldehydo, ketonic, acetal, or ketal radical;
+Hydrolysed polymers of esters of unsaturated
+alcohols with saturated carboxylic acids;
+ 2429/02    . Homopolymers or copolymers of unsaturated
+alcohols (C08J 2429/14 takes precedence)
+ 2429/04    . . Polyvinyl alcohol; Partially hydrolysed
+homopolymers or copolymers of esters of
+unsaturated alcohols with saturated carboxylic
+ 2429/06    . . Copolymers of allyl alcohol
+ 2429/08    . . . with vinyl aromatic monomers
+ 2429/10    . Homopolymers or copolymers of unsaturated ethers
+(C08J 2435/08 takes precedence)
+ 2429/12    . Homopolymers or copolymers of unsaturated
+ 2429/14    . Homopolymers or copolymers of acetals or ketals
+obtained by polymerisation of unsaturated acetals
+or ketals or by after-treatment of polymers of
+ 2431/00    Characterised by the use of copolymers of
+compounds having one or more unsaturated
+aliphatic radicals, each having only one carbon-
+to-carbon double bond, and at least one
+being terminated by an acyloxy radical of a
+saturated carboxylic acid, or carbonic acid, or
+of a haloformic acid (of hydrolysed polymers
+ 2431/02    . Characterised by the use of omopolymers or
+copolymers of esters of monocarboxylic acids
+ 2431/04    . . Homopolymers or copolymers of vinyl acetate
+ 2431/06    . Homopolymers or copolymers of esters of
+ 2431/08    . . of phthalic acid
+ 2433/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and only one
+being terminated by only one carboxyl radical,
+or of salts, anhydrides, esters, amides, imides, or
+nitriles thereof; Derivatives of such polymers
+ 2433/02    . Homopolymers or copolymers of acids; Metal or
+ 2433/06    . . of esters containing only carbon, hydrogen, and
+oxygen, the oxygen atom being present only as
+ 2433/08    . . . Homopolymers or copolymers of acrylic acid
+ 2433/10    . . . Homopolymers or copolymers of methacrylic
+ 2433/12    . . . . Homopolymers or copolymers of methyl
+ 2433/14    . . of esters containing halogen, nitrogen, sulfur, or
+oxygen atoms in addition to the carboxy oxygen
+ 2433/16    . . . Homopolymers or copolymers of esters
+ 2433/18    . Homopolymers or copolymers of nitriles
+12Characterizing additional polymers used in a working-up process
+ 2433/20    . . Homopolymers or copolymers of acrylonitrile
+(C08J 2455/02 takes precedence)
+ 2433/22    . . Homopolymers or copolymers of nitriles
+containing four or more carbon atoms
+ 2433/24    . Homopolymers or copolymers of amides or imides
+ 2433/26    . . Homopolymers or copolymers of acrylamide or
+ 2435/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a carboxyl radical, and
+containing at least one other carboxyl radical
+in the molecule, or of salts, anhydrides, esters,
+amides, imides or nitriles thereof; Derivatives of
+ 2435/02    . Characterised by the use of homopolymers or
+copolymers of esters (C08J 2435/06, C08J 2435/08
+ 2435/04    . Homopolymers or copolymers of nitriles
+(C08J 2435/06, C08J 2435/08 take precedence)
+ 2435/06    . Copolymers with vinyl aromatic monomers
+ 2435/08    . Copolymers with vinyl ethers
+ 2437/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a heterocyclic ring
+containing oxygen (of cyclic esters of polyfunctional
+acids C08J 2431/00; of cyclic anhydrides of
+unsaturated acids C08J 2435/00); Derivatives of such
+ 2439/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a single or double bond
+to nitrogen or by a heterocyclic ring containing
+nitrogen; Derivatives of such polymers
+ 2439/02    . Homopolymers or copolymers of vinylamine
+ 2439/04    . Homopolymers or copolymers of monomers
+containing heterocyclic rings having nitrogen as
+ 2439/06    . . Homopolymers or copolymers of N-vinyl-
+ 2439/08    . . Homopolymers or copolymers of vinyl-pyridine
+ 2441/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a bond to sulfur or by a
+heterocyclic ring containing sulfur; Derivatives of
+ 2443/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and containing
+boron, silicon, phosphorus, selenium, tellurium
+or a metal; Derivatives of such polymers (of metal
+salts, e.g. phenolates, alcoholates, see the parent
+ 2443/02    . Homopolymers or copolymers of monomers
+ 2443/04    . Homopolymers or copolymers of monomers
+ 2445/00    Characterised by the use of homopolymers or
+copolymers of compounds having no unsaturated
+aliphatic radicals in side chain, and having one
+or more carbon-to-carbon double bonds in a
+carbocyclic or in a heterocyclic ring system;
+Derivatives of such polymers (of cyclic anhydrides
+or imides C08J 2435/00; of cyclic esters of
+polyfunctional acids C08J 2431/00)
+ 2445/02    . of coumarone-indene polymers
+ 2447/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+unsaturated aliphatic radicals, at least one having
+two or more carbon-to-carbon double bonds;
+Derivatives of such polymers (C08J 2445/00
+takes precedence; of conjugated diene rubbers
+ 2449/00    Characterised by the use of homopolymers or
+copolymers of compounds having one or more
+carbon-to-carbon triple bonds; Derivatives of such
+ 2451/00    Characterised by the use of graft polymers
+in which the grafted component is obtained
+by reactions only involving carbon-to-
+carbon unsaturated bonds (for ABS polymers
+C08J 2455/02); Derivatives of such polymers
+ 2451/02    . grafted on to polysaccharides
+ 2451/04    . grafted on to rubbers
+ 2451/06    . grafted on to homopolymers or copolymers of
+aliphatic hydrocarbons containing only one carbon-
+ 2451/08    . grafted on to macromolecular compounds obtained
+otherwise than by reactions only involving carbon-
+ 2451/10    . grafted on to inorganic materials
+ 2453/00    Characterised by the use of block copolymers
+containing at least one sequence of a polymer
+obtained by reactions only involving carbon-to-
+carbon unsaturated bonds; Derivatives of such
+ 2453/02    . of vinyl aromatic monomers and conjugated dienes
+ 2455/00    Characterised by the use of homopolymers
+or copolymers, obtained by polymerisation
+reactions only involving carbon-to-carbon
+unsaturated bonds, not provided for in groups
+ 2455/02    . Acrylonitrile-Butadiene-Styrene [ABS] polymers
+ 2455/04    . Polyadducts obtained by the diene synthesis
+ 2457/00    Characterised by the use of unspecified polymers
+obtained by reactions only involving carbon-to-
+ 2457/02    . Copolymers of mineral oil hydrocarbons
+ 2457/04    . Copolymers in which only the monomer in minority
+ 2457/06    . Homopolymers or copolymers containing elements
+ 2457/08    . . containing halogen atoms
+ 2457/10    . . containing oxygen atoms
+13Characterizing additional polymers used in a working-up process
+ 2457/12    . . containing nitrogen atoms
+ 2459/00    Characterised by the use of polyacetals containing
+polyoxymethylene sequences only
+ 2459/02    . Copolyoxymethylenes
+ 2461/00    Characterised by the use of condensation polymers
+of aldehydes or ketones (with polyalcohols
+C08J 2459/00; with polynitriles C08J 2477/00);
+ 2461/02    . Condensation polymers of aldehydes or ketones
+ 2461/04    . Condensation polymers of aldehydes or ketones
+ 2461/06    . . of aldehydes with phenols
+ 2461/08    . . . with monohydric phenols
+ 2461/10    . . . . Phenol-formaldehyde condensates
+ 2461/12    . . . with polyhydric phenols
+ 2461/14    . . . Modified phenol-aldehyde condensates
+ 2461/16    . . of ketones with phenols
+ 2461/18    . Condensation polymers of aldehydes or ketones
+with aromatic hydrocarbons or their halogen
+ 2461/20    . Condensation polymers of aldehydes or ketones
+with only compounds containing hydrogen attached
+to nitrogen (with amino phenols C08J 2461/04)
+ 2461/22    . . of aldehydes with acyclic or carbocyclic
+ 2461/24    . . . with urea or thiourea
+ 2461/26    . . of aldehydes with heterocyclic compounds
+ 2461/28    . . . with melamine
+ 2461/30    . . of aldehydes with heterocyclic and acyclic or
+ 2461/32    . . Modified amine-aldehyde condensates
+ 2461/34    . Condensation polymers of aldehydes or ketones
+with monomers covered by at least two of
+the groups C08J 2461/04, C08J 2461/18, and
+ 2463/00    Characterised by the use of epoxy resins;
+ 2463/02    . Polyglycidyl ethers of bis-phenols
+ 2463/06    . Triglycidylisocyanurates
+ 2463/08    . Epoxidised polymerised polyenes
+ 2463/10    . Epoxy resins modified by unsaturated compounds
+ 2465/00    Characterised by the use of macromolecular
+compounds obtained by reactions forming
+a carbon-to-carbon link in the main chain
+(C08J 2407/00 - C08J 2457/00, C08J 2461/00 take
+precedence); Derivatives of such polymers
+ 2467/00    Characterised by the use of polyesters obtained
+by reactions forming a carboxylic ester link in the
+main chain (of polyester-amides C08J 2477/12; of
+polyester-imides C08J 2479/08); Derivatives of such
+ 2467/02    . Polyesters derived from dicarboxylic acids and
+dihydroxy compounds (C08J 2467/06 takes
+ 2467/03    . . the dicarboxylic acids and dihydroxy compounds
+having the hydroxy and the carboxyl groups
+directly linked to aromatic rings
+ 2467/04    . Polyesters derived from hydroxy carboxylic acids,
+e.g. lactones (C08J 2467/06 takes precedence)
+ 2467/06    . Unsaturated polyesters
+ 2467/07    . . having terminal carbon-to-carbon unsaturated
+ 2467/08    . Polyesters modified with higher fatty oils or their
+acids, or with resins or resin acids
+ 2469/00    Characterised by the use of polycarbonates;
+ 2471/00    Characterised by the use of polyethers obtained
+by reactions forming an ether link in the main
+chain (of polyacetals C08J 2459/00; of epoxy resins
+C08J 2463/00; of polythioether-ethers C08J 2481/02;
+of polyethersulfones C08J 2481/06); Derivatives of
+ 2471/02    . Polyalkylene oxides
+ 2471/03    . . Polyepihalohydrins
+ 2471/08    . Polyethers derived from hydroxy compounds or
+from their metallic derivatives (C08J 2471/02 takes
+ 2471/12    . . . Polyphenylene oxides
+ 2471/14    . . Furfuryl alcohol polymers
+ 2473/00    Characterised by the use of macromolecular
+compounds obtained by reactions forming a
+linkage containing oxygen or oxygen and carbon
+in the main chain, not provided for in groups
+C08J 2459/00 - C08J 2471/00; Derivatives of such
+ 2475/00    Characterised by the use of polyureas or
+polyurethanes; Derivatives of such polymers
+ 2475/06    . . from polyesters
+ 2475/08    . . from polyethers
+ 2475/10    . . from polyacetals
+ 2475/12    . . from compounds containing nitrogen and active
+hydrogen, the nitrogen atom not being part of an
+ 2475/14    . . Polyurethanes having carbon-to-carbon
+ 2475/16    . . . having terminal carbon-to-carbon unsaturated
+ 2477/00    Characterised by the use of polyamides obtained
+by reactions forming a carboxylic amide link in
+the main chain (of polyhydrazides C08J 2479/06; of
+polyamide-imides or polyamide acids C08J 2479/08);
+ 2477/02    . Polyamides derived from omega-amino carboxylic
+acids or from lactams thereof (C08J 2477/10 takes
+ 2477/04    . Polyamides derived from alpha-amino carboxylic
+acids (C08J 2477/10 takes precedence)
+ 2477/06    . Polyamides derived from polyamines and
+polycarboxylic acids (C08J 2477/10 takes
+ 2477/08    . . from polyamines and polymerised unsaturated
+14Characterizing additional polymers used in a working-up process
+ 2477/10    . Polyamides derived from aromatically bound amino
+and carboxyl groups of amino carboxylic acids or of
+polyamines and polycarboxylic acids
+ 2479/00    Characterised by the use of macromolecular
+compounds obtained by reactions forming in
+the main chain of the macromolecule a linkage
+containing nitrogen with or without oxygen,
+or carbon only, not provided for in groups
+ 2479/04    . Polycondensates having nitrogen-containing
+heterocyclic rings in the main chain;
+Polyhydrazides; Polyamide acids or similar
+ 2479/06    . . Polyhydrazides; Polytriazoles; Polyamino-
+ 2479/08    . . Polyimides; Polyester-imides; Polyamide-imides;
+Polyamide acids or similar polyimide precursors
+ 2481/00    Characterised by the use of macromolecular
+compounds obtained by reactions forming in
+the main chain of the macromolecule a linkage
+containing sulfur with or without nitrogen, oxygen,
+or carbon only; Polysulfones; Derivatives of such
+ 2481/02    . Polythioethers; Polythioether-ethers
+ 2481/06    . Polysulfones; Polyethersulfones
+ 2481/10    . Polysulfonamides; Polysulfonimides
+ 2483/00    Characterised by the use of macromolecular
+compounds obtained by reactions forming in
+the main chain of the macromolecule a linkage
+containing silicon with or without sulfur, nitrogen,
+oxygen, or carbon only; Derivatives of such
+ 2483/05    . . containing silicon bound to hydrogen
+ 2483/06    . . containing silicon bound to oxygen-containing
+groups (C08J 2483/12 takes precedence)
+ 2483/07    . . containing silicon bound to unsaturated aliphatic
+ 2483/08    . . containing silicon bound to organic groups
+containing atoms other than carbon, hydrogen,
+ 2483/10    . Block- or graft-copolymers containing polysiloxane
+sequences (obtained by polymerising a compound
+having a carbon-to-carbon double bond on to a
+polysiloxane C08J 2451/08, C08J 2453/00)
+ 2483/12    . . containing polyether sequences
+ 2483/14    . in which at least two but not all the silicon atoms
+are connected by linkages other than oxygen atoms
+(C08J 2483/10 takes precedence)
+ 2483/16    . in which all the silicon atoms are connected by
+linkages other than oxygen atoms
+ 2485/00    Characterised by the use of macromolecular
+compounds obtained by reactions forming in
+the main chain of the macromolecule a linkage
+containing atoms other than silicon, sulfur,
+nitrogen, oxygen, and carbon; Derivatives of such
+ 2485/02    . containing phosphorus
+ 2487/00    Characterised by the use of unspecified
+macromolecular compounds, obtained otherwise
+than by polymerisation reactions only involving
+unsaturated carbon-to-carbon bonds
+ 2489/00    Characterised by the use of proteins; Derivatives
+ 2489/02    . Casein-aldehyde condensates
+ 2489/04    . Products derived from waste materials, e.g. horn,
+ 2489/06    . . derived from leather or skin
+ 2491/00    Characterised by the use of oils, fats or waxes;
+ 2491/02    . Vulcanised oils, e.g. factice
+ 2493/00    Characterised by the use of natural resins;
+Derivatives thereof (of polysaccharides
+C08J 2401/00 - C08J 2405/00; of natural rubber
+ 2495/00    Bituminous materials, e.g. asphalt, tar or pitch
+ 2497/00    Characterised by the use of lignin-
+containing materials (of polysaccharides
+ 2497/02    . Lignocellulosic material, e.g. wood, straw or
+ 2499/00    Characterised by the use of natural
+derivatives thereof not provided for in
+groups C08J 2401/00 - C08J 2407/00 or

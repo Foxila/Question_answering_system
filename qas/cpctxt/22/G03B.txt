@@ -1,0 +1,728 @@
+COOPERATIVE PATENT CLASSIFICATION
+PHOTOGRAPHY; CINEMATOGRAPHY; ANALOGOUS TECHNIQUES USING
+WAVES OTHER THAN OPTICAL WAVES; ELECTROGRAPHY; HOLOGRAPHY
+APPARATUS OR ARRANGEMENTS FOR TAKING PHOTOGRAPHS OR FOR
+PROJECTING OR VIEWING THEM; APPARATUS OR ARRANGEMENTS
+EMPLOYING ANALOGOUS TECHNIQUES USING WAVES OTHER THAN
+OPTICAL WAVES; ACCESSORIES THEREFOR (optical parts of such apparatus G02B;
+photosensitive materials or processes for photographic purposes G03C; apparatus for processing
+exposed photographic materials G03D)
+1. This subclass covers, as far as processes are concerned, only processes characterised by the use or manipulation of apparatus
+classifiable per se in this subclass.
+2. In this subclass, the following term is used with the meaning indicated:
+"camera" means apparatus or arrangements for taking photographs.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+Details common to at least two of the following types of
+apparatus: cameras, projectors, printers (details common
+to cameras only G03B 7/00 - G03B 17/00, to projectors only
+G03B 21/00, G03B 23/00, to printers only G03B 27/00)
+    1/00    Film strip handling
+    1/02    . Moving film strip by pull on end thereof
+    1/04    . . Pull exerted by take-up spool
+    1/06    . . . rotated by lever operated ratchet and pawl
+    1/08    . . . rotated by band, chain, rack, or other linear
+    1/10    . . . rotated by knob through gearing
+    1/12    . . . rotated by motor, e.g. spring
+    1/14    . . Special arrangements to ensure constant length of
+    1/16    . . . by film-arresting pins
+    1/18    . Moving film strip by means which act on the film
+    1/22    . . . Claws or pins engaging holes in the film
+    1/24    . . . Sprockets engaging holes in the film
+    1/26    . . . Spiked wheels or pins not penetrating the film
+    1/32    . . . Friction grippers or rollers
+    1/36    . . . Pneumatic acting means
+    1/38    . . embodying Geneva motion, e.g. Maltese-cross
+    1/40    . embodying frictional coupling or clutches
+    1/42    . Guiding, framing, or constraining film in desired
+position relative to lens system
+    1/44    . . Guides engaging edge of film (gates G03B 1/48)
+    1/46    . . Rollers engaging face of film, e.g. barrel, waisted,
+    1/48    . . Gates or pressure devices, e.g. plate
+    1/50    . . . adjustable or interchangeable, e.g. for different
+    1/52    . . . Pneumatic pressure devices
+    1/54    . . Tensioning or loop-maintaining devices
+    1/56    . Threading; Loop forming
+    1/60    . Measuring or indicating length of the used or
+unused film; Counting number of exposures
+    1/62    . . involving locking or stop-motion devices
+    1/64    . . by means which as certain the radius of the film
+    1/66    . . Counting number of exposures
+    3/00    Focusing arrangements of general interest for
+cameras, projectors or printers
+    3/02    . moving lens along baseboard
+    3/04    . adjusting position of image plane without moving
+    3/06    . . using movable reflectors to alter length of light
+    3/10    . Power-operated focusing
+    3/12    . . adapted for remote control
+    5/00    Adjustment of optical system relative to image or
+object surface other than for focusing
+1Details common to at least two of the following types of apparatus: cameras, projectors, printers
+    5/02    . Lateral adjustment of lens
+    5/04    . Vertical adjustment of lens; Rising fronts
+    5/06    . Swinging lens about normal to the optical axis
+    7/00    Control of exposure by setting shutters,
+diaphragms or filters, separately or conjointly
+(control of exposure in television cameras by means
+of circuitry influencing the optical part of the camera
+    7/003   . {setting of both shutter and diaphragm
+(G03B 7/02 - G03B 7/22 take precedence)}
+    7/006   . {setting of both diaphragm and distance
+(G03B 7/02 - G03B 7/22 take precedence)}
+    7/01    . with selection of either manual or automatic mode
+    7/02    . Control effected by setting a graduated member on
+the camera in accordance with indication or reading
+afforded by a light meter, which may be either
+separate from or built into camera body
+    7/04    . Control effected by hand adjustment of a member
+that senses indication of a pointer of a built- in light-
+sensitive device, e.g. by restoring point to a fixed
+    7/06    . . by a follow-up movement of an associated
+    7/08    . Control effected solely on the basis of the response,
+to the intensity of the light received by the camera,
+of a built-in light-sensitive device
+    7/0805  . . Setting of priority modes
+    7/081   . . Analogue circuits
+    7/083   . . . for control of exposure time
+    7/085   . . . for control of aperture
+    7/087   . . . for control of both exposure time and aperture
+    7/089   . . . for storage of exposure value in mirror reflex
+    7/091   . . Digital circuits
+    7/093   . . . for control of exposure time
+    7/095   . . . for control of aperture
+    7/097   . . . for control of both exposure time and aperture
+    7/099   . . Arrangement of photoelectric elements in or on
+    7/09908 . . . {on the camera or in the objective}
+    7/0993  . . . in the camera
+    7/0997  . . . . Through the lens [TTL] measuring
+    7/09971 . . . . . {in mirror-reflex cameras (G03B 7/09979
+    7/09972 . . . . . . {using the mirror as sensor light
+reflecting or transmitting member}
+    7/09973 . . . . . . {using the mirror as sensor}
+    7/09974 . . . . . . {using the film or shutter as sensor light
+    7/09976 . . . . . . {the sensor being mounted in, before, or
+    7/09977 . . . . . . {with a movable light-measuring
+    7/09978 . . . . . . {Protection against viewer backlight or
+integration of the viewer light into the
+    7/09979 . . . . . {Multi-zone light measuring}
+    7/10    . . a servo-motor providing energy to move the
+    7/12    . . a hand-actuated member moved from one
+position to another providing the energy to move
+the setting member, e.g. depression of shutter
+release button causes a stepped feeler to co-
+operate with the pointer of the light-sensitive
+device to set the diaphragm and thereafter release
+    7/14    . . . setting of both shutter and diaphragm aperture
+being effected so as to give the optimum
+compromise between depth of field and
+    7/16    . in accordance with both the intensity of the flash
+source and the distance of the flash source from the
+object, e.g. in accordance with the "guide number"
+of the flash bulb and the focusing of the camera
+    7/17    . . Selection of modes in flash units by exposure
+    7/18    . in accordance with light-reducing "factor" of filter
+or other obturator used with or on the lens of the
+    7/20    . in accordance with change of lens
+    7/22    . in accordance with temperature or height, e.g. in
+    7/24    . automatically in accordance with markings or other
+means indicating film speed or kind of film on the
+magazine to be inserted in the camera
+    7/26    . Power supplies; Circuitry or arrangement to switch
+on the power source; Circuitry to check the power
+    7/28    . Circuitry to measure or to take account of the object
+    7/30    . Safety arrangements for control of exposure
+    9/00    Exposure-making shutters; Diaphragms
+    9/04    . . Single movable plate with two or more apertures
+of graded size, e.g. sliding plate or pivoting plate
+    9/06    . . Two or more co-operating pivoted blades, e.g.
+iris type (shutters functioning as diaphragms by
+limiting extent of opening movement G03B 9/08)
+    9/07    . . with means for presetting the diaphragm
+    9/10    . . Blade or disc rotating or pivoting about axis
+    9/12    . . . Two relatively-adjustable aperture-defining
+    9/14    . . . Two separate members moving in opposite
+    9/16    . . . Two separate members moving in the same
+    9/18    . . . More than two members
+    9/20    . . . . each moving in a single direction first to
+    9/22    . . . . each moving in one direction to open and
+then in opposite direction to close, e.g. iris
+    9/24    . . . Adjusting size of aperture formed by members
+when fully open so as to constitute a virtual
+    9/26    . . . incorporating cover blade or blades
+    9/28    . . Roller blind or flexible plate
+    9/30    . . . Single blind with multiple slots or other
+    9/34    . . . . with adjustable slot; with mechanism
+controlling relative movement of blinds to
+    9/36    . . Sliding rigid plate
+    9/38    . . . Single rigid plate with multiple slots or other
+    9/42    . . . . with adjustable slot; with mechanism
+controlling relative movement of plates to
+    9/44    . . . Curved track and plate
+    9/46    . . Flap shutters pivoting about axis in plane of flap
+    9/52    . . Barrel shutters
+    9/54    . . Conical shutters; Rotating plate with axis of
+rotation inclined to optical axis of shutter
+    9/58    . Means for varying duration of "open" period of
+    9/60    . . by varying speed of movement of obturating
+    9/62    . . by varying interval of time between end of
+opening movement and beginning of closing
+    9/64    . Mechanism for delaying opening of shutter
+(separate from shutter G03B 17/38)
+    9/66    . Means for cocking shutter separate from means for
+    9/68    . . Cocking effected by movement of film
+    9/70    . with flash-synchronising contacts
+   11/00    Filters or other obturators specially adapted for
+   11/04    . Hoods or caps for eliminating unwanted light from
+lenses, viewfinders or focusing aids
+   11/041   . . {Lens caps as separate accessory (accessories in
+   11/043   . . {Protective lens closures or lens caps built into
+   11/045   . . {Lens hoods or shields}
+   11/046   . . {for viewfinders or eyepieces}
+   11/06    . . Lens caps for exposure making
+   13/00    Viewfinders; Focusing aids for cameras; Means
+for focusing for cameras; Autofocus systems for
+   13/04    . . of direct vision type, e.g. frame, sighting mark
+   13/06    . . with lenses with or without reflectors
+   13/08    . . . with reflected image of frame
+   13/10    . . adjusting viewfinders field
+   13/12    . . . to compensate for change of camera lens or
+   13/14    . . . to compensate for parallax due to short range
+   13/16    . . combined with focusing aids
+   13/20    . . Rangefinders coupled with focusing
+arrangements, e.g. adjustment of rangefinder
+   13/22    . . . coupling providing for compensation upon
+   13/24    . . Focusing screens
+   13/26    . . . with magnifiers for inspecting image formed on
+   13/28    . . . Image-splitting devices
+   13/30    . . indicating depth of field
+   13/32    . Means for focusing
+   13/36    . . . Autofocus systems
+   15/00    Special procedures for taking photographs;
+   15/003   . {Apparatus for photographing CRT-screens}
+   15/006   . {Apparatus mounted on flying objects}
+   15/02    . Illuminating scene
+   15/03    . . Combinations of cameras with lighting apparatus;
+   15/035   . . . Combinations of cameras with incandescent
+   15/04    . . . Combinations of cameras with non-electronic
+flash apparatus; Non-electronic flash units
+   15/0405  . . . . {Non-electronic flash apparatus incorporated
+   15/041   . . . . {Separatable flash apparatus; Means
+for mounting the flash apparatus on the
+   15/0415  . . . . . {Mounting means comprising transversal
+   15/0421  . . . . . {Mounting means comprising transversal
+slide and incorporated contacts of the type
+   15/0426  . . . . . {Mounting means comprising longitudinal
+slide and incorporated contacts (for
+   15/0431  . . . . . {Rotatable mounting means}
+   15/0436  . . . . . {Mounting means for sequential
+   15/0442  . . . . {Constructional details of the flash
+apparatus; Arrangement of lamps,
+reflectors, or the like (G03B 15/0484 takes
+   15/0447  . . . . . {Energy sources; Batteries; Capacitors}
+   15/0452  . . . . {Electrical ignition means connected to the
+   15/0457  . . . . . {Ignition mechanisms for sequential
+   15/0463  . . . . . {Piezo-electric ignition mechanisms}
+   15/0468  . . . . . {Ignition mechanisms permitting choice
+of multiple ignition modes; Adaptors for
+   15/0473  . . . . . {Remote controlled ignition mechanisms}
+   15/0478  . . . . {Combinations of photographic apparatus
+with percussion type flash ignition systems}
+   15/0484  . . . . . {Constructional details of the flash
+   15/0489  . . . . . {Means for ignition by percussion}
+   15/0494  . . . . . {Means for mounting percussion type
+   15/05    . . . Combinations of cameras with electronic flash
+apparatus; Electronic flash units
+   15/06    . . Special arrangements of screening, diffusing, or
+reflecting devices, e.g. in studio
+   15/07    . . . Arrangements of lamps in studios
+   15/08    . Trick photography
+   15/10    . . using back-projection, i.e. blending artificial
+background with real foreground
+   15/14    . for taking photographs during medical operations
+   15/16    . for photographing the track of moving objects
+(high-speed photography G03B 39/00)
+   17/00    Details of cameras or camera bodies; Accessories
+therefor (lens hoods or caps G03B 11/04)
+   17/04    . . collapsible, foldable or extensible, e.g. book type
+   17/06    . . with exposure meters or other indicators built into
+body but not connected to other camera members
+   17/08    . . Waterproof bodies or housings
+   17/10    . . Soundproof bodies
+   17/12    . . with means for supporting objectives,
+supplementary lenses, filters, masks, or turrets
+   17/14    . . . interchangeably
+   17/16    . . for containing both motion-picture camera and
+   17/17    . . with reflectors arranged in beam forming the
+photographic image, e.g. for reducing dimensions
+   17/18    . Signals indicating condition of a camera member
+or suitability of light (indicating depth of field
+   17/20    . . visible in viewfinder
+   17/22    . with means for cutting-off film
+   17/24    . with means for separately producing marks on the
+film, e.g. title, time of exposure
+   17/245   . . {Optical means}
+   17/26    . Holders for containing light sensitive material and
+adapted to be inserted within the camera (holders
+   17/265   . . {specially adapted for motion picture film, e.g.
+cassettes (cassettes for projection purposes
+   17/28    . Locating light-sensitive material within camera
+   17/30    . . Locating spools or other rotatable holders of
+   17/305   . . . {for roll film cameras}
+   17/32    . . Locating plates or cut films
+   17/34    . . . Changing plates or cut films
+   17/36    . Counting number of exposures (of film strips
+   17/38    . Releasing-devices separate from shutter (integral
+   17/40    . . with delayed or timed action
+   17/42    . Interlocking between shutter operation and advance
+of film or change of plate or cut-film
+   17/425   . . {motor drive cameras}
+   17/44    . Means for exchanging focusing screen and light
+   17/46    . Means for exposing single frames in motion-picture
+   17/48    . adapted for combination with other photographic or
+   17/50    . . with both developing and finishing apparatus
+   17/52    . . . of the Land type
+   17/53    . . . for automatically delivering a finished picture
+after a signal causing exposure has been given,
+e.g. by pushing a button, by inserting a coin
+   17/55    . with provision for heating or cooling, e.g. in aircraft
+   17/56    . Accessories (carrying-cases A45C 11/38)
+   17/561   . . {Support related camera accessories}
+   17/563   . . {Camera grips, handles (means in general for
+steadying hand-held apparatus F16M 13/00)}
+   17/565   . . {Optical accessories, e.g. converters for close-
+up photography, tele-convertors, wide-angle
+   17/566   . . {Accessory clips, holders, shoes to attach
+accessories to camera (if integral part of camera
+   17/58    . . Attachments for converting cameras into reflex
+   19/00    Cameras (details G03B 17/00)
+   19/02    . Still-picture cameras
+   19/023   . . {Multi-image cameras}
+   19/026   . . . {Sequence cameras}
+   19/04    . . Roll-film cameras
+   19/06    . . . adapted to be loaded with more than one film,
+e.g. with exposure of one or the other at will
+   19/07    . . . having more than one objective
+   19/08    . . . with provision for alternative use with plates or
+   19/10    . . Plate or cut-film cameras (with provision for
+alternative use with roll film G03B 19/08)
+   19/12    . . Reflex cameras with single objective and a
+movable reflector or a partly-transmitting mirror
+   19/14    . . with paired lenses, one of which forms image
+on photographic material and the other forms a
+corresponding image on a focusing screen
+   19/16    . . Pin-hole cameras
+   19/18    . Motion-picture cameras (with non-intermittently
+   19/24    . . adapted to be loaded with more than one film, e.g.
+with exposure of one or the other at will
+   19/26    . . with fade-in and fade-out effects
+   21/00    Projectors or projection-type viewers; Accessories
+therefor (devices for changing pictures G03B 23/00)
+   21/001   . {Slide projectors}
+   21/003   . {Cine-projectors}
+   21/005   . {Projectors using an electronic spatial light
+modulator but not peculiar thereto}
+   21/008   . . {using micromirror devices}
+   21/02    . Multiple-film apparatus
+   21/04    . . Picture "juke-boxes"
+   21/06    . affording only episcopic projection
+   21/08    . affording epidiascopic projection
+   21/10    . Projectors with built-in or built-on screen
+   21/11    . . for microfilm reading
+   21/111   . . . {of roll films}
+   21/113   . . . . {Handling roll films}
+   21/115   . . . {of microfiches}
+   21/116   . . . . {Handling microfiches}
+   21/118   . . . {Reader-printers}
+   21/12    . adapted for projection of either still pictures or
+motion pictures (prolonged exhibition of single
+   21/13    . Projectors for producing special effects at the edges
+   21/132   . Overhead projectors, i.e. capable of projecting hand-
+writing or drawing during action (epidiascopic
+   21/134   . Projectors combined with typing apparatus or with
+   21/142   . . {Adjusting of projection optics}
+   21/145   . . {Housing details, e.g. position adjustments
+   21/147   . . {Optical correction of image distortions, e.g.
+   21/16    . . Cooling; Preventing overheating
+   21/18    . . Fire preventing or extinguishing
+   21/2006  . . . {characterised by the light source}
+   21/2013  . . . . {Plural light sources}
+   21/202   . . . . {Incandescent light sources}
+   21/2026  . . . . {Gas discharge type light sources, e.g. arcs}
+   21/2033  . . . . {LED or laser light sources}
+   21/204   . . . . . {using secondary light emission, e.g.
+luminescence or fluorescence (using
+different colours G03B 33/00; if related to
+   21/2046  . . . {Positional adjustment of light sources}
+   21/2053  . . . {Intensity control of illuminating light
+(controlled by video signal processing
+   21/206   . . . {Control of light source other than position or
+   21/2066  . . . {Reflectors in illumination beam (in projection
+   21/2073  . . . {Polarisers in the lamp house (peculiar
+to electronic spatial light modulators
+   21/208   . . . {Homogenising, shaping of the illumination
+   21/2086  . . . {Security or safety means in lamp houses}
+   21/22    . . Soundproof bodies
+   21/26    . . Projecting separately subsidiary matter
+   21/28    . . Reflectors in projection beam {(in illumination
+   21/30    . . adapted to collapse or fold, e.g. for portability
+   21/32    . . Details specially adapted for motion-picture
+projection (with film moving continuously
+   21/321   . . . {Holders for films, e.g. reels, cassettes,
+   21/323   . . . . {Cassettes (G03B 21/326, G03B 21/328 take
+precedence; for containing light-sensitive
+   21/325   . . . . . {Endless cassettes}
+   21/326   . . . . {Means for fixing the film on the axis of a
+   21/328   . . . . {Means for fixing the film on the periphery
+   21/34    . . . Change-over arrangements
+   21/36    . . . . Fades, dissolves, or wipes
+   21/38    . . . Prolonged exhibition of single frame
+   21/40    . . . Eliminating or reducing effect of flicker
+   21/42    . . . Preventing damage to film due to abnormal
+   21/43    . . . Driving mechanisms
+   21/44    . . . . Mechanisms transmitting motion to film-
+strip feed; Mechanical linking of shutter and
+   21/46    . . . . . affording adjustment for framing
+   21/48    . . . . . for altering frame speed; for regulating
+   21/50    . . . Control devices operated by the film strip
+   21/52    . . . . by prepared film
+   21/53    . . Means for automatic focusing, e.g. to compensate
+   21/56    . . Projection screens
+   21/562   . . . {Screens moving during projection
+(G03B 21/58 - G03B 21/62 take precedence)}
+   21/565   . . . {Screens allowing free passage of sound
+(G03B 21/58 - G03B 21/62 take precedence)}
+   21/567   . . . {for colour projection (G03B 21/58,
+   21/58    . . . collapsible, e.g. foldable; of variable area
+   21/585   . . . . Inflatable screens
+   21/60    . . . characterised by the nature of the surface
+   21/602   . . . . Lenticular screens (G03B 21/625 takes
+   21/604   . . . . Polarised screens
+   21/606   . . . . for relief projection
+   21/608   . . . . Fluid screens
+   21/62    . . . . Translucent screens
+   21/625   . . . . . Lenticular translucent screens
+   21/64    . . Means for mounting individual pictures to be
+projected, e.g. frame for transparency
+   23/00    Devices for changing pictures in viewing apparatus
+For the purposes of this group the term "picture"
+denotes any flat representation, whether
+transparent or not, e.g. produced by photography,
+   23/02    . in which a picture is removed from a stock
+and returned to the same stock or another one;
+   23/04    . . with linear movement
+   23/042   . . . {whereby the picture is not returned to the
+   23/044   . . . {whereby the picture is returned to the same
+   23/046   . . . {Picture changing devices}
+   23/048   . . . {with horizontally sliding mechanism}
+   23/06    . . with rotary movement
+   23/08    . in which pictures are attached to a movable carrier
+   23/10    . . drum or disc carrier
+   23/105   . . . {disc carriers}
+   23/12    . . linear strip carrier
+   23/125   . . . {the pictures being attached to a chain or linked
+   23/14    . Carriers operable to move pictures into, and out
+of, the projection or viewing position and carrying
+one or two pictures only in a removable manner
+(G03B 23/18 takes precedence){also other devices
+not provided with a stock, e.g. chutes}
+   23/18    . with fade-in and fade-out effects
+   25/00    Viewers, other than projection viewers, giving
+motion-picture effects by persistence of vision, e.g.
+   25/02    . with interposed lenticular or line screen
+   27/00    Photographic printing apparatus
+   27/02    . Exposure apparatus for contact printing
+   27/04    . . Copying apparatus without a relative movement
+between the original and the light source during
+exposure, e.g. printing frame or printing box
+   27/06    . . . for automatic repeated copying of the same
+   27/08    . . . for automatic copying of several originals one
+after the other, e.g. for copying cinematograph
+   27/10    . . Copying apparatus with a relative movement
+between the original and the light source during
+   27/12    . . . for automatic repeated copying of the same
+   27/16    . . . Illumination arrangements, e.g. positioning of
+lamps, positioning of reflectors (controlling the
+   27/18    . . . Maintaining or producing contact pressure
+between original and light-sensitive material
+   27/20    . . . . by using a vacuum or fluid pressure
+   27/22    . . . . by stretching over a curved surface
+   27/24    . . . Separating the original from the print
+   27/28    . . . Edge-masking devices
+   27/30    . . . adapted to be combined with processing
+   27/303   . . . . {Gas processing (gas processing apparatus
+   27/306   . . . . {Heat development (heat development
+   27/32    . Projection printing apparatus, e.g. enlarger, copying
+   27/323   . . {Copying cameras (G03B 27/34 - G03B 27/70
+   27/326   . . {Enlargers (G03B 27/34 - G03B 27/70 take
+   27/34    . . Means for automatic focusing therefor
+   27/36    . . . by mechanical connections, e.g. by cam, by
+   27/38    . . . . embodying screws with non-uniform pitch
+   27/40    . . . . adapted for use with lenses of different focal
+   27/42    . . for automatic sequential copying of the same
+original (G03B 27/34, G03B 27/53 take
+   27/423   . . . {in copying cameras}
+   27/426   . . . {in enlargers}
+   27/44    . . for multiple copying of the same original at
+the same time (G03B 27/34, G03B 27/53 take
+   27/46    . . for automatic sequential copying of different
+originals, e.g. enlargers, roll film printers
+(G03B 27/34, G03B 27/50, G03B 27/53 take
+   27/462   . . . {in enlargers, e.g. roll film printers}
+   27/465   . . . at different positions of the same strip, e.g.
+   27/47    . . . at different positions of the same sheet, e.g.
+   27/475   . . . copying cinematographic film (G03B 27/48
+   27/48    . . . with original in the form of a film strip moving
+continuously and compensation for consequent
+   27/50    . . with slit or like diaphragm moving over
+original for progressive exposure (G03B 27/34
+takes precedence {; projection optics per se
+   27/521   . . . {Arrangements for applying a supplementary
+information onto the sensitive material,
+e.g. coding (producing marks on the film in
+   27/522   . . . {Projection optics (for electro-photographic
+copiers in particular G03G 15/04)}
+   27/523   . . . . {for full time exposure}
+   27/525   . . . . {for slit exposure}
+   27/526   . . . . . {in which the projection optics move}
+   27/527   . . . . . . {as a whole in a translatory movement}
+   27/528   . . . . . {in which the projection optics remain
+   27/53    . . . Automatic registration or positioning of
+originals with respect to each other or the
+   27/54    . . . Lamp housings; Illuminating means
+   27/542   . . . . {for copying cameras, reflex exposure
+   27/545   . . . . {for enlargers}
+   27/547   . . . . . {colour mixing heads}
+   27/56    . . . Mounting enlarger head on column {Mounting
+   27/58    . . . Baseboards, masking frames, or other holders
+for the sensitive material (G03B 27/53 takes
+precedence {; for electrophotographic copiers
+   27/581   . . . . {in copying cameras (G03B 27/60 takes
+   27/582   . . . . {Baseboards, easels}
+   27/583   . . . . {Handling microfiche}
+   27/585   . . . . {Handling cut photosensitive sheets}
+   27/586   . . . . . {Supply stacks; Peeling off}
+   27/587   . . . . {Handling photosensitive webs (G03B 1/00
+   27/588   . . . . . {Supply rolls; Cutting arrangements}
+   27/60    . . . . using a vacuum or fluid pressure
+   27/62    . . . Holders for the original (G03B 27/53 takes
+precedence {; for electrophotographic copiers
+   27/6207  . . . . {in copying cameras}
+   27/6214  . . . . . {Copy boards}
+   27/6221  . . . . . {Transparent copy platens}
+   27/6228  . . . . . . {Platen covers}
+   27/6235  . . . . . . {Reciprocating copy platens}
+   27/6242  . . . . . {Masks; Overlays; Transparent carriers}
+   27/625   . . . . . {Apparatus which relate to the handling
+of originals, e.g. presence detectors,
+   27/6257  . . . . . . {Arrangements for moving an original
+once or repeatedly to or through an
+   27/6264  . . . . . . {Arrangements for moving several
+originals one after the other to or
+   27/6271  . . . . {in enlargers}
+   27/6278  . . . . . {Handling single frame negatives}
+   27/6285  . . . . . {Handling strips (G03B 1/00 takes
+   27/6292  . . . . . {Handling microfiche}
+   27/64    . . . . using a vacuum or fluid pressure
+   27/66    . . . specially adapted for holding half-tone screens
+   27/68    . . . Introducing or correcting distortion, e.g. in
+connection with oblique projection
+   27/70    . . . Reflectors in printing beam
+   27/72    . Controlling or varying light intensity, spectral
+composition, or exposure time in photographic
+   27/722   . . {when the reproduction scale is changed}
+   27/725   . . {Optical projection devices wherein the contrast
+is controlled electrically (e.g. cathode ray tube
+   27/727   . . {Optical projection devices wherein the contrast
+is controlled optically (e.g. uniform exposure,
+two colour exposure on variable contrast sensitive
+   27/73    . . Controlling exposure by variation of spectral
+composition, e.g. multicolor printers
+   27/735   . . . {in dependence upon automatic analysis of the
+   27/74    . . Positioning exposure meters in the apparatus
+   27/80    . . in dependence upon automatic analysis of the
+original (G03B 27/73 takes precedence)
+   29/00    Combinations of cameras, projectors or
+photographic printing apparatus with non-
+photographic non-optical apparatus, e.g. clocks
+or weapons; Cameras having the shape of
+other objects (combinations with flash apparatus
+   30/00    Camera modules comprising integrated lens units
+and imaging units, specially adapted for being
+embedded in other devices, e.g. mobile phones or
+When classification is made in this main group,
+further classification should be made in other
+groups of subclass G03B or in group G02B 7/00
+according to the functional aspects of the camera.
+The classification symbol of this group is not listed
+first when assigned to patent documents.
+   31/00    Associated working of cameras or projectors with
+sound-recording or sound-reproducing means
+   31/02    . in which sound track is on a moving-picture film
+   31/04    . in which sound track is not on, but is synchronised
+   31/06    . in which sound track is associated with
+successively-shown still pictures
+   31/08    . with fade-in and fade-out effects
+   33/00    Colour photography, other than mere exposure
+or projection of a colour film (printing apparatus
+G03B 27/00; stereoscopic colour photography
+   33/02    . by two-colour separation records, e.g. red-aspect
+and white complete records; using Land effect
+   33/04    . by four or more separation records
+   33/06    . by additive-colour projection apparatus
+   33/08    . Sequential recording or projection (G03B 33/02,
+G03B 33/04, G03B 33/06 take precedence)
+   33/10    . Simultaneous recording or projection (G03B 33/02,
+G03B 33/04 G03B 33/06 take precedence)
+   33/12    . . using beam-splitting or beam-combining systems,
+   33/14    . . using lenticular screens (integral with film G03C)
+   33/16    . . using colour-pattern screens (integral with film
+   35/00    Stereoscopic photography
+   35/02    . by sequential recording
+   35/04    . . with movement of beam-selecting members in a
+system defining two or more viewpoints
+   35/06    . . with axial movement of lens or gate between
+   35/08    . by simultaneous recording
+   35/10    . . having single camera with stereoscopic-base-
+   35/12    . . involving recording of different viewpoint images
+in different colours on a colour film
+   35/14    . Printing apparatus specially adapted for conversion
+between different types of record (G03B 42/08 takes
+   35/16    . by sequential viewing
+   35/18    . by simultaneous viewing
+   35/20    . . using two or more projectors
+   35/22    . . using single projector with stereoscopic-base-
+   35/24    . . using apertured or refractive resolving means on
+screens or between screen and eye
+   35/26    . . using polarised or coloured light separating
+   37/00    Panoramic or wide-screen photography;
+Photographing extended surfaces, e.g. for
+surveying; Photographing internal surfaces, e.g. of
+   37/005   . {Photographing internal surfaces, e.g. of pipe,
+(G03B 37/02 - G03B 37/06 take precedence;
+instruments for performing medical examinations
+of cavities or tubes of the body by photographic
+   37/02    . with scanning movement of lens or cameras
+   37/04    . with cameras or projectors providing touching or
+   37/06    . involving anamorphosis (G03B 37/02, G03B 37/04
+   39/00    High-speed photography
+   39/005   . {using image converters or amplifiers}
+   39/02    . using stationary plate or film (G03B 39/06 takes
+   39/04    . using moving plate or film (G03B 39/06 takes
+   39/06    . using light-guides for transferring image frame or
+elements thereof into different array, e.g. into a line
+   41/00    Special techniques not covered by groups
+G03B 31/00 - G03B 39/00; Apparatus therefor
+   41/02    . using non-intermittently running film
+   41/023   . . {combined with shutter}
+   41/026   . . {combined with slit}
+   41/04    . . with optical compensator
+   41/06    . . . with rotating reflecting member
+   41/08    . . . with rotating transmitting member
+   41/10    . . . with oscillating reflecting member
+   41/12    . . . with oscillating transmitting member
+   41/14    . . Overcoming image movement by brief flashes of
+   42/00    Obtaining records using waves other than optical
+waves; Visualisation of such records by using
+   42/021   . . {Apparatus for direct X-ray cinematography
+(circuit arrangements for obtaining a series of
+X-ray photographs or for X-ray cinematography
+   42/023   . . . {Apparatus for indirect X-ray cinematography,
+i.e. by taking pictures on ordinary film
+from the images on the fluorescent screen
+(by transforming the picture information
+intermediately into electrical signals
+   42/025   . . {Positioning or masking the X-ray film cartridge
+   42/026   . . {for obtaining three-dimensional pictures}
+   42/028   . . {Industrial applications}
+   42/04    . . Holders for X-ray films
+   42/042   . . . {for dental applications (see also A61B 6/14);
+(individual packages for X-ray film
+   42/045   . . . {apparatus for loading or unloading the
+   42/047   . . . {provided with marking means}
+   42/06    . using ultrasonic, sonic or infrasonic waves
+   42/08    . Visualisation of records by optical means
+   43/00    Testing correct operation of photographic
+ 2205/00    Adjustment of optical system relative to image or
+object surface other than for focusing
+ 2205/0007  . Movement of one or more optical elements for
+control of motion blur (imaging systems in general
+using optical elements for stabilisation of the
+position of the image G02B 27/64)
+ 2205/0015  . . by displacing one or more optical elements
+ 2205/0023  . . by tilting or inclining one or more optical
+elements with respect to the optical axis
+ 2205/003   . . by a prism with variable angle or the like
+ 2205/0038  . . by displacing the image plane with respect to the
+optical axis (in case of an electronic image sensor
+ 2205/0046  . Movement of one or more optical elements for
+zooming (for optical zoom lenses in general
+ 2205/0053  . Driving means for the movement of one or more
+ 2205/0061  . . using piezoelectric actuators
+ 2205/0069  . . using electromagnetic actuators, e.g. voice coils
+ 2205/0076  . . using shape memory alloys
+ 2205/0084  . . using other types of actuators
+ 2206/00    Systems for exchange of information between
+different pieces of apparatus, e.g. for exchanging
+trimming information, for photo finishing
+ 2206/002   . using detachable memory means
+ 2206/004   . using markings on the photographic material, e.g. to
+indicate pseudo-panoramic exposure
+ 2206/006   . . of the bar-code type
+ 2206/008   . using holders for the photographic material
+ 2207/00    Control of exposure by setting shutters,
+diaphragms, or filters separately or conjointly
+ 2207/005   . involving control of motion blur
+ 2213/00    Viewfinders; Focusing aids for cameras; Means
+for focusing for cameras; Autofocus systems for
+ 2213/025   . . Sightline detection
+ 2215/00    Special procedures for taking photographs;
+ 2215/05    . Combinations of cameras with electronic flash units
+ 2215/0507  . . . Pop-up mechanisms
+ 2215/051   . . . . with movable reflector, e.g. change of
+illumination angle or illumination direction
+ 2215/0521  . . . . movable housing, e.g. bounce-light
+ 2215/0528  . . . . . movable reflector, e.g. change of
+illumination angle or illumination
+ 2215/0532  . . . . . Flashtube mounting
+ 2215/0535  . . . . . Built-in diffusor
+ 2215/055   . . . . Clamp-on device, e.g. filter
+ 2215/0553  . . . . with second integrated flash
+ 2215/0557  . . . Multiple units, e.g. slave-unit
+ 2215/056   . . . Connection with camera, e.g. adapter
+ 2215/0564  . . characterised by the type of light source
+ 2215/0567  . . . Solid-state light source, e.g. LED, laser
+ 2215/0571  . . . With second light source
+ 2215/0575  . . . Ring shaped lighting arrangements
+ 2215/0578  . . . Flashtube mounting
+ 2215/0585  . . . Movable reflectors, e.g. change of illumination
+ 2215/0589  . . Diffusors, filters or refraction means
+ 2215/0592  . . . installed in front of light emitter
+ 2217/00    Details of cameras or camera bodies; Accessories
+ 2217/002   . Details of arrangement of components in or on
+ 2217/007   . Details of energy supply or management
+ 2217/18    . Signals indicating condition of a camera member or
+ 2217/185   . . providing indication that the picture may be
+ 2217/24    . with means for separately producing marks on the
+ 2217/241   . . with means for producing composite exposures,
+e.g. exposing an image and a border, producing
+ 2217/242   . . Details of the marking device
+ 2217/243   . . . Optical devices
+ 2217/244   . . . Magnetic devices
+ 2217/245   . . . Mechanical devices
+ 2217/246   . . Details of the markings
+ 2217/248   . . with means for masking
+ 2217/26    . Holders for containing light-sensitive material and
+adapted to be inserted within the camera
+ 2217/261   . . Details of spools
+ 2217/263   . . Details of exposure status indicators; Double
+ 2217/265   . . Details of light-proofing
+ 2217/266   . . Thrust-type cartridges
+ 2217/268   . . Unloading the cartridge from the camera;
+Loading the cartridge into the camera
+ 2219/02    . Still-picture cameras
+ 2219/04    . . Roll-film cameras
+ 2219/045   . . . adapted for unloading the film in the processing
+laboratory, e.g. disposable, reusable or
+ 2227/00    Photographic printing apparatus
+ 2227/005   . Matrix print; Index print
+ 2227/32    . Projection printing apparatus, e.g. enlarging
+ 2227/325   . . Microcapsule copiers

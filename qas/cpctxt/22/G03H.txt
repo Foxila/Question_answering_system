@@ -1,0 +1,515 @@
+COOPERATIVE PATENT CLASSIFICATION
+PHOTOGRAPHY; CINEMATOGRAPHY; ANALOGOUS TECHNIQUES USING
+WAVES OTHER THAN OPTICAL WAVES; ELECTROGRAPHY; HOLOGRAPHY
+HOLOGRAPHIC PROCESSES OR APPARATUS (holograms, e.g. point holograms, used as
+ordinary optical elements G02B 5/32; producing stereoscopic or other three-dimensional effects
+G02B 30/00; diffraction-grating systems G02B 27/44; systems using moiré fringes G02B 27/60;
+optical logic elements G02F 3/00; stereo-photography G03B 35/00; photosensitive materials
+or processes for photographic purposes G03C; {stereo-photographic or similar processes
+G03C 9/00}; apparatus for processing exposed photographic materials G03D; analogue
+computers performing mathematical operations with the aid of optical elements G06E 3/00;
+authentication by radiation, of concealed information carried by holograms or diffraction
+gratings G06K 19/16; holographic storage G11B 7/0065, G11C 13/04; {stereoscopic or other
+three dimensional effects in television systems H04N 13/00})
+This subclass covers means for producing a record of the phase and amplitude information of a wave-front, which information
+can be used to reconstruct the original wave-front, or means to reconstruct the original wave-front from a record containing
+the phase and amplitude information of the wave-front.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Holographic processes or apparatus using light,
+infra-red or ultra-violet waves for obtaining
+holograms or for obtaining an image from them;
+    1/0005  . {Adaptation of holography to specific applications
+(holographic optical element G02B 5/32;
+holographic scanner G02B 26/106; recognition
+using holographic mask G06V 10/88; holographic
+memories G11B 7/0065, G11C 13/042)}
+    1/0011  . . {for security or authentication (holograms on
+information-bearing cards B42D 25/328; testing
+papers with holograms G07D 7/0032)}
+ 2001/0016  . . . {Covert holograms or holobjects requiring
+additional knowledge to be perceived,
+e.g. holobject reconstructed only under IR
+illumination (microholograms G03H 2230/10)}
+ 2001/0022  . . . . {Deciphering being performed with
+numerical or optical key, e.g. with the optical
+scrambler used during recording (optical
+element in object beam G03H 1/041)}
+ 2001/0027  . . . {Being copy-protected against fraudulent
+replication, e.g. by layering a filter rejecting
+ 2001/0033  . . {in hologrammetry for measuring or analysing}
+ 2001/0038  . . . {analogue or digital holobjects (holographic
+interferometry G01B 9/021; investigating
+ 2001/0044  . . . {holographic fringes deformations; holographic
+sensors (holographic rain sensor in vehicles
+ 2001/005   . . {in microscopy, e.g. digital holographic
+microscope [DHM] (microscopes G02B 21/00;
+digital holography G03H 1/0866)}
+ 2001/0055  . . {in advertising or decorative art}
+ 2001/0061  . . {in haptic applications when the observer
+ 2001/0066  . . {for wavefront matching wherein the hologram
+is arranged to convert a predetermined wavefront
+into a comprehensive wave, e.g. associative
+memory (recognition using holographic masks
+ 2001/0072  . . {for wavefront conjugation wherein the
+hologram generates a wavefront conjugating
+a predetermined object, e.g. null testing,
+positioning, comparative holography}
+ 2001/0077  . . {for optical manipulation, e.g. holographic optical
+ 2001/0083  . . {for restoring distorted objects, e.g. restoring
+objects through scattering media}
+ 2001/0088  . . {for video-holography, i.e. integrating hologram
+acquisition, transmission and display}
+ 2001/0094  . . {for patterning or machining using the holobject
+as input light distribution (microlithography
+    1/02    . Details {of features involved during the holographic
+process; Replication of holograms without
+ 2001/0204  . . {Object characteristics (corresponding details, see
+ 2001/0208  . . {Individual components other than the hologram}
+ 2001/0212  . . . {Light sources or light beam properties
+(G03H 1/06, G03H 1/24 take precedence;
+corresponding details, see subgroups of
+ 2001/0216  . . . {Optical components (G03H 2001/0224,
+G03H 1/0256 take precedence; corresponding
+details, see subgroups of G03H 2223/00)}
+ 2001/022   . . . {Writing means other than actinic light wave
+(corresponding details, see subgroups of
+ 2001/0224  . . . {Active addressable light modulator, i.e.
+Spatial Light Modulator [SLM] (corresponding
+details, see subgroups of G03H 2225/00)}
+ 2001/0228  . . . {Electro-optic or electronic components
+(G03H 2001/0224 takes precedence;
+corresponding details, see subgroups of
+ 2001/0232  . . . {Mechanical components or mechanical
+aspects not otherwise provided for
+(corresponding details, see subgroups of
+    1/0236  . . {Form or shape of the hologram when not
+registered to the substrate, e.g. trimming the
+hologram to alphanumerical shape (substrates
+bearing a hologram G03H 1/0272)}
+    1/024   . . {Hologram nature or properties}
+    1/0244  . . . {Surface relief holograms (replicating
+hologram without interference recording
+    1/0248  . . . {Volume holograms}
+    1/0252  . . {Laminate comprising a hologram layer}
+    1/0256  . . . {having specific functional layer}
+ 2001/026   . . {Recording materials or recording processes
+(G03H 2226/11 takes precedence; corresponding
+details, see subgroups of G03H 2260/00)}
+ 2001/0264  . . . {Organic recording material}
+ 2001/0268  . . . {Inorganic recording material, e.g.
+    1/0272  . . {Substrate bearing the hologram}
+    1/0276  . . {Replicating a master hologram without
+interference recording (surface relief holograms
+    1/028   . . . {by embossing}
+ 2001/0284  . . . {by moulding}
+ 2001/0288  . . . {by electroforming}
+ 2001/0296  . . . {Formation of the master hologram}
+    1/04    . Processes or apparatus for producing holograms
+    1/0402  . . {Recording geometries or arrangements
+(G03H 1/0443, G03H 1/0476, G03H 1/16 take
+    1/0404  . . . {In-line recording arrangement}
+    1/0406  . . . {Image plane or focused image holograms, i.e.
+an image of the object or holobject is formed
+on, in or across the recording plane}
+    1/0408  . . . {Total internal reflection [TIR] holograms, e.g.
+edge lit or substrate mode holograms}
+    1/041   . . . {Optical element in the object space affecting
+the object beam, not otherwise provided for}
+ 2001/0413  . . . {for recording transmission holograms}
+ 2001/0415  . . . {for recording reflection holograms}
+ 2001/0417  . . . . {for recording single beam Lippmann
+hologram wherein the object is illuminated
+by reference beam passing through the
+ 2001/0419  . . . {for recording combined transmission and
+ 2001/0421  . . . {Parallax aspect}
+ 2001/0423  . . . . {Restricted parallax, e.g. horizontal parallax
+ 2001/0426  . . . . {Extended parallax, e.g. panoramic or
+ 2001/0428  . . . {Image holography, i.e. an image of the
+object or holobject is recorded (G03H 1/0406
+takes precedence; holographic microscope
+ 2001/043   . . . {Non planar recording surface, e.g. curved
+ 2001/0432  . . . {Constrained record wherein, during exposure,
+the recording means undergoes constrains
+substantially differing from those expected at
+ 2001/0434  . . . {In situ recording when the hologram
+is recorded within the device used for
+ 2001/0436  . . . {Holographic camera (portable device
+ 2001/0439  . . . {for recording Holographic Optical Element
+ 2001/0441  . . . {Formation of interference pattern, not
+    1/0443  . . {Digital holography, i.e. recording holograms
+with digital recording means (holobject
+ 2001/0445  . . . {Off-axis recording arrangement
+(G03H 2001/0456 takes precedence)}
+ 2001/0447  . . . {In-line recording arrangement}
+ 2001/045   . . . {Fourier or lensless Fourier arrangement}
+ 2001/0452  . . . {arranged to record an image of the object
+(holographic microscope G03H 2001/005)}
+ 2001/0454  . . . {Arrangement for recovering hologram
+ 2001/0456  . . . . {Spatial heterodyne, i.e. filtering a Fourier
+transform of the off-axis record}
+ 2001/0458  . . . . {Temporal or spatial phase shifting, e.g.
+parallel phase shifting method}
+ 2001/046   . . . {Synthetic aperture}
+ 2001/0463  . . . {Frequency heterodyne, i.e. one beam is
+    1/0465  . . {Particular recording light; Beam shape or
+geometry (G03H 1/06 takes precedence)}
+ 2001/0467  . . . {Gated recording using pulsed or low
+coherence light source, e.g. light in flight, first
+ 2001/0469  . . . {Object light being reflected by the object}
+ 2001/0471  . . . {Object light being transmitted through the
+object, e.g. illumination through living cells}
+ 2001/0473  . . . {Particular illumination angle between object
+or reference beams and hologram}
+    1/0476  . . {Holographic printer (G03H 1/268 takes
+ 2001/0478  . . . {Serial printer, i.e. point oriented processing}
+ 2001/048   . . . {Parallel printer, i.e. a fringe pattern is
+ 2001/0482  . . . {Interference based printer}
+ 2001/0484  . . . {Arranged to produce three-dimensional fringe
+    1/0486  . . {Improving or monitoring the quality of the
+record, e.g. by compensating distortions,
+ 2001/0489  . . . {by using phase stabilized beam}
+ 2001/0491  . . . {by monitoring the hologram formation, e.g.
+    1/0493  . . {Special holograms not otherwise provided for,
+e.g. conoscopic, referenceless holography}
+ 2001/0495  . . . {Polarisation preserving holography where
+amplitude, phase and polarisation state of the
+original objet wavefront are recorded}
+ 2001/0497  . . . {Dot matrix holograms}
+    1/06    . . using incoherent light
+    1/08    . . Synthesising holograms, {i.e. holograms
+synthesized from objects or objects from
+holograms}(using electric digital computers
+    1/0808  . . . {Methods of numerical synthesis, e.g. coherent
+ray tracing [CRT], diffraction specific}
+ 2001/0816  . . . . {Iterative algorithms}
+ 2001/0825  . . . . {Numerical processing in hologram space,
+e.g. combination of the CGH [computer
+generated hologram] with a numerical optical
+ 2001/0833  . . . . {Look up table}
+    1/0841  . . . {Encoding method mapping the synthesized
+field into a restricted set of values
+representative of the modulator parameters, e.g.
+ 2001/085   . . . . {Kinoform, i.e. phase only encoding wherein
+the computed field is processed into a
+distribution of phase differences}
+ 2001/0858  . . . . {Cell encoding wherein each computed
+values is represented by at least two pixels of
+the modulator, e.g. detour phase coding}
+    1/0866  . . . {Digital holographic imaging, i.e. synthesizing
+ 2001/0875  . . . . {Solving phase ambiguity, e.g. phase
+ 2001/0883  . . . . {Reconstruction aspect, e.g. numerical
+    1/0891  . . . {Processes or apparatus adapted to convert
+digital holographic data into a hologram
+(G03H 1/2294 takes precedence)}
+    1/10    . . using modulated reference beam
+    1/12    . . . Spatial modulation, e.g. ghost imaging
+    1/14    . . . Temporal modulation, e.g. extending depth of
+field or phase compensation for object motion
+    1/16    . . using Fourier transform ({G03H 1/10},
+G03H 1/12, G03H 1/14 take precedence;
+analogue computers G06G, e.g. G06G 7/19)
+    1/18    . . Particular processing of hologram record
+carriers, e.g. for obtaining blazed holograms
+{(photographic processing in general G03C,
+    1/181   . . . {Pre-exposure processing, e.g.
+    1/182   . . . {Post-exposure processing, e.g. latensification}
+ 2001/183   . . . . {Erasing the holographic information}
+ 2001/184   . . . . . {Partially erasing}
+ 2001/185   . . . {Applying a curing step}
+ 2001/186   . . . {Swelling or shrinking the holographic record
+or compensation thereof, e.g. for controlling the
+reconstructed wavelength (G03H 2001/0033,
+ 2001/187   . . . {Trimming process, i.e. macroscopically
+patterning the hologram (shape of hologram
+ 2001/188   . . . . {Demetallisation, i.e. removing the
+enhancing metallic layer (enhancement layer
+    1/20    . . Copying holograms by holographic {, i.e. optical}
+    1/202   . . . {Contact copy when the reconstruction beam
+for the master H1 also serves as reference beam
+ 2001/205   . . . {Subdivided copy, e.g. scanning transfer}
+ 2001/207   . . . {with modification of the nature of the
+hologram, e.g. changing from volume
+to surface relief or from reflection to
+    1/22    . Processes or apparatus for obtaining an optical
+image from holograms (G03H 1/26 - G03H 1/34
+    1/2202  . . {Reconstruction geometries or arrangements}
+    1/2205  . . . {using downstream optical component}
+ 2001/2207  . . . . {Spatial filter, e.g. for suppressing higher
+ 2001/221   . . . . {Element having optical power, e.g. field
+ 2001/2213  . . . . {Diffusing screen revealing the real
+holobject, e.g. container filed with gel to
+ 2001/2215  . . . . . {Plane screen}
+ 2001/2218  . . . . . . {being perpendicular to optical axis}
+ 2001/2221  . . . . . {Screen having complex surface, e.g. a
+ 2001/2223  . . . {Particular relationship between light source,
+ 2001/2226  . . . . {Edge lit holograms (TIR recording
+ 2001/2228  . . . . {adapted for reflection and transmission
+ 2001/2231  . . . . {Reflection reconstruction}
+ 2001/2234  . . . . {Transmission reconstruction}
+ 2001/2236  . . . {Details of the viewing window}
+ 2001/2239  . . . . {Enlarging the viewing window}
+ 2001/2242  . . . . {Multiple viewing windows}
+ 2001/2244  . . . {Means for detecting or recording the
+ 2001/2247  . . . . {for testing the hologram or holobject}
+    1/2249  . . {Holobject properties}
+ 2001/2252  . . . {Location of the holobject}
+ 2001/2255  . . . . {Holobject out of Fourier or hologram
+ 2001/2257  . . . . {Straddling the hologram}
+ 2001/226   . . . . {Virtual or real}
+ 2001/2263  . . . {Multicoloured holobject}
+ 2001/2265  . . . . {Achromatic holobject}
+ 2001/2268  . . . . {Rainbow hologram}
+ 2001/2271  . . . . {RGB holobject}
+ 2001/2273  . . . {Pseudo-dynamic holobject, e.g. due to angle
+multiplexing and viewer motion}
+ 2001/2276  . . . {Polarisation dependent holobject
+(G03H 2001/0495 takes precedence)}
+ 2001/2278  . . . {Orthoscopic or pseudoscopic}
+ 2001/2281  . . . {Particular depth of field}
+ 2001/2284  . . . {Superimposing the holobject with other visual
+    1/2286  . . {Particular reconstruction light (G03H 1/24 takes
+ 2001/2289  . . . {when reconstruction wavelength differs form
+ 2001/2292  . . . {Using scanning means}
+    1/2294  . . {Addressing the hologram to an active spatial
+ 2001/2297  . . . {using frame sequential, e.g. for reducing
+    1/24    . . using white light {, e.g. rainbow holograms}
+    1/26    . Processes or apparatus specially adapted to produce
+multiple {sub-} holograms or to obtain images from
+them, e.g. multicolour technique
+ 2001/2605  . . {Arrangement of the sub-holograms, e.g. partial
+ 2001/261   . . . {in optical contact}
+ 2001/2615  . . . . {in physical contact, i.e. layered holograms}
+ 2001/262   . . . {not in optical contact (G03H 1/30 takes
+ 2001/2625  . . {Nature of the sub-holograms}
+ 2001/263   . . . {Made of different recording materials}
+ 2001/2635  . . . {Mixed volume and surface relief holograms}
+ 2001/264   . . . {One hologram being a HOE}
+    1/2645  . . {Multiplexing processes, e.g. aperture, shift, or
+    1/265   . . . {Angle multiplexing; Multichannel holograms
+ 2001/2655  . . . {Time multiplexing, i.e. consecutive records
+wherein the period between records is pertinent
+ 2001/266   . . . {Wavelength multiplexing}
+ 2001/2665  . . . {Coherence multiplexing wherein different
+holobjects are perceived under coherent or
+ 2001/267   . . . {Polarisation multiplexing}
+ 2001/2675  . . . {Phase code multiplexing, wherein the sub-
+holograms are multiplexed according to spatial
+modulation of the reference beam (reference
+beam spatial modulation G03H 1/12)}
+    1/268   . . {Holographic stereogram}
+ 2001/2685  . . . {One step recording process}
+ 2001/269   . . . {Two and more than two steps recording
+ 2001/2695  . . . {Dedicated printer (holographic printers
+    1/28    . . superimposed holograms only
+    1/30    . . discrete holograms only
+ 2001/303   . . . {Interleaved sub-holograms, e.g. three RGB
+sub-holograms having interleaved pixels for
+reconstructing coloured holobject}
+ 2001/306   . . . {Tiled identical sub-holograms}
+    1/32    . Systems for obtaining speckle elimination
+    1/34    . Systems for reducing the space-spatial bandwidth
+    3/00    Holographic processes or apparatus using
+ultrasonic, sonic or infrasonic waves for obtaining
+holograms; Processes or apparatus for obtaining
+an optical image from them (G03H 1/22 takes
+precedence; {acoustic non-destructive testing using
+holographic methods G01N 29/0663; seismology
+using acoustic vibrations G01V 1/00; non-holographic
+methods for visualizing acoustic waves G10K 15/00})
+    5/00    Holographic processes or apparatus using particles
+or using waves other than those covered by groups
+G03H 1/00 or G03H 3/00 for obtaining holograms;
+Processes or apparatus for obtaining an optical
+image from them (G03H 1/22 takes precedence;
+construction of electron microscopes H01J 37/26;
+{investigating or analysing materials by the use of
+microwaves G01N 22/00, by the use of particles wave
+or X-rays G01N 23/00, G21K 7/00})
+ 2210/00    Object characteristics
+ 2210/10    . Modulation characteristics, e.g. amplitude, phase,
+ 2210/11    . . Amplitude modulating object
+ 2210/12    . . Phase modulating object, e.g. living cell
+ 2210/13    . . Coloured object
+ 2210/22    . . 2D SLM object wherein the object beam is
+formed of the light modulated by the SLM (SLM
+ 2210/32    . . 3D+2D, i.e. composition of 3D and 2D sub-
+objects, e.g. scene in front of planar background
+ 2210/33    . . 3D/2D, i.e. the object is formed of stratified 2D
+ 2210/36    . . Occluded features resolved due to parallax
+ 2210/40    . Synthetic representation, i.e. digital or optical object
+ 2210/42    . . from real object, e.g. using 3D scanner
+ 2210/44    . . Digital representation
+ 2210/441   . . . Numerical processing applied to the object data
+other than numerical propagation (synthesizing
+ 2210/45    . . Representation of the decomposed object
+ 2210/46    . . for subsequent optical processing (G03H 1/268
+ 2210/50    . Nature of the object
+ 2210/53    . . Coded object not directly interpretable, e.g.
+ 2210/54    . . For individualisation of product
+ 2210/55    . . Having particular size, e.g. irresolvable by the eye
+ 2210/56    . . Multiple objects, e.g. each in different
+ 2210/562   . . . Holographic object, i.e. a combination of
+an object and holobject (G03H 1/20 takes
+ 2210/63    . Environment affecting the recording, e.g.
+underwater (G03H 2001/0432 takes precedence)
+ 2222/00    Light sources or light beam properties
+ 2222/10    . Spectral composition
+ 2222/12    . . Single or narrow bandwidth source, e.g. laser,
+ 2222/13    . . Multi-wavelengths wave with discontinuous
+wavelength ranges (G03H 2222/18 takes
+ 2222/14    . . Broadband source, e.g. sun light
+ 2222/15    . . Ultra Violet [UV]
+ 2222/17    . . White light (G03H 1/24 takes precedence)
+ 2222/18    . . . RGB trichrome light
+ 2222/20    . Coherence of the light source
+ 2222/22    . . Spatial coherence
+ 2222/23    . . Temporal coherence
+ 2222/24    . . Low coherence light normally not allowing
+valuable record or reconstruction (G03H 1/06
+ 2222/32    . Unpolarised light
+ 2222/33    . Pulsed light beam
+ 2222/34    . Multiple light sources
+ 2222/35    . Transverse intensity distribution of the light beam
+ 2222/36    . Scanning light beam
+ 2222/40    . Particular irradiation beam not otherwise provided
+ 2222/42    . . Reference beam at recording stage
+ 2222/43    . . Object beam at recording stage
+ 2222/44    . . Beam irradiating the object at recording stage
+ 2222/45    . . Interference beam at recording stage, i.e.
+following combination of object and reference
+ 2222/46    . . Reconstruction beam at reconstruction stage
+ 2222/47    . . Evanescent wave
+ 2222/50    . Geometrical property of the irradiating beam
+ 2222/53    . . Collimated beam
+ 2222/54    . . Convergent beam
+ 2222/55    . . Astigmatic beam having different focal planes
+(anamorphic optical element G03H 2223/21)
+ 2222/56    . . Conjugated beam
+ 2223/12    . Amplitude mask, e.g. diaphragm, Louver filter
+ 2223/14    . Diffuser, e.g. lens array, random phase mask
+ 2223/15    . Colour filter, e.g. interferential colour filter
+ 2223/16    . Optical waveguide, e.g. optical fibre, rod
+ 2223/17    . Element having optical power
+ 2223/19    . Microoptic array, e.g. lens array
+ 2223/20    . Birefringent optical element, e.g. wave plate
+ 2223/21    . Anamorphic optical element, e.g. cylindrical
+ 2223/23    . Diffractive element
+ 2223/24    . Reflector; Mirror
+ 2223/25    . Index matching material
+ 2223/26    . Means providing optical delay, e.g. for path length
+ 2223/50    . Particular location or purpose of optical element
+(downstream optical component G03H 1/2205)
+ 2223/52    . . Filtering the object information
+ 2223/53    . . Filtering the hologram information, i.e. the fringe
+ 2223/54    . . Filtering the holobject information
+ 2223/55    . . Arranged at a Fourier plane
+ 2224/00    Writing means other than actinic light wave
+ 2224/02    . Mechanical means, e.g. diamond tool
+ 2224/04    . Particle beam, e.g. e-beam
+ 2224/06    . Thermal or photo-thermal means (infra red source
+ 2225/00    Active addressable light modulator
+ 2225/10    . Shape or geometry
+ 2225/20    . Nature, e.g. e-beam addressed
+ 2225/21    . . Acousto-optic SLM [AO-SLM]
+ 2225/22    . . Electrically addressed SLM [EA-SLM]
+ 2225/23    . . Grating based SLM
+ 2225/24    . . Having movable pixels, e.g.
+microelectromechanical systems [MEMS]
+ 2225/25    . . Optically addressed SLM [OA-SLM]
+ 2225/33    . . Complex modulation
+ 2225/34    . . . Amplitude and phase coupled modulation
+ 2225/35    . . Colour modulation
+ 2225/52    . Reflective modulator
+ 2225/55    . Having optical element registered to each pixel
+ 2225/61    . . for multicolour processing
+ 2226/00    Electro-optic or electronic components relating to
+ 2226/02    . Computing or processing means, e.g. digital signal
+ 2226/04    . Transmission or communication means, e.g. internet
+ 2226/05    . Means for tracking the observer
+ 2226/11    . Electro-optic recording means, e.g. CCD,
+ 2226/13    . . Multiple recording means
+ 2227/00    Mechanical components or mechanical aspects not
+ 2227/02    . Handheld portable device, e.g. holographic camera,
+ 2227/03    . Means for moving one component (G03H 1/0476,
+G03H 2001/2695 take precedence)
+ 2227/04    . Production line for mass production
+ 2227/05    . Support holding the holographic record
+ 2227/06    . . Support including light source
+ 2230/00    Form or shape of the hologram when not
+ 2230/10    . Microhologram not registered to the substrate
+ 2240/00    Hologram nature or properties
+ 2240/10    . Physical parameter modulated by the hologram
+(G03H 2001/0224 takes precedence)
+ 2240/11    . . Phase only modulation (G03H 1/0244 takes
+ 2240/12    . . Amplitude only modulation
+ 2240/13    . . Amplitude and phase complex modulation
+ 2240/15    . . Polarisation modulation
+ 2240/20    . Details of physical variations exhibited in the
+ 2240/21    . . Optical density variations
+ 2240/22    . . . Chromatic variations, e.g. photochromic or
+ 2240/23    . . Optical length variations, e.g. bleached silver
+halide (G03H 1/0244 takes precedence)
+ 2240/24    . . . Index variations only
+ 2240/25    . . Magnetic variations
+ 2240/26    . . Structural variations, e.g. structure variations due
+to photoanchoring or conformation variations due
+ 2240/40    . . Dynamic of the variations
+ 2240/42    . . . Discrete level
+ 2240/50    . Parameters or numerical values associated with
+ 2240/51    . . Intensity, power or luminance (G03H 2240/52
+ 2240/52    . . Exposure parameters, e.g. time, intensity
+ 2240/53    . . Diffraction efficiency [DE]
+ 2240/54    . . Refractive index
+ 2240/61    . . SLM related parameters, e.g. pixel size
+ 2240/62    . . Sampling aspect applied to sensor or display
+ 2250/00    Laminate comprising a hologram layer
+ 2250/10    . arranged to be transferred onto a carrier body
+ 2250/12    . Special arrangement of layers
+ 2250/14    . Forming layer onto which a surface relief hologram
+is formed (G03H 2270/52 takes precedence)
+ 2250/32    . Antireflective layer
+ 2250/36    . Conform enhancement layer
+ 2250/37    . Enclosing the photosensitive material
+ 2250/40    . Printed information overlapped with the hologram
+ 2250/41    . Polarisation active layer
+ 2250/42    . Reflective layer (G03H 2250/36 takes precedence)
+ 2250/43    . One layer having dispersed particles
+(G03H 2260/33 takes precedence)
+ 2250/44    . Colour tuning layer
+ 2260/00    Recording materials or recording processes
+ 2260/10    . Dichromated gelatine or equivalents
+ 2260/16    . Silver halide emulsion
+ 2260/30    . Details of photosensitive recording material not
+ 2260/31    . . Ageing or resistance of the material
+(G03H 2250/39 takes precedence)
+ 2260/32    . . Combining different recording materials
+(G03H 2001/2615 takes precedence)
+ 2260/33    . . Having dispersed compound
+ 2260/34    . . Non uniform thickness
+ 2260/35    . . Rewritable material allowing several record and
+ 2260/36    . . . Dynamic material where the lifetime of the
+recorded pattern is quasi instantaneous, the
+holobject is simultaneously reconstructed
+ 2260/50    . Reactivity or recording processes (writing means
+ 2260/51    . . Photoanisotropic reactivity wherein polarized
+light induces material birefringence, e.g. azo-dye
+ 2260/52    . . Photochromic reactivity wherein light induces
+a reversible transformation between two states
+having different absorption spectra
+ 2260/53    . . Photoconductor thermoplastic reactivity wherein
+light is transformed into an electrostatic then into
+ 2260/54    . . Photorefractive reactivity wherein light induces
+photo-generation, redistribution and trapping of
+charges then a modification of refractive index,
+ 2260/61    . . Producing material deformation
+ 2260/63    . . Indirect etching, e.g. lithography (photoresist
+ 2270/00    Substrate bearing the hologram
+ 2270/11    . . Crystal or glass (G03H 2270/55 takes
+ 2270/12    . . Fibrous, e.g. paper, textile
+ 2270/21    . . Curved bearing surface
+ 2270/23    . . Ribbon shaped, e.g. holographic foil
+ 2270/24    . . Having particular size, e.g. microscopic
+ 2270/52    . Integrated surface relief hologram without forming
+ 2270/53    . Recording material dispersed into porous substrate
+ 2270/54    . Recording material filed in recessed substrate
+ 2270/55    . being an optical element, e.g. spectacles

@@ -1,0 +1,468 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+ARRANGEMENTS OF HEATING, COOLING, VENTILATING OR OTHER AIR-
+TREATING DEVICES SPECIALLY ADAPTED FOR PASSENGER OR GOODS
+Attention is drawn to the Note following the title of class B60
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Heating, cooling or ventilating {[HVAC]} devices
+(heating, cooling or ventilating devices providing
+other air treatment, the other treatment being relevant,
+B60H 3/00; ventilating solely by opening windows,
+doors, roof parts, or the like B60J; heating or
+ventilating devices for vehicle seats B60N 2/56;
+vehicle window or windscreen cleaners using air, e.g.
+In this group and its subgroups, as well as in patent
+documents, the following abbreviation is used:
+• HVAC Heating, Ventilating and Air
+    1/00007 . {Combined heating, ventilating, or cooling devices
+(control systems or mechanisms B60H 1/00642)}
+    1/00014 . . {for load cargos on load transporting vehicles}
+    1/00021 . . {Air flow details of HVAC devices}
+    1/00028 . . . {Constructional lay-out of the devices in the
+    1/00035 . . . {for sending an air stream of uniform
+temperature into the passenger compartment}
+    1/00042 . . . . {the air passing only one heat exchanger}
+    1/0005  . . . . {the air being firstly cooled and subsequently
+    1/00057 . . . . {the air being heated and cooled
+simultaneously, e.g. using parallel heat
+    1/00064 . . . {for sending air streams of different
+temperatures into the passenger compartment}
+    1/00071 . . . . {the air passing only one heat exchanger}
+ 2001/00078 . . . {Assembling, manufacturing or layout details}
+ 2001/00085 . . . . {of air intake}
+ 2001/00092 . . . . {of air deflecting or air directing means
+ 2001/00099 . . . . {comprising additional ventilating means}
+ 2001/00107 . . . . {characterised by the relative position of the
+heat exchangers, e.g. arrangements leading to
+ 2001/00114 . . . {Heating or cooling details}
+ 2001/00121 . . . . {More than one heat exchanger in parallel}
+ 2001/00128 . . . . {Electric heaters}
+ 2001/00135 . . . . {Deviding walls for separate air flows}
+ 2001/00142 . . . . {first heating and then cooling}
+ 2001/0015  . . . {Temperature regulation}
+ 2001/00157 . . . . {without by-pass}
+ 2001/00164 . . . . {with more than one by-pass}
+ 2001/00171 . . . . {Valves on heaters for modulated liquid
+ 2001/00178 . . . . {comprising an air passage from the HVAC
+box to the exterior of the cabin}
+ 2001/00185 . . . {Distribution of conditionned air}
+ 2001/00192 . . . . {to left and right part of passenger
+ 2001/002   . . . . {to front and rear part of passenger
+    1/00207 . . {characterised by the position of the HVAC
+devices with respect to the passenger
+compartment (B60H 1/00021 takes precedence)}
+ 2001/00214 . . . {Devices in front of the passenger
+ 2001/00221 . . . {Devices in the floor or side wall area of the
+ 2001/00228 . . . {Devices in the interior of the passenger
+ 2001/00235 . . . {Devices in the roof area of the passenger
+ 2001/00242 . . . {Devices in the rear area of the passenger
+    1/0025  . {the devices being independent of the vehicle}
+    1/00257 . . {Non-transportable devices, disposed outside the
+    1/00264 . . {Transportable devices}
+    1/00271 . {HVAC devices specially adapted for particular
+vehicle parts or components and being connected to
+    1/00278 . . {for the battery (arrangement of batteries
+    1/00285 . . {for vehicle seats (vehicle seats with heating or
+ventilation means independent from the HVAC
+system of the vehicle B60N 2/56)}
+    1/00292 . . {for steering wheels (steering wheels with heating
+or ventilation means independent from the HVAC
+system of the vehicle B62D 1/065)}
+    1/00295 . . {for trim components, e.g. panels, dashboards,
+ 2001/003   . . {Component temperature regulation using an air
+ 2001/00307 . . {Component temperature regulation using a
+    1/00314 . {Arrangements permitting a rapid heating of the
+heating liquid (B60H 1/00492, B60H 1/03 take
+precedence; aiding engine start by heating of engine
+    1/00321 . {Heat exchangers for air-conditioning devices
+(B60H 1/3227 takes precedence)}
+    1/00328 . . {of the liquid-air type}
+    1/00335 . . {of the gas-air type (B60H 1/18 takes
+    1/00342 . . {of the liquid-liquid type}
+ 2001/0035  . . {movable in and out of the air stream}
+    1/00357 . {Air-conditioning arrangements specially adapted
+    1/00364 . . {for caravans or trailers}
+    1/00371 . . {for vehicles carrying large numbers of
+    1/00378 . . {for tractor or load vehicle cabins}
+    1/00385 . . {for vehicles having an electrical drive, e.g.
+    1/00392 . . . {for electric vehicles having only electric drive
+    1/004   . . . {for vehicles having a combustion engine
+and electric drive means, e.g. hybrid electric
+    1/00407 . . {for open or convertible vehicles}
+    1/00414 . . {for military, emergency, safety or security
+    1/00421 . {Driving arrangements for parts of a vehicle air-
+conditioning (B60H 1/3222 takes precedence;
+auxiliary drives per se for vehicles B60K 25/00)}
+    1/00435 . . {fluid or pneumatic}
+    1/00442 . . . {using a vacuum}
+    1/0045  . . {mechanical power take-offs from the vehicle
+    1/00457 . {Ventilation unit, e.g. combined with a radiator
+(control systems for ventilators B60H 1/00828)}
+    1/00464 . . {The ventilator being of the axial type}
+    1/00471 . . {The ventilator being of the radial type, i.e. with
+    1/00478 . {Air-conditioning devices using the Peltier effect
+(for air-conditioning in general F24F 5/0042; for
+refrigeration F25B 21/02; electric devices exhibiting
+the Peltier effect H10N 10/00)}
+    1/00485 . {Valves for air-conditioning devices, e.g.
+thermostatic valves (valves per se F16K;
+thermostatic valves per se G05D 23/02)}
+    1/00492 . {comprising regenerative heating or cooling means,
+    1/00499 . . {Heat or cold storage without phase change
+including solid bodies, e.g. batteries}
+    1/005   . . {Regenerative cooling means, e.g. cold
+    1/00507 . {Details, e.g. mounting arrangements, desaeration
+devices (B60H 1/32 takes precedence)}
+    1/00514 . . {Details of air conditioning housings}
+    1/00521 . . . {Mounting or fastening of components in
+housings, e.g. heat exchangers, fans, electronic
+    1/00528 . . . {Connections between housing parts}
+    1/00535 . . . {Mounting or fastening of the housing to the
+    1/00542 . . . {Modular assemblies}
+    1/0055  . . . {the housing or parts thereof being integrated
+in other devices, e.g. dashboard}
+    1/00557 . . {Details of ducts or cables}
+    1/00564 . . . {of air ducts}
+    1/00571 . . . {of liquid ducts, e.g. for coolant liquids or
+    1/00578 . . . {of bowden wires}
+    1/00585 . . {Means for monitoring, testing or servicing the
+    1/00592 . . {Add-on devices, e.g. heat/cooling boxes,
+compartment dividers, upgrade sets}
+ 2001/006   . . {Noise reduction}
+ 2001/00614 . . {Cooling of electronic units in air stream}
+ 2001/00621 . . {Fastening lids on air-conditioning housings}
+ 2001/00628 . . {Adaption for left or right hand drive}
+ 2001/00635 . . {Air-tight sealing devices}
+    1/00642 . {Control systems or circuits; Control members
+or indication devices for heating, cooling or
+ventilating devices (B60H 1/3201 - B60H 1/3208,
+    1/0065  . . {Control members, e.g. levers or knobs
+(B60H 1/00985 takes precedence)}
+    1/00657 . . . {Remote control devices}
+    1/00664 . . {Construction or arrangement of damper doors
+(control systems or circuits for damper doors
+    1/00671 . . . {Damper doors moved by rotation; Grilles}
+    1/00678 . . . . {the axis of rotation being in the door plane,
+    1/00685 . . . . {the door being a rotating disc or cylinder
+or part thereof (B60H 1/00678 takes
+    1/00692 . . . {Damper doors moved by translation, e.g.
+ 2001/007   . . . {Manufacturing or assembling}
+ 2001/00707 . . . {Details of pivots of damper doors}
+ 2001/00714 . . . {Details of seals of damper doors}
+ 2001/00721 . . . {Air deflecting or air directing means}
+    1/0073  . . {Control systems or circuits characterised by
+particular algorithms or computational models,
+e.g. fuzzy logic or dynamic models}
+ 2001/00733 . . . {Computational models modifying user-set
+    1/00735 . . {Control systems or circuits characterised by
+their input, i.e. by the detection, measurement or
+calculation of particular conditions, e.g. signal
+    1/00742 . . . {by detection of the vehicle occupants'
+presence; by detection of conditions relating to
+the body of occupants, e.g. using radiant heat
+    1/0075  . . . {the input being solar radiation}
+    1/00757 . . . {by the input of sound, e.g. by using a voice
+    1/00764 . . . {the input being a vehicle driving condition,
+e.g. speed (B60H 1/00828, B60H 1/00864 take
+    1/00771 . . . . {the input being a vehicle position or
+surrounding, e.g. GPS-based position or
+    1/00778 . . . . {the input being a stationary vehicle position,
+    1/00785 . . . {by the detection of humidity or frost}
+    1/00792 . . . {Arrangement of detectors (B60H 1/00742,
+    1/008   . . . {the input being air quality}
+    1/00807 . . . {the input being a specific way of measuring or
+calculating an air or coolant temperature}
+    1/00814 . . {Control systems or circuits characterised by their
+output, for controlling particular components of
+the heating, cooling or ventilating installation}
+    1/00821 . . . {the components being ventilating, air
+admitting or air distributing devices}
+    1/00828 . . . . {Ventilators, e.g. speed control
+(B60H 1/00864 takes precedence)}
+    1/00835 . . . . {Damper doors, e.g. position control
+(construction or arrangement of damper
+doors B60H 1/00664; B60H 1/00864 takes
+    1/00842 . . . . . {the system comprising a plurality of
+damper doors; Air distribution between
+    1/00849 . . . . . {for selectively commanding the induction
+of outside or inside air (B60H 1/00842
+    1/00857 . . . . . {characterised by the means connecting
+the initiating means, e.g. control lever, to
+    1/00864 . . . . {Ventilators and damper doors}
+    1/00871 . . . . {Air directing means, e.g. blades in an
+air outlet (construction of nozzles or air
+    1/00878 . . . {the components being temperature regulating
+    1/00885 . . . . {Controlling the flow of heating or cooling
+liquid, e.g. valves or pumps (B60H 1/00899
+takes precedence; constructions of valves
+    1/00892 . . . . {Devices specially adapted for avoiding
+uncomfortable feeling, e.g. sudden
+temperature changes (B60H 1/00885 takes
+    1/00899 . . . . {Controlling the flow of liquid in a heat
+pump system (controlling the properties
+of the refrigerant liquid, e.g. pressure or
+    1/00907 . . . . . {where the flow direction of the refrigerant
+changes and an evaporator becomes
+    1/00914 . . . . . {where the flow direction of the refrigerant
+does not change and there is a bypass of
+    1/00921 . . . . . {where the flow direction of the refrigerant
+does not change and there is an extra
+subcondenser, e.g. in an air duct}
+ 2001/00928 . . . . {comprising a secondary circuit}
+ 2001/00935 . . . . {comprising four way valves for controlling
+ 2001/00942 . . . . {comprising a plurality of heat exchangers,
+e.g. for multi zone heating or cooling}
+ 2001/00949 . . . . {comprising additional heating/cooling
+sources, e.g. second evaporator}
+ 2001/00957 . . . . {comprising locations with heat exchange
+within the refrigerant circuit itself, e.g.
+cross-, counter-, or parallel heat exchange}
+ 2001/00961 . . . . {comprising means for defrosting outside
+    1/00964 . . {Control systems or circuits characterised
+by including features for automatic and non-
+automatic control, e.g. for changing from
+    1/00971 . . {Control systems or circuits characterised by
+including features for locking or memorising of
+    1/00978 . . {Control systems or circuits characterised by
+failure of detection or safety means; Diagnostic
+    1/00985 . . {Control systems or circuits characterised
+by display or indicating devices, e.g. voice
+simulators (characterised by the input of sound
+using a voice synthesizer B60H 1/00757;
+B60H 1/00978 takes precedence)}
+    1/02    . the heat being derived from the propulsion plant
+{(B60H 1/00492 takes precedence)}
+    1/025   . . {from both the cooling liquid and the exhaust
+    1/03    . . and from a source other than the propulsion plant
+    1/032   . . . {from the cooling liquid of the propulsion plant
+    1/034   . . . {from the cooling liquid of the propulsion plant
+and from an electric heating device}
+    1/036   . . . {from the plant exhaust gases and from a
+    1/038   . . . {from the cooling liquid of the propulsion plant
+and from a viscous fluid heater}
+    1/039   . . . {from air leaving the interior of the vehicle, i.e.
+    1/04    . . from cooling liquid of the plant {(B60H 1/025,
+    1/06    . . . directly from main radiator
+    1/08    . . . from other radiator than main radiator
+    1/10    . . . . the other radiator being situated in a duct
+capable of being connected to atmosphere
+    1/12    . . . . . using an air blower
+    1/14    . . otherwise than from cooling liquid of the plant
+{, e.g. heat from the grease oil, the brakes, the
+transmission unit (B60H 1/03 takes precedence)}
+    1/143   . . . {the heat being derived from cooling an electric
+component, e.g. electric motors, electric
+circuits, fuel cells or batteries}
+ 2001/146   . . . {from a viscous fluid heater}
+    1/16    . . . the air being heated by direct contact with the
+    1/18    . . . the air being heated from the plant exhaust
+gases {(B60H 1/025 takes precedence; exhaust
+or silencing apparatus associated with devices
+profiting by exhaust energy F01N 5/00)}
+    1/20    . . . . using an intermediate heat-transferring
+    1/22    . the heat being derived otherwise than from the
+propulsion plant {(B60H 1/0025, B60H 1/00492
+and B60H 1/03 take precedence)}
+    1/2203  . . {the heat being derived from burners (burners in
+general F23C, F23D, F24H 9/18)}
+    1/2206  . . . {controlling the operation of burners (control of
+    1/2209  . . . {arrangements of burners for heating an
+intermediate liquid (B60H 1/032 takes
+    1/2212  . . . {arrangements of burners for heating air}
+    1/2215  . . {the heat being derived from electric heaters}
+    1/2218  . . . {controlling the operation of electric heaters}
+    1/2221  . . . {arrangements of electric heaters for heating
+an intermediate liquid (B60H 1/034 takes
+    1/2225  . . . {arrangements of electric heaters for heating
+    1/2226  . . . {Electric heaters using radiation}
+    1/2227  . . . {Electric heaters incorporated in vehicle trim
+components, e.g. panels or linings}
+ 2001/2228  . . {controlling the operation of heaters}
+ 2001/2231  . . . {for proper or safe operation of the heater}
+ 2001/2234  . . . {when vehicle is parked, preheating}
+ 2001/2237  . . . {supplementary heating, e.g. during stop and
+ 2001/224   . . . {automatic operation, e.g. control circuits or
+ 2001/2243  . . . {manual operation, e.g. remote control or
+ 2001/2246  . . {obtaining information from a variable, e.g. by
+ 2001/225   . . . {related to an operational state of another
+ 2001/2253  . . . {related to an operational state of the vehicle or
+ 2001/2256  . . . {related to the operation of the heater itself, e.g.
+flame detection or overheating}
+ 2001/2259  . . {output of a control signal}
+ 2001/2262  . . . {related to the period of on/off time of the
+ 2001/2265  . . . {related to the quantity of heat produced by the
+ 2001/2268  . . {Constructional features}
+ 2001/2271  . . . {Heat exchangers, burners, ignition devices}
+ 2001/2275  . . . {Thermoelectric converters for generating
+ 2001/2278  . . . {Connectors, water supply, housing, mounting
+ 2001/2281  . . . {Air supply, exhaust systems}
+ 2001/2284  . . . {Fuel supply}
+ 2001/2287  . . . {Integration into a vehicle HVAC system or
+vehicle dashboard (B60H 2001/00128 takes
+ 2001/229   . . . {Integration into an air outlet}
+ 2001/2293  . . . {Integration into other parts of a vehicle}
+ 2001/2296  . . . {integration into fluid/air heat exchangers}
+    1/24    . Devices purely for ventilating or where the heating
+or cooling is irrelevant (nozzles, air-diffusers
+    1/241   . . {characterised by the location of ventilation
+    1/242   . . . {located in the front area}
+    1/243   . . . {located in the lateral area (e.g. doors, pillars)}
+    1/244   . . . {located in the rear area}
+    1/245   . . . {located in the roof}
+    1/246   . . . {located in the interior of the vehicle or in or
+    1/247   . . {Disposition of several air-diffusers in a vehicle
+for ventilation-air circulation in a vehicle cabin}
+    1/248   . . {Air-extractors, air-evacuation from the vehicle
+    1/249   . . . {using one-way valves}
+    1/26    . . Ventilating openings in vehicle exterior; Ducts
+    1/262   . . . {Openings in or on the vehicle roof}
+    1/265   . . . {Openings in window or door posts or pillars
+(B60H 1/248 takes precedence; door posts per
+    1/267   . . . {Openings in or near to vehicle windows
+(pivoting side windows B60J 1/14; wind
+deflectors associated with windows for
+    1/28    . . . the openings being situated directly in front of
+    1/32    . Cooling devices ({B60H 1/00478, B60H 1/005
+take precedence;} vehicles adapted to transport
+    1/3201  . . {using absorption or adsorption}
+    1/32011 . . . {using absorption, e.g. using Li-Br and water}
+    1/32014 . . . {using adsorption, e.g. using Zeolite and water}
+    1/3202  . . {using evaporation, i.e. not including a
+compressor, e.g. involving fuel or water
+evaporation (B60H 1/3235 takes precedence; in
+general F25B 19/00, F25D 7/00)}
+    1/3204  . . {using compression (B60H 1/3233 takes
+    1/3205  . . . {Control means therefor}
+    1/3207  . . . . {for minimizing the humidity of the air}
+    1/3208  . . . . {Vehicle drive related control of the
+compressor drive means, e.g. for fuel saving
+    1/321   . . . . {for preventing the freezing of a heat
+    1/3211  . . . . {for increasing the efficiency of a vehicle
+    1/3213  . . . . {for increasing the efficiency in a vehicle
+    1/3214  . . . . {for improving the lubrication of a
+refrigerant compressor in a vehicle}
+    1/3216  . . . . {for improving a change in operation duty of
+    1/3217  . . . . {for high pressure, inflamable or poisonous
+refrigerants causing danger in case of
+    1/3219  . . . . {for improving the response time of a vehicle
+    1/322   . . . . {for improving the stop or idling operation of
+    1/3222  . . . {characterised by the compressor driving
+arrangements, e.g. clutches, transmissions or
+multiple drives (B60H 1/3208, B60H 1/3226
+    1/3223  . . . {characterised by the arrangement or type
+of the compressor (B60H 1/3222 takes
+    1/3225  . . . {characterised by safety arrangements, e.g.
+compressor anti-seizure means or by signalling
+    1/3226  . . . {Self-contained devices, i.e. including own
+    1/3227  . . . {characterised by the arrangement or the
+type of heat exchanger, e.g. condenser,
+evaporator (condensed liquid drainage means
+    1/3228  . . . {characterised by refrigerant circuit
+    1/32281 . . . . {comprising a single secondary circuit, e.g.
+at evaporator or condenser side}
+    1/32284 . . . . {comprising two or more secondary circuits,
+e.g. at evaporator and condenser side}
+    1/3229  . . . {characterised by constructional features,
+e.g. housings, mountings, conversion systems
+(B60H 1/3227, B60H 1/3233 take precedence)}
+    1/323   . . . {characterised by comprising auxiliary or
+multiple systems, e.g. plurality of evaporators,
+or by involving auxiliary cooling devices}
+    1/3232  . . . {particularly adapted for load transporting
+vehicles (B60H 1/3226 takes precedence)}
+    1/3233  . . {characterised by condensed liquid drainage
+    1/32331 . . . {comprising means for the use of condensed
+liquid, e.g. for humidification or for improving
+    1/3235  . . {using sublimation, e.g. dry ice cooling or
+ 2001/3236  . . {information from a variable is obtained}
+ 2001/3238  . . . {related to the operation of the compressor}
+ 2001/3239  . . . {related to flow}
+ 2001/3242  . . . . {of a refrigerant}
+ 2001/3244  . . . {related to humidity}
+ 2001/3247  . . . . {of a refrigerant}
+ 2001/3248  . . . {related to pressure}
+ 2001/325   . . . . {of the refrigerant at a compressing unit}
+ 2001/3251  . . . . {of the refrigerant at a condensing unit}
+ 2001/3252  . . . . {of the refrigerant at an evaporating unit}
+ 2001/3254  . . . . {of the refrigerant at an expansion unit}
+ 2001/3255  . . . {related to temperature}
+ 2001/3257  . . . . {of the refrigerant at a compressing unit}
+ 2001/3258  . . . . {of the air at a condensing unit}
+ 2001/326   . . . . {of the refrigerant at a condensing unit}
+ 2001/3261  . . . . {of the air at an evaporating unit}
+ 2001/3263  . . . . {of the refrigerant at an evaporating unit}
+ 2001/3264  . . . . {of the refrigerant at an expansion unit}
+ 2001/3266  . . . {related to the operation of the vehicle}
+ 2001/3267  . . . {related to the operation of an expansion valve}
+ 2001/3269  . . {output of a control signal}
+ 2001/327   . . . {related to a compressing unit}
+ 2001/3272  . . . . {to control the revolving speed of a
+ 2001/3273  . . . . {related to the operation of the vehicle, e.g.
+ 2001/3275  . . . . {to control the volume of a compressor}
+ 2001/3276  . . . {related to a condensing unit}
+ 2001/3277  . . . . {to control the air flow}
+ 2001/3279  . . . . {to control the refrigerant flow}
+ 2001/328   . . . {related to an evaporating unit}
+ 2001/3282  . . . . {to control the air flow}
+ 2001/3283  . . . . {to control the refrigerant flow}
+ 2001/3285  . . . {related to an expansion unit}
+ 2001/3286  . . {Constructional features}
+ 2001/3288  . . . {Additional heat source}
+ 2001/3289  . . . {Additional cooling source}
+ 2001/3291  . . . {Locations with heat exchange within the
+ 2001/3292  . . . {Compressor drive is electric only}
+ 2001/3294  . . . {Compressor drive is hybrid}
+ 2001/3295  . . . {Compressing means other than compressor}
+ 2001/3297  . . . {Expansion means other than expansion valve}
+ 2001/3298  . . . {Ejector-type refrigerant circuits}
+    1/34    . Nozzles; {Air-diffusers}(dispositions of air
+diffusers in a vehicle B60H 1/247)
+    1/3407  . . {providing an air stream in a fixed direction, e.g.
+    1/3414  . . {with means for adjusting the air stream direction
+    1/3421  . . . {using only pivoting shutters}
+    1/3428  . . . {using a set of pivoting shutters and a pivoting
+    1/3435  . . . {using only a pivoting frame}
+    1/3442  . . . . {the frame being spherical}
+    1/345   . . {with means for adjusting divergence,
+convergence or oscillation of air stream}
+    1/3457  . . {Outlets providing a vortex, i.e. a spirally wound
+ 2001/3464  . . {Details of hinges}
+ 2001/3471  . . {Details of actuators}
+ 2001/3478  . . . {acting on additional damper doors}
+ 2001/3485  . . {Air temperature regulation}
+ 2001/3492  . . {Manufacturing; Assembling}
+    3/00    Other air-treating devices
+    3/0007  . {Adding substances other than water to the air, e.g.
+    3/0014  . . {characterised by the location of the substance
+    3/0021  . . . {in the air-conditioning housing}
+    3/0028  . . . {on or near an air outlet}
+    3/0035  . . {characterised by the control methods for adding
+ 2003/0042  . . {with ventilating means for adding the
+ 2003/005   . . {with heating means for adding the substances}
+ 2003/0057  . . {Servicing means therefor, e.g. for renewal of
+ 2003/0064  . . {adding more than one substance}
+    3/0071  . {Electrically conditioning the air, e.g. by ionizing}
+    3/0078  . . {comprising electric purifying means}
+    3/0085  . {Smell or pollution preventing arrangements
+(B60H 3/0007, B60H 3/0071, B60H 3/02,
+    3/0092  . . {in the interior of the HVAC unit, e.g. by
+spraying substances inside the unit}
+    3/02    . Moistening {; Devices influencing humidity levels,
+i.e. humidity control (B60H 1/3202, B60H 1/3207
+    3/022   . . {for only humidifying the air}
+    3/024   . . {for only dehumidifying the air}
+ 2003/026   . . {the devices being located in the passenger
+ 2003/028   . . {the devices comprising regeneration means}
+    3/06    . Filtering {(B60H 3/0078 takes precedence)}
+    3/0608  . . {Filter arrangements in the air stream}
+    3/0616  . . . {with provisions for replacing the filter
+    3/0625  . . . {with provisions for by-passing the filter
+    3/0633  . . . {with provisions for regenerating or cleaning
+    3/0641  . . . {near ventilating openings in the vehicle
+ 2003/065   . . . {Details for holding filter elements in position}
+    3/0658  . . {Filter elements specially adapted for their
+arrangement in vehicles (B60H 3/0608 takes
+ 2003/0666  . . . {the filter element having non-rectangular
+ 2003/0675  . . {Photocatalytic filters}
+ 2003/0683  . . {the quality of the filter or the air being checked}
+ 2003/0691  . . {Adsorption filters, e.g. activated carbon}

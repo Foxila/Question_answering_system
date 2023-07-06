@@ -1,0 +1,85 @@
+COOPERATIVE PATENT CLASSIFICATION
+ELECTRIC TECHNIQUES NOT OTHERWISE PROVIDED FOR
+X-RAY TECHNIQUE (investigating or analysing materials by the use of X-rays G01N 23/00;
+apparatus for X-ray photography G03B 42/02; X-ray tubes H01J 35/00; TV systems having X-
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    X-ray apparatus involving X-ray tubes; Circuits
+    1/02    . Constructional details
+    1/025   . . {Means for cooling the X-ray tube or the
+    1/04    . . Mounting the X-ray tube within a closed housing
+    1/06    . . . X-ray tube and at least part of the power supply
+apparatus being mounted within the same
+    1/08    . Electrical details
+    1/085   . . {Circuit arrangements particularly adapted for X-
+ray tubes having a control grid}
+    1/10    . . Power supply arrangements for feeding the X-ray
+tube {(supply circuits with converters in general
+H02M; supply circuits for emitters and amplifiers
+    1/12    . . . with dc or rectified single-phase ac {or double-
+    1/14    . . . with single-phase low-frequency ac {also when
+a rectifer element is in series with the X-ray
+    1/16    . . . . Reducing the peak-inverse voltage
+    1/18    . . . with polyphase ac of low frequency {rectified}
+    1/20    . . . with high-frequency ac; with pulse trains
+{(pulse generators in general H03K 3/00,
+    1/22    . . . with single pulses
+    1/24    . . . . Obtaining pulses by using energy storage
+    1/26    . . Measuring, controlling or protecting (measuring
+    1/265   . . . {Measurements of current, voltage or power}
+    1/28    . . . Measuring or recording actual exposure time;
+Counting number of exposures; Measuring
+    1/32    . . . . Supply voltage of the X-ray apparatus or
+    1/34    . . . . Anode current, heater current or heater
+    1/36    . . . . Temperature of anode; Brightness of image
+{power (electrical temperature regulating in
+    1/38    . . . . Exposure time {(time switches in general
+    1/40    . . . . . using adjustable time-switch
+    1/42    . . . . . using arrangements for switching when a
+predetermined dose of radiation has been
+applied, e.g. in which the switching instant
+is determined by measuring the electrical
+    1/44    . . . . . . in which the switching instant is
+determined by measuring the amount of
+radiation directly {(dosimetry in general
+    1/46    . . . . Combined control of different quantities, e.g.
+exposure time as well as voltage or current
+    1/48    . . . . Compensating the voltage drop occurring at
+the instant of switching-on of the apparatus
+    1/50    . . . . Passing the tube current only during a
+restricted portion of the voltage waveform
+    1/52    . . . . Target size or shape; Direction of electron
+beam, e.g. in tubes with one anode and more
+    1/54    . . . Protecting {or lifetime prediction}(overload
+protection combined with control H05G 1/46)
+    1/56    . . Switching-on; Switching-off
+    1/58    . . Switching arrangements for changing-over from
+one mode of operation to another, e.g. from
+radioscopy to radiography, from radioscopy to
+irradiation {or from one tube voltage to another}
+    1/60    . . Circuit arrangements for obtaining a series of X-
+ray photographs or for X-ray cinematography
+    1/62    . . Circuit arrangements for obtaining X-ray
+photography at predetermined instants in the
+movement of an object, e.g. X-ray stroboscopy
+    1/64    . . Circuit arrangements for X-ray apparatus
+incorporating image intensifiers
+    1/66    . . Circuit arrangements for X-ray tubes with target
+movable relatively to the anode
+    1/68    . . Circuit arrangements for Lilienfield tubes; Circuit
+arrangements for gas-filled X-ray tubes
+    1/70    . . Circuit arrangements for X-ray tubes with
+more than one anode; Circuit arrangements for
+apparatus comprising more than one X ray tube
+{or more than one cathode (H05G 1/58 takes
+    2/00    Apparatus or processes specially adapted for
+producing X-rays, not involving X-ray tubes, e.g.
+involving generation of a plasma (X-ray lasers
+    2/001   . {X-ray radiation generated from plasma (plasma for
+generation of electrons to be accelerated towards an
+    2/003   . . {being produced from a liquid or gas}
+    2/005   . . . {containing a metal as principal radiation
+    2/006   . . . {details of the ejection system, e.g.
+constructional details of the nozzle}
+    2/008   . . {involving a beam of energy, e.g. laser or electron
+beam in the process of exciting the plasma}

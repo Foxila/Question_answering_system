@@ -1,0 +1,619 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+REFRIGERATION OR COOLING; COMBINED HEATING AND REFRIGERATION
+SYSTEMS; HEAT PUMP SYSTEMS; MANUFACTURE OR STORAGE OF ICE;
+LIQUEFACTION SOLIDIFICATION OF GASES
+REFRIGERATION MACHINES, PLANTS OR SYSTEMS; COMBINED HEATING
+AND REFRIGERATION SYSTEMS; HEAT PUMP SYSTEMS
+Compression machines, plants or systems
+    1/00    Compression machines, plants or systems with
+non-reversible cycle (F25B 3/00, F25B 5/00,
+F25B 6/00, F25B 7/00, F25B 9/00 take precedence)
+    1/005   . {of the single unit type (F25B 1/10 takes
+    1/02    . with compressor of reciprocating-piston type
+({F25B 1/005,} F25B 1/10 take precedence)
+    1/04    . with compressor of rotary type ({F25B 1/005,}
+    1/053   . . of turbine type
+    1/06    . with compressor of jet type, e.g. using liquid
+under pressure ({F25B 1/005,} F25B 1/10 take
+    1/08    . . using vapour under pressure
+    1/10    . with multi-stage compression (with cascade
+    3/00    Self-contained rotary compression machines,
+i.e. with compressor, condenser and evaporator
+    5/00    Compression machines, plants or systems, with
+several evaporator circuits, e.g. for varying
+refrigerating capacity (with cascade operation
+    5/02    . arranged in parallel
+    5/04    . arranged in series
+    6/00    Compression machines, plants or systems, with
+    6/02    . arranged in parallel
+    6/04    . arranged in series
+    7/00    Compression machines, plants or systems, with
+cascade operation, i.e. with two or more circuits,
+the heat from the condenser of one circuit being
+absorbed by the evaporator of the next circuit
+    9/00    Compression machines, plants or systems, in which
+the refrigerant is air or other gas of low boiling
+    9/002   . {characterised by the refrigerant}
+    9/004   . . {the refrigerant being air}
+    9/006   . . {the refrigerant containing more than one
+component (F25B 9/004 takes precedence)}
+    9/008   . . {the refrigerant being carbon dioxide}
+    9/02    . using Joule-Thompson effect; using vortex effect
+    9/04    . . using vortex effect
+    9/06    . using expanders (F25B 9/10 takes precedence)
+    9/065   . . {using pressurised gas jets}
+    9/08    . using ejectors (F25B 9/10 takes precedence)
+    9/10    . with several cooling stages
+    9/12    . using 3He-4He dilution
+    9/14    . characterised by the cycle used, e.g. Stirling cycle
+    9/145   . . {pulse-tube cycle}
+   11/00    Compression machines, plants or systems, using
+   11/02    . as expanders (F25B 9/06 takes precedence)
+   11/04    . . centrifugal type
+   13/00    Compression machines, plants or systems, with
+reversible cycle (defrosting cycles F25B 47/02)
+Sorption machines, plants or systems
+   15/00    Sorption machines, plants or systems, operating
+continuously, e.g. absorption type
+   15/002   . {using the endothermic solution of salt}
+   15/006   . {with cascade operation}
+   15/008   . {with multi-stage operation (F25B 15/006 takes
+   15/02    . without inert gas ({F25B 15/004, F25B 15/006,
+F25B 15/008}, F25B 15/12, F25B 15/14,
+   15/025   . . {Liquid transfer means}
+   15/04    . . the refrigerant being ammonia evaporated
+from aqueous solution {(F25B 15/025 takes
+   15/06    . . the refrigerant being water vapour evaporated
+from a salt solution, e.g. lithium bromide
+{(F25B 15/025 takes precedence)}
+   15/08    . . the refrigerant being sulfuric acid {(F25B 15/025
+   15/09    . . the refrigerant being hydrogen desorbed from a
+hydride {(F25B 15/025 takes precedence)}
+1Sorption machines, plants or systems
+   15/10    . with inert gas ({F25B 15/004, F25B 15/006,
+F25B 15/008}, F25B 15/12, F25B 15/14,
+   15/12    . with resorber ({F25B 15/004, F25B 15/006,
+F25B 15/008}, F25B 15/14 take precedence)
+   15/14    . using osmosis {(F25B 15/004, F25B 15/006,
+   15/16    . using desorption cycle {(F25B 15/004,
+F25B 15/006, F25B 15/008 take precedence)}
+   17/00    Sorption machines, plants or systems, operating
+intermittently, e.g. absorption or adsorption type
+   17/02    . the absorbent or adsorbent being a liquid, e.g. brine
+   17/04    . . with two or more boilers operating alternately
+   17/06    . . with the boiler and evaporator built-up as a unit in
+a tiltable or revolving arrangement
+   17/08    . the absorbent or adsorbent being a solid, e.g. salt
+   17/083   . . {with two or more boiler-sorbers operating
+   17/086   . . {with two or more boiler-sorber/evaporator units}
+   17/10    . using the endothermic solution of salt
+   17/12    . using desorption of hydrogen from a hydride
+Machines, plants or systems, with a single mode of operation, not
+covered by groups F25B 1/00 - F25B 17/00
+   19/00    Machines, plants or systems, using evaporation of
+a refrigerant but without recovery of the vapour
+   19/005   . {the refrigerant being a liquefied gas}
+   19/02    . using fluid jet, e.g. of steam {(F25B 19/005 takes
+   19/04    . . using liquid jet, e.g. of water
+   21/00    Machines, plants or systems, using electric or
+   21/02    . using Peltier effect; using Nernst-Ettinghausen
+   23/00    Machines, plants or systems, with a single
+mode of operation not covered by groups
+F25B 1/00 - F25B 21/00, e.g. using selective
+   23/003   . {using selective radiation effect}
+   23/006   . {boiling cooling systems}
+   25/00    Machines, plants or systems, using a combination
+of modes of operation covered by two or more of
+the groups F25B 1/00 - F25B 23/00
+   25/005   . {using primary and secondary systems}
+   25/02    . Compression-sorption machines, plants, or systems
+   27/00    Machines, plants or systems, using particular
+sources of energy (F25B 30/06 takes precedence)
+   27/002   . {using solar energy}
+   27/005   . . {in compression type systems}
+   27/007   . . {in sorption type systems}
+   27/02    . using waste heat, e.g. from internal-combustion
+   29/00    Combined heating and refrigeration systems, e.g.
+operating alternately or simultaneously
+   29/003   . {of the compression type system}
+   29/006   . {of the sorption type system}
+   30/00    Heat pumps (F25B 1/00-F25B 25/00, F25B 29/00
+   30/02    . of the compression type
+   30/04    . of the sorption type
+   30/06    . characterised by the source of low potential heat
+   31/00    Compressor arrangements
+   31/004   . . {oil recirculating arrangements}
+   31/006   . {Cooling of compressor or motor}
+   31/008   . . {by injecting a liquid}
+   31/02    . of motor-compressor units
+   31/023   . . {with compressor of reciprocating-piston type}
+   31/026   . . {with compressor of rotary type}
+   33/00    Boilers; Analysers; Rectifiers (boiler-absorbers
+   35/00    Boiler-absorbers, i.e. boilers usable for absorption
+   35/02    . using a liquid as sorbent, e.g. brine
+   35/04    . using a solid as sorbent
+   37/00    Absorbers; Adsorbers (boiler-absorbers
+   39/00    Evaporators; Condensers
+   39/022   . . {with plate-like or laminated elements}
+   39/024   . . . {with elements constructed in the shape of a
+   39/026   . . {specially adapted for sorption type systems}
+   39/028   . . {having distributing means}
+   40/00    Subcoolers, desuperheaters or superheaters
+   41/00    Fluid-circulation arrangements
+   41/006   . {optical fluid control arrangements}
+   41/10    . using electro-osmosis
+   41/20    . Disposition of valves, e.g. of on-off valves or flow
+control valves (expansion valves F25B 41/31)
+   41/22    . . between evaporator and compressor
+   41/24    . . Arrangement of shut-off valves for disconnecting
+a part of the refrigerant cycle, e.g. an outdoor part
+   41/26    . . of fluid flow reversing valves
+   41/28    . . specially adapted for sorption cycles
+   41/30    . Expansion means; Dispositions thereof
+   41/31    . . Expansion valves
+   41/315   . . . actuated by floats
+   41/32    . . . having flow rate limiting means other than the
+valve member, e.g. having bypass orifices in
+   41/325   . . . having two or more valve members
+   41/33    . . . with the valve member being actuated by
+the fluid pressure, e.g. by the pressure of the
+   41/335   . . . . via diaphragms
+   41/34    . . . with the valve member being actuated by
+electric means, e.g. by piezo-electric actuators
+   41/345   . . . . by solenoids
+   41/347   . . . . . {with the valve member being opened and
+closed cyclically, e.g. with pulse width
+   41/35    . . . . by rotary motors, e.g. by stepping motors
+   41/355   . . . . by electric heating of bimetal elements,
+shape memory elements or heat expanding
+   41/36    . . . with the valve member being actuated by
+bimetal elements or shape-memory elements
+influenced by fluids, e.g. by the refrigerant
+   41/37    . . Capillary tubes
+   41/375   . . . characterised by a variable restriction, e.g.
+restrictors made of shape memory alloy
+   41/38    . . specially adapted for reversible cycles, e.g.
+bidirectional expansion restrictors
+   41/385   . . Dispositions with two or more expansion means
+arranged in parallel on a refrigerant line leading
+   41/39    . . Dispositions with two or more expansion means
+arranged in series, i.e. multi-stage expansion, on a
+refrigerant line leading to the same evaporator
+   41/40    . Fluid line arrangements
+   41/42    . . Arrangements for diverging or converging flows,
+   41/45    . . . for flow control on the upstream side of the
+diverging point, e.g. with spiral structure for
+   41/48    . . . for flow path resistance control on the
+downstream side of the diverging point, e.g. by
+   43/00    Arrangements for separating or purifying gases
+or liquids (in analysers or rectifiers F25B 33/00);
+Arrangements for vaporising the residuum of
+liquid refrigerant, e.g. by heat (F25B 40/00 takes
+   43/02    . for separating lubricants from the refrigerant
+   43/04    . for withdrawing non-condensible gases
+   43/043   . . {for compression type systems}
+   43/046   . . {for sorption type systems}
+   45/00    Arrangements for charging or discharging
+   47/00    Arrangements for preventing or removing deposits
+or corrosion, not provided for in another subclass
+   47/003   . {for preventing corrosion}
+   47/006   . {for preventing frost}
+   47/02    . Defrosting cycles
+   47/022   . . {hot gas defrosting}
+   47/025   . . . {by reversing the cycle}
+   47/027   . . {for defrosting sorption type systems}
+   49/00    Arrangement or mounting of control or safety
+   49/005   . {of safety devices (F25B 49/02 and F25B 49/04
+   49/02    . for compression type machines, plants or systems
+   49/022   . . {Compressor control arrangements}
+   49/025   . . {Motor control arrangements}
+   49/027   . . {Condenser control arrangements}
+   49/04    . for sorption type machines, plants or systems
+   49/043   . . {Operating continuously}
+   49/046   . . {Operating intermittently}
+Indexing scheme associated with groups F25B 1/00 - F25B 49/00,
+relating to arrangements, features or devices for refrigeration
+machines, plants or systems, combined heating and refrigeration
+systems or heat-pump systems as well as solved problems, control
+issues and sensing of parameters therefore
+ 2300/00    Special arrangements or features for refrigeration
+machines, plants or systems, combined heating and
+refrigeration systems or heat-pump systems
+ 2309/00    Gas cycle refrigeration machines
+ 2309/001   . with a linear configuration or a linear motor
+ 2309/002   . with parallel working cold producing expansion
+ 2309/003   . characterised by construction or composition of the
+ 2309/004   . using a compressor of the rotary type
+ 2309/005   . using an expander of the rotary type
+ 2309/006   . using a distributing valve of the rotary type
+ 2309/02    . using the Joule-Thompson effect
+ 2309/021   . . with a cryosurgical probe tip having a specific
+ 2309/022   . . characterised by the expansion element
+ 2309/023   . . with two stage expansion
+ 2309/06    . Compression machines, plants or systems
+characterised by the refrigerant being carbon
+ 2309/061   . . with cycle highest pressure above the
+ 2309/14    . Compression machines, plants or systems
+characterised by the cycle used 
+ 2309/1401  . . Ericsson or Ericcson cycles
+ 2309/1402  . . Pulse-tube cycles with acoustic driver
+ 2309/1403  . . Pulse-tube cycles with heat input into acoustic
+ 2309/1404  . . Pulse-tube cycles with loudspeaker driven
+ 2309/1405  . . Pulse-tube cycles with travelling waves
+ 2309/1406  . . Pulse-tube cycles with pulse tube in co-axial or
+concentric geometrical arrangements
+ 2309/1407  . . Pulse-tube cycles with pulse tube having in-line
+ 2309/1408  . . Pulse-tube cycles with pulse tube having U-turn
+or L-turn type geometrical arrangements
+ 2309/1409  . . Pulse-tube cycles with pulse tube having special
+type of geometrical arrangements not being a
+coaxial, in-line or U-turn type
+ 2309/1411  . . Pulse-tube cycles characterised by control details,
+e.g. tuning, phase shifting or general control
+ 2309/1412  . . Pulse-tube cycles characterised by heat exchanger
+ 2309/1413  . . Pulse-tube cycles characterised by performance,
+ 2309/1414  . . Pulse-tube cycles characterised by pulse tube
+ 2309/1415  . . Pulse-tube cycles characterised by regenerator
+ 2309/1416  . . Pulse-tube cycles characterised by regenerator
+3Indexing scheme associated with groups F25B1/00 - F25B49/00, relating to arrangements, features or
+ 2309/1417  . . Pulse-tube cycles without any valves in gas
+ 2309/1418  . . Pulse-tube cycles with valves in gas supply and
+ 2309/14181 . . . the valves being of the rotary type
+ 2309/1419  . . Pulse-tube cycles with pulse tube having a basic
+pulse tube refrigerator [PTR], i.e. comprising a
+ 2309/1421  . . Pulse-tube cycles characterised by details not
+ 2309/1422  . . Pulse tubes with basic schematic including
+a counter flow heat exchanger instead of a
+ 2309/1423  . . Pulse tubes with basic schematic including an
+ 2309/1424  . . Pulse tubes with basic schematic including an
+ 2309/14241 . . . Pulse tubes with basic schematic including an
+orifice reservoir multiple inlet pulse tube
+ 2309/1425  . . Pulse tubes with basic schematic including
+ 2309/1426  . . Pulse tubes with basic schematic including at
+the pulse tube warm end a so called warm end
+ 2309/1427  . . Control of a pulse tube
+ 2309/1428  . . Control of a Stirling refrigeration machine
+ 2313/00    Compression machines, plants or systems with
+reversible cycle not otherwise provided for
+ 2313/001   . with two or more accumulators
+ 2313/003   . Indoor unit with water as a heat sink or heat source
+ 2313/004   . Outdoor unit with water as a heat sink or heat
+ 2313/005   . Outdoor unit expansion valves
+ 2313/006   . two pipes connecting the outdoor side to the indoor
+side with multiple indoor units
+ 2313/007   . three pipes connecting the outdoor side to the indoor
+side with multiple indoor units
+ 2313/008   . Refrigerant heaters
+ 2313/009   . indoor unit in circulation with outdoor unit in first
+operation mode, indoor unit in circulation with an
+other heat exchanger in second operation mode
+or outdoor unit in circulation with an other heat
+exchanger in third operation mode
+ 2313/021   . Indoor unit or outdoor unit with auxiliary heat
+exchanger not forming part of the indoor or outdoor
+ 2313/0211  . . the auxiliary heat exchanger being only used
+ 2313/0212  . . the auxiliary heat exchanger being only used
+ 2313/0213  . . the auxiliary heat exchanger being only used
+ 2313/0214  . . the auxiliary heat exchanger being used parallel to
+the indoor unit during heating operation
+ 2313/0215  . . the auxiliary heat exchanger being used parallel
+to the outdoor heat exchanger during heating
+ 2313/023   . using multiple indoor units
+ 2313/0231  . . with simultaneous cooling and heating
+ 2313/02321 . . . during cooling
+ 2313/02322 . . . during defrosting
+ 2313/02323 . . . during heating
+ 2313/0233  . . in parallel arrangements
+ 2313/02331 . . . during cooling
+ 2313/02332 . . . during defrosting
+ 2313/02333 . . . during dehumidification
+ 2313/02334 . . . during heating
+ 2313/0234  . . in series arrangements
+ 2313/02341 . . . during cooling
+ 2313/02342 . . . during defrosting
+ 2313/02343 . . . during dehumidification
+ 2313/02344 . . . during heating
+ 2313/025   . using multiple outdoor units
+ 2313/0251  . . being defrosted alternately
+ 2313/02521 . . . during cooling
+ 2313/02522 . . . during defrosting
+ 2313/02523 . . . during heating
+ 2313/0253  . . in parallel arrangements
+ 2313/02531 . . . during cooling
+ 2313/02532 . . . during defrosting
+ 2313/02533 . . . during heating
+ 2313/0254  . . in series arrangements
+ 2313/02541 . . . during cooling
+ 2313/02542 . . . during defrosting
+ 2313/02543 . . . during heating
+ 2313/027   . characterised by the reversing means
+ 2313/0271  . . the compressor allows rotation in reverse
+ 2313/0272  . . using bridge circuits of one-way valves
+ 2313/02731 . . using one three-way valve
+ 2313/02732 . . using two three-way valves
+ 2313/02741 . . using one four-way valve
+ 2313/02742 . . using two four-way valves
+ 2313/02743 . . using three four-way valves
+ 2313/0276  . . using six-way valves
+ 2313/0279  . . using nine-way valves
+ 2313/02791 . . using shut-off valves
+ 2313/02792 . . using reversing valve changing the refrigerant
+flow direction due to pressure differences of the
+refrigerant and not by external actuation
+ 2313/0291  . . related to the pressure of the indoor unit
+ 2313/0292  . . related to reversing valves
+ 2313/0293  . . related to the indoor fan, e.g. controlling speed
+ 2313/0294  . . related to the outdoor fan, e.g. controlling speed
+ 2313/031   . Sensor arrangements
+ 2313/0311  . . Pressure sensors near the expansion valve
+ 2313/0312  . . Pressure sensors near the indoor heat exchanger
+ 2313/0313  . . Pressure sensors near the outdoor heat exchanger
+ 2313/0314  . . Temperature sensors near the indoor heat
+ 2313/0315  . . Temperature sensors near the outdoor heat
+ 2313/0316  . . Temperature sensors near the refrigerant heater
+ 2315/00    Sorption refrigeration cycles or details thereof
+ 2315/001   . Crystallization prevention
+ 2315/002   . Generator absorber heat exchanger [GAX]
+ 2315/003   . Hydrates for sorption cycles
+ 2315/004   . Inert heat-exchangers
+ 2315/006   . Reversible sorption cycles
+4Indexing scheme associated with groups F25B1/00 - F25B49/00, relating to arrangements, features or
+ 2315/007   . Parallel systems therefor
+ 2321/00    Details of machines, plants or systems, using
+ 2321/001   . by using electro-caloric effects
+ 2321/002   . by using magneto-caloric effects
+ 2321/0021  . . with a static fixed magnet
+ 2321/0022  . . with a rotating or otherwise moving magnet
+ 2321/0023  . . with modulation, influencing or enhancing an
+ 2321/003   . by using thermionic electron cooling effects
+ 2321/02    . using Peltier effects; using Nernst-Ettinghausen
+ 2321/021   . . Control thereof
+ 2321/0212  . . . of electric power, current or voltage
+ 2321/023   . . Mounting details thereof
+ 2321/025   . . Removal of heat
+ 2321/0252  . . . by liquids or two-phase fluids
+ 2327/00    Refrigeration system using an engine for driving a
+ 2327/001   . of the internal combustion type
+ 2333/00    Details of boilers; Analysers; Rectifiers
+ 2333/001   . the generator or boiler having an analyser
+ 2333/002   . the generator or boiler is heated electrically
+ 2333/003   . the generator or boiler is heated by combustion gas
+ 2333/004   . the generator or boiler uses an inert gas as pressure
+ 2333/005   . the generator or boiler uses electromagnetic energy
+in the form of microwaves for desorbing the sorbate
+from the sorbate/sorbent compound
+ 2333/0051  . . the energy is used for heating an auxiliary
+medium which is used as heating source for
+desorbing the sorbate from the sorbate/sorbent
+ 2333/006   . the generator or boiler having a rectifier
+ 2333/007   . the generator or boiler heated by heat exchangers
+with steam or hot water as heating fluid or by a
+secondary boiling-condensing heater
+ 2339/00    Details of evaporators; Details of condensers
+ 2339/02    . Details of evaporators
+ 2339/021   . . Evaporators in which refrigerant is sprayed on a
+ 2339/022   . . Evaporators constructed from a pair of plates
+forming a space in which is located a refrigerant
+ 2339/023   . . Evaporators consisting of one or several sheets on
+one face of which is fixed a refrigerant carrying
+ 2339/024   . . Evaporators with refrigerant in a vessel in which
+ 2339/0241  . . . having plate-like elements
+ 2339/0242  . . . having tubular elements
+ 2339/04    . Details of condensers
+ 2339/041   . . of evaporative condensers
+ 2339/042   . . of pcm condensers
+ 2339/043   . . Condensers made by assembling plate-like or
+ 2339/044   . . Condensers with an integrated receiver
+ 2339/0441  . . . containing a drier or a filter
+ 2339/0442  . . . characterised by the mechanical fixation of the
+ 2339/0443  . . . the receiver being positioned horizontally
+ 2339/0444  . . . where the flow of refrigerant through the
+condenser receiver is split into two or more
+flows, each flow following a different path
+ 2339/0445  . . . with throttle portions
+ 2339/0446  . . . characterised by the refrigerant tubes
+connecting the header of the condenser to the
+receiver; Inlet or outlet connections to receiver
+ 2339/045   . . Condensers made by assembling a tube on a
+plate-like element or between plate-like elements
+ 2339/046   . . Condensers with refrigerant heat exchange tubes
+positioned inside or around a vessel containing
+water or pcm to cool the refrigerant gas
+ 2339/047   . . Water-cooled condensers
+ 2341/00    Details of ejectors not being used as compression
+device; Details of flow restrictors or expansion
+ 2341/001   . Ejectors not being used as compression device
+ 2341/0011  . . Ejectors with the cooled primary flow at reduced
+ 2341/0012  . . Ejectors with the cooled primary flow at high
+ 2341/0013  . . Ejector control arrangements
+ 2341/0014  . . Ejectors with a high pressure hot primary flow
+ 2341/0015  . . using two or more ejectors
+ 2341/0016  . . Ejectors for creating an oil recirculation
+ 2341/06    . Details of flow restrictors or expansion valves
+ 2341/062   . . Capillary expansion valves
+ 2341/063   . . Feed forward expansion valves
+ 2341/064   . . Superheater expansion valves
+ 2341/067   . . Expansion valves having a pilot valve
+ 2341/068   . . Expansion valves combined with a sensor
+ 2341/0681  . . . the sensor is heated
+ 2341/0682  . . . the sensor contains sorbent materials
+ 2341/0683  . . . the sensor is disposed in the suction line and
+influenced by the temperature or the pressure of
+ 2345/00    Details for charging or discharging refrigerants;
+ 2345/001   . Charging refrigerant to a cycle
+ 2345/002   . Collecting refrigerant from a cycle
+ 2345/003   . Control issues for charging or collecting refrigerant
+ 2345/004   . with several tanks to collect or charge a cycle
+ 2345/005   . Service stations therefor
+ 2345/0051  . . having a carrying handle
+ 2345/006   . characterised by charging or discharging valves
+ 2345/007   . characterised by the weighing of refrigerant or oil
+ 2347/00    Details for preventing or removing deposits or
+ 2347/02    . Details of defrosting cycles
+ 2347/021   . . Alternate defrosting
+ 2347/022   . . Cool gas defrosting
+ 2347/023   . . Set point defrosting
+5Indexing scheme associated with groups F25B1/00 - F25B49/00, relating to arrangements, features or
+ 2400/00    General features or devices for refrigeration
+machines, plants or systems, combined heating and
+refrigeration systems or heat-pump systems, i.e.
+not limited to a particular subgroup of F25B
+ 2400/02    . Centrifugal separation of gas, liquid or oil
+ 2400/03    . Suction accumulators with deflectors
+ 2400/04    . Refrigeration circuit bypassing means
+ 2400/0401  . . for the compressor
+ 2400/0403  . . for the condenser
+ 2400/0405  . . for the desuperheater
+ 2400/0407  . . for the ejector
+ 2400/0409  . . for the evaporator
+ 2400/0411  . . for the expansion valve or capillary tube
+ 2400/0413  . . for the filter or drier
+ 2400/0415  . . for the receiver
+ 2400/0417  . . for the subcooler
+ 2400/0419  . . for the superheater
+ 2400/05    . Compression system with heat exchange between
+ 2400/051   . . between the accumulator and another part of the
+ 2400/052   . . between the capillary tube and another part of the
+ 2400/053   . . between the storage receiver and another part of
+ 2400/054   . . between the suction tube of the compressor and
+ 2400/06    . Several compression cycles arranged in parallel
+ 2400/061   . . the capacity of the first system being different
+ 2400/07    . Details of compressors or related parts
+ 2400/071   . . Compressor mounted in a housing in which a
+ 2400/072   . . Intercoolers therefor
+ 2400/073   . . Linear compressors
+ 2400/074   . . with multiple cylinders
+ 2400/075   . . with parallel compressors
+ 2400/0751  . . . the compressors having different capacities
+ 2400/076   . . having multiple cylinders driven by a rotating
+ 2400/077   . . Compressor control units, e.g. terminal boxes,
+mounted on the compressor casing wall
+containing for example starter, protection
+ 2400/08    . Refrigeration machines, plants and systems
+having means for detecting the concentration of a
+ 2400/09    . Refrigeration machines, plants and systems having
+means for detecting the concentration of a sorbent
+ 2400/12    . Inflammable refrigerants
+ 2400/14    . Power generation using energy from the expansion
+ 2400/141   . . the extracted power is not recycled back in the
+ 2400/15    . Microelectro-mechanical devices
+ 2400/161   . . arranged in parallel
+ 2400/162   . . characterised by the plug or stop
+ 2400/18    . Refrigerant conversion
+ 2400/19    . Pumping down refrigerant from one part of the
+cycle to another part of the cycle, e.g. when the
+cycle is changed from cooling to heating, or before
+ 2400/21    . Modules for refrigeration systems
+ 2400/22    . Refrigeration systems for supermarkets
+ 2400/24    . Storage receiver heat
+ 2500/00    Problems to be solved
+ 2500/01    . Geometry problems, e.g. for reducing size
+ 2500/02    . Increasing the heating capacity of a reversible cycle
+ 2500/07    . Exceeding a certain pressure value in a refrigeration
+ 2500/08    . Exceeding a certain temperature value in a
+refrigeration component or cycle
+ 2500/09    . Improving heat transfers
+ 2500/11    . Reducing heat transfers
+ 2500/14    . the presence of moisture in a refrigeration
+ 2500/15    . Hunting, i.e. oscillation of controlled refrigeration
+variables reaching undesirable values
+ 2500/18    . Optimization, e.g. high integration of refrigeration
+ 2500/19    . Calculation of parameters
+ 2500/21    . Reduction of parts
+ 2500/22    . Preventing, detecting or repairing leaks of
+ 2500/221   . . Preventing leaks from developing
+ 2500/222   . . Detecting refrigerant leaks
+ 2500/23    . High amount of refrigerant in the system
+ 2500/24    . Low amount of refrigerant in the system
+ 2500/25    . Standardisation of apparatus or parts
+ 2500/26    . characterised by the startup of the refrigeration
+ 2500/27    . characterised by the stop of the refrigeration cycle
+ 2500/28    . Means for preventing liquid refrigerant entering into
+ 2500/29    . High ambient temperatures
+ 2500/31    . Low ambient temperatures
+ 2600/02    . Compressor control
+ 2600/021   . . Inverters therefor
+ 2600/022   . . for multi-stage operation
+ 2600/023   . . controlling swash plate angles
+ 2600/024   . . by controlling the electric parameters, e.g. current
+ 2600/025   . . by controlling speed
+ 2600/0251  . . . with on-off operation
+6Indexing scheme associated with groups F25B1/00 - F25B49/00, relating to arrangements, features or
+ 2600/0252  . . . with two speeds
+ 2600/0253  . . . with variable speed
+ 2600/026   . . by controlling unloaders
+ 2600/0261  . . . external to the compressor
+ 2600/0262  . . . internal to the compressor
+ 2600/027   . . by controlling pressure
+ 2600/0271  . . . the discharge pressure
+ 2600/0272  . . . the suction pressure
+ 2600/05    . Refrigerant levels
+ 2600/11    . Fan speed control
+ 2600/111   . . of condenser fans
+ 2600/112   . . of evaporator fans
+ 2600/13    . Pump speed control
+ 2600/17    . by controlling the pressure of the condenser
+ 2600/19    . Refrigerant outlet condenser temperature
+ 2600/21    . Refrigerant outlet evaporator temperature
+ 2600/25    . Control of valves
+ 2600/2503  . . Condenser exit valves
+ 2600/2505  . . Fixed-differential control valves
+ 2600/2507  . . Flow-diverting valves
+ 2600/2509  . . Economiser valves
+ 2600/2511  . . Evaporator distribution valves
+ 2600/2513  . . Expansion valves
+ 2600/2517  . . Head-pressure valves
+ 2600/2521  . . On-off valves controlled by pulse signals
+ 2600/2523  . . Receiver valves
+ 2600/2525  . . Pressure relief valves
+ 2700/00    Sensing or detecting of parameters; Sensors
+ 2700/01    . Sensors determining characteristics of the burner for
+ 2700/04    . Refrigerant level
+ 2700/05    . Load shedding of a compressor
+ 2700/06    . Piston positions of a compressor
+ 2700/11    . Sensor to detect if defrost is necessary
+ 2700/111   . . using an emitter and receiver, e.g. sensing by
+emitting light or other radiation and receiving
+ 2700/13    . Mass flow of refrigerants
+ 2700/131   . . at the outlet of a subcooler
+ 2700/133   . . through the condenser
+ 2700/1332  . . . at the outlet
+ 2700/135   . . through the evaporator
+ 2700/1351  . . . of the cooled fluid upstream or downstream of
+ 2700/1353  . . . at the outlet
+ 2700/15    . Power, e.g. by voltage or current
+ 2700/151   . . of the compressor motor
+ 2700/171   . . of the compressor
+ 2700/172   . . of the condenser fan
+ 2700/173   . . of the evaporator fan
+ 2700/191   . . near an expansion valve
+ 2700/193   . . of the compressor
+ 2700/1931  . . . Discharge pressures
+ 2700/1932  . . . Oil pressures
+ 2700/1933  . . . Suction pressures
+ 2700/195   . . of the condenser
+ 2700/197   . . of the evaporator
+ 2700/2102  . . at the outlet of the gas cooler
+ 2700/2103  . . near a heat exchanger
+ 2700/2104  . . of an indoor room or compartment
+ 2700/2105  . . Oil temperatures
+ 2700/2106  . . of fresh outdoor air
+ 2700/2107  . . of a Peltier element
+ 2700/2111  . . of a heat storage receiver
+ 2700/2113  . . of a suction accumulator
+ 2700/2115  . . of a compressor or the drive means therefor
+ 2700/21151 . . . at the suction side of the compressor
+ 2700/21152 . . . at the discharge side of the compressor
+ 2700/21153 . . . of electronic components
+ 2700/21154 . . . of an inverter
+ 2700/21157 . . . . at the coil or rotor
+ 2700/21161 . . . the fluid cooled by the condenser
+ 2700/21162 . . . of the refrigerant at the inlet of the condenser
+ 2700/21163 . . . of the refrigerant at the outlet of the condenser
+ 2700/2117  . . of an evaporator
+ 2700/21171 . . . of the fluid cooled by the evaporator
+ 2700/21172 . . . . at the inlet
+ 2700/21173 . . . . at the outlet
+ 2700/21174 . . . of the refrigerant at the inlet of the evaporator
+ 2700/21175 . . . of the refrigerant at the outlet of the evaporator

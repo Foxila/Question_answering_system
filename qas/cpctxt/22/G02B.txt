@@ -1,0 +1,2817 @@
+COOPERATIVE PATENT CLASSIFICATION
+OPTICAL ELEMENTS, SYSTEMS OR APPARATUS
+1. Attention is drawn to the Notes following the titles of class B81 and subclass B81B relating to "microstructural devices" and
+2. This subclass does not cover:
+• devices or arrangements, the optical operation of which is modified by changing the optical properties of the medium of
+the devices or arrangements for the control of the intensity, colour, phase, polarisation or direction of light, frequency-
+changing, non-linear optics, optical logic elements;
+• optical analogue/digital converters;
+which are covered by subclass G02F.
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Optical elements characterised by the material of
+which they are made; Optical coatings for optical
+    1/002   . {made of materials engineered to provide properties
+not available in nature, e.g. metamaterials}
+    1/005   . . {made of photonic crystals or photonic band
+gap materials (photonic band-gap structures
+or photonic lattices in integrated optics
+G02B 6/1225; photonic band-gap structures or
+photonic lattices in optical fibres G02B 6/02295)}
+    1/007   . . {made of negative effective refractive index
+    1/02    . made of crystals, e.g. rock-salt, semi-conductors
+    1/04    . made of organic materials, e.g. plastics (G02B 1/08
+In this group the use of specific polymers is
+indicated using the relevant subdivision of C08L
+    1/043   . . . {Contact lenses}
+    1/046   . . . {characterised by the core material}
+    1/048   . . . {characterised by the cladding material}
+    1/06    . made of fluids in transparent cells
+    1/08    . made of polarising materials
+    1/10    . Optical coatings produced by application to, or
+surface treatment of, optical elements (G02B 1/08
+    1/11    . . Anti-reflection coatings
+    1/111   . . . using layers comprising organic materials
+    1/113   . . . using inorganic layer materials only
+    1/115   . . . . Multilayers
+    1/116   . . . . . including electrically conducting layers
+When {the arrangement of} electrically
+conducting layers also exhibit an anti-
+static effect, classification is also made
+    1/118   . . . having sub-optical wavelength surface
+structures designed to provide an enhanced
+transmittance, e.g. moth-eye structures
+    1/12    . . by surface treatment, e.g. by irradiation
+    1/14    . . Protective coatings, e.g. hard coatings
+    1/16    . . having an anti-static effect, e.g. electrically
+    1/18    . . Coatings for keeping optical surfaces clean, e.g.
+hydrophobic or photo-catalytic films (G02B 1/16
+    3/00    Simple or compound lenses
+    3/0006  . {Arrays (G02B 3/02, G02B 5/188 take precedence)}
+    3/0012  . . {characterised by the manufacturing method}
+    3/0018  . . . {Reflow, i.e. characterized by the step of
+melting microstructures to form curved
+surfaces, e.g. manufacturing of moulds and
+    3/0025  . . . {Machining, e.g. grinding, polishing, diamond
+turning, manufacturing of mould parts}
+    3/0031  . . . {Replication or moulding, e.g. hot embossing,
+UV-casting, injection moulding}
+    3/0037  . . {characterized by the distribution or form of
+    3/0043  . . . {Inhomogeneous or irregular arrays, e.g.
+    3/005   . . . {arranged along a single direction only,
+e.g. lenticular sheets (G02B 3/0043 takes
+    3/0056  . . . {arranged along two different directions in a
+plane, e.g. honeycomb arrangement of lenses
+(G02B 3/0043 takes precedence; miniaturised
+objectives for electronic devices employing
+wafer level optics G02B 13/0085)}
+    3/0062  . . . {Stacked lens arrays, i.e. refractive surfaces
+arranged in at least two planes, without
+structurally separate optical elements in-
+    3/0068  . . . . {arranged in a single integral body or plate,
+e.g. laminates or hybrid structures with
+other optical elements (G02B 5/1885,
+    3/0075  . . {characterized by non-optical structures, e.g.
+having integrated holding or alignment means}
+    3/0081  . {having one or more elements with analytic
+function to create variable power (variable
+magnification in general G02B 15/00)}
+    3/0087  . {with index gradient}
+ 2003/0093  . {characterised by the shape}
+    3/02    . with non-spherical faces (G02B 3/10 takes
+    3/04    . . with continuous faces that are rotationally
+symmetrical but deviate from a true sphere {, e.g.
+    3/06    . . with cylindrical or toric faces
+    3/08    . . with discontinuous faces, e.g. Fresnel lens
+{(diffractive Fresnel lenses G02B 5/1876)}
+    3/10    . Bifocal lenses; Multifocal lenses
+    3/12    . Fluid-filled or evacuated lenses
+    3/14    . . of variable focal length
+    5/00    Optical elements other than lenses (light guides
+G02B 6/00; optical logic elements G02F 3/00)
+    5/001   . {Axicons, waxicons, reflaxicons}
+    5/003   . {Light absorbing elements}
+    5/005   . {Diaphragms (for cameras G03B 9/02)}
+    5/008   . {Surface plasmon devices (diffractive gratings with
+a pitch less than or comparable to the wavelength
+G02B 5/1809; surface plasmons in integrated optics
+G02B 6/1226; optical analysis of materials by
+means of surface plasmons G01N 21/553)}
+    5/02    . Diffusing elements; Afocal elements
+    5/0205  . . {characterised by the diffusing properties}
+    5/021   . . . {the diffusion taking place at the element's
+surface, e.g. by means of surface roughening or
+    5/0215  . . . . {the surface having a regular structure}
+    5/0221  . . . . {the surface having an irregular structure
+(G02B 5/0226 takes precedence)}
+    5/0226  . . . . {having particles on the surface}
+    5/0231  . . . . {the surface having microprismatic or
+micropyramidal shape (macroscopic prism
+    5/0236  . . . {the diffusion taking place within the volume
+    5/0242  . . . . {by means of dispersed particles}
+    5/0247  . . . . {by means of voids or pores}
+    5/0252  . . . {using holographic or diffractive means}
+    5/0257  . . . {creating an anisotropic diffusion
+characteristic, i.e. distributing output differently
+    5/0263  . . . {with positional variation of the diffusing
+properties, e.g. gradient or patterned diffuser}
+    5/0268  . . {characterized by the fabrication or
+    5/0273  . . {characterized by the use}
+    5/0278  . . . {used in transmission}
+    5/0284  . . . {used in reflection}
+    5/0289  . . . {used as a transflector}
+    5/0294  . . . {adapted to provide an additional optical effect,
+e.g. anti-reflection or filter}
+    5/06    . . Fluid-filled or evacuated prisms
+    5/08    . Mirrors {(vehicle mirrors involving special optical
+    5/0808  . . {having a single reflecting layer (G02B 5/0883,
+    5/0816  . . {Multilayer mirrors, i.e. having two or more
+reflecting layers (G02B 5/0883, G02B 5/0891
+    5/0825  . . . {the reflecting layers comprising dielectric
+    5/0833  . . . . {comprising inorganic materials only}
+    5/0841  . . . . {comprising organic materials, e.g.
+    5/085   . . . {at least one of the reflecting layers comprising
+    5/0858  . . . . {the reflecting layers comprising a single
+metallic layer with one or more dielectric
+    5/0866  . . . . . {incorporating one or more organic, e.g.
+    5/0875  . . . . {the reflecting layers comprising two or
+    5/0883  . . {with a refractive index gradient (rugate filters
+    5/0891  . . {Ultraviolet [UV] mirrors (apparatus for
+microlithography exposure G03F 7/70; X-ray
+multilayer structures G21K 1/06)}
+    5/09    . . Multifaceted or polygonal mirrors {, e.g.
+polygonal scanning mirrors; Fresnel mirrors}
+    5/10    . . with curved faces
+    5/12    . Reflex reflectors
+    5/122   . . cube corner, trihedral or triple reflector type
+    5/124   . . . plural reflecting elements forming part of a
+    5/126   . . including curved refracting surface
+    5/128   . . . transparent spheres being embedded in matrix
+    5/13    . . . plural curved refracting elements forming part
+    5/132   . . . with individual reflector mounting means
+    5/134   . . . . including a threaded mounting member
+    5/136   . . plural reflecting elements forming part of a
+unitary body (G02B 5/124 takes precedence)
+    5/18    . Diffraction gratings {(holographic optical elements
+G02B 5/32, G03H; integrally combined with optical
+fibres G02B 6/02057; for coupling light guides
+G02B 6/34; integrally combined with optical
+integrated light guides G02B 6/12; grating systems
+ 2005/1804  . . {Transmission gratings}
+    5/1809  . . {with pitch less than or comparable to the
+    5/1814  . . {structurally combined with one or more further
+optical elements, e.g. lenses, mirrors, prisms or
+other diffraction gratings (G02B 5/189 takes
+    5/1819  . . . {Plural gratings positioned on the same
+surface, e.g. array of gratings (plural diffractive
+elements positioned sequentially along the
+    5/1823  . . . . {in an overlapping or superposed manner}
+    5/1828  . . {having means for producing variable diffraction
+(controlling the direction of light by means of
+one or more diffracting elements G02B 26/0808;
+acousto-optical elements G02F 1/11, G02F 1/33;
+electro- or magneto-optical diffraction
+    5/1833  . . {comprising birefringent materials (birefringent
+    5/1838  . . {for use with ultraviolet radiation or X-rays}
+    5/1842  . . {Gratings for image generation (G02B 5/1847
+    5/1847  . . {Manufacturing methods}
+    5/1852  . . . {using mechanical means, e.g. ruling with
+    5/1857  . . . {using exposure or etching means, e.g.
+holography, photolithography, exposure to
+    5/1861  . . {Reflection gratings characterised by
+their structure, e.g. step profile, contours
+of substrate or grooves, pitch variations,
+materials (G02B 5/1809, G02B 5/1828,
+G02B 5/1833, G02B 5/1838 and G02B 5/1847
+    5/1866  . . {Transmission gratings characterised by
+their structure, e.g. step profile, contours
+of substrate or grooves, pitch variations,
+materials (G02B 5/1809, G02B 5/1828,
+G02B 5/1833, G02B 5/1838 and G02B 5/1847
+    5/1871  . . . {Transmissive phase gratings}
+    5/1876  . . {Diffractive Fresnel lenses; Zone plates;
+Kinoforms (G02B 5/1842, G02B 5/1847 take
+precedence; optical systems having diffractive
+correction means G02B 27/0037; Fresnel lenses
+operating by refraction G02B 3/08)}
+    5/188   . . . {Plurality of such optical elements formed in or
+    5/1885  . . . . {Arranged as a periodic array}
+    5/189   . . . {Structurally combined with optical elements
+    5/1895  . . . . {such optical elements having dioptric
+    5/20    . Filters (polarising elements G02B 5/30)
+    5/201   . . {in the form of arrays}
+    5/202   . . {comprising a gas or vapour}
+    5/203   . . {having holographic or diffractive elements
+(diffraction gratings per se G02B 5/18;
+holographic elements per se G02B 5/32;
+generating the spectrum using diffraction
+    5/204   . . {in which spectral selection is performed
+by means of a conductive grid or array, e.g.
+frequency selective surfaces (for use with
+wavelengths longer than the infra-red light
+    5/205   . . {Neutral density filters}
+    5/206   . . {comprising particles embedded in a solid
+    5/207   . . {comprising semiconducting materials}
+    5/208   . . {for use with infra-red or ultraviolet radiation,
+e.g. for separating visible light from infra-red and/
+    5/22    . . Absorbing filters {(G02B 5/201 - G02B 5/208
+    5/223   . . . {containing organic substances, e.g. dyes, inks
+    5/226   . . . {Glass filters}
+    5/23    . . . Photochromic filters
+    5/24    . . . Liquid filters (G02B 5/23 takes precedence)
+    5/26    . . Reflecting filters (G02B 5/28 takes precedence)
+    5/265   . . . {involving total internal reflection}
+    5/28    . . Interference filters
+    5/281   . . . {designed for the infra-red light}
+    5/282   . . . . {reflecting for infra-red and transparent
+for visible light, e.g. heat reflectors, laser
+    5/283   . . . {designed for the ultraviolet}
+    5/284   . . . {of etalon type comprising a resonant
+cavity other than a thin solid film, e.g. gas,
+air, solid plates (etalons for fibre optic
+multiplexing G02B 6/29358; etalons for
+spectral measurement G01J 3/26)}
+    5/285   . . . {comprising deposited thin solid films
+(G02B 5/281 - G02B 5/289 take precedence;
+multilayered film filters for fibre optic
+    5/286   . . . . {having four or fewer layers, e.g. for
+    5/287   . . . . {comprising at least one layer of organic
+    5/288   . . . . {comprising at least one thin film resonant
+cavity, e.g. in bandpass filters}
+    5/289   . . . {Rugate filters}
+    5/30    . Polarising elements (light-modulating devices with
+    5/3008  . . {comprising dielectric particles, e.g. birefringent
+    5/3016  . . {involving passive liquid crystal elements
+(optical properties of liquid crystals G02F 1/0063;
+polarising elements associated with active liquid
+crystal devices G02F 1/133528)}
+    5/3025  . . {Polarisers, i.e. arrangements capable of
+producing a definite output polarisation state
+from an unpolarised input state (G02B 5/3008,
+    5/3033  . . . {in the form of a thin sheet or foil, e.g.
+    5/3041  . . . . {comprising multiple thin layers, e.g.
+    5/305   . . . . . {including organic materials, e.g.
+    5/3058  . . . {comprising electrically conductive elements,
+e.g. wire grids, conductive particles}
+    5/3066  . . . {involving the reflection of light at a particular
+angle of incidence, e.g. Brewster's angle}
+    5/3075  . . . {for use in the UV (G02B 5/3066 takes
+    5/3083  . . {Birefringent or phase retarding elements
+(G02B 5/3008, G02B 5/3016 take precedence;
+systems for polarisation control G02B 27/286;
+manufacturing phase modulating patterns by
+lithographic processes G03F 7/001)}
+    5/3091  . . . {for use in the UV}
+    5/32    . Holograms used as optical elements
+    6/00    Light guides; Structural details of arrangements
+comprising light guides and other optical elements,
+    6/0001  . {specially adapted for lighting devices or systems
+(lighting or signalling on vehicles using light guides
+B60Q 1/00; lighting devices for vehicle dashboards
+B60Q 3/10; lighting devices for vehicle interior
+using light guides B60Q 3/62; lighting devices
+mounted on the vehicle rear part using light guides
+F21S 43/235; measuring arrangements having light
+conducting pointers G01D 13/265; illumination of
+liquid crystal displays G02F 1/1336; illuminated
+    6/0003  . . {the light guides being doped with fluorescent
+    6/0005  . . {the light guides being of the fibre type
+(G02B 6/0003 takes precedence)}
+    6/0006  . . . {Coupling light into the fibre (in general
+    6/0008  . . . {the light being emitted at the end of the fibre}
+    6/001   . . . {the light being emitted along at least a portion
+of the lateral surface of the fibre}
+    6/0011  . . {the light guides being planar or of plate-like
+    6/0013  . . . {Means for improving the coupling-in of
+light from the light source into the light guide
+(coupling light into light guides in general
+    6/0015  . . . . {provided on the surface of the light guide or
+    6/0016  . . . . . {Grooves, prisms, gratings, scattering
+    6/0018  . . . . . {Redirecting means on the surface of the
+    6/002   . . . . . {by shaping at least a portion of the light
+guide, e.g. with collimating, focussing or
+    6/0021  . . . . . . {for housing at least a part of the
+light source, e.g. by forming holes or
+    6/0023  . . . . {provided by one optical element, or
+plurality thereof, placed between the light
+guide and the light source, or around the light
+    6/0025  . . . . . {Diffusing sheet or layer; Prismatic sheet
+    6/0026  . . . . . {Wavelength selective element, sheet or
+    6/0028  . . . . . {Light guide, e.g. taper}
+    6/003   . . . . . {Lens or lenticular sheet or layer}
+    6/0031  . . . . . {Reflecting element, sheet or layer}
+    6/0033  . . . {Means for improving the coupling-out of light
+    6/0035  . . . . {provided on the surface of the light guide or
+    6/0036  . . . . . {2-D arrangement of prisms, protrusions,
+indentations or roughened surfaces}
+    6/0038  . . . . . {Linear indentations or grooves, e.g. arc-
+shaped grooves or meandering grooves,
+extending over the full length or width of
+    6/004   . . . . . {Scattering dots or dot-like elements,
+e.g. microbeads, scattering particles,
+    6/0041  . . . . . . {provided in the bulk of the light guide}
+    6/0043  . . . . . . {provided on the surface of the light
+    6/0045  . . . . . {by shaping at least a portion of the light
+    6/0046  . . . . . . {Tapered light guide, e.g. wedge-shaped
+    6/0048  . . . . . . . {with stepwise taper}
+    6/005   . . . . {provided by one optical element, or
+plurality thereof, placed on the light output
+    6/0051  . . . . . {Diffusing sheet or layer}
+    6/0053  . . . . . {Prismatic sheet or layer; Brightness
+enhancement element, sheet or layer}
+    6/0055  . . . . . {Reflecting element, sheet or layer}
+    6/0056  . . . . {for producing polarisation effects, e.g. by
+a surface with polarizing properties or by an
+additional polarizing elements}
+    6/0058  . . . . {varying in density, size, shape or depth
+    6/006   . . . . . {to produce indicia, symbols, texts or the
+    6/0061  . . . . . {to provide homogeneous light output
+    6/0063  . . . . {for extracting light out both the major
+    6/0065  . . . {Manufacturing aspects; Material aspects}
+When classifying in this group,
+classification must also be made in one
+or more of the groups of G02B 6/0013 or
+G02B 6/0033 for the related device aspects
+    6/0066  . . . {characterised by the light source being
+    6/0068  . . . . {Arrangements of plural sources, e.g. multi-
+    6/007   . . . . {Incandescent lamp or gas discharge lamp}
+    6/0071  . . . . . {with elongated shape, e.g. tube}
+    6/0073  . . . . {Light emitting diode [LED]}
+    6/0075  . . . {Arrangements of multiple light guides
+(G02B 6/0028 takes precedence)}
+    6/0076  . . . . {Stacked arrangements of multiple light
+guides of the same or different cross-
+    6/0078  . . . . {Side-by-side arrangements, e.g. for large
+    6/008   . . . . . {of the partially overlapping type}
+    6/0081  . . . {Mechanical or electrical aspects of the light
+guide and light source in the lighting device
+peculiar to the adaptation to planar light guides,
+    6/0083  . . . . {Details of electrical connections of light
+sources to drivers, circuit boards, or the like}
+    6/0085  . . . . {Means for removing heat created
+by the light source from the package
+(heat extraction or cooling elements for
+semiconductor light sources in general
+    6/0086  . . . . {Positioning aspects}
+    6/0088  . . . . . {of the light guide or other optical sheets
+    6/009   . . . . . {of the light source in the package
+(G02B 6/0021 takes precedence)}
+    6/0091  . . . . . {of the light source relative to the light
+guide (G02B 6/0021 takes precedence)}
+    6/0093  . . . . {Means for protecting the light guide}
+    6/0095  . . . . {Light guides as housings, housing portions,
+shelves, doors, tiles, windows, or the like}
+    6/0096  . . {the lights guides being of the hollow type}
+    6/02    . Optical fibres with cladding {with or without a
+    6/02004 . . {characterised by the core effective area or mode
+    6/02009 . . . {Large effective area or mode field radius,
+e.g. to reduce nonlinear effects in single mode
+    6/02014 . . . . {Effective area greater than 60 square
+microns in the C band, i.e. 1530-1565 nm}
+    6/02019 . . . . . {Effective area greater than 90 square
+microns in the C band, i.e. 1530-1565 nm}
+    6/02023 . . . . {Based on higher order modes, i.e.
+propagating modes other than the LP01 or
+HE11 fundamental mode (mode converters
+    6/02028 . . . {Small effective area or mode field radius,
+e.g. for allowing nonlinear effects (non-linear
+optical waveguide devices G02F 1/365)}
+    6/02033 . . {Core or cladding made from organic material,
+e.g. polymeric material (G02B 1/04 takes
+    6/02038 . . . {with core or cladding having graded refractive
+    6/02042 . . {Multicore optical fibres}
+    6/02047 . . {Dual mode fibre (G02B 6/105 takes
+    6/02052 . . {comprising optical elements other than gratings,
+e.g. filters (comprising gratings G02B 6/02057)}
+    6/02057 . . {comprising gratings}
+    6/02061 . . . {Grating external to the fibre and in contact
+with the fibre, e.g. evanescently coupled,
+gratings applied to the fibre end (mechanically
+induced in the fibre G02B 6/02071, surface
+relief on the fibre G02B 6/02066)}
+    6/02066 . . . {Gratings having a surface relief structure,
+e.g. repetitive variation in diameter of core or
+    6/02071 . . . {Mechanically induced gratings, e.g. having
+microbends (G02B 6/02066 takes precedence;
+    6/02076 . . . {Refractive index modulation gratings, e.g.
+    6/0208  . . . . {characterised by their structure, wavelength
+response (G02B 6/02114, G02B 6/02171,
+G02B 6/02195 take precedence; multiple
+layer cores or claddings G02B 6/036,
+protective coverings G02B 6/4429)}
+    6/02085 . . . . . {characterised by the grating profile, e.g.
+chirped, apodised, tilted, helical}
+ 2006/0209  . . . . . . {Helical, chiral gratings}
+    6/02095 . . . . . . {Long period gratings, i.e. transmission
+gratings coupling light between core and
+    6/021   . . . . . {characterised by the core or cladding or
+coating, e.g. materials, radial refractive
+index profiles, cladding shape}
+    6/02104 . . . . . . {characterised by the coating external
+to the cladding, e.g. coating influences
+    6/02109 . . . . . . {having polarization sensitive
+features, e.g. reduced photo-induced
+    6/02114 . . . . {characterised by enhanced photosensitivity
+characteristics of the fibre, e.g. hydrogen
+loading, heat treatment (treatment of glass
+fibres by ion diffusion, implantation,
+radiation, C03C 25/60, C03C 25/62)}
+    6/02119 . . . . . {Photosensitivity profiles determining
+the grating structure, e.g. radial or
+    6/02123 . . . . {characterised by the method of manufacture
+of the grating (photolithography
+    6/02128 . . . . . {Internal inscription, i.e. grating written
+by light propagating within the fibre, e.g.
+    6/02133 . . . . . {using beam interference}
+    6/02138 . . . . . . {based on illuminating a phase mask}
+    6/02142 . . . . . {based on illuminating or irradiating an
+amplitude mask, i.e. a mask having a
+repetitive intensity modulating pattern}
+    6/02147 . . . . . {Point by point fabrication, i.e. grating
+elements induced one step at a time along
+the fibre, e.g. by scanning a laser beam,
+arc discharge scanning (G02B 6/02133 and
+    6/02152 . . . . . {involving moving the fibre or a
+manufacturing element, stretching of the
+fibre (G02B 6/02147 takes precedence)}
+ 2006/02157 . . . . . {Grating written during drawing of the
+ 2006/02161 . . . . . {Grating written by radiation passing
+through the protective fibre coating}
+ 2006/02166 . . . . . {Methods of designing the gratings, i.e.
+calculating the structure, e.g. algorithms,
+    6/02171 . . . . {characterised by means for compensating
+environmentally induced changes}
+    6/02176 . . . . . {due to temperature fluctuations}
+    6/0218  . . . . . . {using mounting means, e.g. by
+using a combination of materials
+having different thermal expansion
+    6/02185 . . . . . . {based on treating the fibre, e.g. post-
+manufacture treatment, thermal aging,
+annealing (annealing glass fibres
+    6/0219  . . . . . . {based on composition of fibre
+    6/02195 . . . . {characterised by means for tuning the
+    6/022   . . . . . {using mechanical stress, e.g. tuning
+by compression or elongation, special
+geometrical shapes such as "dog-bone" or
+taper (G02B 6/02204 takes precedence;
+optical modulation using photo-elastic
+    6/02204 . . . . . {using thermal effects, e.g. heating
+or cooling of a temperature sensitive
+mounting body (optical modulation using
+thermo-optic effect G02F 1/0147)}
+    6/02209 . . . . {Mounting means, e.g. adhesives, casings
+(G02B 6/02171 and G02B 6/02195 take
+    6/02214 . . {tailored to obtain the desired dispersion, e.g.
+dispersion shifted, dispersion flattened}
+    6/02219 . . . {Characterised by the wavelength dispersion
+properties in the silica low loss window
+around 1550 nm, i.e. S, C, L and U bands from
+    6/02223 . . . . {Dual window fibres, i.e. characterised by
+dispersion properties around 1550 nm and
+in at least another wavelength window, e.g.
+    6/02228 . . . . {Dispersion flattened fibres, i.e. having a
+low dispersion variation over an extended
+    6/02233 . . . . . {having at least two dispersion zero
+    6/02238 . . . . . {Low dispersion slope fibres}
+    6/02242 . . . . . . {having a dispersion slope <0.06 ps/km/
+    6/02247 . . . . {Dispersion varying along the longitudinal
+direction, e.g. dispersion managed fibre}
+    6/02252 . . . . {Negative dispersion fibres at 1550 nm}
+    6/02257 . . . . . {Non-zero dispersion shifted fibres, i.e.
+having a small negative dispersion at 1550
+nm, e.g. ITU-T G.655 dispersion between
+- 1.0 to - 10 ps/nm.km for avoiding
+    6/02261 . . . . . {Dispersion compensating fibres, i.e. for
+compensating positive dispersion of other
+    6/02266 . . . . {Positive dispersion fibres at 1550 nm}
+    6/02271 . . . . . {Non-zero dispersion shifted fibres, i.e.
+having a small positive dispersion at 1550
+nm, e.g. ITU-T G.655 dispersion between
+1.0 to 10 ps/nm.km for avoiding nonlinear
+    6/02276 . . . . {Dispersion shifted fibres, i.e. zero
+    6/0228  . . . {Characterised by the wavelength
+dispersion slope properties around 1550 nm
+(G02B 6/02228 takes precedence)}
+    6/02285 . . . {Characterised by the polarisation mode
+dispersion [PMD] properties, e.g. for
+minimising PMD (fabrication methods for
+    6/0229  . . {characterised by nanostructures, i.e. structures of
+size less than 100 nm, e.g. quantum dots}
+    6/02295 . . {Microstructured optical fibre (polarisation
+properties thereof G02B 6/105 and G02B 6/024)}
+    6/023   . . . {having different index layers arranged around
+the core for guiding light by reflection, i.e. 1D
+    6/02304 . . . . {Core having lower refractive index than
+cladding, e.g. air filled, hollow core}
+    6/02309 . . . {Structures extending perpendicularly or at a
+large angle to the longitudinal axis of the fibre,
+e.g. photonic band gap along fibre axis}
+    6/02314 . . . {Plurality of longitudinal structures extending
+along optical fibre axis, e.g. holes}
+    6/02319 . . . . {characterised by core or core-cladding
+    6/02323 . . . . . {Core having lower refractive index than
+cladding, e.g. photonic band gap guiding}
+    6/02328 . . . . . . {Hollow or gas filled core}
+    6/02333 . . . . . {Core having higher refractive index than
+cladding, e.g. solid core, effective index
+    6/02338 . . . . . {Structured core, e.g. core contains more
+than one material, non-constant refractive
+index distribution in core, asymmetric
+or non-circular elements in core unit,
+multiple cores, insertions between core
+    6/02342 . . . . {characterised by cladding features, i.e. light
+    6/02347 . . . . . {Longitudinal structures arranged to form
+a regular periodic lattice, e.g. triangular,
+square, honeycomb unit cell repeated
+    6/02352 . . . . . . {Complex periodic lattices or multiple
+interpenetrating periodic lattices,
+e.g. unit cell having more than two
+materials, partially internally coated
+    6/02357 . . . . . {Property of longitudinal structures or
+background material varies radially and/
+or azimuthally in the cladding, e.g. size,
+spacing, periodicity, shape, refractive
+index, graded index, quasiperiodic,
+    6/02361 . . . . . {Longitudinal structures forming multiple
+layers around the core, e.g. arranged
+in multiple rings with each ring having
+longitudinal elements at substantially the
+same radial distance from the core, having
+rotational symmetry about the fibre axis}
+    6/02366 . . . . . {Single ring of structures, e.g. "air clad"}
+    6/02371 . . . . . {Cross section of longitudinal structures is
+    6/02376 . . . . . {Longitudinal variation along fibre axis
+    6/0238  . . . . . {Longitudinal structures having higher
+refractive index than background material,
+    6/02385 . . . . {Comprising liquid, e.g. fluid filled holes}
+    6/0239  . . . . {Comprising means for varying the guiding
+    6/02395 . . {Glass optical fibre with a protective coating,
+e.g. two layer polymer coating deposited
+directly on a silica cladding surface during fibre
+manufacture (G02B 6/02052, G02B 6/02057,
+G02B 6/024, G02B 6/032, G02B 6/105,
+G02B 6/14 take precedence; coating on fibre
+gratings G02B 6/02104; multilayer core or
+cladding G02B 6/036; reinforcing splice joints
+G02B 6/2558; optical cables, i.e. comprising
+protective structures external to the protective
+coating such as a jacket or plural coated optical
+fibres G02B 6/44; coating of glass to obtain
+Group G02B 6/02395 is incomplete pending
+reclassification of documents from group
+Groups G02B 6/4401 and G02B 6/02395
+should be considered in order to perform a
+    6/024   . . with polarisation maintaining properties
+    6/028   . . with core or cladding having graded refractive
+index {(G02B 6/02033, G02B 6/02295 take
+    6/0281  . . . {Graded index region forming part of the
+central core segment, e.g. alpha profile,
+triangular, trapezoidal core (G02B 6/0288,
+    6/0283  . . . {Graded index region external to the central
+core segment, e.g. sloping layer or triangular or
+trapezoidal layer (G02B 6/0288, G02B 6/0286
+    6/0285  . . . . {Graded index layer adjacent to the central
+core segment and ending at the outer
+    6/0286  . . . {Combination of graded index in the central
+core segment and a graded index layer external
+to the central core segment (G02B 6/0288 takes
+    6/0288  . . . {Multimode fibre, e.g. graded index core for
+    6/032   . . with non solid core or cladding {(G02B 6/02295
+ 2006/0325  . . . {Fluid core or cladding}
+    6/036   . . core or cladding comprising multiple layers
+{(multicore optical fibres G02B 6/02042;
+microstructured properties G02B 6/02295;
+    6/03605 . . . {Highest refractive index not on central axis}
+    6/03611 . . . . {Highest index adjacent to central axis
+region, e.g. annular core, coaxial ring,
+centreline depression affecting waveguiding}
+    6/03616 . . . {Optical fibres characterised both by the
+number of different refractive index layers
+around the central core segment, i.e. around
+the innermost high index core layer, and their
+relative refractive index difference}
+A layer is characterised by an abrupt change
+in refractive index gradient, e.g. by the
+layer having a maximum or minimum
+or the layer being between two points of
+inflexion, such that a graded boundary as
+in a trapezoidal core is not counted as a
+separate layer. 2. The innermost high index
+core layer is the first layer starting from the
+central core after which the refractive index
+decreases. 3. + and - refer respectively to the
+relative refractive index difference increase/
+decrease of adjacent layers starting from
+the innermost highest index core layer and
+continuing in a radially outward direction
+    6/03622 . . . . {having 2 layers only}
+    6/03627 . . . . . {arranged - +}
+    6/03633 . . . . . {arranged - -}
+    6/03638 . . . . {having 3 layers only}
+    6/03644 . . . . . {arranged - + -}
+    6/0365  . . . . . {arranged - - +}
+    6/03655 . . . . . {arranged - + +}
+    6/03661 . . . . {having 4 layers only}
+    6/03666 . . . . . {arranged - + - +}
+    6/03672 . . . . . {arranged - - + -}
+    6/03677 . . . . . {arranged - + + -}
+    6/03683 . . . . . {arranged - - + +}
+    6/03688 . . . . {having 5 or more layers}
+    6/03694 . . . {Multiple layers differing in properties other
+than the refractive index, e.g. attenuation,
+    6/04    . formed by bundles of fibres (G02B 6/24 takes
+    6/06    . . the relative position of the fibres being the same
+at both ends, e.g. for transporting images
+    6/065   . . . {with dynamic image improvement}
+    6/08    . . . with fibre bundle in form of plate
+    6/10    . of the optical waveguide type (G02B 6/02,
+G02B 6/24 take precedence; devices or
+arrangements for the control of light by electric,
+magnetic, electro-magnetic or acoustic means
+G02F 1/00; transferring the modulation of
+modulated light G02F 2/00; optical logic elements
+G02F 3/00; optical analogue/digital converters
+    6/102   . . {for infra-red and ultra-violet radiation}
+    6/105   . . {having optical polarisation effects}
+    6/107   . . {Subwavelength-diameter waveguides, e.g.
+    6/12    . . of the integrated circuit kind (electric integrated
+    6/12002 . . . {Three-dimensional structures}
+    6/12004 . . . {Combinations of two or more optical
+    6/12007 . . . {forming wavelength selective elements, e.g.
+    6/12009 . . . . {comprising arrayed waveguide grating
+[AWG] devices, i.e. with a phased array of
+    6/12011 . . . . . {characterised by the arrayed waveguides,
+e.g. comprising a filled groove in the array
+    6/12014 . . . . . {characterised by the wavefront splitting
+or combining section, e.g. grooves or
+optical elements in a slab waveguide}
+    6/12016 . . . . . {characterised by the input or output
+waveguides, e.g. tapered waveguide
+ends, coupled together pairs of output
+    6/12019 . . . . . {characterised by the optical
+interconnection to or from the AWG
+devices, e.g. integration or coupling
+with lasers or photodiodes (coupling
+integrated waveguide to fibre G02B 6/30,
+to optoelectronic element G02B 6/42;
+monolithic integration of integrated
+waveguides with other optical elements
+    6/12021 . . . . . . {Comprising cascaded AWG devices;
+AWG multipass configuration; Plural
+AWG devices integrated on a single
+    6/12023 . . . . . {characterised by means for reducing the
+polarisation dependence, e.g. reduced
+    6/12026 . . . . . {characterised by means for reducing the
+    6/12028 . . . . . . {based on a combination of materials
+having a different refractive index
+temperature dependence, i.e. the
+materials are used for transmitting light}
+    6/1203  . . . . . . {using mounting means, e.g. by
+using a combination of materials
+having different thermal expansion
+    6/12033 . . . . . {characterised by means for configuring
+the device, e.g. moveable element for
+wavelength tuning (switching G02B 6/35;
+thermo-optic devices G02F 1/0147)}
+ 2006/12038 . . . . {Glass (SiO2 based materials)}
+ 2006/1204  . . . . {Lithium niobate (LiNbO3)}
+ 2006/12042 . . . . {Potassium niobate (KNbO3)}
+ 2006/12045 . . . . {Lithium tantalate (LiTaO3)}
+ 2006/12047 . . . . {Barium titanate (BaTiO3)}
+ 2006/1205  . . . . {Arsenic sulfide (As2S3)}
+ 2006/12052 . . . . {Arsenic selenide (As2Se3)}
+ 2006/12054 . . . . {Tantalum pentoxide (Ta2O5)}
+ 2006/12057 . . . . {Niobium pentoxide (Nb2O5)}
+ 2006/12059 . . . . {Titanium niobate (TiNbPO3)}
+ 2006/12064 . . . . {Zinc sulfide (ZnS)}
+ 2006/12066 . . . . {Calcite (CaCO3)}
+ 2006/12069 . . . . {Organic material}
+ 2006/12076 . . . . . {Polyamide}
+ 2006/12078 . . . . {Gallium arsenide or alloys (GaAs, GaAlAs,
+ 2006/1208  . . . . {Rare earths}
+ 2006/12083 . . . {Constructional arrangements}
+ 2006/12085 . . . . {Integrated}
+ 2006/1209  . . . . {Multimode}
+ 2006/12097 . . . . {Ridge, rib or the like}
+ 2006/121   . . . . {Channel; buried or the like}
+ 2006/12104 . . . . {Mirror; Reflectors or the like}
+ 2006/12116 . . . . {Polariser; Birefringent}
+ 2006/12126 . . . . {Light absorber}
+ 2006/12128 . . . . {Multiple Quantum Well [MQW]}
+ 2006/1213  . . . . {comprising photonic band-gap structures or
+ 2006/12135 . . . . {Temperature control}
+ 2006/12142 . . . . {Modulator}
+ 2006/12152 . . . . {Mode converter}
+ 2006/12154 . . . . {Power divider}
+ 2006/12159 . . . . {Interferometer}
+ 2006/12161 . . . . {Distributed feedback [DFB]}
+ 2006/12164 . . . . {Multiplexing; Demultiplexing}
+ 2006/12166 . . . {Manufacturing methods}
+ 2006/12169 . . . . {Annealing}
+ 2006/12171 . . . . . {using a laser beam}
+ 2006/12178 . . . . {Epitaxial growth}
+ 2006/1218  . . . . {Diffusion}
+ 2006/12183 . . . . {Ion-exchange}
+ 2006/12185 . . . . . {field-assisted ion-exchange}
+ 2006/12188 . . . . {Ion implantation}
+ 2006/1219  . . . . {Polymerisation}
+ 2006/12197 . . . . {Grinding; Polishing}
+    6/122   . . . Basic optical elements, e.g. light-guiding paths
+    6/1221  . . . . {made from organic materials}
+    6/1223  . . . . {high refractive index type, i.e. high-contrast
+    6/1225  . . . . {comprising photonic band-gap structures or
+    6/1226  . . . . {involving surface plasmon interaction}
+    6/1228  . . . . {Tapered waveguides, e.g. integrated spot-
+size transformers (for coupling with fibres
+    6/124   . . . . Geodesic lenses or integrated gratings
+    6/1245  . . . . . {Geodesic lenses}
+    6/125   . . . . Bends, branchings or intersections
+    6/126   . . . using polarisation effects {(G02B 6/1226 takes
+    6/13    . . . Integrated optical circuits characterised by the
+    6/131   . . . . {by using epitaxial growth (epitaxial growth
+for semiconductors H01L 21/02365)}
+    6/132   . . . . by deposition of thin films
+    6/134   . . . . by substitution by dopant atoms
+    6/1342  . . . . . {using diffusion (diffusion in single
+crystals C30B 31/00; diffusion in glass
+    6/1345  . . . . . {using ion exchange (ion exchange in
+    6/1347  . . . . . {using ion implantation (ion implantation
+in glass C03C 23/0055; ion implantation in
+    6/138   . . . . by using polymerisation
+    6/14    . . Mode converters
+    6/24    . Coupling light guides
+    6/241   . . {Light guide terminations}
+    6/243   . . . {as light absorbers}
+    6/245   . . Removing protective coverings of light guides
+    6/25    . . Preparing the ends of light guides for coupling,
+    6/255   . . Splicing of light guides, e.g. by fusion or bonding
+    6/2551  . . . {using thermal methods, e.g. fusion welding by
+arc discharge, laser beam, plasma torch}
+    6/2552  . . . {reshaping or reforming of light guides for
+coupling using thermal heating, e.g. tapering,
+forming of a lens on light guide ends}
+    6/2553  . . . {Splicing machines, e.g. optical fibre fusion
+    6/2555  . . . {Alignment or adjustment devices for aligning
+    6/2556  . . . . {including a fibre supporting member
+inclined to the bottom surface of the
+    6/2557  . . . . {using deformable flexure members, flexible
+    6/2558  . . . {Reinforcement of splice joint}
+    6/26    . . Optical coupling means (G02B 6/36, G02B 6/42
+    6/262   . . . {Optical details of coupling light into, or out
+of, or between fibre ends, e.g. special fibre end
+shapes or associated optical elements}
+    6/264   . . . {with optical elements between opposed
+fibre ends which perform a function other
+than beam splitting (having lens focusing
+means G02B 6/32; utilising prism or grating
+    6/266   . . . . {the optical element being an attenuator}
+    6/268   . . . {for modal dispersion control, e.g.
+concatenation of light guides having different
+modal dispersion properties (graded index
+multimode fibres G02B 6/0288; multimodal
+transmission systems H04B 10/2581)}
+    6/27    . . . with polarisation selective and adjusting means
+    6/2706  . . . . {as bulk elements, i.e. free space
+arrangements external to a light guide, e.g.
+    6/2713  . . . . . {cascade of polarisation selective or
+    6/272   . . . . . . {comprising polarisation means for
+    6/2726  . . . . {in or on light guides, e.g. polarisation means
+    6/2733  . . . . . {Light guides evanescently coupled to
+polarisation sensitive elements}
+    6/274   . . . . . {based on light guide birefringence,
+e.g. due to coupling between light
+guides (G02B 6/105, G02B 6/024 take
+precedence; mechanically induced
+    6/2746  . . . . {comprising non-reciprocal devices, e.g.
+isolators, FRM, circulators, quasi-isolators
+(magneto-optic non-reciprocal devices
+    6/2753  . . . . {characterised by their function or use, i.e. of
+    6/276   . . . . . {Removing selected polarisation
+component of light, i.e. polarizers}
+    6/2766  . . . . . {Manipulating the plane of polarisation
+from one input polarisation to another
+output polarisation, e.g. polarisation
+rotators, linear to circular polarisation
+    6/2773  . . . . . {Polarisation splitting or combining}
+    6/278   . . . . . {Controlling polarisation mode dispersion
+[PMD], e.g. PMD compensation or
+emulation (PMD minimised transmission
+    6/2786  . . . . . {Reducing the polarisation degree, i.e.
+depolarisers, scramblers, unpolarised
+    6/2793  . . . . . {Controlling polarisation dependent loss,
+e.g. polarisation insensitivity, reducing the
+change in polarisation degree of the output
+light even if the input polarisation state
+    6/28    . . . having data bus means, i.e. plural waveguides
+interconnected and providing an inherently
+bidirectional system by mixing and splitting
+    6/2804  . . . . {forming multipart couplers without
+wavelength selective elements, e.g. "T"
+    6/2808  . . . . . {using a mixing element which evenly
+distributes an input signal over a number
+    6/2813  . . . . . . {based on multimode interference
+    6/2817  . . . . . {using reflective elements to split or
+    6/2821  . . . . . {using lateral coupling between
+contiguous fibres to split or combine
+    6/2826  . . . . . . {using mechanical machining means for
+shaping of the couplers, e.g. grinding or
+polishing (grinding, polishing in general
+    6/283   . . . . . . . {couplers being tunable or adjustable}
+    6/2835  . . . . . . {formed or shaped by thermal treatment,
+ 2006/2839  . . . . . . . {fabricated from double or twin core
+    6/2843  . . . . . . {the couplers having polarisation
+maintaining or holding properties
+(polarisation preserving light guides
+    6/2848  . . . . . {having refractive means, e.g. imaging
+elements between light guides as splitting,
+branching and/or combining devices, e.g.
+    6/2852  . . . . . {using tapping light guides arranged
+sidewardly, e.g. in a non-parallel
+relationship with respect to the bus light
+guides (light extraction or launching
+through cladding, with or without surface
+discontinuities, bent structures)}
+    6/2856  . . . . . {formed or shaped by thermal heating
+means, e.g. splitting, branching and/or
+    6/2861  . . . . . {using fibre optic delay lines and optical
+elements associated with them, e.g. for use
+in signal processing, e.g. filtering (delay
+lines in general H03H, H01P 9/00; optical
+ 2006/2865  . . . . . {couplers of the 3x3 type}
+    6/287   . . . . Structuring of light guides to shape optical
+elements with heat application (G02B 6/255
+    6/293   . . . . with wavelength selective means
+    6/29301 . . . . . {based on a phased array of light guides
+(integrated arrayed waveguide gratings
+    6/29302 . . . . . {based on birefringence or polarisation,
+e.g. wavelength dependent birefringence,
+    6/29304 . . . . . {operating by diffraction, e.g. grating
+(G02B 6/29301 takes precedence;
+spectrometers using gratings G01J 3/18)}
+    6/29305 . . . . . . {as bulk element, i.e. free space
+arrangement external to a light guide}
+    6/29307 . . . . . . . {components assembled in or forming
+a solid transparent unitary block, e.g.
+for facilitating component alignment}
+    6/29308 . . . . . . . {Diffractive element having focusing
+properties, e.g. curved gratings
+    6/2931  . . . . . . . {Diffractive element operating in
+    6/29311 . . . . . . . {Diffractive element operating in
+    6/29313 . . . . . . . {characterised by means for
+controlling the position or direction
+of light incident to or leaving the
+diffractive element, e.g. for varying
+the wavelength response (switching
+    6/29314 . . . . . . . . {by moving or modifying the
+diffractive element, e.g. deforming}
+    6/29316 . . . . . . {Light guides comprising a diffractive
+element, e.g. grating in or on the
+light guide such that diffracted
+light is confined in the light guide
+    6/29317 . . . . . . . {Light guides of the optical fibre
+    6/29319 . . . . . . . . {With a cascade of diffractive
+operations (forming interferometer
+    6/2932  . . . . . . . . . {comprising a directional
+router, e.g. directional coupler,
+    6/29322 . . . . . . . . {Diffractive elements of the
+tunable type (G02B 6/02195 takes
+devices based on a change of the
+optical properties of the medium
+    6/29323 . . . . . . . {Coupling to or out of the diffractive
+element through the lateral surface
+of the light guide (evanescent grating
+    6/29325 . . . . . . . {of the slab or planar or plate
+like form, i.e. confinement in a
+single transverse dimension only
+(integrated circuit planar waveguide
+    6/29326 . . . . . . . . {Diffractive elements having
+focusing properties, e.g. curved
+    6/29328 . . . . . . . . {Diffractive elements operating in
+    6/29329 . . . . . . . . {Diffractive elements operating in
+    6/29331 . . . . . {operating by evanescent wave coupling}
+    6/29332 . . . . . . {Wavelength selective couplers, i.e.
+based on evanescent coupling between
+light guides, e.g. fused fibre couplers
+with transverse coupling between
+fibres having different propagation
+(non wavelength-selective light guide
+    6/29334 . . . . . . . {Grating-assisted evanescent light
+guide couplers, i.e. comprising grating
+at or functionally associated with the
+coupling region between the light
+guides, e.g. with a grating positioned
+where light fields overlap in the
+    6/29335 . . . . . . {Evanescent coupling to a resonator
+cavity, i.e. between a waveguide
+mode and a resonant mode of the
+cavity (wavelength selective means
+based on resonator cavity coupled
+    6/29337 . . . . . . . {Cavities of the linear kind, e.g.
+formed by reflectors at ends of a light
+    6/29338 . . . . . . . {Loop resonators}
+    6/2934  . . . . . . . . {Fibre ring resonators, e.g. fibre
+    6/29341 . . . . . . . . {Loop resonators operating
+coupling for sensing fluorescence
+    6/29343 . . . . . . . . {Cascade of loop resonators}
+    6/29344 . . . . . {operating by modal interference or
+beating, i.e. of transverse modes, e.g. zero-
+    6/29346 . . . . . {operating by wave or beam interference
+    6/29347 . . . . . . {Loop interferometers, e.g. Sagnac, loop
+    6/29349 . . . . . . {Michelson or Michelson/Gires-
+Tournois configuration, i.e. based
+on splitting and interferometrically
+combining relatively delayed signals at a
+    6/2935  . . . . . . {Mach-Zehnder configuration, i.e.
+comprising separate splitting and
+    6/29352 . . . . . . . {in a light guide}
+    6/29353 . . . . . . . . {with a wavelength selective
+element in at least one light guide
+interferometer arm, e.g. grating,
+interference filter, resonator}
+    6/29355 . . . . . . . . {Cascade arrangement of
+    6/29356 . . . . . . {Interference cavity within a single light
+guide, e.g. between two fibre gratings
+(G02B 6/29347 - G02B 6/2935 take
+precedence; evanescent coupling to a
+resonator cavity G02B 6/29335)}
+    6/29358 . . . . . . {Multiple beam interferometer external
+to a light guide, e.g. Fabry-Pérot, etalon,
+VIPA plate, OTDL plate, continuous
+interferometer, parallel plate resonator
+precedence; resonator evanescently
+coupled to light guide G02B 6/29335)}
+    6/29359 . . . . . . . {Cavity formed by light guide ends,
+    6/29361 . . . . . . {Interference filters, e.g. multilayer
+coatings, thin film filters, dichroic
+splitters or mirrors based on multilayers,
+    6/29362 . . . . . . . {Serial cascade of filters or filtering
+operations, e.g. for a large number of
+    6/29364 . . . . . . . . {Cascading by a light guide
+path between filters or filtering
+operations, e.g. fibre interconnected
+    6/29365 . . . . . . . . {in a multireflection configuration,
+path between filters or filtering
+    6/29367 . . . . . . . . . {Zigzag path within a transparent
+optical block, e.g. filter deposited
+on an etalon, glass plate, wedge
+    6/29368 . . . . . . . {Light guide comprising the filter,
+e.g. filter deposited on a fibre end
+(G02B 6/29359 takes precedence)}
+    6/2937  . . . . . . . {In line lens-filtering-lens devices,
+i.e. elements arranged along a line and
+mountable in a cylindrical package for
+compactness, e.g. 3- port device with
+GRIN lenses sandwiching a single
+filter operating at normal incidence in
+    6/29371 . . . . . {operating principle based on material
+    6/29373 . . . . . . {utilising a bulk dispersive element, e.g.
+    6/29374 . . . . . . {in an optical light guide
+(G02B 6/02214 takes precedence)}
+    6/29376 . . . . . . . {coupling light guides for controlling
+guides having different dispersion
+    6/29377 . . . . . . . . {controlling dispersion around
+1550 nm, i.e. S, C, L and U bands
+    6/29379 . . . . . {characterised by the function or use of the
+    6/2938  . . . . . . {for multiplexing or demultiplexing, i.e.
+combining or separating wavelengths,
+    6/29382 . . . . . . . {including at least adding or dropping
+a signal, i.e. passing the majority of
+    6/29383 . . . . . . . . {Adding and dropping}
+    6/29385 . . . . . . . . {Channel monitoring, e.g. by
+    6/29386 . . . . . . . {Interleaving or deinterleaving,
+i.e. separating or mixing subsets of
+optical signals, e.g. combining even
+and odd channels into a single optical
+    6/29388 . . . . . . . {for lighting or use with non-coherent
+    6/29389 . . . . . . {Bandpass filtering, e.g. 1x1 device
+rejecting or passing certain wavelengths
+(G02B 6/2938 takes precedence)}
+    6/29391 . . . . . . {Power equalisation of different
+channels, e.g. power flattening}
+    6/29392 . . . . . . {Controlling dispersion (G02B 6/02214
+takes precedence; modal dispersion
+    6/29394 . . . . . . . {Compensating wavelength
+precedence; dispersion compensated
+    6/29395 . . . . . . {configurable, e.g. tunable or
+reconfigurable (switching G02B 6/35)}
+    6/29397 . . . . . . {Polarisation insensitivity}
+    6/29398 . . . . . . {Temperature insensitivity}
+    6/30    . . . for use between fibre and thin-film device
+    6/305   . . . . {and having an integrated mode-size
+expanding section, e.g. tapered waveguide}
+    6/32    . . . having lens focusing means {positioned
+between opposed fibre ends (with lens
+being an integral part of the single fibre end
+    6/322   . . . . {and having centering means being part
+of the lens for the self-positioning of the
+lightguide at the focal point, e.g. holes, wells,
+    6/325   . . . . {comprising a transparent member, e.g.
+    6/327   . . . . {with angled interfaces to reduce reflections}
+    6/34    . . . utilising prism or grating {(G02B 6/293 takes
+    6/35    . . . having switching means (by changing the
+optical properties of the medium G02F 1/00)
+    6/3502  . . . . {involving direct waveguide displacement,
+e.g. cantilever type waveguide displacement
+involving waveguide bending, or displacing
+an interposed waveguide between stationary
+    6/3504  . . . . . {Rotating, tilting or pivoting the
+waveguides, or with the waveguides
+describing a curved path (rotary joint
+    6/3506  . . . . . {Translating the waveguides along the
+beam path, e.g. by varying the distance
+between opposed waveguide ends, or by
+translation of the waveguide ends}
+    6/3508  . . . . . {Lateral or transverse displacement of
+the whole waveguides, e.g. by varying
+the distance between opposed waveguide
+ends, or by mutual lateral displacement of
+    6/351   . . . . {involving stationary waveguides with
+moving interposed optical elements
+(G02B 6/3538 takes precedence; interposed
+    6/3512  . . . . . {the optical element being reflective, e.g.
+    6/3514  . . . . . . {the reflective optical element moving
+along a line so as to translate into and
+out of the beam path, i.e. across the
+    6/3516  . . . . . . {the reflective optical element moving
+along the beam path, e.g. controllable
+diffractive effects using multiple
+    6/3518  . . . . . . {the reflective optical element being
+an intrinsic part of a MEMS device,
+i.e. fabricated together with the MEMS
+device (MEMS devices in general
+B81B; manufacture of MEM devices
+in general B81C; micromechanical
+devices controlling the direction of light
+    6/352   . . . . . . {the reflective optical element having
+a shaped reflective surface, e.g. a
+reflective element comprising several
+reflective surfaces or facets that function
+    6/3522  . . . . . {the optical element enabling or impairing
+total internal reflection (using evanescent
+    6/3524  . . . . . {the optical element being refractive}
+    6/3526  . . . . . . {the optical element being a lens}
+    6/3528  . . . . . . {the optical element being a prism}
+    6/353   . . . . . {the optical element being a shutter, baffle,
+beam dump or opaque element (absorbers
+on light guide termination G02B 6/243)}
+    6/3532  . . . . . {the optical element being a wavelength
+independent filter or having spatially
+dependent transmission properties, e.g.
+neutral filter or neutral density wedge
+substrate with plurality of density filters}
+    6/3534  . . . . . {the optical element being diffractive, i.e.
+    6/3536  . . . . {involving evanescent coupling variation,
+e.g. by a moving element such as a
+membrane which changes the effective
+refractive index (mode converters
+G02B 6/14; adjustable lateral coupling
+electro- optical refractive index variations
+    6/3538  . . . . {based on displacement or deformation of
+a liquid (controlling the intensity of light
+by displacement or deformation of a fluid
+in general G02B 26/004; fluid-filled lens of
+variable focal length G02B 3/14)}
+    6/354   . . . . {Switching arrangements, i.e. number of
+input/output ports and interconnection types}
+    6/3542  . . . . . {Non-blocking switch, e.g. with multiple
+potential paths between multiple inputs
+and outputs, the establishment of one
+switching path not preventing the
+establishment of further switching paths}
+    6/3544  . . . . . {2D constellations, i.e. with switching
+elements and switched beams located in a
+    6/3546  . . . . . . {NxM switch, i.e. a regular array
+of switches elements of matrix type
+    6/3548  . . . . . . {1xN switch, i.e. one input and a
+selectable single output of N possible
+    6/355   . . . . . . . {1x2 switch, i.e. one input and
+a selectable single output of two
+    6/3552  . . . . . . . {1x1 switch, e.g. on/off switch}
+    6/3554  . . . . . {3D constellations, i.e. with switching
+elements and switched beams located in a
+    6/3556  . . . . . . {NxM switch, i.e. regular arrays of
+switches elements of matrix type
+    6/3558  . . . . . . {1xN switch, i.e. one input and a
+selectable single output of N possible
+    6/356   . . . . . {in an optical cross-connect device,
+e.g. routing and switching aspects of
+interconnecting different paths propagating
+different wavelengths to (re)configure the
+various input and output links (switching
+polarized beams G02B 6/3594; power
+equalizers G02B 6/356 and G02B 6/3594;
+path selecting means H04Q 11/0001)}
+    6/3562  . . . . . {Switch of the bypass type, i.e. enabling a
+change of path in a network, e.g. to bypass
+a failed element in the network}
+    6/3564  . . . . {Mechanical details of the actuation
+mechanism associated with the moving
+element or mounting mechanism details}
+    6/3566  . . . . . {involving bending a beam, e.g. with
+    6/3568  . . . . . {characterised by the actuating force}
+    6/357   . . . . . . {Electrostatic force (electrostatic forces
+controlling reflecting elements in
+    6/3572  . . . . . . {Magnetic force (magnetic forces
+controlling reflecting elements in
+general G02B 26/085; magneto-optic
+    6/3574  . . . . . . {Mechanical force, e.g. pressure
+    6/3576  . . . . . . {Temperature or heat actuation (thermal
+forces controlling reflecting elements
+in general G02B 26/0866; thermo-optic
+    6/3578  . . . . . . {Piezoelectric force (piezoelectric
+forces controlling reflecting elements
+in general G02B 26/0858; piezo-optic
+    6/358   . . . . . {Latching of the moving element, i.e.
+maintaining or holding the moving
+element in place once operation has
+been performed; includes a mechanically
+    6/3582  . . . . . {Housing means or package or arranging
+details of the switching elements, e.g. for
+    6/3584  . . . . . {constructional details of an associated
+actuator having a MEMS construction,
+i.e. constructed using semiconductor
+technology such as etching (MEMS per se
+    6/3586  . . . . {Control or adjustment details, e.g.
+calibrating (testing optical equipment
+    6/3588  . . . . . {of the processed beams, i.e. controlling
+during switching of orientation, alignment,
+or beam propagation properties such as
+    6/359   . . . . . {of the position of the moving element
+itself during switching, i.e. without
+    6/3592  . . . . {Means for removing polarization
+dependence of the switching means, i.e.
+polarization insensitive switching (light
+guides coupling with polarization selective
+and adjusting means G02B 6/27)}
+    6/3594  . . . . {Characterised by additional functional
+means, e.g. means for variably attenuating or
+branching or means for switching differently
+    6/3596  . . . . {With planar waveguide arrangement,
+i.e. in a substrate, regardless if actuating
+mechanism is outside the substrate}
+    6/3598  . . . . {Switching means directly located between
+an optoelectronic element and waveguides,
+including direct displacement of either the
+element or the waveguide, e.g. optical pulse
+generation (based on changing the optical
+properties of the medium G02F 1/00; optical
+pulse generation in optical transmitters
+H04B 10/508; optical pulse generation by
+controlling laser operation H01S 3/00)}
+    6/36    . . Mechanical coupling means (G02B 6/255,
+    6/3604  . . . {Rotary joints allowing relative rotational
+movement between opposing fibre or fibre
+    6/3608  . . . {Fibre wiring boards, i.e. where fibres are
+embedded or attached in a pattern on or to a
+substrate, e.g. flexible sheets (optical ribbon
+cables in support members G02B 6/4401)}
+    6/3612  . . . . {Wiring methods or machines}
+    6/3616  . . . {Holders, macro size fixtures for mechanically
+holding or positioning fibres, e.g. on an optical
+bench (supporting carriers of a microbench
+type G02B 6/3648; micromanipulators
+B25J 7/00; cassettes, bobbins G02B 6/4439)}
+    6/362   . . . . {Vacuum holders for optical elements}
+    6/3624  . . . . {Fibre head, e.g. fibre probe termination
+(optical details of light guide terminations
+G02B 6/241; reshaping of light guides
+G02B 6/2552; optical details of coupling
+light into or out of fibre end G02B 6/262)}
+    6/3628  . . . {for mounting fibres to supporting carriers
+(G02B 6/3608, G02B 6/3616 take precedence)}
+    6/3632  . . . . {characterised by the cross-sectional shape
+of the mechanical coupling means}
+    6/3636  . . . . . {the mechanical coupling means being
+grooves (G02B 6/3652 takes precedence)}
+    6/364   . . . . . . {inverted grooves, e.g. dovetails}
+    6/3644  . . . . . {the coupling means being through-holes
+    6/3648  . . . . {Supporting carriers of a microbench
+type, i.e. with micromachined additional
+mechanical structures (microstructured
+    6/3652  . . . . . {the additional structures being
+prepositioning mounting areas, allowing
+only movement in one dimension,
+e.g. grooves, trenches or vias in the
+microbench surface, i.e. self aligning
+    6/3656  . . . . . {the additional structures being
+micropositioning, with microactuating
+elements for fine adjustment, or restricting
+movement, into two dimensions, e.g.
+cantilevers, beams, tongues or bridges with
+    6/366   . . . . . {the additional structures allowing for
+adjustment or alignment in all dimensions,
+i.e. 3D microoptics arrangements, e.g.
+free space optics on the microbench,
+microhinges or spring latches, with
+associated microactuating elements for
+    6/3664  . . . . {2D cross sectional arrangements of the
+    6/3668  . . . . . {with conversion in geometry of the cross
+    6/3672  . . . . . {with fibres arranged in a regular matrix
+    6/3676  . . . . . {Stacked arrangement}
+    6/368   . . . . {with pitch conversion between input and
+output plane, e.g. for increasing packing
+    6/3684  . . . . {characterised by the manufacturing process
+of surface profiling of the supporting
+carrier (manufacturing microsystems per se
+    6/3688  . . . . . {using laser ablation}
+    6/3692  . . . . . {with surface micromachining involving
+etching, e.g. wet or dry etching steps
+(surface micromachining involving
+subtractive techniques B81C 1/00055)}
+    6/3696  . . . . . {by moulding, e.g. injection moulding,
+casting, embossing, stamping, stenciling,
+printing, or with metallic mould
+insert manufacturing using LIGA or
+MIGA techniques (shaping the mould
+surface by machining B29C 33/38;
+moulding techniques B29C 39/00,
+B29C 43/00, B29C 45/00, B29C 48/00,
+B29C 59/00; stamping, printing or
+embossing techniques B81C 1/00444;
+surface micromachining using LIGA
+    6/38    . . . having fibre to fibre mating means
+    6/3801  . . . . {Permanent connections, i.e. wherein fibres
+are kept aligned by mechanical means
+(splices by bonding G02B 6/255; fusion
+    6/3802  . . . . . {Assembly tools, e.g. crimping tool
+or pressing bench (splicing machines
+    6/3803  . . . . . {Adjustment or alignment devices for
+    6/3805  . . . . . . {with a fibre-supporting member
+inclined to the bottom surface of the
+    6/3806  . . . . . {Semi-permanent connections, i.e. wherein
+the mechanical means keeping the fibres
+aligned allow for removal of the fibres
+(dismountable connectors G02B 6/3807)}
+    6/3807  . . . . {Dismountable connectors, i.e. comprising
+    6/3809  . . . . . {without a ferrule embedding the fibre
+    6/381   . . . . . {of the ferrule type, e.g. fibre ends
+embedded in ferrules, connecting a pair of
+    6/3812  . . . . . . {having polarisation-maintaining light
+guides (light guides having polarisation
+    6/3813  . . . . . . {for transmission of high energy beam
+(coupling high energy sources and light
+    6/3814  . . . . . . {with cooling or heat dissipation means}
+    6/3816  . . . . . . {for use under water, high pressure
+    6/3817  . . . . . . {containing optical and electrical
+conductors (cables including electrical
+and optical conductors H01B 11/22;
+    6/3818  . . . . . . {of a low-reflection-loss type
+(G02B 6/3813 takes precedence)}
+    6/382   . . . . . . . {with index-matching medium
+between light guides (provisionally
+    6/3821  . . . . . . . {with axial spring biasing or
+loading means (G02B 6/3847 takes
+    6/3822  . . . . . . . {with beveled fibre ends}
+    6/3823  . . . . . . {containing surplus lengths, internal
+fibre loops (provisionally see also
+    6/3825  . . . . . . {with an intermediate part, e.g. adapter,
+    6/3826  . . . . . . {characterised by form or shape}
+    6/3827  . . . . . . . {Wrap-back connectors, i.e.
+containing a fibre having an U shape}
+    6/3829  . . . . . . . {Bent or angled connectors
+(G02B 6/3827 takes precedence)}
+    6/383   . . . . . . . {Hermaphroditic connectors, i.e.
+two identical plugs mating with
+one another, each plug having both
+opposed engaging parts; (electric
+hermaphroditic coupling H01R 24/84,
+    6/3831  . . . . . . . {comprising a keying element on the
+plug or adapter, e.g. to forbid wrong
+connection (keying element on the
+ferrule G02B 6/3851; keying element
+for electrical coupling H01R 13/64)}
+    6/3833  . . . . . {Details of mounting fibres in ferrules;
+    6/3834  . . . . . . {Means for centering or aligning the
+light guide within the ferrule}
+    6/3835  . . . . . . . {using discs, bushings or the like}
+    6/3837  . . . . . . . . {forwarding or threading methods
+of light guides into apertures of
+    6/3838  . . . . . . . {using grooves for light guides}
+    6/3839  . . . . . . . . {for a plurality of light guides}
+    6/3841  . . . . . . . {using rods, balls for light guides}
+    6/3842  . . . . . . . . {for a plurality of light guides}
+    6/3843  . . . . . . . {with auxiliary facilities for movably
+aligning or adjusting the fibre within
+its ferrule, e.g. measuring position
+or eccentricity (testing the alignment
+of axes, including eccentricity,
+    6/3845  . . . . . . {ferrules comprising functional
+    6/3846  . . . . . . {with fibre stubs}
+    6/3847  . . . . . . {with means preventing fibre end
+damage, e.g. recessed fibre surfaces}
+    6/3849  . . . . . . . {using mechanical protective
+elements, e.g. caps, hoods, sealing
+    6/385   . . . . . . {Accessories for testing or observation
+of connectors (means for centering
+or aligning the light guide within the
+ferrule with auxiliary facilities for
+movably aligning or adjusting the fibre
+within its ferrule, measuring position,
+eccentricity G02B 6/3843; mechanical
+features associated with the optical
+testing of optical fibres G01M 11/088)}
+    6/3851  . . . . . . {Ferrules having keying or coding
+    6/3853  . . . . . . {Lens inside the ferrule (lensed
+    6/3854  . . . . . . {Ferrules characterised by materials}
+    6/3855  . . . . . . {characterised by the method of
+anchoring or fixing the fibre within
+    6/3857  . . . . . . . {Crimping, i.e. involving plastic
+    6/3858  . . . . . . . {Clamping, i.e. with only elastic
+    6/3859  . . . . . . . . {Ferrules characterised by use of
+e.g. heat recoverable polymers,
+aspects of SMM see the relevant
+    6/3861  . . . . . . . {Adhesive bonding (adhesives in
+    6/3862  . . . . . . . {radially-compressed, longitudinally-
+split ferrules consisting of a pair of
+    6/3863  . . . . . . {fabricated by using polishing
+techniques (grinding of the fibre ends
+    6/3865  . . . . . . {fabricated by using moulding
+techniques (shaping techniques of
+plastic materials in general B29C;
+producing plastic optical fiber
+    6/3866  . . . . . . {Devices, tools or methods for cleaning
+connectors (cleaning in general B08B)}
+    6/3867  . . . . . . {comprising air venting holes}
+    6/3869  . . . . . {Mounting ferrules to connector body, i.e.
+    6/387   . . . . . . {Connector plugs comprising two
+complementary members, e.g. shells,
+    6/3871  . . . . . . {Ferrule rotatable with respect to plug
+body, e.g. for setting rotational position
+(adjusting fibre within the ferrule,
+G02B 6/3843); Fixation of ferrules after
+    6/3873  . . . . . {Connectors using guide surfaces for
+aligning ferrule ends, e.g. tubes, sleeves,
+    6/3874  . . . . . . {using tubes, sleeves to align ferrules}
+    6/3875  . . . . . . . {Floatingly supported sleeves}
+    6/3877  . . . . . . . {Split sleeves}
+    6/3878  . . . . . . . {comprising a plurality of ferrules,
+    6/3879  . . . . . . . . {Linking of individual connector
+plugs to an overconnector, e.g.
+    6/3881  . . . . . . {using grooves to align ferrule ends}
+    6/3882  . . . . . . {using rods, pins or balls to align a pair
+    6/3883  . . . . . . . {using rods, pins or balls to align a
+plurality of pairs of ferrule ends}
+    6/3885  . . . . . . {Multicore or multichannel optical
+connectors, i.e. one single ferrule
+containing more than one fibre, e.g.
+ribbon type (optical ribbon cable
+    6/3886  . . . . . . {Magnetic means to align ferrule ends}
+    6/3887  . . . . . {Anchoring optical cables to connector
+housings, e.g. strain relief features}
+    6/38875 . . . . . . {Protection from bending or twisting}
+    6/3888  . . . . . . {Protection from over-extension or
+    6/3889  . . . . . . {using encapsulation for protection, e.g.
+adhesive, molding or casting resin}
+    6/389   . . . . . {characterised by the method of fastening
+connecting plugs and sockets, e.g. screw-
+or nut-lock, snap-in, bayonet type}
+    6/3891  . . . . . . {Bayonet type}
+    6/3893  . . . . . . {Push-pull type, e.g. snap-in, push-on}
+    6/3894  . . . . . . {Screw-lock type}
+    6/3895  . . . . . {identification of connection, e.g. right
+plug to the right socket or full engagement
+of the mating parts (keying element on
+the plug or adapter G02B 6/3831; keying
+element on the ferrule G02B 6/3851;
+keying element for electrical connection
+    6/3897  . . . . . {Connectors fixed to housings, casing,
+frames or circuit boards (G02B 6/44528
+G02B 6/44528 should be considered in
+order to perform a complete search.
+    6/3898  . . . . . {Tools, e.g. handheld; Tuning
+wrenches; Jigs used with connectors,
+e.g. for extracting, removing or
+inserting in a panel, for engaging or
+coupling connectors, for assembling or
+disassembling components within the
+connector, for applying clips to hold
+two connectors together or for crimping
+(tools for cleaning, G02B 6/3866; tools in
+    6/40    . . . having fibre bundle mating means
+    6/403   . . . . {of the ferrule type, connecting a pair of
+    6/406   . . . . {of the ferrule type, connecting a plurality of
+    6/42    . . Coupling light guides with opto-electronic
+In this group, the following expression is used
+• "opto-electronic elements" includes light
+emitting elements, e.g. lasers or LED's,
+as well as light receiving elements, e.g.
+photodiodes or phototransistors
+    6/4201  . . . {Packages, e.g. shape, construction, internal or
+    6/4202  . . . . {for coupling an active element with fibres
+without intermediate optical elements, e.g.
+fibres with plane ends, fibres with shaped
+    6/4203  . . . . . {Optical features}
+    6/4204  . . . . {the coupling comprising intermediate
+optical elements, e.g. lenses, holograms
+(encapsulated active devices H01S 5/02208,
+    6/4206  . . . . . {Optical features (G02B 6/4207,
+    6/4207  . . . . . {with optical elements reducing the
+sensitivity to optical feedback (anti-
+reflection devices specially adapted for
+    6/4208  . . . . . . {using non-reciprocal elements or
+birefringent plates, i.e. quasi-isolators
+(optical isolators per se G02F 1/093,
+    6/4209  . . . . . . . {Optical features}
+    6/421   . . . . . {the intermediate optical component
+consisting of a short length of fibre, e.g.
+    6/4212  . . . . . {the intermediate optical element being a
+coupling medium interposed therebetween,
+e.g. epoxy resin, refractive index matching
+material, index grease, matching liquid or
+    6/4213  . . . . . {the intermediate optical elements being
+polarisation selective optical elements
+    6/4214  . . . . . {the intermediate optical element having
+redirecting reflective means, e.g. mirrors,
+prisms for deflecting the radiation from
+horizontal to down- or upward direction
+toward a device (G02B 6/4246 takes
+    6/4215  . . . . . {the intermediate optical elements being
+wavelength selective optical elements, e.g.
+variable wavelength optical modules or
+wavelength lockers (G02B 6/4246 takes
+    6/4216  . . . . {incorporating polarisation-maintaining
+fibres (polarisation-maintaining fibres per se
+    6/4218  . . . . . {Optical features}
+    6/4219  . . . . {Mechanical fixtures for holding or
+positioning the elements relative to each
+other in the couplings; Alignment methods
+for the elements, e.g. measuring or observing
+methods especially used therefor}
+    6/422   . . . . . {Active alignment, i.e. moving the
+elements in response to the detected
+degree of coupling or position of the
+elements (G02B 6/4233, G02B 6/4234
+    6/4221  . . . . . . {involving a visual detection of the
+position of the elements, e.g. by using a
+    6/4222  . . . . . . . {by observing back-reflected light}
+    6/4224  . . . . . . . {using visual alignment markings,
+    6/4225  . . . . . . {by a direct measurement of the degree
+of coupling, e.g. the amount of light
+power coupled to the fibre or the opto-
+    6/4226  . . . . . . {Positioning means for moving the
+elements into alignment, e.g. alignment
+screws, deformation of the mount}
+    6/4227  . . . . . . {Active alignment methods, e.g.
+    6/4228  . . . . . {Passive alignment, i.e. without a
+detection of the degree of coupling or the
+position of the elements (G02B 6/4234
+    6/423   . . . . . . {using guiding surfaces for the
+    6/4231  . . . . . . . {with intermediate elements, e.g. rods
+and balls, between the elements}
+    6/4232  . . . . . . {using the surface tension of fluid
+solder to align the elements, e.g.
+solder bump techniques (flip-chip
+mounting techniques in assembly of
+semiconductor devices H01L 24/81)}
+    6/4233  . . . . . {Active alignment along the optical axis
+and passive alignment perpendicular to the
+    6/4234  . . . . . {Passive alignment along the optical axis
+and active alignment perpendicular to the
+    6/4236  . . . . . {Fixing or mounting methods of the
+    6/4237  . . . . . . {Welding}
+    6/4238  . . . . . . {Soldering}
+    6/4239  . . . . . . {Adhesive bonding; Encapsulation with
+    6/424   . . . . . . {Mounting of the optical light guide}
+    6/4242  . . . . . . . {Mounting of the optical light guide
+    6/4243  . . . . . . . {Mounting of the optical light guide
+into a groove (mounting optical
+light guides into a groove in general
+    6/4244  . . . . . . {Mounting of the optical elements}
+    6/4245  . . . . . . {Mounting of the opto-electronic
+    6/4246  . . . . {Bidirectionally operating package
+    6/4248  . . . . {Feed-through connections for the hermetical
+passage of fibres through a package wall (see
+provisionally also G02B 6/4428)}
+    6/4249  . . . . {comprising arrays of active devices and
+    6/425   . . . . . {Optical features (semiconductor laser
+arrays H01S 5/40; hybrid LED arrays
+H01L 25/0753; monolithic LED arrays
+    6/4251  . . . . {Sealed packages (G02B 6/4248 takes
+    6/4253  . . . . . {by embedding housing components
+in an adhesive or a polymer material
+(G02B 6/4212 takes precedence)}
+    6/4254  . . . . . {with an inert gas, e.g. nitrogen or oxygen
+(gas filled packages for semiconductor
+    6/4255  . . . . {Moulded or casted packages}
+    6/4256  . . . . {Details of housings}
+    6/4257  . . . . . {having a supporting carrier or a
+mounting substrate or a mounting plate
+(G02B 6/3648 takes precedence)}
+    6/4259  . . . . . . {of the transparent type}
+    6/426   . . . . . {mounting, engaging or coupling of the
+package to a board, a frame or a panel}
+    6/4261  . . . . . . {Packages with mounting structures to
+be pluggable or detachable, e.g. having
+    6/4262  . . . . . {characterised by the shape of the housing
+(for semiconductor lasers H01S 5/02208)}
+    6/4263  . . . . . . {of the transisitor outline [TO] can
+    6/4265  . . . . . . {of the Butterfly or dual inline package
+    6/4266  . . . . {Thermal aspects, temperature control or
+temperature monitoring (thermal aspect of
+electrical circuits H05K 7/20, H05K 5/0213,
+temperature control in general G05D 23/19)}
+    6/4267  . . . . . {Reduction of thermal stress, e.g. by
+selecting thermal coefficient of materials}
+    6/4268  . . . . . {Cooling (of semiconductor devices
+H01L 23/24; of electric apparatus
+H05K 7/20; of instruments G12B 15/00)}
+    6/4269  . . . . . . {with heat sinks or radiation fins}
+    6/4271  . . . . . . {with thermo electric cooling}
+    6/4272  . . . . . . {with mounting substrates of high
+    6/4273  . . . . . {with heat insulation means to thermally
+decouple or restrain the heat from
+    6/4274  . . . . {Electrical aspects (G02B 6/4263 and
+    6/4275  . . . . . {Protection against electrostatic discharge
+    6/4277  . . . . . {Protection against electromagnetic
+interference [EMI], e.g. shielding
+means (shielding of electric apparatus
+H05K 9/00, of instruments G12B 17/00)}
+    6/4278  . . . . . {related to pluggable or demountable opto-
+electronic or electronic elements}
+    6/4279  . . . . . {Radio frequency signal propagation
+aspects of the electrical connection, high
+    6/428   . . . . . {containing printed circuit boards [PCB]}
+    6/4281  . . . . . . {the printed circuit boards being flexible
+    6/4283  . . . . . {with electrical insulation means}
+    6/4284  . . . . . {of optical modules with disconnectable
+electrical connectors (latching arms for
+electrical connectors H01R 13/627)}
+    6/4285  . . . . {Optical modules characterised by a
+    6/4286  . . . . {Optical modules with optical power
+    6/4287  . . . . {Optical modules with tapping or launching
+means through the surface of the waveguide
+    6/4289  . . . . . {by inducing bending, microbending or
+macrobending, to the light guide}
+    6/429   . . . . . {by surface irregularities on the light
+guide, e.g. by mechanical modification
+of the surface of the light guide on its
+    6/4291  . . . . . {by accessing the evanescent field of the
+    6/4292  . . . {the light guide being disconnectable from
+the opto-electronic element, e.g. mutually self
+    6/4293  . . . . {hybrid electrical and optical connections for
+transmitting electrical and optical signals}
+    6/4295  . . . {coupling with semiconductor devices
+activated by light through the light guide, e.g.
+    6/4296  . . . {coupling with sources of high radiant energy,
+e.g. high power lasers, high temperature light
+ 2006/4297  . . . . {having protection means, e.g. protecting
+humans against accidental exposure to
+    6/4298  . . . {coupling with non-coherent light sources and/
+or radiation detectors, e.g. lamps, incandescent
+    6/43    . . . Arrangements comprising a plurality of opto-
+electronic elements and associated optical
+    6/44    . Mechanical structures for providing tensile strength
+and external protection for fibres, e.g. optical
+transmission cables (cables incorporating electric
+conductors and optical fibres {where features
+relating to the optical fibres are not of interest}
+    6/4401  . . {Optical cables (glass fibres with a protective
+Group G02B 6/4401 is impacted by
+reclassification into group G02B 6/02395.
+Groups G02B 6/4401 and G02B 6/02395
+should be considered in order to perform a
+    6/4402  . . . {with one single optical waveguide
+(G02B 6/4429, G02B 6/4439, G02B 6/4479
+    6/4403  . . . {with ribbon structure (G02B 6/4429,
+G02B 6/4439, G02B 6/4479 take precedence)}
+    6/4404  . . . . {Multi-podded}
+    6/4405  . . . {with longitudinally spaced waveguide
+clamping (G02B 6/4429, G02B 6/4439,
+    6/4407  . . . {with internal fluted support member
+(G02B 6/4429, G02B 6/4439, G02B 6/4479
+    6/4408  . . . . {Groove structures in support members to
+decrease or harmonise transmission losses in
+    6/4409  . . . . {for ribbons}
+    6/441   . . . {built up from sub-bundles (G02B 6/4429,
+G02B 6/4439, G02B 6/4479 take precedence)}
+    6/4411  . . . . {Matrix structure}
+    6/4413  . . . . {Helical structure}
+    6/4414  . . . . {with internal serpentine waveguides}
+    6/4415  . . . {Cables for special applications (G02B 6/4429,
+G02B 6/4439, G02B 6/4479 take precedence)}
+    6/4416  . . . . {Heterogeneous cables}
+Group G02B 6/4416 is impacted by
+reclassification into group G02B 6/44265.
+Groups G02B 6/4416 and G02B 6/44265
+should be considered in order to perform
+    6/4417  . . . . . {High voltage aspects, e.g. in cladding}
+    6/4419  . . . . . . {Preventing corona discharge}
+    6/442   . . . . . . {Insulators}
+    6/4421  . . . . . . . {Insulators with helical structure of
+optical fibre, e.g. fibres wound around
+    6/4422  . . . . . {of the overhead type}
+    6/4423  . . . . . . {Electro-corrosion preventing means}
+    6/4425  . . . . . . {Suppression of galloping oscillation}
+    6/4426  . . . . . . {specially adapted for reducing drag
+caused by the wire, e.g. by oval cross-
+    6/44265 . . . . . {Fibre-to-antenna cables; Auxiliary
+Group G02B 6/44265 is incomplete
+pending reclassification of documents
+G02B 6/44265 should be considered in
+order to perform a complete search.
+    6/4427  . . . . {Pressure resistant cables, e.g. undersea
+    6/4428  . . . . . {Penetrator systems in pressure-resistant
+    6/4429  . . . {Means specially adapted for strengthening or
+Group G02B 6/4429 is impacted by
+reclassification into groups G02B 6/44382,
+All groups listed in this Warning should be
+considered in order to perform a complete
+    6/443   . . . . {Protective covering}
+Group G02B 6/443 is impacted by
+reclassification into group G02B 6/4431.
+Groups G02B 6/443 and G02B 6/4431
+should be considered in order to perform
+    6/4431  . . . . . {with provision in the protective covering,
+e.g. weak line, for gaining access to one or
+more fibres, e.g. for branching or tapping
+(break-out terminations G02B 6/4471)}
+Group G02B 6/4431 is incomplete
+pending reclassification of documents
+Groups G02B 6/443 and G02B 6/4431
+should be considered in order to
+    6/4432  . . . . . {with fibre reinforcements}
+    6/4433  . . . . . . {Double reinforcement laying in straight
+line with optical transmission element}
+    6/4434  . . . . {Central member to take up tensile loads}
+    6/4435  . . . . {Corrugated mantle}
+    6/4436  . . . . {Heat resistant}
+    6/4438  . . . . {for facilitating insertion by fluid drag in
+    6/44382 . . . . {the means comprising hydrogen absorbing
+materials (G02B 6/4439, G02B 6/4479 take
+Group G02B 6/44382 is incomplete
+pending reclassification of documents
+Groups G02B 6/4429 and G02B 6/44382
+should be considered in order to perform
+    6/44384 . . . . {the means comprising water blocking
+or hydrophobic materials (G02B 6/4439,
+Group G02B 6/44384 is incomplete
+pending reclassification of documents
+Groups G02B 6/4429 and G02B 6/44384
+should be considered in order to perform
+    6/44386 . . . . {Freeze-prevention means (G02B 6/4439,
+Group G02B 6/44386 is incomplete
+pending reclassification of documents
+Groups G02B 6/4429 and G02B 6/44386
+should be considered in order to perform
+    6/4439  . . {Auxiliary devices}
+    6/444   . . . {Systems or boxes with surplus lengths}
+Group G02B 6/4441 is impacted by
+reclassification into group G02B 6/44515.
+Groups G02B 6/4441 and G02B 6/44515
+should be considered in order to perform
+    6/4442  . . . . . {Cap coupling boxes}
+    6/4444  . . . . . . {Seals}
+    6/4445  . . . . . . {Divided base plates}
+    6/4446  . . . . . {Cable boxes, e.g. splicing boxes with two
+G02B 6/44465 should be considered in
+order to perform a complete search.
+    6/44465 . . . . . . {Seals}
+Group G02B 6/44465 is incomplete
+documents from group G02B 6/4446.
+G02B 6/44465 should be considered
+    6/4447  . . . . . . {with divided shells (G02B 6/4448 takes
+    6/4448  . . . . . {Electro-optic}
+    6/445   . . . . . {with lateral pivoting cover}
+    6/44515 . . . . . {Fibre drop terminals with surplus length
+(without surplus length G02B 6/4472)}
+Group G02B 6/44515 is incomplete
+pending reclassification of documents
+G02B 6/44515 should be considered in
+order to perform a complete search.
+    6/4452  . . . . {Distribution frames}
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+    6/44524 . . . . . {with frame parts or auxiliary devices
+mounted on the frame and collectively not
+covering a whole width of the frame or
+Group G02B 6/44524 is incomplete
+pending reclassification of documents
+G02B 6/44524 should be considered in
+order to perform a complete search.
+    6/44526 . . . . . {Panels or rackmounts covering a whole
+Group G02B 6/44526 is incomplete
+pending reclassification of documents
+G02B 6/44526 should be considered in
+order to perform a complete search.
+    6/44528 . . . . {Patch-cords; Connector arrangements in the
+system or in the box (routing arrangements
+Group G02B 6/44528 is incomplete
+pending reclassification of documents
+Groups G02B 6/3897, G02B 6/4452 and
+G02B 6/44528 should be considered in
+order to perform a complete search.
+    6/44529 . . . . . {Optical means for identifying patch-
+Group G02B 6/44529 is incomplete
+pending reclassification of documents
+G02B 6/44529 should be considered in
+order to perform a complete search.
+    6/4453  . . . . {Cassettes}
+    6/4454  . . . . . {with splices}
+    6/4455  . . . . . {characterised by the way of extraction or
+insertion of the cassette in the distribution
+frame, e.g. pivoting, sliding, rotating or
+    6/4457  . . . {Bobbins; Reels}
+    6/4458  . . . . {Coiled, e.g. extensible helix}
+    6/4459  . . . {Ducts; Conduits; Hollow tubes for air blown
+    6/446   . . . . {comprising desiccating means}
+    6/4461  . . . . {Articulated}
+    6/4469  . . . {Security aspects}
+    6/4471  . . . {Terminating devices (demountable connectors
+Group G02B 6/4471 is impacted by
+reclassification into groups G02B 6/44715,
+All groups listed in this Warning should be
+considered in order to perform a complete
+    6/44715 . . . . {Fan-out devices}
+Group G02B 6/44715 is incomplete
+pending reclassification of documents
+Groups G02B 6/4471 and G02B 6/44715
+should be considered in order to perform
+    6/4472  . . . . {Manifolds}
+    6/4473  . . . . . {Three-way systems}
+    6/4475  . . . . . {with provision for lateral branching
+(G02B 6/4431 takes precedence)}
+    6/4476  . . . . {with heat-shrinkable elements}
+    6/44765 . . . . {with means for strain-relieving to exterior
+Group G02B 6/44765 is incomplete
+pending reclassification of documents
+Groups G02B 6/4471 and G02B 6/44765
+should be considered in order to perform
+    6/4477  . . . . {with means for strain-relieving to interior
+Group G02B 6/4477 is impacted by
+reclassification into group G02B 6/44775.
+Groups G02B 6/4477 and G02B 6/44775
+should be considered in order to perform
+    6/44775 . . . . {Cable seals e.g. feed-through (cable seals
+integrated to the box seals G02B 6/4444;
+Group G02B 6/44775 is incomplete
+pending reclassification of documents
+Groups G02B 6/4471, G02B 6/4477 and
+G02B 6/44775 should be considered in
+order to perform a complete search.
+    6/4478  . . . . {Bending relief means}
+Group G02B 6/4478 is impacted by
+reclassification into group G02B 6/44785.
+Groups G02B 6/4478 and G02B 6/44785
+should be considered in order to perform
+    6/44785 . . . . {Cable clamps}
+Group G02B 6/44785 is incomplete
+pending reclassification of documents
+Groups G02B 6/4478 and G02B 6/44785
+should be considered in order to perform
+    6/4479  . . {Manufacturing methods of optical cables}
+    6/448   . . . {Ribbon cables}
+    6/4482  . . . {Code or colour marking}
+    6/4483  . . . {Injection or filling devices}
+    6/4484  . . . {with desired surplus length between fibres and
+    6/4485  . . . {Installing in protective tubing by fluid drag
+    6/4486  . . . {Protective covering}
+    6/4488  . . . . {using metallic tubes}
+    6/4489  . . . {of central supporting members of lobe
+    6/4491  . . . . {in a lobe structure}
+    6/46    . Processes or apparatus adapted for installing
+{or repairing} optical fibres or optical cables
+(installation of cables containing electric conductors
+Group G02B 6/46 is impacted by reclassification
+into groups G02B 6/47, G02B 6/475,
+G02B 6/477, G02B 6/56, G02B 6/562,
+G02B 6/564, G02B 6/566 and G02B 6/567.
+All groups listed in this Warning should be
+considered in order to perform a complete
+    6/47    . . {Installation in buildings}
+Groups G02B 6/47, G02B 6/475 and
+G02B 6/477 are incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete
+    6/475   . . . {Mechanical aspects of installing cables in
+ducts or the like for buildings}
+    6/477   . . . {Wall sockets}
+    6/48    . . Overhead installation
+    6/483   . . . {Installation of aerial type}
+    6/486   . . . . {by helical wrapping}
+    6/50    . . Underground or underwater installation;
+Installation through tubing, conduits or ducts
+reclassification into group G02B 6/501.
+Groups G02B 6/50 and G02B 6/501 should
+be considered in order to perform a complete
+    6/501   . . . {underground installation of connection boxes}
+Group G02B 6/501 is incomplete pending
+reclassification of documents from group
+Groups G02B 6/50 and G02B 6/501
+should be considered in order to perform a
+    6/502   . . . {Installation methods in fluid conducts, e.g.
+    6/504   . . . {Installation in solid material, e.g.
+    6/506   . . . {Underwater installation}
+    6/508   . . . {Fixation devices in ducts for drawing cables}
+    6/52    . . . using fluid, e.g. air
+    6/54    . . . using mechanical means, e.g. pulling or
+reclassification into group G02B 6/545.
+Groups G02B 6/54 and G02B 6/545
+should be considered in order to perform a
+    6/545   . . . . {Pulling eyes (G02B 6/475 takes
+Group G02B 6/545 is incomplete pending
+reclassification of documents from group
+Groups G02B 6/54 and G02B 6/545
+should be considered in order to perform
+    6/56    . . {Processes for repairing optical cables}
+Groups G02B 6/56, G02B 6/562, G02B 6/564,
+G02B 6/566 and G02B 6/567 are incomplete
+pending reclassification of documents from
+All groups listed in this Warning should be
+considered in order to perform a complete
+    6/562   . . . {locatable, e.g. using magnetic means}
+    6/564   . . . {Repair sets}
+    6/566   . . . {Devices for opening or removing the mantle}
+    6/567   . . . . {for ribbon cables}
+    7/00    Mountings, adjusting means, or light-tight
+connections, for optical elements
+    7/001   . {Counterbalanced structures, e.g. surgical
+    7/002   . {Mounting on the human body}
+    7/003   . {Alignment of optical elements (G02B 7/001,
+G02B 7/002 take precedence; for mirrors
+    7/004   . . {Manual alignment, e.g. micromanipulators}
+    7/005   . . {Motorised alignment}
+    7/007   . {Pressure-resistant sight glasses}
+    7/008   . {with means for compensating for changes in
+temperature or for controlling the temperature;
+    7/02    . for lenses {(supports for magnifying lenses
+    7/021   . . {for more than one lens}
+    7/022   . . {lens and mount having complementary
+engagement means, e.g. screw/thread}
+    7/023   . . {permitting adjustment}
+    7/026   . . {using retaining rings or springs (G02B 7/027
+    7/027   . . {the lens being in the form of a sphere or ball}
+    7/028   . . {with means for compensating for changes in
+temperature or for controlling the temperature;
+    7/04    . . with mechanism for focusing or varying
+    7/06    . . . Focusing binocular pairs
+    7/08    . . . adapted to co-operate with a remote control
+    7/09    . . . adapted for automatic focusing or varying
+    7/10    . . . by relative axial movement of several lenses,
+e.g. of varifocal objective lens
+    7/102   . . . . {controlled by a microcomputer (cameras
+with interchangeable lenses G03B 17/14)}
+    7/105   . . . . with movable lens means specially adapted
+for focusing at close distances
+    7/12    . . Adjusting pupillary distance of binocular pairs
+    7/14    . . adapted to interchange lenses {(G02B 7/027 takes
+    7/16    . . . Rotatable turrets
+    7/18    . for prisms; for mirrors
+    7/1805  . . {for prisms (G02B 7/181 takes precedence)}
+    7/181   . . {with means for compensating for changes in
+temperature or for controlling the temperature;
+    7/1815  . . . {with cooling or heating systems (cooling
+arrangements for laser mirrors H01S 3/0401)}
+    7/1821  . . . {for rotating or oscillating mirrors}
+    7/1822  . . . {comprising means for aligning the optical axis
+(G02B 7/1821 takes precedence)}
+    7/1824  . . . . {Manual alignment}
+    7/1825  . . . . . {made by screws, e.g. for laser mirrors}
+    7/1827  . . . . {Motorised alignment}
+    7/1828  . . . . . {using magnetic means}
+    7/183   . . . specially adapted for very large mirrors, e.g. for
+astronomy, {or solar concentrators}
+    7/185   . . . with means for adjusting the shape of the
+    7/188   . . . . Membrane mirrors {(not in use, see
+    7/192   . . . with means for minimising internal mirror
+    7/195   . . . . Fluid-cooled mirrors {(not in use, see
+    7/198   . . . with means for adjusting the mirror relative to
+its support {(G02B 7/1822 takes precedence)}
+    7/20    . Light-tight connections for movable optical
+    7/22    . . Extensible connections, e.g. bellows
+    7/24    . . Pivoted connections
+    7/28    . Systems for automatic generation of focusing
+    7/282   . . {Autofocusing of zoom lenses}
+    7/285   . . {including two or more different focus detection
+devices, e.g. both an active and a passive focus
+    7/287   . . {including a sight line detecting device}
+    7/30    . . using parallactic triangle with a base line
+    7/305   . . . {using a scanner}
+    7/32    . . . using active means, e.g. light emitter
+{(including both an active and a passive focus
+detecting device G02B 7/285; using ultrasound
+    7/34    . . using different areas in a pupil plane
+    7/343   . . . {using light beam separating prisms}
+    7/346   . . . {using horizontal and vertical areas in the pupil
+plane, i.e. wide area autofocusing}
+    7/36    . . using image sharpness techniques {, e.g. image
+processing techniques for generating autofocus
+signals (image data processing per se G06T;
+in cameras having a solid state image sensor
+    7/365   . . . {by analysis of the spatial frequency
+    7/38    . . . measured at different points on the optical axis
+{, e.g. focussing on two or more planes and
+    7/40    . . using time delay of the reflected waves, e.g. of
+    9/00    Optical objectives characterised both by the
+number of the components and their arrangements
+according to their sign, i.e. + or - (G02B 15/00 takes
+    9/02    . having one + component only (simple lenses
+    9/04    . having two components only
+    9/06    . . two + components
+    9/08    . . . arranged about a stop
+    9/10    . . one + and one - component
+    9/12    . having three components only
+    9/16    . . . all the components being simple
+    9/18    . . . only one component having a compound lens
+    9/20    . . . . the rear component having the compound
+    9/22    . . . . the middle component having the compound
+    9/24    . . . two of the components having compound
+lenses (G02B 9/30 takes precedence)
+    9/26    . . . . the front and rear components having
+    9/28    . . . . the middle and rear components having
+    9/30    . . . the middle component being a - compound
+    9/32    . . . . the + lens being a meniscus
+    9/34    . having four components only
+    9/36    . . arranged + -- +
+G02B 9/44 - G02B 9/56 the first mentioned
+applicable sub-group takes precedence over
+    9/38    . . . both - components being meniscus
+    9/40    . . . . one - component being compound
+    9/42    . . . . two - components being compound
+    9/44    . . . both - components being biconcave
+    9/46    . . . . one - component being compound
+    9/48    . . . . two - components being compound
+    9/50    . . . both + components being meniscus
+    9/52    . . . the rear + component being compound
+    9/54    . . . the front + component being compound
+    9/56    . . . all components being simple lenses
+    9/58    . . arranged - + + -
+    9/60    . having five components only
+    9/62    . having six components only
+    9/64    . having more than six components
+   13/00    Optical objectives specially designed for
+the purposes specified below (with variable
+magnification {in general} G02B 15/00)
+Unless specified in the title of the subgroups, this
+group and its subgroups do not cover objectives
+comprising reflecting surfaces, which are covered
+by G02B 17/06, G02B 17/08 and their subgroups
+   13/0005  . {having F-Theta characteristic (scanning systems
+employing movable or deformable optical elements
+   13/001   . {Miniaturised objectives for electronic devices, e.g.
+portable telephones, webcams, PDAs, small digital
+cameras (G02B 23/243 takes precedence)}
+   13/0015  . . {characterised by the lens design}
+   13/002   . . . {having at least one aspherical surface}
+When classifying in this group, a lens is
+deemed to be a simple lens or a compound
+   13/0025  . . . . {having one lens only}
+   13/003   . . . . {having two lenses}
+   13/0035  . . . . {having three lenses}
+   13/004   . . . . {having four lenses}
+   13/0045  . . . . {having five or more lenses}
+   13/005   . . . {having spherical lenses only}
+   13/0055  . . {employing a special optical element}
+   13/006   . . . {at least one element being a compound optical
+element, e.g. cemented elements}
+   13/0065  . . . {having a beam-folding prism or mirror}
+   13/007   . . . . {the beam folding prism having at least one
+   13/0075  . . . {having an element with variable optical
+   13/008   . . {designed for infrared light}
+   13/0085  . . {employing wafer level optics}
+   13/009   . . {having zoom function}
+   13/0095  . {Relay lenses or rod lenses (in instruments
+for viewing the inside of hollow bodies
+   13/02    . Telephoto objectives, i.e. systems of the type + -
+in which the distance from the front vertex to the
+image plane is less than the equivalent focal length
+   13/04    . Reversed telephoto objectives
+   13/06    . Panoramic objectives; So-called "sky lenses"
+{including panoramic objectives having reflecting
+   13/08    . Anamorphotic objectives
+   13/10    . . involving prisms (G02B 13/12 takes precedence)
+   13/12    . . with variable magnification
+   13/14    . for use with infra-red or ultra-violet radiation
+({G02B 13/008, } G02B 13/16 take precedence)
+   13/143   . . {for use with ultra-violet radiation}
+   13/146   . . {with corrections for use in multiple wavelength
+bands, such as infra-red and visible light, e.g.
+   13/16    . for use in conjunction with image converters
+or intensifiers {, or for use with projectors, e.g.
+   13/18    . with lenses having one or more non-spherical
+faces, e.g. for reducing geometrical aberration
+{(G02B 13/002 takes precedence)}
+   13/20    . Soft-focus objectives
+   13/22    . Telecentric objectives or lens systems
+   13/24    . for reproducing or copying at short object distances
+   13/26    . . for reproducing with unit magnification
+   15/00    Optical objectives with means for varying the
+magnification (anamorphotic objectives G02B 13/08)
+   15/02    . by changing, adding, or subtracting a part of the
+objective, e.g. convertible objective
+   15/04    . . by changing a part
+   15/06    . . . by changing the front part
+   15/08    . . . by changing the rear part
+   15/10    . . by adding a part, e.g. close-up attachment
+   15/12    . . . by adding telescopic attachments (G02B 15/14
+   15/14    . by axial movement of one or more lenses or
+groups of lenses relative to the image plane for
+continuously varying the equivalent focal length of
+   15/142   . . {having two groups only}
+   15/1421  . . . {the first group being positive}
+   15/1425  . . . {the first group being negative}
+   15/143   . . {having three groups only}
+   15/1431  . . . {the first group being positive}
+   15/143101 . . . . {arranged +--}
+   15/143103 . . . . {arranged ++-}
+   15/143105 . . . . {arranged +-+}
+   15/143107 . . . . {arranged +++}
+   15/1435  . . . {the first group being negative}
+   15/143501 . . . . {arranged ---}
+   15/143503 . . . . {arranged -+-}
+   15/143505 . . . . {arranged --+}
+   15/143507 . . . . {arranged -++}
+   15/144   . . {having four groups only}
+   15/1441  . . . {the first group being positive}
+   15/144101 . . . . {arranged +---}
+   15/144103 . . . . {arranged ++--}
+   15/144105 . . . . {arranged +-+-}
+   15/144107 . . . . {arranged +++-}
+   15/144109 . . . . {arranged +--+}
+   15/144111 . . . . {arranged ++-+}
+   15/144113 . . . . {arranged +-++}
+   15/144115 . . . . {arranged ++++}
+   15/1445  . . . {the first group being negative}
+   15/144501 . . . . {arranged ----}
+   15/144503 . . . . {arranged -+--}
+   15/144505 . . . . {arranged --+-}
+   15/144507 . . . . {arranged -++-}
+   15/144509 . . . . {arranged ---+}
+   15/144511 . . . . {arranged -+-+}
+   15/144513 . . . . {arranged --++}
+   15/144515 . . . . {arranged -+++}
+   15/145   . . {having five groups only}
+   15/1451  . . . {the first group being positive}
+   15/145101 . . . . {arranged +----}
+   15/145103 . . . . {arranged ++---}
+   15/145105 . . . . {arranged +-+--}
+   15/145107 . . . . {arranged +++--}
+   15/145109 . . . . {arranged +--+-}
+   15/145111 . . . . {arranged ++-+-}
+   15/145113 . . . . {arranged +-++-}
+   15/145115 . . . . {arranged ++++-}
+   15/145117 . . . . {arranged +---+}
+   15/145119 . . . . {arranged ++--+}
+   15/145121 . . . . {arranged +-+-+}
+   15/145123 . . . . {arranged +++-+}
+   15/145125 . . . . {arranged +--++}
+   15/145127 . . . . {arranged ++-++}
+   15/145129 . . . . {arranged +-+++}
+   15/145131 . . . . {arranged +++++}
+   15/1455  . . . {the first group being negative}
+   15/145501 . . . . {arranged -----}
+   15/145503 . . . . {arranged -+---}
+   15/145505 . . . . {arranged --+--}
+   15/145507 . . . . {arranged -++--}
+   15/145509 . . . . {arranged ---+-}
+   15/145511 . . . . {arranged -+-+-}
+   15/145513 . . . . {arranged --++-}
+   15/145515 . . . . {arranged -+++-}
+   15/145517 . . . . {arranged ----+}
+   15/145519 . . . . {arranged -+--+}
+   15/145521 . . . . {arranged --+-+}
+   15/145523 . . . . {arranged -++-+}
+   15/145525 . . . . {arranged ---++}
+   15/145527 . . . . {arranged -+-++}
+   15/145529 . . . . {arranged --+++}
+   15/145531 . . . . {arranged -++++}
+   15/146   . . {having more than five groups}
+   15/1461  . . . {the first group being positive}
+   15/1465  . . . {the first group being negative}
+   15/15    . . compensation by means of only one movement or
+by means of only linearly related movements, e.g.
+   15/16    . . with interdependent non-linearly related
+movements between one lens or lens group, and
+another lens or lens group (G02B 15/22 takes
+   15/163   . . . having a first movable lens or lens group
+and a second movable lens or lens group,
+both in front of a fixed lens or lens group
+   15/167   . . . . having an additional fixed front lens or group
+   15/17    . . . . . arranged +--
+   15/173   . . . . . arranged +-+
+   15/177   . . . having a negative front lens or group of lenses
+   15/20    . . . having an additional movable lens or lens
+group for varying the objective focal length
+   15/22    . . with movable lens means specially adapted for
+   15/24    . . . having a front fixed lens or lens group and two
+movable lenses or lens groups in front of a
+   15/26    . . . . arranged +--
+   15/28    . . . . arranged +-+
+   17/00    Systems with reflecting surfaces, with or without
+   17/002   . {Arrays of reflective systems}
+   17/004   . {Systems comprising a plurality of reflections
+between two or more surfaces, e.g. cells, resonators
+(multipass arrangements for optical cuvettes
+G01N 21/031; laser resonators H01S 3/05)}
+   17/006   . {Systems in which light light is reflected on a
+plurality of parallel surfaces, e.g. louvre mirrors,
+total internal reflection [TIR] lenses (Fresnel
+mirrors G02B 5/09, Fresnel lenses G02B 3/08)}
+   17/008   . {Systems specially adapted to form image relays or
+   17/02    . Catoptric systems, e.g. image erecting and reversing
+   17/023   . . {for extending or folding an optical path, e.g.
+   17/026   . . {having static image erecting or reversing
+properties only (G02B 17/045 takes precedence;
+optical derotators G02B 27/642; optical devices
+for controlling the direction of light using
+movable or deformable optical elements
+   17/04    . . using prisms only
+   17/045   . . . {having static image erecting or reversing
+properties only (optical derotators
+G02B 27/642; optical devices for controlling
+the direction of light using movable or
+deformable optical elements G02B 26/08)}
+   17/06    . . using mirrors only {, i.e. having only one
+curved mirror (used in non-imaging applications
+   17/0605  . . . {using two curved mirrors (G02B 17/0668,
+   17/061   . . . . {on-axis systems with at least one of the
+mirrors having a central aperture}
+   17/0615  . . . . {off-axis or unobscured systems in wich
+all of the mirrors share a common axis of
+   17/0621  . . . . {off-axis or unobscured systems in which
+not all of the mirrors share a common axis of
+rotational symmetry, e.g. at least one of the
+mirrors is warped, tilted or decentered with
+   17/0626  . . . {using three curved mirrors (G02B 17/0668,
+   17/0631  . . . . {on-axis systems with at least one of the
+mirrors having a central aperture}
+   17/0636  . . . . {off-axis or unobscured systems in which
+all of the mirrors share a common axis of
+   17/0642  . . . . {off-axis or unobscured systems in which
+not all of the mirrors share a common axis of
+rotational symmetry, e.g. at least one of the
+mirrors is warped, tilted or decentered with
+   17/0647  . . . {using more than three curved mirrors
+(G02B 17/0668, G02B 17/0694 take
+   17/0652  . . . . {on-axis systems with at least one of the
+mirrors having a central aperture}
+   17/0657  . . . . {off-axis or unobscured systems in which
+all of the mirrors share a common axis of
+   17/0663  . . . . {off-axis or unobscured systems in which
+not all of the mirrors share a common axis of
+rotational symmetry, e.g. at least one of the
+mirrors is warped, tilted or decentered with
+   17/0668  . . . {having non-imaging properties}
+   17/0673  . . . . {for light condensing, e.g. for use with a
+light emitter (details of lighting devices in
+general F21V; semiconductor devices with
+at least one potential-jump barrier or surface
+barrier specially adapted for light emission
+   17/0678  . . . . . {specially adapted to emit light in a 360°
+   17/0684  . . . . {for light collecting, e.g. for use with a
+   17/0689  . . . . . {specially adapted to receive light from a
+   17/0694  . . . {with variable magnification or multiple
+imaging planes, including multispectral
+systems (systems with only refractive elements
+   17/08    . Catadioptric systems {(used in non-imaging
+   17/0804  . . {using two curved mirrors (G02B 17/0864,
+G02B 17/0896 takes precedence)}
+   17/0808  . . . {on-axis systems with at least one of the
+mirrors having a central aperture}
+   17/0812  . . . {off-axis or unobscured systems in which all of
+the mirrors share a common axis of rotational
+   17/0816  . . . {off-axis or unobscured systems in which
+not all of the mirrors share a common axis of
+rotational symmetry, e.g. at least one of the
+mirrors is warped, tilted or decentered with
+   17/082   . . {using three curved mirrors (G02B 17/0864,
+   17/0824  . . . {on-axis systems with at least one of the
+mirrors having a central aperture}
+   17/0828  . . . {off-axis or unobscured systems in which all of
+the mirrors share a common axis of rotational
+   17/0832  . . . {off-axis or unobscured systems in which
+not all of the mirrors share a common axis of
+rotational symmetry, e.g. at least one of the
+mirrors is warped, tilted or decentered with
+   17/0836  . . {using more than three curved mirrors
+(G02B 17/0864, G02B 17/0896 take precedence)}
+   17/084   . . . {on-axis systems with at least one of the
+mirrors having a central aperture}
+   17/0844  . . . {off-axis or unobscured systems in which all of
+the mirrors share a common axis of rotational
+   17/0848  . . . {off-axis or unobscured systems in which
+not all of the mirrors share a common axis of
+rotational symmetry, e.g. at least one of the
+mirrors is warped, tilted or decentered with
+   17/0852  . . {having a field corrector only}
+   17/0856  . . {comprising a refractive element with a reflective
+surface, the reflection taking place inside the
+   17/086   . . . {wherein the system is made of a single block
+of optical material, e.g. solid catadioptric
+   17/0864  . . {having non-imaging properties}
+   17/0868  . . . {for light condensing, e.g. for use with a
+light emitter (details of lighting devices in
+general F21V; semiconductor devices with
+at least one potential-jump barrier or surface
+barrier specially adapted for light emission
+   17/0872  . . . . {specially adapted to emit light in a 360°
+   17/0876  . . . {for light collecting, e.g. for use with a
+   17/088   . . . . {specially adapted to receive light from a
+   17/0884  . . {having a pupil corrector}
+   17/0888  . . . {the corrector having at least one aspheric
+   17/0892  . . {specially adapted for the UV}
+   17/0896  . . {with variable magnification or multiple imaging
+planes, including multispectral systems (systems
+with only refractive elements G02B 15/14)}
+   19/00    Condensers, {e.g. light collectors or similar non-
+imaging optics}(for microscopes G02B 21/08)
+   19/0004  . {characterised by the optical means employed}
+   19/0009  . . {having refractive surfaces only}
+   19/0014  . . . {at least one surface having optical power}
+   19/0019  . . {having reflective surfaces only (e.g. louvre
+systems, systems with multiple planar reflectors)}
+   19/0023  . . . {at least one surface having optical power}
+   19/0028  . . {refractive and reflective surfaces, e.g. non-
+   19/0033  . {characterised by the use}
+   19/0038  . . {for use with ambient light (G02B 19/009,
+   19/0042  . . . {for use with direct solar radiation}
+   19/0047  . . {for use with a light source (G02B 19/009,
+G02B 19/0095 take precedence; details
+of lighting devices in general F21V; non-
+semiconductor lasers having optical devices
+external to the laser cavity H01S 3/005)}
+   19/0052  . . . {the light source comprising a laser diode
+(coupling into light guides using intermediate
+optical elements G02B 6/4204; semiconductor
+lasers having optical devices external to the
+   19/0057  . . . . {in the form of a laser diode array, e.g.
+laser diode bar (semiconductor laser
+arrays with beam combining arrangement
+   19/0061  . . . {the light source comprising a LED
+(semiconductor devices with at least one
+potential-jump barrier or surface barrier
+specially adapted for light emission
+   19/0066  . . . . {in the form of an LED array}
+   19/0071  . . . {adapted to illuminate a complete hemisphere
+or a plane extending 360 degrees around the
+   19/0076  . . {for use with a detector (G02B 19/009,
+   19/008   . . . {adapted to collect light from a complete
+hemisphere or a plane extending 360 degrees
+   19/0085  . . {for use with both a detector and a source (, e.g.
+in a transceiver, G02B 19/009, G02B 19/0095
+   19/009   . . {for use with infra-red radiation}
+   19/0095  . . {for use with ultra-violet radiation}
+   21/0004  . {specially adapted for specific applications}
+   21/0008  . . {Microscopes having a simple construction, e.g.
+   21/0012  . . {Surgical microscopes (counterbalanced
+structures for surgical microscopes G02B 7/001)}
+   21/0016  . . {Technical microscopes, e.g. for inspection or
+measuring in industrial production processes}
+   21/002   . . {Scanning microscopes (scanning near field
+optical microscopes G01Q 60/18)}
+   21/0024  . . . {Confocal scanning microscopes (CSOMs) or
+confocal "macroscopes"; Accessories which are
+not restricted to use with CSOMs, e.g. sample
+Objective revolvers or the like are classified
+   21/0028  . . . . {specially adapted for specific applications,
+e.g. for endoscopes, ophthalmoscopes,
+attachments to conventional microscopes}
+   21/0032  . . . . {Optical details of illumination, e.g. light-
+sources, pinholes, beam splitters, slits, fibers
+(G02B 21/0036 - G02B 21/008; means
+for illumination of specimens in general
+   21/0036  . . . . {Scanning details, e.g. scanning stages}
+   21/004   . . . . . {fixed arrays, e.g. switchable aperture
+   21/0044  . . . . . {moving apertures, e.g. Nipkow disks,
+   21/0048  . . . . . {scanning mirrors, e.g. rotating or
+   21/0052  . . . . {Optical details of the image generation}
+   21/0056  . . . . . {based on optical coherence, e.g. phase-
+contrast arrangements, interference
+   21/006   . . . . . {focusing arrangements; selection of the
+   21/0064  . . . . . {multi-spectral or wavelength-selective
+arrangements, e.g. wavelength fan-out,
+chromatic profiling (G02B 21/0076 takes
+   21/0068  . . . . . {arrangements using polarisation}
+   21/0072  . . . . . {details concerning resolution or
+correction, including general design of
+   21/0076  . . . . . {arrangements using fluorescence or
+   21/008   . . . . {Details of detection or image processing,
+including general computer control}
+   21/0084  . . . . . {time-scale detection, e.g. strobed, ultra-
+   21/0088  . . {Inverse microscopes}
+   21/0092  . . {Polarisation microscopes}
+   21/0096  . {with photometer devices (photometers per se
+   21/025   . . {with variable magnification (variable
+   21/04    . . involving mirrors
+   21/06    . Means for illuminating specimens
+   21/082   . . . {for incident illumination only}
+   21/084   . . . . {having annular illumination around the
+   21/086   . . . {for transillumination only}
+   21/088   . . . {for both incident illumination and
+   21/10    . . . affording dark-field illumination (G02B 21/14
+{and G02B 21/125} take precedence)
+   21/12    . . . affording bright-field illumination (G02B 21/14
+   21/125   . . . . {affording both dark- and bright-field
+   21/14    . . . affording illumination for phase-contrast
+   21/16    . adapted for ultra-violet illumination {; Fluorescence
+microscopes (G02B 21/0076 takes precedence)}
+   21/18    . Arrangements with more than one light path, e.g. for
+   21/20    . . Binocular arrangements
+   21/22    . . . Stereoscopic arrangements
+   21/241   . . {Devices for focusing (focusing in general
+   21/242   . . . {with coarse and fine adjustment mechanism}
+   21/244   . . . {using image analysis techniques}
+   21/245   . . . {using auxiliary sources, detectors}
+   21/247   . . . . {Differential detectors}
+   21/248   . . {objective (or ocular) turrets}
+   21/26    . . Stages; Adjusting means therefor
+   21/28    . . with cooling device
+   21/30    . . with heating device
+   21/32    . Micromanipulators structurally combined with
+   21/33    . Immersion oils {, or microscope systems or
+objectives for use with immersion fluids}
+   21/34    . Microscope slides, e.g. mounting specimens on
+   21/36    . arranged for photographic purposes or projection
+purposes (G02B 21/18 takes precedence){or digital
+imaging or video purposes including associated
+control and data processing arrangements (image
+   21/361   . . {Optical details, e.g. image relay to the camera
+or image sensor (G02B 21/364 takes precedence;
+illumination details G02B 21/06 and subgroups)}
+   21/362   . . {Mechanical details, e.g. mountings for the
+camera or image sensor, housings (G02B 21/364
+   21/364   . . {Projection microscopes}
+   21/365   . . {Control or image processing arrangements for
+digital or video microscopes (G02B 21/361,
+   21/367   . . . {providing an output produced by processing
+a plurality of individual source images, e.g.
+image tiling, montage, composite images, depth
+   21/368   . . {details of associated display arrangements, e.g.
+   23/00    Telescopes, e.g. binoculars; Periscopes;
+Instruments for viewing the inside of hollow
+bodies; Viewfinders; Optical aiming or sighting
+   23/02    . involving prisms or mirrors (G02B 23/14 takes
+   23/04    . . for the purpose of beam splitting or combining,
+e.g. fitted with eyepieces for more than one
+observer (G02B 23/10 takes precedence)
+   23/06    . . having a focussing action, e.g. parabolic mirror
+   23/08    . . Periscopes {(arrangements on floating structures
+of underwater viewing devices B63C 11/49;
+arrangement of visual watch equipment on
+   23/10    . . reflecting into the field of view additional
+indications, e.g. from collimator
+   23/105   . . . {Sighting devices with light source and
+collimating reflector (reflecting sights for small
+arms having light source F41G 1/34)}
+   23/12    . with means for image conversion or intensification
+   23/14    . Viewfinders (for photographic apparatus
+   23/145   . . {Zoom viewfinders}
+   23/16    . Housings; Caps; Mountings; Supports, e.g. with
+   23/165   . . {Equatorial mounts}
+   23/18    . . for binocular arrangements {(focusing binocular
+pairs G02B 7/06; adjusting pupillary distance of
+   23/20    . . Collapsible housings (G02B 23/18 takes
+   23/22    . . Underwater equipment {(for submarine
+periscopes G02B 23/08; arrangements on
+floating structures of underwater viewing devices
+B63C 11/49; arrangement of visual watch
+equipment on submarines B63G 8/38)}
+This group covers housings, mountings,
+supports or the like for underwater equipment
+   23/24    . Instruments {or systems} for viewing the inside of
+hollow bodies, e.g. fibrescopes
+   23/2407  . . {Optical details}
+   23/2415  . . . {Stereoscopic endoscopes}
+   23/2423  . . . {of the distal end}
+   23/243   . . . . {Objectives for endoscopes}
+   23/2438  . . . . . {Zoom objectives}
+   23/2446  . . . {of the image relay (G02B 23/26 takes
+   23/2453  . . . {of the proximal end}
+   23/2461  . . . {Illumination}
+   23/2469  . . . . {using optical fibres}
+   23/2476  . . {Non-optical details, e.g. housings, mountings,
+   23/2484  . . . {Arrangements in relation to a camera or
+imaging device (processing or control of
+video signals generated by an endoscope
+   23/2492  . . . {Arrangements for use in a hostile
+environment, e.g. a very hot, cold or
+   23/26    . . using light guides {(for illumination
+   25/00    Eyepieces; Magnifying glasses
+   25/002   . {Magnifying glasses}
+   25/004   . . {having binocular arrangement}
+   25/005   . . {with means for adjusting the magnifying
+glass or the object viewed (G02B 25/004 takes
+   25/007   . . {comprising other optical elements than lenses
+(G02B 25/004, G02B 25/005 take precedence)}
+   25/008   . . {comprising two or more lenses
+(G02B 25/004 - G02B 25/007 take precedence)}
+   25/02    . with means for illuminating object viewed
+   25/04    . affording a wide-angle view, e.g. through a spy-hole
+   26/00    Optical devices or arrangements for the control of
+light using movable or deformable optical elements
+(control of light by modification of the optical
+properties of the media of the elements involved
+   26/001   . {based on interference in an adjustable optical
+cavity (interference filters G02B 5/28; devices
+or arrangements using multiple reflections in
+spectrometry or monochromators G01J 3/26)}
+   26/002   . {the movement or the deformation controlling the
+frequency of light, e.g. by Doppler effect}
+   26/004   . {based on a displacement or a deformation of a
+   26/005   . . {based on electrowetting}
+   26/007   . {the movable or deformable optical element
+controlling the colour, i.e. a spectral characteristic,
+   26/008   . . {in the form of devices for effecting sequential
+colour changes, e.g. colour wheels}
+   26/02    . for controlling the intensity of light {(G02B 26/004
+   26/023   . . {comprising movable attenuating elements, e.g.
+   26/026   . . {based on the rotation of particles under the
+influence of an external field, e.g. gyricons,
+twisting ball displays (based on orientable dipolar
+particles G02F 1/172; based on electrophoresis
+   26/04    . . by periodically varying the intensity of light,
+e.g. using choppers (shutters, diaphragms for
+cameras G03B 9/00; devices for eliminating
+or reducing the effect of flicker in projection
+   26/06    . for controlling the phase of light (G02B 26/08 takes
+precedence {, measuring optical phase difference
+   26/08    . for controlling the direction of light (in light guides
+   26/0808  . . {by means of one or more diffracting elements}
+   26/0816  . . {by means of one or more reflecting elements}
+   26/0825  . . . {the reflecting element being a flexible sheet or
+membrane, e.g. for varying the focus (flexible
+mirrors for cosmetic use A45D 42/24)}
+   26/0833  . . . {the reflecting element being a
+micromechanical device, e.g. a MEMS mirror,
+DMD (G02B 26/0825 takes precedence;
+micromechanical devices in general B81B)}
+   26/0841  . . . . {the reflecting element being moved or
+deformed by electrostatic means}
+   26/085   . . . . {the reflecting means being moved or
+deformed by electromagnetic means}
+   26/0858  . . . . {the reflecting means being moved or
+deformed by piezoelectric means}
+   26/0866  . . . . {the reflecting means being moved or
+   26/0875  . . {by means of one or more refracting elements}
+   26/0883  . . . {the refracting element being a prism}
+   26/0891  . . . . {forming an optical wedge}
+   26/10    . . Scanning systems
+   26/101   . . . {with both horizontal and vertical deflecting
+means, e.g. raster or XY scanners (colour
+television using laser beams scanning a display
+   26/103   . . . {having movable or deformable optical
+fibres, light guides or waveguides as scanning
+elements (light guides per se G02B 6/00)}
+   26/105   . . . {with one or more pivoting mirrors or galvano-
+mirrors (G02B 26/101 takes precedence)}
+   26/106   . . . {having diffraction gratings as scanning
+elements, e.g. holographic scanners
+(holographic optical elements G02B 5/32,
+   26/108   . . . {having one or more prisms as scanning
+   26/12    . . . using multifaceted mirrors
+   26/121   . . . . {Mechanical drive devices for polygonal
+   26/122   . . . . . {Control of the scanning speed of the
+   26/123   . . . . {Multibeam scanners, e.g. using multiple
+light sources or beam splitters}
+   26/124   . . . . {Details of the optical system between
+the light source and the polygonal mirror
+   26/125   . . . . {Details of the optical system between
+the polygonal mirror and the image
+plane (G02B 26/123, G02B 26/127 take
+precedence; F-Theta lenses G02B 13/0005)}
+   26/126   . . . . . {including curved mirrors}
+   26/127   . . . . {Adaptive control of the scanning light
+beam, e.g. using the feedback from one
+or more detectors (G02B 27/0031 takes
+   26/128   . . . . . {Focus control}
+   26/129   . . . . {Systems in which the scanning light beam
+is repeatedly reflected from the polygonal
+   27/00    Optical systems or apparatus not provided for
+by any of the groups G02B 1/00 - G02B 26/00,
+   27/0006  . {with means to keep optical surfaces clean, e.g. by
+preventing or removing dirt, stains, contamination,
+condensation (G02B 1/18 takes precedence;
+   27/0012  . {Optical design, e.g. procedures, algorithms,
+   27/0018  . {with means for preventing ghost images (anti-
+reflection coatings G02B 1/11)}
+   27/0025  . {for optical correction, e.g. distorsion, aberration}
+   27/0031  . . {for scanning purposes}
+   27/0037  . . {with diffracting elements (G02B 27/0056
+takes precedence; holographic optical elements
+G02B 5/32; zone systems G02B 5/1876)}
+   27/0043  . . . {in projection exposure systems, e.g.
+   27/005   . . {for correction of secondary colour or higher-
+   27/0056  . . . {by using a diffractive optical element}
+   27/0062  . . . {by controlling the dispersion of a lens
+material, e.g. adapting the relative partial
+   27/0068  . . {having means for controlling the degree of
+correction, e.g. using phase modulators, movable
+elements (controlling the phase of light using
+moving or deformable elements G02B 26/06)}
+   27/0075  . {with means for altering, e.g. increasing, the depth
+Not complete, see also G02B 27/00
+   27/0081  . {with means for altering, e.g. enlarging, the
+   27/0093  . {with means for monitoring data relating to the user,
+e.g. head-tracking, eye-tracking}
+Details of head-up displays covered by
+G02B 27/01 but not provided for in this group
+are also to be classified under G02B 27/01 and
+   27/0101  . . {characterised by optical features (G02B 27/0172
+   27/0103  . . . {comprising holographic elements}
+ 2027/0105  . . . . {Holograms with particular structures}
+ 2027/0107  . . . . . {with optical power}
+ 2027/0109  . . . . {comprising details concerning the making
+ 2027/011   . . . {comprising device for correcting geometrical
+ 2027/0112  . . . {comprising device for genereting colour
+ 2027/0114  . . . . {comprising dichroic elements}
+ 2027/0116  . . . . {comprising devices for correcting chromatic
+ 2027/0118  . . . {comprising devices for improving the contrast
+of the display / brillance control visibility}
+ 2027/012   . . . . {comprising devices for attenuating parasitic
+ 2027/0121  . . . . . {Parasitic image effect attenuation by
+suitable positioning of the parasitic
+ 2027/0123  . . . {comprising devices increasing the field of
+ 2027/0125  . . . . {Field-of-view increase by wavefront
+ 2027/0127  . . . {comprising devices increasing the depth of
+ 2027/0129  . . . {comprising devices for correcting parallax}
+ 2027/013   . . . {comprising a combiner of particular shape,
+ 2027/0132  . . . {comprising binocular systems}
+ 2027/0134  . . . . {of stereoscopic type}
+ 2027/0136  . . . . {with a single image source for both eyes}
+ 2027/0138  . . . {comprising image capture systems, e.g.
+ 2027/014   . . . {comprising information/image processing
+ 2027/0141  . . . {characterised by the informative content of the
+ 2027/0143  . . . {the two eyes not being equipped with identical
+nor symmetrical optical devices}
+ 2027/0145  . . . {creating an intermediate image}
+ 2027/0147  . . . {comprising a device modifying the resolution
+   27/0149  . . {characterised by mechanical features
+(G02B 27/0176 takes precedence)}
+ 2027/015   . . . {involving arrangement aiming to get less
+ 2027/0152  . . . {involving arrangement aiming to get lighter or
+ 2027/0154  . . . {with movable elements}
+ 2027/0156  . . . . {with optionally usable elements}
+ 2027/0158  . . . . {with adjustable nose pad}
+ 2027/0159  . . . . {with mechanical means other than scaning
+means for positioning the whole image}
+ 2027/0161  . . . {characterised by the relative positioning of the
+ 2027/0163  . . . . {Electric or electronic control thereof}
+ 2027/0165  . . . {associated with a head-down display}
+ 2027/0167  . . . {Emergency system, e.g. to prevent injuries}
+ 2027/0169  . . . {Supporting or connecting means other than the
+   27/0172  . . . {characterised by optical features}
+ 2027/0174  . . . . {holographic}
+   27/0176  . . . {characterised by mechanical features}
+ 2027/0178  . . . {Eyeglass type, eyeglass details G02C}
+   27/0179  . . {Display position adjusting means not related to
+the information to be displayed}
+ 2027/0181  . . . {Adaptation to the pilot/driver}
+ 2027/0183  . . . {Adaptation to parameters characterising the
+ 2027/0185  . . . {Displaying image at variable distance}
+ 2027/0187  . . . {slaved to motion of at least a part of the body
+   27/0189  . . {Sight systems}
+ 2027/019   . . . {comprising reticules formed by a mask}
+ 2027/0192  . . {Supplementary details}
+ 2027/0194  . . . {with combiner of laminated type, for optical
+ 2027/0196  . . . {having transparent supporting structure
+for display mounting, e.g. to a window or a
+ 2027/0198  . . . {System for aligning or maintaining alignment
+of an image in a predetermined direction}
+   27/02    . Viewing or reading apparatus (stereoscopic systems
+   27/021   . . {Reading apparatus}
+   27/022   . . {Viewing apparatus (G02B 27/04, G02B 27/06,
+   27/023   . . . {for viewing X-ray images using image
+converters, e.g. radioscopes (X-ray screens
+G21K 4/00; X-ray image conversion tubes
+H01J 31/50; circuit arrangements for X-ray
+apparatus incorporating image intensifiers
+   27/024   . . . {comprising a light source, e.g. for viewing
+photographic slides, X-ray transparancies
+(G02B 27/023, and photographic, cine
+and overhead projectors G03B 21/00 and
+   27/025   . . . . {and magnifying means}
+   27/026   . . . . {and a display device, e.g. CRT, LCD, for
+adding markings or signs or to enhance the
+   27/027   . . . {comprising magnifying means (G02B 27/023,
+G02B 27/025, G02B 27/04, G02B 27/06 and
+   27/028   . . {characterised by the supporting structure}
+   27/04    . . having collapsible parts
+   27/06    . . with moving picture effect
+   27/09    . Beam shaping, e.g. changing the cross-sectional
+area, not otherwise provided for {(adapting the
+beam shape of a laser diode G02B 19/0052;
+adapting the beam shape of an LED G02B 19/0061;
+coupling into light guides using intermediate optical
+elements G02B 6/4204; beam shaping specially
+adapted for lasers H01S 3/005)}
+   27/0905  . . {Dividing and/or superposing multiple light
+   27/0911  . . {Anamorphotic systems}
+   27/0916  . . {Adapting the beam shape of a semiconductor
+light source such as a laser diode or an LED,
+e.g. for efficiently coupling into optical fibers
+(coupling into light guides using intermediate
+optical elements G02B 6/4204; details of lighting
+devices in general F21V; semiconductor devices
+with at least one potential-jump barrier or surface
+barrier specially adapted for light emission
+   27/0922  . . . {the semiconductor light source comprising an
+   27/0927  . . {Systems for changing the beam intensity
+distribution, e.g. Gaussian to top-hat}
+   27/0933  . . {Systems for active beam shaping by rapid
+   27/0938  . . {Using specific optical elements}
+   27/0944  . . . {Diffractive optical elements, e.g. gratings,
+holograms (gratings per se G02B 5/18;
+holograms used as optical elements per se
+   27/095   . . . {Refractive optical elements}
+   27/0955  . . . . {Lenses (lenses per se G02B 3/00)}
+   27/0961  . . . . . {Lens arrays (lens arrays per se
+   27/0966  . . . . . {Cylindrical lenses (cylindrical lenses per
+   27/0972  . . . . {Prisms (prisms per se G02B 5/04)}
+   27/0977  . . . {Reflective elements}
+   27/0983  . . . . {being curved}
+   27/0988  . . . {Diaphragms, spatial filters, masks for
+removing or filtering a part of the beam}
+   27/0994  . . . {Fibers, light pipes (optical fibers per se
+   27/10    . Beam splitting or combining systems (polarising
+systems G02B 27/28; mixing and splitting light
+signals using optical waveguides G02B 6/28; {beam
+shaping, e.g. changing the cross-sectional area,
+by dividing or superposing multiple light beams
+   27/1006  . . {for splitting or combining different wavelengths
+(G02B 27/1086, G02B 27/141 take precedence)}
+   27/1013  . . . {for colour or multispectral image sensors, e.g.
+splitting an image into monochromatic image
+components on respective sensors (spectral
+   27/102   . . . {for generating a colour image from
+monochromatic image signal sources}
+   27/1026  . . . . {for use with reflective spatial light
+   27/1033  . . . . . {having a single light modulator for all
+   27/104   . . . . {for use with scanning systems (scanning
+   27/1046  . . . . {for use with transmissive spatial light
+   27/1053  . . . . . {having a single light modulator for all
+   27/106   . . {for splitting or combining a plurality of identical
+beams or images, e.g. image replication}
+   27/1066  . . {for enhancing image performance, like
+resolution, pixel numbers, dual magnifications or
+dynamic range, by tiling, slicing or overlapping
+   27/1073  . . {characterized by manufacturing or alignment
+   27/108   . . {for sampling a portion of a beam or combining
+a small beam in a larger one, e.g. wherein the
+area ratio or power ratio of the divided beams
+significantly differs from unity, without spectral
+   27/1086  . . {operating by diffraction only}
+   27/1093  . . . {for use with monochromatic radiation only,
+e.g. devices for splitting a single laser source}
+   27/12    . . operating by refraction only
+   27/123   . . . {The splitting element being a lens or a system
+of lenses, including arrays and surfaces with
+   27/126   . . . {The splitting element being a prism or
+prismatic array, including systems based on
+   27/14    . . operating by reflection only
+   27/141   . . . {using dichroic mirrors}
+   27/142   . . . {Coating structures, e.g. thin films multilayers}
+   27/143   . . . {using macroscopically faceted or segmented
+   27/144   . . . {using partially transparent surfaces without
+spectral selectivity (G02B 27/147 takes
+   27/145   . . . {having sequential partially reflecting surfaces}
+   27/146   . . . . {with a tree or branched structure}
+   27/147   . . . {using averaging effects by spatially variable
+reflectivity on a microscopic level, e.g. polka
+dots, chequered or discontinuous patterns, or
+rapidly moving surfaces (G02B 27/1086 takes
+   27/148   . . . {including stacked surfaces having at least one
+double-pass partially reflecting surface}
+   27/149   . . . {using crossed beamsplitting surfaces, e.g.
+cross-dichroic cubes or X-cubes}
+   27/16    . . used as aids for focusing
+   27/18    . for optical projection, e.g. combination of mirror
+and condenser and objective {(photographic,
+cine and overhead projectors G03B 21/00;
+photographic projection printing G03B 27/32;
+photolithographic projectors G03F 7/20; projection
+television H04N 5/74; colour projection television
+   27/20    . . for imaging minute objects, e.g. light-pointer
+   27/28    . for polarising (used in stereoscopes G02B 30/25)
+   27/281   . . {used for attenuating light intensity, e.g.
+comprising rotatable polarising elements}
+   27/283   . . {used for beam splitting or combining}
+   27/285   . . . {comprising arrays of elements, e.g.
+   27/286   . . {for controlling or changing the state of
+polarisation, e.g. transforming one polarisation
+state into another (G02B 5/3083 takes
+precedence; light guide coupling means utilising
+polarising elements G02B 6/34)}
+   27/288   . . {Filters employing polarising elements, e.g. Lyot
+or Solc filters (G02B 5/3016 takes precedence)}
+   27/32    . Fiducial marks and measuring scales within the
+   27/40    . Optical focusing aids
+   27/42    . Diffraction optics {, i.e. systems including a
+diffractive element being designed for providing a
+diffractive effect}(G02B 27/60 takes precedence)
+   27/4205  . . {having a diffractive optical element [DOE]
+contributing to image formation, e.g. whereby
+modulation transfer function MTF or optical
+   27/4211  . . . {correcting chromatic aberrations
+(G02B 27/0056, G02B 27/4222, G02B 27/4227
+   27/4216  . . . {correcting geometrical aberrations}
+   27/4222  . . . {in projection exposure systems, e.g.
+   27/4227  . . . {in image scanning systems}
+   27/4233  . . {having a diffractive element [DOE] contributing
+to a non-imaging application (diffusers having
+a diffractive element G02B 5/0252; filters
+having a diffractive element G02B 5/203;
+systems for controlling the direction of light
+having diffractive elements G02B 26/0808;
+scanning systems having diffractive elements
+G02B 26/106; beam shaping systems using
+diffractive optical elements G02B 27/0944; beam
+splitting or combining systems operating by
+   27/4238  . . . {in optical recording or readout devices (optical
+pick-up devices such as for CD, DVD or BD
+reader or recorder using diffraction optics
+   27/4244  . . . {in wavelength selecting devices (spectrometry
+   27/425   . . . {in illumination systems (mask illumination
+systems in photolithographic systems
+   27/4255  . . . {for alignment or positioning purposes (optical
+displacement encoding scales G01D 5/347)}
+   27/4261  . . {having a diffractive element with major
+polarization dependent properties}
+   27/4266  . . {Diffraction theory; Mathematical models}
+   27/4272  . . {having plural diffractive elements positioned
+sequentially along the optical path}
+   27/4277  . . . {being separated by an air space}
+   27/4283  . . {having a diffractive element with major
+temperature dependent properties}
+   27/4288  . . {having uniform diffraction efficiency over a
+   27/4294  . . {in multispectral systems, e.g. UV and visible}
+   27/44    . . Grating systems; Zone plate systems
+   27/46    . . Systems using spatial filters
+In this group, the filter may be in any plane,
+e.g. the image or the Fourier transfer plane.
+   27/48    . Laser speckle optics
+   27/50    . Optics for phase object visualisation
+   27/52    . . Phase contrast optics (in microscopes
+   27/54    . . Schlieren-optical systems
+   27/56    . Optics using evanescent waves, i.e. inhomogeneous
+   27/58    . Optics for apodization or superresolution; Optical
+   27/60    . Systems using moiré fringes
+   27/62    . Optical apparatus specially adapted for adjusting
+optical elements during the assembly of optical
+   27/64    . Imaging systems using optical elements for
+stabilisation of the lateral and angular position of
+   27/642   . . {Optical derotators, i.e. systems for compensating
+for image rotation, e.g. using rotating prisms,
+   27/644   . . {compensating for large deviations, e.g.
+maintaining a fixed line of sight while a vehicle
+on which the system is mounted changes course}
+   27/646   . . {compensating for small deviations, e.g. due to
+vibration or shake (movement of one or more
+optical elements for control of motion blur in
+cameras, projectors or printers G03B 2205/0007;
+image stabilisation in cameras peculiar to the
+presence or use of an electronic image sensor
+   27/648   . . . {for automatically maintaining a reference
+alignment, e.g. in self-levelling surveying
+instruments (surveying instruments per se
+   30/00    Optical systems or apparatus for producing three-
+dimensional [3D] effects, e.g. stereoscopic images
+   30/10    . using integral imaging methods
+   30/20    . by providing first and second parallax images to an
+   30/22    . . of the stereoscopic type
+   30/23    . . . using wavelength separation, e.g. using
+   30/24    . . . involving temporal multiplexing, e.g. using
+sequentially activated left and right shutters
+   30/25    . . . using polarisation techniques
+   30/26    . . of the autostereoscopic type
+   30/27    . . . involving lenticular arrays
+   30/28    . . . . involving active lenticular arrays
+   30/29    . . . . characterised by the geometry of the
+lenticular array, e.g. slanted arrays, irregular
+arrays or arrays of varying shape or size
+   30/30    . . . involving parallax barriers
+   30/31    . . . . involving active parallax barriers (involving
+directional light or back-light sources
+   30/32    . . . . characterised by the geometry of the parallax
+barriers, e.g. staggered barriers, slanted
+parallax arrays or parallax arrays of varying
+   30/33    . . . involving directional light or back-light sources
+   30/34    . . Stereoscopes providing a stereoscopic pair of
+separated images corresponding to parallactically
+displaced views of the same object, e.g. 3D slide
+   30/35    . . . using reflective optical elements in the optical
+path between the images and the observer
+   30/36    . . . using refractive optical elements, e.g. prisms,
+in the optical path between the images and the
+   30/37    . . . Collapsible stereoscopes
+   30/40    . giving the observer of a single two-dimensional
+[2D] image a perception of depth
+   30/50    . the image being built up from image elements
+distributed over a 3D volume, e.g. voxels
+   30/52    . . the 3D volume being constructed from a stack
+or sequence of 2D planes, e.g. depth sampling
+   30/54    . . the 3D volume being generated by moving a
+2D surface, e.g. by vibrating or rotating the 2D
+   30/56    . . by projecting aerial or floating images
+   30/60    . involving reflecting prisms and mirrors only
+ 2207/00    Coding scheme for general features or
+characteristics of optical elements and systems of
+subclass G02B, but not including elements and
+systems which would be classified in G02B 6/00
+ 2207/107   . Porous materials, e.g. for reducing the refractive
+ 2207/109   . Sols, gels, sol-gel materials
+ 2207/114   . Two photon or multiphoton effect
+ 2207/117   . Adjustment of the optical path length
+ 2207/121   . Antistatic or EM shielding layer
+ 2207/123   . Optical louvre elements, e.g. for directional light
+ 2207/129   . Coded aperture imaging

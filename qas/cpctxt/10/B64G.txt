@@ -1,0 +1,131 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+AIRCRAFT; AVIATION; COSMONAUTICS
+COSMONAUTICS; VEHICLES OR EQUIPMENT THEREFOR (apparatus for, or methods
+of, winning materials from extraterrestrial sources E21C 51/00)
+1. This subclass  covers only vehicles, equipment or the like, which are specially adapted for cosmonautics.
+2. This subclass  does not cover vehicles and equipment applicable to both cosmonautics and aeronautics, which are covered by
+the appropriate aeronautical subclasses of class  B64.
+3. In this subclass, the following term is used with the meaning indicated:
+• "cosmonautics" includes all transport outside the earth's atmosphere, and thus includes artificial earth satellites, and
+interplanetary and interstellar travel.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Cosmonautic vehicles
+    1/007   . . {Orbit transfer}
+    1/10    . Artificial satellites; Systems of such satellites;
+Interplanetary vehicles (space shuttles B64G 1/14;
+radio transmission systems using satellites
+    1/1007  . . {Communications satellites (communications
+    1/1014  . . {Navigation satellites (navigation systems
+    1/1021  . . {Earth observation satellites}
+ 2001/1028  . . . {using optical means for mapping, surveying or
+detection, e.g. of intelligence}
+ 2001/1035  . . . {using radar for mapping, surveying or
+detection, e.g. of intelligence}
+ 2001/1042  . . . {specifically adapted for meteorology}
+    1/105   . . {Space science}
+ 2001/1057  . . . {specifically adapted for astronomy}
+ 2001/1064  . . . {specifically adapted for interplanetary, solar or
+ 2001/1071  . . . . {Planetary landers intended for the
+exploration of the surface of planets, moons
+    1/1078  . . {Maintenance satellites}
+    1/1085  . . {Swarms and constellations}
+ 2001/1092  . . {Special features of modular spacecraft systems}
+    1/16    . Extraterrestrial cars (land vehicle aspects
+    1/22    . Parts of, or equipment specially adapted for fitting
+    1/222   . . {Appendage deployment mechanisms}
+ 2001/224   . . {Inflatable space structures}
+    1/226   . . {Special coatings for spacecraft}
+ 2001/228   . . {Damping of high-frequency vibration effects
+on spacecraft elements, e.g. by using acoustic
+    1/24    . . Guiding or controlling apparatus, e.g. for attitude
+control (jet-propulsion plants F02K; navigation
+or navigational instruments, see the relevant
+subclass, e.g. G01C; automatic pilots G05D 1/00)
+    1/242   . . . {Orbits and trajectories}
+    1/244   . . . {Attitude control}
+ 2001/245   . . . {Attitude control algorithms for spacecraft
+ 2001/247   . . . {Advanced control concepts for autonomous,
+robotic spacecraft, e.g. by using artificial
+intelligence, neural networks or autonomous
+    1/28    . . . using inertia or gyro effect
+    1/281   . . . . {Spin-stabilised spacecraft}
+    1/283   . . . . {using reaction wheels}
+    1/285   . . . . {using momentum wheels}
+    1/286   . . . . {using control momentum gyroscopes
+    1/288   . . . . {using gyroscopes as attitude sensors}
+    1/32    . . . using earth's magnetic field
+    1/34    . . . using gravity gradient
+    1/36    . . . using sensors, e.g. sun-sensors, horizon sensors
+    1/361   . . . . {using star sensors}
+    1/363   . . . . {using sun sensors}
+    1/365   . . . . {using horizon or Earth sensors}
+    1/366   . . . . {using magnetometers}
+    1/368   . . . . {using gravimeters}
+    1/38    . . . damping of oscillations, e.g. nutation dampers
+    1/40    . . Arrangements or adaptations of propulsion
+systems  (propulsion plants per se, see the
+relevant subclasses, e.g. F02K, F03H)
+    1/401   . . . {Liquid propellant rocket engines (per se
+    1/402   . . . {Propellant tanks; Feeding propellants (in
+    1/403   . . . {Solid propellant rocket engines (per se
+    1/404   . . . . {Hybrid rocket engines (per se F02K 9/72)}
+    1/405   . . . {Ion or plasma engines (per se F03H 1/00)}
+    1/406   . . . {Arcjets and other resistojets}
+    1/407   . . . {Solar sailing (includes also attitude control
+    1/408   . . . {Nuclear spacecraft propulsion}
+    1/409   . . . {Unconventional spacecraft propulsion
+    1/42    . . Arrangements or adaptations of power supply
+systems (power supply systems per se, see the
+    1/421   . . . {Non-solar power generation}
+    1/422   . . . . {Nuclear power generation}
+    1/423   . . . . {Fuel cells}
+    1/425   . . . {Power storage}
+    1/426   . . . . {Flywheels}
+    1/427   . . . . {Thermal power storage}
+    1/428   . . . {Power distribution and management}
+    1/44    . . . using radiation, e.g. deployable solar arrays
+(solar cells per se H01L 31/00)
+    1/443   . . . . {Photovoltaic cell arrays}
+    1/446   . . . . {Thermal solar power generation}
+    1/46    . . Arrangements or adaptations of devices for
+control of environment or living conditions (space
+    1/48    . . . for treatment of the atmosphere (B64G 1/50
+takes precedence; air conditioning in general
+    1/50    . . . for temperature control (temperature control in
+    1/503   . . . . {Radiator panels}
+    1/506   . . . . {Heat pipes}
+    1/52    . . Protection, safety or emergency devices; Survival
+aids (life-saving in general A62)
+ 2001/525   . . . {Survival aids}
+    1/54    . . . Protection against radiation (against radiation
+    1/543   . . . . {protecting the crew in manned spacecraft}
+    1/546   . . . . {shielding electronic equipment}
+    1/56    . . . Protection against meteoroids or space
+debris (meteoroid or space debris detectors
+    1/58    . . . Thermal protection, e.g. heat shields (thermal
+insulation in general F16L 59/00; chemical
+aspects, see the relevant classes)
+    1/60    . . Crew or passenger accommodations
+    1/62    . . Systems for re-entry into the earth's atmosphere;
+    1/64    . . Systems for coupling or separating cosmonautic
+vehicles or parts thereof, e.g. docking
+    1/641   . . . {Interstage or payload connectors}
+ 2001/643   . . . . {Dispensers for arranging multiple satellites
+    1/646   . . . {Docking or rendez-vous systems}
+    1/66    . . Arrangements or adaptations of apparatus
+or instruments, not otherwise provided for
+(instruments per se, see the relevant classes, e.g.
+antennas for use in satellites H01Q 1/28)
+    1/68    . . . of meteoroid or space debris detectors
+    3/00    Observing or tracking cosmonautic vehicles (radio
+or other waves systems for navigating or tracking
+    4/00    Tools specially adapted for use in space
+ 2004/005   . {Robotic manipulator systems for use in space}
+    5/00    Ground equipment for vehicles, e.g. starting
+towers, fuelling arrangements (B64G 3/00 takes
+ 2005/005   . {Systems for launching spacecraft from a platform
+    7/00    Simulating cosmonautic conditions, e.g. for
+conditioning crews (simulators for teaching or
+ 2007/005   . {Space simulation vacuum chambers}
+   99/00    Subject matter not provided for in other groups of

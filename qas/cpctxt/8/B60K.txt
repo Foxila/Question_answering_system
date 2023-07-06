@@ -1,0 +1,924 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+ARRANGEMENT OR MOUNTING OF PROPULSION UNITS OR OF
+TRANSMISSIONS IN VEHICLES; ARRANGEMENT OR MOUNTING OF PLURAL
+DIVERSE PRIME-MOVERS IN VEHICLES; AUXILIARY DRIVES FOR VEHICLES;
+INSTRUMENTATION OR DASHBOARDS FOR VEHICLES; ARRANGEMENTS IN
+CONNECTION WITH COOLING, AIR INTAKE, GAS EXHAUST OR FUEL SUPPLY
+OF PROPULSION UNITS IN VEHICLES
+1. In this subclass, the following terms or expressions are used with the meanings indicated:
+• "conjoint control of drive units" includes such control for vehicles or of general applicability;
+• "auxiliary drives" means drives of auxiliary or external machines or devices from the propulsion unit, transmission, or
+other parts of the vehicle, and includes the control of such drives;
+• "transmission" means all propulsion parts linking propulsion units, e.g. engines, to ultimate propulsive elements, e.g.
+• "drive unit" means propulsion unit conjoint with transmission, a "drive unit" can additionally include the ultimate driven
+• "sub-unit" means, e.g. propulsion unit, clutch, gearing or brake system;
+• "hybrid vehicle" means vehicles with plural diverse prime-movers for mutual or common propulsion
+2. Attention is drawn to the Note following the title of class B60
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+Arrangement or mounting of propulsion units in vehicles (of
+control devices for such units B60K 26/00; elastic mountings per se
+F16F; propulsion units or their control per se, see the relevant classes)
+    1/00    Arrangement or mounting of electrical propulsion
+units (B60K 7/00 takes precedence; arrangement
+or mounting of plural diverse prime-movers for
+mutual or common propulsion B60K 6/00; electric
+transmission arrangements B60K 17/12; electric
+equipment or propulsion of electrically-propelled
+vehicles per se B60L; current-collectors for power
+supply lines of electrically-propelled vehicles
+ 2001/001   . {one motor mounted on a propulsion axle for
+rotating right and left wheels of this axle}
+ 2001/003   . {with means for cooling the electrical propulsion
+ 2001/005   . . {the electric storage means}
+ 2001/006   . . {the electric motors}
+ 2001/008   . {with means for heating the electrical propulsion
+    1/02    . comprising more than one electric motor
+    1/04    . of the electric storage means for propulsion
+(exchanging batteries for electric propulsion of
+vehicles B60L 53/80; for auxiliary purposes only
+B60R 16/04; supplying batteries to, or removing
+batteries from, vehicles B60S 5/06)
+ 2001/0405  . . {characterised by their position}
+ 2001/0411  . . . {Arrangement in the front part of the vehicle}
+ 2001/0416  . . . {Arrangement in the rear part of the vehicle}
+ 2001/0422  . . . {Arrangement under the front seats}
+ 2001/0427  . . . {Arrangement between the seats}
+ 2001/0433  . . . {Arrangement under the rear seats}
+ 2001/0438  . . . {Arrangement under the floor}
+ 2001/0444  . . . {Arrangement on a trailer}
+ 2001/045   . . . {Arrangement in a wheel, e.g. a spare wheel}
+ 2001/0455  . . {Removal or replacement of the energy storages}
+ 2001/0461  . . . {from the side}
+ 2001/0477  . . . {from the back}
+ 2001/0483  . . . {from the front}
+ 2001/0488  . . . {with arrangements for pivoting}
+ 2001/0494  . . . {with arrangements for sliding}
+1Arrangement or mounting of propulsion units in vehicles
+    3/00    Arrangement or mounting of steam or gaseous-
+pressure propulsion units (B60K 7/00 takes
+precedence; arrangement or mounting of plural
+diverse prime-movers for mutual or common
+propulsion B60K 6/00; gaseous-pressure transmission
+    5/00    Arrangement or mounting of internal-combustion
+or jet-propulsion units (B60K 7/00 takes
+precedence; arrangement or mounting of plural
+diverse prime-movers for mutual or common
+ 2005/003   . {the internal combustion or jet propulsion unit is
+arranged between the front and the rear axle}
+ 2005/006   . {the internal combustion or jet propulsion unit is
+    5/02    . with the engine main axis, e.g. crankshaft axis,
+substantially in or parallel to the longitudinal centre
+    5/04    . with the engine main axis, e.g. crankshaft axis,
+transversely to the longitudinal centre line of the
+    5/06    . . with the engine main axis substantially vertical
+    5/08    . comprising more than one engine
+    5/10    . providing for ready detachment of engine
+    5/12    . Arrangement of engine supports {(supports
+comprising both a plastic spring and a fluid damper
+    5/1208  . . {Resilient supports (B60K 5/1241 - B60K 5/1291
+    5/1216  . . . {characterised by the location of the supports
+relative to the motor or to each other
+(B60K 5/1225 takes precedence)}
+    5/1225  . . . {comprising resilient rings surrounding a part
+    5/1233  . . . {comprising protective elements, e.g. for
+    5/1241  . . {Link-type support (B60K 5/125, B60K 5/1275
+    5/125   . . {Telescopic supports, e.g. telescopic dampers
+(B60K 5/1275 takes precedence)}
+    5/1258  . . {Wire-type supports (B60K 5/1275 takes
+    5/1266  . . {Supports comprising friction damping devices
+(B60K 5/125, B60K 5/1283 take precedence)}
+    5/1275  . . {Plastically deformable supports}
+    5/1283  . . {Adjustable supports, e.g. the mounting or the
+characteristics being adjustable}
+    5/1291  . . {Supports comprising stoppers}
+    6/00    Arrangement or mounting of plural diverse prime-
+movers for mutual or common propulsion, e.g.
+hybrid propulsion systems comprising electric
+motors and internal combustion engines {; Control
+systems therefor, i.e. systems controlling two
+or more prime movers, or controlling one of
+these prime movers and any of the transmission,
+drive or drive units (arrangement or mounting in
+vehicles of electrical gearing, in which an electrical
+machine serves only as reduction gearing and not
+as the prime mover and in which no electrical
+storing means are used B60K 17/12; control and
+regulation of purely electrical prime movers B60L;
+prime-movers comprising electrical and internal
+combustion motors in a common engine block or
+housing per se F02B 65/00; electric motors or motor-
+generators used for starting the combustion engine
+F02N 11/04; electric motors for synchronising
+gearing F16H 3/12 )}{Informative references:
+mechanical gearings with secondary electric drive
+F16H 3/72; arrangements for handling mechanical
+energy structurally associated with the dynamo-
+electric machine H02K 7/00; machines comprising
+structurally interrelated motor and generator
+parts H02K 51/00; dynamo-electric machines not
+otherwise provided for in H02K see H02K 99/00}
+In this subgroup, the following expressions are
+used, with the meanings indicated :
+• "energy storing means" means apparatus for
+storing propulsive  energy and providing stored
+energy to drive the prime mover or the ultimate
+• "hybrid electric vehicle" (HEV) means a
+vehicle with an electrical prime mover and
+a combustion engine, in which the electrical
+prime mover and the combustion engine either
+singly or in combination, drive the ultimate
+propulsive elements, e.g. wheels
+• "motor-generator" means an electric motor, or
+an electric generator, or an electrical machine
+which can be used for both functions, as a
+• "prime mover" means a propulsion unit or
+source of motive power providing a mechanical
+output, e.g. via a rotating shaft
+    6/08    . Prime-movers comprising combustion engines and
+mechanical or fluid energy storing means
+    6/10    . . by means of a chargeable mechanical
+    6/105   . . . {the accumulator being a flywheel}
+    6/12    . . by means of a chargeable fluidic accumulator
+ 2006/123   . . . {for driving pneumatic motors}
+ 2006/126   . . . {the hydraulic accumulator starts the engine}
+    6/20    . the prime-movers consisting of electric motors and
+internal combustion engines, e.g. HEVs
+When classifying in one of groups B60K 6/22,
+B60K 6/42 or B60K 6/50, further technical
+information, which is considered to represent
+information of interest for search, should also
+be classified in the other subgroups of main
+2Arrangement or mounting of propulsion units in vehicles
+group B60K 6/00 to enable searching using a
+combination of classification symbols
+    6/22    . . characterised by apparatus, components or means
+    6/24    . . . characterised by the combustion engines
+    6/26    . . . characterised by the motors or the generators
+ 2006/262   . . . . {the motor or generator are used as clutch,
+e.g. between engine and driveshaft}
+ 2006/264   . . . . {with outer rotor and inner stator}
+ 2006/266   . . . . {with two coaxial motors or generators}
+ 2006/268   . . . . {Electric drive motor starts the engine, i.e.
+    6/28    . . . characterised by the electric energy storing
+means, e.g. batteries or capacitors
+    6/30    . . . characterised by chargeable mechanical
+    6/32    . . . characterised by the fuel cells
+    6/34    . . . characterised by the absence of energy storing
+    6/36    . . . characterised by the transmission gearings
+    6/365   . . . . with the gears having orbital motion
+    6/38    . . . characterised by the driveline clutches (shift
+clutches within the gearing or transmission
+ 2006/381   . . . . {characterized by driveline brakes (shift
+brakes in transmission B60K 6/54)}
+    6/383   . . . . One-way clutches or freewheel devices
+    6/387   . . . . Actuated clutches, i.e. clutches engaged
+or disengaged by electric, hydraulic or
+    6/40    . . . characterised by the assembly or relative
+    6/42    . . characterised by the architecture of the hybrid
+    6/44    . . . Series-parallel type
+    6/442   . . . . Series-parallel switching type
+    6/445   . . . . Differential gearing distribution type
+    6/448   . . . . Electrical distribution type
+    6/48    . . . Parallel type
+ 2006/4808  . . . . {Electric machine connected or connectable
+ 2006/4816  . . . . {Electric machine connected or connectable
+ 2006/4825  . . . . {Electric machine connected or connectable
+ 2006/4833  . . . . {Step up or reduction gearing driving
+generator, e.g. to operate generator in most
+ 2006/4841  . . . . . {the gear provides shifting between
+    6/485   . . . . Motor-assist type
+    6/50    . . Architecture of the driveline characterised by
+arrangement or kind of transmission units
+    6/52    . . . Driving a plurality of drive axles, e.g. four-
+    6/54    . . . Transmission for changing ratio
+ 2006/541   . . . . {without reverse ratio using instead electric
+ 2006/542   . . . . {with overdrive ratio}
+    6/543   . . . . the transmission being a continuously
+    6/547   . . . . the transmission being a stepped gearing
+    7/00    Disposition of motor in, or adjacent to, traction
+wheel (roller-skate driving mechanisms A63C 17/12)
+    7/0007  . {the motor being electric}
+    7/0015  . {the motor being hydraulic}
+    7/0023  . {the motor being pneumatic}
+ 2007/003   . {with two or more motors driving a single wheel}
+ 2007/0038  . {the motor moving together with the wheel axle}
+ 2007/0046  . {the motor moving together with the vehicle body,
+i.e. moving independently from the wheel axle}
+ 2007/0053  . {the motor moving relative to the vehicle body and
+ 2007/0061  . {the motor axle being parallel to the wheel axle}
+ 2007/0069  . {the motor axle being perpendicular to the wheel
+ 2007/0076  . . {the motor axle being horizontal}
+ 2007/0084  . . {the motor axle being vertical}
+ 2007/0092  . {the motor axle being coaxial to the wheel axle}
+    8/00    Arrangement or mounting of propulsion units not
+provided for in one of the preceding main groups
+Arrangements in connection with cooling, air intake, gas exhaust,
+fuel supply, or power supply of propulsion units in vehicles
+   11/00    Arrangement in connection with cooling of
+propulsion units (heating the interior space B60H;
+cooling internal combustion engines per se F01P)
+   11/02    . with liquid cooling
+   11/04    . . Arrangement or mounting of radiators, radiator
+shutters, or radiator blinds {(B60K 11/085 takes
+   11/08    . Air inlets for cooling; Shutters or blinds therefor
+{(radiator or grille guards B60R 19/52)}
+   11/085   . . {with adjustable shutters or blinds}
+   13/00    Arrangement in connection with combustion
+air intake or gas exhaust of propulsion units
+(extensions for melting snow or ice on roads or like
+surfaces E01H 5/00, E01H 6/00; forming part of the
+engine F01N; supplying combustion engines with
+combustible mixtures or constituents F02M)
+   13/02    . concerning intake
+   13/04    . concerning exhaust ({collecting exhaust gases
+with central suction systems not forming part of
+vehicles, e.g. in workshops or tunnels B08B 15/002,
+otherwise along carriageways E01C 1/005;}
+extensions for melting snow on roads E01H 5/00,
+E01H 6/00; exhaust or silencing apparatus for
+internal combustion engines per se F01N; {pipes,
+joints or supports therefor F16L})
+   13/06    . using structural parts of the vehicle as ducts, e.g.
+   15/00    Arrangement in connection with fuel supply of
+combustion engines {or other fuel consuming
+energy converters, e.g. fuel cells}; Mounting
+or construction of fuel tanks (tanks in general
+B65D, F17C; supplying combustion engines with
+combustible mixtures or constituents F02M)
+   15/01    . Arrangement of fuel conduits (chassis frame
+forming fluid conduit means B62D 21/17)
+   15/013   . . {of gas conduits}
+3Arrangements in connection with cooling, air intake, gas exhaust, fuel supply, or power supply of
+ 2015/016   . . {Fuel conduits having more than one internal
+passage, e.g. for different types of fuel}
+   15/03    . Fuel tanks (chassis frame comprising fluid
+storage compartment B62D 21/16 {; Details of
+the fuel feeding system related to the fuel tank
+   15/03006 . . {Gas tanks (B60K 15/07 takes precedence)}
+ 2015/03013 . . . {Control systems for LPG tanks}
+ 2015/03019 . . . {Filling of gas tanks}
+ 2015/03026 . . . {comprising a valve}
+ 2015/03032 . . {Manufacturing of fuel tanks}
+ 2015/03039 . . . {made of a combination of non metallic and
+ 2015/03046 . . . {made from more than one layer}
+ 2015/03052 . . . {Fuel tanks made of two balloons, one inside
+ 2015/03059 . . . {Fuel tanks with double shells or more}
+ 2015/03065 . . . . {with material filled between the walls}
+ 2015/03072 . . {Arrangements for reducing evaporation}
+ 2015/03078 . . . {Membranes, layers or the like covering the
+ 2015/03085 . . . . {using inflatable bags or bladders in the
+ 2015/03092 . . {with latent heat storages to reduce the
+ 2015/03098 . . {with a device for mixing liquids in the fuel tank,
+ 2015/03105 . . {with supplementary interior tanks inside the fuel
+ 2015/03118 . . {Multiple tanks, i.e. two or more separate
+tanks (supplementary tanks inside the fuel tank
+ 2015/03125 . . . {Suction lines for dual tanks}
+ 2015/03131 . . . {Systems for filling dual tanks}
+ 2015/03138 . . . {Pumping means between the compartments}
+ 2015/03144 . . . {Fluid connections between the tanks}
+ 2015/03151 . . . {Mechanical connection between the tanks}
+ 2015/03157 . . . {for supply different types of fuel to the motor}
+ 2015/03164 . . {Modular concepts for fuel tanks}
+ 2015/03171 . . {Expansion tanks}
+   15/03177 . . {made of non-metallic material, e.g. plastics, or
+of a combination of non-metallic and metallic
+material (B60K 15/03006 takes precedence)}
+ 2015/03184 . . {Exchangeable tanks, i.e. the empty tank is
+ 2015/0319  . . {with electronic systems, e.g. for controlling
+fuelling or venting (for LPG tanks
+ 2015/03197 . . . {Systems for exchanging data}
+ 2015/03203 . . . . {during refueling}
+ 2015/0321  . . {characterised by special sensors, the mounting
+ 2015/03217 . . . {Fuel level sensors}
+ 2015/03223 . . . . {comprising at least two level fuel sensors}
+ 2015/0323  . . . {Sensors for detecting presence or absence of
+ 2015/03236 . . {characterised by special filters, the mounting
+ 2015/03243 . . {characterised by special pumps, the mounting
+ 2015/03256 . . {characterised by special valves, the mounting
+ 2015/03263 . . . {Ball valves}
+ 2015/03269 . . . {Flap valves}
+ 2015/03276 . . . {Valves with membranes}
+ 2015/03282 . . . {Umbrella type valves}
+ 2015/03289 . . . {Float valves; Floats therefor}
+ 2015/03296 . . . {Pressure regulating valves}
+ 2015/03302 . . . {Electromagnetic valves}
+ 2015/03309 . . {Tanks specially adapted for particular fuels}
+ 2015/03315 . . . {for hydrogen}
+ 2015/03322 . . . {for methanol}
+ 2015/03328 . . {Arrangements or special measures related to fuel
+ 2015/03335 . . . {for fast filling of fuel tanks, e.g. specific filler
+pipes for pressurised fuelling}
+ 2015/03342 . . . {to allow automatic or robotised filling of the
+ 2015/03348 . . . {for supplying additives to fuel}
+ 2015/03355 . . . {for supplying different types of fuel}
+ 2015/03361 . . . {for checking the quality or quantity of fuel
+ 2015/03368 . . . {for preventing overfilling of tanks}
+ 2015/03375 . . . {to improve security}
+ 2015/03381 . . . {for preventing explosions}
+ 2015/03388 . . . {in case of a roll over of the vehicle}
+ 2015/03394 . . . {for preventing expulsion of fuel during filling
+ 2015/03401 . . . {for preventing electrostatic charges}
+ 2015/03407 . . . {to protect tanks against projectiles}
+ 2015/03414 . . . {associated with the fuel tank for cooling
+ 2015/03421 . . . {to protect the fuel tank against heat}
+ 2015/03427 . . . {for heating fuel, e.g. to avoiding freezing}
+ 2015/03434 . . . {for preventing theft of fuel (locks for filler
+caps B60K 15/0409; locking of the inlet cover
+ 2015/0344  . . . {comprising baffles}
+ 2015/03447 . . . {for improving the sealing}
+ 2015/03453 . . . {for fixing or mounting parts of the fuel tank
+ 2015/0346  . . . . {by welding}
+ 2015/03467 . . . . {by clip or snap fit fittings}
+ 2015/03473 . . . {for draining or emptying a fuel tank}
+ 2015/0348  . . . {for returning the fuel from the motor}
+ 2015/03486 . . {characterised by the materials the tank or parts
+thereof are essentially made from}
+ 2015/03493 . . . {made of plastics}
+   15/035   . . characterised by venting means
+   15/03504 . . . {adapted to avoid loss of fuel or fuel vapour,
+e.g. with vapour recovery systems}
+ 2015/03509 . . . . {with a droplet separator in the vent line}
+ 2015/03514 . . . . {with vapor recovery means}
+   15/03519 . . . {Valve arrangements in the vent line}
+ 2015/03523 . . . {Arrangements of the venting tube}
+ 2015/03528 . . . . {Mounting of venting tubes}
+ 2015/03533 . . . . {the venting tube being movable with the
+ 2015/03538 . . . . {the venting tube being connected with the
+ 2015/03542 . . . {Mounting of the venting means (mounting of
+venting tubes B60K 2015/03528)}
+4Arrangements in connection with cooling, air intake, gas exhaust, fuel supply, or power supply of
+ 2015/03547 . . . . {the venting means are integrated in the fuel
+ 2015/03552 . . . . {the venting means are integrated into the
+ 2015/03557 . . . . {comprising elements of the venting device
+integrated in the fuel tank, e.g. vapor
+ 2015/03561 . . . {Venting means working at specific times}
+ 2015/03566 . . . . {comprising means for stopping the venting
+of fuel vapor, e.g. during refueling or engine
+ 2015/03571 . . . . {Venting during driving}
+ 2015/03576 . . . . {Venting during filling the reservoir}
+ 2015/0358  . . . {the venting is actuated by specific signals or
+ 2015/03585 . . . . {by gas pressure}
+ 2015/0359  . . . . {by filler cap or inlet cover position}
+ 2015/03595 . . . . {by filler nozzle}
+   15/04    . . Tank inlets (B60K 15/077 takes precedence)
+   15/0403  . . . {Anti-siphoning devices}
+   15/0406  . . . {Filler caps for fuel tanks}
+   15/0409  . . . . {Provided with a lock}
+ 2015/0412  . . . . . {the key can only be withdrawn when the
+cap is placed on the filler neck}
+ 2015/0416  . . . . . {electrically actuated}
+ 2015/0419  . . . . {Self-sealing closure caps, e.g. that don't
+ 2015/0422  . . . . . {actuated by the inlet cover}
+ 2015/0425  . . . . . {actuated by a motor}
+ 2015/0429  . . . . . {actuated by the nozzle}
+ 2015/0432  . . . . {having a specific connection between the
+cap and the vehicle or tank opening}
+ 2015/0435  . . . . . {using a sliding connection}
+ 2015/0438  . . . . . {using screw or bayonet}
+ 2015/0441  . . . . . . {with torque control}
+ 2015/0445  . . . . . {using hinges}
+ 2015/0448  . . . . {comprising spherical valve type closures}
+ 2015/0451  . . . . {Sealing means in the closure cap}
+ 2015/0454  . . . . {combined closing of the fuel inlet and
+bodywork inlet by one element which is
+ 2015/0458  . . . {Details of the tank inlet}
+ 2015/0461  . . . . {comprising a filler pipe shutter, e.g. trap,
+ 2015/0464  . . . . {comprising a flexible or extendable filler
+pipes, e.g. corrugated, foldable or with
+ 2015/0467  . . . . {Fuel tanks with more than one filler pipe}
+ 2015/047   . . . . {Manufacturing of the fuel inlet or
+connecting elements to fuel inlet, e.g. pipes
+ 2015/0474  . . . . {Arrangement of fuel filler pipes in relation
+ 2015/0477  . . . . {Details of the filler neck tank side}
+ 2015/048   . . . . {Arrangements for sealing the fuel inlet
+ 2015/0483  . . . . {Means to inhibit the introduction of too
+small or too big filler nozzles}
+ 2015/0487  . . . . {Means to shield vehicle bodywork from
+ 2015/049   . . . . {Means for determining the position of the
+filler nozzle in the filler pipe}
+ 2015/0493  . . . . {Means for checking absence or presence of
+ 2015/0496  . . . . {the fuel inlet being arranged on the top of
+ 2015/0507  . . . . {Arrangements for adjusting the inlet cover}
+ 2015/0515  . . . . {Arrangements for closing or
+opening of inlet cover (locking means
+ 2015/0523  . . . . . {with sliding connection to the vehicle
+ 2015/053   . . . . . {with hinged connection to the vehicle
+ 2015/0538  . . . . . {with open or close mechanism
+ 2015/0546  . . . . {Arrangements for checking the position of
+ 2015/0553  . . . . {Details concerning the inlet box or bowl in
+ 2015/0561  . . . . {Locking means for the inlet cover}
+ 2015/0569  . . . . . {with actuator fixed to the inlet cover}
+ 2015/0576  . . . . . {with actuator fixed to the vehicle body}
+ 2015/0584  . . . . . {the locking bolt is linearly moved to lock
+ 2015/0592  . . . . {with storage means for the cap}
+   15/06    . . characterised by fuel reserve systems
+   15/061   . . . {with level control}
+ 2015/062   . . . . {Arrangement for filling the fuel reserve
+   15/063   . . Arrangement of tanks
+ 2015/0631  . . . {the fuel tank forming at least part of the
+ 2015/0632  . . . {the fuel tank is arranged below the front seat}
+ 2015/0633  . . . {the fuel tank is arranged below the rear seat}
+ 2015/0634  . . . {the fuel tank is arranged below the vehicle
+ 2015/0635  . . . {the fuel tank is arranged between the seats}
+ 2015/0636  . . . {the fuel tank being part of the chassis or
+ 2015/0637  . . . {the fuel tank is arranged in the front of the
+ 2015/0638  . . . {the fuel tank is arranged in the rear of the
+ 2015/0639  . . . {the fuel tank is arranged near or in the roof}
+   15/067   . . . Mounting of tanks
+ 2015/0675  . . . . {allowing deflection movements of the tank
+   15/07    . . . . of gas tanks
+   15/073   . . Tank construction specially adapted to the vehicle
+   15/077   . . with means modifying or controlling distribution
+or motion of fuel, e.g. to prevent noise, surge,
+ 2015/0772  . . . {Floats in the fuel tank (float valves
+ 2015/0775  . . . {for reducing movement or slash noise of fuel}
+ 2015/0777  . . . {in-tank reservoirs or baffles integrally
+manufactured with the fuel Tank}
+   15/10    . concerning gas-producing plants
+5Arrangements in connection with cooling, air intake, gas exhaust, fuel supply, or power supply of
+   16/00    Arrangements in connection with power supply
+of propulsion units in vehicles from forces of
+nature, e.g. sun or wind (electric propulsion
+with power supply from forces of nature, e.g. sun
+or wind B60L 8/00; marine propulsion by wind
+motors driving water-engaging propulsive elements
+B63H 13/00; wind motors specially adapted for
+installation on vehicles F03D 9/32)
+When classifying in this group, details of sail
+or rigging arrangements which are suited for
+marine wind propulsion are also classified in the
+relevant groups of subclass B63H, e.g. in groups
+ 2016/003   . {solar power driven}
+ 2016/006   . {wind power driven}
+Arrangement or mounting of transmissions or their control in
+vehicles (torque-transmitting axles B60B; combined transmission and
+steering gear for steering non-deflectable wheels B62D)
+   17/00    Arrangement or mounting of transmissions in
+vehicles (clutches per se, e.g. construction thereof,
+F16D; gearing per se, e.g. construction thereof, F16H)
+   17/02    . characterised by arrangement, location, or kind of
+   17/04    . characterised by arrangement, location, or kind
+of gearing (electric equipment or propulsion of
+electrically-propelled vehicles B60L)
+   17/043   . . {Transmission unit disposed in on near the
+vehicle wheel, or between the differential gear
+   17/046   . . . {with planetary gearing having orbital motion}
+   17/06    . . of change-speed gearing
+(B60K 17/10 - B60K 17/16 take precedence)
+   17/08    . . . of mechanical type
+   17/10    . . of fluid gearing (of fluid clutches B60K 17/02)
+   17/105   . . . {Units comprising at least a part of the gearing
+and a torque-transmitting axle, e.g. transaxles
+   17/12    . . of electric gearing (of electrically-actuated
+   17/14    . . the motor of fluid or electric gearing being
+disposed in or adjacent to traction wheel
+   17/145   . . . {the electric gearing being disposed in or
+   17/16    . . of differential gearing
+   17/165   . . . {provided between independent half axles
+(B60K 17/18, B60K 17/20 take precedence)}
+   17/18    . . . {in which the differential movement is obtained
+   17/20    . . . {in which the differential movement is limited}
+   17/22    . characterised by arrangement, location, or type of
+main drive shafting, e.g. cardan shaft
+   17/24    . . Arrangements of mountings for shafting
+   17/26    . characterised by arrangement, location, of type of
+   17/28    . characterised by arrangement, location, or type of
+   17/30    . the ultimate propulsive elements, e.g. ground
+   17/303   . . {with a gearwheel on the steering knuckle or
+   17/306   . . {with a universal joint in the axis of the steering
+   17/32    . the ultimate propulsive elements, e.g. ground
+wheels, being rockable about a horizontal pivot
+   17/34    . for driving both front and rear wheels, e.g. four
+wheel drive vehicles (arrangement or mounting
+of control devices for changing number of driven
+   17/342   . . having a longitudinal, endless element, e.g. belt or
+chain, for transmitting drive to wheels
+   17/344   . . having a transfer gear
+   17/346   . . . the transfer gear being a differential gear
+   17/3462  . . . . {with means for changing distribution of
+torque between front and rear wheels}
+   17/3465  . . . . . {self-actuated means, e.g. differential
+locked automatically by difference of
+   17/3467  . . . . {combined with a change speed gearing, e.g.
+   17/348   . . having differential means for driving one set
+of wheels, e.g. the front, at one speed and the
+other set, e.g. the rear, at a different speed
+   17/35    . . . including arrangements for suppressing or
+influencing the power transfer, e.g. viscous
+clutches (differential gearing with locking
+   17/3505  . . . . {with self-actuated means, e.g. by difference
+   17/351   . . . . . {comprising a viscous clutch}
+   17/3515  . . . . {with a clutch adjacent to traction wheel, e.g.
+   17/352   . . . . {manually operated}
+   17/354   . . having separate mechanical assemblies for
+transmitting drive to the front or to the rear
+   17/356   . . having fluid or electric motor, for driving one or
+more wheels (disposition of motor in, or adjacent
+   17/358   . . {all driven wheels being steerable}
+   17/36    . for driving tandem wheels
+   20/00    Arrangement or mounting of change-speed
+gearing control devices in vehicles (movable cabs
+having special adaptations of vehicle control devices
+B62D 33/06; such control devices per se F16H)
+   20/02    . of initiating means (control mechanisms in general
+   20/06    . . mounted on steering column or the like
+   20/08    . . Dashboard means
+   23/00    Arrangement or mounting of control devices
+for vehicle transmissions, or parts thereof, not
+otherwise provided for (movable cabs having special
+adaptations of vehicle control devices B62D 33/06;
+such control devices per se F16D, F16H)
+ 2023/005   . {Adjusting multiple pedals, e.g. for their initial
+   23/02    . for main transmission clutches
+ 2023/025   . . {Adjusting of clutch pedal positions (clutch
+adjustment for removing slack F16D 13/75)}
+   23/04    . for differential gearing
+6Arrangement or mounting of transmissions or their control in vehicles
+ 2023/043   . . {Control means for varying left-right torque
+distribution, e.g. torque vectoring}
+ 2023/046   . . {Axle differential locking means}
+   23/06    . for freewheel devices
+   23/08    . for changing number of driven wheels {, for
+switching from driving one axle to driving two or
+more axles (B60K 17/3515 takes precedence)}
+   23/0808  . . {for varying torque distribution between driven
+axles, e.g. by transfer clutch}
+ 2023/0816  . . . {for varying front-rear torque distribution with
+ 2023/0825  . . . . {for adding torque to the front wheels}
+ 2023/0833  . . . . {for adding torque to the rear wheels}
+ 2023/0841  . . . {for locking a central differential, e.g. by using
+ 2023/085   . . {automatically actuated}
+ 2023/0858  . . . {with electric means, e.g. electro-hydraulic
+ 2023/0866  . . . {with hydraulic means only}
+ 2023/0875  . . . {with mechanical means only}
+ 2023/0883  . . {manually actuated}
+ 2023/0891  . . . {with actuator levers, e.g. shift levers or
+linkage for changing two-wheel to four-wheel
+   25/00    Auxiliary drives (B60K 16/00 takes precedence;
+arrangements of tyre-inflating pumps mounted on
+vehicles B60C 23/10; driving tyre-inflating pumps
+B60C; driving engine auxiliaries F02B)
+ 2025/005   . {driven by electric motors forming part of the
+   25/02    . directly from an engine shaft
+ 2025/022   . . {by a mechanical transmission}
+ 2025/024   . . . {with variable ratio}
+ 2025/026   . . {by a hydraulic transmission}
+ 2025/028   . . {by a pneumatic transmission}
+   25/04    . from static or dynamic pressure or vacuum,
+   25/06    . from the transmission power take-off (transmissions
+having power-take-off B60K 17/28)
+ 2025/065   . . {the transmission being fluidic, e.g. hydraulic}
+   25/08    . from a ground wheel, e.g. engaging the wheel tread
+   25/10    . directly from oscillating movements due to vehicle
+running motion, e.g. suspension movement (resilient
+suspensions having dampers accumulating utilisable
+energy, e.g. compressing air, B60G 13/14)
+ 2025/103   . . {by electric means}
+ 2025/106   . . {by fluid means}
+   26/00    Arrangements or mounting of propulsion unit
+   26/02    . of initiating means or elements
+   26/021   . . {with means for providing feel, e.g. by changing
+ 2026/022   . . . {with tactile feedback from a controller, e.g.
+ 2026/023   . . . {with electrical means to generate counter force
+ 2026/024   . . {Adjustable consoles, e.g. for changing position
+ 2026/025   . . {Input devices for controlling electric drive
+ 2026/026   . . {Adjusting of accelerator pedal positions}
+ 2026/027   . . {Acceleration input members mounted on a seat}
+ 2026/028   . . {Acceleration input members mounted on
+ 2026/029   . . {Joystick type control devices for acceleration}
+   26/04    . of means connecting initiating means or elements to
+ 2026/043   . . {with mechanical gearings}
+ 2026/046   . . {with electrical transmission means}
+   28/00    Safety devices for propulsion-unit control,
+specially adapted for, or arranged in, vehicles, e.g.
+preventing fuel supply or ignition in the event of
+potentially dangerous conditions (for electrically-
+propelled vehicles B60L 3/00; road vehicle drive
+control systems for purposes not related to the control
+of a particular sub-unit B60W 30/00; drive control
+systems specially adapted for autonomous road
+Groups B60K 28/00 - B60K 28/165
+are impacted by reclassification into
+groups B60W 60/00 - B60W 60/007,
+B60W 2710/00 - B60W 2720/406, and
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+ 2028/003   . {inhibiting the starter motor, e.g. by controlling
+ignition or park lock circuits}
+ 2028/006   . {disconnecting the electric power supply, e.g. the
+   28/02    . responsive to conditions relating to the driver
+   28/04    . . responsive to presence or absence of the driver,
+   28/06    . . responsive to incapacity of driver
+   28/063   . . . {preventing starting of vehicles}
+   28/066   . . . {actuating a signalling device (B60K 28/063
+   28/08    . responsive to conditions relating to the cargo, e.g.
+   28/10    . responsive to conditions relating to the vehicle 
+   28/12    . . responsive to conditions relating to doors or doors
+   28/14    . . responsive to accident or emergency, e.g.
+   28/16    . . responsive to, or preventing, skidding of wheels
+(brake control systems for vehicle drive stability
+B60T 8/1755; arrangements responsive to a
+speed condition for adjusting wheel braking force
+B60T 8/32; control of vehicle driving stability
+otherwise than by controlling the propulsion unit
+only B60W 30/02; preventing wheel slippage by
+reducing power in rail vehicles B61C 15/00)
+   28/165   . . . {acting on elements of the vehicle drive train
+other than the propulsion unit and brakes, e.g.
+transmission, clutch, differential (acting on
+7Arrangement or mounting of transmissions or their control in vehicles
+   31/00    Vehicle fittings, acting on a single sub-unit only,
+for automatically controlling vehicle speed, i.e.
+preventing speed from exceeding an arbitrarily
+established velocity or maintaining speed at a
+particular velocity, as selected by the vehicle
+operator (fittings acting on two or more sub-units
+B60W 30/14; speedometers G01P; systems or devices
+for controlling speed in general G05D 13/00 {;
+in traffic anti-collision system for road vehicles
+• the means ordinarily includes a device, e.g.
+a servomechanism, for operating a velocity-
+affecting element of the vehicle, e.g. the
+• a means for preventing a vehicle from
+exceeding a particular speed is often referred
+to as a "governor", whereas a means for
+maintaining the vehicle within a relatively
+narrow speed range is generally designated
+as "speed control". Since these two functions
+are frequently interrelated, no attempt has
+been made to identify such means as being
+particularly adapted to perform only one, or the
+   31/0008  . {including means for detecting potential obstacles in
+ 2031/0016  . . {Identification of obstacles; Selection of a target
+ 2031/0025  . . {Detecting position of target vehicle, e.g. vehicle
+driving ahead from host vehicle}
+ 2031/0033  . . {Detecting longitudinal speed or acceleration of
+ 2031/0041  . . {Detecting lateral speed of target vehicle}
+ 2031/005   . . {Selecting more than one target vehicle, e.g.
+using several preceding vehicles as target}
+   31/0058  . {responsive to externally generated signalling}
+   31/0066  . {responsive to vehicle path curvature}
+   31/0075  . . {responsive to vehicle steering angle}
+   31/0083  . . {responsive to centrifugal force acting on vehicle
+due to the path it is following}
+ 2031/0091  . {Speed limiters or speed cutters}
+   31/02    . including electrically actuated servomechanism
+{including an electric control system or a
+servomechanism in which the vehicle velocity
+affecting element is actuated electrically}
+   31/04    . . and means for comparing one electrical quantity,
+e.g. voltage, pulse, waveform, flux, or the like,
+with another quantity of a like kind, which
+comparison means is involved in the development
+of an electrical signal which is fed into the
+   31/042   . . . {where at least one electrical quantity is set by
+   31/045   . . . . {in a memory, e.g. a capacitor}
+   31/047   . . . . . {the memory being digital}
+   31/06    . including fluid pressure actuated servomechanism
+{in which the vehicle velocity affecting element is
+   31/08    . . and one or more electrical components for
+establishing or regulating input pressure
+   31/10    . . and means for comparing one electrical quantity,
+e.g. voltage, pulse, waveform, flux, or the like,
+with another quantity of a like kind, which
+comparison means is involved in the development
+of a pressure which is fed into the controlling
+   31/102   . . . {where at least one electrical quantity is set by
+   31/105   . . . . {in a memory, e.g. a capacitor}
+   31/107   . . . . . {the memory being digital}
+   31/12    . including a device responsive to centrifugal forces
+{(centrifugal force acting on the vehicle due to the
+path it is following B60K 31/0083, motor speed
+limiting by governors G05D 13/10)}
+   31/14    . . having an electrical switch which is caused to
+function by the centrifugal force
+   31/16    . having means to prevent or discourage unauthorised
+use or adjusting of the controlling means {(vehicle
+theft prevention in general B60R 25/00)}
+   31/18    . including a device to audibly, visibly, or otherwise
+signal the existence of unusual or unintended speed
+{to the driver of the vehicle (devices primarily
+intended for indicating speed to other traffic
+   31/185   . . {connected to the speedometer display, e.g. by
+sensors or switches responsive to the position
+of the indicator needle (arrangement of pointers
+in automobile speedometers for indicating
+predetermined speeds by the detection of the
+position of the indicator needle G01P 1/11)}
+Arrangement of adaptations of instruments specially for vehicles;
+   35/00    Arrangement of adaptations of instruments
+(arrangements on dashboard B60K 37/02)
+   37/00    Dashboards (as road-vehicle superstructure sub-unit
+   37/02    . Arrangement of instruments (arrangement of
+lighting devices for dashboards B60Q 3/10)
+   37/04    . Arrangement of fittings on dashboard (of
+   37/06    . . of controls, e.g. controls knobs
+ 2310/00    Arrangements, adaptations or methods for cruise
+ 2310/20    . Operator actuated switches or levers for cruise
+control or speed limiting systems
+ 2310/22    . Displays for target speed
+ 2310/24    . Speed setting methods
+ 2310/242   . . setting initial target speed, e.g. initial algorithms
+ 2310/244   . . changing target speed or setting a new target
+speed, e.g. changing algorithms
+ 2310/246   . . releasing speed control, e.g. inhibiting speed
+control if a brake pedal is depressed
+ 2310/248   . . resuming speed control, e.g. returning to old
+ 2310/26    . Distance setting methods, e.g. determining target
+ 2310/262   . . setting initial distance to preceding vehicle, e.g.
+ 2310/264   . . changing distance, e.g. reducing the distance for
+ 2310/266   . . releasing distance control, e.g. inhibiting control
+if target vehicle lost or changing lane
+ 2310/268   . . resuming distance control, e.g. changing target
+ 2310/28    . Following time setting methods, e.g. elapsed delay
+between preceding and host vehicle
+ 2310/30    . Mode switching, e.g. changing from one cruise
+Arrangement or mounting of propulsion units in vehicles (of
+control devices for such units B60K 26/00; elastic mountings per se
+F16F; propulsion units or their control per se, see the relevant classes)
+ 2370/00    Details of arrangements or adaptations of
+instruments specially adapted for vehicles, not
+covered by groups B60K 35/00, B60K 37/00
+ 2370/10    . Input devices or features thereof
+ 2370/11    . . Graphical user interfaces or menu aspects
+ 2370/111   . . . for controlling multiple devices
+ 2370/113   . . . Scrolling through menu items
+ 2370/115   . . . Selection of menu items
+ 2370/12    . . Input devices or input features
+ 2370/122   . . . with reconfigurable control functions, e.g.
+ 2370/126   . . . Rotatable input devices
+ 2370/128   . . . Axially displaceable input devices
+ 2370/131   . . . Pivotable input devices
+ 2370/133   . . . Multidirectional input devices
+ 2370/139   . . . Clusters of input devices
+ 2370/141   . . . Activation by approaching fingers or pens
+ 2370/143   . . . Touch sensitive input devices
+ 2370/1434  . . . . Touch panels
+ 2370/1438  . . . . Touch screens
+ 2370/1442  . . . . . Emulation of input devices
+ 2370/1446  . . . . Touch switches
+ 2370/145   . . . Input by combination of touch screen and
+ 2370/146   . . . Input by gesture
+ 2370/1468  . . . . Touch gesture
+ 2370/1472  . . . . . Multi-touch gesture
+ 2370/1476  . . . . . Handwriting
+ 2370/148   . . . Input by voice
+ 2370/149   . . . Input by detecting viewing direction
+ 2370/15    . Output devices or features thereof
+ 2370/151   . . Reconfigurable output
+ 2370/1515  . . . Reconfigurable dials
+ 2370/1523  . . . Matrix displays
+ 2370/1526  . . . Dual-view displays
+ 2370/1529  . . . Head-up displays
+ 2370/1531  . . . Three-dimensional displays
+ 2370/1533  . . . Flexible displays
+ 2370/1534  . . . Simultaneous multiple use of display matrix,
+e.g. to display information and to illuminate
+ 2370/1537  . . . Displays on a manual operation element
+ 2370/154   . . Combined instruments with analogue meters and
+ 2370/155   . . Virtual instruments
+ 2370/156   . . Variable gauge scales
+ 2370/157   . . Acoustic output
+ 2370/16    . Type of information
+ 2370/161   . . Explanation of functions, e.g. instructions
+ 2370/162   . . Visual feedback on control action
+ 2370/165   . . Videos and animations
+ 2370/167   . . Vehicle dynamics information
+ 2370/168   . . Target or limit values
+ 2370/169   . . Remaining operating distance or charge
+ 2370/171   . . Vehicle or relevant part thereof displayed
+ 2370/172   . . Driving mode indication
+ 2370/173   . . Reversing assist
+ 2370/174   . . Economic driving
+ 2370/175   . . Autonomous driving
+ 2370/177   . . Augmented reality
+ 2370/179   . . Distances to obstacles or vehicles
+ 2370/18    . Information management
+ 2370/182   . . Distributing information between displays
+ 2370/184   . . Displaying the same information on different
+ 2370/186   . . Displaying Information according to relevancy
+ 2370/1868  . . . according to driving situations
+ 2370/1876  . . . according to vehicle situations
+ 2370/188   . . Displaying information using colour changes
+ 2370/191   . . Highlight information
+ 2370/193   . . for improving awareness
+ 2370/194   . . . by directing line of sight
+ 2370/195   . . Blocking or enabling display functions
+ 2370/197   . . Blocking or enabling of input functions
+ 2370/199   . . for avoiding maloperation
+ 2370/20    . Optical features of instruments
+ 2370/23    . . using reflectors
+ 2370/27    . . using semi-transparent optical elements
+ 2370/28    . . . for instruments which are not visible when
+ 2370/29    . . Holographic features
+ 2370/33    . . Illumination features
+ 2370/331   . . . Electroluminescent elements
+ 2370/332   . . . Light emitting diodes
+ 2370/334   . . . Projection means
+ 2370/339   . . . Translucent dashboard skins
+ 2370/34    . . . Backlit symbols
+ 2370/341   . . . Illumination of dials
+ 2370/343   . . . Illumination of matrix displays
+ 2370/345   . . . Illumination of controls
+ 2370/347   . . . Optical elements for superposition of display
+9Arrangement or mounting of propulsion units in vehicles
+ 2370/349   . . . Adjustment of brightness
+ 2370/35    . . Fogging prevention
+ 2370/37    . . Glare prevention
+ 2370/39    . . Anti-reflection arrangements
+ 2370/40    . Hardware adaptations for dashboards or instruments
+ 2370/42    . . Circuit board features
+ 2370/46    . . Electrical connections
+ 2370/47    . . . using wireless power transfer or transmission.
+ 2370/50    . Control arrangements; Data network features
+ 2370/52    . . Control of displays
+ 2370/55    . . Remote controls
+ 2370/56    . . . using mobile devices
+ 2370/563   . . . . Vehicle displaying mobile device
+ 2370/566   . . . . Mobile devices displaying vehicle
+ 2370/569   . . . . Vehicle controlling mobile device functions
+ 2370/573   . . . . Mobile devices controlling vehicle functions
+ 2370/577   . . . . Mirror link with mobile devices
+ 2370/583   . . . between instruments
+ 2370/586   . . . Wired data transfers
+ 2370/5915  . . . . Inter vehicle communication
+ 2370/592   . . . External database involved
+ 2370/595   . . . Internal database involved
+ 2370/60    . Structural details of dashboards or instruments
+ 2370/61    . . Specially adapted for utility vehicles
+ 2370/62    . . Anti-theft arrangements
+ 2370/63    . . Crash protection features
+ 2370/65    . . Features of dashboards
+ 2370/654   . . . Dashboard panels
+ 2370/658   . . . Dashboard parts used as air ducts
+ 2370/66    . . Projection screens or combiners
+ 2370/67    . . Foldable or movable displays
+ 2370/68    . . Features of instruments
+ 2370/682   . . . Arrangements to cover or hide instruments
+ 2370/685   . . . Instruments movable with steering column
+ 2370/688   . . . Frames or decorative parts
+ 2370/693   . . . Cover plate features
+ 2370/695   . . . Dial features
+ 2370/698   . . . Pointers of combined instruments
+ 2370/6985  . . . . with only part of pointer being visible
+ 2370/6992  . . . . Light conducting pointers
+ 2370/70    . Arrangements of instruments in the vehicle
+ 2370/73    . . with special adaptation to the user or to the
+ 2370/731   . . . user programmable systems
+ 2370/733   . . . Left or right steering
+ 2370/736   . . . the user being the driver
+ 2370/739   . . . the user being the passenger
+ 2370/741   . . . User detection
+ 2370/744   . . . Position adjustable by user
+ 2370/77    . . characterised by locations other than the
+ 2370/771   . . . on the ceiling
+ 2370/774   . . . on or in the centre console
+ 2370/777   . . . on or in sun visors
+ 2370/779   . . . on or in rear view mirrors
+ 2370/782   . . . on the steering wheel
+ 2370/785   . . . on or in relation to the windshield or windows
+ 2370/788   . . . on or in side pillars
+ 2370/791   . . . on or in the transmission tunnel or parking
+ 2370/794   . . . on or in doors
+ 2370/797   . . . At the vehicle exterior
+ 2370/80    . Mounting or fastening arrangements; Mounting or
+ 2370/81    . . Fastening of instruments, e.g. to dashboard
+ 2370/816   . . . Fastening of displays or touch screens
+ 2370/822   . . . Adjustment of instruments during mounting
+ 2370/828   . . . Exchangeable modules
+ 2370/84    . . Mounting of dashboard components
+ 2370/87    . . Fixation of dashboard to vehicle structure
+ 2370/90    . Calibration, testing or manufacturing aspects
+ 2370/91    . . Assembly of instruments
+ 2370/92    . . Calibration of instruments
+ 2370/95    . . Testing of instruments
+ 2370/98    . . Manufacturing of instruments
+ 2700/00    Control mechanisms and elements applying a
+ 2700/02    . regulating mechanisms combined with non-
+ 2702/00    Control devices wherein the control is combined
+with or essentially influenced by the engine or
+coupling, e.g. in an internal combustion engine,
+the control device is coupled with a carburettor
+control device or influenced by carburettor
+ 2702/02    . Automatic transmission with toothed gearing
+ 2702/04    . . Control dependent on speed
+ 2702/06    . . Control dependent on torque
+ 2702/08    . Semi-automatic or non-automatic transmission with
+ 2702/10    . . without a preselection system
+ 2702/12    . . . the control being mechanical
+ 2702/14    . . . the control being hydraulic or pneumatic
+ 2702/16    . . . the control being electric
+ 2702/18    . . with a preselection system, e.g. semi-automatic
+ 2702/20    . . . using different control members for
+preselection and actuating, e.g. shift actuation
+is initiated by clutch pedal with elastic
+connection for energy accumulation
+ 2704/00    Control devices, wherein the control is combined
+with or mainly influenced by the working of the
+engine or the main coupling, e.g. control device is
+linked to the carburettor control and is influenced
+by depression of pedal, for semi-automatic or non-
+automatic transmission having toothed wheels
+ 2704/02    . without preselection system, the control being
+ 2704/04    . with preselection system, e.g. for semi-autonmatic

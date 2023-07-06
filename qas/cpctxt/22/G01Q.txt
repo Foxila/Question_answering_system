@@ -1,0 +1,91 @@
+COOPERATIVE PATENT CLASSIFICATION
+SCANNING-PROBE TECHNIQUES OR APPARATUS; APPLICATIONS OF
+SCANNING-PROBE TECHNIQUES, e.g. SCANNING PROBE MICROSCOPY [SPM]
+In this subclass, the first place priority rule is applied, i.e. at each hierarchical level, in the absence of an indication to the
+contrary, classification is made in the first appropriate place.
+   10/00    Scanning or positioning arrangements, i.e.
+arrangements for actively controlling the
+movement or position of the probe
+   10/02    . Coarse scanning or positioning
+   10/04    . Fine scanning or positioning
+   10/045   . . {Self-actuating probes, i.e. wherein the actuating
+means for driving are part of the probe itself, e.g.
+piezoelectric means on a cantilever probe}
+   10/06    . . Circuits or algorithms therefor
+   10/065   . . . {Feedback mechanisms, i.e. wherein the signal
+for driving the probe is modified by a signal
+   20/00    Monitoring the movement or position of the probe
+   20/04    . Self-detecting probes, i.e. wherein the probe itself
+generates a signal representative of its position, e.g.
+   30/00    Auxiliary means serving to assist or improve the
+scanning probe techniques or apparatus, e.g.
+display or data processing devices
+   30/02    . Non-SPM analysing devices, e.g. SEM [Scanning
+Electron Microscope], spectrometer or optical
+   30/025   . . {Optical microscopes coupled with SPM}
+   30/04    . Display or data processing devices
+   30/06    . . for error compensation
+   30/08    . Means for establishing or regulating a desired
+environmental condition within a sample chamber
+   30/10    . . Thermal environment
+   30/12    . . Fluid environment
+   30/14    . . . Liquid environment
+   30/16    . . Vacuum environment
+   30/18    . Means for protecting or isolating the interior of
+a sample chamber from external environmental
+conditions or influences, e.g. vibrations or
+   30/20    . Sample handling devices or methods
+   40/00    Calibration, e.g. of probes
+   40/02    . Calibration standards and methods of fabrication
+   60/00    Particular types of SPM [Scanning Probe
+Microscopy] or microscopes; Essential components
+   60/02    . Multiple-type SPM, i.e. involving more than one
+   60/04    . . STM [Scanning Tunnelling Microscopy]
+combined with AFM [Atomic Force Microscopy]
+   60/06    . . SNOM [Scanning Near-field Optical Microscopy]
+combined with AFM [Atomic Force Microscopy]
+   60/08    . . MFM [Magnetic Force Microscopy] combined
+with AFM [Atomic Force Microscopy
+   60/10    . STM [Scanning Tunnelling Microscopy] or
+apparatus therefor, e.g. STM probes
+   60/12    . . STS [Scanning Tunnelling Spectroscopy]
+   60/14    . . STP [Scanning Tunnelling Potentiometry]
+   60/16    . . Probes, their manufacture, or their related
+   60/18    . SNOM [Scanning Near-Field Optical Microscopy]
+or apparatus therefor, e.g. SNOM probes
+   60/22    . . Probes, their manufacture, or their related
+   60/24    . AFM [Atomic Force Microscopy] or apparatus
+   60/26    . . Friction force microscopy
+   60/28    . . Adhesion force microscopy
+   60/30    . . Scanning potential microscopy
+   60/363   . . . {Contact-mode AFM}
+   60/366   . . . {Nanoindenters, i.e. wherein the indenting
+   60/38    . . Probes, their manufacture, or their related
+   60/40    . . . Conductive probes
+   60/42    . . . Functionalisation
+   60/44    . SICM [Scanning Ion-Conductance Microscopy] or
+apparatus therefor, e.g. SICM probes
+   60/46    . SCM [Scanning Capacitance Microscopy] or
+apparatus therefor, e.g. SCM probes
+   60/48    . . Probes, their manufacture, or their related
+   60/50    . MFM [Magnetic Force Microscopy] or apparatus
+   60/54    . . Probes, their manufacture, or their related
+   60/56    . . . Probes with magnetic coating
+   60/58    . SThM [Scanning Thermal Microscopy] or apparatus
+   60/60    . SECM [Scanning Electro-Chemical Microscopy] or
+apparatus therefor, e.g. SECM probes
+   70/00    General aspects of SPM probes, their manufacture
+or their related instrumentation, insofar as
+they are not specially adapted to a single SPM
+technique covered by group G01Q 60/00
+   70/04    . . with compensation for temperature or vibration
+   70/08    . Probe characteristics
+   70/12    . . . Nanotube tips
+   70/14    . . Particular materials
+   70/16    . Probe manufacture
+   70/18    . . Functionalisation
+   80/00    Applications, other than SPM, of scanning-
+probe techniques (manufacture or treatment of
+nanostructures B82B 3/00; recording or reproducing
+information using near-field interaction G11B 9/12,
+   90/00    Scanning-probe techniques or apparatus not

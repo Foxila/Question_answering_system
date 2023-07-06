@@ -1,0 +1,1003 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+VEHICLE SUSPENSION ARRANGEMENTS (air-cushion vehicles B60V; {cycle
+1. Attention is drawn to the Note following the title of class B60.
+2. {Indexing codes B60G 2200/00 - B60G 2800/00 are dedicated to particular aspects of suspension arrangements:
+B60G 2200/00 refers to the type of suspension arrangement;
+B60G 2202/00 refers to the suspension elements used (springs, dampers and actuators);
+B60G 2204/00 refers to mounting features of suspension elements;
+B60G 2206/00 refers to constructional and manufacturing details of suspension elements;
+B60G 2300/00 refers to the type of vehicle;
+•B60G 2400/00 - B60G 2800/00  refer to the electronic control of suspension arrangements, whereby:
+B60G 2400/00 refers to input parameters of the control;
+B60G 2401/00 refers to types of sensors used;
+B60G 2500/00 refers to the controlled action or device;
+B60G 2600/00 refers to particular details of the control system;
+B60G 2800/00 refers to the result to be achieved by the control action.}
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Suspensions with rigid connection between axle
+    1/02    . with continuous axle
+    1/04    . with divided axle
+    3/00    Resilient suspensions for a single wheel (pivoted
+suspensions arms per se, attachment thereof
+to sprung part of the vehicle, buffer means for
+limiting movement of arms B60G 7/00; {rigid
+axle suspensions B60G 9/00;} characterised by
+arrangement, location or type of springs B60G 11/00)
+    3/01    . the wheel being mounted for sliding movement, e.g.
+in or on a vertical guide (camber maintaining means
+    3/02    . with a single pivoted arm
+    3/04    . . the arm being essentially transverse to the
+longitudinal axis of the vehicle
+    3/06    . . . the arm being rigid
+    3/08    . . . . the arm forming the axle housing
+    3/10    . . . the arm itself being resilient, e.g. leaf spring
+{(B60G 7/003 takes precedence)}
+    3/12    . . the arm being essentially parallel to the
+longitudinal axis of the vehicle
+    3/14    . . . the arm being rigid
+    3/145   . . . . {the arm forming the axle housing}
+    3/16    . . . the arm itself being resilient, e.g. leaf spring
+{(B60G 7/003 takes precedence)}
+    3/18    . with two or more pivoted arms, e.g. parallelogram
+    3/185   . . {the arms being essentially parallel to the
+longitudinal axis of the vehicle}
+    3/20    . . all arms being rigid
+    3/202   . . . {having one longitudinal arm and two parallel
+transversal arms, e.g. dual-link type strut
+    3/205   . . . . {with the pivotal point of the longitudinal
+arm being on the vertical plane defined by
+the wheel rotation axis and the wheel ground
+    3/207   . . . {the arms being essentially parallel to the
+longitudinal axis of the vehicle}
+    3/22    . . . a rigid arm forming the axle housing
+    3/225   . . . . {the arm being of the trailing wishbone type}
+    3/24    . . . a rigid arm being formed by the live axle
+{(B60G 3/22, B60G 3/26 take precedence;
+driving arrangements B60K 17/22,
+    3/26    . . . Means for maintaining substantially-constant
+wheel camber during suspension movement
+{; Means for controlling the variation
+of the wheel position during suspension
+movement (B60G 3/202, B60G 3/22,
+B60G 7/003, B60G 7/006 take precedence;
+means for adjusting camber, castor, or toe-in
+    3/265   . . . . {with a strut cylinder contributing to the
+suspension geometry by being linked to the
+wheel support via an articulation}
+    3/28    . . at least one of the arms itself being resilient, e.g.
+leaf spring {(B60G 7/003 takes precedence)}
+    3/285   . . . {the arm being essentially parallel to the
+longitudinal axis of the vehicle}
+    5/00    Resilient suspensions for a set of tandem wheels or
+axles having interrelated movements
+    5/005   . {the wheels being fixed on a non-pivotal structure,
+    5/01    . the set being characterised by having more than two
+    5/02    . mounted on a single pivoted arm {, e.g. the arm
+    5/025   . . {the arm being transverse to the longitudinal axis
+    5/03    . . the arm itself being resilient, e.g. a leafspring
+    5/04    . with two or more pivoted arms, the movements of
+which are resiliently interrelated {, e.g. the arms
+    5/043   . . {the arms being transverse to the longitudinal axis
+    5/047   . . at least one arm being resilient, e.g. a leafspring
+    5/053   . . a leafspring being used as equilibration unit
+between two axle-supporting units
+    5/06    . . the arms turning on a common pivot {, e.g. being
+    5/065   . . . {at least one arm being resilient}
+    7/00    Pivoted suspension arms; Accessories thereof
+(means for maintaining substantially constant wheel
+camber during suspension movement B60G 3/26;
+{articulations for wheels B60G 5/00; leaf spring
+attaching means B60G 11/10, B60G 11/12; trailing
+arm twist beam axle attaching means B60G 21/052;
+articulations in general F16C})
+    7/001   . {Suspension arms, e.g. constructional features
+    7/003   . . {of adjustable length}
+    7/005   . {Ball joints (B60G 7/006 takes precedence; for
+steering linkage B62D 7/16; ball joints per se
+    7/006   . {Attaching arms to sprung or unsprung part of
+vehicle, characterised by comprising attachment
+means controlled by an external actuator, e.g. a fluid
+or electrical motor (B62D 7/146 takes precedence)}
+    7/008   . {Attaching arms to unsprung part of vehicle
+(B60G 7/005, B60G 7/006 take precedence)}
+    7/02    . Attaching arms to sprung part of vehicle
+{(B60G 7/006 takes precedence)}
+    7/04    . Buffer means for limiting movement of arms
+{(stops limiting fluid passage in fluid dampers
+F16F 9/49; stroke-limiting stops for fluid dampers
+    9/00    Resilient suspensions of a rigid axle or axle
+housing for two or more wheels {(the axle being a
+part of a set of tandem axles B60G 5/00-B60G 5/065;
+with leaf springs B60G 11/02-B60G 11/08)}
+    9/003   . {the axle being rigidly connected to a trailing
+    9/006   . {the axle being connected to two trailing arms with
+only one of them being rigidly connected to the
+    9/02    . the axle or housing being pivotally mounted on the
+vehicle {, e.g. the pivotal axis being parallel to the
+longitudinal axis of the vehicle (B60G 9/003 takes
+    9/022   . . {the axle having an imaginary pivotal point}
+    9/025   . . . {using linkages for the suspension of the axle
+allowing its lateral swinging displacement}
+    9/027   . . {the axle having either a triangular, a "T" or "U"
+shape and being directly articulated with the
+chassis only by its middle apex, e.g. De Dion
+    9/04    . the axle or housing not being pivotally mounted on
+the vehicle {(B60G 9/003 takes precedence)}
+   11/00    Resilient suspensions characterised by
+arrangement, location or kind of springs (single
+wheel suspension by pivoted arm resilient in
+itself B60G 3/00; adjusting spring characteristic
+B60G 17/00; springs per se F16F)
+The term "torsion bar" includes torsion tube or
+the like. The term "rubber" includes synthetic
+substitutes of a similar nature.
+   11/003   . {Lubrication devices for springs and dampers
+(vehicle lubrication devices in general B60R 17/00;
+for leaf springs in general F16F 1/24)}
+   11/006   . {Centrally located spring units, e.g. all wheels being
+connected to a common spring unit (B60G 5/00,
+   11/02    . having leaf springs only {(B60G 11/006 takes
+   11/025   . . {reparing devices for leaf springs}
+   11/04    . . arranged substantially parallel to the longitudinal
+   11/06    . . arranged obliquely to the longitudinal axis of the
+   11/08    . . arranged substantially transverse to the
+longitudinal axis of the vehicle
+   11/10    . . characterised by means specially adapted for
+attaching the spring to axle or sprung part of the
+   11/107   . . . Sliding or rolling mountings
+   11/113   . . . Mountings on the axle (B60G 11/107 takes
+   11/12    . . . Links, pins, or bushes
+   11/125   . . . . {Multiple-eye arrangements}
+   11/14    . having helical, spiral or coil springs only
+{(B60G 11/006 takes precedence)}
+   11/15    . . Coil springs resisting deflection by winding up
+   11/16    . . characterised by means specially adapted for
+attaching the spring to axle or sprung part of the
+   11/18    . having torsion-bar springs only {(B60G 11/006
+takes precedence; having rubber springs of the
+torsional-energy-absorption type B60G 11/23)}
+B60G 11/184 takes precedence over
+   11/181   . . {arranged in a plane parallel to the longitudinal
+   11/182   . . {arranged in a plane oblique to the longitudinal
+   11/183   . . {arranged in a plane transverse to the longitudinal
+   11/184   . . {the torsion-bar consisting of a bundle of torsion
+   11/185   . . . {the elements being rods}
+   11/186   . . . . {of hexagonal cross-section}
+   11/187   . . . {the elements being leaf-springs loaded by
+   11/188   . . . {the elements being cables}
+   11/189   . . {the torsion spring consisting of a tube with a
+   11/20    . . characterised by means specially adapted for
+attaching the spring to axle or sprung part of the
+   11/22    . having rubber springs only {(B60G 11/006 takes
+   11/225   . . {Neidhart type rubber springs}
+   11/23    . . of the torsional-energy-absorption type
+   11/24    . . characterised by means specially adapted for
+attaching the spring to axle or sprung part of the
+   11/26    . having fluid springs only, e.g. hydropneumatic
+springs ({B60G 11/006,} B60G 15/12 take
+   11/265   . . {hydraulic springs}
+   11/27    . . wherein the fluid is a gas
+   11/28    . . characterised by means specially adapted for
+attaching the spring to axle or sprung part of the
+   11/30    . . having pressure fluid accumulator therefor, e.g.
+accumulator arranged in vehicle frame {(dampers
+accumulating utilisable energy B60G 13/14)}
+   11/32    . having springs of different kinds {(B60G 11/006
+   11/34    . . including leaf springs
+   11/36    . . . and also helical, spiral or coil springs
+   11/38    . . . and also rubber springs
+   11/40    . . . . the rubber springs being attached to the axle
+   11/42    . . . . the rubber springs being attached to sprung
+   11/44    . . . and also torsion-bar springs
+   11/46    . . . and also fluid springs
+   11/465   . . . . {with a flexible wall}
+   11/48    . . not including leaf springs
+   11/50    . . . having helical, spiral or coil springs, and also
+   11/52    . . . having helical, spiral or coil springs, and also
+   11/54    . . . . with rubber springs arranged within helical,
+   11/56    . . . having helical, spiral or coil springs, and also
+   11/58    . . . . arranged coaxially
+   11/60    . . . having both rubber springs and torsion-bar
+   11/62    . . . having both rubber springs and fluid springs
+   11/64    . . . having both torsion-bar springs and fluid
+   13/00    Resilient suspensions characterised by
+arrangement, location or type of vibration
+dampers (adjusting damping effect B60G 17/06;
+   13/001   . {Arrangements for attachment of dampers
+(mounting arrangements of combined spring and
+damper units B60G 15/00; mountings of fluid
+   13/003   . . {characterised by the mounting on the vehicle
+body or chassis of the damper unit}
+   13/005   . . {characterised by the mounting on the axle or
+suspension arm of the damper unit}
+   13/006   . . . {on the stub axle}
+   13/008   . . . {involving use of an auxiliary cylinder
+(B60G 13/006 takes precedence)}
+   13/02    . having dampers dissipating energy, e.g. frictionally
+   13/04    . . mechanically, e.g. having frictionally-engaging
+   13/12    . . . quasi-fluid, i.e. having powdered medium
+   13/14    . having dampers accumulating utilisable energy, e.g.
+compressing air {(fluid springs with an accumulator
+   13/16    . having dynamic absorbers as main damping means,
+i.e. spring-mass system vibrating out of phase
+   13/18    . . combined with energy-absorbing means
+   15/00    Resilient suspensions characterised by
+arrangement, location or type of combined
+spring and vibration damper, e.g. telescopic type
+(combined spring and vibration-dampers per se F16F)
+   15/02    . having mechanical spring
+   15/04    . . and mechanical damper {or dynamic damper}
+   15/06    . . and fluid damper
+   15/061   . . . {with a coil spring being mounted inside the
+   15/062   . . . {the spring being arranged around the damper
+(B60G 15/061, B60G 15/067, B60G 15/07 take
+   15/063   . . . . {characterised by the mounting of the spring
+on the damper (B60G 15/065, B60G 15/066
+   15/065   . . . . {characterised by the use of a combination of
+   15/066   . . . . {the spring being different from a coil spring
+(B60G 15/065 takes precedence)}
+   15/067   . . . {characterised by the mounting on the vehicle
+body or chassis of the spring and damper unit}
+   15/068   . . . . {specially adapted for MacPherson strut-type
+   15/07    . . . the damper being connected to the stub axle
+and the spring being arranged around the
+damper {(B60G 15/068 takes precedence)}
+   15/08    . having fluid spring
+   15/10    . . and mechanical damper {or dynamic damper}
+   15/12    . . and fluid damper
+   15/14    . . . the damper being connected to the stub axle
+and the spring being arranged around the
+   17/00    Resilient suspensions having means for adjusting
+the spring or vibration-damper characteristics,
+for regulating the distance between a supporting
+surface and a sprung part of vehicle or for
+locking suspension during use to meet varying
+vehicular or surface conditions, e.g. due to speed
+or load {(levelling or stabilising systems for tippers
+   17/002   . {by temperature regulation of the suspension unit,
+   17/005   . Suspension locking arrangements {(for retractable
+   17/015   . the regulating means comprising electric or
+electronic elements ({B60G 17/002}, B60G 17/005
+   17/0152  . . {characterised by the action on a particular
+type of suspension unit (B60G 17/01941 takes
+   17/0155  . . . {pneumatic unit}
+   17/0157  . . . {non-fluid unit, e.g. electric motor}
+   17/016   . . characterised by their responsiveness, when the
+vehicle is travelling, to specific motion, a specific
+condition, or driver input {(B60G 17/017 takes
+   17/0161  . . . {mainly during straight-line motion
+(B60G 17/0164 takes precedence)}
+   17/0162  . . . {mainly during a motion involving steering
+operation, e.g. cornering, overtaking
+(B60G 17/0164 takes precedence)}
+   17/0163  . . . . {the control involving steering geometry, e.g.
+   17/0164  . . . {mainly during accelerating or braking}
+   17/0165  . . . to an external condition, e.g. rough road
+   17/017   . . characterised by their use when the vehicle is
+stationary, e.g. during loading, engine start-up or
+   17/018   . . characterised by the use of a specific signal
+   17/0182  . . . {involving parameter estimation, e.g. observer,
+   17/0185  . . . for failure detection
+   17/019   . . characterised by the type of sensor or the
+arrangement thereof {(B60G 17/01941 takes
+   17/01908 . . . {Acceleration or inclination sensors
+(characterised by the use of gyroscopes
+   17/01916 . . . . {Mercury-switch type devices}
+   17/01925 . . . . {Pendulum-type devices}
+   17/01933 . . . {Velocity, e.g. relative velocity-displacement
+   17/01941 . . . {characterised by the use of piezo-electric
+elements, e.g. sensors or actuators}
+   17/0195  . . characterised by the regulation being combined
+with other vehicle control systems {(conjoint
+control of vehicle sub-units including control of
+suspension systems B60W 10/22)}
+   17/02    . Spring characteristics {, e.g. mechanical springs
+and mechanical adjusting means}(B60G 17/005,
+   17/021   . . {the mechanical spring being a coil spring
+(B60G 17/0272 takes precedence)}
+   17/023   . . {the mechanical spring being a leaf spring
+(B60G 17/0275 takes precedence)}
+   17/025   . . {the mechanical spring being a torsion spring
+(B60G 17/0277, B60G 21/0553 take precedence)}
+   17/027   . . Mechanical springs regulated by fluid means
+   17/0272  . . . {the mechanical spring being a coil spring}
+   17/0275  . . . {the mechanical spring being a leaf spring}
+   17/0277  . . . {the mechanical spring being a torsion spring
+(B60G 21/0553 takes precedence)}
+   17/033   . . characterised by regulating means acting on more
+   17/04    . . fluid spring characteristics
+   17/0408  . . . {details, e.g. antifreeze for suspension fluid,
+pumps, retarding means  per se}
+   17/0416  . . . {regulated by varying the resiliency of
+hydropneumatic suspensions (B60G 17/048
+   17/0424  . . . . {by varying the air pressure of the
+   17/0432  . . . . {by varying the number of accumulators
+connected to the hydraulic cylinder
+(B60G 17/0424 takes precedence)}
+   17/044   . . . Self-pumping fluid springs (pumps for liquids
+   17/048   . . . with the regulating means inside the fluid
+springs (B60G 17/044 takes precedence)
+   17/0485  . . . . {the springs being pneumatic springs with a
+flexible wall, e.g. with levelling valves}
+   17/052   . . . Pneumatic spring characteristics (B60G 17/048
+takes precedence {; valves per se F16K})
+   17/0521  . . . . {the spring having a flexible wall}
+   17/0523  . . . . {Regulating distributors or valves for
+   17/0525  . . . . . {Height adjusting or levelling valves}
+   17/0526  . . . . . {Distributor units, e.g. for retractable
+wheels (vehicles with retractable wheels
+   17/0528  . . . . . {Pressure regulating or air filling valves}
+   17/056   . . . Regulating distributors or
+systems}(B60G 17/044 - B60G 17/048,
+{B60G 17/0416} take precedence; {Fluid
+interconnection systems to control vehicle
+inclination B60G 21/06, B60G 21/10}; valves
+   17/0565  . . . . {Height adjusting valves}
+   17/06    . Characteristics of dampers {, e.g. mechanical
+dampers}(B60G 17/015 takes precedence)
+   17/08    . . Characteristics of fluid dampers (adjusting fluid
+dampers in general F16F 9/44 - F16F 9/53)
+   21/00    Interconnection systems for two or more
+resiliently-suspended wheels, e.g. for stabilising
+a vehicle body with respect to acceleration,
+deceleration or centrifugal forces (B60G 17/033
+takes precedence {; levelling or stabilising systems
+for tippers B60P 1/045}; steering deflectable wheels
+combined with means for inwardly inclining the
+vehicle body on bends B62D 9/02)
+   21/007   . {means for adjusting the wheel inclination}
+   21/02    . permanently interconnected
+   21/023   . . {longitudinally}
+   21/026   . . {transversally}
+   21/045   . . . between wheels on different axles on the same
+side of the vehicle, i.e. the left or the right side
+   21/05    . . . between wheels on the same axle but on
+different sides of the vehicle, i.e. the left and
+right wheel suspensions being interconnected
+   21/051   . . . . {Trailing arm twist beam axles}
+   21/052   . . . . . {Mounting means therefor}
+   21/053   . . . . . . {adjustable}
+   21/055   . . . . Stabiliser bars
+   21/0551  . . . . . {Mounting means therefor}
+   21/0553  . . . . . . {adjustable}
+   21/0555  . . . . . . . {including an actuator inducing
+   21/0556  . . . . . . . {including a releasable coupling
+(B60G 21/0555 takes precedence)}
+   21/0558  . . . . . . . {including means varying the stiffness
+of the stabiliser (B60G 21/0556 takes
+   21/067   . . . between wheels on different axles on the same
+side of the vehicle, i.e. the left or the right side
+   21/073   . . . between wheels on the same axle but on
+different sides of the vehicle, i.e. the left and
+right wheel suspensions being interconnected
+   21/08    . characterised by use of gyroscopes (gyroscopes
+for stabilising vehicle bodies without controlling
+suspension arrangements B62D 37/06)
+   21/10    . not permanently interconnected, e.g. operative only
+on acceleration, only on deceleration or only at off-
+   21/103   . . {longitudinally}
+   21/106   . . {transversally}
+   99/00    Subject matter not provided for in other groups of
+   99/002   . {Suspension details of the suspension of the vehicle
+   99/004   . {Other suspension arrangements with rubber
+   99/006   . {Other suspension arrangements with metallic
+   99/008   . {Other suspension arrangements with fluid springs}
+ 2200/00    Indexing codes relating to suspension types
+ 2200/10    . Independent suspensions
+ 2200/13    . . with longitudinal arms only
+ 2200/132   . . . with a single trailing arm
+ 2200/1322  . . . . with a wishbone or triangular arm
+ 2200/1324  . . . . with a resilient trailing arm
+ 2200/14    . . with lateral arms
+ 2200/141   . . . with one trailing arm and one lateral arm only
+ 2200/142   . . . with a single lateral arm, e.g. MacPherson type
+ 2200/1422  . . . . the lateral arm being resilient
+ 2200/1424  . . . . the lateral arm having an L-shape
+ 2200/143   . . . with lateral arms crossing each other, i.e. X
+formation as seen along the longitudinal axis
+ 2200/144   . . . with two lateral arms forming a parallelogram
+ 2200/1442  . . . . including longitudinal rods
+ 2200/154   . . . the lateral arm having an L-shape
+ 2200/156   . . . wishbone-type arm formed by two links
+ 2200/17    . . with a strut contributing to the suspension
+geometry by being articulated onto the wheel
+ 2200/18    . . Multilink suspensions, e.g. elastokinematic
+ 2200/182   . . . with one longitudinal arm or rod and lateral
+ 2200/184   . . . Assymetric arrangements
+ 2200/20    . Semi-rigid axle suspensions
+ 2200/21    . . Trailing arms connected by a torsional beam, i.e.
+ 2200/22    . . Trailing arms connected by a straight torsion bar
+ 2200/23    . . Trailing arms connected by a U-shaped torsion
+ 2200/24    . . Interconnected split axles
+ 2200/30    . Rigid axle suspensions
+ 2200/31    . . with two trailing arms rigidly connected to the
+ 2200/312   . . with one of the two trailing arms being rigidly
+ 2200/314   . . with longitudinally arranged arms articulated on
+ 2200/315   . . . at least one of the arms having an A or V shape
+ 2200/318   . . two or more axles being mounted on a
+longitudinal rocking or walking beam
+ 2200/322   . . . with a single pivot point and a straight axle
+ 2200/324   . . . with a single pivot point and a triangular "T" or
+"U"-shaped axle, e.g. DeDion arrangement
+ 2200/326   . . . with two laterally spaced pivots, e.g. trailing
+ 2200/34    . . Stabilising mechanisms, e.g. for lateral stability
+ 2200/3415  . . . . Scott-Russel linkage
+ 2200/343   . . . with an axle suspended by two pivoted rods in
+"V"-arrangement, the rods being coupled at its
+ 2200/344   . . . with an axle suspended by two pivoted rods in
+an inverted "V"-arrangement, the rods being
+ 2200/345   . . . with an axle suspended by two pivoted rods in
+ 2200/346   . . . with an axle suspended by two laterally
+displaced rods having an imaginary point of
+intersection above the wheel axis
+ 2200/347   . . . with an axle suspended by two laterally
+displaced rods having an imaginary point of
+intersection below the wheel axis
+ 2200/40    . Indexing codes relating to the wheels in the
+ 2200/42    . . Driven wheels or dead axles
+ 2200/422   . . Driving wheels or live axles
+ 2200/445   . . Self-steered wheels
+ 2200/446   . . Non-steerable wheels
+ 2200/4622  . . . Alignment adjustment
+ 2200/466   . . Damping acceleration or deceleration torque on
+ 2202/00    Indexing codes relating to the type of spring,
+ 2202/112   . . . longitudinally arranged
+ 2202/114   . . . transversally arranged
+ 2202/116   . . . having a "C" form loaded only at its ends
+transversally to its central axis
+ 2202/117   . . . having a "C" form loaded parallel to its central
+ 2202/122   . . . subjected to tension
+ 2202/132   . . . comprising a longitudinal torsion bar and/or
+ 2202/134   . . . comprising a transversal torsion bar and/or tube
+ 2202/135   . . . Stabiliser bar and/or tube
+ 2202/1351  . . . . comprising at least two stabiliser bars
+ 2202/136   . . . Twist-beam type arrangement
+ 2202/1362  . . . . including a second torsional element, e.g.
+second beam, stabiliser bar or tube
+ 2202/14    . . Plastic spring, e.g. rubber
+ 2202/141   . . . subjected to tension
+ 2202/142   . . . subjected to shear, e.g. Neidhart type
+ 2202/143   . . . subjected to compression
+ 2202/144   . . . of rotary type
+ 2202/152   . . . Pneumatic spring
+ 2202/1522  . . . . of rotary type
+ 2202/1524  . . . . with two air springs per wheel, arranged
+before and after the wheel axis
+ 2202/154   . . . with an accumulator
+ 2202/16    . . Magnetic spring
+ 2202/21    . . with two dampers per wheel, arranged before and
+ 2202/23    . . Friction Damper
+ 2202/242   . . . Pneumatic damper
+ 2202/30    . Spring/Damper and/or actuator Units
+ 2202/31    . . with the spring arranged around the damper, e.g.
+ 2202/312   . . . The spring being a wound spring
+ 2202/314   . . . The spring being a pneumatic spring
+ 2202/32    . . The spring being in series with the damper and/or
+ 2202/322   . . . the damper being controllable
+ 2202/412   . . . Pneumatic actuator
+ 2202/413   . . . Hydraulic actuator
+ 2202/414   . . . using electrohydraulic valves
+ 2202/415   . . . using other types of valves, e.g. mechanically
+ 2202/416   . . . using a pump, e.g. in the line connecting the
+lower chamber to the upper chamber of the
+ 2202/42    . . Electric actuator
+ 2202/424   . . . electrostrictive materials, e.g. piezoelectric
+ 2202/43    . . Mechanical actuator
+ 2202/44    . . Axial actuator, e.g. telescopic
+ 2202/441   . . . where axial movement is translated to rotation
+ 2202/442   . . Rotary actuator
+ 2202/45    . . Other types, e.g. external jets for stability with
+ 2202/49    . . Other type, e.g. external jets for stability
+ 2204/00    Indexing codes related to suspensions per se or to
+ 2204/10    . Mounting of suspension elements
+ 2204/11    . . Mounting of sensors thereon
+ 2204/111   . . . on pneumatic springs
+ 2204/112   . . . on dampers, e.g. fluid dampers
+ 2204/113   . . . Tyre related sensors
+ 2204/114   . . . Steering column mounted sensors
+ 2204/115   . . . Wheel hub bearing sensors
+ 2204/116   . . . Sensors coupled to the suspension arm
+ 2204/1162  . . . . directly mounted on the suspension arm
+ 2204/12    . . Mounting of springs or dampers
+ 2204/121   . . . Mounting of leaf springs
+ 2204/122   . . . Mounting of torsion springs
+ 2204/1222  . . . . Middle mounts of stabiliser on vehicle body
+ 2204/1224  . . . . End mounts of stabiliser on wheel
+ 2204/1226  . . . . on the trailing arms of a twist beam type
+ 2204/124   . . . Mounting of coil springs
+ 2204/1242  . . . . on a damper, e.g. MacPerson strut
+ 2204/12422 . . . . . anchoring the end coils on the spring
+ 2204/1244  . . . . on a suspension arm
+ 2204/1246  . . . . on twist beam axles
+ 2204/125   . . . Mounting of rubber type springs
+ 2204/126   . . . Mounting of pneumatic springs
+ 2204/1262  . . . . on a damper
+ 2204/127   . . . with the mounting of springs or dampers
+moving so that the direction of the related force
+vector can be changed, thus contributing to a
+variation of the loading of the wheel
+ 2204/128   . . . Damper mount on vehicle body or chassis
+ 2204/129   . . . Damper mount on wheel suspension or knuckle
+ 2204/13    . . . with the spring, i.e. coil spring, or damper
+ 2204/1302  . . . . inside the vehicle frame
+ 2204/14    . . Mounting of suspension arms
+ 2204/143   . . . on the vehicle body or chassis
+ 2204/1431  . . . . of an L-shaped arm
+ 2204/1432  . . . . by vertical bolts or studs
+ 2204/1434  . . . . in twist-beam axles arrangement
+ 2204/147   . . . on the vehicle engine body
+ 2204/148   . . . on the unsprung part of the vehicle, e.g. wheel
+ 2204/1482  . . . . on rigid axle by elastic mount
+ 2204/1484  . . . . on an intermediate upright strut upon which
+ 2204/149   . . . Mounting of rigid axle on wheel knuckle
+ 2204/15    . . Mounting of subframes
+ 2204/16    . . Mounting of vehicle body on chassis
+ 2204/162   . . . Cabins, e.g. for trucks, tractors
+ 2204/17    . . Mounting of bogies, e.g. for trailers
+ 2204/18    . . Mounting of vehicle engines
+ 2204/182   . . . Electric motor on wheel support
+ 2204/19    . . Mounting of transmission differential
+ 2204/20    . . Mounting of accessories, e.g. pump, compressor
+ 2204/201   . . . of fluid lines
+ 2204/2022  . . . . using a suspension element (e.g. link, damper
+or spring) as part of the electrical circuitry
+ 2204/22    . . Linking of trailers to trucks, e.g. truck-trailer
+ 2204/30    . . In-wheel mountings
+ 2204/40    . Auxiliary suspension parts; Adjustment of
+ 2204/41    . . Elastic mounts, e.g. bushings
+ 2204/4102  . . . having a pin or stud extending perpendicularly
+to the axis of the elastic mount
+ 2204/4103  . . . having an eccentrically located inner sleeve
+ 2204/4104  . . . Bushings having modified rigidity in particular
+ 2204/41042 . . . . by using internal cam surfaces
+ 2204/41043 . . . . formed by a U-shaped external bracket
+ 2204/41044 . . . . in a shell for being loaded mainly in
+axial direction, e.g. piston rod mounts,
+longitudinal push-pull rod mounts
+ 2204/41046 . . . . having the axis of an inner sleeve or pin
+inclined to the axis of the bush
+ 2204/4106  . . . Elastokinematic mounts
+ 2204/41062 . . . . hydromounts; interconnected mounts
+ 2204/4108  . . . Resilient element being enclosed and or pres-
+ 2204/416   . . Ball or spherical joints
+ 2204/418   . . Bearings, e.g. ball or roller bearings
+ 2204/4191  . . . Planetary or epicyclic gears
+ 2204/4192  . . . rack and pinion
+ 2204/42    . . Joints with cam surfaces
+ 2204/421   . . Pivoted lever mechanisms for mounting
+suspension elements, e.g. Watt linkage
+ 2204/422   . . Links for mounting suspension elements
+ 2204/4222  . . . for movement on predefined locus of, e.g. the
+ 2204/423   . . Rails, tubes, or the like, for guiding the movement
+ 2204/4232  . . . Sliding mounts
+ 2204/424   . . Mechanisms for force adjustment, e.g. constant
+ 2204/43    . . Fittings, brackets or knuckles
+ 2204/4302  . . . for fixing suspension arm on the vehicle body
+ 2204/4304  . . . Bracket for lower cylinder mount of
+ 2204/4305  . . . Bracket for mounting of hydraulic lines on a
+ 2204/4306  . . . Bracket or knuckle for rigid axles, e.g. for
+ 2204/43065 . . . . U-shaped bolts crossing each other
+ 2204/4307  . . . Bracket or knuckle for torsional springs
+ 2204/4308  . . . Protecting guards, e.g. for rigid axle damage
+ 2204/44    . . Centering or positioning means
+ 2204/4402  . . . Spacers or shims
+ 2204/4404  . . . Retainers for holding a fixing element, e.g.
+bushing, nut, bolt etc., until it is tightly fixed in
+ 2204/45    . . Stops limiting travel
+ 2204/4502  . . . using resilient buffer
+ 2204/45021 . . . . for limiting upper mount movement of a
+ 2204/4504  . . . using cable or band to prevent extension
+ 2204/46    . . Means for locking the suspension
+ 2204/4602  . . . Locking of a McPerson type strut upper mount
+ 2204/4604  . . . mechanically, e.g. using a hook as anticreep
+ 2204/4605  . . . hydraulically, e.g. interrupting communication
+between the chambers of a hydraulic cylinder
+ 2204/47    . . Means for retracting the suspension
+ 2204/4702  . . . pneumatically
+ 2204/61    . Adjustable during maintenance
+ 2204/62    . Adjustable continuously, e.g. during driving
+ 2204/80    . Interactive suspensions; arrangement affecting more
+ 2204/81    . . front and rear unit
+ 2204/8102  . . . diagonally arranged
+ 2204/82    . . left and right unit on same axle
+ 2204/83    . . Type of interconnection
+ 2204/83022 . . . . using cables, wires, belts or chains
+ 2204/8304  . . . using a fluid
+ 2204/8306  . . . Permanent; Continuous
+ 2206/00    Indexing codes related to the manufacturing of
+suspensions: constructional features, the materials
+ 2206/01    . Constructional features of suspension elements, e.g.
+ 2206/011   . . Modular constructions
+ 2206/0112  . . . Bogies for heavy vehicles
+ 2206/0114  . . . Independent suspensions on subframes
+ 2206/0116  . . . Integrated distribution control units with
+valves, accumulators, PCB's or the like
+ 2206/012   . . Hollow or tubular elements
+ 2206/0122  . . . having a U profile with plate closing the profile
+in the total or partial length of the element
+ 2206/013   . . with embedded inserts for material reinforcement
+ 2206/014   . . with reinforcing nerves or branches
+ 2206/016   . . allowing controlled deformation during collision
+ 2206/017   . . forming an eye for the bushing
+ 2206/10    . . Constructional features of arms
+ 2206/11    . . . the arm being a radius or track or torque or
+steering rod or stabiliser end link
+ 2206/111   . . . . of adjustable length
+ 2206/1112  . . . . . Manually, for alignment purposes
+ 2206/1114  . . . . . Self-adjustable during driving
+ 2206/1116  . . . . . Actively adjustable during driving
+ 2206/12    . . . with two attachment points on the sprung part
+ 2206/121   . . . the arm having an H or X-shape
+ 2206/122   . . . the arm having L-shape
+ 2206/123   . . . the arm having T-shape
+ 2206/124   . . . the arm having triangular or Y-shape, e.g.
+ 2206/13    . . . with more than two attachment points on the
+ 2206/14    . . . the arm forming a U-shaped recess for fitting a
+ 2206/141   . . . . The recess being integrally or seamlessly
+ 2206/15    . . . the arm being resilient
+ 2206/16    . . . the arm having a U profile and/or made of a
+ 2206/161   . . . . with middle section narrower than end
+ 2206/162   . . . . with a plate closing the profile in the total or
+ 2206/20    . . Constructional features of semi-rigid axles, e.g.
+ 2206/201   . . . with detachable cross beam and/or torsion
+ 2206/202   . . . with a radially deformed tube as a cross
+ 2206/203   . . . with outwardly bent trailing arms to increase
+the width of the support or wheelbase
+ 2206/30    . . Constructional features of rigid axles
+ 2206/31    . . . Straight axle
+ 2206/32    . . . Hollow cross section
+ 2206/40    . . Constructional features of dampers and/or springs
+ 2206/422   . . . . Accumulators for hydropneumatic springs
+ 2206/4222  . . . . . with a flexible separating wall; Membrane
+ 2206/424   . . . . Plunger or top retainer construction for
+bellows or rolling lobe type air springs
+ 2206/426   . . . . Coil springs having a particular shape, e.g.
+curved axis, pig-tail end coils
+ 2206/427   . . . . Stabiliser bars or tubes
+ 2206/428   . . . . Leaf springs
+ 2206/50    . . Constructional features of wheel supports
+or knuckles, e.g. steering knuckles, spindle
+ 2206/60    . . Subframe construction
+ 2206/601   . . . Hanger bracket
+ 2206/602   . . . Single transverse beam
+ 2206/604   . . . with two parallel beams connected by cross
+ 2206/605   . . . Flexible constructions
+ 2206/606   . . . Complex constructions
+ 2206/70    . . Materials used in suspensions
+ 2206/71    . . . Light weight materials
+ 2206/7101  . . . . Fiber-reinforced plastics [FRP]
+ 2206/7102  . . . . Aluminium alloys
+ 2206/7103  . . . . Magnesium alloys
+ 2206/7104  . . . . Thermoplastics
+ 2206/71042 . . . . . Polyester elastomer
+ 2206/71043 . . . . . Polyamid elastomer
+ 2206/71044 . . . . . Soft nylon
+ 2206/7105  . . . . Porous materials, ceramics, e.g. as filling
+ 2206/724   . . . . Wires, bars or the like
+ 2206/73    . . . Rubber; Elastomers
+ 2206/80    . . Manufacturing procedures
+ 2206/81012 . . . . . by injection moulding
+ 2206/8102  . . . . by stamping
+ 2206/81022 . . . . . by forging
+ 2206/8103  . . . . by folding or bending
+ 2206/81035 . . . . . involving heating to relieve internal
+ 2206/8105  . . . . by extrusion
+ 2206/8106  . . . . by thermal treatment, e.g. curing hardening,
+ 2206/81062 . . . . . to relieve internal stresses, e.g. during
+ 2206/8107  . . . . by hydroforming
+ 2206/8108  . . . . by twisting
+ 2206/8111  . . . . by machining
+ 2206/8112  . . . . by thermal spraying of molten material
+ 2206/82012 . . . . . Pressure welding
+ 2206/82013 . . . . . Friction or heat welding
+ 2206/82014 . . . . . Magnetic pulse welding (welding by
+magnetic pulse in general B23K 20/06)
+ 2206/8205  . . . . by conical or compressed rubber clamping
+ 2206/8206  . . . . by riveting
+ 2206/8207  . . . . by screwing
+ 2206/8208  . . . . by hemming or seaming, e.g. by folding of
+ 2206/8209  . . . . by deformation
+ 2206/82092 . . . . . by press-fitting
+ 2206/8403  . . . . Shot-peening
+ 2206/85    . . . Filament winding
+ 2206/91    . . . Assembly procedures
+ 2206/911   . . . . using a modification kit
+ 2206/92    . . . Tools or equipment used for assembling
+ 2206/921   . . . . Coil spring compressor
+ 2206/93    . . . Tools used for adjustments
+ 2206/931   . . . . McPherson strut positioning tool
+ 2206/94    . . . Tools used for supporting parts
+ 2206/99    . . . Suspension element selection procedure
+depending on loading or performance
+requirements, e.g. selection of damper, spring
+ 2300/00    Indexing codes relating to the type of vehicle
+ 2300/02    . Trucks; Load vehicles
+ 2300/022   . . Fork lift trucks, Clark
+ 2300/026   . . Heavy duty trucks
+ 2300/0262  . . . Multi-axle trucks
+ 2300/03    . Silo or fluid transporting vehicles
+ 2300/044   . . Truck-trailer connections
+ 2300/07    . Off-road vehicles
+ 2300/08    . Agricultural vehicles
+ 2300/083   . . Boom carrying vehicles, e.g. for crop spraying
+ 2300/084   . . Ridable lawn mowers
+ 2300/09    . Construction vehicles, e.g. graders, excavators
+ 2300/102   . . having track following mechanismn for lateral
+ 2300/12    . Cycles; Motorcycles
+ 2300/13    . Small sized city motor vehicles
+ 2300/27    . Racing vehicles, e.g. F1
+ 2300/28    . Amphibious vehicles
+ 2300/36    . Independent Multi-axle long vehicles
+ 2300/37    . Vehicles having steerable wheels mounted on a
+ 2300/38    . Low or lowerable bed vehicles
+ 2300/40    . Variable track or wheelbase vehicles
+ 2300/402   . . Extra load carrying wheels, e.g. tag axles
+ 2300/45    . Rolling frame vehicles
+ 2300/50    . Electric vehicles; Hybrid vehicles
+ 2300/60    . Vehicles using regenerative power
+ 2400/00    Indexing codes relating to detected, measured or
+calculated conditions or factors
+ 2400/0514  . . . Wheel angle detection
+ 2400/05142 . . . . Wheel camber
+ 2400/05146 . . . . Wheel caster
+ 2400/0516  . . . Angular position of a suspension element
+ 2400/05162 . . . . the element being a suspension arm
+ 2400/053   . . Angular acceleration
+ 2400/0531  . . . Roll acceleration
+ 2400/0532  . . . Pitch acceleration
+ 2400/0533  . . . Yaw acceleration
+ 2400/10    . Acceleration; Deceleration
+ 2400/104   . . lateral or transversal with regard to vehicle
+ 2400/1042  . . . using at least two sensors
+ 2400/106   . . longitudinal with regard to vehicle, e.g. braking
+ 2400/1062  . . . using at least two sensors
+ 2400/202   . . Piston speed; Relative velocity between vehicle
+ 2400/2042  . . . Lateral speed
+ 2400/206   . . Body oscillation speed; Body vibration frequency
+ 2400/208   . . of wheel rotation
+ 2400/25    . Stroke; Height; Displacement
+ 2400/257   . . . transversal with regard to vehicle
+ 2400/258   . . . longitudinal with regard to vehicle
+ 2400/30    . Propulsion unit conditions
+ 2400/302   . . Selected gear ratio; Transmission function
+ 2400/304   . . . neutral position
+ 2400/31    . . Clutch condition
+ 2400/32    . . Torque on propulsion shaft
+ 2400/33    . . Throttle position
+ 2400/34    . . Accelerator pedal position
+ 2400/35    . . Position of fuel or air injector
+ 2400/36    . . Functioning of turbocharger
+ 2400/37    . . Brake pad or disc friction
+ 2400/38    . . Speed of engine rotation
+ 2400/382   . . . Ignition switch
+ 2400/39    . . Brake pedal position
+ 2400/40    . Steering conditions
+ 2400/412   . . . of steering wheel or column
+ 2400/4122  . . . . Neutral position detection
+ 2400/42    . . Steering torque
+ 2400/46    . . Steering frequency
+ 2400/47    . . Rear wheel steering
+ 2400/51    . . in suspension unit
+ 2400/5122  . . . . Fluid spring
+ 2400/51222 . . . . . Pneumatic
+ 2400/5182  . . . . Fluid damper
+ 2400/61    . . Load distribution
+ 2400/62    . . Seat occupation; Passenger presence
+ 2400/63    . . Location of the center of gravity
+ 2400/64    . . Wheel forces, e.g. on hub, spindle or bearing
+ 2400/70    . Temperature of vehicle part or in the vehicle
+ 2400/71    . . of suspension unit
+ 2400/7122  . . . . Fluid spring
+ 2400/7162  . . . . Fluid damper
+ 2400/72    . . in vehicle interior
+ 2400/73    . . of other part than suspension unit
+ 2400/732   . . . of propulsion unit
+ 2400/80    . Exterior conditions
+ 2400/821   . . . Uneven, rough road sensing affecting vehicle
+ 2400/822   . . . Road friction coefficient determination
+ 2400/8222  . . . . Hydroplaning
+ 2400/823   . . . Obstacle sensing
+ 2400/824   . . . Travel path sensing; Track monitoring
+ 2400/84    . . Atmospheric conditions
+ 2400/8424  . . . . of ground or road
+ 2400/843   . . . Humidity; Rainfall
+ 2400/847   . . . Sunshine; Light
+ 2400/90    . Other conditions or factors
+ 2400/92    . . Travelling or driving time
+ 2400/922   . . Travelling distance
+ 2400/94    . . Deformation of a vehicle part
+ 2400/942   . . . of vehicle body
+ 2400/95    . . Position of vehicle body elements
+ 2400/952   . . . of door or bonnet
+ 2400/96    . . Presence, absence or inactivity of driver
+ 2400/97    . . Relation between towing and towed vehicle, e.g.
+ 2400/972   . . . Angle of articulation
+ 2400/98    . . Stabiliser movement
+ 2401/00    Indexing codes relating to the type of sensors based
+on the principle of their operation
+ 2401/10    . Piezoelectric elements
+ 2401/11    . Electrostrictive transducers
+ 2401/122   . . Wheatstone bridge circuit
+ 2401/14    . Photo or light sensitive means, e.g. Infrared
+ 2401/142   . . Visual Display Camera, e.g. LCD
+ 2401/144   . . Fiber optic sensor
+ 2401/17    . Magnetic/Electromagnetic
+ 2401/176   . . Radio or audio sensitive means, e.g. Ultrasonic
+ 2401/19    . Speech recognising means
+ 2401/20    . Switches, e.g. mercury or ball type switches
+ 2401/22    . Radioactivity sensitive materials
+ 2401/24    . Heat sensitive materials; temperature gauge
+ 2401/25    . Capacitance type, e.g. as level indicator
+ 2401/26    . Resistance type, e.g. as level indicator
+ 2401/27    . Gravitational, e.g. pendulum or axial movement
+ 2401/90    . Single sensor for two or more measurements
+ 2401/902   . . the sensor being an xy axis sensor
+ 2401/904   . . the sensor being an xyz axis sensor
+ 2500/00    Indexing codes relating to the regulated action or
+ 2500/02    . Supply or exhaust flow rates; Pump operation
+ 2500/022   . . Minimisation of pressure cavitation effects upon
+ 2500/04    . using inertia type valves
+ 2500/10    . Damping action or damper
+ 2500/112   . . . Fluid actuation
+ 2500/114   . . . pressure regulating valves
+ 2500/116   . . . for damping pressure oscillations of the fluid in
+ 2500/20    . Spring action or springs
+ 2500/201   . . Air spring system type
+ 2500/2014  . . . Closed systems
+ 2500/202   . . Height or leveling valve for air-springs
+ 2500/2021  . . . Arrangement of valves
+ 2500/2022  . . . with valve seat actuation for selectively
+ 2500/203   . . Distributor valve units comprising several
+elements, e.g. valves, pump or accumulators
+ 2500/204   . . Pressure regulating valves for air-springs
+ 2500/2041  . . . for variable volume air springs, e.g. using
+accumulators as expansion chambers
+ 2500/2042  . . . Air filling valves
+ 2500/2043  . . . Wheatstone bridge type valve arrangements
+ 2500/2044  . . . Air exhausting valves
+ 2500/2046  . . . Pressure equalising valves between two units
+ 2500/205   . . Air-compressor operation
+ 2500/206   . . Variable pressure accumulators for
+ 2500/2062  . . . by varying the air-pressure of the accumulator
+ 2500/2064  . . . by varying the number of accumulators
+connected in parallel to the hydraulic cylinder
+ 2500/22    . . Spring constant
+ 2500/30    . Height or ground clearance
+ 2500/302   . . using distributor valves
+ 2500/32    . . of only one vehicle part or side
+ 2500/322   . . . only front part
+ 2500/324   . . . only rear part
+ 2500/326   . . . only left or right side
+ 2600/00    Indexing codes relating to particular elements,
+systems or processes used on suspension systems or
+ 2600/02    . Retarders, delaying means, dead zones, threshold
+values, cut-off frequency, timer interruption
+ 2600/04    . Means for informing, instructing or displaying
+ 2600/042   . . Monitoring means
+ 2600/0422  . . . involving data transmission, e.g. via satellite
+or GPS; for data monitoring, telemetry or
+ 2600/08    . Failure or malfunction detecting means
+ 2600/084   . . Supervisory systems
+ 2600/086   . . Redundant systems
+ 2600/11    . Feedforward signal
+ 2600/12    . Sampling or average detecting; Addition or
+ 2600/122   . . Summation signal
+ 2600/14    . Differentiating means, i.e. differential control
+ 2600/16    . Integrating means, i.e. integral control
+ 2600/17    . Proportional control, i.e. gain control
+ 2600/172   . . Weighting coefficients or factors
+ 2600/18    . Automatic control means
+ 2600/181   . . Signal modulation; pulse-width, frequency-phase
+ 2600/182   . . Active control means
+ 2600/184   . . Semi-Active control means
+ 2600/186   . . Analogue Controller Details and Signal
+ 2600/187   . . Digital Controller Details and Signal Treatment
+ 2600/1871  . . . Optimal control; Kalman Filters
+ 2600/1872  . . . Observer; Luaponov function
+ 2600/1873  . . . Model Following
+ 2600/1874  . . . Modal analysis
+ 2600/1875  . . . Other parameter or state estimation methods
+not involving the mathematical modelling of
+ 2600/1876  . . . Artificial intelligence
+ 2600/1877  . . . Adaptive Control
+ 2600/1878  . . . Neural Networks
+ 2600/1879  . . . Fuzzy Logic Control
+ 2600/188   . . Spectral analysis; Transformations
+ 2600/1885  . . . Euler equations
+ 2600/189   . . Statistical analysis
+ 2600/20    . Manual control or setting means
+ 2600/202   . . using a remote, e.g. cordless, transmitter or
+ 2600/204   . . Joystick actuated suspension
+ 2600/206   . . Control-by-wire
+ 2600/21    . Self-controlled or adjusted
+ 2600/22    . Magnetic elements
+ 2600/24    . . permanent magnets
+ 2600/26    . . Electromagnets; Solenoids
+ 2600/28    . Temporary fluctuations
+ 2600/41    . SISO system, i.e. single input - single output system
+ 2600/43    . MIMO system, i.e. multi input - multi output system
+ 2600/44    . Vibration noise suppression
+ 2600/60    . Signal noise suppression; Electronic filtering means
+ 2600/66    . Humidifying or drying means
+ 2600/68    . Filtering means, e.g. fluid filters
+ 2600/70    . Computer memory; Data storage, e.g. maps for
+ 2600/702   . . Parallel processing
+ 2600/704   . . Electronic tags containing data, e.g. identification
+number of a component; Gain values for the
+ 2600/71    . Distributed control; Master - slave controllers;
+ 2600/72    . Cooling or warming means
+ 2600/73    . Electrical control
+ 2600/77    . A/D, D/A signal converters
+ 2600/82    . duty rate function
+ 2600/85    . Speed of regulation
+ 2600/90    . other signal treatment means
+ 2800/00    Indexing codes relating to the type of movement or
+to the condition of the vehicle and to the end result
+to be achieved by the control action
+ 2800/01    . Attitude or posture control
+ 2800/012   . . Rolling condition
+ 2800/0122  . . . Roll rigidity ratio; Warping
+ 2800/0124  . . . Roll-over conditions
+ 2800/014   . . Pitch; Nose dive
+ 2800/016   . . Yawing condition
+ 2800/019   . . Inclination due to load distribution or road
+ 2800/0192  . . . longitudinal with regard to vehicle
+ 2800/0194  . . . transversal with regard to vehicle
+ 2800/162   . . Reducing road induced vibrations
+ 2800/164   . . Heaving; Squatting
+ 2800/18    . Starting, accelerating
+ 2800/20    . Stationary vehicle
+ 2800/202   . . kneeling, e.g. for letting passengers on/off
+ 2800/203   . . lowering the floor for loading/unloading
+ 2800/204   . . adjusting floor height to the loading ramp level
+ 2800/2042  . . . using an anticreep mechanism to lock the
+ 2800/205   . . jacking-up for changing tyre or vehicle inspection
+ 2800/21    . Traction, slip, skid or slide control
+ 2800/212   . . Transversal; Side-slip during cornering
+ 2800/213   . . by applying forward/backward torque on each
+ 2800/214   . . by varying the load distribution
+ 2800/215   . . by applying a braking action on each wheel
+ 2800/22    . Braking, stopping
+ 2800/222   . . during collision
+ 2800/224   . . automatically, based on dangerous living style
+ 2800/226   . . automatically, based on stopping at a preset or
+ 2800/24    . Steering, cornering
+ 2800/242   . . Obstacle avoidance manoeuvre
+ 2800/248   . . Neutral steering behaviour
+ 2800/70    . Estimating or calculating vehicle parameters or state
+ 2800/702   . . Improving accuracy of a sensor signal
+ 2800/7022  . . . Calibration of a sensor, e.g. automatically
+ 2800/704   . . predicting unorthodox driving conditions for safe
+ 2800/80    . Detection or control after a system or component
+ 2800/85    . System Prioritisation
+ 2800/87    . System configuration based on vehicle type or
+ 2800/90    . System Controller type
+ 2800/91    . . Suspension Control
+ 2800/912   . . . Attitude Control; levelling control
+ 2800/9122  . . . . ARS - Anti-Roll System Control
+ 2800/9123  . . . . Active Body Control [ABC]
+ 2800/9124  . . . . Roll-over protection systems, e.g. for
+ 2800/914   . . . Height Control System
+ 2800/915   . . . Suspension load distribution
+ 2800/916   . . . Body Vibration Control
+ 2800/92    . . ABS - Brake Control
+ 2800/922   . . . EBV - Electronic brake force distribution
+ 2800/925   . . Airbag deployment systems
+ 2800/93    . . Skid or slide control [ASR]
+ 2800/94    . . Electronic Stability Program (ESP, i.e. ABS
+ 2800/95    . . Automatic Traction or Slip Control [ATC]
+ 2800/952   . . . Electronic driving torque distribution
+ 2800/954   . . . Four-wheel drive
+ 2800/96    . . ASC - Assisted or power Steering control
+ 2800/962   . . . Four-wheel steering
+ 2800/963   . . . Steer-by-wire
+ 2800/964   . . . Auto-navigation
+ 2800/965   . . . Automatic or driver-independent manoeuvre,
+e.g. for obstacle avoidance or roll-over
+ 2800/97    . . Engine Management System [EMS]
+ 2800/972   . . Electronic Differential Lock [EDS]
+ 2800/98    . . Intelligent Transportation System or Bus [IDB]
+ 2800/982   . . Active Cruise Control, e.g. DISTRONIC type
+ 2800/984   . . Tyre Pressure Monitoring Systems

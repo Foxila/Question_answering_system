@@ -1,0 +1,1941 @@
+COOPERATIVE PATENT CLASSIFICATION
+PROCESSES OR MEANS, e.g. BATTERIES, FOR THE DIRECT CONVERSION OF
+CHEMICAL ENERGY INTO ELECTRICAL ENERGY
+This subclass covers galvanic primary or secondary cells or batteries, fuel cells or stacks.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+In classifying electrodes of hybrid cells, the
+individual half-cells of the hybrid cell are
+considered separately, e.g. an electrode in the
+primary half of a primary/fuel type hybrid cell is
+considered to be a primary-cell electrode covered
+    4/02    . Electrodes composed of, or comprising, active
+ 2004/021   . . {Physical characteristics, e.g. porosity, surface
+ 2004/022   . . {Electrodes made of one single microscopic
+ 2004/023   . . {Gel electrode}
+ 2004/024   . . {Insertable electrodes}
+ 2004/025   . . {with shapes other than plane or cylindrical}
+ 2004/026   . . {characterised by the polarity}
+ 2004/027   . . . {Negative electrodes}
+ 2004/028   . . . {Positive electrodes}
+ 2004/029   . . . {Bipolar electrodes}
+    4/04    . . Processes of manufacture in general
+    4/0402  . . . {Methods of deposition of the material}
+    4/0404  . . . . {by coating on electrode collectors}
+    4/0407  . . . . {by coating on an electrolyte layer}
+    4/0409  . . . . {by a doctor blade method, slip-casting or
+    4/0411  . . . . {by extrusion}
+    4/0414  . . . . {by screen printing}
+    4/0416  . . . . {involving impregnation with a
+solution, dispersion, paste or dry powder
+(H01M 4/0438 takes precedence)}
+    4/0419  . . . . {involving spraying}
+    4/0421  . . . . {involving vapour deposition}
+    4/0423  . . . . . {Physical vapour deposition}
+    4/0426  . . . . . . {Sputtering}
+    4/0428  . . . . . {Chemical vapour deposition}
+    4/043   . . . {involving compressing or compaction}
+    4/0435  . . . . {Rolling or calendering}
+    4/0438  . . . {by electrochemical processing (electroless
+electrochemical plating C23C 18/54)}
+    4/044   . . . . {Activating, forming or electrochemical
+attack of the supporting material}
+    4/0442  . . . . . {Anodisation, Oxidation (electrolytic
+coating by anodisation C25D 9/00)}
+    4/0445  . . . . . {Forming after manufacture of the
+electrode, e.g. first charge, cycling}
+    4/0447  . . . . . . {of complete cells or cells stacks}
+    4/045   . . . . {Electrochemical coating; Electrochemical
+    4/0452  . . . . . {from solutions}
+    4/0454  . . . . . {from melts}
+    4/0457  . . . . . {from dispersions or suspensions;
+    4/0459  . . . . {Electrochemical doping, intercalation,
+    4/0461  . . . . . {Electrochemical alloying}
+    4/0464  . . . . {Electro organic synthesis}
+    4/0466  . . . . . {Electrochemical polymerisation}
+    4/0469  . . . . {Electroforming a self-supporting electrode;
+Electroforming of powdered electrode
+    4/0471  . . . {involving thermal treatment, e.g. firing,
+sintering, backing particulate active material,
+thermal decomposition, pyrolysis}
+    4/0473  . . . {Filling tube-or pockets type electrodes;
+Applying active mass in cup-shaped terminals}
+    4/0476  . . . . {with molten material}
+    4/0478  . . . . {with dispersions, suspensions or pastes}
+    4/048   . . . . {with dry powder}
+    4/0483  . . . {by methods including the handling of a melt
+(H01M 4/0438, take precedence)}
+    4/049   . . . {Manufacturing of an active layer by chemical
+    4/0492  . . . . {Chemical attack of the support material}
+    4/0495  . . . . {Chemical alloying}
+    4/0497  . . . . {Chemical precipitation}
+    4/06    . . Electrodes for primary cells
+    4/08    . . . Processes of manufacture
+    4/10    . . . . of pressed electrodes with central core, i.e.
+    4/12    . . . . of consumable metal or alloy electrodes (use
+of alloy compositions as active materials
+    4/13    . . Electrodes for accumulators with non-aqueous
+electrolyte, e.g. for lithium-accumulators;
+Processes of manufacture thereof
+This group does not cover electrodes for
+accumulators working at high temperatures,
+e.g. molten sodium electrodes, which subject
+matter is classified in group H01M 10/39
+    4/131   . . . Electrodes based on mixed oxides or
+hydroxides, or on mixtures of oxides or
+    4/1315  . . . . containing halogen atoms, e.g. LiCoOxFy
+    4/133   . . . Electrodes based on carbonaceous material, e.g.
+graphite-intercalation compounds or CFx
+    4/134   . . . Electrodes based on metals, Si or alloys
+    4/136   . . . Electrodes based on inorganic compounds
+other than oxides or hydroxides, e.g. sulfides,
+selenides, tellurides, halogenides or LiCoFy
+    4/137   . . . Electrodes based on electro-active polymers
+    4/139   . . . Processes of manufacture
+    4/1391  . . . . of electrodes based on mixed oxides or
+hydroxides, or on mixtures of oxides or
+    4/13915 . . . . . containing halogen atoms, e.g. LiCoOxFy
+    4/1393  . . . . of electrodes based on carbonaceous
+material, e.g. graphite-intercalation
+    4/1395  . . . . of electrodes based on metals, Si or alloys
+    4/1397  . . . . of electrodes based on inorganic compounds
+other than oxides or hydroxides, e.g. sulfides,
+selenides, tellurides, halogenides or LiCoFy
+    4/1399  . . . . of electrodes based on electro-active
+    4/14    . . Electrodes for lead-acid accumulators
+    4/16    . . . Processes of manufacture
+    4/18    . . . . of Planté electrodes
+    4/20    . . . . of pasted electrodes
+    4/21    . . . . . Drying of pasted electrodes
+    4/22    . . . . Forming of electrodes
+    4/23    . . . . . Drying or preserving electrodes after
+    4/24    . . Electrodes for alkaline accumulators
+    4/242   . . . {Hydrogen storage electrodes}
+    4/244   . . . {Zinc electrodes}
+    4/246   . . . {Cadmium electrodes}
+    4/248   . . . {Iron electrodes}
+    4/26    . . . Processes of manufacture
+    4/28    . . . . Precipitating active material on the carrier
+    4/29    . . . . . by electrochemical methods
+    4/32    . . . Nickel oxide or hydroxide electrodes
+    4/34    . . . Silver oxide or hydroxide electrodes
+    4/36    . . Selection of substances as active materials, active
+    4/364   . . . . {as mixtures}
+    4/366   . . . . {as layered products}
+    4/368   . . . {Liquid depolarisers}
+    4/38    . . . of elements or alloys
+    4/381   . . . . {Alkaline or alkaline earth metals elements
+    4/382   . . . . . {Lithium (H01M 4/405 takes precedence)}
+    4/383   . . . . {Hydrogen absorbing alloys}
+    4/385   . . . . . {of the type LaNi5}
+    4/386   . . . . {Silicon or alloys based on silicon}
+    4/387   . . . . {Tin or alloys based on tin}
+    4/40    . . . . Alloys based on alkali metals
+    4/405   . . . . . {Alloys based on lithium}
+    4/42    . . . . Alloys based on zinc
+    4/44    . . . . Alloys based on cadmium
+    4/46    . . . . Alloys based on magnesium or aluminium
+    4/463   . . . . . {Aluminium based}
+    4/466   . . . . . {Magnesium based}
+    4/48    . . . of inorganic oxides or hydroxides
+    4/481   . . . . {of mercury}
+    4/483   . . . . {for non-aqueous cells (H01M 4/485 takes
+    4/485   . . . . of mixed oxides or hydroxides for inserting
+or intercalating light metals, e.g. LiTi2O4 or
+LiTi2OxFy (H01M 4/505, H01M 4/525 take
+    4/50    . . . . of manganese
+    4/502   . . . . . {for non-aqueous cells (H01M 4/505 takes
+    4/505   . . . . . of mixed oxides or hydroxides containing
+manganese for inserting or intercalating
+light metals, e.g. LiMn2O4 or LiMn2OxFy
+    4/52    . . . . of nickel, cobalt or iron
+    4/521   . . . . . {of iron for aqueous cells}
+    4/523   . . . . . {for non-aqueous cells (H01M 4/525 takes
+    4/525   . . . . . of mixed oxides or hydroxides containing
+iron, cobalt or nickel for inserting or
+intercalating light metals, e.g. LiNiO2,
+    4/57    . . . . . of "grey lead", i.e. powders containing
+    4/58    . . . of inorganic compounds other than oxides or
+hydroxides, e.g. sulfides, selenides, tellurides,
+halogenides or LiCoFy; of polyanionic
+structures, e.g. phosphates, silicates or borates
+    4/5805  . . . . {Phosphides}
+    4/581   . . . . {Chalcogenides or intercalation compounds
+    4/5815  . . . . . {Sulfides}
+    4/582   . . . . {Halogenides}
+    4/5825  . . . . {Oxygenated metallic salts or polyanionic
+structures, e.g. borates, phosphates, silicates,
+Polyanionic structures comprises
+elements not changing oxidation state
+during electrochemical reaction, e.g. P, Si,
+    4/583   . . . . Carbonaceous material, e.g. graphite-
+    4/5835  . . . . . {Comprising fluorine or fluoride salts}
+    4/587   . . . . . for inserting or intercalating light metals
+    4/60    . . . of organic compounds
+    4/604   . . . . . {containing aliphatic main chain
+    4/606   . . . . . {containing aromatic main chain
+    4/608   . . . . . . {containing heterocyclic rings}
+    4/62    . . Selection of inactive substances as ingredients for
+active masses, e.g. binders, fillers
+    4/622   . . . . {being polymers}
+    4/623   . . . . . {fluorinated polymers}
+    4/624   . . . {Electric conductive fillers}
+    4/625   . . . . {Carbon or graphite}
+    4/627   . . . {Expanders for lead-acid accumulators}
+    4/628   . . . {Inhibitors, e.g. gassing inhibitors, corrosion
+    4/64    . . Carriers or collectors
+    4/66    . . . Selection of materials
+    4/661   . . . . {Metal or alloys, e.g. alloy coatings
+    4/662   . . . . . {Alloys (collectors of lead alloys
+    4/663   . . . . {containing carbon or carbonaceous
+materials as conductive part, e.g. graphite,
+    4/664   . . . . {Ceramic materials}
+    4/665   . . . . {Composites}
+    4/666   . . . . . {in the form of mixed materials
+    4/667   . . . . . {in the form of layers, e.g. coatings}
+    4/668   . . . . {Composites of electroconductive material
+    4/68    . . . . for use in lead-acid accumulators
+    4/685   . . . . . {Lead alloys}
+    4/70    . . . characterised by shape or form
+    4/73    . . . . . for lead-acid accumulators, e.g. frame
+    4/74    . . . . . Meshes or woven material; Expanded
+    4/742   . . . . . . {perforated material}
+    4/745   . . . . . . {Expanded metal}
+    4/747   . . . . . . {Woven material}
+    4/75    . . . . Wires, rods or strips
+    4/76    . . . . Containers for holding the active material,
+    4/762   . . . . . {Porous or perforated metallic containers}
+    4/765   . . . . . {Tubular type or pencil type electrodes;
+tubular or multitubular sheaths or covers
+of insulating material for said tubular-type
+    4/767   . . . . . . {Multitubular sheaths or covers}
+    4/78    . . . . Shapes other than plane or cylindrical, e.g.
+    4/80    . . . . Porous plates, e.g. sintered carriers
+    4/801   . . . . . {Sintered carriers}
+    4/803   . . . . . . {of only powdered material}
+    4/805   . . . . . . {of powdered and fibrous material}
+    4/806   . . . . . {Nonwoven fibrous fabric containing only
+    4/808   . . . . . {Foamed, spongy materials}
+    4/82    . . . Multi-step processes for manufacturing carriers
+    4/84    . . . . involving casting
+    4/86    . Inert electrodes with catalytic activity, e.g. for fuel
+    4/8605  . . {Porous electrodes}
+    4/861   . . . {with a gradient in the porosity}
+    4/8615  . . . {Bifunctional electrodes for rechargeable cells}
+    4/8621  . . . {containing only metallic or ceramic material,
+e.g. made by sintering or sputtering}
+    4/8626  . . . {characterised by the form}
+    4/8631  . . . . {Bipolar electrodes}
+    4/8636  . . {with a gradient in another property than porosity
+    4/8642  . . . {Gradient in composition}
+    4/8647  . . {consisting of more than one material, e.g.
+    4/8663  . . {Selection of inactive substances as ingredients
+for catalytic active masses, e.g. binders, fillers}
+    4/8673  . . . {Electrically conductive fillers}
+ 2004/8678  . . {characterised by the polarity}
+ 2004/8684  . . . {Negative electrodes}
+ 2004/8689  . . . {Positive electrodes}
+ 2004/8694  . . . {Bipolar electrodes}
+    4/88    . . Processes of manufacture
+    4/8803  . . . {Supports for the deposition of the catalytic
+active composition (H01M 4/90 takes
+    4/8807  . . . . {Gas diffusion layers}
+    4/881   . . . . {Electrolytic membranes}
+    4/8814  . . . . {Temporary supports, e.g. decal}
+    4/8817  . . . {Treatment of supports before application of
+the catalytic active composition (coated porous
+    4/8821  . . . . {Wet proofing}
+    4/8825  . . . {Methods for deposition of the catalytic active
+    4/8828  . . . . {Coating with slurry or ink}
+    4/8832  . . . . . {Ink jet printing}
+    4/8835  . . . . . {Screen printing}
+    4/8839  . . . . . {Painting}
+    4/8842  . . . . {Coating using a catalyst salt precursor
+in solution followed by evaporation and
+    4/8846  . . . . {Impregnation}
+    4/885   . . . . . {followed by reduction of the catalyst salt
+    4/8853  . . . . {Electrodeposition}
+    4/8857  . . . . {Casting, e.g. tape casting, vacuum slip
+    4/886   . . . . {Powder spraying, e.g. wet or dry powder
+    4/8864  . . . . {Extrusion}
+    4/8867  . . . . {Vapour deposition}
+    4/8871  . . . . . {Sputtering}
+    4/8875  . . . {Methods for shaping the electrode into free-
+standing bodies, like sheets, films or grids,
+e.g. moulding, hot-pressing, casting without
+support, extrusion without support}
+    4/8878  . . . {Treatment steps after deposition of the
+catalytic active composition or after shaping of
+the electrode being free-standing body}
+    4/8882  . . . . {Heat treatment, e.g. drying, baking}
+    4/8885  . . . . . {Sintering or firing}
+    4/8889  . . . . . . {Cosintering or cofiring of a catalytic
+active layer with another type of layer}
+    4/8892  . . . . {Impregnation or coating of the catalyst
+    4/8896  . . . . {Pressing, rolling, calendering (membrane
+electrode assemblies H01M 8/1004)}
+    4/90    . . Selection of catalytic material
+    4/9008  . . . {Organic or organo-metallic compounds}
+    4/9016  . . . {Oxides, hydroxides or oxygenated metallic
+    4/9025  . . . . {Oxides specially used in fuel cell operating
+at high temperature, e.g. SOFC}
+    4/9033  . . . . . {Complex oxides, optionally doped, of the
+type M1MeO3, M1 being an alkaline earth
+metal or a rare earth, Me being a metal,
+    4/9041  . . . {Metals or alloys (H01M 4/92 takes
+    4/905   . . . . {specially used in fuel cell operating at high
+    4/9058  . . . . . {of noble metals or noble-metal based
+    4/9066  . . . . . {of metal-ceramic composites or mixtures,
+    4/9075  . . . {Catalytic material supported on carriers, e.g.
+powder carriers (H01M 4/8807, H01M 4/881,
+H01M 4/8814, H01M 4/925 take precedence)}
+    4/9083  . . . . {on carbon or graphite}
+    4/9091  . . . {Unsupported catalytic particles; loose
+particulate catalytic materials, e.g. in fluidised
+    4/92    . . . Metals of platinum group (H01M 4/94 {,
+    4/921   . . . . {Alloys or mixtures with metallic elements}
+    4/923   . . . . {Compounds thereof with non-metallic
+    4/925   . . . . {supported on carriers, e.g. powder carriers}
+    4/926   . . . . . {on carbon or graphite}
+    4/928   . . . . {Unsupported catalytic particles; loose
+particulate catalytic materials, e.g. in
+    4/94    . . Non-porous diffusion electrodes, e.g. palladium
+membranes, ion exchange membranes
+    4/96    . . Carbon-based electrodes
+    4/98    . . Raney-type electrodes
+    6/00    Primary cells; Manufacture thereof
+In this group, primary cells are electrochemical
+generators in which the cell energy is present in
+chemical form and is not regenerated.
+    6/005   . {Devices for making primary cells}
+    6/02    . Details (of electrodes H01M 4/00; of non-active
+    6/04    . Cells with aqueous electrolyte
+    6/045   . . {characterised by aqueous electrolyte}
+    6/06    . . Dry cells, i.e. cells wherein the electrolyte is
+    6/08    . . . with cup-shaped electrodes
+    6/085   . . . . {of the reversed type, i.e. anode in the
+    6/10    . . . with wound or folded electrodes
+    6/103   . . . . {Cells with electrode of only one polarity
+ 2006/106   . . . . {Elliptic wound cells}
+    6/12    . . . with flat electrodes
+    6/14    . Cells with non-aqueous electrolyte
+    6/145   . . {containing ammonia}
+    6/16    . . with organic electrolyte (H01M 6/18 takes
+    6/162   . . . {characterised by the electrolyte}
+    6/164   . . . . {by the solvent}
+    6/166   . . . . {by the solute}
+    6/168   . . . . {by additives}
+    6/18    . . with solid electrolyte
+    6/181   . . . {with polymeric electrolytes}
+    6/182   . . . {with halogenide as solid electrolyte}
+    6/183   . . . . {with fluoride as solid electrolyte}
+    6/185   . . . {with oxides, hydroxides or oxysalts as solid
+    6/186   . . . . {Only oxysalts-containing solid electrolytes}
+    6/187   . . . {Solid electrolyte characterised by the form}
+    6/188   . . . {Processes of manufacture}
+    6/20    . . . working at high temperature (deferred-action
+    6/22    . Immobilising of electrolyte
+    6/24    . Cells comprising two different electrolytes
+    6/26    . Cells without oxidising active material, e.g. Volta
+    6/28    . Standard cells, e.g. Weston cells
+    6/30    . Deferred-action cells
+    6/32    . . activated through external addition of electrolyte
+    6/34    . . . Immersion cells, e.g. sea-water cells
+    6/36    . . containing electrolyte and made operational by
+physical means, e.g. thermal cells
+    6/38    . . . by mechanical means
+    6/385   . . . . {by insertion of electrodes}
+    6/40    . Printed batteries {, e.g. thin film batteries}
+    6/42    . Grouping of primary cells into batteries (H01M 6/40
+    6/425   . . {Multimode batteries, batteries with "reserve
+    6/44    . . of tubular or cup-shaped cells
+    6/48    . . . with bipolar electrodes
+    6/485   . . . . {Side-by-side bipolar batteries}
+    6/50    . Methods or arrangements for servicing or
+maintenance, e.g. for maintaining operating
+temperature (constructional details of current
+conducting connections for detecting conditions
+inside cells or batteries, e.g. details of voltage
+sensing terminals, H01M 50/569)
+Group H01M 6/50 is impacted by reclassification
+Groups H01M 6/50 and H01M 50/569 should
+be considered in order to perform a complete
+    6/5005  . . {Auxiliary electrodes}
+    6/5011  . . {for several cells simultaneously or successively}
+    6/5016  . . . {Multimode utilisation}
+    6/5022  . . {Arrangements for moving electrodes or
+    6/5033  . . {used as charging means for another battery}
+    6/5038  . . {Heating or cooling of cells or batteries}
+    6/5044  . . {Cells or batteries structurally combined with cell
+Group H01M 6/5044 is incomplete pending
+reclassification of documents from group
+Group H01M 6/5044 is also impacted by
+reclassification into group H01M 50/569.
+Groups H01M 50/572, H01M 6/5044, and
+H01M 50/569 should be considered in order to
+    6/505   . . . {Cells combined with indicating means for
+external visualization of the condition, e.g. by
+change of colour or of light intensity}
+Group H01M 6/505 is impacted by
+reclassification into group H01M 50/569.
+Groups H01M 6/505 and H01M 50/569
+should be considered in order to perform a
+    6/5055  . . . {End of discharge indicated by a voltage step}
+Group H01M 6/5055 is impacted by
+reclassification into group H01M 50/569.
+Groups H01M 6/5055 and H01M 50/569
+should be considered in order to perform a
+    6/5061  . . . {Cells combined with sound indicating means}
+Group H01M 6/5061 is impacted by
+reclassification into group H01M 50/569.
+Groups H01M 6/5061 and H01M 50/569
+should be considered in order to perform a
+    6/5066  . . {Type recognition}
+    6/5072  . . {Preserving or storing cells}
+    6/5077  . . {Regeneration of reactants or electrolyte}
+    6/5083  . . {Testing apparatus}
+    6/5088  . . {Initial activation; predischarge; Stabilisation of
+ 2006/5094  . . {Aspects relating to capacity ratio of electrolyte/
+    6/52    . Reclaiming serviceable parts of waste cells or
+    8/00    Fuel cells; Manufacture thereof
+In this group, the following expression is used with
+• "Fuel cell" means an electrochemical generator
+wherein the reactants are supplied from outside.
+    8/002   . {Shape, form of a fuel cell}
+    8/004   . . {Cylindrical, tubular or wound}
+    8/008   . Disposal or recycling of fuel cells
+    8/02    . Details (electrodes H01M 4/86 - H01M 4/98)
+    8/0202  . . Collectors; Separators, e.g. bipolar separators;
+    8/0204  . . . Non-porous and characterised by the material
+    8/0206  . . . . Metals or alloys
+    8/021   . . . . . . Alloys based on iron
+    8/0213  . . . . Gas-impermeable carbon-containing
+    8/0215  . . . . Glass; Ceramic materials
+    8/0217  . . . . . Complex oxides, optionally doped, of the
+type AMO3, A being an alkaline earth
+metal or rare earth metal and M being a
+    8/0219  . . . . . . {Chromium complex oxides}
+    8/0221  . . . . Organic resins; Organic polymers
+    8/0226  . . . . . in the form of mixtures
+    8/0228  . . . . . in the form of layered or coated products
+    8/023   . . . Porous and characterised by the material
+    8/0232  . . . . Metals or alloys
+    8/0234  . . . . Carbonaceous material
+    8/0236  . . . . Glass; Ceramics; Cermets
+    8/0239  . . . . Organic resins; Organic polymers
+    8/0243  . . . . . in the form of mixtures
+    8/0245  . . . . . in the form of layered or coated products
+    8/0247  . . . characterised by the form (characterised by a
+channel configuration H01M 8/0258)
+    8/025   . . . . semicylindrical
+    8/0254  . . . . corrugated or undulated
+    8/0256  . . . . Vias, i.e. connectors passing through the
+    8/0258  . . . characterised by the configuration of channels,
+e.g. by the flow field of the reactant or coolant
+    8/026   . . . . characterised by grooves, e.g. their pitch or
+    8/0263  . . . . having meandering or serpentine paths
+    8/0265  . . . . the reactant or coolant channels having
+    8/0267  . . . having heating or cooling means, e.g. heaters or
+    8/0269  . . . {Separators, collectors or interconnectors
+including a printed circuit board}
+    8/0271  . . Sealing or supporting means around electrodes,
+    8/0273  . . . with sealing or supporting means in the form of
+    8/0276  . . . Sealing means characterised by their form
+    8/028   . . . Sealing means characterised by their material
+    8/0282  . . . . Inorganic material
+    8/0284  . . . . Organic resins; Organic polymers
+    8/0286  . . . Processes for forming seals
+    8/0289  . . Means for holding the electrolyte (solid polymer
+    8/0293  . . . Matrices for immobilising electrolyte solutions
+    8/0295  . . . Matrices for immobilising electrolyte melts
+    8/0297  . . Arrangements for joining electrodes, reservoir
+layers, heat exchange units or bipolar separators
+to each other (H01M 8/0271 takes precedence)
+    8/04    . Auxiliary arrangements, e.g. for control of pressure
+    8/04007 . . related to heat exchange
+    8/04014 . . . Heat exchange using gaseous fluids; Heat
+exchange by combustion of reactants
+    8/04022 . . . . {Heating by combustion}
+    8/04029 . . . Heat exchange using liquids
+    8/04037 . . . {Electrical heating}
+    8/04044 . . . Purification of heat exchange media
+    8/04052 . . . {Storage of heat in the fuel cell system}
+    8/04059 . . . {Evaporative processes for the cooling of a fuel
+    8/04067 . . . {Heat exchange or temperature measuring
+elements, thermal insulation, e.g. heat pipes,
+    8/04074 . . . . {Heat exchange unit structures specially
+    8/04082 . . Arrangements for control of reactant parameters,
+    8/04089 . . . of gaseous reactants
+    8/04097 . . . . {with recycling of the reactants
+(H01M 8/04119, H01M 8/04104 take
+    8/04104 . . . . {Regulation of differential pressures}
+    8/04111 . . . . using a compressor turbine assembly
+    8/04119 . . . . with simultaneous supply or evacuation of
+electrolyte; Humidifying or dehumidifying
+    8/04126 . . . . . {Humidifying}
+    8/04134 . . . . . . {by coolants}
+    8/04141 . . . . . . {by water containing exhaust gases}
+    8/04149 . . . . . . {by diffusion, e.g. making use of
+    8/04156 . . . . . {with product water removal}
+    8/04164 . . . . . . {by condensers, gas-liquid separators or
+    8/04171 . . . . . . {using adsorbents, wicks or hydrophilic
+    8/04179 . . . . . . {by purging or increasing flow or
+    8/04186 . . . of liquid-charged or electrolyte-charged
+    8/04194 . . . . {Concentration measuring cells}
+    8/04197 . . . {Preventing means for fuel crossover}
+    8/04201 . . . {Reactant storage and supply, e.g. means for
+    8/04208 . . . . {Cartridges, cryogenic media or cryogenic
+    8/04216 . . . . {characterised by the choice for a specific
+material, e.g. carbon, hydride, absorbent}
+    8/04223 . . during start-up or shut-down; Depolarisation
+or activation, e.g. purging; Means for short-
+circuiting defective fuel cells
+    8/04225 . . . during start-up
+    8/04228 . . . during shut-down
+    8/04231 . . . {Purging of the reactants}
+    8/04238 . . . {Depolarisation}
+    8/04246 . . . {Short circuiting means for defective fuel
+cells (detection of defective fuel cells
+H01M 8/04664, methods for shunting fuel cells
+    8/04253 . . . {Means for solving freezing problems}
+    8/04268 . . . {Heating of fuel cells during the start-up of the
+    8/04276 . . Arrangements for managing the electrolyte
+    8/04283 . . . {Supply means of electrolyte to or in matrix-
+    8/04291 . . Arrangements for managing water in solid
+electrolyte fuel cell systems (H01M 8/04119
+    8/04298 . . Processes for controlling fuel cells or fuel cell
+    8/043   . . . applied during specific periods
+    8/04302 . . . . applied during start-up
+    8/04303 . . . . applied during shut-down
+    8/04305 . . . {Modeling, demonstration models of fuel cells,
+    8/04313 . . . characterised by the detection or assessment
+of variables; characterised by the detection or
+assessment of failure or abnormal function
+    8/0432  . . . . Temperature; Ambient temperature
+    8/04328 . . . . . {of anode reactants at the inlet or inside
+    8/04335 . . . . . {of cathode reactants at the inlet or inside
+    8/04343 . . . . . {of anode exhausts}
+    8/0435  . . . . . {of cathode exhausts}
+    8/04358 . . . . . {of the coolant}
+    8/04365 . . . . . {of other components of a fuel cell or fuel
+    8/04373 . . . . . {of auxiliary devices, e.g. reformers,
+    8/0438  . . . . Pressure; Ambient pressure; Flow
+    8/04388 . . . . . {of anode reactants at the inlet or inside
+    8/04395 . . . . . {of cathode reactants at the inlet or inside
+    8/04402 . . . . . {of anode exhausts}
+    8/0441  . . . . . {of cathode exhausts}
+    8/04417 . . . . . {of the coolant}
+    8/04425 . . . . . {at auxiliary devices, e.g. reformers,
+    8/04432 . . . . . {Pressure differences, e.g. between anode
+    8/0444  . . . . Concentration; Density (H01M 8/04492
+    8/04447 . . . . . {of anode reactants at the inlet or inside
+    8/04455 . . . . . {of cathode reactants at the inlet or inside
+    8/04462 . . . . . {of anode exhausts}
+    8/0447  . . . . . {of cathode exhausts}
+    8/04477 . . . . . {of the electrolyte}
+    8/04485 . . . . . {of the coolant}
+    8/04492 . . . . Humidity; Ambient humidity; Water content
+    8/045   . . . . . {of anode reactants at the inlet or inside
+    8/04507 . . . . . {of cathode reactants at the inlet or inside
+    8/04514 . . . . . {of anode exhausts}
+    8/04522 . . . . . {of cathode exhausts}
+    8/04529 . . . . . {of the electrolyte}
+    8/04537 . . . . Electric variables
+    8/04544 . . . . . {Voltage}
+    8/04552 . . . . . . {of the individual fuel cell}
+    8/04559 . . . . . . {of fuel cell stacks}
+    8/04567 . . . . . . {of auxiliary devices, e.g. batteries,
+    8/04574 . . . . . {Current}
+    8/04582 . . . . . . {of the individual fuel cell}
+    8/04589 . . . . . . {of fuel cell stacks}
+    8/04597 . . . . . . {of auxiliary devices, e.g. batteries,
+    8/04604 . . . . . {Power, energy, capacity or load}
+    8/04611 . . . . . . {of the individual fuel cell}
+    8/04619 . . . . . . {of fuel cell stacks}
+    8/04626 . . . . . . {of auxiliary devices, e.g. batteries,
+    8/04634 . . . . . {Other electric variables, e.g. resistance or
+    8/04641 . . . . . . {of the individual fuel cell}
+    8/04649 . . . . . . {of fuel cell stacks}
+    8/04656 . . . . . . {of auxiliary devices, e.g. batteries,
+    8/04664 . . . . Failure or abnormal function
+    8/04671 . . . . . {of the individual fuel cell}
+    8/04679 . . . . . {of fuel cell stacks}
+    8/04686 . . . . . {of auxiliary devices, e.g. batteries,
+    8/04694 . . . characterised by variables to be controlled
+    8/04701 . . . . Temperature
+    8/04708 . . . . . {of fuel cell reactants}
+    8/04716 . . . . . {of fuel cell exhausts}
+    8/04723 . . . . . {of the coolant}
+    8/04731 . . . . . {of other components of a fuel cell or fuel
+    8/04738 . . . . . {of auxiliary devices, e.g. reformer,
+    8/04746 . . . . Pressure; Flow
+    8/04753 . . . . . {of fuel cell reactants}
+    8/04761 . . . . . {of fuel cell exhausts}
+    8/04768 . . . . . {of the coolant}
+    8/04776 . . . . . {at auxiliary devices, e.g. reformer,
+    8/04783 . . . . . {Pressure differences, e.g. between anode
+    8/04791 . . . . Concentration; Density (H01M 8/04828
+    8/04798 . . . . . {of fuel cell reactants}
+    8/04805 . . . . . {of fuel cell exhausts}
+    8/04813 . . . . . {of the coolant}
+    8/0482  . . . . . {of the electrolyte}
+    8/04828 . . . . Humidity; Water content
+    8/04835 . . . . . {of fuel cell reactants}
+    8/04843 . . . . . {of fuel cell exhausts}
+    8/0485  . . . . . {of the electrolyte}
+    8/04858 . . . . Electric variables
+    8/04865 . . . . . {Voltage}
+    8/04873 . . . . . . {of the individual fuel cell}
+    8/0488  . . . . . . {of fuel cell stacks}
+    8/04888 . . . . . . {of auxiliary devices, e.g. batteries,
+    8/04895 . . . . . {Current}
+    8/04902 . . . . . . {of the individual fuel cell}
+    8/0491  . . . . . . {of fuel cell stacks}
+    8/04917 . . . . . . {of auxiliary devices, e.g. batteries,
+    8/04925 . . . . . {Power, energy, capacity or load}
+    8/04932 . . . . . . {of the individual fuel cell}
+    8/0494  . . . . . . {of fuel cell stacks}
+    8/04947 . . . . . . {of auxiliary devices, e.g. batteries,
+    8/04949 . . . . . {other electric variables, e.g. resistance or
+    8/04951 . . . . . . {of the individual fuel cell}
+    8/04952 . . . . . . {of fuel cell stacks}
+    8/04953 . . . . . . {of auxiliary devices, e.g. batteries,
+    8/04955 . . . . Shut-off or shut-down of fuel cells
+    8/04992 . . . characterised by the implementation of
+mathematical or computational algorithms,
+e.g. feedback control loops, fuzzy logic, neural
+networks or artificial intelligence
+    8/06    . Combination of fuel cells with means for
+production of reactants or for treatment of residues
+(regenerative fuel cells H01M 8/18)
+    8/0606  . . with means for production of gaseous reactants
+    8/0612  . . . from carbon-containing material
+    8/0618  . . . . {Reforming processes, e.g. autothermal,
+partial oxidation or steam reforming}
+    8/0625  . . . . {in a modular combined reactor/fuel cell
+    8/0631  . . . . . {Reactor construction specially adapted
+for combination reactor/fuel cell
+(hydrogen C01B 3/00; reactors for
+physicochemical processes B01J 19/00)}
+    8/0637  . . . . Direct internal reforming at the anode of the
+    8/0643  . . . . {Gasification of solid fuel}
+    8/065   . . . by dissolution of metals or alloys; by
+dehydriding metallic substances
+    8/0656  . . . by electrochemical means (H01M 8/065 takes
+    8/0662  . . Treatment of gaseous reactants or gaseous
+    8/0668  . . . Removal of carbon monoxide or carbon
+    8/0675  . . . {Removal of sulfur}
+    8/0681  . . . {Reactant purification by the use of
+    8/0687  . . . {Reactant purification by the use of membranes
+    8/0693  . . {Treatment of the electrolyte residue, e.g.
+    8/08    . Fuel cells with aqueous electrolytes
+    8/083   . . Alkaline fuel cells
+    8/086   . . Phosphoric acid fuel cells [PAFC]
+    8/10    . Fuel cells with solid electrolytes
+    8/1004  . . characterised by membrane-electrode assemblies
+[MEA] (H01M 8/12 takes precedence)
+    8/1006  . . . Corrugated, curved or wave-shaped MEA
+    8/1007  . . with both reactants being gaseous or vaporised
+    8/1009  . . with one of the reactants being liquid, solid or
+liquid-charged (H01M 8/12 takes precedence)
+    8/1011  . . . Direct alcohol fuel cells [DAFC], e.g. direct
+    8/1013  . . . . {Other direct alcohol fuel cells [DAFC]}
+    8/1016  . . characterised by the electrolyte material
+    8/1018  . . . Polymeric electrolyte materials
+    8/102   . . . . characterised by the chemical structure of the
+main chain of the ion-conducting polymer
+When classifying in this group, structures
+belonging to the groups O, P, N, S or
+Si must be completely identified by
+classification in all relevant subgroups.
+    8/1023  . . . . . having only carbon, e.g. polyarylenes,
+polystyrenes or polybutadiene-styrenes
+    8/1025  . . . . . having only carbon and oxygen,
+polyetheretherketones [S-PEEK],
+sulfonated polysaccharides, sulfonated
+celluloses or sulfonated polyesters
+    8/1027  . . . . . having carbon, oxygen and other atoms,
+e.g. sulfonated polyethersulfones [S-PES]
+    8/103   . . . . . having nitrogen, e.g. sulfonated
+polybenzimidazoles with phosphoric
+acid, sulfonated polyamides [S-PA] or
+sulfonated polyphosphazenes [S-PPh]
+    8/1032  . . . . . having sulfur, e.g. sulfonated-
+    8/1034  . . . . . having phosphorus, e.g. sulfonated
+    8/1037  . . . . . having silicon, e.g. sulfonated crosslinked
+    8/1039  . . . . halogenated, e.g. sulfonated polyvinylidene
+    8/1041  . . . . Polymer electrolyte composites, mixtures or
+    8/1044  . . . . . Mixtures of polymers, of which at least
+    8/1046  . . . . . Mixtures of at least one polymer and at
+    8/1048  . . . . . . Ion-conducting additives, e.g. ion-
+conducting particles, heteropolyacids,
+metal phosphate or polybenzimidazole
+    8/1051  . . . . . . Non-ion-conducting additives, e.g.
+    8/1053  . . . . . consisting of layers of polymers with at
+least one layer being ionically conductive
+    8/1055  . . . . . {Inorganic layers on the polymer
+electrolytes, e.g. inorganic coatings}
+    8/1058  . . . . characterised by a porous support having no
+    8/106   . . . . . characterised by the chemical composition
+    8/1062  . . . . . characterised by the physical properties
+of the porous support, e.g. its porosity or
+    8/1065  . . . . characterised by the form, e.g. perforated or
+    8/1067  . . . . characterised by their physical properties,
+e.g. porosity, ionic conductivity or thickness
+    8/1069  . . . . characterised by the manufacturing processes
+    8/1072  . . . . . by chemical reactions, e.g. insitu
+polymerisation or insitu crosslinking
+    8/1074  . . . . . . {Sol-gel processes}
+    8/1076  . . . . . {Micromachining techniques,
+    8/1079  . . . . . {Inducing porosity into non porous
+precursors membranes, e.g. leaching, pore
+    8/1081  . . . . . starting from solutions, dispersions or
+slurries exclusively of polymers
+    8/1083  . . . . . {Starting from polymer melts other than
+    8/1086  . . . . . After-treatment of the membrane other
+    8/1088  . . . . . . Chemical modification, e.g. sulfonation
+    8/109   . . . . . . {thermal other than drying, e.g.
+    8/1093  . . . . . . {mechanical, e.g. pressing, puncturing}
+ 2008/1095  . . {Fuel cells with polymeric electrolytes}
+    8/1097  . . Fuel cells applied on a support, e.g. miniature fuel
+cells deposited on silica supports
+    8/12    . . operating at high temperature, e.g. with stabilised
+    8/1213  . . . characterised by the electrode/electrolyte
+combination or the supporting material
+    8/122   . . . . Corrugated, curved or wave-shaped MEA
+    8/1226  . . . . characterised by the supporting layer
+    8/1231  . . . with both reactants being gaseous or vaporised
+    8/1233  . . . with one of the reactants being liquid, solid or
+    8/124   . . . characterised by the process of manufacturing
+or by the material of the electrolyte
+    8/1246  . . . . the electrolyte consisting of oxides
+    8/1253  . . . . . the electrolyte containing zirconium oxide
+    8/126   . . . . . the electrolyte containing cerium oxide
+    8/1266  . . . . . {the electrolyte containing bismuth oxide}
+    8/1273  . . . . . {Fuel cells with solid halide electrolytes}
+ 2008/128   . . . {Fuel cells with solid halide electrolytes}
+    8/1286  . . . Fuel cells applied on a support, e.g. miniature
+fuel cells deposited on silica supports
+ 2008/1293  . . . {Fuel cells with solid oxide electrolytes}
+    8/14    . Fuel cells with fused electrolytes
+    8/141   . . {the anode and the cathode being gas-permeable
+electrodes or electrode layers}
+    8/142   . . . {with matrix-supported or semi-solid matrix-
+    8/143   . . {with liquid, solid or electrolyte-charged
+    8/144   . . {characterised by the electrolyte material}
+    8/145   . . . {comprising carbonates}
+    8/146   . . {Fuel cells with molten hydroxide}
+ 2008/147   . . {Fuel cells with molten carbonates}
+    8/148   . . {Measures, other than selecting a specific
+electrode material, to reduce electrode
+    8/16    . Biochemical fuel cells, i.e. cells in which
+microorganisms function as catalysts
+    8/18    . Regenerative fuel cells, e.g. redox flow batteries or
+    8/182   . . {Regeneration by thermal means}
+    8/184   . . {Regeneration by electrochemical means}
+    8/186   . . . {by electrolytic decomposition of the
+electrolytic solution or the formed water
+    8/188   . . . {by recharging of redox couples containing
+fluids; Redox flow type batteries}
+    8/20    . Indirect fuel cells, e.g. fuel cells with redox couple
+being irreversible (H01M 8/18 takes precedence)
+    8/22    . Fuel cells in which the fuel is based on materials
+comprising carbon or oxygen or hydrogen and
+other elements; Fuel cells in which the fuel is based
+on materials comprising only elements other than
+    8/222   . . {Fuel cells in which the fuel is based on
+compounds containing nitrogen, e.g. hydrazine,
+    8/225   . . {Fuel cells in which the fuel is based on materials
+comprising particulate active material in the form
+of a suspension, a dispersion, a fluidised bed or a
+    8/227   . . {Dialytic cells or batteries; Reverse
+electrodialysis cells or batteries}
+    8/24    . Grouping of fuel cells, e.g. stacking of fuel cells
+    8/2404  . . Processes or apparatus for grouping fuel cells
+    8/241   . . with solid or matrix-supported electrolytes
+    8/2418  . . . Grouping by arranging unit cells in a plane
+(H01M 8/2425, H01M 8/244 take precedence)
+    8/242   . . . comprising framed electrodes or intermediary
+frame-like gaskets (H01M 8/2425,
+    8/2425  . . . High-temperature cells with solid electrolytes
+    8/2428  . . . . Grouping by arranging unit cells on a surface
+of any form, e.g. planar or tubular
+    8/243   . . . . Grouping of unit cells of tubular or
+    8/2432  . . . . Grouping of unit cells of planar
+    8/2435  . . . . with monolithic core structure, e.g.
+    8/244   . . . with matrix-supported molten electrolyte
+    8/2455  . . with liquid, solid or electrolyte-charged reactants
+    8/2457  . . with both reactants being gaseous or vaporised
+    8/2459  . . {Comprising electrode layers with interposed
+electrolyte compartment with possible electrolyte
+    8/2465  . . Details of groupings of fuel cells
+    8/247   . . . Arrangements for tightening a stack, for
+accommodation of a stack in a tank or for
+    8/2475  . . . . Enclosures, casings or containers of fuel cell
+    8/248   . . . . Means for compression of the fuel cell stacks
+    8/2483  . . . characterised by internal manifolds
+    8/2484  . . . characterised by external manifolds
+    8/2485  . . . . Arrangements for sealing external manifolds;
+Arrangements for mounting external
+    8/249   . . comprising two or more groupings of fuel cells,
+    8/2495  . . . of fuel cells of different types
+   10/00    Secondary cells; Manufacture thereof
+In this group, secondary cells are accumulators
+receiving and supplying electrical energy by means
+of reversible electrochemical reactions.
+   10/02    . Details (of electrodes H01M 4/00; of non-active
+   10/04    . Construction or manufacture in general
+(H01M 10/058, H01M 10/12, H01M 10/28,
+   10/0404  . . {Machines for assembling batteries}
+   10/0409  . . . {for cells with wound electrodes}
+   10/0413  . . {Large-sized flat cells or batteries for motive or
+stationary systems with plate-like electrodes}
+   10/0418  . . . {with bipolar electrodes}
+   10/0422  . . {Cells or battery with cylindrical casing}
+   10/0427  . . . {Button cells}
+   10/0431  . . {Cells with wound or folded electrodes
+(H01M 10/045 takes precedence)}
+   10/0436  . . {Small-sized flat cells or batteries for portable
+   10/044   . . . {with bipolar electrodes}
+   10/0445  . . {Multimode batteries, e.g. containing auxiliary
+cells or electrodes switchable in parallel or series
+   10/045   . . {Cells or batteries with folded plate-like
+   10/0454  . . . {Cells or batteries with electrodes of only one
+   10/0459  . . {Cells or batteries with folded separator between
+   10/0463  . . {Cells or batteries with horizontal or inclined
+   10/0468  . . {Compression means for stacks of electrodes and
+   10/0472  . . {Vertically superposed cells with vertically
+   10/0477  . . {with circular plates}
+   10/0481  . . {Compression means other than compression
+means for stacks of electrodes and separators}
+   10/0486  . . {Frames for plates or membranes}
+   10/049   . . {Processes for forming or storing electrodes in
+ 2010/0495  . . {Nanobatteries}
+   10/05    . Accumulators with non-aqueous electrolyte
+   10/052   . . Li-accumulators
+   10/0525  . . . Rocking-chair batteries, i.e. batteries with
+lithium insertion or intercalation in both
+electrodes; Lithium-ion batteries
+   10/054   . . Accumulators with insertion or intercalation of
+metals other than lithium, e.g. with magnesium or
+   10/056   . . characterised by the materials used as
+electrolytes, e.g. mixed inorganic/organic
+   10/0561  . . . the electrolyte being constituted of inorganic
+   10/0562  . . . . Solid materials
+   10/0563  . . . . Liquid materials, e.g. for Li-SOCl2 cells
+   10/0564  . . . the electrolyte being constituted of organic
+   10/0565  . . . . Polymeric materials, e.g. gel-type or solid-
+   10/0566  . . . . Liquid materials
+   10/0567  . . . . . characterised by the additives
+   10/0568  . . . . . characterised by the solutes
+   10/0569  . . . . . characterised by the solvents
+   10/058   . . Construction or manufacture
+   10/0583  . . . of accumulators with folded construction
+elements except wound ones, i.e. folded
+positive or negative electrodes or separators,
+e.g. with "Z"-shaped electrodes or separators
+   10/0585  . . . of accumulators having only flat construction
+elements, i.e. flat positive electrodes, flat
+negative electrodes and flat separators
+   10/0587  . . . of accumulators having only wound
+construction elements, i.e. wound positive
+electrodes, wound negative electrodes and
+   10/06    . Lead-acid accumulators (semi-lead accumulators
+   10/08    . . Selection of materials as electrolytes
+   10/10    . . . Immobilising of electrolyte
+   10/12    . . Construction or manufacture
+   10/121   . . . {Valve regulated lead acid batteries [VRLA]}
+   10/122   . . . {Multimode batteries}
+   10/123   . . . {Cells or batteries with cylindrical casing}
+   10/124   . . . . {Button cells}
+   10/125   . . . {Cells or batteries with wound or folded
+   10/126   . . . {Small-sized flat cells or batteries for portable
+equipment (H01M 10/123 and H01M 10/125
+   10/127   . . . . {with bipolar electrodes}
+   10/128   . . . {Processes for forming or storing electrodes in
+   10/14    . . . Assembling a group of electrodes or separators
+   10/16    . . . Suspending or supporting electrodes or groups
+   10/18    . . with bipolar electrodes
+   10/20    . Semi-lead accumulators, i.e. accumulators in which
+only one electrode contains lead
+   10/22    . . Selection of materials as electrolytes
+   10/24    . Alkaline accumulators
+   10/26    . . Selection of materials as electrolytes
+   10/28    . . Construction or manufacture
+   10/281   . . . {Large cells or batteries with stacks of plate-
+   10/282   . . . . {with bipolar electrodes}
+   10/283   . . . {Cells or batteries with two cup-shaped or
+cylindrical collectors (H01M 10/281 takes
+   10/285   . . . . {Button cells}
+   10/286   . . . {Cells or batteries with wound or folded
+   10/287   . . . {Small-sized flat cells or batteries for portable
+equipment (H01M 10/283 and H01M 10/286
+   10/288   . . . {Processes for forming or storing electrodes in
+   10/30    . . Nickel accumulators (H01M 10/34 takes
+   10/32    . . Silver accumulators (H01M 10/34 takes
+   10/34    . Gastight accumulators
+   10/342   . . {Gastight lead accumulators (H01M 10/121 takes
+   10/345   . . {Gastight metal hydride accumulators}
+   10/347   . . . {with solid electrolyte}
+   10/36    . Accumulators not provided for in groups
+   10/365   . . {Zinc-halogen accumulators}
+   10/38    . . Construction or manufacture
+   10/39    . . working at high temperature
+   10/3909  . . . {Sodium-sulfur cells}
+   10/3918  . . . . {characterised by the electrolyte}
+   10/3927  . . . . . {Several layers of electrolyte or coatings
+   10/3936  . . . . . {Electrolyte with a shape other than plane
+   10/3945  . . . . {containing additives or special
+arrangements in the sodium compartment}
+   10/3954  . . . . {containing additives or special arrangement
+   10/3963  . . . . {Sealing means between the solid electrolyte
+   10/3972  . . . . {Flexible parts}
+   10/3981  . . . . {Flat cells}
+   10/399   . . . {Cells with molten salts}
+   10/42    . Methods or arrangements for servicing or
+maintenance of secondary cells or secondary half-
+cells (H01M 10/60 takes precedence)
+   10/4207  . . {for several batteries or cells simultaneously or
+   10/4214  . . {Arrangements for moving electrodes or
+   10/4221  . . {with battery type recognition}
+   10/4228  . . {Leak testing of cells or batteries}
+   10/4235  . . {Safety or regulating additives or arrangements
+in electrodes, separators or electrolyte
+(H01M 10/4242 takes precedence)}
+   10/4242  . . {Regeneration of electrolyte or reactants}
+   10/425   . . {Structural combination with electronic
+components, e.g. electronic circuits integrated
+to the outside of the casing (printed circuits
+   10/4257  . . . {Smart batteries, e.g. electronic circuits inside
+the housing of the cells or batteries}
+   10/4264  . . . {with capacitors}
+ 2010/4271  . . . {Battery management systems including
+electronic circuits, e.g. control of current or
+voltage to keep battery in healthy state, cell
+ 2010/4278  . . . {Systems for data transfer from batteries, e.g.
+transfer of battery parameters to a controller,
+data transferred between battery controller and
+   10/4285  . . {Testing apparatus}
+ 2010/4292  . . {Aspects relating to capacity ratio of electrodes/
+   10/44    . . Methods for charging or discharging (circuits for
+   10/441   . . . {for several batteries or cells simultaneously or
+   10/443   . . . {in response to temperature}
+   10/445   . . . {in response to gas pressure}
+   10/446   . . . {Initial charging measures}
+   10/448   . . . {End of discharge regulating measures}
+   10/46    . . Accumulators structurally combined with
+charging apparatus (circuits for charging
+   10/465   . . . {with solar battery as charging system}
+   10/48    . . Accumulators combined with arrangements for
+measuring, testing or indicating the condition of
+cells, e.g. the level or density of the electrolyte
+(constructional details of current conducting
+connections for detecting conditions inside
+cells or batteries, e.g. details of voltage sensing
+Group H01M 10/48 is impacted by
+reclassification into group H01M 50/569.
+Groups H01M 10/48 and H01M 50/569 should
+be considered in order to perform a complete
+   10/482   . . . {for several batteries or cells simultaneously or
+Group H01M 10/482 is impacted by
+reclassification into group H01M 50/569.
+Groups H01M 10/482 and H01M 50/569
+should be considered in order to perform a
+   10/484   . . . {for measuring electrolyte level, electrolyte
+density or electrolyte conductivity}
+Group H01M 10/484 is impacted by
+reclassification into group H01M 50/569.
+Groups H01M 10/484 and H01M 50/569
+should be considered in order to perform a
+   10/486   . . . {for measuring temperature}
+Group H01M 10/486 is impacted by
+reclassification into group H01M 50/569.
+Groups H01M 10/486 and H01M 50/569
+should be considered in order to perform a
+   10/488   . . . {Cells or batteries combined with indicating
+means for external visualization of the
+condition, e.g. by change of colour or of light
+Group H01M 10/488 is impacted by
+reclassification into group H01M 50/569.
+Groups H01M 10/488 and H01M 50/569
+should be considered in order to perform a
+   10/52    . . Removing gases inside the secondary cell, e.g.
+by absorption (vent plugs or other mechanical
+arrangements for facilitating escape of gases
+   10/523   . . . {by recombination on a catalytic material}
+   10/526   . . . {by gas recombination on the electrode surface
+or by structuring the electrode surface to
+   10/54    . Reclaiming serviceable parts of waste accumulators
+   10/60    . Heating or cooling; Temperature control
+   10/61    . . Types of temperature control
+   10/613   . . . Cooling or keeping cold
+   10/615   . . . Heating or keeping warm
+   10/617   . . . for achieving uniformity or desired distribution
+   10/62    . . specially adapted for specific applications
+   10/623   . . . Portable devices, e.g. mobile telephones,
+   10/6235  . . . . Power tools
+   10/627   . . . Stationary installations, e.g. power plant
+buffering or backup power supplies
+   10/63    . . Control systems (charging or discharging
+in response to temperature H01M 10/44 {,
+H01M 10/443}; measurement of temperature
+   10/633   . . . characterised by algorithms, flow charts,
+   10/635   . . . based on ambient temperature
+   10/637   . . . characterised by the use of reversible
+temperature-sensitive devices, e.g. NTC, PTC
+or bimetal devices; characterised by control
+of the internal current flowing through the
+cells, e.g. by switching (means for preventing
+undesired use or discharge H01M 50/572)
+   10/64    . . characterised by the shape of the cells
+   10/643   . . . Cylindrical cells
+   10/647   . . . Prismatic or flat cells, e.g. pouch cells
+   10/65    . . Means for temperature control structurally
+   10/651   . . . characterised by parameters specified by a
+numeric value or mathematical formula, e.g.
+ratios, sizes or concentrations
+   10/652   . . . . characterised by gradients (for achieving a
+desired temperature gradient H01M 10/617)
+   10/653   . . . characterised by electrically insulating or
+   10/654   . . . located inside the innermost case of the cells,
+e.g. mandrels, electrodes or electrolytes
+   10/655   . . . Solid structures for heat exchange or heat
+   10/6551  . . . . Surfaces specially adapted for heat
+dissipation or radiation, e.g. fins or coatings
+   10/6552  . . . . Closed pipes transferring heat by thermal
+conductivity or phase transition, e.g. heat
+   10/6553  . . . . Terminals or leads
+   10/6554  . . . . Rods or plates
+   10/6555  . . . . . arranged between the cells
+   10/6556  . . . . Solid parts with flow channel passages
+or pipes for heat exchange (closed pipes
+   10/6557  . . . . . arranged between the cells
+   10/656   . . . characterised by the type of heat-exchange
+   10/6562  . . . . . with free flow by convection only
+   10/6563  . . . . . with forced flow, e.g. by blowers
+   10/6564  . . . . . . using compressed gas
+   10/6565  . . . . . . with recirculation or U-turn in the flow
+   10/6566  . . . . . Means within the gas flow to guide
+the flow around one or more cells, e.g.
+manifolds, baffles or other barriers
+(H01M 10/6565 takes precedence)
+   10/6568  . . . . . characterised by flow circuits, e.g. loops,
+located externally to the cells or cell
+   10/6569  . . . . Fluids undergoing a liquid-gas phase
+change or transition, e.g. evaporation or
+condensation (heat pipes H01M 10/6552)
+   10/657   . . . by electric or electromagnetic means
+   10/6571  . . . . Resistive heaters (arrangements for heating
+the battery by its resistance to the internal
+   10/6572  . . . . Peltier elements or thermoelectric devices
+   10/658   . . . by thermal insulation or shielding
+   10/659   . . . by heat storage or buffering, e.g. heat capacity
+or liquid-solid phase changes or transition
+   10/6595  . . . by chemical reactions other than
+electrochemical reactions of the cells, e.g.
+   10/66    . . Heat-exchange relationships between the cells
+and other systems, e.g. central heating systems or
+   10/663   . . . the system being an air-conditioner or an
+   10/667   . . . the system being an electronic component, e.g.
+a CPU, an inverter or a capacitor
+   12/00    Hybrid cells; Manufacture thereof (hybrid
+1. This group does not cover hybrid cells comprising
+capacitor electrodes and battery electrodes, which
+are covered by group H01G 11/00.
+2. In this group, hybrid cells are electrochemical
+generators having two different types of half-
+cells, the half-cell being an electrode-electrolyte
+combination of either a primary, a secondary or a
+   12/02    . Details (of electrodes H01M 4/00; of non-active
+   12/04    . composed of a half-cell of the fuel-cell type and of a
+half-cell of the primary-cell type
+   12/06    . . with one metallic and one gaseous electrode
+   12/065   . . . {with plate-like electrodes or stacks of plate-
+   12/08    . composed of a half-cell of a fuel-cell type and a
+half-cell of the secondary-cell type
+   12/085   . . {Zinc-halogen cells or batteries}
+   14/00    Electrochemical current or voltage generators not
+provided for in groups H01M 6/00 - H01M 12/00;
+This group does not cover solar cells, photocells,
+photoelectrochemical cells or photovoltaic cells,
+which are covered by the following groups:
+• semiconductor devices sensitive to light and
+adapted for the conversion of the energy of
+such radiation into electrical energy are covered
+• solid-state devices using organic materials as
+active part specially adapted for sensing light
+and adapted for the conversion of the energy of
+such radiation into electrical energy are covered
+• electrolytic light-sensitive devices, e.g.
+dye-sensitised solar cells, are covered by
+• photovoltaic modules structurally associated
+with energy storage means, e.g. batteries, are
+   14/005   . {Photoelectrochemical storage cells (light sensitive
+devices H01G 9/20, semiconductors sensitive to
+   16/00    Structural combinations of different types of
+   16/003   . {of fuel cells with other electrochemical devices,
+e.g. capacitors, electrolysers}
+   16/006   . . {of fuel cells with rechargeable batteries}
+   50/00    Constructional details or processes of manufacture
+of the non-active parts of electrochemical cells
+other than fuel cells, e.g. hybrid cells
+   50/10    . Primary casings, jackets or wrappings of a single
+Group H01M 50/10 is impacted by
+reclassification into groups H01M 50/102,
+H01M 50/103, H01M 50/105, H01M 50/107,
+H01M 50/109, H01M 50/11, H01M 50/14,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/102   . . characterised by their shape or physical structure
+Groups H01M 50/102, H01M 50/103,
+H01M 50/105, H01M 50/107, H01M 50/109,
+and H01M 50/11 are incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/103   . . . prismatic or rectangular (H01M 50/109,
+   50/105   . . . Pouches or flexible bags
+   50/107   . . . having curved cross-section, e.g. round
+or elliptic (H01M 50/103, H01M 50/109,
+   50/109   . . . of button or coin shape
+   50/11    . . . having a structure in the form of a chip
+   50/112   . . . Monobloc comprising multiple compartments
+Group H01M 50/112 is impacted by
+reclassification into group H01M 50/114.
+Groups H01M 50/112 and H01M 50/114
+should be considered in order to perform a
+   50/114   . . . . specially adapted for lead-acid cells
+Group H01M 50/114 is incomplete
+pending reclassification of documents
+Groups H01M 50/112 and H01M 50/114
+should be considered in order to perform
+   50/116   . . characterised by the material
+Group H01M 50/116 is impacted by
+reclassification into groups H01M 50/117,
+H01M 50/119, H01M 50/121, H01M 50/122,
+H01M 50/124, H01M 50/126, H01M 50/128,
+H01M 50/129, H01M 50/131, H01M 50/133,
+H01M 50/134, H01M 50/136, H01M 50/14,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/117   . . . Inorganic material
+Groups H01M 50/117 and H01M 50/119
+are incomplete pending reclassification of
+documents from group H01M 50/116.
+Groups H01M 50/116, H01M 50/117, and
+H01M 50/119 should be considered in order
+   50/121   . . . Organic material
+Group H01M 50/121 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/116 and H01M 50/121
+should be considered in order to perform a
+   50/122   . . . Composite material consisting of a mixture of
+organic and inorganic materials
+Group H01M 50/122 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/116 and H01M 50/122
+should be considered in order to perform a
+   50/124   . . . having a layered structure
+Groups H01M 50/124, H01M 50/126,
+H01M 50/128, and H01M 50/129 are
+incomplete pending reclassification of
+documents from group H01M 50/116.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/1243  . . . . {characterised by the internal coating on the
+   50/1245  . . . . {characterised by the external coating on the
+   50/126   . . . . comprising three or more layers
+   50/128   . . . . . with two or more layers of only inorganic
+   50/129   . . . . . with two or more layers of only organic
+   50/131   . . characterised by physical properties, e.g. gas-
+Groups H01M 50/131 - H01M 50/136
+are incomplete pending reclassification of
+documents from group H01M 50/116.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/136   . . . Flexibility or foldability
+   50/138   . . adapted for specific cells, e.g. electrochemical
+cells operating at high temperature
+   50/1385  . . . {Hybrid cells}
+   50/14    . . for protecting against damage caused by external
+Groups H01M 50/14 - H01M 50/145 are
+incomplete pending reclassification of
+documents from groups H01M 50/10 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/141   . . . for protecting against humidity
+   50/143   . . . Fireproof; Explosion-proof
+   50/145   . . . for protecting against corrosion
+Group H01M 50/147 is impacted by
+reclassification into groups H01M 50/591 and
+Groups H01M 50/147, H01M 50/591, and
+H01M 50/593 should be considered in order to
+   50/148   . . . characterised by their shape
+Group H01M 50/148 is impacted by
+reclassification into groups H01M 50/15,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/15    . . . . for prismatic or rectangular cells
+pending reclassification of documents
+Groups H01M 50/148 and H01M 50/15
+should be considered in order to perform
+   50/152   . . . . for cells having curved cross-section,
+e.g. round or elliptic (H01M 50/15,
+Group H01M 50/152 is incomplete
+pending reclassification of documents
+Groups H01M 50/148 and H01M 50/152
+should be considered in order to perform
+   50/153   . . . . for button or coin cells
+Group H01M 50/153 is incomplete
+pending reclassification of documents
+Groups H01M 50/148 and H01M 50/153
+should be considered in order to perform
+   50/1535  . . . . {adapted for specific cells, e.g.
+electrochemical cells operating at high
+   50/1537  . . . . . {for hybrid cells}
+   50/154   . . . . {Lid or cover comprising an axial bore for
+receiving a central current collector}
+   50/155   . . . characterised by the material
+Group H01M 50/155 is impacted by
+reclassification into groups H01M 50/157,
+H01M 50/159, H01M 50/16, H01M 50/162,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/157   . . . . Inorganic material
+Groups H01M 50/157 and H01M 50/159
+are incomplete pending reclassification of
+documents from group H01M 50/155.
+Groups H01M 50/155, H01M 50/157, and
+H01M 50/159 should be considered in
+order to perform a complete search.
+   50/16    . . . . Organic material
+pending reclassification of documents
+Groups H01M 50/155 and H01M 50/16
+should be considered in order to perform
+   50/162   . . . . Composite material consisting of a mixture
+of organic and inorganic materials
+Group H01M 50/162 is incomplete
+pending reclassification of documents
+Groups H01M 50/155 and H01M 50/162
+should be considered in order to perform
+   50/164   . . . . having a layered structure
+Group H01M 50/164 is incomplete
+pending reclassification of documents
+Groups H01M 50/155 and H01M 50/164
+should be considered in order to perform
+   50/166   . . . characterised by the methods of assembling
+Group H01M 50/166 is impacted by
+reclassification into groups H01M 50/167,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/167   . . . . by crimping
+Group H01M 50/167 is incomplete
+pending reclassification of documents
+Groups H01M 50/166 and H01M 50/167
+should be considered in order to perform
+   50/169   . . . . by welding, brazing or soldering
+Group H01M 50/169 is incomplete
+pending reclassification of documents
+Groups H01M 50/166 and H01M 50/169
+should be considered in order to perform
+   50/171   . . . . using adhesives or sealing agents
+Group H01M 50/171 is incomplete
+pending reclassification of documents
+Groups H01M 50/166 and H01M 50/171
+should be considered in order to perform
+   50/172   . . Arrangements of electric connectors penetrating
+Group H01M 50/172 is impacted by
+reclassification into groups H01M 50/174,
+H01M 50/176, H01M 50/178, H01M 50/179,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/174   . . . adapted for the shape of the cells
+Groups H01M 50/174, H01M 50/176,
+H01M 50/181 are incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/176   . . . . for prismatic or rectangular cells
+   50/178   . . . . for pouch or flexible bag cells
+   50/179   . . . . for cells having curved cross-section,
+e.g. round or elliptic (H01M 50/176,
+   50/181   . . . . for button or coin cells
+   50/182   . . . . {for cells with a collector centrally disposed
+in the active mass, e.g. Leclanché cells}
+   50/183   . . Sealing members
+Group H01M 50/183 is impacted by
+reclassification into groups H01M 50/184,
+H01M 50/186, H01M 50/188, H01M 50/19,
+H01M 50/191, H01M 50/193, H01M 50/195,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/184   . . . characterised by their shape or structure
+Group H01M 50/184 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/183 and H01M 50/184
+should be considered in order to perform a
+   50/186   . . . characterised by the disposition of the sealing
+Groups H01M 50/186 and H01M 50/188
+are incomplete pending reclassification of
+documents from group H01M 50/183.
+Groups H01M 50/183, H01M 50/186, and
+H01M 50/188 should be considered in order
+   50/188   . . . . the sealing members being arranged between
+   50/19    . . . characterised by the material
+Groups H01M 50/19 - H01M 50/198 are
+incomplete pending reclassification of
+documents from group H01M 50/183.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/191   . . . . Inorganic material
+   50/193   . . . . Organic material
+   50/195   . . . . Composite material consisting of a mixture
+of organic and inorganic materials
+   50/197   . . . . having a layered structure
+   50/198   . . . . characterised by physical properties, e.g.
+   50/20    . Mountings; Secondary casings or frames; Racks,
+modules or packs; Suspension devices; Shock
+absorbers; Transport or carrying devices; Holders
+(structural combination of accumulators with
+Group H01M 50/20 is impacted by
+reclassification into groups H01M 50/202,
+H01M 50/204, H01M 50/207, H01M 50/209,
+H01M 50/211, H01M 50/213, H01M 50/216,
+H01M 50/218, H01M 50/22, H01M 50/222,
+H01M 50/224, H01M 50/227, H01M 50/229,
+H01M 50/231, H01M 50/233, H01M 50/236,
+H01M 50/238, H01M 50/24, H01M 50/242,
+H01M 50/244, H01M 50/247, H01M 50/249,
+H01M 50/251, H01M 50/253, H01M 50/262,
+H01M 50/264, H01M 50/267, H01M 50/269,
+H01M 50/271, H01M 50/273, H01M 50/276,
+H01M 50/278, H01M 50/28, H01M 50/282,
+H01M 50/284, H01M 50/287, H01M 50/289,
+H01M 50/291, H01M 50/293, H01M 50/296,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/202   . . Casings or frames around the primary casing of a
+single cell or a single battery
+Group H01M 50/202 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/20 and H01M 50/202 should
+be considered in order to perform a complete
+   50/204   . . Racks, modules or packs for multiple batteries or
+Group H01M 50/204 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/20 and H01M 50/204 should
+be considered in order to perform a complete
+   50/207   . . . characterised by their shape
+Group H01M 50/207 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/20 and H01M 50/207
+should be considered in order to perform a
+   50/209   . . . . adapted for prismatic or rectangular cells
+Group H01M 50/209 is incomplete
+pending reclassification of documents
+Group H01M 50/209 is also impacted by
+reclassification into group H01M 50/211.
+Groups H01M 50/20, H01M 50/209, and
+H01M 50/211 should be considered in
+order to perform a complete search.
+   50/211   . . . . adapted for pouch cells
+Group H01M 50/211 is incomplete
+pending reclassification of documents
+Groups H01M 50/20, H01M 50/209, and
+H01M 50/211 should be considered in
+order to perform a complete search.
+   50/213   . . . . adapted for cells having curved cross-
+section, e.g. round or elliptic (H01M 50/209,
+Group H01M 50/213 is incomplete
+pending reclassification of documents
+Groups H01M 50/20 and H01M 50/213
+should be considered in order to perform
+   50/216   . . . . adapted for button or coin cells
+Group H01M 50/216 is incomplete
+pending reclassification of documents
+Groups H01M 50/20 and H01M 50/216
+should be considered in order to perform
+   50/218   . . characterised by the material
+Groups H01M 50/218 - H01M 50/231
+are incomplete pending reclassification of
+documents from group H01M 50/20.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/22    . . . of the casings or racks
+   50/222   . . . . Inorganic material
+   50/227   . . . . Organic material
+   50/229   . . . . Composite material consisting of a mixture
+of organic and inorganic materials
+   50/231   . . . . having a layered structure
+   50/233   . . characterised by physical properties of casings or
+Groups H01M 50/233 - H01M 50/242
+are incomplete pending reclassification of
+documents from group H01M 50/20.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/238   . . . Flexibility or foldability
+   50/24    . . . adapted for protecting batteries from their
+environment, e.g. from corrosion (thermal
+   50/242   . . . adapted for protecting batteries against
+vibrations, collision impact or swelling
+   50/244   . . Secondary casings; Racks; Suspension devices;
+Carrying devices; Holders characterised by their
+Group H01M 50/244 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/20 and H01M 50/244 should
+be considered in order to perform a complete
+   50/247   . . specially adapted for portable devices, e.g. mobile
+phones, computers, hand tools or pacemakers
+Group H01M 50/247 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/20 and H01M 50/247 should
+be considered in order to perform a complete
+   50/249   . . specially adapted for aircraft or vehicles,
+e.g. cars or trains (constructional details of
+batteries specially adapted for electric vehicles
+Group H01M 50/249 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/20 and H01M 50/249 should
+be considered in order to perform a complete
+   50/251   . . specially adapted for stationary devices, e.g.
+power plant buffering or backup power supplies
+Group H01M 50/251 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/20 and H01M 50/251 should
+be considered in order to perform a complete
+   50/253   . . adapted for specific cells, e.g. electrochemical
+cells operating at high temperature
+Group H01M 50/253 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/20 and H01M 50/253 should
+be considered in order to perform a complete
+   50/256   . . Carrying devices, e.g. belts
+   50/258   . . Modular batteries; Casings provided with means
+   50/26    . . . Assemblies sealed to each other in a non-
+   50/262   . . with fastening means, e.g. locks
+Groups H01M 50/262 and H01M 50/264
+are incomplete pending reclassification of
+documents from group H01M 50/20.
+Groups H01M 50/20, H01M 50/262, and
+H01M 50/264 should be considered in order to
+   50/264   . . . for cells or batteries, e.g. straps, tie rods or
+   50/267   . . having means for adapting to batteries or cells of
+different types or different sizes
+Group H01M 50/267 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/20 and H01M 50/267 should
+be considered in order to perform a complete
+   50/269   . . Mechanical means for varying the arrangement
+of batteries or cells for different uses, e.g. for
+changing the number of batteries or for switching
+between series and parallel wiring (methods
+or arrangements for servicing or maintenance
+Group H01M 50/269 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/20 and H01M 50/269 should
+be considered in order to perform a complete
+   50/271   . . Lids or covers for the racks or secondary casings
+Groups H01M 50/271 - H01M 50/282
+are incomplete pending reclassification of
+documents from group H01M 50/20.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/273   . . . characterised by the material
+   50/276   . . . . Inorganic material
+   50/278   . . . . Organic material
+   50/28    . . . . Composite material consisting of a mixture
+of organic and inorganic materials
+   50/282   . . . . having a layered structure
+   50/284   . . with incorporated circuit boards, e.g. printed
+Groups H01M 50/284 and H01M 50/287
+are incomplete pending reclassification of
+documents from group H01M 50/20.
+Groups H01M 50/20, H01M 50/284, and
+H01M 50/287 should be considered in order to
+   50/287   . . . Fixing of circuit boards to lids or covers
+   50/289   . . characterised by spacing elements or positioning
+means within frames, racks or packs (spacing
+elements inside cells other than separators,
+membranes or diaphragms H01M 50/471)
+Groups H01M 50/289 - H01M 50/293
+are incomplete pending reclassification of
+documents from group H01M 50/20.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/291   . . . characterised by their shape
+   50/293   . . . characterised by the material
+   50/296   . . characterised by terminals of battery packs
+(terminals of batteries H01M 50/543)
+Group H01M 50/296 is incomplete pending
+reclassification of documents from groups
+Groups H01M 50/20, H01M 50/543, and
+H01M 50/296 should be considered in order to
+   50/298   . . characterised by the wiring of battery packs
+Group H01M 50/298 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/20 and H01M 50/298 should
+be considered in order to perform a complete
+   50/30    . Arrangements for facilitating escape of gases
+   50/308   . . Detachable arrangements, e.g. detachable vent
+   50/317   . . Re-sealable arrangements
+   50/325   . . . comprising deformable valve members, e.g.
+elastic or flexible valve members
+   50/333   . . . . Spring-loaded vent valves
+   50/342   . . Non-re-sealable arrangements
+   50/3425  . . . {in the form of rupturable membranes or
+weakened parts, e.g. pierced with the aid of a
+   50/35    . . Gas exhaust passages comprising elongated,
+tortuous or labyrinth-shaped exhaust passages
+Group H01M 50/35 is impacted by
+reclassification into groups H01M 50/358 and
+Groups H01M 50/35, H01M 50/358, and
+H01M 50/367 should be considered in order to
+   50/358   . . . External gas exhaust passages located on the
+Group H01M 50/358 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/35 and H01M 50/358
+should be considered in order to perform a
+   50/367   . . . Internal gas exhaust passages forming part of
+the battery cover or case; Double cover vent
+Group H01M 50/367 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/35 and H01M 50/367
+should be considered in order to perform a
+   50/375   . . Vent means sensitive to or responsive to
+   50/383   . . Flame arresting or ignition-preventing means
+   50/392   . . with means for neutralising or absorbing
+electrolyte; with means for preventing leakage of
+   50/394   . . {Gas-pervious parts or elements}
+   50/40    . Separators; Membranes; Diaphragms; Spacing
+Group H01M 50/40 is impacted by
+reclassification into groups H01M 50/471,
+H01M 50/474, H01M 50/477, H01M 50/48,
+H01M 50/483, H01M 50/486, H01M 50/489,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/403   . . Manufacturing processes of separators,
+Group H01M 50/403 is impacted by
+reclassification into group H01M 50/406.
+Groups H01M 50/403 and H01M 50/406
+should be considered in order to perform a
+   50/406   . . . Moulding; Embossing; Cutting
+Group H01M 50/406 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/403 and H01M 50/406
+should be considered in order to perform a
+   50/409   . . Separators, membranes or diaphragms
+Group H01M 50/409 is impacted by
+reclassification into groups H01M 50/443,
+H01M 50/489, H01M 50/491, H01M 50/494,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/411   . . . Organic material
+Group H01M 50/411 is impacted by
+reclassification into groups H01M 50/414,
+H01M 50/417, H01M 50/42, H01M 50/423,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/414   . . . . Synthetic resins, e.g. thermoplastics or
+Groups H01M 50/414 - H01M 50/426
+are incomplete pending reclassification of
+documents from group H01M 50/411.
+All groups listed in this Warning should
+be considered in order to perform a
+   50/417   . . . . . Polyolefins
+   50/42    . . . . . Acrylic resins
+   50/423   . . . . . Polyamide resins
+   50/426   . . . . . Fluorocarbon polymers
+   50/429   . . . . Natural polymers
+Group H01M 50/429 is incomplete
+pending reclassification of documents
+Groups H01M 50/411 and H01M 50/429
+should be considered in order to perform
+   50/4295  . . . . . {Natural cotton, cellulose or wood}
+   50/431   . . . Inorganic material
+Group H01M 50/431 is impacted by
+reclassification into groups H01M 50/434,
+All groups listed in this Warning should be
+considered in order to perform a complete
+Groups H01M 50/434 and H01M 50/437
+are incomplete pending reclassification of
+documents from group H01M 50/431.
+Groups H01M 50/431, H01M 50/434, and
+H01M 50/437 should be considered in
+order to perform a complete search.
+   50/44    . . . Fibrous material
+   50/443   . . . Particulate material
+Group H01M 50/443 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/409 and H01M 50/443
+should be considered in order to perform a
+   50/446   . . . Composite material consisting of a mixture of
+organic and inorganic materials
+   50/449   . . . having a layered structure
+Group H01M 50/449 is impacted by
+reclassification into groups H01M 50/451,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/451   . . . . comprising layers of only organic material
+and layers containing inorganic material
+Group H01M 50/451 is incomplete
+pending reclassification of documents
+Groups H01M 50/449 and H01M 50/451
+should be considered in order to perform
+   50/454   . . . . comprising a non-fibrous layer and a fibrous
+layer superimposed on one another
+Group H01M 50/454 is incomplete
+pending reclassification of documents
+Groups H01M 50/449 and H01M 50/454
+should be considered in order to perform
+   50/457   . . . . comprising three or more layers
+Group H01M 50/457 is incomplete
+pending reclassification of documents
+Groups H01M 50/449 and H01M 50/457
+should be considered in order to perform
+   50/46    . . Separators, membranes or diaphragms
+characterised by their combination with
+   50/461   . . . {with adhesive layers between electrodes and
+   50/463   . . Separators, membranes or diaphragms
+Group H01M 50/463 is impacted by
+reclassification into groups H01M 50/466 and
+Groups H01M 50/463, H01M 50/466, and
+H01M 50/469 should be considered in order to
+   50/466   . . . U-shaped, bag-shaped or folded
+Group H01M 50/466 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/463 and H01M 50/466
+should be considered in order to perform a
+   50/469   . . . tubular or cylindrical
+Group H01M 50/469 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/463 and H01M 50/469
+should be considered in order to perform a
+   50/471   . . Spacing elements inside cells other than
+separators, membranes or diaphragms (for
+preventing incorrect contact inside or outside
+batteries H01M 50/584); Manufacturing
+Groups H01M 50/471 - H01M 50/486
+are incomplete pending reclassification of
+documents from group H01M 50/40.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/474   . . . characterised by their position inside the cells
+   50/477   . . . characterised by their shape
+   50/48    . . . characterised by the material
+   50/483   . . . . Inorganic material
+   50/486   . . . . Organic material
+   50/489   . . Separators, membranes, diaphragms or spacing
+elements inside the cells, characterised by
+their physical properties, e.g. swelling degree,
+hydrophilicity or shut down properties
+Groups H01M 50/489 - H01M 50/497
+are incomplete pending reclassification
+of documents from groups H01M 50/40,
+H01M 50/409, H01M 50/411, H01M 50/431,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/494   . . . Tensile strength
+   50/497   . . . Ionic conductivity
+   50/50    . Current conducting connections for cells or batteries
+Group H01M 50/50 is impacted by
+reclassification into group H01M 50/569.
+Groups H01M 50/50 and H01M 50/569 should
+be considered in order to perform a complete
+   50/502   . . Interconnectors for connecting terminals of
+adjacent batteries; Interconnectors for connecting
+Group H01M 50/502 is impacted by
+reclassification into groups H01M 50/503,
+H01M 50/505, H01M 50/507, H01M 50/509,
+H01M 50/51, H01M 50/512, H01M 50/514,
+H01M 50/516, H01M 50/517, H01M 50/519,
+H01M 50/521, H01M 50/522, H01M 50/524,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/503   . . . characterised by the shape of the
+Group H01M 50/503 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/502 and H01M 50/503
+should be considered in order to perform a
+   50/505   . . . comprising a single busbar
+Group H01M 50/505 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/502 and H01M 50/505
+should be considered in order to perform a
+   50/507   . . . comprising an arrangement of two or more
+busbars within a container structure, e.g. busbar
+Group H01M 50/507 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/502 and H01M 50/507
+should be considered in order to perform a
+   50/509   . . . characterised by the type of connection, e.g.
+Groups H01M 50/509 - H01M 50/512
+are incomplete pending reclassification of
+documents from group H01M 50/502.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/51    . . . . Connection only in series
+   50/512   . . . . Connection only in parallel
+   50/514   . . . Methods for interconnecting adjacent batteries
+Groups H01M 50/514 - H01M 50/517
+are incomplete pending reclassification of
+documents from group H01M 50/502.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/516   . . . . by welding, soldering or brazing
+   50/517   . . . . by fixing means, e.g. screws, rivets or bolts
+   50/519   . . . comprising printed circuit boards [PCB]
+Group H01M 50/519 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/502 and H01M 50/519
+should be considered in order to perform a
+   50/521   . . . characterised by the material
+Groups H01M 50/521 - H01M 50/526
+are incomplete pending reclassification of
+documents from group H01M 50/502.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/522   . . . . Inorganic material
+   50/524   . . . . Organic material
+   50/526   . . . . having a layered structure
+   50/528   . . Fixed electrical connections, i.e. not intended for
+   50/529   . . . Intercell connections through partitions, e.g. in
+   50/531   . . Electrode connections inside a battery casing
+Group H01M 50/531 is impacted by
+reclassification into groups H01M 50/533,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/533   . . . characterised by the shape of the leads or tabs
+Group H01M 50/533 is incomplete pending
+reclassification of documents from groups
+H01M 50/531, H01M 50/538, H01M 50/54,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/534   . . . characterised by the material of the leads or
+Group H01M 50/534 is incomplete pending
+reclassification of documents from groups
+H01M 50/531, H01M 50/538, H01M 50/54,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/536   . . . characterised by the method of fixing the leads
+to the electrodes, e.g. by welding
+Group H01M 50/536 is incomplete pending
+reclassification of documents from groups
+H01M 50/531, H01M 50/538, H01M 50/54,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/538   . . . Connection of several leads or tabs of wound or
+Group H01M 50/538 is impacted by
+reclassification into groups H01M 50/533,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/54    . . . Connection of several leads or tabs of plate-like
+electrode stacks, e.g. electrode pole straps or
+Group H01M 50/54 is impacted by
+reclassification into groups H01M 50/533,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/541   . . . . for lead-acid accumulators
+Group H01M 50/541 is impacted by
+reclassification into groups H01M 50/533,
+All groups listed in this Warning should
+be considered in order to perform a
+Group H01M 50/543 is impacted by
+reclassification into groups H01M 50/547,
+H01M 50/548, H01M 50/55, H01M 50/552,
+H01M 50/553, H01M 50/559, H01M 50/562,
+H01M 50/564, H01M 50/566, H01M 50/567,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/545   . . . formed by the casing of the cells (cup shaped
+terminals adapted for cells having curved cross-
+   50/547   . . . characterised by the disposition of the terminals
+Groups H01M 50/547 - H01M 50/55 are
+incomplete pending reclassification of
+documents from groups H01M 50/543,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/548   . . . . on opposite sides of the cell
+   50/55    . . . . on the same side of the cell
+   50/552   . . . characterised by their shape
+Groups H01M 50/552, H01M 50/553, and
+H01M 50/559 are incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/553   . . . . Terminals adapted for prismatic, pouch or
+   50/555   . . . . . Window-shaped terminals
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   50/557   . . . . . Plate-shaped terminals
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   50/559   . . . . Terminals adapted for cells having curved
+cross-section, e.g. round, elliptic or button
+cells (H01M 50/553 takes precedence)
+   50/56    . . . . . Cup shaped terminals
+   50/561   . . . . {Hollow metallic terminals, e.g. terminal
+   50/562   . . . characterised by the material
+Group H01M 50/562 is incomplete
+pending reclassification of documents from
+groups H01M 50/543, H01M 50/555, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/564   . . . characterised by their manufacturing process
+Groups H01M 50/564 - H01M 50/567
+are incomplete pending reclassification
+of documents from groups H01M 50/543,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/566   . . . . by welding, soldering or brazing
+   50/567   . . . . by fixing means, e.g. screws, rivets or bolts
+   50/569   . . Constructional details of current conducting
+connections for detecting conditions inside
+cells or batteries, e.g. details of voltage sensing
+terminals (battery terminal connectors with
+integrated measuring arrangements G01R 31/364)
+Group H01M 50/569 is incomplete pending
+reclassification of documents from groups
+H01M 6/50, H01M 6/5044, H01M 6/505,
+H01M 6/5055, H01M 6/5061, H01M 10/48,
+H01M 10/482, H01M 10/484, H01M 10/486,
+H01M 10/488, H01M 50/50, H01M 50/502,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/571   . . Methods or arrangements for affording protection
+against corrosion; Selection of materials therefor
+   50/572   . . Means for preventing undesired use or discharge
+Group H01M 50/572 is impacted by
+reclassification into groups H01M 6/5044,
+H01M 50/574, H01M 50/583, H01M 50/584,
+H01M 50/586, H01M 50/588, H01M 50/59,
+H01M 50/591, H01M 50/593, H01M 50/595,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/574   . . . Devices or arrangements for the interruption of
+Groups H01M 50/574 and H01M 50/583
+are incomplete pending reclassification of
+documents from group H01M 50/572.
+Groups H01M 50/572, H01M 50/574, and
+H01M 50/583 should be considered in order
+   50/576   . . . . in response to theft
+   50/578   . . . . in response to pressure
+   50/579   . . . . in response to shock
+   50/581   . . . . in response to temperature
+   50/583   . . . . in response to current, e.g. fuses
+   50/584   . . . for preventing incorrect connections inside or
+Groups H01M 50/584, H01M 50/586,
+H01M 50/588, H01M 50/59, H01M 50/595,
+and H01M 50/597 are incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/586   . . . . inside the batteries, e.g. incorrect
+   50/588   . . . . outside the batteries, e.g. incorrect
+connections of terminals or busbars
+   50/59    . . . . characterised by the protection means
+Group H01M 50/591 is incomplete
+pending reclassification of documents
+All groups listed in this Warning should
+be considered in order to perform a
+   50/593   . . . . . Spacers; Insulating plates
+Group H01M 50/593 is incomplete
+pending reclassification of documents
+All groups listed in this Warning should
+be considered in order to perform a
+   50/597   . . . . . Protection against reversal of polarity
+   50/598   . . . Guarantee labels
+   50/60    . Arrangements or processes for filling or topping-
+up with liquids; Arrangements or processes for
+Group H01M 50/60 is impacted by
+reclassification into groups H01M 50/609,
+H01M 50/618, H01M 50/627, H01M 50/673,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/609   . . Arrangements or processes for filling with liquid,
+Groups H01M 50/609, H01M 50/618, and
+H01M 50/627 are incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete
+   50/618   . . . Pressure control
+   50/627   . . . Filling ports
+   50/636   . . . . Closing or sealing filling ports, e.g. using
+Group H01M 50/636 is impacted by
+reclassification into groups H01M 50/645,
+All groups listed in this Warning should
+be considered in order to perform a
+H01M 50/655 are incomplete pending
+reclassification of documents from
+Groups H01M 50/636, H01M 50/645,
+and H01M 50/655 should be considered
+in order to perform a complete search.
+   50/655   . . . . . . specially adapted for venting
+   50/664   . . . . . Temporary seals, e.g. for storage of instant
+batteries or seawater batteries
+Group H01M 50/664 is incomplete
+pending reclassification of documents
+H01M 50/664 should be considered in
+order to perform a complete search.
+   50/668   . . {Means for preventing spilling of liquid or
+electrolyte, e.g. when the battery is tilted or
+Group H01M 50/668 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/636 and H01M 50/668
+should be considered in order to perform a
+   50/673   . . Containers for storing liquids; Delivery conduits
+Groups H01M 50/673 and H01M 50/682
+are incomplete pending reclassification of
+documents from group H01M 50/60.
+Groups H01M 50/60, H01M 50/673, and
+H01M 50/682 should be considered in order to
+   50/682   . . . accommodated in battery or cell casings
+   50/691   . . Arrangements or processes for draining liquids
+from casings; Cleaning battery or cell casings
+   50/70    . Arrangements for stirring or circulating the
+   50/73    . . Electrolyte stirring by the action of gas on or in
+   50/77    . . with external circulating path
+ 2200/00    Safety devices for primary or secondary batteries
+ 2200/10    . Temperature sensitive devices
+ 2200/108   . . Normal resistors
+ 2200/20    . Pressure-sensitive devices
+ 2200/30    . Preventing polarity reversal
+ 2220/00    Batteries for particular applications
+ 2220/10    . Batteries in stationary systems, e.g. emergency
+ 2220/20    . Batteries in motive systems, e.g. vehicle, ship, plane
+ 2220/30    . Batteries in portable systems, e.g. mobile phone,
+ 2250/00    Fuel cells for particular applications; Specific
+ 2250/10    . Fuel cells in stationary systems, e.g. emergency
+ 2250/20    . Fuel cells in motive systems, e.g. vehicle, ship,
+ 2250/30    . Fuel cells in portable systems, e.g. mobile phone,
+ 2250/40    . Combination of fuel cells with other energy
+ 2250/402   . . Combination of fuel cell with other electric
+generators (combination of fuel cells with other
+electrochemical generator H01M 16/003)
+ 2250/405   . . Cogeneration of heat or hot water
+ 2250/407   . . Combination of fuel cells with mechanical energy
+ 2300/0002  . Aqueous electrolytes
+ 2300/0005  . . Acid electrolytes
+ 2300/0008  . . . Phosphoric acid-based
+ 2300/0011  . . . Sulfuric acid-based
+ 2300/0014  . . Alkaline electrolytes
+ 2300/0017  . Non-aqueous electrolytes
+ 2300/002   . . Inorganic electrolyte
+ 2300/0022  . . . Room temperature molten salts
+ 2300/0025  . . Organic electrolyte
+ 2300/0028  . . . characterised by the solvent
+ 2300/0031  . . . . Chlorinated solvents
+ 2300/0034  . . . . Fluorinated solvents
+ 2300/0037  . . . . Mixture of solvents
+ 2300/004   . . . . . Three solvents
+ 2300/0042  . . . . . Four or more solvents
+ 2300/0045  . . . Room temperature molten salts comprising at
+ 2300/0048  . . Molten electrolytes used at high temperature
+ 2300/0065  . . Solid electrolytes
+ 2300/0074  . . . . . Ion conductive at high temperature
+ 2300/0077  . . . . . . based on zirconium oxide
+ 2300/0082  . . . Organic polymers
+ 2300/0085  . Immobilising or gelification of electrolyte
+ 2300/0091  . . in the form of mixtures
+ 2300/0094  . . in the form of layered products, e.g. coatings
+ 2300/0097  . . . with adhesive layers

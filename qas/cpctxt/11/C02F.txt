@@ -1,0 +1,580 @@
+COOPERATIVE PATENT CLASSIFICATION
+TREATMENT OF WATER, WASTE WATER, SEWAGE, OR SLUDGE
+TREATMENT OF WATER, WASTE WATER, SEWAGE, OR SLUDGE (separation in
+general B01D; special arrangements on waterborne vessels of installations for treating water,
+waste water or sewage, e.g. for producing fresh water, B63J; adding materials to water to prevent
+corrosion C23F; treating radioactively-contaminated liquids G21F 9/04; regeneration of reactants
+for recirculation into processes, see the relevant places for the processes)
+When classifying in this subclass, classification is also made in group B01D 15/08 insofar as subject matter of general interest
+relating to chromatography is concerned.
+{In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Treatment of water, waste water, or sewage
+(C02F 3/00 - C02F 9/00 take precedence)
+    1/001   . {Processes for the treatment of water whereby the
+filtration technique is of importance (C02F 1/44
+takes precedence; construction of filters in general
+    1/002   . . {using small portable filters for producing
+potable water, e.g. personal travel or emergency
+equipment, survival kits, combat gear
+    1/003   . . {using household-type filters for producing
+potable water, e.g. pitchers, bottles, faucet
+mounted devices (C02F 9/20 takes precedence)}
+    1/004   . . {using large scale industrial sized filters}
+    1/005   . {Systems or processes based on supernatural or
+anthroposophic principles, cosmic or terrestrial
+radiation, geomancy or rhabdomancy}
+    1/006   . {Water distributors either inside a treatment tank or
+directing the water to several treatment tanks; Water
+treatment plants incorporating these distributors,
+with or without chemical or biological tanks (for
+ 2001/007   . {Processes including a sedimentation step}
+    1/008   . {Control or steering systems not provided for
+    1/02    . by heating (methods of steam generation F22B;
+preheating boiler feed-water or accumulating
+preheated boiler feed-water F22D)
+    1/025   . . {Thermal hydrolysis}
+    1/04    . . by distillation or evaporation
+    1/041   . . . {by means of vapour compression}
+    1/042   . . . {Prevention of deposits}
+    1/045   . . . {for obtaining ultra-pure water}
+    1/046   . . . {under vacuum produced by a barometric
+    1/047   . . . {using eolic energy}
+    1/048   . . . {Purification of waste water by evaporation}
+    1/06    . . . Flash evaporation
+    1/08    . . . Thin film evaporation
+    1/10    . . . by direct contact with a particulate solid or with
+a fluid, as a heat transfer medium
+    1/12    . . . . Spray evaporation
+    1/14    . . . using solar energy
+    1/16    . . . using waste heat from other processes
+    1/18    . . . Transportable devices to obtain potable water
+    1/20    . by degassing, i.e. liberation of dissolved gases
+(degasification of liquids in general B01D 19/00;
+arrangement of degassing apparatus in boiler feed
+    1/24    . by flotation (C02F 1/465 takes precedence)
+    1/28    . by sorption (using ion-exchange C02F 1/42; sorbent
+    1/281   . . {using inorganic sorbents}
+    1/283   . . {using coal, charred products, or inorganic
+    1/285   . . {using synthetic organic sorbents}
+    1/286   . . {using natural organic sorbents or derivatives
+    1/288   . . {using composite sorbents, e.g. coated,
+    1/302   . . {with microwaves}
+    1/305   . . {with electrons}
+    1/307   . . {with X-rays or gamma radiation}
+    1/32    . . with ultra-violet light
+    1/325   . . . {Irradiation devices or lamp constructions}
+    1/34    . with mechanical oscillations
+    1/36    . . ultrasonic vibrations
+    1/38    . by centrifugal separation
+    1/385   . . {by centrifuging suspensions (centrifuges B04B)}
+    1/40    . Devices for separating or removing fatty or oily
+substances or similar floating material (cleaning or
+keeping clear the surface of open water from oil or
+like materials E02B 15/04; devices in sewers for
+separating liquid or solid substances from sewage
+E03F 5/14, e.g. for use in drains leading to the
+    1/42    . by ion-exchange (ion-exchange in general B01J)
+When classifying in group C02F 1/42,
+details of ion-exchangers can be further
+indexed by using indexing codes chosen from
+ 2001/422   . . {using anionic exchangers}
+ 2001/425   . . {using cation exchangers}
+ 2001/427   . . {using mixed beds}
+    1/44    . by dialysis, osmosis or reverse osmosis {(general
+membrane separation processes B01D 61/00,
+membrane modules B01D 63/00, electrodialysis
+C02F 1/4693, combination of membrane modules
+    1/441   . . {by reverse osmosis}
+    1/442   . . {by nanofiltration}
+    1/444   . . {by ultrafiltration or microfiltration}
+    1/445   . . {by forward osmosis}
+    1/447   . . {by membrane distillation (distillation and
+evaporation without the use of membranes
+    1/448   . . {by pervaporation}
+    1/46    . by electrochemical methods
+    1/4602  . . {for prevention or elimination of deposits}
+    1/4604  . . {for desalination of seawater or brackish water}
+    1/4606  . . {for producing oligodynamic substances to
+    1/4608  . . {using electrical discharges}
+    1/461   . . by electrolysis
+    1/46104 . . . {Devices therefor; Their operating or
+    1/46109 . . . . {Electrodes}
+When classifying in group C02F 1/46109,
+details of devices for electrolysis
+can be further indexed by using
+C02F 2001/46119 - C02F 2001/46166
+    1/46114 . . . . . {Electrodes in particulate form or with
+conductive and/or non conductive particles
+ 2001/46119 . . . . . {Cleaning the electrodes}
+ 2001/46123 . . . . . {Movable electrodes}
+ 2001/46128 . . . . . {Bipolar electrodes}
+ 2001/46133 . . . . . {characterised by the material}
+ 2001/46138 . . . . . . {Electrodes comprising a substrate and a
+ 2001/46142 . . . . . . . {Catalytic coating}
+ 2001/46147 . . . . . . . {Diamond coating}
+ 2001/46152 . . . . . {characterised by the shape or form
+(electrodes in particulate form or with
+conductive or non-conductive particles
+ 2001/46157 . . . . . . {Perforated or foraminous electrodes}
+ 2001/46161 . . . . . . . {Porous electrodes}
+ 2001/46166 . . . . . . . . {Gas diffusion electrodes}
+ 2001/46171 . . . . . . {Cylindrical or tubular shaped}
+    1/46176 . . . . {Galvanic cells}
+    1/4618  . . . . {for producing "ionised" acidic or basic
+C02F 1/4618, details relating to
+the production of "ionised" acidic
+or basic water using electrolysis
+devices can be further indexed by
+using indexing codes chosen from
+C02F 2001/46185 - C02F 2001/46195
+ 2001/46185 . . . . . {only anodic or acidic water, e.g. for
+ 2001/4619  . . . . . {only cathodic or alkaline water, e.g. for
+ 2001/46195 . . . . . {characterised by the oxidation reduction
+    1/463   . . . by electrocoagulation
+    1/465   . . . by electroflotation
+    1/467   . . . by electrochemical disinfection; {by
+electrooxydation or by electroreduction}
+    1/4672  . . . . {by electrooxydation}
+    1/4674  . . . . . {with halogen or compound of halogens,
+    1/4676  . . . . {by electroreduction}
+    1/4678  . . . . . {of metals}
+    1/469   . . by electrochemical separation, e.g. by electro-
+osmosis, electrodialysis, electrophoresis
+    1/4691  . . . {Capacitive deionisation}
+    1/4693  . . . {electrodialysis}
+    1/4695  . . . . {electrodeionisation}
+    1/4696  . . . {electrophoresis}
+    1/4698  . . . {electro-osmosis}
+    1/48    . with magnetic or electric fields (C02F 1/46 takes
+    1/481   . . {using permanent magnets}
+    1/482   . . . {located on the outer wall of the treatment
+device, i.e. not in contact with the liquid to be
+    1/484   . . {using electromagnets}
+    1/485   . . . {located on the outer wall of the treatment
+device, i.e. not in contact with the liquid to be
+    1/487   . . {using high frequency electromagnetic fields, e.g.
+    1/488   . . {for separation of magnetic materials, e.g.
+    1/50    . by addition or application of a germicide or
+by oligodynamic treatment {(C02F 1/4606,
+C02F 1/467, C02F 1/76 take precedence)}
+    1/505   . . {by oligodynamic treatment}
+    1/52    . by flocculation or precipitation of suspended
+impurities {(C02F 1/463 takes precedence)}
+    1/5209  . . {Regulation methods for flocculation or
+ 2001/5218  . . {Crystallization}
+    1/5227  . . {Processes for facilitating the dissolution of solid
+    1/5236  . . {using inorganic agents}
+    1/5245  . . . {using basic salts, e.g. of aluminium and iron}
+    1/5254  . . . {using magnesium compounds and phosphoric
+    1/5263  . . {using natural chemical compounds}
+    1/5272  . . {using specific organic precipitants}
+    1/5281  . . {Installations for water purification using
+    1/529   . . {Processes or devices for preparing lime water}
+    1/54    . . using organic material
+    1/542   . . . {Phosphorus compounds}
+    1/545   . . . {Silicon compounds}
+    1/56    . . . Macromolecular compounds
+    1/58    . by removing specified dissolved compounds
+(using ion-exchange C02F 1/42; softening water
+    1/583   . . {by removing fluoride or fluorine compounds}
+    1/586   . . {by removing ammoniacal nitrogen (for
+    1/60    . . Silicon compounds {(C02F 1/583 takes
+    1/62    . . Heavy metal compounds
+    1/64    . . . of iron or manganese
+    1/645   . . . . {Devices for iron precipitation and treatment
+    1/66    . by neutralisation; pH adjustment (for degassing
+C02F 1/20; using ion-exchange C02F 1/42; for
+flocculation or precipitation of suspended impurities
+C02F 1/52; for removing dissolved compounds
+    1/68    . by addition of specified substances, e.g. trace
+elements, for ameliorating potable water (medicinal
+    1/681   . . {by addition of solid materials for removing an
+    1/682   . . {by addition of chemical compounds for
+dispersing an oily layer on water}
+    1/683   . . {by addition of complex-forming compounds}
+    1/685   . . {Devices for dosing the additives}
+    1/686   . . . {Devices for dosing liquid additives}
+    1/687   . . . {Devices for dosing solid compounds}
+    1/688   . . . {Devices in which the water progressively
+    1/70    . by reduction {(C02F 1/4676 takes precedence)}
+    1/705   . . {Reduction by metals}
+    1/72    . by oxidation {(C02F 1/4672 takes precedence)}
+    1/722   . . {Oxidation by peroxides}
+    1/725   . . {by catalytic oxidation}
+    1/727   . . {using pure oxygen or oxygen rich gas}
+    1/74    . . with air (aeration of stretches of water C02F 7/00)
+    1/76    . . with halogens or compounds of halogens
+{(C02F 1/4674 takes precedence)}
+    1/763   . . . {Devices for the addition of such compounds in
+    1/766   . . . {by means of halogens other than chlorine or
+of halogenated compounds containing halogen
+    1/78    . . with ozone {(C02F 1/4672 takes precedence)}
+    3/00    Biological treatment of water, waste water, or
+sewage {(C02F 1/006 takes precedence)}
+ 2003/001   . {using granular carriers or supports for the
+ 2003/003   . . {using activated carbon or the like}
+    3/005   . {Combined electrochemical biological processes
+(aeration by electrolytically produced oxygen
+    3/006   . {Regulation methods for biological treatment}
+ 2003/008   . {using anaerobic baffled reactors}
+    3/02    . Aerobic processes
+    3/025   . . {Biological purification using sources of oxygen
+other than air, oxygen or ozone}
+    3/04    . . using trickle filters
+    3/043   . . . {Devices for distributing water over trickle
+    3/046   . . . {Soil filtration}
+    3/06    . . using submerged filters
+    3/08    . . using moving contact bodies
+    3/082   . . . {Rotating biological contactors}
+    3/085   . . . {Fluidized beds}
+    3/087   . . . . {Floating beds with contact bodies having a
+    3/10    . . Packings; Fillings; Grids (packing elements in
+general B01J 19/30, B01J 19/32)
+    3/101   . . . {Arranged-type packing, e.g. stacks, arrays}
+    3/102   . . . {Permeable membranes}
+    3/103   . . . {Textile-type packing}
+    3/104   . . . {Granular carriers}
+    3/105   . . . {Characterized by the chemical composition}
+    3/106   . . . . {Carbonaceous materials}
+    3/107   . . . . {Inorganic materials, e.g. sand, silicates}
+    3/108   . . . . {Immobilising gels, polymers or the like}
+    3/109   . . . {Characterized by the shape (C02F 3/104 takes
+    3/12    . . Activated sludge processes
+    3/1205  . . . {Particular type of activated sludge processes}
+    3/121   . . . . {Multistep treatment}
+    3/1215  . . . . {Combinations of activated sludge treatment
+with precipitation, flocculation, coagulation
+    3/1221  . . . . {comprising treatment of the recirculated
+    3/1226  . . . . {comprising an absorbent material suspended
+    3/1231  . . . . {Treatments of toxic sewage}
+    3/1236  . . . {Particular type of activated sludge
+    3/1242  . . . . {Small compact installations for use in
+homes, apartment blocks, hotels or the like}
+    3/1247  . . . . . {comprising circular tanks with elements,
+e.g. decanters, aeration basins, in the form
+of segments, crowns or sectors}
+    3/1252  . . . . {Cylindrical tanks with horizontal axis}
+    3/1257  . . . . {Oxidation ditches}
+    3/1263  . . . . {Sequencing batch reactors [SBR]}
+    3/1268  . . . . {Membrane bioreactor systems}
+    3/1273  . . . . . {Submerged membrane bioreactors}
+    3/1278  . . . {Provisions for mixing or aeration of the mixed
+    3/1284  . . . . {Mixing devices}
+    3/1289  . . . . {Aeration by saturation under super-
+    3/1294  . . . . {"Venturi" aeration means}
+    3/14    . . . using surface aeration
+    3/145   . . . . {Protection against aerosols}
+    3/16    . . . . the aerator having a vertical axis
+    3/165   . . . . . {using vertical aeration channels}
+    3/18    . . . . the aerator having a horizontal axis
+    3/20    . . . using diffusers
+    3/201   . . . . {Perforated, resilient plastic diffusers, e.g.
+membranes, sheets, foils, tubes, hoses}
+    3/202   . . . . {Aeration by electrolytically produced
+    3/203   . . . . {Swing diffusers}
+    3/205   . . . . {Moving, e.g. rotary, diffusers; Stationary
+diffusers with moving, e.g. rotary,
+    3/206   . . . . . {with helical screw impellers}
+    3/207   . . . . . {with axial thrust propellers}
+    3/208   . . . . {Membrane aeration (C02F 3/201 takes
+    3/22    . . . using circulation pipes
+    3/223   . . . . {using "air-lift"}
+    3/226   . . . . {"Deep shaft" processes}
+    3/24    . . . using free-fall aeration or spraying
+    3/26    . . . using pure oxygen or oxygen-rich gas
+    3/28    . Anaerobic digestion processes
+    3/2806  . . {Anaerobic processes using solid supports for
+    3/2813  . . {using anaerobic contact processes}
+    3/282   . . {using anaerobic sequencing batch reactors}
+    3/2826  . . {using anaerobic filters}
+    3/2833  . . {using fluidized bed reactors}
+    3/284   . . {using anaerobic baffled reactors}
+    3/2846  . . {using upflow anaerobic sludge blanket [UASB]
+    3/2853  . . {using anaerobic membrane bioreactors}
+    3/286   . . {including two or more steps}
+    3/2866  . . {Particular arrangements for anaerobic reactors}
+    3/2873  . . . {with internal draft tube circulation}
+    3/288   . . . {comprising septic tanks combined with a
+    3/2886  . . . {Two story combinations of the Imhoff tank
+    3/2893  . . . {with biogas recycling}
+    3/30    . Aerobic and anaerobic processes
+    3/301   . . {Aerobic and anaerobic treatment in the same
+    3/302   . . {Nitrification and denitrification treatment
+    3/303   . . . {characterised by the nitrification}
+    3/305   . . . {characterised by the denitrification}
+    3/306   . . . . {Denitrification of water in soil}
+    3/307   . . . {characterised by direct conversion of nitrite to
+molecular nitrogen, e.g. by using the Anammox
+    3/308   . . {Biological phosphorus removal}
+    3/32    . characterised by the animals or plants used, e.g.
+    3/325   . . . {as symbiotic combination of algae and
+    3/327   . . {characterised by animals and plants}
+    3/34    . characterised by the microorganisms used
+    3/341   . . {Consortia of bacteria}
+    3/342   . . {characterised by the enzymes used}
+    3/343   . . {for digestion of grease, fat, oil}
+    3/344   . . {for digestion of mineral oil}
+    3/345   . . {for biological oxidation or reduction of sulfur
+    3/346   . . {Iron bacteria}
+    3/347   . . {Use of yeasts or fungi (C02F 3/322 takes
+    3/348   . . {characterised by the way or the form in which
+the microorganisms are added or dosed}
+    5/00    Softening water; Preventing scale; Adding scale
+preventatives or scale removers to water, e.g.
+adding sequestering agents (softening using ion-
+    5/02    . Softening water by precipitation of the hardness
+    5/025   . . {Hot-water softening devices}
+    5/04    . . using phosphates (C02F 5/06 takes precedence)
+    5/06    . . using calcium compounds
+    5/08    . Treatment of water with complexing chemicals
+or other solubilising agents for softening,
+scale prevention or scale removal, e.g. adding
+    5/083   . . {Mineral agents}
+    5/086   . . {Condensed phosphates}
+    5/10    . . using organic substances
+    5/105   . . . {combined with inorganic substances}
+    5/12    . . . containing nitrogen (C02F 5/14 takes
+    5/125   . . . . {combined with inorganic substances}
+    5/14    . . . containing phosphorus
+    5/145   . . . . {combined with inorganic substances}
+    7/00    Aeration of stretches of water
+    9/00    Multistage treatment of water, waste water or
+1. This group covers combined treatment operations,
+carried out in a defined order in three or more
+different treatment stages, each stage occurring
+in a separate location, e.g. apparatus, reactor or
+2. This group does not cover treatments where the
+essential characteristic resides in an individual step
+of the treatment, which treatments are covered by
+    9/20    . Portable or detachable small-scale multistage
+treatment devices, e.g. point of use or laboratory
+   11/00    Treatment of sludge; Devices therefor
+   11/002   . {Sludge treatment using liquids immiscible with
+   11/004   . {Sludge detoxification}
+   11/006   . {Electrochemical treatment, e.g. electro-oxidation
+   11/008   . {Sludge treatment by fixation or solidification}
+   11/02    . Biological treatment
+   11/04    . . Anaerobic treatment; Production of methane by
+   11/06    . by oxidation (incinerators for burning waste
+liquors, e.g. sulfite liquor from paper-making plant
+   11/08    . . Wet air oxidation
+   11/083   . . . {using deep well reactors}
+   11/086   . . . {in the supercritical state}
+   11/12    . by de-watering, drying or thickening
+   11/121   . . by mechanical de-watering
+   11/122   . . . using filter presses (C02F 11/123 takes
+   11/123   . . . using belt or band filters
+   11/125   . . . using screw filters
+   11/126   . . . using drum filters
+   11/127   . . . by centrifugation
+   11/128   . . . using batch processes
+   11/131   . . . using electromagnetic or ultrasonic waves
+   11/14    . . with addition of chemical agents
+   11/143   . . . using inorganic substances (C02F 11/148 takes
+   11/145   . . . . using calcium compounds
+   11/147   . . . using organic substances (C02F 11/148 takes
+   11/148   . . . Combined use of inorganic and organic
+substances, being added in the same treatment
+   11/15    . . by treatment with electric, magnetic or
+electromagnetic fields; by treatment with
+ultrasonic waves (for the purpose of heating
+   11/16    . . using drying or composting beds
+   11/18    . by thermal conditioning (by pyrolysis C02F 11/10)
+   11/185   . . {by pasteurisation}
+ 2101/00    Nature of the contaminant
+ 2101/003   . {Explosive compounds, e.g. TNT}
+ 2101/006   . {Radioactive compounds}
+ 2101/10    . Inorganic compounds
+ 2101/101   . . {Sulfur compounds}
+ 2101/103   . . {Arsenic compounds}
+ 2101/105   . . {Phosphorus compounds}
+ 2101/106   . . {Selenium compounds}
+ 2101/108   . . {Boron compounds}
+ 2101/12    . . Halogens or halogen-containing compounds
+ 2101/14    . . . Fluorine or fluorine-containing compounds
+ 2101/16    . . Nitrogen compounds, e.g. ammonia
+ 2101/20    . . Heavy metals or heavy metal compounds
+ 2101/203   . . . {Iron or iron compound}
+ 2101/206   . . . {Manganese or manganese compounds}
+ 2101/22    . . . Chromium or chromium compounds, e.g.
+ 2101/30    . Organic compounds
+ 2101/301   . . {Detergents, surfactants}
+ 2101/303   . . {Complexing agents}
+ 2101/305   . . {Endocrine disruptive agents}
+ 2101/308   . . {Dyes; Colorants; Fluorescent agents}
+ 2101/32    . . Hydrocarbons, e.g. oil
+ 2101/322   . . . {Volatile compounds, e.g. benzene}
+ 2101/327   . . . {Polyaromatic Hydrocarbons [PAH's]}
+ 2101/34    . . containing oxygen
+ 2101/36    . . containing halogen
+ 2101/363   . . . {PCB's; PCP's}
+ 2101/366   . . . {Dioxine; Furan}
+ 2101/38    . . containing nitrogen
+ 2101/40    . . containing sulfur
+ 2103/00    Nature of the water, waste water, sewage or sludge
+ 2103/001   . {Runoff or storm water}
+ 2103/002   . {Grey water, e.g. from clothes washers, showers or
+ 2103/003   . {Wastewater from hospitals, laboratories and
+the like, heavily contaminated by pathogenic
+ 2103/005   . {Black water originating from toilets}
+ 2103/006   . {Dental effluents}
+ 2103/007   . {Contaminated open waterways, rivers, lakes or
+ 2103/008   . {Originating from marine vessels, ships and boats,
+e.g. bilge water or ballast water}
+ 2103/02    . Non-contaminated water, e.g. for industrial water
+ 2103/023   . . {Water in cooling circuits}
+ 2103/026   . . {Treating water for medical or cosmetic
+ 2103/04    . . for obtaining ultra-pure water
+ 2103/06    . Contaminated groundwater or leachate
+ 2103/08    . Seawater, e.g. for desalination
+ 2103/10    . from quarries or from mining activities
+ 2103/12    . from the silicate or ceramic industries, e.g. waste
+waters from cement or glass factories
+ 2103/16    . from metallurgical processes, i.e. from the
+production, refining or treatment of metals, e.g.
+ 2103/18    . from the purification of gaseous effluents
+ 2103/20    . from animal husbandry
+ 2103/22    . from the processing of animals, e.g. poultry, fish, or
+ 2103/26    . from the processing of plants or parts thereof
+ 2103/28    . . from the paper or cellulose industry
+ 2103/30    . from the textile industry
+ 2103/32    . from the food or foodstuff industry, e.g. brewery
+ 2103/322   . . {from vegetable oil production, e.g. olive oil
+ 2103/325   . . {from processes relating to the production of
+ 2103/327   . . {from processes relating to the production of
+ 2103/34    . from industrial activities not provided for in groups
+ 2103/343   . . {from the pharmaceutical industry, e.g.
+ 2103/346   . . {from semiconductor processing, e.g. waste water
+ 2103/36    . . from the manufacture of organic compounds
+ 2103/365   . . . {from petrochemical industry (e.g. refineries)}
+ 2103/40    . . from the manufacture or use of photosensitive
+ 2103/42    . from bathing facilities, e.g. swimming pools
+ 2103/44    . from vehicle washing facilities
+ 2201/00    Apparatus for treatment of water, waste water or
+ 2201/001   . Build in apparatus for autonomous on board water
+supply and wastewater treatment (e.g. for aircrafts,
+cruiseships, oil drilling platforms, railway trains,
+ 2201/002   . Construction details of the apparatus
+ 2201/003   . . Coaxial constructions, e.g. a cartridge located
+ 2201/004   . . Seals, connections
+ 2201/008   . Mobile apparatus and plants, e.g. mounted on a
+vehicle (for biological treatment C02F 2203/008)
+ 2201/009   . Apparatus with independent power supply, e.g.
+solar cells, windpower, fuel cells (for electrolysis
+ 2201/32    . Details relating to UV-irradiation devices
+ 2201/322   . . Lamp arrangement
+ 2201/3221  . . . Lamps suspended above a water surface or pipe
+ 2201/3222  . . . Units using UV-light emitting diodes [LED]
+ 2201/3223  . . . Single elongated lamp located on the central
+ 2201/3224  . . . Units using UV-light guiding optical fibers
+ 2201/3225  . . . Lamps immersed in an open channel,
+containing the liquid to be treated
+ 2201/3226  . . . Units using UV-light emitting lasers
+ 2201/3227  . . . Units with two or more lamps
+ 2201/3228  . . . Units having reflectors, e.g. coatings, baffles,
+ 2201/324   . . Lamp cleaning installations, e.g. brushes
+ 2201/326   . . Lamp control systems
+ 2201/328   . . Having flow diverters (baffles)
+ 2201/46    . Apparatus for electrochemical processes
+ 2201/461   . . Electrolysis apparatus
+ 2201/46105 . . . Details relating to the electrolytic devices
+ 2201/46115 . . . . Electrolytic cell with membranes or
+ 2201/4612  . . . . Controlling or monitoring
+ 2201/46125 . . . . . Electrical variables
+ 2201/4613  . . . . . . Inversing polarity
+ 2201/46135 . . . . . . Voltage
+ 2201/4614  . . . . . . Current
+ 2201/46145 . . . . . Fluid flow
+ 2201/46155 . . . . Heating or cooling
+ 2201/4616  . . . . Power supply
+ 2201/46165 . . . . . Special power supply, e.g. solar energy or
+ 2201/46175 . . . . . Electrical pulses
+ 2201/4618  . . . . Supplying or removing reactants or
+ 2201/46185 . . . . . Recycling the cathodic or anodic feed
+ 2201/4619  . . . . Supplying gas to the electrolyte (gas
+diffusion electrodes C02F 2001/46166)
+ 2201/46195 . . . . Cells containing solid electrolyte
+ 2201/48    . Devices for applying magnetic or electric fields
+ 2201/78    . Details relating to ozone treatment devices
+ 2201/782   . . Ozone generators
+ 2201/784   . . Diffusers or nozzles for ozonation
+ 2203/00    Apparatus and plants for the biological treatment
+of water, waste water or sewage
+ 2203/002   . comprising an initial buffer container
+ 2203/004   . comprising a selector reactor for promoting floc-
+ 2203/006   . details of construction, e.g. specially adapted seals,
+ 2203/008   . Mobile apparatus and plants, e.g. mounted on a
+ 2209/00    Controlling or monitoring parameters in water
+ 2209/001   . Upstream control, i.e. monitoring for predictive
+ 2209/003   . Downstream control, i.e. outlet monitoring, e.g.
+to check the treating agents, such as halogens or
+ 2209/005   . Processes using a programmable logic controller
+ 2209/006   . . comprising a software program or a logic diagram
+ 2209/008   . . comprising telecommunication features, e.g.
+ 2209/04    . Oxidation reduction potential [ORP]
+ 2209/05    . Conductivity or salinity
+ 2209/08    . Chemical Oxygen Demand [COD]; Biological
+ 2209/10    . Solids, e.g. total solids [TS], total suspended solids
+ 2209/105   . . Particle number, particle size or particle
+ 2209/12    . Volatile Fatty Acids (VFAs)
+ 2209/16    . Total nitrogen (tkN-N)
+ 2209/20    . Total organic carbon [TOC]
+ 2209/21    . Dissolved organic carbon [DOC]
+ 2209/225   . . in the gas phase
+ 2209/235   . . in the gas phase
+ 2209/245   . . in the gas phase
+ 2209/265   . . in the gas phase
+ 2209/285   . . CH4 in the gas phase
+ 2209/29    . Chlorine compounds
+ 2209/36    . Biological material, e.g. enzymes or ATP
+ 2301/00    General aspects of water treatment
+ 2301/02    . Fluid flow conditions
+ 2301/026   . . Spiral, helicoidal, radial
+ 2301/04    . Flow arrangements
+ 2301/043   . . Treatment of partial or bypass streams
+ 2301/046   . . Recirculation with an external loop
+ 2301/06    . Pressure conditions
+ 2301/063   . . Underpressure, vacuum
+ 2301/066   . . Overpressure, high pressure
+ 2301/08    . Multistage treatments, e.g. repetition of the same
+process step under different conditions
+ 2301/10    . Temperature conditions for biological treatment
+ 2301/103   . . Psychrophilic treatment
+ 2301/106   . . Thermophilic treatment
+ 2303/00    Specific treatment goals
+ 2303/02    . Odour removal or prevention of malodour
+ 2303/06    . Sludge reduction, e.g. by lysis
+ 2303/08    . Corrosion inhibition
+ 2303/12    . Prevention of foaming
+ 2303/14    . Maintenance of water treatment installations
+ 2303/16    . Regeneration of sorbents, filters
+ 2303/18    . Removal of treatment agents after treatment
+ 2303/185   . . The treatment agent being halogen or a
+ 2303/20    . Prevention of biofouling
+ 2303/22    . Eliminating or preventing deposits, scale removal,
+scale prevention (C02F 1/042, C02F 1/4602,
+ 2303/24    . Separation of coarse particles, e.g. by using sieves
+ 2303/26    . Reducing the size of particles, liquid droplets
+or bubbles, e.g. by crushing, grinding, spraying,
+creation of microbubbles or nanobubbles
+ 2305/00    Use of specific compounds during water treatment
+ 2305/02    . Specific form of oxidant
+ 2305/023   . . Reactive oxygen species, singlet oxygen, OH
+ 2305/026   . . Fenton's reagent
+ 2305/04    . Surfactants, used as part of a formulation or alone
+ 2305/06    . Nutrients for stimulating the growth of
+ 2305/08    . Nanoparticles or nanotubes
+ 2305/12    . Inert solids used as ballast for improving
+sedimentation (C02F 3/1226 takes precedence)
+ 2305/14    . Additives which dissolves or releases substances
+when predefined environmental conditions are
+reached, e.g. pH or temperature
+ 2307/00    Location of water treatment or water treatment
+ 2307/02    . as part of a bottle
+ 2307/04    . as part of a pitcher or jug
+ 2307/06    . Mounted on or being part of a faucet, shower handle
+ 2307/08    . Treatment of wastewater in the sewer, e.g. to reduce
+ 2307/10    . as part of a potable water dispenser, e.g. for use in
+ 2307/12    . as part of household appliances such as
+dishwashers, laundry washing machines or vacuum
+ 2307/14    . Treatment of water in water supply networks, e.g. to

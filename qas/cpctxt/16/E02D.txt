@@ -1,0 +1,558 @@
+COOPERATIVE PATENT CLASSIFICATION
+HYDRAULIC ENGINEERING; FOUNDATIONS; SOIL SHIFTING
+FOUNDATIONS; EXCAVATIONS; EMBANKMENTS (specially adapted for hydraulic
+engineering E02B); UNDERGROUND OR UNDERWATER STRUCTURES {(tunnels,
+1. This subclass covers underground structures made by foundation engineering, i.e. involving disturbance of the ground surface.
+2. This subclass does not cover underground spaces, made by underground mining methods only, i.e. not involving disturbance
+of the ground surface, which are covered by subclass E21D.
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Investigation of foundation soil in situ
+(investigation involving boring or specially adapted to
+earth drilling E21B 25/00, E21B 49/00; investigating
+or analysing materials by determining their chemical
+or physical properties, in general G01N, e.g. sampling
+    1/02    . before construction work
+    1/022   . . {by investigating mechanical properties of the
+soil (E02D 1/027 takes precedence)}
+    1/025   . . . {combined with sampling}
+    1/027   . . {by investigating properties relating to fluids in
+the soil, e.g. pore-water pressure, permeability
+(sampling of groundwater E02D 1/06)}
+    1/04    . . Sampling of soil {(E02D 1/025 takes
+    1/06    . . Sampling of ground water
+    1/08    . after finishing the foundation structure {(testing of
+    3/00    Improving or preserving soil or rock, e.g.
+preserving permafrost soil (securing of slopes
+or inclines E02D 17/20; damming or interrupting
+passage of underground water E02D 19/12; improving
+soil for agricultural purposes A01; soil stabilisation
+for road building or like purposes E01C 21/00,
+E01C 23/10; setting rock anchoring bolts E21D)
+    3/005   . {Soil-conditioning by mixing with fibrous materials,
+filaments, open mesh or the like}
+    3/02    . Improving by compacting (E02D 3/11 takes
+precedence; compacting soil locally before or while
+forming foundations E02D 27/26, E02D 27/28)
+    3/026   . . by rolling with rollers usable only for or specially
+adapted for soil compaction, e.g. sheepsfoot
+rollers (rollers for soil working in agriculture
+A01B 29/00; rollers for road paving, such rollers
+usable also for compacting soil E01C 19/23)
+    3/0265  . . . {Wheels specially adapted therefor; Cleats for
+    3/032   . . . Trench rollers
+    3/039   . . . Slope rollers
+    3/046   . . by tamping or vibrating, e.g. with auxiliary
+watering of the soil (E02D 3/026, E02D 3/08
+take precedence; generating or transmitting
+mechanical vibrations for performing mechanical
+work in general B06B; tamping or vibrating
+apparatus for working ballast or railways
+E01B 27/00, for consolidating paving materials
+E01C 19/30, for consolidating concrete in general
+    3/054   . . . involving penetration of the soil, e.g.
+    3/061   . . . Tampers with directly acting explosion
+chambers (pile drivers with explosion chambers
+    3/068   . . . Vibrating apparatus operating with systems
+involving reciprocating masses (E02D 3/054,
+    3/074   . . . Vibrating apparatus operating with systems
+involving rotary unbalanced masses
+    3/08    . . by inserting stones or lost bodies, e.g. compaction
+piles (sand drains for soil compaction E02D 3/10;
+stressing soil while forming foundations
+    3/10    . . by watering, draining, de-aerating or blasting,
+e.g. by installing sand or wick drains (E02D 3/11
+takes precedence; soil-penetrating vibrators with
+auxiliary watering E02D 3/054; drainage of soil
+    3/103   . . . {by installing wick drains or sand bags}
+    3/106   . . . {by forming sand drains containing only loose
+aggregates (sand piles E02D 3/08)}
+    3/11    . by thermal, electrical or electro-chemical
+means (freezing soil for interrupting passage of
+    3/12    . Consolidating by placing solidifying or pore-filling
+substances in the soil (making piles E02D 5/46;
+soil-conditioning or soil-stabilising materials
+C09K 17/00; consolidation of ground around
+boreholes or wells E21B 43/025)
+    3/123   . . {and compacting the soil (E02D 3/126 takes
+    3/126   . . {and mixing by rotating blades}
+    5/00    Bulkheads, piles, or other structural elements
+specially adapted to foundation engineering
+(engineering elements in general F16)
+    5/02    . Sheet piles or sheet pile bulkheads {(foundations
+made with sheet pile bulkheads E02D 27/30;
+    5/03    . . Prefabricated parts {, e.g. composite sheet piles}
+    5/04    . . . made of steel
+    5/06    . . . . Fitted piles or other elements specially
+adapted for closing gaps between two sheet
+piles or between two walls of sheet piles
+    5/08    . . . . Locking forms; Edge joints; Pile crossings;
+    5/10    . . . made of concrete or reinforced concrete
+    5/105   . . . . {of prestressed concrete (E02D 5/12 takes
+    5/12    . . . . Locking forms; Edge joints; Pile crossings;
+    5/14    . . Sealing joints between adjacent {sheet} piles
+(sealing joints not restricted to foundation piles
+    5/16    . . Auxiliary devices rigidly or detachably arranged
+on sheet piles for facilitating assembly {(as
+parts of driving or pulling apparatus E02D 7/00,
+    5/18    . Bulkheads or similar walls made solely of concrete
+in situ {(moulds therefor E02D 5/68; making
+foundation slots E02D 17/13; sealing diaphragms
+other than those made of concrete E02D 19/18)}
+    5/182   . . {using formworks to separate sections}
+    5/185   . . {with flexible joint members between sections
+(joints in foundation structures E02D 29/16;
+flexible joints in hydraulic engineering
+E02B 3/16, in building E04B 1/68)}
+    5/187   . . {the bulkheads or walls being made continuously,
+e.g. excavating and constructing bulkheads or
+walls in the same process, without joints}
+    5/20    . Bulkheads or similar walls made of prefabricated
+parts and concrete, including reinforced concrete, in
+    5/22    . Piles (sheet piles, {i.e. elements shaped to mutually
+lock or mate} E02D 5/02; {pile shoes E02D 5/72;
+foundations on piles E02D 27/12, E02D 27/20})
+    5/223   . . {Details of top sections of foundation piles
+    5/226   . . {Protecting piles (piles with protecting cases
+    5/24    . . Prefabricated piles
+E02D 5/26 - E02D 5/32 and by one or several
+of the groups E02D 5/48 - E02D 5/64 are
+classified in all relevant groups unless specific
+priority rules to the contrary are given
+    5/26    . . . made of timber with or without reinforcement;
+Means affording protection against spoiling
+of the wood (cases E02D 5/60; impregnating
+agents B27K 3/16); Self-cleaning of piles
+    5/28    . . . made of steel {or other metals (E02D 5/52
+    5/285   . . . . {tubular, e.g. prefabricated from sheet pile
+elements (sheet pile boxes E02D 27/30;
+concrete piles with metal casings
+    5/30    . . . made of concrete or reinforced concrete or
+made of steel and concrete {(E02D 5/50
+takes precedence; assembled from segments
+E02D 5/523; prestressed concrete E02D 5/58)}
+    5/32    . . . with arrangements for setting {or assisting in
+setting} in position by fluid jets {(placing piers
+by using fluid jets in general E02D 7/24)}
+    5/34    . . Concrete or concrete-like piles cast in position
+{; Apparatus for making same (E02D 5/50
+takes precedence; moulds E02D 5/665; placing,
+removing moulds E02D 7/00 - E02D 11/00;
+placing the concrete E02D 15/04)}
+    5/36    . . . making without use of mouldpipes or other
+    5/38    . . . making by use of mould-pipes or other moulds
+    5/385   . . . . {with removal of the outer mould-pipes
+(documents also covered by one or several
+of the groups E02D 5/40 - E02D 5/44 are
+classified in all the relevant groups)}
+    5/40    . . . . in open water
+    5/42    . . . . by making use of pressure liquid or pressure
+gas for compacting the concrete
+    5/44    . . . . with enlarged footing or enlargements at the
+    5/445   . . . . . {by application of pyrotechniques}
+    5/46    . . . making in situ by forcing bonding agents into
+gravel fillings or the soil (consolidating soil in
+    5/48    . . Piles varying in construction along their length {,
+i.e. along the body between head and shoe, e.g.
+made of different materials along their length
+(E02D 5/50, E02D 5/52 take precedence)}
+    5/50    . . Piles comprising both precast concrete portions
+and concrete portions cast in situ {(E02D 5/523
+    5/52    . . Piles composed of separable parts, e.g. telescopic
+tubes {Piles composed of segments}
+    5/523   . . . {composed of segments}
+    5/526   . . . . {Connection means between pile segments}
+    5/54    . . Piles with prefabricated supports or anchoring
+parts; Anchoring piles {(E02D 5/44 takes
+precedence; ground anchors E02D 5/80; anchored
+    5/56    . . Screw piles {(placing piles by screwing down
+    5/58    . . Prestressed concrete piles {(segmental piles
+    5/60    . . Piles with protecting cases
+    5/62    . . Compacting the soil at the footing or in {or
+along} a casing by forcing cement or like material
+    5/64    . . Repairing piles
+    5/66    . Mould-pipes or other moulds {(for plant use
+    5/665   . . {for making piles}
+    5/68    . . for making bulkheads or elements thereof
+    5/70    . . for making sheet piles {not used}
+    5/74    . Means for anchoring structural elements or
+bulkheads (anchoring piles E02D 5/54 {; anchored
+    5/76    . . Anchorings for bulkheads or sections thereof {in
+as much as specially adapted therefor}
+    5/80    . . Ground anchors {(for galleries, tunnels or shafts
+    5/801   . . . {driven by screwing}
+    5/803   . . . {with pivotable anchoring members}
+    5/805   . . . {with deformable anchoring members}
+    5/806   . . . {involving use of explosives}
+    5/808   . . . {anchored by using exclusively a bonding
+    7/00    Methods or apparatus for placing sheet pile
+bulkheads, piles, mouldpipes, or other moulds (for
+both placing and removing E02D 11/00; {accessories
+for coupling driver to piles or the like E02D 13/10;
+for trees or other plants A01G 17/16; placing posts
+    7/02    . Placing by driving {(E02D 7/18 - E02D 7/24 take
+    7/04    . . Hand {(-actuated)} pile-drivers
+    7/06    . . Power-driven drivers {(tampers E02D 3/061)}
+    7/08    . . . Drop drivers with free-falling hammer
+    7/10    . . . with pressure-actuated hammer, {i.e. the
+pressure fluid acting directly on the hammer
+structure (E02D 7/12 takes precedence;
+    7/12    . . . Drivers with explosion chambers
+    7/125   . . . . {Diesel drivers}
+    7/14    . . . Components for drivers {inasmuch as not
+specially for a specific driver construction}
+    7/16    . . . . Scaffolds {or supports} for drivers {(guide
+frames for the elements to be driven per se
+E02D 13/04; supports of the artificial island
+    7/165   . . . . . {of variable length, e.g. foldable or
+    7/18    . Placing by vibrating {(vibrators for soil compacting
+    7/20    . Placing by pressure or pulling power
+    7/22    . Placing by screwing down {(screw piles per se
+    7/24    . Placing by using fluid jets {(prefabricated concrete
+piles with arrangements therefor E02D 5/32)}
+    7/26    . Placing by using several means simultaneously
+    7/28    . Placing of hollow pipes or mould pipes by means
+arranged inside the piles or pipes {(E02D 13/08
+    7/30    . . by driving cores
+    9/00    Removing sheet piles bulkheads, piles, mould-pipes
+or other moulds {or parts thereof}(for both placing
+    9/005   . {removing the top of placed piles of sheet piles
+    9/04    . by cutting-off under water
+   11/00    Methods or apparatus {specially adapted} for
+both placing and removing sheet pile bulkheads,
+piles, or mould-pipes (features relating to placing
+only E02D 7/00, to removing only E02D 9/00 {;
+placing apparatus which without special provisions,
+can be operated to remove, e.g. vibrating drivers
+   13/00    Accessories for placing or removing piles or
+bulkheads {, e.g. noise attenuating chambers}
+   13/005   . {Sound absorbing accessories in piling}
+   13/02    . specially adapted for placing or removing bulkheads
+   13/04    . Guide devices; Guide frames {(as parts of the driver
+   13/06    . for observation while placing
+   13/08    . Removing obstacles
+   13/10    . Follow-blocks of pile-drivers or like devices
+The IPC wording is replaced by the following
+wording: Devices adapted to, e.g. interposed on,
+the top of the pile to be driven, e.g. follow-blocks
+   15/00    Handling building or like materials for hydraulic
+engineering or foundations ({soil-shifting E02F;}
+conveying or working-up concrete or similar masses
+   15/02    . Handling of bulk concrete specially for foundation
+{or hydraulic engineering} purposes {(lining
+canals E02B 5/02; banks of the bodies of water
+   15/04    . . Placing concrete in mould-pipes, pile tubes, bore-
+   15/06    . . Placing concrete under water {(for surfacing the
+bottom of bodies of water E02B 3/121)}
+   15/08    . Sinking workpieces into water or soil {inasmuch as
+   15/10    . Placing gravel or light material under water
+{inasmuch as not provided for elsewhere}
+   17/00    Excavations; Bordering of excavations; Making
+embankments (soil-shifting apparatus E02F; earth
+   17/04    . . Bordering {surfacing} or stiffening the sides of
+   17/06    . Foundation {trenches} ditches or narrow shafts
+   17/08    . . Bordering or stiffening the sides of ditches
+{trenches} or narrow shafts for foundations
+   17/083   . . . {Shoring struts}
+   17/086   . . . {Travelling trench shores}
+   17/10    . . Covering trenches for foundations
+   17/12    . . Back-filling of foundation trenches or ditches
+{(apparatus therefor E02F 5/12, E02F 5/22)}
+   17/13    . Foundation slots {or slits}; Implements for making
+   17/16    . Loosening of soil or rock, under water (for
+correcting streams E02B 3/02; by dredgers or
+   17/18    . Making embankments, {e.g. dikes,
+dams}(E02D 17/20 takes precedence; {foundations
+   17/20    . Securing of slopes or inclines {(by soil E02D 3/12;
+protection against snowslides or avalanches
+E01F 7/04, E01F 15/00; securing banks or like
+surfaces facing on bodies of water E02B 3/12)}
+   17/202   . . {with flexible securing means}
+   17/205   . . {with modular blocks, e.g. pre-fabricated}
+   17/207   . . {with means incorporating sheet piles or piles}
+   19/00    Keeping dry foundation sites or other areas in the
+ground (sheet piles or bulkheads E02D 5/02)
+   19/02    . Restraining of open water
+   19/04    . . by coffer-dams {, e.g. made of sheet piles
+(permanent sheet piling boxes E02D 27/30)}
+   19/06    . Restraining of underground water
+   19/08    . . by employing open ditches arranged below the
+   19/10    . . by lowering level of ground water {(installation
+for obtaining or collecting drinking water
+   19/12    . . by damming or interrupting the passage of
+   19/14    . . . by freezing the soil (in connection with sinking
+   19/16    . . . by placing or applying sealing substances
+({E02D 19/18 takes precedence}; consolidating
+by placing solidifying or pore-filling pore-
+filling substances in the soil E02D 3/12
+{; improving soil by chemical substances
+   19/18    . . . by making use of sealing aprons, {e.g.
+diaphragms made from bituminous or clay
+material}({concrete diaphragms E02D 5/18};
+sealing or joints for {hydraulic} engineering
+   19/185   . . . . {Joints between sheets constituting the
+   19/20    . . . by displacing the water, e.g. by compressed air
+{(pneumatic caissons E02D 23/04)}
+   19/22    . Lining sumps in trenches {or other foundation pits}
+   23/00    Caissons; Construction or placing of caissons
+(tunnels submerged into or built in open water
+E02D 29/063 {; moles, piers, quays, breakwaters
+incorporating caissons E02B 3/06; foundation formed
+by caissons E02D 27/18 - E02D 27/22; caisson-like
+artificial islands E02B 17/00})
+   23/02    . Caissons able to be floated on water and to be
+lowered into water in situ {(floating caisson
+   23/04    . Pneumatic caissons {(sinking of same
+   23/06    . . Bringing persons or material into or out of
+compressed air caissons {(air locks in mines
+   23/08    . Lowering or sinking caissons {(sinking mine shaft
+   23/10    . . Caissons filled with compressed air {(E02D 23/06
+   23/12    . . Inclined lowering
+   23/14    . . Decreasing the skin friction while lowering
+   23/16    . Jointing caissons to the foundation soil, specially to
+   25/00    Joining caissons, sinkers, or other units to each
+   27/00    Foundations as substructures
+   27/013   . . {Shuttering specially adapted therefor}
+   27/016   . . {made mainly from prefabricated concrete
+   27/02    . . Flat foundations without substantial excavation
+(E02D 27/04, E02D 27/08 take precedence)
+   27/04    . . in water or on quicksand
+   27/06    . . . Floating caisson foundations
+   27/08    . . Reinforcements for flat foundations
+{(E02D 27/48 takes precedence)}
+   27/12    . . Pile foundations
+   27/14    . . . Pile framings {, i.e. piles assembled to form the
+   27/16    . . . Foundations formed of separate piles
+   27/18    . . Foundations formed by making use of caissons
+   27/20    . . Caisson foundations combined with pile
+   27/22    . . Caisson foundations made by starting from fixed
+or floating artificial islands by using protective
+   27/24    . Foundations constructed by making use of diving-
+bells (equipment for dwelling or working under
+   27/26    . Compacting soil locally before forming foundations;
+Construction of foundation structures by
+forcing binding substances into gravel fillings
+(consolidating foundation soil in general
+E02D 3/02 - E02D 3/12; {for piles E02D 5/02,
+   27/28    . Stressing the soil or the foundation structure while
+   27/30    . Foundations made with permanent use of sheet pile
+bulkheads, walls of planks, or sheet piling boxes
+   27/32    . Foundations for special purposes {(for paving of
+   27/34    . . Foundations for sinking or earthquake territories
+(building constructions with protection
+arrangements against earthquakes E04H 9/02)
+   27/35    . . Foundations formed in frozen ground, e.g. in
+   27/36    . . Foundations formed in moors or bogs
+   27/38    . . Foundations for large tanks, e.g. oil tanks
+   27/40    . . Foundations for dams across valleys or for
+dam constructions {(dams per se E02B 3/10,
+   27/42    . . Foundations for poles, masts or chimneys
+{(sockets or holders for poles or masts per se
+   27/425   . . . {specially adapted for wind motors masts (wind
+   27/44    . . Foundations for machines, engines or ordnance
+(special layout of foundations with respect to
+machinery to be supported F16M 9/00)
+   27/46    . . Foundations for supply conduits or other canals
+{(bridges for supporting conduits E01D 18/00;
+elevated canals E02B 5/005; penstocks
+   27/48    . . Foundations inserted underneath existing
+buildings or constructions {(making a new
+substructure subsequent to lifting or moving of
+   27/50    . . Anchored foundations
+   27/52    . . Submerged foundations {, i.e. submerged in
+open water (E02D 27/12 - E02D 27/24 take
+   27/525   . . . {using elements penetrating the underwater
+ground (sinking work pieces E02D 15/08,
+   29/00    {Independent} underground or underwater
+structures (underground tanks B65D 88/76;
+hydraulic engineering, e.g. sealings or joints, E02B;
+underground garages E04H 6/00; underground air-
+raid shelters E04H 9/12; burial vaults E04H 13/00);
+   29/02    . Retaining or protecting walls (piers or quay walls
+   29/0216  . . {Cribbing walls}
+   29/0225  . . {comprising retention means in the backfill}
+   29/0233  . . . {the retention means being anchors (details of
+   29/0241  . . . {the retention means being reinforced earth
+   29/025   . . {made up of similar modular elements stacked
+   29/0258  . . {characterised by constructional features}
+   29/0266  . . . {made up of preformed elements}
+   29/0275  . . . {cast in situ}
+   29/0283  . . . {of mixed type}
+   29/0291  . . . {made up of filled, bag-like elements}
+   29/04    . {Making large underground spaces, e.g. for
+underground plants, e.g. stations of underground
+railways; Construction or layout thereof
+(E02D 29/10 takes precedence; water-supply or
+sewerage plants E03; layout of water power plants
+E02B 9/00; making large underground chambers by
+underground methods only E21D 13/00)}
+   29/045   . Underground structures, e.g. tunnels or galleries,
+built in the open air or by methods involving
+disturbance of the ground surface all along the
+location line; Methods of making them
+   29/05    . . at least part of the cross-section being constructed
+in an open excavation or from the ground surface,
+   29/055   . . . further excavation of the cross-section
+proceeding underneath an already installed part
+of the structure, e.g. the roof of a tunnel
+   29/06    . {Constructions, or methods of constructing, in
+water (E02D 15/00 takes precedence; submerged
+   29/063   . Tunnels submerged into, or built in, open water
+(construction or placing of caissons in general
+E02D 23/00; joining caissons to each other under
+   29/067   . . Floating tunnels; Submerged bridge-like tunnels,
+i.e. tunnels supported by piers or the like above
+the water-bed (pontoons or floating bridges
+   29/07    . . Tunnels or shuttering therefor preconstructed as
+a whole or continuously made, and moved into
+place on the water-bed, e.g. into a preformed
+   29/073   . . Tunnels or shuttering therefor assembled from
+sections individually sunk onto, or laid on, the
+water-bed, e.g. in a preformed trench (caisson-
+type sections lowered onto the water-bed
+   29/077   . . Tunnels at least partially built beneath the water-
+bed characterised by being made by methods
+involving disturbance thereof all along the
+location line, e.g. by cut-and-cover or caisson
+   29/08    . {Siphons (for sewerage E03F 5/20; siphon weirs
+E02B 7/18; siphons in general F04F 10/00)}
+   29/10    . {Tunnels or galleries specially adapted to house
+conduits, e.g. oil pipe-lines, sewer pipes (for
+pressure water conduits E02B 9/06; for cables
+H02G 9/02; layout of tunnels or galleries in general
+E21D 9/14; road kerbs with housings for pipes or
+the like E01C 11/222); Making conduits in situ,
+e.g. of concrete (combined with digging of trenches
+or ditches E02F 5/10; making or lining tunnels or
+galleries E21D; constructing tunnels or galleries
+in open excavations E02D 29/045; in open water
+E02D 29/063); Casings, i.e. manhole shafts, access
+or inspection chambers or coverings of boreholes or
+narrow wells (wells for drinking water E03B 3/08;
+boreholes or wells formed by deep drilling E21B;
+   29/12    . Manhole shafts; Other inspection or access
+chambers; Accessories therefor (for underground
+tanks B65D 90/10; for sewerage E03F 5/02 {;
+climbing irons or ladders E06C 9/00})
+   29/121   . . {characterised by the connection between shaft
+elements, e.g. of rings forming said shaft}
+   29/122   . . {Steps or handrails for shafts}
+   29/124   . . {Shaft entirely made of synthetic material}
+   29/125   . . {characterised by the lining of the shaft}
+   29/127   . . {with devices for impeding fall or injuries of
+   29/128   . . {Repairs of manhole shafts}
+   29/14    . . Covers for manholes or the like; Frames for
+covers {(gully gratings E03F 5/06)}
+   29/1409  . . . {adjustable in height or inclination}
+   29/1418  . . . {with implements to assist in lifting, e.g.
+counterweights, springs (lifting devices for
+   29/1427  . . . {Locking devices (of bayonet type
+   29/1436  . . . {with overflow or explosion control means, e.g.
+   29/1445  . . . {Tools for positioning or removing cover
+   29/1454  . . . {Non-circular covers, e.g. hexagonal, elliptic}
+   29/1463  . . . {Hinged connection of cover to frame}
+   29/1472  . . . {Cover entirely made of synthetic material}
+   29/1481  . . . {Security devices, e.g. indicating unauthorised
+opening (E02D 29/1427 takes precedence)}
+   29/149   . . . {Annular gaskets}
+   29/16    . Arrangement or construction of joints in foundation
+structures ({for hydraulic engineering E02B 3/16};
+sealing joints not restricted to foundation structures
+   31/00    Protective arrangements for foundations or
+foundation structures {(protective casings for
+piles E02D 5/60)}; Ground foundation measures
+for protecting the soil or the subsoil water, e.g.
+preventing or counteracting oil pollution (spillage
+retaining means for tanks B65D 90/24)
+   31/002   . {Ground foundation measures for protecting
+the soil or subsoil water, e.g. preventing or
+counteracting oil pollution (not used, see subgroups
+   31/004   . . {Sealing liners}
+   31/006   . . {Sealing of existing landfills, e.g. using mining
+   31/008   . {against entry of noxious gases, e.g. Radon}
+   31/02    . against ground humidity or ground water
+{(E02D 31/06 takes precedence; arrangements other
+than according to E02D 31/04; against hydraulic
+pressure of groundwater E02D 31/10)}
+   31/025   . . {Draining membranes, sheets or fabric specially
+adapted therefor, e.g. with dimples}
+   31/04    . . Watertight packings for use under hydraulic
+pressure {(sealings for hydraulic engineering
+in general E02B 3/16; for building structures in
+   31/06    . against corrosion by soil or water
+   31/08    . against transmission of vibrations or movements in
+the foundation soil {(E02D 27/34 takes precedence;
+foundations for machines, engines or ordnance
+E02D 27/44; for road foundations E01C 3/06)}
+   31/10    . against soil pressure or hydraulic pressure
+{(anchored foundations E02D 27/50; joint sealings
+for use under hydraulic pressure E02D 31/04)}
+   31/12    . . against upward hydraulic pressure
+   31/14    . . against frost heaves in soil
+   33/00    Testing foundations or foundation structures
+(testing methods and apparatus, see the relevant
+subclasses of class G01; testing structures or
+apparatus as regards function, in general, G01M;
+testing or determining chemical or physical
+   35/00    Straightening, lifting, or lowering of foundation
+structures or of constructions erected on
+foundations {(foundations for sinking territories
+with incorporated means for remedying settlement
+E02D 27/34; lifting or moving buildings
+   35/005   . {Lowering or lifting of foundation structures}
+   37/00    Repair of damaged foundations or foundation
+structures {(renewing piles E02D 5/64; roads
+E01C 11/005; bridges E01D 22/00; repairing
+ 2200/00    Geometrical or physical properties
+ 2200/11    . Height being adjustable
+ 2200/115   . . with separate pieces
+ 2200/13    . having at least a mesh portion
+ 2200/14    . resilient or elastic
+ 2200/143   . . helically or spirally shaped
+ 2200/15    . including at least a hinge
+ 2200/1607  . . round, e.g. circle
+ 2200/1614  . . . made from single element
+ 2200/1621  . . . made from multiple elements
+ 2200/1635  . . . made from single element
+ 2200/1642  . . . made from multiple elements
+ 2200/1657  . . . made from single element
+ 2200/1664  . . . made from multiple elements
+ 2200/1671  . . helical or spiral
+ 2200/1692  . . conical or convex
+ 2200/17    . including an electric conductive element
+ 2220/00    Temporary installations or constructions
+ 2250/0023  . Cast, i.e. in situ or in a mold or other formwork
+ 2250/003   . Injection of material
+ 2250/0038  . using an auger, i.e. continuous flight type
+ 2250/0046  . using prestressing techniques
+ 2250/0053  . using suction or vacuum techniques
+ 2250/0061  . for working underwater
+ 2250/0084  . . using pneumatical means
+ 2250/0092  . . using hydraulical means
+ 2300/0017  . . . thermoplastic
+ 2300/0018  . . Cement used as binder
+ 2300/0025  . . Adhesives, i.e. glues
+ 2300/0031  . . . in cast iron form
+ 2300/0032  . . . in sheet form, i.e. bent or deformed plate-
+ 2300/0039  . . mixed with additives
+ 2300/004   . . Bentonite or bentonite-like
+ 2300/0042  . . . being modified by adding substances
+ 2300/0043  . . . with other ingredients
+ 2300/0053  . . made from glass
+ 2300/0054  . . made from plastic
+ 2300/006   . . . being recycled
+ 2300/0062  . . . . Shredded car tires
+ 2300/0064  . . made from metal
+ 2300/0065  . . made from textile
+ 2300/0067  . . made from cellulose
+ 2300/0068  . . made from carbon
+ 2300/007   . Resins including glasfibers
+ 2300/009   . . with multi-layer structure
+ 2300/0092  . . . including a liquid tight layer
+ 2300/0093  . . . . including bentonite
+ 2300/0095  . . . . including a plastic membrane
+ 2300/0096  . . with external friction enhancement features
+ 2600/10    . comprising sensor means
+ 2600/20    . comprising details of connection between elements
+ 2600/30    . comprising anchoring details
+ 2600/40    . comprising stabilising elements

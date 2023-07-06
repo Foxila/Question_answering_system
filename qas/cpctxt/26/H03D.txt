@@ -1,0 +1,247 @@
+COOPERATIVE PATENT CLASSIFICATION
+DEMODULATION OR TRANSFERENCE OF MODULATION FROM ONE CARRIER
+TO ANOTHER (masers, lasers H01S; circuits capable of acting both as modulator and
+demodulator H03C; details applicable to both modulators and frequency-changers H03C;
+demodulating pulses H03K 9/00; transforming types of pulse modulation H03K 11/00; coding,
+decoding or code conversion, in general H03M; repeater stations H04B 7/14; demodulators
+adapted for ac systems of digital information transmission H04L 27/00; synchronous
+demodulators adapted for colour television H04N 9/66)
+• demodulation or transference of signals modulated on a  sinusoidal carrier or on electromagnetic waves;
+• comparing phase or frequency of two mutually-independent  oscillations.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Demodulation of amplitude-modulated oscillations
+(H03D 5/00, H03D 9/00, H03D 11/00 take
+    1/04    . . Modifications of demodulators to reduce
+interference by undesired signals
+    1/06    . . Modifications of demodulators to reduce
+distortion, e.g. by negative feedback
+    1/08    . by means of non-linear two-pole elements
+(H03D 1/22, H03D 1/26, H03D 1/28 take
+    1/12    . . . with provision for equalising ac and dc loads
+    1/14    . by means of non-linear elements having more than
+two poles (H03D 1/22, H03D 1/26, H03D 1/28 take
+    1/16    . . of discharge tubes
+    1/18    . . of semiconductor devices
+    1/20    . . with provision for preventing undesired type of
+demodulation, e.g. preventing anode detection in
+    1/22    . Homodyne or synchrodyne circuits {(receiver
+    1/2209  . . {Decoders for simultaneous demodulation and
+decoding of signals composed of a sum-signal
+and a suppressed carrier, amplitude modulated by
+a difference signal, e.g. stereocoders}
+    1/2218  . . . {using diodes for the decoding}
+    1/2227  . . . {using switches for the decoding (diodes used
+    1/2236  . . . {using a phase locked loop}
+    1/2245  . . {using two quadrature channels (H03D 1/2209
+    1/2254  . . . {and a phase locked loop}
+ 2001/2263  . . . . {including a counter or a divider in the PLL}
+    1/2272  . . {using FET's (H03D 1/2209, H03D 1/2245 and
+    1/2281  . . {using a phase locked loop (H03D 1/2236 and
+    1/229   . . {using at least a two emittor-coupled differential
+pair of transistors (H03D 1/2209 - H03D 1/2281
+    1/24    . . for demodulation of signals wherein one sideband
+or the carrier has been wholly or partially
+suppressed {(receiver circuits H04B 1/302)}
+    1/26    . by means of transit-time tubes
+    1/28    . by deflecting an electron beam in a discharge tube
+    3/00    Demodulation of angle-, {frequency- or phase-}
+modulated oscillations (H03D 5/00, H03D 9/00,
+    3/001   . {Details of arrangements applicable to more than
+one type of frequency demodulator (H03D 3/28
+    3/002   . . {Modifications of demodulators to reduce
+interference by undesired signals (H03D 3/248
+    3/003   . . {Arrangements for reducing frequency
+deviation, e.g. by negative frequency feedback
+(combined with a phase locked loop demodulator
+H03D 3/242; changing frequency deviation for
+    3/004   . . . {wherein the demodulated signal is used
+for controlling an oscillator, e.g. the local
+    3/005   . . . {wherein the demodulated signal is used
+for controlling a bandpass filter (automatic
+bandwidth control H03G; automatic frequency
+    3/006   . {by sampling the oscillations and further processing
+the samples, e.g. by computing techniques
+    3/007   . {by converting the oscillations into two quadrature
+related signals (H03D 3/245 takes precedence)}
+    3/008   . . {Compensating DC offsets}
+    3/009   . . {Compensating quadrature phase or amplitude
+    3/02    . by detecting phase difference between two signals
+obtained from input signal (H03D 3/28 - H03D 3/32
+take precedence; {muting in frequency-modulation
+receivers H03G 3/28}; limiting arrangements
+    3/04    . . by counting or integrating cycles of oscillations
+{(arrangements for measuring frequencies
+    3/06    . . by combining signals additively or in product
+    3/08    . . . by means of diodes, e.g. Foster-Seeley
+    3/10    . . . . in which the diodes are simultaneously
+conducting during the same half period of the
+    3/12    . . . by means of discharge tubes having more than
+    3/14    . . . by means of semiconductor devices having
+    3/16    . . . by means of electromechanical resonators
+    3/18    . . by means of synchronous gating arrangements
+    3/20    . . . producing pulses whose amplitude or duration
+    3/22    . . by means of active elements with more than
+two electrodes to which two signals are applied
+derived from the signal to be demodulated and
+having a phase difference related to the frequency
+    3/24    . . Modifications of demodulators to reject or
+remove amplitude variations by means of locked-
+    3/241   . . . {the oscillator being part of a phase locked
+    3/242   . . . . {combined with means for controlling the
+frequency of a further oscillator, e.g. for
+negative frequency feedback or AFC}
+    3/244   . . . . {combined with means for obtaining
+    3/245   . . . . {using at least twophase detectors in the loop
+(H03D 3/244 takes precedence; in general
+    3/247   . . . . {using a controlled phase shifter (in general
+    3/248   . . . . {with means for eliminating interfering
+signals, e.g. by multiple phase locked loops
+(multiple loops in general H03L 7/07,
+    3/26    . by means of sloping amplitude/frequency
+characteristic of tuned or reactive circuit
+(H03D 3/28 - H03D 3/32 takes precedence)
+    3/28    . Modifications of demodulators to reduce effects
+of temperature variations ({automatic frequency
+regulation in receivers H03J}; automatic frequency
+    3/30    . by means of transit-time tubes
+    3/32    . by deflecting an electron beam in a discharge tube
+    3/34    . by means of electromechanical devices (H03D 3/16
+    5/00    Circuits for demodulating amplitude-modulated
+or angle-modulated oscillations at will (H03D 9/00,
+    7/00    Transference of modulation from one carrier to
+another, e.g. frequency-changing (H03D 9/00,
+H03D 11/00 take precedence; dielectric amplifiers,
+magnetic amplifiers, parametric amplifiers used as a
+    7/005   . {by means of superconductive devices}
+    7/02    . by means of diodes (H03D 7/14 - H03D 7/22 take
+    7/04    . . having {a partially} negative resistance
+characteristic, e.g. tunnel diode
+    7/06    . by means of discharge tubes having more than
+two electrodes (H03D 7/14 - H03D 7/22 take
+    7/08    . . the signals to be mixed being applied between the
+    7/10    . . the signals to be mixed being applied between
+    7/12    . by means of semiconductor devices having more
+than two electrodes (H03D 7/14 - H03D 7/22 take
+    7/125   . . {with field effect transistors}
+    7/14    . Balanced arrangements
+    7/1416  . . {with discharge tubes having more than two
+    7/1425  . . {with transistors}
+    7/1433  . . . {using bipolar transistors (H03D 7/145 takes
+    7/1441  . . . {using field-effect transistors (H03D 7/145
+    7/145   . . . {using a combination of bipolar transistors and
+    7/1458  . . . {Double balanced arrangements, i.e. where
+both input signals are differential}
+    7/1466  . . . {Passive mixer arrangements}
+    7/1475  . . . {Subharmonic mixer arrangements}
+    7/1483  . . . {comprising components for selecting a
+particular frequency component of the output}
+    7/1491  . . . {Arrangements to linearise a transconductance
+    7/16    . Multiple-frequency-changing
+    7/161   . . {all the frequency changers being connected in
+    7/163   . . . {the local oscillations of at least two of the
+frequency changers being derived from a single
+    7/165   . . {at least two frequency changers being located
+in different paths, e.g. in two paths with carriers
+in quadrature (combined with amplitude
+demodulation H03D 1/2245, combined with
+angle demodulation H03D 3/007; N-path filters
+    7/166   . . . {using two or more quadrature frequency
+    7/168   . . . . {using a feedback loop containing mixers or
+    7/18    . Modifications of frequency-changers for eliminating
+image frequencies {(H03D 7/16 takes precedence)}
+    7/20    . by means of transit-time tubes
+    7/22    . by deflecting an electron beam in a discharge tube
+    9/00    Demodulation or transference of modulation of
+modulated electromagnetic waves (demodulating
+light, transferring modulation in light waves
+    9/02    . Demodulation using distributed inductance and
+capacitance, e.g. in feeder lines
+    9/04    . . for angle-modulated oscillations
+    9/06    . Transference of modulation using distributed
+    9/0608  . . {by means of diodes}
+    9/0616  . . . {mounted in a hollow waveguide
+(H03D 9/0641 takes precedence)}
+    9/0625  . . . {mounted in a coaxial resonator structure}
+    9/0633  . . . {mounted on a stripline circuit}
+    9/0641  . . . . {located in a hollow waveguide}
+    9/065   . . {by means of discharge tubes having more than
+    9/0658  . . {by means of semiconductor devices having more
+    9/0666  . . . {using bipolar transistors (H03D 9/0683 takes
+    9/0675  . . . {using field effect transistors (H03D 9/0683
+    9/0683  . . . {using a combination of bipolar transistors and
+ 2009/0691  . . {by means of superconductive devices}
+   11/00    Super-regenerative demodulator circuits
+{(applications in responders G01S)}
+   11/02    . for amplitude-modulated oscillations
+   11/04    . . by means of semiconductor devices having more
+   11/06    . for angle-modulated oscillations
+   11/08    . . by means of semiconductor devices having more
+   13/00    Circuits for comparing the phase or frequency of
+two mutually-independent oscillations {(measuring
+phase G01R 25/00; phase-discriminators with yes/no
+   13/001   . {in which a pulse counter is used followed by a
+conversion into an analog signal}
+   13/002   . . {the counter being an up-down counter}
+   13/003   . {in which both oscillations are converted by logic
+means into pulses which are applied to filtering or
+   13/004   . . {the logic means delivering pulses at more than
+one terminal, e.g. up and down pulses}
+   13/005   . {in which one of the oscillations is, or is converted
+into, a signal having a special waveform, e.g.
+   13/006   . . {and by sampling this signal by narrow pulses
+obtained from the second oscillation}
+   13/007   . {by analog multiplication of the oscillations or
+by performing a similar analog operation on the
+   13/008   . . {using transistors}
+   99/00    Subject matter not provided for in other groups of
+ 2200/00    Indexing scheme relating to details of
+demodulation or transference of modulation from
+one carrier to another covered by H03D
+ 2200/0001  . Circuit elements of demodulators
+ 2200/0003  . . Rat race couplers
+ 2200/0005  . . Wilkinson power dividers or combiners
+ 2200/0007  . . Dual gate field effect transistors
+ 2200/0009  . . Emitter or source coupled transistor pairs or long
+ 2200/0013  . . . Diodes connected in a ring configuration
+ 2200/0015  . . . Diodes connected in a star configuration
+ 2200/0017  . . Intermediate frequency filter
+ 2200/0019  . . Gilbert multipliers
+ 2200/0021  . . Frequency multipliers
+ 2200/0025  . . Gain control circuits
+ 2200/0027  . . . including arrangements for assuring the same
+ 2200/0029  . . Loop circuits with controlled phase shift
+ 2200/0031  . . PLL circuits with quadrature locking, e.g. a
+ 2200/0033  . . Current mirrors
+ 2200/0035  . . Digital multipliers and adders used for detection
+ 2200/0039  . . Exclusive OR logic circuits
+ 2200/0041  . Functional aspects of demodulators
+ 2200/0043  . . Bias and operating point
+ 2200/0045  . . Calibration of demodulators
+ 2200/0047  . . Offset of DC voltage or frequency
+ 2200/0049  . . Analog multiplication for detection
+ 2200/005   . . Analog to digital conversion
+ 2200/0052  . . Digital to analog conversion
+ 2200/0054  . . Digital filters
+ 2200/0056  . . . including a digital decimation filter
+ 2200/0058  . . . using a digital filter with interpolation
+ 2200/006   . . Signal sampling
+ 2200/0062  . . . Computation of input samples, e.g. successive
+ 2200/0064  . . Detection of passages through null of a signal
+ 2200/0068  . . . by computation
+ 2200/007   . . . by using a logic circuit, e.g. flipflop, XOR
+ 2200/0072  . . . by complex multiplication
+ 2200/0074  . . . using a resistive mixer or a passive mixer
+ 2200/0076  . . . using a distributed mixer
+ 2200/0078  . . . using a switched phase shifter or delay line
+ 2200/008   . . Hilbert type transformation
+ 2200/0082  . . Quadrature arrangements
+ 2200/0084  . . Lowering the supply voltage and saving power
+ 2200/0086  . . Reduction or prevention of harmonic frequencies
+ 2200/0088  . . Reduction of intermodulation, nonlinearities,
+adjacent channel interference; intercept points of
+harmonics or intermodulation products
+ 2200/009   . . Reduction of local oscillator or RF leakage
+ 2200/0092  . . Detection or reduction of fading in multipath
+ 2200/0094  . . Measures to address temperature induced
+ 2200/0096  . . . by stabilising the temperature
+ 2200/0098  . . . by compensating temperature induced

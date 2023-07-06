@@ -1,0 +1,599 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+MECHANICAL METAL-WORKING WITHOUT ESSENTIALLY REMOVING
+WORKING OR PROCESSING OF SHEET METAL OR METAL TUBES, RODS
+OR PROFILES WITHOUT ESSENTIALLY REMOVING MATERIAL; PUNCHING
+METAL (working or processing of wire B21F)
+1. This subclass covers cutting or perforating of sheet metal or other stock material
+2. This subclass does not cover the working of metal foils in a manner analogous to the working of paper, which is covered by
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+Straightening; Restoring form; Bending; Corrugating; Flanging
+    1/00    Straightening, restoring form or removing local
+distortions of sheet metal or specific articles made
+therefrom (B21D 3/00 takes precedence); Stretching
+sheet metal combined with rolling (working sheet
+metal of limited length by stretching B21D 25/00; by
+localised hammering B21D 31/06)
+    1/02    . by rollers (B21D 1/06 takes precedence)
+    1/05    . Stretching combined with rolling
+    1/06    . Removing local distortions
+    1/08    . . of hollow bodies made from sheet metal (of
+substantially open bodies B21D 1/10 {; flattening
+hollow objects for transport and reforming
+    1/10    . . of specific articles made from sheet metal, e.g.
+    1/12    . Straightening vehicle body parts or bodies
+    1/14    . Straightening frame structures
+    1/145   . . {Clamps therefor}
+    3/00    Straightening or restoring form of metal rods,
+metal tubes, metal profiles, or specific articles
+made therefrom, whether or not in combination
+with sheet metal parts (straightening of well casings
+in situ E21B; {straightening rails or rail joints
+    3/005   . {by eccentric turning members}
+    3/04    . . arranged on axes skew to the path of the work
+    3/045   . . . {Workpiece feed channels therefor}
+    3/05    . . arranged on axes rectangular to the path of the
+    3/06    . . arranged inclined to a revolving flier rolling
+    3/08    . . which move in an orbit without rotating round the
+    3/10    . between rams and anvils or abutments
+    3/12    . by stretching with or without twisting (by twisting
+    3/16    . of specific articles made from metal rods, tubes,
+or profiles, e.g. crankshafts, by specially adapted
+    5/00    Bending sheet metal along straight lines, e.g. to
+form simple curves (B21D 11/06 - B21D 11/18 take
+precedence; corrugating sheet metal B21D 13/00; as
+    5/002   . {Positioning devices}
+    5/004   . {with program control}
+    5/006   . {combined with measuring of bends}
+    5/008   . {combined with heating or cooling of the bends}
+    5/01    . between rams and anvils or abutments
+    5/015   . . {for making tubes}
+    5/02    . on press brakes without making use of clamping
+    5/0209  . . {Tools therefor}
+    5/0218  . . . {Length adjustment of the punch}
+    5/0227  . . . {Length adjustment of the die}
+    5/0236  . . . {Tool clamping}
+    5/0245  . . . . {Fluid operated}
+    5/0254  . . . {Tool exchanging}
+    5/0263  . . . {Die with two oscillating halves}
+    5/0272  . . {Deflection compensating means}
+    5/0281  . . {Workpiece supporting devices}
+    5/029   . . {with shearing devices}
+1Straightening; Restoring form; Bending; Corrugating; Flanging
+    5/04    . on brakes making use of clamping means on one
+    5/042   . . {With a rotational movement of the bending
+    5/045   . . {With a wiping movement of the bending blade}
+    5/047   . . {Length adjustment of the clamping means}
+    5/06    . by drawing procedure making use of dies or
+forming-rollers, e.g. making profiles
+    5/08    . . making use of forming-rollers (B21D 5/12 takes
+    5/083   . . . {for obtaining profiles with changing cross-
+    5/086   . . . {for obtaining closed hollow profiles}
+    5/10    . . for making tubes
+    5/12    . . . making use of forming-rollers
+    5/14    . by passing between rollers (B21D 5/06 takes
+    5/143   . . {making use of a mandrel}
+    5/146   . . {one roll being covered with deformable
+    5/16    . Folding; Pleating
+    7/00    Bending rods, profiles, or tubes
+(B21D 11/02 - B21D 11/18 take precedence; using
+mandrels or the like B21D 9/00)
+    7/02    . over a stationary forming member; by use of a
+swinging forming member or abutment
+    7/021   . . {Construction of forming members having more
+    7/022   . . over a stationary forming member only
+    7/0225  . . . {using pulling members}
+    7/024   . . by a swinging forming member
+    7/025   . . . and pulling or pushing the ends of the work
+    7/028   . . . and altering the profile at the same time, e.g.
+    7/03    . . Apparatus with means to keep the profile in shape
+    7/04    . over a movably-arranged forming menber
+    7/06    . in press brakes or between rams and anvils or
+abutments; Pliers with forming dies
+    7/063   . . {Pliers with forming dies}
+    7/066   . . {combined with oscillating members}
+    7/08    . by passing between rollers or through a curved die
+    7/085   . . {by passing through a curved die}
+    7/10    . by abutting members and flexible bending means,
+    7/12    . with programme control
+    7/14    . combined with measuring of bends or lengths
+    7/16    . Auxiliary equipment, e.g. for heating or cooling of
+    7/162   . . {Heating equipment}
+    7/165   . . {Cooling equipment}
+    9/00    Bending tubes using mandrels or the like
+(B21D 11/02 - B21D 11/18 take precedence)
+    9/01    . the mandrel being flexible and engaging the entire
+    9/03    . . and built-up from loose elements, e.g. series of
+    9/04    . the mandrel being rigid
+    9/05    . co-operating with forming members
+    9/055   . . {Construction of forming members having more
+    9/07    . . with one or more swinging forming members
+    9/073   . . . {with one swinging forming member}
+    9/076   . . . {with more swinging forming members}
+    9/08    . in press brakes or between rams and anvils or
+abutments; Pliers with forming dies
+    9/085   . . {Pliers with forming dies}
+    9/10    . by passing between rollers
+    9/12    . by pushing over a curved mandrel; by pushing
+    9/125   . . {by pushing through a curved die}
+    9/14    . Wrinkle-bending, i.e. bending by corrugating
+    9/15    . using filling material of indefinite shape, e.g. sand,
+plastic material (filling of tubes with such material
+    9/16    . Auxiliary equipment, e.g. machines for filling tubes
+    9/165   . . {Machines for filling tubes with sand}
+    9/18    . . for heating or cooling of bends
+   11/00    Bending not restricted to forms of material
+mentioned in only one of groups B21D 5/00,
+B21D 7/00, B21D 9/00; Bending not provided for
+in groups B21D 5/00 - B21D 9/00 (corrugating or
+bending into wave form B21D 13/00, B21D 15/00;
+   11/02    . Bending by stretching or pulling over a die
+(working sheet metal of limited length by stretching
+   11/06    . Bending into helical or spiral form; Forming a
+succession of return bends, e.g. serpentine form
+(making helically seamed tubing B21C 37/12)
+   11/07    . . Making serpentine-shaped articles by bending
+   11/08    . Bending by altering the thickness of part of the
+cross-section of the work (B21D 11/06 takes
+   11/085   . . {by locally stretching or upsetting}
+   11/10    . Bending specially adapted to produce specific
+articles, e.g. leaf springs {(making or bending leaf
+   11/12    . . the articles being reinforcements for concrete
+   11/125   . . . {Bending wire nets}
+   11/15    . . Reinforcing rods for concrete
+   11/20    . Bending sheet metal, not otherwise provided for
+   11/203   . . {Round bending}
+   11/206   . . {Curving corrugated sheets}
+   11/22    . Auxiliary equipment, e.g. positioning devices
+   13/00    Corrugating sheet metal, rods or profiles; Bending
+sheet metal, rods or profiles into wave form (tubes
+   13/045   . . {the corrugations being parallel to the feeding
+   13/08    . by combined methods
+   13/10    . into a peculiar profiling shape
+   15/00    Corrugating tubes (wrinkle-bending using mandrels
+2Straightening; Restoring form; Bending; Corrugating; Flanging
+   15/03    . . by applying fluid pressure
+   15/04    . transversely, e.g. helically
+   15/06    . . annularly {(with thinning B21C 37/205)}
+   15/10    . . by applying fluid pressure
+   15/105   . . . {by applying elastic material}
+   15/12    . Bending tubes into wave form
+   17/00    Forming single grooves in sheet metal or tubular
+   17/02    . by pressing (grooving or notching of bolts, studs, or
+   17/025   . . {by pressing tubes axially}
+   19/00    Flanging or other edge treatment, e.g. of tubes
+(connecting by making use of folds B21D 39/00;
+flaring-out tube ends B21D 41/02)
+   19/005   . {Edge deburring or smoothing}
+   19/02    . by continuously-acting tools moving along the edge
+   19/04    . . shaped as rollers
+   19/043   . . . {for flanging edges of plates}
+   19/046   . . . {for flanging edges of tubular products}
+   19/06    . . . working inwardly
+   19/08    . by single or successive action of pressing tools, e.g.
+   19/082   . . {for making negative angles}
+   19/084   . . . {with linear cams, e.g. aerial cams}
+   19/086   . . . {with rotary cams}
+   19/088   . . {for flanging holes}
+   19/10    . . working inwardly
+   19/14    . . Reinforcing edges, e.g. armouring same
+   19/16    . Reverse flanging of tube ends
+   21/00    Combined processes according to methods covered
+by groups B21D 1/00 - B21D 19/00
+Stamping, Spinning, Deep-drawing; Working sheet metal of
+limited length by stretching; Punching
+   22/00    Shaping without cutting, by stamping, spinning, or
+deep-drawing (otherwise than using rigid devices or
+tools or yieldable or resilient pads B21D 26/00)
+   22/02    . Stamping using rigid devices or tools
+   22/022   . . {by heating the blank or stamping associated with
+heat treatment (C21D takes precedence)}
+   22/025   . . {for tubular articles}
+   22/027   . . {for flattening the ends of corrugated sheets}
+   22/04    . . for dimpling (combined with perforating
+   22/06    . . having relatively-movable die parts
+   22/08    . . with die parts on rotating carriers
+   22/10    . Stamping using yieldable or resilient pads
+   22/105   . . {of tubular products}
+   22/12    . . using enclosed flexible chambers
+   22/125   . . . {of tubular products}
+   22/16    . . over shaping mandrels or formers
+   22/18    . . using tools guided to produce the required profile
+   22/185   . . . {making domed objects}
+   22/20    . Deep-drawing (special deep-drawing arrangements
+in, or in connection with, presses B21D 24/00)
+   22/201   . . {Work-pieces; preparation of the work-pieces,
+   22/203   . . {of compound articles}
+   22/205   . . {Hydro-mechanical deep-drawing}
+   22/206   . . {articles from a strip in several steps, the
+articles being coherent with the strip during the
+   22/208   . . {by heating the blank or deep-drawing associated
+with heat treatment (C21D takes precedence)}
+   22/21    . . without fixing the border of the blank
+   22/22    . . with devices for holding the edge of the blanks
+(B21D 22/24 - B21D 22/30 take precedence;
+shaping over a die without external former
+   22/225   . . . {with members for radially pushing the blanks}
+   22/24    . . involving two drawing operations having effects
+in opposite directions with respect to the blank
+   22/26    . . for making peculiarly, e.g. irregularly, shaped
+   22/28    . . of cylindrical articles using consecutive dies
+   22/283   . . . {with ram and dies aligning means}
+   22/286   . . . {with lubricating or cooling means}
+   22/30    . . to finish articles formed by deep-drawing
+   24/00    Special deep-drawing arrangements in, or in
+   24/005   . {Multi-stage presses}
+   24/04    . Blank holders; Mounting means therefor
+   24/06    . . Mechanically spring-loaded blank holders
+   24/08    . . Pneumatically or hydraulically loaded blank
+   24/10    . Devices controlling or operating blank holders
+independently, or in conjunction with dies
+   24/14    . . pneumatically or hydraulically
+   24/16    . Additional equipment in association with the tools,
+e.g. for shearing, for trimming
+   25/00    Working sheet metal of limited length by
+stretching, e.g. for straightening
+   25/02    . by pulling over a die
+   25/04    . Clamping arrangements
+   26/00    Shaping without cutting otherwise than using
+rigid devices or tools or yieldable or resilient pads,
+i.e. applying fluid pressure or magnetic forces
+(stamping using resilient pads B21D 22/10)
+   26/02    . by applying fluid pressure
+   26/021   . . Deforming sheet bodies
+   26/023   . . . including an additional treatment performed by
+fluid pressure, e.g. perforating
+   26/025   . . . Means for controlling the clamping or opening
+   26/027   . . . Means for controlling fluid parameters, e.g.
+   26/029   . . . Closing or sealing means
+   26/031   . . . Mould construction
+(B21D 26/025 - B21D 26/029 take precedence)
+   26/033   . . Deforming tubular bodies (corrugating tubes by
+applying fluid pressure B21D 15/03, B21D 15/10)
+   26/035   . . . including an additional treatment performed by
+fluid pressure, e.g. perforating
+   26/037   . . . Forming branched tubes
+3Stamping, Spinning, Deep-drawing; Working sheet metal of limited length by stretching; Punching
+   26/039   . . . Means for controlling the clamping or opening
+   26/041   . . . Means for controlling fluid parameters, e.g.
+   26/043   . . . Means for controlling the axial pusher
+   26/045   . . . Closing or sealing means
+   26/047   . . . Mould construction
+(B21D 26/037 - B21D 26/045 take precedence)
+   26/049   . . . Deforming bodies having a closed end
+   26/051   . . . Deforming double-walled bodies
+   26/053   . . characterised by the material of the blanks
+   26/055   . . . Blanks having super-plastic properties
+   26/057   . . . Tailored blanks
+   26/059   . . . Layered blanks
+   26/08    . . . generated by explosives, e.g. chemical
+   26/10    . . . generated by evaporation, e.g. of wire, of
+   26/12    . . . initiated by spark discharge
+   26/14    . applying magnetic forces
+   28/00    Shaping by press-cutting; Perforating
+   28/002   . {Drive of the tools (B21D 28/007 and B21D 28/20
+   28/005   . . {Adjustment of the punch stroke for
+   28/007   . {Explosive cutting or perforating}
+   28/02    . Punching blanks or articles with or without
+obtaining scrap (cutting nails or pins from strips or
+sheet material B21G 3/26); Notching
+   28/04    . . Centering the work; Positioning the tools
+   28/06    . . Making more than one part out of the same blank;
+   28/08    . . . Zig-zag sequence working
+   28/10    . . Incompletely punching in such a manner that the
+parts are still coherent with the work
+   28/12    . . Punching using rotatable carriers
+   28/125   . . . {with multi-tools}
+   28/14    . . Dies (ejecting or stripping-off devices arranged in
+punching machines or tools B21D 45/00)
+   28/145   . . . {with means for slug retention, e.g. a groove}
+   28/16    . . Shoulder or burr prevention {, e.g. fine-blanking}
+   28/18    . . Yieldable, e.g. rubber, punching pads
+   28/20    . . Applications of drives {for reducing noise or
+   28/22    . . Notching the peripheries of circular blanks, e.g.
+laminations for dynamo-electric machines
+   28/24    . Perforating, i.e. punching holes
+   28/246   . . {Selection of punches}
+   28/26    . . in sheets or flat parts
+   28/265   . . . {with relative movement of sheet and
+tools enabling the punching of holes in
+predetermined locations of the sheet, e.g. holes
+   28/28    . . in tubes or other hollow bodies
+   28/285   . . . {punching outwards}
+   28/30    . . in annular parts, e.g. rims
+   28/32    . . in other articles of special shape
+   28/325   . . . {using cam or wedge mechanisms, e.g. aerial
+   28/34    . . Perforating tools; Die holders
+   28/343   . . . {Draw punches}
+   28/346   . . . {length adjustable perforating tools}
+   28/36    . . using rotatable work or tool holders
+   31/00    Other methods for working sheet metal, metal
+tubes, metal profiles (deforming one surface of tubes
+helically by rolling B21H 3/00; upsetting B21J 5/08;
+working metal by removing material therefrom B23;
+   31/005   . {Incremental shaping or bending, e.g. stepwise
+moving a shaping tool along the surface of the
+workpiece (B21D 22/14 takes precedence)}
+   31/02    . Stabbing or piercing, e.g. for making sieves
+(dimpling B21D 22/04; perforating by punching
+   31/04    . Expanding other than provided for in groups
+B21D 1/00 - B21D 28/00, e.g. for making expanded
+metal (B21D 47/00 takes precedence; enlarging tube
+   31/043   . . {Making use of slitting discs or punch cutters}
+   31/046   . . {making use of rotating cutters}
+   31/06    . Deforming sheet metal, tubes or profiles by
+sequential impacts, e.g. hammering, beating, peen
+forming (forging hammers B21J 7/00)
+   33/00    Special measures in connection with working metal
+foils, e.g. gold foils (cutting or perforating of metal
+   35/00    Combined processes according to {or processes
+combined with} methods covered by groups
+B21D 1/00 - B21D 31/00 (B21D 21/00 takes
+   35/001   . {Shaping combined with punching, e.g. stamping
+   35/002   . {Processes combined with methods covered by
+   35/003   . . {Simultaneous forming, e.g. making more
+than one part per stroke (B21D 26/06 takes
+   35/005   . . {characterized by the material of the blank or the
+workpiece (B21D 26/053 takes precedence)}
+   35/006   . . . {Blanks having varying thickness, e.g. tailored
+   35/007   . . . {Layered blanks (B21D 22/203 takes
+precedence; joining superposed plates
+B21D 39/031, B21D 39/034, B21D 39/035)}
+   35/008   . . {involving vibration, e.g. ultrasonic}
+   37/00    Tools as parts of machines covered by this subclass
+(forms or constructions of tools uniquely adapted for
+particular operations, see the relevant groups for the
+   37/01    . Selection of materials
+   37/02    . Die constructions enabling assembly of the die parts
+in different ways (B21D 37/06 takes precedence)
+   37/04    . Movable or exchangeable mountings for tools
+   37/06    . . Pivotally-arranged tools, e.g. disengageable (die
+sets with dies pivoted to one another B21D 37/12)
+   37/08    . Dies with different parts for several steps in a
+   37/10    . Die sets; Pillar guides
+   37/12    . . Particular guiding equipment, {e.g. pliers};
+Special arrangements for interconnection or
+4Stamping, Spinning, Deep-drawing; Working sheet metal of limited length by stretching; Punching
+   37/14    . Particular arrangements for handling and holding in
+   37/142   . . {Spotting presses}
+   37/145   . . {Die storage magazines}
+   37/147   . . {Tool exchange carts}
+   37/16    . Heating or cooling
+   37/18    . Lubricating {, e.g. lubricating tool and workpiece
+simultaneously (lubricating workpieces for deep-
+   37/20    . Making tools by operations not covered by a single
+   37/205   . . {Making cutting tools}
+   39/00    Application of procedures in order to connect
+objects or parts, e.g. coating with sheet metal
+otherwise than by plating ({joining mitred
+profiles B21D 53/745; } riveting B21J; uniting
+components by forging or pressing to form integral
+members B21K 25/00; welding B23K; press-
+fitting, force-fitting, or shrinking in general
+B23P 11/00, B21D 19/00; by adhesives F16B 11/00
+{; Connections as such F16L, F16B}); Tube
+   39/02    . of sheet metal by folding, e.g. connecting edges of a
+   39/021   . . {for panels, e.g. vehicle doors}
+   39/023   . . . {using rollers}
+   39/026   . . {Reinforcing the connection by locally
+   39/028   . . {Reinforcing the connection otherwise than by
+   39/03    . of sheet metal otherwise than by folding
+   39/031   . . {Joining superposed plates by locally deforming
+   39/032   . . . {by fitting a projecting part integral with one
+plate in a hole of the other plate}
+   39/034   . . {Joining superposed plates by piercing}
+   39/035   . . {Joining superposed plates by slitting}
+   39/037   . . {Interlocking butt joints}
+   39/038   . . {Perpendicular plate connections}
+   39/04    . of tubes with tubes; of tubes with rods {(crimped
+pipe joints as such F16L 13/14)}
+   39/042   . . {using explosives (by explosive welding
+   39/044   . . {perpendicular}
+   39/046   . . {Connecting tubes to tube-like fittings}
+   39/048   . . {using presses for radially crimping tubular
+   39/06    . of tubes in openings, e.g. rolling-in
+   39/063   . . {for assembling ladders}
+   39/066   . . {using explosives}
+   39/10    . . with rollers for expanding only
+   39/12    . . with rollers for expanding and flanging
+   39/16    . . with torque limiting devices
+   39/18    . . Rollers of special shape
+   39/20    . . with mandrels, e.g. expandable
+   39/203   . . . {expandable by fluid or elastic material}
+   39/206   . . . . {by axially compressing the elastic material}
+   41/00    Application of procedures in order to alter the
+diameter of tube ends (B21D 39/00 takes precedence
+   41/021   . . {by means of tube-flaring hand tools}
+   41/023   . . . {comprising rolling elements}
+   41/025   . . {by means of impact-type swaging hand tools}
+   41/026   . . {by means of mandrels}
+   41/028   . . . {expandable mandrels}
+   41/04    . Reducing; Closing
+   43/00    Feeding, positioning or storing devices combined
+with, or arranged in, or specially adapted for
+use in connection with, apparatus for working
+or processing sheet metal, metal tubes or metal
+profiles; Associations therewith of cutting devices
+(cutting devices associated with the tool, see the
+   43/003   . {Positioning devices (B21D 28/04 and
+B21D 28/265 take precedence; stops B21D 43/26;
+centering moving strips B21D 43/023)}
+   43/006   . {Feeding elongated articles, such as tubes, bars, or
+   43/02    . Advancing work in relation to the stroke of the die
+   43/021   . . {Control or correction devices in association with
+   43/022   . . . {Loop-control}
+   43/023   . . . {Centering devices, e.g. edge guiding}
+   43/025   . . {Fault detection, e.g. misfeed detection}
+   43/026   . . {Combination of two or more feeding devices
+provided for in B21D 43/04 - B21D 43/18}
+   43/027   . . {Combined feeding and ejecting devices}
+   43/028   . . {Tools travelling with material, e.g. flying
+   43/04    . . by means in mechanical engagement with the
+   43/05    . . . specially adapted for multi-stage presses
+{(B21D 43/145 takes precedence)}
+   43/052   . . . . {Devices having a cross bar}
+   43/055   . . . . {Devices comprising a pair of longitudinally
+and laterally movable parallel transfer bars}
+   43/057   . . . . {Devices for exchanging transfer bars or
+grippers; Idle stages, e.g. exchangeable}
+   43/06    . . . by positive or negative engaging parts co-
+operating with corresponding parts of the sheet
+or the like to be processed, e.g. carrier bolts or
+grooved section in the carriers
+   43/08    . . . by rollers {(B21D 43/145 takes precedence)}
+   43/09    . . . . by one or more pairs of rollers for feeding
+   43/10    . . . by grippers {(B21D 43/055, B21D 43/057,
+   43/105   . . . . {Manipulators, i.e. mechanical arms carrying
+a gripper element having several degrees of
+   43/11    . . . . for feeding sheet or strip material
+   43/12    . . . by chains or belts {(B21D 43/145 takes
+   43/13    . . . by linearly moving tables
+   43/14    . . . by turning devices, e.g. turn-tables
+   43/145   . . . . {Turnover devices, i.e. by turning about a
+5Stamping, Spinning, Deep-drawing; Working sheet metal of limited length by stretching; Punching
+   43/16    . . by gravity, e.g. chutes
+   43/18    . . by means in pneumatic or magnetic engagement
+   43/20    . Storage arrangements; Piling or unpiling (in general
+   43/22    . . Devices for piling sheets
+   43/24    . . Devices for removing sheets from a stack
+   43/28    . Associations of cutting devices therewith
+   43/282   . . {Discharging crop ends or the like}
+   43/285   . . {Devices for handling elongated articles,
+e.g. bars, tubes or profiles (B21D 43/282,
+   43/287   . . {Devices for handling sheet or strip material
+(B21D 43/282 takes precedence)}
+   45/00    Ejecting or stripping-off devices arranged in
+machines or tools dealt with in this subclass
+   45/003   . {in punching machines or punching tools}
+   45/006   . . {Stripping-off devices}
+   45/04    . . interrelated with motion of tool
+   45/06    . Stripping-off devices
+   45/065   . . {for deep-drawn cans, e.g. using stripping
+   45/08    . . interrelated with motion of tool
+   45/10    . Combined ejecting and stripping-off devices
+Processing sheet metal or metal tubes, or processing metal
+profiles according to any of groups B21D 1/00 - B21D 45/00, in
+the manufacture of finished or semi-finished articles
+   47/00    Making rigid structural elements or units, e.g.
+   47/005   . {Making gratings}
+   47/04    . composite sheet metal profiles
+   49/00    Sheathing or stiffening objects (by winding wire
+or tape thereon B65H 54/00, B65H 81/00; specially
+adapted for manufacturing conductors or cables
+   51/00    Making hollow objects (from thick-walled or non
+   51/02    . characterised by the structure of the objects
+{(B21D 51/26 takes precedence)}
+Making hollow objects characterised both by
+their structure and by their use is classified only
+   51/04    . . built-up objects, e.g. objects with rigidly-attached
+   51/08    . . ball-shaped objects
+   51/10    . . conically or cylindrically shaped objects
+   51/12    . . objects with corrugated walls
+   51/14    . . Flattening hollow objects for transport or storage;
+Re-forming same (making tubes from doubled
+   51/16    . characterised by the use of the objects (making heat
+   51/18    . . vessels, e.g. tubs, vats, tanks, sinks, or the like
+   51/22    . . . pots, e.g. for cooking
+   51/24    . . high-pressure containers, e.g. boilers, bottles
+   51/26    . . cans or tins; Closing same in a permanent manner
+(making outlet arrangements B21D 51/38;
+   51/2607  . . . {Locally embossing the walls of formed can
+bodies (B44B 5/00, B44C 1/24, B44C 3/085
+take precedence; bulging B21D 51/2646)}
+   51/2615  . . . {Edge treatment of cans or tins}
+   51/2646  . . . {Of particular non cylindrical shape, e.g.
+conical, rectangular, polygonal, bulged}
+   51/2653  . . . {Methods or machines for closing cans by
+   51/2661  . . . . {Sealing or closing means therefor}
+   51/2669  . . . {Transforming the shape of formed can bodies;
+Forming can bodies from flattened tubular
+   51/2676  . . . {Cans or tins having longitudinal or helical
+   51/2684  . . . {Cans or tins having circumferential side
+   51/2692  . . . {Manipulating, e.g. feeding and positioning
+   51/28    . . . Folding the longitudinal seam
+   51/30    . . . Folding the circumferential seam
+   51/34    . . . . by pressing
+   51/36    . . collapsible or like thin-walled tubes, e.g. for
+   51/365   . . . {involving fixing closure members to the tubes,
+   51/38    . . Making inlet or outlet arrangements of cans, tins,
+baths, bottles, or other vessels; Making can ends;
+   51/383   . . . {scoring lines, tear strips or pulling tabs}
+   51/386   . . . . {on the side-wall of containers}
+   51/40    . . . Making outlet openings, e.g. bung holes
+   51/42    . . . . Making or attaching spouts
+   51/44    . . . Making closures, e.g. caps (folded of thin
+metal foils in the way of making paper caps
+B31D 5/00; making closures in conjunction
+   51/443   . . . . {easily removable closures, e.g. by means of
+   51/446   . . . . {Feeding or removal of material}
+   51/46    . . . . Placing sealings or sealing material
+{(moulding plastic sealing material into
+   51/48    . . . . Making crown caps
+   51/50    . . . . Making screw caps
+   51/52    . . boxes, cigarette cases, or the like
+   51/54    . . cartridge cases, e.g. for ammunition, for letter
+carriers in pneumatic-tube plants
+   53/00    Making other particular articles (making wire
+fabrics B21F; making chains or chain parts B21L)
+6Processing sheet metal or metal tubes, or processing metal profiles according to any of groups B21D1/00
+   53/02    . heat exchangers {or parts thereof}, e.g. radiators,
+condensers {fins, headers}(making finned or ribbed
+tubes by fixing strip material or the like to tubes
+   53/022   . . {Making the fins}
+   53/025   . . . {Louvered fins}
+   53/027   . . {by helically or spirally winding elongated
+   53/045   . . . {by inflating partially united plates}
+   53/08    . . of both metal tubes and sheet metal (connecting
+   53/085   . . . {with fins places on zig-zag tubes or parallel
+   53/10    . parts of bearings; sleeves; valve seats or the like
+   53/12    . . cages for bearings
+   53/14    . belts, e.g. machine-gun belts
+   53/16    . rings, e.g. barrel hoops
+   53/18    . . of hollow or C-shaped cross-section, e.g. for
+   53/20    . . washers, e.g. for sealing
+   53/22    . . . with means for preventing rotation
+   53/24    . nuts or like thread-engaging members
+   53/26    . wheels or the like
+   53/262   . . {with inscriptions or the like, e.g. printing
+   53/264   . . {wheels out of a single piece (B21D 53/261 takes
+   53/265   . . {parts of wheels (B21D 53/28, B21D 53/30 take
+   53/267   . . {blower wheels, i.e. wheels provided with fan
+   53/268   . . {wheels having spokes}
+   53/36    . clips, clamps, or like fastening or attaching devices,
+   53/38    . locksmith's goods, e.g. handles
+   53/40    . . hinges, e.g. door hinge plates
+   53/42    . . keys {(making keys by combined operations
+   53/44    . fancy goods, e.g. jewellery products
+   53/46    . haberdashery, e.g. buckles, combs; pronged
+   53/48    . . buttons, e.g. press-buttons, snap fasteners
+   53/50    . . metal slide-fastener parts
+   53/52    . . . fastener elements; Attaching such elements
+so far as this procedure is combined with the
+process for making the elements
+   53/58    . end-pieces for laces or ropes
+   53/60    . cutlery wares; garden tools or the like
+   53/62    . . spoons; table forks
+   53/64    . . knives; scissors; cutting blades (B21D 53/72
+takes precedence; handle portions B21D 53/70)
+   53/645   . . . {safety razor blades}
+   53/647   . . . {mower blades}
+   53/66    . . spades; shovels (handle portions B21D 53/70)
+   53/68    . . rakes, garden forks, or the like (handle portions
+   53/70    . . handle portions (B21D 53/72 takes precedence)
+   53/72    . . sickles; scythes
+   53/74    . frames for openings, e.g. for windows, doors,
+   53/745   . . {Joining mitred profiles comprising punching the
+profiles on a corner-angle connecting piece}
+   53/76    . writing or drawing instruments, e.g. writing pens,
+   53/78    . propeller blades; turbine blades
+   53/80    . dustproof covers; safety covers
+   53/82    . perforated music sheets; pattern sheets, e.g. for
+   53/84    . other parts for engines, e.g. connecting-rods
+   53/845   . . {Making camshafts}
+   53/86    . other parts for bicycles or motorcycles
+   53/88    . other parts for vehicles, e.g. cowlings, mudguards
+   53/92    . other parts for aircraft
+   55/00    Safety devices protecting the machine or the
+operator, specially adapted for apparatus or
+machines dealt with in this subclass (for presses in
+general B30B; safety devices in general F16P)

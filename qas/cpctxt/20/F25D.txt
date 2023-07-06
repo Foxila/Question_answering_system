@@ -1,0 +1,345 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+REFRIGERATION OR COOLING; COMBINED HEATING AND REFRIGERATION
+SYSTEMS; HEAT PUMP SYSTEMS; MANUFACTURE OR STORAGE OF ICE;
+LIQUEFACTION SOLIDIFICATION OF GASES
+REFRIGERATORS; COLD ROOMS; ICE-BOXES; COOLING OR FREEZING
+APPARATUS NOT OTHERWISE PROVIDED FOR (refrigerated showcases A47F 3/04;
+thermally-insulated vessels for domestic use A47J 41/00; refrigerated vehicles, see the
+appropriate subclasses of classes B60-B64; containers with thermal insulation in general
+B65D 81/38; heat-transfer, heat-exchange or heat-storage materials, e.g. refrigerants, or materials
+for the production of heat or cold by chemical reactions other than by combustion C09K 5/00;
+thermally-insulated vessels for liquefied or solidified gases F17C; air-conditioning or air-
+humidification F24F; refrigeration machines, plants, or systems F25B; cooling of instruments or
+comparable apparatus without refrigeration G12B; cooling of engines or pumps, see the relevant
+1. In this subclass, the following term is used with the meaning indicated:
+• "device" means an enclosed space to be cooled; such  devices being associated either with refrigerating  machinery, e.g. in
+a refrigerator, or with other cold  sources, e.g. in an ice-box.
+2. Attention is drawn to Note (2) following the title of subclass F24F.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+Devices not associated with refrigerating machinery
+    1/00    Devices using naturally cold air or cold water
+    1/02    . using naturally cold water, e.g. household tap water
+    3/00    Devices using other cold materials; Devices using
+    3/005   . {combined with heat exchangers}
+    3/02    . using ice, e.g. ice-boxes
+    3/04    . . Stationary cabinets
+    3/06    . . Movable containers
+    3/08    . . . portable, i.e. adapted to be carried personally
+    3/10    . using liquefied gases, e.g. liquid air {(for cooling
+semiconductor devices H01L 23/445)}
+    3/102   . . {Stationary cabinets}
+    3/105   . . {Movable containers}
+    3/107   . . {portable, i.e. adapted to be carried personally}
+    3/11    . . with conveyors carrying articles to be cooled
+    3/12    . using solidified gases, e.g. carbon-dioxide snow
+    3/122   . . {Stationary cabinets}
+    3/125   . . {Movable containers}
+    3/127   . . {Stationary devices with conveyors carrying
+articles to be cooled through the cooling space}
+    3/14    . . portable, i.e. adapted to be carried personally
+    5/00    Devices using endothermic chemical reactions, e.g.
+    5/02    . portable, i.e. adapted to be carried personally
+    7/00    Devices using evaporation effects without recovery
+of the vapour (butter or cheese dishes with cooling
+    9/00    Devices not associated with refrigerating
+machinery and not covered by groups
+F25D 1/00 - F25D 7/00; Combinations of
+devices covered by two or more of the groups
+    9/005   . {using fluorinated halogenous hydrocarbons}
+Devices associated with refrigerating machinery
+   11/00    Self-contained movable devices, e.g. domestic
+   11/003   . {Transport containers}
+   11/006   . {with cold storage accumulators}
+   11/02    . with cooling compartments at different temperatures
+   11/022   . . {with two or more evaporators}
+   11/025   . . {using primary and secondary refrigeration
+1Devices associated with refrigerating machinery
+   11/027   . . {of the sorption cycle type}
+   11/04    . specially adapted for storing deep-frozen articles
+   13/00    Stationary devices, e.g. cold-rooms
+   13/02    . with several cooling compartments, e.g. refrigerated
+   13/04    . . the compartments being at different temperatures
+   13/06    . with conveyors carrying articles to be cooled
+   13/062   . . {with refrigerated conveyors}
+   13/065   . . {Articles being submerged in liquid coolant}
+   13/067   . . {with circulation of gaseous cooling fluid}
+   15/00    Devices not covered by group F25D 11/00 or
+F25D 13/00, e.g. non-self-contained movable
+   16/00    Devices using a combination of a cooling mode
+associated with refrigerating machinery with a
+cooling mode not associated with refrigerating
+Details or features of the devices covered by groups
+   17/00    Arrangements for circulating cooling fluids;
+Arrangements for circulating gas, e.g. air, within
+   17/02    . for circulating liquids, e.g. brine
+   17/04    . for circulating air, e.g. by convection
+   17/042   . . {Air treating means within refrigerated spaces (air
+   17/045   . . . {Air flow control arrangements}
+   17/047   . . . {Pressure equalising devices}
+   17/06    . . by forced circulation
+   17/062   . . . {in household refrigerators}
+   17/065   . . . . {with compartments at different
+   17/067   . . . {Evaporator fan units}
+   19/00    Arrangement or mounting of refrigeration
+units with respect to devices {or objects to be
+refrigerated, e.g. infra-red detectors}
+   19/003   . {with respect to movable containers}
+   19/006   . {Thermal coupling structure or interface}
+   19/04    . with more than one refrigeration unit
+   21/00    Defrosting; Preventing frosting; Removing
+condensed or defrost water (removing ice or
+water from heat-exchange apparatus in general
+F28F 17/00; heating arrangements specially adapted
+for transparent or reflecting areas H05B 3/84)
+   21/002   . {Defroster control}
+   21/004   . . {Control mechanisms (F25D 21/006 takes
+   21/006   . . {with electronic control circuits}
+   21/02    . Detecting the presence of frost or condensate
+   21/025   . . {using air pressure differential detectors}
+   21/04    . Preventing the formation of frost or condensate
+   21/06    . Removing frost (defrosting cycles F25B 47/02)
+   21/065   . . {by mechanical means}
+   21/08    . . by electric heating
+   21/10    . . by spraying with fluid
+   21/12    . . by hot-fluid circulating system separate from the
+   21/125   . . . {the hot fluid being ambient air}
+   21/14    . Collecting or removing condensed and defrost
+   23/00    General constructional features (F25D 21/00 takes
+   23/003   . {for cooling refrigerating machinery}
+   23/006   . {for mounting refrigerating machinery components}
+   23/02    . Doors; Covers (F25D 23/08 takes precedence {locks
+   23/021   . . {Sliding doors}
+   23/023   . . {Air curtain closures}
+   23/025   . . {Secondary closures}
+   23/026   . . {for open-top cabinets}
+   23/04    . . with special compartments, e.g. butter
+   23/06    . Walls (F25D 23/08 takes precedence; containers
+with thermal insulation B65D 81/38)
+   23/061   . . {with conduit means}
+   23/062   . . {defining a cabinet}
+   23/063   . . . {formed by an assembly of panels}
+   23/064   . . . {formed by moulding, e.g. moulding in situ}
+   23/067   . . . {Supporting elements}
+   23/068   . . . {Arrangements for circulating fluids through
+   23/069   . . {Cooling space dividing partitions}
+   23/08    . Parts formed wholly or mainly of plastics materials
+When a document describes both breaking
+and sealing strips it is classified in group
+   23/085   . . . {Breaking strips}
+   23/087   . . . {Sealing strips}
+   23/10    . Arrangements for mounting in particular locations,
+e.g. for built-in type, for corner type
+   23/12    . Arrangements of compartments additional
+to cooling compartments; Combinations of
+refrigerators with other equipment, e.g. stove
+   23/123   . . {Butter compartment}
+   25/00    Charging, supporting, and discharging the articles
+   25/005   . {using containers}
+   25/021   . . {combined with trays}
+   25/024   . . {Slidable shelves}
+   25/027   . . {Rotatable shelves}
+   25/028   . . {Cooled supporting means}
+   25/04    . by conveyors (in general B65G)
+   27/00    Lighting arrangements (in general F21)
+2Details or features of the devices covered by groups F25D1/00 - F25D16/00
+   27/005   . {combined with control means}
+   29/00    Arrangement or mounting of control or safety
+   29/001   . {for cryogenic fluid systems}
+   29/003   . {for movable devices}
+   29/005   . {Mounting of control devices}
+   31/00    Other cooling or freezing apparatus
+   31/002   . {Liquid coolers, e.g. beverage cooler (receptacle
+   31/003   . . {with immersed cooling element}
+   31/005   . {Combined cooling and heating devices}
+   31/006   . {specially adapted for cooling receptacles, e.g.
+   31/007   . . {Bottles or cans}
+   31/008   . . {Drinking glasses}
+ 2201/10    . with respect to heat
+ 2201/12    . . using an insulating packing material
+ 2201/122   . . . of loose fill type
+ 2201/124   . . . of fibrous type
+ 2201/126   . . . of cellular type
+ 2201/1262  . . . . with open cells
+ 2201/1282  . . . . with reflective foils
+ 2201/14    . . using subatmospheric pressure
+ 2201/30    . with respect to sound
+ 2300/00    Special arrangements or features for refrigerators;
+cold rooms; ice-boxes; Cooling or freezing
+apparatus not covered by any other subclass
+ 2303/00    Details of devices using other cold materials;
+Details of devices using cold-storage bodies
+ 2303/08    . Devices using cold storage material, i.e. ice or other
+ 2303/081   . . using ice cubes or crushed ice
+ 2303/082   . . disposed in a cold storage element not forming
+part of a container for products to be cooled, e.g.
+ 2303/0821  . . . the element placed in a compartment which
+can be opened without the need of opening the
+ 2303/0822  . . . Details of the element
+ 2303/08221 . . . . Fasteners or fixing means for the element
+ 2303/08222 . . . . Shape of the element
+ 2303/08223 . . . . . having the shape of an ice cube
+ 2303/083   . . using cold storage material disposed in closed
+wall forming part of a container for products to be
+ 2303/0831  . . . the liquid is disposed in the space between the
+ 2303/0832  . . . the liquid is disposed in an accumulator pack
+locked in a closable wall forming part of the
+ 2303/084   . . Position of the cold storage material in
+relationship to a product to be cooled
+ 2303/0841  . . . external to the container for a beverage, e.g. a
+bottle, can, drinking glass or pitcher
+ 2303/0842  . . . inside the beverage contained in a bottle, can,
+drinking glass, pitcher or dispenser
+ 2303/0843  . . . on the side of the product
+ 2303/0844  . . . above the product
+ 2303/0845  . . . below the product
+ 2303/0846  . . . around the neck of a bottle
+ 2303/085   . . Compositions of cold storage materials
+ 2317/00    Details or arrangements for circulating cooling
+fluids; Details or arrangements for circulating gas,
+e.g. air, within refrigerated spaces, not provided
+for in other groups of this subclass
+ 2317/04    . Treating air flowing to refrigeration compartments
+ 2317/041   . . by purification
+ 2317/0411  . . . by dehumidification
+ 2317/04111 . . . . Control means therefor
+ 2317/0413  . . . by humidification
+ 2317/04131 . . . . Control means therefor
+ 2317/0415  . . . by deodorizing
+ 2317/0416  . . . using an ozone generator
+ 2317/0417  . . . using an UV-lamp
+ 2317/043   . . by creating a vacuum in a storage compartment
+ 2317/06    . with forced air circulation
+ 2317/061   . . through special compartments
+ 2317/062   . . along the inside of doors
+ 2317/063   . . with air guides
+ 2317/065   . . characterised by the air return
+ 2317/0651  . . . through the bottom
+ 2317/0652  . . . through the corner
+ 2317/0653  . . . through the mullion
+ 2317/0654  . . . through the side
+ 2317/0655  . . . through the top
+ 2317/066   . . characterised by the air supply
+ 2317/0661  . . . from the bottom
+ 2317/0662  . . . from the corner
+ 2317/0663  . . . from the mullion
+ 2317/0664  . . . from the side
+ 2317/0666  . . . from the freezer
+ 2317/0667  . . . from the refrigerator
+ 2317/067   . . characterised by air ducts
+ 2317/068   . . characterised by the fans
+ 2317/0681  . . . Details thereof
+ 2317/0682  . . . Two or more fans
+ 2317/0683  . . . the fans not of the axial type
+ 2317/0684  . . . the fans allowing rotation in reverse direction
+ 2321/00    Details or arrangements for defrosting; Preventing
+frosting; Removing condensed or defrost water,
+not provided for in other groups of this subclass
+ 2321/14    . Collecting condense or defrost water; Removing
+ 2321/141   . . Removal by evaporation
+ 2321/1411  . . . using compressor heat
+ 2321/1412  . . . using condenser heat or heat of desuperheaters
+ 2321/1413  . . . using heat from electric elements or using an
+electric field for enhancing removal
+ 2321/142   . . characterised by droplet guides
+ 2321/143   . . characterised by means to fix, clamp, or connect
+water pipes or evaporation trays
+ 2321/144   . . characterised by the construction of drip water
+ 2321/1441  . . . inside a refrigerator
+ 2321/1442  . . . outside a refrigerator
+ 2321/145   . . characterised by multiple collecting pans
+ 2321/146   . . characterised by the pipes or pipe connections
+ 2321/147   . . characterised by capillary, wick, adsorbent, or
+ 2323/00    General constructional features not provided for in
+ 2323/0011  . Means for leveling refrigerators
+ 2323/002   . Details for cooling refrigerating machinery
+ 2323/0021  . . using air guides
+ 2323/0022  . . using multiple air flows
+ 2323/0023  . . Control of the air flow cooling refrigerating
+ 2323/0024  . . Filters in the air flow cooling refrigerating
+ 2323/0026  . . characterised by the incoming air flow
+ 2323/00261 . . . through the back bottom side
+ 2323/00262 . . . through the back top side
+ 2323/00263 . . . through the back corner side
+ 2323/00264 . . . through the front bottom part
+ 2323/00265 . . . through the front top part
+ 2323/00266 . . . through the bottom
+ 2323/00267 . . . through the side
+ 2323/00268 . . . through the top
+ 2323/0027  . . characterised by the out-flowing air
+ 2323/00271 . . . from the back bottom
+ 2323/00272 . . . from the back top
+ 2323/00273 . . . from the back corner
+ 2323/00274 . . . from the front bottom
+ 2323/00275 . . . from the front top
+ 2323/00276 . . . from the bottom
+ 2323/00277 . . . from the side
+ 2323/0028  . . characterised by the fans
+ 2323/00281 . . . Two or more fans
+ 2323/00282 . . . the fans not of the axial type
+ 2323/00283 . . . the fans allowing rotation in reverse direction
+ 2323/00284 . . . Details thereof
+ 2323/02    . Details of doors or covers not otherwise covered
+ 2323/022   . . Doors that can be pivoted either left-handed or
+ 2323/023   . . Door in door constructions
+ 2323/06    . Details of walls not otherwise covered
+ 2323/061   . . Collapsible walls
+ 2323/062   . . Inflatable walls
+ 2323/121   . the refrigerator is characterised by a water filter for
+ 2323/122   . the refrigerator is characterised by a water tank for
+ 2325/00    Charging, supporting or discharging the articles to
+be cooled, not provided for in other groups of this
+ 2325/021   . Shelves with several possible configurations
+ 2325/022   . Shelves made of glass or ceramic
+ 2325/023   . Shelves made of wires
+ 2327/00    Lighting arrangements not provided for in other
+ 2327/001   . Lighting arrangements on the external side of the
+refrigerator, freezer or cooling box
+ 2331/00    Details or arrangements of other cooling or
+freezing apparatus not provided for in other
+ 2331/80    . Type of cooled receptacles
+ 2331/8011  . . . to be carried on the back of a person
+ 2331/8012  . . . for cosmetics
+ 2331/8013  . . . for playing golf
+ 2331/8014  . . . for medical use
+ 2331/8051  . . . for holding milk
+ 2400/00    General features of, or devices for refrigerators,
+cold rooms, ice-boxes, or for cooling or freezing
+apparatus not covered by any other subclass
+ 2400/02    . Refrigerators including a heater
+ 2400/04    . Refrigerators with a horizontal mullion
+ 2400/06    . Refrigerators with a vertical mullion
+ 2400/08    . Refrigerator tables
+ 2400/10    . Refrigerator top-coolers
+ 2400/12    . Portable refrigerators
+ 2400/14    . Refrigerator multi units
+ 2400/16    . Convertible refrigerators
+ 2400/18    . Aesthetic features
+ 2400/20    . Carts specially adapted for transporting objects to be
+ 2400/22    . Cleaning means for refrigerating devices
+ 2400/24    . Protection against refrigerant explosions
+ 2400/26    . Refrigerating devices for cooling wearing apparel,
+e.g. garments, hats, shoes or gloves
+ 2400/32    . Removal, transportation or shipping of refrigerating
+devices from one location to another
+ 2400/34    . Temperature balancing devices
+ 2400/361   . . Interactive visual displays
+ 2400/38    . Refrigerating devices characterised by wheels
+ 2400/40    . Refrigerating devices characterised by electrical
+ 2500/00    Problems to be solved
+ 2500/02    . Geometry problems
+ 2500/04    . Calculation of parameters
+ 2600/04    . Controlling heat transfer
+ 2600/06    . Controlling according to a predetermined profile
+ 2700/00    Means for sensing or measuring; Sensors therefor
+ 2700/02    . Sensors detecting door opening
+ 2700/04    . Sensors detecting the presence of a person
+ 2700/06    . Sensors detecting the presence of a product
+ 2700/08    . Sensors using Radio Frequency Identification
+ 2700/10    . Sensors measuring the temperature of the
+ 2700/12    . Sensors measuring the inside temperature
+ 2700/121   . . of particular compartments
+ 2700/122   . . of freezer compartments
+ 2700/123   . . more than one sensor measuring the inside
+ 2700/14    . Sensors measuring the temperature outside the
+ 2700/16    . Sensors measuring the temperature of products

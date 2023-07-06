@@ -1,0 +1,1043 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+COMBUSTION ENGINES; HOT-GAS OR COMBUSTION-PRODUCT ENGINE
+CONTROLLING COMBUSTION ENGINES (vehicle fittings, acting on a single sub-unit
+only, for automatically controlling vehicle speed B60K 31/00; conjoint control of vehicle sub-
+units of different type or different function, road vehicle drive control systems for purposes other
+than the control of a single sub-unit B60W)
+1. In this subclass, the following term or expression is used with the meanings indicated:
+• "fuel injection" means the introduction of a combustible substance into a space, e.g. cylinder, by means of a pressure
+source, e.g. a pump, continuously or cyclically acting behind the substance;
+• "supercharging" means supplying to the working space, e.g. cylinder, combustion-air pressurised by means of a pressure
+2. Attention is drawn to the Notes preceding class F01.
+3. In this subclass, electrical aspects of control arrangements are classified in groups F02D 41/00 - F02D 45/00.
+{In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+Controlling, e.g. regulating, fuel injection
+    1/00    Controlling fuel-injection pumps, e.g. of
+high pressure injection type (F02D 3/00 takes
+- in this subclass the following indexing codes are
+F02D 2700/0282 and F02D 2700/10
+ 2001/0005  . {Details, component parts or accessories of
+ 2001/001   . . {Arrangement of centrifugal weights}
+ 2001/0015  . . . {the weights being cup-shaped and carrying
+ 2001/002   . . {Arrangement of governor springs}
+ 2001/0025  . . . {having at least two springs, one of them being
+ 2001/003   . . . {the main spring being active at maximum
+ 2001/0035  . . . {the main spring being active at all speeds,
+e.g. its tension varying with the load, i.e. the
+ 2001/004   . . {Arrangement of linkages between governor
+ 2001/0045  . . {Arrangement of means for influencing governor
+ 2001/005   . . . {varying main spring tension}
+ 2001/0055  . . . {varying pivotal point of linkages between
+governor sleeve and pump control}
+ 2001/006   . . {Assembling; Disassembling; Replacing}
+ 2001/0065  . . {Selection of particular materials}
+ 2001/007   . {Means for adjusting stops for minimum and
+ 2001/0075  . . {using engine temperature, e.g. to adjust the
+ 2001/008   . . {using intake air pressure, e.g. adjusting full load
+stop at high supercharging pressures}
+ 2001/0085  . {Arrangements using fuel pressure for controlling
+fuel delivery in quantity or timing}
+ 2001/009   . . {Means for varying the pressure of fuel supply
+pump according to engine working parameters}
+ 2001/0095  . {Mounting of control means with respect to
+injection apparatus or the engine}
+    1/02    . not restricted to adjustment of injection timing, e.g.
+varying amount of fuel delivered
+    1/025   . . {by means dependent on engine working
+temperature (F02D 1/08 takes precedence)}
+    1/04    . . by mechanical means dependent on engine speed,
+e.g. using centrifugal governors (F02D 1/08 takes
+    1/045   . . . {characterised by arrangement of springs or
+    1/06    . . by means dependent on pressure of engine
+working fluid (F02D 1/08 takes precedence)
+    1/065   . . . {of intake of air}
+    1/08    . . Transmission of control impulse to pump control,
+e.g. with power drive or power assistance
+ 2001/085   . . . . {using solenoids}
+ 2001/087   . . . . {using step motors}
+1Controlling, e.g. regulating, fuel injection
+    1/12    . . . non-mechanical, e.g. hydraulic
+    1/122   . . . . {control impulse depending only on engine
+    1/125   . . . . . {using a centrifugal governor}
+    1/127   . . . . . {using the pressure developed in a pump}
+    1/16    . Adjustment of injection timing (F02D 1/02 takes
+    1/162   . . {by mechanical means dependent on engine speed
+for angular adjustment of driving and driven
+ 2001/165   . . {by means dependent on engine load}
+ 2001/167   . . {by means dependent on engine working
+temperature, e.g. at cold start}
+    1/18    . . with non-mechanical means for transmitting
+control impulse; with amplification of control
+ 2001/186   . . . . {using a pressure-actuated piston for
+adjustment of a stationary cam or roller
+    3/00    Controlling low-pressure fuel injection, i.e.
+where the fuel-air mixture containing fuel thus
+injected will be substantially compressed by the
+compression stroke of the engine, by means other
+than controlling only an injection pump
+When the control apparatus or system forms part
+of the low-pressure fuel-injection apparatus it is
+classified in group F02M 69/00.
+    3/02    . with continuous injection or continuous flow
+upstream of the injection nozzle
+    3/04    . Controlling fuel-injection and carburation, e.g. of
+    7/00    Other fuel-injection control
+    7/002   . {Throttling of fuel passages between pumps and
+injectors or overflow passages (low-pressure fuel
+    7/005   . . {by mechanical means, e.g. using a centrifugal
+    7/007   . . {by fluid actuated means, e.g. slide valves}
+    7/02    . Controlling fuel injection where fuel is injected by
+ 2007/025   . . {Controlling compressed air quantity or pressure}
+1. accelerator lever means a lever actuated by
+2. throttle lever means a lever connected to
+the accelerator lever via a force transmitting
+element (e.g. cable, link) and mounted on the
+    9/00    Controlling engines by throttling air or fuel-and-
+air induction conduits or exhaust conduits
+- in this group the following indexing codes
+are used: F02D 2700/00, F02D 2700/02,
+    9/02    . concerning induction conduits (throttle valves, or
+arrangements thereof in conduits F02D 9/08)
+ 2009/0201  . . {Arrangements; Control features; Details thereof}
+ 2009/0203  . . . {Mechanical governor}
+ 2009/0205  . . . {working on the throttle valve and another
+ 2009/0206  . . . {specially positioned with relation to engine or
+ 2009/0208  . . . {for small engines}
+ 2009/021   . . . {combined with an electromechanical
+governor, e.g. centrifuged governor and electric
+governor acting on the governor lever}
+ 2009/0211  . . . {combined with another mechanical or
+ 2009/0213  . . . {Electronic or electric governor}
+ 2009/0215  . . . {Pneumatic governor}
+ 2009/0216  . . . {of the air-vane type}
+ 2009/0218  . . . {Details of governor springs}
+ 2009/022   . . . {Throttle control function parameters}
+ 2009/0222  . . . {Exhaust gas temperature}
+ 2009/0223  . . . {Cooling water temperature}
+ 2009/0225  . . . {Intake air or mixture temperature}
+ 2009/0227  . . . {Atmospheric pressure}
+ 2009/0228  . . . {Manifold pressure}
+ 2009/023   . . . {Engine speed}
+ 2009/0232  . . . {Fuel pump rack position}
+ 2009/0233  . . . {Engine vibration}
+ 2009/0235  . . . {Throttle control functions}
+ 2009/0237  . . . {Increasing combustion chamber gas
+ 2009/0238  . . . {Increasing ignition delay}
+ 2009/024   . . . {Increasing intake vacuum}
+ 2009/0242  . . . {Increasing exhaust brake effect}
+ 2009/0244  . . . {Choking air flow at low speed and load}
+ 2009/0245  . . . {Shutting down engine, e.g. working together
+ 2009/0247  . . . {Opening the throttle a little on engine
+ 2009/0249  . . . {Starting engine, e.g. closing throttle in Diesel
+engine to reduce starting torque}
+ 2009/025   . . . {Opening the throttle a little during starting}
+ 2009/0252  . . . {Opening a special valve-controlled intake
+passage (by-pass) during starting}
+ 2009/0254  . . . {Mechanical control linkage between
+accelerator lever and throttle valve}
+ 2009/0255  . . . {with means for correcting throttle position,
+e.g. throttle cable of variable length}
+ 2009/0257  . . . {having a pin and slob connection
+ 2009/0259  . . . {having a dashpot, e.g. working in the throttle
+opening and closing directions}
+ 2009/0261  . . . {having a specially shaped transmission
+member, e.g. a cam, specially toothed gears,
+ 2009/0262  . . . {having two or more levers on the throttle
+ 2009/0264  . . . {in which movement is transmitted through a
+ 2009/0266  . . . {in which movement is transmitted through a
+ 2009/0267  . . . {for simultaneous action of a governor and an
+accelerator lever on the throttle}
+2Controlling, e.g. regulating, fuel injection
+ 2009/0269  . . . {Throttle closing springs; Acting of throttle
+closing springs on the throttle shaft}
+ 2009/0271  . . . {with means for closing the throttle other than
+ 2009/0272  . . . {Two or more throttles disposed in series}
+ 2009/0274  . . . {one being controlled by pressure in intake
+conduit, e.g. for slowly opening the throttle as
+the other valve is suddenly opened}
+ 2009/0276  . . . {Throttle and EGR-valve operated together}
+ 2009/0277  . . . {Fail-safe mechanisms, e.g. with limp-home
+feature, to close throttle if actuator fails, or if
+control cable sticks or breaks}
+ 2009/0279  . . . {Throttle valve control for intake system with
+two parallel air flow paths, each controlled by
+a throttle, e.g. a resilient flap disposed on a
+ 2009/0281  . . . {with means for detecting malfunction of
+one throttle and actuating only the correctly
+ 2009/0283  . . . {Throttle in the form of an expander}
+ 2009/0284  . . . {Throttle control device with means for
+signalling a certain throttle opening, e.g. by
+a steplike increase of throttle closing spring
+ 2009/0286  . . . {Throttle control device with accelerator lever
+defining a stop for opening the throttle, e.g.
+the throttle itself being opened by air flow, a
+ 2009/0288  . . . {Throttle control device specially adapted for
+spark-assisted compression-ignition engine
+ 2009/0289  . . . {Throttle control device with means for
+establishing a variable resistance torque during
+ 2009/0291  . . . {Throttle control device for throttle being
+disposed in a two-stroke engine transfer
+ 2009/0293  . . . {Throttle control device adapted to limit power
+ 2009/0294  . . . {Throttle control device with provisions for
+actuating electric or electronic sensors}
+ 2009/0296  . . . {Throttle control device with stops for limiting
+throttle opening or closing beyond a certain
+position during certain periods of operation}
+ 2009/0298  . . . {Throttle control device with holding devices,
+i.e. to hold throttle in a predetermined position}
+    9/04    . concerning exhaust conduits (throttle valves, or
+arrangements thereof in conduits F02D 9/08)
+    9/08    . Throttle valves specially adapted therefor;
+Arrangements of such valves in conduits
+    9/10    . . having pivotally-mounted flaps
+    9/1005  . . . {Details of the flap}
+    9/101   . . . . {Special flap shapes, ribs, bores or the like}
+    9/1015  . . . . . {Details of the edge of the flap, e.g. for
+lowering flow noise or improving flow
+sealing in closed flap position}
+    9/102   . . . . {the flap having movable parts fixed onto it}
+    9/1025  . . . . {the rotation axis of the flap being off-set
+    9/103   . . . . . {the rotation axis being located at an edge}
+    9/1035  . . . {Details of the valve housing}
+    9/104   . . . . {Shaping of the flow path in the vicinity of
+the flap, e.g. having inserts in the housing}
+    9/1045  . . . . . {for sealing of the flow in closed flap
+position, e.g. the housing forming a valve
+    9/105   . . . . {having a throttle position sensor (detection
+    9/1055  . . . . {having a fluid by-pass}
+    9/106   . . . . {Sealing of the valve shaft in the housing,
+    9/1065  . . . {Mechanical control linkage between an
+actuator and the flap, e.g. including levers,
+gears, springs, clutches, limit stops of the like}
+    9/107   . . . {Manufacturing or mounting details}
+    9/1075  . . . {Materials, e.g. composites}
+    9/1085  . . . . {Non-organic materials, e.g. metals, alloys,
+    9/109   . . . {having two or more flaps}
+    9/1095  . . . . {Rotating on a common axis, e.g. having a
+    9/12    . . having slidably-mounted valve members; having
+valve members movable longitudinally of conduit
+    9/14    . . . the members being slidable transversely of
+    9/16    . . . the members being rotatable
+    9/18    . . having elastic-wall valve members
+   11/00    Arrangements for, or adaptations to, non-
+automatic engine control initiation means,
+e.g. operator initiated (specially for reversing
+   11/02    . characterised by hand, foot, or like operator
+   11/04    . characterised by mechanical control linkages
+   11/06    . characterised by non-mechanical control linkages,
+e.g. fluid control linkages or by control linkages
+   11/08    . . of the pneumatic type
+   11/10    . . of the electric type
+ 2011/101   . . . {characterised by the means for actuating the
+ 2011/102   . . . . {at least one throttle being moved only by an
+ 2011/103   . . . . {at least one throttle being alternatively
+mechanically linked to the pedal or moved
+ 2011/104   . . . . {using electric step motors}
+   11/105   . . . {characterised by the function converting
+demand to actuation, e.g. a map indicating
+relations between an accelerator pedal position
+and throttle valve opening or target engine
+   11/106   . . . {Detection of demand or actuation}
+   11/107   . . . {Safety-related aspects}
+ 2011/108   . . . {with means for detecting or resolving a stuck
+throttle, e.g. when being frozen in a position}
+   13/00    Controlling the engine output power by varying
+inlet or exhaust valve operating characteristics,
+ 2013/005   . {of throttleless spark ignited engines}
+   13/02    . during engine operation
+   13/0203  . . {Variable control of intake and exhaust valves}
+   13/0207  . . . {changing valve lift or valve lift and timing}
+3Controlling, e.g. regulating, fuel injection
+   13/0211  . . . . {the change of valve timing is caused by the
+change in valve lift, i.e. both valve lift and
+timing are functionally related}
+   13/0215  . . . {changing the valve timing only}
+   13/0219  . . . . {by shifting the phase, i.e. the opening
+periods of the valves are constant}
+   13/0223  . . {Variable control of the intake valves only}
+   13/0226  . . . {changing valve lift or valve lift and timing}
+   13/023   . . . . {the change of valve timing is caused by the
+change in valve lift, i.e. both valve lift and
+timing are functionally related}
+   13/0234  . . . {changing the valve timing only}
+   13/0238  . . . . {by shifting the phase, i.e. the opening
+periods of the valves are constant}
+   13/0242  . . {Variable control of the exhaust valves only}
+   13/0246  . . . {changing valve lift or valve lift and timing}
+   13/0249  . . . {changing the valve timing only}
+   13/0253  . . {Fully variable control of valve lift and
+timing using camless actuation systems such
+as hydraulic, pneumatic or electromagnetic
+actuators, e.g. solenoid valves}
+   13/0257  . . {Independent control of two or more intake or
+exhaust valves respectively, i.e. one of two intake
+valves remains closed or is opened partially while
+   13/0261  . . {Controlling the valve overlap}
+   13/0265  . . . {Negative valve overlap for temporarily storing
+   13/0269  . . {Controlling the valves to perform a Miller-
+   13/0273  . . {Multiple actuations of a valve within an engine
+   13/0276  . . {Actuation of an additional valve for a special
+application, e.g. for decompression, exhaust gas
+recirculation or cylinder scavenging}
+   13/028   . . {for two-stroke engines}
+   13/0284  . . . {Variable control of exhaust valves only}
+ 2013/0288  . . . . {for cleaning the valves}
+ 2013/0292  . . {in the start-up phase, e.g. for warming-up cold
+ 2013/0296  . . {Changing the valve lift only}
+   13/04    . . using engine as brake
+   13/06    . . Cutting-out cylinders
+   13/08    . for rendering engine inoperative or idling
+   15/00    Varying compression ratio
+- in this group the following indexing codes are
+   15/02    . by alteration or displacement of piston stroke
+   15/04    . by alteration of volume of compression space
+   17/00    Controlling engines by cutting out individual
+cylinders; Rendering engines inoperative or idling
+(controlling or rendering inoperative by varying
+inlet or exhaust valve operating characteristics
+- in this group the following indexing codes are
+   17/02    . Cutting-out (cutting-out engines in multiple engine
+   17/023   . . {the inactive cylinders acting as compressor other
+than for pumping air into the exhaust system}
+   17/026   . . . {delivering compressed fluid, e.g. air, reformed
+gas, to the active cylinders other than during
+   17/04    . rendering engines inoperative or idling, e.g. caused
+by abnormal conditions (dependent on lubricating
+conditions F01M 1/22; dependent on cooling
+Controlling peculiar to specified types or adaptations of engines
+   19/00    Controlling engines characterised by their use of
+non-liquid fuels, pluralities of fuels, or non-fuel
+substances added to the combustible mixtures (the
+non-fuel substances being gaseous F02D 21/00)
+   19/02    . peculiar to engines working with gaseous fuels
+   19/021   . . {Control of components of the fuel supply
+   19/022   . . . {to adjust the fuel pressure, temperature or
+   19/023   . . . {to adjust the fuel mass or volume flow}
+   19/024   . . . . {by controlling fuel injectors}
+   19/025   . . {Failure diagnosis or prevention; Safety
+   19/026   . . {Measuring or estimating parameters related to
+   19/027   . . . {Determining the fuel pressure, temperature or
+volume flow, the fuel tank fill level or a valve
+   19/028   . . . . {by estimation, i.e. without using direct
+measured parameter of a corresponding
+   19/029   . . . {Determining density, viscosity, concentration
+   19/04    . peculiar to engines working with solid fuels, e.g.
+   19/06    . peculiar to engines working with pluralities of fuels,
+e.g. alternatively with light and heavy fuel oil, other
+than engines indifferent to the fuel consumed
+   19/0602  . . {Control of components of the fuel supply
+   19/0605  . . . {to adjust the fuel pressure or temperature}
+   19/0607  . . . {to adjust the fuel mass or volume flow}
+   19/061   . . . . {by controlling fuel injectors}
+   19/0613  . . . {Switch-over from one fuel to another
+(F02D 19/081 takes precedence)}
+   19/0615  . . . . {being initiated by automatic means,
+e.g. based on engine or vehicle operating
+   19/0618  . . . . {depending on the engine's or vehicle's
+position, e.g. on/off road or proximity to a
+4Controlling peculiar to specified types or adaptations of engines
+   19/0621  . . . . {Purging of the fuel system}
+   19/0623  . . {Failure diagnosis or prevention; Safety
+   19/0626  . . {Measuring or estimating parameters related to
+   19/0628  . . . {Determining the fuel pressure, temperature or
+flow, the fuel tank fill level or a valve position}
+   19/0631  . . . . {by estimation, i.e. without using direct
+measurements of a corresponding sensor}
+   19/0634  . . . {Determining a density, viscosity, composition
+or concentration (F02D 19/087 takes
+   19/0636  . . . . {by estimation, i.e. without using direct
+measurements of a corresponding sensor}
+   19/0639  . . {characterised by the type of fuels}
+   19/0642  . . . {at least one fuel being gaseous, the other fuels
+being gaseous or liquid at standard conditions}
+   19/0644  . . . . {the gaseous fuel being hydrogen, ammonia
+   19/0647  . . . . {the gaseous fuel being liquefied petroleum
+gas [LPG], liquefied natural gas [LNG],
+compressed natural gas [CNG] or dimethyl
+   19/0649  . . . {Liquid fuels having different boiling
+temperatures, volatilities, densities, viscosities,
+   19/0652  . . . . {Biofuels, e.g. plant oils}
+   19/0655  . . . . . {at least one fuel being an alcohol, e.g.
+ethanol (F02D 19/084 takes precedence)}
+   19/0657  . . . . {Heavy or light fuel oils; Fuels characterised
+by their impurities such as sulfur content or
+differences in grade, e.g. for ships}
+   19/066   . . {Retrofit of secondary fuel supply systems;
+Conversion of engines to operate on multiple
+   19/0663  . . {Details on the fuel supply system, e.g. tanks,
+valves, pipes, pumps, rails, injectors or mixers}
+   19/0665  . . . {Tanks, e.g. multiple tanks}
+   19/0668  . . . {Treating or cleaning means; Fuel filters}
+   19/0671  . . . . {Means to generate or modify a fuel, e.g.
+reformers, electrolytic cells or membranes}
+   19/0673  . . . {Valves; Pressure or flow regulators; Mixers}
+   19/0676  . . . . {Multi-way valves; Switch-over valves}
+   19/0678  . . . . {Pressure or flow regulators therefor; Fuel
+   19/0681  . . . . {Shut-off valves; Check valves; Safety
+valves; Pressure relief valves}
+   19/0684  . . . {High pressure fuel injection systems; Details
+on pumps, rails or the arrangement of valves in
+the fuel supply and return systems}
+   19/0689  . . . . {for in-cylinder direct injection}
+   19/0692  . . . . {Arrangement of multiple injectors per
+   19/0694  . . . . {operating with a plurality of fuels}
+   19/0697  . . . {Arrangement of fuel supply systems on
+engines or vehicle bodies; Components of
+the fuel supply system being combined with
+   19/08    . . simultaneously using pluralities of fuels
+   19/081   . . . {Adjusting the fuel composition or mixing
+ratio; Transitioning from one fuel to the other}
+   19/082   . . . {Premixed fuels, i.e. emulsions or blends}
+   19/084   . . . . {Blends of gasoline and alcohols, e.g. E85}
+   19/085   . . . . {Control based on the fuel type or
+   19/087   . . . . . {with determination of densities,
+viscosities, composition, concentration or
+   19/088   . . . . . . {by estimation, i.e. without using direct
+measurements of a corresponding
+   19/10    . . . peculiar to compression-ignition engines in
+   19/105   . . . . {operating in a special mode, e.g. in a liquid
+   19/12    . peculiar to engines working with non-fuel
+substances or with anti-knock agents, e.g. with anti-
+   21/00    Controlling engines characterised by their being
+supplied with non-airborne oxygen or other non-
+   21/02    . peculiar to oxygen-fed engines
+   21/04    . . with circulation of exhaust gases in closed or
+   21/06    . peculiar to engines having other non-fuel gas added
+   21/08    . . the other gas being the exhaust gas of engine
+ 2021/083   . . . {controlling exhaust gas recirculation
+ 2021/086   . . . {the exhaust gas recirculation valve being
+controlled by fuel pressure, e.g. indirectly}
+   21/10    . . having secondary air added to the fuel-air mixture
+   23/00    Controlling engines characterised by their being
+   23/005   . {with the supercharger being mechanically driven
+by the engine (supercharger drives F02B 39/00)}
+   23/02    . the engines being of fuel-injection type
+   25/00    Controlling two or more co-operating engines
+   25/02    . to synchronise speed
+   25/04    . by cutting-out engines
+   27/00    Controlling engines characterised by their being
+   27/02    . by performing a programme
+   28/00    Programme-control of engines
+   29/00    Controlling engines, such controlling being
+peculiar to the devices driven thereby, the devices
+being other than parts or accessories essential to
+engine operation, e.g. controlling of engines by
+- in this group the following indexing codes are
+   29/02    . peculiar to engines driving vehicles; peculiar to
+engines driving variable pitch propellers
+   29/04    . peculiar to engines driving pumps
+   29/06    . peculiar to engines driving electric generators
+Other non-electrical control of combustion engines
+   31/00    Use of speed-sensing governors to control
+combustion engines, not otherwise provided for
+   31/001   . {Electric control of rotation speed}
+5Other non-electrical control of combustion engines
+   31/002   . . {controlling air supply}
+   31/003   . . . {for idle speed control}
+   31/004   . . . . {by controlling a throttle stop}
+   31/005   . . . . {by controlling a throttle by-pass}
+   31/006   . . . {for maximum speed control}
+   31/007   . . {controlling fuel supply}
+   31/008   . . . {for idle speed control}
+   31/009   . . . {for maximum speed control}
+   33/00    Controlling delivery of fuel or combustion-air, not
+otherwise provided for {(using exhaust gas sensors
+   33/003   . {Controlling the feeding of liquid fuel from
+storage containers to carburettors or fuel-injection
+apparatus (control of electrical fuel pumps
+F02D 41/3082, controlling fuel flow to a common
+rail F02D 41/3845); Failure or leakage prevention;
+Diagnosis or detection of failure; Arrangement
+of sensors in the fuel system; Electric wiring;
+   33/006   . . {depending on engine operating conditions, e.g.
+start, stop or ambient conditions}
+   33/02    . of combustion-air
+   35/00    Controlling engines, dependent on conditions
+exterior or interior to engines, not otherwise
+   35/0007  . {using electrical feedback (F02D 35/0015 takes
+Attention is drawn to the note preceding
+   35/0015  . {using exhaust gas sensors (F02D 41/14 takes
+   35/0023  . . {Controlling air supply}
+   35/003   . . . {by means of by-pass passages}
+   35/0038  . . . {by means of air pumps}
+   35/0046  . . {Controlling fuel supply}
+   35/0053  . . . {by means of a carburettor}
+   35/0061  . . . . {Controlling the emulsifying air only
+(F02D 35/0076, F02D 35/0084 take
+   35/0069  . . . . {Controlling the fuel flow only
+(F02D 35/0076, F02D 35/0084 take
+   35/0076  . . . . {using variable venturi carburettors}
+   35/0084  . . . . {using two barrel carburettors}
+   35/0092  . . . {by means of fuel injection}
+   35/02    . on interior conditions
+   35/021   . . {using an ionic current sensor}
+   35/022   . . {using an optical sensor, e.g. in-cylinder light
+   35/023   . . {by determining the cylinder pressure}
+   35/024   . . . {using an estimation}
+   35/025   . . {by determining temperatures inside the cylinder,
+   35/026   . . . {using an estimation}
+   35/027   . . {using knock sensors}
+   35/028   . . {by determining the combustion timing or
+   37/00    Non-electrical conjoint control of two or more
+functions of engines, not otherwise provided for
+   37/02    . one of the functions being ignition
+   39/00    Other non-electrical control
+   39/02    . for four-stroke engines
+   39/04    . for engines with other cycles than four-stroke, e.g.
+   39/06    . for engines adding the fuel substantially at the end
+   39/08    . for engines adding the fuel substantially before
+   39/10    . for free-piston engines; for engines without rotary
+Electrical control of combustion engines
+1. Groups F02D 41/00 - F02D 45/00 cover electrical aspects of
+electrically controlled devices.
+2. Groups F02D 41/00 - F02D 45/00  do not cover
+• non-electrical aspects of electrically controlled devices, which
+are covered by groups F02D 1/00 - F02D 39/00 or by subclass
+• both electrical and non-electrical aspects of electrically
+controlled devices, which are covered by groups
+F02D 1/00 - F02D 39/00 or by subclass F02M
+   41/00    Electrical control of supply of combustible mixture
+or its constituents (F02D 43/00 takes precedence
+{; control of engine starters F02N 11/08, electrical
+control of engine ignition timing F02P 5/145})
+   41/0002  . {Controlling intake air}
+   41/0005  . . {during deceleration}
+   41/0007  . . {for control of turbo-charged or super-
+charged engines (control of the pumps per se
+ 2041/001   . . {for engines with variable valve actuation}
+ 2041/0012  . . . {with selective deactivation of cylinders}
+ 2041/0015  . . {for engines with means for controlling swirl or
+tumble flow, e.g. by using swirl valves}
+ 2041/0017  . . {by simultaneous control of throttle and exhaust
+ 2041/002   . . {by simultaneous control of throttle and variable
+ 2041/0022  . . {for diesel engines by throttle control}
+   41/0025  . {Controlling engines characterised by use of
+non-liquid fuels, pluralities of fuels, or non-fuel
+substances added to the combustible mixtures}
+   41/0027  . . {the fuel being gaseous (non-electrical control
+   41/003   . . {Adding fuel vapours, e.g. drawn from engine
+   41/0032  . . . {Controlling the purging of the canister as a
+function of the engine operating conditions}
+   41/0035  . . . . {to achieve a special effect, e.g. to warm up
+   41/0037  . . . . . {for diagnosing the engine (diagnosis of
+purge control systems F02M 25/0809)}
+   41/004   . . . . {Control of the valve or purge actuator, e.g.
+duty cycle, closed loop control of position}
+   41/0042  . . . {Controlling the combustible mixture as a
+function of the canister purging, e.g. control of
+injected fuel to compensate for deviation of air
+   41/0045  . . . {Estimating, calculating or determining the
+purging rate, amount, flow or concentration}
+6Electrical control of combustion engines
+   41/0047  . . {Controlling exhaust gas recirculation [EGR]
+(temperature control with cooler in recirculation
+   41/005   . . . {according to engine operating conditions}
+   41/0052  . . . . {Feedback control of engine parameters,
+e.g. for control of air/fuel ratio or intake air
+   41/0055  . . . . {Special engine operating conditions, e.g.
+for regeneration of exhaust gas treatment
+   41/0057  . . . . {Specific combustion modes (combustion
+   41/006   . . . {using internal EGR (control of valve overlap
+for internal EGR F02D 13/0261; arrangements
+   41/0062  . . . . {Estimating, calculating or determining the
+internal EGR rate, amount or flow}
+   41/0065  . . . {Specific aspects of external EGR control
+(constructional details of EGR system
+ 2041/0067  . . . . {Determining the EGR temperature}
+ 2041/007   . . . . . {by estimation}
+   41/0072  . . . . {Estimating, calculating or determining the
+EGR rate, amount or flow (sensors in EGR
+ 2041/0075  . . . . . {by using flow sensors}
+   41/0077  . . . {Control of the EGR valve or actuator, e.g.
+duty cycle, closed loop control of position
+(EGR valve position sensor F02M 26/48)}
+   41/008   . {Controlling each cylinder individually}
+   41/0082  . . {per groups or banks (F02D 41/0087 takes
+   41/0085  . . {Balancing of cylinder outputs, e.g. speed, torque
+   41/0087  . . {Selective cylinder activation, i.e. partial cylinder
+operation (deceleration cut-off F02D 41/123)}
+   41/009   . {using means for generating position or
+ 2041/0092  . . {Synchronisation of the cylinders at engine start}
+ 2041/0095  . . {Synchronisation of the cylinders during engine
+   41/0097  . {using means for generating speed signals}
+   41/02    . Circuit arrangements for generating control signals
+   41/0205  . . {using an auxiliary engine speed control (engine
+speed control per se F02D 31/00)}
+   41/021   . . {Introducing corrections for particular conditions
+exterior to the engine (conjoint control of
+vehicle sub-units for propelling the vehicle
+   41/0215  . . . {in relation with elements of the transmission}
+   41/022   . . . . {in relation with the clutch status}
+   41/0225  . . . . {in relation with the gear ratio or shift lever
+   41/023   . . . . {in relation with the gear ratio shifting
+(conjoint control for improving gear change
+   41/0235  . . . {in relation with the state of the exhaust gas
+treating apparatus (control of exhaust gas
+treating apparatus per se F01N)}
+   41/024   . . . . {to increase temperature of the exhaust gas
+   41/0245  . . . . . {by increasing temperature of the exhaust
+   41/025   . . . . . {by changing the composition of the
+exhaust gas, e.g. for exothermic reaction
+on exhaust gas treating apparatus}
+   41/0255  . . . . . {to accelerate the warming-up of the
+exhaust gas treating apparatus at engine
+ 2041/026   . . . . . {using an external load, e.g. by increasing
+generator load or by changing the gear
+ 2041/0265  . . . . {to decrease temperature of the exhaust gas
+   41/027   . . . . {to purge or regenerate the exhaust gas
+   41/0275  . . . . . {the exhaust gas treating apparatus being a
+   41/028   . . . . . . {Desulfurisation of NOx traps or
+   41/0285  . . . . . {the exhaust gas treating apparatus being a
+   41/029   . . . . . {the exhaust gas treating apparatus being a
+   41/0295  . . . . {Control according to the amount of oxygen
+that is stored on the exhaust gas treating
+   41/04    . . Introducing corrections for particular operating
+conditions (F02D 41/14 takes precedence)
+   41/042   . . . {for stopping the engine}
+   41/045   . . . {Detection of accelerating or decelerating state
+(detection thereof in general G01P)}
+   41/047   . . . {Taking into account fuel evaporation or wall
+wetting; (special correction after fuel cut-off
+   41/06    . . . for engine starting or warming up
+{(F02D 41/0255 takes precedence)}
+   41/061   . . . . {the corrections being time dependent}
+   41/062   . . . . {for starting (F02D 41/061 takes
+   41/064   . . . . . {at cold start (F02D 41/067 takes
+   41/065   . . . . . {at hot start or restart (F02D 41/067 takes
+   41/067   . . . . . {with control of the choke (non electronic
+control of choke see F02M 1/10)}
+   41/068   . . . . {for warming-up}
+   41/08    . . . for idling (F02D 41/06, F02D 41/16 take
+   41/083   . . . . {taking into account engine load variation,
+   41/086   . . . . {taking into account the temperature of the
+   41/10    . . . for acceleration
+   41/102   . . . . {Switching from sequential injection to
+   41/105   . . . . {using asynchronous injection}
+   41/107   . . . . {and deceleration}
+   41/12    . . . for deceleration {(F02D 41/0005, F02D 41/107
+   41/123   . . . . {the fuel injection being cut-off}
+   41/126   . . . . . {transitional corrections at the end of the
+   41/14    . . Introducing closed-loop corrections
+   41/1401  . . . {characterised by the control or regulation
+method (F02D 41/1473, F02D 41/1477 take
+7Electrical control of combustion engines
+   41/1402  . . . . {Adaptive control}
+   41/1403  . . . . {Sliding mode control}
+   41/1404  . . . . {Fuzzy logic control}
+   41/1405  . . . . {Neural network control}
+   41/1406  . . . . {with use of a optimisation method, e.g.
+   41/1408  . . . . {Dithering techniques}
+ 2041/1409  . . . . {using at least a proportional, integral or
+ 2041/141   . . . . {using a feed-forward control element}
+ 2041/1411  . . . . {using a finite or infinite state machine,
+automaton or state graph for controlling or
+ 2041/1412  . . . . {using a predictive controller}
+ 2041/1413  . . . . {Controller structures or design}
+ 2041/1415  . . . . . {using a state feedback or a state space
+ 2041/1416  . . . . . . {Observer}
+ 2041/1417  . . . . . . {Kalman filter}
+ 2041/1418  . . . . . {Several control loops, either as
+ 2041/1419  . . . . . . {the control loops being cascaded, i.e.
+being placed in series or nested}
+ 2041/142   . . . . . {using different types of control law in
+combination, e.g. adaptive combined with
+ 2041/1422  . . . . . {Variable gain or coefficients}
+ 2041/1423  . . . . . {Identification of model or controller
+ 2041/1424  . . . . . {Pole-zero cancellation}
+ 2041/1425  . . . . . {using a bond graph model or models with
+ 2041/1426  . . . . . {taking into account control stability}
+ 2041/1427  . . . . . {Decoupling, i.e. using a feedback such
+that one output is controlled by only one
+ 2041/1429  . . . . . {Linearisation, i.e. using a feedback law
+such that the system evolves as a linear
+ 2041/143   . . . . . {the control loop including a non-linear
+ 2041/1431  . . . . . {the system including an input-output
+ 2041/1432  . . . . . {the system including a filter, e.g. a low
+ 2041/1433  . . . . {using a model or simulation of the system}
+ 2041/1434  . . . . . {Inverse model}
+ 2041/1436  . . . . . {Hybrid model}
+ 2041/1437  . . . . . {Simulation}
+   41/1438  . . . {using means for determining characteristics of
+the combustion gases; Sensors therefor}
+   41/1439  . . . . {characterised by the position of the sensor}
+   41/144   . . . . . {Sensor in intake manifold}
+   41/1441  . . . . . {Plural sensors}
+   41/1443  . . . . . . {with one sensor per cylinder or group
+   41/1444  . . . . {characterised by the characteristics of the
+   41/1445  . . . . . {the characteristics being related to the
+   41/1446  . . . . . {the characteristics being exhaust
+   41/1447  . . . . . . {with determination means using an
+   41/1448  . . . . . {the characteristics being an exhaust gas
+   41/145   . . . . . . {with determination means using an
+   41/1451  . . . . . {the sensor being an optical sensor}
+   41/1452  . . . . . {the characteristics being a COx content or
+   41/1453  . . . . . . {the characteristics being a CO content
+   41/1454  . . . . . {the characteristics being an oxygen
+content or concentration or the air-fuel
+   41/1455  . . . . . . {with sensor resistivity varying with
+oxygen concentration (F02D 41/1456
+   41/1456  . . . . . . {with sensor output signal being linear
+or quasi-linear with the concentration of
+   41/1458  . . . . . . {with determination means using an
+   41/1459  . . . . . {the characteristics being a hydrocarbon
+   41/146   . . . . . {the characteristics being an NOx content
+   41/1461  . . . . . . {of the exhaust gases emitted by the
+   41/1462  . . . . . . . {with determination means using an
+   41/1463  . . . . . . {of the exhaust gases downstream of
+exhaust gas treatment apparatus}
+   41/1465  . . . . . . . {with determination means using an
+   41/1466  . . . . . {the characteristics being a soot
+   41/1467  . . . . . . {with determination means using an
+ 2041/1468  . . . . . {the characteristics being an ammonia
+content or concentration of the exhaust
+ 2041/1469  . . . . . . {with determination means using an
+ 2041/147   . . . . . {the characteristics being a hydrogen
+content or concentration of the exhaust
+ 2041/1472  . . . . . {the characteristics being a humidity or
+water content of the exhaust gases}
+   41/1473  . . . . {characterised by the regulation method}
+   41/1474  . . . . . {by detecting the commutation time of the
+   41/1475  . . . . . {Regulating the air fuel ratio at a value
+   41/1476  . . . . . . {Biasing of the sensor}
+   41/1477  . . . . {characterised by the regulation circuit or
+part of it,(e.g. comparator, PI regulator,
+   41/1479  . . . . . {Using a comparator with variable
+   41/148   . . . . . {Using a plurality of comparators}
+   41/1481  . . . . . {Using a delaying circuit}
+   41/1482  . . . . . {Integrator, i.e. variable slope}
+   41/1483  . . . . . {Proportional component}
+   41/1484  . . . . . {Output circuit}
+8Electrical control of combustion engines
+   41/1486  . . . . {with correction for particular operating
+   41/1487  . . . . . {Correcting the instantaneous control
+   41/1488  . . . . . {Inhibiting the regulation}
+   41/1489  . . . . . . {Replacing of the control value by a
+   41/149   . . . . . . {Replacing of the control value by an
+   41/1491  . . . . . . {Replacing of the control value by a
+   41/1494  . . . . . {Control of sensor heater}
+   41/1495  . . . . . {Detection of abnormalities in the air/fuel
+   41/1496  . . . . . {Measurement of the conductivity of a
+sensor (F02D 41/1455 takes precedence)}
+   41/1497  . . . {With detection of the mechanical response of
+   41/1498  . . . . {measuring engine roughness}
+   41/18    . . by measuring intake air flow
+   41/182   . . . {for the control of a fuel injection device}
+   41/185   . . . {using a vortex flow sensor}
+   41/187   . . . {using a hot wire flow sensor}
+   41/20    . Output circuits, e.g. for controlling currents in
+ 2041/2003  . . {using means for creating a boost voltage, i.e.
+generation or use of a voltage higher than the
+battery voltage, e.g. to speed up injector opening}
+ 2041/2006  . . . {by using a boost capacitor}
+ 2041/201   . . . {by using a boost inductance}
+ 2041/2013  . . . {by using a boost voltage source}
+ 2041/2017  . . {using means for creating a boost current or using
+ 2041/202   . . {characterised by the control of the circuit}
+ 2041/2024  . . . {the control switching a load after time-on and
+ 2041/2027  . . . . {Control of the current by pulse width
+modulation or duty cycle control}
+ 2041/2031  . . . {Control of the current by means of delays or
+ 2041/2034  . . . {Control of the current gradient}
+ 2041/2037  . . . {for preventing bouncing of the valve needle}
+ 2041/2041  . . . {for controlling the current in the free-wheeling
+ 2041/2044  . . . {using pre-magnetisation or post-magnetisation
+ 2041/2048  . . . {said control involving a limitation, e.g.
+applying current or voltage limits}
+ 2041/2051  . . . {using voltage control}
+ 2041/2055  . . . {with means for determining actual opening or
+ 2041/2058  . . . {using information of the actual current value}
+ 2041/2062  . . . . {the current value is determined by
+ 2041/2065  . . . {the control being related to the coil
+ 2041/2068  . . {characterised by the circuit design or special
+ 2041/2072  . . . {Bridge circuits, i.e. the load being placed in
+the diagonal of a bridge to be controlled in both
+ 2041/2075  . . . {Type of transistors or particular use thereof}
+ 2041/2079  . . . {the circuit having several coils acting on the
+ 2041/2082  . . . {the circuit being adapted to distribute current
+between different actuators or recuperate
+ 2041/2086  . . {with means for detecting circuit failures}
+ 2041/2089  . . . {detecting open circuits}
+ 2041/2093  . . . {detecting short circuits}
+   41/2096  . . {for controlling piezo-electric injectors (drive
+and control circuit for piezo-electric devices in
+   41/22    . Safety or indicating devices for abnormal conditions
+{(in air/fuel ratio feedback systems F02D 41/1495,
+in electric control linkage F02D 11/107, in purge
+   41/221   . . {relating to the failure of actuators or electrically
+   41/222   . . {relating to the failure of sensors or parameter
+ 2041/223   . . . {Diagnosis of fuel pressure sensors}
+ 2041/224   . . {Diagnosis of the fuel system}
+ 2041/225   . . . {Leakage detection}
+ 2041/226   . . . {Fail safe control for fuel injection pump}
+ 2041/227   . . {Limping Home, i.e. taking specific engine
+control measures at abnormal conditions}
+ 2041/228   . . {Warning displays}
+   41/24    . characterised by the use of digital means
+   41/2403  . . {using essentially up/down counters}
+   41/2406  . . {using essentially read only memories}
+   41/2409  . . . {Addressing techniques specially adapted
+   41/2412  . . . . {One-parameter addressing technique}
+   41/2416  . . . . {Interpolation techniques}
+   41/2419  . . . . {Non-linear variation along at least one
+   41/2422  . . . . {Selective use of one or more tables}
+   41/2425  . . . {Particular ways of programming the data}
+   41/2429  . . . . {Methods of calibrating or learning}
+   41/2432  . . . . . {Methods of calibration}
+   41/2435  . . . . . . {characterised by the writing medium,
+   41/2438  . . . . . {Active learning methods}
+   41/2441  . . . . . {characterised by the learning conditions}
+   41/2445  . . . . . . {characterised by a plurality of learning
+   41/2448  . . . . . . {Prohibition of learning}
+   41/2451  . . . . . {characterised by what is learned or
+   41/2454  . . . . . . {Learning of the air-fuel ratio control}
+   41/2458  . . . . . . . {with an additional dither signal}
+   41/2461  . . . . . . . {by learning a value and then
+   41/2464  . . . . . . {Characteristics of actuators}
+   41/2467  . . . . . . . {for injectors}
+   41/247   . . . . . . . . {Behaviour for small quantities}
+   41/2474  . . . . . . {Characteristics of sensors}
+   41/2477  . . . . . {characterised by the method used for
+   41/248   . . . . . . {using a plurality of learned values}
+   41/2483  . . . . . . {restricting learned values}
+   41/2487  . . . . {Methods for rewriting}
+   41/249   . . . . . {Methods for preventing the loss of data}
+9Electrical control of combustion engines
+   41/2493  . . . . . {Resetting of data to a predefined set of
+   41/2496  . . . {the memory being part of a closed loop}
+   41/26    . . using computer, e.g. microprocessor
+   41/263   . . . {the program execution being modifiable by
+   41/266   . . . {the computer being backed-up or assisted by
+another circuit, e.g. analogue}
+   41/28    . . . Interface circuits
+ 2041/281   . . . . {between sensors and control unit}
+ 2041/283   . . . . . {the sensor directly giving at least one
+ 2041/285   . . . . . {the sensor having a signal processing unit
+external to the engine control unit}
+ 2041/286   . . . . {comprising means for signal processing}
+ 2041/288   . . . . . {for performing a transformation into
+the frequency domain, e.g. Fourier
+   41/30    . Controlling fuel injection {(F02D 41/182,
+   41/3005  . . {Details not otherwise provided for}
+   41/3011  . . {according to or using specific or several modes
+   41/3017  . . . {characterised by the mode(s) being used}
+   41/3023  . . . . {a mode being the stratified charge spark-
+   41/3029  . . . . . {further comprising a homogeneous
+   41/3035  . . . . {a mode being the premixed charge
+   41/3041  . . . . . {with means for triggering compression
+   41/3047  . . . . . . {said means being a secondary injection
+ 2041/3052  . . . . {the mode being the stratified charge
+   41/3058  . . . . {the engine working with a variable number
+   41/3064  . . . {with special control during transition between
+   41/307   . . . . {to avoid torque shocks}
+   41/3076  . . . {with special conditions for selecting a mode of
+combustion, e.g. for starting, for diagnosing}
+   41/3082  . . {Control of electrical fuel pumps}
+ 2041/3088  . . {for air assisted injectors}
+   41/3094  . . {the fuel injection being effected by at least two
+different injectors, e.g. one in the intake manifold
+   41/32    . . of the low pressure type {(F02D 41/3082 takes
+   41/34    . . . with means for controlling injection timing or
+   41/345   . . . . {Controlling injection timing (F02D 41/365
+   41/36    . . . with means for controlling distribution
+   41/365   . . . . {with means for controlling timing and
+   41/38    . . of the high pressure type
+   41/3809  . . . {Common rail control systems (common rail
+apparatus F02M 55/025, F02M 63/0225)}
+   41/3818  . . . . {for petrol engines}
+   41/3827  . . . . {for diesel engines}
+   41/3836  . . . . {Controlling the fuel pressure}
+   41/3845  . . . . . {by controlling the flow into the common
+rail, e.g. the amount of fuel pumped}
+   41/3854  . . . . . . {with elements in the low pressure part,
+   41/3863  . . . . . {by controlling the flow out of the
+common rail, e.g. using pressure relief
+   41/3872  . . . . . . {characterised by leakage flow in
+ 2041/3881  . . . . {with multiple common rails, e.g. one rail
+per cylinder bank, or a high pressure rail and
+ 2041/389   . . . {for injecting directly into the cylinder}
+   41/40    . . . with means for controlling injection timing or
+   41/401   . . . . {Controlling injection timing (F02D 41/402
+   41/402   . . . . {Multiple injections}
+   41/403   . . . . . {with pilot injections}
+   41/405   . . . . . {with post injections}
+   41/406   . . . . {Electrically controlling a diesel injection
+pump (F02D 41/401 takes precedence)}
+   41/407   . . . . . {of the in-line type}
+   41/408   . . . . . {of the distributing type}
+   43/00    Conjoint electrical control of two or more
+functions, e.g. ignition, fuel-air mixture,
+recirculation, supercharging or exhaust-gas
+   43/02    . using only analogue means
+   43/04    . using only digital means
+   45/00    Electrical control not provided for in groups
+ 2200/00    Input parameters for engine control
+ 2200/02    . the parameters being related to the engine
+ 2200/021   . . Engine temperature
+ 2200/022   . . . Estimation of engine temperature
+ 2200/023   . . Temperature of lubricating oil or working fluid
+ 2200/024   . . Fluid pressure of lubricating oil or working fluid
+ 2200/025   . . Engine noise, e.g. determined by using an
+ 2200/04    . . Engine intake system parameters
+ 2200/0402  . . . the parameter being determined by using a
+model of the engine intake or its components
+ 2200/0404  . . . Throttle position
+ 2200/0406  . . . Intake manifold pressure
+ 2200/0408  . . . . Estimation of intake manifold pressure
+ 2200/0411  . . . Volumetric efficiency
+ 2200/0414  . . . Air temperature
+ 2200/0416  . . . . Estimation of air temperature
+ 2200/06    . . Fuel or fuel supply system parameters
+ 2200/0602  . . . Fuel pressure
+ 2200/0604  . . . . Estimation of fuel pressure
+ 2200/0606  . . . Fuel temperature
+ 2200/0608  . . . . Estimation of fuel temperature
+ 2200/0611  . . . Fuel type, fuel composition or fuel quality
+ 2200/0612  . . . . determined by estimation
+ 2200/0614  . . . Actual fuel mass or fuel injection amount
+ 2200/0616  . . . . determined by estimation
+ 2200/0618  . . . Actual fuel injection timing or delay, e.g.
+determined from fuel pressure drop
+ 2200/0625  . . . Fuel consumption, e.g. measured in fuel liters
+per 100 kms or miles per gallon
+ 2200/063   . . . Lift of the valve needle
+ 2200/08    . . Exhaust gas treatment apparatus parameters
+ 2200/0802  . . . Temperature of the exhaust gas treatment
+ 2200/0804  . . . . Estimation of the temperature of the exhaust
+ 2200/0806  . . . NOx storage amount, i.e. amount of NOx
+ 2200/0808  . . . NOx storage capacity, i.e. maximum amount of
+NOx that can be stored on NOx trap
+ 2200/0811  . . . NOx storage efficiency
+ 2200/0812  . . . Particle filter loading
+ 2200/0814  . . . Oxygen storage amount
+ 2200/0816  . . . Oxygen storage capacity
+ 2200/0818  . . . SOx storage amount, e.g. for SOx trap or NOx
+ 2200/10    . . Parameters related to the engine output, e.g.
+ 2200/1002  . . . Output torque
+ 2200/1004  . . . . Estimation of the output torque
+ 2200/1006  . . . Engine torque losses, e.g. friction or pumping
+losses or losses caused by external loads of
+ 2200/1012  . . . Engine speed gradient
+ 2200/1015  . . . Engines misfires
+ 2200/50    . said parameters being related to the vehicle or its
+ 2200/502   . . Neutral gear position
+ 2200/503   . . Battery correction, i.e. corrections as a function of
+the state of the battery, its output or its type
+ 2200/60    . said parameters being related to the driver demands
+ 2200/604   . . Engine control mode selected by driver, e.g. to
+manually start particle filter regeneration or to
+ 2200/606   . . Driving style, e.g. sporty or economic driving
+ 2200/70    . said parameters being related to the vehicle exterior
+ 2200/701   . . Information about vehicle position, e.g. from
+navigation system or GPS signal
+ 2200/702   . . Road conditions
+ 2200/703   . . Atmospheric pressure
+ 2200/704   . . . Estimation of atmospheric pressure
+Controlling, e.g. regulating, fuel injection (peculiar to engines
+characterised by their use of non-liquid fuels, pluralities of fuels, or
+non-fuel substances added to the combustible mixtures F02D 19/00;
+peculiar to supercharged engines F02D 23/00; automatic controllers
+for prime movers, in general G05D)
+ 2250/00    Engine control related to specific problems or
+ 2250/02    . Fuel evaporation in fuel rails, e.g. in common rails
+ 2250/04    . Fuel pressure pulsation in common rails
+ 2250/06    . Reverse rotation of engine
+ 2250/08    . Engine blow-by from crankcase chamber
+ 2250/11    . Oil dilution, i.e. prevention thereof or special
+ 2250/12    . Timing of calculation, i.e. specific timing aspects
+when calculation or updating of engine parameter is
+ 2250/14    . Timing of measurement, e.g. synchronisation of
+measurements to the engine cycle
+ 2250/16    . End position calibration, i.e. calculation or
+measurement of actuator end positions, e.g. for
+throttle or its driving actuator
+ 2250/18    . Control of the engine output torque
+ 2250/21    . . during a transition between engine operation
+ 2250/22    . . by keeping a torque reserve, i.e. with temporarily
+reduced drive train or engine efficiency
+ 2250/24    . . by using an external load, e.g. a generator
+ 2250/26    . . by applying a torque limit
+ 2250/28    . Control for reducing torsional vibrations, e.g. at
+ 2250/31    . Control of the fuel pressure
+ 2250/32    . Air-fuel ratio control in a diesel engine
+ 2250/34    . Control of exhaust back pressure, e.g. for
+ 2250/36    . Control for minimising NOx emissions
+ 2250/38    . Control for minimising smoke emissions, e.g. by
+applying smoke limitations on the fuel injection
+ 2250/41    . Control to generate negative pressure in the intake
+manifold, e.g. for fuel vapor purging or brake
+ 2400/00    Control systems adapted for specific engine types;
+Special features of engine control systems not
+otherwise provided for; Power supply, connectors
+or cabling for engine control systems
+ 2400/02    . Four-stroke combustion engines with electronic
+ 2400/04    . Two-stroke combustion engines with electronic
+ 2400/06    . Small engines with electronic control, e.g. for hand
+ 2400/08    . Redundant elements, e.g. two sensors for measuring
+ 2400/11    . After-sales modification devices designed to be
+used to modify an engine afterwards
+ 2400/12    . Engine control specially adapted for a transmission
+comprising a torque converter or for continuously
+ 2400/14    . Power supply for engine control systems
+ 2400/16    . Adaptation of engine control systems to a different
+battery voltages, e.g. for using high voltage batteries
+ 2400/18    . Packaging of the electronic circuit in a casing
+ 2400/21    . Engine cover with integrated cabling
+ 2400/22    . Connectors or cables specially adapted for engine
+ 2700/00    Mechanical control of speed or power of a single
+ 2700/02    . Controlling by changing the air or fuel supply
+ 2700/0202  . . for engines working with gaseous fuel, including
+those working with an ignition liquid
+ 2700/0205  . . . Controlling the air supply as well as the fuel
+ 2700/0207  . . . Controlling the air or mixture supply
+ 2700/021   . . . . Engines without compressor
+ 2700/0212  . . . . Engines with compressor
+ 2700/0215  . . . Controlling the fuel supply
+11Controlling, e.g. regulating, fuel injection
+ 2700/0217  . . for mixture compressing engines using liquid fuel
+ 2700/022   . . . Controlling the air or the mixture supply as
+ 2700/0223  . . . . Engines with fuel injection
+ 2700/0225  . . . Control of air or mixture supply
+ 2700/0228  . . . . Engines without compressor
+ 2700/023   . . . . . by means of one throttle device
+ 2700/0233  . . . . . . depending on several parameters
+ 2700/0235  . . . . . . depending on the pressure of a gaseous
+ 2700/0238  . . . . . . depending on the number of revolutions
+ 2700/0241  . . . . . . depending on another parameter
+ 2700/0243  . . . . . by means of a plurality of throttle devices
+ 2700/0246  . . . . for engines with compressor
+ 2700/0248  . . . . . by means of throttle devices
+ 2700/0251  . . . . . . in the intake conduit
+ 2700/0253  . . . . . . in the outlet conduit
+ 2700/0256  . . . . . by changing the speed of the compressor
+ 2700/0258  . . . . . by other means
+ 2700/0261  . . . Control of the fuel supply
+ 2700/0264  . . . . for engines with a fuel jet working with
+ 2700/0266  . . . . for engines with fuel injection
+ 2700/0269  . . for air compressing engines with compression
+ 2700/0271  . . . Controlling the air supply as well as the fuel
+ 2700/0274  . . . Controlling the air supply
+ 2700/0276  . . . . Engines without compressor
+ 2700/0279  . . . . Engines with compressor
+ 2700/0282  . . . Control of fuel supply
+ 2700/0284  . . . . by acting on the fuel pump control element
+ 2700/0287  . . . . . depending on several parameters
+ 2700/0289  . . . . . depending on the pressure of a gaseous or
+ 2700/0292  . . . . . depending on the speed of a centrifugal
+ 2700/0294  . . . . . depending on another parameter
+ 2700/0297  . . . . by control means in the fuel conduit between
+ 2700/03    . Controlling by changing the compression ratio
+ 2700/035   . . without modifying the volume of the compression
+space, e.g. by changing the valve timing
+ 2700/04    . Controlling by throttling the exhaust conduit
+ 2700/05    . Controlling by preventing combustion in one or
+ 2700/052   . . Methods therefor
+ 2700/054   . . . by keeping the exhaust valves open
+ 2700/056   . . . by interrupting the medium supply
+ 2700/058   . . . by another method
+ 2700/07    . Automatic control systems according to one of the
+preceding groups in combination with control of the
+mechanism receiving the engine power
+ 2700/09    . Other ways of controlling
+ 2700/10    . Control of the timing of the fuel supply period with
+relation to the piston movement

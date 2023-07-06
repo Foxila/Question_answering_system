@@ -1,0 +1,430 @@
+COOPERATIVE PATENT CLASSIFICATION
+GEOPHYSICS; GRAVITATIONAL MEASUREMENTS; DETECTING MASSES OR
+OBJECTS; TAGS (means for indicating the location of accidentally buried, e.g. snow-buried
+1. This subclass covers radar, sonar, lidar or analogous systems specifically designed for geophysical use. Radar, sonar, lidar or
+analogous systems, or details of such systems, if of a general interest, are also classified in subclass G01S.
+2. In this subclass, the following term is used with the meaning indicated:
+• "tags" means arrangements cooperating with a detecting field, e.g. near field, and designed to produce a specific detectable
+effect; "tags" also means active markers capable of generating a detectable field.
+3. In this subclass, the geophysical methods apply both to the earth and to other celestial objects, e.g. planets.
+4. Attention is drawn to the Notes following the title of class G01.
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Seismology; Seismic or acoustic prospecting or
+Groups G01V 1/44 - G01V 1/52 take precedence
+over groups G01V 1/001 - G01V 1/393 G01V 1/42
+    1/001   . {Acoustic presence detection (measurement of sonic
+vibrations G01H; alarm systems G08B)}
+    1/003   . {Seismic data acquisition in general, e.g.
+survey design (G01V 1/3808, G01V 1/42 takes
+    1/005   . . {with exploration systems emitting special
+signals, e.g. frequency swept signals, pulse
+sequences or slip sweep arrangements}
+    1/006   . . {generating single signals by using more than one
+generator, e.g. beam steering or focussing arrays
+(G01V 1/13, G01V 1/3861 takes precedence)}
+    1/008   . {Earthquake measurement or prediction (event
+detection for microseismic events G01V 1/288)}
+    1/02    . Generating seismic energy {(G01V 1/003 takes
+    1/047   . . . Arrangements for coupling the generator to the
+    1/0475  . . . . {for controlling "Ground Force"}
+    1/053   . . . . for generating transverse waves
+    1/06    . . . Ignition devices (G01V 1/393 takes
+    1/08    . . . . involving time-delay devices
+    1/09    . . . Transporting arrangements, e.g. on vehicles
+    1/104   . . using explosive charges (G01V 1/157 takes
+    1/108   . . . by deforming or displacing surfaces of
+    1/112   . . . . for use on the surface of the earth
+    1/116   . . . where pressurised combustion gases escape
+from the generator in a pulsating manner, e.g.
+    1/13    . . . Arrangements or disposition of charges to
+produce a desired pattern in space or time
+    1/133   . . using fluidic driving means, e.g.
+highly pressurised fluids; {using
+implosion}(G01V 1/104 takes precedence)
+    1/135   . . . by deforming or displacing surfaces of
+enclosures {, e.g. by hydraulically driven
+    1/137   . . . which fluid escapes from the generator in a
+pulsating manner, e.g. for generating bursts {,
+    1/143   . . using mechanical driving means {, e.g. motor
+driven shaft}(G01V 1/104, G01V 1/133 take
+    1/145   . . . by deforming or displacing surfaces {, e.g. by
+mechanically driven vibroseis™}
+    1/147   . . . using impact of dropping masses
+    1/153   . . . using rotary unbalanced masses
+    1/155   . . . using reciprocating masses
+    1/157   . . using spark discharges; using exploding wires
+    1/159   . . {using piezoelectric or magnetostrictive driving
+means (generating mechanical vibrations by using
+piezoelectric or magnetostrictive effect in general,
+    1/16    . Receiving elements for seismic signals;
+Arrangements or adaptations of receiving elements
+    1/164   . . . {Circuits therefore}
+    1/166   . . . {Arrangements for coupling receivers to the
+    1/168   . . {Deployment of receiver elements (G01V 1/3843
+    1/18    . . Receiving elements, e.g. seismometer, geophone
+{or torque detectors, for localised single point
+    1/182   . . . . {with moving coil}
+    1/183   . . . . {with moving magnet}
+    1/184   . . . . {Multi-component geophones}
+    1/185   . . . . {with adaptable orientation, e.g. gimballed}
+    1/186   . . . {Hydrophones}
+    1/187   . . . . {Direction-sensitive hydrophones}
+    1/188   . . . . {with pressure compensating means}
+    1/189   . . . {Combinations of different types of receiving
+    1/20    . . Arrangements of receiving elements, e.g.
+    1/201   . . . {Constructional details of seismic cables, e.g.
+streamers (integrated optoseismic systems
+G01V 1/226; line connectors in general
+H01R, transducer mountings in general
+    1/202   . . . . {Connectors, e.g. for force, signal or power}
+ 2001/204   . . . . {Reinforcements, e.g. by tensioning cables}
+ 2001/205   . . . . {Internal damping}
+    1/208   . . . . {having a continuous structure (detecting
+traffic G08G, transducers in general G10K)}
+    1/22    . Transmitting seismic signals to recording or
+    1/223   . . {Radioseismic systems}
+    1/226   . . {Optoseismic systems}
+    1/24    . Recording seismic data
+    1/245   . . {Amplitude control for seismic recording (control
+of amplification in general H03G)}
+    1/247   . . {Digital recording of seismic data, e.g. in
+    1/26    . . Reference-signal-transmitting devices, e.g.
+indicating moment of firing of shot
+    1/28    . Processing seismic data, e.g. analysis, for
+interpretation, for correction (G01V 1/48 takes
+    1/282   . . {Application of seismic models, synthetic
+    1/284   . . {Application of the shear wave component and/or
+several components of the seismic signal}
+    1/286   . . . {Mode conversion}
+    1/288   . . {Event detection in seismic signals, e.g.
+microseismics (earthquakes G01V 1/008;
+    1/30    . . Analysis (G01V 1/50 takes precedence)
+    1/301   . . . {for determining seismic cross-sections or
+    1/302   . . . . {in 3D data cubes}
+    1/303   . . . {for determining velocity profiles or travel
+    1/305   . . . . {Travel times}
+    1/306   . . . {for determining physical properties of the
+subsurface, e.g. impedance, porosity or
+    1/307   . . . {for determining seismic attributes, e.g.
+amplitude, instantaneous phase or frequency,
+reflection strength or polarity}
+    1/308   . . . {Time lapse or 4D effects, e.g. production
+related effects to the formation (fluid flow per
+    1/32    . . Transforming one recording into another {or one
+    1/325   . . . {Transforming one representation into another}
+    1/34    . . Displaying seismic recordings {or visualisation of
+    1/345   . . . {Visualisation of seismic data or attributes, e.g.
+    1/36    . . Effecting static or dynamic corrections on
+records, e.g. correcting spread; Correlating
+seismic signals; Eliminating effects of unwanted
+    1/362   . . . {Effecting static or dynamic corrections;
+    1/364   . . . {Seismic filtering (G01V 1/37 takes
+    1/366   . . . . {by correlation of seismic signals}
+    1/368   . . . . {Inverse filtering}
+    1/37    . . . specially adapted for seismic systems using
+continuous agitation of the ground {, e.g. using
+pulse compression of frequency swept signals
+for enhancement of received signals}
+    1/375   . . . . {Correlating received seismic signals with
+    1/38    . specially adapted for water-covered areas
+(G01V 1/28, {G01V 1/42} take precedence)
+    1/3808  . . {Seismic data acquisition, e.g. survey design (in
+    1/3817  . . {Positioning of seismic devices}
+    1/3826  . . . {dynamic steering, e.g. by paravanes or birds}
+    1/3835  . . . {measuring position, e.g. by GPS or
+    1/3843  . . {Deployment of seismic devices, e.g. of streamers
+(equipment for marine deployment in general
+    1/3852  . . . {to the seabed}
+    1/3861  . . {control of source arrays, e.g. for far field
+    1/387   . . Reducing secondary bubble pulse, i.e. reducing
+the detected signals resulting from the generation
+and release of gas bubbles after the primary
+    1/393   . . Means for loading explosive underwater charges,
+e.g. combined with ignition devices
+    1/40    . specially adapted for well-logging
+    1/42    . . using generators in one well and receivers
+elsewhere or vice versa (G01V 1/52 takes
+    1/44    . . using generators and receivers in the same well
+    1/46    . . . Data acquisition
+    1/48    . . . Processing data
+    1/50    . . . . Analysing data
+    1/52    . . Structural details
+    1/523   . . . {Damping devices}
+ 2001/526   . . . {Mounting of transducers}
+    3/00    Electric or magnetic prospecting or detecting;
+Measuring magnetic field characteristics of the
+earth, e.g. declination, deviation
+    3/02    . operating with propagation of electric current
+    3/08    . operating with magnetic or electric fields produced
+or modified by objects or geological structures or
+by detecting devices (with electromagnetic waves
+    3/081   . . {the magnetic field is produced by the objects or
+geological structures (characterised by the method
+of magnetic field measurement G01R 33/00)}
+    3/082   . . {operating with fields produced by spontaneous
+potentials, e.g. electrochemical or produced by
+telluric currents (G01V 3/26 takes precedence)}
+    3/083   . . {Controlled source electromagnetic [CSEM]
+    3/087   . . {the earth magnetic field being modified by the
+objects or geological structures}
+    3/088   . . {operating with electric fields (G01V 3/082 takes
+    3/10    . . using induction coils
+    3/101   . . . {by measuring the impedance of the search
+coil; by measuring features of a resonant
+circuit comprising the search coil (measuring
+impedance or characteristics derived therefrom
+G01R 27/00, e.g. quality factor G01R 27/26)}
+    3/102   . . . . {by measuring amplitude}
+    3/104   . . . {using several coupled or uncoupled coils
+    3/105   . . . . {forming directly coupled primary and
+    3/107   . . . . . {using compensating coil or loop
+    3/108   . . . . {the emitter and the receiver coils or loops
+being uncoupled by positioning them
+    3/12    . operating with electromagnetic waves {(operating
+with millimetre waves G01V 8/005)}
+    3/14    . operating with electron or nuclear magnetic
+    3/15    . specially adapted for use during transport, e.g. by a
+    3/16    . . specially adapted for use from aircraft
+(G01V 3/165 - G01V 3/175 take precedence)
+    3/165   . . operating with magnetic or electric fields
+produced or modified by the object or by the
+detecting device (with electromagnetic waves
+    3/17    . . operating with electromagnetic waves {(operating
+with millimetre waves G01V 8/005)}
+    3/175   . . operating with electron or nuclear magnetic
+    3/18    . specially adapted for well-logging
+    3/20    . . operating with propagation of electric current
+    3/26    . . operating with magnetic or electric fields
+produced or modified either by the surrounding
+earth formation or by the detecting device (with
+electromagnetic waves G01V 3/30)
+    3/265   . . . {Operating with fields produced by
+spontaneous potentials, e.g. electrochemicals or
+    3/28    . . . using induction coils
+    3/30    . . operating with electromagnetic waves
+    3/32    . . operating with electron or nuclear magnetic
+    3/34    . . Transmitting data to recording or processing
+    3/36    . Recording data (G01V 3/34 takes precedence)
+    3/38    . Processing data, e.g. for analysis, for interpretation,
+    3/40    . specially adapted for measuring magnetic field
+    5/00    Prospecting or detecting by the use of nuclear
+radiation, e.g. of natural or induced radioactivity
+    5/0008  . {Detecting hidden objects, e.g. weapons, explosives
+(sorting of materials or articles according to
+radioactive properties B07C 5/342; investigating or
+analysing materials by the use of wave or particle
+    5/0016  . . {Active interrogation, i.e. using an external
+radiation source, e.g. using pulsed, continuous or
+    5/0025  . . . {Measuring scattered radiation}
+    5/0033  . . . {Mixed interrogation beams, e.g. using more
+than one type of radiation beam}
+    5/0041  . . . {Multiple energy techniques using one
+type of radiation, e.g. X-rays of different
+energies (multi-beam applications, e.g. X-
+rays and neutrons G01V 5/0033; spectroscopic
+    5/005   . . . {using Tomography, e.g. CT or SPECT
+(detector details in CT applications
+    5/0058  . . . {using stereoscopic means}
+    5/0066  . . . {having relative motion between the source,
+detector and object other than by conveyor
+    5/0069  . . . {Measuring induced radiation, e.g. thermal
+neutron activation analysis (investigating or
+analysing materials by the use of neutrons
+    5/0075  . . {Passive interrogation (for hand, feet or portals
+G01T 1/167; for contaminated surface areas
+    5/0083  . . {utilizing a network, e.g. a remote expert,
+accessing remote data or the like}
+    5/0091  . . {detecting special nuclear material [SNM], e.g.
+Uranium-235, Uranium-233 or Plutonium-239}
+    5/02    . specially adapted for surface logging, e.g. from
+    5/025   . . {specially adapted for use from aircraft}
+    5/04    . specially adapted for well-logging
+    5/045   . . {Transmitting data to recording or processing
+    5/06    . . for detecting naturally radioactive minerals
+    5/08    . . using primary nuclear radiation sources or X-rays
+{(, e.g. for inducing radioactivity; investigating or
+analysing materials by the use of wave or particle
+radiation, e.g. X-rays, neutrons G01N 23/00)}
+    5/085   . . . {using another radioactive source}
+    5/10    . . . using neutron sources {(neutron generating
+tubes H05H 5/00; neutron sources using
+    5/101   . . . . {and detecting the secondary Y-rays
+produced in the surrounding layers of the
+    5/102   . . . . . {the neutron source being of the pulsed
+    5/104   . . . . {and detecting secondary Y-rays as well as
+reflected or back-scattered neutrons}
+    5/105   . . . . . {the neutron source being of the pulsed
+    5/107   . . . . {and detecting reflected or back-scattered
+    5/108   . . . . . {the neutron source being of the pulsed
+    5/12    . . . using gamma or X-ray sources {(gamma
+sources using isotopes G21G 4/00; X-ray tubes
+    5/125   . . . . {and detecting the secondary gamma- or X-
+rays in different places along the bore hole}
+    5/14    . . . using a combination of several sources, e.g. a
+    5/145   . . . . {using a neutron source combined with a
+    7/00    Measuring gravitational fields or waves;
+Gravimetric prospecting or detecting
+    7/005   . {using a resonating body or device, e.g. string
+(G01V 7/08 - G01V 7/12 take precedence;
+measuring resonant frequency of mechanical
+vibrations G01H 13/00; measuring frequency per se
+    7/04    . . Electric, photoelectric, or magnetic indicating or
+    7/06    . . Analysis or interpretation of gravimetric records
+    7/10    . . using torsion balances, e.g. Eötvös balance
+    7/14    . using free-fall time
+    7/16    . specially adapted for use on moving platforms, e.g.
+    8/00    Prospecting or detecting by optical means
+This group covers the use of {millimetre waves,}
+infra-red, visible or ultra-violet light.
+    8/005   . {operating with millimetre waves, e.g. measuring
+    8/10    . Detecting, e.g. by using light barriers (by reflection
+    8/12    . . using one transmitter and one receiver
+    8/14    . . . using reflectors
+    8/16    . . . using optical fibres
+    8/18    . . . using mechanical scanning systems
+    8/20    . . using multiple transmitters or receivers
+    8/22    . . . using reflectors
+    8/24    . . . using optical fibres
+    8/26    . . . using mechanical scanning systems
+    9/00    Prospecting or detecting by methods not provided
+for in groups G01V 1/00 - G01V 8/00
+    9/002   . {using fields or radiation detectable only by persons
+susceptible therefor, e.g. radio-esthesis, dowsing}
+    9/005   . {by thermal methods, e.g. after generation of heat
+    9/007   . {by detecting gases or particles representative of
+underground layers at or near the surface (analysing
+earth materials G01N 33/24; analysing gases per se
+    9/02    . Determining existence or flow of underground
+   11/00    Prospecting or detecting by methods combining
+techniques covered by two or more of main groups
+   11/002   . {Details, e.g. power supply systems for logging
+instruments, transmitting or recording data,
+specially adapted for well logging, also if the
+prospecting method is irrelevant (means for
+transmitting well survey signals E21B 47/12; signal
+transmission systems in general G08C; transmission
+   11/005   . . {Devices for positioning logging sondes with
+respect to the borehole wall (centralising devices
+for drilling rods or pipes E21B 17/10; setting or
+locking tools in boreholes E21B 23/00; locating
+objects in boreholes E21B 47/09)}
+   11/007   . {using the seismo-electric effect}
+   13/00    Manufacturing, calibrating, cleaning, or repairing
+instruments or devices covered by groups
+   15/00    Tags attached to, or associated with, an object,
+in order to enable detection of the object (record
+carriers for use with machines having a detectable tag
+   99/00    Subject matter not provided for in other groups of
+   99/005   . {Geomodels or geomodelling, not related to
+ 2200/00    Details of seismic or acoustic prospecting or
+ 2200/10    . Miscellaneous details
+ 2200/12    . . Clock synchronization-related issues
+ 2200/14    . . Quality control
+ 2200/16    . . Measure-while-drilling or logging-while-drilling
+ 2210/00    Details of seismic processing or analysis
+ 2210/10    . Aspects of acoustic signal generation or detection
+ 2210/12    . . Signal generation
+ 2210/121   . . . Active source
+ 2210/1216  . . . . Drilling-related
+ 2210/123   . . . Passive source, e.g. microseismics
+ 2210/1232  . . . . Earthquakes
+ 2210/1234  . . . . Hydrocarbon reservoir, e.g. spontaneous or
+ 2210/1236  . . . . Acoustic daylight, e.g. cultural noise
+ 2210/125   . . . Virtual source
+ 2210/127   . . . Cooperating multiple sources
+ 2210/129   . . . Source location
+ 2210/1295  . . . . Land surface
+ 2210/1299  . . . . Subsurface, e.g. in borehole or below
+ 2210/14    . . Signal detection
+ 2210/142   . . . Receiver location
+ 2210/1425  . . . . Land surface
+ 2210/1429  . . . . Subsurface, e.g. in borehole or below
+ 2210/144   . . . with functionally associated receivers, e.g.
+ 2210/16    . . Survey configurations
+ 2210/161   . . . Vertical seismic profiling [VSP]
+ 2210/167   . . . Very long offset
+ 2210/169   . . . Sparse arrays
+ 2210/20    . Trace signal pre-filtering to select, remove or
+transform specific events or signal components, i.e.
+trace-in/trace-out (removing noise G01V 2210/32)
+ 2210/21    . . Frequency-domain filtering, e.g. band pass
+ 2210/22    . . Time-domain filtering
+ 2210/23    . . Wavelet filtering
+ 2210/24    . . Multi-trace filtering
+ 2210/242   . . . F-k filtering, e.g. ground roll
+ 2210/244   . . . Radon transform
+ 2210/25    . . Transform filter for merging or comparing traces
+ 2210/26    . . Modulation or demodulation, e.g. for continuous
+ 2210/27    . . Other pre-filtering
+ 2210/30    . Noise handling (trace signal pre-filtering
+ 2210/32    . . Noise reduction
+ 2210/322   . . . Trace stacking
+ 2210/3244  . . . . Cultural noise
+ 2210/3246  . . . . Coherent noise, e.g. spatially coherent or
+ 2210/3248  . . . . Incoherent noise, e.g. white noise
+ 2210/34    . . Noise estimation (quality control G01V 2200/14)
+ 2210/36    . . Noise recycling, i.e. retrieving non-seismic
+ 2210/38    . . Noise characterisation or classification
+ 2210/40    . Transforming data representation (for pre-filtering
+ 2210/41    . . Arrival times, e.g. of P or S wave or first break
+ 2210/42    . . Waveform, i.e. using raw or pre-filtered trace data
+ 2210/45    . . F-x or F-xy domain
+ 2210/46    . . Radon transform
+ 2210/47    . . Slowness, e.g. tau-pi
+ 2210/48    . . Other transforms
+ 2210/50    . Corrections or adjustments related to wave
+propagation (noise handling G01V 2210/30)
+ 2210/52    . . Move-out correction
+ 2210/522   . . . Dip move-out [DMO]
+ 2210/53    . . Statics correction, e.g. weathering layer or
+ 2210/532   . . . Dynamic changes in statics, e.g. sea waves or
+ 2210/54    . . Borehole-related corrections
+ 2210/544   . . . Invasion zone
+ 2210/55    . . Array focusing; Phased arrays
+ 2210/56    . . De-ghosting; Reverberation compensation
+ 2210/57    . . Trace interpolation or extrapolation, e.g. for
+virtual receiver; Anti-aliasing for missing
+ 2210/586   . . . Anisotropic media
+ 2210/588   . . . Non-linear media
+ 2210/59    . . Other corrections
+ 2210/61    . . Analysis by combining or comparing a seismic
+ 2210/612   . . . Previously recorded data, e.g. time-lapse or 4D
+ 2210/6122  . . . . Tracking reservoir changes over time, e.g.
+ 2210/6124  . . . . . Subsidence, i.e. upwards or downwards
+ 2210/614   . . . Synthetically generated data
+ 2210/616   . . . Data from specific type of measurement
+ 2210/6161  . . . . Seismic or acoustic, e.g. land or sea
+ 2210/6163  . . . . Electromagnetic
+ 2210/6165  . . . . Gravitational
+ 2210/6169  . . . . using well-logging
+ 2210/62    . . Physical property of subsurface
+ 2210/622   . . . Velocity, density or impedance
+ 2210/6222  . . . . Velocity; travel time
+ 2210/624   . . . Reservoir parameters
+ 2210/6242  . . . . Elastic parameters, e.g. Young, Lamé or
+ 2210/6246  . . . . Permeability
+ 2210/6248  . . . . Pore pressure
+ 2210/626   . . . with anisotropy
+ 2210/63    . . Seismic attributes, e.g. amplitude, polarity, instant
+ 2210/632   . . . Amplitude variation versus offset or angle of
+ 2210/64    . . Geostructures, e.g. in 3D data cubes
+ 2210/641   . . . Continuity of geobodies
+ 2210/643   . . . Horizon tracking
+ 2210/644   . . . Connectivity, e.g. for fluid movement
+ 2210/645   . . . Fluid contacts
+ 2210/65    . . Source localisation, e.g. faults, hypocenters or
+ 2210/66    . . Subsurface modeling
+ 2210/661   . . . Model from sedimentation process modeling,
+ 2210/663   . . . Modeling production-induced effects
+ 2210/665   . . . using geostatistical modeling
+ 2210/667   . . . Determining confidence or uncertainty in
+ 2210/67    . . Wave propagation modeling
+ 2210/673   . . . Finite-element; Finite-difference
+ 2210/675   . . . Wave equation; Green's functions
+ 2210/677   . . . Spectral; Pseudo-spectral
+ 2210/679   . . . Reverse-time modeling or coalescence
+modelling, i.e. starting from receivers
+ 2210/70    . Other details related to processing
+ 2210/72    . . Real-time processing
+ 2210/74    . . Visualisation of seismic data

@@ -1,0 +1,574 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+EXPLOSIVE CHARGES, e.g. FOR BLASTING, FIREWORKS, AMMUNITION
+(explosive compositions C06B; fuzes F42C; blasting F42D)
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Explosive charges characterised by form or shape
+but not dependent on shape of container
+    1/02    . Shaped or hollow charges (blasting cartridges with
+cavities in the charge F42B 3/08; oil winning using
+shaped-charge perforators E21B 43/116)
+    1/024   . . provided with embedded bodies of inert material
+    1/028   . . characterised by the form of the liner
+    1/032   . . characterised by the material of the liner
+    1/036   . . Manufacturing processes therefor
+{(F42B 33/0214 - F42B 33/0292 take
+    1/04    . Detonator charges not forming part of the fuze
+    3/00    Blasting cartridges, i.e. case and explosive (fuse
+cords, e.g. detonating fuse cords C06C 5/00; chemical
+aspects of detonators, blasting caps or primers
+    3/003   . {Liquid-oxygen cartridges}
+    3/006   . {Explosive bolts; Explosive actuators (explosive
+valves F16K 13/06; explosive cutting B23D 15/145;
+explosive switches H01H 39/00; pyrotechnical
+    3/02    . adapted to be united into assemblies
+    3/04    . for producing gas under pressure {(generators of
+inflation fluid especially adapted for vehicle air bags
+    3/045   . . {Hybrid systems with previously pressurised
+gas using blasting to increase the pressure, e.g.
+causing the gas to be released from its sealed
+    3/06    . . with re-utilisable case
+    3/08    . with cavities in the charge, e.g. hollow-charge
+    3/087   . Flexible or deformable blasting cartridges, e.g.
+bags or hoses {for slurries}(loaded cartridge bags
+    3/093   . . in mat or tape form
+    3/10    . Initiators therefor (percussion fuzes F42C 7/00;
+percussion caps F42C 19/10; electric primers
+Group F42B 3/18 takes precedence over groups
+    3/103   . . Mounting initiator heads in initiators; Sealing-
+    3/107   . . . Sealing-plugs characterised by the material
+    3/11    . . characterised by the material used, e.g. for
+initiator case or electric leads (F42B 3/107 takes
+    3/113   . . activated by optical means, e.g. laser, flashlight
+    3/117   . . activated by friction
+    3/12    . . Bridge initiators {(F42B 3/103, F42B 3/11,
+F42B 3/195 take precedence; electric ignitors in
+propellant charges F42C 19/12)}
+    3/121   . . . {Initiators with incorporated integrated circuit}
+    3/122   . . . . {Programmable electronic delay initiators}
+    3/124   . . . {characterised by the configuration or material
+of the bridge (F42B 3/13 takes precedence)}
+    3/125   . . . {characterised by the configuration of
+the bridge initiator case (F42B 3/11 takes
+    3/127   . . . . {the case having burst direction defining
+    3/128   . . . {characterised by the composition of the
+    3/13    . . . with semiconductive bridge
+    3/14    . . Spark initiators {(F42B 3/195 takes precedence)}
+    3/16    . . {Pyrotechnic} delay initiators (F42B 3/195 takes
+precedence; {programmable electronic delay
+    3/18    . . Safety initiators resistant to premature firing by
+static electricity or stray currents
+    3/182   . . . having shunting means {(F42B 3/185 takes
+precedence; details of shunting devices
+    3/185   . . . having semi-conductive {means, e.g.} sealing
+    3/188   . . . having radio-frequency filters {, e.g. containing
+ferrite cores or inductances (F42B 3/185 takes
+    3/192   . . designed for neutralisation on contact with water
+    3/198   . . . of electric initiator heads {e.g., testing,
+    3/22    . Elements for controlling or guiding the detonation
+wave, e.g. tubes (using inert bodies embedded in
+shaped or hollow charges F42B 1/024)
+    3/24    . Cartridge closures or seals (top closures for shotgun
+ammunition cartridges F42B 7/12)
+    3/26    . Arrangements for mounting initiators; Accessories
+    3/28    . Cartridge cases characterised by the material used,
+e.g. coatings (for initiator cases F42B 3/11)
+    4/00    Fireworks, i.e. pyrotechnic devices for amusement,
+display, illumination or signal purposes (signalling
+by explosives G08B; advertising by fireworks
+G09F 13/46; {signalling by pyrotechnics in railway
+    4/02    . in cartridge form, i.e. shell, propellant and primer
+    4/06    . Aerial display rockets (rockets in general
+    4/08    . . characterised by having vanes, wings, parachutes
+    4/10    . . characterised by having means to separate article
+or charge from casing without destroying the
+    4/12    . . . Parachute or flare separation
+    4/14    . . characterised by having plural successively-
+    4/16    . Hand-thrown impact-exploded noise makers; {Other
+noise-makers generating noise via a pyrotechnic
+    4/18    . Simulations, e.g. pine cone, house that is destroyed,
+    4/20    . characterised by having holder or support other than
+casing, e.g. whirler or spike support {(supports for
+    4/22    . characterised by having means to separate article or
+charge from casing without destroying the casing (in
+aerial display rockets F42B 4/10)
+    4/24    . characterised by having plural successively-ignited
+charges (in aerial display rockets F42B 4/14)
+    4/26    . Flares; Torches {(mines for practice or training
+containing flares or illuminating charges F42B 8/28;
+projectiles of illuminating type F42B 12/42)}
+    4/28    . . Parachute flares (F42B 4/12 takes precedence)
+    5/00    Cartridge ammunition, e.g. separately-loaded
+propellant charges (shotgun ammunition F42B 7/00;
+practice or training ammunition F42B 8/00; missiles
+therefor F42B 12/00, F42B 14/00, F42B 15/00)
+    5/02    . Cartridges, i.e. cases with charge and missile
+    5/025   . . {characterised by the dimension of the case or the
+    5/03    . . containing more than one missile
+    5/035   . . . {the cartridge or barrel assembly having a
+plurality of axially stacked projectiles each
+having a separate propellant charge}
+    5/045   . . of telescopic type (F42B 5/184 takes precedence)
+    5/05    . . for recoilless guns (recoilless guns using a
+counter-projectile to balance recoil F41A 1/10)
+    5/067   . . Mounting or locking missiles in cartridge cases
+    5/073   . . . using an auxiliary locking element
+    5/08    . . modified for electric ignition
+    5/10    . . with self-propelled bullet
+    5/105   . . . {propelled by two propulsive charges, the
+rearwardly situated one being separated from
+the rest of the projectile during flight or in the
+barrel; Projectiles with self-ejecting cartridge
+    5/145   . . for dispensing gases, vapours, powders, particles
+or chemically-reactive substances (from
+    5/15    . . . for creating a screening or decoy effect, e.g.
+using radar chaff or infra-red material (infra-
+    5/155   . . . . Smoke-pot projectors, e.g. arranged on
+    5/16    . . characterised by composition or physical
+dimensions or form of propellant charge,
+{with or without projectile,} or powder
+(chemical composition C06B; {F42B 5/24 takes
+    5/18    . . Caseless ammunition; Cartridges having
+    5/181   . . . {consisting of a combustible casing wall and a
+metal base; Connectors therefor}
+    5/182   . . . {Caseless cartridges characterised by their
+    5/188   . . . Manufacturing processes therefor
+    5/192   . . . Cartridge cases characterised by the material
+{of the casing wall (cartridge bags F42B 5/38)}
+    5/24    . . for cleaning; for cooling; for lubricating {; for
+    5/26    . Cartridge cases (F42B 5/18 takes precedence {;
+manufacturing of cartridge cases B21K 21/04})
+    5/28    . . of metal {, i.e. the cartridge-case tube is of metal}
+    5/285   . . . formed by assembling several elements
+    5/29    . . . . wound from sheets or strips
+    5/297   . . . . with plastics
+    5/30    . . of plastics {, i.e. the cartridge-case tube is of
+    5/307   . . . formed by assembling several elements
+    5/313   . . . . all elements made of plastics
+    5/34    . . with provision for varying the length
+    5/36    . . modified for housing an integral firing-cap
+    5/38    . Separately-loaded propellant charges, e.g. cartridge
+bags {(F42B 5/16, F42B 5/192 take precedence)}
+    6/00    Projectiles or missiles specially adapted for
+projection without use of explosive or combustible
+propellant charge, e.g. for blow guns, bows
+or crossbows, hand-held spring or air guns
+(for delivering hypodermic charges F42B 12/54;
+projectiles or missiles incorporating springs as the
+projecting means F41B 7/02; {Arrows or darts for
+dispensing materials, for producing chemical or
+physical reaction, or for signalling F42B 12/362})
+    6/006   . {Projectiles for electromagnetic or plasma guns}
+    6/02    . Arrows; Crossbow bolts; Harpoons for hand-held
+    6/04    . . Archery arrows (F42B 6/08, F41B 5/06,
+    6/06    . . . Tail ends, e.g. nocks, fletching
+    6/08    . . Arrow heads; Harpoon heads
+    6/10    . Air gun pellets {; Ammunition for air guns, e.g.
+    7/02    . Cartridges, i.e. cases with propellant charge and
+    7/043   . . . {with shot-scattering means}
+    7/046   . . . {Pellets or shot therefor}
+    7/06    . . with cartridge case of plastics {(F42B 5/30 takes
+    7/08    . . Wads, {i.e. projectile or shot carrying devices,}
+    7/10    . . Ball or slug shotgun cartridges
+    7/12    . . Cartridge top closures, i.e. for the missile side
+(closures for blasting cartridges F42B 3/24)
+    8/00    Practice or training ammunition
+    8/02    . Cartridges {(F41A 33/02, F42B 7/12 take
+    8/04    . . Blank cartridges, i.e. primed cartridges without
+projectile but containing an explosive or
+    8/06    . . . for cap-firing pistols
+    8/08    . . Dummy cartridges, i.e. inert cartridges containing
+neither primer nor explosive or combustible
+    8/10    . . with sub-calibre adaptor
+    8/12    . Projectiles or missiles (F42B 10/48, F42B 12/36,
+    8/14    . . disintegrating in flight or upon impact
+Group F42B 8/14 takes precedence over
+    8/16    . . . containing an inert filler in powder or granular
+    8/20    . . Mortar grenades
+    8/28    . Land or marine mines; Depth charges
+   10/00    Means for influencing, e.g. improving, the
+aerodynamic properties of projectiles or missiles;
+Arrangements on projectiles or missiles for
+stabilising, steering, range-reducing, range-
+increasing or fall-retarding (F42B 6/00 takes
+   10/02    . Stabilising arrangements
+   10/025   . . {using giratory or oscillating masses for
+stabilising projectile trajectory}
+   10/04    . . using fixed fins (F42B 10/22 takes precedence)
+   10/08    . . . . Flechette-type projectiles
+   10/10    . . . . the fins being formed in the barrel by
+deformation or the projectile body
+   10/12    . . using fins longitudinally-slidable with respect to
+   10/14    . . using fins spread or deployed after launch, e.g.
+   10/143   . . . {Lattice or grid fins}
+   10/146   . . . {Fabric fins, i.e. fins comprising at least one
+spar and a fin cover made of flexible sheet
+   10/16    . . . Wrap-around fins
+   10/18    . . . using a longitudinally slidable support member
+   10/20    . . . deployed by combustion gas pressure, or by
+   10/22    . . Projectiles of cannelured type
+   10/24    . . . with inclined grooves
+   10/26    . . using spin (F42B 10/04, F42B 10/12,
+F42B 10/14, F42B 10/24, F42B 14/02 take
+   10/28    . . . induced by gas action
+   10/30    . . . . using rocket motor nozzles
+   10/32    . Range-reducing or range-increasing arrangements;
+   10/34    . . Tubular projectiles
+   10/36    . . . Ring-foil projectiles
+   10/38    . . Range-increasing arrangements (F42B 10/34,
+F42B 14/06 {and F42B 15/105} take precedence)
+   10/40    . . . with combustion of a slow-burning charge, e.g.
+   10/42    . . . Streamlined projectiles
+   10/44    . . . . Boat-tails specially adapted for drag
+   10/46    . . . . Streamlined nose cones; Windshields;
+Radomes {(F42B 12/105 takes precedence)}
+   10/48    . . Range-reducing, destabilising or braking
+arrangements, {e.g. impact-braking
+arrangements}; Fall-retarding means,
+{e.g. balloons, rockets for braking or fall-
+retarding}(F42B 10/34 takes precedence)
+   10/50    . . . Brake flaps {, e.g. inflatable}
+   10/54    . . . Spin braking means
+   10/56    . . . of parachute {or paraglider} type
+   10/58    . . . of rotochute type
+   10/60    . Steering arrangements (F42B 19/01 takes
+   10/62    . . Steering by movement of flight surfaces
+   10/66    . . Steering by varying intensity or direction of thrust
+(thrust vector control of rocket engine plants
+F02K 9/80 {; guiding or controlling apparatus
+using jets adapted for cosmonautic vehicles
+   10/661   . . . {using several transversally acting rocket
+motors, each motor containing an individual
+propellant charge, e.g. solid charge}
+   10/663   . . . {using a plurality of transversally acting
+auxiliary nozzles, which are opened or closed
+   10/665   . . . {characterised by using a nozzle provided with
+at least a deflector mounted within the nozzle}
+   10/666   . . . {characterised by using a nozzle rotatable about
+an axis transverse to the axis of the projectile}
+   10/668   . . . {Injection of a fluid, e.g. a propellant, into the
+gas shear in a nozzle or in the boundary layer
+at the outer surface of a missile, e.g. to create a
+shock wave in a supersonic flow}
+   12/00    Projectiles, missiles or mines characterised
+by the warhead, the intended effect, or the
+material (F42B 6/00, F42B 10/00, F42B 14/00
+take precedence; for practice or training F42B 8/12,
+F42B 8/28; self-propulsion or guidance aspects
+   12/02    . characterised by the warhead or the intended effect
+   12/04    . . of armour-piercing type
+   12/06    . . . with hard or heavy core; Kinetic energy
+penetrators (F42B 12/16, F42B 12/74 take
+   12/08    . . . with armour-piercing caps; with armoured
+   12/10    . . . with shaped or hollow charge (shaped or
+hollow charges per se F42B 1/02 {; mines
+having hollow charges F42B 23/04})
+   12/105   . . . . {Protruding target distance or stand-off
+members therefor, e.g. slidably mounted
+   12/12    . . . . rotatably mounted with respect to missile
+   12/14    . . . . the symmetry axis of the hollow charge
+forming an angle with the longitudinal axis
+   12/16    . . . . in combination with an additional projectile
+or charge, acting successively on the target
+   12/18    . . . . . Hollow charges in tandem arrangement
+   12/20    . . of high-explosive type (F42B 12/44 takes
+   12/201   . . . {characterised by target class}
+   12/202   . . . . {for attacking land area or area targets, e.g.
+   12/204   . . . . {for attacking structures, e.g. specific
+buildings or fortifications, ships or vehicles}
+   12/205   . . . . {for attacking aerial targets}
+   12/207   . . . {characterised by the explosive material or the
+construction of the high explosive warhead, e.g.
+   12/208   . . . {characterised by a plurality of charges within
+a single high explosive warhead}
+   12/22    . . . with fragmentation-hull construction
+   12/24    . . . . with grooves, recesses or other wall
+weakenings {(F42B 12/26, F42B 12/28 take
+   12/26    . . . . the projectile wall being formed by a
+   12/28    . . . . the projectile wall being built from annular
+   12/30    . . . . Continuous-rod warheads
+   12/32    . . . . the hull or case comprising a plurality of
+discrete bodies, e.g. steel balls, embedded
+therein {or disposed around the explosive
+   12/34    . . expanding before or on impact, i.e. of dumdum or
+   12/36    . . for dispensing materials; for producing chemical
+or physical reaction; for signalling {; for
+   12/362   . . . {Arrows or darts (F42B 12/38 takes
+precedence, having means for implantation, e.g.
+hypodermic projectiles F42B 12/54; arrows or
+   12/365   . . . {Projectiles transmitting information to a
+remote location using optical or electronic
+means (F42B 12/385 takes precedence)}
+   12/367   . . . {Projectiles fragmenting upon impact without
+the use of explosives, the fragments creating
+a wounding or lethal effect (practice or
+training projectiles disintegrating upon impact
+F42B 8/14; projectiles of high-explosive
+type with fragmentation-hull construction
+   12/38    . . . of tracer type
+   12/382   . . . . {emitting an electromagnetic radiation, e.g.
+laser beam or infra-red emission}
+   12/385   . . . . . {Arrow or dart carrying a radio transmitter
+   12/387   . . . . {Passive tracers, e.g. using a reflector
+   12/40    . . . of target-marking, i.e. impact-indicating type
+(F42B 12/48, {F42B 12/50} take precedence)
+   12/42    . . . of illuminating type, e.g. carrying flares
+   12/44    . . . of incendiary type (F42B 12/46 takes
+   12/46    . . . for dispensing gases, vapours, powders or
+chemically-reactive substances (F42B 12/70
+   12/48    . . . . smoke-producing {, e.g. infrared clouds}
+   12/50    . . . . by dispersion
+   12/52    . . . . . Fuel-air explosive devices
+   12/54    . . . . by implantation, e.g. hypodermic projectiles
+   12/56    . . . for dispensing discrete solid bodies
+   12/58    . . . . Cluster or cargo ammunition, i.e. projectiles
+containing one or more submissiles
+   12/60    . . . . . the submissiles being ejected radially
+   12/62    . . . . . the submissiles being ejected parallel to
+the longitudinal axis of the projectile
+   12/625   . . . . . . {a single submissile arranged in a
+carrier missile for being launched or
+accelerated coaxially; Coaxial tandem
+arrangement of missiles which are active
+in the target one after the other (with
+shaped or hollow charges F42B 12/16)}
+   12/64    . . . . . . the submissiles being of shot- or
+   12/66    . . . . . Chain-shot, i.e. the submissiles being
+interconnected by chains or the like
+{(ballistically deployed systems
+for restraining persons or animals
+   12/68    . . . . Line-carrying missiles, e.g. for life-saving
+(harpoons F42B 30/14 {, mine-clearing
+   12/70    . . . . for dispensing radar chaff or infra-red
+material (radar-reflector targets, active
+targets transmitting infra-red radiation
+F41J 2/00; radar-reflecting surfaces
+   12/72    . characterised by the material (heat treatment for
+   12/74    . . of the core or solid body
+   12/745   . . . {the core being made of plastics; Compounds
+or blends of plastics and other materials, e.g.
+   12/78    . . . of jackets for smallarm bullets {; Jacketed
+   12/82    . . . . reducing friction
+   14/00    Projectiles or missiles characterised by
+arrangements for guiding or sealing them inside
+barrels, or for lubricating or cleaning barrels
+   14/02    . Driving bands; Rotating bands (F42B 14/04 takes
+   14/04    . Lubrication means in missiles (coatings for reducing
+   14/06    . Sub-calibre projectiles having sabots; Sabots
+   14/061   . . {Sabots for long rod fin stabilised kinetic energy
+projectiles, i.e. multisegment sabots attached
+   14/062   . . . {characterised by contact surfaces between
+   14/064   . . {Sabots enclosing the rear end of a kinetic
+energy projectile, i.e. having a closed disk shaped
+obturator base and petals extending forward from
+   14/065   . . {Sabots carrying several projectiles}
+   14/067   . . {Sealing aspects in sabots, e.g. sealing between
+individual segments of the sabots or sealing
+between the outer surface of the sabot and the
+   14/068   . . {Sabots characterised by the material
+(F42B 14/067 takes precedence)}
+   14/08    . . Sabots filled with propulsive charges; Removing
+sabots by combustion of pyrotechnic elements
+or by propulsive-gas pressure (arrangements
+on barrels for removing sabots from projectiles
+   15/00    Self-propelled projectiles or missiles, e.g. rockets;
+Guided missiles (F42B 10/00, F42B 12/00,
+F42B 14/00 take precedence: for practice or training
+F42B 8/12: rocket torpedoes F42B 17/00; marine
+torpedoes F42B 19/00; cosmonautic vehicles B64G;
+   15/01    . Arrangements thereon for guidance or control
+({steering arrangements F42B 10/60}; aircraft flight
+control B64C; guidance systems other than those
+installed aboard F41G 7/00, F41G 9/00; locating by
+use of radio or other waves G01S; flight control in
+general G05D 1/00; computer aspects G06])
+   15/04    . . using wire, e.g. for guiding ground-to-ground
+   15/08    . for carrying measuring instruments; {Arrangements
+for mounting sensitive cargo within a
+projectile}(adaptations for meteorology
+G01W 1/08); {Arrangements for acoustic sensitive
+   15/10    . Missiles having a trajectory only in the air
+   15/105   . . {Air torpedoes, e.g. projectiles with or without
+propulsion, provided with supporting air foil
+   15/12    . . Intercontinental ballistic missiles (F42B 15/01
+   15/20    . Missiles having a trajectory beginning below water
+surface (having additional propulsion means for
+movement through water F42B 17/00)
+   15/22    . Missiles having a trajectory finishing below water
+surface (having additional propulsion means for
+movement through water F42B 17/00)
+   15/34    . Protection against overheating or radiation, e.g. heat
+shields; Additional cooling arrangements {(thermal
+protection fitted in or to cosmonautic vehicles
+   15/36    . Means for interconnecting rocket-motor and body
+section; Multi-stage connectors; Disconnecting
+   15/38    . . Ring-shaped explosive elements for the
+separation of rocket parts {(systems for coupling
+or separating cosmonautic vehicles or parts
+   17/00    Rocket torpedoes, i.e. missiles provided with
+separate propulsion means for movement
+through air and through water (F42B 12/00 takes
+   19/00    Marine torpedoes, e.g. launched by surface vessels
+or submarines (having additional propulsion means
+for movement through air F42B 17/00); Sea mines
+having self-propulsion means (F42B 12/00 takes
+precedence; launching means F41F; locating by use
+of radio or other waves G01S; automatic control of
+course G05D 1/00; firing directors or calculators
+   19/005   . {Nose caps for torpedoes; Coupling torpedo-case
+   19/06    . . Directional control
+   19/08    . . with means for preventing rolling or pitching
+   19/10    . . remotely controlled, e.g. by sonic or radio control
+(control systems using wire F41G 7/32)
+   19/12    . Propulsion specially adapted for torpedoes (having
+additional propulsion means for movement through
+air F42B 17/00; marine propulsion in general B63H)
+   19/125   . . {Torpedoes provided with drag-reducing
+means (projectiles with drag-reducing means
+   19/14    . . by compressed-gas motors
+   19/16    . . . of cylinder type
+   19/18    . . . of turbine type
+   19/20    . . . characterised by the composition of propulsive
+gas; Manufacture or heating thereof in
+   19/22    . . by internal-combustion engines
+   19/24    . . by electric motors
+   19/26    . . by jet propulsion
+   19/28    . . with means for avoiding visible wake
+   19/30    . . with timing control of propulsion
+   19/36    . adapted to be used for exercise purposes, e.g.
+   19/38    . . with means for causing torpedoes to surface at
+   19/40    . . . by expelling liquid ballast
+   19/42    . . . by releasing solid ballast
+   19/44    . . . by enlarging displacement
+   19/46    . adapted to be launched from aircraft
+   21/00    Depth charges (F42B 12/00 takes precedence; for
+practice or training F42B 8/28; laying aspects B63G)
+   22/00    Marine mines, e.g. launched by surface vessels
+or submarines (F42B 12/00 takes precedence;
+for practice or training F42B 8/28; mine laying or
+   22/02    . Contact mines {, e.g. antenne-type mines}(contact
+   22/04    . Influenced mines, e.g. by magnetic or acoustic
+   22/08    . Drifting mines (with propulsion means F42B 19/00)
+   22/12    . . at a fixed depth setting
+   22/14    . . at a variable depth setting
+   22/16    . . . using mechanical means, e.g. plummet and
+   22/18    . . . using hydrostatic means
+   22/20    . . . using magnetic or acoustic depth-control means
+   22/22    . having self-contained sinking means
+   22/24    . Arrangement of mines in fields or barriers (net
+barriers for harbour defence F41H 11/05)
+   22/42    . with anti-sweeping means, e.g. electrical
+   22/44    . adapted to be launched from aircraft
+   23/00    Land mines {; Land torpedoes}(F42B 12/00 takes
+precedence; for practice or training F42B 8/28)
+   23/005   . {Selfpropelled land mines}
+   23/04    . anti-vehicle {, e.g. anti-aircraft or anti tank (hollow
+charges per se F42B 1/02; artillery projectiles
+having hollow charges F42B 12/10)}
+   23/16    . . of missile type, i.e. {all kinds of mines launched}
+for detonation after ejection from ground (fuzes
+for initiating mine ejection F42C 1/09)
+   25/00    Fall bombs (F42B 10/00, F42B 12/00 take
+precedence; for practice or training F42B 8/12 {;
+gliding type bombs F42B 15/105})
+   27/00    Hand grenades (F42B 12/00 takes precedence; for
+practice or training F42B 8/12)
+   29/00    Noiseless, smokeless, or flashless missiles launched
+by their own explosive propellant
+   30/00    Projectiles or missiles, not otherwise provided
+for, characterised by the ammunition class or
+type, e.g. by the launching apparatus or weapon
+used (F42B 10/00, F42B 12/00, F42B 14/00 take
+   30/003   . {Closures or baseplates therefor (closures for
+blasting cartridges F42B 3/24, for shotgun
+   30/006   . {Mounting of sensors, antennas or target trackers on
+   30/06    . . Bullet traps or bullet decelerators therefor
+   30/08    . Ordnance projectiles or missiles, e.g. shells
+   30/10    . . Mortar projectiles
+   30/12    . . . with provision for additional propulsive
+charges, or for varying the length
+   30/14    . Harpoons (for hand-held spring or air guns
+   33/00    Manufacture of ammunition; Dismantling of
+ammunition; Apparatus therefor (F42B 5/188
+takes precedence; manufacturing processes for
+hollow charges F42B 1/036; manufacture of blasting
+cartridge initiators F42B 3/195)
+   33/001   . {Devices or processes for assembling ammunition,
+cartridges or cartridge elements from parts}
+   33/002   . {Orienting or guiding means for cartridges or
+cartridge parts during the manufacturing or
+packaging process; Feeding cartridge elements to
+   33/004   . {Cartridge loaders of the rotatable-turret type}
+   33/005   . {Crimping cartridge cases on projectiles}
+   33/007   . {Making cavities in an explosive or propulsive
+   33/008   . {Cutting explosive or propulsive charges}
+   33/02    . Filling cartridges, missiles, or fuzes; Inserting
+propellant or explosive charges {(F42B 33/004
+   33/0207  . . {Processes for loading or filling propulsive or
+explosive charges in containers}
+   33/0214  . . {by casting (F42B 33/004 takes precedence)}
+   33/0221  . . . {by centrifugal casting}
+   33/0228  . . . {Funnel arrangements therefor}
+   33/0235  . . . {Heating of casting equipment or explosive
+charge containers during the loading process}
+   33/0242  . . . {by pressure casting}
+   33/025   . . {by compacting (F42B 33/004 takes precedence)}
+   33/0257  . . . {by vibration compacting}
+   33/0264  . . {by using screw-type feeders (F42B 33/004 takes
+   33/0271  . . . {for extruding blasting cartridges}
+   33/0278  . . {Safety arrangements therefor (F42B 33/004
+   33/0285  . . {Measuring explosive-charge levels in containers
+or cartridge cases; Methods or devices for
+controlling the quantity of material fed or filled
+(F42B 33/004 takes precedence; controlling
+the quantity of material fed in packaging
+   33/0292  . . . {by volumetric measurement, i.e. the volume of
+the material being determined before filling}
+   33/04    . Fitting or extracting primers in or from fuzes or
+charges {(F42B 33/004 takes precedence)}
+   33/06    . Dismantling fuzes, cartridges, projectiles, missiles,
+rockets or bombs ({F42B 33/004 and} F42B 33/04
+take precedence; {elimination of undesirable
+components of explosives C06B 21/0091})
+   33/062   . . {by high-pressure water jet means}
+   33/065   . . {by laser means}
+   33/067   . . {by combustion (incineration apparatuses or
+processes for used articles F23G 7/003)}
+   33/10    . Reconditioning used cartridge cases {(F42B 33/004
+   33/12    . Crimping shotgun cartridges {(F42B 33/004 takes
+   33/14    . Surface treatment of cartridges or cartridge cases
+{(F42B 33/004 takes precedence)}
+   35/00    Testing or checking of ammunition {(apparatus for
+measuring the energy of projectiles G01L 5/14)}
+   35/02    . Gauging, sorting, trimming or shortening cartridges
+   39/00    Packaging or storage of ammunition or explosive
+charges; Safety features thereof; Cartridge belts or
+   39/002   . {Cartridge containers provided with cartridge-
+   39/005   . {Protection for driving bands}
+   39/007   . {Packaging or storage of arrows or darts (quivers
+   39/02    . Cartridge bags; Bandoleers
+   39/082   . . {for caseless ammunition}
+   39/085   . . {for blank cartridges}
+   39/087   . . {Feed belts manufactured from fabric or plastics
+   39/10    . . Machines for charging or for extracting cartridges
+   39/14    . Explosion or fire protection arrangements on
+packages or ammunition (F42B 39/20 {and
+F42B 39/24} take precedence; {wall or panel
+structure of fireproof safes or storage containers
+   39/16    . . Fire-extinguishing
+   39/18    . . Heat shields; Thermal insulation
+   39/20    . Packages or ammunition having valves for pressure-
+equalising; Packages or ammunition having plugs
+for pressure release, e.g. meltable {Blow-out panels;
+Venting arrangements (ventilating arrangements on
+packages formed from foldable or erectable blanks
+B65D 5/4295; packages with pressure-relief valves
+incorporated in a container wall B65D 77/225)}
+   39/22    . Locking of ammunition in transport containers
+   39/24    . Shock-absorbing arrangements in packages {, e.g.
+   39/26    . Packages or containers for a plurality
+(F42B 39/14 - F42B 39/24, F42B 39/28 take
+   39/28    . Ammunition racks, e.g. in vehicles
+   39/30    . Containers for detonators or fuzes (F42B 39/14,
+   99/00    Subject matter not provided for in other groups of

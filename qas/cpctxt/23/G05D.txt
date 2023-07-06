@@ -1,0 +1,732 @@
+COOPERATIVE PATENT CLASSIFICATION
+SYSTEMS FOR CONTROLLING OR REGULATING NON-ELECTRIC VARIABLES
+1. This subclass does not cover features of general applicability to regulating systems, e.g. anti-hunting arrangements, which are
+2. In this subclass, the following term is used with the meaning indicated:
+• "systems" includes self-contained devices such as speed governors, pressure regulators.
+3. Control systems specially adapted for particular apparatus, machines or processes are classified in the subclasses for the
+apparatus, machines or processes, provided that there is specific provision for control or regulation relevant to the special
+adaptation, either at a detailed level, e.g. A21B 1/40: "for regulating temperature in bakers' ovens", or at a general level, e.g.
+B23K 9/095: "for automatic control of welding parameters in arc welding". Otherwise, classification is made in the most
+appropriate place in this subclass.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Control of position, course or altitude of land,
+water, air, or space vehicles, e.g. automatic pilot
+(radio navigation systems or analogous systems using
+    1/0005  . {with arrangements to save energy}
+    1/0011  . {associated with a remote control arrangement}
+    1/0016  . . {characterised by the operator's input device
+(input arrangements for computing systems in
+    1/0022  . . {characterised by the communication link (data
+switching networks in general H04L 12/00)}
+    1/0027  . . {involving a plurality of vehicles, e.g. fleet or
+convoy travelling (traffic control systems for road
+vehicles G08G 1/00 ; for marine craft G08G 3/00
+; for aircraft G08G 5/00 ; fleet control of land
+vehicles from a control room G05D 1/0297)}
+    1/0033  . . {by having the operator tracking the vehicle
+either by direct line of sight or via one or more
+cameras located remotely from the vehicle}
+    1/0038  . . {by providing the operator with simple or
+augmented images from one or more cameras
+located onboard the vehicle, e.g. tele-operation
+(images analyzed by a computer and used for
+automatic navigation G05D 1/0246)}
+    1/0044  . . {by providing the operator with a computer
+generated representation of the environment of
+the vehicle, e.g. virtual reality, maps (maps used
+for automatic navigation G05D 1/0274 ; flight
+    1/005   . . {by providing the operator with signals other than
+    1/0055  . {with safety arrangements}
+    1/0061  . . {for transition from automatic pilot to manual
+by reclassification into groups
+B60W 2710/00 - B60W 2720/406, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+    1/0066  . . {for limitation of acceleration or stress}
+    1/0072  . . {to counteract a motor failure}
+    1/0077  . . {using redundant signals or controls}
+    1/0083  . {to help an aircraft pilot in the rolling phase}
+    1/0088  . {characterized by the autonomous decision making
+process, e.g. artificial intelligence, predefined
+behaviours (using knowledge based models
+by reclassification into groups
+B60W 2710/00 - B60W 2720/406, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+    1/0094  . {involving pointing a payload, e.g. camera, weapon,
+sensor, towards a fixed or moving target}
+    1/02    . Control of position or course in two dimensions
+    1/0202  . . {specially adapted to aircraft}
+    1/0204  . . . {to counteract a sudden perturbation, e.g. cross-
+    1/0206  . . {specially adapted to water vehicles}
+    1/0208  . . . {dynamic anchoring}
+    1/021   . . {specially adapted to land vehicles}
+1. This group covers control of position or
+course in two dimensions specially adapted
+for land vehicles, i.e. control systems to define
+a trajectory for a land vehicle, and to take
+suitable actions to make the vehicle follow
+2. Relationships with other classification places.
+Subclass G01C covers navigation in general,
+i.e. determining the position and course of land
+vehicles, ships, aircraft, and space vehicles.
+Subclass G01S covers radio, sonar or lidar
+navigation systems, i.e. navigation by use of
+radio, acoustic or optical waves, or analogue
+arrangements using other electromagnetic
+Subclass G08G covers navigation systems for
+traffic control purposes, i.e. systems in which
+the navigation is not performed autonomously
+by or in the vehicle, but where the vehicles are
+guided by instructions transmitted to them.
+Aspects of navigation systems that are
+important per se should also be classified in
+the relevant groups of G01C (see for example
+list under "Informative References" below).
+Aspects of radio, sonar or lidar navigation
+systems that are important per se should also
+be classified in the relevant groups of G01S
+(see for example list under "Informative
+Aspects of navigation systems for traffic
+purposes that are important per se should
+also be classified in the relevant groups of
+G08G (see for example list under "Informative
+Attention is drawn to the following places,
+which could be of interest for search:
+• navigation, i.e. determining the position
+and course of land vehicles, ships, aircraft,
+• measuring distance traversed on the
+ground by vehicles, e.g. using odometers
+• position-fixing by co-ordinating a plurality
+of determinations of direction or position
+• determining distance or velocity using
+waves and not using reflection or
+reradiation of waves G01S 11/00
+• radar systems specially designed for traffic
+• radar systems specially designed for for
+anti-collision purposes G01S 13/93
+• sonar systems specially designed for for
+anti-collision purposes G01S 15/93
+• lidar systems specially designed for for
+anti-collision purposes G01S 17/93
+• traffic control systems for road vehicles
+• monitoring the location of fleet of vehicles
+in traffic control systems G08G 1/127
+• anti-collision traffic control systems
+by reclassification into groups
+B60W 2710/00 - B60W 2720/406, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+    1/0212  . . . {with means for defining a desired trajectory
+(involving a plurality of land vehicles
+    1/0214  . . . . {in accordance with safety or protection
+criteria, e.g. avoiding hazardous areas
+(monitoring the location of vehicles within a
+certain area, e.g. forbidden or allowed areas,
+in traffic control systems for road vehicles
+by reclassification into groups
+B60W 2710/00 - B60W 2720/406, and
+All groups listed in this Warning should
+be considered in order to perform a
+    1/0217  . . . . {in accordance with energy consumption,
+time reduction or distance reduction criteria}
+    1/0219  . . . . {ensuring the processing of the whole
+    1/0221  . . . . {involving a learning process}
+by reclassification into groups
+B60W 2710/00 - B60W 2720/406, and
+All groups listed in this Warning should
+be considered in order to perform a
+    1/0223  . . . . {involving speed control of the vehicle
+(vehicle fittings for automatically
+controlling, i.e. preventing speed from
+exceeding an arbitrarily established
+velocity or maintaining speed at a particular
+velocity, as selected by the vehicle operator
+by reclassification into groups
+B60W 2710/00 - B60W 2720/406, and
+All groups listed in this Warning should
+be considered in order to perform a
+    1/0225  . . . . {involving docking at a fixed facility, e.g.
+base station or loading bay (parking aids
+    1/0227  . . . {using mechanical sensing means, e.g. for
+    1/0229  . . . . {in combination with fixed guiding means}
+    1/0231  . . . {using optical position detecting means
+(position-fixing by using electromagnetic
+waves other than radio waves, e.g. optical
+position detecting means G01S 5/16)}
+    1/0234  . . . . {using optical markers or beacons (optical
+    1/0236  . . . . . {in combination with a laser (lasers per se
+    1/0238  . . . . {using obstacle or wall sensors
+(G05D 1/0246 and G05D 1/0289 take
+precedence; lidar systems designed for anti-
+collision purposes G01S 17/93)}
+    1/024   . . . . . {in combination with a laser (lasers per se
+    1/0242  . . . . {using non-visible light signals, e.g. IR or
+    1/0244  . . . . {using reflecting strips}
+    1/0246  . . . . {using a video camera in combination with
+    1/0248  . . . . . {in combination with a laser (lasers per se
+    1/0251  . . . . . {extracting 3D information from a
+plurality of images taken from different
+locations, e.g. stereo vision (stereoscopic
+image analysis H04N 13/00; depth
+recovery from images G06T 7/593)}
+    1/0253  . . . . . {extracting relative motion information
+from a plurality of images taken
+successively, e.g. visual odometry, optical
+flow (determining position or orientation
+    1/0255  . . . {using acoustic signals, e.g. ultra-sonic singals
+(sonar systems designed for anti-collision
+    1/0257  . . . {using a radar (radar systems designed for
+anti-collision purposes between land vehicles
+or between land vehicle and fixed obstacles
+    1/0259  . . . {using magnetic or electromagnetic means}
+    1/0261  . . . . {using magnetic plots}
+    1/0263  . . . . {using magnetic strips}
+    1/0265  . . . . {using buried wires}
+    1/0268  . . . {using internal positioning means}
+    1/027   . . . . {comprising intertial navigation means,
+e.g. azimuth detector (inertial navigation
+G01C 21/16 ; inertial navigation combined
+with non-inertial navigation instruments
+    1/0272  . . . . {comprising means for registering the
+travel distance, e.g. revolutions of wheels
+(measuring distance traversed on the
+ground by vehicles, e.g. using odometers
+    1/0274  . . . . {using mapping information stored in a
+memory device (navigation using map-
+    1/0276  . . . {using signals provided by a source external
+to the vehicle (involving a plurality of vehicles
+G05D 1/0287 ; automatically controlling
+vehicle speed responsive to exernally generated
+    1/0278  . . . . {using satellite positioning signals, e.g.
+    1/028   . . . . {using a RF signal}
+    1/0282  . . . . . {generated in a local control room}
+    1/0285  . . . . {using signals transmitted via a public
+communication network, e.g. GSM network}
+    1/0287  . . . {involving a plurality of land vehicles, e.g. fleet
+or convoy travelling (traffic control systems
+for road vehicles G08G 1/00, particularly
+anticollision systems G08G 1/16)}
+In this group, the following terms or
+expressions are used with the meaning
+• fleet means a plurality of vehicles
+controlled in a coordinated manner or
+• convoy (or platooning) means a plurality
+of vehicles following an identical
+trajectory, said vehicles being separated
+by a predetermined distance maintained
+    1/0289  . . . . {with means for avoiding collisions between
+vehicles (vehicle fittings for automatically
+controlling speed inclusing means for
+detecting potential obstacles B60K 31/0008
+; avoiding obstacles by action on the
+steering system B62D ; radar, sonar, lidar
+systems designed for anti-collision purposes
+G01S 13/93, G01S 15/93, G01S 17/93)}
+    1/0291  . . . . {Fleet control (monitoring fleets in
+traffic control systems for road vehicles
+    1/0293  . . . . . {Convoy travelling}
+    1/0295  . . . . . {by at least one leading vehicle of the
+    1/0297  . . . . . {by controlling means in a control room}
+    1/03    . . using near-field transmission systems, e.g.
+inductive-loop type {(G05D 1/021 and subgroups
+    1/04    . Control of altitude or depth
+    1/042   . . {specially adapted for aircraft}
+    1/044   . . . {during banks}
+    1/046   . . . {to counteract a perturbation, e.g. gust of wind}
+    1/048   . . {specially adapted for water vehicles}
+    1/06    . . Rate of change of altitude or depth
+    1/0607  . . . {specially adapted for aircraft}
+    1/0615  . . . . {to counteract a perturbation, e.g. gust of
+    1/0623  . . . . . {by acting on the pitch}
+    1/063   . . . . . {by acting on the motors}
+    1/0638  . . . . . {by combined action on the pitch and on
+    1/0646  . . . . {to follow the profile of undulating ground}
+    1/0653  . . . . {during a phase of take-off or landing}
+    1/0661  . . . . . {specially adapted for take-off}
+    1/0669  . . . . . . {specially adapted for vertical take-off}
+    1/0676  . . . . . {specially adapted for landing}
+    1/0684  . . . . . . {on a moving platform, e.g. aircraft
+    1/0688  . . . . {Emergency descent}
+    1/0692  . . . {specially adapted for under-water vehicles}
+    1/08    . Control of attitude, i.e. control of roll, pitch, or yaw
+    1/0808  . . {specially adapted for aircraft}
+    1/0816  . . . {to ensure stability}
+    1/0825  . . . . {using mathematical models}
+    1/0833  . . . . {using limited authority control}
+    1/0841  . . . . {to prevent a coupling between different
+    1/085   . . . . {to ensure coordination between different
+    1/0858  . . . {specially adapted for vertical take-off of
+    1/0866  . . . {specially adapted to captive aircraft}
+    1/0875  . . {specially adapted to water vehicles}
+    1/0891  . . {specially adapted for land vehicles}
+    1/10    . Simultaneous control of position or course in three
+dimensions (G05D 1/12 takes precedence)
+    1/101   . . {specially adapted for aircraft}
+    1/102   . . . {specially adapted for vertical take-off of
+    1/104   . . . {involving a plurality of aircrafts, e.g.
+formation flying (traffic control systems for
+    1/105   . . . {specially adapted for unpowered flight, e.g.
+glider, parachuting, forced landing (parachutes
+    1/106   . . . {Change initiated in response to external
+conditions, e.g. avoidance of elevated terrain or
+    1/1062  . . . . {specially adapted for avoiding bad weather
+    1/1064  . . . . {specially adapted for avoiding collisions
+    1/107   . . {specially adapted for missiles}
+    1/108   . . . {animated with a rolling movement}
+    1/12    . Target-seeking control
+    3/00    Control of position or direction (G05D 1/00 takes
+precedence; numerical control to execute positioning
+    3/10    . without using feedback
+    3/105   . . {Solar tracker}
+    3/121   . . {using synchromachines (selsyns)}
+    3/122   . . . {without modulation}
+    3/124   . . . {with modulation}
+    3/125   . . {using discrete position sensor}
+    3/127   . . . {with electrical contact}
+    3/128   . . {using clutch or brake}
+    3/14    . . using an analogue comparing device
+    3/1409  . . . {with dc amplifier chain}
+    3/1418  . . . {with ac amplifier chain}
+    3/1427  . . . {with non-linear amplifier chain}
+    3/1436  . . . {with fine or coarse devices}
+    3/1445  . . . {with a plurality of loops}
+    3/1454  . . . . {using models or predicting devices}
+    3/1463  . . . . {using PID devices}
+    3/1472  . . . {with potentiometer}
+    3/1481  . . . {with discrete position sensor}
+    3/149   . . . {with clutch or brake}
+    3/16    . . . whose output amplitude can only take a
+number of discrete values (G05D 3/18 takes
+    3/165   . . . . {using clutch or brake}
+    3/18    . . . delivering a series of pulses
+    3/183   . . . . {using stepping motor}
+    3/186   . . . . {using clutch or brake}
+    3/20    . . using a digital comparing device
+    3/203   . . . {using fine or coarse devices}
+    3/206   . . . {using clutch or brakes}
+    5/00    Control of dimensions of material
+    5/02    . of thickness, e.g. of rolled material (of specific
+materials B21B, B29C, B32B, C03B, D21F)
+    5/03    . . characterised by the use of electric means
+    5/04    . of the size of items, e.g. of particles
+    5/06    . . characterised by the use of electric means
+    7/00    Control of flow (level control G05D 9/00; control of
+In groups G05D 7/0629 - G05D 7/0694, the
+last place priority rule is applied, i.e. at each
+hierarchical level, in the absence of an indication
+to the contrary, classification is made in the last
+    7/005   . {characterised by the use of auxiliary non-electric
+power combined with the use of electric means}
+    7/01    . without auxiliary power
+    7/0106  . . {the sensing element being a flexible member,
+e.g. bellows, diaphragm, capsule}
+    7/0113  . . . {the sensing element acting as a valve}
+    7/012   . . . {the sensing element being deformable and
+    7/0126  . . {the sensing element being a piston or plunger
+associated with one or more springs}
+    7/0133  . . . {within the flow-path}
+    7/014   . . . . {using sliding elements}
+    7/0146  . . {the in-line sensing element being a piston or
+float without flexible member or spring}
+    7/0153  . . . {using slidable elements}
+    7/016   . . . {the sensing element being a ball}
+    7/0166  . . {the sensing element being a float or a ball placed
+outside the flow path to be controlled}
+    7/0173  . . {using pivoting sensing element acting as a valve
+    7/018   . . {using rotary sensing element}
+    7/0186  . . {without moving parts}
+    7/0193  . . {using hydraulic or pneumatic amplifiers, relays
+    7/03    . with auxiliary non-electric power {(G05D 7/005
+    7/06    . characterised by the use of electric means
+{(G05D 7/005 takes precedence)}
+    7/0605  . . {specially adapted for solid materials}
+    7/0611  . . . {characterised by the set value given to the
+    7/0617  . . {specially adapted for fluid materials}
+    7/0623  . . . {characterised by the set value given to the
+    7/0629  . . . {characterised by the type of regulator means}
+    7/0635  . . . . {by action on throttling means
+    7/0641  . . . . . {using a plurality of throttling means
+    7/0647  . . . . . . {the plurality of throttling means being
+    7/0652  . . . . . . {the plurality of throttling means being
+    7/0658  . . . . . . {the plurality of throttling means being
+arranged for the control of a single flow
+from a plurality of converging flows
+(G05D 7/0652 takes precedence; ratio
+    7/0664  . . . . . . {the plurality of throttling means being
+arranged for the control of a plurality
+of diverging flows from a single flow
+(G05D 7/0652 takes precedence; ratio
+    7/067   . . . . . {characterised by free surface flow
+(open channel water distribution systems
+    7/0676  . . . . {by action on flow sources (G05D 7/0688,
+    7/0682  . . . . . {using a plurality of flow sources}
+    7/0688  . . . . {by combined action on throttling means
+and flow sources (G05D 7/0694 takes
+    7/0694  . . . . {by action on throttling means or flow
+sources of very small size, e.g. microfluidics
+(microvalves F16K 99/0001; microstructural
+    9/00    Level control, e.g. controlling quantity of material
+    9/02    . without auxiliary power
+    9/04    . with auxiliary non-electric power
+    9/12    . characterised by the use of electric means
+   11/00    Control of flow ratio (control of chemical
+or physico-chemical variables, e.g. pH-
+value, G05D 21/00; control of humidity G05D 22/00;
+control of temperature by varying the mixing ratio of
+two fluids having different temperatures G05D 23/13;
+control of viscosity G05D 24/00)
+   11/001   . {with discontinuous action}
+   11/003   . {using interconnected flow control elements}
+   11/005   . {using synchronised pumps}
+   11/006   . {involving a first fluid acting on the feeding of a
+   11/008   . {involving a fluid operating a pump motor}
+   11/02    . Controlling ratio of two or more flows of fluid or
+   11/03    . . without auxiliary power
+   11/035   . . with auxiliary non-electric power
+   11/04    . . . by sensing weight of individual components,
+   11/06    . . . by sensing density of mixture, e.g. using
+   11/08    . . . by sensing concentration of mixture, e.g.
+   11/10    . . . . by sensing moisture of non-aqueous liquids
+   11/12    . . . by sensing viscosity of mixture
+   11/13    . . characterised by the use of electric means
+   11/131   . . . {by measuring the values related to the quantity
+of the individual components (G05D 11/139
+   11/132   . . . . {by controlling the flow of the individual
+   11/133   . . . . {with discontinuous action}
+   11/134   . . . . . {by sensing the weight of the individual
+   11/135   . . . {by sensing at least one property of the mixture
+(G05D 11/139 takes precedence)}
+   11/136   . . . . {by sensing the viscosity}
+   11/137   . . . . {by sensing the density of the mixture}
+   11/138   . . . . {by sensing the concentration of the mixture,
+   11/139   . . . {by measuring a value related to the quantity of
+the individual components and sensing at least
+   11/16    . Controlling mixing ratio of fluids having different
+temperatures, e.g. by sensing the temperature of a
+mixture of fluids having different viscosities
+   13/00    Control of linear speed; Control of angular speed;
+Control of acceleration or deceleration, e.g. of a
+   13/04    . . providing for emergency tripping of an engine in
+case of exceeding maximum speed
+   13/06    . . providing for damping of erratic vibrations in
+   13/08    . without auxiliary power
+   13/10    . . Centrifugal governors with fly-weights
+   13/14    . . . . Fly weights; Mountings thereof; Adjusting
+equipment for limits, e.g. temporarily
+   13/16    . . . . Risers; Transmission gear therefor; Restoring
+   13/18    . . . counterbalanced by spider springs acting
+immediately upon the fly-weights
+   13/20    . . . counterbalanced by spider springs acting upon
+   13/22    . . . counterbalanced by fluid pressure acting upon
+   13/24    . . . counterbalanced by two or more different
+appliances acting simultaneously upon
+the riser, e.g. with both spring force and
+fluid pressure or with both spring force and
+   13/26    . . . with provision for modulating the degree of
+   13/28    . . . with provision for performing braking effects
+   13/30    . . Governors characterised by fluid features in
+which the speed of a shaft is converted into fluid
+   13/34    . with auxiliary non-electric power
+   13/36    . . using regulating devices with proportional band,
+   13/38    . . . involving centrifugal governors of fly-weight
+   13/40    . . . involving fluid governors of pump type
+   13/42    . . . involving fluid governors of flow-controller
+type, i.e. the width of liquid flow being
+   13/44    . . . involving fluid governors of jet type
+   13/46    . . using regulating devices with proportional band
+and integral action, i.e. PI regulating devices
+   13/48    . . . involving resilient restoring mechanisms
+   13/50    . . . involving connecting means or superimposing
+a proportional regulating device and an integral
+   13/52    . . using regulating devices with proportional band
+and derivative action, i.e. PD regulating devices
+   13/54    . . . involving centrifugal governors of fly-weight
+type exerting an acceleratory effect
+   13/56    . . . involving restoring mechanisms exerting a
+   13/58    . . . involving means for connecting a speed
+regulating device and an acceleration regulating
+   13/60    . . using regulating devices with proportional band,
+derivative and integral action, i.e. PID regulating
+   13/62    . characterised by the use of electric means, e.g.
+use of a tachometric dynamo, use of a transducer
+converting an electric value into a displacement
+{(electric motor control H02P)}
+   13/64    . Compensating the speed difference between
+engines meshing by a differential gearing or the
+speed difference between a controlling shaft and a
+controlled shaft {(G05D 13/62 takes precedence)}
+   13/66    . Governor units providing for co-operation with
+control dependent upon a variable other than speed
+   15/00    Control of mechanical force or stress; Control of
+   15/01    . characterised by the use of electric means
+   16/00    Control of fluid pressure
+   16/02    . Modifications to reduce the effects of instability,
+e.g. due to vibrations, friction, abnormal
+temperature, overloading or unbalance
+   16/024   . {Controlling the inlet pressure, e.g. back-pressure
+   16/028   . {Controlling a pressure difference (control of flow
+   16/04    . without auxiliary power
+   16/0402  . . {with two or more controllers mounted in series}
+   16/0404  . . {with two or more controllers mounted in
+   16/06    . . the sensing element being a flexible membrane,
+yielding to pressure, e.g. diaphragm, bellows,
+   16/0608  . . . {the controller being mounted within the flow
+path and having slidable elements}
+   16/0611  . . . {the sensing element being deformable, e.g.
+   16/0613  . . . . {the deformable sensing element acting as a
+   16/0616  . . . {the sensing element being a bellow}
+   16/0619  . . . . {acting directly on the obturator}
+   16/0622  . . . . . {characterised by the form of the
+   16/0625  . . . . {acting indirectly on the obturator, e.g. by a
+   16/0627  . . . . . {characterised by the form of the
+   16/063   . . . {the sensing element being a membrane}
+   16/0633  . . . . {characterised by the properties of the
+   16/0636  . . . . {characterised by the loading device of the
+   16/0638  . . . . {characterised by the form of the obturator}
+   16/0641  . . . . . {the obturator is a membrane}
+   16/0644  . . . . {the membrane acting directly on the
+   16/0647  . . . . . {using one membrane without spring}
+   16/065   . . . . . . {characterised by the form of the
+   16/0652  . . . . . {using several membranes without spring}
+   16/0655  . . . . . {using one spring-loaded membrane}
+   16/0658  . . . . . . {characterised by the form of the
+   16/0661  . . . . . . {characterised by the loading
+   16/0663  . . . . . {using a spring-loaded membrane with a
+spring-loaded slideable obturator}
+   16/0666  . . . . . . {characterised by the form of the
+   16/0669  . . . . . . {characterised by the loading
+   16/0672  . . . . . {using several spring-loaded membranes}
+   16/0675  . . . . {the membrane acting on the obturator
+   16/0677  . . . . . {using one membrane without spring}
+   16/068   . . . . . . {characterised by the form of the
+   16/0683  . . . . . {using a spring-loaded membrane}
+   16/0686  . . . . . . {characterised by the form of the lever}
+   16/0688  . . . . . . {characterised by the form of the
+   16/0691  . . . . . . {characterised by the loading
+   16/0694  . . . . . {using a spring-loaded membrane with a
+spring-loaded slideable obturator}
+   16/0697  . . . . . {using several membranes}
+   16/08    . . . Control of liquid pressure
+   16/10    . . the sensing element being a piston or plunger
+   16/101   . . . {the controller being arranged as a multiple-
+   16/103   . . . {the sensing element placed between the inlet
+and outlet (multiple-way valve G05D 16/101)}
+   16/106   . . . . {Sleeve-like sensing elements; Sensing
+elements surrounded by the flow path}
+   16/107   . . . {with a spring-loaded piston in combination
+with a spring-loaded slideable obturator that
+move together over range of motion during
+   16/109   . . . {with two or more pistons acting as a single
+pressure controller that move together over
+range of motion during normal operations
+(controllers mounted in series G05D 16/0402,
+controller mounted in parallel G05D 16/0404)}
+   16/12    . . the sensing element being a float
+   16/14    . with auxiliary non-electric power
+   16/16    . . derived from the controlled fluid
+   16/163   . . . {using membranes within the main valve}
+   16/166   . . . {using pistons within the main valve}
+   16/18    . . derived from an external source
+   16/185   . . . {using membranes within the main valve}
+   16/187   . . . {using pistons within the main valve}
+   16/20    . characterised by the use of electric means
+   16/2006  . . {with direct action of electric energy on
+controlling means (combination of electric and
+non-electric auxiliary G05D 16/2093)}
+   16/2013  . . . {using throttling means as controlling means}
+   16/202   . . . . {actuated by an electric motor}
+   16/2022  . . . . {actuated by a proportional solenoid
+(throttling means G05D 16/2024)}
+   16/2024  . . . . {the throttling means being a multiple-way
+   16/2026  . . . . {with a plurality of throttling means}
+   16/2033  . . . . . {the plurality of throttling means being
+   16/204   . . . . . {the plurality of throttling means being
+   16/2046  . . . . . {the plurality of throttling means
+being arranged for the control of a
+single pressure from a plurality of
+converging pressures (G05D 16/204 takes
+   16/2053  . . . . . . {the plurality of throttling means
+comprising only a first throttling means
+acting on a higher pressure and a second
+throttling means acting on a lower
+   16/206   . . . . . {the plurality of throttling means being
+arranged for the control of a plurality of
+diverging pressures from a single pressure
+(G05D 16/204 takes precedence)}
+   16/2066  . . . {using controlling means acting on the pressure
+   16/2073  . . . . {with a plurality of pressure sources}
+   16/208   . . . {using a combination of controlling
+means as defined in G05D 16/2013 and
+G05D 16/2066(G05D 16/2073 takes
+   16/2086  . . {without direct action of electric energy on the
+controlling means (combination of electric and
+non-electric auxiliary G05D 16/2093)}
+   16/2093  . . {with combination of electric and non-electric
+   16/2095  . . . {using membranes within the main valve}
+   16/2097  . . . {using pistons within the main valve}
+   17/00    Control of torque; Control of mechanical power
+   17/02    . characterised by the use of electric means
+   19/00    Control of mechanical oscillations, e.g. of
+amplitude, of frequency, of phase
+   19/02    . characterised by the use of electric means
+   21/00    Control of chemical or physico-chemical variables,
+   21/02    . characterised by the use of electric means
+   22/00    Control of humidity
+   22/02    . characterised by the use of electric means
+   23/00    Control of temperature
+In groups G05D 23/01 - G05D 23/32, the
+last place priority rule is applied, i.e. at each
+hierarchical level, in the absence of an indication
+to the contrary, classification is made in the last
+   23/01    . without auxiliary power
+   23/015   . . {with mechanical sensing element not covered by
+groups G05D 23/02 and G05D 23/12}
+   23/02    . . with sensing element expanding and contracting
+in response to changes of temperature
+   23/021   . . . {the sensing element being a non-metallic
+   23/022   . . . . {the sensing element being placed within a
+   23/023   . . . . {the sensing element being placed outside a
+   23/024   . . . {the sensing element being of the rod type, tube
+   23/025   . . . . {the sensing element being placed within a
+   23/026   . . . . {the sensing element being placed outside a
+   23/027   . . . . . {for combustible fluid}
+   23/028   . . . {with fusing sensing element}
+   23/08    . . . with bimetallic element
+   23/10    . . . . with snap-action elements
+   23/12    . . with sensing element responsive to pressure or
+volume changes in a confined fluid
+   23/121   . . . {characterised by the sensing element}
+   23/122   . . . . {using a plurality of sensing elements}
+   23/123   . . . {the sensing element being placed within a
+   23/125   . . . {the sensing element being placed outside a
+   23/126   . . . . {using a capillary tube}
+   23/127   . . . . . {to control a gaseous fluid circulation}
+   23/128   . . . . . . {the fluid being combustible}
+   23/13    . . by varying the mixing ratio of two fluids having
+   23/1306  . . . {for liquids (G05D 23/1393 takes precedence)}
+   23/1313  . . . . {without temperature sensing element}
+   23/132   . . . . {with temperature sensing element}
+   23/1326  . . . . . {details of the sensor}
+   23/1333  . . . . . {measuring the temperature of incoming
+   23/134   . . . . . {measuring the temperature of mixed
+   23/1346  . . . . . . {with manual temperature setting
+   23/1353  . . . . . . . {combined with flow controlling
+   23/136   . . . . . . {with pressure equalizing means}
+   23/1366  . . . . . {using a plurality of sensing elements}
+   23/1373  . . . . . . {measuring the temperature of mixed
+   23/138   . . . {for gases (G05D 23/1393 takes precedence)}
+   23/1386  . . . {for steam and liquid (G05D 23/1393 takes
+   23/1393  . . . {characterised by the use of electric means}
+   23/185   . with auxiliary non-electric power
+   23/1852  . . {with sensing element expanding and contracting
+in response to change of temperature}
+   23/1854  . . {with bimetallic element}
+   23/1856  . . {with sensing element responsive to pressure or
+volume change in a confined fluid}
+   23/1858  . . {by varying the mixing ratio of fluids having
+   23/19    . characterised by the use of electric means
+{(G05D 23/1393 takes precedence)}
+   23/1902  . . {characterised by the use of a variable reference
+   23/1904  . . . {variable in time}
+   23/1905  . . . {associated with tele control}
+   23/1906  . . {using an analogue comparing device}
+   23/1909  . . . {whose output amplitude can only take two
+   23/1912  . . . {whose output amplitude can take more than
+   23/1913  . . . {delivering a series of pulses}
+   23/1917  . . {using digital means}
+   23/1919  . . {characterised by the type of controller}
+   23/192   . . . {using a modification of the thermal impedance
+   23/1921  . . . {using a thermal motor}
+   23/1923  . . . {using thermal energy, the cost of which varies
+   23/1924  . . . {using thermal energy, the availability of which
+   23/1925  . . {using a combination of auxiliary electric and
+   23/1927  . . {using a plurality of sensors (G05D 23/1902,
+G05D 23/1917, and G05D 23/1919 take
+   23/1928  . . . {sensing the temperature of one space}
+   23/193   . . . {sensing the temperaure in different places in
+thermal relationship with one or more spaces}
+   23/1931  . . . . {to control the temperature of one space}
+   23/1932  . . . . {to control the temperature of a plurality of
+   23/1934  . . . . . {each space being provided with one
+sensor acting on one or more control
+   23/1935  . . . . {using sequential control}
+   23/1951  . . {with control of the working time of a
+temperature controlling device}
+   23/20    . . with sensing elements having variation of
+electric or magnetic properties with change of
+temperature (G05D 23/13 takes precedence)
+   23/2033  . . . {details of the sensing element}
+   23/2034  . . . . {the sensing element being a semiconductor}
+   23/2035  . . . . {the sensing element being a ionized gas}
+   23/2036  . . . . {the sensing element being a dielectric of a
+   23/2037  . . . {details of the regulator}
+   23/2039  . . . . {using mechanical means}
+   23/22    . . . the sensing element being a thermocouple
+   23/2236  . . . . {details of the regulator}
+   23/2237  . . . . . {using discharge tubes}
+   23/2239  . . . . . {using photoelectric elements}
+   23/224   . . . . . {using selfs or transformers}
+   23/24    . . . the sensing element having a resistance varying
+with temperature, e.g. a thermistor
+   23/2401  . . . . {using a heating element as a sensing
+   23/2451  . . . . {Details of the regulator}
+   23/2453  . . . . . {using discharge tubes}
+   23/2454  . . . . . {using photoelectric elements}
+   23/2456  . . . . . {using selfs or transformers}
+   23/26    . . . the sensing element having a permeability
+   23/27    . . with sensing element responsive to radiation
+   23/275   . . with sensing element expanding, contracting, or
+fusing in response to changes of temperature
+   23/27535 . . . {Details of the sensing element}
+   23/27536 . . . . {using fusible material}
+   23/27537 . . . . {using expansible fluid}
+   23/27539 . . . . {using conductible expansible fluid}
+   23/2754  . . . . {using bimetallic element}
+   23/27541 . . . . {using expansible solid}
+   23/27543 . . . . {using the controlled element as sensing
+   23/30    . . Automatic controllers with an auxiliary heating
+device affecting the sensing element, e.g. for
+anticipating change of temperature
+   23/303   . . . {using a sensing element having a resistance
+varying with temperature, e.g. thermistor}
+   23/306   . . . . {using semiconductor devices}
+   23/32    . . . with provision for adjustment of the effect of
+the auxiliary heating device, e.g. a function of
+   24/00    Control of viscosity
+   24/02    . characterised by the use of electric means
+   25/00    Control of light, e.g. intensity, colour or phase
+(optical devices or arrangements using movable
+or deformable elements for controlling light
+independent of the light source G02B 26/00; devices
+or arrangements, the optical operation of which is
+modified by changing the optical properties of the
+medium of the devices or arrangements for the control
+of light, circuit arrangements specially adapted
+therefor, control of light by electro-magnetic waves,
+electrons or other elementary particles G02F 1/00)
+   25/02    . characterised by the use of electric means
+   27/00    Simultaneous control of variables covered by two
+or more of main groups G05D 1/00 - G05D 25/00
+   27/02    . characterised by the use of electric means
+   29/00    Simultaneous control of electric and non-electric
+   99/00    Subject matter not provided for in other groups of
+ 2201/02    . Control of position of land vehicles
+ 2201/0201  . . Agriculture or harvesting machine
+ 2201/0202  . . Building or civil engineering machine
+ 2201/0203  . . Cleaning or polishing vehicle
+ 2201/0205  . . Harbour vehicle, e.g. crane
+ 2201/0206  . . Vehicle in a health care environment, e.g. for
+distribution of food or medicins in a hospital or
+for helping handicapped persons
+ 2201/0207  . . Unmanned vehicle for inspecting or visiting an
+ 2201/0209  . . Combat or reconnaissance vehicle for military,
+police or security applications
+ 2201/0211  . . Vehicle in an office environment, e.g. for
+delivering mail or for videoconferencing
+ 2201/0212  . . Driverless passenger transport vehicle
+ 2201/0213  . . Road vehicle, e.g. car or truck
+ 2201/0214  . . Position controlled toy
+ 2201/0216  . . Vehicle for transporting goods in a warehouse,
+ 2201/0217  . . Anthropomorphic or bipedal robot
+ 2201/0218  . . Planetary exploration vehicle

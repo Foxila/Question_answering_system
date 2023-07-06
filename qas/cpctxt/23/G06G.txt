@@ -1,0 +1,180 @@
+COOPERATIVE PATENT CLASSIFICATION
+COMPUTING; CALCULATING OR COUNTING
+ANALOGUE COMPUTERS (analogue optical computing devices G06E 3/00)
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Hand manipulated computing devices (planimeters
+    1/0005  . {characterised by a specific application}
+    1/001   . . {for medical purposes, for biological purposes}
+    1/0015  . . {for computing periodic phenomena, e.g. fertility
+    1/0021  . . {for civil engineering}
+    1/0026  . . {for machining}
+    1/0031  . . {for hydraulics}
+    1/0036  . . {for electricity, for electronics}
+    1/0042  . . {for optics, for photography}
+    1/0052  . . {for air navigation or sea navigation}
+    1/0057  . . {for gun laying, for bomb aiming}
+    1/0063  . . {for calculating fuel consumption}
+    1/0068  . . {for conversion from one unit system to another,
+    1/0073  . . {for commerce, bank or invoicing}
+    1/0078  . . . {for calculating interests}
+    1/0084  . . . {for calculating earned incomes}
+    1/0089  . . . {for calculating taxes}
+    1/0094  . . {for trigonometric computations}
+    1/02    . Devices in which computing is effected by adding,
+subtracting, or comparing lengths of parallel or
+concentric graduated scales {(G06G 1/0005 takes
+    1/025   . . {decimal point positioning devices}
+    1/04    . . characterised by construction (G06G 1/10 takes
+    1/045   . . . {with scales borne by bands}
+    1/06    . . . with rectilinear scales, e.g. slide rule
+    1/065   . . . . {construction of the cursor}
+    1/08    . . . with circular or helical scales
+    1/085   . . . . {borne by a cylinder}
+    1/10    . . characterised by the graduation
+    1/105   . . . {linear graduations}
+    1/12    . . . logarithmic graduations, e.g. for multiplication
+    1/14    . in which a straight or curved line has to be drawn
+from given points on one or more input scales to
+one or more points on a result scale
+    1/16    . in which a straight or curved line has to be drawn
+through related points on one or more families of
+    3/00    Devices in which the computing operation
+is performed mechanically (G06G 1/00 takes
+    3/02    . for performing additions or subtractions, e.g.
+    3/04    . for performing multiplications or divisions, e.g.
+    3/06    . for evaluating functions by using cams and cam
+    3/08    . for integrating or differentiating, e.g. by wheel and
+    3/10    . for simulating specific processes, systems, or
+    5/00    Devices in which the computing operation is
+performed by means of fluid-pressure elements
+(such elements in general F15C)
+    7/00    Devices in which the computing operation is
+performed by varying electric or magnetic
+    7/02    . Details not covered by G06G 7/04 - G06G 7/10,
+{e.g. monitoring, construction, maintenance}
+    7/04    . Input or output devices (graph readers G06K 11/00;
+function plotters, co-ordinate plotters G06K 15/22,
+    7/06    . Programming arrangements, e.g. plugboard for
+interconnecting functional units of the computer;
+Digital programming {(hybrid computers G06J)}
+    7/10    . Power supply arrangements
+    7/12    . Arrangements for performing computing operations,
+e.g. operational amplifiers (amplifiers in general
+H03F; {adapted for telemeasuring or for indicating
+or recording the results of the measurement
+G01D 1/10, G01D 1/16; for fuzzy computing
+    7/122   . . for optimisation, e.g. least square fitting, linear
+programming, critical path analysis, gradient
+    7/14    . . for addition or subtraction (of vector quantities
+G06G 7/22 {computing the average by addition;
+differential amplifiers H03F 3/45})
+    7/16    . . for multiplication or division {(G06G 7/19 and
+G06G 7/24 take precedence; measuring electric
+    7/161   . . . with pulse modulation, e.g. modulation of
+amplitude, width, frequency, phase or form
+    7/162   . . . using galvano- magnetic effects, e.g. Hall
+effect; using similar magnetic effects
+    7/163   . . . using a variable impedance controlled by one
+of the input signals, variable amplification or
+transfer function {(G06G 7/161, G06G 7/162
+    7/164   . . . using means for evaluating powers, e.g.
+quarter square multiplier (evaluating powers
+    7/18    . . for integration or differentiation; for forming
+integrals (G06G 7/19 takes precedence)
+    7/1806  . . . {with respect to a variable other than time}
+    7/1813  . . . {using electrochemical elements, e.g. solion}
+    7/182   . . . using magnetic elements
+    7/184   . . . using capacitive elements
+    7/186   . . . . using an operational amplifier comprising a
+capacitor or a resistor in the feedback loop
+    7/1865  . . . . . {with initial condition setting}
+    7/188   . . . using electromechanical elements
+    7/19    . . for forming integrals of products, e.g. Fourier
+integrals, Laplace integrals, correlation integrals;
+for analysis or synthesis of functions using
+orthogonal functions (Fourier or spectrum
+analysis G01R 23/16; sound analysis or synthesis
+    7/1907  . . . {using charge transfer devices}
+    7/1914  . . . {using a magnetic medium, a linear filter}
+    7/1921  . . . {for forming Fourier integrals, harmonic
+analysis and synthesis (spectrum analysis
+    7/1928  . . . {for forming correlation integrals; for
+forming convolution integrals (G06G 7/195,
+G06G 7/1907 and G06G 7/1914 take
+    7/1935  . . . . {by converting at least one the input
+signals into a two level signal, e.g. polarity
+    7/1942  . . . {for forming other integrals of product, e.g.
+orthogonal functions, Laplace, Laguerre,
+Walsh, Hadamard, Hilbert (G06G 7/195,
+G06G 7/1907 and G06G 7/1914 take
+    7/195   . . . using electro- acoustic elements
+    7/20    . . for evaluating powers, roots, polynomes, mean
+square values, standard deviation (G06G 7/122,
+G06G 7/28 take precedence; gamma correction in
+television systems H04N 5/20, H04N 9/69)
+    7/22    . . for evaluating trigonometric functions; for
+conversion of co-ordinates; for computations
+involving vector quantities (trigonometric
+computations using simultaneous equations
+G06G 7/34 {for computations in the complex
+plane; G06G 7/20, G06G 7/28 take precedence})
+    7/24    . . for evaluating logarithmic or exponential
+functions, e.g. hyperbolic functions {(for
+multiplication, division or for evaluating powers
+or roots using logarithmic functions; gamma
+correction in television systems H04N 5/20,
+    7/25    . . for discontinuous functions, e.g. backlash, dead
+zone, limiting absolute value or peak value
+{(measuring the maximum value of currents or
+    7/26    . . Arbitrary function generators {(using Fourier
+series or other orthogonal functions G06G 7/19;
+using curve followers G06K 11/02)}
+    7/28    . . . for synthesising functions by piecewise
+    7/30    . . for interpolation or extrapolation (G06G 7/122
+    7/32    . . for solving of equations {or inequations; for
+    7/34    . . . of simultaneous equations (G06G 7/122 takes
+    7/36    . . . of single equations of quadratic or higher
+degree (G06G 7/22, G06G 7/24 take
+    7/38    . . . of differential or integral equations
+    7/40    . . . . of partial differential equations {of field or
+wave equations}(simulating specific devices
+    7/42    . . . . . using electrolytic tank
+    7/44    . . . . . using continuous medium, current-
+    7/46    . . . . . using discontinuous medium, e.g.
+    7/48    . Analogue computers for specific processes, systems
+    7/485   . . {for determining the trajectory of particles, e.g. of
+electrons (measurement performed on radiation
+beams G01T 1/29; processing or analysing tracks
+    7/50    . . for distribution networks, e.g. for fluids
+    7/52    . . for economic systems; for statistics (G06G 7/122,
+    7/54    . . for nuclear physics, e.g. nuclear reactors,
+radioactive fall {(processing of scintigraphic
+or other radio-isotope data G01T 1/1647,
+    7/56    . . for heat flow (G06G 7/58 takes precedence)
+    7/57    . . for fluid flow (G06G 7/50 takes precedence){; for
+    7/58    . . for chemical processes (G06G 7/75 takes
+precedence); {for physico-chemical processes; for
+    7/60    . . for living beings, e.g. their nervous systems {; for
+    7/62    . . for electric systems or apparatus {(G06G 7/78
+This group covers only computers specially
+adapted for electronic systems or devices
+    7/625   . . . for filters; for delay lines {(measuring
+characteristics of electric networks, e.g.
+plotting Nyquist diagram G01R 27/28)}
+    7/63    . . . for power apparatus, e.g. motors, or supply
+distribution networks {(for control systems of
+electric power apparatus G06G 7/66)}
+    7/635   . . . . for determining the most economical
+    7/64    . . for non-electric machines, e.g. turbine
+    7/66    . . for control systems {(for optimisation
+    7/68    . . for civil engineering structures, e.g. beam, strut,
+girder, {elasticity computation}
+    7/70    . . for vehicles, e.g. to determine permissible loading
+of ships {, centre of gravity, necessary fuel}
+    7/72    . . . Flight simulator (Link trainers G09B 9/00)
+    7/75    . . for component analysis, e.g. of mixtures, of
+colours (G06G 7/122 takes precedence {; gas
+    7/78    . . for direction-finding, locating, distance or
+velocity measuring, or navigation systems
+    7/80    . . for gunlaying; for bomb aiming; for guiding
+   99/00    Subject matter not provided for in other groups of

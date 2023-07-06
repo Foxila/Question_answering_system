@@ -1,0 +1,294 @@
+COOPERATIVE PATENT CLASSIFICATION
+MEASURING TEMPERATURE; MEASURING QUANTITY OF HEAT; THERMALLY-
+SENSITIVE ELEMENTS NOT OTHERWISE PROVIDED FOR (radiation pyrometry
+1. In this subclass, the following term is used with the meaning indicated :
+• "thermometer" includes thermally-sensitive elements not provided for in other subclasses.
+2. Attention is drawn to the Notes following the title of class G01.
+3. Attention is drawn to the Notes following the titles of class B81 and subclass B81B relating to "microstructural devices" and
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Details of thermometers not specially adapted
+for particular types of thermometer (circuits for
+reducing thermal inertia G01K 7/42)
+    1/02    . Means for indicating or recording specially adapted
+    1/024   . . for remote indication
+    1/026   . . {arrangements for monitoring a plurality of
+temperatures, e.g. by multiplexing}
+    1/028   . . {arrangements for numerical indication}
+    1/045   . . . {temperature indication combined with the
+indication of another variable (indicating of
+    1/06    . . . Arrangements for facilitating reading, e.g.
+    1/065   . . . . {of liquid column thermometers}
+    1/08    . Protective devices, e.g. casings
+    1/10    . . for preventing chemical attack
+    1/105   . . . {for siderurgical use}
+    1/12    . . for preventing damage due to heat overloading
+    1/125   . . . {for siderurgical use}
+    1/14    . Supports; Fastening devices; Arrangements for
+mounting thermometers in particular locations
+    1/143   . . for measuring surface temperatures
+    1/146   . . {arrangements for moving thermometers to or
+    1/16    . Special arrangements for conducting heat from the
+object to the sensitive element
+    1/165   . . {for application in zero heat flux sensors}
+    1/18    . . for reducing thermal inertia
+    1/20    . Compensating for effects of temperature changes
+other than those to be measured, e.g. changes in
+    1/22    . . by means of fluid contained in a hollow
+body having parts which are deformable or
+displaceable under the pressure developed by the
+    1/24    . . by means of compounded strips or plates, e.g. by
+    1/26    . Compensating for effects of pressure changes
+    3/00    Thermometers giving results other than
+momentary value of temperature (G01K 7/42 takes
+    3/005   . {Circuits arrangements for indicating a
+predetermined temperature (fire detection
+    3/02    . giving means values; giving integrated values
+    3/04    . . in respect of time
+    3/06    . . in respect of space
+    3/08    . giving differences of values (using thermoelectric
+elements G01K 7/02); giving differentiated values
+    3/10    . . in respect of time, e.g. reacting only to a quick
+    3/12    . . . based upon expansion or contraction of
+    3/14    . . in respect of space
+ 2003/145   . . . {Hotspot localization}
+    5/00    Measuring temperature based on the expansion
+or contraction of a material (G01K 9/00 takes
+precedence; giving other than momentary value of
+    5/02    . the material being a liquid (contained in a hollow
+body having parts which are deformable or
+displaceable under the pressure developed by the
+    5/025   . . {Manufacturing of this particular type of
+    5/06    . . . Arrangements for driving back the liquid
+    5/08    . . . Capillary tubes
+    5/10    . . . Containers for the liquid
+    5/12    . . . Selection of liquid compositions
+    5/14    . . the liquid displacing a further liquid column or a
+solid body (for maximum or minimum indication
+    5/16    . . with electric contacts
+    5/18    . . with electric conversion means for final
+    5/20    . . with means for indicating a maximum or a
+minimum or both (G01K 5/22 takes precedence)
+    5/22    . . with provision for expansion indicating over not
+    5/225   . . . {with means for indicating a maximum, e.g. a
+constriction in the capillary tube}
+    5/24    . . with provision for measuring the difference
+    5/26    . . with provision for adjusting zero point of scale,
+    5/28    . the material being a gas (contained in a hollow body
+having parts which are deformable or displaceable
+under the pressure developed by the material
+    5/30    . . the gas displacing a liquid column
+    5/32    . the material being a fluid contained in a hollow
+body having parts which are deformable or
+displaceable (under pressure developed by
+evaporation G01K 11/04; pressure measuring
+    5/323   . . {Selection of fluid compositions}
+    5/326   . . {using a fluid container connected to the
+deformable body by means of a capillary tube}
+    5/34    . . the body being a capsule (G01K 5/36, G01K 5/42
+    5/36    . . the body being a tubular spring, e.g. Bourdon tube
+    5/38    . . . of spiral formation
+    5/40    . . . of helical formation
+    5/42    . . the body being a bellows
+    5/44    . . the body being a cylinder and piston
+    5/46    . . with electric conversion means for final
+    5/465   . . . {using electrical contact making or breaking
+    5/48    . the material being a solid
+    5/483   . . {using materials with a configuration memory,
+    5/486   . . {using microstructures, e.g. made of silicon
+(G01K 7/015, G01K 7/028, G01K 7/226,
+    5/50    . . arranged for free expansion or contraction
+    5/52    . . . with electrical conversion means for final
+    5/54    . . consisting of pivotally-connected elements
+    5/56    . . constrained so that expansion or contraction
+causes a deformation of the solid
+    5/58    . . . the solid body being constrained at more
+than one point, e.g. rod, plate, diaphragm
+    5/60    . . . . the body being a flexible wire or ribbon
+    5/62    . . . the solid body being formed of compounded
+strips or plates, e.g. bimetallic strip
+    5/64    . . . . Details of the compounds system
+    5/66    . . . . . Selection of composition of the
+    5/68    . . . . . Shape of the system
+    5/70    . . . . specially adapted for indicating or recording
+    5/72    . . . . . with electric transmission means for final
+    7/00    Measuring temperature based on the use of
+electric or magnetic elements directly sensitive to
+heat (giving results other than momentary value of
+temperature G01K 3/00) {; Power supply therefor,
+e.g. using thermoelectric elements}
+    7/003   . {using pyroelectric elements (radiation pyrometers
+    7/006   . {using superconductive elements}
+    7/01    . using semiconducting elements having PN
+junctions (G01K 7/02, G01K 7/16, G01K 7/30 take
+    7/015   . . {using microstructures, e.g. made of silicon}
+    7/02    . using thermoelectric elements, e.g. thermocouples
+    7/021   . . {Particular circuit arrangements (G01K 7/026,
+G01K 7/12, G01K 7/14 take precedence)}
+    7/023   . . {provided with specially adapted connectors
+    7/025   . . {expendable thermocouples}
+    7/026   . . Arrangements for signalling failure or
+    7/028   . . {using microstructures, e.g. made of silicon}
+    7/04    . . the object to be measured not forming one of the
+    7/06    . . . the thermoelectric materials being arranged one
+within the other with the junction at one end
+exposed to the object, e.g. sheathed type
+    7/08    . . the object to be measured forming one of the
+thermoelectric materials, e.g. pointed type
+    7/10    . . Arrangements for compensating for auxiliary
+    7/12    . . . Arrangements with respect to the cold junction,
+e.g. preventing influence of temperature of
+    7/13    . . . . Circuits for cold-junction compensation
+    7/14    . . Arrangements for modifying the output
+characteristic, e.g. linearising
+    7/16    . using resistive elements (resistive elements per se
+ 2007/163   . . {provided with specially adapted connectors}
+ 2007/166   . . {Electrical time domain reflectometry}
+    7/18    . . the element being a linear resistance, e.g.
+platinum resistance thermometer (G01K 7/26
+    7/183   . . . {characterised by the use of the resistive
+    7/186   . . . {using microstructures}
+    7/20    . . . in a specially-adapted circuit, e.g. bridge circuit
+    7/203   . . . . {in an oscillator circuit}
+    7/206   . . . . {in a potentiometer circuit}
+    7/21    . . . . for modifying the output characteristic, e.g.
+    7/22    . . the element being a non-linear resistance, e.g.
+thermistor (G01K 7/26 takes precedence)
+    7/223   . . . {characterised by the shape of the resistive
+    7/226   . . . {using microstructures, e.g. silicon spreading
+    7/24    . . . in a specially-adapted circuit, e.g. bridge circuit
+    7/245   . . . . {in an oscillator circuit}
+    7/25    . . . . for modifying the output characteristic, e.g.
+    7/26    . . the element being an electrolyte
+    7/28    . . . in a specially-adapted circuit, e.g. bridge circuit
+    7/30    . using thermal noise of resistances or conductors
+    7/32    . using change of resonant frequency of a crystal
+    7/34    . using capacitative elements (capacitors per se
+    7/343   . . {the dielectric constant of which is temperature
+    7/346   . . {for measuring temperature based on the time
+delay of a signal through a series of logical ports}
+    7/36    . using magnetic elements, e.g. magnets, coils
+(magnetic elements per se H01F)
+    7/38    . . the variations of temperature influencing the
+    7/40    . using ionisation of gases
+    7/42    . Circuits effecting compensation of thermal inertia;
+Circuits for predicting the stationary value of a
+ 2007/422   . . {Dummy objects used for estimating temperature
+    7/425   . . {Thermal management of integrated systems}
+    7/427   . . {Temperature calculation based on spatial
+modeling, e.g. spatial inter- or extrapolation}
+    9/00    Measuring temperature based on movements
+caused by redistribution of weight, e.g. tilting
+thermometer (not giving momentary value of
+   11/00    Measuring temperature based upon physical
+or chemical changes not covered by groups
+G01K 3/00, G01K 5/00, G01K 7/00 or G01K 9/00
+   11/003   . {using absorption or generation of gas, e.g.
+   11/006   . {using measurement of the effect of a material on
+microwaves or longer electromagnetic waves, e.g.
+measuring temperature via microwaves emitted
+by the object (G01K 17/003, G01J 5/00 take
+precedence; measuring the effect of a material on
+X-, gamma- or particle radiation G01K 11/30)}
+   11/02    . using evaporation or sublimation, e.g. by observing
+   11/04    . . from material contained in a hollow body having
+parts which are deformable or displaceable under
+the pressure developed by the vapour
+   11/06    . using melting, freezing, or softening
+   11/08    . . of disposable test bodies, e.g. cone
+   11/12    . using changes in colour, translucency or reflectance
+   11/125   . . using changes in reflectance
+   11/14    . . of inorganic materials
+   11/16    . . of organic materials
+   11/165   . . . of organic liquid crystals
+   11/18    . . of materials which change translucency
+   11/20    . using thermoluminescent materials (G01K 11/32
+   11/22    . using measurement of acoustic effects
+   11/24    . . of the velocity of propagation of sound
+   11/26    . . of resonant frequencies
+   11/265   . . . {using surface acoustic wave [SAW]}
+   11/28    . using measurements of density {(measuring density
+   11/30    . using measurement of the effect of a material on X-
+radiation, gamma radiation or particle radiation
+   11/32    . using changes in transmittance, scattering or
+   11/3206  . . at discrete locations in the fibre, e.g. using Bragg
+   11/3213  . . . using changes in luminescence, e.g. at the distal
+   11/322   . . using Brillouin scattering
+   11/324   . . using Raman scattering
+   13/00    Thermometers specially adapted for specific
+   13/006   . {for cryogenic purposes}
+   13/008   . . {using microstructures, e.g. made of silicon}
+   13/02    . for measuring temperature of moving fluids or
+granular materials capable of flow
+   13/022   . . {Suction thermometers}
+   13/024   . . of moving gases
+   13/026   . . {of moving liquids}
+   13/028   . . {for use in total air temperature [TAT] probes}
+   13/04    . for measuring temperature of moving solid bodies
+   13/06    . . in linear movement
+   13/08    . . in rotary movement
+   13/10    . for measuring temperature within piled or stacked
+materials (by special arrangements for conducting
+heat from the object to the sensitive heat element
+   13/12    . combined with sampling devices for measuring
+temperatures of samples of materials
+   13/125   . . {for siderurgical purposes}
+   13/20    . Clinical contact thermometers for use with humans
+   13/223   . . {Infrared clinical thermometers, e.g. tympanic}
+   13/25    . . Protective devices therefor, e.g. sleeves
+   13/252   . . . {for tympanic thermometers}
+   15/00    Testing or calibrating of thermometers
+   15/002   . {Calibrated temperature sources, temperature
+standards therefor (arrangements with respect
+to the cold junction of thermo-electric elements
+   17/00    Measuring quantity of heat (measuring temperature
+by calorimetry G01K 3/00 - G01K 11/00; specially
+adapted for measuring thermal properties of materials,
+e.g. specific heat, heat of combustion G01N)
+   17/003   . {for measuring the power of light beams, e.g. laser
+   17/006   . {Microcalorimeters, e.g. using silicon
+   17/02    . Calorimeters using transport of an indicating
+substances, e.g. evaporation calorimeters
+   17/025   . . {where evaporation, sublimation or condensation
+caused by heating or cooling, is measured}
+   17/04    . Calorimeters using compensation methods {, i.e.
+where the absorbed or released quantity of heat to
+be measured is compensated by a measured quantity
+   17/06    . Measuring quantity of heat conveyed by flowing
+media, e.g. in heating systems (G01K 17/02,
+G01K 17/04 take precedence){e.g. the quantity
+of heat in a transporting medium, delivered to or
+consumed in an expenditure device}
+   17/08    . . based upon measurement of temperature
+difference {or of a temperature}
+   17/10    . . . between an inlet and an outlet point, combined
+with measurement of rate of flow of the
+medium {if such, by integration during a
+   17/12    . . . . Indicating product of flow and temperature
+difference directly {or temperature}
+   17/14    . . . . . using mechanical means for both
+   17/16    . . . . . using electrical {or magnetic} means for
+   17/18    . . . . . using electrical {or magnetic} means for
+one measurement and mechanical means
+   17/185   . . . . . . {where the indicating-instrument is
+driven electrically or magnetically
+device and mechanically by the flow-
+   17/20    . . . across a radiating surface, combined with
+ascertainment of the heat transmission
+coefficient {(materials therefor G01K 17/08)}
+   19/00    Testing or calibrating calorimeters
+ 2201/00    Application of thermometers in air-conditioning
+ 2203/00    Application of thermometers in cryogenics
+ 2205/00    Application of thermometers in motors, e.g. of a
+ 2205/02    . for measuring inlet gas temperature
+ 2205/04    . for measuring exhaust gas temperature
+ 2207/00    Application of thermometers in household
+ 2207/02    . for measuring food temperature
+ 2207/04    . . for conservation purposes
+ 2207/06    . . for preparation purposes
+ 2207/08    . . with food recipients having temperature sensing
+ 2211/00    Thermometers based on nanotechnology
+ 2213/00    Temperature mapping
+ 2215/00    Details concerning sensor power supply
+ 2217/00    Temperature measurement using electric or
+magnetic components already present in the
+ 2219/00    Thermometers with dedicated analog to digital

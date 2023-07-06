@@ -1,0 +1,951 @@
+COOPERATIVE PATENT CLASSIFICATION
+GENERATION; CONVERSION OR DISTRIBUTION OF ELECTRIC POWER
+DYNAMO-ELECTRIC MACHINES (dynamo-electric relays H01H 53/00; conversion of DC
+or AC input power into surge output power {H03K 3/53})
+1. This subclass covers the structural adaptation of dynamo-electric machines for the purpose of their control.
+2. This subclass does not cover starting, regulating, electronically commutating, braking, or otherwise controlling motors,
+generators or dynamo-electric converters, in general, which is covered by subclass H02P.
+3. Attention is drawn to the Notes following the titles of class B81 and subclass B81B relating to "microstructural devices" and
+4. Group H02K 16/00 takes precedence over groups H02K 17/00 - H02K 53/00.
+{This Note corresponds to IPC Note (1) relating to H02K 17/00 - H02K 53/00.}
+5. {In this subclass, it is desirable to add the indexing codes of H02K 2201/00-H02K 2213/12.}
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Details of the magnetic circuit (magnetic circuits for
+    1/02    . characterised by the magnetic material
+    1/04    . characterised by the material used for insulating the
+magnetic circuit or parts thereof
+    1/06    . characterised by the shape, form or construction
+    1/10    . . . Commutating poles
+    1/12    . . Stationary parts of the magnetic circuit
+    1/14    . . . Stator cores with salient poles
+    1/141   . . . . {consisting of C-shaped cores}
+    1/143   . . . . . {of the horse-shoe type}
+    1/145   . . . . {having an annular coil, e.g. of the claw-pole
+    1/146   . . . . {consisting of a generally annular yoke with
+    1/148   . . . . . {Sectional cores (H02K 1/141 takes
+    1/16    . . . Stator cores with slots for windings
+    1/165   . . . . {Shape, form or location of the slots}
+    1/17    . . . Stator cores with permanent magnets
+    1/18    . . . Means for mounting or fastening magnetic
+stationary parts on to, or to, the stator structures
+    1/182   . . . . {to stators axially facing the rotor, i.e. with
+    1/185   . . . . {to outer stators}
+    1/187   . . . . {to inner stators}
+    1/20    . . . with channels or ducts for flow of cooling
+    1/22    . . Rotating parts of the magnetic circuit
+    1/223   . . . {Rotor cores with windings and permanent
+magnets (for additional excitation in
+synchronous motors or generators
+H02K 21/042; in synchronous motors having
+additional short-circuited winding for starting
+as an asynchronous motor H02K 21/46)}
+    1/24    . . . Rotor cores with salient poles {; Variable
+    1/243   . . . . {of the claw-pole type}
+    1/246   . . . . {Variable reluctance rotors}
+    1/26    . . . Rotor cores with slots for windings
+    1/265   . . . . {Shape, form or location of the slots}
+    1/27    . . . Rotor cores with permanent magnets
+    1/2706  . . . . Inner rotors
+    1/2713  . . . . . the magnetisation axis of the magnets
+being axial, e.g. claw-pole type
+    1/272   . . . . . the magnetisation axis of the magnets
+being perpendicular to the rotor axis
+    1/2726  . . . . . . the rotor consisting of a single magnet
+or two or more axially juxtaposed single
+    1/2733  . . . . . . . Annular magnets
+    1/274   . . . . . . the rotor consisting of two or more
+circumferentially positioned magnets
+    1/2746  . . . . . . . the rotor consisting of magnets
+arranged with the same polarity, e.g.
+    1/2753  . . . . . . . the rotor consisting of magnets or
+groups of magnets arranged with
+    1/276   . . . . . . . . Magnets embedded in the magnetic
+    1/2766  . . . . . . . . . {having a flux concentration
+    1/2773  . . . . . . . . . . {consisting of tangentially
+    1/278   . . . . . . . . Surface mounted magnets; Inset
+by reclassification into groups
+should be considered in order to
+    1/2781  . . . . . . . . . Magnets shaped to vary the
+    1/2783  . . . . . . . . . with magnets arranged in
+    1/2786  . . . . Outer rotors
+Group H02K 1/2786 is impacted by
+reclassification into groups H02K 1/2787,
+All groups listed in this Warning should
+be considered in order to perform a
+    1/2787  . . . . . the magnetisation axis of the magnets
+being perpendicular to the rotor axis
+Groups H02K 1/2787, H02K 1/2788,
+H02K 1/2792 are incomplete pending
+reclassification of documents from
+All groups listed in this Warning should
+be considered in order to perform a
+    1/2788  . . . . . . the rotor consisting of a single magnet
+or two or more axially juxtaposed single
+    1/2789  . . . . . . the rotor consisting of two or more
+circumferentially positioned magnets
+    1/279   . . . . . . . Magnets embedded in the magnetic
+    1/2791  . . . . . . . Surface mounted magnets; Inset
+    1/27915 . . . . . . . . Magnets shaped to vary the
+    1/2792  . . . . . . . . with magnets arranged in Halbach
+    1/2793  . . . . Rotors axially facing stators
+Group H02K 1/2793 is impacted by
+reclassification into groups H02K 1/2795,
+All groups listed in this Warning should
+be considered in order to perform a
+    1/2795  . . . . . the rotor consisting of two or more
+circumferentially positioned magnets
+Groups H02K 1/2795, H02K 1/2796
+pending reclassification of documents
+All groups listed in this Warning should
+be considered in order to perform a
+    1/2796  . . . . . . where both axial sides of the rotor face a
+    1/2798  . . . . . . where both axial sides of the stator face
+    1/28    . . . Means for mounting or fastening rotating
+magnetic parts on to, or to, the rotor structures
+    1/30    . . . . using intermediate parts, e.g. spiders
+    1/32    . . . with channels or ducts for flow of cooling
+    1/325   . . . . {between salient poles}
+    1/34    . . Reciprocating, oscillating or vibrating parts of the
+    3/00    Details of windings
+    3/02    . Windings characterised by the conductor material
+    3/04    . Windings characterised by the conductor shape,
+form or construction, e.g. with bar conductors
+    3/12    . . arranged in slots
+    3/14    . . . with transposed conductors, e.g. twisted
+    3/16    . . . for auxiliary purposes, e.g. damping or
+    3/18    . . Windings for salient poles
+    3/20    . . . for auxiliary purposes, e.g. damping or
+    3/22    . . consisting of hollow conductors
+    3/24    . . with channels or ducts for cooling medium
+    3/26    . . consisting of printed conductors
+    3/28    . . Layout of windings or of connections between
+windings (windings for pole-changing
+H02K 17/06, H02K 17/14, H02K 19/12,
+    3/30    . Windings characterised by the insulating material
+    3/32    . Windings characterised by the shape, form or
+    3/325   . . {for windings on salient poles, such as claw-
+    3/34    . . between conductors or between conductor and
+    3/345   . . . {between conductor and core, e.g. slot
+    3/38    . . around winding heads, equalising connectors, or
+    3/40    . . for high voltage, e.g. affording protection against
+    3/42    . Means for preventing or reducing eddy-current
+losses in the winding heads, e.g. by shielding
+    3/44    . Protection against moisture or chemical attack;
+Windings specially adapted for operation in liquid
+    3/46    . Fastening of windings on the stator or rotor
+    3/47    . . Air-gap windings, i.e. iron-free windings
+    3/487   . . . Slot-closing devices
+    3/50    . . Fastening of winding heads, equalising
+connectors, or connections thereto
+    3/505   . . . {for large machine windings, e.g. bar windings
+    3/51    . . . applicable to rotors only
+    3/52    . . Fastening salient pole windings or connections
+    3/521   . . . {applicable to stators only}
+    3/522   . . . . {for generally annular cores with salient
+    3/524   . . . . {for U-shaped, E-shaped or similarly shaped
+    3/525   . . . . {Annular coils, e.g. for cores of the claw-
+    3/527   . . . {applicable to rotors only}
+    3/528   . . . . {of the claw-pole type}
+    5/00    Casings; Enclosures; Supports
+    5/02    . Casings or enclosures characterised by the material
+    5/04    . Casings or enclosures characterised by the shape,
+    5/06    . . Cast metal casings
+    5/08    . . Insulating casings
+    5/10    . . with arrangements for protection from ingress,
+    5/12    . . specially adapted for operating in liquid or
+gas (combined with cooling arrangements
+    5/124   . . . Sealing of shafts
+    5/128   . . . using air-gap sleeves or air-gap discs
+    5/1282  . . . . {the partition wall in the air-gap being non
+    5/1285  . . . . {of the submersible type}
+    5/132   . . . Submersible electric motors (H02K 5/128 takes
+    5/136   . . . explosion-proof
+    5/14    . . Means for supporting or protecting brushes or
+    5/141   . . . {for cooperation with slip-rings}
+    5/143   . . . {for cooperation with commutators}
+    5/145   . . . . {Fixedly supported brushes or brush holders,
+e.g. leaf or leaf-mounted brushes}
+    5/146   . . . . {Pivotally supported brushes or brush
+    5/148   . . . . {Slidably supported brushes}
+    5/15    . . Mounting arrangements for bearing-shields or end
+    5/16    . . Means for supporting bearings, e.g. insulating
+supports or means for fitting bearings in the
+bearing-shields (magnetic bearings H02K 7/09)
+    5/161   . . . {radially supporting the rotary shaft at both
+ends of the rotor (H02K 5/165, H02K 5/167,
+    5/163   . . . {radially supporting the rotary shaft at only one
+end of the rotor (H02K 5/165, H02K 5/167,
+    5/165   . . . {radially supporting the rotor around a fixed
+spindle; radially supporting the rotor directly
+(H02K 5/167, H02K 5/173 take precedence)}
+    5/167   . . . using sliding-contact or spherical cap bearings
+    5/1672  . . . . {radially supporting the rotary shaft at
+both ends of the rotor (H02K 5/1677 takes
+    5/1675  . . . . {radially supporting the rotary shaft at only
+one end of the rotor (H02K 5/1677 takes
+    5/1677  . . . . {radially supporting the rotor around a
+fixed spindle; radially supporting the rotor
+    5/173   . . . using bearings with rolling contact, e.g. ball
+    5/1732  . . . . {radially supporting the rotary shaft at
+both ends of the rotor (H02K 5/1737 takes
+    5/1735  . . . . {radially supporting the rotary shaft at only
+one end of the rotor (H02K 5/1737 takes
+    5/1737  . . . . {radially supporting the rotor around a
+fixed spindle; radially supporting the rotor
+    5/18    . . with ribs or fins for improving heat transfer
+    5/20    . . with channels or ducts for flow of cooling
+    5/203   . . . {specially adapted for liquids, e.g. cooling
+    5/207   . . . {with openings in the casing specially adapted
+    5/22    . . Auxiliary parts of casings not covered by groups
+H02K 5/06-H02K 5/20, e.g. shaped to form
+connection boxes or terminal boxes
+    5/225   . . . {Terminal boxes or connection arrangements
+(specially adapted for submersible motors
+    5/24    . specially adapted for suppression or reduction of
+    5/26    . Means for adjusting casings relative to their
+    7/00    Arrangements for handling mechanical energy
+structurally associated with dynamo-electric
+machines, e.g. structural association with
+mechanical driving motors or auxiliary dynamo-
+    7/003   . {Couplings; Details of shafts (means for mounting
+    7/006   . {Structural association of a motor or generator with
+the drive train of a motor vehicle}
+    7/02    . Additional mass for increasing inertia, e.g.
+    7/025   . . {for power storage}
+    7/06    . Means for converting reciprocating motion into
+    7/061   . . {using rotary unbalanced masses (for generating
+mechanical vibrations in general B06B 1/16)}
+    7/063   . . . {integrally combined with motor parts, e.g.
+    7/065   . . Electromechanical oscillators; Vibrating magnetic
+    7/07    . . using pawls and ratchet wheels
+    7/075   . . using crankshafts or eccentrics
+    7/08    . Structural association with bearings
+    7/081   . . {specially adapted for worm gear drives
+    7/083   . . {radially supporting the rotary shaft at both
+ends of the rotor (H02K 7/086, H02K 7/09 take
+    7/085   . . {radially supporting the rotary shaft at only one
+end of the rotor (H02K 7/086, H02K 7/09 take
+    7/086   . . {radially supporting the rotor around a fixed
+spindle; radially supporting the rotor directly
+    7/088   . . . {radially supporting the rotor directly}
+    7/09    . . with magnetic bearings
+    7/10    . Structural association with clutches, brakes, gears,
+{Group H02K 7/12 takes precedence over groups
+    7/1008  . . . {structurally associated with the machine rotor
+(H02K 7/1012 takes precedence)}
+    7/1012  . . . {Machine arranged inside the pulley}
+    7/1016  . . . . {Machine of the outer rotor type}
+    7/102   . . with friction brakes
+    7/1021  . . . {Magnetically influenced friction brakes}
+    7/1023  . . . . {using electromagnets}
+    7/1025  . . . . . {using axial electromagnets with generally
+    7/1026  . . . . {using stray fields}
+    7/1028  . . . . . {axially attracting the brake armature in
+the frontal area of the magnetic core}
+    7/104   . . with eddy-current brakes
+    7/106   . . with dynamo-electric brakes
+    7/108   . . with friction clutches
+    7/1085  . . . {Magnetically influenced friction clutches}
+    7/11    . . with dynamo-electric clutches
+    7/112   . . with friction clutches in combination with brakes
+    7/1125  . . . {Magnetically influenced friction clutches and
+    7/114   . . with dynamo-electric clutches in combination
+    7/1163  . . . {where at least two gears have non-parallel
+axes without having orbital motion}
+    7/1166  . . . . {comprising worm and worm-wheel
+(structural association with bearings
+specially adapted for worm gear drives
+    7/118   . . with starting devices
+    7/1185  . . . {with a mechanical one-way direction control,
+i.e. with means for reversing the direction of
+    7/12    . . with auxiliary limited movement of stators, rotors
+or core parts, e.g. rotors axially movable for the
+purpose of clutching or braking
+    7/125   . . . {magnetically influenced}
+    7/14    . Structural association with mechanical loads, e.g.
+with hand-held machine tools or fans (with fan or
+impeller for cooling the machine H02K 9/06)
+    7/145   . . {Hand-held machine tool}
+    7/16    . . for operation above the critical speed of vibration
+    7/18    . Structural association of electric generators with
+mechanical driving motors, e.g. with turbines
+    7/1807  . . {Rotary generators (H02K 7/006 takes
+    7/1815  . . . {structurally associated with reciprocating
+piston engines (general aspects of generating
+sets, e.g. housing, F02B 63/04)}
+    7/1823  . . . {structurally associated with turbines or similar
+    7/183   . . . . {wherein the turbine is a wind turbine
+(adaptation of a wind turbine to an electric
+    7/1838  . . . . . {Generators mounted in a nacelle or
+similar structure of a horizontal axis wind
+    7/1846  . . . {structurally associated with wheels or
+associated parts (dynamos arranged in the
+wheel hub of cycles B62J 6/12)}
+    7/1853  . . . {driven by intermittent forces}
+    7/1861  . . . {driven by animals or vehicles (H02K 7/1853
+    7/1869  . . {Linear generators; sectional generators}
+    7/1876  . . . {with reciprocating, linearly oscillating or
+    7/1884  . . . . {structurally associated with free piston
+    7/1892  . . {Generators with parts oscillating or vibrating
+    7/20    . Structural association with auxiliary dynamo-
+electric machines, e.g. with electric starter motors or
+    9/00    Arrangements for cooling or ventilating (channels
+or ducts in parts of the magnetic circuit H02K 1/20,
+H02K 1/32; channels or ducts in or between
+conductors H02K 3/22, H02K 3/24)
+    9/02    . by ambient air flowing through the machine
+    9/04    . . having means for generating a flow of cooling
+    9/06    . . . with fans or impellers driven by the machine
+    9/08    . by gaseous cooling medium circulating wholly
+within the machine casing (H02K 9/10 takes
+    9/10    . by gaseous cooling medium flowing in closed
+circuit, a part of which is external to the machine
+    9/12    . . wherein the cooling medium circulates freely
+    9/14    . wherein gaseous cooling medium circulates between
+the machine casing and a surrounding mantle
+    9/16    . . wherein the cooling medium circulates through
+ducts or tubes within the casing
+    9/18    . . wherein the external part of the closed circuit
+comprises a heat exchanger structurally
+associated with the machine casing
+    9/19    . for machines with closed casing and closed-circuit
+cooling using a liquid cooling medium, e.g. oil
+Group H02K 9/19 is impacted by reclassification
+Groups H02K 9/19 and H02K 9/197 should
+be considered in order to perform a complete
+    9/193   . . with provision for replenishing the cooling
+medium; with means for preventing leakage of
+    9/197   . . in which the rotor or stator space is fluid-tight,
+e.g. to provide for different cooling media for
+Group H02K 9/197 is incomplete pending
+reclassification of documents from group
+Groups H02K 9/19 and H02K 9/197 should
+be considered in order to perform a complete
+    9/20    . . wherein the cooling medium vaporises within the
+    9/22    . by solid heat conducting material embedded in, or
+arranged in contact with, the stator or rotor, e.g. heat
+    9/24    . Protection against failure of cooling arrangements,
+e.g. due to loss of cooling medium or due to
+interruption of the circulation of cooling medium
+    9/26    . Structural association of machines with devices for
+cleaning or drying cooling medium, e.g. with filters
+    9/28    . Cooling of commutators, slip-rings or brushes e.g.
+   11/00    Structural association of dynamo-electric machines
+with electric components or with devices for
+shielding, monitoring or protection (casings,
+enclosures or supports H02K 5/00)
+   11/0094  . {Structural association with other electrical or
+   11/01    . for shielding from electromagnetic fields {, i.e.
+structural association with shields} (means for
+preventing or reducing eddy-current losses in the
+winding heads by shielding H02K 3/42)
+   11/012   . . {Shields associated with rotating parts, e.g. rotor
+   11/014   . . {Shields associated with stationary parts, e.g.
+   11/0141  . . . {Shields associated with casings, enclosures or
+   11/02    . for suppression of electromagnetic interference
+   11/026   . . Suppressors associated with brushes, brush
+   11/028   . . Suppressors associated with the rotor
+   11/04    . for rectification
+   11/042   . . Rectifiers associated with rotating parts, e.g. rotor
+. . {in motors (H02K 11/042 takes precedence)}
+Group H02K 11/044 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups H02K 11/049 and H02K 11/05.
+Groups H02K 11/044, H02K 11/049 and
+H02K 11/05 should be considered in order to
+. . {in generators (H02K 11/042 takes precedence)}
+Group H02K 11/046 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups H02K 11/049 and H02K 11/05.
+Groups H02K 11/046, H02K 11/049 and
+H02K 11/05 should be considered in order to
+. . . {Rectifiers combined with drive circuits in
+Group H02K 11/048 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups H02K 11/049 and
+Groups H02K 11/048, H02K 11/049 and
+H02K 11/05 should be considered in order
+   11/049   . . Rectifiers associated with stationary parts, e.g.
+Groups H02K 11/049 and H02K 11/05
+are incomplete pending reclassification
+of documents from groups H02K 11/044,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   11/05    . . . Rectifiers associated with casings, enclosures
+   11/20    . for measuring, monitoring, testing, protecting or
+switching (rectifiers H02K 11/04; power electronics
+   11/21    . . Devices for sensing speed or position, or
+actuated thereby (specially adapted for machines
+having non-mechanical commutating devices
+   11/215   . . . Magnetic effect devices, e.g. Hall-effect or
+   11/22    . . . Optical devices
+   11/225   . . . Detecting coils
+   11/23    . . . Mechanically-actuated centrifugal switches
+   11/24    . . Devices for sensing torque, or actuated thereby
+   11/25    . . Devices for sensing temperature, or actuated
+   11/26    . . Devices for sensing voltage, or actuated thereby,
+e.g. overvoltage protection devices
+   11/27    . . Devices for sensing current, or actuated thereby
+(overcurrent protection responsive to temperature
+of the machines or parts thereof, e.g. windings,
+   11/28    . . Manual switches
+   11/30    . Structural association with control circuits or drive
+   11/33    . . Drive circuits, e.g. power electronics
+   11/35    . . Devices for recording or transmitting machine
+parameters, e.g. memory chips or radio
+   11/38    . . Control circuits or drive circuits associated with
+geared commutator motors of the worm-and-
+   11/40    . Structural association with grounding devices
+   13/00    Structural associations of current collectors
+with motors or generators, e.g. brush mounting
+plates or connections to windings (supporting or
+protecting brushes or brush holders in motor casings
+or enclosures H02K 5/14); Disposition of current
+collectors in motors or generators; Arrangements
+   13/003   . {Structural associations of slip-rings}
+   13/006   . {Structural associations of commutators}
+   13/02    . Connections between slip-rings and windings
+   13/04    . Connections between commutator segments and
+   13/06    . . Resistive connections, e.g. by high-resistance
+   13/08    . . Segments formed by extensions of the winding
+   13/10    . Arrangements of brushes or commutators specially
+adapted for improving commutation
+   13/105   . . {Spark suppressors associated with the
+   13/12    . Arrangements for producing an axial reciprocation
+of the rotor and its associated current collector part,
+e.g. for polishing commutator surfaces
+   13/14    . Circuit arrangements for improvement of
+commutation, e.g. by use of unidirectionally
+   15/00    Methods or apparatus specially adapted for
+manufacturing, assembling, maintaining or
+repairing of dynamo-electric machines
+   15/0006  . {Disassembling, repairing or modifying dynamo-
+electric machines (repairing of cooling fluid boxes
+   15/0012  . {Manufacturing cage rotors}
+   15/0018  . {Applying slot closure means in the core;
+Manufacture of slot closure means}
+   15/0025  . {Shaping or compacting conductors or winding
+heads after the installation of the winding in
+the core or machine (methods or apparatus for
+simultaneously twisting a plurality of hairpins prior
+to mounting H02K 15/0428); Applying fastening
+   15/0031  . . {Shaping or compacting conductors in slots
+or around salient poles (H02K 15/005 takes
+   15/0037  . . {Shaping or compacting winding heads
+   15/0043  . . . {Applying fastening means on winding headS
+(fastening by applying resin, glue, varnish and
+   15/005   . . {by means of electrodynamic forces}
+   15/0056  . {Manufacturing winding connections}
+   15/0062  . . {Manufacturing the terminal arrangement per se;
+Connecting the terminals to an external circuit}
+   15/0068  . . {Connecting winding sections; Forming leads;
+   15/0081  . . . {for form-wound windings}
+   15/0087  . . . . {characterised by the method or apparatus
+for simultaneously twisting a plurality of
+hairpins open ends after insertion into the
+machine (for simultaneously twisting a
+plurality of hairpins prior to mounting into
+   15/0093  . . . . {Manufacturing or repairing cooling
+fluid boxes, i.e. terminals of fluid cooled
+windings ensuring both electrical and fluid
+   15/02    . of stator or rotor bodies
+   15/022   . . {with salient poles or claw-shaped poles}
+   15/026   . . . {Wound cores}
+   15/028   . . . {for fastening to casing or support, respectively
+   15/03    . . having permanent magnets
+   15/04    . of windings, prior to mounting into machines
+(insulating windings H02K 15/10, H02K 15/12)
+   15/0407  . . {Windings manufactured by etching, printing or
+   15/0414  . . {Windings consisting of separate elements, e.g.
+bars, hairpins, segments, half coils}
+   15/0421  . . . {consisting of single conductors, e.g. hairpins}
+   15/0428  . . . . {characterised by the method or apparatus
+for simultaneously twisting a plurality of
+hairpins (for simultaneously twisting a
+plurality of hairpins open ends after insertion
+into the machine H02K 15/0087)}
+   15/0435  . . {Wound windings}
+   15/0442  . . . {Loop windings (manufacturing of
+windings consisting of overlapped loops
+   15/045   . . . . {Form wound coils}
+   15/0464  . . . {Lap windings (when on diagonally wound
+   15/0471  . . . . {manufactured by flattening a spiral
+   15/0478  . . . {Wave windings, undulated windings
+(when on diagonally wound hollow coils
+   15/0485  . . . . {manufactured by shaping an annular
+   15/0492  . . . {Diagonally wound hollow coils}
+   15/06    . Embedding prefabricated windings in machines
+   15/061   . . {Air-gap windings}
+   15/062   . . {Windings in slots; salient pole windings}
+   15/063   . . . {Windings for large electric machines, e.g.
+bar windings (windings consisting of cables
+   15/064   . . . {Windings consisting of separate segments,
+e.g. hairpin windings (H02K 15/063 takes
+   15/065   . . . {Windings consisting of complete sections,
+e.g. coils, waves (windings for large electric
+machines other than those consisting of cables
+   15/066   . . . . {inserted perpendicularly to the axis of the
+   15/067   . . . . {inserted in parallel to the axis of the slots or
+   15/068   . . . . . {Strippers}
+   15/08    . Forming windings by laying conductors into or
+   15/085   . . by laying conductors into slotted stators
+   15/09    . . by laying conductors into slotted rotors
+   15/095   . . by laying conductors around salient poles
+   15/10    . Applying solid insulation to windings, stators or
+   15/105   . . {to the windings}
+   15/12    . Impregnating, heating or drying of windings,
+   15/125   . . {Heating or drying of machines in operational
+state, e.g. standstill heating}
+   15/14    . Casings; Enclosures; Supports
+   15/16    . Centering rotors within the stator; Balancing rotors
+   15/165   . . {Balancing the rotor}
+   16/00    Machines with more than one rotor or stator
+{(machines for transmitting mechanical power from
+a driving shaft to a driven shaft and comprising
+structurally interrelated motor and generator parts
+H02K 51/00; permanent magnet machines with
+multiple rotors or stators relatively rotated for
+vectorially combining the excitation fields or the
+armature voltages H02K 21/029)}
+   16/005   . {Machines with only rotors, e.g. counter-rotating
+rotors (DC commutator machines or universal AC/
+DC commutator motors having a rotating armature
+and a rotating excitation field H02K 23/60)}
+   16/02    . Machines with one stator and two {or more} rotors
+   16/025   . . {with rotors and moving stators connected in a
+cascade (cascade arrangement of an asynchronous
+motor with another dynamo-electric motor or
+   16/04    . Machines with one rotor and two stators
+   17/00    Asynchronous induction motors; Asynchronous
+   17/02    . Asynchronous induction motors
+   17/04    . . for single phase current
+   17/06    . . . having windings arranged for permitting pole-
+   17/08    . . . Motors with auxiliary phase obtained by
+externally fed auxiliary windings, e.g. capacitor
+   17/10    . . . Motors with auxiliary phase obtained by split-
+pole carrying short-circuited windings
+   17/12    . . for multi-phase current
+   17/14    . . . having windings arranged for permitting pole-
+   17/16    . . having rotors with internally short-circuited
+Groups H02K 17/16, H02K 17/166,
+H02K 17/168, H02K 17/18 and H02K 17/20
+are incomplete pending reclassification of
+documents from group(s) H02K 17/165.
+All groups listed in this Warning should be
+considered in order to perform a complete
+. . . {characterised by the squirrel-cage or other
+Group H02K 17/165 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups H02K 17/16,
+H02K 17/166, H02K 17/168, H02K 17/18
+All groups listed in this Warning should be
+considered in order to perform a complete
+   17/166   . . . {having short-circuited rotor windings}
+   17/168   . . . {having single-cage rotors}
+   17/18    . . . having double-cage or multiple-cage rotors
+   17/20    . . . having deep-bar rotors
+   17/22    . . having rotors with windings connected to slip-
+   17/24    . . . in which both stator and rotor are fed with AC
+   17/26    . . having rotors or stators designed to permit
+   17/28    . . having compensating winding for improving
+   17/30    . . Structural association of asynchronous induction
+motors with auxiliary electric devices influencing
+the characteristics of the motor or controlling the
+motor, e.g. with impedances or switches
+   17/32    . . Structural association of asynchronous induction
+motors with auxiliary mechanical devices, e.g.
+   17/34    . . Cascade arrangement of an asynchronous motor
+with another dynamo-electric motor or converter
+   17/36    . . . with another asynchronous induction motor
+   17/38    . . . with a commutator machine
+   17/40    . . . with a rotary AC/DC converter
+   17/42    . Asynchronous induction generators (H02K 17/02
+   17/44    . . Structural association with exciting machines
+   19/00    Synchronous motors or generators (having
+   19/02    . Synchronous motors
+   19/04    . . for single-phase current
+   19/06    . . . Motors having windings on the stator and a
+variable-reluctance soft-iron rotor without
+   19/08    . . . Motors having windings on the stator and a
+smooth rotor without windings of material with
+large hysteresis, e.g. hysteresis motors
+   19/10    . . for multi-phase current
+   19/103   . . . {Motors having windings on the stator and
+a variable reluctance soft-iron rotor without
+   19/106   . . . {Motors having windings in the stator and a
+smooth rotor of material with large hysteresis
+   19/12    . . . characterised by the arrangement of exciting
+windings, e.g. for self-excitation, compounding
+   19/14    . . having additional short-circuited windings for
+starting as asynchronous motors
+   19/16    . Synchronous generators
+   19/18    . . having windings each turn of which co-operates
+only with poles of one polarity, e.g. homopolar
+   19/20    . . . with variable-reluctance soft-iron rotors
+   19/22    . . having windings each turn of which co-operates
+alternately with poles of opposite polarity, e.g.
+   19/24    . . . with variable-reluctance soft-iron rotors
+   19/26    . . characterised by the arrangement of exciting
+   19/28    . . . for self-excitation
+   19/30    . . . for compounding
+   19/32    . . . for pole-changing
+   19/34    . . Generators with two or more outputs
+   19/36    . . Structural association of synchronous generators
+with auxiliary electric devices influencing the
+characteristic of the generator or controlling the
+generator, e.g. with impedances or switches
+   19/365   . . . {with a voltage regulator}
+   19/38    . . Structural association of synchronous generators
+   21/00    Synchronous motors having permanent magnets;
+Synchronous generators having permanent
+   21/021   . . {Means for mechanical adjustment of the
+   21/022   . . . {by modifying the relative position between
+field and armature, e.g. between rotor and
+stator (vectorial combination of field or
+armature sections H02K 21/029)}
+   21/023   . . . . {by varying the amount of superposition, i.e.
+the overlap, of field and armature}
+   21/024   . . . . . {Radial air gap machines}
+   21/025   . . . . {by varying the thickness of the air gap
+   21/026   . . . . . {Axial air gap machines}
+   21/027   . . . . . {Conical air gap machines}
+   21/028   . . . {by modifying the magnetic circuit within the
+field or the armature, e.g. by using shunts, by
+adjusting the magnets position, by vectorial
+combination of field or armature sections}
+   21/029   . . . . {Vectorial combination of the fluxes
+generated by a plurality of field sections
+or of the voltages induced in a plurality of
+   21/04    . . Windings on magnets for additional excitation {;
+Windings and magnets for additional excitation}
+   21/042   . . . {with permanent magnets and field winding
+   21/044   . . . . {Rotor of the claw pole type}
+   21/046   . . . {with rotating permanent magnets and
+   21/048   . . . . {Rotor of the claw pole type}
+   21/10    . . Rotating armatures
+   21/12    . with stationary armatures and rotating magnets
+   21/125   . . {having an annular armature coil
+(H02K 21/14 - H02K 21/24 take precedence)}
+   21/14    . . with magnets rotating within the armatures
+   21/145   . . . {having an annular armature coil (with
+homopolar co-operation H02K 21/20)}
+   21/16    . . . having annular armature cores with salient
+poles (with homopolar co-operation
+   21/18    . . . having horse-shoe armature cores (with
+homopolar co-operation H02K 21/20)
+   21/185   . . . . {with the axis of the rotor perpendicular to
+   21/20    . . . having windings each turn of which co-
+operates only with poles of one polarity, e.g.
+   21/22    . . with magnets rotating around the armatures, e.g.
+   21/222   . . . {Flywheel magnetos}
+   21/225   . . . . {having I-shaped, E-shaped or similarly
+   21/227   . . . {having an annular armature coil}
+   21/24    . . with magnets axially facing the armatures, e.g.
+   21/26    . with rotating armatures and stationary magnets
+   21/28    . . with armatures rotating within the magnets
+   21/30    . . . having annular armature cores with salient
+poles (with homopolar co-operation
+   21/32    . . . having horse-shoe magnets (with homopolar
+   21/325   . . . . {with the axis of the rotating armature
+perpendicular to the plane of the magnet}
+   21/34    . . . having bell-shaped or bar-shaped magnets, e.g.
+for cycle lighting (with homopolar co-operation
+   21/36    . . . with homopolar co-operation
+   21/38    . with rotating flux distributors, and armatures and
+   21/40    . . with flux distributors rotating around the magnets
+   21/42    . . with flux distributors rotating around the
+armatures and within the magnets
+   21/44    . . with armature windings wound upon the magnets
+   21/46    . Motors having additional short-circuited winding
+for starting as an asynchronous motor
+   21/48    . Generators with two or more outputs
+   23/00    DC commutator motors or generators having
+mechanical commutator; Universal AC/DC
+   23/02    . characterised by arrangement for exciting
+   23/023   . . {having short-circuited brushes}
+   23/026   . . {having an unregular distribution of the exciting
+winding or of the excitation over the poles}
+   23/04    . . having permanent magnet excitation
+   23/06    . . having shunt connection of excitation windings
+   23/08    . . having series connection of excitation windings
+   23/10    . . having compound connection of excitation
+   23/12    . . having excitation produced by current sources
+independent of the armature circuit
+   23/14    . . having high-speed excitation or de-excitation, e.g.
+by neutralising the remanent excitation field
+   23/16    . . having angularly adjustable excitation field, e.g.
+by pole reversing or pole switching
+   23/18    . . having displaceable main or auxiliary brushes
+   23/20    . . having additional brushes spaced intermediately
+of the main brushes on the commutator, e.g.
+cross-field machines, metadynes, amplidynes or
+other armature-reaction excited machines
+   23/22    . . having compensating or damping windings
+   23/24    . . having commutating-pole windings
+   23/26    . characterised by the armature windings
+   23/28    . . having open windings, i.e. not closed within the
+   23/30    . . having lap or loop windings
+   23/32    . . having wave or undulating windings
+   23/34    . . having mixed windings
+   23/36    . . having two or more windings; having two or
+more commutators; having two or more stators
+   23/38    . . having winding or connection for improving
+commutation, e.g. equipotential connection
+   23/40    . characterised by the arrangement of the magnet
+   23/405   . . {Machines with a special form of the pole shoes}
+   23/42    . . having split poles, i.e. zones for varying
+reluctance by gaps in poles or by poles with
+different spacing of the air gap
+   23/44    . . having movable, e.g. turnable, iron parts
+   23/46    . . having stationary shunts, i.e. magnetic cross flux
+   23/48    . . having adjustable armatures
+   23/50    . Generators with two or more outputs
+   23/52    . Motors acting also as generators, e.g. starting
+motors used as generators for ignition or lighting
+   23/54    . Disc armature motors or generators
+   23/56    . Motors or generators having iron cores separated
+   23/58    . Motors or generators without iron cores
+   23/60    . Motors or generators having rotating armatures and
+   23/62    . Motors or generators with stationary armatures and
+   23/64    . Motors specially adapted for running on DC or AC
+   23/66    . Structural association with auxiliary electric devices
+influencing the characteristic of, or controlling, the
+machine, e.g. with impedances or switches
+   23/68    . Structural association with auxiliary mechanical
+devices, e.g. with clutches or brakes
+   24/00    Machines adapted for the instantaneous
+transmission or reception of the angular
+displacement of rotating parts, e.g. synchro, selsyn
+   25/00    DC interrupter motors or generators
+   26/00    Machines adapted to function as torque motors,
+i.e. to exert a torque when stalled
+   27/00    AC commutator motors or generators having
+   27/02    . characterised by the armature winding
+   27/04    . having single-phase operation in series or shunt
+   27/06    . . with a single or multiple short-circuited
+commutator, e.g. repulsion motor
+   27/08    . . with multiple-fed armature
+   27/10    . . with switching devices for different modes of
+operation, e.g. repulsion-induction motor
+   27/12    . having multi-phase operation
+   27/14    . . in series connection
+   27/16    . . in shunt connection with stator feeding
+   27/18    . . in shunt connection with rotor feeding
+   27/20    . Structural association with a speed regulating device
+   27/22    . having means for improving commutation, e.g.
+auxiliary fields, double windings, double brushes
+   27/24    . having two or more commutators
+   27/26    . having disc armature
+   27/28    . Structural association with auxiliary electric devices
+influencing the characteristic of the machine or
+   27/30    . Structural association with auxiliary mechanical
+devices, e.g. with clutches or brakes
+   29/00    Motors or generators having non-mechanical
+commutating devices, e.g. discharge tubes or
+   29/03    . with a magnetic circuit specially adapted for
+avoiding torque ripples or self-starting problems
+   29/06    . with position sensing devices (H02K 29/03 takes
+   29/08    . . using magnetic effect devices, e.g. Hall-plates,
+magneto-resistors (H02K 29/12 takes precedence)
+   29/10    . . using light effect devices
+   29/12    . . using detecting coils {using the machine windings
+   29/14    . with speed sensing devices (H02K 29/03 takes
+   31/00    Acyclic motors or generators, i.e. DC machines
+having drum or disc armatures with continuous
+   31/02    . with solid-contact collectors
+   31/04    . with at least one liquid-contact collector
+   33/00    Motors with reciprocating, oscillating or vibrating
+magnet, armature or coil system (arrangements for
+handling mechanical energy structurally associated
+with motors H02K 7/00, e.g. H02K 7/06)
+   33/02    . with armatures moved one way by energisation of a
+single coil system and returned by mechanical force,
+   33/04    . . wherein the frequency of operation is determined
+by the frequency of uninterrupted AC
+   33/06    . . . with polarised armatures
+   33/08    . . . with DC energisation superimposed on AC
+   33/10    . . wherein the alternate energisation and de-
+energisation of the single coil system is effected
+or controlled by movement of the armatures
+   33/12    . with armatures moving in alternate directions by
+alternate energisation of two coil systems
+   33/14    . . wherein the alternate energisation and de-
+energisation of the two coil systems are effected
+or controlled by movement of the armatures
+   33/16    . with polarised armatures moving in alternate
+directions by reversal or energisation of a single coil
+   33/18    . with coil systems moving upon intermittent or
+reversed energisation thereof by interaction with a
+fixed field system, e.g. permanent magnets
+   35/00    Generators with reciprocating, oscillating or
+vibrating coil system, magnet, armature or other
+part of the magnetic circuit (arrangements for
+handling mechanical energy structurally associated
+with generators H02K 7/00, e.g. H02K 7/06)
+   35/02    . with moving magnets and stationary coil systems
+   35/04    . with moving coil systems and stationary magnets
+   35/06    . with moving flux distributors, and both coil systems
+   37/00    Motors with rotor rotating step by step and
+without interrupter or commutator driven by the
+   37/02    . of variable reluctance type
+   37/04    . . with rotors situated within the stators
+   37/06    . . with rotors situated around the stators
+   37/08    . . with rotors axially facing the stators
+   37/10    . of permanent magnet type (H02K 37/02 takes
+   37/12    . . with stationary armatures and rotating magnets
+   37/125   . . . {Magnet axially facing armature}
+   37/14    . . . with magnets rotating within the armatures
+   37/16    . . . . having horseshoe armature cores
+   37/18    . . . . of homopolar type
+   37/20    . . with rotating flux distributors, the armatures and
+   37/24    . Structural association with auxiliary mechanical
+   39/00    Generators specially adapted for producing a
+desired non-sinusoidal waveform
+   41/00    Propulsion systems in which a rigid body is
+moved along a path due to dynamo-electric
+interaction between the body and a magnetic
+field travelling along the path {(electromagnetic
+   41/02    . Linear motors; Sectional motors
+   41/025   . . Asynchronous motors
+   41/03    . . Synchronous motors; Motors moving step by
+step; Reluctance motors (H02K 41/035 takes
+   41/031   . . . {of the permanent magnet type}
+   41/033   . . . . {with armature and magnets on one member,
+the other member being a flux distributor}
+   41/035   . . DC motors; Unipolar motors
+   41/0352  . . . {Unipolar motors}
+   41/0354  . . . . {Lorentz force motors, e.g. voice coil
+   41/0356  . . . . . {moving along a straight path}
+   41/0358  . . . . . {moving along a curvilinear path}
+   41/06    . Rolling motors, i.e. motors having the rotor axis
+parallel to the stator axis and following a circular
+path as the rotor rolls around the inside or outside
+of the stator {; Nutating motors, i.e. having the
+rotor axis parallel to the stator axis inclined with
+respect to the stator axis and performing a nutational
+movement as the rotor rolls on the stator}
+   41/065   . . {Nutating motors}
+   44/00    Machines in which the dynamo-electric interaction
+between a plasma or flow of conductive liquid or of
+fluid-borne conductive or magnetic particles and
+a coil system or magnetic field converts energy of
+mass flow into electrical energy or vice versa
+   44/02    . Electrodynamic pumps
+   44/04    . . Conduction pumps
+   44/06    . . Induction pumps
+   44/08    . Magnetohydrodynamic [MHD] generators
+   44/085   . . {with conducting liquids}
+   44/10    . . Constructional details of electrodes
+   44/12    . . Constructional details of fluid channels
+   44/14    . . . Circular or screw-shaped channels
+   44/16    . . Constructional details of the magnetic circuits
+   44/18    . . for generating AC power
+   44/20    . . . by changing the polarity of the magnetic field
+   44/22    . . . by changing the conductivity of the fluid
+   44/24    . . . by reversing the direction of fluid
+   44/26    . . . by creating a travelling magnetic field
+   44/28    . Association of MHD generators with conventional
+generators (nuclear power plants including a MHD
+   47/00    Dynamo-electric converters
+   47/02    . AC/DC converters or vice versa
+   47/04    . . Motor/generators
+   47/06    . . Cascade converters
+   47/08    . . Single-armature converters
+   47/10    . . . with booster machines on the AC side
+   47/14    . . Motor/generators
+   47/16    . . Single-armature converters, e.g. metadyne
+   47/20    . . Motor/generators
+   47/22    . . Single-armature frequency converters with or
+without phase-number conversion
+   47/24    . . . having windings for different numbers of poles
+   47/26    . . . operating as under- or over-synchronously
+running asynchronous induction machines,
+e.g. cascade arrangement of asynchronous and
+   47/28    . . . operating as commutator machines with added
+   47/30    . . Single-armature phase-number converters without
+   49/00    Dynamo-electric clutches; Dynamo-electric brakes
+   49/02    . of the asynchronous induction type
+   49/04    . . of the eddy-current hysteresis type
+   49/043   . . . {with a radial airgap}
+   49/046   . . . {with an axial airgap}
+   49/06    . of the synchronous type {(H02K 49/10 takes
+   49/065   . . {hysteresis type}
+   49/08    . of the collector armature type
+   49/10    . of the permanent-magnet type
+   49/102   . . {Magnetic gearings, i.e. assembly of gears,
+linear or rotary, by which motion is magnetically
+transferred without physical contact (magnetized
+gearings with physical contact F16H 13/12,
+   49/104   . . {Magnetic couplings consisting of only two
+coaxial rotary elements, i.e. the driving element
+   49/106   . . . {with a radial air gap}
+   49/108   . . . {with an axial air gap}
+   49/12    . of the acyclic type
+   51/00    Dynamo-electric gears, i.e. dynamo-electric means
+for transmitting mechanical power from a driving
+shaft to a driven shaft and comprising structurally
+interrelated motor and generator parts
+   53/00    Alleged dynamo-electric perpetua mobilia
+   55/00    Dynamo-electric machines having windings
+operating at cryogenic temperatures
+   55/02    . of the synchronous type
+   55/04    . . with rotating field windings
+   55/06    . of the homopolar type
+   99/00    Subject matter not provided for in other groups of
+ 2201/00    Specific aspects not provided for in the other
+groups of this subclass relating to the magnetic
+ 2201/03    . Machines characterised by aspects of the air-gap
+ 2201/06    . Magnetic cores, or permanent magnets characterised
+ 2201/09    . Magnetic cores comprising laminations
+characterised by being fastened by caulking
+ 2201/12    . Transversal flux machines
+ 2201/15    . Sectional machines
+ 2201/18    . Machines moving with multiple degrees of freedom
+ 2203/00    Specific aspects not provided for in the other
+groups of this subclass relating to the windings
+ 2203/03    . Machines characterised by the wiring boards, i.e.
+printed circuit boards or similar structures for
+connecting the winding terminations
+ 2203/06    . Machines characterised by the wiring leads, i.e.
+conducting wires for connecting the winding
+ 2203/09    . Machines characterised by wiring elements other
+than wires, e.g. bus rings, for connecting the
+ 2203/12    . Machines characterised by the bobbins for
+ 2203/15    . Machines characterised by cable windings, e.g.
+high-voltage cables, ribbon cables
+ 2205/00    Specific aspects not provided for in the other
+groups of this subclass relating to casings,
+ 2205/03    . Machines characterised by thrust bearings
+ 2205/06    . Machines characterised by means for keeping the
+brushes in a retracted position during assembly
+ 2205/09    . Machines characterised by drain passages or by
+venting, breathing or pressure compensating means
+ 2205/12    . Machines characterised by means for reducing
+windage losses or windage noise
+ 2207/00    Specific aspects not provided for in the other
+groups of this subclass relating to arrangements
+ 2207/03    . Tubular motors, i.e. rotary motors mounted inside a
+ 2209/00    Specific aspects not provided for in the other
+groups of this subclass relating to systems for
+ 2211/00    Specific aspects not provided for in the other
+groups of this subclass relating to measuring or
+protective devices or electric components
+ 2211/03    . Machines characterised by circuit boards, e.g. pcb
+ 2213/00    Specific aspects, not otherwise
+provided for and not covered by codes
+ 2213/03    . Machines characterised by numerical values, ranges,
+mathematical expressions or similar information
+ 2213/06    . Machines characterised by the presence of fail safe,
+back up, redundant or other similar emergency
+ 2213/09    . Machines characterised by the presence of elements
+which are subject to variation, e.g. adjustable
+bearings, reconfigurable windings, variable pitch
+ 2213/12    . Machines characterised by the modularity of some
+ 2215/00    Specific aspects not provided for in other groups
+of this subclass relating to methods or apparatus
+specially adapted for manufacturing, assembling,
+maintaining or repairing of dynamo-electric

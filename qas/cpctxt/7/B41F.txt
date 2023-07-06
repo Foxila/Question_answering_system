@@ -1,0 +1,530 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+PRINTING; LINING MACHINES; TYPEWRITERS; STAMPS
+PRINTING MACHINES OR PRESSES (manifolding devices or office printing machines
+Attention is drawn to Notes 1 and 2 following the title of subclass B41L.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Platen presses, i.e. presses in which printing is
+effected by at least one essentially-flat pressure-
+applying member co-operating with a flat type-bed
+    1/02    . Hand-operated platen presses
+    1/04    . for mono-impression printing, e.g. on sheets
+    1/06    . . with platen maintained parallel to bed during
+    1/10    . for multi-impression printing in one or more
+    1/14    . . . using swinging platens, or forme supports
+    1/16    . for offset printing {(pad printing B41F 17/001)}
+    1/20    . for perfecting sheets, i.e. for printing on both sides
+    1/22    . specially adapted for printing heads, e.g. letter heads
+    1/24    . specially adapted for proof printing
+    1/265   . . {Conveying webs (in general B65H)}
+    1/28    . . Sheet-conveying, -aligning or -clamping devices
+    1/30    . . . using rotary grippers
+    1/32    . . . using air pressure, e.g. vacuum
+    1/34    . . . Registering devices, e.g. gauges
+    1/36    . . . Clamps for conveying sheets and for holding
+same on the platens {(clamps in manifolding
+    1/38    . . Platens or type-beds
+    1/40    . . Inking units {(for pad printing B41F 17/001)}
+    1/42    . . . using flat inking elements, e.g. discs
+    1/44    . . . using inking ribbons
+    1/46    . . . using rollers
+    1/48    . . . pivoting around the platen or base
+    1/50    . . . supported on carriages for movement in or on
+    1/52    . . . . Carriage driving gear
+    1/54    . . Printing-pressure control devices
+    1/56    . . Auxiliary devices
+    1/565   . . . {Numbering devices (stamping numbering
+    1/58    . . . Arrangements of counting devices for counting
+    1/62    . . . for preventing injury to operator
+    1/64    . . . . to the hands of the operator
+    1/66    . . . responsive to incorrect operating conditions
+    3/00    Cylinder presses, i.e. presses essentially comprising
+at least one cylinder co-operating with at least one
+    3/02    . with impression cylinder or cylinders rotating
+    3/04    . . intermittently; Stop-cylinder presses
+    3/08    . . . Single-revolution presses
+    3/10    . . . Two-revolution presses
+    3/12    . . Twin presses, i.e. with more than one cylinder or
+    3/14    . with impression cylinder or cylinders rotating in
+opposite directions during each working cycle
+    3/16    . . Twin presses, i.e. with more than one cylinder or
+    3/18    . of special construction or for particular purposes
+    3/20    . . with fixed type-beds and travelling impression
+    3/22    . . . with more than one type-bed
+    3/24    . . . with cylinders travelling around type-beds
+having upper and lower printing surfaces
+    3/26    . . with type-beds and impression cylinders
+simultaneously movable relative to one another
+    3/28    . . Proof-print presses for relief printing, lithography
+or intaglio printing, i.e. presses for checking
+    3/30    . . for lithography (proof-print presses B41F 3/28)
+    3/32    . . . Damping devices
+    3/34    . . . for offset printing
+    3/36    . . for intaglio or heliogravure printing (proof-print
+    3/38    . . . Wiping mechanisms
+    3/40    . . for perfecting sheets, i.e. for printing on both
+    3/42    . . for multicolour printing on sheets
+    3/44    . . for monocolour or multicolour printing on
+one side of webs, or for perfecting webs, i.e.
+monocolour or multicolour printing on both sides
+    3/51    . . Type-beds; Supports therefor (B41F 3/52 takes
+    3/52    . . Apparatus for cooling, heating, or drying printing
+    3/54    . . Impression cylinders; Supports therefor
+    3/56    . . . Devices for adjusting cylinders relative to type-
+beds and setting in adjusted position
+    3/58    . . Driving, synchronising, or control gear
+    3/60    . . . for type-beds
+    3/62    . . . . Applications of linkwork or gearing for
+producing reciprocatory or angular motion
+    3/64    . . . . . of crank motions
+    3/66    . . . . . of rack-and-pinion gearing
+    3/68    . . . . . . with pinion rotating unidirectionally
+    3/70    . . . . Applications of directly-coupled motors
+    3/72    . . . . . of fluid motors
+    3/74    . . . . Applications of clutches
+    3/76    . . . . Applications of braking devices or of devices
+for stopping type-bed in registered position
+    3/78    . . . . . Air cushions
+    3/80    . . . for impression cylinders
+    3/82    . Auxiliary devices
+    3/84    . . Arrangements of counting devices
+    3/86    . . Numbering devices
+    5/00    Rotary letterpress machines {(office printing
+    5/02    . for printing on sheets
+    5/04    . for printing on webs
+    5/06    . . with several printing units in sequential
+    5/08    . . with several printing units in both superimposed
+    5/10    . . with several printing units arranged side by side
+    5/12    . . for printing on one side and on the other side of
+webs between the same forme and impression
+    5/14    . . with several impression cylinders arranged
+    5/16    . . for multicolour printing
+    5/18    . . . using one impression cylinder co-operating
+    5/20    . specially adapted for proof printing
+    5/22    . for indirect printing
+    5/24    . for flexographic printing
+    7/00    Rotary lithographic machines {(such office printing
+    7/02    . for offset printing
+    7/025   . . {Multicolour printing or perfecting on sheets or
+on one or more webs, in one printing unit}
+    7/04    . . using printing units incorporating one forme
+cylinder, one transfer cylinder, and one
+impression cylinder, e.g. for printing on webs
+    7/06    . . . for printing on sheets
+    7/08    . . using one transfer cylinder co-operating with
+several forme cylinders for printing on sheets or
+webs, e.g. sampling of colours on one transfer
+    7/10    . . using one impression cylinder co-operating with
+several transfer cylinders for printing on sheets or
+webs, e.g. satellite-printing units
+    7/12    . . using two cylinders one of which serves two
+functions, e.g. as a transfer and impression
+cylinder in perfecting machines
+    7/14    . . with two or more impression cylinders coacting
+with a single transfer cylinder
+    7/15    . . . for printing on more than one web
+    7/16    . for printing on non-deformable material, e.g. sheet
+    7/18    . specially adapted for proof printing
+    7/24    . . Damping devices
+    7/26    . . . using transfer rollers
+    7/265   . . . . {for damping from the inside of the
+    7/28    . . . using brushes
+    7/30    . . . using spraying elements
+    7/32    . . . Ducts, containers, or like supply devices for
+    7/34    . . . Endless bands
+    7/36    . . . Inking-rollers serving also to apply ink
+    7/37    . . . with supercooling for condensation of air
+    7/38    . . . Absorbent pads
+    7/40    . . . Devices for tripping or lifting damping
+rollers; Supporting, adjusting, or removing
+arrangements therefor (such arrangements or
+devices for inking rollers B41F 31/30)
+    9/00    Rotary intaglio printing presses
+    9/001   . {Heliostatic printing}
+    9/002   . {Sheet printing presses (B41F 9/021 takes
+    9/003   . {Web printing presses (B41F 9/023 takes
+    9/004   . . {Printing two webs with the same printing
+    9/005   . . {Printing on two sides of the same web}
+    9/006   . . . {simultaneously}
+    9/007   . . . {with the same printing cylinder}
+    9/008   . {Means for preventing egress of vapours}
+    9/009   . {Reversible printing presses (B41F 9/02 takes
+    9/01    . for indirect printing (B41F 9/02 takes precedence)
+    9/02    . for multicolour printing
+    9/021   . . {Sheet printing presses}
+    9/023   . . {Web printing presses}
+    9/025   . . . {with horizontally arranged printing units}
+    9/026   . . . {with vertically arranged printing units}
+    9/028   . . . {of the satellite type}
+    9/04    . specially adapted for proof printing
+    9/061   . . {Inking devices}
+    9/063   . . . {Using inking rollers}
+    9/065   . . . {Using inking rails}
+    9/068   . . . {End seals between cylinder and housing}
+    9/08    . . Wiping mechanisms
+    9/10    . . . Doctors, scrapers, or like devices
+    9/1009  . . . . {with reciprocating movement}
+    9/1018  . . . . {using a wiping cylinder}
+    9/1027  . . . . {Tripping devices}
+    9/1036  . . . . {Clamping and adjusting devices}
+    9/1045  . . . . . {using fluid pressure}
+    9/1054  . . . . {Sharpening, honing devices}
+    9/1063  . . . . {Seals between blades and cylinder}
+    9/1072  . . . . {Blade construction}
+    9/1081  . . . . {using two or more blades}
+    9/109   . . . . {exchanging doctor blades}
+    9/12    . . . Absorbent pads
+    9/14    . . . Continuous flexible surfaces, e.g. endless bands
+    9/16    . . . Removing or recovering ink from wiping
+    9/18    . . Auxiliary devices for exchanging forme cylinders
+   11/00    Rotary presses or machines having forme cylinders
+carrying a plurality of printing surfaces, or for
+performing letterpress, lithographic, or intaglio
+processes selectively or in combination
+   11/02    . for securities (security printing B41M 3/14)
+   13/00    Common details of rotary presses or machines
+   13/0008  . {Driving devices (B41F 13/004 and B41F 13/008
+   13/0016  . {Storage devices for printing cylinders}
+   13/0032  . {Auxiliary numbering devices}
+   13/004   . Electric or hydraulic features of drives
+   13/0045  . . {Electric driving devices}
+   13/008   . Mechanical features of drives, e.g. gears, clutches
+   13/012   . . Taking-up backlash {(devices for taking-
+up backlash in general F16H 55/00, e.g.
+   13/02    . Conveying or guiding webs through presses or
+   13/025   . . {Registering devices}
+   13/03    . . Threading webs into printing machines
+   13/06    . . Turning-bar arrangements
+   13/085   . . {with means for preventing or damping vibrations
+   13/10    . . Forme cylinders
+   13/11    . . . Gravure cylinders {(attaching cylindrical
+   13/12    . . . Registering devices
+   13/14    . . . . with means for displacing the cylinders
+   13/16    . . . . with means for displacing the printing
+   13/18    . . Impression cylinders
+   13/187   . . . for rotogravure
+   13/193   . . Transfer cylinders; Offset cylinders {(attaching
+   13/20    . . Supports for bearings or supports for forme,
+offset, or impression cylinders
+   13/22    . . Means for cooling or heating forme or impression
+   13/24    . . Cylinder-tripping devices; Cylinder-impression
+   13/26    . . . Arrangement of cylinder bearings
+   13/28    . . . . Bearings mounted eccentrically of the
+   13/30    . . . . Bearings mounted on sliding supports
+   13/32    . . . . Bearings mounted on swinging supports
+   13/34    . . . Cylinder lifting or adjusting devices
+   13/36    . . . . Cams, eccentrics, wedges, or the like
+   13/38    . . . . electrically or magnetically operated
+   13/40    . . . . fluid-pressure operated
+   13/42    . . Guards or covers, e.g. for preventing ingress or
+   13/44    . Arrangements to accommodate interchangeable
+cylinders of different sizes to enable machine to
+print on areas of different sizes
+   13/46    . Printing units for inserting latest news
+   13/48    . Arrangements to enable printing to be effected over
+selected areas of a single forme cylinder (by inking
+   13/50    . . by effecting relative movement of forme and
+impression cylinders during printing cycle
+   13/52    . . by projecting and retracting parts of the surface of
+   13/54    . Auxiliary folding, cutting, collecting or depositing
+   13/56    . . Folding or cutting
+   13/62    . . . Folding-cylinders or drums
+   13/64    . . Collecting (gathering sheets or signatures in
+   13/705   . . . {Interleaving slip sheets}
+   15/02    . Manually-operable devices
+   15/04    . . for multicolour printing
+   15/06    . . with auxiliary equipment, e.g. for drying printed
+   15/0804  . . {for printing sheets}
+   15/0809  . . . {with cylindrical or belt-like screens}
+   15/0813  . . . {with flat screens}
+   15/0818  . . . . {with a stationary screen and a moving
+   15/0822  . . . . . {on a stack of sheets}
+   15/0827  . . . . {with a stationary squeegee and a moving
+   15/0831  . . {for printing webs}
+   15/0836  . . . {by means of cylindrical screens or screens in
+   15/084   . . . . {simultaneously printing on two sides}
+   15/0845  . . . {with flat screens}
+   15/085   . . . . {with a stationary screen and a moving
+   15/0854  . . . . {with a stationary squeegee and a moving
+   15/0859  . . . . {movable on a long printing table}
+   15/0863  . . {with a plurality of flat screens mounted on a
+   15/0868  . . {for printing on filamentary articles}
+   15/0872  . . {for printing on articles having essentially
+   15/0877  . . . {of varying cross-section}
+   15/0881  . . {for printing on polyhedral articles}
+   15/0886  . . {for printing on conical or frusto-conical
+   15/089   . . {for printing on essentially spherical surfaces}
+   15/0895  . . {for printing on curved surfaces not otherwise
+   15/10    . . for multicolour printing
+   15/12    . . with auxiliary equipment, e.g. for drying printed
+   15/16    . . Printing tables
+   15/18    . . . Supports for workpieces
+   15/20    . . . . with suction-operated elements
+   15/22    . . . . for single sheets
+   15/26    . . . . for articles with flat surfaces
+   15/28    . . . . for elongated flat articles, e.g. strips, bands
+   15/30    . . . . for articles with curved surfaces
+   15/32    . . . . for articles with conical surfaces
+   15/34    . . Screens, Frames; Holders therefor
+   15/405   . . . {Spraying apparatus}
+   15/42    . . . comprising squeegees or doctors
+   15/423   . . . . {Driving means for reciprocating squeegees}
+   15/426   . . . . {the squeegees or doctors being magnetically
+   15/44    . . Squeegees or doctors
+   15/46    . . . with two or more operative parts
+   16/00    Transfer printing apparatus
+   16/0006  . {for printing from an inked or preprinted foil or
+   16/0013  . . {combined with other printing presses}
+   16/002   . . {Presses of the rotary type}
+   16/0026  . . . {with means for applying print under heat and
+pressure, e.g. using heat activable adhesive}
+   16/0033  . . . {with means for applying print under pressure
+only, e.g. using pressure sensitive adhesive}
+   16/004   . . {Presses of the reciprocating type}
+   16/0046  . . . {with means for applying print under heat and
+pressure, e.g. using heat activable adhesive}
+   16/0053  . . . {with means for applying print under pressure
+only, e.g. using pressure sensitive adhesive}
+   16/006   . . {Arrangements for moving, supporting or
+positioning the printing foil or band}
+   16/0066  . . {Printing dies or forms}
+   16/0073  . . {with means for printing on specific materials or
+   16/008   . . . {for printing on three-dimensional articles}
+   16/0086  . . . . {for printing on articles with cylindrical
+   16/0093  . . {Attachments or auxiliary devices}
+   16/02    . for textile material
+   17/00    Printing apparatus or machines of special types or
+for particular purposes, not otherwise provided for
+   17/001   . {Pad printing apparatus or machines}
+   17/002   . {Supports of workpieces in machines for printing on
+   17/003   . {Special types of machines for printing textiles
+(using the screen printing process B41F 15/00;
+printing on knitted fabrics B41F 17/38)}
+   17/005   . . {Supports for workpieces; Devices for securing
+the workpieces to the supports}
+   17/006   . {for printing on curved surfaces not otherwise
+   17/007   . {Use of printing belts}
+   17/008   . {Numbering devices for printing on articles other
+   17/02    . for printing books or manifolding sets
+   17/04    . for printing calendars
+   17/08    . for printing on filamentary or elongated articles, or
+on articles with cylindrical surfaces
+   17/10    . . on articles of indefinite length, e.g. wires, hoses,
+   17/12    . . . at an angle to axis
+   17/13    . . . for printing on rolls of material, the roll serving
+as impression cylinder, e.g. strip printers
+   17/14    . . on articles of finite length
+   17/16    . . . on end or bottom surfaces thereof
+   17/18    . . . on curved surfaces of articles of varying cross-
+section, e.g. bottles, lamp glasses
+   17/20    . . . on articles of uniform cross-section, e.g.
+   17/22    . . . . by rolling contact
+   17/24    . for printing on flat surfaces of polyhedral articles
+   17/26    . . by rolling contact
+   17/28    . for printing on curved surfaces of conical or frusto-
+   17/30    . for printing on curved surfaces of essentially
+spherical, or part-spherical, articles
+   17/34    . . on articles with surface irregularities, e.g. fruits,
+   17/36    . for printing on tablets, pills, or like small articles
+   17/38    . for printing on knitted fabrics
+   19/00    Apparatus or machines for carrying out printing
+operations combined with other operations
+   19/001   . {with means for coating or laminating}
+   19/002   . {with means for applying specific material other
+   19/004   . . {with means for applying adhesive}
+   19/005   . . {with means for applying metallic, conductive or
+   19/007   . {with selective printing mechanisms, e.g. ink-jet or
+   19/008   . {with means for stamping or cutting out}
+   19/04    . . using intaglio printing formes and wipers
+   19/06    . . Printing and embossing between a negative and
+a positive forme after inking and wiping the
+negative forme; Printing from an ink band treated
+   19/062   . . . {Presses of the rotary type}
+   19/064   . . . {Presses of the reciprocating type}
+   19/066   . . . . {hand-driven}
+   19/068   . . . . {motor-driven}
+   19/08    . Simultaneous moulding and printing
+Common details of printing machinery
+   21/00    Devices for conveying sheets through printing
+apparatus or machines (through platen presses
+   21/005   . {Electrostatic holding down devices}
+   21/02    . Pins (B41F 21/12, B41F 21/14 take precedence)
+   21/04    . Grippers ({B41F 21/08, B41F 21/10} B41F 21/12,
+   21/05    . . In-feed grippers (B41F 21/06 takes precedence)
+   21/06    . . Suction-operated grippers
+   21/08    . Combinations of endless conveyors and grippers
+   21/10    . Combinations of transfer drums and grippers
+   21/102   . . {with pneumatic means (B41F 21/108 takes
+   21/104   . . {Gripper details (B41F 21/102 takes precedence)}
+   21/106   . . {for reversing sheets, e.g. for perfecting machine}
+   21/108   . . . {with pneumatic means}
+   21/12    . Adjusting leading edges, e.g. front stops
+   21/14    . Adjusting lateral edges, e.g. side stops
+   22/00    Means preventing smudging of machine parts or
+printed articles (B41F 23/00 takes precedence)
+   22/005   . {using a back grey cloth}
+   23/00    Devices for treating the surfaces of sheets, webs, or
+other articles in connection with printing
+   23/002   . {cleaning devices for sheets or webs}
+   23/005   . {of non-flat articles}
+   23/007   . {with heat treatment before printing}
+   23/02    . by dampening (in rotary lithographic machines
+B41F 7/24 {; B41F 23/005 takes precedence})
+   23/04    . by heat drying, by cooling, by applying powders
+{(B41F 23/005 takes precedence)}
+   23/0403  . . {Drying webs (B41F 23/0486 takes precedence)}
+   23/0406  . . . {by radiation (B41F 23/0436 takes
+   23/0409  . . . . {Ultra-violet dryers}
+   23/0413  . . . . {Infra-red dryers}
+   23/0416  . . . {by conduction (B41F 23/0436 takes
+   23/042   . . . . {using heated rolls}
+   23/0423  . . . {by convection (B41F 23/0436 takes
+   23/0426  . . . . {using heated air}
+   23/043   . . . . {using gas or fuel burners}
+   23/0433  . . . . {using steam}
+   23/0436  . . . {using a combination of radiation, conduction
+   23/044   . . {Drying sheets, e.g. between two printing stations
+(B41F 23/0486 takes precedence)}
+   23/0443  . . . {after printing}
+   23/0446  . . . . {Wicket conveyors}
+   23/045   . . . {by radiation}
+   23/0453  . . . . {by ultra-violet dryers}
+   23/0456  . . . . {by infrared dryers}
+   23/0459  . . . {by conduction, e.g. using heated rolls}
+   23/0463  . . . {by convection}
+   23/0466  . . . . {by using heated air}
+   23/0469  . . . . {by using gas or fuel burners}
+   23/0473  . . . . {by using steam}
+   23/0476  . . {Cooling (B41F 23/0483 takes precedence)}
+   23/0479  . . . {using chill rolls}
+   23/0483  . . {Drying combined with cooling}
+   23/0486  . . {Particular types of dryers}
+   23/0489  . . . {Vacuum dryers}
+   23/0493  . . . {Microwave dryers}
+   23/06    . . Powdering devices, e.g. for preventing set-off
+   23/065   . . . {for thermography}
+   23/08    . Print finishing devices, e.g. for glossing prints
+{(B41F 23/005 takes precedence)}
+   25/00    Devices for pressing sheets or webs against
+cylinders, e.g. for smoothing purposes
+   27/00    Devices for attaching printing elements or
+formes to supports (attaching by chemical means
+   27/005   . {Attaching and registering printing formes to
+   27/04    . for attaching printing elements to flat type-beds
+   27/06    . for attaching printing elements to forme cylinders
+   27/08    . for attaching printing formes to flat type-beds
+   27/10    . for attaching non-deformable curved printing
+   27/105   . . {for attaching cylindrical printing formes}
+   27/12    . for attaching flexible printing formes
+   27/1206  . . {Feeding to or removing from the forme
+   27/1212  . . {using pneumatic force}
+   27/1218  . . {comprising printing plate tensioning devices}
+   27/1225  . . . {moving in the printing plate end substantially
+   27/1231  . . . . {by translatory motion substantially
+   27/1237  . . . . {by translatory motion substantially
+perpendicular to support surface}
+   27/1243  . . . . {by pivotal or swivelling motion, e.g. by
+   27/125   . . . {moving in the printing plate end on a
+curvilinear path, e.g. by winding on a roll}
+   27/1256  . . . {with two semi-cylinders movable relative to
+   27/1262  . . {without tensioning means}
+   27/1268  . . . {by self-locking or snap-on means}
+   27/1275  . . . {by means of adhesives, staples}
+   27/1281  . . {details of the printing plate ends}
+   27/1287  . . {devices for bending the printing plates or the
+   27/1293  . . {Devices for filling up the cylinder gap; Devices
+   27/14    . for attaching printing formes to intermediate
+   30/00    Devices for attaching coverings or make-ready
+devices; Guiding devices for coverings (make-ready
+   30/02    . attaching to impression cylinders
+   30/04    . attaching to transfer cylinders
+   30/06    . attaching of endless or like continuously-fed
+   31/00    Inking arrangements or devices (inking units for
+platen presses B41F 1/40; inking units for cylinder
+5Common details of printing machinery
+   31/001   . {Ink mist preventing means}
+   31/002   . {Heating or cooling of ink or ink rollers}
+   31/004   . {Driving means for ink rollers}
+   31/005   . {Ink viscosity control means}
+   31/007   . {Removing water from ink trains}
+   31/008   . {Inking devices for reversible printing presses}
+   31/02    . Ducts, containers, supply or metering devices
+   31/022   . . {Ink level control devices}
+   31/025   . . {Ducts formed between two rollers}
+   31/027   . . {Ink rail devices for inking ink rollers}
+   31/04    . . with duct-blades or like metering devices
+   31/045   . . . {Remote control of the duct keys}
+   31/05    . . . Positioning devices therefor
+   31/06    . . Troughs or like reservoirs with immersed or
+partly immersed, rollers or cylinders
+   31/07    . . . for rotogravure
+   31/08    . . with ink ejecting means, e.g. pumps, nozzles
+   31/10    . . Applications of feed or duct rollers (messenger or
+moving transfer rollers B41F 31/14)
+   31/12    . . . adjustable for regulating supply
+   31/13    . . Means for driving fountain rollers {(B41F 13/12
+   31/14    . . Applications of messenger or other moving
+   31/15    . Devices for moving vibrator-rollers
+   31/16    . Continuous, e.g. endless, band apparatus
+   31/18    . for inking selected parts of printing formes
+   31/20    . Ink-removing or collecting devices
+   31/22    . for inking from interior of cylinder
+   31/26    . Construction of inking rollers (inking-rollers serving
+also to apply ink repellants in rotary lithographic
+   31/30    . Arrangements for tripping, lifting, adjusting, or
+removing inking rollers; Supports, bearings, or forks
+   31/301   . . {Devices for tripping and adjusting form rollers}
+   31/302   . . {Devices for tripping inking devices as a whole}
+   31/304   . . {Arrangements for inking roller bearings, forks or
+supports (B41F 31/301 takes precedence)}
+   31/305   . . . {Eccentric bearings}
+   31/307   . . . {Sliding bearings}
+   31/308   . . . {Swinging bearings}
+   31/32    . . Lifting or adjusting devices (for damping rollers
+   31/34    . . . Cam, eccentric, wedge, or like devices
+   31/36    . . . fluid-pressure operated
+   31/38    . . . magnetically operated
+   33/00    Indicating, counting, warning, control or safety
+devices (arrangements of counting devices in platen
+presses B41F 1/00 {, B41F 1/58; arrangements of
+counting devices} in cylinder presses B41F 3/84; ink
+supply or metering devices B41F 31/02)
+   33/0009  . {Central control units}
+   33/0018  . {Protection means against injury to the operator}
+   33/0027  . {Devices for scanning originals, printing formes
+or the like for determining or presetting the ink
+   33/0036  . {Devices for scanning or checking the printed
+   33/0045  . . {for automatically regulating the ink supply}
+   33/0054  . {Devices for controlling dampening}
+   33/0063  . {Devices for measuring the thickness of liquid films
+   33/0072  . {Devices for measuring the pressure between
+   33/0081  . {Devices for scanning register marks}
+   33/009   . {Devices for controlling numbering}
+   33/02    . Arrangements of indicating devices, e.g. counters
+   33/04    . Tripping devices or stop-motions ({tripping
+devices for doctor blades B41F 9/1027} ; cylinder-
+tripping devices of rotary presses or machines
+B41F 13/24; arrangements for tripping inking
+   33/045   . . {for starting or stopping operation of numbering
+   33/06    . . for starting or stopping operation of sheet or web
+   33/08    . . for starting or stopping operation of cylinders
+   33/10    . . for starting or stopping operation of damping or
+   33/12    . . for starting or stopping the machine as a whole
+   33/14    . . Automatic control of tripping devices by feelers,
+photoelectric devices, pneumatic devices, or other
+   33/16    . Programming systems for automatic control of
+   33/18    . Web break detection (B41F 33/04 takes precedence)
+   35/00    Cleaning arrangements or devices {(in manifolding
+apparatus or the like B41L 41/00)}
+   35/001   . {Devices for cleaning parts removed from the
+printing machines (B41F 35/003 takes precedence)}
+   35/002   . {for dampening rollers}
+   35/003   . {for screen printers or parts thereof}
+   35/004   . . {for cylindrical screens}
+   35/005   . . {for flat screens}
+   35/006   . {for impression cylinders}
+   35/007   . {for supports of workpieces}
+   35/008   . {for doctor blades}
+   35/02    . for forme cylinders
+   35/04    . for inking rollers
+   35/06    . for offset cylinders

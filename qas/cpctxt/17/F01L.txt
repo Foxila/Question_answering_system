@@ -1,0 +1,548 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+MACHINES OR ENGINES IN GENERAL; ENGINE PLANTS IN GENERAL; STEAM
+CYCLICALLY OPERATING VALVES FOR MACHINES OR ENGINES
+1. Groups F01L 1/00 - F01L 13/00 cover only valve-gear or valve arrangements without provision for variable fluid distribution.
+2. Valve gear or valve arrangements specially adapted for steam engines are covered by groups F01L 15/00 - F01L 35/00.
+3. Valve-gear arrangements specially adapted for machines or engines with variable working-fluid distribution are covered by
+groups F01L 15/00 - F01L 35/00.
+4. Attention is drawn to the notes preceding class F01, especially Note (3).
+5. As regards the above-mentioned Note (3), attention is drawn to F01B 3/10, F01B 15/06, F01C 21/18, F02B 53/06, F03C 1/08,
+F04B 1/18, F04B 7/00, F04B 39/08, F04B 39/10, and F04C 15/06, F04C 29/12.
+The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+Valve-gear or valve arrangements for positive-displacement
+machines or engines other than steam engines, e.g. for internal-
+combustion piston engines, without provision for variable fluid
+    1/00    Valve-gear or valve arrangements, e.g. lift-valve
+gear (lift-valve and valve-seat assemblies per se
+F01L 3/00; slide-valve gear F01L 5/00; actuated
+non-mechanically F01L 9/00; valve arrangements
+in working piston or piston rod F01L 11/00;
+modifications of valve-gear to facilitate reversing,
+braking, starting, changing compression ratio, or other
+specific operations F01L 13/00)
+    1/02    . Valve drive (transmitting-gear between valve drive
+ 2001/028   . . {Pre-assembled timing arrangement, e.g. located
+    1/04    . . by means of cams, camshafts, cam discs,
+eccentrics or the like (F01L 1/10 takes
+    1/044   . . . {Reciprocating cams}
+ 2001/0471  . . . . {Assembled camshafts}
+ 2001/0473  . . . . . {Composite camshafts, e.g. with cams or
+cam sleeve being able to move relative to
+the inner camshaft or a cam adjusting rod}
+ 2001/0475  . . . . {Hollow camshafts}
+ 2001/0476  . . . . {Camshaft bearings}
+ 2001/0478  . . . . {Torque pulse compensated camshafts}
+    1/053   . . . . overhead type
+    1/0532  . . . . . {the cams being directly in contact with
+ 2001/0535  . . . . . {Single overhead camshafts [SOHC]}
+ 2001/0537  . . . . . {Double overhead camshafts [DOHC]}
+ 2001/054   . . . . {Camshafts in cylinder block}
+    1/06    . . . the cams, or the like, rotating at a higher speed
+than that corresponding to the valve cycle, e.g.
+operating fourstroke engine valves directly
+    1/08    . . . Shape of cams
+    1/10    . . by means of crank-or eccentric-driven rods
+    1/12    . Transmitting gear between valve drive and valve
+(simultaneously operating two or more valves
+    1/14    . . Tappets {(hydraulic tappets for automatically
+adjusting or compensating clearance F01L 1/24)};
+    1/143   . . . {for use with overhead camshafts}
+    1/16    . . . Silencing impact; Reducing wear
+    1/18    . . Rocking arms or levers
+    1/181   . . . {Centre pivot rocking arms}
+    1/182   . . . . {the rocking arm being pivoted about an
+individual fulcrum, i.e. not about a common
+    1/183   . . . . . {of the boat type}
+    1/185   . . . {Overhead end-pivot rocking arms}
+ 2001/186   . . . {Split rocking arms, e.g. rocker arms having
+two articulated parts and means for varying the
+relative position of these parts or for selectively
+connecting the parts to move in unison}
+1Valve-gear or valve arrangements for positive-displacement machines or engines other than steam
+ 2001/187   . . . {Clips, e.g. for retaining rocker arm on pivot}
+ 2001/188   . . . {Fulcrums at upper surface}
+    1/20    . Adjusting or compensating clearance
+    1/205   . . {by means of shims or the like}
+    1/22    . . automatically, e.g. mechanically
+    1/24    . . . by fluid means, e.g. hydraulically
+    1/2405  . . . . {by means of a hydraulic adjusting device
+located between the cylinder head and rocker
+    1/2411  . . . . {by means of a hydraulic adjusting device
+located between the valve stem and rocker
+    1/2416  . . . . {by means of a hydraulic adjusting device
+attached to an articulated rocker}
+    1/2422  . . . . {by means or a hydraulic adjusting device
+located between the push rod and rocker
+ 2001/2427  . . . . {by means of an hydraulic adjusting device
+located between cam and push rod}
+ 2001/2433  . . . . {Self contained, e.g. sealed hydraulic lash
+ 2001/2438  . . . . {with means permitting forced opening of
+ 2001/2444  . . . . {Details relating to the hydraulic feeding
+circuit, e.g. lifter oil manifold assembly
+    1/245   . . . . Hydraulic tappets
+    1/25    . . . . . between cam and valve stem
+    1/252   . . . . . . {for side-valve engines}
+    1/255   . . . . . between cam and rocker arm
+ 2001/256   . . . . . {between cam and push rod}
+    1/26    . characterised by the provision of two or more valves
+operated simultaneously by same transmitting-gear;
+peculiar to machines or engines with more than
+two lift-valves per cylinder (with coaxial valves
+    1/262   . . {with valve stems disposed radially from a centre
+which is substantially the centre of curvature of
+the upper wall surface of a combustion chamber
+    1/265   . . {peculiar to machines or engines with three or
+more intake valves per cylinder}
+    1/267   . . {with means for varying the timing or the lift of
+    1/28    . characterised by the provision of coaxial valves;
+characterised by the provision of valves co-
+operating with both intake and exhaust ports
+    1/285   . . {Coaxial intake and exhaust valves}
+    1/30    . characterised by the provision of positively opened
+and closed valves, i.e. desmodromic valves
+    1/32    . characterised by the provision of means for rotating
+lift valves, e.g. to diminish wear
+    1/34    . characterised by the provision of means for
+changing the timing of the valves without changing
+the duration of opening {and without affecting the
+    1/344   . . changing the angular relationship between
+crankshaft and camshaft, e.g. using helicoidal
+    1/34403 . . . {using helically teethed sleeve or gear moving
+axially between crankshaft and camshaft}
+    1/34406 . . . . {the helically teethed sleeve being located in
+    1/34409 . . . {by torque-responsive means}
+    1/34413 . . . {using composite camshafts, e.g. with cams
+being able to move relative to the camshaft}
+    1/34416 . . . {using twisted cams}
+    1/3442  . . . {using hydraulic chambers with variable
+volume to transmit the rotating force}
+ 2001/34423 . . . . {Details relating to the hydraulic feeding
+ 2001/34426 . . . . . {Oil control valves}
+ 2001/3443  . . . . . . {Solenoid driven oil control valves}
+ 2001/34433 . . . . . . {Location oil control valves}
+ 2001/34436 . . . . . {Features or method for avoiding
+malfunction due to foreign matters in oil}
+ 2001/3444  . . . . . . {Oil filters}
+ 2001/34443 . . . . . . {Cleaning control of oil control valves}
+ 2001/34446 . . . . . {Fluid accumulators for the feeding
+ 2001/3445  . . . . {Details relating to the hydraulic means for
+changing the angular relationship}
+ 2001/34453 . . . . . {Locking means between driving and
+ 2001/34456 . . . . . . {Locking in only one position}
+ 2001/34459 . . . . . . {Locking in multiple positions}
+ 2001/34463 . . . . . . {Locking position intermediate between
+most retarded and most advanced
+ 2001/34466 . . . . . . {with multiple locking devices}
+ 2001/34469 . . . . . . {Lock movement parallel to camshaft
+ 2001/34473 . . . . . . {Lock movement perpendicular to
+ 2001/34476 . . . . . . {Restrict range locking means}
+ 2001/34479 . . . . . {Sealing of phaser devices}
+ 2001/34483 . . . . . {Phaser return springs}
+ 2001/34486 . . . {Location and number of the means for
+changing the angular relationship}
+ 2001/34489 . . . . {Two phasers on one camshaft}
+ 2001/34493 . . . . {Dual independent phasing system [DIPS]}
+ 2001/34496 . . . . {Two phasers on different camshafts}
+    1/348   . . . by means acting on timing belts or chains
+    1/352   . . . using bevel or epicyclic gear
+ 2001/3521  . . . . {Harmonic drive of flexspline type}
+ 2001/3522  . . . . {with electromagnetic brake}
+    1/356   . . . making the angular relationship oscillate {, e.g.
+    1/36    . peculiar to machines or engines of specific type
+    1/38    . . for engines with other than four-stroke cycle, e.g.
+with two-stroke cycle (F01L 1/26, F01L 1/28 take
+    1/40    . . for engines with scavenging charge near top dead
+centre position, e.g. by overlapping inlet and
+    1/42    . . for machines or engines characterised by cylinder
+    1/44    . Multiple-valve gear or arrangements, not provided
+for in preceding subgroups, e.g. with lift and
+    1/443   . . {comprising a lift valve and at least one rotary
+    1/446   . . {comprising a lift valve and at least one reed
+    1/46    . Component parts, details, or accessories, not
+provided for in preceding subgroups
+2Valve-gear or valve arrangements for positive-displacement machines or engines other than steam
+    1/462   . . {Valve return spring arrangements}
+    1/465   . . . {Pneumatic arrangements}
+ 2001/467   . . {Lost motion springs}
+    3/00    Lift-valve, i.e. cut-off apparatus with closure
+members having at least a component of their
+opening and closing motion perpendicular to the
+closing faces; Parts or accessories thereof
+    3/02    . Selecting particular materials for valve-members
+or valve-seats; Valve-members or valve-seats
+composed of two or more materials
+    3/04    . . Coated valve members or valve-seats
+    3/06    . Valve members or valve-seats with means for
+guiding or deflecting the medium controlled
+thereby, e.g. producing a rotary motion of the
+drawn-in cylinder charge (for rotating lift-valves
+    3/08    . Valves guides; Sealing of valve stem, e.g. sealing by
+    3/10    . Connecting springs to valve members
+ 2003/11    . {Connecting valve members to rocker arm or
+    3/12    . Cooling of valves
+    3/14    . . by means of a liquid or solid coolant, e.g. sodium,
+    3/16    . . by means of a fluid flowing through or along
+    3/18    . . . Liquid cooling of valve
+    3/20    . Shapes or constructions of valve members, not
+provided for in preceding subgroups of this group
+    3/22    . Valve-seats not provided for in preceding subgroups
+of this group; Fixing of valve-seats
+    3/24    . Safety means or accessories, not provided for in
+preceding sub- groups of this group
+ 2003/25    . {Valve configurations in relation to engine}
+ 2003/251   . . {Large number of valves, e.g. five or more}
+ 2003/253   . . {configured parallel to piston axis}
+ 2003/255   . . {configured other than parallel or symmetrical
+ 2003/256   . . {configured other than perpendicular to camshaft
+ 2003/258   . . {opening away from cylinder}
+    5/00    Slide valve-gear or valve-arrangements (with pure
+rotary or oscillatory movement F01L 7/00)
+    5/02    . with other than cylindrical, sleeve or part annularly
+shaped valves, e.g. with flat-type valves
+    5/04    . with cylindrical, sleeve, or part-annularly shaped
+    5/045   . . {Piston-type or cylinder-type valves arranged
+above the piston and coaxial with the cylinder
+    5/06    . . surrounding working cylinder or piston
+    5/08    . . . Arrangements with several movements or
+several valves, e.g. one valve inside the other
+(with part-annularly shaped valves F01L 5/12)
+    5/10    . . . . with reciprocating and other movements of
+    5/12    . . . Arrangements with part-annularly-shaped
+    5/14    . characterised by the provision of valves with
+reciprocating and other movements (surrounding
+working cylinder or piston F01L 5/06)
+    5/16    . . with reciprocating and other movement of same
+valve, e.g. longitudinally of working cylinder and
+    5/18    . . with reciprocatory valve and other slide valve
+    5/20    . specially for two-stroke engines (F01L 5/06,
+    5/22    . Multiple-valve arrangements (with valves
+surrounding working cylinder or piston F01L 5/08;
+with reciprocatory and other slide valves F01L 5/18;
+specially for two-stroke engines F01L 5/20)
+    5/24    . Component parts, details or accessories, not
+provided for in preceding subgroups in this group
+    7/00    Rotary or oscillatory slide valve-gear or valve
+arrangements (slide valves with combined rotary and
+non-rotary movements, combinations of rotary and
+non-rotary slide valves F01L 5/00)
+    7/02    . with cylindrical, sleeve, or part-annularly shaped
+valves (of disc type F01L 7/06; of conical type
+    7/021   . . {with one rotary valve}
+    7/022   . . . {Cylindrical valves having one recess
+communicating successively with aligned inlet
+    7/023   . . . {Cylindrical valves having a hollow or partly
+hollow body allowing axial inlet or exhaust
+    7/024   . . . {Cylindrical valves comprising radial inlet and
+axial outlet or axial inlet and radial outlet}
+    7/025   . . . {Cylindrical valves comprising radial inlet and
+side outlet or side inlet and radial outlet}
+    7/026   . . {with two or more rotary valves, their rotational
+axes being parallel, e.g. 4-stroke}
+    7/027   . . {with two or more valves arranged coaxially
+    7/028   . . {having the rotational axis coaxial with
+the cylinder axis and the valve surface not
+surrounding piston or cylinder}
+    7/029   . . {having the rotational axis of the valve parallel to
+    7/04    . . surrounding working cylinder or piston
+    7/045   . . . {with two or more valves arranged coaxially}
+    7/06    . with disc type valves
+    7/08    . with conically or frusto-conically shaped valves
+    7/10    . with valves of other specific shape, e.g. spherical
+    7/12    . specially for two-stroke engines (F01L 7/04 takes
+    7/14    . Multiple-valve arrangements (with valves
+surrounding working cylinder or piston F01L 7/04;
+specially for two-stroke engines F01L 7/12)
+    7/16    . Sealing or packing arrangements specially therefor
+    7/18    . Component parts, details, or accessories not
+provided for in preceding subgroups of this group
+    9/00    Valve-gear or valve arrangements actuated non-
+    9/10    . by fluid means, e.g. hydraulic
+    9/11    . . in which the action of a cam is being transmitted
+    9/12    . . . with a liquid chamber between a piston
+actuated by a cam and a piston acting on a
+    9/14    . . . . the volume of the chamber being variable,
+e.g. for varying the lift or the timing of a
+3Valve-gear or valve arrangements for positive-displacement machines or engines other than steam
+    9/16    . . Pneumatic means
+    9/18    . . Means for increasing the initial opening force on
+    9/20    . by electric means
+    9/21    . . actuated by solenoids
+ 2009/2103  . . . {comprising one coil}
+ 2009/2105  . . . {comprising two or more coils}
+ 2009/2107  . . . . {being disposed coaxially to the armature
+ 2009/2109  . . . . {The armature being articulated
+perpendicularly to the coils axes}
+ 2009/2115  . . . {Moving coil actuators}
+ 2009/2117  . . . {Floating actuators for varying the valve
+ 2009/2125  . . . {Shaft and armature construction}
+ 2009/2126  . . . . {Arrangements for amplifying the armature
+ 2009/2128  . . . {Core and coil construction}
+ 2009/213   . . . {Casing construction}
+ 2009/2132  . . . {Biasing means}
+ 2009/2134  . . . . {Helical springs}
+ 2009/2136  . . . . . {Two opposed springs for intermediate
+resting position of the armature}
+ 2009/2138  . . . . {Torsion springs}
+ 2009/214   . . . . {Pneumatic springs}
+ 2009/2142  . . . . {Means for varying the spring bias}
+ 2009/2144  . . . . {Means for connecting springs to valve or
+ 2009/2146  . . . {Latching means}
+ 2009/2148  . . . . {using permanent magnet}
+ 2009/2149  . . . {Means for varying the air gap}
+ 2009/2151  . . . {Damping means}
+ 2009/2153  . . . {Means for counteracting cylinder pressure}
+ 2009/2155  . . . {Lash adjusting means}
+ 2009/2157  . . . {Actuator cooling means}
+ 2009/2159  . . . {Means for facilitating assembly}
+ 2009/2163  . . . . {Connectors}
+ 2009/2165  . . . . {Harnesses}
+ 2009/2167  . . . {Sensing means}
+ 2009/2169  . . . . {Position sensors}
+ 2009/2171  . . . . {Vibration sensors}
+ 2009/2173  . . . . {Temperature sensors}
+ 2009/2174  . . . . {Flux sensors}
+ 2009/2176  . . . . {Spring force sensors}
+    9/22    . . actuated by rotary motors
+    9/24    . . Piezo-electric actuators
+ 2009/25    . . {Mixed arrangement with both mechanically and
+electromagnetically actuated valves}
+    9/26    . . Driving circuits therefor
+    9/30    . Arrangements for setting the actuator position, e.g.
+    9/40    . Methods of operation thereof; Control of valve
+actuation, e.g. duration or lift
+ 2009/408   . . {Engine starting}
+ 2009/4082  . . . {in normal conditions}
+ 2009/4086  . . {Soft landing, e.g. applying braking current;
+Levitation of armature close to core surface}
+ 2009/4088  . . {Fail safe, e.g. valve kept closed if not opening
+ 2009/409   . . {Determination of valve speed}
+ 2009/4092  . . {Determination of valve timing during particular
+working conditions, e.g. deceleration}
+ 2009/4094  . . {Engine stopping; Engine stall}
+ 2009/4096  . . {relating to sticking duration}
+ 2009/4098  . . {relating to gap between armature shaft and valve
+   11/00    Valve arrangements in working piston or piston-
+   11/04    . . operated by movement of connecting-rod
+   11/06    . . . operating oscillatory valve
+   13/00    Modifications of valve-gear to facilitate reversing,
+braking, starting, changing compression ratio, or
+   13/0005  . {Deactivating valves}
+ 2013/001   . . {Deactivating cylinders}
+   13/0015  . {for optimising engine performances by modifying
+valve lift according to various working parameters,
+e.g. rotational speed, load, torque}
+   13/0021  . . {by modification of rocker arm ratio}
+   13/0026  . . . {by means of an eccentric}
+   13/0031  . . {by modification of tappet or pushrod length}
+   13/0036  . . {the valves being driven by two or more cams
+with different shape, size or timing or a single
+cam profiled in axial and radial direction}
+   13/0042  . . . {with cams being profiled in axial and radial
+   13/0047  . . . {the movement of the valves resulting from the
+sum of the simultaneous actions of at least two
+cams, the cams being independently variable in
+phase in respect of each other}
+ 2013/0052  . . . {with cams provided on an axially slidable
+   13/0057  . . {by splittable or deformable cams}
+   13/0063  . . {by modification of cam contact point by
+displacing an intermediate lever or wedge-shaped
+intermediate element, e.g. Tourtelot}
+ 2013/0068  . . . {with an oscillating cam acting on the valve of
+ 2013/0073  . . . {with an oscillating cam acting on the valve of
+ 2013/0078  . . {by modification of cam contact point by axially
+ 2013/0084  . . {by modification of cam contact point by radially
+ 2013/0089  . . {with means for delaying valve closing}
+ 2013/0094  . . . {with switchable clamp for keeping valve
+   13/04    . for starting by means of fluid pressure
+   13/065   . . {Compression release engine retarders of the
+   13/08    . for decompression, e.g. during starting; for changing
+   13/085   . . {the valve-gear having an auxiliary cam
+protruding from the main cam profile}
+ 2013/10    . {Auxiliary actuators for variable valve timing}
+ 2013/101   . . {Electromagnets}
+ 2013/103   . . {Electric motors}
+ 2013/105   . . {Hydraulic motors}
+ 2013/106   . . {Pneumatic motors}
+4Valve-gear or valve arrangements for positive-displacement machines or engines other than steam
+ 2013/108   . . {Centrifugal force}
+ 2013/11    . {Sensors for variable valve timing}
+ 2013/111   . . {Camshafts position or phase}
+ 2013/113   . . {crankshafts position}
+Valve-gear or valve arrangements specially adapted for steam
+engines, or specially adapted for other positive-displacement
+machines or engines with variable working-fluid distribution
+1. Groups F01L 15/00 - F01L 31/00 cover:
+• valve drive or means external to valves for adjustment during
+• use of pistons or piston-rods as valves or as valve-supporting
+• valve-gear or valve arrangements peculiar to free-piston
+2. Groups F01L 15/00 - F01L 31/00 do not fully cover subject
+matter restricted to rotary, oscillatory, or lift-valve gear or
+valve arrangements, which is covered by group F01L 33/00 or
+   15/00    Valve-gear or valve arrangements, e.g. with
+reciprocatory slide valves, other than provided for
+in groups F01L 17/00 - F01L 29/00 (valve drive or
+external valve-adjustment during operation, tripping-
+gear or tripping of valves F01L 31/00)
+   15/02    . with valves other than cylindrical, sleeve, or part-
+annularly-shaped, e.g. flat D-valves
+   15/04    . . main valve being combined with auxiliary valve
+(of drag valve type F01L 15/10)
+   15/06    . . . of Meyer or Rider type, i.e. in which the
+expansion is varied at the expansion valve itself
+   15/08    . with cylindrical, sleeve, or part-annularly-shaped
+valves; Such main valves combined with auxiliary
+   15/10    . with main slide valve and auxiliary valve dragged
+   15/12    . characterised by having means for effecting
+pressure equilibrium between two different cylinder
+   15/14    . Arrangements with several co-operating main
+valves, e.g. reciprocatory and rotary
+   15/16    . . with reciprocatory slide valves only
+   15/18    . Valves arrangements not provided for in preceding
+   15/20    . Component parts, details, or accessories, not
+provided for in preceding subgroups of this main
+   17/00    Slide valve-gear or valve arrangements with
+cylindrical, sleeve, or part annularly-shaped valves
+surrounding working cylinder or piston
+   17/02    . Drive or adjustment during operation, peculiar
+thereto, e.g. for reciprocating and oscillating
+movements or for several valves one inside the
+   19/00    Slide valve-gear or valve arrangements with
+reciprocatory and other movement of same
+valve, other than provided for in F01L 17/00, e.g.
+longitudinally of working cylinder and in cross
+   19/02    . Drive or adjustment during operation, peculiar
+   21/00    Use of working pistons or pistons-rods as fluid-
+distributing valves or as valve-supporting
+elements, e.g. in free-piston machines
+   21/02    . Piston or piston-rod used as valve members
+{(F01L 25/066 takes precedence)}
+   21/04    . Valves arranged in or on piston or piston-rod
+   23/00    Valves controlled by impact by piston, e.g. in free-
+   25/00    Drive, or adjustment during the operation,
+or distribution or expansion valves by non-
+   25/04    . . by working-fluid of machine or engine, e.g. free-
+   25/06    . . . Arrangements with main and auxiliary valves,
+at least one of them being fluid-driven
+   25/063   . . . . {the auxiliary valve being actuated by the
+working motor-piston or piston-rod}
+   25/066   . . . . {piston or piston-rod being used as auxiliary
+   25/08    . by electric or magnetic means
+   27/00    Distribution or expansion valve-gear peculiar to
+free-piston machines or engines and not provided
+   27/02    . the machine or engine having rotary or oscillatory
+   27/04    . Delayed-action controls, e.g. of cataract or dashpot
+   29/02    . by displacing eccentric
+   29/04    . by links or guide rods
+   29/06    . by interchanging inlet and exhaust ports
+   29/08    . specially for rotary or oscillatory valves
+   29/10    . Details, e.g. drive
+   29/12    . . Powered reverse gear
+   31/00    Valve drive, valve adjustment during operation,
+or other valve control, not provided for in groups
+F01L 15/00 - F01L 29/00 (sensing elements
+measuring the variable or condition to be controlled or
+   31/02    . with tripping-gear (for oscillatory valves
+F01L 31/06); Tripping of valves
+   31/04    . . with positively-driven trip levers
+   31/06    . with tripping-gear specially for oscillatory valves;
+Oscillatory tripping-valves, e.g. of Corliss type
+   31/08    . Valve drive or valve adjustment, apart from tripping
+aspects; Positively-driven gear
+   31/10    . . the drive being effected by eccentrics
+   31/12    . . . Valve adjustment by displacing eccentric
+   31/14    . . Valve adjustment by links or guide rods, e.g. in
+valve-gears with eccentric drive
+5Valve-gear or valve arrangements specially adapted for steam engines, or specially adapted for other...
+   31/16    . . the drive being effected by specific means other
+than eccentric, e.g. cams; Valve adjustment in
+   31/18    . . specially for rotary or oscillatory valves
+Rotary or oscillatory slide valve-gear or lift-valve-gear or such
+valve arrangements specially for steam engines or specially
+for other machines or engines with variable working-fluid
+distribution (drive adjustment during operation, tripping-gear,
+reversing-gear, use of working pistons or piston-rods as valves or
+as valves-supporting elements, valve-gear or valve arrangements
+peculiar to free-piston machines or engines F01L 15/00 - F01L 31/00)
+   33/00    Rotary or oscillatory slide valve-gear or valve
+arrangements, specially adapted for machines
+or engines with variable fluid distribution (drive,
+adjustment during operation, tripping-gear, reversing-
+gear, use of working pistons or piston-rods as valves
+or as valve-supporting elements, valve-gear or valve
+arrangements peculiar to free-piston machines or
+engines F01L 15/00 - F01L 31/00)
+   35/00    Lift valve-gear or valve arrangements specially
+adapted for machines or engines with variable
+fluid distribution (drive, adjustment during
+operation, tripping-gear, reversing-gear, use of
+working pistons or piston-rods as valves or as
+valve-supporting elements, valve-gear or valve
+arrangements peculiar to free-piston machines or
+engines F01L 15/00 - F01L 31/00)
+   35/04    . Arrangements of valves in the machine or engine,
+e.g. relative to working cylinder
+ 2201/00    Electronic control systems; Apparatus or methods
+ 2250/00    Camshaft drives characterised by their
+ 2250/02    . the camshaft being driven by chains
+ 2250/04    . the camshaft being driven by belts
+ 2250/06    . the camshaft being driven by gear wheels
+ 2301/00    Using particular materials
+ 2301/02    . Using ceramic materials
+ 2303/00    Manufacturing of components used in valve
+ 2303/01    . Tools for producing, mounting or adjusting, e.g.
+ 2303/02    . Initial camshaft settings
+ 2305/00    Valve arrangements comprising rollers
+ 2305/02    . Mounting of rollers
+ 2307/00    Preventing the rotation of tappets
+ 2309/00    Self-contained lash adjusters
+ 2311/00    Differential gears located between crankshafts and
+camshafts for varying the timing of valves
+ 2313/00    Rotary valve drives
+ 2710/00    Control of valve gear, speed or power
+ 2710/003   . Control of valve gear for two stroke engines
+ 2710/006   . Safety devices therefor
+ 2740/00    Control of slide-valve gear; Control pistons
+ 2740/003   . more than one slide-valve, e.g. for four stroke
+ 2740/006   . more than one slide-valve, e.g. for two stroke
+ 2750/00    Control of valve gear for four stroke engines
+directly driven by the crankshaft
+ 2760/00    Control of valve gear to facilitate reversing,
+starting, braking of four stroke engines
+ 2760/001   . for starting four stroke engines
+ 2760/002   . for reversing or starting four stroke engines
+ 2760/003   . for switching to compressor action in order to brake
+ 2760/004   . . whereby braking is exclusively produced by
+ 2760/005   . . in cooperation with vehicle transmission
+or brakes; devices to facilitate switching to
+compressor action by means of other control
+devices, e.g. acceleration pedal or clutch
+ 2760/006   . for reversing two stroke engines
+ 2760/007   . for starting two stroke engines
+ 2760/008   . for reversing and restarting two stroke engines
+ 2800/00    Methods of operation using a variable valve timing
+ 2800/03    . Stopping; Stalling
+ 2800/04    . Timing control at idling
+ 2800/05    . Timing control under consideration of oil condition
+ 2800/06    . Timing or lift different for valves of same cylinder
+ 2800/08    . Timing or lift different for valves of different
+ 2800/10    . Providing exhaust gas recirculation [EGR]
+ 2800/11    . Fault detection, diagnosis
+ 2800/12    . Fail safe operation
+ 2800/14    . Determining a position, e.g. phase or lift
+ 2800/15    . Balancing of rotating parts
+ 2800/16    . Preventing interference
+ 2800/17    . Maintenance; Servicing
+ 2800/18    . Testing or simulation
+ 2800/19    . Valves opening several times per stroke
+ 2810/00    Arrangements solving specific problems in relation
+ 2810/03    . Reducing vibration
+ 2810/05    . Related to pressure difference on both sides of a
+ 2820/00    Details on specific features characterising valve
+ 2820/03    . Auxiliary actuators
+ 2820/032   . . Electric motors
+ 2820/033   . . Hydraulic engines
+ 2820/034   . . Pneumatic engines
+ 2820/035   . . Centrifugal forces
+ 2820/041   . . Camshafts position or phase sensors
+ 2820/042   . . Crankshafts position

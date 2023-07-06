@@ -1,0 +1,89 @@
+COOPERATIVE PATENT CLASSIFICATION
+COMBINATORIAL CHEMISTRY; LIBRARIES, e.g. CHEMICAL LIBRARIES (in silico
+combinatorial libraries of nucleic acids, proteins or peptides G16B 35/00; in silico combinatorial
+1. In this subclass, the first place priority rule is applied, i.e. at each hierarchical level, classification is made in the first
+2. When classifying in this subclass{, subject matter of interest is also classified in other appropriate places:}
+• library members are also classified in the appropriate places elsewhere in the IPC, (e.g. in section C) according to
+established procedure relating to "Markush"-type formulae (see paragraph 100 and 101 of the Guide);
+• {methods or apparatus covered by this subclass are also classified for their biological, chemical, physical or other features
+in the appropriate places in the IPC, if such features are of interest, e.g.
+Preparations for medical, dental or toilet purposes
+Specific therapeutic activity of chemical compounds or medicinal preparations
+Chemical or physical processes, e.g. catalysis; Apparatus therefor
+Chemical or physical laboratory apparatus
+Inorganic, organic or organic macromolecular compounds; Methods of preparation or
+Biochemistry. microbiology, enzymology including microorganisms or enzymes,
+preparing them, using them to synthesise compounds or compositions; Measuring
+or testing processes involving microorganisms or enzymes; Mutation or genetic
+Physical measurements methods; Apparatus therefor
+Electrical digital data processing
+3. {C12N 15/1034 - C12N 15/1093 always take precedence over C40B.}
+   10/00    Directed molecular evolution of macromolecules,
+   20/00    Methods specially adapted for identifying library
+   20/02    . Identifying library members by their fixed physical
+location on a support or substrate
+   20/04    . Identifying library members by means of a tag,
+label, or other readable or detectable entity
+associated with the library members, e.g. decoding
+   20/06    . using iterative deconvolution techniques
+   20/08    . Direct analysis of the library members per se by
+physical methods, e.g. spectroscopy
+   30/00    Methods of screening libraries
+   30/04    . by measuring the ability to specifically bind a target
+molecule, e.g. antibody-antigen binding, receptor-
+   30/06    . by measuring effects on living organisms, tissues or
+   30/08    . by measuring catalytic activity
+   30/10    . by measuring physical properties, e.g. mass
+   40/00    Libraries per se, e.g. arrays, mixtures
+   40/02    . Libraries contained in or displayed by
+microorganisms, e.g. bacteria or animal cells;
+Libraries contained in or displayed by vectors, e.g.
+plasmids; Libraries containing only microorganisms
+   40/04    . Libraries containing only organic compounds
+Libraries containing salts of organic compounds
+are classified in the groups for the libraries
+   40/06    . . Libraries containing nucleotides or
+polynucleotides, or derivatives thereof
+   40/08    . . . Libraries containing RNA or DNA which
+encodes proteins, e.g. gene libraries
+   40/10    . . Libraries containing peptides or polypeptides, or
+   40/12    . . Libraries containing saccharides or
+polysaccharides, or derivatives thereof
+   40/14    . . Libraries containing macromolecular
+compounds and not covered by groups
+   40/16    . . Libraries containing metal-containing organic
+   40/18    . Libraries containing only inorganic compounds or
+   50/00    Methods of creating libraries, e.g. combinatorial
+   50/04    . using dynamic combinatorial chemistry techniques
+   50/06    . Biochemical methods, e.g. using enzymes or whole
+   50/08    . Liquid phase synthesis, i.e. wherein all library
+building blocks are in liquid phase or in solution
+during library creation; Particular methods of
+cleavage from the liquid support
+   50/10    . . involving encoding steps
+   50/12    . . using a particular method of attachment to the
+   50/14    . Solid phase synthesis, i.e. wherein one or more
+library building blocks are bound to a solid support
+during library creation; Particular methods of
+cleavage from the solid support
+   50/16    . . involving encoding steps
+   50/18    . . using a particular method of attachment to the
+   60/00    Apparatus specially adapted for use in
+combinatorial chemistry or with libraries
+   60/02    . Integrated apparatus specially adapted for creating
+libraries, screening libraries and for identifying
+   60/04    . Integrated apparatus specially adapted for both
+screening libraries and identifying library members
+   60/06    . Integrated apparatus specially adapted for both
+creating libraries and identifying library members
+   60/08    . Integrated apparatus specially adapted for both
+creating and screening libraries
+   60/10    . for identifying library members
+   60/12    . for screening libraries
+   60/14    . for creating libraries
+   70/00    Tags or labels specially adapted for combinatorial
+chemistry or libraries, e.g. fluorescent tags or bar
+   80/00    Linkers or spacers specially adapted for
+combinatorial chemistry or libraries, e.g. traceless
+linkers or safety-catch linkers
+   99/00    Subject matter not provided for in other groups of

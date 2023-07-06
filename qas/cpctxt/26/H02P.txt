@@ -1,0 +1,704 @@
+COOPERATIVE PATENT CLASSIFICATION
+GENERATION; CONVERSION OR DISTRIBUTION OF ELECTRIC POWER
+CONTROL OR REGULATION OF ELECTRIC MOTORS, ELECTRIC GENERATORS
+OR DYNAMO-ELECTRIC CONVERTERS; CONTROLLING TRANSFORMERS,
+1. This subclass covers arrangements for starting, regulating, electronically commutating, braking, or otherwise controlling
+motors, generators, dynamo-electric converters, clutches, brakes, gears, transformers, reactors or choke coils, of the types
+classified in the relevant subclasses, e.g.  H01F, H02K.
+2. This subclass does not cover similar arrangements for the apparatus of the types classified in subclass  H02N, which
+arrangements are covered by that subclass.
+3. In this subclass, the following terms or expressions are used with the meanings indicated:
+• "control" means influencing a variable in any way, e.g. changing its direction or its value (including changing it to or from
+zero), maintaining it constant or limiting its range of variation;
+• "regulation" means maintaining a variable at a desired value, or within a desired range of values, by comparison of the
+actual value with the desired value.
+4. In this subclass, it is desirable to add the indexing codes of groups H02P 2101/00 and H02P 2103/00
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Arrangements for starting electric motors or
+dynamo-electric converters (starting of synchronous
+motors with electronic commutators except reluctance
+motors, H02P 6/20, H02P 6/22; starting dynamo-
+electric motors rotating step by step H02P 8/04;
+{Group H02P 1/029 takes precedence over groups
+    1/021   . . {Protection against "no voltage condition"}
+    1/022   . . {Security devices, e.g. correct phase sequencing}
+    1/023   . . . {Protection against sparking of contacts or
+    1/024   . . . {Protection against simultaneous starting by
+    1/025   . . . {Protection against starting if starting resistor is
+    1/026   . . . {Means for delayed starting}
+    1/027   . . {Special design of starting resistor}
+    1/028   . . {wherein the motor voltage is increased at low
+speed, to start or restart high inertia loads}
+    1/029   . . {Restarting, e.g. after power failure}
+    1/04    . . Means for controlling progress of starting
+sequence in dependence upon time or upon
+current, speed, or other motor parameter
+    1/06    . . . Manually-operated multi-position starters
+    1/08    . . . Manually-operated on/off switch controlling
+power-operated multi-position switch or
+impedances for starting a motor
+    1/10    . . . Manually-operated on/off switch controlling
+relays or contactors operating sequentially
+for starting a motor (sequence determined
+by power-operated multi-position switch
+    1/12    . . . Switching devices centrifugally operated by the
+    1/14    . . . Pressure-sensitive resistors centrifugally
+    1/16    . for starting dynamo-electric motors or dynamo-
+    1/163   . . {for starting an individual reluctance motor}
+    1/166   . . {Driving load with high inertia}
+    1/18    . . for starting an individual dc motor
+    1/20    . . . by progressive reduction of resistance in series
+    1/22    . . . in either direction of rotation
+    1/24    . . for starting an individual ac commutator motor
+(starting of ac/dc commutator motors H02P 1/18)
+    1/26    . . for starting an individual polyphase induction
+    1/265   . . . {Means for starting or running a triphase motor
+    1/28    . . . by progressive increase of voltage applied to
+    1/30    . . . by progressive increase of frequency of supply
+    1/32    . . . by star-delta switching
+    1/34    . . . by progressive reduction of impedance in
+    1/36    . . . . the impedance being a liquid resistance
+    1/38    . . . by pole-changing
+    1/40    . . . in either direction of rotation
+    1/42    . . for starting an individual single-phase induction
+motor {(H02P 27/04 takes precedence)}
+    1/423   . . . {by using means to limit the current in the main
+    1/426   . . . {by using a specially adapted frequency
+    1/44    . . . by phase-splitting with a capacitor
+    1/445   . . . . {by using additional capacitors switched at
+    1/46    . . for starting an individual synchronous motor
+{(H02P 27/04 takes precedence)}
+    1/465   . . . {for starting an individual single-phase
+    1/48    . . . by pole-changing
+    1/50    . . . by changing over from asynchronous to
+synchronous operation (H02P 1/48 takes
+    1/52    . . . by progressive increase of frequency of supply
+    1/54    . . for starting two or more dynamo-electric motors
+    1/56    . . . simultaneously
+    3/00    Arrangements for stopping or slowing electric
+motors, generators, or dynamo-electric converters
+(stopping of synchronous motors with electronic
+commutators except reluctance motors, H02P 6/24;
+stopping dynamo-electric motors rotating step by step
+H02P 8/24; vector control H02P 21/00)
+    3/025   . . {holding the rotor in a fixed position after
+    3/04    . . Means for stopping or slowing by a separate
+brake, e.g. friction brake, eddy-current brake
+    3/06    . for stopping or slowing an individual dynamo-
+electric motor or dynamo-electric converter
+    3/065   . . {for stopping or slowing a reluctance motor}
+    3/08    . . for stopping or slowing a dc motor
+    3/10    . . . by reversal of supply connections
+    3/12    . . . by short-circuit or resistive braking
+    3/14    . . . by regenerative braking
+    3/16    . . . by combined electrical and mechanical braking
+    3/18    . . for stopping or slowing an ac motor
+    3/20    . . . by reversal of phase sequence of connections to
+    3/22    . . . by short-circuit or resistive braking
+    3/24    . . . by applying dc to the motor
+    3/26    . . . by combined electrical and mechanical braking
+    4/00    Arrangements specially adapted for regulating or
+controlling the speed or torque of electric motors
+that can be connected to two or more different
+electric power supplies (vector control H02P 21/00)
+    5/00    Arrangements specially adapted for regulating
+or controlling the speed or torque of two or
+more electric motors (H02P 6/04, H02P 8/40 take
+    5/46    . for speed regulation of two or more dynamo-electric
+motors in relation to one another
+    5/48    . . by comparing mechanical values representing the
+    5/485   . . . using differential movement of the two motors,
+e.g. using differential gearboxes
+    5/49    . . . by intermittently closing or opening electrical
+    5/50    . . by comparing electrical values representing the
+    5/505   . . . using equalising lines, e.g. rotor and stator lines
+    5/51    . . . Direct ratio control
+    5/52    . . additionally providing control of relative angular
+    5/54    . . . Speed and position comparison between the
+    5/56    . . . Speed and position comparison between the
+    5/60    . controlling combinations of dc and ac dynamo-
+electric motors (H02P 5/46 takes precedence)
+    5/68    . controlling two or more dc dynamo-electric motors
+(H02P 5/46, H02P 5/60 take precedence)
+    5/685   . . electrically connected in series, i.e. carrying the
+    5/69    . . mechanically coupled by gearing
+    5/695   . . . Differential gearing
+    5/74    . controlling two or more ac dynamo-electric motors
+(H02P 5/46, H02P 5/60 take precedence)
+    5/747   . . mechanically coupled by gearing
+    5/753   . . . Differential gearing
+    6/00    Arrangements for controlling synchronous motors
+or other dynamo-electric motors using electronic
+commutation dependent on the rotor position;
+Electronic commutators therefor (vector control
+Group H02P 6/26 takes precedence over
+groups H02P 6/04–H02P 6/24 and H02P 6/28 –
+    6/005   . {Arrangements for controlling doubly fed motors}
+    6/006   . {Controlling linear motors}
+    6/007   . {wherein the position is detected using the ripple of
+the current caused by the commutation}
+    6/04    . Arrangements for controlling or regulating the
+speed or torque of more than one motor (H02P 6/10
+ 2006/045   . . {Control of current}
+    6/06    . Arrangements for speed regulation of a single motor
+wherein the motor speed is measured and compared
+with a given physical value so as to adjust the motor
+    6/08    . Arrangements for controlling the speed or torque
+of a single motor (H02P 6/10, H02P 6/28 take
+    6/085   . . {in a bridge configuration}
+    6/10    . Arrangements for controlling torque ripple, e.g.
+providing reduced torque ripple
+    6/12    . Monitoring commutation; Providing indication of
+    6/14    . Electronic commutators
+    6/15    . . Controlling commutation time
+    6/153   . . . {wherein the commutation is advanced from
+position signals phase in function of the speed}
+    6/157   . . . {wherein the commutation is function of
+    6/16    . . Circuit arrangements for detecting position
+    6/17    . . . and for generating speed information
+    6/18    . . . without separate position detecting elements
+    6/181   . . . . {using different methods depending on the
+    6/182   . . . . using back-emf in windings
+    6/183   . . . . {using an injected high frequency signal}
+    6/185   . . . . using inductance sensing, e.g. pulse
+    6/186   . . . . {using difference of inductance or reluctance
+    6/187   . . . . {using the star point voltage}
+    6/188   . . . . {using the voltage difference between the
+windings (H02P 6/182 takes precedence)}
+    6/20    . Arrangements for starting (H02P 6/08 takes
+    6/21    . . Open loop start
+    6/22    . . in a selected direction of rotation
+    6/24    . Arrangements for stopping
+    6/26    . Arrangements for controlling single phase motors
+    6/28    . Arrangements for controlling current (H02P 6/10
+    6/30    . Arrangements for controlling the direction of
+rotation (H02P 6/22 takes precedence)
+    6/32    . Arrangements for controlling wound field motors,
+    6/34    . Modelling or simulation for control purposes
+    7/00    Arrangements for regulating or controlling the
+speed or torque of electric DC motors
+    7/0094  . {wherein the position is detected using the ripple of
+the current caused by the commutator}
+    7/02    . the DC motors being of the linear type
+    7/025   . . the DC motors being of the moving coil type, e.g.
+    7/03    . for controlling the direction of rotation of DC
+    7/04    . . {by means of a H-bridge circuit}
+    7/05    . . {by means of electronic switching}
+    7/06    . for regulating or controlling an individual dc
+dynamo-electric motor by varying field or armature
+    7/063   . . {using centrifugal devices, e.g. switch, resistor}
+    7/066   . . {using a periodic interrupter, e.g. Tirrill
+    7/08    . . by manual control without auxiliary power
+    7/10    . . . of motor field only
+    7/12    . . . . Switching field from series to shunt
+    7/14    . . . of voltage applied to the armature with or
+without control of field {Ward-Leonard}
+    7/18    . . by master control with auxiliary power
+    7/20    . . . using multi-position switch, e.g. drum,
+controlling motor circuit by means of relays
+(H02P 7/24, H02P 7/30 take precedence)
+    7/22    . . . using multi-position switch, e.g. drum,
+controlling motor circuit by means of pilot-
+motor-operated multi-position switch or pilot-
+motor-operated variable resistance (H02P 7/24,
+    7/24    . . . using discharge tubes or semiconductor devices
+    7/245   . . . . {whereby the speed is regulated by
+measuring the motor speed and comparing it
+    7/26    . . . . using discharge tubes
+    7/265   . . . . . {whereby the speed is regulated by
+measuring the motor speed and comparing
+it with a given physical value}
+    7/28    . . . . using semiconductor devices
+    7/2805  . . . . . {whereby the speed is regulated by
+measuring the motor speed and comparing
+it with a given physical value}
+    7/281   . . . . . the DC motor being operated in four
+Group H02P 7/281 takes precedence
+over groups H02P 7/282 – H02P 7/298.
+    7/2815  . . . . . . {whereby the speed is regulated
+by measuring the motor speed and
+comparing it with a given physical
+    7/282   . . . . . controlling field supply only
+    7/2825  . . . . . . {whereby the speed is regulated
+by measuring the motor speed and
+comparing it with a given physical
+    7/285   . . . . . controlling armature supply only
+    7/2855  . . . . . . {whereby the speed is regulated
+by measuring the motor speed and
+comparing it with a given physical
+    7/288   . . . . . . using variable impedance
+    7/2885  . . . . . . . {whereby the speed is regulated
+by measuring the motor speed and
+comparing it with a given physical
+    7/29    . . . . . . using pulse modulation
+    7/291   . . . . . . . with on-off control between two set
+points, e.g. controlling by hysteresis
+    7/2913  . . . . . . . {whereby the speed is regulated
+by measuring the motor speed and
+comparing it with a given physical
+    7/292   . . . . . . using static converters, e.g. AC to DC
+    7/293   . . . . . . . using phase control (H02P 7/295
+    7/295   . . . . . . . of the kind having a thyristor or the
+like in series with the power supply
+    7/298   . . . . . controlling armature and field supply
+    7/2985  . . . . . . {whereby the speed is regulated
+by measuring the motor speed and
+comparing it with a given physical
+    7/30    . . . using magnetic devices with controllable
+degree of saturation, i.e. transductors
+    7/305   . . . . {whereby the speed is regulated by
+measuring the motor speed and comparing it
+    7/32    . . . using armature-reaction-excited machines, e.g.
+    7/325   . . . . {whereby the speed is regulated by
+measuring the motor speed and comparing it
+    7/34    . . . using Ward-Leonard arrangements
+    7/343   . . . . in which both generator and motor fields are
+    7/347   . . . . in which only the generator field is
+    7/348   . . . {for changing between series and parallel
+    8/00    Arrangements for controlling dynamo-electric
+motors of the kind having motors rotating step by
+step (vector control H02P 21/00)
+    8/005   . {of linear motors}
+    8/02    . specially adapted for single-phase or bi-pole stepper
+motors, e.g. watch-motors, clock-motors
+Groups H02P 8/005 and H02P 8/02 take
+precedence over groups H02P 8/04 - H02P 8/42
+    8/04    . Arrangements for starting
+    8/06    . . in selected direction of rotation
+    8/08    . . Determining position before starting
+    8/10    . . Shaping pulses for starting; Boosting current
+    8/12    . Control or stabilisation of current
+    8/14    . Arrangements for controlling speed or speed and
+torque (H02P 8/12, H02P 8/22 take precedence)
+    8/16    . . Reducing energy dissipated or supplied
+    8/165   . . . {using two level supply voltage}
+    8/18    . . Shaping of pulses, e.g. to reduce torque ripple
+    8/20    . . characterised by bidirectional operation
+    8/22    . Control of step size; Intermediate stepping, e.g.
+    8/24    . Arrangements for stopping (H02P 8/32 takes
+    8/26    . . Memorising final pulse when stopping
+    8/28    . . Disconnecting power source when stopping
+    8/30    . . Holding position when stopped
+    8/32    . Reducing overshoot or oscillation, e.g. damping
+    8/34    . Monitoring operation (H02P 8/36 takes precedence)
+    8/36    . Protection against faults, e.g. against overheating,
+step-out; Indicating faults (emergency protective
+arrangements with automatic interruption of supply
+    8/38    . . the fault being step-out
+    8/40    . Special adaptations for controlling two or more
+    8/42    . characterised by non-stepper motors being operated
+    9/00    Arrangements for controlling electric generators
+for the purpose of obtaining a desired output
+(Ward-Leonard arrangements H02P 7/34; vector
+control H02P 21/00; feeding a network by two
+or more generators H02J; for charging batteries
+    9/006   . {Means for protecting the generator by using
+control (H02H 7/06 takes precedence; control
+effected upon generator excitation circuit to
+reduce harmful effects of overloads or transients
+    9/007   . {Control circuits for doubly fed generators}
+    9/008   . {wherein the generator is controlled by the
+requirements of the prime mover}
+    9/009   . {Circuit arrangements for detecting rotor position}
+    9/04    . Control effected upon non-electric prime mover
+and dependent upon electric output value of the
+generator (effecting control of the prime mover in
+general, see the relevant class for such prime mover)
+    9/06    . Control effected upon clutch or other mechanical
+power transmission means and dependent upon
+electric output value of the generator (effecting
+control of the power transmission means, see the
+    9/08    . Control of generator circuit during starting or
+stopping of driving means, e.g. for initiating
+    9/10    . Control effected upon generator excitation circuit
+to reduce harmful effects of overloads or transients,
+e.g. sudden application of load, sudden removal of
+    9/102   . . {for limiting effects of transients}
+    9/105   . . {for increasing the stability}
+    9/107   . . {for limiting effects of overloads}
+    9/12    . . for demagnetising; for reducing effects of
+remanence; for preventing pole reversal
+    9/123   . . . {for demagnetising; for reducing effects of
+    9/126   . . . {for preventing pole reversal}
+    9/14    . by variation of field (H02P 9/08, H02P 9/10 take
+    9/16    . . due to variation of ohmic resistance in field
+circuit, using resistances switched in or out of
+    9/18    . . . the switching being caused by a servomotor,
+    9/20    . . due to variation of continuously-variable ohmic
+    9/22    . . . comprising carbon pile resistance
+    9/24    . . due to variation of make-to-break ratio of
+intermittently-operating contacts, e.g. using Tirrill
+    9/26    . . using discharge tubes or semiconductor devices
+    9/28    . . . using discharge tubes
+    9/30    . . . using semiconductor devices
+    9/302   . . . . {Brushless excitation}
+    9/305   . . . . {controlling voltage (H02P 9/302 takes
+    9/307   . . . . . {more than one voltage output}
+    9/32    . . using magnetic devices with controllable degree
+of saturation (H02P 9/34 takes precedence)
+    9/34    . . using magnetic devices with controllable degree
+of saturation in combination with controlled
+discharge tube or controlled semiconductor
+    9/36    . . using armature-reaction-excited machines
+    9/38    . . Self-excitation by current derived from
+rectification of both output voltage and output
+    9/40    . by variation of reluctance of magnetic circuit of
+    9/42    . to obtain desired frequency without varying speed
+    9/44    . Control of frequency and voltage in predetermined
+    9/46    . Control of asynchronous generator by variation of
+    9/48    . Arrangements for obtaining a constant output value
+at varying speed of the generator, e.g. on vehicle
+(H02P 9/04 - H02P 9/46 take precedence)
+   11/00    Arrangements for controlling dynamo-electric
+converters (starting H02P 1/00; stopping or slowing
+H02P 3/00; vector control H02P 21/00; feeding a
+network in conjunction with a generator or another
+   11/04    . for controlling dynamo-electric converters having a
+   11/06    . for controlling dynamo-electric converters having
+   13/00    Arrangements for controlling transformers,
+reactors or choke coils, for the purpose of
+obtaining a desired output (regulation systems
+using transformers, reactors or choke coils G05F;
+transformers H01F; feeding a network in conjunction
+with a generator or a converter H02J; control or
+   13/06    . by tap-changing; by rearranging interconnections of
+   13/08    . by sliding current collector along winding
+   13/10    . by moving core, coil winding, or shield, e.g. by
+   13/12    . by varying magnetic bias
+   15/00    Arrangements for controlling dynamo-electric
+brakes or clutches (controlling speed of dynamo-
+electric motors by means of a separate brake
+H02P 29/04, vector control H02P 21/00 {see
+provisionally also H02K 49/00 and H02P 29/0022})
+   15/02    . Conjoint control of brakes and clutches
+   17/00    Arrangements for controlling dynamo-electric
+gears (vector control H02P 21/00)
+   21/00    Arrangements or methods for the control of
+electric machines by vector control, e.g. by control
+1. When classifying in this group, classification
+should also be made in group H02P 25/00 when
+the method of control is characterised by the kind
+2. When classifying in this group, classification
+should also be made in group H02P 27/00 when
+the method of control is characterised by the kind
+of supply voltage of the motor being controlled.
+   21/0003  . {Control strategies in general, e.g. linear type, e.g.
+P, PI, PID, using robust control}
+   21/0007  . . {using sliding mode control}
+   21/001   . . {using fuzzy control}
+   21/0014  . . {using neural networks}
+   21/0017  . . {Model reference adaptation, e.g. MRAS
+or MRAC, useful for control or parameter
+   21/0021  . . {using different modes of control depending on a
+   21/0025  . . {implementing a off line learning phase to
+determine and store useful data for on-line
+   21/0085  . {specially adapted for high speeds, e.g. above
+   21/0089  . . {using field weakening}
+   21/02    . specially adapted for optimising the efficiency at
+   21/04    . specially adapted for very low speeds
+   21/05    . specially adapted for damping motor oscillations,
+   21/06    . Rotor flux based control involving the use of rotor
+position or rotor speed sensors
+   21/08    . . Indirect field-oriented control; Rotor flux feed-
+   21/09    . . . Field phase angle calculation based on rotor
+voltage equation by adding slip frequency and
+   21/10    . . Direct field-oriented control; Rotor flux feed-back
+   21/12    . Stator flux based control involving the use of rotor
+position or rotor speed sensors
+   21/13    . Observer control, e.g. using Luenberger observers
+   21/14    . Estimation or adaptation of machine parameters,
+   21/141   . . {Flux estimation}
+   21/143   . . {Inertia or moment of inertia estimation}
+   21/16    . . Estimation of constants, e.g. the rotor time
+   21/18    . . Estimation of position or speed
+   21/20    . . Estimation of torque
+   21/22    . Current control, e.g. using a current control loop
+   21/24    . Vector control not involving the use of rotor
+position or rotor speed sensors
+   21/26    . . Rotor flux based control
+   21/28    . . Stator flux based control
+   21/30    . . . Direct torque control [DTC] or field
+   21/32    . . Determining the initial rotor position
+   21/34    . Arrangements for starting
+   21/36    . Arrangements for braking or slowing; Four quadrant
+   21/50    . {Vector control arrangements or methods not
+otherwise provided for in H02P 21/00- H02P 21/36}
+   23/00    Arrangements or methods for the control of AC
+motors characterised by a control method other
+When classifying in this group, subject matter also
+relating to groups H02P 21/00, H02P 25/00 or
+H02P 27/00 is further classified in those groups
+   23/0004  . {Control strategies in general, e.g. linear type, e.g.
+P, PI, PID, using robust control}
+   23/0009  . . {using sliding mode control}
+   23/0013  . . {using fuzzy control}
+   23/0018  . . {using neural networks}
+   23/0022  . . {Model reference adaptation, e.g. MRAS
+or MRAC, useful for control or parameter
+   23/0027  . . {using different modes of control depending on a
+   23/0031  . . {implementing a off line learning phase to
+determine and store useful data for on-line
+   23/0077  . {Characterised by the use of a particular software
+   23/0086  . {specially adapted for high speeds, e.g. above
+   23/009   . . {using field weakening}
+   23/02    . specially adapted for optimising the efficiency at
+   23/03    . specially adapted for very low speeds
+   23/04    . specially adapted for damping motor oscillations,
+   23/06    . Controlling the motor in four quadrants
+   23/07    . . Polyphase or monophase asynchronous induction
+   23/08    . Controlling based on slip frequency, e.g. adding slip
+frequency and speed proportional frequency
+   23/10    . Controlling by adding a dc current (dc current
+   23/12    . Observer control, e.g. using Luenberger observers
+   23/14    . Estimation or adaptation of motor parameters, e.g.
+rotor time constant, flux, speed, current or voltage
+   23/16    . Controlling the angular speed of one shaft
+   23/18    . Controlling the angular speed together with angular
+   23/183   . . {of one shaft without controlling the prime
+   23/186   . . {of one shaft by controlling the prime mover}
+   23/20    . Controlling the acceleration or deceleration
+   23/22    . Controlling the speed digitally using a reference
+oscillator, a speed proportional pulse rate feedback
+   23/24    . Controlling the direction, e.g. clockwise or
+   23/26    . Power factor control [PFC]
+   23/28    . Controlling the motor by varying the switching
+frequency of switches connected to a DC supply and
+   23/30    . Direct torque control [DTC] or field acceleration
+   25/00    Arrangements or methods for the control of AC
+motors characterised by the kind of AC motor or
+When classifying in this group, subject matter also
+relating to groups H02P 21/00, H02P 23/00 or
+H02P 27/00 is further classified in those groups
+   25/02    . characterised by the kind of motor
+   25/022   . . Synchronous motors (H02P 25/064 takes
+   25/024   . . . controlled by supply frequency
+   25/026   . . . . thereby detecting the rotor position
+   25/028   . . . with four quadrant control
+   25/03    . . . with brushless excitation
+   25/032   . . Reciprocating, oscillating or vibrating motors
+   25/034   . . . Voice coil motors (voice coil motors driven by
+   25/04    . . Single phase motors, e.g. capacitor motors
+   25/062   . . . of the induction type
+   25/064   . . . of the synchronous type
+   25/066   . . . . of the stepping type
+   25/08    . . Reluctance motors
+   25/0805  . . . {whereby the speed is regulated by measuring
+the motor speed and comparing it with a given
+   25/083   . . . Arrangements for increasing the switching
+speed from one coil to the next one
+   25/089   . . . . Sensorless control (direct torque control
+   25/092   . . . Converters specially adapted for controlling
+   25/0925  . . . . {wherein the converter comprises only one
+   25/098   . . . Arrangements for reducing torque ripple
+   25/10    . . Commutator motors, e.g. repulsion motors
+   25/102   . . . {Repulsion motors}
+   25/105   . . . {Four quadrant control}
+   25/107   . . . {Polyphase or monophase commutator motors}
+   25/12    . . . with shiftable brushes
+   25/14    . . . Universal motors (H02P 25/12 takes
+   25/145   . . . . {whereby the speed is regulated by
+measuring the motor speed and comparing it
+with a given physical value, speed feedback}
+   25/16    . characterised by the circuit arrangement or by the
+   25/18    . . with arrangements for switching the windings,
+e.g. with mechanical switches or relays
+   25/182   . . . {whereby the speed is regulated by using
+centrifucal devices, e.g. switch, resistor}
+   25/184   . . . {wherein the motor speed is changed by
+switching from a delta to a star, e.g. wye,
+connection of its windings, or vice versa}
+   25/186   . . . {whereby the speed is regulated by using
+a periodic interrupter (H02P 25/30 takes
+   25/188   . . . {wherein the motor windings are switched from
+series to parallel or vice versa to control speed
+   25/20    . . . for pole-changing
+   25/22    . . Multiple windings; Windings for more than three
+   25/24    . . Variable impedance in stator or rotor circuit
+   25/26    . . . with arrangements for controlling secondary
+   25/28    . . using magnetic devices with controllable degree
+of saturation, e.g. transductors
+   25/30    . . the motor being controlled by a control effected
+upon an ac generator supplying it
+   25/32    . . using discharge tubes
+   25/325   . . . {whereby the speed is regulated by measuring
+the motor speed and comparing it with a given
+   27/00    Arrangements or methods for the control of
+AC motors characterised by the kind of supply
+voltage (of two or more motors H02P 5/00; of
+synchronous motors with electronic commutators
+H02P 6/00; of DC motors H02P 7/00; of stepping
+When classifying in this group, subject matter also
+relating to groups H02P 21/00, H02P 23/00 or
+H02P 25/00 is further classified in those groups
+   27/02    . using supply voltage with constant frequency and
+   27/024   . . using AC supply for only the rotor circuit or only
+   27/026   . . {whereby the speed is regulated by measuring
+the motor speed and comparing it with a given
+   27/04    . using variable-frequency supply voltage, e.g.
+inverter or converter supply voltage
+   27/045   . . {whereby the speed is regulated by measuring
+the motor speed and comparing it with a given
+   27/047   . . {V/F converter, wherein the voltage is controlled
+proportionally with the frequency}
+   27/048   . . using AC supply for only the rotor circuit or only
+   27/05    . . using AC supply for both the rotor and the stator
+circuits, the frequency of supply to at least one
+   27/06    . . using dc to ac converters or inverters
+   27/08    . . . with pulse width modulation
+   27/085   . . . . {wherein the PWM mode is adapted on the
+running conditions of the motor, e.g. the
+   27/10    . . . . using bang-bang controllers
+   27/12    . . . . pulsing by guiding the flux vector, current
+vector or voltage vector on a circle or a
+closed curve, e.g. for direct torque control
+   27/14    . . . . with three or more levels of voltage
+   27/16    . . using ac to ac converters without intermediate
+conversion to dc (H02P 27/05 takes precedence)
+   27/18    . . . varying the frequency by omitting half waves
+   29/00    Arrangements for regulating or controlling electric
+motors, appropriate for both AC and DC motors
+(arrangements for starting electric motors H02P 1/00;
+arrangements for stopping or slowing electric motors
+H02P 3/00; control of motors that can be connected
+to two or more different electric power supplies
+H02P 4/00; regulating or controlling the speed or
+torque of two or more electric motors H02P 5/00;
+   29/0016  . {Control of angular speed of one shaft without
+   29/0022  . . {Controlling a brake between the prime mover
+   29/0027  . . {Controlling a clutch between the prime mover
+   29/02    . Providing protection against overload without
+automatic interruption of supply (protection against
+faults of stepper motors H02P 8/36)
+References listed below indicate places which
+could also be of interest when carrying out a
+search in respect of the subject matter covered by
+Emergency protective circuit arrangements
+with automatic interruption if supply, in general
+Emergency protective circuit arrangements
+for limiting excess current or voltage without
+disconnection in general H02H 7/08
+   29/024   . . Detecting a fault condition, e.g. short circuit,
+locked rotor, open circuit or loss of load
+   29/0241  . . . {the fault being an overvoltage}
+   29/0243  . . . {the fault being a broken phase}
+   29/025   . . . {the fault being a power interruption}
+   29/026   . . . {the fault being a power fluctuation}
+   29/027   . . . {the fault being an over-current}
+   29/028   . . . the motor continuing operation despite the fault
+condition, e.g. eliminating, compensating for or
+   29/032   . . Preventing damage to the motor, e.g. setting
+individual current limits for different drive
+   29/04    . by means of a separate brake
+   29/045   . . {whereby the speed is regulated by measuring
+the motor speed and comparing it with a given
+   29/10    . for preventing overspeed or under speed
+   29/20    . for controlling one motor used for different
+   29/40    . Regulating or controlling the amount of current
+drawn or delivered by the motor for controlling the
+   29/50    . Reduction of harmonics
+   29/60    . Controlling or determining the temperature of
+the motor or of the drive (H02P 29/02 takes
+   29/62    . . for raising the temperature of the motor
+   29/64    . . Controlling or determining the temperature of the
+   29/66    . . Controlling or determining the temperature of the
+   29/662   . . . {the rotor having permanent magnets
+   29/664   . . . {the rotor having windings}
+   29/666   . . . . {by rotor current detection}
+   29/67    . . {Controlling or determining the motor
+temperature by back electromotive force [back-
+   29/68    . . based on the temperature of a drive component or
+   29/685   . . . {compensating for Hall sensor temperature
+   31/00    Arrangements for regulating or controlling
+electric motors not provided for in groups
+H02P 1/00 - H02P 5/00, H02P 7/00 or
+Indexing scheme associated with groups relating to the
+arrangements for controlling electric generators
+ 2101/00    Special adaptation of control arrangements for
+ 2101/10    . for water-driven turbines
+ 2101/15    . for wind-driven turbines
+ 2101/20    . for steam-driven turbines
+ 2101/25    . for combustion engines
+ 2101/40    . for railway vehicles
+7Indexing scheme associated with groups relating to the arrangements for controlling electric generators
+ 2101/45    . for motor vehicles, e.g. car alternators
+ 2103/00    Controlling arrangements characterised by the
+ 2103/10    . of the asynchronous type
+ 2103/20    . of the synchronous type
+ 2201/00    Indexing scheme relating to controlling
+arrangements characterised by the converter used
+ 2201/01    . AC-AC converter stage controlled to provide a
+ 2201/03    . AC-DC converter stage controlled to provide a
+defined DC link voltage (general aspects of plural
+ 2201/05    . Capacitive half bridge, i.e. resonant inverter having
+two capacitors and two switches
+ 2201/07    . DC-DC step-up or step-down converter inserted
+between the power supply and the inverter
+supplying the motor, e.g. to control voltage source
+fluctuations, to vary the motor speed (general
+aspects of plural converters in cascade H02M)
+ 2201/09    . Boost converter, i.e. DC-DC step up converter
+increasing the voltage between the supply and the
+inverter driving the motor (general aspects of plural
+ 2201/11    . Buck converter, i.e. DC-DC step down converter
+decreasing the voltage between the supply and the
+inverter driving the motor (general aspects of plural
+ 2201/13    . DC-link of current link type, e.g. typically for
+thyristor bridges, having an inductor in series with
+ 2201/15    . Power factor Correction [PFC] circuit generating
+the DC link voltage for motor driving inverter
+(motor power factor control H02P 23/26)
+ 2203/00    Indexing scheme relating to controlling
+arrangements characterised by the means for
+detecting the position of the rotor
+ 2203/01    . Motor rotor position determination based on the
+detected or calculated phase inductance, e.g. for a
+ 2203/03    . Determination of the rotor position, e.g. initial rotor
+position, during standstill or low speed operation
+ 2203/05    . Determination of the rotor position by using two
+different methods and/or motor models
+ 2203/07    . Motor variable determination based on the ON-
+resistance of a power switch, i.e. the voltage across
+the switch is measured during the ON state of the
+switch and used to determine the current in the
+motor and to calculate the speed
+ 2203/09    . Motor speed determination based on the current
+and/or voltage without using a tachogenerator or a
+ 2203/11    . Determination or estimation of the rotor position
+or other motor parameters based on the analysis of
+high frequency signals (position detection of motors
+with electronic commutators in dependence of the
+ 2205/00    Indexing scheme relating to controlling
+arrangements characterised by the control loops
+ 2205/01    . Current loop, i.e. comparison of the motor current
+ 2205/03    . Power loop, i.e. comparison of the motor power
+ 2205/05    . Torque loop, i.e. comparison of the motor torque
+ 2205/07    . Speed loop, i.e. comparison of the motor speed with
+ 2207/00    Indexing scheme relating to controlling
+arrangements characterised by the type of motor
+ 2207/01    . Asynchronous machines
+ 2207/03    . Double rotor motors or generators, i.e.
+electromagnetic transmissions having double
+rotor with motor and generator functions, e.g. for
+electrical variable transmission
+ 2207/05    . Synchronous machines, e.g. with permanent
+ 2207/055   . . Surface mounted magnet motors
+ 2207/07    . Doubly fed machines receiving two supplies both
+on the stator only wherein the power supply is fed
+to different sets of stator windings or to rotor and
+ 2207/073   . . wherein only one converter is used, the other
+windings being supplied without converter, e.g.
+ 2207/076   . . wherein both supplies are made via converters:
+especially doubly-fed induction machines; e.g. for
+ 2209/00    Indexing scheme relating to controlling
+arrangements characterised by the waveform of
+the supplied voltage or current
+ 2209/01    . Motors with neutral point connected to the power
+ 2209/03    . Motors with neutral point disassociated, i.e. the
+windings ends are not connected directly to a
+ 2209/05    . Polyphase motors supplied from a single-phase
+power supply or a DC power supply
+ 2209/07    . Trapezoidal waveform
+ 2209/09    . PWM with fixed limited number of pulses per
+ 2209/095   . . One pulse per half period
+ 2209/11    . Sinusoidal waveform
+ 2209/13    . Different type of waveforms depending on the mode

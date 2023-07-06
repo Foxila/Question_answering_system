@@ -1,0 +1,415 @@
+COOPERATIVE PATENT CLASSIFICATION
+GENERATION; CONVERSION OR DISTRIBUTION OF ELECTRIC POWER
+EMERGENCY PROTECTIVE CIRCUIT ARRANGEMENTS (indicating or signalling
+undesired working conditions G01R, e.g. G01R 31/00, G08B; locating faults along lines
+G01R 31/08; emergency protective devices H01H)
+This subclass covers only circuit arrangements for the automatic protection of electric lines or electric machines or apparatus
+in the event of an undesired change from normal working conditions
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Details of emergency protective circuit
+    1/0007  . {concerning the detecting means (in general
+G01R or other subclasses of G01; reed switches
+    1/0015  . . {Using arc detectors}
+    1/0023  . . . {sensing non electrical parameters, e.g. by
+optical, pneumatic, thermal or sonic sensors}
+    1/003   . . {Fault detection by injection of an auxiliary
+voltage (same for detection of earth fault currents
+H02H 3/17; for monitoring earth connection
+    1/0038  . {concerning the connection of the detecting means,
+e.g. for reducing their number}
+    1/0046  . . {Commutating the detecting means in
+dependance of the fault, e.g. for reducing their
+    1/0053  . . {Means for storing the measured quantities during
+    1/0061  . {concerning transmission of signals (transmission
+of measured quantities or switching orders;
+sectionalised protection involving signal
+transmission between at least two stations
+H02H 7/261; comparison of the voltage or current
+values at two spaced portions of a single system
+H02H 3/28; transferring the output of a sensing
+member to another variable G01D 5/00; electrical
+measuring arrangements using modulation
+of electromagnetic waves, e.g. light beams
+    1/0069  . . {by means of light or heat rays}
+    1/0076  . . {by superposition on the watched current}
+    1/0084  . . {by means of pilot wires or a telephone network;
+    1/0092  . {concerning the data processing means, e.g. expert
+    1/04    . Arrangements for preventing response to transient
+abnormal conditions, e.g. to lightning {or to short
+duration over voltage or oscillations; Damping the
+influence of dc component by short circuits in ac
+    1/043   . . {to inrush currents (H02H 1/046 takes
+precedence; differential protection of
+    1/046   . . {upon detecting saturation of current transformers
+(for differential protection H02H 3/283)}
+    1/06    . Arrangements for supplying operative power
+{(power supply arrangements in general G05F,
+    1/063   . . {primary power being supplied by fault current}
+    1/066   . . . {and comprising a shunt regulator}
+    3/00    Emergency protective circuit arrangements for
+automatic disconnection directly responsive
+to an undesired change from normal electric
+working condition with or without subsequent
+reconnection (specially adapted for specific types
+of electric machines or apparatus or for sectionalised
+protection of cable or line systems H02H 7/00;
+systems for change-over to standby supply H02J 9/00
+){; integrated protection (for motors H02H 7/0822)}
+    3/003   . {responsive to reversal of power transmission
+direction (reversal of direct current H02H 3/18)}
+    3/006   . {Calibration or setting of parameters}
+    3/021   . . {concerning the disconnection itself, e.g. at
+a particular instant, particularly at zero value
+of current, disconnection in a predetermined
+order (disconnection at zero value in general
+    3/023   . . . {by short-circuiting}
+    3/025   . . {Disconnection after limiting, e.g. when limiting
+is not sufficient or for facilitating disconnection}
+    3/027   . . with automatic disconnection after a
+predetermined time (H02H 3/033, H02H 3/06
+take precedence {; timing in overcurrent
+protection circuits H02H 3/093; in undervoltage
+protection circuits H02H 3/247; staggered
+    3/033   . . with several disconnections in a preferential
+order, {e.g. following priority of the users, load
+repartition}(H02H 3/06 takes precedence)
+    3/04    . . with warning or supervision in addition to
+disconnection, e.g. for indicating that protective
+apparatus has functioned {(watching of pilot
+wires H02H 1/0084; protection of protective
+arrangements H02H 7/008; indication of the state
+of electronic switches H03K 17/18)}
+    3/042   . . . {combined with means for locating the fault
+(locating faults in cables G01R 31/08)}
+    3/044   . . . {Checking correct functioning of protective
+arrangements, e.g. by simulating a fault
+(for differential current circuit breakers
+    3/046   . . . {Signalling the blowing of a fuse (detecting
+non functioning of a lamp H05B 47/20)}
+    3/048   . . . {Checking overvoltage diverters}
+    3/05    . . with means for increasing reliability, e.g.
+redundancy arrangements {(for logic circuits
+    3/06    . . with automatic reconnection
+    3/063   . . . {Details concerning the co-operation of
+many similar arrangements, e.g. in a network
+(sectionalised protection H02H 7/26)}
+    3/066   . . . {Reconnection being a consequence
+of eliminating the fault which caused
+    3/07    . . . and with permanent disconnection after a
+predetermined number of reconnection cycles
+    3/08    . responsive to excess current (responsive to
+abnormal temperature caused by excess current
+    3/081   . . {and depending on the direction}
+    3/083   . . {for three-phase systems}
+    3/085   . . {making use of a thermal sensor, e.g. thermistor,
+heated by the excess current (also responsive
+to the temperature of the protected device
+H02H 5/041, thermal images H02H 6/00)}
+    3/087   . . for dc applications
+    3/093   . . with timing means {(in general H02H 3/027;
+thermal delay H02H 3/085; timing means for
+undervoltage protection H02H 3/247)}
+    3/0935  . . . {the timing being determined by numerical
+    3/10    . . additionally responsive to some other abnormal
+    3/105   . . . {responsive to excess current and fault current
+    3/12    . responsive to underload or no-load {(for motors
+    3/13    . . for multiphase applications, e.g. phase
+    3/14    . responsive to occurrence of voltage on parts
+normally at earth potential {(monitoring earth
+    3/16    . responsive to fault current to earth, frame or
+mass (with balanced or differential arrangement
+H02H 3/26 {; monitoring earth connection
+    3/162   . . {for ac systems}
+    3/165   . . . {for three-phase systems}
+    3/167   . . {combined with other earth-fault protective
+    3/17    . . by means of an auxiliary voltage injected into the
+installation to be protected {(using summation
+current transformers H02H 3/33)}
+    3/18    . responsive to reversal of direct current
+    3/20    . responsive to excess voltage
+    3/202   . . {for dc systems}
+    3/205   . . {using a spark-gap as detector}
+    3/207   . . {also responsive to under-voltage (window
+comparators for indication G01R 19/165)}
+    3/22    . . of short duration, e.g. lightning
+    3/24    . responsive to undervoltage or no-voltage
+{(H02H 3/207 takes precedence)}
+    3/243   . . {for DC systems}
+    3/247   . . having timing means
+    3/253   . . for multiphase applications, e.g. phase
+    3/26    . responsive to difference between voltages or
+between currents; responsive to phase angle
+between voltages or between currents
+    3/265   . . {responsive to phase angle between voltages or
+    3/28    . . involving comparison of the voltage or current
+values at two spaced portions of a single
+system, e.g. at opposite ends of one line, at
+input and output of apparatus {(for transformers
+    3/283   . . . {and taking into account saturation of current
+    3/286   . . . {involving comparison of similar homopolar
+    3/30    . . . using pilot wires or other signalling channel
+    3/302   . . . . {involving phase comparison}
+    3/305   . . . . {involving current comparison}
+    3/307   . . . . {involving comparison of quantities derived
+from a plurality of phases, e.g. homopolar
+quantities; using mixing transformers}
+    3/32    . . involving comparison of the voltage or current
+values at corresponding points in different
+conductors of a single system, e.g. of currents in
+    3/325   . . . {involving voltage comparison (H02H 3/347
+    3/33    . . . using summation current transformers
+    3/331   . . . . {responsive to earthing of the neutral
+conductor (H02H 3/338 takes precedence)}
+    3/332   . . . . {with means responsive to dc component in
+    3/334   . . . . {with means to produce an artificial
+unbalance for other protection or monitoring
+reasons or remote control (H02H 3/338 takes
+    3/335   . . . . . {the main function being self testing of the
+    3/337   . . . . {avoiding disconnection due to reactive fault
+    3/338   . . . . {also responsive to wiring error, e.g. loss of
+    3/34    . . . of a three-phase system
+    3/343   . . . . {using phase sequence analysers}
+    3/347   . . . . using summation current transformers
+    3/353   . . . . involving comparison of phase voltages
+    3/36    . . involving comparison of the voltage or current
+values at corresponding points of different
+systems, e.g. of parallel feeder systems
+    3/365   . . . {one of the systems simulating the other
+    3/38    . responsive to both voltage and current; responsive
+to phase angle between voltage and current
+    3/382   . . {involving phase comparison between current and
+voltage or between values derived from current
+    3/385   . . {using at least one homopolar quantity}
+    3/387   . . {using phase-sequence analysing arrangements}
+    3/40    . responsive to ratio of voltage and current
+    3/402   . . {using homopolar quantities}
+    3/405   . . {using phase sequence analysing arrangements}
+    3/407   . . {using induction relays}
+    3/42    . responsive to product of voltage and current
+    3/422   . . {using homopolar quantities}
+    3/425   . . {using phase sequence analysing arrangements}
+    3/427   . . {using induction relays}
+    3/44    . responsive to the rate of change of electrical
+    3/445   . . {of DC quantities}
+    3/46    . responsive to frequency deviations
+    3/48    . responsive to loss of synchronism
+    3/50    . responsive to the appearance of abnormal wave
+forms, e.g. ac in dc installations
+    3/52    . . responsive to the appearance of harmonics
+    5/00    Emergency protective circuit arrangements for
+automatic disconnection directly responsive to
+an undesired change from normal non-electric
+working conditions with or without subsequent
+reconnection (using simulators of the apparatus
+being protected H02H 6/00; specially adapted for
+specific types of electric machines or apparatus or
+for sectionalised protection of cable or line systems
+    5/005   . {responsive to ionising radiation; Nuclear-radiation
+circumvention circuits (radiation detectors G01T;
+nuclear-explosion detection G21J 5/00)}
+    5/04    . responsive to abnormal temperature {(specially
+adapted for electric machines H02H 7/0852)}
+    5/041   . . {additionally responsive to excess current
+    5/042   . . {using temperature dependent resistors}
+    5/043   . . . {the temperature dependent resistor being
+disposed parallel to a heating wire, e.g. in a
+    5/044   . . {using a semiconductor device to sense the
+    5/045   . . {using a thermal radiation sensor}
+    5/046   . . {using a thermocouple}
+    5/047   . . {using a temperature responsive switch}
+    5/048   . . . {additionally responsive to excess current due
+    5/06    . . in oil-filled electric apparatus
+    5/08    . responsive to abnormal fluid pressure, liquid level
+or liquid displacement, e.g. Buchholz relays
+    5/083   . . {responsive to the entry or leakage of a liquid
+into an electrical appliance (moisture alarm
+    5/086   . . {of cooling or lubricating fluids}
+    5/10    . responsive to mechanical injury, e.g. rupture of line,
+    5/105   . . {responsive to deterioration or interruption of
+earth connection (for preventing switching-on
+    5/12    . responsive to undesired approach to, or touching of,
+    6/00    Emergency protective circuit arrangements
+responsive to undesired changes from normal non-
+electric working conditions using simulators of
+the apparatus being protected, e.g. using thermal
+    6/005   . {using digital thermal images}
+    7/00    Emergency protective circuit arrangements
+specially adapted for specific types of electric
+machines or apparatus or for sectionalised
+protection of cable or line systems, and effecting
+automatic switching in the event of an undesired
+change from normal working conditions (structural
+association of protective devices with specific
+machines or apparatus and their protection without
+automatic disconnection, see the relevant subclass for
+    7/001   . {for superconducting apparatus, e.g. coils, lines,
+    7/003   . {for electrostatic apparatus}
+    7/005   . {for remote controlled apparatus; for lines
+    7/006   . {for non-insulated low-voltage distribution systems,
+e.g. low-voltage halogen-lamp system}
+    7/008   . {for protective arrangements according to
+this subclass (H02H 9/042, H02H 9/043 take
+precedence; protection of spark-gaps H02H 7/24)}
+    7/042   . . {for current transformers}
+    7/045   . . Differential protection of transformers
+    7/0455  . . . {taking into account saturation of current
+    7/05    . . for capacitive voltage transformers, e.g. against
+    7/055   . . for tapped transformers or tap-changing means
+    7/06    . for dynamo-electric generators; for synchronous
+    7/062   . . {for parallel connected generators}
+    7/065   . . {against excitation faults}
+    7/067   . . {on occurrence of a load dump (control on sudden
+    7/08    . for dynamo-electric motors
+    7/0805  . . {for synchronous motors}
+    7/0811  . . {for dc motors (H02H 7/0833 takes precedence)}
+    7/0816  . . {concerning the starting sequence, e.g. limiting
+the number of starts per time unit, monitoring
+    7/0822  . . {Integrated protection, motor control centres}
+    7/0827  . . {responsive to underload or no-load, e.g. pump-
+off control circuits for pump motors}
+    7/0833  . . {for electric motors with control arrangements}
+    7/0838  . . . {with H-bridge circuit}
+    7/0844  . . . {Fail safe control, e.g. by comparing control
+signal and controlled current, isolating motor
+    7/085   . . against excessive load {(H02H 6/00 takes
+    7/0851  . . . {for motors actuating a movable member
+between two end positions, e.g. detecting an
+end position or obstruction by overload signal}
+    7/0852  . . . {directly responsive to abnormal temperature
+by using a temperature sensor (in a control
+    7/0853  . . . {specially adapted for motors rotating in both
+directions (H02H 7/0851 takes precedence)}
+    7/0854  . . . {responsive to rate of change of current,
+couple or speed, e.g. anti-kickback protection
+(H02H 7/0851 takes precedence)}
+    7/0855  . . . {avoiding response to transient overloads, e.g.
+    7/0856  . . . {characterised by the protection measure
+    7/0857  . . . . {by lowering the mechanical load of the
+    7/0858  . . . . {by reversing, cycling or reducing the power
+    7/0859  . . . . {avoiding restarting after fault condition has
+    7/09    . . against over-voltage; against reduction of voltage;
+    7/093   . . against increase beyond, or decrease below,
+a predetermined level of rotational speed
+(centrifugal switches H01H 35/10)
+    7/097   . . against wrong direction of rotation
+    7/10    . for converters; for rectifiers {(forming part of the
+control circuit of the converter, see the relevant
+    7/103   . . {for rotating converters}
+    7/106   . . {for dynamic converters}
+    7/12    . . for static converters or rectifiers {(for discharge
+lamp power supplies using static converters
+H05B 41/2851, H05B 41/2921, H05B 41/2981)}
+    7/1203  . . . {Circuits independent of the type of
+    7/1206  . . . . {specially adapted to conversion cells
+composed of a plurality of parallel or serial
+    7/1209  . . . {for converters using only discharge tubes}
+    7/1213  . . . {for DC-DC converters}
+    7/1216  . . . {for AC-AC converters}
+    7/122   . . . for inverters, i.e. dc/ac converters
+    7/1222  . . . . {responsive to abnormalities in the input
+circuit, e.g. transients in the DC input}
+    7/1225  . . . . {responsive to internal faults, e.g.
+shoot-through (avoiding shoot-through
+    7/1227  . . . . {responsive to abnormalities in the output
+    7/125   . . . for rectifiers
+    7/1252  . . . . {responsive to overvoltage in input or output,
+    7/1255  . . . . {responsive to internal faults, e.g. by
+monitoring ripple in output voltage}
+    7/1257  . . . . {responsive to short circuit or wrong polarity
+    7/127   . . . . having auxiliary control electrode to which
+blocking control voltages or currents are
+    7/16    . for capacitors (for synchronous capacitors
+    7/18    . for batteries; for accumulators
+    7/20    . for electronic equipment (for converters H02H 7/10;
+for electric measuring instruments G01R 1/36; for
+dc voltage or current semiconductor regulators
+G05F 1/569; for amplifiers H03F 1/52; for
+electronic switching circuits H03K 17/08)
+    7/205   . . {for controlled semi-conductors which are not
+included in a specific circuit arrangement}
+    7/22    . for distribution gear, e.g. bus-bar systems; for
+switching devices {(detecting mechanical or
+electrical defects in gas-insulated switchgears
+    7/224   . . . {Anti-pump circuits}
+    7/226   . . {for wires or cables, e.g. heating wires}
+    7/228   . . {for covered wires or cables}
+    7/24    . for spark-gap arresters
+    7/26    . Sectionalised protection of cable or line systems,
+e.g. for disconnecting a section on which a short-
+circuit, earth fault, or arc discharge has occured
+(locating faults in cables G01R 31/08)
+    7/261   . . {involving signal transmission between at least
+two stations (transmission of signals in general
+    7/262   . . . {involving transmissions of switching or
+    7/263   . . . {involving transmissions of measured values
+(comparison of currents or voltages using pilot
+    7/265   . . {making use of travelling wave theory}
+    7/266   . . {involving switching on a spare supply (in
+    7/267   . . {for parallel lines and wires}
+    7/268   . . {for dc systems}
+    7/28    . . for meshed systems
+    7/30    . . Staggered disconnection
+    9/00    Emergency protective circuit arrangements
+for limiting excess current or voltage without
+disconnection (structural association of protective
+devices with specific machines or apparatus, see the
+relevant subclass for the machine or apparatus)
+    9/001   . {limiting speed of change of electric quantities,
+e.g. soft switching on or off (progressive control
+of electronic switches for eliminating interferences
+    9/002   . . {limiting inrush current on switching on of
+inductive loads subjected to remanence, e.g.
+    9/004   . . {in connection with live-insertion of plug-in
+units (involving communication with a central
+    9/005   . {avoiding undesired transient conditions}
+    9/007   . . {avoiding or damping oscillations, e.g.
+fenoresonance or travelling waves}
+    9/008   . {Intrinsically safe circuits}
+    9/02    . responsive to excess current {(current limitation for
+voltage regulators G05F 1/573; disconnection after
+    9/021   . . {Current limitation using saturable reactors
+    9/023   . . {Current limitation using superconducting
+    9/025   . . {Current limitation using field effect transistors}
+    9/026   . . {Current limitation using PTC resistors, i.e.
+resistors with a large positive temperature
+    9/028   . . {Current limitation by detuning a series
+resonant circuit (H02H 9/021, H02H 9/023 take
+    9/04    . responsive to excess voltage (lightning arrestors
+H01C 7/12, H01C 8/04, H01G 9/18, H01T)
+    9/041   . . {using a short-circuiting device}
+    9/042   . . {comprising means to limit the absorbed power or
+indicate damaged over-voltage protection device}
+    9/043   . . {Protection of over-voltage protection device by
+    9/044   . . {Physical layout, materials not provided for
+elsewhere (varistors H01C 7/12; spark-gaps
+H01T; Ovshinsky devices H10N 70/00)}
+    9/045   . . {adapted to a particular application and not
+    9/046   . . . {responsive to excess voltage appearing at
+terminals of integrated circuits (protection
+by specific structural integration design
+    9/047   . . . {Free-wheeling circuits}
+    9/048   . . {Anti-latching or quenching devices, i.e. bringing
+the protection device back to its normal state after
+    9/049   . . {Circuit arrangements for limiting the number of
+    9/06    . . using spark-gap arresters
+    9/08    . Limitation or suppression of earth fault currents,
+   11/00    Emergency protective circuit arrangements for
+preventing the switching-on in case an undesired
+electric working condition might result
+   11/001   . {in case of incorrect or interrupted earth connection
+(disconnection by breaking of earth connection
+   11/002   . {in case of inverted polarity or connection; with
+switching for obtaining correct connection}
+   11/003   . . {using a field effect transistor as protecting
+element in one of the supply lines}
+   11/004   . {in case of incorrect phase sequence; with switching
+for obtaining correct phase sequence (protection
+of motors against wrong direction of rotation
+   11/005   . {in case of too low isolation resistance, too high
+load, short-circuit; earth fault}
+   11/006   . {in case of too high or too low voltage}
+   11/007   . . {involving automatic switching for adapting the
+protected apparatus to the supply voltage}
+   11/008   . {preventing unsafe switching operations in
+substations (Schaltfehlerschutz)}
+   99/00    Subject matter not provided for in other groups of

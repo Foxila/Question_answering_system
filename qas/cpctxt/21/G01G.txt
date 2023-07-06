@@ -1,0 +1,466 @@
+COOPERATIVE PATENT CLASSIFICATION
+WEIGHING (sorting by weighing B07C 5/16)
+Attention is drawn to the Notes following the title of class G01.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Weighing apparatus involving the use of a
+counterweight or other counterbalancing mass
+    1/02    . Pendulum-weight apparatus
+    1/025   . . {with variable cam radius or variable
+    1/04    . . the pendulum having a fixed pivot axis
+    1/06    . . . with a plurality of pendulums
+    1/08    . . the pendulum having a moving pivot axis, e.g. a
+    1/10    . . . with a plurality of pendulums
+    1/12    . . Constructional arrangements for obtaining equal
+    1/14    . . Temperature compensating arrangements
+    1/16    . . Means for correcting for obliquity of mounting
+    1/18    . Balances involving the use of a pivoted beam, i.e.
+    1/185   . . {Two draft weighing apparatus, e.g. tandem
+    1/20    . . Beam balances having the pans carried below the
+beam, and for use with separate counterweights
+    1/22    . . . for precision weighing
+    1/24    . . Platform-type scales, i.e. having the pans carried
+    1/243   . . . {having pans carried above the beam}
+    1/246   . . . . {of the parallelogram type}
+    1/26    . . with associated counterweight or set of
+    1/28    . . . involving means for automatically lifting
+counterweights corresponding to the load
+    1/29    . . . . with electrical or electromechanical control
+    1/30    . . . wherein the counterweight is in the form of a
+    1/32    . . . wherein the counterweights are in the form of
+    1/34    . . . involving a fixed counterweight, with poise-
+weights selectively added to the load side
+    1/36    . . . wherein the counterweights are slideable along
+    1/38    . . . . with automatically-driven counterweight
+    1/40    . . specially adapted for weighing by substitution
+    1/42    . . Temperature compensating arrangements
+    3/00    Weighing apparatus characterised by the use
+of elastically-deformable members, e.g. spring
+    3/02    . wherein the weighing element is in the form of a
+    3/04    . . using a plurality of springs
+    3/06    . wherein the weighing element is in the form of a
+    3/08    . wherein the weighing element is in the form of a
+    3/10    . wherein the torsional deformation of a weighing
+    3/12    . wherein the weighing element is in the form of a
+solid body stressed by pressure or tension during
+    3/125   . . {wherein the weighing element is an optical
+    3/13    . . having piezo-electric or piezo-resistive properties
+    3/14    . . measuring variations of electrical resistance
+    3/1402  . . . {Special supports with preselected places to
+mount the resistance strain gauges; Mounting
+    3/1404  . . . . {combined with means to connect the strain
+    3/1406  . . . . {combined with special measuring circuits}
+    3/1408  . . . . {the supports being of the column type, e.g.
+    3/141   . . . . {the supports being disc or ring shaped}
+    3/1412  . . . . {the supports being parallelogram shaped}
+    3/1414  . . . {Arrangements for correcting or for
+compensating for unwanted effects}
+    3/1416  . . . . {for non-linearity}
+    3/1418  . . . . {for temperature variations}
+    3/142   . . . Circuits specially adapted therefor
+    3/145   . . . . involving comparison with a reference value
+    3/147   . . . . involving digital counting
+    3/15    . . measuring variations of magnetic properties
+    3/16    . . measuring variations of frequency of oscillations
+    3/165   . . . {Constructional details}
+    3/18    . Temperature-compensating arrangements
+    5/00    Weighing apparatus wherein the balancing is
+    5/003   . {load-cell construction or mountings}
+    5/006   . {with pneumatic means}
+    5/02    . with a float or other member variably immersed in
+    5/04    . with means for measuring the pressure imposed by
+the load on a liquid (pressure gauges per se G01L)
+    5/045   . . {combined with means for totalising the pressure
+    5/06    . . with electrical indicating means
+    7/00    Weighing apparatus wherein the balancing
+is effected by magnetic, electromagnetic, or
+electrostatic action, or by means not provided for
+    7/02    . by electromagnetic action
+    7/04    . . with means for regulating the current to solenoids
+    7/045   . . . {having a PID control system}
+    7/06    . by electrostatic action
+    9/00    Methods of, or apparatus for, the
+determination of weight, not provided for in
+    9/005   . {using radiations, e.g. radioactive (analysing
+materials by the use of wave or particle radiation
+   11/00    Apparatus for weighing a continuous stream of
+material during flow; Conveyor belt weighers
+   11/003   . {Details; specially adapted accessories (details
+of weighing apparatus in general G01G 21/00;
+auxiliary devices for weighing apparatus in general
+   11/006   . {Special taring or checking devices therefor
+(devices for determining tare weight in general
+   11/02    . having mechanical weight-sensitive devices
+   11/025   . . {combined with totalising or integrating devices}
+   11/04    . having electrical weight-sensitive devices
+   11/043   . . {combined with totalising or integrating devices}
+   11/046   . . . {involving digital counting}
+   11/06    . having fluid weight-sensitive devices
+   11/065   . . {combined with totalising or integrating devices}
+   11/08    . having means for controlling the rate of feed or
+discharge (regulation of flow of fluent material
+   11/083   . . {of the weight-belt or weigh-auger type
+(G01G 11/10, G01G 11/12 take precedence)}
+   11/086   . . {of the loss-in-weight feeding type}
+   11/10    . . by controlling the height of the material on the
+   11/12    . . by controlling the speed of the belt
+   11/14    . using totalising or integrating devices
+({G01G 11/025, G01G 11/043, G01G 11/046
+and G01G 11/065 take precedence} totalising or
+integrating devices per se G06)
+   11/16    . . being electrical or electronic means
+   11/18    . . . using digital counting
+   11/20    . . being mechanical means
+   13/00    Weighing apparatus with automatic feed or
+discharge for weighing-out batches of material
+(for weighing a continuous stream G01G 11/00;
+check-weighing G01G 15/00; for fluids G01G 17/04;
+apportioning by weight materials to be mixed
+G01G 19/22; combinatorial weighing G01G 19/387)
+   13/003   . {Details; specially adapted accessories (details
+of weighing apparatus in general G01G 21/00;
+auxiliary devices for weighing apparatus in general
+   13/006   . . {Container supply or discharge mechanism
+(means for automatic loading or discharging
+G01G 13/02, G01G 13/16, G01G 13/24)}
+   13/02    . Means for automatically loading weigh pans or
+other receptacles, e.g. disposable containers, under
+control of the weighing mechanism
+   13/022   . . {Material feeding devices
+(G01G 13/04 - G01G 13/14 take precedence)}
+   13/026   . . . {by mechanical conveying means, e.g. belt or
+   13/028   . . . {by pneumatic carrying means}
+   13/04    . . involving dribble-feed means controlled by the
+weighing mechanism to top up the receptacle to
+   13/06    . . . wherein the main feed is effected by gravity
+   13/08    . . . wherein the main feed is effected by
+mechanical conveying means, e.g. by belt
+conveyors, by vibratory conveyors
+   13/10    . . . wherein the main feed is effected by pneumatic
+conveying means, e.g. by fluidised feed of
+   13/12    . . Arrangements for compensating for material
+suspended at cut-off, i.e. for material which is still
+falling from the feeder when the weigher stops
+   13/14    . . Arrangements for determination of, or
+compensation for, the tare weight of an unloaded
+container, e.g. of a disposable container
+   13/16    . Means for automatically discharging weigh
+receptacles under control of the weighing
+   13/18    . . by valves or flaps in the container bottom
+   13/20    . . by screw conveyors in the weigh receptacle
+   13/22    . . by tilting or rotating the weigh receptacle
+   13/24    . Weighing mechanism control arrangements for
+   13/241   . . {Bulk-final weighing apparatus, e.g. rough
+weighing balance combined with separate fine
+   13/242   . . {Twin weighing apparatus; weighing apparatus
+using single load carrier and a plurality of
+weigh pans coupled alternately with the load
+carrier; weighing apparatus with two or more
+alternatively used weighing devices}
+   13/243   . . . {using a single load carrier}
+   13/244   . . . . {with a single weighing receptacle divided
+into two or more alternatively used sections}
+   13/245   . . . . . {the weighing receptacles being rockable
+   13/246   . . . . . {the weighing apparatus being rotatable}
+   13/247   . . {Checking quantity of material in the feeding
+arrangement, e.g. discharge material only if a
+predetermined quantity is present}
+   13/248   . . {Continuous control of flow of material (control
+   13/26    . . involving fluid-pressure systems
+   13/28    . . involving variation of an electrical variable which
+is used to control loading or discharge of the
+   13/285   . . . involving comparison with a reference value
+(G01G 13/29 takes precedence {; electric
+measuring arrangements involving comparison
+with a reference value G01R 17/00})
+   13/2851  . . . . {for controlling automatic loading of weigh
+pans or other receptacles (G01G 13/29 takes
+   13/2852  . . . . . {involving dribble-feed means controlled
+by the weighing mechanism to top up the
+receptacle to the target weight}
+   13/2853  . . . . . . {wherein the main feed is effected by
+gravity from a hopper or chute}
+   13/2855  . . . . . . {wherein the main feed is effected by
+mechanical conveyingmeans, e.g. by
+belt conveyors, by vibratory conveyors}
+   13/2856  . . . . . . {wherein the main feed is effected by
+pneumatic conveying means, e.g. by
+fluidised feed of granular material}
+   13/2857  . . . . . {Arrangements for compensating for
+material suspended at cut-off, i.e. for
+material which is still falling from the
+feeder when the weigher stops the feeder}
+   13/2858  . . . . . {Arrangements for the determination of,
+or compensation for, the tare weight of an
+unloaded container, e.g. of a disposable
+   13/29    . . . involving digital counting
+   13/2906  . . . . {for controlling automatic loading of weigh-
+   13/2912  . . . . . {involving dribble-feed means controlled
+by the weighing mechanism to top up the
+receptacle to the target weight}
+   13/2918  . . . . . . {wherein the main feed is effected by
+gravity from a hopper or chute}
+   13/2925  . . . . . . {wherein the main feed is effected
+by mechanical means, e.g. by belt
+conveyors, by vibratory conveyors}
+   13/2931  . . . . . . {wherein the main feed is effected by
+pneumatic conveying means, e.g. by
+fluidised feed of granular material}
+   13/2937  . . . . . {Arrangements for compensating for
+material suspended at cut-off, i.e. for
+material which is still falling from the
+feeder when the weigher stops the feeder}
+   13/2943  . . . . . {Arrangements for determination of, or
+compensation for, the tare weight of an
+unloaded container, e.g. of a disposable
+   13/295   . . . for controlling automatic loading of the
+receptacle {(G01G 13/285, G01G 13/29 take
+   13/2951  . . . . {involving dribble-feed means controlled
+by the weighing mechanism to top up the
+receptacle to the target weight}
+   13/2952  . . . . . {wherein the main feed is effected by
+gravity from a hopper or chute}
+   13/2954  . . . . . {wherein the main feed is effected by
+mechanical conveying means, e.g. by belt
+conveyors, by vibratory conveyors}
+   13/2955  . . . . . {wherein the main feed is effected by
+pneumatic conveying means, e.g. by
+fluidised feed of granular material}
+   13/2957  . . . . {Arrangements for compensating for
+material suspended at cut-off, i.e. for
+material which is still falling from the feeder
+when the weigher stops the feeder}
+   13/2958  . . . . {Arrangements for the determination of,
+or compensation for, the tare weight of
+an unloaded container, e.g. a disposable
+   13/30    . . involving limit switches or position-sensing
+   13/32    . . . involving photoelectric devices
+   13/34    . . involving mechanical linkage motivated by
+   15/00    Arrangements for check-weighing of materials
+dispensed into removable containers (packaging
+aspects B65B; {electric measuring arrangements
+involving comparison with a reference value
+   15/001   . {Volumetric pre-dispensing to an estimated weight;
+Gravimetric make-up device for target device}
+ 2015/002   . . {using electrical, electromechanical or electronic
+ 2015/003   . . . {involving digital counting}
+ 2015/005   . . . {involving comparison with reference value}
+   15/006   . {using electrical, electromechanical, or electronic
+means not covered by G01G 15/001, G01G 15/02,
+ 2015/007   . . {involving digital counting}
+ 2015/008   . . {involving comparison with a reference value}
+   15/02    . with provision for adding or removing a make-up
+quantity of material to obtain the desired net weight
+(dribble-feed means for automatic batch-weighers
+ 2015/022   . . {using electrical, electromechanical or electronic
+ 2015/025   . . . {involving digital counting}
+ 2015/027   . . . {involving comparison with a reference value}
+   15/04    . with provision for adding or removing a make-
+up quantity of material to obtain the desired gross
+weight (dribble-feed means for automatic batch-
+ 2015/042   . . {using electrical, electromechanical or electronic
+ 2015/045   . . . {involving digital counting}
+ 2015/047   . . . {involving comparison with a reference value}
+   17/00    Apparatus for or methods of weighing material
+of special form or property (determining weight by
+   17/02    . for weighing material of filamentary or sheet form
+   17/04    . for weighing fluids, e.g. gases, pastes
+   17/06    . . having means for controlling the supply or
+   17/08    . for weighing livestock
+   19/00    Weighing apparatus or methods adapted for
+special purposes not provided for in the preceding
+groups {(electric measuring arrangements involving
+comparison with a reference value G01R 17/00)}
+   19/002   . {for postal parcels and letters}
+   19/005   . . {with electric or electronic computing means}
+   19/007   . {fractioning a determined weight of material in
+   19/02    . for weighing wheeled or rolling bodies, e.g. vehicles
+   19/021   . . {having electrical weight-sensitive devices
+(G01G 19/04 - G01G 19/07 take precedence)}
+   19/022   . . {for weighing wheeled or rolling bodies in
+motion (G01G 19/045 takes precedence)}
+   19/024   . . . {using electrical weight-sensitive devices}
+   19/025   . . {wheel-load scales}
+   19/027   . . . {using electrical weight-sensitive devices}
+   19/028   . . {combined with shock-absorbing devices (shock-
+absorbing arrangements for bearings G01G 21/02;
+means for damping oscillations G01G 23/06;
+   19/03    . . for weighing during motion (G01G 19/04,
+G01G 19/07 take precedence {check weighing
+of materials dispensed into removable
+containers G01G 15/00; weighing a continuous
+stream of material during flow G01G 11/00;
+G01G 19/02, e.g. G01G 19/022, G01G 19/045
+   19/035   . . . {using electrical weight-sensitive devices}
+   19/04    . . for weighing railway vehicles
+   19/042   . . . {having electrical weight-sensitive devices}
+   19/045   . . . {for weighing railway vehicles in motion}
+   19/047   . . . . {using electrical weight-sensitive devices}
+   19/06    . . . on overhead rails
+   19/07    . . for weighing aircraft
+   19/08    . for incorporation in vehicles
+   19/083   . . {lift truck scale}
+   19/086   . . {wherein the vehicle mass is dynamically
+   19/10    . . having fluid weight-sensitive devices
+   19/12    . . having electrical weight-sensitive devices
+   19/14    . for weighing suspended loads (G01G 3/00 takes
+precedence; incorporation of weighing devices in
+   19/16    . . having fluid weight-sensitive devices
+   19/18    . . having electrical weight-sensitive devices
+   19/20    . . for weighing unbalanced loads
+   19/22    . for apportioning materials by weighing prior to
+mixing them (ratio regulation G05D 11/00)
+   19/24    . . using a single weighing apparatus
+   19/26    . . . associated with two or more counterweighted
+   19/28    . . . having fluid weight-sensitive devices
+   19/30    . . . having electrical weight-sensitive devices
+   19/303   . . . . {involving digital counting}
+   19/306   . . . . {involving comparison with a reference
+   19/32    . . using two or more weighing apparatus
+   19/34    . . with electrical control means
+   19/343   . . . {involving digital counting}
+   19/346   . . . {involving comparison with a reference value}
+   19/36    . . with mechanical control means
+   19/38    . . programme controlled, e.g. by perforated tape
+(programme control in general G05B 19/00)
+   19/382   . . . {involving digital counting}
+   19/384   . . . {involving comparison with a reference value}
+   19/387   . for combinatorial weighing, i.e. selecting a
+combination of articles whose total weight or
+number is closest to a desired value
+   19/393   . . using two or more weighing units
+   19/40    . with provisions for indicating, recording, or
+computing price or other quantities dependent on
+the weight (indicating means for weighing apparatus
+G01G 23/18; recording means for weighing
+apparatus G01G 23/18; computers in general G06)
+   19/41    . . using mechanical computing means
+   19/413   . . using electromechanical or electronic computing
+   19/414   . . . using electronic computing means only
+   19/4142  . . . . {for controlling activation of safety devices,
+e.g. airbag systems (electrical circuits for
+triggering safety arrangements in case of
+vehicle accidents B60R 21/015)}
+   19/4144  . . . . {for controlling weight of goods in
+commercial establishments, e.g. supermarket,
+   19/4146  . . . . {for controlling caloric intake, e.g. diet
+   19/4148  . . . . {for controlling postal rate in articles to be
+mailed (franking apparatus with means for
+   19/415   . . . . combined with recording means
+   19/417   . . with provision for checking computing part of
+   19/42    . . for counting by weighing (G01G 19/387 takes
+   19/44    . for weighing persons
+   19/445   . . {in a horizontal position}
+   19/46    . . Spring balances specially adapted for this purpose
+   19/48    . . Pendulum balances specially adapted for this
+   19/50    . . having additional measuring devices, e.g. for
+   19/52    . Weighing apparatus combined with other objects,
+e.g. furniture (with walking sticks A45B 3/08)
+   19/54    . . combined with writing implements or paper-
+   19/56    . . combined with handles of tools or household
+   19/58    . . combined with handles of suit-cases or trunks
+   19/60    . . combined with fishing equipment, e.g. with
+   19/62    . Over or under weighing apparatus
+   19/64    . Percentage-indicating weighing apparatus, i.e.
+for expressing the weight as a percentage of a
+predetermined or initial weight
+   21/00    Details of weighing apparatus
+   21/02    . Arrangements of bearings (bearings per se F16C)
+   21/022   . . {of tapes or ribbons}
+   21/025   . . {using a combination of knife-edge and ball or
+   21/027   . . {Hydraulic or pneumatic bearings}
+   21/04    . . of knife-edge bearings
+   21/06    . . of ball or roller bearings
+   21/07    . . of flexure-plate bearings
+   21/08    . . Bearing mountings or adjusting means therefor
+   21/085   . . . {of knife-edge bearings (knife-edge bearings
+   21/10    . . Floating suspensions; Arrangements of shock
+absorbers (shock absorbers per se F16F)
+   21/12    . . Devices for preventing derangement
+   21/125   . . . {of knife-edge bearings (knife-edge bearings
+   21/16    . . of composite construction; Connections between
+   21/161   . . . {Connections between different beams}
+   21/162   . . . . {using knife-edge bearings (knife-edge
+   21/163   . . . . {using ball or roller bearings (ball or roller
+   21/165   . . . . {using tapes or ribbons (tapes or ribbons
+   21/166   . . . . {using flexure plate fulcrums (flexure plate
+   21/167   . . . . {combined with different kinds of bearings}
+   21/168   . . . . . {combined with knife-edge and ball or
+   21/18    . Link connections between the beam and the weigh
+   21/182   . . {using knife-edge bearings (knife-edge bearings
+   21/184   . . {using ball or roller bearings (ball or roller
+   21/186   . . {using tapes or ribbons (tapes or ribbons
+   21/188   . . {using flexure plate fulcrums (flexure plate
+   21/20    . . for precision weighing apparatus
+   21/22    . Weigh pans or other weighing receptacles;
+   21/23    . Support or suspension of weighing platforms
+   21/235   . . {using knife-edge bearings (knife-edge bearings
+   21/24    . Guides or linkages for ensuring parallel motion of
+   21/241   . . {combined with knife-edge bearings (knife-edge
+   21/242   . . {combined with ball or roller bearings (ball or
+   21/243   . . {combined with tapes or ribbons (tapes or ribbons
+   21/244   . . {combined with flexure-plate fulcrums (flexure-
+   21/245   . . {combined with different kinds of bearings}
+   21/246   . . . {combined with knife-edge and ball or roller
+   21/247   . . . {combined with knife-edge bearings and tapes
+   21/248   . . . {combined with knife-edge and flexure-plate
+   21/26    . Counterweights; Poise-weights; Sets of weights;
+Holders for the reception of weights
+   21/283   . . {Details related to a user interface}
+   21/286   . . {with windshields}
+   21/30    . Means for preventing contamination by dust
+   23/00    Auxiliary devices for weighing apparatus
+   23/002   . {Means for correcting for obliquity of mounting (for
+pendulum-weight apparatus G01G 1/16)}
+   23/005   . {Means for preventing overload}
+   23/007   . {Integrated arrangements for generating electrical
+   23/01    . Testing or calibrating of weighing apparatus
+   23/012   . . {with load cells comprising in-build calibration
+   23/015   . . {by adjusting to the local gravitational
+   23/017   . . {Securing calibration against fraud}
+   23/02    . Relieving mechanisms; Arrestment mechanisms
+   23/04    . . for precision weighing apparatus
+   23/06    . Means for damping oscillations, e.g. of weigh
+   23/10    . . by electric or magnetic means
+   23/12    . . specially adapted for preventing oscillations due
+   23/14    . Devices for determining tare weight or for
+cancelling out the tare by zeroising, e.g.
+mechanically operated (in connection with
+   23/16    . . electrically or magnetically operated
+   23/163   . . . {involving digital counting}
+   23/166   . . . {involving comparison with a reference value}
+   23/18    . Indicating devices, e.g. for remote indication;
+Recording devices; Scales, e.g. graduated
+   23/20    . . Indicating weight by mechanical means
+   23/203   . . . {with wheel-type counters}
+   23/206   . . . {special graduated scales therefor (G01G 23/24
+   23/22    . . . combined with price indicators
+   23/24    . . . involving logarithmic scales
+   23/26    . . . Drive for the indicating member, e.g.
+   23/28    . . . involving auxiliary or memory marks
+   23/30    . . . with means for illuminating the scale
+   23/32    . . Indicating the weight by optical projection means
+   23/34    . . . combined with price indicators
+   23/35    . . Indicating the weight by photographic recording
+   23/36    . . Indicating the weight by electrical means, e.g.
+   23/361   . . . {using photoelectric cells}
+   23/362   . . . {using electric contacts}
+   23/363   . . . {using magnetic or capacitive contacts}
+   23/365   . . . involving comparison with a reference value
+   23/37    . . . involving digital counting
+   23/3707  . . . . {using a microprocessor}
+   23/3714  . . . . . {with feedback means}
+   23/3721  . . . . . {with particular representation of the
+   23/3728  . . . . {with wireless means}
+   23/3735  . . . . . {using a digital network}
+   23/3742  . . . . . . {using a mobile telephone network}
+   23/375   . . . . during the movement of a coded element
+   23/38    . . Recording and/or coding devices specially
+adapted for weighing apparatus (computers per se
+G06; disc converters in general G08C)
+   23/40    . . . mechanically operated
+   23/42    . . . electrically operated
+   23/44    . . . . Coding devices therefor
+   23/46    . . . Devices preventing recording until the
+weighing mechanism has come to rest
+   23/48    . Temperature-compensating arrangements
+(G01G 1/14, G01G 1/42, G01G 3/18 take

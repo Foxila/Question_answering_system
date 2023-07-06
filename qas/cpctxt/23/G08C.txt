@@ -1,0 +1,91 @@
+COOPERATIVE PATENT CLASSIFICATION
+TRANSMISSION SYSTEMS FOR MEASURED VALUES, CONTROL OR SIMILAR
+SIGNALS (fluid pressure transmitting systems F15B; mechanical means for transferring the
+output of a sensing member into a different variable G01D 5/00; mechanical control system
+   13/00    Arrangements for influencing the relationship
+between signals at input and output, e.g.
+   13/02    . to yield a signal which is a function of two or more
+   15/00    Arrangements characterised by the use of
+multiplexing for the transmission of a plurality of
+   15/02    . simultaneously, i.e. using frequency division
+   15/04    . . the signals being modulated on carrier
+   15/06    . successively, i.e. using time division
+   15/08    . . the signals being represented by amplitude of
+current or voltage in transmission link
+   15/10    . . the signals being represented by frequencies or
+phase of current or voltage in transmission link
+   15/12    . . the signals being represented by pulse
+characteristics in transmission link
+   17/00    Arrangements for transmitting signals
+characterised by the use of a wireless electrical link
+   17/02    . using a radio link
+   17/04    . using magnetically coupled devices
+   17/06    . using capacity coupling
+   19/00    Electric signal transmission systems (G08C 17/00
+   19/02    . in which the signal transmitted is magnitude of
+current or voltage (G08C 19/36, G08C 19/38 take
+   19/025   . . {using fixed values of magnitude of current or
+   19/04    . . using variable resistance
+   19/06    . . using variable inductance
+   19/08    . . . differentially influencing two coils
+   19/10    . . using variable capacitance
+   19/12    . in which the signal transmitted is frequency or
+   19/14    . . using combination of fixed frequencies
+   19/16    . in which transmission is by pulses
+   19/18    . . using a variable number of pulses in a train
+   19/20    . . . operating on dynamo-electric devices, e.g. step
+   19/22    . . by varying the duration of individual pulses
+   19/24    . . using time shift of pulses
+   19/26    . . by varying pulse repetition frequency
+   19/28    . . using pulse code
+   19/30    . in which transmission is by selection of one or
+more conductors or channels from a plurality
+of conductors or channels (G08C 19/38 takes
+   19/32    . . of one conductor or channel
+   19/34    . . of a combination of conductors or channels
+   19/36    . using optical means to covert the input signal
+{(characterised by optical transfer means
+G01D 5/26; optical analogue digital converters
+   19/38    . using dynamo-electric devices (operated by pulses
+   19/40    . . of which only the rotor or the stator carries a
+winding to which a signal is applied, e.g. using
+   19/42    . . . having three stator poles
+   19/44    . . . having more than three stator poles
+   19/46    . . of which both rotor and stator carry windings
+(having squirrel-cage rotor G08C 19/40)
+   19/48    . . . being the type with a three-phase stator and a
+rotor fed by constant-frequency ac, e.g. selsyn,
+   21/00    Systems for transmitting the position of an object
+with respect to a predetermined reference system,
+   23/00    Non-electrical signal transmission systems, e.g.
+   23/02    . using infrasonic, sonic or ultrasonic waves
+   23/04    . using light waves, e.g. infra-red
+   23/06    . through light guides, e.g. optical fibres
+   25/00    Arrangements for preventing or correcting errors;
+   25/02    . by signalling back receiving station to transmitting
+   25/04    . by recording transmitted signals
+ 2200/00    Transmission systems for measured values, control
+ 2201/00    Transmission systems of control signals via
+ 2201/10    . Power supply of remote control devices
+ 2201/11    . . Energy harvesting
+ 2201/112   . . . Mechanical energy, e.g. vibration, piezoelectric
+ 2201/12    . . Power saving techniques of remote control or
+ 2201/20    . Binding and programming of remote control devices
+ 2201/21    . . Programming remote control devices via third
+ 2201/32    . . Remote control based on movements, attitude of
+ 2201/33    . . Remote control using macros, scripts
+ 2201/34    . . Context aware guidance
+ 2201/40    . Remote control systems using repeaters, converters,
+ 2201/41    . . Remote control of gateways
+ 2201/42    . . Transmitting or receiving remote control signals
+ 2201/50    . Receiving or transmitting feedback, e.g. replies,
+status updates, acknowledgements, from the
+ 2201/51    . . Remote controlling of devices based on replies,
+ 2201/60    . Security, fault tolerance
+ 2201/61    . . Password, biometric
+ 2201/63    . . Redundant transmissions
+ 2201/71    . . Directional beams
+ 2201/90    . Additional features
+ 2201/91    . . Remote control based on location and proximity
+ 2201/92    . . Universal remote control
+ 2201/93    . . Remote control using other portable devices, e.g.

@@ -1,0 +1,1721 @@
+COOPERATIVE PATENT CLASSIFICATION
+RADIO DIRECTION-FINDING; RADIO NAVIGATION; DETERMINING DISTANCE
+OR VELOCITY BY USE OF RADIO WAVES; LOCATING OR PRESENCE-
+DETECTING BY USE OF THE REFLECTION OR RERADIATION OF RADIO
+WAVES; ANALOGOUS ARRANGEMENTS USING OTHER WAVES
+1. In this subclass, the following term is used with the meaning indicated:
+• "transponder" means an arrangement which reacts to an incoming interrogating or detecting wave by emitting a specific
+2. Attention is drawn to the Notes following the title of class G01 and to Note (1) following the title of subclass G09B.
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Beacons or beacon systems transmitting signals
+having a characteristic or characteristics capable
+of being detected by non-directional receivers
+and defining directions, positions, or position
+lines fixed relatively to the beacon transmitters;
+Receivers co-operating therewith (position fixing
+by co-ordinating a plurality of determinations of
+direction or position lines G01S 5/00)
+    1/02    . using radio waves (G01S 19/00 takes precedence)
+    1/022   . . {Means for monitoring or calibrating}
+    1/024   . . . {of beacon transmitters}
+    1/026   . . . {of associated receivers}
+    1/028   . . . {Simulation means, e.g. of beacon signals
+therefor (for teaching or training purposes
+    1/042   . . . {Transmitters}
+    1/0423  . . . . {Mounting or deployment thereof}
+    1/0426  . . . . . {Collocated with electrical equipment
+    1/0428  . . . . {Signal details}
+    1/047   . . . {Displays or indicators (G01S 1/06 takes
+    1/06    . . . Means for providing multiple indication, e.g.
+    1/08    . . Systems for determining direction or position line
+    1/10    . . . using amplitude comparison of signals
+transmitted sequentially from antennas or
+antenna systems having differently-oriented
+overlapping directivity characteristics, e.g.
+    1/12    . . . . the signals being transmitted sequentially
+from an antenna or antenna system having
+the orientation of its directivity characteristic
+periodically varied, e.g. by means of
+sequentially effective reflectors
+    1/14    . . . using amplitude comparison of signals
+transmitted simultaneously from antennas or
+antenna systems having differently oriented
+overlapping directivity-characteristics
+    1/16    . . . . Azimuthal guidance systems, e.g. system
+for defining aircraft approach path, localiser
+    1/18    . . . . Elevational guidance systems, e.g. system for
+    1/20    . . . using a comparison of transit time of
+synchronised signals transmitted from non-
+directional antennas or antenna systems spaced
+apart, i.e. path-difference systems
+    1/22    . . . . the synchronised signals being frequency
+modulations on carrier waves and the
+transit times being compared by measuring
+difference of instantaneous frequencies of
+    1/24    . . . . the synchronised signals being pulses or
+equivalent modulations on carrier waves
+and the transit times being compared by
+measuring the difference in arrival time of
+a significant part of the modulations {, e.g.
+    1/245   . . . . . {Details of receivers cooperating
+therewith, e.g. determining positive zero
+crossing of third cycle in LORAN-C}
+    1/26    . . . . . Systems in which pulses or time-base
+signals are generated locally at the receiver
+and brought into predetermined time-
+relationship with received signals, e.g.
+pulse duration coincides with time interval
+between arrival of significant part of
+modulation of signals received from first
+and second antennas or antenna systems
+    1/28    . . . . . . wherein the predetermined time-
+relationship is maintained automatically
+    1/30    . . . . the synchronised signals being continuous
+waves or intermittent trains of continuous
+waves, the intermittency not being for the
+purpose of determining direction or position
+line and the transit times being compared by
+    1/302   . . . . . {Systems in which the direction is
+determined by using an interferometric
+type transmitting antenna array}
+    1/304   . . . . . {Analogous systems in which a beat
+frequency, obtained by heterodyning
+the signals, is compared in phase with a
+reference signal obtained by heterodyning
+the signals in a fixed reference point and
+transmitted therefrom, e.g. LORAC (long
+range accuracy) or TORAN systems}
+    1/306   . . . . . {Analogous systems in which frequency-
+related signals (harmonics) are compared
+    1/308   . . . . . {particularly adapted to Omega systems}
+    1/32    . . . . . Systems in which the signals received,
+with or without amplification, or signals
+derived therefrom, are compared in phase
+directly {contains no documents}
+    1/34    . . . . . Systems in which first and second
+synchronised signals are transmitted
+from both antennas or antenna systems
+and a beat frequency, obtained by
+heterodyning the first signals with each
+other is compared in phase with a beat
+frequency obtained by heterodyning the
+    1/36    . . . . . Systems in which a beat frequency,
+obtained by heterodyning the synchronised
+signals, is compared in phase with
+a reference signal having a phase
+substantially independent of direction
+    1/38    . . . using comparison of [1] the phase of the
+envelope of the change of frequency, due to
+Doppler effect, of the signal transmitted by an
+antenna moving, or appearing to move, in a
+cyclic path with [2] the phase of a reference
+signal, the frequency of this reference signal
+being synchronised with that of the cyclic
+movement, or apparent cyclic movement, of the
+    1/40    . . . . the apparent movement of the antenna being
+produced by cyclic sequential energisation of
+    1/42    . . . Conical-scan beacons transmitting signals
+which indicate at a mobile receiver any
+displacement of the receiver from the conical-
+scan axis, e.g. for "beam-riding" missile control
+    1/44    . . . Rotating or oscillating beam beacons defining
+directions in the plane of rotation or oscillation
+    1/46    . . . . Broad-beam systems producing at a receiver
+a substantially continuous sinusoidal
+envelope signal of the carrier wave of the
+beam, the phase angle of which is dependent
+upon the angle between the direction of the
+receiver from the beacon and a reference
+direction from the beacon, e.g. cardioid
+    1/465   . . . . . {using time-varying interference fields}
+    1/48    . . . . . wherein the phase angle of the direction-
+dependent envelope signal is a multiple of
+the direction angle, e.g. for "fine" bearing
+    1/50    . . . . . wherein the phase angle of the direction-
+dependent envelope signal is compared
+with a non-direction-dependent reference
+    1/52    . . . . . wherein the phase angles of a plurality
+of direction-dependent envelope signals
+produced by a plurality of beams
+rotating at different speeds or in different
+    1/54    . . . . Narrow-beam systems producing at a
+receiver a pulse-type envelope signal of
+the carrier wave of the beam, the timing of
+which is dependent upon the angle between
+the direction of the receiver from the beacon
+and a reference direction from the beacon;
+Overlapping broad beam systems defining
+a narrow zone and producing at a receiver
+a pulse-type envelope signal of the carrier
+wave of the beam, the timing of which
+is dependent upon the angle between the
+direction of the receiver from the beacon and
+a reference direction from the beacon
+    1/56    . . . . . Timing the pulse-type envelope signals
+derived by reception of the beam
+    1/58    . . . . . wherein a characteristic of the beam
+transmitted or of an auxiliary signal is
+varied in time synchronously with rotation
+    1/60    . . . . . . Varying frequency of beam signal or of
+    1/62    . . . . . . Varying phase-relationship between
+    1/64    . . . . . . Varying pulse timing, e.g. varying
+interval between pulses radiated in pairs
+    1/66    . . . . . . Superimposing direction-indicating
+intelligence signals, e.g. speech, Morse
+    1/68    . . Marker, boundary, call-sign, or like beacons
+transmitting signals not carrying directional
+    1/685   . . . {using pulse modulation, e.g. pulse frequency
+    1/70    . using electromagnetic waves other than radio waves
+    1/7032  . . . {Transmitters}
+    1/7034  . . . . {Mounting or deployment thereof}
+    1/7036  . . . . . {Collocated with electrical equipment
+    1/7038  . . . . {Signal details}
+    1/705   . . {using gamma or X-rays}
+    1/72    . using ultrasonic, sonic or infrasonic waves
+    1/725   . . {Marker, boundary, call-sign or like beacons
+transmitting signals not carrying directional
+    1/75    . . . {Transmitters}
+    1/751   . . . . {Mounting or deployment thereof}
+    1/752   . . . . . {Collocated with electrical equipment
+    1/753   . . . . {Signal details}
+    1/76    . . Systems for determining direction or position line
+    1/763   . . . {using the Doppler shift introduced by the
+relative motion between beacon and receiver}
+    1/766   . . . {Conical-scan beam beacons transmitting
+signals which indicate at a mobile receiver any
+displacement of the receiver from the conical-
+    1/78    . . . using amplitude comparison of signals
+transmitted from transducers or transducer
+systems having differently-oriented
+    1/783   . . . . {the signals being transmitted sequentially}
+    1/786   . . . . {the signals being transmitted
+    1/80    . . . using a comparison of transit time of
+synchronised signals transmitted from non-
+directional transducers or transducer systems
+spaced apart, i.e. path-difference systems
+    1/802   . . . . {the synchronised signals being frequency
+modulations on carrier waves and the
+transit times being compared by measuring
+difference of instantaneous frequencies of
+    1/805   . . . . {the synchronised signals being pulses or
+equivalent modulations on carrier waves
+and the transit times being compared by
+measuring the difference in arrival time of a
+significant part of the modulations}
+    1/807   . . . . {the synchronised signals being continuous
+waves or intermittent trains of continuous
+waves, the intermittency not being for the
+purpose of determining direction or position
+line and the transit times being compared by
+measuring the phase difference}
+    1/82    . . . Rotating or oscillating beam beacons defining
+directions in the plane of rotation or oscillation
+    3/00    Direction-finders for determining the direction
+from which infrasonic, sonic, ultrasonic, or
+electromagnetic waves, or particle emission,
+not having a directional significance, are being
+received (position-fixing by co-ordinating a plurality
+of determinations of direction or position lines
+    3/02    . using radio waves
+    3/023   . . {Monitoring or calibrating}
+    3/026   . . . {Simulating means therefor}
+    3/046   . . . {Displays or indicators}
+    3/06    . . . Means for increasing effective directivity,
+e.g. by combining signals having differently
+oriented directivity characteristics or by
+sharpening the envelope waveform of the
+signal derived from a rotating or oscillating
+beam antenna (comparing amplitude of
+signals having differently oriented directivity
+characteristics to determine direction
+    3/065   . . . . {by using non-directional aerial}
+    3/08    . . . Means for reducing polarisation errors, e.g. by
+use of Adcock or spaced loop antenna systems
+    3/085   . . . . {by using spaced loop aerial systems}
+    3/10    . . . Means for reducing or compensating for
+quadrantal, site, or like errors
+    3/12    . . . Means for determining sense of direction, e.g.
+by combining signals from directional antenna
+or goniometer search coil with those from non-
+directional antenna (determining direction by
+amplitude comparison of signals derived by
+combining directional and non-directional
+    3/14    . . Systems for determining direction or deviation
+from predetermined direction {(aerial
+arrangements for changing or varying the
+orientation or the shape of the directional pattern
+H01Q 3/00; combinations of different interacting
+aerial units for giving a desired directional
+characteristic H01Q 21/29; aerials or aerial
+systems providing at least two radiation patterns
+    3/143   . . . {by vectorial combination of signals derived
+from differently oriented antennae}
+    3/146   . . . {by comparing linear polarisation components}
+    3/16    . . . using amplitude comparison of signals derived
+sequentially from receiving antennas or antenna
+systems having differently-oriented directivity
+characteristics or from an antenna system
+having periodically-varied orientation of
+    3/18    . . . . derived directly from separate directional
+    3/20    . . . . derived by sampling signal received by an
+antenna system having periodically-varied
+orientation of directivity characteristic
+    3/22    . . . . derived from different combinations
+of signals from separate antennas, e.g.
+    3/24    . . . . . the separate antennas comprising
+one directional antenna and one non-
+directional antenna, e.g. combination
+of loop and open antennas producing a
+reversed cardioid directivity characteristic
+    3/26    . . . . . the separate antennas having differently-
+oriented directivity characteristics
+    3/28    . . . using amplitude comparison of signals derived
+simultaneously from receiving antennas or
+antenna systems having differently-oriented
+    3/30    . . . . derived directly from separate directional
+    3/32    . . . . derived from different combinations
+of signals from separate antennas, e.g.
+    3/325   . . . . . {Automatic tracking systems}
+    3/34    . . . . . the separate antennas comprising
+one directional antenna and one non-
+directional antenna, e.g. combination
+of loop and open antennas producing a
+reversed cardioid directivity characteristic
+    3/36    . . . . . the separate antennas having differently-
+oriented directivity characteristics
+    3/38    . . . using adjustment of real or effective orientation
+of directivity characteristic of an antenna or
+an antenna system to give a desired condition
+of signal derived from that antenna or antenna
+system, e.g. to give a maximum or minimum
+signal (G01S 3/16, G01S 3/28 take precedence)
+    3/40    . . . . adjusting orientation of a single directivity
+characteristic to produce maximum or
+minimum signal, e.g. rotatable loop antenna
+or equivalent goniometer system
+    3/42    . . . . the desired condition being maintained
+    3/44    . . . . the adjustment being varied periodically or
+continuously until it is halted automatically
+when the desired condition is attained
+    3/46    . . . using antennas spaced apart and measuring
+phase or time difference between signals
+therefrom, i.e. path-difference systems
+    3/465   . . . . {the waves arriving at the aerials being
+frequency modulated and the frequency
+difference of signals therefrom being
+    3/48    . . . . the waves arriving at the antennas being
+continuous or intermittent and the phase
+difference of signals derived therefrom being
+    3/50    . . . . the waves arriving at the antennas being
+pulse modulated and the time difference of
+    3/52    . . . using a receiving antenna moving, or appearing
+to move, in a cyclic path to produce a Doppler
+variation of frequency of the received signal
+    3/54    . . . . the apparent movement of the antenna being
+produced by coupling the receiver cyclically
+and sequentially to each of several fixed
+    3/56    . . . Conical-scan beam systems using signals
+indicative of the deviation of the direction of
+    3/58    . . . Rotating or oscillating beam systems using
+continuous analysis of received signal for
+determining direction in the plane of rotation
+or oscillation or for determining deviation
+from a predetermined direction in such a plane
+    3/60    . . . . Broad-beam systems producing in the
+receiver a substantially sinusoidal envelope
+signal of the carrier wave of the beam, the
+phase angle of which is dependent upon the
+angle between the direction of the transmitter
+from the receiver and a reference direction
+from the receiver, e.g. cardioid system
+    3/62    . . . . . wherein the phase angle of the signal is
+indicated by a cathode-ray tube
+    3/64    . . . . . wherein the phase angle of the signal is
+determined by phase comparison with
+a reference alternating signal varying in
+synchronism with the directivity variation
+    3/66    . . . . Narrow-beam systems producing in the
+receiver a pulse-type envelope signal of
+the carrier wave of the beam, the timing of
+which is dependent upon the angle between
+the direction of the transmitter from the
+receiver and a reference direction from the
+receiver; Overlapping broad-beam systems
+defining in the receiver a narrow zone and
+producing a pulse-type envelope signal of
+the carrier wave of the beam, the timing of
+which is dependent upon the angle between
+the direction of the transmitter from the
+receiver and a reference direction from the
+    3/68    . . . . . wherein the timing of the pulse-type
+envelope signal is indicated by cathode-ray
+    3/70    . . . . . wherein the timing of the pulse-type
+envelope signal is determined by bringing
+a locally-generated pulse-type signal into
+coincidence or other predetermined time-
+relationship with the envelope signal
+    3/72    . . Diversity systems specially adapted for direction-
+    3/74    . . Multi-channel systems specially adapted for
+direction-finding, i.e. having a single antenna
+system capable of giving simultaneous indications
+of the directions of different signals (systems
+in which the directions of different signals
+are determined sequentially and displayed
+simultaneously G01S 3/04, G01S 3/14)
+    3/78    . using electromagnetic waves other than radio waves
+    3/7803  . . {Means for monitoring or calibrating}
+    3/7806  . . {using gamma or X-rays}
+    3/782   . . Systems for determining direction or deviation
+    3/783   . . . using amplitude comparison of signals derived
+from static detectors or detector systems
+    3/7835  . . . . {using coding masks}
+    3/784   . . . . using a mosaic of detectors
+    3/785   . . . using adjustment of orientation of directivity
+characteristics of a detector or detector system
+to give a desired condition of signal derived
+from that detector or detector system
+    3/786   . . . . the desired condition being maintained
+    3/7861  . . . . . {Solar tracking systems}
+    3/7862  . . . . . . {mounted on a moving platform, e.g.
+    3/7864  . . . . . {T.V. type tracking systems}
+    3/7865  . . . . . . {using correlation of the live video
+    3/7867  . . . . . {Star trackers (navigation using star
+    3/7868  . . . . . {using horizon sensors}
+    3/787   . . . using rotating reticles producing a direction-
+dependent modulation characteristic
+    3/788   . . . . producing a frequency modulation
+    3/789   . . . using rotating or oscillating beam systems, e.g.
+    3/80    . using ultrasonic, sonic or infrasonic waves
+    3/8003  . . {Diversity systems specially adapted for direction
+    3/8006  . . {Multi-channel systems specially adapted for
+direction-finding, i.e. having a single aerial
+system capable of giving simultaneous indications
+of the directions of different signals}
+    3/801   . . Details {(G01S 3/82, G01S 3/84, G01S 3/86 take
+    3/802   . . Systems for determining direction or deviation
+    3/8022  . . . {using the Doppler shift introduced by the
+relative motion between source and receiver}
+    3/8025  . . . {Conical-scan beam systems using signals
+indicative of the deviation of the direction of
+    3/8027  . . . {By vectorial composition of signals received
+by plural, differently-oriented transducers}
+    3/803   . . . using amplitude comparison of signals derived
+from receiving transducers or transducer
+systems having differently-oriented directivity
+    3/8032  . . . . {wherein the signals are derived
+    3/8034  . . . . {wherein the signals are derived
+    3/8036  . . . . . {derived directly from separate directional
+    3/8038  . . . . . {derived from different combinations
+of signals from separate transducers
+    3/805   . . . using adjustment of real or effective orientation
+of directivity characteristics of a transducer or
+transducer system to give a desired condition
+of signal derived from that transducer or
+transducer system, e.g. to give a maximum or
+    3/8055  . . . . {adjusting orientation of a single directivity
+characteristic to produce maximum or
+    3/807   . . . . the desired condition being maintained
+    3/808   . . . using transducers spaced apart and measuring
+phase or time difference between signals
+therefrom, i.e. path-difference systems
+    3/8083  . . . . {determining direction of source}
+    3/8086  . . . . {determining other position line of source}
+    3/809   . . . Rotating or oscillating beam systems using
+continuous analysis of received signal for
+determining direction in the plane of rotation or
+oscillation or for determining deviation from a
+predetermined direction in such a plane
+    3/82    . . with means for adjusting phase or compensating
+    3/84    . . with indication presented on cathode-ray tubes
+    3/86    . . with means for eliminating undesired waves, e.g.
+    5/00    Position-fixing by co-ordinating two or more
+direction or position line determinations; Position-
+fixing by co-ordinating two or more distance
+determinations {(using active systems G01S 13/00,
+    5/0009  . {Transmission of position information to remote
+stations (involving assistance data G01S 5/0236)}
+    5/0018  . . {Transmission from mobile station to base
+    5/0027  . . . {of actual mobile position, i.e. position
+    5/0036  . . . {of measured values, i.e. measurement on
+mobile and position calculation on base
+    5/0045  . . {Transmission from base station to mobile station
+    5/0054  . . . {of actual mobile position, i.e. position
+    5/0063  . . . {of measured values, i.e. measurement on base
+station and position calculation on mobile}
+    5/0072  . . {Transmission between mobile stations, e.g. anti-
+    5/0081  . . {Transmission between base stations}
+    5/009   . . {Transmission of differential positioning data to
+    5/01    . {Determining conditions which influence
+positioning, e.g. radio environment, state of motion
+    5/011   . . {Identifying the radio environment}
+    5/012   . . {Identifying whether indoors or outdoors}
+    5/013   . . {Identifying areas in a building}
+    5/014   . . {Identifying transitions between environments}
+    5/015   . . . {between indoor and outdoor environments}
+    5/016   . . . {between areas within a building}
+    5/017   . . {Detecting state or type of motion}
+    5/018   . . {Involving non-radio wave signals or
+    5/019   . . {Energy consumption}
+    5/02    . using radio waves (using satellite radio beacon
+systems for determining position G01S 19/00)
+    5/021   . . . {Calibration, monitoring or correction
+(G01S 5/0252 takes precedence)}
+    5/0215  . . . {Interference}
+    5/0218  . . . {Multipath in signal reception}
+    5/02213 . . . . {Receivers arranged in a network for
+determining the position of a transmitter}
+    5/02216 . . . . . {Timing or synchronisation of the
+    5/0226  . . . {Transmitters}
+    5/0231  . . . . {Emergency, distress or locator beacons}
+    5/0236  . . . {Assistance data, e.g. base station almanac}
+    5/0242  . . . {Determining the position of transmitters to be
+subsequently used in positioning (G01S 5/0289
+    5/0244  . . . {Accuracy or reliability of position solution or
+of measurements contributing thereto}
+    5/0246  . . {involving frequency difference of arrival or
+Doppler measurements (G01S 5/02685 takes
+    5/0247  . . {Determining attitude}
+    5/0249  . . {Determining position using measurements made
+by a non-stationary device other than the device
+whose position is being determined}
+    5/0252  . . {Radio frequency fingerprinting}
+In this group, the following terms are used
+• Radio frequency fingerprints mean
+measurements or simulated values of
+radio frequency signal parameters, e.g.
+receiver signal strength indicator [RSSI]
+or identifiers or access point identifiers
+[ApIds] combined with coordinates of the
+positions at which the radio frequency
+• "Radio-map" means a collection of radio
+    5/02521 . . . {using a radio-map}
+    5/02522 . . . . {The radio-map containing measured values
+    5/02523 . . . . {Details of interaction of receiver with radio-
+    5/02524 . . . . {Creating or updating the radio-map}
+    5/02525 . . . . . {Gathering the radio frequency
+    5/02526 . . . . . . {using non-dedicated equipment, e.g.
+user equipment or crowd-sourcing}
+    5/02527 . . . . . {Detecting or resolving anomalies in the
+radio frequency fingerprints of the radio-
+    5/02528 . . . {Simulating radio frequency fingerprints}
+    5/02529 . . . {not involving signal parameters, i.e. only
+    5/0257  . . {Hybrid positioning (by coordinating position
+lines of different shape G01S 5/12)}
+    5/0258  . . . {by combining or switching between
+measurements derived from different systems}
+    5/02585 . . . . {at least one of the measurements being a
+    5/0263  . . . {by combining or switching between positions
+derived from two or more separate positioning
+    5/0264  . . . . {at least one of the systems being a non-radio
+    5/0268  . . . {by deriving positions from different
+combinations of signals or of estimated
+positions in a single positioning system}
+    5/02685 . . . . {involving dead reckoning based on radio
+    5/0269  . . {Inferred or constrained positioning, e.g.
+employing knowledge of the physical or
+electromagnetic environment, state of motion or
+other contextual information to infer or constrain
+    5/02695 . . . {Constraining the position to lie on a curve or
+    5/0273  . . {using multipath or indirect path propagation
+signals in position determination}
+    5/0278  . . {involving statistical or probabilistic
+considerations (G01S 5/0252, G01S 5/0294 take
+    5/0284  . . {Relative positioning}
+    5/0289  . . . {of multiple transceivers, e.g. in ad hoc
+    5/0294  . . {Trajectory determination or predictive filtering,
+e.g. target tracking or Kalman filtering}
+    5/0295  . . {Proximity-based methods, e.g. position inferred
+from reception of particular signals}
+    5/02955 . . . {by computing a weighted average of the
+positions of the signal transmitters}
+    5/04    . . Position of source determined by a plurality of
+    5/06    . . Position of source determined by co-ordinating
+a plurality of position lines defined by path-
+difference measurements (G01S 5/12 takes
+    5/08    . . Position of single direction-finder fixed by
+determining direction of a plurality of spaced
+    5/10    . . Position of receiver fixed by co-ordinating
+a plurality of position lines defined by path-
+difference measurements {, e.g. omega or decca
+systems}(G01S 5/12 takes precedence {; beacons
+and receivers cooperating therewith G01S 1/306,
+    5/12    . . by co-ordinating position lines of different shape,
+e.g. hyperbolic, circular, elliptical or radial
+    5/14    . . Determining absolute distances from a plurality
+of spaced points of known location
+    5/145   . . . {Using a supplementary range measurement,
+e.g. based on pseudo-range measurements}
+    5/16    . using electromagnetic waves other than radio waves
+    5/163   . . {Determination of attitude (using inertial means
+G01C 9/00; control of attitude G05D 1/08)}
+    5/166   . . {using gamma or X-rays}
+    5/18    . using ultrasonic, sonic, or infrasonic waves
+    5/183   . . {Emergency, distress or locator beacons}
+    5/186   . . {Determination of attitude (using inertial means
+G01C 9/00; control of attitude G05D 1/08)}
+    5/20    . . Position of source determined by a plurality of
+    5/22    . . Position of source determined by co-ordinating
+a plurality of position lines defined by path-
+difference measurements (G01S 5/28 takes
+    5/24    . . Position of single direction-finder fixed by
+determining direction of a plurality of spaced
+    5/26    . . Position of receiver fixed by co-ordinating
+a plurality of position lines defined by path-
+difference measurements (G01S 5/28 takes
+    5/28    . . by co-ordinating position lines of different shape,
+e.g. hyperbolic, circular, elliptical or radial
+    5/30    . . Determining absolute distances from a plurality
+of spaced points of known location
+    7/00    Details of systems according to groups G01S 13/00,
+    7/003   . {Transmission of data between radar, sonar or lidar
+    7/006   . . {using shared front-end circuitry, e.g. antennas
+(G01S 13/765, G01S 13/825 take precedence)}
+    7/02    . of systems according to group G01S 13/00
+    7/021   . . {Auxiliary means for detecting or identifying
+radar signals or the like, e.g. radar jamming
+    7/022   . . . {Road traffic radar detectors}
+    7/023   . . {Interference mitigation, e.g. reducing or
+avoiding non-intentional interference with other
+HF-transmitters, base station transmitters for
+mobile communication or other radar systems,
+e.g. using electro-magnetic interference [EMI]
+reduction techniques (auxiliary means for
+detecting or identifying radar signals or the
+like G01S 7/021; means for anti-jamming
+    7/0231  . . . {Avoidance by polarisation multiplex}
+    7/0232  . . . {Avoidance by frequency multiplex}
+    7/0233  . . . {Avoidance by phase multiplex}
+    7/0234  . . . {Avoidance by code multiplex}
+    7/0235  . . . {Avoidance by time multiplex}
+    7/0236  . . . {Avoidance by space multiplex}
+    7/024   . . {using polarisation effects (in waveguides
+H01P 1/165; for aerials H01Q, e.g. H01Q 15/22,
+    7/025   . . . {involving the transmission of linearly
+    7/026   . . . {involving the transmission of elliptically or
+    7/027   . . {Constructional details of housings, e.g. form,
+    7/028   . . . {Miniaturisation, e.g. surface mounted device
+    7/03    . . Details of HF subsystems specially adapted
+therefor, e.g. common to transmitter and receiver
+    7/032   . . . {Constructional details for solid-state radar
+    7/034   . . . {Duplexers (switching devices for waveguides
+H01P 1/10; transmit-receive switching in
+    7/036   . . . . {involving a transfer mixer}
+    7/038   . . . {Feedthrough nulling circuits}
+    7/04    . . Display arrangements
+    7/043   . . . {Synchronising the display device with the
+    7/046   . . . {using an intermediate storage device, e.g. a
+    7/06    . . . Cathode-ray tube displays {or other two
+dimensional or three-dimensional displays}
+    7/062   . . . . {in which different colours are used}
+    7/064   . . . . {using a display memory for image
+processing (G01S 7/298 takes precedence)}
+    7/066   . . . . . {with means for showing the history of the
+radar trails, e.g. artificial remanence}
+    7/068   . . . . {with data-rate converters preceding the
+display, e.g. flicker free display, constant
+brightness display (G01S 7/298 takes
+    7/08    . . . . with vernier indication of distance, e.g. using
+    7/10    . . . . Providing two-dimensional and co-ordinated
+display of distance and direction
+    7/12    . . . . . Plan-position indicators, i.e. P.P.I.
+    7/14    . . . . . . Sector, off-centre, or expanded angle
+    7/16    . . . . . Signals displayed as intensity modulation
+with rectangular co-ordinates representing
+distance and bearing, e.g. type B
+    7/18    . . . . . Distance-height displays; Distance-
+elevation displays, e.g. type RHI, type E
+    7/20    . . . . Stereoscopic displays; Three-dimensional
+displays; Pseudo-three-dimensional displays
+    7/22    . . . . Producing cursor lines and indicia by
+    7/24    . . . . the display being orientated or displaced
+in accordance with movement of object
+carrying the transmitting and receiving
+apparatus, e.g. true-motion radar
+    7/28    . . Details of pulse systems
+    7/2806  . . . {Employing storage or delay devices which
+preserve the pulse form of the echo signal, e.g.
+for comparing and combining echoes received
+    7/2813  . . . {Means providing a modification of the
+radiation pattern for cancelling noise, clutter or
+interfering signals, e.g. side lobe suppression,
+side lobe blanking, null-steering arrays
+(specially adapted to secondary radar systems
+G01S 13/762; aerials or aerials systems
+    7/288   . . . . Coherent receivers
+    7/2883  . . . . . {using FFT processing}
+    7/2886  . . . . . {using I/Q processing}
+    7/292   . . . . Extracting wanted echo-signals
+    7/2921  . . . . . {based on data belonging to one radar
+    7/2922  . . . . . . {by using a controlled threshold}
+    7/2923  . . . . . {based on data belonging to a number of
+    7/2925  . . . . . . {by using shape of radiation pattern}
+    7/2926  . . . . . . {by integration}
+    7/2927  . . . . . . {by deriving and controlling a threshold
+    7/2928  . . . . . . {Random or non-synchronous
+    7/295   . . . . Means for transforming co-ordinates or for
+evaluating data, e.g. using computers
+    7/2955  . . . . . {Means for determining the position of
+the radar coordinate system for evaluating
+the position data of the target in another
+coordinate system (G01S 7/24 takes
+precedence; sighting devices adapted for
+indirect laying of fire F41G 3/16; inertial
+    7/298   . . . . . Scan converters
+    7/32    . . . . Shaping echo pulse signals; Deriving non-
+pulse signals from echo pulse signals
+    7/34    . . . . Gain of receiver varied automatically during
+pulse-recurrence period, e.g. anti-clutter gain
+    7/35    . . Details of non-pulse systems
+    7/354   . . . . {Extracting wanted echo-signals (Doppler
+    7/356   . . . . {involving particularities of FFT processing}
+    7/358   . . . . {using I/Q processing}
+    7/36    . . Means for anti-jamming {, e.g. ECCM, i.e.
+electronic counter-counter measures}
+    7/38    . . Jamming means, e.g. producing false echoes
+    7/40    . . Means for monitoring or calibrating
+    7/4004  . . . {of parts of a radar system}
+    7/4008  . . . . {of transmitters}
+    7/4013  . . . . . {involving adjustment of the transmitted
+    7/4017  . . . . {of HF systems}
+    7/4021  . . . . {of receivers}
+    7/4026  . . . . {Antenna boresight}
+    7/403   . . . . . {in azimuth, i.e. in the horizontal plane}
+    7/4034  . . . . . {in elevation, i.e. in the vertical plane}
+    7/4039  . . . . {of sensor or antenna obstruction, e.g. dirt-
+    7/4043  . . . . . {including means to prevent or remove the
+    7/4047  . . . . . . {Heated dielectric lens, e.g. by heated
+    7/4052  . . . {by simulation of echoes}
+    7/4056  . . . . {specially adapted to FMCW}
+    7/406   . . . . {using internally generated reference signals,
+e.g. via delay line, via RF or IF signal
+injection or via integrated reference reflector
+    7/4065  . . . . . {involving a delay line}
+    7/4069  . . . . . {involving a RF signal injection}
+    7/4073  . . . . . {involving an IF signal injection}
+    7/4078  . . . . . {involving an integrated reference
+reflector or reference transponder}
+    7/4082  . . . . {using externally generated reference
+signals, e.g. via remote reflector or
+    7/4086  . . . . . {in a calibrating environment, e.g.
+    7/4091  . . . . . {during normal radar operation}
+    7/4095  . . . . . {the external reference signals being
+modulated, e.g. rotating a dihedral
+reflector or modulating a transponder for
+    7/41    . . using analysis of echo signal for target
+characterisation; Target signature; Target cross-
+    7/411   . . . {Identification of targets based on
+measurements of radar reflectivity (G01S 7/415
+    7/412   . . . . {based on a comparison between measured
+values and known or stored values}
+    7/414   . . . {Discriminating targets with respect to
+    7/415   . . . {Identification of targets based on
+measurements of movement associated with the
+    7/417   . . . {involving the use of neural networks}
+    7/418   . . . {Theoretical aspects}
+    7/42    . . Diversity systems specially adapted for radar
+    7/48    . of systems according to group G01S 17/00
+    7/4802  . . {using analysis of echo signal for target
+characterisation; Target signature; Target cross-
+    7/4804  . . {Auxiliary means for detecting or identifying
+lidar signals or the like, e.g. laser illuminators}
+    7/4806  . . . {Road traffic laser detectors}
+    7/4808  . . {Evaluating distance, position or velocity data}
+    7/481   . . Constructional features, e.g. arrangements of
+    7/4811  . . . {common to transmitter and receiver}
+    7/4812  . . . . {transmitted and received beams following a
+    7/4813  . . . . {Housing arrangements}
+    7/4814  . . . {of transmitters alone}
+    7/4815  . . . . {using multiple transmitters}
+    7/4816  . . . {of receivers alone}
+    7/4817  . . . {relating to scanning}
+    7/4818  . . . {using optical fibres}
+    7/483   . . Details of pulse systems
+    7/4861  . . . . Circuits for detection, sampling, integration
+    7/4863  . . . . . Detector arrays, e.g. charge-transfer gates
+    7/4865  . . . . Time delay measurement, e.g. time-of-flight
+measurement, time of arrival measurement
+or determining the exact position of a peak
+(peak detection in noise, signal conditioning
+    7/4866  . . . . . {by fitting a model or function to the
+    7/4868  . . . . {Controlling received signal intensity or
+    7/487   . . . . Extracting wanted echo signals {, e.g. pulse
+    7/4873  . . . . . {by deriving and controlling a threshold
+    7/4876  . . . . . {by removing unwanted signals
+    7/489   . . . . Gain of receiver varied automatically during
+    7/491   . . Details of non-pulse systems
+    7/4913  . . . . Circuits for detection, sampling, integration
+    7/4914  . . . . . of detector arrays, e.g. charge-transfer
+    7/4915  . . . . Time delay measurement, e.g. operational
+details for pixel components (signal
+extraction and conditioning G01S 7/493);
+    7/4916  . . . . {using self-mixing in the laser cavity}
+    7/4917  . . . . {superposing optical signals in a
+photodetector, e.g. optical heterodyne
+    7/4918  . . . . {Controlling received signal intensity, gain
+    7/493   . . . Extracting wanted echo signals
+    7/495   . . Counter-measures or counter-counter-measures
+{using electronic or electro-optical means}
+    7/497   . . Means for monitoring or calibrating
+    7/4972  . . . {Alignment of sensor}
+ 2007/4975  . . . {of sensor obstruction by, e.g. dirt- or ice-
+coating, e.g. by reflection measurement on
+ 2007/4977  . . . . {including means to prevent or remove the
+    7/499   . . using polarisation effects
+    7/51    . . Display arrangements
+    7/52    . of systems according to group G01S 15/00
+    7/52001 . . {Auxiliary means for detecting or identifying
+sonar signals or the like, e.g. sonar jamming
+    7/52003 . . {Techniques for enhancing spatial resolution of
+targets (G01S 7/52046 takes precedence)}
+    7/52004 . . {Means for monitoring or calibrating (short-range
+    7/52006 . . . {with provision for compensating the effects of
+ 2007/52007 . . . {involving adjustment of transmitted power}
+ 2007/52009 . . . {of sensor obstruction, e.g. dirt- or ice-coating}
+ 2007/52011 . . . . {including means to prevent or remove the
+ 2007/52012 . . . {involving a reference ground return}
+ 2007/52014 . . . {involving a reference reflector integrated in
+the sensor or transducer configuration}
+    7/52015 . . {Diversity systems}
+    7/52017 . . {particularly adapted to short-range imaging
+    7/52019 . . . {Details of transmitters}
+    7/5202  . . . . {for pulse systems}
+    7/52022 . . . . . {using a sequence of pulses, at least one
+pulse manipulating the transmissivity or
+    7/52023 . . . {Details of receivers}
+    7/52025 . . . . {for pulse systems (G01S 7/52034 takes
+    7/52026 . . . . . {Extracting wanted echo signals (Doppler
+systems G01S 15/50; Doppler short range
+    7/52028 . . . . . . {using digital techniques}
+    7/5203  . . . . {for non-pulse systems, e.g. CW systems
+(G01S 7/52034 takes precedence)}
+    7/52031 . . . . . {Extracting wanted echo signals}
+    7/52033 . . . . {Gain control of receivers (for seismic
+    7/52034 . . . . {Data rate converters}
+    7/52036 . . . . {using analysis of echo signal for target
+    7/52038 . . . . . {involving non-linear properties of the
+propagation medium or of the reflective
+    7/52039 . . . . . . {exploiting the non-linear response of a
+contrast enhancer, e.g. a contrast agent
+(diagnostic techniques involving the use
+of contrast agents A61B 8/481)}
+    7/52041 . . . . . . {detecting modification of a contrast
+enhancer, e.g. detecting the destruction
+of a contrast agent by an acoustic wave,
+e.g. loss of correlation (diagnostic
+techniques involving the use of contrast
+    7/52042 . . . . . {determining elastic properties of the
+propagation medium or of the reflective
+target (diagnostic techniques involving the
+measurement of strain A61B 8/485)}
+    7/52044 . . . . {Scan converters}
+    7/52046 . . . {Techniques for image enhancement involving
+transmitter or receiver (image enhancement by
+image data processing G06T 5/00)}
+    7/52047 . . . . {for elimination of side lobes or of grating
+lobes; for increasing resolving power}
+    7/52049 . . . . {using correction of medium-induced phase
+    7/5205  . . . {Means for monitoring or calibrating}
+    7/52052 . . . . {with simulation of echoes}
+    7/52053 . . . {Display arrangements}
+    7/52055 . . . . {in association with ancillary recording
+    7/52057 . . . . {Cathode ray tube displays}
+    7/52058 . . . . . {displaying one measured variable; A-scan
+    7/5206  . . . . . {Two-dimensional coordinated display of
+distance and direction; B-scan display}
+    7/52061 . . . . . . {Plan position indication (PPI display);
+    7/52063 . . . . . . {Sector scan display}
+    7/52065 . . . . . . {Compound scan display, e.g.
+    7/52066 . . . . . . {Time-position or time-motion
+    7/52068 . . . . . {Stereoscopic displays; Three-
+dimensional displays; Pseudo 3D displays
+(G01S 15/8993 takes precedence)}
+    7/52069 . . . . . . {Grey-scale displays}
+    7/52071 . . . . . {Multicolour displays; using colour
+coding; Optimising colour or information
+content in displays, e.g. parametric
+    7/52073 . . . . . {Production of cursor lines, markers or
+    7/52074 . . . . . {Composite displays, e.g. split-screen
+displays; Combination of multiple images
+or of images and alphanumeric tabular
+    7/52076 . . . {Luminous indicators}
+    7/52077 . . . {with means for elimination of unwanted
+signals, e.g. noise or interference}
+    7/52079 . . . {Constructional features (constructional
+features of transducers B06B; mounting
+transducers G10K 11/00; constructional
+features of ultrasonic medical diagnostic
+    7/5208  . . . . {with integration of processing functions
+    7/52082 . . . . {involving a modular construction, e.g.
+a computer with short range imaging
+equipment (modular ultrasonic medical
+diagnostic devices A61B 8/4411)}
+    7/52084 . . . . {related to particular user interfaces (special
+user input means for ultrasonic medical
+diagnostic devices A61B 8/467)}
+    7/52085 . . . {Details related to the ultrasound signal
+acquisition, e.g. scan sequences (control
+of medical diagnostic ultrasound devices
+    7/52087 . . . . {using synchronization techniques (control
+of medical diagnostic ultrasound devices
+involving acquisition triggered by a
+physiological signal A61B 8/543)}
+    7/52088 . . . . . {involving retrospective scan line
+rearrangements (medical diagnostic
+ultrasound devices involving retrospective
+matching to a physiological signal
+    7/5209  . . . . {using multibeam transmission}
+    7/52092 . . . . . {using frequency diversity}
+    7/52093 . . . . . {using coded signals (G01S 15/8959 takes
+    7/52095 . . . . {using multiline receive beamforming}
+    7/52096 . . . {related to power management, e.g. saving
+power or prolonging life of electronic
+components (details of power supplies for
+ultrasonic medical diagnostic imaging devices
+    7/52098 . . . {related to workflow protocols}
+    7/521   . . Constructional features
+    7/523   . . Details of pulse systems {(short-range imaging
+G01S 7/52017; methods or devices for
+transmitting, conducting or directing sound
+    7/527   . . . . Extracting wanted echo signals {(Doppler
+    7/5273  . . . . . {using digital techniques}
+    7/5276  . . . . . {using analogue techniques}
+    7/529   . . . . Gain of receiver varied automatically during
+pulse-recurrence period {(for seismic signals
+    7/53    . . . . Means for transforming coordinates or for
+evaluating data, e.g. using computers
+    7/531   . . . . . Scan converters
+    7/533   . . . . . Data rate converters
+    7/534   . . Details of non-pulse systems {(short-range
+    7/5345  . . . {Gain control of receivers (for seismic signals
+    7/536   . . . Extracting wanted echo signals
+    7/537   . . Counter-measures or counter-counter-measures,
+    7/539   . . using analysis of echo signal for target
+characterisation; Target signature; Target cross-
+    7/54    . . with receivers spaced apart
+    7/56    . . Display arrangements {(short-range imaging
+    7/58    . . . for providing variable ranges
+    7/60    . . . for providing a permanent recording
+    7/62    . . . Cathode-ray tube displays
+    7/6209  . . . . {providing display of one measured
+    7/6218  . . . . {providing two-dimensional coordinated
+display of distance and direction}
+    7/6227  . . . . . {Plan-position indicators, i.e. P.P.I.}
+    7/6236  . . . . . {Sector-scan displays}
+    7/6245  . . . . {Stereoscopic displays; Three-dimensional
+displays; Pseudo-three dimensional displays}
+    7/6254  . . . . . {Grey-scale displays}
+    7/6263  . . . . {in which different colours are used}
+    7/6272  . . . . {producing cursor lines and indicia by
+    7/6281  . . . . {Composite displays, e.g. split-screen,
+    7/629   . . . . {the display being oriented or displaced in
+accordance with the movement of object
+carrying the transmitting and receiving
+    7/64    . . Luminous indications (G01S 7/62 takes
+precedence {; short-range imaging
+   11/00    Systems for determining distance or velocity not
+using reflection or reradiation (position-fixing by
+co-ordinating two or more distance determinations
+   11/02    . using radio waves (G01S 19/00 takes precedence)
+   11/023   . . {using impedance elements varying with
+   11/026   . . {using moving transmitters}
+   11/04    . . using angle measurements
+   11/06    . . using intensity measurements
+   11/08    . . using synchronised clocks
+   11/10    . . using Doppler effect
+   11/12    . using electromagnetic waves other than radio waves
+   11/125   . . {using gamma or X-rays}
+   11/14    . using ultrasonic, sonic, or infrasonic waves
+   11/16    . using difference in transit time between electrical
+   13/00    Systems using the reflection or reradiation of radio
+waves, e.g. radar systems; Analogous systems
+using reflection or reradiation of waves whose
+nature or wavelength is irrelevant or unspecified
+• systems for detecting the presence of an object,
+e.g. by  reflection or reradiation from the object
+itself, or from  a transponder associated with the
+object, for determining  the distance or relative
+velocity of an object, for  providing a co-
+ordinated display of the distance and  direction
+of an object or for obtaining an image thereof;
+• systems arranged for mounting on a moving
+craft or vehicle  and using the reflection of
+waves from an extended surface  external to the
+craft, e.g. the surface of the earth, to  determine
+the velocity and direction of motion of the craft
+• systems for determining the direction of an
+object by means  not employing reflection
+or reradiation, which are covered  by groups
+• systems for determining distance or velocity of
+an object  by means not employing reflection
+or reradiation, which are  covered by group
+   13/003   . {Bistatic radar systems; Multistatic radar systems}
+   13/006   . {Theoretical aspects (G01S 7/418, G01S 13/9094,
+   13/02    . Systems using reflection of radio waves, e.g.
+primary radar systems; Analogous systems
+   13/0209  . . {Systems with very large relative bandwidth, i.e.
+larger than 10 %, e.g. baseband, pulse, carrier-
+   13/0218  . . {Very long range radars, e.g. surface wave radar,
+over-the-horizon or ionospheric propagation
+systems (for meteorological use G01S 13/95)}
+ 2013/0227  . . . {OTH, Over-The-Horizon radar}
+ 2013/0236  . . {Special technical features}
+ 2013/0245  . . . {Radar with phased array antenna}
+ 2013/0254  . . . . {Active array antenna}
+ 2013/0263  . . . . {Passive array antenna}
+ 2013/0272  . . . {Multifunction radar}
+ 2013/0281  . . . {LPI, Low Probability of Intercept radar}
+ 2013/029   . . . {Antistealth radar}
+   13/04    . . Systems determining presence of a target (based
+on relative movement of target G01S 13/56)
+   13/06    . . Systems determining position data of a target
+   13/08    . . . Systems for measuring distance only (indirect
+   13/10    . . . . using transmission of interrupted, pulse
+modulated waves (determination of distance
+by phase measurement G01S 13/32)
+   13/103   . . . . . {particularities of the measurement of
+the distance (G01S 13/12, G01S 13/14,
+G01S 13/16, G01S 13/18 and G01S 13/20
+   13/106   . . . . . {using transmission of pulses having some
+particular characteristics (G01S 13/12,
+G01S 13/22, G01S 13/24, G01S 13/26,
+   13/12    . . . . . wherein the pulse-recurrence frequency
+is varied to provide a desired time
+relationship between the transmission of
+a pulse and the receipt of the echo of a
+   13/14    . . . . . wherein a voltage or current pulse is
+initiated and terminated in accordance
+respectively with the pulse transmission
+   13/16    . . . . . . using counters
+   13/18    . . . . . wherein range gates are used
+   13/20    . . . . . whereby multiple time-around echoes are
+   13/22    . . . . . using irregular pulse repetition frequency
+{(G01S 13/12 takes precedence)}
+   13/222   . . . . . . {using random or pseudorandom pulse
+   13/225   . . . . . . {with cyclic repetition of a non-uniform
+pulse sequence, e.g. staggered PRF}
+   13/227   . . . . . . {with repetitive trains of uniform pulse
+sequences, each sequence having a
+different pulse repetition frequency}
+   13/24    . . . . . using frequency agility of carrier wave
+   13/26    . . . . . wherein the transmitted pulses use a
+frequency- or phase-modulated carrier
+   13/28    . . . . . . with time compression of received
+   13/282   . . . . . . . {using a frequency modulated
+carrier wave (G01S 13/286 takes
+   13/284   . . . . . . . {using coded pulses}
+   13/286   . . . . . . . . {frequency shift keyed}
+   13/288   . . . . . . . . {phase modulated}
+   13/30    . . . . . using more than one pulse per radar period
+   13/32    . . . . using transmission of continuous waves,
+whether amplitude-, frequency-, or phase-
+   13/325   . . . . . {using transmission of coded signals, e.g.
+   13/34    . . . . . using transmission of continuous,
+frequency-modulated waves while
+heterodyning the received signal, or
+a signal derived therefrom, with a
+locally-generated signal related to the
+contemporaneously transmitted signal
+   13/341   . . . . . . {wherein the rate of change of the
+transmitted frequency is adjusted
+to give a beat of predetermined
+constant frequency, e.g. by adjusting
+the amplitude or frequency of the
+   13/342   . . . . . . {using sinusoidal modulation}
+   13/343   . . . . . . {using sawtooth modulation}
+   13/345   . . . . . . {using triangular modulation}
+   13/346   . . . . . . {using noise modulation}
+   13/347   . . . . . . {using more than one modulation
+   13/348   . . . . . . {using square or rectangular
+modulation, e.g. diplex radar for ranging
+   13/36    . . . . . with phase comparison between the
+received signal and the contemporaneously
+   13/38    . . . . . . wherein more than one modulation
+   13/40    . . . . . . wherein the frequency of transmitted
+predetermined phase relationship
+   13/42    . . . Simultaneous measurement of distance and
+other co-ordinates (indirect measurement
+   13/422   . . . . {sequential lobing, e.g. conical scan}
+   13/424   . . . . {Stacked beam radar}
+   13/426   . . . . {Scanning radar, e.g. 3D radar (G01S 13/66
+   13/428   . . . . . {within the pulse scanning systems}
+   13/44    . . . . Monopulse radar, i.e. simultaneous lobing
+   13/4409  . . . . . {HF sub-systems particularly adapted
+therefor, e.g. circuits for signal
+combination (multi-lobing aerials or aerial
+   13/4418  . . . . . {with means for eliminating radar-
+dependent errors in angle measurements,
+   13/4427  . . . . . {with means for eliminating the target-
+dependent errors in angle measurements,
+e.g. glint, scintillation effects}
+   13/4436  . . . . . {with means specially adapted to maintain
+the same processing characteristics
+   13/4445  . . . . . {amplitude comparisons monopulse, i.e.
+comparing the echo signals received by
+an antenna arrangement with overlapping
+   13/4454  . . . . . {phase comparisons monopulse, i.e.
+comparing the echo signals received by an
+interferometric antenna arrangement}
+   13/4463  . . . . . {using phased arrays}
+   13/4472  . . . . . {with means specially adapted to airborne
+monopulse systems (clutter elimination
+using Doppler effect: G01S 13/449)}
+   13/4481  . . . . . {Monopulse hybrid systems, e.g.
+   13/449   . . . . . {Combined with MTI or Doppler
+   13/46    . . . Indirect determination of position data
+ 2013/462   . . . . {using multipath signals}
+ 2013/464   . . . . . {using only the non-line-of-sight signal(s),
+e.g. to enable survey of scene 'behind' the
+target only the indirect signal is evaluated}
+ 2013/466   . . . . {by Trilateration, i.e. two antennas or two
+sensors determine separately the distance to
+a target, whereby with the knowledge of the
+baseline length, i.e. the distance between the
+antennas or sensors, the position data of the
+ 2013/468   . . . . {by Triangulation, i.e. two antennas or two
+sensors determine separately the bearing,
+direction or angle to a target, whereby with
+the knowledge of the baseline length, the
+position data of the target is determined}
+   13/48    . . . . using multiple beams at emission or
+   13/50    . . Systems of measurement based on relative
+   13/505   . . . {using Doppler effect for determining closest
+range to a target or corresponding time, e.g.
+   13/52    . . . Discriminating between fixed and moving
+objects or between objects moving at different
+   13/522   . . . . using transmissions of interrupted pulse
+   13/524   . . . . . based upon the phase or frequency shift
+resulting from movement of objects, with
+reference to the transmitted signals, e.g.
+   13/5242  . . . . . . {with means for platform motion or
+scan motion compensation, e.g. airborne
+   13/5244  . . . . . . {Adaptive clutter cancellation
+(specially adapted for airborne MTI,
+   13/5246  . . . . . . {post processors for coherent MTI
+discriminators, e.g. residue cancellers,
+   13/5248  . . . . . . {combining a coherent MTI processor
+with a zero Doppler processing channel
+and a clutter mapped memory, e.g. MTD
+(Moving target detector), (area MTI
+   13/526   . . . . . . performing filtering on the whole
+line cancellers or comb filters
+{(G01S 13/5244 takes precedence)}
+   13/5265  . . . . . . . {IF cancellers, e.g. TACCAR
+   13/528   . . . . . . . with elimination of blind speeds
+   13/53    . . . . . . performing filtering on a single spectral
+line and associated with one or more
+range gates with a phase detector or a
+frequency mixer to extract the Doppler
+information, e.g. pulse Doppler radar
+{(G01S 13/5244 takes precedence)}
+   13/532   . . . . . . . using a bank of range gates or a
+   13/534   . . . . . . based upon amplitude or phase shift
+resulting from movement of objects,
+with reference to the surrounding clutter
+echo signal, e.g. non coherent MTi,
+clutter referenced MTi, externally
+   13/536   . . . . using transmission of continuous
+unmodulated waves, amplitude-, frequency-,
+   13/538   . . . . eliminating objects that have not moved
+between successive antenna scans, e.g. area
+   13/56    . . . . for presence detection {(presence detection
+using near field arrangements G01V 3/00,
+e.g. G01V 3/08, G01V 3/12; burglar, theft
+or intruder alarms with electrical actuation
+   13/58    . . . Velocity or trajectory determination systems;
+Sense-of-movement determination systems
+   13/581   . . . . {using transmission of interrupted pulse
+modulated waves and based upon the
+Doppler effect resulting from movement of
+   13/582   . . . . . {adapted for simultaneous range and
+   13/583   . . . . {using transmission of continuous
+unmodulated waves, amplitude-, frequency-,
+or phase-modulated waves and based upon
+the Doppler effect resulting from movement
+   13/584   . . . . . {adapted for simultaneous range and
+   13/585   . . . . {processing the video signal in order to
+evaluate or display the velocity value}
+   13/586   . . . . . {using, or combined with, frequency
+   13/587   . . . . . {using optical means}
+   13/588   . . . . {deriving the velocity value from the range
+   13/589   . . . . {measuring the velocity vector}
+   13/60    . . . . wherein the transmitter and receiver are
+mounted on the moving object, e.g. for
+determining ground speed, drift angle,
+ground track (G01S 13/64 takes precedence)
+   13/605   . . . . . {using a pattern, backscattered from the
+ground, to determine speed or drift by
+measuring the time required to cover a
+   13/62    . . . . Sense-of-movement determination
+{(G01S 13/589 takes precedence)}
+   13/64    . . . . Velocity measuring systems using range
+   13/66    . Radar-tracking systems; Analogous systems
+   13/68    . . for angle tracking only
+   13/685   . . . {using simultaneous lobing techniques}
+   13/70    . . for range tracking only
+   13/72    . . for two-dimensional tracking, e.g. combination of
+angle and range tracking, track-while-scan radar
+   13/723   . . . {by using numerical data}
+   13/726   . . . . {Multiple target tracking}
+   13/74    . Systems using reradiation of radio waves, e.g.
+secondary radar systems; Analogous systems
+   13/75    . . using transponders powered from received waves,
+e.g. using passive transponders {, or using passive
+   13/751   . . . {wherein the responder or reflector radiates a
+   13/753   . . . . {using frequency selective elements, e.g.
+   13/755   . . . . {using delay lines, e.g. acoustic delay lines}
+   13/756   . . . . {using a signal generator for modifying the
+reflectivity of the reflector (G01S 13/758
+   13/758   . . . . {using a signal generator powered by the
+   13/76    . . wherein pulse-type signals are transmitted
+   13/762   . . . {with special measures concerning the
+radiation pattern, e.g. S.L.S. (aerials or aerial
+systems providing at least two radiation
+patterns, e.g. providing sum and difference
+   13/765   . . . {with exchange of information between
+   13/767   . . . {Responders; Transponders (teaching or
+practice apparatus for gun-aiming or gun-
+laying using reflecting targets or active targets
+   13/78    . . . discriminating between different kinds of
+targets, e.g. IFF-radar, i.e. identification of
+friend or foe (G01S 13/75, G01S 13/79 take
+   13/781   . . . . {Secondary Surveillance Radar [SSR] in
+   13/782   . . . . . {using multimoding or selective
+   13/784   . . . . . {Coders or decoders therefor; Degarbling
+   13/785   . . . . {Distance Measuring Equipment [DME]
+   13/787   . . . . . {co-operating with direction defining
+   13/788   . . . . . {Coders or decoders therefor; Special
+   13/79    . . Systems using random coded signals or random
+pulse repetition frequencies {, e.g. "Separation
+and Control of Aircraft using Non synchronous
+   13/82    . . wherein continuous-type signals are transmitted
+   13/825   . . . {with exchange of information between
+   13/84    . . . for distance determination by phase
+   13/86    . Combinations of radar systems with non-radar
+systems, e.g. sonar, direction finder
+   13/862   . . {Combination of radar systems with sonar
+   13/865   . . {Combination of radar systems with lidar
+   13/867   . . {Combination of radar systems with cameras}
+   13/87    . Combinations of radar systems, e.g. primary radar
+   13/872   . . {Combinations of primary radar and secondary
+   13/874   . . {Combination of several systems for attitude
+determination (in general G01C, control of
+   13/876   . . {Combination of several spaced transponders
+or reflectors of known location for determining
+the position of a receiver (G01S 13/874 takes
+   13/878   . . {Combination of several spaced transmitters
+or receivers of known location for determining
+the position of a transponder or a reflector
+(G01S 13/874 takes precedence)}
+   13/88    . Radar or analogous systems specially adapted for
+specific applications (electromagnetic prospecting
+or detecting of objects, e.g. near-field detection,
+   13/882   . . {for altimeters (measuring height using
+   13/883   . . {for missile homing, autodirectors (missile
+   13/885   . . {for ground probing (prospecting or detecting
+using electromagnetic waves G01V 3/12)}
+   13/886   . . {for alarm systems (alarms with electrical
+   13/887   . . {for detection of concealed objects, e.g.
+   13/888   . . . {through wall detection}
+   13/89    . . for mapping or imaging
+   13/895   . . . {Side looking radar [SLR]}
+   13/90    . . . using synthetic aperture techniques {, e.g.
+synthetic aperture radar [SAR] techniques}
+   13/9004  . . . . {SAR image acquisition techniques}
+   13/9005  . . . . . {with optical processing of the SAR
+   13/9011  . . . . . {with frequency domain processing of the
+SAR signals in azimuth (G01S 13/9005
+   13/9017  . . . . . {with time domain processing of the SAR
+signals in azimuth (G01S 13/9005 takes
+   13/9019  . . . . . {Auto-focussing of the SAR signals}
+   13/9021  . . . . {SAR image post-processing techniques}
+   13/9023  . . . . . {combined with interferometric
+   13/9027  . . . . . {Pattern recognition for feature extraction}
+   13/9029  . . . . . {specially adapted for moving target
+detection within a single SAR image or
+within multiple SAR images taken at the
+   13/904   . . . . {SAR modes}
+   13/9041  . . . . . {Squint mode}
+   13/9043  . . . . . {Forward-looking SAR}
+   13/9047  . . . . . {Doppler beam sharpening mode}
+   13/9052  . . . . . {Spotlight mode}
+   13/9054  . . . . . {Stripmap mode}
+   13/9056  . . . . . {Scan SAR mode}
+   13/9058  . . . . . {Bistatic or multistatic SAR}
+   13/9064  . . . . . {Inverse SAR [ISAR]}
+   13/9076  . . . . . {Polarimetric features in SAR}
+   13/9082  . . . . . {Rotating SAR [ROSAR]}
+   13/9088  . . . . . {Circular SAR [CSAR, C-SAR]}
+   13/9089  . . . . . {SAR having an irregular aperture}
+   13/9092  . . . . . {combined with monopulse techniques}
+   13/9094  . . . . {Theoretical aspects}
+   13/91    . . for traffic control (G01S 13/93 takes precedence)
+   13/913   . . . {for landing purposes}
+ 2013/916   . . . {Airport surface monitoring [ASDE]}
+   13/917   . . . {for marine craft or other waterborne vessels}
+   13/92    . . . for velocity measurement
+   13/93    . . for anti-collision purposes
+   13/931   . . . of land vehicles
+ 2013/9314  . . . . {Parking operations}
+ 2013/9315  . . . . {Monitoring blind spots}
+ 2013/9316  . . . . {combined with communication equipment
+with other vehicles or with base stations}
+ 2013/9317  . . . . {Driving backwards}
+ 2013/9318  . . . . {Controlling the steering}
+ 2013/93185 . . . . {Controlling the brakes}
+ 2013/9319  . . . . {Controlling the accelerator}
+ 2013/932   . . . . {using own vehicle data, e.g. ground speed,
+ 2013/9321  . . . . {Velocity regulation, e.g. cruise control}
+ 2013/9322  . . . . {using additional data, e.g. driver condition,
+ 2013/9323  . . . . {Alternative operation using light waves}
+ 2013/9324  . . . . {Alternative operation using ultrasonic
+ 2013/9325  . . . . {for inter-vehicle distance regulation, e.g.
+ 2013/9327  . . . . {Sensor installation details}
+ 2013/93271 . . . . . {in the front of the vehicles}
+ 2013/93272 . . . . . {in the back of the vehicles}
+ 2013/93273 . . . . . {on the top of the vehicles}
+ 2013/93274 . . . . . {on the side of the vehicles}
+ 2013/93275 . . . . . {in the bumper area}
+ 2013/93276 . . . . . {in the windshield area}
+ 2013/93277 . . . . . {in the lights}
+ 2013/9328  . . . . {Rail vehicles}
+ 2013/9329  . . . . {cooperating with reflectors or transponders}
+   13/933   . . . of aircraft or spacecraft
+   13/934   . . . . on airport surfaces, e.g. while taxiing
+   13/935   . . . . for terrain-avoidance
+   13/937   . . . of marine craft
+   13/95    . . for meteorological use
+   13/951   . . . {ground based}
+   13/953   . . . {mounted on aircraft}
+   13/955   . . . {mounted on satellite}
+   13/956   . . . {mounted on ship or other platform}
+   13/958   . . . {Theoretical aspects}
+   15/00    Systems using the reflection or reradiation of
+acoustic waves, e.g. sonar systems
+• systems for detecting the presence of an object,
+e.g. by  reflection or reradiation from the object
+itself, or from  a transponder associated with the
+object, for determining  the distance or relative
+velocity of an object, for  providing a co-
+ordinated display of the distance and  direction
+of an object or for obtaining an image thereof;
+• systems arranged for mounting on a moving
+craft or vehicle  and using the reflection of
+waves from an extended surface  external to the
+craft, e.g. the surface of the earth, to  determine
+the velocity and direction of motion of the craft
+• systems for determining the direction of an
+object by means  not employing reflection
+or reradiation, which are covered  by groups
+• systems for determining distance or velocity of
+an object  by means not employing reflection
+or reradiation, which are  covered by group
+   15/003   . {Bistatic sonar systems; Multistatic sonar systems}
+   15/006   . {Theoretical aspects}
+   15/02    . using reflection of acoustic waves (G01S 15/66
+   15/04    . . Systems determining presence of a target
+   15/06    . . Systems determining the position data of a target
+   15/08    . . . Systems for measuring distance only (indirect
+   15/10    . . . . using transmission of interrupted, pulse-
+modulated waves (determination of distance
+by phase measurement G01S 15/32)
+   15/101   . . . . . {Particularities of the measurement of
+distance (G01S 15/12, G01S 15/14, and
+   15/102   . . . . . {using transmission of pulses having some
+   15/104   . . . . . . {wherein the transmitted pulses use a
+frequency- or phase-modulated carrier
+   15/105   . . . . . . {using irregular pulse repetition
+   15/107   . . . . . . {using frequency agility of carrier
+   15/108   . . . . . . {using more than one pulse per sonar
+   15/12    . . . . . wherein the pulse-recurrence frequency
+is varied to provide a desired time
+relationship between the transmission of
+a pulse and the receipt of the echo of a
+   15/14    . . . . . wherein a voltage or current pulse is
+initiated and terminated in accordance
+respectively with the pulse transmission
+   15/18    . . . . . wherein range gates are used
+   15/32    . . . . using transmission of continuous waves,
+whether amplitude-, frequency-, or phase-
+   15/325   . . . . . {using transmission of coded signals, e.g.
+of phase-shift keyed [PSK] signals}
+   15/34    . . . . . using transmission of continuous,
+frequency-modulated waves while
+heterodyning the received signal, or
+a signal derived therefrom, with a
+locally-generated signal related to the
+contemporaneously transmitted signal
+   15/36    . . . . . with phase comparison between the
+received signal and the contemporaneously
+   15/42    . . . Simultaneous measurement of distance and
+other co-ordinates (indirect measurement
+   15/46    . . . Indirect determination of position data
+ 2015/465   . . . . {by Trilateration, i.e. two transducers
+determine separately the distance to a
+target, whereby with the knowledge of the
+baseline length, i.e. the distance between the
+transducers, the position data of the target is
+   15/50    . . Systems of measurement, based on relative
+   15/52    . . . Discriminating between fixed and moving
+objects or between objects moving at different
+   15/523   . . . . {for presence detection (burglar, theft
+or intruder alarms G08B 13/00, e.g.
+   15/526   . . . . . {by comparing echos in different sonar
+   15/58    . . . Velocity or trajectory determination systems;
+Sense-of-movement determination systems
+{(velocity measurement in imaging systems
+   15/582   . . . . {using transmission of interrupted pulse-
+modulated waves and based upon the
+Doppler effect resulting from movement of
+   15/584   . . . . . {with measures taken for suppressing
+velocity ambiguities, i.e. anti-aliasing}
+   15/586   . . . . {using transmission of continuous
+unmodulated waves, amplitude-, frequency-,
+or phase-modulated waves and based upon
+the Doppler effect resulting from movement
+   15/588   . . . . {measuring the velocity vector}
+   15/60    . . . . wherein the transmitter and receiver are
+mounted on the moving object, e.g. for
+determining ground speed, drift angle,
+   15/62    . . . . Sense-of-movement determination
+{(G01S 15/588 takes precedence)}
+   15/66    . Sonar tracking systems
+   15/74    . Systems using reradiation of acoustic waves, e.g.
+IFF, i.e. identification of friend or foe
+   15/86    . Combinations of sonar systems with lidar systems;
+Combinations of sonar systems with systems not
+   15/87    . Combinations of sonar systems
+   15/872   . . {Combination of several systems for attitude
+determination (using inertial means G01C 9/00,
+control of attitude G05D 1/08)}
+   15/874   . . {Combination of several spaced transponders
+or reflectors of known location for determining
+the position of a receiver (G01S 15/872 takes
+   15/876   . . {Combination of several spaced transmitters
+or receivers of known location for determining
+the position of a transponder or a reflector
+(G01S 15/872 takes precedence)}
+   15/878   . . . {wherein transceivers are operated, either
+sequentially or simultaneously, both in bi-
+static and in mono-static mode, e.g. cross-echo
+   15/88    . Sonar systems specially adapted for specific
+applications (seismic or acoustic prospecting or
+   15/885   . . {Meteorological systems}
+   15/89    . . for mapping or imaging
+   15/8902  . . . {Side-looking sonar}
+   15/8904  . . . . {using synthetic aperture techniques}
+   15/8906  . . . {Short-range imaging systems; Acoustic
+microscope systems using pulse-echo
+   15/8909  . . . . {using a static transducer configuration}
+   15/8911  . . . . . {using a single transducer for transmission
+   15/8913  . . . . . {using separate transducers for
+   15/8915  . . . . . {using a transducer array}
+   15/8918  . . . . . . {the array being linear}
+   15/892   . . . . . . {the array being curvilinear}
+   15/8922  . . . . . . {the array being concentric or annular}
+   15/8925  . . . . . . {the array being a two-dimensional
+transducer configuration, i.e. matrix or
+   15/8927  . . . . . . {using simultaneously or sequentially
+two or more subarrays or subapertures}
+   15/8929  . . . . . {using a three-dimensional transducer
+   15/8931  . . . . . {co-operating with moving reflectors}
+   15/8934  . . . . {using a dynamic transducer configuration}
+   15/8936  . . . . . {using transducers mounted for
+   15/8938  . . . . . {using transducers mounted for
+mechanical movement in two dimensions}
+   15/894   . . . . . . {by rotation about a single axis}
+   15/8943  . . . . . . . {co-operating with reflectors}
+   15/8945  . . . . . {using transducers mounted for linear
+   15/8947  . . . . . {using transducers movable by
+   15/895   . . . . {characterised by the transmitted frequency
+   15/8952  . . . . . {using discrete, multiple frequencies}
+   15/8954  . . . . . {using a broad-band spectrum}
+   15/8956  . . . . . {using frequencies at or above 20 MHz}
+   15/8959  . . . . {using coded signals for correlation
+   15/8961  . . . . . {using pulse compression}
+   15/8963  . . . . . {using pulse inversion}
+   15/8965  . . . . {using acousto-optical or acousto-electronic
+   15/8968  . . . . . {using acoustical modulation of a light
+beam (acousto-optical light control devices
+   15/897   . . . . . {using application of holographic
+   15/8972  . . . . . . {with optical reconstruction of the
+   15/8975  . . . . . {using acoustical image/electron
+beam converter tubes (tubes therefor
+   15/8977  . . . . {using special techniques for image
+reconstruction, e.g. FFT, geometrical
+transformations, spatial deconvolution, time
+   15/8979  . . . . {Combined Doppler and pulse-echo imaging
+   15/8981  . . . . . {Discriminating between fixed and
+moving objects or between objects moving
+at different speeds, e.g. wall clutter filter}
+   15/8984  . . . . . {Measuring the velocity vector}
+   15/8986  . . . . . {with measures taken for suppressing
+velocity ambiguities, i.e. anti-aliasing}
+   15/8988  . . . . . {Colour Doppler imaging}
+   15/899   . . . . {Combination of imaging systems with
+   15/8993  . . . . {Three dimensional imaging systems}
+   15/8995  . . . . {Combining images from different aspect
+angles, e.g. spatial compounding}
+   15/8997  . . . . {using synthetic aperture techniques}
+   15/93    . . for anti-collision purposes
+   15/931   . . . of land vehicles
+ 2015/932   . . . . {for parking operations}
+ 2015/933   . . . . . {for measuring the dimensions of the
+parking space when driving past}
+ 2015/934   . . . . . . {for measuring the depth, i.e. width, not
+ 2015/935   . . . . . . {for measuring the contour, e.g. a
+trajectory of measurement points,
+representing the boundary of the parking
+ 2015/936   . . . . . . {for measuring parking spaces
+extending transverse or diagonal to the
+driving direction, i.e. not parallel to the
+ 2015/937   . . . . {sensor installation details (constructional
+features of transducers G01S 7/521 and
+B06B; casing of transducers, e.g. housing,
+cover or filler details, G10K 9/22; mounting
+of transducers, i.e. fixture, fitting or holder
+ 2015/938   . . . . . {in the bumper area (radar in bumper
+area G01S 2013/93275; bumper with
+obstacle sensor of electric or electronic
+ 2015/939   . . . . . {vertical stacking of sensors, e.g. to enable
+   15/96    . . for locating fish
+   17/00    Systems using the reflection or reradiation of
+electromagnetic waves other than radio waves, e.g.
+• systems for detecting the presence of an object,
+e.g. by reflection or reradiation from the object
+itself, or from a transponder associated with
+the object, for determining the distance or
+relative velocity of an object, for providing
+a coordinated display of the distance and
+direction of an object or for obtaining an image
+• systems arranged for mounting on a moving
+craft or vehicle and using the reflection of
+waves from an extended surface external to the
+craft, e.g. the surface of the earth, to determine
+the velocity and direction of motion of the craft
+2. This subclass does not cover:
+• systems for determining the direction of
+anobject by means not employing reflectionor
+reradiation which are covered by groups
+• systems for determining distance or velocity of
+an object by means not employing reflection
+or reradiation, which are covered by group
+   17/003   . {Bistatic lidar systems; Multistatic lidar systems}
+   17/006   . {Theoretical aspects}
+   17/02    . Systems using the reflection of electromagnetic
+waves other than radio waves (G01S 17/66 takes
+   17/04    . . Systems determining the presence of a target
+   17/06    . . Systems determining position data of a target
+   17/08    . . . for measuring distance only (indirect
+measurement G01S 17/46; active triangulation
+   17/10    . . . . using transmission of interrupted, pulse-
+modulated waves (determination of distance
+by phase measurements G01S 17/32)
+   17/14    . . . . . wherein a voltage or current pulse is
+initiated and terminated in accordance with
+the pulse transmission and echo reception
+respectively, e.g. using counters
+   17/18    . . . . . wherein range gates are used
+   17/26    . . . . . wherein the transmitted pulses use a
+frequency-modulated or phase-modulated
+carrier wave, e.g. for pulse compression of
+   17/32    . . . . using transmission of continuous waves,
+whether amplitude-, frequency-, or phase-
+   17/34    . . . . . using transmission of continuous,
+frequency-modulated waves while
+heterodyning the received signal, or
+a signal derived therefrom, with a
+locally-generated signal related to the
+contemporaneously transmitted signal
+   17/36    . . . . . with phase comparison between the
+received signal and the contemporaneously
+   17/42    . . . Simultaneous measurement of distance and
+other co-ordinates (indirect measurement
+   17/46    . . . Indirect determination of position data
+   17/48    . . . . Active triangulation systems, i.e. using
+the transmission and reflection of
+electromagnetic waves other than radio
+   17/50    . . Systems of measurement based on relative
+   17/58    . . . Velocity or trajectory determination systems;
+Sense-of-movement determination systems
+   17/66    . Tracking systems using electromagnetic waves
+   17/74    . Systems using reradiation of electromagnetic waves
+other than radio waves, e.g. IFF, i.e. identification
+   17/86    . Combinations of lidar systems with systems other
+than lidar, radar or sonar, e.g. with direction finders
+   17/87    . Combinations of systems using electromagnetic
+   17/875   . . for determining attitude
+   17/88    . Lidar systems specially adapted for specific
+   17/89    . . for mapping or imaging
+   17/894   . . . 3D imaging with simultaneous measurement of
+time-of-flight at a 2D array of receiver pixels,
+e.g. time-of-flight cameras or flash lidar
+   17/90    . . . using synthetic aperture techniques
+   17/93    . . for anti-collision purposes
+   17/931   . . . of land vehicles
+   17/933   . . . of aircraft or spacecraft
+   17/95    . . for meteorological use
+   19/00    Satellite radio beacon positioning systems;
+Determining position, velocity or attitude using
+signals transmitted by such systems
+   19/01    . Satellite radio beacon positioning systems
+transmitting time-stamped messages, e.g. GPS
+[Global Positioning System], GLONASS [Global
+Orbiting Navigation Satellite System] or GALILEO
+   19/015   . . {Arrangements for jamming, spoofing or other
+methods of denial of service of such systems}
+   19/02    . . Details of the space or ground control segments
+   19/03    . . Cooperating elements; Interaction or
+communication between different cooperating
+elements or between cooperating elements and
+The term "cooperating elements" designates
+additional elements or subsystems, including
+receivers of other users, which interact or
+communicate with the receiver or the satellite
+   19/04    . . . providing carrier phase data
+   19/05    . . . providing aiding data
+   19/06    . . . . employing an initial estimate of the location
+of the receiver as aiding data or in generating
+   19/07    . . . providing data for correcting measured
+positioning data, e.g. DGPS [differential GPS]
+   19/071   . . . . {DGPS corrections}
+   19/072   . . . . {Ionosphere corrections}
+   19/073   . . . . {involving a network of fixed stations}
+   19/074   . . . . . {providing integrity data, e.g. WAAS}
+   19/08    . . . providing integrity information, e.g. health of
+satellites or quality of ephemeris data
+   19/09    . . . providing processing capability normally
+   19/10    . . . providing dedicated supplementary positioning
+   19/11    . . . . wherein the cooperating elements are
+pseudolites or satellite radio beacon
+positioning system signal repeaters
+   19/115   . . . . . {Airborne or satellite based pseudolites or
+   19/12    . . . . wherein the cooperating elements are
+telecommunication base stations
+   19/14    . . . specially adapted for specific applications
+   19/15    . . . . Aircraft landing systems
+   19/16    . . . . Anti-theft; Abduction
+   19/17    . . . . Emergency applications
+   19/18    . . . . Military applications
+   19/19    . . . . Sporting applications
+   19/20    . . . Integrity monitoring, fault detection or fault
+   19/21    . . . Interference related issues {; Issues related to
+cross-correlation, spoofing or other methods of
+   19/215   . . . . {issues related to spoofing}
+   19/22    . . . Multipath-related issues
+   19/23    . . . Testing, monitoring, correcting or calibrating of
+   19/235   . . . . {Calibration of receiver components}
+   19/24    . . . Acquisition or tracking {or demodulation}
+of signals transmitted by the system
+{(synchronisation aspects of direct sequence
+spread spectrum modulation H04B 1/7073)}
+   19/243   . . . . {Demodulation of navigation message}
+   19/246   . . . . {involving long acquisition integration times,
+extended snapshots of signals or methods
+specifically directed towards weak signal
+   19/25    . . . . involving aiding data received from a
+cooperating element, e.g. assisted GPS
+   19/252   . . . . . {Employing an initial estimate of location
+   19/254   . . . . . {relating to Doppler shift of satellite
+   19/256   . . . . . {relating to timing, e.g. time of week, code
+   19/258   . . . . . {relating to the satellite constellation, e.g.
+almanac, ephemeris data, lists of satellites
+   19/26    . . . . involving a sensor measurement for aiding
+   19/27    . . . . creating, predicting or correcting ephemeris
+or almanac data within the receiver
+   19/28    . . . . Satellite selection
+   19/29    . . . . carrier {including Doppler,} related
+{(G01S 19/246 takes precedence)}
+   19/30    . . . . code related {(G01S 19/246 takes
+   19/31    . . . Acquisition or tracking of other signals for
+   19/32    . . . Multimode operation in a single same satellite
+   19/33    . . . Multimode operation in different systems
+which transmit time stamped messages, e.g.
+   19/34    . . . Power consumption
+   19/35    . . . Constructional details or hardware or software
+details of the signal processing chain
+   19/36    . . . . relating to the receiver frond end
+   19/37    . . . . Hardware or software details of the signal
+   19/38    . Determining a navigation solution using signals
+transmitted by a satellite radio beacon positioning
+   19/39    . . the satellite radio beacon positioning system
+transmitting time-stamped messages, e.g. GPS
+[Global Positioning System], GLONASS
+[Global Orbiting Navigation Satellite System] or
+   19/393   . . . {Trajectory determination or predictive
+tracking, e.g. Kalman filtering}
+   19/396   . . . {Determining accuracy or reliability of position
+   19/40    . . . Correcting position, velocity or attitude
+   19/41    . . . . Differential correction, e.g. DGPS
+   19/42    . . . Determining position
+   19/421   . . . . {by combining or switching between
+position solutions or signals derived from
+different satellite radio beacon positioning
+systems; by combining or switching between
+position solutions or signals derived from
+different modes of operation in a single
+   19/423   . . . . . {by combining or switching between
+position solutions derived from different
+satellite radio beacon positioning systems}
+   19/425   . . . . . {by combining or switching between
+signals derived from different satellite
+radio beacon positioning systems}
+   19/426   . . . . . {by combining or switching between
+position solutions or signals derived from
+different modes of operation in a single
+   19/428   . . . . {using multipath or indirect path propagation
+signals in position determination}
+   19/43    . . . . using carrier phase measurements, e.g.
+kinematic positioning; using long or short
+   19/44    . . . . . Carrier phase ambiguity resolution;
+Floating ambiguity; LAMBDA [Least-
+squares AMBiguity Decorrelation
+   19/45    . . . . by combining measurements of signals from
+the satellite radio beacon positioning system
+with a supplementary measurement
+   19/46    . . . . . the supplementary measurement being of a
+   19/47    . . . . . the supplementary measurement being an
+inertial measurement, e.g. tightly coupled
+   19/48    . . . . by combining or switching between position
+solutions derived from the satellite radio
+beacon positioning system and position
+solutions derived from a further system
+   19/485   . . . . . {whereby the further system is an optical
+   19/49    . . . . . whereby the further system is an inertial
+position system, e.g. loosely-coupled
+   19/50    . . . . whereby the position solution is constrained
+to lie upon a particular curve or surface, e.g.
+for locomotives on railway tracks
+   19/51    . . . . Relative positioning
+   19/52    . . . Determining velocity
+   19/53    . . . Determining attitude
+   19/54    . . . . using carrier phase measurements; using long
+or short baseline interferometry
+   19/55    . . . . . Carrier phase ambiguity resolution;
+Floating ambiguity; LAMBDA [Least-
+squares AMBiguity Decorrelation
+ 2201/00    Indexing scheme relating to beacons or beacon
+systems transmitting signals capable of being
+detected by non-directional receivers and defining
+directions, positions, or position lines fixed
+relatively to the beacon transmitters
+ 2201/01    . adapted for specific applications or environments
+ 2201/02    . . Indoor positioning, e.g. in covered car-parks,
+ 2201/025   . . . Indoor pedestrian positioning
+ 2201/03    . . Construction sites
+ 2201/06    . . Aircraft navigation
+ 2201/08    . . Marine or water borne applications
+ 2205/00    Position-fixing by co-ordinating two or more
+direction or position line determinations; Position-
+fixing by co-ordinating two or more distance
+ 2205/001   . Transmission of position information to remote
+ 2205/002   . . for traffic control, mobile tracking, guidance,
+ 2205/003   . . . for aircraft positioning relative to the ground
+ 2205/005   . . . for aircraft positioning relative to other aircraft
+ 2205/006   . . for emergency situations
+ 2205/007   . . for management of a communication system
+ 2205/008   . . using a mobile telephone network
+ 2205/01    . specially adapted for specific applications
+ 2205/05    . . Anti-theft or abduction
+ 2205/09    . . for tracking people
+ 2205/10    . . . Elderly or infirm

@@ -1,0 +1,980 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+POSITIVE - DISPLACEMENT MACHINES FOR LIQUIDS; PUMPS FOR LIQUIDS OR
+POSITIVE-DISPLACEMENT MACHINES FOR LIQUIDS; PUMPS (machines for liquids,
+or pumps, of rotary-piston or oscillating-piston type F04C; non-positive-displacement pumps
+F04D; pumping of fluid by direct contact of another fluid or by using inertia of fluid to be
+1. In this subclass, the following term is used with the meaning indicated:
+• "piston" also covers a plunger.
+2. Attention is drawn to the Notes following the titles of class B81 and subclass B81B relating to "microstructural devices" and
+3. Attention is drawn to the Notes  preceding class F01, especially as   regards the definitions of "machines",  "pumps", and
+4. Machines, pumps or pumping  installations having flexible working members are classified in groups F04B 43/00 or
+The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+Pumps for liquids or for liquid and elastic fluids; Positive-
+displacement machines for liquids
+    1/00    Multi-cylinder machines or pumps characterised
+by number or arrangement of cylinders (machines
+or pumps with pistons coacting within one cylinder
+    1/005   . {Pumps with cylinder axis arranged substantially
+tangentially to a circle centred on main shaft axis}
+    1/02    . having two cylinders (in V-arrangement F04B 1/04)
+    1/03    . with cylinder axis arranged substantially
+tangentially to a circle centred on main shaft axis
+    1/04    . having cylinders in star- or fan-arrangement
+    1/0404  . . Details or component parts
+    1/0417  . . . . consisting of two or more cylindrical
+    1/0426  . . . Arrangements for pressing the pistons against
+the actuated cam; Arrangements for connecting
+the pistons to the actuated cam
+    1/043   . . . . Hydraulic arrangements
+    1/0435  . . . Arrangements for disconnecting the pistons
+    1/0439  . . . Supporting or guiding means for the pistons
+    1/0443  . . . Draining of the housing; Arrangements for
+    1/0448  . . . Sealing means, e.g. for shafts or housings
+(for pistons F04B 1/0408 {; Stoffing boxes
+    1/0452  . . . Distribution members, e.g. valves (machines
+or pumps with cam-actuated distribution
+members at the outer ends of the cylinders
+F04B 1/0472; machines or pumps with cam-
+actuated distribution members at the inner
+ends of the cylinders F04B 1/0531; the piston-
+driving cams being provided with inlets and
+    1/0456  . . . . Cylindrical
+    1/047   . . with actuating or actuated elements at the outer
+    1/0472  . . . with cam-actuated distribution members
+    1/0474  . . . with two or more serially arranged radial
+    1/0476  . . . . located side-by-side
+    1/0478  . . . . Coupling of two or more cylinder-barrels
+    1/053   . . with actuating or actuated elements at the inner
+    1/0531  . . . with cam-actuated distribution members
+    1/0533  . . . . each machine piston having channels
+that coact with the cylinder and serve as
+distribution members for another piston-
+1Pumps for liquids or for liquid and elastic fluids; Positive-displacement machines for liquids
+    1/0535  . . . the piston-driving cams being provided with
+    1/0536  . . . with two or more serially arranged radial
+    1/0538  . . . . located side-by-side
+    1/063   . . . by using a valve in a system with several
+pumping chambers wherein the flow-path
+through the chambers can be changed, e.g.
+between series and parallel flow
+    1/066   . . . by changing the phase relationship between the
+actuating cam and the distributing means
+    1/07    . . . by varying the relative eccentricity between
+two members, e.g. a cam and a drive shaft
+    1/08    . . . regulated by delivery pressure
+    1/10    . . the cylinders being movable, e.g. rotary
+{(F04B 3/006 takes precedence)}
+    1/107   . . . with actuating or actuated elements at the outer
+    1/1071  . . . . with rotary cylinder blocks
+    1/1072  . . . . . with cylinder blocks and actuating cams
+rotating together (in two or more series
+radial piston-cylinder units F04B 1/1075)
+    1/1074  . . . . . with two or more serially arranged radial
+    1/1075  . . . . . . with cylinder blocks and actuating cams
+rotating together (in two or more series
+radial piston-cylinder units directly
+located side-by-side F04B 1/1078)
+    1/1077  . . . . . . located side-by-side
+    1/1078  . . . . . . . with cylinder blocks and actuating
+    1/113   . . . with actuating or actuated elements at the inner
+    1/1133  . . . . with rotary cylinder blocks
+    1/1136  . . . . . with a rotary cylinder with a single piston
+reciprocating within the cylinder
+    1/12    . having cylinder axes coaxial with, or parallel or
+    1/122   . . Details or component parts, e.g. valves, sealings
+or lubrication means (for machines or pumps
+having rotary cylinder blocks F04B 1/2014)
+    1/126   . . . . Piston shoe retaining means
+    1/14    . . having stationary cylinders
+    1/141   . . . Details or component parts
+    1/146   . . . . Swash plates; Actuating elements
+    1/148   . . . . . Bearings therefor
+    1/16    . . . having two or more sets of cylinders or pistons
+    1/18    . . . having self-acting distribution members, i.e.
+    1/182   . . . . Check valves
+    1/184   . . . . Cylindrical distribution members
+    1/186   . . . . Conical distribution members
+    1/188   . . . . Plate-like distribution members
+    1/20    . . having rotary cylinder block
+    1/2007  . . . Arrangements for pressing the cylinder barrel
+against the valve plate, e.g. by fluid pressure
+    1/2014  . . . Details or component parts
+    1/2021  . . . . characterised by the contact area between
+cylinder barrel and valve plate
+    1/2035  . . . . Cylinder barrels
+    1/205   . . . . . Cylindrical
+    1/2071  . . . . . Bearings for cylinder barrels
+    1/2078  . . . . Swash plates
+    1/2085  . . . . . Bearings for swash plates or driving axles
+    1/2092  . . . Means for connecting rotating cylinder barrels
+and rotating inclined swash plates
+    1/22    . . . having two or more sets of cylinders or pistons
+    1/24    . . . . inclined to the main shaft axis
+    1/28    . . . of machines or pumps with stationary cylinders
+    1/29    . . . . by varying the relative positions of a swash
+    1/295   . . . . . by changing the inclination of the swash
+    1/30    . . . of machines or pumps with rotary cylinder
+    1/303   . . . . by turning the valve plate
+    1/306   . . . . by turning the swash plate, e.g. with fixed
+    1/32    . . . . by varying the relative positions of a swash
+    1/322   . . . . . by moving the swash plate in a direction
+perpendicular to the axis of rotation of the
+    1/324   . . . . . by changing the inclination of the swash
+    1/326   . . . . . . using wedges
+    1/328   . . . . . by changing the inclination of the axis of
+the cylinder barrel relative to the swash
+    1/34    . Control not provided for in groups F04B 1/02,
+F04B 1/03, F04B 1/06 or F04B 1/26
+    3/00    Machines or pumps with pistons coacting within
+    3/003   . {with two or more pistons reciprocating one within
+another, e.g. one piston forning cylinder of the
+    3/006   . . {with rotating cylinder block}
+    5/00    Machines or pumps with differential-surface
+    5/02    . with double-acting pistons
+    7/00    Piston machines or pumps characterised by having
+    7/0003  . {the distribution member forming both the inlet
+and discharge distributor for one single pumping
+chamber (F04B 7/0208 takes precedence)}
+    7/0007  . . {and having a rotating movement}
+    7/0011  . . {and having an oscillating movement}
+    7/0015  . . {and having a slidable movement}
+    7/0019  . {a common distribution member forming a single
+discharge distributor for a plurality of pumping
+chambers (F04B 7/0233 takes precedence)}
+    7/0023  . . {and having a rotating movement}
+    7/0026  . . {and having an oscillating movement}
+    7/003   . . {and having a slidable movement}
+2Pumps for liquids or for liquid and elastic fluids; Positive-displacement machines for liquids
+    7/0034  . . {and having an orbital movement, e.g. elbow-pipe
+    7/0038  . {the distribution member forming a single inlet
+for a plurality of pumping chambers or a multiple
+discharge for one single pumping chamber}
+    7/0042  . {with specific kinematics of the distribution
+member (F04B 7/0003, F04B 7/0019 take
+    7/0046  . . {for rotating distribution members}
+    7/0049  . . {for oscillating distribution members}
+    7/0053  . . {for reciprocating distribution members}
+    7/0057  . {Mechanical driving means therefor, e.g. cams}
+    7/0061  . . {for a rotating member}
+    7/0065  . . . {being mounted on the main shaft}
+    7/0069  . . {for a sliding member}
+    7/0073  . {the member being of the lost-motion type, e.g.
+friction-actuated members, or having means for
+pushing it against or pulling it from its seat}
+    7/0076  . {the members being actuated by electro-magnetic
+    7/008   . {the distribution being realised by moving
+the cylinder itself, e.g. by sliding or swinging
+(F04B 7/0291 takes precedence)}
+    7/0084  . {Component parts or details specially adapted
+    7/0088  . . {Sealing arrangements between the distribution
+    7/0092  . . . {for oscillating distribution members}
+    7/0096  . . . {for pipe-type distribution members}
+    7/02    . the valving being fluid-actuated
+    7/0208  . . {the distribution member forming both the inlet
+and discharge distributor for one single pumping
+    7/0216  . . . {and having an oscillating movement}
+    7/0225  . . . {and having a slidable movement}
+    7/0233  . . {a common distribution member forming a single
+discharge distributor for a plurality of pumping
+    7/0241  . . . {and having an oscillating movement}
+    7/025   . . . {and having a slidable movement}
+    7/0258  . . . {and having an orbital movement, e.g. elbow-
+    7/0266  . . {the inlet and discharge means being separate
+    7/0275  . . . {and being deformable, e.g. membranes}
+    7/0283  . . . {and having a rotating movement}
+    7/0291  . . {the distribution being realised by moving the
+cylinder itself, e.g. by sliding or swinging}
+    7/04    . in which the valving is performed by pistons and
+cylinders coacting to open and close intake or outlet
+    7/045   . . {Two pistons coacting within one cylinder}
+    7/06    . . the pistons and cylinders being relatively
+    9/00    Piston machines or pumps characterised by the
+driving or driven means to or from their working
+    9/02    . the means being mechanical
+    9/025   . . {Driving of pistons coacting within one cylinder}
+    9/04    . . the means being cams, eccentrics or pin-and-slot
+    9/042   . . . {the means being cams}
+    9/045   . . . {the means being eccentrics}
+    9/047   . . . {the means being pin-and-slot mechanisms}
+    9/06    . . the means including spring- or weight-loaded
+    9/08    . the means being fluid
+    9/10    . . the fluid being liquid
+    9/103   . . . having only one pumping chamber
+    9/1035  . . . . {the movement of the pump piston in the
+two directions being obtained by two single-
+acting liquid motors each acting in one
+    9/105   . . . . reciprocating movement of the pumping
+member being obtained by a double-acting
+    9/1053  . . . . . {one side of the double-acting liquid motor
+being always under the influence of the
+    9/1056  . . . . . {with fluid-actuated inlet or outlet valve
+(mechanically controlled F04B 7/00)}
+    9/107   . . . . rectilinear movement of the pumping
+member in the working direction being
+obtained by a single-acting liquid motor, e.g.
+actuated in the other direction by gravity or a
+    9/1073  . . . . . {with actuation in the other direction by
+    9/1076  . . . . . {with fluid-actuated inlet or outlet valve
+(mechanically controlled F04B 7/00)}
+    9/109   . . . having plural pumping chambers
+    9/1095  . . . . {having two or more pumping chambers in
+    9/111   . . . . with two mechanically connected pumping
+    9/1115  . . . . . {the movement of the pumping pistons
+in only one direction being obtained by
+a single-acting piston liquid motor, e.g.
+actuation in the other direction by spring
+    9/113   . . . . . reciprocating movement of the pumping
+members being obtained by a double-
+    9/115   . . . . . reciprocating movement of the pumping
+members being obtained by two single-
+acting liquid motors, each acting in one
+    9/117   . . . . the pumping members not being
+mechanically connected to each other
+    9/1172  . . . . . {the movement of each pump piston in the
+two directions being obtained by a double-
+    9/1174  . . . . . . {with fluid-actuated inlet or outlet valve
+(mechanically controlled F04B 7/00)}
+    9/1176  . . . . . {the movement of each piston in one
+direction being obtained by a single-acting
+    9/1178  . . . . . . {the movement in the other direction
+connection between the liquid motor
+    9/12    . . the fluid being elastic, e.g. steam or air
+    9/1207  . . . {using a source of partial vacuum or sub-
+    9/1215  . . . . {the return stroke being obtained by a
+3Pumps for liquids or for liquid and elastic fluids; Positive-displacement machines for liquids
+    9/1222  . . . . {the return stroke being obtained by an
+    9/123   . . . having only one pumping chamber
+    9/1235  . . . . {the movement of the pump piston in the
+two directions being obtained by two single-
+acting piston fluid motors, each acting in one
+    9/125   . . . . reciprocating movement of the pumping
+member being obtained by a double-acting
+    9/1253  . . . . . {one side of the double-acting piston fluid
+motor being always under the influence of
+    9/1256  . . . . . {with fluid-actuated inlet or outlet valve
+(mechanically controlled F04B 7/00)}
+    9/127   . . . . rectilinear movement of the pumping
+member in the working direction being
+obtained by a single-acting elastic-fluid
+motor, e.g. actuated in the other direction by
+    9/1273  . . . . . {with actuation in the other direction by
+    9/1276  . . . . . {with fluid-actuated inlet or outlet valve
+(mechanically controlled F04B 7/00)}
+    9/129   . . . having plural pumping chambers
+    9/1295  . . . . {having two or more pumping chambers in
+    9/131   . . . . with two mechanically connected pumping
+    9/1315  . . . . . {the movement of the pumping pistons
+in only one direction being obtained by
+a single-acting piston fluid motor, e.g.
+actuation in the other direction by spring
+    9/133   . . . . . reciprocating movement of the pumping
+members being obtained by a double-
+    9/135   . . . . . reciprocating movement of the pumping
+members being obtained by two single-
+acting elastic-fluid motors, each acting in
+    9/137   . . . . the pumping members not being
+mechanically connected to each other
+    9/1372  . . . . . {the movement of each pump piston in
+the two directions is obtained by a double-
+    9/1374  . . . . . . {with fluid-actuated inlet or outlet valve
+(mechanically controlled F04B 7/00)}
+    9/1376  . . . . . {the movement of each piston in one
+direction being obtained by a single-acting
+    9/1378  . . . . . . {the movement in the other direction
+connection between the fluid motor
+    9/14    . Pumps characterised by muscle-power operation
+{(hand-held spraying or dispensing apparatus using
+   11/00    Equalisation of pulses, e.g. by use of air vessels;
+   11/0008  . {using accumulators}
+   11/0016  . . {with a fluid spring}
+   11/0025  . . . {the spring fluid being in direct contact with
+   11/0033  . . {with a mechanical spring}
+   11/0041  . {by piston speed control (F04B 11/0058 takes
+   11/005   . {using two or more pumping pistons}
+   11/0058  . . {with piston speed control}
+   11/0066  . . . {with special shape of the actuating element}
+   11/0075  . . {connected in series}
+   11/0083  . . . {the pistons having different cross-sections}
+   11/0091  . {using a special shape of fluid pass, e.g. throttles,
+   13/00    Pumps specially modified to deliver fixed or
+   13/02    . of two or more fluids at the same time
+   15/00    Pumps adapted to handle specific fluids, e.g. by
+selection of specific materials for pumps or pump
+   15/02    . the fluids being viscous or non-homogeneous
+   15/023   . . {supply of fluid to the pump by gravity through a
+hopper, e.g. without intake valve}
+ 2015/026   . . {with a priming plunger or piston ahead of the
+pumping piston and connected on the same piston
+   15/04    . the fluids being hot or corrosive (for liquids near
+their boiling point, e.g. under subnormal pressure,
+   15/06    . for liquids near their boiling point, e.g. under
+   15/08    . . the liquids having low boiling points
+ 2015/081   . . . {Liquefied gases}
+ 2015/0816  . . . . {Carbon monoxide}
+ 2015/0818  . . . . {Carbon dioxide}
+   17/00    Pumps characterised by combination with, or
+adaptation to, specific driving engines or motors
+   17/003   . {driven by piezo-electric means (F04B 43/046 and
+   17/02    . driven by wind motors
+   17/03    . driven by electric motors
+   17/04    . . using solenoids
+   17/042   . . . {the solenoid motor being separated from the
+   17/044   . . . . {using solenoids directly actuating the
+   17/046   . . . {the fluid flowing through the moving part of
+   17/048   . . . {the fluid flowing around the moving part of
+   17/05    . driven by internal-combustion engines
+   17/06    . Mobile combinations
+   19/00    Machines or pumps having pertinent
+characteristics not provided for in, or of interest
+apart from, groups F04B 1/00 - F04B 17/00
+   19/003   . {free-piston type pumps}
+   19/006   . {Micropumps (F04B 43/043 and F04B 43/095 take
+4Pumps for liquids or for liquid and elastic fluids; Positive-displacement machines for liquids
+   19/02    . having movable cylinders
+   19/022   . . {reciprocating cylinders}
+   19/025   . . {cylinders rotating around their own axis}
+   19/027   . . {cylinders oscillating around an axis
+perpendicular to their own axis}
+   19/04    . Pumps for special use
+   19/06    . . Pumps for delivery of both liquid and elastic
+fluids at the same time (wet gas pumps
+   19/12    . . of helical or screw-type
+   19/14    . . of endless-chain type, e.g. with the chains
+carrying pistons co-operating with open-ended
+   19/16    . Adhesion-type liquid-lifting devices
+   19/18    . . Adhesion members therefor
+   19/20    . Other positive-displacement pumps
+   19/22    . . of reciprocating-piston type
+   19/24    . . Pumping by heat expansion of pumped fluid
+   23/00    Pumping installations or systems (pumps
+characterised by combination with, or adaptation to,
+specific driving engines or motors F04B 17/00)
+   23/02    . having reservoirs
+   23/021   . . {the pump being immersed in the reservoir}
+   23/023   . . . {only the pump-part being immersed, the
+driving-part being outside the reservoir}
+   23/025   . . {the pump being located directly adjacent the
+   23/026   . . . {a pump-side forming a wall of the reservoir}
+   23/028   . . . {the pump being mounted on top of the
+   23/04    . Combinations of two or more pumps
+   23/06    . . the pumps being all of reciprocating positive-
+   23/08    . . the pumps being of different types
+   23/10    . . . at least one pump being of the reciprocating
+   23/103   . . . . {being a radial piston pump}
+   23/106   . . . . {being an axial piston pump}
+   23/12    . . . at least one pump being of the rotary-piston
+   23/14    . . . at least one pump being of the non-positive-
+Pumps specially adapted for elastic fluids
+   25/005   . {with two cylinders}
+   25/02    . of stepped piston type
+   25/04    . having cylinders coaxial with, or parallel or inclined
+   27/00    Multi-cylinder pumps specially adapted for
+elastic fluids and characterised by number or
+arrangement of cylinders (multi-stage pumps
+specially adapted for elastic fluids F04B 25/00)
+   27/005   . {with two cylinders}
+   27/02    . having cylinders arranged oppositely relative to
+   27/04    . having cylinders in star- or fan-arrangement
+   27/0404  . . {Details, component parts specially adapted for
+   27/0418  . . . . {consisting of several cylindrical elements,
+   27/0428  . . . {Arrangements for pressing or connecting the
+pistons against the actuated cam}
+   27/0432  . . . . {hydraulically}
+   27/0437  . . . {Disconnecting the pistons from the actuated
+   27/0442  . . . {Supporting and guiding means for the pistons}
+   27/0446  . . . {Draining of the engine housing; Arrangements
+   27/0451  . . . {Particularities relating to the distribution
+members (F04B 27/0472, F04B 27/0531 and
+   27/0456  . . . . {to cylindrical distribution members}
+   27/046   . . . . {to conical distribution members}
+   27/0465  . . . . {to plate like distribution members}
+   27/047   . . with an actuating element at the outer ends of the
+   27/0472  . . . {with cam-actuated distribution members}
+   27/0474  . . . {with two or more series radial piston-cylinder
+   27/0476  . . . . {directly located side-by-side}
+   27/0478  . . . . {Coupling of several cylinder-barrels}
+   27/053   . . with an actuating element at the inner ends of the
+   27/0531  . . . {with cam-actuated distribution members}
+   27/0533  . . . . {each machine piston being provided
+with channels, which are coacting with
+the cylinder and are used as a distribution
+member for another piston-cylinder unit}
+   27/0535  . . . {the piston-driving cam being provided with an
+   27/0536  . . . {with two or more series radial piston-cylinder
+   27/0538  . . . . {directly located side-by-side}
+   27/06    . . the cylinders being movable, e.g. rotary
+{(F04B 27/08 takes precedence)}
+   27/0606  . . . {having cylinders in star- or fan-arrangement,
+the connection of the pistons with an actuating
+element being at the outer ends of the
+   27/0612  . . . . {rotary cylinder block}
+   27/0619  . . . . . {cylinder block and actuating cam rotating
+together (F04B 27/0631 and F04B 27/0644
+   27/0625  . . . . . {with two or more series radial piston
+   27/0631  . . . . . . {cylinder block and actuating cam
+both rotating (F04B 27/0644 takes
+   27/0638  . . . . . . {directly located side by side}
+   27/0644  . . . . . . . {cylinder block and actuating cam
+   27/065   . . . {having cylinders in star- or fan-arrangement,
+the connection of the pistons with an actuating
+element being at the inner ends of the
+   27/0657  . . . . {rotary cylinder block}
+   27/0663  . . . . . {the rotary cylinder being provided with
+only one piston, reciprocating within this
+5Pumps specially adapted for elastic fluids
+   27/0673  . . . {by using a valve in a system with several
+pumping chambers, wherein the flow-path
+through the chambers can be changed, e.g.
+   27/0676  . . . {by changing the phase relationship between
+the actuating cam and the distribution means}
+   27/073   . . . by varying the relative eccentricity between
+two members, e.g. a cam and a drive shaft
+   27/08    . having cylinders coaxial with, or parallel or inclined
+   27/0804  . . {having rotary cylinder block}
+   27/0808  . . . {having two or more sets of cylinders or
+   27/0813  . . . . {inclined to main shaft axis}
+   27/0817  . . . {arrangements for pressing the cylinder barrel
+against the valve plate, e.g. by fluid pressure}
+   27/0821  . . . {component parts, details, e.g. valves, sealings,
+   27/0826  . . . . {particularities in the contacting area
+between cylinder barrel and valve plate}
+   27/083   . . . . . {bearing means}
+   27/0834  . . . . {cylinder barrel}
+   27/0839  . . . . {valve means, e.g. valve plate}
+   27/0843  . . . . . {cylindrical valve means}
+   27/0847  . . . . . {conical valve means}
+   27/0852  . . . . {machine housing}
+   27/0856  . . . . . {cylinder barrel bearing means}
+   27/086   . . . . {swash plate}
+   27/0865  . . . . . {swash plate bearing means or driving axis
+   27/0869  . . . {connection between rotating cylinder barrel
+and rotating inclined swash plate}
+   27/0873  . . {Component parts, e.g. sealings; Manufacturing
+   27/0882  . . . . {piston shoe retaining means}
+   27/0886  . . . . {Piston shoes}
+   27/0891  . . . {casings, housings}
+   27/0895  . . . {driving means}
+   27/10    . . having stationary cylinders
+   27/1009  . . . {Distribution members}
+   27/1018  . . . . {Cylindrical distribution members}
+   27/1027  . . . . {Conical distribution members}
+   27/1036  . . . {Component parts, details, e.g. sealings,
+   27/1045  . . . . {Cylinders}
+   27/1054  . . . . {Actuating elements}
+   27/1063  . . . . . {Actuating-element bearing means or
+   27/1072  . . . . . {Pivot mechanisms}
+   27/1081  . . . . {Casings, housings}
+   27/109   . . . . {Lubrication}
+   27/12    . . . having plural sets of cylinders or pistons
+   27/16    . . . of pumps with stationary cylinders
+   27/18    . . . . by varying the relative positions of a swash
+   27/1804  . . . . . {Controlled by crankcase pressure}
+ 2027/1809  . . . . . . {Controlled pressure}
+ 2027/1813  . . . . . . . {Crankcase pressure}
+ 2027/1818  . . . . . . . {Suction pressure}
+ 2027/1822  . . . . . . {Valve-controlled fluid connection}
+ 2027/1827  . . . . . . . {between crankcase and discharge
+ 2027/1831  . . . . . . . {between crankcase and suction
+ 2027/1836  . . . . . . . {between crankcase and working
+ 2027/184   . . . . . . {Valve controlling parameter}
+ 2027/1845  . . . . . . . {Crankcase pressure}
+ 2027/185   . . . . . . . {Discharge pressure}
+ 2027/1854  . . . . . . . {External parameters}
+ 2027/1859  . . . . . . . {Suction pressure}
+ 2027/1863  . . . . . . {with an auxiliary valve, controlled by}
+ 2027/1868  . . . . . . . {Crankcase pressure}
+ 2027/1872  . . . . . . . {Discharge pressure}
+ 2027/1877  . . . . . . . {External parameters}
+ 2027/1881  . . . . . . . {Suction pressure}
+ 2027/1886  . . . . . . {Open (not controlling) fluid passage}
+ 2027/189   . . . . . . . {between crankcase and discharge
+ 2027/1895  . . . . . . . {between crankcase and suction
+   27/20    . . . of pumps with rotary cylinder block
+   27/22    . . . . by varying the relative positions of a swash
+   27/24    . Control not provided for in a single group of groups
+   29/00    {Other pumps with movable, e.g. rotatable
+   31/00    Free-piston pumps specially adapted for elastic
+fluids; Systems incorporating such pumps (muscle-
+driven pumps in which the stroke is not defined by
+   33/00    Pumps actuated by muscle power, e.g. for inflating
+   33/005   . {specially adapted for inflating tyres of non-
+motorised vehicles, e.g. cycles, tricycles}
+   33/02    . with intermediate gearing
+   35/00    Piston pumps specially adapted for elastic fluids
+and characterised by the driving means to their
+working members, or by combination with, or
+adaptation to, specific driving engines or motors,
+   35/002   . {driven by internal combustion engines}
+   35/004   . {driven by floating elements}
+   35/006   . {driven by steam engines}
+   35/008   . {the means being a fluid transmission link}
+   35/01    . the means being mechanical
+   35/04    . the means being electric
+   35/045   . . {using solenoids}
+   35/06    . Mobile combinations
+   37/00    Pumps having pertinent characteristics not
+provided for in, or of interest apart from, groups
+   37/02    . for evacuating by absorption or adsorption
+   37/04    . . Selection of specific absorption or adsorption
+   37/06    . for evacuating by thermal means
+   37/08    . . by condensing or freezing, e.g. cryogenic pumps
+   37/085   . . . {Regeneration of cryo-pumps}
+6Pumps specially adapted for elastic fluids
+   37/10    . for special use (for evacuating by absorption or
+adsorption F04B 37/02; for evacuating by thermal
+   37/12    . . to obtain high pressure
+   37/14    . . to obtain high vacuum
+   37/16    . . . Means for nullifying unswept space
+   37/18    . . for specific elastic fluids
+   37/20    . . . for wet gases, e.g. wet air
+   39/00    Component parts, details, or accessories, of pumps
+or pumping systems specially adapted for elastic
+fluids, not otherwise provided for in, or of interest
+apart from, groups F04B 25/00 - F04B 37/00
+   39/0005  . {adaptations of pistons}
+   39/0011  . . {liquid pistons}
+   39/0016  . . {with valve arranged in the piston}
+   39/0027  . {Pulsation and noise damping means}
+   39/0033  . . {with encapsulations}
+   39/0038  . . . {of inlet or outlet channels}
+   39/0044  . . {with vibration damping supports}
+   39/005   . . {with direct action on the fluid flow using
+   39/0055  . . {with a special shape of fluid passage, e.g. bends,
+throttles, diameter changes, pipes}
+   39/0061  . . . {using muffler volumes}
+   39/0066  . . . {using sidebranch resonators, e.g. Helmholtz
+   39/0072  . . . {characterised by assembly or mounting}
+   39/0077  . . {by generating oil foam}
+   39/0083  . . {using blow off silencers}
+   39/0088  . . {using mechanical tuned resonators}
+   39/02    . Lubrication (of machines or engines in general
+   39/0207  . . {with lubrication control systems}
+   39/0215  . . {characterised by the use of a special lubricant}
+   39/0223  . . {characterised by the compressor type (swash-
+plate compressors F04B 27/109)}
+   39/023   . . . {Hermetic compressors}
+   39/0238  . . . . {with oil distribution channels}
+   39/0246  . . . . . {in the rotating shaft}
+   39/0253  . . . . . . {using centrifugal force for transporting
+   39/0261  . . . . {with an auxiliary oil pump}
+   39/0269  . . . . {with device for spraying lubricant or with
+   39/0276  . . . {the pump being of the reciprocating piston
+type, e.g. oscillating, free-piston compressors}
+   39/0284  . . {Constructional details, e.g. reservoirs in the
+casing (swash-plate compressors F04B 27/0878,
+   39/0292  . . . {Lubrication of pistons or cylinders}
+   39/04    . Measures to avoid lubricant contaminating the
+   39/041   . . {sealing for a reciprocating rod (sealing in
+   39/042   . . . {sealing being provided on the piston}
+   39/044   . . . {sealing with a rolling diaphragm between
+   39/045   . . . {Labyrinth-sealing between piston and
+   39/047   . . . {Sealing between piston and carter being
+   39/048   . . . {Sealing between piston and carter being
+   39/06    . Cooling; Heating; Prevention of freezing
+   39/062   . . {Cooling by injecting a liquid in the gas to be
+   39/064   . . {Cooling by a cooling jacket in the pump casing}
+   39/066   . . {Cooling by ventilation}
+   39/068   . . {prevention of freezing}
+   39/08    . Actuation of distribution members
+   39/10    . Adaptations or arrangements of distribution
+   39/1006  . . {the members being ball valves}
+   39/1013  . . {the members being of the poppet valve type}
+   39/102   . . {the members being disc valves}
+   39/1026  . . . {without spring (F04B 39/1033 takes
+   39/1033  . . . {annular disc valves}
+   39/104   . . {the members being parallel flexible strips}
+   39/1046  . . {Combination of in- and outlet valve}
+   39/1053  . . {the members being Hoerbigen valves}
+   39/106   . . {the members being parallel non-flexible strips}
+   39/1073  . . {the members being reed valves}
+   39/108   . . . {circular reed valves}
+   39/1086  . . . {flat annular reed valves}
+   39/1093  . . {the members being low-resistance valves
+   39/12    . Casings; Cylinders; Cylinder heads; Fluid
+   39/122   . . {Cylinder block}
+   39/123   . . {Fluid connections}
+   39/125   . . {Cylinder heads}
+   39/126   . . {Cylinder liners}
+   39/127   . . {Mounting of a cylinder block in a casing}
+   39/14    . Provisions for readily assembling or disassembling
+   39/16    . Filtration; Moisture separation
+   41/00    Pumping installations or systems specially adapted
+for elastic fluids (free-piston pumps specially adapted
+for elastic fluids or systems incorporating such pumps
+F04B 31/00; piston pumps specially adapted for
+elastic fluids and characterised by the driving means
+to their working members, or by combination with, or
+adaptation to, specific driving engines or motors, not
+otherwise provided for F04B 35/00)
+   41/02    . having reservoirs
+   41/04    . Conversion of internal-combustion engine cylinder
+   41/06    . Combinations of two or more pumps
+Machines or pumps having flexible working members
+   43/00    Machines, pumps, or pumping installations having
+flexible working members (pumps or pumping
+installations specially adapted for elastic fluids
+   43/0009  . {Special features}
+   43/0018  . . {the periphery of the flexible member being not
+fixed to the pump-casing, but acting as a valve}
+   43/0027  . . {without valves}
+7Machines or pumps having flexible working members
+   43/0036  . . {the flexible member being formed as an O-ring}
+   43/0045  . . {with a number of independent working
+chambers which are actuated successively by one
+   43/0054  . . {particularities of the flexible members}
+   43/0063  . . . {bell-shaped flexible members}
+   43/0072  . . . {of tubular flexible members}
+   43/0081  . . {systems, control, safety measures}
+   43/009   . . . {leakage control; pump systems with two
+flexible members; between the actuating
+   43/02    . having plate-like flexible members, e.g. diaphragms
+   43/021   . . {the plate-like flexible member is pressed against
+a wall by a number of elements, each having an
+alternating movement in a direction perpendicular
+to the plane of the plate-like flexible member and
+each having its own driving mechanism}
+   43/023   . . {double acting plate-like flexible member}
+   43/025   . . {two or more plate-like pumping members in
+   43/026   . . . {each plate-like pumping flexible member
+working in its own pumping chamber}
+   43/028   . . {with in- or outlet valve arranged in the plate-
+like flexible member (valve arranged in the piston
+   43/04    . . Pumps having electric drive
+   43/046   . . . . {with piezo-electric drive}
+   43/06    . . Pumps having fluid drive
+   43/067   . . . the fluid being actuated directly by a piston
+   43/073   . . . the actuating fluid being controlled by at least
+   43/0733  . . . . {with fluid-actuated pump inlet or outlet
+valves; with two or more pumping chambers
+   43/0736  . . . . {with two or more pumping chambers in
+   43/08    . having tubular flexible members (F04B 43/12 takes
+   43/082   . . {the tubular flexible member being pressed
+against a wall by a number of elements, each
+having an alternating movement in a direction
+perpendicular to the axes of the tubular member
+and each having its own driving mechanism}
+   43/084   . . {the tubular member being deformed by
+   43/086   . . {with two or more tubular flexible members in
+parallel (F04B 43/1136 takes precedence)}
+   43/088   . . {with two or more tubular flexible members in
+series (F04B 43/1133 takes precedence)}
+   43/09    . . Pumps having electric drive
+   43/095   . . . {Piezo-electric drive}
+   43/10    . . Pumps having fluid drive
+   43/107   . . . the fluid being actuated directly by a piston
+   43/113   . . . the actuating fluid being controlled by at least
+   43/1133  . . . . {with fluid-actuated pump inlet or outlet
+valves; with two or more pumping chambers
+   43/1136  . . . . {with two or more pumping chambers in
+   43/12    . having peristaltic action
+   43/1207  . . {the actuating element being a swash plate}
+   43/1215  . . {having no backing plate (deforming of the tube
+   43/1223  . . {the actuating elements, e.g. rollers, moving in a
+straight line during squeezing}
+   43/123   . . {using an excenter as the squeezing element}
+   43/1238  . . {using only one roller as the squeezing element,
+the roller moving on an arc of a circle during
+   43/1246  . . . {the roller being placed at the outside of the
+   43/1253  . . {by using two or more rollers as squeezing
+elements, the rollers moving on an arc of a circle
+   43/1261  . . . {the rollers being placed at the outside of the
+   43/1269  . . . {the rotary axes of the rollers lying in a plane
+perpendicular to the rotary axis of the driving
+   43/1276  . . . {Means for pushing the rollers against the
+   43/1284  . . . {Means for pushing the backing-plate against
+   43/1292  . . . {Pumps specially adapted for several tubular
+   43/14    . . having plate-like flexible members
+   45/00    Pumps or pumping installations having flexible
+working members and specially adapted for elastic
+   45/022   . . {with two or more bellows in parallel}
+   45/024   . . {with two or more bellows in series}
+   45/027   . . having electric drive
+   45/033   . . having fluid drive
+   45/0333  . . . {the fluid being actuated directly by a piston}
+   45/0336  . . . {the actuating fluid being controlled by one or
+   45/04    . having plate-like flexible members, e.g. diaphragms
+   45/041   . . {double acting plate-like flexible pumping
+   45/043   . . {two or more plate-like pumping flexible
+   45/045   . . {with in- or outlet valve arranged in the plate-like
+   45/047   . . Pumps having electric drive
+   45/053   . . Pumps having fluid drive
+   45/0533  . . . {the fluid being actuated directly by a piston}
+   45/0536  . . . {the actuating fluid being controlled by one or
+   45/06    . having tubular flexible members (F04B 45/02,
+   45/061   . . {with fluid drive}
+   45/062   . . . {the fluid being actuated directly by a piston}
+   45/064   . . . {the actuating fluid being controlled by one or
+   45/065   . . {with electric drive}
+   45/067   . . Pumps having electric drive
+   45/073   . . Pumps having fluid drive
+   45/0733  . . . {the fluid being actuated directly by a piston}
+   45/0736  . . . {the actuating fluid being controlled by one or
+   45/08    . having peristaltic action
+   45/085   . . {the actuating element being a swash plate}
+8Machines or pumps having flexible working members
+   45/10    . . having plate-like flexible members
+   47/00    Pumps or pumping installations specially adapted
+for raising fluids from great depths, e.g. well
+pumps (by using positive or negative pressurised
+fluid medium acting directly on the liquid to be
+   47/005   . {Sand trap arrangements}
+   47/02    . the driving mechanisms being situated at ground
+level (F04B 47/12 takes precedence)
+   47/022   . . {driving of the walking beam}
+   47/024   . . {actuated by muscle power}
+   47/026   . . {Pull rods, full rod component parts}
+   47/028   . . {details of the walking beam}
+   47/04    . . the driving means incorporating fluid means
+   47/06    . having motor-pump units situated at great depth
+   47/08    . . the motors being actuated by fluid
+   47/10    . . . the units or parts thereof being liftable to
+   47/12    . having free plunger lifting the fluid to the surface
+   47/145   . . {with fluid means}
+   49/00    Control {, e.g. of pump delivery, or pump
+pressure} of, or safety measures for, machines,
+pumps, or pumping installations, not otherwise
+provided for, or of interest apart from, groups
+The classification symbols in group F04B 49/00
+and subgroups can be followed by additional
+symbols preceded by the sign "+". The symbols
+are applied in subgroups F04B 49/06, F04B 49/08,
+F04B 49/16 and F04B 49/225. The symbols have
++C  specially adapted for pumps
++P  specially adapted for pumps
+   49/002   . {Hydraulic systems to change the pump delivery}
+   49/005   . {changing the phase relationship of two working
+pistons in one working chamber or the phase-
+relationship of a piston and a driven distribution
+   49/007   . {Installations or systems with two or more pumps or
+pump cylinders, wherein the flow-path through the
+stages can be changed, e.g. from series to parallel
+(centrifugal pumps F04D 15/0072)}
+   49/02    . Stopping, starting, unloading or idling control
+   49/022   . . {by means of pressure}
+   49/025   . . by means of floats
+   49/03    . . by means of valves
+   49/04    . Regulating by means of floats (F04B 49/025 takes
+   49/06    . Control using electricity (regulating by means of
+floats actuating electric switches F04B 49/04)
+   49/065   . . {and making use of computers}
+   49/08    . Regulating by delivery pressure
+   49/10    . Other safety measures
+   49/103   . . {Responsive to speed}
+   49/106   . . {Responsive to pumped volume}
+   49/12    . by varying the length of stroke of the working
+   49/121   . . {Lost-motion device in the driving mechanism}
+   49/123   . . {by changing the eccentricity of one element
+   49/125   . . . {by changing the eccentricity of the actuation
+means, e.g. cams or cranks, relative to the
+driving means, e.g. driving shafts (F04B 49/128
+   49/126   . . . . {with a double eccenter mechanism}
+   49/128   . . . {by changing the eccentricity of the cylinders,
+e.g. by moving a cylinder block}
+   49/14    . . Adjusting abutments located in the path of
+   49/16    . by adjusting the capacity of dead spaces of working
+   49/18    . by changing the effective cross-section of the
+   49/20    . by changing the driving speed
+   49/22    . by means of valves (F04B 49/03 takes precedence)
+   49/225   . . {with throttling valves or valves varying the
+pump inlet opening or the outlet opening}
+   49/243   . . . {by keeping open the inlet valve}
+   49/246   . . . {by keeping open the outlet valve}
+   51/00    Testing machines, pumps, or pumping installations
+   53/00    Component parts, details or accessories not
+provided for in, or of interest apart from, groups
+F04B 1/00 - F04B 23/00 or F04B 39/00 - F04B 47/00
+   53/002   . . {by encapsulation}
+   53/003   . . {by damping supports}
+   53/004   . . {by mechanical resonators}
+   53/005   . {Adaptations or arrangements of valves used as foot
+valves, of suction strainers, or of mud-boxes}
+   53/008   . {Spacing or clearance between cylinder and piston}
+   53/02    . Packing the free space between cylinders and
+   53/08    . Cooling; Heating; Preventing freezing
+   53/10    . Valves; Arrangement of valves
+   53/1005  . . . {being formed by two closure members
+   53/1007  . . . {having means for guiding the closure
+   53/101   . . . {having means for limiting the opening height}
+   53/1012  . . . . {and means for controlling the opening
+   53/1015  . . . {Combinations of ball valves working in
+   53/1017  . . . {Semi-spherical ball valves}
+   53/1022  . . . {having means for guiding the closure member
+   53/1025  . . . . {the guiding means being provided within
+9Machines or pumps having flexible working members
+   53/1027  . . . . {the guiding means being provided at both
+   53/103   . . . {Flat-annular type disc valves}
+   53/1032  . . . {Spring-actuated disc valves (F04B 53/1022,
+   53/1035  . . . {with means for limiting the opening height}
+   53/104   . . . {the closure member being a rigid element
+oscillating around a fixed point}
+   53/1042  . . . . {by means of a flexible connection}
+   53/1045  . . . . {the valve being formed by two elements}
+   53/1047  . . . {the valve being formed by one or more
+   53/105   . . . . {one flexible element oscillating around a
+   53/1052  . . . . {two flexible elements oscillating around a
+   53/1055  . . . . {more than two flexible elements oscillating
+   53/1057  . . . . {the valve being a tube, e.g. normally closed
+   53/106   . . . . {the valve being a membrane}
+   53/1062  . . . . . {fixed at two or more points at its
+   53/1065  . . . . . {fixed at its centre}
+   53/1067  . . . . . {fixed at its whole periphery and with an
+   53/107   . . . . . . {the opening normally being closed by a
+   53/1072  . . {the valve being an elastic body, the length
+thereof changing in the opening direction}
+   53/1075  . . {the valve being a flexible annular ring}
+   53/1077  . . {Flow resistance valves, e.g. without moving
+   53/108   . . {Valves characterised by the material}
+   53/1085  . . {having means for limiting the opening
+height (F04B 53/101 and F04B 53/1035 take
+   53/109   . . {inlet and outlet valve forming one unit}
+   53/1092  . . . {and one single element forming both the inlet
+   53/1095  . . {Valves linked to another valve of another
+   53/1097  . . {with means for lifting the closure member for
+   53/12    . . arranged in or on pistons
+   53/121   . . . {the valve being an annular ring surrounding
+   53/122   . . . {the piston being free-floating, e.g. the valve
+being formed between the actuating rod and the
+   53/123   . . . {Flexible valves}
+   53/124   . . . {Oscillating valves}
+   53/125   . . . {Reciprocating valves}
+   53/126   . . . . {Ball valves}
+   53/127   . . . . {Disc valves}
+   53/128   . . . . . {Annular disc valves}
+   53/129   . . . . {Poppet valves}
+   53/14    . Pistons, piston-rods or piston-rod connections
+   53/141   . . {Intermediate liquid piston between the driving
+piston and the pumped liquid (F04B 43/06 and
+   53/142   . . {Intermediate liquid-piston between a driving
+piston and a driven piston (F04B 9/10,
+F04B 43/06, F04B 43/10 and F04B 53/141 take
+   53/143   . . {Sealing provided on the piston}
+   53/144   . . {Adaptation of piston-rods}
+   53/145   . . . {Rod shock absorber}
+   53/146   . . . {Piston-rod guiding arrangements}
+   53/147   . . . {Mounting or detaching of piston rod}
+   53/148   . . {the piston being provided with channels which
+are coacting with the cylinder and are used as a
+distribution member for another piston-cylinder
+   53/16    . Casings; Cylinders; Cylinder liners or heads; Fluid
+   53/162   . . {Adaptations of cylinders}
+   53/164   . . . {Stoffing boxes}
+   53/166   . . . {Cylinder liners}
+   53/168   . . . . {Mounting of cylinder liners in cylinders}
+   53/22    . Arrangements for enabling ready assembly or
+ 2201/02    . Piston parameters
+ 2201/0201  . . Position of the piston
+ 2201/02011 . . . Angular position of a piston rotating around its
+ 2201/0202  . . Linear speed of the piston
+ 2201/0203  . . Acceleration of the piston
+ 2201/0204  . . Power on the piston
+ 2201/0205  . . Piston ring wear
+ 2201/0206  . . Length of piston stroke
+ 2201/0207  . . Number of pumping strokes in unit time
+ 2201/02071 . . . Total number of pumping strokes
+ 2201/0208  . . Leakage across the piston
+ 2201/0209  . . Duration of piston stroke
+ 2201/021   . . Rotational speed of a piston rotating around its
+ 2201/04    . Carter parameters
+ 2201/0401  . . Carter pressure
+ 2201/0402  . . Lubricating oil temperature
+ 2201/0403  . . Carter housing temperature
+ 2201/0404  . . Lubricating oil condition
+ 2201/0406  . . Pressure change across an oil filter
+ 2201/06011 . . . of the inlet valve only
+ 2201/06012 . . . of the outlet valve only
+ 2201/0602  . . Valve acceleration
+ 2201/0605  . . Leakage over a valve
+ 2201/0606  . . Opening width or height
+ 2201/06061 . . . of the inlet valve
+ 2201/06062 . . . of the outlet valve
+ 2201/08    . Cylinder or housing parameters
+ 2201/0805  . . Rotational speed of a rotating cylinder block
+ 2201/0806  . . Resonant frequency
+ 2201/0807  . . Number of working cylinders
+ 2201/0808  . . Size of the dead volume
+ 2201/12    . Parameters of driving or driven means
+ 2201/1201  . . Rotational speed of the axis
+ 2201/1202  . . Torque on the axis
+ 2201/1203  . . Power on the axis
+ 2201/1204  . . Position of a rotating inclined plate
+ 2201/12041 . . . Angular position
+ 2201/1205  . . Position of a non-rotating inclined plate
+ 2201/12051 . . . Angular position
+ 2201/1206  . . Rotational speed of a rotating inclined plate
+ 2201/1207  . . Wear of the bearings
+ 2201/1208  . . Angular position of the shaft
+ 2201/1209  . . Radial force on the bearings
+ 2201/121   . . Load on the sucker rod
+ 2201/1211  . . Position of the walking beam
+ 2201/1212  . . Oil pressure in the bearings
+ 2201/1213  . . Eccentricity of an outer annular cam
+ 2201/124   . . Coupling parameters
+ 2201/127   . . Braking parameters
+ 2203/02    . of rotating electric motors
+ 2203/0204  . . Frequency of the electric current
+ 2203/0209  . . Rotational speed
+ 2203/021   . . Lubricating-oil temperature
+ 2203/0212  . . Amplitude of the electric current
+ 2203/0213  . . Pulses per unit of time (pulse motor)
+ 2203/0214  . . Number of working motor-pump units
+ 2203/04    . of linear electric motors
+ 2203/0404  . . Frequency of the electric current
+ 2203/041   . . Lubricating-oil temperature
+ 2203/06    . of internal combustion engines
+ 2203/0605  . . Rotational speed
+ 2203/0606  . . Lubricating-oil temperature
+ 2203/0607  . . Fuel consumption
+ 2203/06071 . . . position of the carburettor valve
+ 2203/09    . of linear hydraulic motors
+ 2203/0901  . . Opening time of the valves
+ 2203/0902  . . Liquid pressure in a working chamber
+ 2203/0903  . . Position of the driving piston
+ 2203/091   . . . Opening time of the valves
+ 2203/10    . of linear elastic fluid motors
+ 2203/1001  . . Opening time of the valves
+ 2203/1101  . . Rotational speed of the turbine
+ 2203/1102  . . Flow rate of the driving fluid
+ 2203/1103  . . Rotation sense of the turbine
+ 2203/12    . of rotating hydraulic motors
+ 2203/1201  . . Rotational speed
+ 2203/1202  . . Pressure at the motor inlet
+ 2205/01    . Pressure before the pump inlet
+ 2205/02    . Pressure in the inlet chamber
+ 2205/03    . Pressure in the compression chamber
+ 2205/04    . Pressure in the outlet chamber
+ 2205/05    . Pressure after the pump outlet
+ 2205/06    . Pressure in a (hydraulic) circuit
+ 2205/061   . . after a throttle
+ 2205/062   . . before a throttle
+ 2205/063   . . in a reservoir linked to the pump outlet
+ 2205/064   . . in a reservoir linked to the pump inlet
+ 2205/065   . . between two stages in a multi-stage pump
+ 2205/07    . Pressure difference over the pump
+ 2205/08    . Pressure difference over a throttle
+ 2205/0801  . . the throttle being a filter
+ 2205/09    . Flow through the pump
+ 2205/10    . Inlet temperature
+ 2205/11    . Outlet temperature
+ 2205/111   . . after a throttle
+ 2205/112   . . between two stages in a multi-stage pump
+ 2205/12    . Pressure pulsations before the pump
+ 2205/13    . Pressure pulsations after the pump
+ 2205/15    . By-passing over the pump
+ 2205/151   . . Opening width of a bypass valve
+ 2205/16    . Opening or closing of a valve in a circuit
+ 2205/17    . Opening width of a throttling device
+ 2205/171   . . before the pump inlet
+ 2205/172   . . after the pump outlet
+ 2205/18    . Pressure in a control cylinder/piston unit
+ 2205/50    . Presence of foreign matter in the fluid
+ 2205/501   . . of solid particles
+ 2205/503   . . of gas in a liquid flow, e.g. gas bubbles
+ 2207/00    External parameters
+ 2207/02    . External pressure
+ 2207/03    . External temperature
+ 2207/044   . . of the rotational speed of the driving motor
+ 2207/045   . . of the resonant frequency of the unit motor-pump
+ 2207/046   . . of length of piston stroke
+ 2207/047   . . of the nominal power of the driving motor
+ 2207/048   . . of a reference voltage of the driving motor

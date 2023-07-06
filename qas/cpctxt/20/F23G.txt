@@ -1,0 +1,261 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+COMBUSTION APPARATUS; COMBUSTION PROCESSES
+CREMATION FURNACES; CONSUMING WASTE PRODUCTS BY COMBUSTION
+This subclass covers also the burning of low-grade fuel of solid, liquid, or gaseous nature.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Furnaces for cremation of human or animal
+    5/00    Incineration of waste (of specific waste F23G 7/00);
+Incinerator constructions; Details, accessories or
+    5/002   . {characterised by their grates (F23G 5/05 takes
+    5/004   . . {with endless travelling grates}
+    5/006   . {General arrangement of incineration plant, e.g.
+    5/008   . {adapted for burning two or more kinds, e.g. liquid
+and solid, of waste being fed through separate
+    5/02    . with pretreatment
+    5/027   . . pyrolising or gasifying stage (pyrolisation of
+sludge C02F 11/00; destructive distillation of
+carbonaceous materials C10B 53/00)
+    5/0273  . . . {using indirect heating}
+    5/0276  . . . {using direct heating}
+    5/033   . . comminuting or crushing
+    5/05    . . . using drying grates
+    5/08    . having supplementary heating
+    5/085   . . {High-temperature heating means, e.g. plasma,
+    5/12    . . using gaseous or liquid fuel (F23G 5/14 takes
+    5/14    . . including secondary combustion
+    5/16    . . . in a separate combustion chamber
+    5/165   . . . . {arranged at a different level}
+    5/20    . having rotating or oscillating drums
+    5/22    . . the drums being conically shaped
+    5/24    . having a vertical, substantially cylindrical,
+    5/245   . . {with perforated bottom or grate}
+    5/26    . . having rotating bottom
+    5/28    . . having raking arms
+    5/30    . having a fluidised bed
+    5/32    . the waste being subjected to a whirling movement,
+    5/34    . the waste being burnt in a pit or arranged in a heap
+    5/36    . having a conical combustion chamber, e.g. "teepee"
+incinerators (F23G 5/22 takes precedence)
+    5/38    . Multi-hearth arrangements
+    5/40    . Portable or mobile incinerators
+    5/42    . . of the basket type
+    5/44    . Details; Accessories
+    5/442   . . {Waste feed arrangements}
+    5/444   . . . {for solid waste (F23G 5/448 takes
+    5/446   . . . {for liquid waste (F23G 5/448 takes
+    5/448   . . . {in which the waste is fed in containers or the
+    5/46    . . Recuperation of heat
+    5/48    . . Preventing corrosion
+    5/50    . Control or safety arrangements
+    7/00    Incinerators or other apparatus for consuming
+industrial waste, e.g. chemicals (incinerator closets
+A47K 11/02; oxidation of sludge C02F 11/06;
+burners in general, burner details F23D; incinerating
+    7/001   . {for sludges or waste products from water treatment
+installations (F23G 5/008 takes precedence)}
+    7/003   . {for used articles}
+    7/005   . . {cars, vehicles}
+    7/006   . . {wires, cables (production and refining of metals
+C22B, e.g. from scrap to produce non-ferrous
+metals C22B 7/00; salvaging material from cables
+    7/008   . {for liquid waste (waste oil F23G 7/05, waste
+liquors F23G 7/04, sludges F23G 7/001)}
+    7/02    . of bagasse, megasse or the like
+    7/04    . of waste liquors, e.g. sulfite liquors
+    7/06    . of waste gases or noxious gases, e.g. exhaust gases
+(exhaust apparatus for engines with means for
+rendering the exhaust innocuous, e.g. by thermal
+or catalytic conversion, F01N 3/08; combustion of
+uncombusted material from primary combustion
+within apparatus for combustion of solid or fluent
+fuel F23B, {of non combusted material from
+primary combustion of solid fuels F23B 5/00; of
+gases produced by primary combustion of solid
+    7/061   . . {with supplementary heating}
+    7/063   . . . {electric heating}
+    7/065   . . . {using gaseous or liquid fuel}
+    7/066   . . . . {preheating the waste gas by the heat of
+the combustion, e.g. recuperation type
+    7/068   . . . . . {using regenerative heat recovery means}
+    7/07    . . in which combustion takes place in the presence
+    7/08    . . using flares, e.g. in stacks
+    7/10    . of field or garden waste {or biomasses}
+    7/105   . . {of wood waste}
+    7/12    . of plastics, e.g. rubber
+    7/14    . of contaminated soil, e.g. by oil
+ 2201/101   . . using indirect heat transfer
+ 2201/20    . Dewatering by mechanical means
+ 2201/301   . . Treating pyrogases
+ 2201/302   . . Treating pyrosolids
+ 2201/303   . . Burning pyrogases
+ 2201/304   . . Burning pyrosolids
+ 2201/50    . Devolatilising; from soil, objects
+ 2201/601   . . different calorific values
+ 2201/602   . . different sizes
+ 2201/603   . . recyclable material
+ 2201/702   . . with other waste
+ 2202/10    . in two or more stages
+ 2202/101   . . with controlled oxidant supply
+ 2202/102   . . with supplementary heating
+ 2202/103   . . in separate chambers
+ 2202/104   . . with ash melting stage
+ 2202/105   . . with waste supply in stages
+ 2202/106   . . with recirculation of unburned solid or gaseous
+ 2202/20    . to temperatures melting waste
+ 2202/30    . in a pressurised chamber
+ 2202/40    . in a pulsed combustion chamber
+ 2202/50    . in a matrix bed combustion chamber
+ 2202/60    . in a catalytic combustion chamber
+ 2202/70    . with application of specific energy
+ 2202/701   . . Electrical fields
+ 2202/703   . . Acoustic energy
+ 2203/00    Furnace arrangements
+ 2203/10    . Stoker grate furnace
+ 2203/101   . with stepped or inclined grate
+ 2203/103   . with roller grate
+ 2203/105   . with endless chain or travelling grate
+ 2203/107   . with vibrating grate
+ 2203/20    . Rotary drum furnace
+ 2203/201   . . using oscillating movement
+ 2203/202   . . rotating around substantially vertical axis
+ 2203/203   . . with conically shaped drum
+ 2203/204   . . having non-circular inner cross-section
+ 2203/205   . . with water-cooled wall
+ 2203/206   . . with charging ports in the sidewall
+ 2203/207   . . with air supply ports in the sidewall
+ 2203/208   . . with interior agitating members
+ 2203/209   . . with variable inclination of rotation axis
+ 2203/21    . . with variable speed of rotation
+ 2203/211   . . Arrangement of a plurality of drums
+ 2203/212   . . Sealing arrangements between rotary and
+ 2203/30    . Cyclonic combustion furnace
+ 2203/40    . Stationary bed furnace
+ 2203/401   . . with support for a grate or perforated plate
+ 2203/403   . . with substantial cylindrical combustion chamber
+ 2203/50    . Fluidised bed furnace
+ 2203/501   . . with external recirculation of entrained bed
+ 2203/502   . . with recirculation of bed material inside
+ 2203/503   . . with two or more fluidised beds
+ 2203/504   . . with essentially horizontal flow of bed material
+ 2203/505   . . with fluidised bed rotated as a whole
+ 2203/601   . . carried by a vehicle
+ 2203/80    . Furnaces with other means for moving the waste
+ 2203/801   . . using conveyors
+ 2203/8013  . . . Screw conveyors
+ 2203/8016  . . . Belt conveyors
+ 2203/803   . . Rams or pushers
+ 2203/805   . . using a rotating hearth
+ 2204/00    Supplementary heating arrangements
+ 2204/10    . using auxiliary fuel
+ 2204/103   . . gaseous or liquid fuel
+ 2204/20    . using electric energy
+ 2205/00    Waste feed arrangements
+ 2205/10    . using ram or pusher
+ 2205/101   . . sequentially operated
+ 2205/123   . . Roller conveyor
+ 2205/125   . . Vibrating conveyor
+ 2205/14    . using hopper or bin
+ 2205/18    . using airlock systems
+ 2205/20    . using airblast or pneumatic feeding
+ 2206/00    Waste heat recuperation
+ 2206/10    . reintroducing the heat in the same process, e.g. for
+ 2206/20    . using the heat in association with another
+ 2206/201   . . with an industrial furnace
+ 2206/202   . . with an internal combustion engine
+ 2206/203   . . with a power/heat generating installation
+ 2207/10    . Arrangement of sensing devices
+ 2207/101   . . for temperature
+ 2207/1015  . . . Heat pattern monitoring of flames
+ 2207/107   . . for halogen concentration
+ 2207/108   . . for hydrocarbon concentration
+ 2207/112   . . for waste supply flowrate
+ 2207/113   . . for oxidant supply flowrate
+ 2207/114   . . for combustion bed level
+ 2207/40    . Supplementary heat supply
+ 2207/50    . Cooling fluid supply
+ 2208/10    . Preventing or abating fire or explosion, e.g. by
+ 2209/103   . . Bagasse, megasse
+ 2209/12    . Sludge, slurries or mixtures of liquids
+ 2209/14    . Gaseous waste or fumes
+ 2209/141   . . Explosive gases
+ 2209/142   . . Halogen gases, e.g. silane
+ 2209/16    . Warfare materials, e.g. ammunition
+ 2209/18    . Radioactive materials
+ 2209/20    . Medical materials
+ 2209/24    . Contaminated soil; foundry sand
+ 2209/262   . . Agricultural waste
+ 2209/28    . Plastics or rubber like materials
+ 2209/30    . Solid combustion residues, e.g. bottom or flyash
+ 2900/00    Special features of, or arrangements for
+ 2900/00001 . Exhaust gas recirculation (using the heat thereof
+ 2900/50001 . Combination of two or more furnaces
+ 2900/50002 . Burning with downwards directed draft through the
+ 2900/50003 . Waste oxidation, pyrolysis or gasification in water
+ 2900/50004 . Furnace with inclined hearth
+ 2900/50005 . Waste in combustion chamber supported on bed
+ 2900/50006 . Combustion chamber walls reflecting radiant energy
+ 2900/50007 . Co-combustion of two or more kinds of waste,
+separately fed into the furnace
+ 2900/50008 . Combustion of waste suspended or lifted by upward
+ 2900/50009 . Furnace with progressive waste movements in
+vertical or steeply inclined direction
+ 2900/50201 . Waste pyrolysis, gasification or cracking by indirect
+ 2900/50202 . Waste pyrolysis, gasification or cracking in
+ 2900/50203 . Waste pyrolysis, gasification or cracking in a
+mechanically fluidised bed, e.g. obtained by a
+ 2900/50204 . Waste pre-treatment by pyrolysis, gasification or
+ 2900/50205 . Waste pre-treatment by pyrolysis, gasification or
+cracking followed by condensation of gas into
+ 2900/50206 . Pelletising waste before combustion
+ 2900/50207 . Thermoforming of plastic waste materials before
+ 2900/50208 . Biologic treatment before burning, e.g. biogas
+ 2900/50209 . Compacting waste before burning
+ 2900/50211 . Evaporating, e.g. liquid waste before burning
+ 2900/50212 . Extruding waste before combustion
+ 2900/50213 . Preheating processes other than drying or pyrolysis
+ 2900/50214 . Separating non combustible matters
+ 2900/50401 . Drying waste by mixing with drying chemicals, e.g.
+ 2900/508   . Providing additional energy for combustion, e.g. by
+ 2900/50801 . . using the heat from externally heated bodies, e.g.
+ 2900/50802 . . using solid propellant
+ 2900/50803 . . using solar energy
+ 2900/50804 . . using thermit or other compositions of metal
+ 2900/51001 . . using arc discharge electrodes to provide heat
+ 2900/52001 . Rotary drums with co-current flows of waste and
+ 2900/52002 . Rotary drum furnaces with counter-current flows of
+ 2900/52003 . Rotary drum furnaces with foramenous drum walls,
+ 2900/53801 . Multi-hearth furnaces with vertical axis
+ 2900/54001 . Hearths or supports movable into and from the
+ 2900/54401 . Feeding waste in containers, bags or barrels
+ 2900/54402 . Injecting fluid waste into incinerator
+ 2900/54601 . using waste heat for desalinating sea water
+ 2900/55    . Controlling; Monitoring or measuring
+ 2900/55001 . . Controlling combustion air preheating
+ 2900/55002 . . Sensing exhaust gas opacity
+ 2900/55003 . . Sensing for exhaust gas properties, e.g. O2 content
+ 2900/55004 . . Sensing exhaust gas radioactivity
+ 2900/55005 . . Sensing ash or slag properties
+ 2900/55006 . . Measuring material flow rates
+ 2900/55007 . . Sensors arranged in waste loading zone, e.g. feed
+ 2900/55008 . . Measuring produced steam flow rate
+ 2900/55009 . . Controlling stoker grate speed or vibrations for
+ 2900/55011 . . Detecting the properties of waste to be
+incinerated, e.g. heating value, density
+ 2900/70    . Incinerating particular products or waste
+ 2900/7001  . . Air bags or seat belt pre-tensioners
+ 2900/7002  . . Animal fat, e.g. lard, tallow, stearin
+ 2900/7003  . . Incinerating litter from animals, e.g. poultry litter
+ 2900/7004  . . Incinerating contaminated animal meals
+ 2900/7005  . . Incinerating used asbestos
+ 2900/7006  . . Incinerating used automobiles
+ 2900/7007  . . Incinerating or pyrolysing used batteries
+ 2900/7008  . . Incinerating remains of building materials after
+demolishing, e.g. fibreglass asphalt shingles
+ 2900/7009  . . Incinerating human or animal corpses or remains
+ 2900/7011  . . Incinerating PCB-materials
+ 2900/7012  . . Incinerating rice or grain husks, hulls or bran
+ 2900/7013  . . Incinerating oil shales
+ 2900/70401 . . Incinerating drainage water from waste pits of
+ 2900/70601 . Temporary storage means, e.g. buffers for
+accumulating fumes or gases, between treatment

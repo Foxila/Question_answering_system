@@ -1,0 +1,487 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+ELEVATORS; ESCALATORS OR MOVING WALKWAYS ({apparatus for raising or
+lowering persons on theatrical stages or the like A63J 5/12} ; funicular railbound systems with
+rigid ground-supported tracks and cable traction, e.g. cliff railways, B61B 9/00; arrangements of
+ammunition handlers in vessels B63G 3/00; hoists, lifts, or conveyors for loading or unloading
+in general B65G; braking or detent devices controlling normal movements of winding drums or
+barrels B66D; ship-lifting devices E02C; garages for many vehicles with mechanical means for
+lifting vehicles E04H 6/12; hoists for feeding ammunition or projectiles to launching apparatus
+or to loading mechanisms F41A 9/00)
+In this subclass, the following term is used with the meaning indicated:
+• "elevator" covers the term "lift", and the two terms are interchangeable
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Control systems of elevators in general (safety
+devices B66B 5/00; controlling door or gate operation
+B66B 13/00; systems of general application G05)
+    1/02    . Control systems without regulation, i.e. without
+    1/08    . . . with devices, e.g. handles or levers, in the cars
+or cages for direct control of movements
+    1/10    . . . . specially adapted for mining hoists
+    1/12    . . . with devices, e.g. handles or levers, located at
+a control station for direct control movements,
+e.g. electric mining-hoist control systems
+    1/14    . . . with devices, e.g. push-buttons, for indirect
+    1/16    . . . . with means for storing pulses controlling
+the movements of a single car or cage
+{(B66B 1/2433 takes precedence)}
+    1/18    . . . . with means for storing pulses controlling
+the movements of several cars or cages
+{(B66B 1/2458 takes precedence)}
+    1/20    . . . . . and for varying the manner of operation to
+suit particular traffic conditions, e.g. "one-
+way rush-hour traffic" {(B66B 1/2466
+    1/22    . . . . with means for taking account of delayed
+    1/24    . Control systems with regulation, i.e. with
+retroactive action, for influencing travelling speed,
+    1/2408  . . {where the allocation of a call to an elevator car
+is of importance, i.e. by means of a supervisory or
+    1/2416  . . . {For single car elevator systems}
+    1/2433  . . . {For elevator systems with a single shaft and
+    1/2458  . . . {For elevator systems with multiple shafts and
+    1/2466  . . . {For elevator systems with multiple shafts and
+    1/2491  . . . {For elevator systems with lateral transfers of
+cars or cabins between hoistways}
+    1/28    . . electrical (detecting excessive speed B66B 5/04 {;
+control of electrical motor H02P})
+    1/285   . . . {with the use of a speed pattern generator}
+    1/30    . . . effective on driving gear {, e.g. acting on
+power electronics, on inverter or rectifier
+    1/302   . . . . {for energy saving}
+    1/304   . . . . {with starting torque control}
+    1/306   . . . . {with DC powered elevator drive}
+    1/308   . . . . {with AC powered elevator drive}
+    1/32    . . . effective on braking devices {, e.g. acting on
+electrically controlled brakes (brake control
+H02P, lift brakes per se B66B 5/02)}
+    1/34    . Details {, e.g. call counting devices, data
+transmission from car to control system, devices
+giving information to the control system}
+    1/3407  . . {Setting or modification of parameters of the
+    1/3415  . . {Control system configuration and the data
+transmission or communication within the control
+    1/3423  . . . {Control system configuration, i.e. lay-out}
+    1/343   . . . . {Fault-tolerant or redundant control system
+    1/3438  . . . . {Master-slave control system configuration}
+    1/3446  . . . {Data transmission or communication within
+    1/3453  . . . . {Procedure or protocol for the data
+    1/3461  . . . . {between the elevator control system and
+    1/3476  . . {Load weighing or car passenger counting
+devices (B66B 5/14 takes precedence)}
+    1/3484  . . . {using load cells}
+    1/3492  . . {Position or motion detectors or driving means
+for the detector (B66B 1/40, B66B 1/50 take
+precedence; length measuring G01B; speed
+    1/36    . . Means for stopping the cars, cages, or skips at
+    1/38    . . . and for returning the controlling handle or lever
+    1/40    . . . and for correct levelling at landings
+    1/405   . . . . {for hydraulically actuated elevators}
+    1/42    . . . . separate from the main drive
+    1/425   . . . . . {adapted for multi-deck cars in a single car
+    1/44    . . . and for taking account of disturbance factors,
+    1/46    . . Adaptations of switches or switchgear (switches
+or switchgear in general, applications of switches
+or switchgear for floor-levelling purpose H01H;
+panels for boards or switching arrangements
+    1/461   . . . {characterised by their shape or profile}
+    1/462   . . . . {Mechanical or piezoelectric input devices}
+    1/463   . . . . {Touch sensitive input devices}
+    1/465   . . . . {being resistant to damage}
+    1/466   . . . . {facilitating maintenance, installation,
+removal, replacement or repair}
+    1/467   . . . {characterised by their mounting position}
+    1/468   . . . {Call registering systems}
+    1/48    . . . Adaptations of mechanically-operated limit
+switches (for cranes B66C 13/50; for winding
+    1/50    . . . with operating or control mechanisms mounted
+in the car or cage or in the lift well or hoistway
+    1/52    . . . Floor selectors
+    3/00    Applications of devices for indicating or signalling
+operating conditions of elevators
+    3/004   . . {Mechanical devices that can be illuminated}
+    3/006   . . {for guiding passengers to their assigned elevator
+    3/008   . . {Displaying information not related to the
+elevator, e.g. weather, publicity, internet or TV}
+    3/02    . Position or depth indicators
+    3/023   . . {characterised by their mounting position}
+    3/026   . . {Mechanical devices that can be illuminated}
+    5/00    Applications of checking, fault-correcting, or
+    5/0006  . {Monitoring devices or performance analysers
+    5/0012  . . {Devices monitoring the users of the elevator
+    5/0018  . . {Devices monitoring the operating condition of
+    5/0025  . . . {for maintenance or repair}
+    5/0031  . . . {for safety reasons}
+    5/0037  . . {Performance analysers}
+    5/0043  . {Devices enhancing safety during maintenance}
+    5/005   . . {Safety of maintenance personnel}
+    5/0056  . . . {by preventing crushing}
+    5/0062  . . . . {by devices, being operable or not, mounted
+    5/0068  . . . . {by activating the safety brakes when the
+elevator car exceeds a certain upper or lower
+position in the elevator shaft}
+    5/0075  . . . . {by anchoring the elevator car or
+    5/0081  . . . {by preventing falling by means of safety
+fences or handrails, being operable or not,
+mounted on top of the elevator car}
+    5/0087  . {Devices facilitating maintenance, repair or
+inspection tasks (devices incorporated in the
+buffer B66B 5/288; railings on top of the car
+    5/0093  . . {Testing of safety devices}
+    5/02    . responsive to abnormal operating conditions
+    5/021   . . {the abnormal operating conditions being
+independent of the system (alarm systems in
+    5/022   . . . {where the abnormal operating condition is
+caused by a natural event, e.g. earthquake}
+    5/024   . . . {where the abnormal operating condition is
+caused by an accident, e.g. fire}
+    5/025   . . . {where the abnormal operating condition is
+caused by human behaviour or misbehaviour,
+    5/027   . . {to permit passengers to leave an elevator car in
+case of failure, e.g. moving the car to a reference
+    5/028   . . {Safety devices separate from control system
+in case of power failure, for hydraulical lifts,
+e.g. braking the hydraulic jack (B66B 5/16 takes
+    5/04    . . for detecting excessive speed
+    5/042   . . . {characterised by specific locations of the
+    5/044   . . . {Mechanical overspeed governors}
+    5/046   . . . . {of the pendulum or rocker arm type}
+    5/048   . . . {Testing of overspeed governor}
+    5/08    . . for preventing overwinding
+    5/12    . . in case of rope or cable slack
+    5/14    . . in case of excessive loads
+    5/16    . . Braking or catch devices operating between
+cars, cages, or skips and fixed guide elements or
+    5/18    . . . and applying frictional retarding forces
+    5/185   . . . . {by acting on main ropes or main cables}
+    5/20    . . . . by means of rotatable eccentrically-mounted
+members (B66B 5/24 takes precedence)
+    5/22    . . . . by means of linearly-movable wedges
+    5/24    . . . . by acting on guide ropes or cables
+    5/26    . . . Positively-acting devices, e.g. latches, knives
+    5/28    . Buffer-stops for cars, cages, or skips
+    5/282   . . {Structure thereof}
+    5/284   . . {mounted on cars or counterweights}
+    5/286   . . . {between two cars or two counterweights}
+    5/288   . . {with maintenance features (if not incorporated in
+    7/00    Other common features of elevators
+    7/02    . Guideways; Guides (arrangements in mine shafts
+    7/021   . . {with a particular position in the shaft}
+    7/022   . . {with a special shape}
+    7/023   . . {Mounting means therefor}
+    7/024   . . . {Lateral supports}
+    7/025   . . . {End supports, i.e. at top or bottom}
+    7/026   . . . {Interconnections}
+    7/027   . . . {for mounting auxiliary devices}
+    7/028   . . {with earthquake protection devices}
+    7/04    . . {Riding means, e.g.} Shoes, Rollers, {between
+car and guiding means, e.g. rails, ropes (rollers
+adapted to match the shape of a special guiding
+means B66B 7/02; vibration attenuation systems
+acting between car and its supporting frame
+    7/041   . . . {including active attenuation system for
+    7/042   . . . . {with rollers, shoes}
+    7/043   . . . . . {using learning}
+    7/044   . . . . {with magnetic or electromagnetic means}
+    7/045   . . . . . {using learning}
+    7/047   . . . {Shoes, sliders}
+    7/048   . . . {including passive attenuation system for
+    7/06    . Arrangements of ropes or cables
+    7/064   . . {Power supply or signal cables}
+    7/068   . . {Cable weight compensating devices}
+    7/08    . . for connection to the cars or cages, e.g. couplings
+    7/085   . . . {Belt termination devices}
+    7/10    . . for equalising rope or cable tension
+    7/12    . Checking, lubricating, or cleaning means for ropes,
+    7/1207  . . {Checking means}
+    7/1215  . . . {specially adapted for ropes or cables}
+    7/1223  . . . . {by analysing electric variables}
+    7/123   . . . . {by analysing magnetic variables}
+    7/1238  . . . . {by optical techniques}
+    7/1246  . . . {specially adapted for guides}
+    7/1253  . . {Lubricating means}
+    7/1261  . . . {specially adapted for ropes or cables}
+    7/1269  . . . {specially adapted for guides}
+    7/1276  . . {Cleaning means}
+    7/1284  . . . {specially adapted for ropes or cables}
+    7/1292  . . . {specially adapted for guides}
+Lifts in, or associated with, buildings
+    9/00    Kinds or types of lifts in, or associated with,
+buildings or other structures (characterised by
+control systems B66B 1/00; apparatus for raising or
+lowering persons on stages of theatres A63J 5/12)
+    9/003   . {for lateral transfer of car or frame, e.g. between
+vertical hoistways or to/from a parking position}
+ 2009/006   . {Ganged elevator}
+    9/02    . actuated mechanically otherwise than by rope or
+    9/022   . . {by rack and pinion drives}
+    9/025   . . {by screw-nut drives}
+    9/027   . . {by rope climbing devices}
+    9/04    . actuated pneumatically or hydraulically (platforms
+for lifting or lowering through short distances
+    9/06    . inclined, e.g. serving blast furnaces
+    9/08    . . associated with stairways, e.g. for transporting
+disabled persons {(facilitating access of invalids
+    9/0807  . . . {Driving mechanisms}
+    9/0815  . . . . {Rack and pinion, friction rollers}
+    9/0823  . . . . {Screw and nut}
+    9/083   . . . . {Pull cable, pull chain}
+    9/0838  . . . {Levelling gears}
+    9/0846  . . . {Guide rail (B66B 9/0807 takes precedence)}
+    9/0853  . . . {Lifting platforms, e.g. constructional features}
+    9/0861  . . . {Hanging lifts, e.g. rope suspended seat or
+    9/0869  . . . {Collapsible stairways, e.g. operable between a
+lower level and an upper level}
+    9/10    . paternoster type (with devices for transferring goods
+into, or out of, the compartments B65G 17/00)
+    9/16    . Mobile or transportable lifts specially adapted to be
+shifted from one part of a building or other structure
+to another part or to another building or structure
+    9/187   . . with a liftway specially adapted for temporary
+connection to a building or other structure
+    9/193   . . with inclined liftways
+   11/00    Main component parts of lifts in, or associated
+with, buildings or other structures
+   11/0005  . {Constructional features of hoistways}
+   11/001   . {Arrangement of controller, e.g. location}
+   11/0015  . . {in the machine room}
+   11/002   . . {in the hoistway}
+   11/003   . . . {on the counterweight}
+   11/0035  . {Arrangement of driving gear, e.g. location or
+   11/004   . . {in the machine room}
+   11/0045  . . {in the hoistway}
+   11/0055  . . . {on the counterweight}
+3Lifts in, or associated with, buildings
+   11/006   . {Applications of loading and unloading equipment
+for lifts associated with buildings (of general
+application B65G; for paternoster lifts B65G 17/00;
+   11/0065  . {Roping (mining hoist B66B 15/08)}
+   11/007   . . {for counterweightless elevators}
+   11/0075  . . {with hoisting rope or cable positively attached to
+   11/008   . . {with hoisting rope or cable operated by frictional
+engagement with a winding drum or sheave}
+   11/0085  . . . {of rucksack elevators}
+   11/009   . . . {with separate traction and suspension ropes}
+   11/0095  . . . {where multiple cars drive in the same hoist
+   11/02    . Cages, {i.e. cars}(doors, gates or other apparatus
+controlling access to, or exit from, cages
+   11/0213  . . . {for multi-deck cars}
+   11/022   . . . . {with changeable inter-deck distances}
+   11/0226  . . {Constructional features, e.g. walls assembly,
+decorative panels, comfort equipment, thermal or
+   11/0233  . . . {Lighting systems}
+   11/024   . . . {Ventilation systems}
+   11/0246  . . . {Maintenance features (devices facilitating
+maintenance in general B66B 5/0087)}
+   11/0253  . . . {Fixation of wall panels}
+   11/026   . . {Attenuation system for shocks, vibrations,
+imbalance, e.g. passengers on the same side
+(acting between car or supporting frame and
+guides B66B 7/04; acting between car and ropes,
+cables B66B 7/08; correcting levelling between
+   11/0266  . . . {Passive systems (aerodynamic structure
+   11/0273  . . . . {acting between car and supporting frame}
+   11/028   . . . {Active systems}
+   11/0286  . . . . {acting between car and supporting frame}
+   11/0293  . . . {Suspension locking or inhibiting means to
+avoid movement when car is stopped at a floor
+(locking car to building while loading to avoid
+   11/04    . Driving gear {; Details thereof, e.g. seals (braking
+devices acting on the driving gear B66B 5/02; of
+mining-hoist winding devices B66B 15/08)}
+   11/0407  . . {actuated by an electrical linear motor (in the
+   11/0415  . . {actuated manually, e.g. additional safety system}
+   11/0423  . . {actuated pneumatically or hydraulically}
+   11/043   . . {actuated by rotating motor; Details, e.g.
+ventilation (roping on drum, sheave, winch or
+pulley B66B 11/0065; power supply or control
+B66B 1/28, H02P; motor construction H02K)}
+   11/0438  . . . {with a gearless driving, e.g. integrated sheave,
+drum or winch in the stator or rotor of the cage
+   11/0446  . . . {with screw-nut or worm-screw gear}
+   11/0453  . . . {with planetary or epicycloidal gear, e.g.
+   11/0461  . . . {with rack and pinion gear}
+   11/0469  . . . {with chain, pinion gear}
+   11/0476  . . . {with friction gear, e.g. belt linking motor to
+   11/0484  . . . {with a clutch or a coupling system between
+several motors, e.g. switching different speeds,
+progressive starting, torque limitation, flywheel
+   11/0492  . . {actuated by other systems, e.g. combustion
+   11/06    . . with hoisting rope or cable positively attached
+to a winding drum {(B66B 11/0075 takes
+   11/08    . . with hoisting rope or cable operated by frictional
+engagement with a winding drum or sheave
+{(B66B 11/008 takes precedence)}
+   13/00    Doors, gates, or other apparatus controlling access
+to, or exit from, cages or lift well landings (door
+   13/02    . Door or gate operation (of general application
+   13/04    . . of swinging doors
+   13/06    . . of sliding doors
+   13/08    . . . guided for horizontal movement
+   13/10    . . . by car or cage movement
+   13/12    . . Arrangements for effecting simultaneous opening
+or closing of cage and landing doors
+   13/14    . . Control systems or devices
+   13/146   . . . . {method or algorithm for controlling doors}
+   13/16    . . . Door or gate locking devices controlled or
+primarily controlled by condition of cage, e.g.
+   13/165   . . . . {electrical}
+   13/18    . . . . without manually-operable devices for
+completing locking or unlocking of doors
+   13/185   . . . . . {electrical}
+   13/20    . . . . . Lock mechanisms actuated mechanically
+by abutments or projections on the cages
+   13/22    . Operation of door or gate contacts
+   13/24    . Safety devices in passenger lifts, not otherwise
+provided for, for preventing trapping of passengers
+   13/26    . . between closing doors
+   13/28    . . between car or cage and wells
+   13/285   . . . {Toe guards or apron devices}
+   13/30    . Constructional features of doors or gates (of interest
+apart from this application E06B)
+   13/301   . . {Details of door sills}
+   13/303   . . {Details of door panels}
+   13/305   . . . {Slat doors for elevators}
+   13/306   . . {Details of door jambs}
+   13/308   . . {Details of seals and joints}
+   15/00    Main component parts of mining-hoist winding
+   15/02    . Rope or cable carriers
+   15/04    . . Friction sheaves; "Koepe" pulleys
+   17/02    . mounted in head-frames (winding towers for mines
+   17/04    . Mining-hoist cars or cages
+   17/06    . . with tiltable platforms
+   17/10    . . adapted for passenger transport
+   17/14    . Applications of loading and unloading equipment
+   17/16    . . for loading and unloading mining-hoist cars or
+   17/18    . . . Swinging bridges, e.g. for compensating for
+differences in level between car or cage and
+   17/20    . . . by moving vehicles into, or out of, the cars or
+   17/22    . . . Securing vehicles in cars or cages
+   17/24    . . . . mounted on the car or cage
+   17/26    . . for loading or unloading mining-hoist skips
+   17/28    . . electrically controlled (for elevators in general
+   17/30    . . . for cars or cages
+   17/34    . Safe lift clips; Keps
+   17/36    . Gates or other apparatus controlling access to, or
+exit from, cars, cages, or hoistway landings
+   19/00    Mining-hoist operation
+   19/002   . {installing or exchanging guide rails (details of rails
+   19/005   . {installing or exchanging the elevator drive}
+   19/007   . {method for modernisation of elevators}
+   19/02    . Installing or exchanging ropes or cables
+   19/04    . Installing or removing mining-hoist cars, cages, or
+   19/06    . Applications of signalling devices (depth indicators
+B66B 3/02; order telegraphs G08B)
+   20/00    Elevators not provided for in groups
+   21/00    Kinds or types of escalators or moving walkways
+   21/025   . . {of variable speed type}
+   21/08    . . paternoster type, i.e. the escalator being used
+simultaneously for climbing and descending
+   21/12    . . of variable speed type
+   23/00    Component parts of escalators or moving
+   23/022   . . {with polygon effect reduction means}
+   23/024   . . {Chains therefor}
+   23/026   . . {with a drive or carrying sprocket wheel located
+   23/028   . . {with separate drive chain or belt that engages
+directly the carrying surface chain}
+   23/06    . . . with means synchronising the operation of the
+steps or the carrying belts and the handrails
+   23/08    . Carrying surfaces
+   23/14    . Guiding means for carrying surfaces
+ 2023/142   . . {paternoster return type system}
+   23/145   . . {Roller assemblies}
+   23/147   . . {End portions, i.e. means for changing the
+direction of the carrying surface}
+   23/16    . Means allowing tensioning of the endless member
+   23/18    . . for carrying surfaces
+   23/225   . . {Lighting systems therefor}
+   23/24    . . Handrails (driving gear therefor B66B 23/02;
+tensioning means therefor B66B 23/16;
+preventing jamming thereof by foreign objects
+B66B 29/04; accessories therefor B66B 31/02)
+   23/26    . . . of variable speed type
+   25/00    Control of escalators or moving walkways
+(walkways of variable speed type B66B 21/12;
+handrails of variable speed type B66B 23/26; of
+   25/003   . {Methods or algorithms therefor}
+   25/006   . {Monitoring for maintenance or repair (for security
+   27/00    Indicating operating conditions of escalators or
+moving walkways (of general application G08)
+   29/00    Safety devices of escalators or moving walkways
+(walkways of variable speed type B66B 21/12;
+handrails of variable speed type B66B 23/26)
+   29/005   . {Applications of security monitors}
+   29/02    . responsive to, or preventing, jamming by foreign
+   29/04    . . for balustrades or handrails
+   29/08    . Means to facilitate passenger entry or exit (moving
+   31/00    Accessories for escalators, or moving walkways,
+e.g. for sterilising or cleaning (for safety
+   31/003   . {for cleaning steps or pallets}
+   31/006   . {for conveying hand carts, e.g. shopping carts (hand
+carts per se B62B 1/00, B62B 3/00)}
+ 2201/00    Aspects of control systems of elevators
+ 2201/10    . Details with respect to the type of call input
+ 2201/101   . . Single call input
+ 2201/102   . . Up or down call input
+ 2201/103   . . Destination call input before entering the elevator
+ 2201/104   . . Call input for a preferential elevator car or
+ 2201/20    . Details of the evaluation method for the allocation
+ 2201/21    . . Primary evaluation criteria
+ 2201/211   . . Waiting time, i.e. response time
+ 2201/213   . . . where the number of stops is limited
+ 2201/214   . . Total time, i.e. arrival time
+ 2201/215   . . Transportation capacity
+ 2201/216   . . Energy consumption
+ 2201/22    . . Secondary evaluation criteria
+ 2201/221   . . Penalisation of transfers
+ 2201/222   . . Taking into account the number of passengers
+present in the elevator car to be allocated
+ 2201/223   . . Taking into account the separation of passengers
+ 2201/224   . . Avoiding potential interference between elevator
+ 2201/225   . . Taking into account a certain departure interval of
+elevator cars from a specific floor, e.g. the ground
+ 2201/226   . . Taking into account the distribution of elevator
+cars within the elevator system, e.g. to prevent
+ 2201/23    . . Other aspects of the evaluation method
+ 2201/231   . . Sequential evaluation of plurality of criteria
+ 2201/232   . . . where the time needed for a passenger to arrive
+at the allocated elevator car from where the call
+ 2201/233   . . Periodic re-allocation of call inputs
+ 2201/234   . . Taking into account uncertainty terms for
+predicted values, e.g. the predicted arrival time of
+an elevator car at the floor where a call is made
+ 2201/235   . . Taking into account predicted future events, e.g.
+ 2201/24    . . Control of empty elevator cars
+ 2201/241   . . Standby control
+ 2201/242   . . Parking control
+ 2201/243   . . Distribution of elevator cars, e.g. based on
+ 2201/30    . Details of the elevator system configuration
+ 2201/301   . . Shafts divided into zones
+ 2201/302   . . . with variable boundaries
+ 2201/303   . . Express or shuttle elevators
+ 2201/304   . . Transit control
+ 2201/305   . . . with sky lobby
+ 2201/306   . . Multi-deck elevator cars
+ 2201/307   . . Tandem operation of multiple elevator cars in the
+ 2201/308   . . Ganged elevator cars
+ 2201/40    . Details of the change of control mode
+ 2201/401   . . by time of the day
+ 2201/402   . . by historical, statistical or predicted traffic data,
+ 2201/403   . . by real-time traffic data
+ 2201/404   . . by cost function evaluation
+ 2201/405   . . by input of special passenger or passenger group
+ 2201/406   . . by input of human supervisor
+ 2201/46    . . Switches or switchgear
+ 2201/4607  . . . Call registering systems
+ 2201/4615  . . . . Wherein the destination is registered before
+ 2201/4623  . . . . Wherein the destination is registered after
+ 2201/463   . . . . Wherein the call is registered through
+physical contact with the elevator system
+ 2201/4638  . . . . Wherein the call is registered without
+making physical contact with the elevator
+ 2201/4646  . . . . . using voice recognition
+ 2201/4653  . . . . wherein the call is registered using portable
+ 2201/4661  . . . . for priority users
+ 2201/4669  . . . . . using passenger condition detectors
+ 2201/4676  . . . . for checking authorization of the passengers
+ 2201/4684  . . . . for preventing accidental or deliberate
+ 2201/4692  . . . . for payment for use

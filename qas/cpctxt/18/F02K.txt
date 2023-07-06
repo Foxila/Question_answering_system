@@ -1,0 +1,270 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+COMBUSTION ENGINES; HOT-GAS OR COMBUSTION-PRODUCT ENGINE
+JET-PROPULSION PLANTS (features of jet-propulsion plants common to gas-turbine plants,
+air intakes or fuel supply control of air-breathing jet-propulsion plants F02C 7/00, F02C 9/00)
+1. In this subclass, the following expression is used with the meaning indicated:
+• "jet-propulsion plants" means plants using combustion to produce a fluid stream from which a propulsive thrust on the
+plant is obtained on the reaction principle.
+• {"jet-pipe" means the exhaust duct of a jet engine that carries the exhaust to the nozzle.}
+2. Attention is drawn to the notes preceding class F01.
+    1/00    Plants characterised by the form or arrangement
+of the jet pipe or nozzle; Jet pipes or nozzles
+peculiar thereto (rocket nozzles F02K 9/97)
+    1/002   . {with means to modify the direction of thrust vector
+(F02K 1/54 takes precedence; thrust vectoring of
+    1/004   . . {by using one or more swivable nozzles rotating
+    1/006   . . {within one plane only}
+    1/008   . . {in any rearward direction}
+    1/04    . Mounting of an exhaust cone in the jet pipe
+    1/06    . Varying effective area of jet pipe or nozzle (by
+using fluid jets to influence the jet flow F02K 1/30)
+    1/08    . . by axially moving or transversely deforming an
+internal member, e.g. the exhaust cone
+    1/085   . . . {by transversely deforming an internal
+    1/09    . . by axially moving an external member, e.g. a
+shroud (F02K 1/12 takes precedence)
+    1/10    . . by distorting the jet pipe or nozzle
+    1/11    . . by means of pivoted eyelids
+    1/12    . . by means of pivoted flaps
+    1/1207  . . . {of one series of flaps hinged at their
+upstream ends on a fixed structure
+(F02K 1/1215 - F02K 1/1292 take
+    1/1215  . . . {of two series of flaps, the upstream series
+having its flaps hinged at their upstream ends
+on a fixed structure, and the downstream series
+having its flaps hinged at their downstream
+    1/1223  . . . {of two series of flaps, the upstream series
+having its flaps hinged at their upstream ends
+on a fixed structure and the downstream series
+having its flaps hinged at their upstream ends
+on the downstream ends of the flaps of the
+    1/123   . . . {of two series of flaps, both having their
+flaps hinged at their upstream ends on a fixed
+    1/1238  . . . {of two series of flaps, the upstream series
+having its flaps hinged at their upstream ends
+on a fixed structure and the downstream series
+having its flaps hinged at their upstream ends
+on a substantially axially movable structure}
+    1/1246  . . . {of two series of flaps, the upstream series
+having its flaps hinged at their upstream ends
+on a fixed structure and the downstream series
+having its flaps hinged at their downstream
+ends on a substantially axially movable
+    1/1253  . . . {of one series of flaps hinged at their upstream
+ends on a fixed structure and of a substantially
+axially movable external member}
+    1/1261  . . . {of one series of flaps hinged at their upstream
+ends on a substantially axially movable
+    1/1269  . . . {of three series of flaps, the upstream series
+having its flaps hinged at their upstream
+ends on a fixed structure and the internal
+downstream series having its flaps hinged at
+their downstream ends on the downstream ends
+of the flaps of the external downstream series
+hinged on a fixed structure at their upstream
+    1/1276  . . . {of three series of flaps, the upstream series
+having its flaps hinged at their upstream ends
+on a substantially axially movable structure and
+the downstream or external series having its
+flaps hinged at their upstream ends on a fixed
+    1/1284  . . . {of three series of flaps, the upstream series
+having its flaps hinged at their upstream
+ends on a fixed structure and the internal
+downstream series having its flaps hinged at
+their downstream ends on the downstream ends
+of the flaps of the external downstream series
+hinged at their upstream ends on a substantially
+    1/1292  . . . {of three series of flaps, the upstream series
+having its flaps hinged at their upstream ends
+on a fixed structure, the internal downstream
+series having its flaps hinged at their upstream
+ends on the downstream ends of the flaps of
+the upstream series and at their downstream
+ends on the downstream ends of the flaps
+of the external downstream series hinged at
+their upstream ends on a substantially axially
+    1/15    . . Control or regulation
+    1/16    . . . conjointly with another control
+    1/165   . . . . {with air intake control}
+    1/17    . . . . with control of fuel supply
+    1/28    . using fluid jets to influence the jet flow
+    1/30    . . for varying effective area of jet pipe or nozzle
+    1/32    . . for reversing thrust
+    1/34    . . for attenuating noise
+    1/36    . having an ejector
+    1/38    . Introducing air inside the jet (F02K 1/28 takes
+    1/383   . . {with retractable elements}
+    1/386   . . {mixing devices in the jet pipe, e.g. for mixing
+    1/40    . Nozzles having means for dividing the jet into a
+plurality of partial jets or having an elongated cross-
+    1/42    . . the means being movable into an inoperative
+    1/44    . Nozzles having means, e.g. a shield, reducing sound
+radiation in a specified direction (F02K 1/40 takes
+    1/46    . Nozzles having means for adding air to the jet or
+for augmenting the mixing region between the jet
+and the ambient air, e.g. for silencing (F02K 1/28,
+F02K 1/36, F02K 1/38 take precedence)
+    1/48    . . Corrugated nozzles
+    1/50    . . Deflecting outwardly a portion of the jet by
+    1/52    . Nozzles specially constructed for positioning
+adjacent to another nozzle or to a fixed member, e.g.
+    1/54    . Nozzles having means for reversing jet thrust
+(reversing jet thrust using fluid jets F02K 1/32)
+    1/56    . . Reversing jet main flow
+    1/563   . . . {in specified direction, e.g. to obviate its
+    1/566   . . . {by blocking the rearward discharge by means
+    1/58    . . . Reversers mounted on the inner cone or the
+nozzle housing {or the fuselage}
+    1/60    . . . by blocking the rearward discharge by means
+of pivoted eyelids or clamshells, e.g. target-
+    1/605   . . . . {the aft end of the engine cowling being
+movable to uncover openings for the
+    1/62    . . . by blocking the rearward discharge by means
+    1/625   . . . . {the aft end of the engine cowling being
+movable to uncover openings for the
+    1/64    . . Reversing fan flow
+    1/645   . . . {using inflatable diaphragms}
+    1/66    . . . using reversing fan blades
+    1/68    . . . Reversers mounted on the engine housing
+downstream of the fan exhaust section
+    1/70    . . . using thrust reverser flaps or doors mounted on
+    1/72    . . . . the aft end of the fan housing being movable
+to uncover openings in the fan housing for
+    1/74    . . Reversing at least one flow in relation to at least
+one other flow in a plural- flow engine
+    1/76    . . Control or regulation of thrust reversers
+    1/763   . . . {with actuating systems or actuating devices;
+Arrangement of actuators for thrust reversers}
+    1/766   . . . {with blocking systems or locking devices;
+Arrangement of locking devices for thrust
+    1/78    . Other construction of jet pipes
+    1/80    . . Couplings or connections
+    1/805   . . . {Sealing devices therefor, e.g. for movable
+parts of jet pipes or nozzle flaps}
+    1/82    . . Jet pipe walls, e.g. liners
+    1/822   . . . {Heat insulating structures or liners, cooling
+arrangements, e.g. post combustion liners;
+Infra-red radiation suppressors}
+    1/825   . . . . {Infra-red radiation suppressors}
+    1/827   . . . {Sound absorbing structures or liners}
+    3/00    Plants including a gas turbine driving a
+    3/02    . in which part of the working fluid by-passes the
+    3/025   . . {the by-pass flow being at least partly used to
+create an independent thrust component}
+    3/04    . . the plant including ducted fans, i.e. fans with high
+volume, low pressure outputs, for augmenting the
+jet thrust, e.g. of double-flow type
+    3/06    . . . with front fan
+    3/065   . . . with front and aft fans
+    3/068   . . . being characterised by a short axial length
+    3/072   . . . with counter-rotating {, e.g. fan} rotors
+    3/075   . . . controlling flow ratio between flows
+    3/077   . . . the plant being of the multiple flow type, i.e.
+    3/08    . with supplementary heating of the working fluid;
+Control thereof (control of fuel supply therefor
+    3/10    . . by after-burners (F02K 3/105 takes precedence)
+    3/105   . . Heating the by-pass flow
+    3/11    . . . by means of burners or combustion chambers
+    3/115   . . . by means of indirect heat exchange
+    3/12    . characterised by having more than one gas turbine
+    5/00    Plants including an engine, other than a gas
+turbine, driving a compressor or a ducted fan
+    5/02    . the engine being of the reciprocating-piston type
+    5/023   . . {the compressor being of the reciprocating-piston
+type (F02K 5/026 takes precedence)}
+    5/026   . . {free-piston engines}
+    7/00    Plants in which the working fluid is used in a jet
+only, i.e. the plants not having a turbine or other
+engine driving a compressor or a ducted fan;
+Control thereof (rocket-engine plants F02K 9/00)
+    7/005   . {the engine comprising a rotor rotating under the
+actions of jets issuing from this rotor}
+    7/02    . the jet being intermittent, i.e. pulse-jet
+    7/04    . . with resonant combustion chambers
+    7/06    . . with combustion chambers having valves
+    7/067   . . . having aerodynamic valves
+    7/075   . . with multiple pulse-jet engines
+    7/08    . the jet being continuous
+    7/10    . characterised by having ram-action compression,
+i.e. aero-thermo-dynamic-ducts or ram-jet engines
+    7/105   . . {using a solid fuel}
+    7/12    . . Injection-induction jet engines
+    7/14    . . with external combustion, e.g. scram-jet engines
+    7/16    . . Composite ram-jet/turbo-jet engines
+    7/18    . . Composite ram-jet/rocket engines
+    7/20    . . Composite ram-jet/pulse-jet engines
+    9/00    Rocket-engine plants, i.e. plants carrying both fuel
+and oxidant therefor; Control thereof
+    9/08    . using solid propellants (F02K 9/72 takes
+precedence; using semi-solid or pulverulent
+    9/10    . . Shape or structure of solid propellant charges
+    9/12    . . . made of two or more portions burning
+at different rates {or having different
+    9/14    . . . made from sheet-like materials, e.g. of carpet-
+roll type, of layered structure
+    9/16    . . . of honeycomb structure
+    9/18    . . . of the internal-burning type having a star or
+    9/20    . . . of the external-burning type
+    9/22    . . . of the front-burning type
+    9/24    . . Charging rocket engines with solid propellants;
+Methods or apparatus specially adapted for
+working solid propellant charges
+    9/26    . . Burning control {(F02K 9/10, F02K 9/34,
+F02K 9/86, F02K 9/92 and F02K 9/94 take
+    9/28    . . having two or more propellant charges with the
+propulsion gases exhausting through a common
+    9/30    . . with the propulsion gases exhausting through a
+    9/32    . . Constructional parts; Details not otherwise
+    9/34    . . . Casings; Combustion chambers; Liners thereof
+    9/343   . . . . {Joints, connections, seals therefor}
+    9/346   . . . . {Liners, e.g. inhibitors}
+    9/36    . . . Propellant charge supports
+    9/38    . . . Safety devices, e.g. to prevent accidental
+    9/40    . . . Cooling arrangements {(for nozzles
+    9/42    . using liquid or gaseous propellants (F02K 9/72
+    9/44    . . Feeding propellants
+    9/48    . . . . driven by a gas turbine fed by propellant
+combustion gases {or fed by vaporized
+    9/50    . . . using pressurised fluid to pressurise the
+    9/54    . . . Leakage detectors; Purging systems; Filtration
+    9/563   . . . . {of propellant feed pumps}
+    9/566   . . . . {elements and safety devices, e.g. pressure
+    9/58    . . . . Propellant feed valves
+    9/60    . . Constructional parts; Details not otherwise
+    9/62    . . . Combustion or thrust chambers
+    9/64    . . . . having cooling arrangements
+    9/66    . . . . of the rotary type
+    9/68    . . . Decomposition chambers
+    9/70    . using semi- solid or pulverulent propellants
+    9/72    . using liquid and solid propellants, i.e. hybrid rocket-
+    9/74    . combined with another jet-propulsion plant
+    9/76    . . with another rocket-engine plant; Multistage
+    9/763   . . . {with solid propellant}
+    9/766   . . . {with liquid propellant}
+    9/78    . . with an air-breathing jet-propulsion plant (with a
+    9/80    . characterised by thrust or thrust vector control
+(burning control of solid propellants F02K 9/26;
+feeding control of liquid or gaseous propellants
+F02K 9/56; re-ignitable, restartable or intermittently
+operated rocket-engine plants F02K 9/94)
+    9/805   . . {servo-mechanisms or control devices therefor}
+    9/82    . . by injection of a secondary fluid into the rocket
+    9/84    . . using movable nozzles
+    9/86    . . using nozzle throats of adjustable cross- section
+{(F02K 9/978 takes precedence)}
+    9/88    . . using auxiliary rocket nozzles
+    9/90    . . using deflectors (F02K 9/82 takes precedence)
+    9/92    . . incorporating means for reversing or terminating
+    9/94    . Re-ignitable or restartable rocket- engine plants;
+Intermittently operated rocket-engine plants
+    9/95    . characterised by starting or ignition means or
+arrangements (safety devices F02K 9/38)
+    9/96    . characterised by specially adapted arrangements for
+    9/97    . Rocket nozzles (thrust or thrust vector control
+    9/972   . . {Fluid cooling arrangements for nozzles
+    9/974   . . {Nozzle- linings; Ablative coatings}
+    9/976   . . {Deployable nozzles}
+    9/978   . . {Closures for nozzles; Nozzles comprising
+ejectable or discardable elements}
+   99/00    Subject matter not provided for in other groups of

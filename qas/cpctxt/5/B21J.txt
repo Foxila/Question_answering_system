@@ -1,0 +1,163 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+MECHANICAL METAL-WORKING WITHOUT ESSENTIALLY REMOVING
+FORGING; HAMMERING; PRESSING METAL; RIVETING; FORGE FURNACES
+(rolling of metal B21B; making particular products by forging or pressing B21K; cladding or
+plating B23K; finishing surfaces by hammering B23P 9/04; compacting surfaces by blasting
+with particulate material B24C 1/10; general features of presses, presses for consolidating scrap
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Preparing metal stock {or similar ancillary
+operations prior, during or post forging, e.g.
+heating or cooling (pretreatment for rolling
+    1/003   . {Selecting material}
+    1/006   . . {Amorphous metal}
+    1/02    . Preliminary treatment of metal stock without
+particular shaping, e.g. salvaging segregated zones,
+forging or pressing in the rough (modifying the
+physical properties by deformation C21D 7/00,
+    1/025   . . {affecting grain orientation}
+    1/04    . Shaping in the rough solely by forging or pressing
+    1/06    . Heating or cooling methods or arrangements
+specially adapted for performing forging or pressing
+operations {(B21J 5/063 takes precedence)}
+    3/00    Lubricating during forging or pressing (lubricating
+    5/00    Methods for forging, hammering, or pressing (for
+working sheet-metal or metal tubes, rods, or profiles
+B21D; for working wire B21F); Special equipment
+    5/002   . {Hybrid process, e.g. forging following casting}
+    5/004   . {Thixotropic process, i.e. forging at semi-solid
+    5/006   . {using ultrasonic waves}
+    5/008   . {Incremental forging}
+    5/02    . Die forging; Trimming by making use of special
+dies {; Punching during forging}
+    5/022   . . {Open die forging}
+    5/025   . . {Closed die forging}
+    5/04    . by directly applied fluid pressure or explosive action
+    5/06    . for performing particular operations
+    5/063   . . {Friction heat forging (friction heat riveting
+    5/066   . . . {Flow drilling}
+    5/068   . . {Shaving, skiving or scarifying for forming lifted
+portions, e.g. slices or barbs, on the surface of the
+    5/10    . . Piercing billets (in combination with extrusion
+    5/12    . . Forming profiles on internal or external surfaces
+(making screw-thread by forging, pressing, or
+    7/00    Hammers; Forging machines with hammers or
+die jaws acting by impact (hand hammers B25D;
+electrical features in section H)
+    7/02    . Special design or construction
+    7/08    . . . with rigidly-guided hammer
+    7/10    . . with both drive and hammer connected to a
+fulcrumed lever, e.g. tail hammers
+    7/12    . . . the lever being a spring, i.e. spring hammers
+    7/14    . . Forging machines working with several hammers
+    7/145   . . . {the hammers being driven by a rotating
+    7/16    . . . in rotary arrangements
+    7/18    . . Forging machines working with die jaws, e.g.
+pivoted, movable laterally of the forging or
+pressing direction, e.g. for swaging
+    7/20    . Drives for hammers; Transmission means therefor
+    7/22    . . for power hammers
+    7/24    . . . operated by steam, air, or other gaseous
+    7/26    . . . . operated by internal combustion
+    7/28    . . . operated by hydraulic or liquid pressure
+    7/30    . . . operated by electro-magnets
+    7/32    . . . operated by rotary drive, e.g. by electric motor
+    7/34    . . . operating both the hammer and the anvil, so-
+    7/36    . . for drop hammers
+    7/38    . . . driven by steam, air, or other gaseous pressure
+    7/40    . . . driven by hydraulic or liquid pressure
+    7/42    . . . operated by rotary drive, e.g. electric motors
+    7/44    . . . . equipped with belts, ropes, cables, chains
+    7/46    . . Control devices specially adapted to forging
+hammers, not restricted to one of the preceding
+    9/02    . Special design or construction
+    9/022   . . {multi-stage forging presses (handling devices
+    9/025   . . {with rolling or wobbling dies}
+    9/027   . . {with punches moving along auxiliary lateral
+directions (B21J 13/025 takes precedence)}
+    9/04    . . Piercing presses
+    9/06    . . Swaging presses; Upsetting presses
+    9/08    . . . equipped with devices for heating the work-
+piece (electric heating elements H05B)
+    9/10    . Drives for forging presses
+    9/12    . . operated by hydraulic or liquid pressure
+    9/14    . . . in conjunction with electric power
+    9/16    . . . in conjunction with steam or gas power
+    9/18    . . operated by making use of gearing mechanisms,
+e.g. levers, spindles, crankshafts, eccentrics,
+    9/20    . . Control devices specially adapted to forging
+presses not restricted to one of the preceding
+   11/00    Forging hammers combined with forging presses;
+Forging machines with provision for hammering
+   13/00    Details of machines for forging, pressing, or
+   13/02    . Dies or mountings therefor
+   13/025   . . {Dies with parts moving along auxiliary lateral
+   13/06    . Hammers tups; Anvils; Anvil blocks
+   13/08    . Accessories for handling work or tools
+   13/085   . . {handling of tools}
+   13/10    . . Manipulators (in general B25J)
+   13/12    . . . Turning means
+   13/14    . . Ejecting devices
+   15/02    . Riveting procedures
+   15/022   . . {Setting rivets by means of swaged-on locking
+   15/025   . . {Setting self-piercing rivets}
+   15/027   . . {Setting rivets by friction heating}
+   15/04    . . Riveting hollow rivets mechanically
+   15/041   . . . {by pushing a drive-pin}
+   15/043   . . . {by pulling a mandrel}
+   15/045   . . . . {and swaging locking means, i.e. locking the
+broken off mandrel head to the hollow rivet}
+   15/046   . . . {by edge-curling}
+   15/048   . . . {Setting self-drilling hollow rivets}
+   15/06    . . Riveting hollow rivets by means of hydraulic,
+liquid, or gas pressure {(portable riveters
+   15/08    . . Riveting by applying heat {, e.g.} to the end
+parts of the rivets to enable heads to be formed
+{(B21J 15/027 takes precedence)}
+   15/10    . Riveting machines (electric heating elements H05B)
+   15/105   . . {Portable riveters (pliers for riveting
+   15/12    . . with tools or tool parts having a movement
+additional to the feed movement, e.g. spin
+{(B21J 15/027 takes precedence)}
+   15/14    . . specially adapted for riveting specific articles, e.g.
+   15/142   . . . {Aerospace structures}
+   15/147   . . . {Composite articles}
+   15/16    . . Drives for riveting machines; Transmission
+   15/18    . . . operated by air pressure or other gas pressure,
+   15/185   . . . . {by explosion pressure}
+   15/20    . . . operated by hydraulic or liquid pressure
+   15/205   . . . . {Riveting tools having hand operated pumps
+for building up the hydraulic pressure}
+   15/22    . . . operated by both hydraulic or liquid pressure
+   15/24    . . . operated by electro-magnets
+   15/26    . . . operated by rotary drive, e.g. by electric motor
+   15/28    . . Control devices specially adapted to riveting
+machines not restricted to one of the preceding
+   15/285   . . . {for controlling the rivet upset cycle}
+   15/30    . . Particular elements, e.g. supports; Suspension
+equipment specially adapted for portable riveters
+   15/32    . . . Devices for inserting or holding rivets in
+position with or without feeding arrangements
+   15/323   . . . . {using a carrier strip}
+   15/326   . . . . {Broken-off mandrel collection}
+   15/34    . . . . for installing {multiple-type} tubular rivets
+   15/36    . . Rivet sets, i.e. tools for forming heads; Mandrels
+for expanding parts of hollow rivets
+   15/365   . . . {Mandrels for expanding parts of hollow
+   15/38    . Accessories for use in connection with riveting, e.g.
+pliers for upsetting; Hand tools for riveting
+   15/383   . . {Hand tools for riveting}
+   15/386   . . {Pliers for riveting}
+   15/40    . . for forming rivet heads
+   15/42    . . Special clamping devices for workpieces to be
+riveted together, e.g. operating through the rivet
+   15/44    . . Rivet hole positioners
+   15/46    . . Positioners for rivets for making tube joints
+   15/48    . . Devices for caulking rivets
+   15/50    . . Removing or cutting devices for rivets
+   17/00    Forge furnaces (furnaces for heat treatment
+C21D 9/00; furnaces in general F27)
+   17/02    . electrically heated (electric heating elements H05B)
+   19/00    Blacksmiths requisites not otherwise provided for
+   19/02    . Hearths; Air supply arrangements specially adapted
+   19/04    . Anvils; Associated items

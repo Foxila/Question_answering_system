@@ -1,0 +1,314 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+SPRAYING OR ATOMISING IN GENERAL; APPLYING FLUENT MATERIALS TO
+PROCESSES FOR APPLYING FLUENT MATERIALS TO SURFACES, IN GENERAL
+(conveying articles or workpieces through baths of liquid B65G, e.g. B65G 49/02)
+• processes for applying liquids or other fluent materials to  a surface or part of a surface, in general, by any mechanical
+or physical method and particularly processes producing  a uniform distribution of liquids or other fluent materials  on a
+• pretreatment of surfaces to which liquids or other fluent  materials are to be applied;
+• after-treatment of applied coatings.
+2. Attention is drawn to the Note following the title of class B05.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Processes for applying liquids or other fluent
+materials (B05D 5/00, B05D 7/00 take precedence)
+    1/002   . {the substrate being rotated}
+    1/007   . {using an electrostatic field
+(B05D 1/02 - B05D 1/16 take precedence)}
+    1/02    . performed by spraying
+    1/025   . . {using gas close to its critical state}
+    1/04    . . involving the use of an electrostatic field
+{(B05D 1/025 and B05D 1/14 take precedence)}
+    1/045   . . . {on non-conductive substrates}
+    1/06    . . . Applying particulate materials
+    1/10    . . . Applying particulate materials
+    1/12    . . Applying particulate materials (B05D 1/06,
+    1/16    . Flocking otherwise than by spraying
+    1/18    . performed by dipping
+    1/185   . . {applying monomolecular layers (B05D 1/204
+    1/20    . . substances to be applied floating on a fluid
+    1/202   . . . {Langmuir Blodgett films (LB films)}
+    1/204   . . . . {LB techniques}
+    1/206   . . . . {LB troughs}
+    1/208   . . . . {After-treatment of monomolecular films}
+    1/22    . . using fluidised-bed technique (fluidised-bed
+technique in general B01J 8/24)
+    1/24    . . . Applying particulate materials
+    1/26    . performed by applying the liquid or other fluent
+material from an outlet device in contact with, or
+almost in contact with, the surface
+    1/265   . . {Extrusion coatings}
+    1/28    . performed by transfer from the surfaces of elements
+carrying the liquid or other fluent material, e.g.
+    1/283   . . {Transferring monomolecular layers or solutions
+of molecules adapted for forming monomolecular
+    1/286   . . {using a temporary backing to which the coating
+    1/30    . performed by gravity only, i.e. flow coating
+    1/305   . . {Curtain coating}
+    1/32    . using means for protecting parts of a surface not to
+be coated, e.g. using stencils, resists
+    1/322   . . {Removable films used as masks}
+    1/325   . . . {Masking layer made of peelable film}
+    1/327   . . . {Masking layer made of washable film}
+    1/34    . Applying different liquids or other fluent materials
+    1/36    . Successively applying liquids or other fluent
+materials, e.g. without intermediate treatment
+    1/38    . . with intermediate treatment (intermediate
+    1/40    . Distributing applied liquids or other fluent materials
+by members moving relatively to surface
+    1/42    . . by non-rotary members
+    1/60    . {Deposition of organic layers from vapour phase
+(vapour phase deposition in general C23C 14/00,
+    1/62    . {Plasma-deposition of organic layers (plasma
+deposition in general C23C 14/00, C23C 16/00)}
+    3/00    Pretreatment of surfaces to which liquids or
+other fluent materials are to be applied; After-
+treatment of applied coatings, e.g. intermediate
+treating of an applied coating preparatory to
+subsequent applications of liquids or other fluent
+materials (successively applying liquids or other
+fluent materials B05D 1/36; drying ovens F26B)
+    3/005   . . {Pretreatment for allowing a non-conductive
+substrate to be electrostatically coated}
+    3/007   . {After-treatment}
+    3/02    . by baking {(B05D 3/04 takes precedence)}
+    3/0209  . . {Multistage baking}
+    3/0218  . . {Pretreatment, e.g. heating the substrate}
+    3/0227  . . . {with IR heaters}
+    3/0236  . . . {with ovens (B05D 3/0227 takes precedence)}
+    3/0245  . . . {with induction heating}
+    3/0254  . . {After-treatment}
+    3/0263  . . . {with IR heaters}
+    3/0281  . . . {with induction heating}
+    3/029   . . . {with microwaves}
+    3/04    . by exposure to gases
+    3/0406  . . {the gas being air}
+    3/0413  . . . {Heating with air}
+    3/042   . . . {Directing or stopping the fluid to be coated
+    3/0426  . . . {Cooling with air}
+    3/0433  . . {the gas being a reactive gas}
+    3/044   . . . {Pretreatment}
+    3/0446  . . . . {of a polymeric substrate}
+    3/0453  . . . {After-treatment}
+    3/046   . . . . {Curing or evaporating the solvent}
+    3/0466  . . {the gas being a non-reacting gas (B05D 3/0406
+    3/0473  . . . {for heating, e.g. vapour heating}
+    3/048   . . . {for cooling}
+    3/0486  . . {Operating the coating or treatment in a
+    3/06    . by exposure to radiation (B05D 3/02 takes
+precedence {; plasma treatment B05D 3/141})
+    3/062   . . . {Pretreatment}
+    3/063   . . . . {of polymeric substrates (B05D 3/064 takes
+    3/064   . . . . {involving also the use of a gas}
+    3/065   . . . {After-treatment}
+    3/066   . . . . {involving also the use of a gas}
+    3/067   . . . . {Curing or cross-linking the coating}
+    3/068   . . {using ionising radiations (gamma, X, electrons)}
+    3/10    . by other chemical means
+    3/101   . . {Pretreatment of polymeric substrate}
+    3/102   . . {Pretreatment of metallic substrates (C23C takes
+    3/104   . . {Pretreatment of other substrates}
+    3/105   . . {Intermediate treatments}
+    3/107   . . {Post-treatment of applied coatings}
+    3/12    . by mechanical means
+    3/14    . by electrical means
+    3/141   . . {Plasma treatment}
+    3/142   . . . {Pretreatment}
+    3/144   . . . . {of polymeric substrates}
+    3/145   . . . {After-treatment}
+    3/148   . . . . {affecting the surface properties of the
+    3/20    . {by magnetic fields}
+    3/203   . . {pre-treatment by magnetic fields}
+    3/207   . . {post-treatment by magnetic fields}
+    5/00    Processes for applying liquids or other fluent
+materials to surfaces to obtain special surface
+effects, finishes or structures
+    5/005   . {Repairing damaged coatings}
+    5/02    . to obtain a matt or rough surface
+    5/04    . to obtain a surface receptive to ink or other liquid
+(B05D 5/02, {B41M 5/52} take precedence)
+    5/06    . to obtain multicolour or other optical effects
+    5/061   . . {Special surface effect}
+    5/062   . . . {Wrinkled, cracked or ancient-looking effect}
+    5/063   . . . {Reflective effect (B05D 5/067 takes
+    5/065   . . {having colour interferences or colour shifts or
+opalescent looking, flip-flop, two tones}
+    5/066   . . . {achieved by multilayers}
+    5/067   . . {Metallic effect}
+    5/068   . . . {achieved by multilayers (B05D 5/066 takes
+    5/08    . to obtain an anti-friction or anti-adhesive surface
+(rendering particulate materials free-flowing in
+general, e.g. making them hydrophobic B01J 2/30)
+    5/083   . . {involving the use of fluoropolymers}
+    5/086   . . . {having an anchoring layer}
+    5/10    . to obtain an adhesive surface
+    5/12    . to obtain a coating with specific electrical properties
+    7/00    Processes, other than flocking, specially adapted
+for applying liquids or other fluent materials to
+particular surfaces or for applying particular
+liquids or other fluent materials {(coating of
+foodstuffs A23P 20/17, A23P 20/15, A23P 20/18)}
+    7/02    . to macromolecular substances, e.g. rubber
+(treatment or coating of shaped articles made of
+macromolecular substances C08J 7/00)
+    7/04    . . to surfaces of films or sheets (producing layered
+products by applying coatings of pasty or
+pulverulent plastics B29C 41/00)
+    7/08    . . using synthetic lacquers or varnishes
+    7/10    . . . based on cellulose derivatives
+    7/12    . to leather (chemical treatment of leather C14C;
+    7/14    . to metal, e.g. car bodies (involving a chemical
+reaction between the metal and the coating C23)
+    7/142   . . {Auto-deposited coatings, i.e. autophoretic
+    7/144   . . . {After-treatment of auto-deposited coatings}
+    7/146   . . {to metallic pipes or tubes (processes for coating
+the interior of pipes B05D 7/222)}
+    7/148   . . {using epoxy-polyolefin systems in mono- or
+    7/16    . . using synthetic lacquers or varnishes
+    7/18    . . . based on cellulose derivatives
+    7/20    . to wires (for insulating electric cables H01B 13/16)
+    7/22    . to internal surfaces, e.g. of tubes
+    7/225   . . . {Coating inside the pipe}
+    7/227   . . {of containers, cans or the like}
+    7/24    . for applying particular liquids or other fluent
+    7/26    . . synthetic lacquers or varnishes (B05D 7/08,
+A possible inorganic pretreatment or coating
+on the substrate such as chromatation,
+phosphatation, plating, is not counted as a
+layer. This group covers mostly multilayers
+characterised by each layer and the succession of
+them (laminates in general B32B)
+    7/51    . . {One specific pretreatment, e.g. phosphatation,
+chromatation, in combination with one specific
+coating (pretreatment of metallic substrates
+C23C; pretreatment before coating in general
+    7/53    . . . {Base coat plus clear coat type}
+    7/532   . . . . {the two layers being cured or baked
+    7/5323  . . . . . {the two layers being applied
+    7/534   . . . . {the first layer being let to dry at least
+partially before applying the second layer
+    7/536   . . . . {each layer being cured, at least partially,
+    7/538   . . . . {No curing step for the last layer}
+    7/5383  . . . . . {No curing step for any layer}
+    7/5385  . . . . . . {the two layers being applied
+    7/54    . . . {No clear coat specified}
+    7/542   . . . . {the two layers being cured or baked
+    7/5423  . . . . . {the two layers being applied
+    7/544   . . . . {the first layer is let to dry at least partially
+before applying the second layer}
+    7/546   . . . . {each layer being cured, at least partially,
+    7/548   . . . . {No curing step for the last layer}
+    7/5483  . . . . . {No curing step for any layer}
+    7/5485  . . . . . . {the two layers being applied
+    7/56    . . {Three layers or more}
+    7/57    . . . {the last layer being a clear coat}
+    7/572   . . . . {all layers being cured or baked together}
+    7/5723  . . . . . {all layers being applied simultaneously}
+    7/574   . . . . {at least some layers being let to dry at
+least partially before applying the next layer
+    7/576   . . . . {each layer being cured, at least partially,
+    7/577   . . . . {some layers being coated "wet-on-wet", the
+    7/578   . . . . {No curing step for the last layer}
+    7/5783  . . . . . {No curing step for any layer}
+    7/5785  . . . . . . {all layers being applied
+    7/58    . . . {No clear coat specified}
+    7/582   . . . . {all layers being cured or baked together}
+    7/5823  . . . . . {all layers being applied simultaneously}
+    7/584   . . . . {at least some layers being let to dry, at
+least partially, before applying the next layer
+    7/586   . . . . {each layer being cured, at least partially,
+    7/587   . . . . {some layers being coated "wet-on-wet", the
+    7/588   . . . . {No curing step for the last layer}
+    7/5883  . . . . . {No curing step for any layer}
+    7/5885  . . . . . . {all layers being applied
+ 2201/00    Polymeric substrate or laminate
+ 2201/02    . Polymeric substrate
+ 2201/06    . . Laminate of which the last layer is not a polymer
+ 2202/15    . . Stainless steel
+ 2202/20    . based on light metals
+ 2202/30    . based on refractory metals (Ti, V, Cr, Zr, Nb, Mo,
+ 2202/40    . based on other transition elements
+ 2203/20    . Wood or similar material
+ 2203/22    . Paper or cardboard
+ 2203/30    . Other inorganic substrates, e.g. ceramics, silicon
+ 2210/00    Applying material to more than three types of
+ 2252/02    . of indefinite length
+ 2252/04    . of definite length in a continuous process
+ 2252/10    . Applying the material on both sides
+ 2254/02    . Applying the material on the exterior of the tube
+ 2254/04    . Applying the material on the interior of the tube
+ 2254/06    . . Applying the material on the interior and exterior
+ 2258/00    Small objects (e.g. screws)
+ 2258/02    . The objects being coated one after the other
+ 2259/00    Applying the material to the internal surface of
+hollow articles other than tubes
+ 2301/00    Inorganic additives or organic salts thereof
+ 2301/10    . Phosphates, phosphoric acid or organic salts thereof
+ 2301/20    . Chromates, chromic acid or organic salts thereof
+Additives other than fillers present in the coating material or in
+ 2350/00    Pretreatment of the substrate
+ 2350/30    . Change of the surface
+ 2350/35    . . . by chemical means
+ 2350/38    . . . by mechanical means
+ 2350/40    . . . by adding a porous layer
+ 2350/60    . Adding a layer before coating
+ 2400/00    Indexing scheme for single layers or multilayers
+ 2401/00    Form of the coating product, e.g. solution, water
+dispersion, powders or the like
+ 2401/10    . Organic solvent (B05D 2401/21 takes precedence)
+ 2401/20    . Aqueous dispersion or solution
+ 2401/21    . . Mixture of organic solvent and water
+ 2401/30    . the coating being applied in other forms than
+involving eliminable solvent, diluent or dispersant
+ 2401/31    . . applied as mixtures of monomers and polymers
+ 2401/32    . . applied as powders
+ 2401/33    . . applied as vapours polymerising in situ
+A process should be classified or coded in
+ 2401/40    . where the carrier is not clearly specified
+ 2401/50    . where organic solvent or water can be used as
+ 2401/60    . non aqueous inorganic solvent (B05D 2401/90 takes
+ 2401/90    . at least one component of the composition being in
+supercritical state or close to supercritical state
+ 2420/00    Indexing scheme corresponding to the position of
+each layer within a multilayer coating relative to
+ 2420/01    . first layer from the substrate side
+ 2420/02    . second layer from the substrate side
+ 2420/03    . third layer from the substrate side
+ 2420/04    . fourth layer from the substrate side
+ 2420/05    . fifth layer from the substrate side
+ 2425/00    Indexing scheme corresponding to the position of
+each layer within a multilayer coating relative to
+ 2425/01    . top layer/ last layer, i.e. first layer from the top
+ 2425/02    . second layer from the top surface
+ 2425/03    . third layer from the top surface
+ 2425/04    . fourth layer from the top surface
+ 2425/05    . fifth layer from the top surface
+ 2430/00    Component used as a filler in the composition
+ 2451/00    Type of carrier, type of coating (Multilayers)
+ 2490/50    . compositions varying with a gradient perpendicular
+ 2490/60    . compositions varying with a gradient parallel to the
+ 2500/00    Indexation scheme for the composition of layers
+L05D5**/** codes may be combined with one or
+more codes of the series B05D 2400/00 with a +
+sign. Example : B05D 2503/00 + B05D 2420/01 +
+ 2501/00    Varnish or unspecified clear coat
+Type of polymer or polymer coating
+ 2506/00    Halogenated polymers
+ 2506/10    . Fluorinated polymers
+ 2506/15    . . Polytetrafluoroethylene [PTFE]
+ 2506/20    . Chlorinated polymers
+ 2506/25    . . PVC (B05D 2520/10 takes precedence)
+ 2518/00    Other type of polymers
+ 2518/10    . Silicon-containing polymers
+ 2518/12    . . Ceramic precursors (polysiloxanes, polysilazanes)
+ 2520/00    Water-based dispersions
+4Type of polymer or polymer coating
+ 2601/02    . used for pigmentation effect, e.g. metallic effect
+ 2601/08    . . Aluminium flakes or platelets
+ 2601/20    . used for non-pigmentation effect
+ 2601/24    . . Titanium dioxide, e.g. rutile
+ 2701/00    Coatings being able to withstand changes in the
+shape of the substrate or to withstand welding
+ 2701/10    . withstanding draw and redraw process, punching
+ 2701/20    . withstanding rolling
+ 2701/30    . withstanding bending
+ 2701/40    . withstanding welding

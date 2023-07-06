@@ -1,0 +1,131 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+MECHANICAL METAL-WORKING WITHOUT ESSENTIALLY REMOVING
+WORKING OR PROCESSING OF METAL WIRE ({reducing diameter by} rolling of
+metal B21B; by drawing, auxiliary operations used in connection with metal-working without
+essentially removing material B21C; bundling articles B65B 13/00)
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+Wire working characterised by operations performed
+    1/00    Bending wire other than coiling; Straightening
+    1/002   . {by means of manually operated devices, e.g.
+    1/004   . {by means of press-type tooling}
+    1/006   . {in 3D with means to rotate the tools about the wire
+    1/008   . {in 3D with means to rotate the wire about its axis}
+    1/023   . . {in a device rotating about the wire axis}
+    1/026   . . {Straightening and cutting}
+    1/06    . Bending wire-eyes
+    3/00    Coiling wire into particular forms
+    3/027   . . with extended ends formed in a special shape, e.g.
+    3/04    . . externally on a mandrel or the like
+    3/06    . . internally on a hollow form
+    3/10    . to spirals other than flat, e.g. conical
+    3/12    . of interconnected helical springs
+    5/00    Upsetting wire {or pressing operations affecting
+the wire cross-section}(in the manufacture of nails or
+    7/00    Twisting wire; Twisting wire together (for
+connections of limited size B21F 15/04)
+    9/00    Straining wire (straining prestressing wires for
+concrete E04G 21/12; connections or attachments
+adapted for straining F16G 11/00; {bundling
+    9/002   . {to maintain tension in the wire, e.g. to pull the wire
+    9/005   . {to affect the material properties of the wire}
+    9/007   . {to induce a plastic deformation of the wire}
+    9/02    . by tools adapted also for making connections
+   11/00    Cutting wire (hand cutting tools B26B)
+   15/00    Connecting wire to wire or other metallic
+material or objects; Connecting parts by means
+of wire (tools for both straining and connecting
+B21F 9/00; jacketing or reinforcing B21F 17/00;
+manufacture of wire network B21F 27/00; in making
+bands B21F 43/00 {; bundling machines or tools
+B65B 13/00; for semiconductors H01L 24/85})
+   15/04    . . without additional connecting elements or
+   15/06    . . with additional connecting elements or material
+{(B21F 27/08 takes precedence)}
+   15/08    . . . making use of soldering or welding
+{(B21F 27/10 takes precedence)}
+   15/10    . wire with sheet metal
+   17/00    Jacketing or reinforcing articles with wire (by
+winding B65H 54/00, B65H 81/00; by braiding
+   19/00    Metallic coating of wire (by extruding B21C 23/24;
+by soldering or welding, e.g. cladding or plating
+B23K; by other non-mechanical means C23;
+   23/00    Feeding wire in wire-working machines or
+apparatus (applicable also to feeding rods or strips
+   23/002   . {Feeding means specially adapted for handling
+various diameters of wire or rod}
+   23/005   . {Feeding discrete lengths of wire or rod}
+   23/007   . . {using pick-up means, e.g. for isolating a
+predefined number of wires from a bundle}
+1Wire working characterised by the particular articles produced
+Wire working characterised by the particular articles produced
+   27/00    Making wire network, i.e. wire nets (meshed-ring
+network B21F 31/00; in making bands B21F 43/00;
+   27/005   . {Wire network per se}
+   27/02    . without additional connecting elements or material
+at crossings, e.g. connected by knitting
+   27/04    . . Manufacturing on machines with rotating blades
+   27/06    . . Manufacturing on twister-gear machines
+   27/08    . with additional connecting elements or material at
+   27/10    . . with soldered or welded crossings {(resistance
+spot welding machines for manufacturing of
+metallic grids or mats B23K 11/008)}
+   27/12    . Making special types or portions of network by
+methods or means specially adapted therefor
+   27/121   . . {of tubular form, e.g. as reinforcements for pipes
+   27/122   . . . {by attaching a continuous stirrup to
+   27/124   . . . . {applied by rotation}
+   27/125   . . . {by attaching individual stirrups to longitudinal
+   27/127   . . . {by bending preformed mesh}
+   27/128   . . {of three-dimensional form by connecting wire
+networks, e.g. by projecting wires through an
+   27/14    . . Specially bending or deforming free wire ends
+   27/16    . . for spring mattresses
+   27/18    . . of meshed work for filters or sieves
+   27/20    . . of plaster-carrying network
+   27/22    . . of network for wire-reinforced glass or the like
+   29/00    Making fencing or like material made partly of
+wire (B21F 25/00, B21F 27/00 take precedence)
+   29/02    . comprising bars or the like connected by wires
+   31/00    Making meshed-ring network from wire
+   33/00    Tools or devices specially designed for handling or
+processing wire fabrics or the like
+   33/002   . {Coiling or packing wire network}
+   33/005   . {Cutting wire network}
+   33/007   . {Connecting wire network}
+   33/02    . Mounting of wire network on frames
+   33/025   . . {Mounting of mattress innersprings on
+   33/04    . Connecting ends of helical springs for mattresses
+   35/00    Making springs from wire (by coiling wire
+B21F 3/00; making resilient rings B21F 37/02)
+   35/003   . {Multi-filament springs, e.g. made of stranded,
+braided, cable or multi-filament material}
+   35/006   . {Double twist coil springs}
+   35/02    . Bending or deforming ends of coil springs to special
+   35/04    . Making flat springs, e.g. sinus springs
+   37/00    Manufacture of rings from wire (in chain making
+B21L; making of tyre beads B29D 30/48)
+   37/02    . of resilient rings, e.g. key-rings
+   37/04    . of washers (B21F 37/02 takes precedence)
+   39/00    Making wheel spokes from wire
+   41/00    Making umbrella frames or members from wire
+   43/00    Making bands, e.g. bracelets, or wire (making
+   45/00    Wire-working in the manufacture of other
+particular articles (of pins, needles, nails, hairpins
+B21G; of chains B21L {; for semiconductor devices
+   45/002   . {of frames for spectacles}
+   45/004   . {Mounting bails on containers}
+   45/006   . {of concrete reinforcement fibres}
+   45/008   . {of medical instruments, e.g. stents, corneal rings
+   45/02    . of clothes hangers
+   45/04    . of elements, e.g. levers or links, for bottle stoppers
+   45/06    . of flexible shafts or hollow conduits, e.g. for
+   45/10    . of cards for fabric-napping machines
+   45/14    . of end-pieces for laces or ropes
+   45/16    . of devices for fastening or securing purposes
+   45/18    . . of slide fastener elements
+   45/20    . . of springs hooks; of spring safety hooks
+   45/22    . . of paper fasteners or clips (staples B21F 45/24)
+   45/24    . . of staples; of belt-fastening elements
+   45/28    . . . of "patent-fastener" or press-button type
+   99/00    Subject matter not provided for in other groups of

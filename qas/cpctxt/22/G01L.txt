@@ -1,0 +1,593 @@
+COOPERATIVE PATENT CLASSIFICATION
+MEASURING FORCE, STRESS, TORQUE, WORK, MECHANICAL POWER,
+MECHANICAL EFFICIENCY, OR FLUID PRESSURE (weighing G01G)
+Attention is drawn to the Notes following the title of class G01.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Measuring force or stress, in general (measuring
+    1/005   . {by electrical means and not provided for in
+    1/02    . by hydraulic or pneumatic means
+    1/04    . by measuring elastic deformation of gauges, e.g. of
+    1/042   . . {of helical springs}
+    1/044   . . {of leaf springs}
+    1/046   . . {of spiral springs}
+    1/048   . . {of torsionally deformable elements}
+    1/06    . by measuring the permanent deformation of gauges,
+    1/08    . by the use of counterbalancing forces
+    1/083   . . {using hydraulic or pneumatic counterbalancing
+    1/086   . . {using electrostatic or electromagnetic
+    1/10    . by measuring variations of frequency of stressed
+vibrating elements, e.g. of stressed strings (using
+resistance strain gauges G01L 1/22)
+    1/103   . . {optical excitation or measuring of vibrations}
+    1/106   . . {Constructional details}
+    1/12    . by measuring variations in the magnetic properties
+of materials resulting from the application of stress
+    1/122   . . {by using permanent magnets}
+    1/125   . . {by using magnetostrictive means
+(magnetostrictive sensors H10N 35/101)}
+    1/127   . . {by using inductive means (G01L 1/122,
+    1/14    . by measuring variations in capacitance or
+inductance of electrical elements, e.g. by measuring
+variations of frequency of electrical oscillators
+    1/142   . . {using capacitors}
+    1/144   . . . {with associated circuitry (G01L 1/146 and
+    1/146   . . . {for measuring force distributions, e.g. using
+force arrays (G01L 1/148 takes precedence)}
+    1/148   . . . {using semiconductive material, e.g. silicon}
+    1/16    . using properties of piezo-electric devices
+    1/162   . . {using piezo-electric resonators}
+    1/165   . . . {with acoustic surface waves}
+    1/167   . . . {optical excitation or measuring of vibrations}
+    1/18    . using properties of piezo-resistive materials, i.e.
+materials of which the ohmic resistance varies
+according to changes in magnitude or direction of
+    1/183   . . {by measuring variations of frequency of
+vibrating piezo-resistive material}
+    1/186   . . . {optical excitation or measuring of vibrations}
+    1/20    . by measuring variations in ohmic resistance of solid
+materials or of electrically-conductive fluids (of
+piezo-resistive materials G01L 1/18); by making use
+of electrokinetic cells, i.e. liquid-containing cells
+wherein an electrical potential is produced or varied
+    1/205   . . {using distributed sensing elements}
+    1/22    . . using resistance strain gauges
+    1/2206  . . . {Special supports with preselected places to
+mount the resistance strain gauges; Mounting
+    1/2212  . . . . {particularly adapted to unbounded-wire-
+    1/2218  . . . . {the supports being of the column type, e.g.
+cylindric, adapted for measuring a force
+    1/2225  . . . . . {the direction being perpendicular to the
+    1/2231  . . . . {the supports being disc- or ring-shaped,
+adapted for measuring a force along a single
+    1/2237  . . . . . {the direction being perpendicular to the
+    1/2243  . . . . {the supports being parallelogram-shaped}
+    1/225   . . . {Measuring circuits therefor}
+    1/2256  . . . . {involving digital counting}
+    1/2262  . . . . {involving simple electrical bridges}
+    1/2268  . . . {Arrangements for correcting or for
+    1/2275  . . . . {for non linearity}
+    1/2281  . . . . {for temperature variations}
+    1/2287  . . . {constructional details of the strain gauges
+(adjustable resistors H01C 10/00)}
+    1/2293  . . . . {of the semi-conductor type (semi-conductor
+devices controllable by variations of applied
+    1/24    . by measuring variations of optical properties of
+material when it is stressed, e.g. by photoelastic
+stress analysis {using infra-red, visible light, ultra-
+    1/241   . . {by photoelastic stress analysis}
+    1/242   . . {the material being an optical fibre}
+    1/243   . . . {using means for applying force perpendicular
+    1/245   . . . . {using microbending}
+    1/246   . . . {using integrated gratings, e.g. Bragg gratings}
+    1/247   . . {using distributed sensing elements, e.g.
+microcapsules (along a single optical fibre
+    1/248   . . {using infra-red (G01L 1/241, G01L 1/242 take
+    1/25    . using wave or particle radiation, e.g. X-rays
+{, microwaves}, neutrons (G01L 1/24 takes
+    1/255   . . {using acoustic waves, or acoustic emission
+(G01L 1/10 and G01L 1/16 take precedence)}
+    1/26    . Auxiliary measures taken, or devices used, in
+connection with the measurement of force, e.g. for
+preventing influence of transverse components of
+    3/00    Measuring torque, work, mechanical power, or
+mechanical efficiency, in general
+    3/02    . Rotary-transmission dynamometers
+    3/04    . . wherein the torque-transmitting element
+comprises a torsionally-flexible shaft
+    3/045   . . . {by measuring variations of frequency of
+    3/06    . . . involving mechanical means for indicating
+    3/08    . . . involving optical means for indicating
+    3/10    . . . involving electric or magnetic means for
+    3/101   . . . . {involving magnetic or electromagnetic
+    3/102   . . . . . {involving magnetostrictive means
+(magnetostrictive sensors H10N 35/101)}
+    3/103   . . . . . . {Details about the magnetic material
+    3/104   . . . . . {involving permanent magnets}
+    3/105   . . . . . {involving inductive means (G01L 3/102,
+    3/106   . . . . {involving electrostatic means}
+    3/107   . . . . {involving potentiometric means}
+    3/108   . . . . {involving resistance strain gauges}
+    3/109   . . . . {involving measuring phase difference of
+    3/12    . . . . involving photoelectric means
+    3/14    . . wherein the torque-transmitting element is other
+than a torsionally-flexible shaft
+    3/1407  . . . {involving springs}
+    3/1414  . . . . {using mechanical or hydraulic transducers}
+    3/1421  . . . . {using optical transducers}
+    3/1428  . . . . {using electrical transducers}
+    3/1435  . . . . . {involving magnetic or electromagnetic
+    3/1442  . . . . . {involving electrostatic means}
+    3/145   . . . . . {involving potentiometric means}
+    3/1457  . . . . . {involving resistance strain gauges}
+    3/1464  . . . {involving screws and nuts, screw-gears or
+    3/1471  . . . . {using planet wheels or conical gears}
+    3/1478  . . . {involving hinged levers}
+    3/1485  . . . {involving fluidic means}
+    3/1492  . . . {involving electric couplings}
+    3/16    . Rotary-absorption dynamometers, e.g. of brake type
+    3/18    . . mechanically actuated
+    3/205   . . . {of the air brake type}
+    3/22    . . electrically or magnetically actuated
+    3/24    . Devices for determining the value of power, e.g.
+by measuring and simultaneously multiplying the
+values of torque and revolutions per unit of time,
+by multiplying the values of tractive or propulsive
+    3/242   . . {by measuring and simultaneously multiplying
+    3/245   . . {by measuring and simultaneously multiplying
+    3/247   . . {by measuring and simultaneously multiplying
+tractive or propulsive force and velocity}
+    3/26    . Devices for measuring efficiency, i.e. the ratio of
+    5/00    Apparatus for, or methods of, measuring force,
+work, mechanical power, or torque, specially
+    5/0004  . {Force transducers adapted for mounting in a bore
+of the force receiving structure (G01L 5/0009 takes
+    5/0009  . {Force sensors associated with a bearing (testing of
+    5/0014  . . {by using capacitive sensors}
+    5/0019  . . {by using strain gages, piezo-electric, piezo-
+resistive or other ohmic-resistance based sensors}
+    5/0023  . . {by using magnetic sensors}
+    5/0028  . {Force sensors associated with force applying
+means (G01L 5/0052, G01L 5/0057, G01L 5/0061
+    5/0033  . . {applying a pulling force}
+    5/0038  . . {applying a pushing force}
+    5/0042  . . {applying a torque}
+    5/0047  . {measuring forces due to residual stresses}
+    5/0052  . {measuring forces due to impact (G01L 5/0061,
+G01L 5/14 take precedence; impact testing of
+structures G01M 7/08; impact testing of material
+    5/0057  . {measuring forces due to spring-shaped elements}
+    5/0061  . {Force sensors associated with industrial machines
+or actuators (for the specific machine or actuator
+involved see relevant class, e.g. F01, F04, F16, B66,
+    5/0066  . . {Calibration arrangements}
+    5/0071  . . {Specific indicating arrangements, e.g. of
+    5/0076  . . {Force sensors associated with manufacturing
+machines (G01L 5/0066, G01L 5/0071 and
+B23Q 17/09 take precedence; for the specific
+machine or operation involved see relevant class,
+    5/008   . . . {Force sensors integrated in an article or a
+    5/0085  . . . {Force sensors adapted for insertion between
+cooperating machine elements, e.g. for
+measuring the nip force between rollers}
+    5/009   . . . {Force sensors associated with material
+    5/0095  . {measuring work or mechanical power}
+    5/03    . for measuring release force of ski safety bindings
+    5/04    . for measuring tension in flexible members, e.g.
+ropes, cables, wires, threads, belts or bands
+{(G01L 5/0004 takes precedence)}
+    5/042   . . {by measuring vibrational characteristics of the
+    5/045   . . {for measuring the tension across the width of a
+band-shaped flexible member (measuring flatness
+    5/047   . . {Specific indicating or recording arrangements,
+e.g. for remote indication, for indicating overload
+    5/06    . . using mechanical means {(G01L 5/042,
+    5/08    . . using fluid means {(G01L 5/042, G01L 5/045
+    5/10    . . using electrical means
+    5/101   . . . using sensors inserted into the flexible member
+    5/102   . . . using sensors located at a non-interrupted part
+    5/103   . . . using sensors fixed at one end of the flexible
+    5/105   . . . using electro-optical means
+    5/106   . . . for measuring a reaction force applied on a
+    5/107   . . . for measuring a reaction force applied on an
+element disposed between two supports, e.g. on
+a plurality of rollers or gliders
+    5/108   . . . for measuring a reaction force applied on a
+    5/12    . for measuring axial thrust in a rotary shaft, e.g. of
+    5/13    . for measuring the tractive or propulsive power of
+    5/133   . . {for measuring thrust of propulsive devices,
+e.g. of propellers (aeroplanes B64C; marine
+propulsion B63H; jet-engines F02K)}
+    5/136   . . {Force sensors associated with a vehicle traction
+coupling (vehicle connections B60D; control of
+    5/14    . for measuring the force of explosions; for measuring
+    5/16    . for measuring several components of force
+    5/161   . . using variations in ohmic resistance
+    5/162   . . . of piezoresistors
+    5/1623  . . . of pressure sensitive conductors (using
+    5/1627  . . . of strain gauges (using piezoresistors
+    5/163   . . . of potentiometers
+    5/164   . . using variations in inductance
+    5/165   . . using variations in capacitance
+    5/166   . . using photoelectric means
+    5/167   . . using piezo-electric means
+    5/168   . . using counterbalancing forces
+    5/169   . . using magnetic means
+    5/171   . . using fluid means
+    5/173   . . using acoustic means
+    5/18    . for measuring ratios of force
+    5/20    . for measuring wheel side-thrust
+    5/22    . for measuring the force applied to control members,
+e.g. control members of vehicles, triggers
+    5/221   . . {to steering wheels, e.g. for power assisted
+    5/223   . . {to joystick controls}
+    5/225   . . {to foot actuated controls, e.g. brake pedals}
+    5/226   . . {to manipulators, e.g. the force due to gripping}
+    5/228   . . . {using tactile array force sensors}
+    5/24    . for determining value of torque or twisting moment
+for tightening a nut or other member which is
+    5/243   . . {using washers}
+    5/246   . . {using acoustic waves}
+    5/26    . for determining the characteristic of torque in
+relation to revolutions per unit of time
+    5/28    . for testing brakes
+    5/282   . . {the vehicle wheels cooperating with rotatable
+    5/284   . . {Measuring braking-time or braking distance}
+    5/286   . . {Measuring deceleration}
+    5/288   . . {Measuring the force necessary to rotate a braked
+    7/00    Measuring the steady or quasi-steady pressure of
+a fluid or a fluent solid material by mechanical or
+fluid pressure-sensitive elements ({G01L 11/004
+takes precedence;} transmitting or indicating the
+displacement of mechanical pressure-sensitive
+elements by electric {, e.g., photoelectric} or
+magnetic means G01L 9/00; measuring differences of
+two or more pressure values G01L 13/00; measuring
+two or more pressure values simultaneously
+    7/02    . in the form of elastically-deformable gauges
+    7/022   . . {constructional details, e.g. mounting of
+elastically-deformable gauges (G01L 7/041,
+G01L 7/061, G01L 7/082, G01L 7/102,
+G01L 7/163, G01L 7/182 take precedence)}
+    7/024   . . {with mechanical transmitting or indicating
+means (G01L 7/043, G01L 7/063, G01L 7/084,
+G01L 7/104, G01L 7/166, G01L 7/185 take
+    7/026   . . {with optical transmitting or indicating means
+(G01L 7/045, G01L 7/065, G01L 7/086,
+G01L 7/106, G01L 7/187 take precedence)}
+    7/028   . . {correcting or regulating means (G01L 7/048,
+G01L 7/068, G01L 7/088, G01L 7/108 take
+    7/04    . . in the form of flexible, deformable tubes, e.g.
+    7/041   . . . {Construction or mounting of deformable
+    7/043   . . . {with mechanical transmitting or indicating
+    7/045   . . . {with optical transmitting or indicating means}
+    7/046   . . . {with exhausted tubes}
+    7/048   . . . {correcting or regulating means for flexible,
+    7/06    . . of the bellows type
+    7/061   . . . {construction or mounting of bellows}
+    7/063   . . . {with mechanical transmitting or indicating
+    7/065   . . . {with optical transmitting or indicating means}
+    7/066   . . . {with exhausted bellows}
+    7/068   . . . {correcting or regulating means for bellows}
+    7/08    . . of the flexible-diaphragm type
+    7/082   . . . {construction or mounting of diaphragms (of
+semiconductive diaphragms G01L 9/0042)}
+    7/084   . . . {with mechanical transmitting or indicating
+    7/086   . . . {with optical transmitting or indicating means}
+    7/088   . . . {correcting or regulating means for flexible
+    7/10    . . of the capsule type
+    7/102   . . . {construction or mounting of capsules}
+    7/104   . . . {with mechanical transmitting or indicating
+    7/106   . . . {with optical transmitting or indicating means}
+    7/108   . . . {correcting or regulating means for capsules}
+    7/12    . . . with exhausted chamber; Aneroid barometers
+    7/14    . . . . with zero-setting means
+    7/16    . in the form of pistons
+    7/163   . . {construction or mounting of pistons}
+    7/166   . . {with mechanical transmitting or indicating
+    7/18    . using liquid as the pressure-sensitive medium, e.g.
+    7/182   . . {constructional details, e.g. mounting}
+    7/185   . . {with mechanical transmitting or indicating
+    7/187   . . {with optical transmitting or indicating means}
+    7/20    . . involving a closed chamber above the liquid
+level, the chamber being exhausted or housing
+low-pressure gas; Liquid barometers
+    7/22    . . involving floats, e.g. floating bells
+    7/24    . . involving balances in the form of rings partly
+    9/00    Measuring steady of quasi-steady pressure of fluid
+or fluent solid material by electric or magnetic
+pressure-sensitive elements {(G01L 11/004
+takes precedence)}; Transmitting or indicating
+the displacement of mechanical pressure-
+sensitive elements, used to measure the steady
+or quasi-steady pressure of a fluid or fluent
+solid material, by electric or magnetic means
+(measuring differences of two or more pressure values
+G01L 13/00; measuring two or more pressure values
+    9/0001  . {Transmitting or indicating the displacement of
+elastically deformable gauges by electric, electro-
+mechanical, magnetic or electro-magnetic means
+(G01L 9/0026, G01L 9/0033, G01L 9/0082,
+G01L 9/0089, G01L 9/0091 take precedence)}
+    9/0002  . . {using variations in ohmic resistance
+(G01L 9/0051 takes precedence)}
+    9/0004  . . {using variations in inductance (G01L 9/007
+    9/0005  . . {using variations in capacitance (G01L 9/0072
+    9/0007  . . {using photoelectric means (G01L 9/0076 takes
+    9/0008  . . {using vibrations}
+    9/001   . . . {of an element not provided for in the
+following subgroups of G01L 9/0008}
+    9/0011  . . . . {Optical excitation or measuring}
+    9/0013  . . . {of a string}
+    9/0014  . . . . {Optical excitation or measuring of
+    9/0016  . . . {of a diaphragm}
+    9/0017  . . . . {Optical excitation or measuring}
+    9/0019  . . . {of a semiconductive element}
+    9/002   . . . . {Optical excitation or measuring}
+    9/0022  . . . {of a piezoelectric element}
+    9/0023  . . . . {Optical excitation or measuring}
+    9/0025  . . . . {with acoustic surface waves}
+    9/0026  . {Transmitting or indicating the displacement
+of flexible, deformable tubes by electric,
+electromechanical, magnetic or electromagnetic
+means (G01L 9/0008 takes precedence)}
+    9/0027  . . {using variations in ohmic resistance}
+    9/0029  . . {using variations in inductance}
+    9/003   . . {using variations in capacitance}
+    9/0032  . . {using photoelectric means}
+    9/0033  . {Transmitting or indicating the displacement of
+bellows by electric, electromechanical, magnetic,
+or electromagnetic means (G01L 9/0008 takes
+    9/0035  . . {using variations in ohmic resistance}
+    9/0036  . . {using variations in inductance}
+    9/0038  . . {using variations in capacitance}
+    9/0039  . . {using photoelectric means}
+    9/0041  . {Transmitting or indicating the displacement of
+    9/0042  . . {Constructional details associated with
+semiconductive diaphragm sensors, e.g. etching,
+or constructional details of non-semiconductive
+diaphragms (details about the integration or
+bonding of piezoresistor in or on the diaphragm
+G01L 9/0052 and G01L 9/0057 respectively)}
+    9/0044  . . . {Constructional details of non-semiconductive
+    9/0045  . . . {Diaphragm associated with a buried cavity}
+    9/0047  . . . {Diaphragm with non uniform thickness, e.g.
+with grooves, bosses or continuously varying
+    9/0048  . . . {Details about the mounting of the diaphragm
+to its support or about the diaphragm edges,
+e.g. notches, round shapes for stress relief}
+    9/005   . . . {Non square semiconductive diaphragm}
+    9/0051  . . {using variations in ohmic resistance}
+    9/0052  . . . {of piezoresistive elements (circuits therefor
+    9/0054  . . . . {integral with a semiconducting diaphragm}
+    9/0055  . . . . {bonded on a diaphragm}
+    9/0057  . . . {of potentiometers}
+    9/0058  . . . {of pressure sensitive conductive solid or liquid
+material, e.g. carbon granules}
+    9/006   . . . {of metallic strain gauges fixed to an element
+other than the pressure transmitting diaphragm}
+    9/0061  . . . . {using unbounded-wire-type strain gauges}
+ 2009/0063  . . . . {using a fluid coupling between strain gauge
+    9/0064  . . . . {the element and the diaphragm being in
+ 2009/0066  . . . {Mounting arrangements of diaphragm
+transducers; Details thereof, e.g.
+electromagnetic shielding means}
+ 2009/0067  . . . . {with additional isolating diaphragms}
+ 2009/0069  . . . . {the transducer being mounted on a flexible
+    9/007   . . {using variations in inductance}
+    9/0072  . . {using variations in capacitance}
+    9/0073  . . . {using a semiconductive diaphragm}
+    9/0075  . . . {using a ceramic diaphragm, e.g. alumina,
+    9/0076  . . {using photoelectric means}
+    9/0077  . . . {for measuring reflected light}
+    9/0079  . . . . {with Fabry-Perot arrangements}
+    9/008   . . {using piezoelectric devices (piezoelectric
+resonators G01L 9/0022; surface acoustic waves
+    9/0082  . {Transmitting or indicating the displacement of
+capsules by electric, electromechanical, magnetic,
+or electromechanical means (G01L 9/0008 takes
+    9/0083  . . {using variations in ohmic resistance}
+    9/0085  . . {using variations in inductance}
+    9/0086  . . {using variations in capacitance}
+    9/0088  . . {using photoelectric means}
+    9/0089  . {Transmitting or indicating the displacement of
+pistons by electrical, electromechanical, magnetic
+or electromagnetic means (G01L 9/0008 takes
+    9/0091  . {Transmitting or indicating the displacement of
+liquid mediums by electrical, electromechanical,
+magnetic or electromagnetic means (G01L 9/0008
+    9/0092  . . {using variations in ohmic resistance}
+    9/0094  . . {using variations in inductance}
+    9/0095  . . {using variations in capacitance}
+    9/0097  . . {using photoelectric means}
+    9/0098  . {using semiconductor body comprising at least one
+PN junction as detecting element}
+    9/02    . by making use of variations in ohmic resistance, e.g.
+of potentiometers {, electric circuits therefor, e.g.
+bridges, amplifiers or signal conditioning}
+    9/025   . . {with temperature compensating means (non
+electric temperature compensating means
+    9/04    . . of resistance-strain gauges
+    9/045   . . . {with electric temperature compensating means
+(non electric temperature compensating means
+    9/06    . . of piezo-resistive devices
+    9/065   . . . {with temperature compensating means (non
+electric temperature compensating means
+    9/08    . by making use of piezo-electric devices {, i.e.
+    9/085   . . {with temperature compensating means (non
+electric temperature compensating means
+    9/10    . by making use of variations in inductance {, i.e.
+    9/105   . . {with temperature compensating means (non
+electric temperature compensating means
+    9/12    . by making use of variations in capacitance {, i.e.
+    9/125   . . {with temperature compensating means (non
+electric temperature compensating means
+    9/14    . involving the displacement of magnets, e.g.
+    9/16    . by making use of variations in the magnetic
+properties of material resulting from the application
+    9/18    . by making use of electrokinetic cells, i.e. liquid-
+containing cells wherein an electric potential is
+produced or varied upon the application of stress
+   11/00    Measuring steady or quasi-steady pressure of
+a fluid or a fluent solid material by means not
+provided for in group G01L 7/00 or G01L 9/00
+   11/002   . {by thermal means, e.g. hypsometer}
+   11/004   . {by the use of counterbalancing forces (measuring
+force by the use of counterbalancing forces
+   11/006   . . {hydraulic or pneumatic counterbalancing forces}
+   11/008   . . {electrostatic or electromagnetic
+   11/025   . . {using a pressure-sensitive optical fibre}
+   11/04    . by acoustic means
+   11/06    . . Ultrasonic means
+   13/00    Devices or apparatus for measuring differences of
+two or more fluid pressure values
+   13/02    . using elastically-deformable members or pistons as
+   13/021   . . {using deformable tubes}
+   13/023   . . {using bellows}
+   13/025   . . {using diaphragms}
+   13/026   . . . {involving double diaphragm}
+   13/028   . . {using capsules}
+   13/04    . using floats or liquids as sensing elements
+   13/06    . using electric or magnetic pressure-sensitive
+   15/00    Devices or apparatus for measuring two or more
+fluid pressure values simultaneously
+   17/00    Devices or apparatus for measuring tyre pressure
+or the pressure in other inflated bodies
+   17/005   . {using a sensor contacting the exterior surface, e.g.
+   19/00    Details of, or accessories for, apparatus for
+measuring steady or quasi-steady pressure
+of a fluent medium insofar as such details or
+accessories are not special to particular types of
+   19/0007  . {Fluidic connecting means}
+   19/0015  . . {using switching means}
+   19/0023  . . {for flowthrough systems having a flexible
+   19/003   . . {using a detachable interface or adapter between
+the process medium and the pressure gauge}
+   19/0038  . . {being part of the housing (other details about the
+   19/0046  . . {using isolation membranes (G01L 13/026 and
+ 2019/0053  . {Pressure sensors associated with other sensors, e.g.
+for measuring acceleration, temperature}
+   19/0061  . {Electrical connection means}
+   19/0069  . . {from the sensor to its support}
+   19/0076  . . . {using buried connections}
+   19/0084  . . {to the outside of the housing (other details about
+   19/0092  . {Pressure sensor associated with other sensors,
+e.g. for measuring acceleration or temperature
+(G01L 9/025, G01L 9/045, G01L 9/065,
+G01L 9/085, G01L 9/105, G01L 9/125,
+G01L 19/02, G01L 19/04 take precedence;
+measuring two or more variable G01D 21/02;
+temperature sensors with pressure compensation
+   19/02    . Arrangements for preventing, or for compensating
+for, effects of inclination or acceleration of the
+measuring device; Zero-setting means (for aneroid
+   19/04    . Means for compensating for effects of changes of
+temperature {, i.e. other than electric compensation}
+   19/06    . Means for preventing overload or deleterious
+influence of the measured medium on the measuring
+   19/0609  . . {Pressure pulsation damping arrangements}
+   19/0618  . . {Overload protection}
+   19/0627  . . {Protection against aggressive medium in
+   19/0636  . . . {using particle filters}
+   19/0645  . . . {using isolation membranes, specially adapted
+   19/0654  . . . {against moisture or humidity}
+   19/0663  . . {Flame protection; Flame barriers}
+   19/0672  . . {Leakage or rupture protection or detection}
+   19/0681  . . {Protection against excessive heat}
+   19/069   . . {Protection against electromagnetic or
+   19/08    . Means for indicating or recording, e.g. for remote
+   19/086   . . {for remote indication}
+   19/12    . . Alarms or signals
+   19/14    . Housings {(G01L 19/0007, G01L 19/0084,
+G01L 19/0092, G01L 19/04, G01L 19/06 take
+   19/141   . . {Monolithic housings, e.g. molded or one-piece
+   19/142   . . {Multiple part housings}
+   19/143   . . . {Two part housings}
+   19/144   . . . {with dismountable parts, e.g. for maintenance
+purposes or for ensuring sterile conditions
+(for detachable interface or adapter between
+the process medium and the pressure gauge
+   19/145   . . {with stress relieving means}
+   19/146   . . . {using flexible element between the transducer
+   19/147   . . {Details about the mounting of the sensor to
+   19/148   . . {Details about the circuit board integration,
+e.g. integrated with the diaphragm surface or
+   19/149   . . {of immersion sensor, e.g. where the sensor is
+immersed in the measuring medium or for in vivo
+measurements, e.g. by using catheter tips}
+   19/16    . Dials; Mounting of dials
+   21/02    . having a compression chamber in which gas, whose
+pressure is to be measured, is compressed
+   21/04    . . wherein the chamber is closed by liquid; Vacuum
+   21/06    . . . actuated by rotating or inverting the measuring
+   21/08    . by measuring variations in the transmission of
+acoustic waves through the medium, the pressure of
+   21/10    . by measuring variations in the heat conductivity of
+the medium, the pressure of which is to be measured
+   21/12    . . measuring changes in electric resistance of
+measuring members, e.g. of filaments; Vacuum
+   21/14    . . using thermocouples
+   21/16    . by measuring variation of frictional resistance of
+   21/18    . . using a pendulum
+   21/20    . . using members oscillating about a vertical axis
+   21/22    . . using resonance effects of a vibrating body;
+Vacuum gauges of the Klumb type
+   21/24    . . using rotating members; Vacuum gauges of the
+   21/26    . by making use of radiometer action, i.e. of the
+pressure caused by the momentum of molecules
+passing from a hotter to a cooler member; Vacuum
+   21/28    . . using torsional rotary measuring members
+   21/30    . by making use of ionisation effects
+   21/32    . . using electric discharge tubes with thermionic
+   21/34    . . using electric discharge tubes with cold cathodes
+   21/36    . . using radioactive substances
+   23/00    Devices or apparatus for measuring or indicating
+or recording rapid changes, such as oscillations,
+in the pressure of steam, gas, or liquid; Indicators
+for determining work or energy of steam, internal-
+combustion, or other fluid-pressure engines from
+the condition of the working fluid
+   23/02    . mechanically indicating or recording and involving
+   23/04    . involving means subjected to known counteracting
+   23/06    . Indicating or recording by optical means
+   23/08    . operated electrically {(G01L 23/22 takes
+   23/085   . . {by measuring fluctuations of starter motor
+current or of battery voltage (battery testing
+arrangements G01R 31/36; testing of electrical
+installation on transport means G01R 31/005;
+battery testing arrangements G01R 31/36)}
+   23/10    . . by pressure-sensitive members of the piezo-
+   23/12    . . by changing capacitance or inductance
+   23/125   . . . {by changing capacitance}
+   23/14    . . by electromagnetic elements
+   23/145   . . . {by magnetostrictive elements}
+   23/16    . . by photoelectric means
+   23/18    . . by resistance strain gauges
+   23/20    . combined with planimeters or integrators
+   23/22    . for detecting or indicating knocks in internal-
+combustion engines; Units comprising pressure-
+sensitive members combined with ignitors for firing
+   23/221   . . {for detecting or indicating knocks in internal
+   23/222   . . . {using piezoelectric devices}
+   23/223   . . . {using magnetic or magnetostrictive means}
+   23/225   . . . {circuit arrangements therefor}
+   23/226   . . . . {using specific filtering}
+   23/227   . . . . {using numerical analyses}
+ 2023/228   . . {circuit arrangements therefor}
+   23/24    . {specially adapted} for measuring pressure in inlet
+or exhaust ducts of internal-combustion engines
+   23/26    . Details or accessories
+   23/30    . . Means for indicating consecutively positions of
+pistons or cranks of internal-combustion engines
+in combination with pressure indicators
+   23/32    . . Apparatus specially adapted for recording
+pressure changes measured by indicators
+   25/00    Testing or calibrating of apparatus for measuring
+force, torque, work, mechanical power, or
+   25/003   . {for measuring torque}
+   25/006   . {for measuring work or mechanical power or
+   27/00    Testing or calibrating of apparatus for measuring
+   27/002   . {Calibrating, i.e. establishing true relation between
+transducer output value and value to be measured,
+zeroing, linearising or span error determination}
+   27/005   . . {Apparatus for calibrating pressure sensors}
+   27/007   . {Malfunction diagnosis, i.e. diagnosing a sensor

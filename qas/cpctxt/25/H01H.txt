@@ -1,0 +1,3123 @@
+COOPERATIVE PATENT CLASSIFICATION
+ELECTRIC SWITCHES; RELAYS; SELECTORS; EMERGENCY PROTECTIVE
+DEVICES (contact cables H01B 7/10; electrolytic self-interrupters H01G 9/18; emergency
+protective circuit arrangements H02H; switching by electronic means without contact-making
+1. This subclass covers (in groups H01H 69/00 - H01H 87/00) devices for the protection of electric lines or electric machines or
+apparatus in the event of undesired change from normal electric working conditions, the electrical condition serving directly
+2. This subclass does not cover bases, casings, or covers accommodating two or more switching devices or for accommodating
+a switching device as well as another electric component, e.g. bus-bar, line connector. Those bases, casings or covers are
+3. In this subclass, the following terms or expressions are used with the meanings indicated :
+• "relay" means a switching device having contacts which are  operated from electric inputs which supply, directly or
+indirectly, all the mechanical energy necessary to cause  both the closure and the opening of the contacts;
+• "driving mechanism" refers to the means by which an operating  force applied to the switch is transmitted to the moving
+• "operating" is used in a broader sense than "actuating"  which is reserved for those parts not touched by hand  to effect
+• "acting" or "action" means a self-induced movement of parts  at one stage of the switching.
+These connotations apply to all parts of the verbs "to operate", "to actuate" and "to act" and to words derived therefrom, e.g. to
+4. In this subclass, details are classified as follows :
+• details of an unspecified type of switching device, or  disclosed as applicable to two or more kinds of switching  devices
+designated by the terms or expressions "switches",  "relays", "selector switches", and "emergency protective  devices", are
+classified in groups H01H 1/00 - H01H 9/00;
+• details of an unspecified type of switch, or disclosed as  applicable to two or more types of switches as defined by  groups
+H01H 13/00 - H01H 43/00 and sub-groups H01H 35/02, H01H 35/06, H01H 35/14, H01H 35/18, H01H 35/24 and
+H01H 35/42,  all hereinafter called basic types, are classified in  groups H01H 1/00 - H01H 9/00;
+• details of an unspecified type of relay, or disclosed as  applicable to two or more types of relays as defined by  groups
+H01H 51/00 - H01H 61/00, hereinafter called basic  types are classified in H01H 45/00;
+• details of an unspecified protective device, or applicable  to two or more types of protective devices as defined by  groups
+H01H 73/00 - H01H 83/00, hereinafter called basic  types, are classified in H01H 71/00.
+• However, details only described with reference to, or clearly only applicable to, switching devices of a single basic type,
+are classified in the group appropriate to switching devices of that basic type, e.g. H01H 19/02, H01H 75/04;
+• mechanical structural details of control members of switches  or of keyboards such as keys, push-buttons, levers or other
+mechanisms for transferring the force to the activated  elements are classified in this subclass, even when they are  used for
+controlling electronic switches.
+However, mechanical details directly producing electronic effects are classified in group  H03K 17/94.
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. {In this subclass, non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Contacts (liquid contacts H01H 29/04)
+ 2001/0005  . {Redundant contact pairs in one switch for safety
+ 2001/001   . {providing easy replacement of contacts}
+    1/0015  . {Means for testing or for inspecting contacts, e.g.
+wear indicator (measuring circuits G01R 31/3274)}
+ 2001/0021  . . {Camera or endoscope for monitoring contacts,
+ 2001/0026  . . {wherein one or both contacts contain embedded
+contact wear signal material, e.g. radioactive
+material being released as soon as the contact
+wear reaches the embedded layer}
+ 2001/0031  . . {by analysing radiation emitted by arc or trace
+    1/0036  . {Switches making use of microelectromechanical
+systems [MEMS] (for electromagnetic
+relays H01H 50/005; for electrostatic relays
+ 2001/0042  . . {Bistable switches, i.e. having two stable
+positions requiring only actuating energy
+for switching between them, e.g. with snap
+membrane or by permanent magnet}
+ 2001/0047  . . . {operable only by mechanical latching}
+ 2001/0052  . . {Special contact materials used for MEMS}
+ 2001/0057  . . . {the contact materials containing refractory
+ 2001/0063  . . {having electrostatic latches, i.e. the activated
+position is kept by electrostatic forces other than
+ 2001/0068  . . {with multi dimensional movement, i.e. the
+movable actuator performing movements in at
+least two different directions}
+ 2001/0073  . . {Solutions for avoiding the use of expensive
+silicon technologies in micromechanical
+ 2001/0078  . . {with parallel movement of the movable contact
+ 2001/0084  . . {with perpendicular movement of the movable
+contact relative to the substrate}
+ 2001/0089  . . {Providing protection of elements to be released
+by etching of sacrificial element; Avoiding
+stiction problems, e.g. of movable element to
+    1/0094  . {Switches making use of nanoelectromechanical
+    1/02    . characterised by the material thereof {(containing
+gas-evolving material H01H 33/765)}
+    1/0201  . . {Materials for reed contacts}
+    1/0203  . . {specially adapted for vacuum switches}
+ 2001/0205  . . . {Conditioning of the contact material through
+arcing during manufacturing, e.g. vacuum-
+depositing of layer on contact surface}
+    1/0206  . . . {containing as major components Cu and Cr}
+ 2001/0208  . . {containing rhenium}
+    1/021   . . Composite material
+1. In this group, the following expression is used
+• "composite material" is a material made of
+two or more different materials, e.g. coated
+material, layered materials or carbon fibres
+2. Subject matter classifiable in more than one of
+groups H01H 1/023 - H01H 1/029 should be
+classified in all relevant groups.
+    1/023   . . . having a noble metal as the basic material
+    1/0231  . . . . {provided with a solder layer}
+    1/0233  . . . . and containing carbides
+    1/0237  . . . . and containing oxides
+    1/02372 . . . . . {containing as major components one or
+more oxides of the following elements
+only: Cd, Sn, Zn, In, Bi, Sb or Te}
+    1/02374 . . . . . . {containing as major component CdO}
+    1/02376 . . . . . . {containing as major component SnO2}
+ 2001/02378 . . . . . {containing iron-oxide as major
+    1/025   . . . having copper as the basic material
+    1/027   . . . containing carbon particles or fibres
+    1/029   . . . comprising conducting material dispersed in an
+elastic support or binding material
+    1/04    . . Co-operating contacts of different material
+    1/06    . characterised by the shape or structure of the
+contact-making surface, e.g. grooved
+    1/065   . . {formed by freely suspended particles, e.g.
+    1/08    . . wetted with mercury
+    1/10    . . Laminated contacts with divided contact surface
+    1/12    . characterised by the manner in which co-operating
+ 2001/125   . . {whereby the contacts of the switch are formed
+ 2001/145   . . . {by crossing each other, the cooperating
+contacts each having a contact making ridge
+    1/16    . . . by rolling; by wrapping; Roller or ball contacts
+    1/18    . . . with subsequent sliding
+    1/20    . . . Bridging contacts {(for circuit breakers
+    1/2008  . . . . {Facilitate mounting or replacing contact
+bridge and pressure spring on carrier
+(H01H 11/0012 takes precedence)}
+    1/2016  . . . . {in which the two contact pairs commutate at
+substantially different moments}
+    1/2025  . . . . {comprising two-parallel bridges}
+ 2001/2033  . . . . . {with a contact bridge on both opposite
+sides of a fixed contact pair, each contact
+bridge being moved to close or open the
+    1/2041  . . . . {Rotating bridge}
+    1/205   . . . . . {Details concerning the elastic mounting
+of the rotating bridge in the rotor}
+    1/2058  . . . . . {Rotating bridge being assembled in
+a cassette, which can be placed as a
+complete unit into a circuit breaker}
+    1/2066  . . . . {Fork-shaped bridge; Two transversally
+connected contact arms bridging two fixed
+    1/2075  . . . . {T-shaped bridge; bridging contact has
+lateral arm for mounting resiliently or on a
+    1/2083  . . . . {Bridging contact surfaces directed at an
+oblique angle with respect to the movement
+ 2001/2091  . . . . {having two pivotally and electrically
+    1/22    . . . with rigid pivoted member carrying the moving
+    1/221   . . . . {and a contact pressure spring acting
+between the pivoted member and a
+ 2001/223   . . . . . {using a torsion spring}
+    1/225   . . . . . {the supporting member being pivotable}
+    1/226   . . . . . {having a plurality of parallel contact
+ 2001/228   . . . . . . {with insulating spacers between the
+    1/24    . . . with resilient mounting
+    1/242   . . . . {the contact forming a part of a coil spring}
+    1/245   . . . . {Spring wire contacts}
+ 2001/247   . . . . {using an elastic hinge, the contact being
+composed of rigid parts connected by
+    1/26    . . . . with spring blade support
+ 2001/265   . . . . . {having special features for supporting,
+locating or pre-stressing the contact blade
+    1/28    . . . . . Assembly of three or more contact-
+    1/30    . . . . within supporting guides
+    1/32    . . . Self-aligning contacts
+    1/34    . . . with provision for adjusting position of contact
+relative to its co-operating contact
+    1/365   . . . {Bridging contacts}
+    1/38    . . . Plug-and-socket contacts
+    1/385   . . . . {Contact arrangements for high voltage gas
+    1/40    . . . Contact mounted so that its contact-making
+surface is flush with adjoining insulation
+    1/403   . . . . {Contacts forming part of a printed circuit
+(multilayer keyboard switches H01H 13/702;
+thumbwheel switches H01H 19/001; for
+rotary switches with axial contact pressure
+ 2001/406   . . . . {with holes or recesses between adjacent
+contacts, e.g. to collect abrasion powder}
+    1/42    . . . Knife-and-clip contacts
+ 2001/425   . . . . {with separate contact pressure spring
+confined between two contact knifes and
+urging the knifes onto a mating contact}
+    1/44    . . . with resilient mounting
+    1/46    . . . self-aligning contacts
+    1/48    . . . with provision for adjusting position of contact
+relative to its co-operating contact
+    1/50    . Means for increasing contact pressure, preventing
+vibration of contacts, holding contacts together after
+engagement, or biasing contacts to the open position
+    1/502   . . {the action of the contact pressure spring
+becoming active only after engagement of the
+    1/504   . . {by thermal means}
+ 2001/506   . . {Fail safe contacts, i.e. the contacts being kept in
+a safe position, usually in an open circuit position,
+ 2001/508   . . {with mechanical means to prevent return/reverse
+movement of movable contact once opening or
+    1/52    . . Contacts adapted to act as latches
+    1/54    . . by magnetic force {(combined with
+electrodynamic opening H01H 77/101)}
+ 2001/545   . . . {having permanent magnets directly associated
+    1/56    . Contact arrangements for providing make-before-
+break operation, e.g. for on-load tap-changing
+    1/58    . Electric connections to or between contacts;
+Terminals {(for high tension switches
+H01H 33/025; for electromagnetic relays
+H01H 50/14; for circuit breakers H01H 71/08)}
+    1/5805  . . {Connections to printed circuits (for slide
+switches H01H 15/005; for tumbler switches
+ 2001/5811  . . . {both fixed and movable contacts being formed
+by blank stamping and mounted or soldered on
+printed circuit board without any other housing
+ 2001/5816  . . . {Connections to flexible or curved printed
+    1/5822  . . {Flexible connections between movable contact
+ 2001/5827  . . . {Laminated connections, i.e. the flexible
+conductor is composed of a plurality of thin
+    1/5833  . . {comprising an articulating, sliding or rolling
+contact between movable contact and terminal}
+ 2001/5838  . . . {using electrodynamic forces for enhancing the
+contact pressure between the sliding surfaces}
+    1/5844  . . {making use of wire-gripping clips or springs}
+    1/585   . . . {and piercing the wire insulation}
+    1/5855  . . {characterised by the use of a wire clamping
+ 2001/5861  . . . {Box connector with a collar or lug for
+clamping internal rail and external conductor
+together by a tightening screw}
+    1/5866  . . {characterised by the use of a plug and socket
+ 2001/5872  . . . {including means for preventing incorrect
+ 2001/5877  . . {with provisions for direct mounting on a battery
+ 2001/5883  . . {the extension of the contact being crimped
+ 2001/5888  . . {Terminals of surface mounted devices [SMD]}
+ 2001/5894  . . {the extension of the contact being welded to a
+    1/60    . Auxiliary means structurally associated with the
+switch for cleaning or lubricating contact-making
+surfaces (cleaning by normal sliding of contacts
+    1/605   . . {Cleaning of contact-making surfaces by
+relatively high voltage pulses}
+    1/62    . Heating or cooling of contacts
+    1/64    . Protective enclosures, baffle plates, or screens for
+    1/645   . . {containing getter material (for explosion
+inhibiting in explosion-proofcases H01H 9/046;
+for vacuum switches H01H 33/6683)}
+    1/66    . . Contacts sealed in an evacuated or gas-filled
+envelope, e.g. magnetic dry-reed contacts
+    3/00    Mechanisms for operating contacts ({for tap
+changers H01H 9/0027;} thermal actuating or release
+    3/001   . {Means for preventing or breaking contact-welding}
+ 2003/002   . . {with lockout, e.g. two contact pairs in series}
+    3/004   . {for operating contacts periodically}
+    3/005   . {making use of superconductivity, e.g. levitation
+ 2003/007   . {the contacts being actuated by deformation of a
+ 2003/008   . {with a haptic or a tactile feedback controlled by
+electrical means, e.g. a motor or magnetofriction}
+    3/02    . Operating parts, i.e. for operating driving
+mechanism by a mechanical force external to the
+    3/0206  . . {Combined operation of electric switch and of
+    3/0213  . . {Combined operation of electric switch and
+variable impedance, e.g. resistor, capacitor
+    3/022   . . {Emergency operating parts, e.g. for stop-switch
+    3/0226  . . . {operated by a pull cord}
+ 2003/0233  . . . {for alarm triggering, e.g. fire alarm,
+emergency off switches operated by breaking a
+ 2003/024   . . . {Resetting of bistable emergency operating part
+ 2003/0246  . . . {Resetting of bistable emergency operating part
+by rotating itself or an accessory}
+    3/0253  . . {two co-operating contacts actuated
+independently (for combined circuit-breaker-
+ 2003/026   . . {specially adapted to avoid injury to occupants of
+ 2003/0266  . . {Operating part bringable in an inoperative
+position by an electrical drive}
+ 2003/0273  . . {Manually irreversibly actuated switch}
+ 2003/028   . . {Rotating knob or lever or tumbler that can be
+turned or pushed by hand in only one direction,
+e.g. by making inaccessible one side of a
+ 2003/0286  . . {having a weak point breaking or uncoupling on
+ 2003/0293  . . {with an integrated touch switch}
+    3/04    . . Levers (tumblers H01H 23/14)
+    3/06    . . . Means for securing to shaft of driving
+ 2003/085   . . . {Retractable turn knobs, e.g. flush mounted}
+    3/10    . . . Means for securing to shaft of driving
+ 2003/105   . . . . {with compensation of misalignment in the
+link between the operating part, the driving
+mechanism and the switch, e.g. misalignment
+    3/122   . . . {with enlarged actuating area, e.g. of the
+elongated bar-type; Stabilising means therefor}
+    3/125   . . . . {using a scissor mechanism as stabiliser}
+ 2003/127   . . . {Details of the key cap concerning the
+actuation by fingernails or having provision to
+allow usage with long fingernails}
+    3/14    . . adapted for operation by a part of the human body
+other than the hand, e.g. by foot
+    3/141   . . . {Cushion or mat switches}
+    3/142   . . . . {of the elongated strip type}
+ 2003/143   . . . . . {provisions for avoiding the contact
+actuation when the elongated strip is
+ 2003/145   . . . . {provisions for avoiding closure or contact
+damage during manufacturing or mounting}
+ 2003/146   . . . . {being normally closed}
+ 2003/147   . . . . {Special aspects regarding the peripheral
+ 2003/148   . . . . {the mat switch being composed by
+independently juxtaposed contact tiles, e.g.
+for obtaining a variable protected area}
+    3/16    . . adapted for actuation at a limit or other
+predetermined position in the path of a body,
+the relative movement of switch and body being
+primarily for a purpose other than the actuation of
+the switch, e.g. for a door switch, a limit switch, a
+floor-levelling switch of a lift
+    3/161   . . . {for actuation by moving a closing member,
+e.g. door, cover or lid (the switch controlling
+enclosed equipment H01H 9/226; switches
+operated by a removable member, wherein one
+single insertion movement of a key comprises
+an unlocking stroke and a switch actuating
+stroke, e.g. security switch for safety guards
+    3/162   . . . . {associated with a hinge of the closing
+    3/163   . . . . {associated with locking or manipulating
+ 2003/165   . . . . {associated with an edge of the closing
+    3/166   . . . {Self-adjusting mountings, transmissions and
+ 2003/167   . . . . {with locking of the adjusted parts in the
+adjusted position by a separate action}
+    3/168   . . . {operated by movement in any direction}
+    3/18    . . . the movement in one direction being
+intentionally by hand, e.g. for setting
+automatically cancelled trafficators
+    3/20    . . wherein an auxiliary movement thereof, or of
+an attachment thereto, is necessary before the
+main movement is possible or effective, e.g. for
+    3/22    . Power arrangements internal to the switch for
+operating the driving mechanism
+    3/222   . . {using electrodynamic repulsion}
+ 2003/225   . . . {with coil contact, i.e. the movable contact
+itself forms a secondary coil in which the
+repulsing current is induced by an operating
+    3/227   . . {Interlocked hand- and power-operating
+    3/24    . . using pneumatic or hydraulic actuator {(for
+storing energy in a spring motor H01H 3/301)}
+    3/26    . . using dynamo-electric motor (for storing energy
+    3/262   . . . {using a centrifugal mechanism}
+    3/264   . . . {using a travelling nut mechanism}
+ 2003/266   . . . {having control circuits for motor operating
+switches, e.g. controlling the opening or closing
+ 2003/268   . . . {using a linear motor}
+    3/28    . . using electromagnet (for storing energy in a
+spring motor H01H 3/30; for operating relays
+    3/30    . . using spring motor
+    3/3005  . . . {Charging means}
+    3/301   . . . . {using a fluid actuator}
+    3/3015  . . . . {using cam devices}
+    3/3021  . . . . {using unidirectional coupling}
+    3/3026  . . . . {in which the closing spring charges the
+    3/3031  . . . {Means for locking the spring in a charged
+ 2003/3036  . . . . {using of balls or rollers in the locking
+    3/3042  . . . {using a torsion spring}
+    3/3047  . . . {adapted for operation of a three-position
+    3/3052  . . . {Linear spring motors}
+ 2003/3057  . . . {provisions for avoiding idling, e.g. preventing
+release of stored energy when a breaker is
+closed, or when the springs are not fully
+ 2003/3063  . . . {Decoupling charging handle or motor at end
+of charging cycle or during charged condition}
+ 2003/3068  . . . {Housing support frame for energy
+accumulator and cooperating mechanism}
+ 2003/3073  . . . {Indication of the charge on the spring motor}
+ 2003/3078  . . . {using an inertia element, e.g. a flywheel, to
+controll the energy released by the spring}
+ 2003/3084  . . . {Kinetic energy of moving parts recuperated by
+transformation into potential energy in closing
+or opening spring to be used in next operation}
+ 2003/3089  . . . {Devices for manual releasing of locked
+charged spring motor; Devices for remote
+ 2003/3094  . . . {allowing an opening - closing - opening
+    3/32    . Driving mechanisms, i.e. for transmitting driving
+force to the contacts (snap-action arrangements
+H01H 5/00; introducing a predetermined time delay
+ 2003/323   . . {the mechanisms being adjustable}
+ 2003/326   . . {using bearings}
+    3/36    . . using belt, chain, or cord
+    3/38    . . using spring or other flexible shaft coupling
+    3/40    . . using friction, toothed, or screw-and-nut gearing
+ 2003/405   . . . {using a walking nut}
+    3/42    . . using cam or eccentric
+    3/44    . . using Geneva movement
+    3/46    . . using rod or lever linkage, e.g. toggle
+ 2003/463   . . . {using a blade spring lever for perpendicular
+ 2003/466   . . . {using a living hinge to connect the levers}
+    3/48    . . using lost-motion device
+    3/50    . . with indexing or locating means, e.g. indexing by
+    3/503   . . . {making use of electromagnets}
+ 2003/506   . . . {making use of permanent magnets}
+    3/52    . . with means to ensure stopping at intermediate
+    3/54    . Mechanisms for coupling or uncoupling operating
+parts, driving mechanisms, or contacts
+    3/56    . . using electromagnetic clutch
+    3/58    . . using friction, toothed, or other mechanical clutch
+    3/60    . Mechanical arrangements for preventing or damping
+    3/605   . . {making use of a fluid damper}
+    3/62    . Lubricating means structurally associated with the
+switch (for lubricating contact-making surfaces
+    5/00    Snap-action arrangements, i.e. in which during
+a single opening operation or a single closing
+operation energy is first stored and then released
+to produce or assist the contact movement
+    5/02    . Energy stored by the attraction or repulsion of
+    5/04    . Energy stored by deformation of elastic members
+(by deformation of bimetallic element in thermally-
+    5/045   . . {making use of cooperating spring loaded
+wedging or camming parts between operating
+    5/06    . . by compression or extension of coil springs
+    5/08    . . . one end of spring transmitting movement to the
+contact member when the other end is moved
+    5/10    . . . one end of spring being fixedly connected to
+the stationary or movable part of the switch
+and the other end reacting with a movable or
+stationary rigid member respectively through
+pins, cams, toothed or other shaped surfaces
+    5/12    . . . having two or more snap-action motions in
+    5/14    . . by twisting of torsion members
+    5/16    . . . with auxiliary means for temporarily holding
+parts until torsion member is sufficiently
+    5/18    . . by flexing of blade springs
+    5/20    . . . single blade moved across dead-centre position
+    5/22    . . . blade spring with at least one snap-acting leg
+and at least one separate contact-carrying or
+    5/24    . . . . having three legs
+    5/26    . . . having two or more snap-action motions in
+    5/28    . . . two separate blade springs forming a toggle
+    5/30    . . by buckling of disc springs
+    7/00    Devices for introducing a predetermined time
+delay between the initiation of the switching
+operation and the opening or closing of the
+contacts (time or time-programme switches
+    7/02    . with fluid timing means
+    7/04    . . with flies, i.e. fan governors
+    7/06    . with thermal timing means
+    7/08    . with timing by mechanical speed-control devices
+    7/14    . . . electromagnetic
+    7/16    . Devices for ensuring operation of the switch at
+a predetermined point in the ac cycle (circuit
+    9/00    Details of switching devices, not covered by groups
+    9/0005  . {Tap change devices}
+    9/0011  . . {Voltage selector switches}
+    9/0016  . . {Contact arrangements for tap changers}
+ 2009/0022  . . . {Mounting of the fixed contacts or taps on
+cylindrical wall of oil vessel containing the tap
+    9/0027  . . {Operating mechanisms}
+    9/0033  . . . {with means for indicating the selected tap or
+limiting the number of selectable taps}
+    9/0038  . . {making use of vacuum switches}
+    9/0044  . . {Casings; Mountings; Disposition in transformer
+ 2009/005   . . . {Details concerning the sealing of the oil filled
+ 2009/0055  . . {Oil filters for tap change devices}
+ 2009/0061  . . {Monitoring tap change switching devices}
+    9/0066  . {Auxiliary contact devices (for arc transfer
+H01H 9/38; for electromagnetic relays
+    9/0072  . {particular to three-phase switches (synchronous
+ 2009/0077  . {using recyclable materials, e.g. for easier recycling
+or minimising the packing material}
+ 2009/0083  . {using redundant components, e.g. two pressure
+ 2009/0088  . {Details of rotatable shafts common to more than
+ 2009/0094  . {Details of rotatable shafts which are subdivided;
+details of the coupling means thereof}
+    9/02    . Bases, casings, or covers (accommodating more
+than one switch or a switch and another electrical
+    9/0207  . . {Adjustable mounting of casings}
+    9/0214  . . {Hand-held casings}
+ 2009/0221  . . . {the switches being fixed to the operator's
+hand, e.g. integrated in a glove or fixed to a
+    9/0228  . . . {Line cord switches}
+    9/0235  . . . {specially adapted for remote control, e.g. of
+    9/0242  . . . . {Protective enclosures; Cushioning means}
+    9/025   . . . . {Stands or organisers to facilitate location or
+ 2009/0257  . . . . {Multisided remote control, comprising
+control or display elements on at least two
+sides, e.g. front and back surface}
+    9/0264  . . {Protective covers for terminals}
+    9/0271  . . {structurally combining a switch and an
+electronic component (for relays H01H 50/021)}
+ 2009/0278  . . {Casings containing special noise reduction
+means, e.g. elastic foam between inner and outer
+ 2009/0285  . . {Casings overmoulded over assembled switch or
+ 2009/0292  . . {Transparent window or opening, e.g. for
+allowing visual inspection of contact position or
+    9/04    . . Dustproof, splashproof, drip-proof, waterproof, or
+    9/041   . . . {Casings hermetically closed by a diaphragm
+through which passes an actuating member
+    9/042   . . . {Explosion-proof cases}
+    9/043   . . . . {with pressure-relief devices}
+    9/045   . . . . {with interlocking mechanism between cover
+    9/046   . . . . {with internal explosion inhibiting means}
+    9/047   . . . {provided with venting means}
+ 2009/048   . . . {using a sealing boot, e.g. the casing having
+separate elastic body surrounding the operating
+member and hermetically closing the opening
+    9/06    . . Casing of switch constituted by a handle serving
+a purpose other than the actuation of the switch,
+e.g. by the handle of a vacuum cleaner
+    9/061   . . . {enclosing a continuously variable impedance}
+    9/063   . . . {enclosing a reversing switch}
+ 2009/065   . . . {Battery operated hand tools in which the
+battery and the switch are directly connected}
+ 2009/066   . . . {having switches mounted on a control handle,
+ 2009/068   . . . {with switches mounted on a handlebar, e.g. for
+motorcycles, fork lift trucks, etc.}
+    9/08    . Arrangements to facilitate replacement of a switch,
+    9/085   . . {contact separation effected by removing contact
+    9/10    . Adaptation for built-in fuses (mounting switch
+and fuse separately on, or in, common support
+    9/102   . . {Fuses mounted on or constituting the movable
+    9/104   . . {with interlocking mechanism between switch
+    9/106   . . {fuse and switch being connected in parallel}
+ 2009/108   . . {Building a sliding and/or a removable bridging
+    9/12    . Means for earthing parts of switch not normally
+conductively connected to the contacts
+    9/14    . Adaptation for built-in safety spark gaps
+    9/16    . Indicators for switching condition, e.g. "on" or "off"
+    9/161   . . {comprising light emitting elements}
+    9/162   . . . {Means to facilitate removal or replacement of
+ 2009/164   . . . {the light emitting elements being incorporated
+in and movable with the operating part}
+    9/165   . . {comprising numbered dials (thumb-wheel
+    9/167   . . {Circuits for remote indication}
+    9/168   . . {making use of an electromagnetic wave
+    9/18    . Distinguishing marks on switches, e.g. for
+indicating switch location in the dark; Adaptation of
+switches to receive distinguishing marks
+    9/181   . . {using a programmable display, e.g. LED or
+    9/182   . . {Illumination of the symbols or distinguishing
+marks (H01H 9/181 takes precedence)}
+ 2009/183   . . . {Provisions for enhancing the contrast between
+the illuminated symbol and the background or
+ 2009/184   . . . {Illumination of symbols by using laser light}
+    9/185   . . {Fluorescent or phosphorescent symbols
+or distinguishing marks (H01H 9/181 takes
+ 2009/186   . . {using an electroluminiscent panel}
+ 2009/187   . . {having symbols engraved or printed by laser}
+ 2009/188   . . {with indication of rating}
+ 2009/189   . . {with a tactile symbol or indication, e.g. for blind
+    9/20    . Interlocking, locking, or latching mechanisms
+    9/22    . . for interlocking between casing, cover, or
+protective shutter and mechanism for operating
+contacts {(explosion-proof cases H01H 9/045;
+built-in fuses and interlocking mechanisms
+H01H 9/104; by automatic release of circuit
+    9/223   . . . {Defeatable locking means}
+    9/226   . . . {the casing containing electrical equipment
+other than and operated by the switch}
+    9/24    . . for interlocking two or more parts of the
+mechanism for operating contacts
+    9/26    . . for interlocking two or more switches
+({H01H 13/568 takes precedence;} by
+a detachable member H01H 9/28 {; for
+electromagnetic relays H01H 50/323})
+    9/262   . . . {using flexible transmission elements, e.g.
+ 2009/265   . . . {with interlocking of more than two switches}
+ 2009/267   . . . {with interlocking of two out of three switches,
+e.g. two switches each connecting a power
+supply to a busbar and a bus coupling switch
+interlocked in such a way that the power
+supplies are never connected in parallel}
+    9/28    . . for locking switch parts by a key or equivalent
+removable member (switches operated by a key
+H01H 27/00; locking by removable part of two-
+    9/281   . . . {making use of a padlock (H01H 9/287 takes
+    9/282   . . . . {and a separate part mounted or mountable
+on the switch assembly and movable
+between an unlocking position and a locking
+position where it can be secured by the
+    9/283   . . . . . {the part being removable}
+    9/285   . . . {Locking mechanisms incorporated in the
+switch assembly and operable by a key or a
+    9/286   . . . {making use of a removable locking part acting
+directly on the operating part (H01H 9/281
+    9/287   . . . {wherein the operating part is made
+inaccessible or more difficult to access by a lid,
+cover or guard, e.g. lockable covers}
+ 2009/288   . . . {Provisions relating to welded contacts}
+    9/30    . Means for extinguishing or preventing arc between
+    9/302   . . {wherein arc-extinguishing gas is evolved from
+ 2009/305   . . {including means for screening for arc gases as
+protection of mechanism against hot arc gases or
+for keeping arc gases in the arc chamber}
+ 2009/307   . . {with slow break, e.g. for AC current waiting for
+    9/32    . . Insulating body insertable between contacts
+    9/34    . . Stationary parts for restricting or subdividing the
+    9/341   . . . {Barrier plates carrying electrodes}
+    9/342   . . . {Venting arrangements for arc chutes}
+ 2009/343   . . . . {with variable venting aperture function of
+arc chute internal pressure, e.g. resilient flap-
+    9/345   . . . {Mounting of arc chutes}
+    9/346   . . . {Details concerning the arc formation
+ 2009/347   . . . {using lids for closing the arc chamber after
+ 2009/348   . . . {Provisions for recirculation of arcing gasses
+to improve the arc extinguishing, e.g. move the
+arc quicker into the arcing chamber}
+    9/362   . . . . {Mounting of plates in arc chamber}
+ 2009/365   . . . . {using U-shaped plates}
+ 2009/367   . . . . {defining a recurrent path, e.g. the
+subdivided arc is moved in a closed path
+between each pair of splitter plates}
+    9/38    . . Auxiliary contacts on to which the arc is
+transferred from the main contacts (using arcing-
+    9/383   . . . {Arcing contact pivots relative to the movable
+    9/386   . . . {Arcing contact pivots relative to the fixed
+    9/40    . . Multiple main contacts for the purpose of
+dividing the current through, or potential drop
+    9/42    . . Impedances connected with contacts
+    9/44    . . using blow-out magnet
+    9/443   . . . {using permanent magnets}
+    9/446   . . . {using magnetisable elements associated with
+    9/46    . . using arcing horns (using blow-out magnet
+    9/465   . . . {Shunt circuit closed by transferring the arc
+    9/48    . Means for preventing discharge to non-current-
+carrying parts, e.g. using corona ring
+    9/50    . Means for detecting the presence of an arc or
+    9/52    . Cooling of switch parts (cooling of contacts
+ 2009/523   . . {by using heat pipes}
+ 2009/526   . . {of the high voltage switches}
+    9/54    . Circuit arrangements not adapted to a particular
+application of the switching device and for which no
+    9/541   . . {Contacts shunted by semiconductor devices}
+    9/542   . . . {Contacts shunted by static switch means}
+ 2009/543   . . . . {third parallel branch comprising an energy
+absorber, e.g. MOV, PTC, Zener}
+ 2009/544   . . . . {the static switching means being an
+insulated gate bipolar transistor, e.g. IGBT,
+Darlington configuration of FET and bipolar
+ 2009/545   . . . . {comprising a parallel semiconductor
+switch being fired optically, e.g. using a
+ 2009/546   . . . . {the static switching means being triggered
+by the voltage over the mechanical switch
+    9/547   . . {Combinations of mechanical switches and
+static switches, the latter being controlled by the
+    9/548   . . {Electromechanical and static switch connected
+    9/56    . . for ensuring operation of the switch at a
+predetermined point in the ac cycle
+    9/563   . . . {for multipolar switches, e.g. different timing
+for different phases, selecting phase with first
+ 2009/566   . . . {with self learning, e.g. measured delay is used
+   11/00    Apparatus or processes specially adapted for
+the manufacture of electric switches (processes
+specially adapted for manufacture of rectilinearly
+movable switches having a plurality of operating
+members associated with different sets of contacts,
+   11/0006  . {for converting electric switches (H01H 13/564
+   11/0012  . . {for converting normally open to normally closed
+   11/0018  . . {for allowing different operating parts}
+ 2011/0025  . . . {with provisions for allowing different
+orientation of the operating part, e.g. turning
+knob can be mounted in different positions}
+   11/0031  . . {for allowing different types or orientation of
+ 2011/0037  . . . {with removable or replaceable terminal
+ 2011/0043  . . {for modifying the number or type of operating
+positions, e.g. momentary and stable}
+   11/005   . {of reed switches}
+   11/0056  . {comprising a successive blank-stamping, insert-
+moulding and severing operation}
+   11/0062  . {Testing or measuring non-electrical properties
+of switches, e.g. contact velocity (monitoring
+contacts H01H 1/0015; monitoring gas density
+H01H 33/563; monitoring vacuum H01H 33/668;
+calibrating H01H 69/01; adjusting H01H 71/74;
+testing of electrical properties G01R 31/333)}
+ 2011/0068  . . {measuring the temperature of the switch or parts
+ 2011/0075  . {calibrating mechanical switching properties,
+e.g. "snap or switch moment", by mechanically
+deforming a part of the switch, e.g. elongating a
+blade spring by puncturing it with a laser}
+ 2011/0081  . {using double shot moulding, e.g. for forming
+elastomeric sealing elements on form stable casing}
+ 2011/0087  . {Welding switch parts by use of a laser beam}
+ 2011/0093  . {Standardization, e.g. limiting the factory stock
+by limiting the number of unique, i.e. different
+   11/02    . for mercury switches
+   11/04    . of switch contacts
+   11/041   . . {by bonding of a contact marking face to a
+   11/042   . . . {by mechanical deformation}
+   11/043   . . . {by resistance welding}
+   11/045   . . . {with the help of an intermediate layer
+(contacts provided with a solder layer
+ 2011/047   . . . {on both sides of the contact body portion}
+   11/048   . . {by powder-metallurgical processes}
+   11/06    . . Fixing of contacts to carrier {; Fixing of contacts
+ 2011/062   . . . {by inserting only}
+ 2011/065   . . . {by plating metal or conductive rubber on
+insulating substrate, e.g. Molded Interconnect
+ 2011/067   . . . {by deforming, e.g. bending, folding or
+caulking, part of the contact or terminal which
+   13/00    Switches having rectilinearly-movable operating
+part or parts adapted for pushing or pulling in one
+direction only, e.g. push-button switch (wherein the
+operating part is flexible H01H 17/00)
+   13/023   . . {Light-emitting indicators (for multi-layer
+ 2013/026   . . . {with two or more independent lighting
+elements located inside the push button switch
+that illuminate separate zones of push buttons}
+   13/06    . . . Dustproof, splashproof, drip-proof, waterproof
+   13/063   . . . . {Casings hermetically closed by a diaphragm
+through which passes an actuating member
+ 2013/066   . . . . {using bellows}
+   13/08    . . . Casing of switch constituted by a handle
+serving a purpose other than the actuation of
+   13/10    . . Bases; Stationary contacts mounted thereon
+   13/12    . . Movable parts; Contacts mounted thereon
+   13/14    . . . Operating parts, e.g. push-button
+   13/16    . . . . adapted for operation by a part of the human
+body other than the hand, e.g. by foot
+   13/18    . . . . adapted for actuation at a limit or other
+predetermined position in the path of a body,
+the relative movement of switch and body
+being primarily for a purpose other than the
+actuation of the switch, e.g. door switch,
+limit switch, floor-levelling switch of a lift
+   13/183   . . . . . {for actuation by moving a closing
+member, e.g. door, cover (H01H 13/186,
+H01H 27/002 take precedence; the
+switch controlling enclosed equipment
+   13/186   . . . . . {wherein the pushbutton is rectilinearly
+actuated by a lever pivoting on the housing
+   13/20    . . . Driving mechanisms
+   13/22    . . . . acting with snap action (depending upon
+deformation of elastic members H01H 13/26)
+   13/24    . . . . with means for introducing a predetermined
+   13/26    . . Snap-action arrangements depending upon
+   13/28    . . . using compression or extension of coil springs
+   13/285   . . . . {having a symmetrical configuration
+   13/30    . . . . one end of spring transmitting movement to
+the contact member when the other end is
+   13/32    . . . . one end of spring being fixedly connected to
+the stationary or movable part of the switch
+and the other end reacting with a movable or
+stationary rigid member respectively through
+pins, cams, toothed, or other shaped surfaces
+   13/34    . . . . having two or more snap-action motions in
+   13/36    . . . using flexing of blade springs
+   13/365   . . . . {having a symmetrical configuration
+   13/38    . . . . Single blade moved across dead-centre
+   13/40    . . . . Blade spring with at least one snap-acting leg
+and at least one separate contact-carrying or
+   13/42    . . . . . having three legs
+   13/44    . . . . having two or more snap-action motions in
+   13/46    . . . . two separate blade springs forming a toggle
+   13/48    . . . using buckling of disc springs
+   13/50    . having a single operating member
+   13/503   . . {Stacked switches}
+   13/506   . . {with a make-break action in a single operation}
+   13/52    . . the contact returning to its original state
+immediately upon removal of operating force, e.g.
+ 2013/525   . . . {using a return spring acting perpendicular to
+   13/54    . . the contact returning to its original state a
+predetermined time interval after removal of
+operating force, e.g. for staircase lighting
+   13/56    . . the contact returning to its original state upon the
+next application of operating force
+   13/562   . . . {making use of a heart shaped cam}
+   13/564   . . . . {convertible to momentary push button
+ 2013/566   . . . . . {by removable or exchangeable parts}
+   13/568   . . . . {the contact also returning by some external
+action, e.g. interlocking, protection, remote
+   13/58    . . . with contact-driving member rotated step-wise
+   13/585   . . . . {wherein the movable contact rotates around
+   13/60    . . . with contact-driving member moved alternately
+   13/62    . . the contact returning to its original state upon
+manual release of a latch (latch released by
+   13/64    . . wherein the switch has more than two electrically
+distinguishable positions, e.g. multi-position
+   13/66    . . . the operating member having only two
+   13/68    . having two operating members, one for opening
+and one for closing the same set of contacts (single
+operating member protruding from different sides
+of switch casing for alternate pushing upon opposite
+   13/70    . having a plurality of operating members associated
+with different sets of contacts, e.g. keyboard
+(mounting together a plurality of independent
+   13/7006  . . {comprising a separate movable contact element
+for each switch site, all other elements being
+   13/7013  . . {in which the movable contacts of each switch
+site or of a row of switch sites are formed in a
+   13/702   . . with contacts carried by or formed from layers in
+a multilayer structure, e.g. membrane switches
+   13/703   . . . characterised by spacers between contact
+   13/704   . . . characterised by the layers, e.g. by their
+material or structure (H01H 13/703 takes
+   13/705   . . . characterised by construction, mounting or
+arrangement of operating parts, e.g. push-
+   13/7057  . . . . characterised by the arrangement of
+operating parts in relation to each other, e.g.
+   13/7065  . . . . characterised by the mechanism between
+   13/7073  . . . . . characterised by springs, e.g. Euler springs
+   13/72    . . wherein the switch has means for limiting
+the number of operating members that can
+concurrently be in the actuated position
+   13/74    . . . each contact set returning to its original state
+only upon actuation of another of the operating
+   13/76    . . wherein some or all of the operating members
+actuate different combinations of the contact sets,
+e.g. ten operating members actuating different
+combinations of four contact sets
+   13/78    . . characterised by the contacts or the contact sites
+   13/785   . . . characterised by the material of the contacts,
+   13/79    . . . characterised by the form of the contacts, e.g.
+interspersed fingers or helical networks
+   13/80    . . . characterised by the manner of cooperation of
+the contacts, e.g. with both contacts movable or
+   13/803   . . . characterised by the switching function thereof,
+e.g. normally closed contacts or consecutive
+   13/807   . . . characterised by the spatial arrangement of the
+contact sites, e.g. superimposed sites
+   13/81    . . characterised by electrical connections to external
+   13/82    . . characterised by contact space venting means
+   13/83    . . characterised by legends, e.g. Braille, liquid
+crystal displays, light emitting or optical elements
+   13/84    . . characterised by ergonomic functions, e.g. for
+miniature keyboards; characterised by operational
+sensory functions, e.g. sound feedback (legends
+   13/85    . . . characterised by tactile feedback features
+   13/86    . . characterised by the casing, e.g. sealed casings or
+   13/88    . . Processes specially adapted for manufacture of
+rectilinearly movable switches having a plurality
+of operating members associated with different
+sets of contacts, e.g. keyboards
+   15/00    Switches having rectilinearly-movable operating
+part or parts adapted for actuation in opposite
+   15/005   . {adapted for connection with printed circuit boards}
+   15/025   . . {Light-emitting indicators}
+   15/04    . . Stationary parts; Contacts mounted thereon
+   15/06    . . Movable parts; Contacts mounted thereon
+   15/08    . . . Contact arrangements for providing make-
+before-break operation, e.g. for on-load tap-
+   15/10    . . . Operating parts
+   15/102   . . . . {comprising cam devices}
+   15/105   . . . . . {Adjustable cams}
+   15/107   . . . . . {actuating conventional selfcontained
+microswitches (H01H 15/105 takes
+   15/12    . . . . adapted for operation by a part of the human
+body other than the hand, e.g. by foot
+   15/14    . . . . adapted for actuation at a limit or other
+predetermined position in the path of a body,
+the relative movement of switch and body
+being primarily for a purpose other than the
+actuation of the switch, e.g. door switch,
+limit switch, floor-levelling switch of a lift
+   15/16    . . . Driving mechanisms
+   15/18    . . . . acting with snap action
+   15/20    . . . . with means for introducing a predetermined
+   15/22    . having a single operating part protruding from
+different sides of switch casing for alternate
+   15/24    . having a single operating part only protruding from
+one side of the switch casing for alternate pushing
+   17/00    Switches having flexible operating part adapted
+only for pulling, e.g. cord, chain {(for emergency
+   17/04    . . Stationary parts (guides H01H 17/14)
+   17/06    . . Movable parts (guides H01H 17/14)
+   17/08    . . . Operating part, e.g. cord
+   17/10    . . . . adapted for operation by a part of the human
+body other than the hand, e.g. by foot
+   17/12    . . . . adapted for actuation at a limit or other
+predetermined position in the path of a body,
+the relative movement of switch and body
+being primarily for a purpose other than the
+actuation of the switch, e.g. door switch,
+limit switch, floor-levelling switch of a lift
+   17/14    . . Guiding means for flexible operating part
+   17/16    . having a single flexible operating part adapted for
+   17/165   . . {secured to a part of the switch mechanism that
+   17/18    . . secured to part of the switch driving mechanism
+   17/20    . . . the contact returning to its original state
+immediately upon removal of operating force
+   17/22    . . . the contact returning to its original state upon
+the next application of operating force
+   17/24    . . secured to a part of the switch driving mechanism
+that has both angular and rectilinear motion
+   17/26    . having two flexible operating parts; having a single
+operating part adapted for pulling at both ends
+   17/28    . . secured to part or parts of the switch driving
+mechanism having only rectilinear motion
+   17/30    . . secured to a part or parts of the switch driving
+mechanism having only angular motion
+   19/00    Switches operated by an operating part which
+is rotatable about a longitudinal axis thereof
+and which is acted upon directly by a solid body
+external to the switch, e.g. by a hand
+   19/001   . {Thumb wheel switches}
+   19/003   . . {having a pushbutton actuator}
+   19/005   . {Electromechanical pulse generators}
+ 2019/006   . . {being rotation direction sensitive, e.g. the
+generated pulse or code depends on the direction
+of rotation of the operating part}
+ 2019/008   . {with snap mounting of rotatable part on fixed part,
+e.g. rotor on stator, operating knob on switch panel}
+   19/025   . . {Light-emitting indicators}
+   19/03    . . Means for limiting the angle of rotation of the
+   19/06    . . . Dustproof, splashproof, drip-proof, waterproof,
+   19/065   . . . . {Casings hermetically closed by a diaphragm
+through which passes an actuating member
+   19/08    . . Bases; Stationary contacts mounted thereon
+   19/10    . . Movable parts; Contacts mounted thereon
+   19/11    . . . with indexing means
+   19/115   . . . . {using molded elastic parts only}
+   19/12    . . . Contact arrangements for providing make-
+before-break operation, e.g. for on-load tap-
+   19/14    . . . Operating parts, e.g. turn knob
+ 2019/143   . . . . {having at least two concentric turn knobs}
+ 2019/146   . . . . {Roller type actuators}
+   19/16    . . . . adapted for operation by a part of the human
+body other than the hand, e.g. by foot
+   19/18    . . . . adapted for actuation at a limit or other
+predetermined position in the path of a body,
+the relative movement of switch and body
+being primarily for a purpose other than the
+actuation of the switch, e.g. door switch,
+limit switch, floor-levelling switch of a lift
+   19/183   . . . . . {adapted for operation by the simultaneous
+action of two cam plates, rotating at
+   19/186   . . . . . {with travelling nuts}
+   19/20    . . . Driving mechanisms allowing angular
+displacement of the operating part to be
+   19/22    . . . . incorporating lost motion
+   19/24    . . . . acting with snap action
+   19/26    . . . . with means for introducing a predetermined
+   19/28    . . . Driving mechanisms allowing angular
+displacement of the operating part to be
+effective or possible in only one direction
+   19/30    . . . . incorporating lost motion
+   19/32    . . . . acting with snap action
+   19/34    . . . . with means for introducing a predetermined
+   19/36    . the operating part having only two operative
+positions, e.g. relatively displaced by 180 degrees
+   19/38    . . Change-over switches
+   19/40    . . . having only axial contact pressure
+   19/42    . . providing more than two electrically different
+conditions, e.g. for closing either or both of two
+   19/44    . . . having only axial contact pressure
+   19/46    . the operating part having three operative positions,
+   19/48    . . having only axial contact pressure
+   19/50    . the operating part having four operative positions,
+e.g. off/two-in-series/one-only/two-in-parallel
+   19/52    . . having only axial contact pressure
+   19/54    . the operating part having at least five or an
+unspecified number of operative positions
+   19/56    . . Angularly-movable actuating part carrying
+   19/563   . . . {with an initial separation movement
+perpendicular to the switching movement}
+   19/566   . . . {in which the contact making surfaces are
+inclined, i.e. not perpendicular, to the axial or
+   19/58    . . . having only axial contact pressure, e.g. disc
+   19/585   . . . . {provided with printed circuit contacts}
+   19/60    . . Angularly-movable actuating part carrying no
+   19/605   . . . {in which the actuation of the contacts depends
+   19/62    . . . Contacts actuated by radial cams
+   19/623   . . . . {Adjustable cams}
+   19/626   . . . . {actuating bridging contacts (H01H 19/623
+   19/63    . . . Contacts actuated by axial cams
+{(H01H 19/6355 takes precedence)}
+   19/635   . . . Contacts actuated by rectilinearly-movable
+member linked to operating part, e.g. by pin
+   19/6355  . . . . {using axial cam devices for transforming
+the angular movement into linear movement
+   19/64    . Encased switches adapted for ganged operation
+when assembled in a line with identical switches,
+   21/00    Switches operated by an operating part in the
+form of a pivotable member acted upon directly
+by a solid body, e.g. by a hand (tumbler or rocker
+switches H01H 23/00; switches having an operating
+part movable angularly in more than one plane
+   21/025   . . {Light-emitting indicators}
+   21/06    . . . interlocked with operating mechanism
+   21/08    . . . Dustproof, splashproof, drip-proof, waterproof,
+   21/085   . . . . {Casings hermetically closed by a diaphragm
+through which passes an actuating member
+   21/10    . . . Casing of switch constituted by a handle
+serving a purpose other than the actuation of
+   21/12    . . Bases; Stationary contacts mounted thereon
+   21/14    . . Means for increasing contact pressure
+   21/16    . . Adaptation for built-in fuse
+   21/165   . . . {Fuses mounted on, or constituting the
+movable contact parts of, the switch}
+   21/18    . . Movable parts; Contacts mounted thereon
+   21/20    . . . Contact arrangements for providing make-
+before-break operation, e.g. for on-load tap-
+   21/22    . . . Operating parts, e.g. handle
+ 2021/225   . . . . {with push-pull operation, e.g. which can
+be pivoted in both directions by pushing
+or pulling on the same extremity of the
+   21/24    . . . . biased to return to normal position upon
+   21/245   . . . . . {the contact returning to its original state
+upon the next application of operating
+   21/26    . . . . . adapted for operation by a part of the
+human body other than the hand, e.g. by
+   21/28    . . . . . adapted for actuation at a limit or other
+predetermined position in the path of a
+body, the relative movement of switch and
+body being primarily for a purpose other
+than the actuation of the switch, e.g. door
+switch, limit switch, floor-levelling switch
+   21/282   . . . . . . {for actuation by moving a closing
+member, e.g. door, cover (the switch
+   21/285   . . . . . . {having an operating arm actuated by
+the movement of the body and mounted
+on an axis converting its rotating
+movement into a rectilinear switch
+ 2021/287   . . . . . . {with adjustable head, e.g. the actuator
+head can have different positions in
+relation to the limit switch itself}
+   21/30    . . . . not biased to return to a normal position
+upon removal of operating force
+   21/32    . . . . . adapted for operation by a part of the
+human body other than the hand, e.g. by
+   21/34    . . . . . adapted for actuation at a limit or other
+predetermined position in the path of a
+body, the relative movement of switch and
+body being primarily for a purpose other
+than the actuation of the switch, e.g. door
+switch, limit switch, floor-levelling switch
+   21/36    . . . Driving mechanisms
+   21/38    . . . . incorporating lost motion
+   21/40    . . . . having snap action
+   21/42    . . . . . produced by compression or extension of
+   21/44    . . . . . produced by flexing blade springs
+   21/46    . . . . . with two or more snap-action motions in
+   21/48    . . . . incorporating a ratchet mechanism
+   21/50    . . . . with indexing or latching means, e.g.
+indexing by ball and spring; with means to
+ensure stopping at intermediate operative
+   21/52    . . . . with means for introducing a predetermined
+   21/54    . Lever switches with blade-type contact co-operating
+with one or two spring-clip contacts, e.g. knife
+   21/56    . . making contact in one position only
+   21/58    . . Change-over switches without stable intermediate
+   21/60    . . Change-over switches with stable intermediate
+   21/86    . Switches with abutting contact carried by operating
+part, e.g. telegraph tapping key
+   21/88    . . with intermediate position of rest
+   23/00    Tumbler or rocker switches, i.e. switches
+characterised by being operated by rocking an
+operating member in the form of a rocker button
+In this group, the term "rocking" is defined as
+pivotal motion in one plane about an axis parallel
+to the switch faceplate and located substantially
+centrally between the ends of the rocker button
+   23/003   . {with more than one electrically distinguishable
+condition in one or both positions}
+   23/006   . {adapted for connection with printed circuit boards}
+   23/025   . . {Light-emitting indicators}
+   23/06    . . . Dustproof, splashproof, drip-proof, waterproof,
+   23/065   . . . . {Casings hermetically closed by a diaphragm
+through which passes an actuating member
+   23/08    . . Bases; Stationary contacts mounted thereon
+   23/10    . . Adaptation for built-in fuse
+   23/105   . . . {Fuses mounted on, or constituting the
+   23/12    . . Movable parts; Contacts mounted thereon
+   23/141   . . . . {provided with extensions, e.g. for actuation
+   23/143   . . . . {having a generally flat elongated shape}
+   23/145   . . . . . {the actuating surface having two slightly
+inclined areas extending from the middle
+   23/146   . . . . {having a generally tubular or conical
+   23/148   . . . . {actuated by superimposed sliding element
+(H01H 23/141 takes precedence)}
+   23/16    . . . Driving mechanisms
+   23/162   . . . . {incorporating links interconnecting tumbler
+   23/164   . . . . {with rectilinearly movable member carrying
+   23/166   . . . . {with positive action}
+   23/168   . . . . {using cams}
+   23/18    . . . . incorporating lost motion
+   23/20    . . . . having snap action
+   23/205   . . . . . {using a compression spring between
+tumbler and an articulated contact plate}
+   23/22    . . . . with means for introducing a predetermined
+   23/24    . with two operating positions
+   23/26    . . one of which positions is unstable
+   23/28    . with three operating positions
+   23/30    . . with stable centre positions and one or both end
+   25/00    Switches with compound movement of handle or
+   25/002   . {having an operating member rectilinearly slidable
+ 2025/004   . . {the operating member being depressable
+perpendicular to the other directions}
+   25/006   . {having an operating member slidable in a plane in
+one direction and pivotable around an axis located
+in the sliding plane perpendicular to the sliding
+   25/008   . {Operating part movable both angularly and
+rectilinearly, the rectilinear movement being
+perpendicular to the axis of angular movement}
+   25/04    . Operating part movable angularly in more than one
+   25/041   . . {having a generally flat operating member
+depressible at different locations to operate
+ 2025/043   . . . {the operating member being rotatable
+around wobbling axis for additional switching
+ 2025/045   . . . {having a rotating dial around the operating
+member for additional switching functions}
+ 2025/046   . . . {having a spherical bearing between operating
+ 2025/048   . . {having a separate central push, slide or tumbler
+button which is not integral with the operating
+   25/06    . Operating part movable both angularly and
+rectilinearly, the rectilinear movement being along
+   25/065   . . {using separate operating parts, e.g. a push button
+   27/00    Switches operated by a removable member, e.g.
+key, plug or plate; Switches operated by setting
+members according to a single predetermined
+combination out of several possible settings
+(combined with plug-and-socket connectors
+H01R 13/70; with current-carrying plug H01R 31/08)
+   27/002   . {wherein one single insertion movement of a
+key comprises an unlocking stroke and a switch
+actuating stroke, e.g. security switch for safety
+ 2027/005   . . {the key receiving part having multiple openings
+to allow keys from different directions to operate
+   27/007   . . {the switch being lockable by remote control, e.g.
+   27/04    . Insulating plug or plate inserted between normally
+   27/06    . Key inserted and then turned to effect operation of
+   27/063   . . {wherein the switch cannot be moved to a third
+position, e.g. start position, unless the preceding
+movement was from a first position to a second
+position, e.g. ignition position}
+ 2027/066   . . {having anti-tamper provisions, e.g. avoiding the
+   27/08    . . wherein the key cannot be removed until
+the switch is returned to its original position
+{(H01H 27/063 takes precedence)}
+   27/10    . Switch operated by setting members according to
+a single predetermined combination out of several
+   29/00    Switches having at least one liquid contact (solid
+contacts wetted or soaked with mercury H01H 1/08)
+   29/002   . {Inertia switches}
+   29/004   . {Operated by deformation of container}
+   29/006   . {Self interrupters, e.g. with periodic or other
+repetitive opening and closing of contacts}
+ 2029/008   . {using micromechanics, e.g. micromechanical
+liquid contact switches or [LIMMS]}
+   29/04    . . Contacts; Containers for liquid contacts
+   29/06    . . . Liquid contacts characterised by the material
+   29/08    . . Means for introducing a predetermined time delay
+   29/10    . . . by constricting the flow of the contact liquid
+   29/12    . . Operating mechanisms adapted for operation by
+a part of the human body other than the hand, e.g.
+   29/14    . . Operating mechanisms adapted for actuation at a
+limit or other predetermined position in the path
+of a body, the relative movement of switch and
+body being primarily for a purpose other than the
+actuation of the switch, e.g. door switch, limit
+switch, floor-levelling switch of a lift
+   29/16    . operated by dipping soil contact into stationary
+   29/18    . with level of surface of contact liquid displaced by
+non-electrical contact-making plunger
+   29/20    . operated by tilting contact-liquid container
+   29/22    . . wherein contact is made and broken between
+   29/24    . . wherein contact is made and broken between
+   29/26    . with level of surface of contact liquid displaced by
+   29/28    . with level of surface of contact liquid displaced by
+   29/30    . with level of surface of contact liquid displaced by
+expansion or evaporation thereof
+   29/32    . with contact made by a liquid jet, e.g. earthing
+switch with contact made by jet of water
+   31/00    Air-break switches for high tension without
+arc-extinguishing or arc-preventing means (in
+combination with high tension or heavy-current
+switches with arc-extinguishing or arc-preventing
+   31/003   . {Earthing switches (H01H 31/02 - H01H 31/26 take
+precedence; contact made by liquid jet H01H 29/32;
+for substations H02B 1/16, H02B 5/01; for
+withdrawable switchgear H02B 11/28; for gas-
+insulated switchgear H02B 13/075)}
+   31/006   . {adapted to be operated by a hot stick; Hot sticks
+   31/023   . . {Base and stationary contacts mounted thereon}
+   31/026   . . {Movable parts and contacts mounted thereon}
+   31/04    . . Interlocking mechanisms
+   31/06    . . . for interlocking between casing, cover, or
+protective shutter and mechanism for operating
+   31/08    . . . for interlocking two or more parts of the
+mechanism for operating contacts
+   31/10    . . . for interlocking two or more switches
+   31/12    . . Adaptation for built-in fuse
+   31/122   . . . {Fuses mounted on, or constituting the
+movable contact parts of, the switch}
+   31/125   . . . . {with a pivotally supported fuse, hanging on
+a fixed contact in the open position of the
+switch (H01H 31/127 takes precedence)}
+   31/127   . . . . {Drop-out fuses}
+   31/14    . with bridging contact that is not electrically
+connected to either line contact in open position of
+   31/16    . . with angularly-movable bridging contact or
+   31/18    . . . actuated through the movement of one or more
+   31/20    . . . . at least one insulator being rotatable about its
+   31/22    . . . wherein the contact or contacts are rectilinearly
+movable with respect to the carrying member
+   31/24    . . with rectilinearly-movable bridging contact
+   31/26    . with movable contact that remains electrically
+connected to one line in open position of switch
+   31/28    . . with angularly-movable contact
+   31/283   . . . {wherein the contact or contacts are
+rectilinearly movable with respect to the
+ 2031/286   . . . {wherein the contact is rotatable around its own
+   31/30    . . . actuated through the movement of one or more
+   31/32    . . with rectilinearly-movable contact
+   31/34    . with movable contact adapted to engage an
+overhead transmission line, e.g. for branching
+   31/36    . . Contact moved by pantograph
+   33/00    High-tension or heavy-current switches with arc-
+extinguishing or arc-preventing means
+   33/002   . {Very heavy-current switches
+(H01H 33/02 - H01H 33/98 take precedence)}
+   33/004   . . {making use of superconducting contacts (current
+limitation using superconducting elements
+H02H 9/023; power cryotrons H10N 60/355)}
+   33/006   . {adapted for interrupting fault currents with delayed
+   33/008   . {Pedestal mounted switch gear combinations}
+   33/021   . . {Use of solid insulating compounds resistant
+to the contacting fluid dielectrics and their
+decomposition products, e.g. to SF6}
+   33/022   . . {particular to three-phase circuit breakers
+(synchronous switching H01H 9/563)}
+ 2033/024   . . . {with a triangular setup of circuit breakers}
+   33/025   . . {Terminal arrangements (for vacuum switches
+   33/027   . . {Integrated apparatus for measuring current or
+ 2033/028   . . {the cooperating contacts being both actuated
+simultaneously in opposite directions}
+   33/04    . . Means for extinguishing or preventing arc
+   33/045   . . . {for arcs formed during closing}
+   33/06    . . . Insulating body insertable between contacts
+   33/08    . . . Stationary parts for restricting or subdividing
+ 2033/085   . . . . {using a flat arc chute, the width of arc
+chamber being only slightly greater then
+   33/10    . . . . Metal parts
+   33/12    . . . Auxiliary contacts on to which the arc is
+transferred from the main contacts (using
+   33/121   . . . . {Load break switches}
+   33/122   . . . . . {both breaker and sectionaliser being
+enclosed, e.g. in SF6-filled container}
+   33/123   . . . . . {in which the auxiliary contact pivots
+on the main contact-arm and performs a
+delayed and accelerated movement}
+   33/124   . . . . . . {the auxiliary contact being a whip
+   33/125   . . . . . {comprising a separate circuit breaker
+(H01H 33/122 takes precedence)}
+   33/126   . . . . . . {being operated by the distal end of a
+   33/127   . . . . . . {movable with a sectionalising contact
+arm and operated by such movement}
+   33/128   . . . . . . {being operated by a separate
+   33/14    . . . Multiple main contacts for the purpose of
+dividing the current through, or potential drop
+   33/143   . . . . {of different construction or type}
+ 2033/146   . . . . {using capacitors, e.g. for the voltage
+division over the different switches}
+   33/16    . . . Impedances connected with contacts
+   33/161   . . . . {Variable impedances}
+   33/162   . . . . . {Liquid resistors}
+ 2033/163   . . . . . {using PTC elements}
+   33/164   . . . . {the impedance being inserted in the
+circuit by blowing the arc onto an auxiliary
+   33/165   . . . . {Details concerning the impedances
+(H01H 33/161 takes precedence)}
+   33/166   . . . . {the impedance being inserted only while
+   33/167   . . . . {the impedance being inserted only while
+   33/168   . . . . {the impedance being inserted both while
+closing and while opening the switch}
+   33/18    . . . using blow-out magnet {(for vacuum switches
+   33/182   . . . . {using permanent magnets (H01H 33/187
+   33/185   . . . . {using magnetisable elements associated
+with the contacts (H01H 33/187 takes
+   33/187   . . . . {comprising a hollow annular arc runner and
+a central contact between which a radially
+   33/20    . . . using arcing horns (using blow-out magnet
+   33/22    . . . Selection of fluids for arc-extinguishing
+   33/24    . . Means for preventing discharge to non-current-
+carrying parts, e.g. using corona ring
+   33/245   . . . {using movable field electrodes}
+   33/26    . . Means for detecting the presence of an arc or
+   33/28    . . Power arrangements internal to the switch for
+operating the driving mechanism
+   33/285   . . . {using electro-dynamic repulsion (assisting
+the movement of pistons by accelerating coil
+   33/30    . . . using fluid actuator
+   33/302   . . . . {for fluid insulated switchgear, wherein the
+insulating fluid is also the working fluid}
+   33/304   . . . . {Working fluid supplies}
+ 2033/306   . . . . {monitoring the pressure of the working
+fluid, e.g. for protection measures}
+ 2033/308   . . . . {comprising control and pilot valves}
+   33/36    . . . using dynamo-electric motor
+   33/38    . . . using electromagnet
+   33/40    . . . using spring motor
+   33/42    . . Driving mechanisms
+   33/423   . . . {making use of an electromagnetic wave
+ 2033/426   . . . {Details concerning the connection of the
+isolating driving rod to a metallic part}
+   33/44    . . Devices for ensuring operation of the switch at
+a predetermined point in the ac cycle (circuit
+   33/46    . . Interlocking mechanisms
+   33/48    . . . for interlocking between casing or cover and
+mechanism for operating contacts
+   33/50    . . . for interlocking two or more parts of the
+mechanism for operating contacts
+   33/52    . . . for interlocking two or more switches
+   33/53    . . Cases (for switchgear H02B 1/26); Reservoirs,
+tanks, piping or valves, for arc-extinguishing
+fluid; Accessories therefor, e.g. safety
+arrangements, pressure relief devices
+   33/55    . . . Oil reservoirs or tanks; Lowering means
+therefor (associated with withdrawal
+mechanism for isolation of switch H02B 11/08)
+   33/555   . . . . {Protective arrangements responsive to
+abnormal fluid pressure, liquid level or
+liquid displacement, e.g. Buchholz relays
+(circuits H02H 5/08; specially adapted for
+   33/56    . . . Gas reservoirs
+   33/561   . . . . {composed of different independent
+pressurised compartments put in
+communication only after their assemblage}
+   33/562   . . . . {Means for avoiding liquefaction or for
+disposing of liquefaction products}
+   33/563   . . . . {comprising means for monitoring the
+   33/565   . . . . {Gas-tight sealings for moving parts
+penetrating into the reservoir}
+ 2033/566   . . . . {Avoiding the use of SF6}
+ 2033/567   . . . . {Detection of decomposition products of the
+ 2033/568   . . . . {with overpressure release, e.g. rupture
+   33/57    . . . Recuperation of liquid or gas
+   33/58    . . . Silencers for suppressing noise of switch
+   33/59    . . Circuit arrangements not adapted to a particular
+application of the switch and not otherwise
+provided for, e.g. for ensuring operation of the
+switch at a predetermined point in the ac cycle
+   33/593   . . . {for ensuring operation of the switch at a
+predetermined point of the ac cycle (for
+multipolar switches H01H 9/563)}
+   33/596   . . . {for interrupting dc}
+   33/60    . Switches wherein the means for extinguishing or
+preventing the arc do not include separate means for
+obtaining or increasing flow of arc-extinguishing
+   33/64    . . wherein the break is in gas (vacuum switches
+   33/65    . . . wherein the break is in air at atmospheric
+   33/66    . . Vacuum switches
+   33/6606  . . . {Terminal arrangements}
+ 2033/6613  . . . . {Cooling arrangements directly associated
+with the terminal arrangements}
+   33/662   . . . Housings or protective screens
+   33/66207 . . . . {Specific housing details, e.g. sealing,
+ 2033/66215 . . . . . {Details relating to the soldering or
+brazing of vacuum switch housings}
+ 2033/66223 . . . . . {Details relating to the sealing of vacuum
+ 2033/6623  . . . . . {Details relating to the encasing or the
+outside layers of the vacuum switch
+   33/66238 . . . . {Specific bellows details}
+ 2033/66246 . . . . . {Details relating to the guiding of the
+contact rod in vacuum switch belows}
+ 2033/66253 . . . . . {Details relating to the prevention of
+unwanted rotation of the contact rod in
+   33/66261 . . . . {Specific screen details, e.g. mounting,
+materials, multiple screens or specific
+electrical field considerations}
+ 2033/66269 . . . . . {Details relating to the materials used for
+ 2033/66276 . . . . . {Details relating to the mounting of
+ 2033/66284 . . . . . {Details relating to the electrical field
+properties of screens in vacuum switches}
+ 2033/66292 . . . . . {Details relating to the use of multiple
+   33/664   . . . Contacts; Arc-extinguishing means, e.g. arcing
+   33/6641  . . . . {making use of a separate coil}
+   33/6642  . . . . {having cup-shaped contacts, the cylindrical
+wall of which being provided with inclined
+   33/6643  . . . . {having disc-shaped contacts subdivided in
+petal-like segments, e.g. by helical grooves}
+   33/6644  . . . . {having coil-like electrical connections
+between contact rod and the proper contact}
+   33/6645  . . . . . {in which the coil like electrical
+connections encircle at least once the
+   33/6646  . . . . {having non flat disc-like contact surface}
+   33/6647  . . . . {having fixed middle contact and two
+ 2033/6648  . . . . {Contacts containing flexible parts, e.g. to
+   33/666   . . . Operating arrangements
+   33/6661  . . . . {Combination with other type of switch,
+e.g. for load break switches (H01H 33/143,
+   33/6662  . . . . {using bistable electromagnetic actuators,
+e.g. linear polarised electromagnetic
+   33/6664  . . . . {with pivoting movable contact structure}
+ 2033/6665  . . . . {Details concerning the mounting or
+supporting of the individual vacuum bottles}
+ 2033/6667  . . . . {Details concerning lever type driving rod
+ 2033/6668  . . . . {with a plurality of interruptible circuit paths
+   33/668   . . . Means for obtaining or monitoring the vacuum
+   33/6683  . . . . {by gettering}
+ 2033/6686  . . . . {by emitting and receiving reflected sound or
+   33/68    . . Liquid-break switches, e.g. oil-break
+   33/70    . Switches with separate means for directing,
+obtaining, or increasing flow of arc-extinguishing
+   33/7007  . . {wherein the flow is a function of the current
+   33/7015  . . {characterised by flow directing elements
+associated with contacts (electrical or mechanical
+properties of the contact system H01H 1/385)}
+   33/7023  . . . {characterised by an insulating tubular gas
+flow enhancing nozzle (H01H 33/7038 takes
+   33/703   . . . . {having special gas flow directing elements,
+   33/7038  . . . {characterised by a conducting tubular gas flow
+   33/7046  . . . . {having special gas flow directing elements,
+e.g. grooves, extensions (H01H 33/7053
+   33/7053  . . . . {having a bridging element around two
+   33/7061  . . . {characterised by use of special mounting
+means (H01H 33/7023 - H01H 33/7038 take
+   33/7069  . . . {characterised by special dielectric or
+insulating properties or by special electric
+or magnetic field control properties
+(H01H 33/7023 - H01H 33/7061 take
+   33/7076  . . . {characterised by the use of special materials
+(H01H 33/7023 - H01H 33/7069 take
+   33/7084  . . . {characterised by movable parts influencing the
+gas flow (H01H 33/7023 - H01H 33/7076 take
+   33/7092  . . . {characterised by several arcing chambers in
+series (H01H 33/7023 - H01H 33/7084 take
+   33/72    . . having stationary parts for directing the flow of
+arc-extinguishing fluid, e.g. arc-extinguishing
+   33/73    . . . wherein the break is in air at atmospheric
+   33/74    . . . wherein the break is in gas (in air at
+atmospheric pressure H01H 33/73)
+   33/75    . . . Liquid-break switches, e.g. oil-break
+   33/76    . . wherein arc-extinguishing gas is evolved from
+stationary parts; Selection of material therefor
+   33/765   . . . {the gas-evolving material being incorporated
+   33/77    . . . wherein the break is in air at atmospheric
+   33/78    . . . wherein the break is in gas (in air at
+atmospheric pressure H01H 33/77)
+   33/80    . . flow of arc-extinguishing fluid from a pressure
+source being controlled by a valve
+   33/82    . . . the fluid being air or gas
+   33/83    . . . . wherein the contacts are opened by the flow
+   33/84    . . . the fluid being liquid, e.g. oil
+   33/85    . . . . wherein the contacts are opened by the flow
+   33/86    . . the flow of arc-extinguishing fluid under pressure
+from the contact space being controlled by a
+   33/88    . . the flow of arc-extinguishing fluid being
+produced or increased by movement of pistons or
+   33/882   . . . {the movement being assisted by accelerating
+   33/884   . . . {with variable-area piston}
+   33/886   . . . {by movement of rotating pistons}
+ 2033/888   . . . {Deflection of hot gasses and arcing products}
+   33/90    . . . this movement being effected by or in
+conjunction with the contact-operating
+   33/901   . . . . {making use of the energy of the arc or an
+ 2033/902   . . . . . {with the gases from hot space and
+compression volume following different
+paths to arc space or nozzle, i.e. the
+compressed gases do not pass through hot
+   33/903   . . . . . {and assisting the operating mechanism}
+   33/904   . . . . {characterised by the transmission between
+operating mechanism and piston or movable
+   33/905   . . . . {the compression volume being formed by a
+movable cylinder and a semi-mobile piston}
+ 2033/906   . . . . {with pressure limitation in the compression
+volume, e.g. by valves or bleeder openings}
+ 2033/907   . . . . {using tandem pistons, e.g. several
+compression volumes being modified in
+ 2033/908   . . . . {using valves for regulating communication
+between, e.g. arc space, hot volume,
+compression volume, surrounding volume}
+   33/91    . . . . the arc-extinguishing fluid being air or gas
+ 2033/912   . . . . . {Liquified gases, e.g. liquified SF6}
+   33/92    . . . . the arc-extinguishing fluid being liquid, e.g.
+   33/94    . . . this movement being effected solely due
+to the pressure caused by the arc itself or
+by an auxiliary arc {(H01H 33/903 takes
+   33/95    . . . . the arc-extinguishing fluid being air or gas
+   33/96    . . . . the arc-extinguishing fluid being liquid, e.g.
+   33/98    . . the flow of arc-extinguishing fluid being initiated
+by an auxiliary arc or a section of the arc, without
+any moving parts for producing or increasing the
+flow {(H01H 33/901 takes precedence)}
+   33/982   . . . {in which the pressure-generating arc is rotated
+   35/00    Switches operated by change of a physical
+condition (operated by change of magnetic or electric
+field H01H 36/00; thermally-actuated switches
+A switching device is classified according to that
+physical condition which, when changed, acts
+as input to the device, e.g. external explosion
+causing pressure wave to act upon switch is
+classified in group H01H 35/24, an explosion
+produced within the switch in group H01H 37/00 if
+initiated by heat, in group H01H 39/00 if initiated
+electrically, and in group H01H 35/14 if initiated
+   35/003   . {Switches operated by other part of human body
+than hands (push-button switches H01H 13/16; slide
+switches H01H 15/20; cord switches H01H 17/10;
+other switches H01H 19/16 and H01H 21/26)}
+   35/006   . {Switches operated by mechanical overload
+condition, e.g. transmitted force or torque becoming
+   35/02    . Switches operated by change of position, inclination
+or orientation of the switch itself in relation to
+gravitational field (tilting mercury container
+H01H 29/20; change of position due to change of
+   35/022   . . {the switch being of the reed switch type}
+   35/025   . . {the switch being discriminative in different
+   35/027   . . {the inertia mass activating the switch
+mechanically, e.g. through a lever}
+   35/06    . Switches operated by change of speed (operated by
+change of fluid flow H01H 35/24)
+   35/10    . . Centrifugal switches (level of mercury displaced
+by centrifugal action H01H 29/26)
+   35/12    . . operated by reversal of direction of movement
+   35/14    . Switches operated by change of acceleration, e.g.
+by shock or vibration, inertia switch {(wherein
+the liquid constitutes a contact of the switch
+   35/142   . . . {Damping means to avoid unwanted response}
+   35/143   . . . {Resetting means}
+   35/144   . . {operated by vibration}
+   35/145   . . {operated by a particular acceleration-time
+   35/146   . . {operated by plastic deformation or rupture of
+structurally associated elements}
+   35/147   . . {the switch being of the reed switch type}
+   35/148   . . {making use of a rolamite sensor}
+   35/18    . Switches operated by change of liquid level or of
+liquid density, e.g. float switch (by magnet carried
+   35/183   . . {making use of a thermal switch}
+   35/186   . . {making use of a cable suspended floater
+containing an inclination sensing switch}
+   35/24    . Switches operated by change of fluid pressure, by
+fluid pressure waves, or by change of fluid flow
+(wherein the change of pressure is caused by change
+   35/242   . . {operated by one particular pressure-time
+   35/245   . . {actuated by the deformation of a body of elastic
+   35/247   . . {the switch being of the reed switch type}
+   35/2607  . . . {Means for adjustment of "ON" or "OFF"
+operating pressure (means for adjustment
+of "ON" or "OFF" operating temperature of
+thermally actuated switches by varying bias on
+the thermal element due to a separate spring
+   35/2614  . . . . {by varying the bias on the pressure sensitive
+   35/2621  . . . . . {the bias being magnetic}
+   35/2628  . . . . {by varying the relative position of switch-
+casing and pressure sensitive element}
+   35/2635  . . . . {by adjustment of a motion transmitting
+   35/2642  . . . . . {comprising a lost-motion connection}
+   35/265   . . . . {by adjustment of one of the co-operating
+   35/2657  . . . {with different switches operated at
+substantially different pressures}
+   35/2664  . . . . {making use of a balance plate pivoting
+   35/2671  . . . {Means to detect leaks in the pressure sensitive
+   35/2678  . . . {Means to isolate oscillating component of
+   35/2685  . . . {Means to protect pressure sensitive element
+   35/2692  . . . {comprising pneumatic snap-action}
+   35/28    . . . Compensation for variation of ambient pressure
+   35/30    . . . Means for transmitting pressure to pressure-
+responsive operating part, e.g. by capsule and
+   35/32    . . actuated by bellows
+   35/34    . . actuated by diaphragm
+   35/343   . . . {by snap acting diaphragm}
+   35/346   . . . {in which the movable contact is formed or
+directly supported by the diaphragm}
+   35/36    . . actuated by curled flexible tube, e.g. Bourdon
+   35/38    . . actuated by piston and cylinder
+   35/40    . . actuated by devices allowing continual flow of
+   35/405   . . . {the switch being of the reed switch type}
+   35/42    . Switches operated by change of humidity
+   36/00    Switches actuated by change of magnetic field or of
+electric field, e.g. by change of relative position of
+magnet and switch, by shielding
+   36/0006  . {Permanent magnet actuating reed switches
+(H01H 35/147 takes precedence)}
+   36/0013  . . {characterised by the co-operation between reed
+switch and permanent magnet; Magnetic circuits}
+   36/002   . . . {Actuation by moving ferromagnetic material,
+   36/0026  . . . {comprising a biasing, helping or polarising
+   36/0033  . . {Mountings; Housings; Connections}
+   36/004   . . {push-button-operated, e.g. for keyboards}
+   36/0046  . . {Limit switches, also fail-safe operation or anti-
+   36/0053  . . {periodically operated}
+   36/006   . . {comprising a plurality of reed switches, e.g.
+selectors or joystick-operated}
+   36/0066  . . {magnet being removable, e.g. part of key pencil}
+   36/0073  . {actuated by relative movement between two
+   36/008   . {Change of magnetic field wherein the magnet
+and switch are fixed, e.g. by shielding or relative
+movements of armature (for reed switches
+ 2036/0086  . {Movable or fixed contacts formed by permanent
+ 2036/0093  . {Micromechanical switches actuated by a change of
+   36/02    . actuated by movement of a float carrying a magnet
+   37/00    Thermally-actuated switches
+   37/002   . {combined with protective means}
+   37/004   . {with thermal image}
+   37/006   . {with different switches operated at substantially
+ 2037/008   . {Micromechanical switches operated thermally}
+   37/04    . . Bases; Housings; Mountings {(H01H 37/5427
+   37/043   . . . {Mountings on controlled apparatus}
+ 2037/046   . . . {being soldered on the printed circuit to be
+   37/06    . . . to facilitate replacement, e.g. cartridge housing
+   37/08    . . Indicators; Distinguishing marks
+   37/10    . . Compensation for variation of ambient
+   37/12    . . Means for adjustment of "on" or "off" operating
+   37/14    . . . by anticipatory electric heater
+   37/16    . . . by varying the proportion of input heat received
+by the thermal element, e.g. by displacement of
+   37/18    . . . by varying bias on the thermal element due to a
+   37/20    . . . by varying the position of the thermal element
+in relation to switch base or casing
+   37/22    . . . by adjustment of a member transmitting motion
+from the thermal element to contacts or latch
+   37/24    . . . by adjustment of position of the movable
+   37/26    . . . by adjustment of abutment for "off" position of
+   37/28    . . . by adjustment of the position of the fixed
+   37/30    . . . by varying the position of the contact unit in
+relation to switch base or casing
+   37/32    . . Thermally-sensitive members
+   37/323   . . . {making use of shape memory materials
+(in thermal relays H01H 61/0107; release
+mechanism H01H 71/145; treatment of SMF
+alloys C22F 1/006; for control of temperature
+ 2037/326   . . . {with radiative heat transfer to the switch, e.g.
+   37/34    . . . Means for transmitting heat thereto, e.g.
+capsule remote from contact member
+   37/36    . . . actuated due to expansion or contraction of a
+fluid with or without vaporisation (the fluid
+forming a contact of the switch H01H 29/04,
+   37/38    . . . . with bellows
+   37/40    . . . . with diaphragm
+   37/42    . . . . with curled flexible tube, e.g. Bourdon tube
+   37/44    . . . . with piston and cylinder
+   37/46    . . . actuated due to expansion or contraction of
+a solid (deflection of a bimetallic element
+   37/48    . . . . with extensible rigid rods or tubes
+   37/50    . . . . with extensible wires under tension
+   37/52    . . . actuated due to deflection of bimetallic element
+   37/521   . . . . {comprising a plurality of bimetals acting in
+ 2037/523   . . . . {using a corrugated bimetal}
+ 2037/525   . . . . {Details of manufacturing of the bimetals,
+e.g. connection to non bimetallic elements or
+ 2037/526   . . . . {Materials for bimetals}
+ 2037/528   . . . . {the bimetallic element being composed of
+   37/54    . . . . wherein the bimetallic element is inherently
+   37/5409  . . . . . {Bistable switches; Resetting means}
+   37/5418  . . . . . {using cantilevered bimetallic snap
+   37/5427  . . . . . {encapsulated in sealed miniaturised
+   37/5436  . . . . . . {mounted on controlled apparatus}
+ 2037/5445  . . . . . {with measures for avoiding slow break of
+contacts during the creep phase of the snap
+ 2037/5454  . . . . . {with separate spring biasing the bimetal
+snap element against the heat transfer
+ 2037/5463  . . . . . {the bimetallic snap element forming part
+ 2037/5472  . . . . . {having an omega form, e.g. the bimetallic
+snap element having a ring shape with a
+ 2037/5481  . . . . . {the bimetallic snap element being
+ 2037/549   . . . . . {Details of movement transmission
+between bimetallic snap element and
+   37/56    . . . . having spirally wound or helically wound
+   37/58    . . . actuated due to thermally controlled change of
+   37/585   . . . . {the switch being of the reed switch type}
+   37/60    . . Means for producing snap action (inherent in
+bimetallic element H01H 37/54; caused by a
+   37/62    . . Means other than thermal means for introducing a
+   37/66    . . . Magnetic reinforcement of contact pressure;
+   37/68    . . . sealed in evacuated or gas-filled tube
+   37/70    . . . Resetting means {(H01H 37/5409 takes
+ 2037/705   . . . . {wherein the switch cannot be closed when
+the temperature is above a certain value}
+   37/72    . Switches in which the opening movement and
+the closing movement of a contact are effected
+respectively by heating and cooling or vice versa
+   37/74    . Switches in which only the opening movement or
+only the closing movement of a contact is effected
+   37/76    . . Contact member actuated by melting of fusible
+material, actuated due to burning of combustible
+material or due to explosion of explosive material
+   37/761   . . . {with a fusible element forming part of
+the switched circuit (H01H 37/767 takes
+ 2037/762   . . . . {using a spring for opening the circuit when
+ 2037/763   . . . . . {the spring being a blade spring}
+   37/764   . . . {in which contacts are held closed by a thermal
+   37/765   . . . . {using a sliding contact between a metallic
+cylindrical housing and a central electrode}
+   37/766   . . . . {using a bridging contact}
+   37/767   . . . {Normally open}
+ 2037/768   . . . {characterised by the composition of the fusible
+ 2037/769   . . . {characterised by the composition of insulating
+fusible materials, e.g. for use in the thermal
+   39/00    Switching devices actuated by an explosion
+produced within the device and initiated by an
+   39/002   . {provided with a cartridge-magazine}
+   39/004   . {Closing switches}
+   39/006   . {Opening by severing a conductor}
+ 2039/008   . {using the switch for a battery cutoff}
+   41/00    Switches providing a selected number of
+consecutive operations of the contacts by a single
+manual actuation of the operating part
+   41/04    . Switches without means for setting or mechanically
+   41/06    . . dial or slide operated
+   41/08    . . keyboard operated
+   41/10    . Switches with means for setting or mechanically
+   41/12    . . dial or slide operated
+   41/14    . . keyboard operated
+   43/00    Time or time-programme switches providing a
+choice of time-intervals for executing one or more
+switching actions and automatically terminating
+their operations after the programme is completed
+   43/005   . {with timing of the actuation of contacts due to a
+part rotating at variable speed}
+   43/022   . . {Bases; Housings; Mountings}
+   43/024   . . {Terminal arrangements}
+   43/026   . . {Contact arrangements}
+   43/028   . . {Means for manually actuating the contacts or
+interfering with the cooperation between timer
+   43/04    . . Means for time setting
+   43/06    . . . comprising separately adjustable parts for each
+programme step, e.g. with tappets
+   43/065   . . . . {using cams or discs supporting a plurality
+of individually programmable elements
+   43/08    . . . comprising an interchangeable programme part
+which is common for all programme steps, e.g.
+   43/10    . with timing of actuation of contacts due to a part
+rotating at substantially constant speed
+   43/101   . . {Driving mechanisms}
+   43/102   . . . {using a pawl and ratchet wheel mechanism}
+   43/103   . . {stopping automatically after one preselected
+   43/104   . . . {by mechanical coupling device}
+   43/105   . . . {by electromechanical coupling device}
+   43/106   . . {Manual programme selecting means}
+ 2043/107   . . . {Bidirectional selecting means, e.g. the
+program selecting knob being turnable in both
+ 2043/108   . . {where at least some contacts of
+electromechanical timer give instructions to
+electronic timer and/or the timing motor is under
+control of electronic timer, e.g. hybrid timer}
+   43/12    . . stopping automatically after a single cycle of
+   43/121   . . . {using a drum}
+   43/122   . . . . {with provision for adjustment of the
+intervals by a non-rotating member}
+   43/124   . . . {using a disc}
+   43/125   . . . {using a cam}
+   43/127   . . . . {with provision for adjustment of the
+intervals by means carried by the cam}
+   43/128   . . . . {with provision for adjustment of the
+intervals by a non-rotating member}
+   43/14    . . . wherein repetition of operation necessitates
+   43/16    . . stopping automatically after a predetermined
+plurality of cycles of operation
+   43/24    . with timing of actuation of contacts due to a non-
+   43/26    . . the actuation being produced by a substance
+flowing due to gravity, e.g. sand, water
+   43/28    . . the actuation being produced by a part, the speed
+of which is controlled by fluid-pressure means,
+   43/285   . . . {adjusting the time interval by means of an
+adjustable orifice, e.g. needle valve}
+   43/30    . with timing of actuation of contacts due to thermal
+   43/301   . . {based on the expansion or contraction of a
+material (thermometers based on the expansion or
+contraction of a material G01K 5/00)}
+   43/302   . . . {of solid bodies}
+   43/303   . . . . {of one single solid body, e.g. hot wire}
+   43/304   . . . . {of two bodies expanding or contracting in a
+different manner, e.g. bimetallic elements}
+   43/305   . . . . . {actuating the contacts by commanding a
+mechanical device, e.g. thermal motor}
+   43/308   . . {based on the change of electrical properties, e.g.
+thermistors (thermometers based on the use of
+electric or magnetic elements directly sensitive to
+   43/309   . . {based on the change of magnetic properties
+(thermometers based on the use of electric or
+magnetic elements directly sensitive to heat
+   43/32    . with timing of actuation of contacts due to
+electrolytic processes; with timing of actuation of
+contacts due to chemical processes
+   43/322   . . {Electrolytic decomposition of liquids, e.g.
+actuation of contacts due to action of the products
+   43/325   . . {Electrolytic decomposition of solid bodies, e.g.
+   43/327   . . {acting by coulometric transfer of material}
+   45/00    Details of relays (electric circuit arrangements
+H01H 47/00; of electromagnetic relays H01H 50/00;
+details of electrically-operated selector switches
+   45/02    . Bases; Casings; Covers (frames for mounting two
+or more relays or for mounting a relay and another
+electric component H02B 1/01, H04Q 1/08, H05K)
+   45/04    . . Mounting complete relay or separate parts of
+relay on a base or inside a case
+   45/06    . . having windows; Transparent cases or covers
+   45/08    . Indicators; Distinguishing marks
+   45/10    . Electromagnetic or electrostatic shielding (casings
+   45/12    . Ventilating; Cooling; Heating (for operating
+electrothermal relays H01H 61/013)
+   45/14    . Terminal arrangements
+   47/00    Circuit arrangements not adapted to a particular
+application of the relay and designed to obtain
+desired operating characteristics or to provide
+   47/001   . {Functional circuits, e.g. logic, sequencing,
+   47/002   . {Monitoring or fail-safe circuits}
+ 2047/003   . . {Detecting welded contacts and applying weld
+   47/004   . . {using plural redundant serial connected relay
+operated contacts in controlled circuit}
+   47/005   . . . {Safety control circuits therefor, e.g. chain of
+relays mutually monitoring each other}
+ 2047/006   . . {Detecting unwanted movement of contacts and
+applying pulses to coil for restoring to normal
+   47/007   . {with galvanic isolation between controlling and
+controlled circuit, e.g. transformer relay}
+ 2047/008   . {with a drop in current upon closure of armature or
+ 2047/009   . {with self learning features, e.g. measuring the
+attracting current for a relay and memorising it}
+   47/02    . for modifying the operation of the relay
+ 2047/025   . . {with taking into account of the thermal
+influences, e.g. change in resistivity of the coil or
+being adapted to high temperatures}
+   47/04    . . for holding armature in attracted position, e.g.
+when initial energising circuit is interrupted; for
+maintaining armature in attracted position, e.g.
+with reduced energising current {(with switching
+   47/043   . . . {making use of an energy accumulator (for
+ 2047/046   . . . {with measuring of the magnetic field, e.g.
+of the magnetic flux, for the control of coil
+   47/06    . . . by changing number of serially-connected turns
+   47/08    . . . by changing number of parallel-connected turns
+   47/10    . . . by switching-in or -out impedance external to
+   47/12    . . for biasing the electromagnet
+   47/14    . . for differential operation of the relay
+   47/16    . . for conjoint, e.g. additive, operation of the relay
+   47/18    . . for introducing delay in the operation of the relay
+(short-circuited conducting sleeves, bands or
+   47/20    . . for producing frequency-selective operation of the
+   47/22    . for supplying energising current for relay coil
+   47/223   . . {adapted to be supplied by AC}
+   47/226   . . {for bistable relays}
+   47/24    . . having light-sensitive input
+   47/26    . . having thermo-sensitive input
+   47/28    . . Energising current supplied by discharge tube
+   47/30    . . . by gas-filled discharge tube
+   47/32    . . Energising current supplied by semiconductor
+   47/325   . . . {by switching regulator}
+   47/34    . . Energising current supplied by magnetic amplifier
+   47/36    . . Relay coil or coils forming part of a bridge circuit
+   49/00    Apparatus or processes specially adapted to the
+manufacture of relays or parts thereof
+   50/00    Details of electromagnetic relays ({H01H 51/28
+takes precedence;} electric circuit arrangements
+H01H 47/00; details of electrically-operated selector
+   50/002   . {particular to three-phase electromagnetic relays
+(synchronous switching H01H 9/563)}
+   50/005   . {using micromechanics}
+ 2050/007   . . {Relays of the polarised type, e.g. the MEMS
+relay beam having a preferential magnetisation
+   50/02    . Bases; Casings; Covers (frames for mounting two
+or more relays or for mounting a relay and another
+electric component H02B 1/01, H04Q 1/08, H05K)
+   50/021   . . {structurally combining a relay and an electronic
+component, e.g. varistor, RC circuit (auxiliary
+switch inserting resistor during closure
+   50/023   . . {Details concerning sealing, e.g. sealing casing
+ 2050/025   . . . {containing inert or dielectric gasses, e.g. SF6,
+for arc prevention or arc extinction}
+   50/026   . . {Details concerning isolation between driving and
+ 2050/028   . . {Means to improve the overall withstanding
+voltage, e.g. creepage distances}
+   50/04    . . Mounting complete relay or separate parts of
+relay on a base or inside a case
+   50/041   . . . {Details concerning assembly of relays}
+   50/042   . . . . {Different parts are assembled by insertion
+without extra mounting facilities like screws,
+in an isolated mounting part, e.g. stack
+   50/043   . . . . {Details particular to miniaturised relays
+(H01H 50/042 takes precedence)}
+ 2050/044   . . . . . {Special measures to minimise the height
+   50/045   . . . . {Details particular to contactors
+(H01H 50/042 takes precedence)}
+ 2050/046   . . . . {Assembling parts of a relay by using snap
+   50/047   . . . {Details concerning mounting a relays}
+   50/048   . . . . {Plug-in mounting or sockets}
+ 2050/049   . . . {Assembling or mounting multiple relays in
+   50/06    . . having windows; Transparent cases or covers
+   50/08    . Indicators; Distinguishing marks
+   50/10    . Electromagnetic or electrostatic shielding (casings
+   50/12    . Ventilating; Cooling; Heating (for operating
+electrothermal relays H01H 61/013)
+   50/14    . Terminal arrangements {(for coils H01H 50/443)}
+   50/16    . Magnetic circuit arrangements
+   50/163   . . {Details concerning air-gaps, e.g. anti-remanence,
+ 2050/166   . . {wherein the magnetic circuit parts are molded in
+   50/18    . . Movable parts of magnetic circuits, e.g. armature
+   50/20    . . . movable inside coil and substantially
+lengthwise with respect to axis thereof;
+movable coaxially with respect to coil
+   50/22    . . . . wherein the magnetic circuit is substantially
+ 2050/225   . . . . . {with yoke and armature formed by
+identical stacked laminates, e.g. punched
+   50/24    . . . Parts rotatable or rockable outside coil
+   50/26    . . . . Parts movable about a knife edge
+   50/28    . . . . Parts movable due to bending of a blade
+   50/30    . . . Mechanical arrangements for preventing or
+damping vibration or shock, e.g. by balancing
+   50/305   . . . . {damping vibration due to functional
+movement of armature (in air-gap
+   50/32    . . . Latching movable parts mechanically
+   50/321   . . . . {the mechanical latch being controlled
+directly by the magnetic flux or part of it}
+   50/323   . . . . {for interlocking two or more relays}
+ 2050/325   . . . . . {Combined electrical and mechanical
+interlocking, e.g. usually for auxiliary
+   50/326   . . . . {with manual intervention, e.g. for testing,
+ 2050/328   . . . . . {with manual locking means having three
+positions, e.g. on-off-automatic}
+   50/34    . . . Means for adjusting limits of movement;
+Mechanical means for adjusting returning force
+   50/36    . . Stationary parts of magnetic circuit, e.g. yoke
+ 2050/362   . . . {Part of the magnetic circuit conducts current
+to be switched or coil current, e.g. connector
+and magnetic circuit formed of one single part}
+ 2050/365   . . . {formed from a single sheet of magnetic
+material by punching, bending, plying}
+ 2050/367   . . . {Methods for joining separate core and L-
+   50/38    . . . Part of main magnetic circuit shaped to
+suppress arcing between the contacts of the
+   50/40    . . . Branched or multiple-limb main magnetic
+   50/42    . . . Auxiliary magnetic circuits, e.g. for
+maintaining armature in, or returning armature
+to, position of rest, for damping or accelerating
+   50/44    . Magnetic coils or windings
+   50/443   . . {Connections to coils}
+ 2050/446   . . {Details of the insulating support of the coil, e.g.
+   50/46    . . Short-circuited conducting sleeves, bands, or
+discs {(for electromagnets H01F 7/1205)}
+   50/54    . Contact arrangements
+   50/541   . . {Auxiliary contact devices}
+   50/543   . . . {Auxiliary switch inserting resistor during
+   50/545   . . . {Self-contained, easily replaceable
+   50/546   . . {for contactors having bridging contacts}
+   50/548   . . {for miniaturised relays}
+   50/56    . . Contact spring sets
+   50/58    . . . Driving arrangements structurally associated
+therewith; Mounting of driving arrangements
+   50/60    . . moving contact being rigidly combined with
+movable part of magnetic circuit {(for polarised
+relays H01H 51/2254, H01H 51/2281)}
+   50/62    . . Co-operating movable contacts operated by
+separate electrical actuating means
+   50/64    . Driving arrangements between movable part of
+magnetic circuit and contact (structurally associated
+with contact spring sets H01H 50/58)
+   50/641   . . {intermediate part performing a
+rectilinear movement (H01H 50/645,
+H01H 50/66 - H01H 50/74 take precedence)}
+   50/642   . . . {intermediate part being generally a slide plate,
+   50/643   . . {intermediate part performing a rotating
+or pivoting movement (H01H 50/645,
+H01H 50/66 - H01H 50/74 take precedence)}
+   50/644   . . . {having more than one rotating or pivoting
+   50/645   . . {intermediate part making a resilient or flexible
+connection (H01H 50/66 - H01H 50/74 take
+   50/646   . . . {intermediate part being a blade spring}
+   50/647   . . {intermediate part comprising interlocking
+means for different contact pairs
+(H01H 50/66 - H01H 50/74 take precedence; for
+two separate relays H01H 50/323; for ratchets
+   50/648   . . {intermediate part being rigidly combined
+with armature (H01H 50/66 - H01H 50/74 take
+   50/66    . . with lost motion
+   50/68    . . with snap action
+   50/70    . . operating contact momentarily during stroke of
+   50/72    . . for mercury contact
+   50/74    . . Mechanical means for producing a desired natural
+frequency of operation of the contacts, e.g. for
+   50/76    . . . using reed or blade spring
+   50/78    . . . using diaphragm; using stretched wire or
+   50/80    . . . using torsionally-vibrating member, e.g. wire,
+   50/82    . . . using spring-loaded pivoted inertia member
+   50/84    . . . with means for adjustment of frequency or of
+   50/86    . Means for introducing a predetermined time delay
+between the initiation of the switching operation
+and the opening or closing of the contacts (circuit
+arrangements for introducing delay H01H 47/18;
+short-circuited conducting sleeves, bands, or discs
+   50/88    . . Mechanical means, e.g. dash-pot
+   50/90    . . . the delay effective in both directions of
+   50/92    . . Thermal means (inherent in electrothermal relays
+   51/00    Electromagnetic relays (relays using the dynamo-
+   51/005   . {Inversing contactors (H01H 50/323 takes
+   51/01    . Relays in which the armature is maintained in
+one position by a permanent magnet and freed
+by energisation of a coil producing an opposing
+magnetic field {(H01H 51/02 - H01H 51/26 take
+   51/02    . Non-polarised relays
+   51/04    . . with single armature; with single set of ganged
+   51/06    . . . Armature is movable between two limit
+positions of rest and is moved in one direction
+due to energisation of an electromagnet and
+after the electromagnet is de-energised is
+returned by energy stored during the movement
+in the first direction, e.g. by using a spring, by
+using a permanent magnet, by gravity
+   51/065   . . . . {Relays having a pair of normally open
+contacts rigidly fixed to a magnetic core
+movable along the axis of a solenoid, e.g.
+relays for starting automobiles (details
+   51/08    . . . . Contacts alternately opened and closed by
+successive cycles of energisation and de-
+energisation of the electromagnet, e.g. by use
+   51/082   . . . . . {using rotating ratchet mechanism}
+   51/084   . . . . . . {with axial ratchet elements}
+   51/086   . . . . . . {with radial ratchet elements}
+   51/088   . . . . . . . {moved alternately in opposite
+   51/10    . . . . Contacts retained open or closed by a latch
+which is controlled by an electromagnet
+   51/12    . . . Armature is movable between two limit
+positions of rest and is moved in both
+directions due to the energisation of one or the
+other of two electromagnets without the storage
+of energy to effect the return movement
+   51/14    . . . . without intermediate neutral position of rest
+   51/16    . . . . with intermediate neutral position of rest
+   51/18    . . . Armature is rotatable through an unlimited
+   51/20    . . with two or more independent armatures
+   51/22    . Polarised relays {(H01H 51/284 takes precedence)}
+   51/2209  . . {with rectilinearly movable armature}
+ 2051/2218  . . . {having at least one movable permanent
+   51/2227  . . {in which the movable part comprises at least one
+permanent magnet, sandwiched between pole-
+plates, each forming an active air-gap with parts
+of the stationary magnetic circuit (H01H 51/2209
+   51/2236  . . {comprising pivotable armature, pivoting
+at extremity or bending point of armature
+(H01H 51/2227 takes precedence)}
+   51/2245  . . . {Armature inside coil}
+   51/2254  . . . . {Contact forms part of armature}
+   51/2263  . . {comprising rotatable armature, rotating around
+central axis perpendicular to the main plane of the
+armature (H01H 51/2227 takes precedence)}
+   51/2272  . . {comprising rockable armature, rocking
+movement around central axis parallel to the
+main plane of the armature (H01H 51/2227 takes
+   51/2281  . . . {Contacts rigidly combined with armature}
+   51/229   . . . . {Blade-spring contacts alongside armature}
+   51/24    . . without intermediate neutral position of rest
+   51/26    . . with intermediate neutral position of rest
+   51/27    . Relays with armature having two stable magnetic
+states and operated by change from one state to the
+   51/28    . Relays having both armature and contacts within
+a sealed casing outside which the operating coil
+is located, e.g. contact carried by a magnetic leaf
+spring or reed (H01H 51/27 takes precedence)
+   51/281   . . {Mounting of the relay; Encapsulating; Details of
+   51/282   . . {Constructional details not covered by
+   51/284   . . {Polarised relays}
+   51/285   . . . {for latching of contacts}
+   51/287   . . {Details of the shape of the contact springs}
+   51/288   . . {Freely suspended contacts}
+   51/29    . Relays having armature, contacts, and operating
+coil within a sealed casing (H01H 51/27 takes
+   51/30    . specially adapted for actuation by ac
+   51/32    . . Frequency relays; Mechanically-tuned relays
+   51/34    . Self-interrupters, i.e. with periodic or other
+repetitive opening and closing of contacts
+   51/36    . . wherein the make-to-break ratio is varied by hand
+   53/00    Relays using the dynamo-electric effect, i.e. relays
+in which contacts are opened or closed due to
+relative movement of current-carrying conductor
+and magnetic field caused by force of interaction
+   53/015   . . Moving coils; Contact-driving arrangements
+   53/02    . Electrodynamic relays, i.e. relays in which the
+interaction is between two current-carrying
+   53/04    . . Ferrodynamic relays, i.e. relays in which the
+magnetic field is concentrated in ferromagnetic
+   53/06    . Magnetodynamic relays, i.e. relays in which the
+magnetic field is produced by a permanent magnet
+   53/08    . wherein a mercury contact constitutes the current-
+   53/10    . Induction relays, i.e. relays in which the interaction
+is between a magnetic field and current induced
+   53/12    . . Ferraris relays
+   53/14    . Contacts actuated by an electric motor through
+fluid-pressure transmission, e.g. using a motor-
+   55/00    Magnetostrictive relays
+   57/00    Electrostrictive relays; Piezo-electric relays
+ 2057/003   . {the relay being latched in actuated position by
+ 2057/006   . {Micromechanical piezoelectric relay}
+   59/00    Electrostatic relays; Electro-adhesion relays
+   59/0009  . {making use of micromechanics}
+ 2059/0018  . . {Special provisions for avoiding charge trapping,
+e.g. insulation layer between actuating electrodes
+being permanently polarised by charge trapping
+so that actuating or release voltage is altered}
+ 2059/0027  . . {Movable electrode connected to ground in the
+open position, for improving isolation}
+ 2059/0036  . . {Movable armature with higher resonant
+frequency for faster switching}
+ 2059/0045  . . {with s-shaped movable electrode, positioned and
+connected between two driving fixed electrodes,
+e.g. movable electrodes moving laterally when
+ 2059/0054  . . {Rocking contacts or actuating members}
+ 2059/0063  . . {with stepped actuation, e.g. actuation voltages
+applied to different sets of electrodes at different
+times or different spring constants during
+ 2059/0072  . . {with stoppers or protrusions for maintaining a
+gap, reducing the contact area or for preventing
+stiction between the movable and the fixed
+electrode in the attracted position}
+ 2059/0081  . . {with a tapered air-gap between fixed and
+ 2059/009   . {using permanently polarised dielectric layers}
+   61/00    Electrothermal relays (thermal switches not
+operated by electrical input, thermal switches with
+anticipating electrical input H01H 37/00; thermally-
+   61/002   . {Structural combination of a time delay
+electrothermal relay with an electrothermal
+protective relay, e.g. a start relay}
+ 2061/004   . . {PTC resistor in series with start winding, e.g.
+adapted for being switched off after starting for
+ 2061/006   . {Micromechanical thermal relay}
+ 2061/008   . . {Micromechanical actuator with a cold and a hot
+arm, coupled together at one end}
+   61/0107  . . {making use of shape memory materials}
+ 2061/0115  . . . {Shape memory alloy [SMA] actuator formed
+ 2061/0122  . . . {Two SMA actuators, e.g. one for closing or
+resetting contacts and one for opening them}
+   61/013   . . Heating arrangements for operating relays
+   61/017   . . . Heating by glow discharge or arc in confined
+   61/02    . wherein the thermally-sensitive member is heated
+indirectly, e.g. resistively, inductively
+   61/04    . wherein the thermally-sensitive member is only
+   61/06    . Self-interrupters, i.e. with periodic or other
+repetitive opening and closing of contacts
+   61/063   . . {making use of a bimetallic element}
+   61/066   . . {making use of an extensible wire, rod or strips}
+   61/08    . . wherein the make-to-break ratio is varied by hand
+   63/00    Details of electrically-operated selector switches
+   63/02    . Contacts; Wipers; Connections thereto
+   63/04    . . Contact-making or contact-breaking wipers;
+   63/12    . . Multiplying connections to contact banks, e.g.
+   63/14    . . . without soldering
+   63/16    . Driving arrangements for multi-position wipers
+   63/18    . . with step-by-step motion of wiper to a selector
+   63/20    . . . using stepping magnet and ratchet
+   63/22    . . . using step-by-step electromagnetic drive
+without ratchet, e.g. self-interrupting driving
+   63/24    . . with continuous motion of wiper until a selected
+   63/26    . . . with an individual clutch-drive from a shaft
+common to more than one selector switch
+   63/28    . . . with an individual motor for each selector
+   63/30    . . . . Pneumatic motor for moving wiper to
+   63/32    . . . . Spring motor for moving wiper to selected
+   63/33    . Constructional details of co-ordinate-type selector
+switches not having relays at cross-points
+   63/34    . Bases; Cases; Covers; Mountings (racks for
+mounting selectors with or without other exchange
+equipment H04Q 1/04); Mounting of fuses on
+   63/36    . Circuit arrangements for ensuring correct or desired
+operation and not adapted to a particular application
+   63/38    . . for multi-position wiper switches
+   63/40    . . for multi-position switches without wipers
+   63/42    . . . for co-ordinate-type selector switches not
+   65/00    Apparatus or processes specially adapted to the
+manufacture of selector switches or parts thereof
+   67/00    Electrically-operated selector switches
+   67/02    . Multi-position wiper switches
+   67/04    . . having wipers movable only in one direction for
+   67/06    . . . Rotary switches, i.e. having angularly movable
+   67/08    . . . . with wiper selection
+   67/10    . . . . with coarse and fine positioning of wipers
+   67/12    . . . Linear-motion switches
+   67/14    . . having wipers movable in two mutually
+perpendicular directions for purpose of selection
+   67/16    . . . one motion being rotary and the other being
+parallel to the axis of rotation, e.g. Strowger or
+   67/18    . . . one motion being rotary and the other being
+perpendicular to the axis of rotation, e.g.
+   67/20    . . . both motions being linear
+   67/22    . Switches without multi-position wipers
+   67/24    . . Co-ordinate-type relay switches having an
+individual electromagnet at each cross-point
+   67/26    . . Co-ordinate-type selector switches not having
+relays at cross-points but involving mechanical
+movement, e.g. cross-bar switch, code-bar switch
+   67/30    . . Co-ordinate-type selector switches with field of
+co-ordinate coil acting directly upon magnetic
+leaf spring or reed-type contact member
+   67/32    . . having a multiplicity of interdependent armatures
+operated in succession by a single coil and each
+controlling one contact or set of contacts, e.g.
+23Emergency protective devices
+   69/00    Apparatus or processes for the manufacture of
+   69/01    . for calibrating or setting of devices to function
+ 2069/013   . . {with calibrating screws in trip bar}
+ 2069/016   . . {with single separate parts mountable or
+insertable in different orientations or positions,
+e.g. to obtain desired trip conditions}
+   69/02    . Manufacture of fuses
+   69/022   . . {of printed circuit fuses}
+ 2069/027   . . {using ultrasonic techniques}
+   71/00    Details of the protective switches or relays covered
+by groups H01H 73/00 - H01H 83/00
+   71/002   . {with provision for switching the neutral conductor}
+ 2071/004   . . {with a tripping or current sensing device in the
+neutral wire, e.g. for third harmonics in a three
+ 2071/006   . {Provisions for user interfaces for electrical
+ 2071/008   . {Protective switches or relays using
+   71/02    . Housings; Casings; Bases; Mountings
+   71/0207  . . {Mounting or assembling the different parts of
+   71/0214  . . . {Housing or casing lateral walls containing
+guiding grooves or special mounting facilities
+(H01H 71/0221 takes precedence)}
+   71/0221  . . . {Majority of parts mounted on central frame or
+   71/0228  . . . {having provisions for interchangeable or
+   71/0235  . . . {Contacts and the arc extinguishing space
+inside individual separate cases, which are
+positioned inside the housing of the circuit
+breaker (casettes for rotating bridges see
+ 2071/0242  . . . {Assembling parts of a circuit breaker by using
+   71/025   . . {Constructional details of housings or casings
+not concerning the mounting or assembly of the
+   71/0257  . . . {Strength considerations}
+   71/0264  . . {Mountings or coverplates for complete
+assembled circuit breakers, e.g. snap mounting in
+   71/0271  . . . {Mounting several complete assembled circuit
+breakers together (interconnected mechanisms
+ 2071/0278  . . . . {with at least one of juxtaposed casings
+dedicated to an auxiliary device, e.g. for
+ 2071/0285  . . . . {Provisions for an intermediate device
+between two adjacent circuit breakers having
+the same general contour but an auxiliary
+function, e.g. cooling, isolation, wire
+guiding, magnetic isolation or screening}
+ 2071/0292  . . {Housing or frames containing grooves or slots
+   71/04    . Means for indicating condition of the switching
+device {(by means of an auxiliary contact
+ 2071/042   . . {with different indications for different
+conditions, e.g. contact position, overload, short
+ 2071/044   . . {Monitoring, detection or measuring systems
+to establish the end of life of the switching
+device, can also contain other on-line monitoring
+systems, e.g. for detecting mechanical failures}
+ 2071/046   . . {exclusively by position of operating part, e.g.
+with additional labels or marks but no other
+ 2071/048   . . {containing non-mechanical switch position
+   71/06    . Distinguishing marks, e.g. colour coding
+   71/08    . Terminals; Connections
+   71/082   . . {Connections between juxtaposed circuit
+ 2071/084   . . {specially adapted for avoiding decalibration of
+trip unit, e.g. bimetal, when fixing conductor wire
+ 2071/086   . . {Low power connections for auxiliary switches,
+ 2071/088   . . {Terminals for switching devices which make the
+devices interchangeable, e.g. with fuses}
+   71/10    . Operating or release mechanisms
+   71/1009  . . {Interconnected mechanisms (H01H 71/1045
+takes precedence; operated by excess current and
+other electrical conditions H01H 83/20)}
+   71/1018  . . . {with only external interconnections}
+   71/1027  . . . {comprising a bidirectional connecting member
+actuated by the opening movement of one pole
+ 2071/1036  . . . {having provisions for four or more poles}
+   71/1045  . . {Multiple circuits-breaker, e.g. for the purpose of
+dividing current or potential drop}
+   71/1054  . . {Means for avoiding unauthorised release}
+ 2071/1063  . . . {making use of an equilibrating mass}
+   71/1072  . . {Release mechanisms which are reset by opening
+   71/1081  . . {Modifications for selective or back-up
+protection; Correlation between feeder and branch
+circuit breaker (circuits H02H 3/06, H02H 7/26)}
+ 2071/109   . . {with provisions for selecting between automatic
+   71/12    . . Automatic release mechanisms with or without
+   71/121   . . . {Protection of release mechanisms (with
+   71/122   . . . {actuated by blowing of a fuse}
+   71/123   . . . {using a solid-state trip unit (circuits H02H)}
+ 2071/124   . . . . {with a hybrid structure, the solid state trip
+device being combined with a thermal or a
+   71/125   . . . . {characterised by sensing elements, e.g.
+current transformers (for differential
+   71/126   . . . {actuated by dismounting of circuit breaker or
+removal of part of circuit breaker}
+   71/127   . . . {using piezoelectric, electrostrictive or
+   71/128   . . . {Manual release or trip mechanisms, e.g. for
+test purposes (two similar push buttons for
+closing or resetting and opening or tripping
+H01H 71/58; test switches for earth fault circuit
+24Emergency protective devices
+   71/14    . . . Electrothermal mechanisms {(combined
+with a electro-thermal time delay relay
+   71/142   . . . . {actuated due to change of magnetic
+   71/145   . . . . {using shape memory materials (H01H 71/16
+ 2071/147   . . . . {Thermal release by expansion of a fluid}
+   71/16    . . . . with bimetal element {(combined with
+detection of imbalance of two or more
+   71/161   . . . . . {with helically or spirally wound bimetal}
+   71/162   . . . . . {with compensation for ambient
+   71/164   . . . . . {Heating elements}
+ 2071/165   . . . . . . {the bimetal being inductively heated,
+e.g. load current does not pass through
+ 2071/167   . . . . . {Multiple bimetals working in parallel
+together, e.g. laminated together}
+ 2071/168   . . . . . {Provisions for avoiding permanent
+deformation and thus decalibration of
+bimetal, e.g. due to overheating or action
+   71/18    . . . . with expanding rod, strip, or wire
+   71/20    . . . . with fusible mass
+   71/205   . . . . . {using a ratchet wheel kept against
+   71/22    . . . . with compensation for variation of
+ambient temperature {(H01H 71/162 takes
+   71/24    . . . Electromagnetic mechanisms
+   71/2409  . . . . {combined with an electromagnetic current
+   71/2418  . . . . {combined with an electrodynamic current
+ 2071/2427  . . . . . {with blow-off movement tripping
+mechanism, e.g. electrodynamic effect on
+contacts trips the traditional trip device
+before it can unlatch the spring mechanism
+   71/2436  . . . . {with a holding and a releasing magnet, the
+holding force being limited due to saturation
+   71/2445  . . . . {using a reed switch (for current measuring
+   71/2454  . . . . {characterised by the magnetic circuit or
+   71/2463  . . . . {with plunger type armatures}
+   71/2472  . . . . {with rotatable armatures}
+   71/2481  . . . . {characterised by the coil design}
+ 2071/249   . . . . {with part of the magnetic circuit being in
+the normal current path in the circuit breaker,
+e.g. yoke, fixed contact and arc-runner are
+made out of one single conductive element}
+   71/26    . . . . with windings acting in opposition
+{(H01H 71/2436 takes precedence)}
+   71/28    . . . . with windings acting in conjunction
+   71/30    . . . . having additional short-circuited winding
+   71/32    . . . . having permanently magnetised part
+   71/321   . . . . . {characterised by the magnetic circuit or
+   71/322   . . . . . . {with plunger type armature}
+   71/323   . . . . . . {with rotatable armature}
+   71/325   . . . . . {Housings, assembly or disposition of
+different elements in the housing}
+   71/326   . . . . . . {Sealed housings}
+   71/327   . . . . . {Manufacturing or calibrating methods,
+ 2071/328   . . . . . {using a spring for having minimal force
+on armature while maximal force on trip
+   71/34    . . . . having two or more armatures controlled by
+   71/345   . . . . . {having a delayed movable core and a
+   71/36    . . . . frequency selective
+   71/38    . . . . wherein the magnet coil also acts as arc
+   71/40    . . . Combined electrothermal and electromagnetic
+   71/402   . . . . {in which the thermal mechanism influences
+the magnetic circuit of the electromagnetic
+   71/405   . . . . {in which a bimetal forms the inductor for
+ 2071/407   . . . . {the thermal element being heated by the coil
+of the electromagnetic mechanism}
+   71/42    . . . Induction-motor, induced-current, or
+electrodynamic release mechanisms
+   71/43    . . . . Electrodynamic release mechanisms
+   71/44    . . . having means for introducing a predetermined
+time delay (by short-circuited winding
+H01H 71/30; by additional armature
+   71/443   . . . . {with dash-pot}
+   71/446   . . . . {making use of an inertia mass}
+   71/46    . . . having means for operating auxiliary contacts
+additional to the main contacts
+   71/462   . . . . {housed in a separate casing, juxtaposed
+to and having the same general contour
+as the main casing (for neutral conductor
+   71/465   . . . . {Self-contained, easily replaceable
+ 2071/467   . . . . {with history indication, e.g. of trip and/or
+kind of trip, number of short circuits etc.}
+   71/48    . . . . with provision for short-circuiting the
+electrical input to the release mechanism
+after release of the switch, e.g. for protection
+   71/50    . . Manual reset mechanisms {which may be also
+   71/501   . . . {Means for breaking welded contacts;
+Indicating contact welding or other malfunction
+ 2071/502   . . . . {with direct contact between manual
+operator and welded contact structure}
+   71/503   . . . {Means for increasing the opening stroke of the
+   71/504   . . . {provided with anti-rebound means}
+   71/505   . . . {Latching devices between operating and
+ 2071/506   . . . . {using balls or rollers in the latching device}
+ 2071/507   . . . . {being collapsible, e.g. yielding elastically,
+when the opening force is higher than a
+25Emergency protective devices
+ 2071/508   . . . . {with serial latches, e.g. primary latch
+latched by secondary latch for requiring a
+   71/52    . . . actuated by lever
+   71/521   . . . . {Details concerning the lever handle}
+   71/522   . . . . {comprising a cradle-mechanism}
+   71/523   . . . . . {the contact arm being pivoted on cradle
+and mechanism spring acting between
+   71/524   . . . . . {the contact arm being pivoted on handle
+and mechanism spring acting between
+   71/525   . . . . . {comprising a toggle between cradle and
+contact arm and mechanism spring acting
+between handle and toggle knee}
+   71/526   . . . . {the lever forming a toggle linkage with a
+second lever, the free end of which is directly
+and releasably engageable with a contact
+   71/527   . . . . {making use of a walking beam with one
+extremity latchable, the other extremity
+actuating or supporting the movable contact
+and an intermediate part co-operating with
+   71/528   . . . . {comprising a toggle or collapsible link
+between handle and contact arm, e.g. sear pin
+   71/529   . . . . {comprising an electroresponsive element
+forming part of the transmission chain
+between handle and contact arm}
+   71/54    . . . actuated by tumbler
+   71/56    . . . actuated by rotatable knob or wheel
+ 2071/565   . . . . {using a add on unit, e.g. a separate rotary
+actuator unit, mounted on lever actuated
+   71/58    . . . actuated by push-button, pull-knob, or slide
+   71/60    . . . actuated by closure of switch casing
+   71/62    . . . with means for preventing resetting while
+abnormal condition persists, e.g. loose handle
+   71/64    . . . . incorporating toggle linkage
+   71/66    . . Power reset mechanisms
+ 2071/665   . . . {the reset mechanism operating directly on the
+normal manual operator, e.g. electromagnet
+pushes manual release lever back into "ON"
+   71/68    . . . actuated by electromagnet
+   71/685   . . . . {in which the excitation of the electromagnet
+is interrupted by abnormal conditions}
+   71/70    . . . actuated by electric motor
+   71/72    . . . actuated automatically a limited number of
+   71/74    . Means for adjusting the conditions under which the
+device will function to provide protection
+   71/7409  . . {Interchangeable elements}
+   71/7418  . . {Adjusting both electrothermal and
+   71/7427  . . {Adjusting only the electrothermal mechanism}
+   71/7436  . . . {Adjusting the position (or prestrain) of the
+bimetal (H01H 71/7445 takes precedence)}
+   71/7445  . . . {Poly-phase adjustment}
+ 2071/7454  . . . {with adjustable axis of transmission lever
+between bimetal element and trip lever}
+   71/7463  . . {Adjusting only the electromagnetic mechanism}
+ 2071/7472  . . {with antitamper means for avoiding
+ 2071/7481  . . {with indexing means for magnetic or thermal
+ 2071/749   . . {with a shunt element connected in parallel
+to magnetic or thermal trip elements, e.g. for
+   73/00    Protective overload circuit-breaking switches
+in which excess current opens the contacts by
+automatic release of mechanical energy stored by
+previous operation of a hand reset mechanism
+   73/045   . . . {Bridging contacts}
+   73/06    . . Housings; Casings; Bases; Mountings
+   73/08    . . . Plug-in housings
+   73/10    . . . Cartridge housings, e.g. screw-in housing
+   73/12    . . Means for indicating condition of the switch
+   73/14    . . . Indicating lamp structurally associated with the
+   73/16    . . Distinguishing marks, e.g. colour coding
+   73/18    . . Means for extinguishing or suppressing arc
+{(magnet coil acting as blow-out device
+   73/20    . . Terminals; Connections
+   73/22    . having electrothermal release and no other
+automatic release (cartridge type H01H 73/62)
+   73/26    . . reset by tumbler
+   73/28    . . reset by rotatable knob or wheel
+   73/30    . . reset by push-button, pull-knob or slide
+   73/303   . . . {with an insulating body insertable between the
+contacts when released by a bimetal element}
+   73/306   . . . {the push-button supporting pivotally a
+   73/32    . . reset by closure of switch casing
+   73/34    . . reset action requiring replacement or
+reconditioning of a fusible or explosive part
+   73/36    . having electromagnetic release and no other
+automatic release (cartridge type H01H 73/64)
+   73/40    . . reset by tumbler
+   73/42    . . reset by rotatable knob or wheel
+   73/44    . . reset by push-button, pull-knob or slide
+   73/46    . . reset by closure of switch casing
+   73/48    . having both electrothermal and electromagnetic
+automatic release (cartridge type H01H 73/66)
+   73/52    . . reset by tumbler
+   73/54    . . reset by rotatable knob or wheel
+   73/56    . . reset by push-button, pull-knob or slide
+   73/58    . . reset by closure of switch casing
+   73/60    . cartridge type, e.g. screw-in cartridge
+   73/62    . . having only electrothermal release
+   73/64    . . having only electromagnetic release
+   73/66    . . having combined electrothermal and
+   75/00    Protective overload circuit-breaking switches
+in which excess current opens the contacts by
+automatic release of mechanical energy stored by
+previous operation of power reset mechanism
+26Emergency protective devices
+   75/04    . . Reset mechanisms for automatically reclosing
+a limited number of times (circuit arrangements
+   75/06    . . . effecting one reclosing action only
+   75/08    . having only electrothermal release
+   75/10    . having only electromagnetic release
+   75/12    . having combined electrothermal and
+   77/00    Protective overload circuit-breaking switches
+operated by excess current and requiring separate
+action for resetting (H01H 73/00, H01H 75/00 take
+   77/02    . in which the excess current itself provides the
+energy for opening the contacts, and having a
+ 2077/025   . . {with pneumatic means, e.g. by arc pressure}
+   77/04    . . with electrothermal opening
+   77/06    . . with electromagnetic opening {(combined
+with electromagnetic release mechanism
+   77/08    . . . retained closed by permanent or remanent
+magnetism and opened by windings acting in
+   77/10    . . with electrodynamic opening {(combined
+with electromagnetic release mechanism
+   77/101   . . . {with increasing of contact pressure by
+electrodynamic forces before opening}
+   77/102   . . . {characterised by special mounting of contact
+arm, allowing blow-off movement}
+   77/104   . . . . {with a stable blow-off position}
+   77/105   . . . . {whereby the blow-off movement unlatches
+the contact from a contact holder}
+   77/107   . . . {characterised by the blow-off force generating
+   77/108   . . . . {comprising magnetisable elements, e.g. flux
+concentrator, linear slot motor}
+   79/00    Protective switches in which excess current causes
+the closing of contacts, e.g. for short-circuiting
+the apparatus to be protected {(H01H 39/004 takes
+   81/00    Protective switches in which contacts are normally
+closed but are repeatedly opened and reclosed as
+long as a condition causing excess current persists,
+   81/02    . electrothermally operated
+   81/04    . electromagnetically operated
+   83/00    Protective switches, e.g. circuit-breaking switches,
+or protective relays operated by abnormal
+electrical conditions otherwise than solely by
+   83/02    . operated by earth fault currents (H01H 83/14 takes
+   83/04    . . with testing means for indicating the ability of the
+switch or relay to function properly
+ 2083/045   . . . {Auxiliary switch opening testing circuit in
+synchronism with the main circuit}
+   83/06    . operated by current falling below a predetermined
+   83/08    . operated by reversal of dc
+   83/10    . operated by excess voltage, e.g. for lightning
+   83/12    . operated by voltage falling below a predetermined
+value, e.g. for no-volt protection
+   83/14    . operated by unbalance of two or more currents or
+voltages, e.g. for differential protection
+   83/142   . . {with bimetal elements}
+   83/144   . . {with differential transformer}
+ 2083/146   . . . {Provisions for avoiding disadvantages of
+having asymetrical primaries, e.g. induction
+of a magnetic field even by zero difference
+ 2083/148   . . . {with primary windings formed of rigid copper
+   83/16    . operated by abnormal ratio of voltage and current,
+   83/18    . operated by abnormal product of, or abnormal phase
+angle between, voltage and current, e.g. directional
+   83/20    . operated by excess current as well as by some other
+ 2083/201   . . {the other abnormal electrical condition being an
+ 2083/203   . . {with shunt trip circuits, e.g. NC contact in an
+ 2083/205   . . {having shunt or UVR tripping device with
+integrated mechanical energy accumulator}
+ 2083/206   . . {with thermal shunt trip}
+ 2083/208   . . {Converting under voltage release [UVR] and
+   83/22    . . the other condition being unbalance of two or
+   83/223   . . . {with bimetal elements}
+   83/226   . . . {with differential transformer}
+   85/00    Protective devices in which the current flows
+through a part of fusible material and this current
+is interrupted by displacement of the fusible
+material when this current becomes excessive
+(switches actuated by melting of fusible material
+H01H 37/76; disposition or arrangement of fuses on
+ 2085/0004  . {making use of shape-memory material}
+ 2085/0008  . {making use of heat shrinkable material}
+   85/0013  . {Means for preventing damage, e.g. by ambient
+   85/0017  . . {due to vibration or other mechanical forces, e.g.
+   85/0021  . . {water or dustproof devices}
+   85/0026  . . . {casings for the fuse and its base contacts}
+   85/003   . . . {casings for the fusible element}
+ 2085/0034  . . . {with molded casings}
+   85/0039  . {Means for influencing the rupture process of the
+   85/0043  . . {Boiling of a material associated with the fusible
+element, e.g. surrounding fluid}
+   85/0047  . . {Heating means}
+   85/0052  . . . {Fusible element and series heating means or
+   85/0056  . . . {Heat conducting or heat absorbing means
+associated with the fusible member, e.g. for
+   85/006   . . . {Heat reflective or insulating layer on the
+   85/0065  . . . {Heat reflective or insulating layer on the
+27Emergency protective devices
+   85/0069  . . . {Heat reflective or insulating filler, support, or
+   85/0073  . . {Expansion or rupture of the insulating support
+   85/0078  . {Security-related arrangements}
+   85/0082  . . {preventing explosion of the cartridge}
+   85/0086  . . . {use of a flexible body, e.g. inside the casing}
+   85/0091  . . {providing disconnection of the neutral line}
+   85/0095  . . {Earthing means}
+   85/0208  . . {Tools for inserting and removing fuses}
+ 2085/0216  . . {Tools for controlling fuses or the line associated
+ 2085/0225  . . {Means for preventing discharge, e.g. corona
+ 2085/0233  . . {with common casing for fusible elements
+inserted in more than one phase or more than one
+   85/0241  . . {Structural association of a fuse and another
+component or apparatus (switches with built-
+in fuses H01H 9/10, spark-gap arresters
+H01H 85/44, transformers and inductances
+H01F 27/402, capacitors H01G 2/14, lamps
+H01K 1/66, semiconductors H01L 23/5256 or
+ 2085/025   . . . {Structural association with a binding post of a
+ 2085/0258  . . . {Structural association of a fuse or a fuse
+holder with a bimetallic element}
+ 2085/0266  . . . {Structural association with a measurement
+ 2085/0275  . . . {Structural association with a printed circuit
+ 2085/0283  . . . {Structural association with a semiconductor
+ 2085/0291  . . . {Structural association with a current
+   85/04    . . Fuses, i.e. expendable parts of the protective
+   85/041   . . . characterised by the type
+   85/0411  . . . . {Miniature fuses}
+ 2085/0412  . . . . . {specially adapted for being mounted on a
+ 2085/0414  . . . . . {Surface mounted fuses}
+   85/0415  . . . . . {cartridge type}
+   85/0417  . . . . . . {with parallel side contacts}
+   85/0418  . . . . . . {with ferrule type end contacts}
+   85/042   . . . . General constructions or structure of high
+voltage fuses, i.e. above 1000 V
+   85/044   . . . . General constructions or structure of low
+voltage fuses, i.e. below 1000 V, or of
+fuses where the applicable voltage is not
+specified (H01H 85/046 - H01H 85/048 take
+   85/0445  . . . . . fast or slow type
+(H01H 85/045 - H01H 85/048 take
+   85/045   . . . . . cartridge type
+   85/0452  . . . . . . {with parallel side contacts}
+   85/0454  . . . . . . {with screw-in type contacts}
+   85/0456  . . . . . . {with knife-blade end contacts}
+   85/0458  . . . . . . {with ferrule type end contacts}
+   85/046   . . . . Fuses formed as printed circuits
+   85/047   . . . . Vacuum fuses
+   85/048   . . . . Fuse resistors
+ 2085/0483  . . . . . {with temperature dependent resistor, e.g.
+ 2085/0486  . . . . . {with voltage dependent resistor, e.g.
+   85/05    . . . Component parts thereof
+   85/055   . . . . Fusible members
+ 2085/0555  . . . . . {Input terminal connected to a plurality of
+output terminals, e.g. multielectrode}
+   85/06    . . . . . characterised by the fusible material
+   85/08    . . . . . characterised by the shape or form of the
+   85/10    . . . . . . with constriction for localised fusing
+   85/11    . . . . . . with applied local area of a metal which,
+on melting, forms a eutectic with the
+main material of the fusible member, i.e.
+   85/12    . . . . . Two or more separate fusible members in
+   85/143   . . . . Electrical contacts; Fastening fusible
+   85/147   . . . . . Parallel-side contacts
+   85/15    . . . . . Screw-in contacts
+   85/153   . . . . . Knife-blade-end contacts
+   85/157   . . . . . Ferrule-end contacts
+   85/17    . . . . . characterised by the casing material
+   85/175   . . . . . characterised by the casing shape or form
+   85/1755  . . . . . . {composite casing}
+   85/18    . . . . Casing fillings, e.g. powder
+   85/185   . . . . . {Insulating members for supporting fusible
+elements inside a casing, e.g. for helically
+   85/20    . . Bases for supporting the fuse; Separate parts
+   85/2005  . . . {for use with screw-in type fuse}
+   85/201   . . . {for connecting a fuse in a lead and adapted to
+be supported by the lead alone}
+   85/2015  . . . {for plug-in type fuses}
+   85/202   . . . {for fuses with ferrule type end contacts}
+   85/2025  . . . {for fuses with conical end contacts, e.g. fuses
+   85/203   . . . {for fuses with blade type terminals}
+   85/2035  . . . . {for miniature fuses with parallel side
+   85/204   . . . . {for low voltage fuses with knife-blade end
+   85/2045  . . . {Mounting means or insulating parts of the
+   85/205   . . . {Electric connections to contacts on the base}
+ 2085/2055  . . . . {Connections to bus bars in an installation
+with screw in type fuses or knife blade fuses}
+ 2085/206   . . . . {being tappable, e.g. terminals on the fuse
+or base being arranged so as to permit
+an additional connector to be engaged
+ 2085/2065  . . . {with base contacts adapted or adaptable to
+fuses of different lenghts; bases with self-
+aligning contacts; intermediate adaptation
+28Emergency protective devices
+ 2085/207   . . . {Bases adapted to fuses with different end
+contacts or to other components, e.g. circuit
+breakers; intermediate adaptation pieces}
+ 2085/2075  . . . {Junction box, having holders integrated with
+several other holders in a particular wiring
+ 2085/208   . . . . {specially adapted for vehicles}
+ 2085/2085  . . . {Holders for mounting a fuse on a printed
+ 2085/209   . . . {Modular assembly of fuses or holders, e.g.
+side by side; combination of a plurality of
+ 2085/2095  . . . {Triangular setup of fuses, e.g. for space
+   85/22    . . Intermediate or auxiliary parts for carrying,
+holding, or retaining fuse, co-operating with base
+or fixed holder, and removable therefrom for
+   85/24    . . Means for preventing insertion of incorrect fuse
+   85/25    . . Safety arrangements preventing or inhibiting
+contact with live parts, including operation of
+   85/26    . . Magazine arrangements
+   85/263   . . . {with spare printed circuit fuse}
+ 2085/266   . . . {with replacement of a fuse which is part of a
+   85/28    . . . effecting automatic replacement
+   85/30    . . Means for indicating condition of fuse
+structurally associated with the fuse
+   85/303   . . . {Movable indicating elements}
+   85/306   . . . . {acting on an auxiliary switch or contact}
+   85/32    . . . Indicating lamp structurally associated with the
+   85/34    . . Distinguishing marks, e.g. colour coding
+   85/36    . . Means for applying mechanical tension to fusible
+   85/38    . . Means for extinguishing or suppressing arc
+(by powder filling H01H 85/18; by mechanical
+tension applied to fusible member H01H 85/36)
+ 2085/381   . . . {with insulating body insertable between the
+end contacts of the fusible element}
+ 2085/383   . . . {with insulating stationary parts}
+ 2085/385   . . . {Impedances connected with the end contacts
+ 2085/386   . . . {with magnetic or electrodynamic arc-
+ 2085/388   . . . {using special materials}
+   85/40    . . . using an arc-extinguishing liquid (characterised
+by the composition of the liquid H01H 33/22)
+   85/42    . . . using an arc-extinguishing gas (characterised
+by the composition of the gas H01H 33/22)
+   85/43    . . Means for exhausting or absorbing gases liberated
+by fusing arc, or for ventilating excess pressure
+   85/44    . . Structural association with a spark-gap arrester
+   85/46    . . Circuit arrangements not adapted to a particular
+application of the protective device
+   85/463   . . . {with printed circuit fuse}
+ 2085/466   . . . {with remote controlled forced fusing}
+   85/47    . . Means for cooling
+   85/48    . Protective devices wherein the fuse is carried or
+   85/485   . . {the fuse being provided with bayonet-type
+   85/50    . . the fuse having contacts at opposite ends for co-
+   85/52    . . the fuse being adapted for screwing into the base
+   85/54    . Protective devices wherein the fuse is carried, held,
+or retained by an intermediate or auxiliary part
+removable from the base, or used as sectionalisers
+   85/542   . . {the intermediate or auxiliary part being provided
+with bayonet-type locking means}
+   85/545   . . {with pivoting fuse carrier (tumbler switch with
+   85/547   . . {with sliding fuse carrier}
+   85/56    . . the intermediate or auxiliary part having side
+contacts for plugging into the base, e.g. bridge-
+   85/58    . . . with intermediate auxiliary part and base
+shaped to interfit and thereby enclose the fuse
+   85/60    . . the intermediate or auxiliary part having contacts
+at opposite ends for co-operation with the base
+   85/62    . . the intermediate or auxiliary part being adapted
+   87/00    Protective devices in which a current flowing
+through a liquid or solid is interrupted by the
+evaporation of the liquid or by the melting and
+evaporation of the solid when the current becomes
+excessive, the circuit continuity being reestablished
+   89/00    Combinations of two or more different basic
+types of electric switches, relays, selectors and
+emergency protective devices, not covered by any
+single one of the other main groups of this subclass
+ 2089/005   . {Multi-purpose combinations, e.g. LS/DI, LS/FI, of
+normal protective circuit breakers with known other
+forms of protection, e.g. earthfaults, differential,
+   89/02    . Combination of a key operated switch with a
+manually operated switch, e.g. ignition and lighting
+   89/04    . Combination of a thermally actuated switch with a
+   89/06    . Combination of a manual reset circuit with a
+contactor, i.e. the same circuit controlled by both a
+protective and a remote control device
+ 2089/065   . . {Coordination between protection and remote
+control, e.g. protection job repartition, mutual
+   89/08    . . with both devices using the same contact pair
+   89/10    . . . with each device controlling one of the two co-
+ 2201/008   . Both contacts movable
+ 2201/01    . Protective enclosure
+ 2201/012   . . Inert gas in contact space
+ 2201/016   . Roughened contact surface, e.g. anti-adhering
+ 2201/028   . . . Indium tin oxide [ITO]
+ 2201/032   . . Conductive polymer; Rubber
+ 2201/034   . . . anisotropic; Zebra
+ 2201/036   . . . Variable resistance
+ 2201/038   . Contact lubricant
+ 2203/0085  . . Layered switches integrated into garment, clothes
+ 2203/01    . . Woven wire screen
+ 2203/014   . . Grains; Microspheres
+ 2203/016   . universal; modular
+ 2203/02    . Interspersed fingers
+ 2203/024   . Convex contact surface
+ 2203/026   . on different planes
+ 2203/028   . embedded in layer material
+ 2203/03    . printed on casing
+ 2203/036   . to solve particular problems
+ 2203/038   . . to be bridged by a dome shaped contact
+ 2203/04    . . to facilitate connections
+ 2203/042   . . to avoid cross-overs
+ 2203/044   . . to achieve a predetermined sequence of switching
+ 2203/048   . . to facilitate application
+ 2203/05    . . to avoid damage by deformation of layers
+ 2203/052   . . for backlighted keyboards
+ 2203/054   . . for redundancy, e.g. several contact pairs in
+ 2203/056   . Cuts or depressions in support, e.g. to isolate
+ 2203/058   . Contact area function of position on layered
+ 2205/002   . fixed to operating part
+ 2205/004   . fixed to substrate
+ 2205/006   . mounted on spacer
+ 2205/01    . mounted on flap cut out and bend out of layer
+ 2205/012   . mounted on both sides of layer
+ 2205/014   . fixed by mechanical deformation
+ 2205/016   . Separate bridge contact
+ 2205/018   . . Support points upwardly concave
+ 2205/02    . . avoiding rotation
+ 2205/022   . . Conductive rubber
+ 2205/024   . . Means to facilitate positioning
+ 2205/026   . . . Adhesive sheet
+ 2205/028   . . . Protuberances on substrate
+ 2205/03    . . . Apertured plate
+ 2205/032   . Several contacts formed in one plate or layer
+ 2205/034   . . with snap action
+ 2205/036   . . Helicoidal cuts
+ 2205/038   . . Cutting of connecting areas
+ 2207/002   . Conductive rubber; Zebra
+ 2207/004   . Printed circuit tail
+ 2207/006   . Upraised portions
+ 2207/008   . Adhesive means; Conductive adhesive
+ 2207/01    . from bottom to top layer
+ 2207/012   . via underside of substrate
+ 2207/014   . . Plated through holes
+ 2207/016   . Jumpers; Cross-overs
+ 2207/018   . . Spacer elements
+ 2207/03    . via return spring
+ 2207/032   . Surface mounted component
+ 2207/036   . Crimping connector
+ 2207/04    . Details of printed conductors
+ 2207/042   . . Covering maximal area of layer
+ 2207/046   . . Non overlapping lower and upper conductors
+ 2207/048   . Inductive or infrared coupling
+ 2209/0021  . . with metallic appearance, e.g. polymers with
+dispersed particles to produce a metallic
+ 2209/004   . Depressions or protrusions on switch sites
+ 2209/01    . Increasing rigidity; Anti-creep
+ 2209/012   . avoiding too large deformation or stress
+ 2209/014   . composed of different layers; Lubricant in between
+ 2209/016   . Protection layer, e.g. for legend, anti-scratch
+ 2209/018   . flat, smooth or ripple-free
+ 2209/02    . UV or light sensitive
+ 2209/022   . Velvet; Mat finish
+ 2209/024   . Properties of the substrate
+ 2209/032   . . non elastomeric
+ 2209/034   . . Conductive rubber
+ 2209/036   . . with memory properties
+ 2209/042   . . Trellis; Lattice
+ 2209/046   . Properties of the spacer
+ 2209/054   . . non elastomeric
+ 2209/056   . . Conductive rubber
+30Emergency protective devices
+ 2209/058   . . with memory properties
+ 2209/064   . . Trellis; Lattice
+ 2209/068   . Properties of the membrane
+ 2209/076   . . non elastomeric
+ 2209/078   . . Conductive rubber
+ 2209/08    . . with memory properties
+ 2209/086   . . Trellis; Lattice
+ 2211/002   . Fluid or inflatable keyboards
+ 2211/008   . . Spring loaded pins
+ 2211/012   . . . Successive layers, one being conductive
+ 2211/018   . . on printed conductors only
+ 2211/02    . . Pins forming part of substrate
+ 2211/022   . for larger actuation area
+ 2211/024   . Peripheral edge deformable
+ 2211/026   . without separate element
+ 2211/028   . . Contacts in depressions of layers
+ 2211/03    . . Ridges on layers
+ 2211/032   . . Pressure sensitive layer on contacts
+ 2211/034   . . Fixed contacts on different planes
+ 2211/036   . . Convexly bowed membrane
+ 2213/002   . with external pressure
+ 2213/004   . . Scavenger; Filter
+ 2213/008   . . Flaps cut out forming valves
+ 2213/01    . with internal pressure of other switch sites
+ 2213/014   . . Accumulator chamber
+ 2213/016   . in adhesive layer
+ 2215/004   . Collapsible dome or bubble
+ 2215/006   . . Only mechanical function
+ 2215/008   . . Part of substrate or membrane
+ 2215/012   . . Positioning of individual dome
+ 2215/014   . . Avoiding permanent dome inversion
+ 2215/016   . . Collapsing to second stable position
+ 2215/018   . . unstressed in open position of switch
+ 2215/022   . . Asymmetric; Elliptic; Square
+ 2215/026   . . Eccentric actuation
+ 2215/032   . . Resonance space
+ 2215/034   . Separate snap action
+ 2215/038   . . Resilient conductive tracks
+ 2215/04    . . Contact making part moved through contact
+ 2215/042   . . Permanent magnets
+ 2215/046   . Inflatable bubble or cell
+ 2215/05    . electromechanical
+ 2215/054   . common to all switch sites
+ 2217/00    Facilitation of operation; Human engineering
+ 2217/002   . actuable from both sides
+ 2217/004   . Larger or different actuating area
+ 2217/006   . Different feeling for different switch sites
+ 2217/008   . Pretravel to avoid inadvertent switching
+ 2217/01    . Off centre actuation
+ 2217/012   . Two keys simultaneous considerations
+ 2217/016   . Pressure reduction membrane; Spreader layer
+ 2217/018   . Indication of switch sites
+ 2217/022   . Part of keyboard not operable
+ 2217/024   . Profile on actuator
+ 2217/028   . on planes with different or alterable inclination, e.g.
+ 2217/032   . Feedback about selected symbol, e.g. display
+ 2217/034   . Support for hands or arms
+ 2217/036   . Plural multifunctional miniature keys for one
+ 2217/04    . Mimics of controlled apparatus or symbol
+ 2217/044   . Repetitive strain injury [RSI] considerations
+ 2217/046   . Enhanced legend space by smaller actuators
+ 2217/048   . adapted for operation by left- and right-handed
+ 2219/002   . replaceable; adaptable
+ 2219/0023  . . Images formed with electrophoretic technology,
+e.g. by charged pigment particles rearranged by
+applied electric field, e.g. electronic paper or e-
+ 2219/0026  . . having outer surface of housing of electronic
+apparatus programmable as display and/or input
+ 2219/011   . . . with integrated photo- or thermovoltaic cell as
+ 2219/018   . . Electroluminescent panel
+31Emergency protective devices
+ 2219/026   . . with programming switches
+ 2219/028   . Printed information
+ 2219/03    . . in transparent keyboard
+ 2219/036   . Light emitting elements
+ 2219/037   . . using organic materials, e.g. organic LED
+ 2219/038   . . ambient light dependent
+ 2219/039   . . Selective or different modes of illumination
+ 2219/04    . . Attachments; Connections
+ 2219/044   . . Edge lighting of layer
+ 2219/046   . . above switch site
+ 2219/048   . . Constituting key
+ 2219/05    . . Key offset in relation to switch site
+ 2219/052   . . Phosphorescence
+ 2219/053   . . protected by inert gas
+ 2219/056   . . Diffuser; Uneven surface
+ 2219/058   . . Optical grid, collimator or microlouver
+ 2219/062   . . Light conductor
+ 2219/0621  . . . Optical fiber light conductor
+ 2219/0622  . . . only an illuminated ring around keys
+ 2219/064   . . Optical isolation of switch sites
+ 2221/002   . integral with membrane
+ 2221/004   . . U-shaped openings surrounding keys
+ 2221/008   . other then push button
+ 2221/022   . . electromagnetic
+ 2221/024   . Transmission element
+ 2221/026   . . Guiding or lubricating nylon
+ 2221/028   . . . Telescopic guiding
+ 2221/03    . . Stoppers for on or off position
+ 2221/044   . . Elastic part on actuator or casing
+ 2221/05    . Force concentrator; Actuating dimple
+ 2221/054   . connected by flexible webs
+ 2221/056   . Modular conception
+ 2221/058   . to avoid tilting or skewing of contact area or
+ 2221/06    . to avoid sticking in on position
+ 2221/062   . Damping vibrations
+ 2221/064   . Limitation of actuating pressure
+ 2221/068   . having a not operable condition
+ 2221/0702  . . Transparent key containing three dimensional
+ 2221/072   . Stroke amplification
+ 2221/076   . Protruding in cavity covered by membrane
+ 2221/078   . Different operating parts on a bigger one
+ 2221/08    . composed of different parts
+ 2221/082   . . Superimposed actuators
+ 2221/084   . made at least partly of elastic foam
+ 2221/088   . actuable from different directions
+ 2221/09    . Flexible integral part of housing
+ 2223/003   . . Membrane embracing all keys
+ 2223/004   . . Evacuation of penetrating liquid
+ 2223/01    . Mounting on appliance
+ 2223/014   . . located in recess
+ 2223/02    . . mounted on raised part
+ 2223/03    . Separate key housing
+ 2223/032   . . with formations for assembling similar housings
+ 2223/0345  . . with keys positioned directly next to each other
+without an intermediate bezel or frame
+ 2223/036   . . forming chamfered apertures for keys
+ 2223/04    . portable; hand held
+ 2223/042   . mounted in conventional keyboard
+ 2223/048   . . assembled by removable part
+ 2223/05    . . composed of hingedly connected sections
+ 2223/052   . . reductible in size, e.g. for transportation
+ 2223/054   . Mounting of key housings on same printed circuit
+ 2223/056   . Mounting of key housings on same frame
+ 2225/00    Switch site location
+ 2225/004   . in different planes to increase density
+ 2225/006   . more then one pole
+ 2225/008   . Two different sites for one circuit, e.g. for safety
+ 2225/01    . Different switch sites under one actuator in same
+ 2225/014   . normally closed combined with normally open
+32Emergency protective devices
+ 2225/018   . Consecutive operations
+ 2225/022   . other then row-column disposition
+ 2225/024   . Common site to all actuators, e.g. auxiliary
+ 2225/028   . perpendicular to base of keyboard
+ 2225/03    . Different type of switches
+ 2227/00    Dimensions; Characteristics
+ 2227/012   . . Conductive rubber
+ 2227/014   . . . Conductive particles
+ 2227/016   . Switch site protrusions; Force concentrators
+ 2227/018   . Printed contacts; Metal foil
+ 2227/026   . Separate dome contact
+ 2227/0261  . . with an aperture in contact making centre of
+ 2227/034   . . Regulation of operating force
+ 2229/006   . Pad transfer printing
+ 2229/01    . Foil transfer process
+ 2229/012   . Vacuum deposition
+ 2229/014   . Electro deposition
+ 2229/016   . Selective etching
+ 2229/024   . Packing between substrate and membrane
+ 2229/034   . Positioning of layers
+ 2229/038   . Folding of flexible printed circuit
+ 2229/042   . Snap coupling; Snap mounting
+ 2229/044   . Injection moulding
+ 2229/046   . . Multi-colour or double shot injection moulding
+ 2229/047   . . Preformed layer in mould
+ 2229/048   . . Insertion moulding
+ 2229/05    . Forming; Half-punching
+ 2229/052   . Thermoplastic bonding foil
+ 2229/058   . Curing or vulcanising of rubbers
+ 2229/062   . Maintenance or repair facilities
+ 2229/064   . Eliminating tolerances
+ 2231/002   . Calculator, computer
+ 2231/006   . Bank automat; Cash register; Vending machine
+ 2231/012   . Household appliance
+ 2231/016   . Control panel; Graphic display; Programme control
+ 2231/018   . Musical instrument
+ 2231/022   . Telephone handset
+ 2231/024   . Dispensing machine
+ 2231/034   . Coordinate determination
+ 2231/038   . Level sensing or limit switch
+ 2231/042   . Briefcase; Note-book
+ 2231/048   . Tools; Drilling machines
+ 2231/05    . Card, e.g. credit card
+ 2231/052   . Selectors, e.g. dimmers
+ 2233/002   . joined to form button rows
+ 2233/004   . . One molded part
+ 2233/006   . . . Separating individual keys after mounting
+ 2233/008   . Laykey mounted on assembled key modules
+ 2233/01    . mounted on laykey
+ 2233/016   . . . with limited freedom
+ 2233/018   . . One degree of freedom
+ 2233/02    . . captured between assembled parts of support
+ 2233/022   . . . with limited freedom
+ 2233/028   . . connected by spring
+ 2233/03    . mounted on support plate or frame
+ 2233/036   . . . with limited freedom
+ 2233/038   . . One degree of freedom
+ 2233/04    . . captured between assembled parts of support
+ 2233/042   . . . with limited freedom
+ 2233/048   . . connected by spring
+ 2233/05    . Actuator part on body
+ 2233/056   . . . with limited freedom
+ 2233/058   . . One degree of freedom
+33Emergency protective devices
+ 2233/06    . . captured between assembled parts of support
+ 2233/062   . . . with limited freedom
+ 2233/068   . . connected by spring
+ 2233/07    . Cap or button on actuator part
+ 2233/076   . . . with limited freedom
+ 2233/078   . . One degree of freedom
+ 2233/08    . . captured between assembled parts of support
+ 2233/082   . . . with limited freedom
+ 2233/088   . . connected by spring
+ 2233/09    . Actuating striker on actuator part
+ 2233/096   . . . with limited freedom
+ 2233/098   . . One degree of freedom
+ 2233/10    . . captured between assembled parts of support
+ 2233/102   . . . with limited freedom
+ 2233/108   . . connected by spring
+ 2235/002   . Linear coil spring combined with dome spring
+ 2235/004   . Two parallel coil springs
+ 2235/006   . Elastic arms producing non linear counter force
+ 2235/014   . . with positive buckling force or action
+ 2235/02    . between contact and substrate
+ 2235/022   . Actuating striker
+ 2235/024   . . formed by knee or dimple of leaf spring
+ 2235/026   . . forming part of return spring
+ 2235/03    . Two serial springs
+ 2237/00    Mechanism between key and laykey
+ 2237/006   . Guided plunger or ball
+ 2237/008   . Plunger guided by flexible arms
+ 2239/002   . Conductive track to monitor integrity
+ 2239/004   . High frequency adaptation or shielding
+ 2239/006   . Containing a capacitive switch or usable as such
+ 2239/008   . Static electricity considerations
+ 2239/01    . combined with other elements on the same substrate
+ 2239/012   . . Decoding impedances
+ 2239/016   . combined with start switch, discrete keyboard
+ 2239/02    . Other elements in moving part
+ 2239/022   . with opto-electronic switch
+ 2239/024   . with inductive switch
+ 2239/026   . Internal encoding, e.g. validity bit
+ 2239/03    . Avoiding erroneous switching
+ 2239/034   . Environmental protection
+ 2239/036   . . Heating, e.g. against condensation
+ 2239/042   . Unmixable liquids inside
+ 2239/044   . High voltage application
+ 2239/048   . comprising microphone or speaker
+ 2239/05    . Mode selector switch, e.g. shift, or indicator
+ 2239/054   . Acoustic pick-up, e.g. ultrasonic
+ 2239/056   . Keyboard or overlay identification features
+ 2239/058   . Containing a battery
+ 2239/06    . Temperature sensitive
+ 2239/064   . Simulating the appearance of touch panel
+ 2239/066   . Duplication of control panel, e.g. duplication of
+ 2239/07    . UV or IR detection, e.g. of human body
+ 2239/072   . High temperature considerations
+ 2239/074   . Actuation by finger touch
+ 2239/076   . Key stroke generating power
+ 2239/078   . Variable resistance by variable contact area or point
+ 2300/00    Orthogonal indexing scheme relating to electric
+switches, relays, selectors or emergency protective
+ 2300/002   . Application electric motor braking, e.g. pole
+reversal of rotor, shorting motor coils, also for field
+ 2300/004   . Application hearing aid
+ 2300/006   . Application power roofs
+ 2300/008   . Application power seats
+ 2300/01    . Application power window
+ 2300/012   . Application rear view mirror
+ 2300/014   . Application surgical instrument
+ 2300/016   . Application timepiece
+ 2300/018   . Application transfer; between utility and emergency
+power supply (circuits in H02J 9/04)
+ 2300/02    . Application transmission, e.g. for sensing the
+position of a gear selector or automatic transmission
+ 2300/022   . Application wake up; switches or contacts specially
+provided for the wake up or standby shift of a
+ 2300/024   . Avoid unwanted operation
+ 2300/026   . Application dead man switch: power must be
+interrupted on release of operating member
+ 2300/028   . Application dead man switch, i.e. power being
+interrupted by panic reaction of operator, e.g.
+further pressing down push button
+ 2300/03    . Application domotique, e.g. for house automation,
+bus connected switches, sensors, loads or intelligent
+ 2300/032   . . using RFID technology in switching devices
+ 2300/034   . using magnetic shape memory [MSM] also an
+austenite-martensite transformation, but then
+34Emergency protective devices
+ 2300/036   . Application nanoparticles, e.g. nanotubes, integrated
+in switch components, e.g. contacts, the switch itself
+being clearly of a different scale, e.g. greater than
+ 2300/038   . Preselection, i.e. the output of a switch depends on
+a particular preselection, e.g. a particular position of
+ 2300/04    . Programmable interface between a set of switches
+and a set of functions, e.g. for reconfiguration of a
+ 2300/042   . Application rejection, i.e. preventing improper
+ 2300/044   . Application rejection 1: coded interacting surfaces,
+polarising, e.g. to avoid insertion of a circuit breaker
+or fuse or relay or rating plug of the wrong caliber
+ 2300/046   . using snap closing mechanisms
+ 2300/048   . . Snap closing by latched movable contact, wherein
+the movable contact is held in a minimal distance
+from the fixed contact during first phase of
+closing sequence in which a closing spring is
+ 2300/05    . . Snap closing with trip, wherein the contacts are
+locked open during charging of mechanism and
+unlocked by separate trip device, e.g. manual,
+ 2300/052   . Controlling, signalling or testing
+correct functioning of a switch (see also
+H01H 2300/056 - H01H 2300/066 and
+ 2300/054   . Application timeslot: duration of actuation or delay
+between or combination of subsequent actuations
+ 2300/056   . Tools for actuating a switch
+ 2300/058   . . using apparatus with a spring motor or a snap-
+acting mechanism for actuating any one of a
+ 2300/06    . using tools as locking means
+ 2300/062   . . for locking a charged spring
+ 2300/064   . . . by means of removable member
+ 2300/066   . . for locking a switch in a test or an "installation"

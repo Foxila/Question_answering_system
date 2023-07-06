@@ -1,0 +1,462 @@
+COOPERATIVE PATENT CLASSIFICATION
+NUCLEAR PHYSICS; NUCLEAR ENGINEERING
+NUCLEAR REACTORS (fusion reactors, hybrid fission-fusion reactors G21B; nuclear
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/02    . Fast fission reactors, i.e. reactors not using a
+moderator {; Metal cooled reactors; Fast breeders}
+    1/022   . . {characterised by the design or properties of the
+    1/024   . . . {where the core is divided in zones with fuel
+and zones with breeding material}
+    1/026   . . . {Reactors not needing refueling, i.e. reactors
+of the type breed-and-burn, e.g. travelling or
+deflagration wave reactors or seed-blanket
+    1/028   . . {cooled by a pressurised coolant (cooling
+    1/03    . . cooled by a coolant not essentially pressurised,
+    1/04    . Thermal reactors {; Epithermal reactors}
+    1/06    . . Heterogeneous reactors, i.e. in which fuel and
+    1/07    . . . Pebble-bed reactors; Reactors with granular
+    1/08    . . . moderator being highly pressurised, e.g. boiling
+water reactor, integral super-heat reactor,
+pressurised water reactor (G21C 1/22 takes
+    1/082   . . . . {Reactors where the coolant is overheated}
+    1/084   . . . . {Boiling water reactors}
+    1/086   . . . . {Pressurised water reactors}
+    1/088   . . . . {Inherently safe boiling water reactors}
+    1/09    . . . . Pressure regulating arrangements, i.e.
+    1/10    . . . . moderator and coolant being different or
+    1/12    . . . . . moderator being solid, e.g. Magnox
+reactor {or gas-graphite reactor}
+    1/14    . . . moderator being substantially not pressurised,
+e.g. swimming-pool reactor (G21C 1/22 takes
+    1/16    . . . . moderator and coolant being different or
+separated, e.g. sodium-graphite reactor
+{, sodium-heavy water reactor or organic
+    1/18    . . . . . coolant being pressurised
+    1/20    . . . . . . moderator being liquid, e.g. pressure-
+    1/22    . . . using liquid or gaseous fuel
+    1/24    . . Homogeneous reactors, i.e. in which the fuel and
+moderator present an effectively homogeneous
+    1/26    . . . Single-region reactors
+    1/28    . . . Two-region reactors
+    1/30    . Subcritical reactors {; Experimental reactors other
+than swimming-pool reactors or zero-energy
+    1/303   . . {Experimental or irradiation arrangements inside
+the reactor (irradiation loops G21C 1/306)}
+    1/306   . . {Irradiation loops}
+    1/32    . Integral reactors, i.e. reactors wherein parts
+functionally associated with the reactor but not
+essential to the reaction, e.g. heat exchangers,
+are disposed inside the enclosure with the core
+(G21C 1/02 - G21C 1/30 take precedence)
+    1/322   . . {wherein the heat exchanger is disposed above
+    1/324   . . {wherein the heat exchanger is disposed beneath
+    1/326   . . {wherein the heat exchanger is disposed next to
+    1/328   . . {wherein the prime mover is also disposed in the
+    3/00    Reactor fuel elements and their assemblies;
+Selection of substances for use as reactor fuel
+    3/02    . Fuel elements {(manufacture thereof G21C 21/02)}
+    3/04    . . Constructional details
+    3/041   . . . {Means for removal of gases from fuel
+    3/042   . . . {Fuel elements comprising casings with a mass
+of granular fuel with coolant passages through
+    3/044   . . . {Fuel elements with porous or capillary
+    3/047   . . . . {Pellet-clad interaction}
+    3/048   . . . . {Shape of pellets}
+    3/06    . . . Casings; Jackets
+    3/07    . . . . characterised by their material, e.g. alloys
+    3/08    . . . . provided with external means to promote
+heat-transfer, e.g. fins, baffles
+    3/10    . . . . End closures {; Means for tight mounting
+    3/105   . . . . . {Flattened end-closures}
+    3/12    . . . . Means forming part of the element for
+locating it within the reactor core {(means
+not forming part of the element G21C 5/06)}
+    3/14    . . . . Means forming part of the element for
+inserting it into, or removing it from, the
+core; Means for coupling adjacent elements
+    3/16    . . . Details of the construction within the casing
+    3/17    . . . . Means for storage or immobilisation of gases
+    3/18    . . . . Internal spacers or other non-active material
+within the casing, e.g. compensating for
+expansion of fuel rods or for compensating
+excess reactivity (interlayers G21C 3/20)
+    3/20    . . . . with coating on fuel or on inside of casing;
+with non-active interlayer between casing
+and active material {with multiple casings or
+    3/22    . . with fissile or breeder material in contact with
+    3/24    . . with fissile or breeder material in fluid form
+    3/26    . . with fissile or breeder material in powder form
+    3/28    . . with fissile or breeder material in solid form
+    3/30    . Assemblies of a number of fuel elements in the form
+    3/32    . . Bundles of parallel pin-, rod-, or tube-shaped fuel
+    3/3206  . . . {Means associated with the fuel bundle for
+filtering the coolant, e.g. nozzles, grids}
+    3/3213  . . . {Means for the storage or removal of fission
+gases (means for the storage of fission gases in
+the elements G21C 3/16; means for the removal
+of fission gases from elements G21C 3/04)}
+    3/322   . . . Means to influence the coolant flow through or
+    3/3225  . . . . {by waterrods}
+    3/324   . . . Coats or envelopes for the bundles
+    3/3245  . . . . {made of moderator material}
+    3/326   . . . comprising fuel elements of different
+composition; comprising, in addition to the
+fuel elements, other pin-, rod-, or tube-shaped
+elements, e.g. control rods, grid support rods,
+fertile rods, poison rods or dummy rods
+    3/3262  . . . . {Enrichment distribution in zones}
+    3/3265  . . . . . {Radial distribution}
+    3/3267  . . . . . {Axial distribution}
+    3/328   . . . . Relative disposition of the elements in the
+    3/33    . . . Supporting or hanging of elements in the
+bundle (spacer grids G21C 3/34); Means
+forming part of the bundle for inserting it
+into, or removing it from, the core; Means for
+    3/3305  . . . . {Lower nozzle}
+    3/331   . . . . {Comprising hold-down means, e.g. springs}
+    3/3315  . . . . {Upper nozzle}
+    3/332   . . . . Supports for spacer grids
+    3/334   . . . Assembling {, maintenance or repair of} the
+bundles {(assembling, maintenance or repair of
+other reactor components G21C 19/207)}
+    3/335   . . . Exchanging elements in irradiated bundles
+    3/336   . . . Spacer elements for fuel rods in the bundle
+    3/338   . . . . Helicoidal spacer elements
+    3/3408  . . . . {Compact spacer grids, e.g. made of a plate
+    3/3416  . . . . {Spacer grids formed by metallic wires, e.g.
+    3/3424  . . . . {Fabrication of spacer grids}
+    3/3432  . . . . {Grids designed to influence the coolant, i.e.
+    3/344   . . . . formed of assembled tubular elements
+    3/348   . . . . formed of assembled non-intersecting strips
+    3/352   . . . . formed of assembled intersecting strips
+    3/356   . . . . being provided with fuel element supporting
+    3/3563  . . . . . {Supporting members formed only by
+    3/3566  . . . . . {Supporting members formed only of
+    3/36    . . Assemblies of plate-shaped fuel elements or
+    3/38    . Fuel units consisting of a single fuel element in
+a supporting sleeve {or in another supporting
+    3/40    . Structural combination of fuel element with
+thermoelectric element for direct production of
+electric energy from fission heat (for temperature
+measurement G21C 17/10 ){or with another
+arrangement for direct production of electric
+energy, e.g. a thermionic device (combination with
+thermoelements for temperature measurements
+    3/42    . Selection of substances for use as reactor fuel
+    3/44    . . Fluid or fluent reactor fuel
+    3/46    . . . Aqueous compositions
+    3/48    . . . . True or colloidal solutions of the active
+    3/50    . . . . Suspensions of the active constituent;
+    3/52    . . . Liquid metal compositions
+    3/54    . . . Fused salt, oxide or hydroxide compositions
+    3/56    . . . Gaseous compositions; Suspensions in a
+    3/58    . . Solid reactor fuel {Pellets made of fissile
+    3/60    . . . Metallic fuel; Intermetallic dispersions
+    3/623   . . . . {Oxide fuels}
+    3/626   . . . . {Coated fuel particles}
+    3/64    . . . . Ceramic dispersion fuel, e.g. cermet
+    5/00    Moderator or core structure; Selection of
+    5/04    . . Spatial arrangements allowing for Wigner growth
+    5/06    . . Means for locating or supporting fuel elements
+{(means forming part of the element G21C 3/12)}
+    5/08    . . Means for preventing undesired asymmetric
+expansion of the complete structure {; Stretching
+    5/10    . . Means for supporting the complete structure
+{(arrangements for supporting vessels and core-
+    5/12    . characterised by composition, e.g. the moderator
+containing additional substances which ensure
+improved heat resistance of the moderator
+{(purification of fluid moderators during the
+operation of the reactor G21C 19/30)}
+    5/123   . . {Moderators made of organic materials}
+    5/126   . . {Carbonic moderators (carbon and graphite in
+general C01B 32/00; refractory carbon-bulbs
+C04B 35/00; carbon electrodes C25B)}
+    5/14    . characterised by shape
+    5/16    . . Shape of its constituent parts
+    5/18    . characterised by the provision of more than one
+    5/20    . . wherein one zone contains fissile material and
+another zone contains breeder material
+    5/22    . . wherein one zone is a superheating zone
+    7/00    Control of nuclear reaction
+    7/005   . {Flux flattening}
+    7/02    . by using self-regulating properties of reactor
+materials, {e.g. Doppler effect}(arrangements that
+involve temperature stability G21C 7/32)
+    7/04    . . of burnable poisons (burnable poisons in fuel rods
+    7/06    . by application of neutron-absorbing material, i.e.
+material with absorption cross-section very much in
+excess of reflection cross-section
+    7/08    . . by displacement of solid control elements, e.g.
+    7/10    . . . Construction of control elements
+    7/103   . . . . Control assemblies containing one or more
+absorbants as well as other elements, e.g.
+    7/107   . . . . Control elements adapted for pebble-bed
+    7/11    . . . . Deformable control elements, e.g. flexible,
+    7/113   . . . . Control elements made of flat elements;
+Control elements having cruciform cross-
+    7/117   . . . . Clusters of control rods; Spider construction
+    7/12    . . . Means for moving control elements to desired
+position (dropping rods in an emergency
+    7/14    . . . . Mechanical drive arrangements
+    7/16    . . . . Hydraulic or pneumatic drive
+    7/18    . . . Means for obtaining differential movement of
+    7/20    . . . Disposition of shock-absorbing devices
+(shock-absorbers in general F16F ){; Braking
+    7/22    . . by displacement of a fluid or fluent neutron-
+absorbing material {, e.g. by adding neutron-
+absorbing material to the coolant}
+    7/24    . . Selection of substances for use as neutron-
+    7/26    . by displacement of the moderator or parts thereof
+{by changing the moderator concentration}
+    7/27    . . Spectral shift control
+    7/28    . by displacement of the reflector or parts thereof
+    7/30    . by displacement of the reactor fuel or fuel elements
+    7/32    . by varying flow of coolant through the core {by
+adjusting the coolant or moderator temperature}
+    7/34    . by utilisation of a primary neutron source
+    9/00    Emergency protection arrangements structurally
+associated with the reactor {, e.g. safety
+valves provided with pressure equalisation
+devices}(emergency cooling arrangements
+    9/001   . {against explosions, e.g. blast shields}
+    9/002   . {against Na- or Ka- reactions}
+    9/004   . Pressure suppression
+    9/008   . . by rupture-discs or -diaphragms
+    9/012   . . by thermal accumulation or by steam
+condensation, e.g. ice condensers
+    9/02    . Means for effecting very rapid reduction of the
+reactivity factor under fault conditions, e.g. reactor
+fuse; {Control elements having arrangements
+activated in an emergency}(control elements per se
+    9/022   . . {Reactor fuses}
+    9/024   . . {Rupture diaphragms}
+    9/027   . . by fast movement of a solid, e.g. pebbles
+    9/033   . . by an absorbent fluid
+    9/04    . Means for suppressing fires {Earthquake
+    9/06    . . Means for preventing accumulation of explosives
+   11/00    Shielding structurally associated with the reactor
+   11/02    . Biological shielding (in general G21F ){; Neutron
+   11/022   . . {inside the reactor vessel}
+   11/024   . . . {structurally combined with the casing}
+   11/026   . . {in apertures or channels through a wall}
+   11/028   . . {characterised by the form or by the material}
+   11/04    . . on waterborne craft
+   11/06    . Reflecting shields, i.e. for minimising loss of
+   11/08    . Thermal shields; Thermal linings, i.e. for dissipating
+heat from gamma radiation which would otherwise
+heat an outer biological shield {Thermal insulation}
+   11/081   . . {consisting of a non-metallic layer of insulating
+   11/083   . . {consisting of one or more metallic layers}
+   11/085   . . . {consisting exclusively of several metallic
+   11/086   . . {consisting of a combination of non-metallic and
+metallic layers, e.g. metal-sand-metal-concrete}
+   11/088   . . {consisting of a stagnant or a circulating fluid}
+   13/00    Pressure vessels; Containment vessels;
+Containment in general (for chemical or physical
+processes B01J 3/00; pressure vessels in general
+   13/022   . . {Ventilating arrangements}
+   13/024   . . Supporting constructions for pressure vessels or
+   13/028   . . Seals, e.g. for pressure vessels or containment
+   13/0285  . . . {for container apertures}
+   13/032   . . Joints between tubes and vessel walls, e.g. taking
+   13/036   . . . the tube passing through the vessel wall, i.e.
+continuing on both sides of the wall
+   13/04    . . Arrangements for expansion and contraction
+   13/06    . . Sealing-plugs (for pressure vessels in general
+   13/063   . . . {Seals for closures or for rotatable closures}
+   13/067   . . . for tubes, e.g. standpipes; Locking devices for
+   13/0675  . . . . {Seals for the plugs}
+   13/073   . . . Closures for reactor-vessels, e.g. rotatable
+   13/0735  . . . . {Seals for closures or for rotatable closures}
+   13/08    . Vessels characterised by the material; Selection of
+   13/087   . . Metallic vessels
+   13/0875  . . . {Tube-type vessels, e.g. for not essentially
+   13/093   . . Concrete vessels
+   13/0933  . . . {made of prestressed concrete}
+   13/0936  . . . . {Particulars concerning prestressing devices
+   13/10    . Means for preventing contamination in the event of
+   15/00    Cooling arrangements within the pressure vessel
+containing the core; Selection of specific coolants
+   15/02    . Arrangements or disposition of passages in which
+heat is transferred to the coolant; {Coolant flow
+control devices (G21C 19/04 takes precedence;
+coolant flow control through fuel assemblies, e.g.
+   15/04    . . from fissile or breeder material {(G21C 3/32
+   15/06    . . . in fuel elements
+   15/08    . . from moderating material
+   15/10    . . from reflector or thermal shield
+   15/12    . . from pressure vessel; from containment vessel
+   15/14    . . from headers; from joints in ducts
+   15/16    . comprising means for separating liquid and steam
+(separating in general B01D; steam traps F16D)
+   15/18    . Emergency cooling arrangements; Removing shut-
+   15/182   . . {comprising powered means, e.g. pumps}
+   15/185   . . . {using energy stored in reactor system}
+   15/187   . . . {using energy from the electric grid}
+   15/20    . Partitions or thermal insulation between fuel
+   15/22    . Structural association of coolant tubes with headers
+(joints of tubes in general F16L)
+   15/24    . Promoting flow of the coolant (electrodynamic
+   15/247   . . . for liquid metals
+   15/25    . . . using jet pumps
+   15/253   . . for gases, e.g. blowers
+   15/257   . . using heat-pipes {(in general F28D, F28F)}
+   15/26    . . by convection, e.g. using chimneys, using
+   15/28    . Selection of specific coolants (if serving as the
+moderator G21C 5/12; compositions per se
+C09K 5/00; {organic coolants G21C 5/123});
+{Additions to the reactor coolants, e.g. against
+moderator corrosion (purification and regeneration
+of the reactor coolants G21C 19/30)}
+   17/00    Monitoring; Testing (measuring in general G01);
+   17/001   . {Mechanical simulators (electrical or magnetic
+   17/002   . {Detection of leaks (by testing the coolant or the
+   17/003   . Remote inspection of vessels, e.g. pressure vessels
+   17/007   . . Inspection of the outer surfaces of vessels
+   17/01    . . Inspection of the inner surfaces of vessels
+   17/013   . . Inspection vehicles
+   17/017   . Inspection or maintenance of pipe-lines or tubes in
+   17/02    . Devices or arrangements for monitoring coolant or
+   17/021   . . {Solid moderators testing, e.g. graphite}
+   17/022   . . for monitoring liquid coolants or moderators
+   17/0225  . . . {Chemical surface treatment, e.g. corrosion
+(corrosion prevention in presence of water
+from scale removal or by modification of the
+properties of the liquid C02F 5/00; inhibiting
+corrosion by adding corrosion inhibitors
+   17/025   . . . for monitoring liquid metal coolants {(molten
+metal sampling in general G01N 1/125)}
+   17/0255  . . . . {Liquid metal leaks detection (detecting
+leaks in pipe-line systems in general
+   17/028   . . for monitoring gaseous coolants
+   17/032   . . Reactor-coolant flow measuring or monitoring
+{(measuring volume or mass flow in general
+   17/035   . . Moderator- or coolant-level detecting devices
+{(indicating or measuring liquid level in general
+   17/038   . . Boiling detection in moderator or coolant
+   17/04    . . Detecting burst slugs
+   17/041   . . . {characterised by systems for checking the
+coolant channels, e.g. matrix systems}
+   17/042   . . . {Devices for selective sampling, e.g. valves,
+shutters, rotatable selector valves}
+   17/044   . . . {Detectors and metering devices for the
+   17/045   . . . . {Precipitation chambers}
+   17/047   . . . . {Detection and metering circuits}
+   17/048   . . . {characterised by a special construction of fuel
+elements, e.g. by a confined "tracer"}
+   17/06    . Devices or arrangements for monitoring or testing
+fuel or fuel elements outside the reactor core,
+e.g. for burn-up, for contamination (G21C 17/08,
+G21C 17/10 take precedence; detecting leaking fuel
+elements during reactor operation G21C 17/04)
+   17/063   . . {Burn-up control (G21C 17/066 takes
+   17/066   . . {Control of spherical elements}
+   17/08    . Structural combination of reactor core or moderator
+structure with viewing means, e.g. with television
+   17/10    . Structural combination of fuel element, control rod,
+reactor core, or moderator structure with sensitive
+instruments, e.g. for measuring radioactivity, strain
+   17/102   . . {the sensitive element being part of a fuel element
+or a fuel assembly (structural combination with
+a thermoelectric element for direct production of
+   17/104   . . Measuring reactivity
+   17/108   . . Measuring reactor flux
+   17/112   . . Measuring temperature
+   17/116   . . Passages or insulators, e.g. for electric cables
+   17/12    . . Sensitive element forming part of control element
+   19/00    Arrangements for treating, for handling, or for
+facilitating the handling of, fuel or other materials
+which are used within the reactor, e.g. within its
+   19/02    . Details of handling arrangements
+   19/04    . . Means for controlling flow of coolant over
+objects being handled; Means for controlling flow
+of coolant through channel being serviced {, e.g.
+   19/06    . . Magazines for holding fuel elements or control
+   19/065   . . . {Rotatable magazines}
+   19/07    . . . Storage racks; Storage pools
+   19/08    . . Means for heating fuel elements before
+introduction into the core; Means for heating or
+cooling fuel elements after removal from the core
+   19/10    . . Lifting devices or pulling devices adapted for
+co-operation with fuel elements or with control
+   19/105   . . . with grasping or spreading coupling elements
+   19/11    . . . with revolving coupling elements, e.g. socket
+   19/115   . . . with latching devices and ball couplings
+   19/12    . . Arrangements for exerting direct hydraulic or
+pneumatic force on fuel element or on control
+   19/14    . characterised by their adaptation for use with
+horizontal channels in the reactor core
+   19/16    . Articulated or telescopic chutes or tubes for
+connection to channels in the reactor core
+   19/18    . Apparatus for bringing fuel elements to the reactor
+charge area, e.g. from a storage place
+   19/19    . Reactor parts specifically adapted to facilitate
+handling, e.g. to facilitate charging or discharging of
+   19/20    . Arrangements for introducing objects into the
+pressure vessel; Arrangements for handling objects
+within the pressure vessel; Arrangements for
+removing objects from the pressure vessel
+   19/202   . . {Arrangements for handling ball-form, i.e. pebble
+   19/205   . . {Interchanging of fuel elements in the core, i.e.
+   19/207   . . {Assembling, maintenance or repair of reactor
+components (G21C 3/334 takes precedence)}
+   19/22    . . Arrangements for obtaining access to the interior
+of a pressure vessel whilst the reactor is operating
+   19/24    . . . by using an auxiliary vessel which is
+temporarily sealed to the pressure vessel
+   19/26    . Arrangements for removing jammed or damaged
+fuel elements or control elements; Arrangements for
+   19/28    . Arrangements for introducing fluent material into
+the reactor core; Arrangements for removing fluent
+material from the reactor core (pumping coolant
+   19/30    . . with continuous purification of circulating fluent
+material, e.g. by extraction of fission products
+{deterioration or corrosion products, impurities,
+e.g. by cold traps (purification of circulating fluid
+fuels G21C 19/50; separation in general B01D)}
+   19/303   . . . specially adapted for gases (decontamination of
+   19/307   . . . specially adapted for liquids (decontamination
+   19/31    . . . . for molten metals
+   19/313   . . . . . using cold traps
+   19/317   . . . Recombination devices for radiolytic
+   19/32    . Apparatus for removing radioactive objects or
+materials from the reactor discharge area, e.g. to a
+storage place; Apparatus for handling radioactive
+objects or materials within a storage place or
+removing them therefrom (disposal of waste
+   19/34    . Apparatus or processes for dismantling nuclear
+fuel, e.g. before reprocessing {; Apparatus or
+processes for dismantling strings of spent fuel
+elements}(shielded cells G21F 7/00)
+   19/36    . . Mechanical means only
+   19/365   . . . Removing cannings or casings from fuel
+   19/37    . . . . by separating into pieces both the canning
+or the casing and the fuel element, e.g. by
+   19/375   . . . Compacting devices, e.g. for fuel assemblies
+   19/38    . . Chemical means only
+   19/40    . Arrangements for preventing occurrence of critical
+conditions, e.g. during storage
+   19/42    . Reprocessing of irradiated fuel
+   19/44    . . of irradiated solid fuel
+   19/46    . . . Aqueous processes {, e.g. by using organic
+extraction means, including the regeneration of
+   19/48    . . . Non-aqueous processes
+   19/50    . . of irradiated fluid fuel {, e.g. regeneration of fuels
+while the reactor is in operation}
+   21/00    Apparatus or processes specially adapted to
+the manufacture of reactors or parts thereof (in
+   21/02    . Manufacture of fuel elements or breeder elements
+contained in non-active casings
+   21/04    . . by vibrational compaction or tamping {of fuel in
+   21/06    . . by {rotatable} swaging {of the jacket around the
+   21/08    . . by a slip-fit cladding process {by crimping the
+   21/10    . . by extrusion, drawing, or stretching {by rolling,
+e.g. "picture frame" technique}
+   21/12    . . by hydrostatic or thermo-pneumatic canning {in
+general by pressing without lengthening, e.g.
+   21/14    . . by plating {the fuel} in a fluid
+   21/16    . . by casting or dipping techniques
+   21/18    . Manufacture of control elements covered by group
+   23/00    Adaptations of reactors to facilitate

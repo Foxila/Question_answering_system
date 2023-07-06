@@ -1,0 +1,848 @@
+COOPERATIVE PATENT CLASSIFICATION
+PEPTIDES (peptides in foodstuffs A23; obtaining protein compositions for foodstuffs, working-
+up proteins for foodstuffs A23J; preparations for medicinal purposes A61K; peptides containing
+beta-lactam rings C07D; cyclic dipeptides not having in their molecule any other peptide link
+than those which form their ring, e.g. piperazine-2,5-diones, C07D; ergot alkaloids of the cyclic
+peptide type C07D 519/02; macromolecular compounds having statistically distributed amino
+acid units in their molecules, i.e. when the preparation does not provide for a specific; but for
+a random sequence of the amino acid units, homopolyamides and block copolyamides derived
+from amino acids C08G 69/00; macromolecular products derived from proteins C08H 1/00;
+preparation of glue or gelatine C09H; single cell proteins, enzymes C12N; genetic engineering
+processes for obtaining peptides C12N 15/00; compositions for measuring or testing processes
+involving enzymes C12Q; investigation or analysis of biological material G01N 33/00)
+1. In this subclass, the following terms or expressions are used with the meanings indicated:
+• "amino acids" are compounds in which at least one amino group and at least one carboxyl group are bound to the same
+carbon skeleton and the nitrogen atom of the amino group may form part of a ring;
+• "normal peptide link" is one between an alpha-amino group of an amino acid and the carboxyl group - in position 1 - of
+• "abnormal peptide link" is a link where at least one of the linked amino acids is not an alpha-amino acid or a link formed
+by at least one carboxyl or amino group being part of the side chain of a alpha-amino acid;
+• "peptides" are compounds containing at least two amino acid units, which are bound through at least one normal peptide
+link, including oligopeptides, polypeptides and proteins, where:
+i. "linear peptides" may comprise rings formed through S-S bridges, or through a hydroxy or a mercapto group of an
+hydroxy- or mercapto-amino acid and the carboxyl group of another amino acid, (e.g. peptide lactones) but do not
+comprise rings which are formed only through peptide links;
+ii. "cyclic peptides" are peptides comprising at least one ring formed only through peptide links; the cyclisation may occur
+only through normal peptide links or through abnormal peptide links, e.g. through the 4-amino group of 2,4-diamino-
+butanoic acid. Thus, cyclic compounds in which at least one link in the ring is a non-peptide link are considered as
+iii. "depsipeptides" are compounds containing a sequence of at least two alpha-amino acids and at least one alpha-hydroxy
+carboxylic acid, which are bound through at least one normal peptide link and ester links, derived from the hydroxy
+a. "linear depsipeptides" may comprise rings formed through S-S bridges, or through an hydroxy or a mercapto group
+of an hydroxy- or mercapto-amino acid and the carboxyl group of another amino- of hydroxy-acid but do not
+comprise rings formed only through peptide or ester links derived from hydroxy carboxylic acids, e.g. Gly-Ala-Gly-
+OCH2CO2H and Gly-OCH2CO-Ala-Gly are considered as "linear depsipeptides", but HOCH2CO-Gly-Ala-Gly does
+not contain an ester link, and is thus a derivative of Gly-Ala-Gly which is covered by  C07K 5/08;
+b. "cyclic depsipeptides" are peptides containing at least one ring formed only through peptide or ester links - derived
+from hydroxy carboxylic acids -, e.g. Gly-Ala-Gly-OCH2CO.
+2. Fragments of peptides or peptides modified by removal or addition of amino acids, by substitution of amino acids by others,
+or by combination of these modifications, are classified as the parent peptides. However, fragments of peptides having only
+four or less amino acids are also classified in group C07K 5/00.
+3. Peptides prepared by chemical processes and having an amino acid sequence derived from naturally occurring peptides are
+classified with the natural one.
+4. Peptides prepared by recombinant DNA technology are not classified according to the host, but according to the original
+peptide expressed, e.g. HIV peptide expressed in E. coli is classified with HIV peptides.
+5. When classifying in this subclass, classification is also made in group B01D 15/08 insofar as subject matter of general interest
+relating to chromatography is concerned.
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    General methods for the preparation of peptides {,
+i.e. processes for the organic chemical preparation
+of peptides or proteins of any length}
+    1/003   . {by transforming the C-terminal amino acid to
+    1/006   . {of peptides containing derivatised side chain amino
+    1/02    . in solution {(C07K 1/003, C07K 1/006 take
+    1/023   . . {using racemisation inhibiting agents}
+    1/026   . . {by fragment condensation in solution}
+    1/04    . on carriers {(C07K 1/003, C07K 1/006 take
+    1/042   . . {characterised by the nature of the carrier}
+    1/045   . . {using devices to improve synthesis, e.g. reactors,
+    1/047   . . {Simultaneous synthesis of different peptide
+    1/06    . using protecting groups or activating agents
+{(C07K 1/003, C07K 1/006 take precedence)}
+    1/061   . . {using protecting groups}
+    1/062   . . . {for alpha- or omega-carboxy functions}
+    1/063   . . . {for alpha-amino functions}
+    1/064   . . . {for omega-amino or -guanidino functions}
+    1/065   . . . {for hydroxy functions, not being part of
+    1/066   . . . {for omega-amido functions}
+    1/067   . . . {for sulfur-containing functions}
+    1/068   . . . {for heterocyclic side chains}
+    1/08    . . using activating agents {(C07K 1/003,
+    1/082   . . . {containing phosphorus}
+    1/084   . . . {containing nitrogen}
+    1/086   . . . {containing sulfur}
+    1/088   . . . {containing other elements, e.g. B, Si, As}
+    1/10    . using coupling agents {(C07K 1/006 takes
+    1/107   . by chemical modification of precursor peptides
+    1/1072  . . {by covalent attachment of residues or functional
+    1/1075  . . . {by covalent attachment of amino acids or
+    1/1077  . . . {by covalent attachment of residues other than
+amino acids or peptide residues, e.g. sugars,
+    1/113   . . without change of the primary structure
+    1/1133  . . . {by redox-reactions involving cystein/cystin
+    1/1136  . . . {by reversible modification of the secondary,
+tertiary or quarternary structure, e.g. using
+denaturating or stabilising agents}
+    1/12    . by hydrolysis {, i.e. solvolysis in general}
+    1/122   . . {Hydrolysis with acids different from HF}
+    1/124   . . {Hydrazinolysis}
+    1/13    . Labelling of peptides
+    1/14    . Extraction; Separation; Purification
+    1/145   . . {by extraction or solubilisation}
+    1/16    . . by chromatography
+    1/165   . . . {mixed-mode chromatography}
+    1/18    . . . Ion-exchange chromatography
+    1/20    . . . Partition-, reverse-phase or hydrophobic
+    1/22    . . . Affinity chromatography or related techniques
+based upon selective absorption processes
+    1/24    . . by electrochemical means
+    1/26    . . . Electrophoresis
+    1/28    . . . . Isoelectric focusing
+    1/285   . . . . . {multi dimensional electrophoresis}
+    1/30    . . by precipitation
+    1/303   . . . {by salting out}
+    1/306   . . . {by crystallization}
+Large single crystals of proteins from
+solutions are classified in C30B 7/00 for the
+method and in C30B 29/58 for the crystal
+    1/34    . . by filtration, ultrafiltration or reverse osmosis
+    1/36    . . by a combination of two or more processes of
+    2/00    Peptides of undefined number of amino acids;
+    4/00    Peptides having up to 20 amino acids in an
+undefined or only partially defined sequence;
+    4/08    . from algae; from lichens
+    4/12    . from animals; from humans
+If no indication to the contrary is given, all
+amino acids are considered to be in the natural L-
+    5/00    Peptides containing up to four amino acids in a
+fully defined sequence; Derivatives thereof
+    5/02    . containing at least one abnormal peptide link
+    5/0202  . . {containing the structure -NH-X-X-C(=0)-, X
+being an optionally substituted carbon atom or a
+heteroatom, e.g. beta-amino acids}
+    5/0205  . . {containing the structure -NH-(X)3-C(=0)-, e.g.
+statine or derivatives thereof}
+    5/0207  . . {containing the structure -NH-(X)4-C(=0), e.g.
+'isosters', replacing two amino acids}
+    5/021   . . {containing the structure -NH-(X)n-C(=0)-,
+n being 5 or 6; for n > 6, classification in
+C07K 5/06 - C07K 5/10, according to the moiety
+    5/0212  . . {containing the structure -N-C-N-C(=0)-, e.g.
+    5/0215  . . {containing natural amino acids, forming a
+peptide bond via their side chain functional
+group, e.g. epsilon-Lys, gamma-Glu}
+    5/0217  . . {containing the structure -C(=O)-C-N-C(=O)-N-
+    5/022   . . {containing the structure -X-C(=O)-(C)n-N-C-
+C(=O)-Y-; X and Y being heteroatoms; n being 1
+    5/0222  . . . {with the first amino acid being heterocyclic,
+    5/0225  . . {containing the structure -N-C-C(=O)-N-C(=O)-
+    5/0227  . . {containing the (partial) peptide sequence -Phe-
+His-NH-(X)2-C(=0)-, e.g. Renin-inhibitors with n
+= 2 - 6; for n > 6 see C07K 5/06 - C07K 5/10}
+    5/04    . containing only normal peptide links
+In groups C07K 5/06 - C07K 5/10 the following
+terms or expressions are used with the meaning
+amino groups than carboxylic acid
+having only acyclic carbon atoms
+having a carbocyclic ring in the
+or is part of a heteroring, e.g.
+in the optionally functionalised
+    5/06008 . . . {with the first amino acid being neutral}
+    5/06017 . . . . {and aliphatic}
+    5/06026 . . . . . {the side chain containing 0 or 1 carbon
+    5/06034 . . . . . {the side chain containing 2 to 4 carbon
+    5/06043 . . . . . . {Leu-amino acid}
+    5/06052 . . . . . . {Val-amino acid}
+    5/0606  . . . . . {the side chain containing
+heteroatoms not provided for by
+C07K 5/06086 - C07K 5/06139, e.g. Ser,
+    5/06069 . . . . . . {Ser-amino acid}
+    5/06078 . . . . {and aromatic or cycloaliphatic}
+    5/06086 . . . {with the first amino acid being basic}
+    5/06095 . . . . {Arg-amino acid}
+    5/06104 . . . {with the first amino acid being acidic}
+    5/06113 . . . . {Asp- or Asn-amino acid}
+    5/06121 . . . . . {the second amino acid being aromatic or
+    5/0613  . . . . . . {Aspartame}
+    5/06139 . . . {with the first amino acid being heterocyclic}
+    5/06147 . . . . {and His-amino acid; Derivatives thereof}
+    5/06156 . . . . {and Trp-amino acid; Derivatives thereof}
+    5/06165 . . . . {and Pro-amino acid; Derivatives thereof}
+    5/06173 . . . . {and Glp-amino acid; Derivatives thereof}
+    5/06182 . . . . {and Pristinamycin II; Derivatives thereof}
+    5/06191 . . . {containing heteroatoms different from O, S, or
+    5/0802  . . . {with the first amino acid being neutral}
+    5/0804  . . . . {and aliphatic}
+    5/0806  . . . . . {the side chain containing 0 or 1 carbon
+    5/0808  . . . . . {the side chain containing 2 to 4 carbon
+    5/081   . . . . . {the side chain containing O or S as
+    5/0812  . . . . {and aromatic or cycloaliphatic}
+    5/0815  . . . {with the first amino acid being basic}
+    5/0817  . . . . {the first amino acid being Arg}
+    5/0819  . . . {with the first amino acid being acidic}
+    5/0821  . . . {with the first amino acid being heterocyclic,
+    5/0823  . . . . {and Pro-amino acid; Derivatives thereof}
+    5/0825  . . . . {and Glp-amino acid; Derivatives thereof}
+    5/0827  . . . {containing heteroatoms different from O, S, or
+    5/1002  . . . {with the first amino acid being neutral}
+    5/1005  . . . . {and aliphatic}
+    5/1008  . . . . . {the side chain containing 0 or 1 carbon
+    5/101   . . . . . {the side chain containing 2 to 4 carbon
+    5/1013  . . . . . {the side chain containing O or S as
+    5/1016  . . . . {and aromatic or cycloaliphatic}
+    5/1019  . . . {with the first amino acid being basic}
+    5/1021  . . . {with the first amino acid being acidic}
+    5/1024  . . . {with the first amino acid being heterocyclic}
+    5/1027  . . . {containing heteroatoms different from O, S, or
+    5/12    . . Cyclic peptides {with only normal peptide bonds
+Cyclic peptides containing at least one
+abnormal peptide link are classified as linear
+    5/123   . . . {Tripeptides}
+    5/126   . . . {Tetrapeptides}
+    7/00    Peptides having 5 to 20 amino acids in a fully
+defined sequence; Derivatives thereof
+In this subgroup cyclic compounds related to
+specific compounds which are classified in a
+specific group, e.g. C07K 7/062, are classified in
+    7/02    . Linear peptides containing at least one abnormal
+    7/04    . Linear peptides containing only normal peptide
+    7/06    . . having 5 to 11 amino acids
+    7/062   . . . {Serum thymic factor}
+    7/065   . . . {Thymic humoral factor}
+    7/067   . . . {Hemoregulatory peptides based on sequence
+    7/08    . . having 12 to 20 amino acids (gastrins
+C07K 14/595; somatostatins C07K 14/655;
+    7/083   . . . {Neurotensin}
+    7/086   . . . {Bombesin; Related peptides (having more
+than 20 amino acids C07K 14/57572)}
+    7/14    . . Angiotensins: Related peptides
+    7/16    . . Oxytocins; Vasopressins; Related peptides
+    7/18    . . Kallidins; Bradykinins; Related peptides
+    7/22    . . {Tachykinins, e.g.} Eledoisins {, Substance P};
+    7/23    . . Luteinising hormone-releasing hormone [LHRH];
+    7/28    . . Gramicidins A, B, D; Related peptides
+    7/50    . Cyclic peptides containing at least one abnormal
+    7/52    . . with only normal peptide links in the ring
+    7/54    . . with at least one abnormal peptide link in the ring
+    7/56    . . . the cyclisation not occurring through 2,4-
+    7/58    . . . . Bacitracins; Related peptides
+    7/60    . . . the cyclisation occurring through the 4-amino
+group of 2,4-diamino-butanoic acid
+    7/62    . . . . Polymyxins; Related peptides
+    7/64    . Cyclic peptides containing only normal peptide
+    7/645   . . {Cyclosporins; Related peptides}
+    7/66    . . Gramicidins S, C; Tyrocidins A, B, C; Related
+    9/00    Peptides having up to 20 amino acids, containing
+saccharide radicals and having a fully defined
+    9/001   . {the peptide sequence having less than 12 amino
+acids and not being part of a ring structure}
+    9/003   . . {Peptides being substituted by heterocyclic
+radicals, e.g. bleomycin, phleomycin}
+    9/005   . . {containing within the molecule the substructure
+0 and m+n > 0, A, B, D, E being heteroatoms; X
+being a bond or a chain, e.g. muramylpeptides}
+    9/006   . {the peptide sequence being part of a ring structure}
+    9/008   . . {directly attached to a hetero atom of the
+saccharide radical, e.g. actaplanin, avoparcin,
+   11/00    Depsipeptides having up to 20 amino acids in a
+fully defined sequence; Derivatives thereof
+   11/02    . cyclic, e.g. valinomycins {Derivatives thereof}
+   14/00    Peptides having more than 20 amino acids;
+Gastrins; Somatostatins; Melanotropins;
+   14/001   . {by chemical synthesis}
+   14/003   . . {Peptide-nucleic acids (PNAs)}
+When classifying in this group, subject-matter
+related to viral proteins shall be classified by
+the symbol C07K 14/005 together with (a
+number of) appropriate indexing codes out of
+C07K 14/01 - C07K 14/19 and subgroups thereof
+are no longer used for the classification of new
+documents. 2. Reclassification of the back-file
+follows the principle outlined in the Note here
+   14/015   . . . Parvoviridae, e.g. feline panleukopenia virus,
+   14/02    . . . Hepadnaviridae, e.g. hepatitis B virus
+   14/025   . . . Papovaviridae, e.g. papillomavirus,
+polyomavirus, SV40, BK virus, JC virus
+   14/03    . . . Herpetoviridae, e.g. pseudorabies virus
+   14/032   . . . . {Pseudorabies virus, i.e. Anjetzky virus}
+   14/035   . . . . Herpes simplex virus I or II
+   14/04    . . . . Varicella-zoster virus
+   14/045   . . . . . Cytomegalovirus
+   14/05    . . . . Epstein-Barr virus
+   14/055   . . . . Marek's disease virus
+   14/06    . . . . Infectious bovine rhinotracheitis virus
+   14/065   . . . Poxviridae, e.g. avipoxvirus
+   14/07    . . . . Vaccinia virus; Variola virus
+   14/082   . . . {Arteriviridae, e.g. EAV, PRRSV}
+   14/085   . . . Picornaviridae, e.g. coxsackie virus, echovirus,
+   14/09    . . . . Foot-and-mouth disease virus
+   14/10    . . . . Hepatitis A virus
+   14/11    . . . Orthomyxoviridae, e.g. influenza virus
+   14/115   . . . Paramyxoviridae, e.g. parainfluenza virus
+   14/12    . . . . Mumps virus; Measles virus
+   14/125   . . . . Newcastle disease virus
+   14/13    . . . . Canine distemper virus
+   14/135   . . . . Respiratory syncytial virus
+   14/14    . . . Reoviridae, e.g. rotavirus, bluetongue virus,
+   14/145   . . . Rhabdoviridae, e.g. rabies virus, Duvenhage
+virus, Mokola virus or vesicular stomatitis virus
+   14/15    . . . Retroviridae, e.g. bovine leukaemia virus,
+feline leukaemia virus human T-cell leukaemia-
+   14/155   . . . . Lentiviridae, e.g. visna-maedi virus, equine
+   14/16    . . . . . HIV-1 {; HIV-2}
+   14/161   . . . . . . {gag-pol, e.g. p55, p24/25, p17/18, p7,
+p6, p66/68, p51/52, p31/34, p32, p40}
+   14/162   . . . . . . {env, e.g. gp160, gp110/120, gp41, V3,
+   14/163   . . . . . . {Regulatory proteins, e.g. tat, nef, rev,
+   14/165   . . . Coronaviridae, e.g. avian infectious bronchitis
+   14/17    . . . . Porcine transmissible gastroenteritis virus
+   14/175   . . . Bunyaviridae, e.g. California encephalitis virus,
+Rift valley fever virus, Hantaan virus
+   14/18    . . . Togaviridae; {Flaviviridae}
+   14/1808  . . . . {Alphaviruses or Group A arboviruses, e.g.
+sindbis, VEE, EEE, WEE, semliki forest
+virus (rubella virus C07K 14/19)}
+   14/1816  . . . . {Flaviviridae, e.g. pestivirus, mucosal
+disease virus, bovine viral diarrhoea virus,
+classical swine fever virus (hog cholera
+   14/1825  . . . . . {Flaviviruses or Group B arboviruses, e.g.
+yellow fever virus, japanese encephalitis,
+tick-borne encephalitis, dengue}
+   14/1833  . . . . . {Hepatitis C; Hepatitis NANB}
+   14/1841  . . . . . {Hepatitis G; Hepatitis NANBNCNDNE}
+   14/19    . . . . Rubella virus
+In groups C07K 14/20 - C07K 14/365, where
+appropriate, after the bacteria terminology, the
+indication of the order (O), family (F) or genus
+(G) of the bacteria is given in brackets.
+   14/20    . . from Spirochaetales (O), e.g. Treponema,
+   14/205   . . from Campylobacter (G)
+   14/21    . . from Pseudomonadaceae (F)
+   14/212   . . . {Moraxellaceae, e.g. Acinetobacter, Moraxella,
+   14/215   . . from Halobacteriaceae (F)
+   14/22    . . from Neisseriaceae (F)
+   14/225   . . from Alcaligenes (G)
+   14/23    . . from Brucella (G)
+   14/235   . . from Bordetella (G)
+   14/24    . . from Enterobacteriaceae (F), e.g. Citrobacter,
+Serratia, Proteus, Providencia, Morganella,
+   14/245   . . . Escherichia (G)
+   14/255   . . . Salmonella (G)
+   14/26    . . . Klebsiella (G)
+   14/265   . . . Enterobacter (G)
+   14/28    . . from Vibrionaceae (F)
+   14/285   . . from Pasteurellaceae (F), e.g. Haemophilus
+   14/29    . . from Richettsiales (O)
+   14/295   . . from Chlamydiales (O)
+   14/30    . . from Mycoplasmatales, e.g. Pleuropneumonia-
+   14/305   . . from Micrococcaceae (F)
+   14/31    . . . from Staphylococcus (G)
+   14/315   . . from Streptococcus (G), e.g. Enterococci
+   14/3153  . . . {Streptokinase}
+   14/3156  . . . {from Streptococcus pneumoniae
+   14/32    . . from Bacillus (G)
+   14/325   . . . Bacillus thuringiensis crystal protein (delta-
+   14/33    . . from Clostridium (G)
+   14/335   . . from Lactobacillus (G)
+   14/34    . . from Corynebacterium (G)
+   14/345   . . from Brevibacterium (G)
+   14/35    . . from Mycobacteriaceae (F)
+   14/355   . . from Nocardia (G)
+   14/36    . . from Actinomyces; from Streptomyces (G)
+   14/365   . . from Actinoplanes (G)
+   14/375   . . from Basidiomycetes
+   14/38    . . from Aspergillus
+   14/385   . . from Penicillium
+   14/395   . . . from Saccharomyces
+   14/42    . . Lectins, e.g. concanavalin, phytohaemagglutinin
+   14/43    . . {Sweetening agents, e.g.} thaumatin, {monellin}
+   14/435   . from animals; from humans
+   14/43504 . . {from invertebrates}
+   14/43509 . . . {from crustaceans}
+   14/43513 . . . {from arachnidae}
+   14/43518 . . . . {from spiders}
+   14/43522 . . . . {from scorpions}
+   14/43527 . . . . {from ticks}
+   14/43531 . . . . {from mites}
+   14/4354  . . . . {from nematodes}
+   14/43545 . . . . . {from Caenorhabditis}
+   14/4355  . . . . {from cestodes}
+   14/43554 . . . . . {from Taenia}
+   14/43559 . . . . {from trematodes}
+   14/43563 . . . {from insects}
+   14/43568 . . . . {from wasps}
+   14/43572 . . . . {from bees}
+   14/43577 . . . . {from flies}
+   14/43581 . . . . . {from Drosophila}
+   14/43586 . . . . {from silkworms}
+   14/4359  . . . . {from fleas}
+   14/43595 . . . {from coelenteratae, e.g. medusae}
+   14/46    . . from vertebrates
+   14/463   . . . {from amphibians}
+   14/4702  . . . . . {Regulators; Modulating activity}
+   14/4703  . . . . . . {Inhibitors; Suppressors}
+   14/4705  . . . . . . {stimulating, promoting or activating
+   14/4706  . . . . . . . {Guanosine triphosphatase activating
+   14/4707  . . . . . {Muscular dystrophy}
+   14/4708  . . . . . . {Duchenne dystrophy}
+   14/471   . . . . . . {Myotonic dystrophy}
+   14/4711  . . . . . {Alzheimer's disease; Amyloid plaque
+   14/4712  . . . . . {Cystic fibrosis}
+   14/4713  . . . . . {Autoimmune diseases, e.g. Insulin-
+dependent diabetes mellitus, multiple
+sclerosis, rheumathoid arthritis, systemic
+lupus erythematosus; Autoantigens}
+   14/4715  . . . . . {Pregnancy proteins, e.g. placenta
+proteins, alpha-feto-protein, pregnancy
+   14/4716  . . . . . {Muscle proteins, e.g. myosin, actin}
+   14/4717  . . . . . {Plasma globulins, lactoglobulin}
+   14/4718  . . . . . {Cytokine-induced proteins}
+   14/472   . . . . . {Complement proteins, e.g. anaphylatoxin,
+   14/4721  . . . . . {Lipocortins}
+   14/4722  . . . . . {G-proteins}
+   14/4723  . . . . . {Cationic antimicrobial peptides, e.g.
+   14/4725  . . . . . {Proteoglycans, e.g. aggreccan}
+   14/4726  . . . . . {Lectins}
+   14/4727  . . . . . {Mucins, e.g. human intestinal mucin}
+   14/4728  . . . . . {Calcium binding proteins, e.g.
+   14/473   . . . . . {alpha-Glycoproteins}
+   14/4731  . . . . . {Recognins, e.g. malignin}
+   14/4732  . . . . . {Casein (in foodstuffs A23J)}
+   14/4733  . . . . . {Acute pancreatitis-associated protein}
+   14/4736  . . . . . {Retinoblastoma protein}
+   14/4737  . . . . . {C-reactive protein}
+   14/4738  . . . . . {Cell cycle regulated proteins, e.g. cyclin,
+CDC, INK-CCR (cell cycle dependent
+   14/474   . . . . . {Pancreatic thread protein; Reg protein}
+   14/4741  . . . . . {Keratin; Cytokeratin}
+   14/4742  . . . . . {Bactericidal/Permeability-increasing
+   14/4743  . . . . . {Insulin-like growth factor binding
+   14/4745  . . . . . {Cancer-associated SCM-recognition
+   14/4747  . . . . . {Apoptosis related proteins}
+   14/4748  . . . . . {Tumour specific antigens; Tumour
+rejection antigen precursors [TRAP], e.g.
+   14/475   . . Growth factors; Growth regulators
+   14/4753  . . . {Hepatocyte growth factor; Scatter factor;
+   14/4756  . . . {Neuregulins, i.e. p185erbB2 ligands,
+glial growth factor, heregulin, ARIA, neu
+   14/48    . . . Nerve growth factor [NGF]
+   14/485   . . . Epidermal growth factor [EGF] (urogastrone)
+   14/49    . . . Platelet-derived growth factor [PDGF]
+   14/495   . . . Transforming growth factor [TGF]
+   14/50    . . . Fibroblast growth factors [FGF]
+   14/501   . . . . {acidic FGF [aFGF]}
+   14/503   . . . . {basic FGF [bFGF]}
+   14/505   . . . Erythropoietin [EPO]
+   14/51    . . . Bone morphogenetic factor; Osteogenins;
+Osteogenic factor; Bone-inducing factor
+   14/515   . . . Angiogenesic factors; Angiogenin
+   14/52    . . Cytokines; Lymphokines; Interferons
+   14/522   . . . . {Alpha-chemokines, e.g. NAP-2, ENA-78,
+GRO-alpha/MGSA/NAP-3, GRO-beta/
+MIP-2alpha, GRO-gamma/MIP-2beta, IP-10,
+   14/523   . . . . {Beta-chemokines, e.g. RANTES, I-309/
+TCA-3, MIP-1alpha, MIP-1beta/ACT-2/
+   14/524   . . . {Thrombopoietin, i.e. C-MPL ligand}
+   14/525   . . . Tumour necrosis factor [TNF]
+   14/5255  . . . . {Lymphotoxin [LT]}
+   14/53    . . . Colony-stimulating factor [CSF]
+   14/535   . . . . Granulocyte CSF; Granulocyte-macrophage
+   14/54    . . . Interleukins [IL]
+   14/5415  . . . . {Leukaemia inhibitory factor [LIF]}
+   14/555   . . . Interferons [IFN]
+   14/575   . . Hormones (derived from pro-opiomelanocortin,
+pro-enkephalin or pro-dynorphin C07K 14/665,
+e.g. corticotropin C07K 14/695)
+   14/57509 . . . {Corticotropin releasing factor [CRF]
+   14/57518 . . . {Placental lactogen; Chorionic
+   14/57527 . . . {Calcitonin gene related peptide}
+   14/57536 . . . {Endothelin, vasoactive intestinal contractor
+   14/57545 . . . {Neuropeptide Y}
+   14/57563 . . . {Vasoactive intestinal peptide [VIP]; Related
+   14/57572 . . . {Gastrin releasing peptide (bombesin
+   14/57581 . . . {Thymosin; Related peptides}
+   14/5759  . . . {Products of obesity genes, e.g. leptin, obese
+   14/58    . . . Atrial natriuretic factor complex; Atriopeptin;
+Atrial natriuretic peptide [ANP]; Cardionatrin;
+   14/582   . . . . {at least 1 amino acid in D-form}
+   14/5855  . . . . {at least 1 amino acid in D-form}
+   14/59    . . . Follicle-stimulating hormone [FSH]; Chorionic
+gonadotropins, e.g. HCG; Luteinising hormone
+[LH]; Thyroid-stimulating hormone [TSH]
+   14/592   . . . . {at least 1 amino acid in D-form}
+   14/595   . . . Gastrins; Cholecystokinins [CCK]
+   14/5955  . . . . {at least 1 amino acid in D-form}
+   14/60    . . . Growth-hormone releasing factors (GH-RF)
+   14/61    . . . Growth hormones [GH] (Somatotropin)
+   14/615   . . . . Extraction from natural sources
+   14/622   . . . . {at least 1 amino acid in D-form}
+   14/625   . . . . Extraction from natural sources
+   14/635   . . . Parathyroid hormone (parathormone);
+Parathyroid hormone-related peptides
+   14/65    . . . Insulin-like growth factors (Somatomedins),
+   14/655   . . . Somatostatins
+   14/6555  . . . . {at least 1 amino acid in D-form}
+   14/66    . . . Thymopoietins
+   14/662   . . . . {at least 1 amino acid in D-form}
+   14/665   . . derived from pro-opiomelanocortin, pro-
+   14/67    . . . Lipotropins, e.g. beta, gamma lipotropin
+   14/672   . . . . {with at least 1 amino acid in D-form}
+   14/675   . . . Beta-endorphins
+   14/6755  . . . . {with at least 1 amino acid in D-form}
+   14/68    . . . Melanocyte-stimulating hormone [MSH]
+   14/685   . . . . Alpha-melanotropin
+   14/69    . . . . Beta-melanotropin
+   14/695   . . . Corticotropin [ACTH]
+   14/6955  . . . . {with at least 1 amino acid in D-form}
+   14/702   . . . . {with at least 1 amino acid in D-form}
+   14/705   . . Receptors; Cell surface antigens; Cell surface
+determinants {(tumour specific antigens
+   14/70503 . . . {Immunoglobulin superfamily}
+   14/7051  . . . . {T-cell receptor (TcR)-CD3 complex}
+   14/70521 . . . . {CD28, CD152}
+   14/70525 . . . . {ICAM molecules, e.g. CD50, CD54,
+   14/70532 . . . . {B7 molecules, e.g. CD80, CD86}
+   14/70535 . . . . {Fc-receptors, e.g. CD16, CD32, CD64
+   14/70539 . . . . {MHC-molecules, e.g. HLA-molecules}
+   14/70546 . . . {Integrin superfamily}
+   14/7055  . . . . {Integrin beta1-subunit-containing
+   14/70553 . . . . {Integrin beta2-subunit-containing
+   14/70557 . . . . {Integrin beta3-subunit-containing
+molecules, e.g. CD41, CD51, CD61}
+   14/7056  . . . {Lectin superfamily, e.g. CD23, CD72}
+   14/70564 . . . . {Selectins, e.g. CD62}
+   14/70567 . . . {Nuclear receptors, e.g. retinoic acid receptor
+[RAR], RXR, nuclear orphan receptors}
+   14/70571 . . . {for neuromediators, e.g. serotonin receptor,
+   14/70575 . . . {NGF/TNF-superfamily, e.g. CD70, CD95L,
+CD153, CD154 (NGF C07K 14/48, TNF
+   14/70578 . . . {NGF-receptor/TNF-receptor superfamily, e.g.
+CD27, CD30, CD40, CD95 (NGF-receptor
+C07K 14/71, TNF-receptor C07K 14/7151)}
+   14/70596 . . . {Molecules with a "CD"-designation not
+   14/71    . . . for growth factors; for growth regulators
+   14/715   . . . for cytokines; for lymphokines; for interferons
+   14/7151  . . . . {for tumor necrosis factor [TNF], for
+   14/7153  . . . . {for colony-stimulating factors [CSF]}
+   14/7155  . . . . {for interleukins [IL]}
+   14/7156  . . . . {for interferons [IFN]}
+   14/7158  . . . . {for chemokines}
+   14/72    . . . for hormones {(for neuromediators
+   14/721   . . . . {Steroid/thyroid hormone superfamily, e.g.
+GR, EcR, androgen receptor, oestrogen
+   14/723   . . . . {G protein coupled receptor, e.g. TSHR-
+thyrotropin-receptor, LH/hCG receptor, FSH
+   14/745   . . Blood coagulation or fibrinolysis factors
+   14/7455  . . . {Thrombomodulin}
+   14/755   . . . Factors VIII {, e.g. factor VIII C (AHF), factor
+   14/765   . . . Serum albumin, e.g. HSA
+   14/775   . . Apolipopeptides
+   14/78    . . Connective tissue peptides, e.g. collagen, elastin,
+laminin, fibronectin, vitronectin, cold insoluble
+   14/785   . . Alveolar surfactant peptides; Pulmonary
+   14/79    . . Transferrins, e.g. lactoferrins, ovotransferrins
+   14/795   . Porphyrin- or corrin-ring-containing peptides
+   14/805   . . Haemoglobins; Myoglobins
+   14/81    . Protease inhibitors
+   14/8103  . . {Exopeptidase (E.C. 3.4.11-19) inhibitors}
+   14/8107  . . {Endopeptidase (E.C. 3.4.21-99) inhibitors}
+   14/811   . . . {Serine protease (E.C. 3.4.21) inhibitors}
+   14/8114  . . . . {Kunitz type inhibitors}
+   14/8117  . . . . . {Bovine/basic pancreatic trypsin inhibitor
+   14/8125  . . . . . {Alpha-1-antitrypsin}
+   14/8128  . . . . . {Antithrombin III}
+   14/8132  . . . . . {Plasminogen activator inhibitors}
+   14/8135  . . . . {Kazal type inhibitors, e.g. pancreatic
+secretory inhibitor, ovomucoid}
+   14/8139  . . . {Cysteine protease (E.C. 3.4.22) inhibitors, e.g.
+   14/8142  . . . {Aspartate protease (E.C. 3.4.23) inhibitors,
+   14/8146  . . . {Metalloprotease (E.C. 3.4.24) inhibitors, e.g.
+tissue inhibitor of metallo proteinase, TIMP}
+   14/815   . . from leeches, e.g. hirudin, eglin
+   14/82    . Translation products from oncogenes
+   16/00    Immunoglobulins [IGs], e.g. monoclonal or
+polyclonal antibodies {(antibodies with enzymatic
+activity, e.g. abzymes C12N 9/0002)}
+1. Documents characterised by the technical
+aspects of the construction of an antibody
+or fragment thereof, should be classified
+2. Documents not characterised by the technical
+aspects of the construction of an antibody or
+fragment thereof, should be classified only
+according to their specificity, where necessary
+accompanied by one or more appropriate indexing
+   16/005   . {constructed by phage libraries}
+   16/065   . . {Purification, fragmentation}
+   16/08    . against material from viruses
+   16/081   . . {from DNA viruses}
+   16/082   . . . {Hepadnaviridae, e.g. hepatitis B virus}
+   16/084   . . . {Papovaviridae, e.g. papillomavirus,
+polyomavirus, SV40, BK virus, JC virus}
+   16/085   . . . {Herpetoviridae, e.g. pseudorabies virus,
+   16/087   . . . . {Herpes simplex virus}
+   16/088   . . . . {Varicella-zoster virus, e.g.
+   16/10    . . from RNA viruses {, e.g. hepatitis E virus}
+   16/1009  . . . {Picornaviridae, e.g. hepatitis A virus}
+   16/1018  . . . {Orthomyxoviridae, e.g. influenza virus}
+   16/1027  . . . {Paramyxoviridae, e.g. respiratory syncytial
+   16/1036  . . . {Retroviridae, e.g. leukemia viruses}
+   16/1045  . . . . {Lentiviridae, e.g. HIV, FIV, SIV}
+   16/1054  . . . . . {gag-pol, e.g. p17, p24}
+   16/1063  . . . . . {env, e.g. gp41, gp110/120, gp160, V3,
+   16/1072  . . . . . {Regulatory proteins, e.g. tat, rev, vpt}
+   16/1081  . . . {Togaviridae, e.g. flavivirus, rubella virus, hog
+   16/109   . . . . {Hepatitis C virus; Hepatitis G virus}
+   16/12    . against material from bacteria
+   16/1203  . . {from Gram-negative bacteria}
+   16/1207  . . . {from Spirochaetales (O), e.g. Treponema,
+   16/121   . . . {from Helicobacter (Campylobacter) (G)}
+   16/1214  . . . {from Pseudomonadaceae (F)}
+   16/1217  . . . {from Neisseriaceae (F), e.g. Acinetobacter}
+   16/1221  . . . {from Brucella (G)}
+   16/1225  . . . {from Bordetella (G)}
+   16/1228  . . . {from Enterobacteriaceae (F), e.g. Citrobacter,
+Serratia, Proteus, Providencia, Morganella,
+   16/1232  . . . . {from Escherichia (G)}
+   16/1235  . . . . {from Salmonella (G)}
+   16/1239  . . . {from Vibrionaceae (G)}
+   16/1242  . . . {from Pasteurellaceae (F), e.g. Haemophilus
+   16/1246  . . . {from Rickettsiales (O)}
+   16/125   . . . {from Chlamydiales (O)}
+   16/1253  . . . {from Mycoplasmatales, e.g.
+Pleuropneumonia-like organisms [PPLO]}
+   16/1257  . . . {from Bacteridaceae (F)}
+   16/126   . . . {from Legionella (G)}
+   16/1264  . . . {from Rhizobiaceae (F)}
+   16/1267  . . {from Gram-positive bacteria}
+   16/1271  . . . {from Micrococcaceae (F), e.g.
+   16/1275  . . . {from Streptococcus (G)}
+   16/1278  . . . {from Bacillus (G)}
+   16/1282  . . . {from Clostridium (G)}
+   16/1285  . . . {from Corynebacterium (G)}
+   16/1289  . . . {from Mycobacteriaceae (F)}
+   16/1292  . . . {from Actinomyces; from Streptomyces (G)}
+   16/1296  . . . {from Listeria}
+   16/14    . against material from fungi, algea or lichens
+   16/16    . against material from plants
+   16/18    . against material from animals or humans
+   16/22    . . against growth factors {; against growth
+   16/24    . . against cytokines, lymphokines or interferons
+   16/241   . . . {Tumor Necrosis Factors}
+   16/242   . . . . {Lymphotoxin [LT]}
+   16/243   . . . {Colony Stimulating Factors}
+   16/244   . . . {Interleukins [IL]}
+   16/249   . . . {Interferons}
+   16/26    . . against hormones {; against hormone releasing or
+   16/28    . . against receptors, cell surface antigens or cell
+   16/2803  . . . {against the immunoglobulin superfamily}
+   16/2806  . . . . {against CD2}
+   16/2809  . . . . {against the T-cell receptor (TcR)-CD3
+   16/2812  . . . . {against CD4}
+   16/2815  . . . . {against CD8}
+   16/2818  . . . . {against CD28 or CD152}
+   16/2821  . . . . {against ICAM molecules, e.g. CD50, CD54,
+   16/2824  . . . . {against CD58}
+   16/2827  . . . . {against B7 molecules, e.g. CD80, CD86}
+   16/283   . . . . {against Fc-receptors, e.g. CD16, CD32,
+   16/2833  . . . . {against MHC-molecules, e.g. HLA-
+   16/2836  . . . . {against CD106}
+   16/2839  . . . {against the integrin superfamily}
+   16/2842  . . . . {against integrin beta1-subunit-containing
+   16/2845  . . . . {against integrin beta2-subunit-containing
+   16/2848  . . . . {against integrin beta3-subunit-containing
+molecules, e.g. CD41, CD51, CD61}
+   16/2851  . . . {against the lectin superfamily, e.g. CD23,
+   16/2854  . . . . {against selectins, e.g. CD62}
+   16/2857  . . . {against nuclear receptors, e.g. retinoic acid
+receptor [RAR], RXR, orphan receptor}
+   16/286   . . . {against neuromediator receptors, e.g.
+serotonin receptor, dopamine receptor}
+   16/2863  . . . {against receptors for growth factors, growth
+   16/2866  . . . {against receptors for cytokines, lymphokines,
+   16/2869  . . . {against hormone receptors (for antibodies
+against neuromediator receptors
+   16/2872  . . . {against prion molecules, e.g. CD230}
+   16/2875  . . . {against the NGF/TNF superfamily, e.g.
+CD70, CD95L, CD153, CD154 (against NGF
+C07K 16/22, against TNF C07K 16/241)}
+   16/2878  . . . {against the NGF-receptor/TNF-receptor
+superfamily, e.g. CD27, CD30, CD40, CD95}
+   16/2881  . . . {against CD71}
+   16/2884  . . . {against CD44}
+   16/2887  . . . {against CD20}
+   16/289   . . . {against CD45}
+   16/2893  . . . {against CD52}
+   16/2896  . . . {against molecules with a "CD"-designation,
+   16/30    . . . from tumour cells
+   16/3007  . . . . {Carcino-embryonic Antigens}
+   16/303   . . . . {Liver or Pancreas}
+   16/3038  . . . . {Kidney, bladder}
+   16/3046  . . . . {Stomach, Intestines}
+   16/3053  . . . . {Skin, nerves, brain}
+   16/3061  . . . . {Blood cells}
+   16/3069  . . . . {Reproductive system, e.g. ovaria, uterus,
+   16/3076  . . . . {against structure-related tumour-associated
+   16/3084  . . . . . {against tumour-associated gangliosides}
+   16/3092  . . . . . {against tumour-associated mucins}
+   16/32    . . against translation products of oncogenes
+   16/34    . . against blood group antigens
+   16/36    . . against blood coagulation factors
+   16/38    . against protease inhibitors of peptide structure
+   16/42    . against immunoglobulins
+   16/4208  . . {against an idiotypic determinant on Ig}
+   16/4216  . . . {against anti-viral Ig}
+   16/4225  . . . . {against anti-HIV Ig}
+   16/4233  . . . {against anti-bacterial Ig}
+   16/4241  . . . {against anti-human or anti-animal Ig}
+   16/425   . . . . {against anti-protozoal Ig}
+   16/4258  . . . . {against anti-receptor Ig}
+   16/4266  . . . . . {against anti-tumor receptor Ig}
+   16/4275  . . . . . {against anti-CD4 Ig}
+   16/4283  . . {against an allotypic or isotypic determinant on
+   16/4291  . . . {against IgE}
+   16/44    . against material not provided for elsewhere {, e.g.
+haptens, metals, DNA, RNA, amino acids}
+   16/46    . Hybrid immunoglobulins (hybrids of an
+immunoglobulin with a peptide not being an
+   16/461   . . {Igs containing Ig-regions, -domains or -residues
+   16/462   . . . {Igs containing a variable region (Fv) from one
+specie and a constant region (Fc) from another}
+   16/464   . . . {Igs containing CDR-residues from one specie
+grafted between FR-residues from another}
+   16/465   . . . . {with additional modified FR-residues}
+   16/467   . . . {Igs with modifications in the FR-residues
+   16/468   . . {Immunoglobulins having two or more different
+antigen binding sites, e.g. multifunctional
+   17/00    Carrier-bound or immobilised peptides (carrier-
+bound or immobilised enzymes C12N 11/00);
+   17/02    . Peptides being immobilised on, or in, an organic
+   17/04    . . entrapped within the carrier, e.g. gel, hollow fibre
+   17/06    . . attached to the carrier via a bridging agent
+   17/08    . . the carrier being a synthetic polymer
+   17/10    . . the carrier being a carbohydrate
+   17/12    . . . Cellulose or derivatives thereof
+   17/14    . Peptides being immobilised on, or in, an inorganic
+ 2299/00    Coordinates from 3D structures of peptides, e.g.
+ 2317/00    Immunoglobulins specific features
+ 2317/10    . characterized by their source of isolation or
+ 2317/11    . . isolated from eggs
+ 2317/12    . . isolated from milk
+ 2317/13    . . isolated from plants
+ 2317/14    . . Specific host cells or culture conditions, e.g.
+ 2317/20    . characterized by taxonomic origin
+ 2317/21    . . from primates, e.g. man
+ 2317/22    . . from camelids, e.g. camel, llama or dromedary
+ 2317/24    . . containing regions, domains or residues from
+different species, e.g. chimeric, humanized or
+ 2317/30    . characterized by aspects of specificity or valency
+ 2317/32    . . specific for a neo-epitope on a complex, e.g.
+antibody-antigen or ligand-receptor
+ 2317/33    . . Crossreactivity, e.g. for species or epitope, or lack
+ 2317/34    . . Identification of a linear epitope shorter than
+20 amino acid residues or of a conformational
+epitope defined by amino acid residues
+ 2317/40    . characterized by post-translational modification
+ 2317/41    . . Glycosylation, sialylation, or fucosylation
+ 2317/50    . characterized by immunoglobulin fragments
+ 2317/51    . . Complete heavy chain or Fd fragment, i.e. VH +
+ 2317/515   . . Complete light chain, i.e. VL + CL
+ 2317/52    . . Constant or Fc region; Isotype
+ 2317/56    . . variable (Fv) region, i.e. VH and/or VL
+ 2317/565   . . . Complementarity determining region [CDR]
+ 2317/567   . . . Framework region [FR]
+ 2317/569   . . . Single domain, e.g. dAb, sdAb, VHH, VNAR
+ 2317/60    . characterized by non-natural combinations of
+ 2317/62    . . comprising only variable region components
+ 2317/622   . . . Single chain antibody (scFv)
+ 2317/624   . . . Disulfide-stabilized antibody (dsFv)
+ 2317/626   . . . Diabody or triabody
+ 2317/64    . . comprising a combination of variable region and
+ 2317/66    . . comprising a swap of domains, e.g. CH3-CH2,
+ 2317/70    . characterized by effect upon binding to a cell or to
+ 2317/71    . . Decreased effector function due to an Fc-
+ 2317/72    . . Increased effector function due to an Fc-
+ 2317/73    . . Inducing cell death, e.g. apoptosis, necrosis or
+inhibition of cell proliferation
+ 2317/732   . . . Antibody-dependent cellular cytotoxicity
+ 2317/734   . . . Complement-dependent cytotoxicity [CDC]
+ 2317/74    . . Inducing cell proliferation
+ 2317/75    . . Agonist effect on antigen
+ 2317/76    . . Antagonist effect on antigen, e.g. neutralization or
+ 2317/77    . . Internalization into the cell
+ 2317/80    . remaining in the (producing) cell, i.e. intracellular
+ 2317/81    . . functional in the endoplasmatic reticulum [ER] or
+ 2317/82    . . functional in the cytoplasm, the inner aspect
+of the cell membrane, the nucleus or the
+ 2317/90    . characterized by (pharmaco)kinetic aspects or by
+stability of the immunoglobulin
+ 2317/92    . . Affinity (KD), association rate (Ka), dissociation
+ 2317/94    . . Stability, e.g. half-life, pH, temperature or
+ 2318/00    Antibody mimetics or scaffolds
+ 2318/10    . Immunoglobulin or domain(s) thereof as scaffolds
+for inserted non-Ig peptide sequences, e.g. for
+ 2318/20    . Antigen-binding scaffold molecules wherein the
+scaffold is not an immunoglobulin variable region
+ 2319/01    . containing a localisation/targetting motif
+ 2319/02    . . containing a signal sequence
+ 2319/03    . . containing a transmembrane segment
+ 2319/033   . . containing a motif for targeting to the internal
+surface of the plasma membrane, e.g. containing a
+ 2319/034   . . containing a motif for targeting to the periplasmic
+space of Gram negative bacteria as a soluble
+protein, i.e. signal sequence should be cleaved
+ 2319/035   . . containing a signal for targeting to the external
+surface of a cell, e.g. to the outer membrane of
+Gram negative bacteria, GPI- anchored eukaryote
+ 2319/036   . . targeting to the medium outside of the cell, e.g.
+ 2319/04    . . containing an ER retention signal such as a C-
+ 2319/05    . . containing a GOLGI retention signal
+ 2319/055   . . containing a signal for localisation to secretory
+ 2319/06    . . containing a lysosomal/endosomal localisation
+ 2319/07    . . containing a mitochondrial localisation signal
+ 2319/08    . . containing a chloroplast localisation signal
+ 2319/09    . . containing a nuclear localisation signal
+ 2319/095   . . containing a nuclear export signal
+ 2319/10    . . containing a tag for extracellular membrane
+ 2319/20    . containing a tag with affinity for a non-protein
+ 2319/21    . . containing a His-tag
+ 2319/22    . . containing a Strep-tag
+ 2319/23    . . containing a GST-tag
+ 2319/24    . . containing a MBP (maltose binding protein)-tag
+ 2319/30    . Non-immunoglobulin-derived peptide or protein
+having an immunoglobulin constant or Fc region, or
+a fragment thereof, attached thereto
+ 2319/31    . fusions, other than Fc, for prolonged plasma life,
+ 2319/32    . fusions with soluble part of a cell surface receptor,
+ 2319/33    . fusions for targeting to specific cell types, e.g. tissue
+specific targeting, targeting of a bacterial subspecies
+ 2319/35    . containing a fusion for enhanced stability/folding
+during expression, e.g. fusions with chaperones or
+ 2319/40    . containing a tag for immunodetection, or an epitope
+ 2319/41    . . containing a Myc-tag
+ 2319/42    . . containing a HA(hemagglutinin)-tag
+ 2319/43    . . containing a FLAG-tag
+ 2319/50    . containing protease site
+ 2319/55    . containing a fusion with a toxin, e.g. diphteria toxin
+ 2319/60    . containing spectroscopic/fluorescent detection, e.g.
+green fluorescent protein [GFP]
+ 2319/61    . containing an enzyme fusion for detection (lacZ,
+ 2319/70    . containing domain for protein-protein interaction
+ 2319/705   . . containing a protein-A fusion
+ 2319/71    . . containing domain for transcriptional activaation,
+ 2319/715   . . . containing a domain for ligand dependent
+transcriptional activation, e.g. containing a
+ 2319/72    . . containing SH2 domain
+ 2319/73    . . containing coiled-coiled motif (leucine zippers)
+ 2319/735   . . containing a domain for self-assembly, e.g. a viral
+coat protein (includes phage display)
+ 2319/74    . . containing a fusion for binding to a cell surface
+ 2319/75    . . . containing a fusion for activation of a cell
+surface receptor, e.g. thrombopoeitin, NPY and
+ 2319/80    . containing a DNA binding domain, e.g. Lacl or Tet-
+ 2319/81    . . containing a Zn-finger domain for DNA binding
+ 2319/85    . containing an RNA binding domain
+ 2319/90    . containing a motif for post-translational
+ 2319/91    . . containing a motif for glycosylation
+ 2319/912   . . . containing a GPI (phosphatidyl-inositol
+ 2319/915   . . containing a motif for acylation
+ 2319/92    . . containing an intein ("protein splicing")domain
+ 2319/95    . containing a motif/fusion for degradation (ubiquitin

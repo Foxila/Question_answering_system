@@ -1,0 +1,339 @@
+COOPERATIVE PATENT CLASSIFICATION
+SOUND-PRODUCING DEVICES; METHODS OR DEVICES FOR PROTECTING
+AGAINST, OR FOR DAMPING, NOISE OR OTHER ACOUSTIC WAVES IN
+GENERAL; ACOUSTICS NOT OTHERWISE PROVIDED FOR
+1. This subclass covers arrangements for generating mechanical vibrations in fluids.
+2. This subclass covers also the production of sounds which may not be audible to human beings but which are audible to
+3. In this subclass, the following terms are used with the meanings indicated:
+• "acoustics" and "sound" cover the technical field dealing with mechanical vibrations at all infrasonic -, sonic - and
+ultrasonic frequencies. However, generation or transmission of mechanical waves, in general, is covered by subclass B06B,
+subject to the exception specified in Note (1) above.
+{In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Devices in which sound is produced by striking a
+resonating body, e.g. bells, chimes or gongs (multi-
+toned musical instruments G10D 13/08; automatic
+    1/06    . the resonating devices having the shape of a bell,
+plate, rod, or tube (bells for towers G10K 1/28)
+    1/062   . . electrically operated
+    1/063   . . . the sounding member being a bell
+    1/064   . . . . Operating or striking mechanisms therefor
+    1/0645  . . . . . {provided with loudness adjustment}
+    1/065   . . . . . for timed or repeated operation
+    1/066   . . . the sounding member being a tube, plate or rod
+    1/067   . . . . Operating or striking mechanisms therefor
+    1/068   . . hydraulically operated; pneumatically operated
+    1/07    . . mechanically operated; Hand bells; Bells for
+    1/071   . . . Hand bells; Bells for animals
+    1/072   . . . Operating or striking mechanisms therefor
+    1/074   . . . . with rotary clappers or shells
+    1/076   . . . . for timed or repeated operation
+    1/08    . . Details or accessories of general applicability
+    1/10    . . . Sounding members; Mounting thereof;
+    1/26    . . . Mountings; Casings
+    1/28    . Bells for towers or the like
+    1/30    . . Details or accessories
+    1/32    . . . Sounding members; Clappers or other strikers
+    1/34    . . . Operating mechanisms
+    1/341   . . . . {for a still-standing bell}
+    1/342   . . . . . {electrically operated}
+    1/344   . . . . {for an oscillating bell which is driven once
+    1/345   . . . . . {electrically operated}
+    1/347   . . . . {for an oscillating bell which is driven twice
+    1/348   . . . . . {electrically operated}
+    1/36    . . . Means for silencing or damping
+    1/38    . . . Supports; Mountings
+    3/00    Rattles or like noise-producing devices {, e.g. door-
+    5/02    . Ultrasonic whistles
+    7/005   . {Ultrasonic sirens}
+    7/02    . in which the sound-producing member is rotated
+manually or by a motor (G10K 7/06 takes
+    7/04    . . by an electric motor
+    7/06    . in which the sound-producing member is driven by
+a fluid, e.g. by a compressed gas
+    9/00    Devices in which sound is produced by vibrating
+a diaphragm or analogous element, e.g. fog horns,
+vehicle hooters or buzzers (loudspeakers or like
+acoustic electromechanical transducers H04R)
+    9/02    . driven by gas; e.g. suction operated
+    9/04    . . by compressed gases, e.g. compressed air
+    9/06    . . produced by detonation
+    9/08    . driven by water or other liquids
+    9/10    . driven by mechanical means only
+    9/12    . electrically operated
+This group does not cover the construction of,
+or circuits for, broadband-transducers such as
+loudspeakers or microphones, which are covered
+    9/121   . . {Flextensional transducers}
+    9/122   . . using piezo-electric driving means {(G10K 9/121
+    9/125   . . . with a plurality of active elements
+    9/128   . . using magnetostrictive driving means
+{(G10K 9/121 takes precedence)}
+    9/13    . . using electromagnetic driving means
+see provisionally also G10K 9/12
+    9/15    . . . Self-interrupting arrangements
+    9/16    . . with means for generating current by muscle
+    9/18    . Details, e.g. bulbs, pumps, pistons, switches or
+    9/20    . . Sounding members
+    9/22    . . Mountings; Casings
+   11/00    Methods or devices for transmitting, conducting or
+directing sound in general; Methods or devices for
+protecting against, or for damping, noise or other
+   11/002   . {Devices for damping, suppressing, obstructing
+or conducting sound in acoustic devices
+(G10K 1/06 - G10K 1/10 take precedence; for
+electro-mechanical transducers for communication
+   11/004   . {Mounting transducers, e.g. provided with
+mechanical moving or orienting device
+(mountings specially adapted to a particular
+sound-producing device, see the preceding
+groups G10K 1/00 - G10K 9/00, e.g. G10K 1/26,
+G10K 1/28, G10K 9/22; arrangements of sonic
+watch equipment on submarines B63G 8/39; buoys
+   11/006   . . {Transducer mounting in underwater equipment,
+   11/008   . . . {Arrays of transducers (seismic streamers, see
+   11/02    . Mechanical acoustic impedances; Impedance
+matching, e.g. by horns; Acoustic resonators
+   11/025   . . {horns for impedance matching (see provisionally
+   11/04    . . Acoustic filters {; Acoustic resonators}
+   11/08    . Non-electric sound-amplifying devices, e.g.
+non-electric megaphones (amplifying by horns
+G10K 11/02; amplifying by focusing G10K 11/26)
+   11/16    . Methods or devices for protecting against, or for
+damping, noise or other acoustic waves in general
+This group does not cover protecting against,
+or damping of, acoustic waves adapted for
+particular applications, which are covered by the
+subclasses for these applications, provided that
+there is a specific provision for this aspect.
+   11/161   . . {in systems with fluid flow (G10K 11/162
+takes precedence; gas flow silencers or exhaust
+apparatus for machines or engines in general
+or for internal combustion engine F01N, noise
+absorbers in pipes or pipe systems F16L 55/02;
+noise absorption in air conditioning and
+ventilation F24F 13/24; silencing exhaust or
+propulsion jets in aircraft B64D 33/06)}
+   11/162   . . Selection of materials
+   11/165   . . . Particles in a matrix
+   11/168   . . . Plural layers of different materials, e.g.
+When classifying in this group,
+classification is also made in subclass
+B32B, in so far as any layered product is
+   11/172   . . using resonance effects
+   11/175   . . using interference effects; Masking sound
+1. Sound/noise masking, classified in
+2. Acoustic noise cancellation, classified in
+   11/1754  . . . . {Speech masking}
+   11/178   . . . by electro-acoustically regenerating the original
+{When classifying in any of the groups
+classification is also made in at least one
+   11/1781  . . . . {characterised by the analysis of input or
+output signals, e.g. frequency range, modes,
+   11/17813 . . . . . {characterised by the analysis of the
+acoustic paths, e.g. estimating, calibrating
+or testing of transfer functions or cross-
+   11/17815 . . . . . . {between the reference signals and the
+error signals, i.e. primary path}
+   11/17817 . . . . . . {between the output signals and the
+error signals, i.e. secondary path}
+   11/17819 . . . . . . {between the output signals and the
+reference signals, e.g. to prevent
+   11/17821 . . . . . {characterised by the analysis of the input
+   11/17823 . . . . . . {Reference signals, e.g. ambient
+   11/17825 . . . . . . {Error signals}
+   11/17827 . . . . . . {Desired external signals, e.g. pass-
+through audio such as music or speech}
+   11/1783  . . . . {handling or detecting of non-standard
+events or conditions, e.g. changing operating
+modes under specific operating conditions}
+   11/17833 . . . . . {by using a self-diagnostic function or
+a malfunction prevention function, e.g.
+detecting abnormal output levels}
+   11/17835 . . . . . . {using detection of abnormal input
+   11/17837 . . . . . {by retaining part of the ambient acoustic
+environment, e.g. speech or alarm signals
+   11/1785  . . . . {Methods, e.g. algorithms; Devices
+(G10K 11/1781, G10K 11/1783 take
+   11/17853 . . . . . {of the filter}
+   11/17854 . . . . . . {the filter being an adaptive filter}
+   11/17855 . . . . . {for improving speed or power
+   11/17857 . . . . . {Geometric disposition, e.g. placement of
+   11/17861 . . . . . {using additional means for damping
+sound, e.g. using sound absorbing panels}
+   11/1787  . . . . {General system configurations}
+   11/17873 . . . . . {using a reference signal without an error
+   11/17875 . . . . . {using an error signal without a reference
+   11/17879 . . . . . {using both a reference signal and an error
+   11/17881 . . . . . . {the reference signal being an acoustic
+signal, e.g. recorded with a microphone}
+   11/17883 . . . . . . {the reference signal being derived from
+a machine operating condition, e.g.
+   11/17885 . . . . . {additionally using a desired external
+signal, e.g. pass-through audio such as
+{When classifying in this group,
+classification is also made in the
+   11/18    . Methods or devices for transmitting, conducting
+or directing sound (G10K 11/02, G10K 11/36 take
+   11/20    . . Reflecting arrangements (G10K 11/28 takes
+   11/205   . . . {for underwater use}
+   11/22    . . for conducting sound through hollow pipes, e.g.
+   11/24    . . for conducting sound through solid bodies, e.g.
+   11/26    . . Sound-focusing or directing, e.g. scanning
+   11/28    . . . using reflection, e.g. parabolic reflectors
+   11/30    . . . using refraction, e.g. acoustic lenses
+   11/32    . . . characterised by the shape of the source
+   11/34    . . . using electrical steering of transducer arrays,
+e.g. beam steering {(constructional aspects
+   11/341   . . . . {Circuits therefor}
+   11/343   . . . . . {using frequency variation or different
+   11/345   . . . . . {using energy switching from one active
+   11/346   . . . . . {using phase variation}
+   11/348   . . . . . {using amplitude variation}
+   11/35    . . . using mechanical steering of transducers {or
+   11/352   . . . . {by moving the transducer}
+   11/355   . . . . . {Arcuate movement}
+   11/357   . . . . {by moving a reflector}
+   11/36    . Devices for manipulating acoustic surface waves
+(electro-acoustic amplifiers H03F 13/00; networks
+comprising electro-acoustic elements H03H 9/00)
+   13/00    Cones, diaphragms, or the like, for emitting or
+receiving sound in general (for electromechanical
+   15/00    Acoustics not otherwise provided for
+   15/02    . Synthesis of acoustic waves (synthesis of speech
+see provisionally G10H e.g. G10H 1/26
+   15/04    . Sound-producing devices (G10K 15/02 takes
+   15/043   . . {producing shock waves (G10K 15/046,
+G10K 15/06 take precedence; generating seismic
+   15/046   . . {using optical excitation, e.g. laser bundle}
+   15/06    . . using electric discharge
+   15/08    . Arrangements for producing a reverberation or echo
+sound {(modifying acoustic properties to change
+reverberation time G10K 11/002)}
+   15/10    . . using time-delay networks comprising
+electromechanical or electro-acoustic devices
+   15/12    . . using electronic time-delay networks
+ 2200/00    Details of methods or devices for transmitting,
+conducting or directing sound in general
+ 2200/10    . Beamforming, e.g. time reversal, phase conjugation
+ 2200/11    . Underwater, e.g. transducers for generating acoustic
+ 2210/00    Details of active noise control [ANC] covered by
+G10K 11/178 but not provided for in any of its
+ 2210/101   . . One dimensional
+ 2210/102   . . Two dimensional
+ 2210/103   . . Three dimensional
+ 2210/105   . . Appliances, e.g. washing machines or
+ 2210/1052  . . . Copiers or other image-forming apparatus, e.g.
+ 2210/1053  . . . Hi-fi, i.e. anything involving music, radios or
+ 2210/1054  . . . Refrigerators
+ 2210/106   . . Boxes, i.e. active box covering a noise source;
+ 2210/107   . . Combustion, e.g. burner noise control of
+jet engines (internal combustion engines
+ 2210/108   . . Communication systems, e.g. where useful sound
+ 2210/1081  . . . Earphones, e.g. for telephones, ear protectors or
+ 2210/1082  . . . Microphones, e.g. systems using "virtual"
+ 2210/109   . . Compressors, e.g. fans
+ 2210/11    . . Computers, i.e. ANC of the noise created by
+cooling fan, hard drive or the like
+ 2210/111   . . Directivity control or beam pattern
+ 2210/112   . . Ducts (vehicle exhausts G10K 2210/12822)
+ 2210/114   . . Feeders, i.e. of the vibrating kind
+ 2210/115   . . Impact noise, e.g. from typewriter or printer
+ 2210/116   . . Medical; Dental
+ 2210/118   . . Panels, e.g. active sound-absorption panels or
+ 2210/119   . . Radiation control, e.g. control of sound radiated
+ 2210/12    . . Rooms, e.g. ANC inside a room, office, concert
+ 2210/121   . . Rotating machines, e.g. engines, turbines, motors;
+Periodic or quasi-periodic signals in general
+ 2210/123   . . Synchrophasors or other applications where
+multiple noise sources are driven with a particular
+ 2210/127   . . Underwater acoustics, e.g. for submarine
+ 2210/1281  . . . Aircraft, e.g. spacecraft, airplane or helicopter
+ 2210/12821 . . . . Rolling noise; Wind and body noise
+ 2210/12822 . . . . Exhaust pipes or mufflers
+ 2210/1283  . . . Trains, trams or the like
+ 2210/129   . . Vibration, e.g. instead of, or in addition to,
+ 2210/1291  . . . Anti-Vibration-Control, e.g. reducing
+ 2210/3011  . . . Single acoustic input
+ 2210/3013  . . . Analogue, i.e. using analogue computers or
+ 2210/3014  . . . Adaptive noise equalizers [ANE], i.e. where
+part of the unwanted sound is retained
+ 2210/3015  . . . Averaging, e.g. exponential
+ 2210/3016  . . . Control strategies, e.g. energy minimization or
+ 2210/3017  . . . Copy, i.e. whereby an estimated transfer
+function in one functional block is copied to
+ 2210/3018  . . . Correlators, e.g. convolvers or coherence
+ 2210/3019  . . . Cross-terms between multiple in's and out's
+ 2210/3021  . . . Eigenfrequencies; Eigenvalues, e.g. used to
+identify most significant couplings between
+ 2210/3023  . . . Estimation of noise, e.g. on error signals
+ 2210/30231 . . . . Sources, e.g. identifying noisy processes or
+ 2210/30232 . . . . Transfer functions, e.g. impulse response
+ 2210/3024  . . . Expert systems, e.g. artificial intelligence
+ 2210/3025  . . . Determination of spectrum characteristics, e.g.
+ 2210/3028  . . . Filtering, e.g. Kalman filters or special
+ 2210/30281 . . . . Lattice filters
+ 2210/3029  . . . Fuzzy logic; Genetic algorithms
+ 2210/3031  . . . Hardware, e.g. architecture
+ 2210/3032  . . . Harmonics or sub-harmonics
+ 2210/3033  . . . Information contained in memory, e.g. stored
+ 2210/3035  . . . Models, e.g. of the acoustic system
+ 2210/30351 . . . . Identification of the environment for
+applying appropriate model characteristics
+ 2210/3036  . . . Modes, e.g. vibrational or spatial modes
+ 2210/3037  . . . Monitoring various blocks in the flow chart
+ 2210/3038  . . . Neural networks
+ 2210/3039  . . . Nonlinear, e.g. clipping, numerical truncation,
+thresholding or variable input and output gain
+ 2210/30391 . . . . Resetting of the filter parameters or changing
+the algorithm according to prevailing
+ 2210/3042  . . . Parallel processing
+ 2210/3043  . . . Phase locked loops [PLL]
+ 2210/3044  . . . Phase shift, e.g. complex envelope processing
+ 2210/3045  . . . Multiple acoustic inputs, single acoustic output
+ 2210/3046  . . . Multiple acoustic inputs, multiple acoustic
+ 2210/3047  . . . Prediction, e.g. of future values of noise
+ 2210/3048  . . . Pretraining, e.g. to identify transfer functions
+ 2210/3049  . . . Random noise used, e.g. in model identification
+ 2210/3051  . . . Sampling, e.g. variable rate, synchronous,
+ 2210/3053  . . . Speeding up computation or convergence, or
+decreasing the computational load
+ 2210/3054  . . . Stepsize variation
+ 2210/3055  . . . Transfer function of the acoustic system
+ 2210/3056  . . . Variable gain
+ 2210/3057  . . . Variation of parameters to test for optimisation
+ 2210/3211  . . . Active mounts for vibrating structures with
+means to actively suppress the vibration, e.g.
+ 2210/3212  . . . Actuator details, e.g. composition or
+ 2210/32121 . . . . Fluid amplifiers, e.g. modulated gas flow
+ 2210/3213  . . . Automatic gain control [AGC]
+ 2210/3214  . . . Architectures, e.g. special constructional
+features or arrangements of features
+ 2210/3215  . . . Arrays, e.g. for beamforming
+ 2210/3216  . . . Cancellation means disposed in the vicinity of
+ 2210/3217  . . . Collocated sensor and cancelling actuator, e.g.
+ 2210/3218  . . . Filters other than the algorithm-related filters
+ 2210/3219  . . . Geometry of the configuration
+ 2210/3221  . . . Headrests, seats or the like, for personal ANC
+ 2210/3222  . . . Manual tuning
+ 2210/3223  . . . Materials, e.g. special compositions or gases
+ 2210/3224  . . . Passive absorbers
+ 2210/3225  . . . Radio or other sources used in ANC for
+transfer function estimation; Means to avoid
+interference between desired signals, e.g. from
+a car stereo, and the ANC signal
+ 2210/3226  . . . Sensor details, e.g. for producing a reference or
+ 2210/32271 . . . . Active resonators
+ 2210/32272 . . . . Helmholtz resonators
+ 2210/32291 . . . . Plates or thin films, e.g. PVDF (foil-type
+piezo-electric elements B06B 1/0688)
+ 2210/501   . . Acceleration, e.g. for accelerometers
+ 2210/502   . . Ageing, e.g. of the control system
+ 2210/503   . . Diagnostics; Stability; Alarms; Failsafe
+ 2210/505   . . Echo cancellation, e.g. multipath-, ghost- or
+ 2210/506   . . Feedback, e.g. howling
+ 2210/507   . . Flow or turbulence
+ 2210/508   . . Reviews on ANC in general, e.g. literature
+ 2210/509   . . Hybrid, i.e. combining different technologies, e.g.
+ 2210/51    . . Improving tonal quality, e.g. mimicking sports
+ 2210/511   . . Narrow band, e.g. implementations for single
+ 2210/512   . . Wide band, e.g. non-recurring signals

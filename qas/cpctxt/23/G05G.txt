@@ -1,0 +1,255 @@
+COOPERATIVE PATENT CLASSIFICATION
+CONTROL DEVICES OR SYSTEMS INSOFAR AS CHARACTERISED BY
+MECHANICAL FEATURES ONLY ("Bowden" or like mechanisms F16C 1/10; gearings or
+mechanisms not peculiar to this purpose F16H; speed changing or reversing mechanisms for
+gearings conveying rotary motion F16H 59/00 - F16H 63/00)
+• members of general applicability for mechanical control;
+• mechanical systems for moving members to one or more  definite settings.
+2. Systems peculiar to the control of particular machines or apparatus provided for in a single other class are classified in the
+relevant class for such machines or apparatus.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Controlling members, e.g. knobs or handles;
+Assemblies or arrangements thereof; Indicating
+position of controlling members ({means for
+preventing, limiting or returning the movements
+of parts of a control mechanism G05G 5/00;
+providing feel, e.g. means to create a counterforce
+G05G 5/03; specially adapted for programme control
+G05G 21/00; vibration damping G05G 25/02;}
+joysticks G05G 9/04; steering wheels for motor
+In this group, the first place priority rule is applied,
+i.e. at each hierarchical level, in the absence of an
+indication to the contrary, classification is made in
+    1/01    . Arrangements of two or more controlling members
+with respect to one another (double foot control, e.g.
+for instruction vehicles G05G 1/34; mounting units
+comprising an assembly with two or more pedals
+    1/015   . Arrangements for indicating the position of a
+controlling member (means for continuously
+detecting pedal position G05G 1/38; means
+for detecting position through tactile feedback
+    1/02    . Controlling members for hand actuation by linear
+    1/025   . . {actuated by sliding movement}
+    1/04    . Controlling members for hand actuation by pivoting
+    1/06    . . Details of their grip parts {(G05G 1/10 takes
+    1/08    . Controlling members for hand actuation by rotary
+    1/082   . . {having safety devices, e.g. means for
+disengaging the control member from the
+    1/085   . . {Crank handles (G05G 1/082 takes precedence)}
+    1/087   . . {retractable; Flush control knobs}
+    1/10    . . Details, e.g. of discs, knobs, wheels or handles
+{(G05G 1/085 takes precedence)}
+    1/105   . . . {comprising arrangements for illumination}
+    1/12    . . . Means for securing the members on rotatable
+    1/30    . Controlling members actuated by foot
+    1/305   . . {Compound pedal co-operating with two or more
+    1/32    . . with means to prevent injury
+    1/323   . . . means disconnecting the connection between
+pedal and controlled member, e.g. by breaking
+    1/327   . . . means disconnecting the pedal from its hinge
+or support, e.g. by breaking or bending the
+    1/34    . . Double foot controls, e.g. for instruction vehicles
+    1/36    . . Mounting units comprising an assembly of two or
+more pedals, e.g. for facilitating mounting
+    1/38    . . comprising means to continuously detect pedal
+    1/405   . . . infinitely adjustable
+    1/42    . . non-pivoting, e.g. sliding
+    1/445   . . . about a central fulcrum
+    1/46    . . Means, e.g. links, for connecting the pedal to the
+    1/48    . . Non-slip pedal treads; Pedal extensions or
+attachments characterised by mechanical features
+    1/483   . . . Non-slip treads; Pedal extensions or
+attachments characterised by mechanical
+    1/487   . . . Pedal extensions
+    1/50    . . Manufacturing of pedals; Pedals characterised by
+    1/503   . . . {Controlling members for hand-actuation}
+    1/506   . . . {Controlling members for foot-actuation}
+    1/52    . Controlling members specially adapted for actuation
+by other parts of the human body than hand or foot
+    1/54    . Controlling members specially adapted for actuation
+by auxiliary operating members or extensions;
+Operating members or extensions therefor (pedal
+    1/56    . . Controlling members specially adapted for
+actuation by keys, screwdrivers or like tools
+    1/58    . Rests or guides for relevant parts of the operator's
+    1/60    . . Foot rests or foot guides
+    3/00    Controlled members; Assemblies or arrangements
+thereof (interlocking of controlled members
+    5/00    Means for preventing, limiting or returning the
+movements of parts of a control mechanism, e.g.
+locking controlling member (G05G 17/00 takes
+    5/005   . {for preventing unintentional use of a control
+mechanism (G05G 5/28 takes precedence)}
+    5/02    . Means preventing undesired movements of a
+controlling member which can be moved in two
+or more separate steps or ways, e.g. restricting to a
+stepwise movement or to a particular sequence of
+movements (G05G 5/28 takes precedence)
+    5/03    . Means for enhancing the operator's awareness of
+arrival of the controlling member at a command
+or datum position; Providing feel, e.g. means for
+creating a counterforce (arrangements for indicating
+the position of the controlling member G05G 1/015)
+    5/04    . Stops for limiting movement of members, e.g.
+adjustable stop (G05G 5/03, G05G 5/05, G05G 5/28
+    5/05    . Means for returning or tending to return controlling
+members to an inoperative or neutral position, e.g.
+by providing return springs or resilient end-stops
+    5/06    . for holding members in one or a limited number of
+definite positions only ({G05G 5/005}, G05G 5/03,
+G05G 5/05, G05G 5/28 take precedence)
+    5/065   . . {using a spring-loaded ball}
+    5/08    . . Interlocking of members, e.g. locking member
+in a particular position before or during the
+    5/12    . for holding members in an indefinite number of
+positions, e.g. by a toothed quadrant (G05G 5/28
+    5/14    . . by locking a member with respect to a fixed
+    5/18    . . . by positive interengagement, e.g. by a pawl
+    5/20    . . by locking a quadrant, rod, or the like carried by
+    5/24    . . . by positive interengagement, e.g. by a pawl
+    5/26    . . by other means than a quadrant, rod, or the like
+    5/28    . for preventing unauthorised access to the controlling
+member or its movement to a command position
+    7/00    Manually-actuated control mechanisms provided
+with one single controlling member co-operating
+with one single controlled member; Details thereof
+(controlling members G05G 1/00)
+    7/02    . characterised by special provisions for conveying or
+converting motion, or for acting at a distance
+    7/04    . . altering the ratio of motion or force between
+controlling member and controlled member as a
+function of the position of the controlling member
+    7/06    . . in which repeated movement of the controlling
+member produces increments of movement of the
+controlled member (G05G 7/08 takes precedence)
+    7/08    . . in which repeated movement of the controlling
+member moves the controlling member through a
+    7/10    . . specially adapted for remote control
+(G05G 7/04 - G05G 7/08 take precedence)
+    7/12    . specially adapted for actuating a member on a
+system in motion with respect to the controlling
+member, e.g. on a rotating shaft
+    7/14    . characterised by means for delaying initiation of, or
+making more gradual throughout, the movement of
+the controlled member in response to a given input
+from the controlling member, e.g. by providing lost
+    7/16    . Special provisions for reducing the effect of
+slight relative movement between supports of the
+mechanism, e.g. resulting from resilient mounting of
+    9/00    Manually-actuated control mechanisms provided
+with one single controlling member co-operating
+with two or more controlled members, e.g.
+    9/02    . the controlling member being movable in different
+independent ways, movement in each individual
+way actuating one controlled member only
+    9/04    . . in which movement in two or more ways can
+    9/047   . . . the controlling member being movable by hand
+about orthogonal axes, e.g. joysticks {(for
+ 2009/04703 . . . . {Mounting of controlling member}
+ 2009/04707 . . . . . {with ball joint}
+ 2009/04711 . . . . . {with substantially hemispherical bearing
+part forced into engagement, e.g. by a
+ 2009/04714 . . . . . {with orthogonal axes}
+ 2009/04718 . . . . . . {with cardan or gimbal type joint}
+ 2009/04722 . . . . . {elastic, e.g. flexible shaft}
+ 2009/04725 . . . . . . {with coil spring}
+ 2009/04729 . . . . . . {melastomeric}
+ 2009/04733 . . . . . {with a joint having a nutating disc, e.g.
+    9/04737 . . . . {with six degrees of freedom}
+ 2009/0474  . . . . {characterised by means converting
+mechanical movement into electric signals}
+ 2009/04744 . . . . . {Switches}
+ 2009/04748 . . . . . {Position sensor for rotary movement, e.g.
+ 2009/04751 . . . . . {Position sensor for linear movement}
+ 2009/04755 . . . . . {Magnetic sensor, e.g. hall generator,
+ 2009/04759 . . . . . {Light-sensitive detector, e.g.
+ 2009/04762 . . . . . {Force transducer, e.g. strain gauge}
+ 2009/04766 . . . . {providing feel, e.g. indexing means, means
+ 2009/0477  . . . . . {holding the member in a number of
+ 2009/04774 . . . . {with additional switches or sensors on the
+ 2009/04777 . . . . {with additional push or pull action on the
+ 2009/04781 . . . . {with additional rotation of the controlling
+Provisional indexing codes related to
+scheme of trilateral project T021
+    9/04785 . . . . {the controlling member being the operating
+    9/04788 . . . . . {comprising additional control elements}
+    9/04792 . . . . . . {for rotary control around the axis of the
+    9/04796 . . . . . . {for rectilinear control along the axis of
+    9/053   . . . . the controlling member comprising a ball
+{(graph-reading using a tracing ball or mouse
+    9/06    . the controlled members being actuated successively
+by repeated movement of the controlling member
+    9/08    . the controlled members being actuated successively
+by progressive movement of the controlling member
+{(single lever throttle and clutch control for marine
+    9/085   . . {the controlling member acting on a set of cams
+    9/10    . with preselection and subsequent movement of each
+controlled member by movement of the controlling
+member in two different ways, e.g. guided by a shift
+   11/00    Manually-actuated control mechanisms provided
+with two or more controlling members co-
+operating with one single controlled member
+   13/00    Manually-actuated control mechanisms provided
+with two or more controlling members and also
+two or more controlled members (interlocking
+   13/02    . with separate controlling members for preselection
+and shifting of controlled members
+   15/00    Mechanical devices for initiating a movement
+automatically due to a specific cause
+   15/002   . {due to an abnormal functioning of the controlled
+apparatus (if speed is abnormal G05G 15/06)}
+   15/005   . {due to a dangerous situation for the operator}
+   15/007   . {due to an excerted pressure}
+   15/02    . due to alteration of the sense of movement of a
+   15/04    . due to distance or angle travelled by a member
+   15/06    . due to the speed of rotation or of bodily movement
+of a member, e.g. passing an upper or lower limit
+   15/08    . due to the load or torque on a member, e.g. if
+exceeding a predetermined value thereof
+   17/00    Mechanical devices for moving a member after
+being released; Trip or release mechanisms
+   19/00    Servo-mechanisms with follow-up action, e.g.
+   21/00    Mechanical apparatus for control of a series of
+operations, i.e. programme control, e.g. involving a
+set of cams (G05G 5/02 takes precedence)
+   23/00    Means for ensuring the correct positioning of parts
+of control mechanisms, e.g. for taking-up play
+   25/00    Other details or appurtenances of control
+mechanisms, e.g. supporting intermediate
+   25/02    . Inhibiting the generation or transmission of noise
+{(suppression of noise or vibrations in selector
+apparatus for gearings F16H 59/0208)}
+   25/04    . Sealing against entry of dust, weather or
+the like {(in selector apparatus for gearings,
+ 2505/00    Means for preventing, limiting or returning the
+movements of parts of a control mechanism, e.g.
+ 2700/00    Control mechanisms or elements therefor applying
+ 2700/02    . Means for regulating or adjusting control
+mechanisms, e.g. devices for automatic adjustment
+ 2700/04    . Control mechanisms limiting amplitude or adjusting
+ 2700/06    . . Control mechanisms for holding members in a
+number of positions comprising a device to limit
+ 2700/08    . . Control mechanisms for locking members in one
+ 2700/10    . . Control mechanisms for locking or at least for
+blocking a member in one position out of a
+ 2700/12    . Control mechanisms with one controlling member
+ 2700/14    . . with one elastic element as essential part, e.g.
+elastic components as a part of an actuating
+ 2700/16    . . Mechanisms for conveying motion or signals for
+or in relation with control mechanisms
+ 2700/18    . . Systems wherein the control element may be
+placed in two or more positions
+ 2700/20    . Control mechanisms not otherwise provided for
+ 2700/22    . Mechanisms linking plurality of controlling or
+ 2700/24    . . Locking controlled members of selectively
+ 2700/26    . . with a control member moving selectively or
+simultaneously the controlled members
+ 2700/28    . . . with a control member that is moved for
+preselection in another direction than for final
+ 2700/30    . . . without preselection or differentiation between
+selection and actuating, e.g. control members
+with a fix control sequence, after a determined
+advance cycle, in which the control device
+comprises cams actuating separately the
+ 2700/32    . . with plurality of control members, e.g.
+preselection and actuating members actuating

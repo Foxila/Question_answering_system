@@ -1,0 +1,159 @@
+COOPERATIVE PATENT CLASSIFICATION
+HANDLING OF COINS OR VALUABLE PAPERS, e.g. TESTING, SORTING BY
+DENOMINATIONS, COUNTING, DISPENSING, CHANGING OR DEPOSITING
+In this subclass, the following terms or expressions are used with the meaning indicated:
+• "coins" also covers tokens of similar nature;
+• "valuable papers" covers paper currency, banknotes, bills, cheques, vouchers, securities, bonds or similar valuable papers,
+irrespective of the material used for these, which represent monetary value that can be measured or verified.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Coin dispensers (devices delivering paper currency
+    1/02    . giving change {(coin-actuated mechanisms in
+    1/04    . . dispensing change equal to a sum deposited
+    1/06    . . dispensing the difference between a sum paid and
+    3/00    Sorting a mixed bulk of coins into denominations
+    3/02    . Sorting coins by means of graded apertures
+    3/04    . . arranged on an inclined rail
+    3/06    . . arranged along a circular path
+    3/08    . . arranged on a helix
+    3/10    . . provided by sieves arranged in series
+    3/12    . Sorting coins by means of stepped deflectors
+    3/121   . . {arranged on inclined paths}
+    3/123   . . . {the coins being deflected off rails}
+    3/125   . . . . {by moving deflectors}
+    3/126   . . . {the coins being diverted by ramps in
+    3/128   . . {Rotary devices}
+    3/14    . Apparatus driven under control of coin-sensing
+    3/16    . in combination with coin-counting
+    5/00    Testing specially adapted to determine the identity
+or genuineness of coins, e.g. for segregating coins
+which are unacceptable or alien to a currency
+In groups G07D 5/005 - G07D 5/10, the last place
+priority rule is applied, i.e. at each hierarchical
+level, in the absence of an indication to the
+contrary, classification is made in the last
+    5/005   . {Testing the surface pattern, e.g. relief}
+    5/02    . Testing the dimensions, e.g. thickness, diameter;
+    5/04    . Testing the weight
+    5/06    . Testing the hardness or elasticity
+    5/08    . Testing the magnetic or electric properties
+    5/10    . Testing the rim, e.g. the milling of the rim
+    7/00    Testing specially adapted to determine the
+identity or genuineness of valuable papers or for
+segregating those which are unacceptable, e.g.
+banknotes that are alien to a currency
+In this group, groups G07D 7/16 - G07D 7/20 take
+precedence over groups G07D 7/02 - G07D 7/14.
+    7/003   . {using security elements (using digital security
+    7/0032  . . {using holograms}
+    7/0034  . . {using watermarks}
+    7/004   . using digital security elements, e.g. information
+coded on a magnetic thread or strip
+    7/0047  . . using checkcodes, e.g. coded numbers derived
+from serial number and denomination
+    7/005   . Testing security markings invisible to the naked
+eye, e.g. verifying thickened lines or unobtrusive
+    7/0051  . . {involving markings removed from an original
+    7/0053  . . {involving markings added to a pattern, e.g.
+    7/0054  . . {involving markings the properties of which are
+altered from original properties}
+    7/0055  . . . {involving markings displaced slightly from
+original positions within a pattern}
+    7/0056  . . . {involving markings of altered colours}
+    7/0057  . . . {involving markings which are altered in
+dimension, e.g. thickened lines}
+    7/01    . Testing electronic circuits therein
+    7/02    . Testing electrical properties of the materials thereof
+    7/023   . . Measuring conductivity by direct contact
+    7/026   . . using capacitive sensors
+    7/04    . Testing magnetic properties of the materials thereof,
+e.g. by detection of magnetic imprint (G07D 7/01
+    7/06    . using wave or particle radiation
+    7/12    . . Visible light, infra-red or ultraviolet radiation
+    7/1205  . . . Testing spectral properties
+    7/121   . . . Apparatus characterised by sensor details
+    7/128   . . . Viewing devices
+    7/14    . using chemical means
+    7/15    . using heating means
+    7/16    . Testing the dimensions
+    7/162   . . Length or width
+    7/17    . Apparatus characterised by positioning means or by
+means responsive to positioning
+    7/181   . Testing mechanical properties or condition, e.g.
+wear or tear (G07D 7/16 takes precedence)
+    7/182   . . Testing stiffness
+    7/183   . . Detecting folds or doubles
+    7/185   . . Detecting holes or pores
+    7/187   . . Detecting defacement or contamination, e.g. dirt
+    7/189   . . Detecting attached objects, e.g. tapes or clips
+    7/20    . Testing patterns thereon (G07D 7/004, G07D 7/005
+    7/2008  . . {using pre-processing, e.g. de-blurring,
+averaging, normalisation or rotation}
+    7/2016  . . {using feature extraction, e.g. segmentation, edge
+detection or Hough-transformation}
+    7/202   . . using pattern matching
+    7/2033  . . . Matching unique patterns, i.e. patterns that are
+unique to each individual paper
+    7/2041  . . . {Matching statistical distributions, e.g. of
+    7/205   . . . {Matching spectral properties}
+    7/206   . . . Matching template patterns
+    7/207   . . . Matching patterns that are created by the
+interaction of two or more layers, e.g. moiré
+    7/2075  . . {Setting acceptance levels or parameters}
+    7/2091  . . . {Setting a plurality of levels}
+    9/00    Counting coins (in combination with coin-sorting
+G07D 3/16); Handling of coins not provided for in
+the other groups of this subclass
+    9/002   . {Coin holding devices}
+    9/004   . . {Coin packages}
+    9/006   . . . {Coin wrappers}
+    9/008   . {Feeding coins from bulk}
+    9/04    . Hand- or motor-driven devices for counting coins
+{(counting mechanisms in general G06M)}
+    9/06    . Devices for stacking or otherwise arranging coins
+on a support, e.g. apertured plate for use in counting
+    9/065   . . {Devices for wrapping coins}
+   11/00    Devices accepting coins; Devices accepting,
+dispensing, sorting or counting valuable papers
+   11/0087  . {Banknote changing devices}
+   11/009   . {Depositing devices}
+   11/0096  . . {Accepting paper currency or other valuables in
+containers, e.g. in code-marked envelopes}
+   11/10    . Mechanical details
+   11/12    . . Containers for valuable papers
+   11/125   . . . Secure containers
+   11/13    . . . with internal means for handling valuable
+   11/135   . . . {Remote note containers}
+   11/14    . . Inlet or outlet ports
+   11/16    . . Handling of valuable papers (within containers
+   11/175   . . . Flattening, e.g. straightening out folds
+   11/18    . . . Diverting into different paths or containers
+   11/20    . Controlling or monitoring the operation of devices;
+   11/22    . . Means for sensing or detection
+   11/225   . . . for detecting or indicating tampering
+   11/23    . . . for sensing the quantity of valuable papers in
+   11/235   . . . for monitoring or indicating operating
+conditions; for detecting malfunctions
+   11/237   . . . . for detecting transport malfunctions, e.g.
+   11/24    . . Managing the stock of valuable papers
+   11/245   . . . Replenishment
+   11/25    . . . Relocation of valuable papers within devices
+   11/26    . . Servicing, repairing or coping with irregularities,
+e.g. power failure or vandalism
+   11/28    . . Setting of parameters; Software updates
+   11/30    . . Tracking or tracing valuable papers or cassettes
+   11/32    . . Record keeping (transaction aspects G07F 19/00)
+   11/34    . . . Monitoring the contents of devices, e.g. the
+number of stored valuable papers
+   11/36    . . . Auditing of activities
+   11/40    . Device architecture, e.g. modular construction
+   11/50    . Sorting or counting valuable papers
+   11/60    . User-interface arrangements
+   13/00    Handling of coins or of valuable papers,
+characterised by a combination of mechanisms
+not covered by a single one of groups
+ 2205/00    Coin testing devices
+ 2205/001   . Reconfiguration of coin testing devices
+ 2205/0011  . . by downloading test parameters, e.g. remotely
+ 2205/0012  . . automatic adjustment, e.g. self-calibration
+ 2207/00    Paper-money testing devices
+ 2211/00    Paper-money handling devices

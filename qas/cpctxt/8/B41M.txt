@@ -1,0 +1,401 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+PRINTING; LINING MACHINES; TYPEWRITERS; STAMPS
+PRINTING, DUPLICATING, MARKING, OR COPYING PROCESSES; COLOUR
+PRINTING, (correction of typographical errors B41J; processes for applying transfer pictures
+or the like B44C 1/16; fluid media for correction of typographical errors by coating C09D 10/00;
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Inking and printing with a printer's forme
+    1/02    . Letterpress printing, e.g. book printing
+    1/04    . . Flexographic printing
+    1/06    . Lithographic printing
+    1/10    . Intaglio printing {; Gravure printing}
+    1/12    . Stencil printing; Silk-screen printing
+    1/125   . . {using a field of force, e.g. an electrostatic field,
+    1/14    . Multicolour printing
+    1/16    . . using different inks which flow into one another
+    1/18    . . Printing one ink over another
+    1/20    . . by applying differently-coloured inks
+simultaneously to different parts of the printing
+    1/22    . Metallic printing; Printing with powdered inks
+    1/24    . combined with embossing (printing machines for
+carrying out printing operations combined with
+    1/26    . Printing on other surfaces than ordinary paper
+    1/30    . . on organic plastics, horn or similar materials
+{(recording sheets having a coating to improve
+ink, dye or pigment receptivity B41M 5/50;
+marking or recording on plastic by irradiation
+with electromagnetic beams, e.g. laser,
+    1/305   . . . {using mechanical, physical or chemical
+means, e.g. corona discharge, etching or
+organic solvents, to improve ink retention}
+    1/34    . . on glass or ceramic surfaces {(ink-jet printing on
+glass or ceramic surfaces B41M 5/00)}
+    1/36    . . on pretreated paper, e.g. parchment, oiled paper,
+paper for registration purposes {(B41M 5/50
+    1/38    . . on wooden surfaces, leather, or linoleum (printing
+on matches or match boxes when combined with
+    1/40    . Printing on bodies of particular shapes, e.g.
+golf balls, candles, wine corks {(sublimation or
+volatilisation of pre-printed design B41M 5/035)}
+    1/42    . Printing without contact between forme and surface
+to be printed, e.g. by using electrostatic fields
+{(using a stencil or screen B41M 1/125)}
+    3/00    Printing processes to produce particular kinds of
+printed work, e.g. patterns ({printing apparatus or
+machines of special type or for particular purposes
+B41F 17/00;} special designs or pictures per se
+B44F; manufacturing printed circuits using printing
+techniques H05K 3/12 {; manufacturing organic
+semiconductor devices using printing techniques
+    3/001   . {using chemical colour-formers or chemical
+reactions, e.g. leuco dyes or acids}
+    3/003   . {on optical devices, e.g. lens elements; for the
+production of optical devices (production by
+thermal imaging means B41M 5/265)}
+    3/005   . {Colour cards; Painting supports; Latent or hidden
+images, e.g. for games; Time delayed images}
+    3/006   . {Patterns of chemical products used for a specific
+purpose, e.g. pesticides, perfumes, adhesive
+patterns; use of microencapsulated material;
+    3/008   . {Sequential or multiple printing, e.g. on previously
+printed background; Mirror printing; Recto-verso
+printing; using a combination of different printing
+techniques; Printing of patterns visible in reflection
+and by transparency; by superposing printed
+    3/02    . Maps; Sea or meteorological charts
+    3/06    . Veined printings; Fluorescent printings;
+Stereoscopic images; Imitated patterns, e.g. tissues,
+    3/12    . Transfer pictures or the like, e.g. decalcomanias
+{(processes for producing decorative surface effects
+B44C 1/00; B41M 5/0256 takes precedence)}
+    3/14    . Security printing {(securities B42D 25/29)}
+    3/142   . . {using chemical colour-formers or chemical
+reactions, e.g. leuco-dye/acid, photochromes}
+    3/144   . . {using fluorescent, luminescent or iridescent
+    3/146   . . {using a non human-readable pattern which
+becomes visible on reproduction, e.g. a void
+    3/148   . . {Transitory images, i.e. images only visible from
+    3/16    . Braille printing (typewriters or selective printing
+mechanisms for Braille printing B41J 3/32)
+    3/18    . Particular kinds of wallpapers
+    5/00    Duplicating or marking methods; Sheet materials
+for use therein (by using light-sensitive materials
+G03; electrography, magnetography G03G {;
+repeatedly usable boards or tablets for writing or
+    5/0005  . {Enlarging or reduction of graphic information on
+a support by stretching or contracting the support,
+optionally in combination with the recording}
+    5/0011  . {Pre-treatment or treatment during printing of the
+recording material, e.g. heating, irradiating (after-
+treatment of prints B41M 7/00; printers for treating
+or overcoating copy materials before, during or after
+    5/0017  . . {Application of ink-fixing material, e.g. mordant,
+precipitating agent, on the substrate prior to
+printing, e.g. by ink-jet printing, coating or
+    5/0023  . {Digital printing methods characterised by the inks
+    5/0029  . {Formation of a transparent pattern using a liquid
+    5/0035  . {Uncoated paper (paper making D21)}
+    5/0041  . {Digital printing on surfaces other than ordinary
+paper (B41M 5/0082 takes precedence; printing on
+    5/0047  . . {by ink-jet printing}
+    5/0052  . . {by thermal printing}
+    5/0058  . . {on metals and oxidised metal surfaces}
+    5/0064  . . {on plastics, horn, rubber, or other organic
+    5/007   . . {on glass, ceramic, tiles, concrete, stones, etc.}
+    5/0076  . . {on wooden surfaces, leather, linoleum, skin, or
+    5/0082  . {Digital printing on bodies of particular shapes
+(sublimation or volatilisation of pre-printed design
+    5/0088  . . {by ink-jet printing}
+    5/0094  . . {by thermal printing}
+    5/025   . by transferring ink from the master sheet
+    5/0253  . . {using a chemical colour-forming ink, e.g.
+chemical hectography (B41M 5/035 takes
+    5/0256  . . {the transferable ink pattern being obtained by
+means of a computer driven printer, e.g. an ink jet
+or laser printer, or by electrographic means}
+    5/035   . . by sublimation or volatilisation of {pre-printed}
+design {, e.g. sublistatic (B41M 5/0256 takes
+precedence; printing on textiles D06P 5/00)}
+    5/0351  . . . {on anodized aluminium}
+    5/0353  . . . {using heat shrinkable film material;
+Thermotransfer combined with the shaping of
+the workpiece; Recto-verso printing; Image
+    5/0355  . . . {characterised by the macromolecular coating
+or impregnation used to obtain dye receptive
+    5/0356  . . . {characterised by the inks used for printing the
+pattern on the temporary support or additives
+therefor, e.g. dyes, transferable compounds,
+binders or transfer promoting additives}
+    5/0358  . . . {characterised by the mechanisms or artifacts
+to obtain the transfer, e.g. the heating means,
+the pressure means or the transport means}
+    5/04    . . using solvent-soluble dyestuffs on the master
+    5/06    . . using master sheets coated with jelly-like
+    5/08    . . . Sheet materials therefor
+    5/10    . by using carbon paper or the like
+    5/124   . using pressure to make a masked colour visible,
+e.g. to make a coloured support visible, to create an
+opaque or transparent pattern, or to form colour by
+uniting colour-forming components
+    5/1243  . . {Inert particulate additives, e.g. protective stilt
+    5/1246  . . {Application of the layer, e.g. by printing}
+    5/128   . . Desensitisers; Compositions for fault correction,
+detection or identification of the layers
+    5/132   . . Chemical colour-forming components; Additives
+    5/136   . . . Organic colour formers, e.g. leuco dyes
+    5/1363  . . . . {Leuco dyes forming a complex with a metal
+    5/1366  . . . . {characterised solely by tri (aryl or
+hetaryl)methane derivatives (B41M 5/1363
+    5/145   . . . . with a lactone or lactam ring
+    5/1455  . . . . . {characterised by fluoran compounds}
+    5/15    . . . . Spiro-pyrans
+    5/155   . . . Colour-developing components, e.g. acidic
+compounds; Additives or binders therefor;
+Layers containing such colour-developing
+components, additives or binders
+    5/1555  . . . . {Inorganic mineral developers, e.g. clays}
+    5/165   . . characterised by the use of microcapsules; Special
+solvents for incorporating the ingredients
+    5/20    . using electric current (B41M 5/24 takes precedence
+{; processes in which the current is transformed into
+a heat pattern for obtaining transfer to a receptor
+sheet B41M 5/382; electro-coagulable or electro-
+adhesive printing or recording B41C 1/105})
+    5/205   . . {and an eroding electrode}
+    5/24    . Ablative recording, e.g. by burning marks; Spark
+recording {(marking by high energetic means, e.g.
+by laser otherwise than burning or ablative removal
+B41M 5/26; materials or methods for recording or
+reproduction by optical means G11B 7/00)}
+    5/245   . . {Electroerosion or spark recording}
+    5/26    . Thermography (B41M 5/20, B41M 5/24 take
+precedence); {Marking by high energetic
+means, e.g. laser otherwise than by burning, and
+characterised by the material used (B23K takes
+precedence; thermographic or photothermographic
+systems using noble metal compounds
+    5/262   . . {recording or marking of inorganic surfaces or
+materials, e.g. glass, metal, or ceramics (marking
+of plastic artifacts with inorganic additives
+    5/265   . . {for the production of optical filters or electrical
+    5/267   . . {Marking of plastic artifacts, e.g. with laser}
+    5/28    . . using thermochromic compounds or layers
+containing liquid crystals, microcapsules,
+bleachable dyes or heat- decomposable
+compounds, e.g. gas- liberating {(B41M 5/38271
+    5/281   . . . {using liquid crystals only}
+    5/282   . . . {using thermochromic compounds}
+    5/283   . . . . {Inorganic thermochromic compounds}
+    5/284   . . . . {Organic thermochromic compounds}
+    5/285   . . . . . {Polyacetylenes}
+    5/286   . . . {using compounds undergoing unimolecular
+fragmentation to obtain colour shift, e.g.
+    5/287   . . . {using microcapsules or microspheres only}
+    5/288   . . . {using gas liberating compounds, e.g. to obtain
+vesicular or blow-up images (B41M 3/16,
+B41M 9/04 take precedence; thermogravure
+    5/30    . . using chemical colour formers (B41M 5/34 takes
+    5/305   . . . {with reversible electron-donor electron-
+    5/32    . . . one component being a heavy metal compound,
+    5/323   . . . Organic colour formers, e.g. leuco dyes
+    5/327   . . . . with a lactone or lactam ring
+    5/3275  . . . . . {Fluoran compounds}
+    5/333   . . . Colour developing components therefor, e.g.
+    5/3331  . . . . {Macromolecular compounds}
+    5/3333  . . . . {Non-macromolecular compounds}
+    5/3335  . . . . . {Compounds containing phenolic or
+carboxylic acid groups or metal salts
+    5/3336  . . . . . . {Sulfur compounds, e.g. sulfones,
+    5/3338  . . . . {Inorganic compounds}
+    5/337   . . . Additives; Binders {(B41M 5/46 takes
+    5/3372  . . . . {Macromolecular compounds}
+    5/3375  . . . . {Non-macromolecular compounds}
+    5/3377  . . . . {Inorganic compounds, e.g. metal salts of
+    5/34    . . Multicolour thermography
+    5/345   . . . {by thermal transfer of dyes or pigments}
+    5/36    . . using a polymeric layer, which may be particulate
+and which is deformed or structurally changed
+with modification of its' properties, e.g. of its'
+optical hydrophobic-hydrophilic, solubility
+or permeability properties {(B41C 1/10 takes
+    5/361   . . . {using a polymeric matrix with inorganic
+particles forming an image by orientation or
+    5/363   . . . {using materials comprising a polymeric
+matrix containing a low molecular weight
+organic compound such as a fatty acid, e.g. for
+    5/366   . . . {using materials comprising a polymeric matrix
+containing a polymeric particulate material, e.g.
+hydrophobic heat coalescing particles}
+    5/368   . . . {involving the creation of a soluble/insoluble
+or hydrophilic/hydrophobic permeability
+pattern; Peel development (B41M 5/366 takes
+    5/382   . . Contact thermal transfer or sublimation processes
+(sublistatic printing using a pre-formed image
+B41M 5/035; ink-, dye- or pigment-receptive
+    5/38207 . . . {characterised by aspects not provided for in
+groups B41M 5/385 - B41M 5/395}
+    5/38214 . . . . {Structural details, e.g. multilayer
+systems (composition of individual layers
+    5/38221 . . . . {Apparatus features}
+    5/38228 . . . {characterised by the use of two or more ink
+    5/38235 . . . {characterised by transferable colour-forming
+    5/38242 . . . {characterised by the use of different kinds of
+energy to effect transfer, e.g. heat and light}
+    5/3825  . . . {Electric current carrying heat transfer sheets}
+    5/38257 . . . {characterised by the use of an intermediate
+    5/38264 . . . {Overprinting of thermal transfer images}
+    5/38271 . . . {using microcapsules}
+    5/38278 . . . {using ink-containing structures, e.g. porous or
+microporous layers, alveoles or cellules}
+    5/38285 . . . {characterised by magnetic components in the
+    5/38292 . . . {with correction means}
+    5/385   . . . characterised by the transferable dyes
+or pigments {(infra-red absorbing dyes
+    5/3852  . . . . {Anthraquinone or naphthoquinone dyes}
+    5/3854  . . . . {Dyes containing one or more acyclic
+carbon-to-carbon double bonds, e.g., di- or
+    5/3856  . . . . {Dyes characterised by an acyclic -X=C
+group, where X can represent both nitrogen
+    5/3858  . . . . {Mixtures of dyes, at least one being
+a dye classifiable in one of groups
+    5/39    . . . . Dyes containing one or more carbon-to-
+nitrogen double bonds, e.g. azomethine
+    5/392   . . . Additives, other than colour forming
+substances, dyes or pigments, e.g. sensitisers,
+    5/395   . . . . Macromolecular additives, e.g. binders
+    5/398   . . Processes based on the production of stickiness
+    5/40    . . characterised by the base {backcoat},
+intermediate, or covering layers, {e.g. for thermal
+transfer dye-donor or dye-receiver sheets}; Heat,
+radiation filtering or absorbing means or layers;
+combined with other image registration layers or
+compositions; Special originals for reproduction
+by thermography {(macromolecular ink- or dye-
+    5/405   . . . {characterised by layers cured by radiation
+(layers cured after recording B41M 7/0072)}
+    5/41    . . . Base layers {supports or substrates}
+    5/42    . . . Intermediate, {backcoat}, or covering
+layers {(B41M 5/405 takes precedence;
+multilayer thermal transfer systems in general
+When the invention information lies in the
+combination of features covered by more
+than one of the subgroups of B41M 5/42,
+classification is made in B41M 5/42, using
+the corresponding indexing codes of its
+subgroups to identify the individual featues
+    5/423   . . . . {characterised by non-macromolecular
+    5/426   . . . . {characterised by inorganic compounds, e.g.
+metals, metal salts, metal complexes}
+    5/44    . . . . characterised by the macromolecular
+    5/443   . . . . . {Silicon-containing polymers, e.g.
+    5/446   . . . . . {Fluorine-containing polymers}
+    5/46    . . . characterised by the light-to-heat converting
+means; characterised by the heat or radiation
+filtering or absorbing means or layers
+    5/465   . . . . {Infra-red radiation-absorbing materials, e.g.
+dyes, metals, silicates, C black}
+    5/48    . . . combined with other image registration
+layers or compositions; Special originals for
+    5/50    . Recording sheets characterised by the coating
+used to improve ink, dye or pigment receptivity,
+e.g. for ink-jet or thermal dye transfer recording
+{(printing on organic plastics using a printer's form
+B41M 1/30; printing on pre-treated paper with a
+    5/502   . . {characterised by structural details, e.g.
+multilayer materials (supports, backcoats or
+intermediate layers for thermal dye transfer donor
+and receiver sheets B41M 5/41, B41M 5/42)}
+    5/506   . . . {Intermediate layers}
+    5/52    . . Macromolecular coatings
+{  In this group, when the invention
+information lies in a combination of features
+covered by more than one of its subgroups,
+classification is made in B41M 5/52, using the
+corresponding indexing codes of its subgroups
+to identify the individual features  }
+    5/5209  . . . {Coatings prepared by radiation-curing, e.g.
+using photopolymerisable compositions}
+    5/5218  . . . {characterised by inorganic additives, e.g.
+    5/5227  . . . {characterised by organic non-macromolecular
+additives, e.g. UV-absorbers, plasticisers,
+    5/5236  . . . {characterised by the use of natural gums, of
+proteins, e.g. gelatins, or of macromolecular
+    5/5245  . . . {characterised by the use of polymers
+containing cationic or anionic groups, e.g.
+    5/5254  . . . {characterised by the use of polymers obtained
+by reactions only involving carbon-to-carbon
+unsaturated bonds, e.g. vinyl polymers}
+    5/5263  . . . {characterised by the use of polymers obtained
+otherwise than by reactions only involving
+carbon-to-carbon unsaturated bonds}
+    5/5272  . . . . {Polyesters; Polycarbonates}
+    5/5281  . . . . {Polyurethanes or polyureas}
+    5/529   . . . {characterised by the use of fluorine- or
+silicon-containing organic compounds}
+    7/00    After-treatment of prints, e.g. heating, irradiating,
+{setting of the ink, protection of the printed
+stock (pre-treatment or treatment during printing
+B41M 5/0011; printers for treating or overcoating
+copy materials before, during or after printing
+    7/0009  . {Obliterating the printed matter; Non-destructive
+removal of the ink pattern, e.g. for repetitive use of
+    7/0018  . {using ink-fixing material, e.g. mordant,
+precipitating agent, after printing, e.g. by ink-jet
+    7/0027  . {using protective coatings or layers by lamination or
+by fusion of the coatings or layers}
+    7/0036  . {using protective coatings or layers dried without
+    7/0045  . {using protective coatings or film forming
+compositions cured by mechanical wave energy,
+e.g. ultrasonics, cured by electromagnetic radiation
+or waves, e.g. ultraviolet radiation, electron beams,
+or cured by magnetic or electric fields, e.g. electric
+    7/0054  . {using protective coatings or film forming
+compositions cured by thermal means, e.g. infrared
+    7/0063  . {Preservation or restoration of currency, books or
+archival material, e.g. by deacidifying}
+    7/0072  . {using mechanical wave energy, e.g. ultrasonics;
+using magnetic or electric fields, e.g. electric
+    7/0081  . {using electromagnetic radiation or waves, e.g.
+ultraviolet radiation, electron beams}
+    7/009   . {using thermal means, e.g. infrared radiation, heat}
+    7/02    . Dusting {, e.g. with an anti-offset powder for
+obtaining raised printing such as by thermogravure
+(B41M 7/0027, B41M 7/0036, B41M 7/0045,
+B41M 7/0054, B41M 7/0072, B41M 7/0081,
+B41M 7/009 take precedence); Varnishing (devices
+for treating the surfaces of sheets, webs, or other
+articles in connection with printing B41F 23/00,
+    9/00    Processes wherein make-ready devices are used
+(make-ready devices per se B41N 6/00)
+    9/02    . Relief make-readies
+    9/04    . . photomechanical
+   99/00    Subject matter not provided for in other groups of
+ 2205/00    Printing methods or features related to printing
+methods; Location or type of the layers
+ 2205/02    . Dye diffusion thermal transfer printing (D2T2)
+ 2205/04    . Direct thermal recording [DTR]
+ 2205/06    . relating to melt (thermal) mass transfer
+ 2205/08    . Ablative thermal transfer, i.e. the exposed transfer
+medium is propelled from the donor to a receptor by
+ 2205/10    . Post-imaging transfer of imaged layer; transfer of
+ 2205/12    . Preparation of material for subsequent imaging,
+e.g. corona treatment, simultaneous coating, pre-
+ 2205/14    . Production or use of a mask
+ 2205/16    . Correction processes or materials
+ 2205/18    . Erasure; Erasable marking; Non-permanent marking
+ 2205/20    . Stability against chemicals, e.g. grease
+ 2205/22    . improving gradation of image
+ 2205/24    . Reactive compound reacting in image receiving
+layer other than leuco dyes or mordants
+ 2205/26    . Donor or receiver with registry means
+ 2205/28    . Storage stability; Improved self life
+ 2205/30    . Thermal donors, e.g. thermal ribbons
+ 2205/32    . Thermal receivers
+ 2205/34    . Both sides of a layer or material are treated, e.g.
+ 2205/36    . Backcoats; Back layers
+ 2205/38    . Intermediate layers; Layers between substrate and
+ 2205/40    . Cover layers; Layers separated from substrate by
+imaging layer; Protective layers; Layers applied
+before imaging (protective layers applied after
+ 2205/42    . Multiple imaging layers

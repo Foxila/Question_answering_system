@@ -1,0 +1,608 @@
+COOPERATIVE PATENT CLASSIFICATION
+TEXTILES OR FLEXIBLE MATERIALS NOT OTHERWISE PROVIDED FOR
+TREATMENT OF TEXTILES OR THE LIKE; LAUNDERING; FLEXIBLE
+MATERIALS NOT OTHERWISE PROVIDED FOR
+LAUNDERING, DRYING, IRONING, PRESSING OR FOLDING TEXTILE ARTICLES
+• domestic or laundry dry-cleaning apparatus using volatile  solvents;
+• domestic, laundry, or tailors' ironing or other hot- pressing of clothes, linen, or other textile articles.
+2. This subclass does not cover:
+• apparatus for wringing, washing, dry-cleaning, ironing, or other hot-pressing of textiles in manufacturing operations, which
+is covered by subclasses D06B, D06C.
+• treatment of textiles by purely chemical means, which is covered by subclasses D06L, D06M.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Washing receptacles (of washing machines
+    1/02    . Wash-tubs; Supports therefor
+    1/04    . . the tub walls or bottom having corrugations
+    1/06    . Wash-boiler receptacles
+    1/08    . . with special means for water circulation by heat,
+    1/12    . Racks or other rigid open containers of skeleton or
+like apertured construction supporting clothes in
+    3/00    Hand rubbing apparatus (corrugated tub-walls
+    3/04    . Hand rubbers, e.g. gloves with corrugated surfaces
+    5/00    Hand implements for washing purposes, e.g. sticks 
+(hand rubbing appliances D06F 3/00)
+    5/005   . {Receptacles for washing articles, e.g. hosiery, by
+    5/02    . Plungers, dollies, pounders, squeezers, or the like
+    5/04    . . adapted for removable mounting on receptacles
+    7/00    Washing devices adapted to be used independently
+of any particular receptacle, e.g. for removable
+mounting on wash-tubs, bath-tubs, or the like
+    7/02    . of the rotary-impeller type
+    7/04    . of the vibrator type
+    7/06    . agitating the washing liquid by air
+    9/00    Brushing-type washing machines
+   11/00    Washing machines using rollers, e.g. of the mangle
+   13/00    Washing machines having receptacles, stationary
+for washing purposes, with agitators therein
+contacting the articles being washed  (plungers
+or the like adapted for removable mounting on
+   13/02    . wherein the agitator has an oscillatory rotary motion
+   13/04    . wherein the agitator has an axial motion only
+   13/06    . wherein the agitator has both rotary, e.g. oscillating
+rotary, motion and axial motion
+   13/08    . wherein the agitator has a gyratory or orbital motion
+   15/00    Washing machines having beating, rubbing or
+squeezing means in receptacles stationary for
+washing purposes (plungers or the like adapted
+for removable mounting on receptacles D06F 5/04;
+mangle-type washing machines D06F 11/00)
+   15/02    . wherein the articles being washed are squeezed by a
+   17/00    Washing machines having receptacles, stationary
+for washing purposes, wherein the washing action
+is effected solely by circulation or agitation of the
+   17/02    . by pumps (D06F 17/04 takes precedence)
+   17/04    . solely by water jets
+   17/06    . by rotary impellers
+   17/08    . . Driving arrangements for the impeller
+   17/12    . solely by gases, e.g. air or steam, introduced into the
+1Washing; Rinsing; Dry-cleaning
+   18/00    Washing machines having receptacles, stationary
+for washing purposes, and having further drying
+means  (control of washing or of washing and drying
+D06F 33/00, D06F 34/00; domestic laundry dryers
+   19/00    Washing machines using vibrations for washing
+   21/00    Washing machines with receptacles, e.g.
+perforated, having a rotary movement, e.g.
+oscillatory movement  (with receptacles serving both
+for washing and centrifugally separating water from
+the laundry D06F 23/00, D06F 25/00; programme
+   21/02    . about a horizontal axis
+   21/04    . . within an enclosing receptacle
+   21/06    . about a vertical axis
+   21/08    . . within an enclosing receptacle
+   21/10    . about an inclined axis
+   21/12    . the receptacle having a wobbling motion
+   21/14    . with rubbing or beating means not secured to, or
+forming part of, the receptacle
+   23/00    Washing machines with receptacles, e.g.
+perforated, having a rotary movement, e.g.
+oscillatory movement, the receptacle serving
+both for washing and for centrifugally separating
+water from the laundry  (with further drying means
+D06F 25/00; programme control aspects D06F 33/00)
+   23/02    . and rotating or oscillating about a horizontal axis
+   23/025   . . {with a rotatable imperforate tub}
+   23/04    . and rotating or oscillating about a vertical axis
+   23/06    . and rotating or oscillating about an inclined axis
+   23/065   . . {with a rotatable imperforate tub}
+   25/00    Washing machines with receptacles, e.g.
+perforated, having a rotary movement, e.g.
+oscillatory movement, the receptacle serving
+both for washing and for centrifugally separating
+water from the laundry and having further drying
+means, e.g. using hot air  (control of washing or
+of washing and drying D06F 33/00, D06F 34/00;
+domestic laundry dryers D06F 58/00)
+   27/00    Washing machines with receptacles moving bodily,
+   29/00    Combinations of a washing machine with other
+separate apparatus in a common frame or the like,
+   29/005   . {the other separate apparatus being a drying
+   29/02    . with liquid-extracting apparatus (with roller wringer
+   31/00    Washing installations comprising an assembly of
+several washing machines or washing units, e.g.
+   31/005   . {consisting of one or more rotating drums through
+which the laundry passes in a continuous flow}
+   33/00    Control of operations performed in washing
+machines or washer-dryers  (D06F 31/00 takes
+precedence; details of control systems therefor
+D06F 34/00; control of operations performed in
+domestic laundry dryers D06F 58/32)
+In this group, it is mandatory to add the indexing
+codes of groups D06F 2101/00 - D06F 2105/00.
+   33/06    . . substantially mechanically
+   33/08    . . substantially hydraulically
+   33/10    . . substantially pneumatically
+   33/30    . Control of washing machines characterised by
+the purpose or target of the control  (controlling
+processes of washer-dryers D06F 33/50)
+   33/32    . . Control of operational steps, e.g. optimisation or
+improvement of operational steps depending on
+   33/34    . . . of water filling
+   33/37    . . . of metering of detergents or additives
+   33/40    . . . of centrifugal separation of water from the
+   33/43    . . Control of cleaning or disinfection of washing
+   33/44    . . Control of the operating time, e.g. reduction of
+   33/46    . . Control of the energy or water consumption
+   33/47    . . Responding to irregular working conditions, e.g.
+malfunctioning of pumps  (safety arrangements
+   33/48    . . Preventing or reducing imbalance or noise
+   33/50    . Control of washer-dryers characterised by the
+purpose or target of the control
+   33/52    . . Control of the operational steps, e.g. optimisation
+or improvement of operational steps depending
+on the condition of the laundry
+   33/54    . . . of water filling
+   33/57    . . . of metering of detergents or additives
+   33/60    . . . of centrifugal separation of water from the
+   33/63    . . . of air flow, e.g. blowing air during the washing
+process to prevent entanglement of the laundry
+   33/64    . . . . Unheated air
+   33/65    . . . of conditioning or finishing phases, e.g. for
+   33/68    . . . of the sequence of washing and drying
+   33/69    . . Control of cleaning or disinfection of washer-
+   33/70    . . Control of the operating time, e.g. reduction of
+   33/72    . . Control of the energy or water consumption
+   33/74    . . Responding to irregular working conditions, e.g.
+malfunctioning of pumps  (safety arrangements
+for washing machines D06F 37/42)
+   33/76    . . Preventing or reducing imbalance or noise
+2Washing; Rinsing; Dry-cleaning
+   34/00    Details of control systems for washing machines,
+washer-dryers or laundry dryers
+In this group, it is mandatory to add the indexing
+codes of groups D06F 2101/00 - D06F 2105/00.
+   34/04    . Signal transfer or data transmission arrangements
+   34/05    . . for wireless communication between components,
+e.g. for remote monitoring or control
+   34/06    . Timing arrangements
+   34/08    . Control circuits or arrangements thereof
+   34/10    . Power supply arrangements, e.g. stand-by circuits
+   34/14    . Arrangements for detecting or measuring specific
+   34/18    . . Condition of the laundry, e.g. nature or weight
+   34/20    . . Parameters relating to constructional components,
+   34/22    . . Condition of the washing liquid, e.g. turbidity
+   34/24    . . . Liquid temperature
+   34/26    . . Condition of the drying air, e.g. air humidity or
+   34/28    . Arrangements for program selection, e.g. control
+panels therefor; Arrangements for indicating
+program parameters, e.g. the selected program or its
+   34/30    . . characterised by mechanical features, e.g. buttons
+   34/32    . . characterised by graphical features, e.g.
+   34/34    . . characterised by mounting or attachment features,
+e.g. detachable control panels or detachable
+   35/00    Washing machines, apparatus, or methods not
+   35/003   . {using electrochemical cells}
+   35/004   . {using chlorine generators}
+   35/005   . {Methods for washing, rinsing or spin-drying}
+   35/006   . . {for washing or rinsing only}
+   35/007   . . {for spin-drying only}
+   35/008   . . {for disinfecting the tub or the drum}
+   37/00    Details specific to washing machines covered by
+   37/02    . Rotary receptacles, e.g. drums
+   37/04    . . adapted for rotation or oscillation about a
+   37/06    . . . Ribs, lifters, or rubbing means forming part of
+   37/065   . . . . {ribs or lifters having means for circulating
+   37/10    . . . Doors; Securing means therefor
+   37/12    . . adapted for rotation or oscillation about a vertical
+   37/14    . . . Ribs or rubbing means forming part of the
+   37/145   . . . . {ribs or lifters having means for circulating
+   37/18    . . . Doors or covers; Securing means therefor
+   37/20    . Mountings, e.g. resilient mountings, for the rotary
+receptacle, motor, tub or casing; Preventing or
+   37/206   . . {Mounting of motor}
+   37/22    . . in machines with a receptacle rotating or
+oscillating about a horizontal axis
+   37/225   . . . {Damping vibrations by displacing, supplying
+or ejecting a material, e.g. liquid, into or from
+   37/24    . . in machines with a receptacle rotating or
+oscillating about a vertical axis
+   37/245   . . . {Damping vibrations by displacing, supplying
+or ejecting a material, e.g. liquid, into or from
+   37/261   . . {Tubs made by a specially selected
+manufacturing process or characterised by their
+   37/262   . . . {made of plastic material, e.g. by injection
+   37/263   . . . {assembled from at least two elements
+connected to each other; Connecting or sealing
+   37/264   . . {Tubs provided with reinforcing structures, e.g.
+   37/265   . . {Counterweights mounted to the tub; Mountings
+   37/266   . . {Gaskets mounted between tub and casing around
+   37/267   . . {Tubs specially adapted for mounting thereto
+components or devices not provided for in
+preceding subgroups (D06F 37/206 takes
+   37/268   . . . {for suspension devices}
+   37/269   . . . {for the bearing of the rotary receptacle}
+   37/28    . . Doors; Security means therefor
+   37/30    . Driving arrangements  (control circuits or
+   37/302   . . {Automatic drum positioning}
+   37/304   . . {Arrangements or adaptations of electric motors}
+   37/308   . . {Hydraulic or pneumatic speed control;
+Arrangements or adaptations of hydraulic or
+   37/32    . . for rotating the receptacle at one speed only
+{(D06F 37/304, D06F 37/308 take precedence)}
+   37/34    . . . in opposite directions, e.g. oscillating
+   37/36    . . for rotating the receptacle at more than one speed
+{(D06F 37/304, D06F 37/308 take precedence)}
+   37/38    . . . in opposite directions
+   37/40    . . for driving the receptacle and an agitator or
+impeller, e.g. alternatively {(D06F 37/304,
+   37/42    . Safety arrangements, e.g. for stopping rotation of
+the receptacle upon opening of the casing door
+   39/00    Details of washing machines not specific to
+a single type of machines covered by groups
+D06F 9/00 - D06F 27/00  (control of washing
+machines D06F 33/00, D06F 34/00)
+   39/001   . {Arrangements for transporting, moving, or setting
+washing machines; Protective arrangements for use
+during transport (transport in general B65)}
+   39/006   . {Recovery arrangements, e.g. for the recovery of
+3Washing; Rinsing; Dry-cleaning
+   39/007   . {Arrangements of water softeners}
+   39/008   . {Steam generating arrangements}
+   39/02    . Devices for adding soap or other washing agents
+   39/022   . . {in a liquid state (D06F 39/024 takes
+   39/024   . . {mounted on the agitator or the rotating drum;
+   39/026   . . {the powder or tablets being added directly, e.g.
+without the need of a flushing liquid}
+   39/028   . . {Arrangements for selectively supplying water to
+   39/04    . Heating arrangements
+   39/06    . Arrangements for preventing or destroying scum
+   39/08    . Liquid supply or discharge arrangements (supply of
+soap or other washing agents D06F 39/02)
+   39/081   . . {Safety arrangements for preventing water
+   39/082   . . . {detecting faulty draining operations, e.g. filter
+   39/083   . . {Liquid discharge or recirculation arrangements}
+   39/085   . . . {Arrangements or adaptations of pumps}
+   39/086   . . . {Arrangements for avoiding detergent wastage
+   39/087   . . {Water level measuring or regulating devices}
+   39/088   . . {Liquid supply arrangements}
+   39/10    . Filtering arrangements
+   39/125   . . {Supporting arrangements for the casing, e.g.
+   39/14    . . Doors or covers; Securing means therefor
+   43/00    Dry-cleaning apparatus {or methods} using
+volatile solvents (D06F 9/00 - D06F 41/00 take
+   43/002   . {Spotting apparatus}
+   43/005   . {Solvent condition control devices, e.g. humidity
+   43/007   . {Dry cleaning methods}
+   43/02    . having one rotary cleaning receptacle only
+   43/04    . having more than one rotary cleaning receptacle
+   43/06    . wherein the articles to be cleaned are passed
+through a cleaning chamber or bath
+   43/08    . Associated apparatus for handling and recovering
+   43/081   . . {Reclaiming or recovering the solvent from a
+mixture of solvent and contaminants, e.g. by
+   43/083   . . . {Condensing arrangements}
+   43/085   . . . {Filtering arrangements; Filter cleaning; Filter-
+   43/086   . . {Recovering the solvent from the drying air
+   43/088   . . . {Condensing arrangements}
+Expelling water from the linen; Smoothing by cold rolling
+   45/00    Wringing machines with two or more co-operating
+rollers; Similar cold-smoothing apparatus
+   45/02    . wherein the pressure is transmitted by spring means
+   45/04    . . with hand-operated quick-release means
+   45/06    . . with automatically-operated quick-release means
+   45/08    . wherein the pressure is applied by fluid means
+   45/10    . with three or more co-operating rollers
+   45/12    . combined with washing machines
+   45/14    . with means for removable attachment to washing
+machines, tables or other supports
+   45/18    . . Driving or control arrangements for rotation of
+   45/20    . . Toggle or other lever means for transmitting
+   45/24    . . Frames guiding or housing the roller shafts;
+Stands for supporting the roller framework
+   45/26    . . Draining boards; Feed or discharge boards;
+   45/28    . . Belt arrangements for guiding the linen between
+   47/00    Apparatus of the press type for expelling water
+   47/02    . by a mechanically-actuated ram
+   47/04    . by a fluid-actuated ram
+   47/06    . by a flexible diaphragm
+   47/08    . Covers; Securing means therefor
+   49/00    Domestic spin-dryers or similar spin-dryers not
+   49/003   . {Doors or covers; Safety arrangements}
+   49/006   . {Rinsing arrangements}
+   49/02    . Bowl construction
+   49/06    . Mountings, e.g. resilient mountings, for the bowl or
+casings; Preventing or damping vibrations
+   49/08    . Liquid discharge arrangements
+   51/00    Apparatus for expelling or draining water from
+the linen, not provided for in the preceding groups
+   53/00    Clothes-lines; Supports therefor  (drying frames
+incorporating clothes-lines D06F 57/00)
+   53/005   . {Accessories, e.g. line cleaning devices, line
+protectors, clothes-pin holders}
+   53/04    . Supports, e.g. poles, props for clothes-lines
+   53/045   . . {comprising means for storing the clothes-line}
+   55/02    . with pivoted {independent} clamping members
+   57/00    Supporting means, other than simple clothes-
+lines, for linen or garments to be dried or aired 
+(in combination with means for heating or positive air
+circulation D06F 58/00; adapted to retain the shape of
+particular articles being dried D06F 59/00)
+   57/02    . mounted on pillars, e.g. rotatably {(sockets or
+holders for poles or posts E04H 12/22)}
+   57/04    . . and having radial arms, e.g. collapsible
+   57/06    . comprising vertical members connected by
+   57/08    . Folding stands (D06F 57/06 takes precedence)
+   57/10    . . of the lazy-tongs type
+   57/12    . specially adapted for attachment to walls, ceilings,
+stoves, or other structures or objects
+   57/122   . . {for attachment by clamping between two
+   57/125   . . {for attachment to, or close to, the ceiling}
+   57/127   . . {for attachment or suspension to central heating
+   58/00    Domestic laundry dryers
+In this group, it is mandatory to add the indexing
+codes of groups D06F 2101/00 - D06F 2105/00.
+   58/02    . having dryer drums rotating about a horizontal axis
+   58/04    . . Details  (controlling or regulating devices
+   58/06    . . . Mountings for the rotating drums
+   58/08    . . . Driving arrangements
+   58/10    . Drying cabinets or drying chambers having heating
+   58/12    . . having conveying means for moving clothes, e.g.
+   58/14    . . Collapsible drying cabinets; Wall mounted
+   58/16    . having heatable surfaces for contacting the laundry
+   58/18    . Detachable or door-mounted drying arrangements
+   58/20    . General details of domestic laundry dryers 
+   58/203   . . {Laundry conditioning arrangements}
+   58/206   . . {Heat pump arrangements}
+   58/22    . . Lint collecting arrangements
+   58/24    . . Condensing arrangements
+   58/26    . . Heating arrangements, e.g. gas heating equipment
+   58/263   . . . {Gas heating equipment}
+   58/266   . . . {Microwave heating equipment}
+   58/30    . Drying processes  (controlling a series of operations
+in domestic laundry dryers D06F 58/32)
+   58/32    . Control of operations performed in domestic
+laundry dryers  (control of operations performed
+in washer-dryers D06F 33/50; details of control
+systems, e.g. for detecting or measuring specific
+parameters or for selection or indication of
+   58/34    . . characterised by the purpose or target of the
+   58/36    . . . Control of operational steps, e.g. for
+optimisation or improvement of operational
+steps depending on the condition of the laundry
+   58/38    . . . . of drying, e.g. to achieve the target humidity
+   58/40    . . . . . Control of the initial heating of the drying
+chamber to its operating temperature
+   58/42    . . . . . by unheated air
+   58/44    . . . . of conditioning or finishing, e.g. for
+   58/45    . . . Cleaning or disinfection of machine parts, e.g.
+   58/46    . . . Control of the operating time
+   58/48    . . . Control of the energy consumption
+   58/50    . . . Responding to irregular working conditions,
+   58/52    . . . Preventing or reducing noise
+   59/00    Supports adapted to retain the shape of particular
+articles being dried, e.g. incorporating heating
+means {(devices for retaining the shape of hats
+   59/08    . for curtains, table cloths, or other articles of sheet
+   60/00    Drying not provided for in groups
+   61/00    Ironing machines using two or more co-operating
+   61/04    . with three or more rollers one above the other
+   61/06    . with successive pairs of rollers
+   61/08    . with one central roller co-operating with a plurality
+   61/10    . with two or more central rollers co-operating with a
+plurality of circumferential rollers
+   63/00    Ironing machines having a roller or rollers
+coacting with a fixed or moving flat bed or table
+   63/02    . with two or more rollers co-acting with a fixed or
+   65/00    Ironing machines with rollers rotating against
+   65/02    . with one roller only
+   65/04    . . the bed being urged against the roller by hand or
+   65/06    . . the bed being urged against the roller by power
+   65/08    . . the roller being urged against the bed
+   65/10    . with two or more rollers co-operating with two or
+   67/00    Details of ironing machines provided for in groups
+D06F 61/00, D06F 63/00, or D06F 65/00 (coverings
+or pads for ironing or pressing members D06F 83/00)
+   67/005   . {Stands or cabinets}
+   67/02    . Rollers; Heating arrangements therefor
+   67/04    . Arrangements for feeding or spreading the linen
+   67/06    . Means for stripping the linen from the rollers
+   67/08    . Beds; Heating arrangements therefor
+   67/10    . Driving arrangements
+   69/00    Ironing machines not otherwise provided for
+   69/02    . using endless or other ironing or pressing belts or
+   69/04    . with relatively-sliding flat surfaces
+   71/00    Apparatus for hot-pressing clothes, linen or other
+textile articles, i.e. wherein there is substantially
+no relative movement between pressing element
+and article while pressure is being applied to the
+article; Similar machines for cold-pressing clothes,
+linen or other textile articles
+   71/02    . actuated wholly by hand or foot (D06F 71/08 takes
+   71/023   . . {with an upper movable pressing member and a
+   71/026   . . . {the upper movable member rotating about a
+   71/04    . power-actuated (D06F 71/08 takes precedence)
+   71/043   . . {with an upper movable pressing member and a
+lower fixed pressing member (D06F 71/06 takes
+   71/046   . . . {the upper movable member rotating about a
+   71/062   . . . {with an upper movable pressing member and a
+   71/065   . . . . {the upper movable member rotating about a
+   71/067   . . . . . {Fluid-control mechanisms for controlling
+the ironing pressure or the movement of
+   71/08    . wherein one or more of the pressing elements
+is moved laterally between successive pressing
+   71/10    . . by movement about a vertical axis
+   71/12    . . by movement about a horizontal axis
+   71/14    . . by a rectilinear movement
+   71/16    . having a pressing element or buck adapted to
+provide interior support for a garment to be pressed
+   71/18    . specially adapted for pressing particular garments or
+   71/20    . . for pressing shirts
+   71/22    . . for pressing collars
+   71/24    . . for pressing cuffs
+   71/26    . . for pressing shoulders or necks
+   71/28    . . for pressing sleeves, trousers, or other tubular
+garments or tubular parts of garments
+   71/285   . . . {for pressing sleeves}
+   71/295   . . . . {the top portion of trousers}
+   71/30    . specially adapted for pressing seams (specially
+adapted for pressing particular garments or parts
+   71/323   . . {Protective devices, e.g. burn guards}
+   71/326   . . {Arrangements for producing a sliding or ironing
+movement between the pressing elements in
+   71/34    . . Heating arrangements; Arrangements for
+supplying or removing steam or other gases
+   71/36    . . Pressing elements (for use in pressing particular
+garments or parts thereof D06F 71/18; coverings
+   71/38    . . Feeding arrangements (feeding by lateral
+movement of pressing elements D06F 71/08)
+   71/40    . . Holders or stretchers for the article to be pressed
+   73/00    Apparatus for smoothing or removing creases
+from garments or other textile articles by formers,
+cores, stretchers, or internal frames, with the
+application of heat or steam  (combined with
+external pressure means D06F 71/00)
+   73/02    . having one or more treatment chambers
+   75/02    . Externally-heated hand irons; Hand irons internally
+heated by means other than electricity, e.g. by solid
+   75/04    . . by pre-heated block
+   75/06    . . with means for supplying steam or liquid to
+the article being ironed (D06F 75/32 takes
+   75/08    . Hand irons internally heated by electricity
+   75/10    . . with means for supplying steam to the article
+being ironed (D06F 75/32 takes precedence)
+   75/12    . . . the steam being produced from water supplied
+to the iron from an external source
+   75/14    . . . the steam being produced from water in a
+   75/16    . . . . the reservoir being heated to produce the
+   75/18    . . . . the water being fed slowly, e.g. drop by drop,
+from the reservoir to a steam generator
+   75/20    . . . Arrangements for discharging the steam to the
+   75/22    . . with means for supplying liquid to the article
+being ironed (D06F 75/10 takes precedence)
+   75/24    . . Arrangements of the heating means within the
+iron; Arrangements for distributing, conducting or
+   75/243   . . . {using other than ohmic-resistance heating
+means, e.g. electrolytic or induction heating}
+   75/246   . . . {using infra-red lamps}
+   75/26    . . Temperature control or indicating arrangements
+   75/265   . . . {Temperature indicating arrangements; Control
+   75/28    . . Arrangements for attaching, protecting or
+supporting the electric supply cable
+   75/30    . Hand irons of special external shape or form
+   75/32    . Attachments for converting hand irons to steam
+   75/34    . Handles; Handle mountings
+   75/38    . Sole plates (D06F 75/20 takes precedence)
+   75/40    . Stands or supports attached to the iron
+   77/00    Arrangements for exerting pressure on, lifting, or
+   77/005   . {using an electro-magnet or a permanent magnet in
+   79/00    Accessories for hand irons
+   79/02    . Stands or supports neither attached to, nor forming
+part of, the iron or ironing board
+   79/023   . . {with means for supplying current to the iron}
+   79/026   . . . {for cordless irons}
+   79/04    . Stoves or other heating means specially adapted for
+   79/06    . Means, not forming part of the iron, for cooling the
+   81/00    Ironing boards  (coverings or pads therefor
+D06F 83/00; kitchen cabinets with ironing boards
+movable outwards to a position of use A47B 77/10)
+   81/003   . {with flat iron support}
+   81/006   . {with fabric support or garment rack}
+   81/02    . with collapsible underframe
+   81/04    . . with means for adjusting height
+   81/06    . attachable to independent supports, e.g. walls
+   81/08    . incorporating heating, steaming, or forced
+   81/10    . Top board elements
+   81/12    . Sleeve boards; Attaching means therefor
+   81/14    . Means for attaching covers
+   83/00    Coverings or pads for ironing or pressing
+   85/00    Independent elements for interposition between
+the article and the ironing or pressing surface
+Other laundry apparatus or systems
+   87/00    Apparatus for moistening or otherwise
+conditioning the article to be ironed or pressed
+(apparatus for smoothing or removing creases from
+garments or other textile articles by formers, cores,
+stretchers or internal frames, with the application
+of heat or steam D06F 73/00 {; devices used in
+combination with a laundry dryer D06F 58/203})
+   89/00    Apparatus for folding textile articles with or
+   89/005   . {Manual folding devices, e.g. for folding bed sheets
+   89/02    . of textile articles to be worn, e.g. shirts
+   89/026   . . . {Details, e.g. collar holders}
+   91/00    Starching apparatus
+   93/00    Counting, sorting, or marking arrangements
+specially adapted for laundry purposes
+   93/005   . {Marking arrangements}
+   95/00    Laundry systems or arrangements of apparatus
+or machines; Mobile laundries  (D06F 31/00 takes
+   95/002   . {Baskets or bags specially adapted for holding or
+transporting laundry; Supports therefor}
+   95/004   . . {Bags; Supports therefor}
+   95/006   . . . {Bags for holding the laundry during washing
+   95/008   . {Devices for keeping articles together during
+laundering, e.g. for keeping socks in pairs
+(D06F 95/004 takes precedence); Devices for
+protecting or shielding certain parts of the articles
+during laundering, e.g. button protectors}
+Indexing scheme associated with groups D06F 33/00, D06F 34/00,
+ 2101/00    User input for the control of domestic laundry
+washing machines, washer-dryers or laundry
+ 2101/02    . Characteristics of laundry or load
+ 2101/04    . . Quantity, e.g. weight
+ 2101/06    . . Type or material
+ 2101/12    . Washing temperature
+ 2101/16    . Target humidity for the drying process, e.g. very-
+ 2101/18    . Target temperature for the drying process, e.g. low-
+ 2101/20    . Operation modes, e.g. delicate laundry washing
+programs, service modes or refreshment cycles
+ 2103/00    Parameters monitored or detected for the control
+of domestic laundry washing machines, washer-
+ 2103/02    . Characteristics of laundry or load
+ 2103/04    . . Quantity, e.g. weight or variation of weight
+ 2103/06    . . Type or material
+ 2103/10    . . . expressed as capacitance or resistance
+ 2103/14    . Supply, recirculation or draining of washing liquid
+ 2103/16    . Washing liquid temperature
+ 2103/18    . Washing liquid level
+ 2103/20    . Washing liquid condition, e.g. turbidity
+ 2103/22    . . Content of detergent or additives
+ 2103/24    . Spin speed; Drum movements
+ 2103/26    . Unbalance; Noise level
+ 2103/36    . . Flow or velocity
+ 2103/38    . Time, e.g. duration
+ 2103/40    . Opening or locking status of doors
+ 2103/42    . related to filters or pumps
+ 2103/44    . Current or voltage
+ 2103/46    . . of the motor driving the drum
+ 2103/48    . . of the motor driving the pump
+ 2103/50    . related to heat pumps, e.g. pressure or flow rate
+ 2103/52    . related to electric heating means, e.g. temperature or
+ 2103/54    . related to blowers or fans
+ 2103/56    . related to air ducts, e.g. position of flow diverters
+ 2103/58    . related to condensation, e.g. condensate water level
+ 2103/60    . related to auxiliary conditioning or finishing agents,
+e.g. filling level of perfume tanks
+ 2103/62    . . related to systems for water or steam used for
+ 2103/64    . Radiation, e.g. microwaves
+ 2103/66    . . for treatment of laundry otherwise than by drying,
+ 2103/68    . Operation mode; Program phase
+ 2103/70    . Number of operational cycles
+ 2105/00    Systems or parameters controlled or affected by
+the control systems of washing machines, washer-
+ 2105/04    . . from separate hot and cold water inlets
+ 2105/06    . Recirculation of washing liquids, e.g. by pumps or
+ 2105/08    . Draining of washing liquids
+ 2105/10    . Temperature of washing liquids; Heating means
+ 2105/12    . Humidity or dryness of laundry
+ 2105/14    . Temperature of laundry
+ 2105/24    . . Flow or velocity
+ 2105/32    . Air flow control means
+ 2105/34    . Filtering, e.g. control of lint removal devices
+7Indexing scheme associated with groups D06F33/00, D06F34/00, D06F58/00
+ 2105/36    . Condensing arrangements, e.g. control of water
+ 2105/38    . Conditioning or finishing, e.g. control of perfume
+ 2105/40    . . using water or steam
+ 2105/42    . Detergent or additive supply
+ 2105/44    . Opening, closing or locking of doors
+ 2105/46    . Drum speed; Actuation of motors, e.g. starting or
+ 2105/50    . Starting machine operation, e.g. delayed start or re-
+ 2105/52    . Changing sequence of operational steps; Carrying
+out additional operational steps; Modifying
+operational steps, e.g. by extending duration of steps
+ 2105/54    . Changing between normal operation mode and
+special operation modes, e.g. service mode,
+component cleaning mode or stand-by mode
+ 2105/56    . Remaining operation time; Remaining operational
+ 2105/58    . Indications or alarms to the control system or to the
+ 2105/60    . . Audible signals
+ 2105/62    . Stopping or disabling machine operation

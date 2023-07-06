@@ -1,0 +1,316 @@
+COOPERATIVE PATENT CLASSIFICATION
+TESTING STATIC OR DYNAMIC BALANCE OF MACHINES OR STRUCTURES;
+TESTING OF STRUCTURES OR APPARATUS, NOT OTHERWISE PROVIDED FOR
+Attention is drawn to the Note following the title of Class G01.
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+G01M 1/14 and G01M 1/30 and subgroups
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Testing static or dynamic balance of machines or
+    1/02    . Details of balancing machines or devices
+    1/04    . . Adaptation of bearing support assemblies for
+receiving the body to be tested
+    1/045   . . . {the body being a vehicle wheel}
+    1/06    . . Adaptation of drive assemblies for receiving the
+    1/08    . . Instruments for indicating directly the magnitude
+    1/10    . Determining the moment of inertia
+    1/12    . Static balancing; Determining position of centre of
+gravity (by determining unbalance G01M 1/14)
+    1/122   . . {Determining position of centre of gravity}
+    1/125   . . . {of aircraft}
+    1/127   . . . . {during the flight}
+    1/14    . Determining unbalance (G01M 1/30 takes
+    1/16    . . by oscillating or rotating the body to be tested
+    1/18    . . . and running the body down from a speed
+    1/20    . . . and applying external forces compensating
+    1/22    . . . and converting vibrations due to unbalance into
+    1/225   . . . . {for vehicle wheels (in situ G01M 1/28)}
+    1/24    . . . Performing balancing on elastic shafts, e.g. for
+    1/26    . . . with special adaptations for marking, e.g. by
+    1/28    . . . with special adaptations for determining
+unbalance of the body in situ, e.g. of vehicle
+    1/30    . Compensating unbalance
+    1/32    . . by adding material to the body to be tested, e.g.
+    1/323   . . . {using balancing liquid}
+    1/326   . . . {the body being a vehicle wheel}
+    1/34    . . by removing material from the body to be tested,
+    1/36    . . by adjusting position of masses built-in the body
+    1/365   . . . {using balancing liquid}
+    3/00    Investigating fluid-tightness of structures
+    3/002   . {by using thermal means}
+    3/005   . {using pigs or moles (G01M 3/246, G01M 3/2823
+    3/007   . {Leak detector calibration, standard leaks
+    3/02    . by using fluid or vacuum
+    3/022   . . {Test plugs for closing off the end of a pipe}
+    3/025   . . {Details with respect to the testing of engines or
+    3/027   . . {Details with respect to the testing of elastic
+elements, e.g. gloves, condoms}
+    3/04    . . by detecting the presence of fluid at the leakage
+    3/042   . . . {by using materials which expand, contract,
+disintegrate, or decompose in contact with a
+fluid (G01M 3/12 takes precedence)}
+    3/045   . . . . {with electrical detection means}
+    3/047   . . . . . {with photo-electrical detection means,
+    3/06    . . . by observing bubbles in a liquid pool
+    3/08    . . . . for pipes, cables or tubes; for pipe joints or
+    3/081   . . . . . {for cables}
+    3/083   . . . . . {for tubes}
+    3/085   . . . . . {for pipe joints or seals (G01M 3/088
+    3/086   . . . . . {for valves}
+    3/088   . . . . . {for welds}
+    3/10    . . . . for containers, e.g. radiators
+    3/103   . . . . . {for flexible or elastic containers}
+    3/106   . . . . . {for radiators}
+    3/12    . . . by observing elastic covers or coatings, e.g.
+    3/14    . . . . for pipes, cables or tubes; for pipe joints or
+seals; for valves; {for welds; for containers,
+    3/141   . . . . . {for cables}
+    3/142   . . . . . {for tubes}
+    3/143   . . . . . {for pipe joints or seals}
+    3/144   . . . . . {for valves}
+    3/145   . . . . . {for welds}
+    3/146   . . . . . {for containers, e.g. radiators}
+    3/147   . . . . . . {for flexible or elastic containers}
+    3/148   . . . . . . {for radiators}
+    3/16    . . . using electric detection means ({G01M 3/045,}
+G01M 3/06, G01M 3/12, G01M 3/20,
+G01M 3/24, G01M 3/26 take precedence)
+    3/165   . . . . {by means of cables or similar elongated
+    3/18    . . . . for pipes, cables or tubes; for pipe joints or
+seals; for valves; {for welds; for containers,
+    3/181   . . . . . {for cables}
+    3/182   . . . . . {for tubes}
+    3/183   . . . . . {for pipe joints or seals}
+    3/184   . . . . . {for valves}
+    3/185   . . . . . {for welds}
+    3/186   . . . . . {for containers, e.g. radiators}
+    3/187   . . . . . . {for flexible or elastic containers}
+    3/188   . . . . . . {for radiators}
+    3/20    . . . using special tracer materials, e.g. dye,
+fluorescent material, radioactive material
+    3/202   . . . . {using mass spectrometer detection systems}
+    3/205   . . . . . {Accessories or associated equipment;
+    3/207   . . . . {calibration arrangements}
+    3/22    . . . . for pipes, cables or tubes; for pipe joints or
+seals; for valves; {for welds; for containers,
+    3/221   . . . . . {for cables}
+    3/222   . . . . . {for tubes}
+    3/223   . . . . . {for pipe joints or seals}
+    3/224   . . . . . {for valves}
+    3/225   . . . . . {for welds}
+    3/226   . . . . . {for containers, e.g. radiators}
+    3/227   . . . . . . {for flexible or elastic containers}
+    3/228   . . . . . . {for radiators}
+    3/229   . . . . . . {removably mounted in a test cell}
+    3/24    . . . using infrasonic, sonic, or ultrasonic vibrations
+    3/243   . . . . {for pipes}
+    3/246   . . . . . {using pigs or probes travelling in the
+    3/26    . . by measuring rate of loss or gain of fluid, e.g. by
+pressure-responsive devices, by flow detectors
+    3/28    . . . for pipes, cables or tubes; for pipe joints or
+seals; for valves {; for welds}
+    3/2807  . . . . {for pipes (G01M 3/2892, G01M 3/30 take
+    3/2815  . . . . . {using pressure measurements}
+    3/2823  . . . . . {using pigs or moles traveling in the pipe}
+    3/283   . . . . . {for double-walled pipes}
+    3/2838  . . . . {for cables (G01M 3/30 takes precedence)}
+    3/2846  . . . . {for tubes (G01M 3/30 takes precedence)}
+    3/2853  . . . . {for pipe joints or seals (G01M 3/30 takes
+    3/2861  . . . . . {for pipe sections by testing its exterior
+    3/2869  . . . . . {for seals not incorporated in a pipe joint}
+    3/2876  . . . . {for valves (G01M 3/30 takes precedence)}
+    3/2884  . . . . {for welds (G01M 3/30 takes precedence)}
+    3/2892  . . . . {for underground fuel dispensing systems
+    3/30    . . . . using progressive displacement of one fluid
+    3/32    . . . for containers, e.g. radiators
+    3/3209  . . . . {Details, e.g. container closure devices}
+    3/3218  . . . . {for flexible or elastic containers}
+    3/3227  . . . . {for radiators}
+    3/3236  . . . . {by monitoring the interior space of the
+    3/3245  . . . . . {using a level monitoring device
+(G01M 3/3272 takes precedence)}
+    3/3254  . . . . . {using a flow detector (G01M 3/3245,
+    3/3263  . . . . . {using a differential pressure detector
+    3/3272  . . . . . {for verifying the internal pressure of
+    3/3281  . . . . {removably mounted in a test cell}
+    3/329   . . . . . {for verifying the internal pressure of
+    3/34    . . . . by testing the possibility of maintaining the
+vacuum in containers, e.g. in can-testing
+    3/36    . . by detecting change in dimensions of the structure
+    3/363   . . . {the structure being removably mounted in a
+    3/366   . . . {by isolating only a part of the structure being
+    3/38    . by using light (G01M 3/02 takes precedence)
+    3/40    . by using electric means, e.g. by observing electric
+    5/00    Investigating the elasticity of structures, e.g.
+deflection of bridges or air-craft wings (G01M 9/00
+    5/0016  . {of aircraft wings or blades}
+    5/0025  . {of elongated objects, e.g. pipes, masts, towers or
+railways (G01M 5/0058 takes precedence)}
+    5/0033  . {by determining damage, crack or wear}
+    5/0041  . {by determining deflection or stress}
+    5/005   . . {by means of external apparatus, e.g. test benches
+    5/0058  . . . {of elongated objects, e.g. pipes, masts, towers
+    5/0066  . {by exciting or detecting vibration or acceleration
+(vibration testing of structures G01M 7/00)}
+    5/0075  . {by means of external apparatus, e.g. test benches
+or portable test systems (G01M 5/005 takes
+    5/0083  . {by measuring variation of impedance, e.g.
+resistance, capacitance, induction}
+    5/0091  . {by using electromagnetic excitation or detection}
+    7/00    Vibration-testing of structures; Shock-testing of
+structures (G01M 9/00 takes precedence)
+    7/02    . Vibration-testing {by means of a shake table}
+    7/022   . . {Vibration control arrangements, e.g. for
+    7/025   . . {Measuring arrangements}
+    7/027   . . {Specimen mounting arrangements, e.g. table
+    7/04    . . Monodirectional test stands
+    7/045   . . . {in a circular direction}
+    7/06    . . Multidirectional test stands
+    9/00    Aerodynamic testing; Arrangements in or on wind
+    9/06    . Measuring arrangements specially adapted for
+    9/062   . . {Wind tunnel balances; Holding devices
+combined with measuring arrangements}
+    9/065   . . {dealing with flow}
+    9/067   . . . {visualisation}
+    9/08    . Aerodynamic models
+   10/00    Hydrodynamic testing; Arrangements in or on
+ship-testing tanks or water tunnels
+   11/00    Testing of optical apparatus; Testing structures by
+optical methods not otherwise provided for
+   11/005   . {Testing of reflective surfaces, e.g. mirrors}
+   11/02    . Testing optical properties
+   11/0207  . . {Details of measuring devices}
+   11/0214  . . . {Details of devices holding the object to be
+   11/0221  . . {by determining the optical axis or position of
+   11/0228  . . {by measuring refractive power}
+   11/0235  . . . {by measuring multiple properties of lenses,
+   11/0242  . . {by measuring geometrical properties or
+   11/025   . . . {by determining the shape of the object to be
+tested (measuring contours or curvatures by
+   11/0257  . . . {by analyzing the image formed by the object
+   11/0264  . . . . {by using targets or reference patterns}
+   11/0271  . . . {by using interferometric methods}
+   11/0278  . . . {Detecting defects of the object to be tested,
+e.g. scratches or dust (investigating the
+presence of flaws or contamination on
+materials by optical means G01N 21/88)}
+   11/0285  . . {by measuring material or chromatic transmission
+properties (G01M 11/0292 takes precedence)}
+   11/0292  . . {of objectives by measuring the optical
+modulation transfer function (photometry G01J)}
+   11/04    . . Optical benches therefor
+   11/06    . . Testing the alignment of vehicle headlight
+   11/061   . . . {Details of the mechanical construction of the
+light measuring system (G01M 11/064 takes
+   11/062   . . . {using an indicator mounted on the head-light}
+   11/064   . . . {by using camera or other imaging system for
+   11/065   . . . . {details about the image analysis}
+   11/067   . . . {Details of the vehicle positioning system, e.g.
+   11/068   . . . {with part of the measurements done from
+   11/08    . Testing mechanical properties {(G01M 11/005 takes
+   11/081   . . {by using a contact-less detection method, i.e.
+   11/083   . . {by using an optical fiber in contact with the
+   11/085   . . . {the optical fiber being on or near the surface
+   11/086   . . . {Details about the embedment of the optical
+   11/088   . . {of optical fibres; Mechanical features associated
+with the optical testing of optical fibres}
+   11/30    . {Testing of optical devices, constituted by fibre
+   11/31    . . {with a light emitter and a light receiver being
+disposed at the same side of a fibre or waveguide
+   11/3109  . . . {Reflectometers detecting the back-scattered
+light in the time-domain, e.g. OTDR}
+   11/3118  . . . . {using coded light-pulse sequences}
+   11/3127  . . . . {using multiple or wavelength variable input
+   11/3136  . . . . {for testing of multiple fibers}
+   11/3145  . . . . {Details of the optoelectronics or data
+   11/3154  . . . . {Details of the opto-mechanical connection,
+   11/3163  . . . . {by measuring dispersion}
+   11/3172  . . . {Reflectometers detecting the back-scattered
+light in the frequency-domain, e.g. OFDR,
+   11/3181  . . . {Reflectometers dealing with polarisation}
+   11/319   . . . {Reflectometers using stimulated back-scatter,
+e.g. Raman or fibre amplifiers}
+   11/33    . . {with a light emitter being disposed at one fibre
+or waveguide end-face, and a light receiver at the
+   11/331   . . . {by using interferometer}
+   11/332   . . . {using discrete input signals (G01M 11/333
+   11/333   . . . {using modulated input signals}
+   11/334   . . . . {with light chopping means}
+   11/335   . . . {using two or more input wavelengths}
+   11/336   . . . {by measuring polarization mode dispersion
+   11/337   . . . {by measuring polarization dependent loss
+   11/338   . . . {by measuring dispersion other than PMD, e.g.
+   11/35    . . {in which light is transversely coupled into or out
+of the fibre or waveguide, e.g. using integrating
+spheres (G01M 11/31 takes precedence)}
+   11/37    . . {in which light is projected perpendicularly to the
+axis of the fibre or waveguide for monitoring a
+   11/39    . . {in which light is projected from both sides of the
+   13/00    Testing of machine parts
+   13/003   . Machine valves (testing valves for fluid tightness
+   13/02    . Gearings; Transmission mechanisms
+   13/022   . . Power-transmitting couplings or clutches
+   13/023   . . Power-transmitting endless elements, e.g. belts or
+   13/025   . . Test-benches with rotational drive means and
+loading means; Load or drive simulation
+   13/026   . . . Test-benches of the mechanical closed-loop
+type, i.e. having a gear system constituting a
+closed-loop in combination with the object
+   13/027   . . Test-benches with force-applying means, e.g.
+loading of drive shafts along several directions
+   13/028   . . Acoustic or vibration analysis
+   13/045   . . Acoustic or vibration analysis
+   15/02    . Details or accessories of testing apparatus
+   15/04    . Testing internal-combustion engines
+Group G01M 15/05 takes precedence
+   15/042   . . {by monitoring a single specific parameter not
+covered by groups G01M 15/06 - G01M 15/12}
+   15/044   . . . {by monitoring power, e.g. by operating the
+engine with one of the ignitions interrupted; by
+   15/046   . . . {by monitoring revolutions (for detecting
+   15/048   . . . {by monitoring temperature}
+   15/05    . . by combined monitoring of two or more different
+   15/06    . . by monitoring positions of pistons or cranks
+   15/08    . . by monitoring pressure in cylinders
+   15/09    . . by monitoring pressure in fluid ducts, e.g. in
+   15/10    . . by monitoring exhaust gases {or combustion
+   15/102   . . . {by monitoring exhaust gases}
+   15/104   . . . . {using oxygen or lambda-sensors
+(testing catalytic converters F01N 3/18,
+   15/106   . . . . {using pressure sensors}
+   15/108   . . . . {using optical methods}
+   15/11    . . by detecting misfire
+   15/12    . . by monitoring vibrations
+   15/14    . Testing gas-turbine engines or jet-propulsion
+   17/00    Testing of vehicles (testing fluid tightness
+G01M 3/00; testing elastic properties of bodies or
+chassis, e.g. torsion-testing, G01M 5/00; testing
+alignment of vehicle headlight devices G01M 11/06;
+   17/007   . Wheeled or endless-tracked vehicles (G01M 17/08
+   17/0072  . . {the wheels of the vehicle co-operating with
+rotatable rolls (G01M 17/022, G01M 17/045,
+   17/0074  . . . {Details, e.g. roller construction, vehicle
+   17/0076  . . . {Two-wheeled vehicles}
+   17/0078  . . {Shock-testing of vehicles}
+   17/021   . . . {Tyre supporting devices, e.g. chucks (for
+   17/022   . . . {the tyre co-operating with rotatable rolls}
+   17/024   . . . . {combined with tyre surface correcting or
+   17/025   . . . {using infrasonic, sonic or ultrasonic
+   17/027   . . . {using light, e.g. infra-red, ultra-violet or
+   17/028   . . . {using X-rays}
+   17/04    . . Suspension or damping
+   17/045   . . . {the vehicle wheels co-operating with rotatable
+   17/06    . . Steering behaviour; Rolling behaviour
+   17/065   . . . {the vehicle wheels co-operating with rotatable
+   17/10    . . Suspensions, axles or wheels
+   99/00    Subject matter not provided for in other groups of
+   99/001   . {Testing of furniture, e.g. seats or mattresses}
+   99/002   . {Thermal testing (flaw detection G01N 25/72)}
+   99/004   . {Testing the effects of speed or acceleration}
+   99/005   . {Testing of complete machines, e.g. washing-
+machines or mobile phones (testing of machine
+parts G01M 13/00; testing of electric apparatus or
+This group covers mechanical testing of
+   99/007   . {by applying a load, e.g. for resistance or wear
+testing (G01M 99/001 takes precedence; testing the
+elasticity of structures G01M 5/00)}
+   99/008   . {by doing functionality tests}

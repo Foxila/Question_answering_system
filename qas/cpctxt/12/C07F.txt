@@ -1,0 +1,719 @@
+COOPERATIVE PATENT CLASSIFICATION
+ACYCLIC, CARBOCYCLIC OR HETEROCYCLIC COMPOUNDS CONTAINING
+ELEMENTS OTHER THAN CARBON, HYDROGEN, HALOGEN, OXYGEN,
+NITROGEN, SULFUR, SELENIUM OR TELLURIUM (metal-containing porphyrins
+1. Attention is drawn to Note (3) C07, which defines the last place priority rule applied in the range of subclasses C07C-C07K
+2. Attention is drawn to Note (6) following the title of class C07.
+3. Attention is drawn to Note (3) after the title of section C, which Note indicates to which version of the periodic table of
+chemical elements the IPC refers.
+4. In this subclass , organic acid salts, alcoholates, phenates, chelates or mercaptides are classified as the parent compounds.
+5. Compounds containing Se or Te are classified with their sulfur homologues
+6. A hydrocarbon chain is considered to be terminated by a heteroatom or by a carbon atom having three bonds to heteroatoms
+with at the most one to halogen
+7. When groups, e.g. aromatic or aliphatic groups, are mentioned without further indications, it means that the group concerned
+can be further substituted. Otherwise it will be indicated, e.g. C07F 9/11 with hydroxyalkyl compounds without further
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Compounds containing elements of Groups 1 or 11
+    1/005   . {without C-Metal linkages}
+    1/02    . Lithium compounds
+    1/06    . Potassium compounds
+    3/00    Compounds containing elements of Groups 2 or 12
+    3/003   . {without C-Metal linkages}
+    3/006   . {Beryllium compounds}
+    3/02    . Magnesium compounds
+    3/04    . Calcium compounds
+    3/08    . Cadmium compounds
+    3/10    . Mercury compounds
+    3/103   . . {without C-Mercury linkages}
+    3/12    . . Aromatic substances containing mercury
+    3/14    . . Heterocyclic substances containing mercury
+    5/00    Compounds containing elements of Groups 3 or 13
+    5/003   . {without C-Metal linkages}
+    5/022   . . {without C-boron linkages}
+    5/025   . . {Boronic and borinic acid compounds}
+    5/027   . . {Organoboranes and organoborohydrides}
+    5/04    . . Esters of boric acids
+    5/05    . . Cyclic compounds having at least one ring
+containing boron but no carbon in the ring
+    5/06    . Aluminium compounds
+    5/061   . . {with C-aluminium linkage}
+    5/062   . . . {Al linked exclusively to C}
+    5/064   . . . {compounds with an Al-Halogen linkage}
+    5/065   . . . {compounds with an Al-H linkage}
+    5/066   . . . {compounds with Al linked to an element other
+than Al, C, H or halogen (this includes Al-
+    5/067   . . . . {compounds with Al also linked to H or
+    5/068   . . . . {preparation of alum(in)oxanes}
+    5/069   . . {without C-aluminium linkages}
+    7/00    Compounds containing elements of Groups 4 or 14
+    7/003   . {without C-Metal linkages}
+    7/02    . Silicon compounds
+    7/025   . . {without C-silicon linkages}
+    7/04    . . Esters of silicic acids
+    7/06    . . . with hydroxyaryl compounds
+    7/07    . . . Cyclic esters
+    7/08    . . Compounds having one or more C—Si linkages
+    7/0801  . . . {General processes}
+    7/0803  . . . {Compounds with Si-C or Si-Si linkages}
+    7/0805  . . . . {comprising only Si, C or H atoms}
+    7/0807  . . . . . {comprising Si as a ring atom}
+    7/081   . . . . {comprising at least one atom selected from
+the elements N, O, halogen, S, Se or Te}
+    7/0812  . . . . . {comprising a heterocyclic ring}
+    7/0814  . . . . . . {said ring is substituted at a C ring atom
+    7/0816  . . . . . . {said ring comprising Si as a ring atom}
+    7/0825  . . . . {Preparations of compounds not comprising
+    7/0827  . . . . . {Syntheses with formation of a Si-C bond}
+    7/0829  . . . . . . {Hydrosilylation reactions}
+    7/083   . . . . . {Syntheses without formation of a Si-C
+    7/0832  . . . . . {Other preparations}
+    7/0834  . . . {Compounds having one or more O-Si linkage
+(for compounds with C-O-Si linkages see
+    7/0836  . . . . {Compounds with one or more Si-OH or Si-
+    7/0838  . . . . {Compounds with one or more Si-O-
+Si sequences (compounds with a ring
+containing only alternating Si and O atoms,
+    7/087   . . . . . {Compounds of unknown structure
+    7/0872  . . . . . {Preparation and treatment thereof}
+    7/0874  . . . . . . {Reactions involving a bond of the Si-
+    7/0876  . . . . . . {Reactions involving the formation
+of bonds to a Si atom of a Si-O-Si
+sequence other than a bond of the Si-O-
+    7/0878  . . . . . . . {Si-C bond}
+    7/0879  . . . . . . . . {Hydrosilylation reactions}
+    7/0889  . . . . . . {Reactions not involving the Si atom of
+    7/089   . . . . . . {Treatments not covered by a preceding
+    7/0892  . . . . {Compounds with a Si-O-N linkage}
+    7/0894  . . . . {Compounds with a Si-O-O linkage}
+    7/0896  . . . {Compounds with a Si-H linkage}
+    7/0898  . . . {Compounds with a Si-S linkage}
+    7/10    . . . containing nitrogen {having a Si-N linkage}
+    7/12    . . . Organo silicon halides
+    7/121   . . . . {Preparation or treatment not provided for in
+C07F 7/14, C07F 7/16 or C07F 7/20}
+The silicon atom involved in the reaction
+that is attached or becomes attached
+to the highest number of halide atoms
+    7/122   . . . . . {by reactions involving the formation of
+Si-C linkages (hydrosilylation reactions
+C07F 7/14; direct synthesis C07F 7/16)}
+    7/123   . . . . . {by reactions involving the formation of
+    7/125   . . . . . {by reactions involving both Si-C and Si-
+halogen linkages, the Si-C and Si-halogen
+linkages can be to the same or to different
+Si atoms, e.g. redistribution reactions}
+    7/126   . . . . . {by reactions involving the formation of
+Si-Y linkages, where Y is not a carbon or
+    7/127   . . . . . {by reactions not affecting the linkages to
+    7/128   . . . . . {by reactions covered by more than one of
+the groups C07F 7/122 - C07F 7/127 and
+of which the starting material is unknown
+    7/14    . . . . Preparation thereof from {optionally
+substituted} halogenated silanes and
+hydrocarbons {hydrosilylation reactions}
+    7/16    . . . . Preparation thereof from silicon and
+halogenated hydrocarbons {direct synthesis}
+    7/18    . . . Compounds having one or more C—Si
+linkages as well as one or more C—O—Si
+    7/1804  . . . . {Compounds having Si-O-C linkages (Si-O-
+    7/1872  . . . . . {Preparation; Treatments not provided for
+    7/1876  . . . . . . {by reactions involving the formation of
+    7/188   . . . . . . {by reactions involving the formation of
+    7/1884  . . . . . . {by dismutation}
+    7/1888  . . . . . . {by reactions involving the formation of
+    7/1892  . . . . . . {by reactions not provided for in
+    7/1896  . . . . {Compounds having one or more Si-O-acyl
+    7/20    . . . Purification, separation
+    7/21    . . Cyclic compounds having at least one ring
+containing silicon, but no carbon in the ring
+    7/2204  . . {Not belonging to the groups
+    7/2208  . . {Compounds having tin linked only to carbon,
+    7/2224  . . {Compounds having one or more tin-oxygen
+    7/226   . . {Compounds with one or more Sn-S linkages}
+    7/2284  . . {Compounds with one or more Sn-N linkages}
+    7/2288  . . {Compounds with one or more Sn-metal
+    7/2296  . . {Purification, stabilisation, isolation}
+    7/26    . . Tetra-alkyl lead compounds
+    7/28    . Titanium compounds
+    7/30    . Germanium compounds
+    9/00    Compounds containing elements of Groups 5 or 15
+    9/005   . {Compounds of elements of Group 5 of the Periodic
+System without metal-carbon linkages}
+    9/02    . Phosphorus compounds (sugar phosphates
+C07H 11/04; nucleotides C07H 19/00, C07H 21/00;
+    9/025   . . {Purification; Separation; Stabilisation;
+Desodorisation of organo-phosphorus compounds
+(of natural phosphatides C07F 9/103; phosphines
+    9/04    . . Reaction products of phosphorus sulfur
+    9/06    . . without P—C bonds
+    9/062   . . . {Organo-phosphoranes without P-C bonds}
+    9/065   . . . . {Phosphoranes containing the structure
+    9/067   . . . . . {Polyphosphazenes containing the
+structure [P=N-n] (cyclic compounds
+    9/08    . . . Esters of oxyacids of phosphorus {(C07F 9/062
+    9/09    . . . . Esters of phosphoric acids
+    9/091   . . . . . {with hydroxyalkyl compounds with
+    9/092   . . . . . . {substituted by B, Si or a metal}
+    9/093   . . . . . {Polyol derivatives esterified at least twice
+    9/094   . . . . . {with arylalkanols}
+    9/095   . . . . . {Compounds containing the structure
+P(=O)-O-acyl, P(=O)-O-heteroatom,
+    9/096   . . . . . . {Compounds containing the structure
+    9/097   . . . . . . {Compounds containing the structure
+    9/098   . . . . . {Esters of polyphosphoric acids or
+    9/10    . . . . . Phosphatides, e.g. lecithin
+    9/103   . . . . . . {Extraction or purification by
+physical or chemical treatment of
+natural phosphatides; Preparation of
+compositions containing phosphatides of
+    9/106   . . . . . . {Adducts, complexes, salts of
+    9/11    . . . . . with hydroxyalkyl compounds without
+    9/113   . . . . . with unsaturated acyclic alcohols
+    9/117   . . . . . with cycloaliphatic alcohols
+    9/12    . . . . . with hydroxyaryl compounds
+    9/14    . . . . . containing P(=O)-halide groups
+    9/1403  . . . . . . {containing the structure Hal-P(=O)-O-
+    9/1406  . . . . . . {containing the structure Hal-P(=O)-O-
+    9/141   . . . . Esters of phosphorous acids
+    9/1411  . . . . . {with hydroxyalkyl compounds with
+    9/1412  . . . . . {Polyol derivatives esterified at least twice
+    9/1414  . . . . . {with arylalkanols}
+    9/1415  . . . . . {Compounds containing the structure P-O-
+    9/1417  . . . . . . {Compounds containing the structure P-
+    9/1418  . . . . . . {Compounds containing the structure P-
+    9/142   . . . . . with hydroxyalkyl compounds without
+    9/143   . . . . . with unsaturated acyclic alcohols
+    9/144   . . . . . with cycloaliphatic alcohols
+    9/145   . . . . . with hydroxyaryl compounds
+    9/146   . . . . . containing P-halide groups
+    9/16    . . . Esters of thiophosphoric acids or
+    9/165   . . . . Esters of thiophosphoric acids
+    9/1651  . . . . . {with hydroxyalkyl compounds with
+    9/1652  . . . . . {Polyol derivatives esterified at least twice
+    9/1653  . . . . . {with arylalkanols}
+    9/1654  . . . . . {Compounds containing the structure
+P(=X)n-X-acyl, P(=X)n-X-heteroatom,
+P(=X)n-X-CN (X = O, S, Se; n = 0, 1)}
+    9/1655  . . . . . . {Compounds containing the structure
+P(=X)n-S-(S)x- (X = O, S, Se; n=0,1;
+    9/1656  . . . . . . {Compounds containing the structure
+P(=X)n-X-C(=X)- (X = O, S, Se; n = 0,
+    9/1657  . . . . . . {Compounds containing the structure
+P(=X)n-X-N (X = O, S, Se; n = 0, 1)}
+    9/1658  . . . . . {Esters of thiopolyphosphoric acids or
+    9/17    . . . . . with hydroxyalkyl compounds without
+    9/173   . . . . . with unsaturated acyclic alcohols
+    9/177   . . . . . with cycloaliphatic alcohols
+    9/18    . . . . . with hydroxyaryl compounds
+    9/20    . . . . . containing P-halide groups
+    9/2003  . . . . . . {containing the structure Hal-P-X-
+    9/2006  . . . . . . {containing the structure Hal-P-X-aryl}
+    9/201   . . . . Esters of thiophosphorus acids
+    9/2015  . . . . . {with hydroxyalkyl compounds with
+    9/202   . . . . . with hydroxyl compounds without further
+    9/203   . . . . . with unsaturated acyclic alcohols
+    9/204   . . . . . with cycloaliphatic alcohols
+    9/205   . . . . . with hydroxyaryl compounds
+    9/206   . . . . . containing P-halide groups
+    9/22    . . . Amides of acids of phosphorus
+    9/222   . . . . {Amides of phosphoric acids}
+    9/224   . . . . {Phosphorus triamides}
+    9/226   . . . . {containing the structure P-isocyanates}
+    9/228   . . . . {containing the structure P-N-N, e.g. azides,
+    9/24    . . . . Esteramides
+    9/2404  . . . . . {the ester moiety containing a substituent
+or a structure which is considered as
+    9/2408  . . . . . . {of hydroxyalkyl compounds}
+    9/2412  . . . . . . {of unsaturated acyclic alcohols}
+    9/2416  . . . . . . {of cycloaliphatic alcohols}
+    9/242   . . . . . . {of hydroxyaryl compounds}
+    9/2425  . . . . . . {containing the structure (RX)
+(RR'N)P(=Y)-Z-(C)n-Z'-P(=Y)(XR)2 (X
+= O, S, NR; Y = O, S, electron pair; Z =
+    9/2429  . . . . . . {of arylalkanols}
+    9/2433  . . . . . . {Compounds containing the structure
+heteroatom, N-P(=X)n-X-CN (X = O, S,
+    9/2437  . . . . . . . {Compounds containing the structure
+    9/2441  . . . . . . . {containing the structure N-P(=X)n-
+X-C(=X) (X = O, S, Se; n = 0, 1)}
+    9/2445  . . . . . . . {containing the structure N-P(=X)n-
+    9/245   . . . . . . . {containing the structure N-P(=X)n-
+    9/2454  . . . . . {the amide moiety containing a substituent
+or a structure which is considered as
+    9/2458  . . . . . . {of aliphatic amines}
+    9/2462  . . . . . . {of unsaturated acyclic amines}
+    9/2466  . . . . . . {of cycloaliphatic amines}
+    9/247   . . . . . . {of aromatic amines (N-C aromatic
+    9/2475  . . . . . . {of aralkylamines}
+    9/2479  . . . . . . {Compounds containing the structure
+P(=X)n-N-acyl, P(=X)n-N-heteroatom,
+P(=X)n-N-CN (X = O, S, Se; n = 0, 1)}
+    9/2483  . . . . . . . {containing the structure P(=X)n-N-S
+    9/2487  . . . . . . . {containing the structure P(=X)n-N-
+C(=X) (X = O, S, Se; n = 0, 1)}
+    9/2491  . . . . . . . {containing the structure P(=X)n-N-N
+    9/2495  . . . . . . . {containing the structure P(=X)n-N-P
+    9/26    . . . . containing P-halide groups
+    9/28    . . with one or more P—C bonds
+    9/30    . . . Phosphinic acids R2P(=O)(OH);
+Thiophosphinic acids {, i.e. R2P(=X)(XH) (X =
+    9/301   . . . . {Acyclic saturated acids which can have
+    9/302   . . . . {Acyclic unsaturated acids}
+    9/303   . . . . {Cycloaliphatic acids}
+    9/304   . . . . {Aromatic acids (P-C aromatic linkage)}
+    9/305   . . . . {Poly(thio)phosphinic acids}
+    9/306   . . . . {Arylalkanephosphinic acids, e.g. Ar-
+(CH2)n-P(=X)(R)(XH), (X = O,S, Se;
+    9/307   . . . . {Acids containing the structure -C(=X)-
+P(=X)(R)(XH) or NC-P(=X)(R)(XH), (X =
+    9/308   . . . . {Pyrophosphinic acids; Phosphinic acid
+    9/32    . . . . Esters thereof
+    9/3205  . . . . . {the acid moiety containing a substituent
+or a structure which is considered as
+    9/3211  . . . . . . {Esters of acyclic saturated acids which
+can have further substituents on alkyl}
+    9/3217  . . . . . . {Esters of acyclic unsaturated acids}
+    9/3223  . . . . . . {Esters of cycloaliphatic acids}
+    9/3229  . . . . . . {Esters of aromatic acids (P-C aromatic
+    9/3235  . . . . . . {Esters of poly(thio)phosphinic acids}
+    9/3241  . . . . . . {Esters of arylalkanephosphinic acids}
+    9/3247  . . . . . . {Esters of acids containing the structure
+-C(=X)-P(=X)(R)(XH) or NC-P(=X)(R)
+    9/3252  . . . . . . . {containing the structure -C(=X)-
+    9/3258  . . . . . {the ester moiety containing a substituent
+or a structure which is considered as
+    9/3264  . . . . . . {Esters with hydroxyalkyl compounds}
+    9/327   . . . . . . {Esters with unsaturated acyclic
+    9/3276  . . . . . . {Esters with cycloaliphatic alcohols}
+    9/3282  . . . . . . {Esters with hydroxyaryl compounds}
+    9/3288  . . . . . . {Esters with arylalkanols}
+    9/3294  . . . . . . {Compounds containing the structure
+heteroatom, R2P(=X)-X-CN (X = O, S,
+    9/34    . . . . Halides thereof
+    9/36    . . . . Amides thereof
+    9/38    . . . Phosphonic acids RP(=O)(OH)2;
+Thiophosphonic acids {, i.e. RP(=X)(XH)2 (X
+    9/3804  . . . . {not used, see subgroups}
+    9/3808  . . . . . {Acyclic saturated acids which can have
+    9/3813  . . . . . . {N-Phosphonomethylglycine; Salts or
+    9/3817  . . . . . . {Acids containing the structure
+(RX)2P(=X)-alk-N...P (X = O, S, Se)}
+    9/3821  . . . . . . {substituted by B, Si, P or a metal
+(C07F 9/3839 takes precedence)}
+    9/3826  . . . . . {Acyclic unsaturated acids}
+    9/383   . . . . . {Cycloaliphatic acids}
+    9/3834  . . . . . {Aromatic acids (P-C aromatic linkage)}
+    9/3839  . . . . . {Polyphosphonic acids}
+    9/3843  . . . . . . {containing no further substituents than
+    9/3847  . . . . . . . {Acyclic unsaturated derivatives}
+    9/3852  . . . . . . . {Cycloaliphatic derivatives}
+    9/3856  . . . . . . {containing halogen or nitro(so)
+    9/386   . . . . . . {containing hydroxy substituents in the
+    9/3865  . . . . . . {containing sulfur substituents}
+    9/3869  . . . . . . {containing carboxylic acid or
+carboxylic acid derivative substituents}
+    9/3873  . . . . . . {containing nitrogen substituent,
+e.g. N.....H or N-hydrocarbon group
+which can be substituted by halogen or
+nitro(so), N.....O, N.....S, N.....C(=X)-
+(X =O, S), N.....N, N...C(=X)...N (X =O,
+    9/3878  . . . . . . {containing substituents selected from
+B, Si, P (other than -PO3H2 groups) or a
+    9/3882  . . . . . {Arylalkanephosphonic acids
+(C07F 9/3839 takes precedence)}
+    9/3886  . . . . . {Acids containing the structure -C(=X)-
+P(=X)(XH)2 or NC-P(=X)(XH)2, (X = O,
+    9/3891  . . . . . . {Acids containing the structure -C(=X)-
+    9/3895  . . . . {Pyrophosphonic acids; phosphonic acid
+    9/40    . . . . Esters thereof
+    9/4003  . . . . . {the acid moiety containing a substituent
+or a structure which is considered as
+    9/4006  . . . . . . {Esters of acyclic acids which can have
+    9/4009  . . . . . . . {Esters containing the structure
+(RX)2P(=X)-alk-N...P (X = O, S,
+    9/4012  . . . . . . . {substituted by B, Si, P or a metal
+(C07F 9/4025 takes precedence)}
+    9/4015  . . . . . . {Esters of acyclic unsaturated acids}
+    9/4018  . . . . . . {Esters of cycloaliphatic acids}
+    9/4021  . . . . . . {Esters of aromatic acids (P-C aromatic
+    9/4025  . . . . . . {Esters of poly(thio)phosphonic acids}
+    9/4028  . . . . . . . {containing no further substituents
+    9/4031  . . . . . . . . {Acyclic unsaturated derivatives}
+    9/4034  . . . . . . . . {Cycloaliphatic derivatives}
+    9/4037  . . . . . . . {containing halogen or nitro(so)
+    9/404   . . . . . . . {containing hydroxy substituents in
+    9/4043  . . . . . . . {containing sulfur substituents}
+    9/4046  . . . . . . . {containing carboxylic acid
+    9/405   . . . . . . . {containing nitrogen substituent, e.g.
+N.....H or N-hydrocarbon group which
+can be substituted by halogen or
+nitro(so), N.....O, N.....S, N.....C(=X)-
+(X =O, S), N.....N, N...C(=X)...N (X
+    9/4053  . . . . . . . {containing substituents selected from
+B, Si, P (other than -PO3H2 groups in
+free or esterified form), or a metal}
+    9/4056  . . . . . . {Esters of arylalkanephosphonic acids
+(C07F 9/4025 takes precedence)}
+    9/4059  . . . . . . . {Compounds containing the structure
+(RY)2P(=X)-(CH2)n-C(=O)-(CH2)m-
+Ar, (X, Y = O, S, Se; n>=1, m>=0)}
+    9/4062  . . . . . . {Esters of acids containing the structure
+    9/4065  . . . . . . . {Esters of acids containing the
+structure -C(=X)-P(=X)(XR)2, (X =
+    9/4068  . . . . . {Esters of pyrophosphonic acids; Esters of
+    9/4071  . . . . . {the ester moiety containing a substituent
+or a structure which is considered as
+    9/4075  . . . . . . {Esters with hydroxyalkyl compounds}
+    9/4078  . . . . . . {Esters with unsaturated acyclic
+    9/4081  . . . . . . {Esters with cycloaliphatic alcohols}
+    9/4084  . . . . . . {Esters with hydroxyaryl compounds}
+    9/4087  . . . . . . {Esters with arylalkanols}
+    9/409   . . . . . . {Compounds containing the structure
+P(=X)-X-acyl, P(=X) -X-heteroatom,
+    9/4093  . . . . . . . {Compounds containing the structure
+    9/4096  . . . . . . . {Compounds containing the structure
+    9/42    . . . . Halides thereof
+    9/425   . . . . . {Acid or estermonohalides thereof, e.g.
+RP(=X)(YR)(Hal) (X, Y = O, S; R = H, or
+    9/44    . . . . Amides thereof
+    9/4403  . . . . . {the acid moiety containing a substituent
+or a structure which is considered as
+    9/4407  . . . . . . {Amides of acyclic saturated acids
+which can have further substituents on
+    9/4411  . . . . . . {Amides of acyclic unsaturated acids}
+    9/4415  . . . . . . {Amides of cycloaliphatic acids}
+    9/4419  . . . . . . {Amides of aromatic acids (P-C
+    9/4423  . . . . . . {Amides of poly (thio)phosphonic
+    9/4426  . . . . . . {Amides of arylalkanephosphonic
+    9/443   . . . . . . {Amides of acids containing the
+structure -C(=Y)-P(=X)(XR)-N or NC-
+    9/4434  . . . . . {the ester moiety containing a substituent
+or a structure which is considered as
+    9/4438  . . . . . . {Ester with hydroxyalkyl compounds}
+    9/4442  . . . . . . {Esters with unsaturated acyclic
+    9/4446  . . . . . . {Esters with cycloaliphatic alcohols}
+    9/4449  . . . . . . {Esters with hydroxyaryl compounds}
+    9/4453  . . . . . . {Esters with arylalkanols}
+    9/4457  . . . . . . {Compounds containing the structure
+heteroatom)-N or C-P(=X)(X-CN)-N
+    9/4461  . . . . . {the amide moiety containing a substituent
+or a structure which is considered as
+    9/4465  . . . . . . {of aliphatic amines}
+    9/4469  . . . . . . {of unsaturated acyclic amines}
+    9/4473  . . . . . . {of cycloaliphatic amines}
+    9/4476  . . . . . . {of aromatic amines (N-C aromatic
+    9/448   . . . . . . {of aralkylamines}
+    9/4484  . . . . . . {Compounds containing the structure
+heteroatom)-X or C-P(=X)(N-CN)-X (X
+    9/4488  . . . . . . . {Compounds containing the structure
+    9/4492  . . . . . . . {Compounds containing the structure
+P(=X)(N-C(=X)-) (X = O, S, Se)}
+    9/4496  . . . . . . . {Compounds containing the structure
+    9/46    . . . Phosphinous acids R2=P—OH;
+Thiophosphinous acids; Aminophosphines
+R2-P-NH2 {including R2P(=O)H; derivatives
+    9/48    . . . Phosphonous acids R—P(OH)2;
+Thiophosphonous acids {including RHP(=O)
+    9/4808  . . . . {the acid moiety containing a substituent
+or structure which is considered as
+    9/4816  . . . . . {Acyclic saturated acids or derivatices
+which can have further substituents on
+    9/4825  . . . . . {Acyclic unsaturated acids or derivatives}
+    9/4833  . . . . . {Cycloaliphatic acids or derivatives}
+    9/4841  . . . . . {Aromatic acids or derivatives (P-C
+    9/485   . . . . . {Polyphosphonous acids or derivatives}
+    9/4858  . . . . . {Acids or derivatives containing the
+structure -C(=X)-P(XR)2 or NC-P(XR)2
+    9/4866  . . . . {the ester moiety containing a substituent
+or structure which is considered as
+    9/4875  . . . . . {Esters with hydroxy aryl compounds}
+    9/4883  . . . . {Amides or esteramides thereof, e.g.
+RP(NR'2)2 or RP(XR')(NR''2) (X = O, S)}
+    9/4891  . . . . {Monohalide derivatives RP (XR') (Hal) (X
+= O, S, N) (dihalide derivatives C07F 9/52)}
+    9/50    . . . Organo-phosphines
+    9/5004  . . . . {Acyclic saturated phosphines}
+    9/5009  . . . . . {substituted by B, Si, P or a metal
+(C07F 9/5027 takes precedence)}
+    9/5013  . . . . {Acyclic unsaturated phosphines}
+    9/5018  . . . . {Cycloaliphatic phosphines}
+    9/5022  . . . . {Aromatic phosphines (P-C aromatic
+    9/5027  . . . . {Polyphosphines}
+    9/5031  . . . . {Arylalkane phosphines (C07F 9/5027 takes
+    9/5036  . . . . {Phosphines containing the structure -C(=X)-
+    9/504   . . . . {Organo-phosphines containing a P-P bond}
+    9/5045  . . . . {Complexes or chelates of phosphines with
+    9/505   . . . . {Preparation; Separation; Purification;
+    9/5054  . . . . . {by a process in which the phosphorus
+    9/5059  . . . . . {by addition of phosphorus compounds to
+    9/5063  . . . . . {from compounds having the structure
+P-H or P-Heteroatom, in which one or
+more of such bonds are converted into P-C
+bonds (C07F 9/5059 takes precedence)}
+    9/5068  . . . . . . {from starting materials having the
+    9/5072  . . . . . . {from starting materials having the
+structure P-H (C07F 9/5059 takes
+    9/5077  . . . . . . {from starting materials having the
+structure P-Metal, including R2P-M+}
+    9/5081  . . . . . . {from starting materials having
+the structure >P-Het, Het being an
+heteroatom different from Hal or Metal}
+    9/5086  . . . . . {from phosphonium salts as starting
+    9/509   . . . . . {by reduction of pentavalent phosphorus
+derivatives, e.g. -P=X with X = O, S, Se or
+    9/5095  . . . . . {Separation; Purification; Stabilisation}
+    9/52    . . . . Halophosphines
+    9/53    . . . . Organo-phosphine oxides; Organo-
+    9/5304  . . . . . {Acyclic saturated phosphine oxides or
+    9/5308  . . . . . . {substituted by B, Si, P or a metal}
+    9/5312  . . . . . . . {substituted by a phosphorus atom
+(C07F 9/5329 takes precedence)}
+    9/5316  . . . . . {Unsaturated acyclic phosphine oxides or
+    9/532   . . . . . {Cycloaliphatic phosphine oxides or
+    9/5325  . . . . . {Aromatic phosphine oxides or thioxides
+    9/5329  . . . . . {Polyphosphine oxides or thioxides}
+    9/5333  . . . . . {Arylalkane phosphine oxides or thioxides
+(C07F 9/5329 takes precedence)}
+    9/5337  . . . . . {Phosphine oxides or thioxides containing
+the structure -C(=X)-P(=X) or NC-P(=X)
+    9/5341  . . . . . {Organo-phosphine oxides or thioxides
+    9/5345  . . . . . {Complexes or chelates of phosphine-
+oxides or thioxides with metallic
+    9/535   . . . Organo-phosphoranes
+    9/5352  . . . . {Phosphoranes containing the structure
+    9/5355  . . . . {Phosphoranes containing the structure
+    9/5357  . . . . . {Polyphosphazenes containing the
+structure [P=N-]n (cyclic phosphazenes
+    9/54    . . . Quaternary phosphonium compounds
+    9/5407  . . . . {Acyclic saturated phosphonium
+    9/5414  . . . . . {substituted by B, Si, P or a metal}
+    9/5421  . . . . . . {substituted by a phosphorus atom
+(C07F 9/5449 takes precedence)}
+    9/5428  . . . . {Acyclic unsaturated phosphonium
+    9/5435  . . . . {Cycloaliphatic phosphonium compounds}
+    9/5442  . . . . {Aromatic phosphonium compounds (P-C
+    9/5449  . . . . {Polyphosphonium compounds}
+    9/5456  . . . . {Arylalkanephosphonium compounds}
+    9/5463  . . . . {Compounds of the type "quasi-
+phosphonium", e.g. (C)a-P-(Y)b wherein a
++b=4, b>=1 and Y=heteroatom, generally N
+    9/547   . . Heterocyclic compounds, e.g. containing
+phosphorus as a ring hetero atom
+    9/5475  . . . {having nitrogen and selenium with or without
+oxygen or sulfur as ring hetero atoms; having
+nitrogen and tellurium with or without oxygen
+or sulfur as ring hetero atoms}
+    9/553   . . . having one nitrogen atom as the only ring
+    9/5532  . . . . {Seven-(or more) membered rings}
+    9/5535  . . . . . {condensed with carbocyclic rings or ring
+    9/5537  . . . . {the heteroring containing the structure -
+C(=O)-N-C(=O)- (both carbon atoms belong
+    9/564   . . . . Three-membered rings
+    9/568   . . . . Four-membered rings
+    9/5686  . . . . . {condensed with carbocyclic rings or ring
+    9/572   . . . . Five-membered rings
+    9/5728  . . . . . {condensed with carbocyclic rings or
+    9/576   . . . . Six-membered rings
+    9/5765  . . . . . {condensed with carbocyclic rings or
+    9/58    . . . . . Pyridine rings
+    9/59    . . . . . Hydrogenated pyridine rings
+    9/60    . . . . . Quinoline or hydrogenated quinoline ring
+    9/62    . . . . . Isoquinoline or hydrogenated isoquinoline
+    9/64    . . . . . Acridine or hydrogenated acridine ring
+    9/645   . . . having two nitrogen atoms as the only ring
+    9/6503  . . . . Five-membered rings
+    9/65031 . . . . . {having the nitrogen atoms in the positions
+    9/65038 . . . . . . {condensed with carbocyclic rings or
+    9/6506  . . . . . having the nitrogen atoms in positions 1
+    9/65068 . . . . . . {condensed with carbocyclic rings or
+    9/6509  . . . . Six-membered rings
+    9/650905 . . . . . {having the nitrogen atoms in the positions
+    9/650947 . . . . . . {condensed with carbocyclic rings or
+    9/650952 . . . . . {having the nitrogen atoms in the positions
+    9/650994 . . . . . . {condensed with carbocyclic rings or
+    9/6512  . . . . . having the nitrogen atoms in positions 1
+    9/65128 . . . . . . {condensed with carbocyclic rings or
+    9/6515  . . . having three nitrogen atoms as the only ring
+    9/6518  . . . . Five-membered rings
+    9/65188 . . . . . {condensed with carbocyclic rings or
+    9/6521  . . . . Six-membered rings
+    9/65218 . . . . . {condensed with carbocyclic rings or
+    9/6524  . . . having four or more nitrogen atoms as the only
+    9/6527  . . . having nitrogen and oxygen atoms as the only
+    9/653   . . . . Five-membered rings
+    9/65306 . . . . . {containing two nitrogen atoms}
+    9/65312 . . . . . . {having the two nitrogen atoms in
+    9/65318 . . . . . . {having the two nitrogen atoms in
+    9/65324 . . . . . {condensed with carbocyclic rings or
+    9/6533  . . . . Six-membered rings
+    9/65335 . . . . . {condensed with carbocyclic rings or
+    9/6536  . . . having nitrogen and sulfur atoms with or
+without oxygen atoms, as the only ring hetero
+    9/6539  . . . . Five-membered rings
+    9/65392 . . . . . {containing two nitrogen atoms}
+    9/65395 . . . . . . {having the two nitrogen atoms in
+    9/65397 . . . . . . {having the two nitrogen atoms in
+    9/6541  . . . . . condensed with carbocyclic rings or
+    9/6544  . . . . Six-membered rings
+    9/6547  . . . . . condensed with carbocyclic rings or
+    9/655   . . . having oxygen atoms, with or without sulfur,
+selenium, or tellurium atoms, as the only ring
+    9/65502 . . . . {the oxygen atom being part of a three-
+    9/65505 . . . . . {Phosphonic acids containing oxirane
+    9/65507 . . . . . {condensed with carbocyclic rings or
+    9/6551  . . . . {the oxygen atom being part of a four-
+    9/65512 . . . . . {condensed with carbocyclic rings or
+    9/65515 . . . . {the oxygen atom being part of a five-
+    9/65517 . . . . . {condensed with carbocyclic rings or
+    9/6552  . . . . {the oxygen atom being part of a six-
+    9/65522 . . . . . {condensed with carbocyclic rings or
+    9/65525 . . . . {the oxygen atom being part of a seven-(or
+    9/65527 . . . . . {condensed with carbocyclic rings or
+    9/6553  . . . having sulfur atoms, with or without selenium
+or tellurium atoms, as the only ring hetero
+    9/655309 . . . . {the sulfur atom being part of a three-
+    9/655318 . . . . . {condensed with carbocyclic rings or
+    9/655327 . . . . {the sulfur atom being part of a four-
+    9/655336 . . . . . {condensed with carbocyclic rings or
+    9/655345 . . . . {the sulfur atom being part of a five-
+    9/655354 . . . . . {condensed with carbocyclic rings or
+    9/655363 . . . . {the sulfur atom being part of a six-
+    9/655372 . . . . . {condensed with carbocyclic rings or
+    9/655381 . . . . {the sulfur atom being part of a seven-(or
+    9/65539 . . . . . {condensed with carbocyclic rings or
+    9/6558  . . . containing at least two different or differently
+substituted hetero rings neither condensed
+among themselves nor condensed with a
+common carbocyclic ring or ring system
+    9/65583 . . . . {each of the hetero rings containing nitrogen
+    9/65586 . . . . {at least one of the hetero rings does not
+contain nitrogen as ring hetero atom}
+    9/6561  . . . containing systems of two or more relevant
+hetero rings condensed among themselves or
+condensed with a common carbocyclic ring
+or ring system, with or without other non-
+    9/65611 . . . . {containing the ring system 
+(X = CH2, O, S, NH) optionally with an
+additional double bond and/or substituents,
+    9/65613 . . . . {containing the ring system 
+(X = CH2, O, S, NH) optionally with an
+additional double bond and/or substituents,
+e.g. cephalosporins and analogs}
+    9/65615 . . . . {containing a spiro condensed ring system of
+atoms X or Y is a hetero atom, e.g. S}
+    9/65616 . . . . {containing the ring system 
+having three or more than three double bonds
+between ring members or between ring
+members and non-ring members, e.g. purine
+    9/65618 . . . . {containing the ring system,
+    9/6564  . . . having phosphorus atoms, with or without
+nitrogen, oxygen, sulfur, selenium or tellurium
+    9/6568  . . . . having phosphorus atoms as the only ring
+    9/65681 . . . . . {the ring phosphorus atom being part of a
+(thio)phosphinic acid or ester thereof}
+    9/65683 . . . . . {the ring phosphorus atom being part of a
+    9/65685 . . . . . {the ring phosphorus atom being part of a
+    9/65686 . . . . . {the ring phosphorus atom being part of an
+    9/65688 . . . . . {the ring phosphorus atom being part of a
+    9/6571  . . . . having phosphorus and oxygen atoms as the
+    9/657109 . . . . . {esters of oxyacids of phosphorus in which
+one or more exocyclic oxygen atoms have
+been replaced by (a) sulfur atom(s)}
+    9/657118 . . . . . . {non-condensed with carbocyclic rings
+or heterocyclic rings or ring systems}
+    9/657127 . . . . . . {condensed with carbocyclic or
+heterocyclic rings or ring systems}
+    9/657136 . . . . . . {the molecule containing more than one
+    9/657145 . . . . . . {the cyclic phosphorus atom belonging
+    9/657154 . . . . . {Cyclic esteramides of oxyacids of
+    9/657163 . . . . . {the ring phosphorus atom being bound to
+    9/657172 . . . . . . {the ring phosphorus atom and
+one oxygen atom being part of a
+    9/657181 . . . . . . {the ring phosphorus atom and, at least,
+one ring oxygen atom being part of a
+(thio)phosphonic acid derivative}
+    9/65719 . . . . . . {the ring phosphorus atom and, at least,
+one ring oxygen atom being part of a
+(thio)phosphonous acid derivative}
+    9/6574  . . . . . Esters of oxyacids of phosphorus
+{(C07F 9/657163 takes precedence)}
+    9/65742 . . . . . . {non-condensed with carbocyclic rings
+or heterocyclic rings or ring systems}
+    9/65744 . . . . . . {condensed with carbocyclic or
+heterocyclic rings or ring systems}
+    9/65746 . . . . . . {the molecule containing more than one
+    9/65748 . . . . . . {the cyclic phosphorus atom belonging
+    9/6578  . . . . having phosphorus and sulfur atoms with or
+without oxygen atoms, as ring hetero atoms
+    9/65785 . . . . . {the ring phosphorus atom and, at least,
+one ring sulfur atom being part of a
+thiophosphonic acid derivative}
+    9/6581  . . . . having phosphorus and nitrogen atoms with
+or without oxygen or sulfur atoms, as ring
+    9/65811 . . . . . {having four or more phosphorus atoms as
+    9/65812 . . . . . {Cyclic phosphazenes [P=N-]n, n>=3}
+    9/65814 . . . . . . {n = 3 or 4}
+    9/65815 . . . . . . {n = 3}
+    9/65817 . . . . . . {n = 4}
+    9/65818 . . . . . . {n > 4}
+    9/6584  . . . . . having one phosphorus atom as ring hetero
+    9/65842 . . . . . . {Cyclic amide derivatives of acids of
+phosphorus, in which one nitrogen atom
+    9/65844 . . . . . . . {the phosphorus atom being part of
+a five-membered ring which may be
+condensed with another ring system}
+    9/65846 . . . . . . . {the phosphorus atom being part of
+a six-membered ring which may be
+condensed with another ring system}
+    9/65848 . . . . . . {Cyclic amide derivatives of acids of
+phosphorus, in which two nitrogen
+    9/6587  . . . . . having two phosphorus atoms as ring
+    9/659   . . . . . having three phosphorus atoms as
+ring hetero atoms in the same ring
+{(C07F 9/65812 takes precedence)}
+    9/6596  . . . having atoms other than oxygen, sulfur,
+selenium, tellurium, nitrogen or phosphorus as
+    9/66    . Arsenic compounds
+    9/68    . . without As—C bonds
+    9/70    . . Organo-arsenic compounds
+    9/72    . . . Aliphatic compounds
+    9/74    . . . Aromatic compounds
+    9/76    . . . . containing hydroxyl groups
+    9/78    . . . . containing amino groups
+    9/80    . . . Heterocyclic compounds
+    9/82    . . . . Arsenic compounds containing one or more
+    9/84    . . . . Arsenic compounds containing one or more
+    9/86    . . . . Arsenic compounds containing one or more
+    9/88    . . . . Arsenic compounds containing one or more
+    9/90    . Antimony compounds
+    9/902   . . {Compounds without antimony-carbon linkages}
+    9/92    . . Aromatic compounds
+    9/94    . Bismuth compounds
+   11/00    Compounds containing elements of Groups 6 or 16
+   11/005   . {compounds without a metal-carbon linkage}
+   13/00    Compounds containing elements of Groups 7 or 17
+   13/005   . {Compounds without a metal-carbon linkage}
+   15/00    Compounds containing elements of Groups 8, 9, 10
+   15/0006  . {compounds of the platinum group}
+   15/0013  . . {without a metal-carbon linkage}
+   15/002   . . {Osmium compounds}
+   15/0026  . . . {without a metal-carbon linkage}
+   15/0033  . . {Iridium compounds}
+   15/004   . . . {without a metal-carbon linkage}
+   15/0046  . . {Ruthenium compounds}
+   15/0053  . . . {without a metal-carbon linkage}
+   15/006   . . {Palladium compounds}
+   15/0066  . . . {without a metal-carbon linkage}
+   15/0073  . . {Rhodium compounds}
+   15/008   . . . {without a metal-carbon linkage}
+   15/0086  . . {Platinum compounds}
+   15/0093  . . . {without a metal-carbon linkage}
+   15/025   . . {without a metal-carbon linkage}
+   15/03    . . Sideramines; The corresponding desferri
+   15/045   . . {without a metal-carbon linkage}
+   15/065   . . {without a metal-carbon linkage}
+   17/02    . of metals of Groups 8, 9 or 10 of the Periodic
+   19/00    Metal compounds according to more than one of
+main groups C07F 1/00 - C07F 17/00
+   19/005   . {without metal-C linkages}

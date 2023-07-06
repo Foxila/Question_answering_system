@@ -1,0 +1,616 @@
+COOPERATIVE PATENT CLASSIFICATION
+ELECTRIC COMMUNICATION TECHNIQUE
+LOUDSPEAKERS, MICROPHONES, GRAMOPHONE PICK-UPS OR LIKE
+ACOUSTIC ELECTROMECHANICAL TRANSDUCERS; DEAF-AID SETS; PUBLIC
+ADDRESS SYSTEMS (generating mechanical vibrations in general B06B; transducers for
+measuring particular variables G01; transducers in clocks G04; producing sounds with frequency
+not determined by supply frequency G10K; transducers in recording or reproducing heads G11B;
+• loudspeakers, microphones, {acoustic} transducers {therefor} producing acoustic waves or variations of electric current or
+voltage, or gramophone pick-ups;
+• arrangements actuated by variations of electric current or voltage for cutting grooves in records;
+• circuits for the above-mentioned {loudspeakers, microphones, acoustic transducers, gramophone pick-ups or}
+• monitoring or testing {of the above-mentioned loudspeakers, microphones, acoustic transducers, gramophone pick-ups or
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Details of transducers, {loudspeakers or
+    1/005   . {using digitally weighted transducing elements}
+    1/02    . Casings; Cabinets {; Supports therefor;} Mountings
+therein (H04R 1/28 takes precedence {; attachments
+for microphones H04R 1/08; mounting of
+transducers in earpieces H04R 1/1075})
+    1/021   . . {incorporating only one transducer}
+    1/023   . . {Screens for loudspeakers}
+    1/025   . . {Arrangements for fixing loudspeaker
+transducers, e.g. in a box, furniture}
+    1/026   . . {Supports for loudspeaker casings}
+    1/028   . . {associated with devices performing functions
+other than acoustics, e.g. electric candles}
+    1/04    . . Structural association of microphone with electric
+circuitry therefor (in deaf-aid sets H04R 25/00)
+    1/06    . Arranging circuit leads; Relieving strain on circuit
+    1/08    . Mouthpieces; {Microphones;} Attachments therefor
+    1/083   . . {Special constructions of mouthpieces}
+    1/086   . . . {Protective screens, e.g. all weather or wind
+    1/10    . Earpieces; Attachments therefor {; Earphones;
+Monophonic headphones (H04R 1/28 takes
+precedence; stereophonic headphones H04R 5/033)}
+1. This group covers details of headphones, both of
+monophonic and stereophonic type.
+2. When classifying in this group or in its
+subgroups, aspects relating to stereophonic
+headphones are to be classified in H04R 5/033 as
+    1/1008  . . {Earpieces of the supra-aural or circum-aural
+    1/1016  . . {Earpieces of the intra-aural type}
+    1/1025  . . {Accumulators or arrangements for charging
+(secondary cells per se H01M 10/00; charging in
+    1/1033  . . {Cables or cables storage, e.g. cable reels (cord
+reels per se H02G 11/02; arrangements for storing
+and repeatedly paying-out and re-storing lengths
+of conductors or cables B65H 75/34; extensible
+conductors or cables, e.g. self-coiling cords
+    1/1041  . . {Mechanical or electronic switches, or control
+elements (switches in general H01H)}
+    1/105   . . {Earpiece supports, e.g. ear hooks (for
+stereophonic headphones H04R 5/0335)}
+    1/1058  . . {Manufacture or assembly}
+    1/1066  . . . {Constructional aspects of the interconnection
+between earpiece and earpiece support
+(earpiece support for monophonic headphones
+H04R 1/105; earpiece support for stereophonic
+    1/1075  . . . {Mountings of transducers in earphones or
+    1/1083  . . {Reduction of ambient noise (active noise
+reduction per se G10K 11/175; protective devices
+for the ear, e.g. providing acoustic protection
+    1/1091  . . {Details not provided for in groups
+    1/12    . Sanitary or hygienic devices for mouthpieces or
+earpieces, e.g. for protecting against infection
+    1/14    . Throat mountings for microphones
+    1/16    . Mounting or connecting stylus to transducer with or
+    1/18    . . Holders for styli; Mounting holders on
+    1/20    . Arrangements for obtaining desired frequency or
+directional characteristics (for stereophonic purpose
+    1/22    . . for obtaining desired frequency characteristic
+only (circuit for combining transducers having
+different responses H04R 3/00 {for hearing aids
+    1/222   . . . {for microphones (H04R 1/24, H04R 1/26 take
+    1/225   . . . {for telephonic receivers}
+    1/227   . . . {using transducers reproducing the same
+    1/24    . . . Structural combinations of separate transducers
+or of two parts of the same transducer and
+responsive respectively to two or more
+    1/245   . . . . {of microphones}
+    1/26    . . . Spatial arrangements of separate transducers
+responsive to two or more frequency ranges
+    1/265   . . . . {of microphones}
+    1/28    . . . Transducer mountings or enclosures modified
+by provision of mechanical or acoustic
+impedances, e.g. resonator, damping means
+{(combinations of transducers with horns, i.e.
+    1/2803  . . . . {for loudspeaker transducers}
+    1/2807  . . . . {Enclosures comprising vibrating or
+resonating arrangements (for the reduction
+of undesired resonances or vibrations
+    1/2811  . . . . . {for loudspeaker transducers}
+    1/2815  . . . . . {of the bass reflex type}
+    1/2819  . . . . . . {for loudspeaker transducers}
+    1/2823  . . . . . . {Vents, i.e. ports, e.g. shape thereof
+material (number or position of ports
+H04R 1/2815; vents in bandpass type
+    1/2826  . . . . . . . {for loudspeaker transducers}
+    1/283   . . . . . {using a passive diaphragm}
+    1/2834  . . . . . . {for loudspeaker transducers}
+    1/2838  . . . . . {of the bandpass type}
+    1/2842  . . . . . . {for loudspeaker transducers}
+    1/2846  . . . . . . {Vents, i.e. ports, e.g. shape thereof
+material (number or position of ports
+H04R 1/2838; vents in bass reflex type
+    1/2849  . . . . . . . {for loudspeaker transducers}
+    1/2853  . . . . . {using an acoustic labyrinth or a
+    1/2857  . . . . . . {for loudspeaker transducers}
+    1/2861  . . . . . {using a back-loaded horn}
+    1/2865  . . . . . . {for loudspeaker transducers}
+    1/2869  . . . . {Reduction of undesired resonances, i.e.
+standing waves within enclosure, or of
+undesired vibrations, i.e. of the enclosure
+    1/2873  . . . . . {for loudspeaker transducers}
+    1/2876  . . . . . {by means of damping material, e.g. as
+cladding (damping material for tuning
+desired resonances H04R 1/2807, e.g. in
+vents H04R 1/2823, H04R 1/2846)}
+    1/288   . . . . . . {for loudspeaker transducers}
+    1/2884  . . . . . {by means of the enclosure structure, i.e.
+strengthening or shape of the enclosure
+(by means of Helmholtz resonators
+    1/2888  . . . . . . {for loudspeaker transducers}
+    1/2892  . . . . . {Mountings or supports for transducers}
+    1/2896  . . . . . . {for loudspeaker transducers}
+    1/30    . . . Combinations of transducers with horns,
+e.g. with mechanical matching means {,
+i.e. front-loaded horns}(horns in general
+G10K; {transducer enclosures or mountings
+using a back-loaded horn H04R 1/2861;
+application of horns as guiding means to obtain
+a predetermined directivity characteristic
+    1/32    . . for obtaining desired directional characteristic
+only {(specially adapted for hearing aids
+    1/323   . . . {for loudspeakers (H04R 1/34 and H04R 1/40
+    1/326   . . . {for microphones (H04R 1/34 and H04R 1/40
+    1/34    . . . by using a single transducer with sound
+reflecting, diffracting, directing or guiding
+means {(specially adapted for hearing aids
+    1/342   . . . . {for microphones}
+    1/345   . . . . {for loudspeakers}
+    1/347   . . . . . {for obtaining a phase-shift between the
+    1/36    . . . . by using a single aperture of dimensions
+not greater than the shortest operating
+    1/38    . . . . in which sound waves act upon both sides
+of a diaphragm and incorporating acoustic
+phase-shifting means, e.g. pressure-gradient
+    1/40    . . . by combining a number of identical
+transducers {(specially adapted for hearing aids
+    1/403   . . . . {loud-speakers}
+    1/406   . . . . {microphones}
+    1/42    . Combinations of transducers with fluid-pressure or
+other non-electrical amplifying means
+    1/44    . Special adaptations for subaqueous use, e.g. for
+    1/46    . Special adaptations for use as contact microphones,
+e.g. on musical instrument, on stethoscope (throat
+    3/00    Circuits for transducers {, loudspeakers or
+    3/002   . {Damping circuit arrangements for transducers, e.g.
+    3/005   . {for combining the signals of two or more
+microphones (specially adapted for hearing aids
+    3/007   . {Protection circuits for transducers}
+    3/02    . for preventing acoustic reaction {, i.e. acoustic
+oscillatory feedback (specially adapted for hearing
+    3/04    . for correcting frequency response
+    3/06    . . of electrostatic transducers
+    3/08    . . of electromagnetic transducers
+    3/10    . . of variable resistance microphones
+    3/12    . for distributing signals to two or more loudspeakers
+{(specially adapted for hearing aids H04R 25/407)}
+    3/14    . . Cross-over networks
+    5/00    Stereophonic arrangements (stereophonic pick-ups
+H04R 9/16, H04R 11/12, H04R 17/08, H04R 19/10)
+In this group, the expression "stereophonic
+arrangements" covers quadraphonic or similar
+    5/02    . Spatial or constructional arrangements of
+    5/023   . . {in a chair, pillow}
+    5/027   . Spatial or constructional arrangements of
+microphones, e.g. in dummy heads
+    5/033   . Headphones for stereophonic communication
+{(details thereof, e.g. relating to batteries, cables or
+    5/0335  . . {Earpiece support, e.g. headbands or neckrests
+(for monophonic headphones H04R 1/105)}
+    5/04    . Circuit arrangements, {e.g. for selective connection
+of amplifier inputs/outputs to loudspeakers,
+for loudspeaker detection, or for adaptation
+of settings to personal preferences or hearing
+impairments (combinations of amplifiers
+H03F 3/68; stereophonic systems H04S)}
+    7/00    Diaphragms for electromechanical transducers (in
+general F16J 3/00); Cones (for musical instruments
+G10 ){(cones, diaphragms or the like, for emitting or
+receiving sound in general G10K 13/00; Mounting
+    7/02    . characterised by the construction
+    7/04    . . Plane diaphragms
+    7/045   . . . {using the distributed mode principle, i.e.
+whereby the acoustic radiation is emanated
+from uniformly distributed free bending wave
+vibration induced in a stiff panel and not from
+    7/06    . . . comprising a plurality of sections or layers
+    7/08    . . . . comprising superposed layers separated by
+    7/10    . . . . comprising superposed layers in contact
+    7/12    . . Non-planar diaphragms or cones
+    7/122   . . . {comprising a plurality of sections or layers}
+    7/125   . . . . {comprising a plurality of superposed layers
+    7/127   . . . {dome-shaped}
+    7/14    . . . corrugated, pleated or ribbed
+    7/16    . Mounting or tensioning of diaphragms or cones
+    7/18    . . at the periphery
+    7/20    . . . Securing diaphragm or cone resiliently to
+support by flexible material, springs, cords, or
+    7/22    . . . Clamping rim of diaphragm or cone against
+    7/24    . . Tensioning by means acting directly on free
+    7/26    . Damping by means acting directly on free portion of
+diaphragm or cone (air damping H04R 1/28)
+    9/00    Transducers of moving-coil, moving-strip, or
+    9/022   . . {Cooling arrangements}
+    9/025   . . {Magnetic circuit}
+    9/027   . . . {Air gaps using a magnetic fluid}
+    9/04    . . Construction, mounting, or centering of coil
+    9/042   . . . . {by pressurised air}
+    9/043   . . . . {Inner suspension or damper, e.g. spider
+(outer suspension or surround H04R 7/16)}
+    9/045   . . . {Mounting (H04R 9/043 takes precedence)}
+    9/046   . . . {Construction}
+    9/047   . . . . {in which the windings of the moving coil
+    9/048   . . . . . {of the ribbon type}
+    9/063   . . {using a plurality of acoustic drivers (H04R 1/24
+and H04R 1/403 take precedence)}
+    9/066   . . {using the principle of inertia}
+    9/10    . Telephone receivers
+    9/12    . Gramophone pick-ups using a stylus; Recorders
+    9/14    . . comprising two or more styli or transducers
+    9/16    . . signals recorded or played back by vibration
+of a stylus in two orthogonal directions
+    9/18    . Resonant transducers, i.e. adapted to produce
+maximum output at a predetermined frequency
+   11/00    Transducers of moving-armature or moving-core
+type (acoustic diaphragm of magnetisable material
+directly coacting with electromagnet H04R 13/00)
+   11/06    . Telephone receivers
+   11/08    . Gramophone pick-ups using a stylus; Recorders
+   11/10    . . comprising two or more styli or transducers
+   11/12    . . signals being recorded or played back by
+vibration of a stylus in two orthogonal directions
+   11/14    . Resonant transducers, i.e. adapted to produce
+maximum output at a predetermined frequency
+   13/00    Transducers having an acoustic diaphragm of
+magnetisable material directly co-acting with
+   13/02    . Telephone receivers
+   15/00    Magnetostrictive transducers (magnetostrictive
+elements in general H10N 30/00)
+   15/02    . Resonant transducers, i.e. adapted to produce
+maximum output at a predetermined frequency
+   17/00    Piezo-electric transducers; Electrostrictive
+transducers (piezo-electric or electrostrictive
+elements in general H10N 30/00; details of piezo-
+electric or electrostrictive motors, generators or
+   17/005   . {using a piezo-electric polymer}
+   17/025   . . {using a piezo-electric polymer}
+   17/04    . Gramophone pick-ups using a stylus; Recorders
+   17/06    . . comprising two or more styli or transducers
+   17/08    . . signals being recorded or played back by
+vibration of a stylus in two orthogonal directions
+   17/10    . Resonant transducers, i.e. adapted to produce
+maximum output at a predetermined frequency
+   19/00    Electrostatic transducers
+   19/005   . {using semiconductor materials}
+   19/01    . characterised by the use of electrets
+   19/013   . . {for loudspeakers}
+   19/016   . . {for microphones}
+   19/02    . Loudspeakers (H04R 19/01 takes precedence)
+   19/04    . Microphones (H04R 19/01 takes precedence)
+   19/06    . Gramophone pick-ups using a stylus; Recorders
+using a stylus (H04R 19/01 takes precedence)
+   19/08    . . comprising two or more styli or transducers
+   19/10    . . signals being recorded or played back by
+vibration of a stylus in two orthogonal directions
+   21/00    Variable-resistance transducers (gaseous resistance
+transducers H04R 23/00; magneto-resistive
+   21/021   . . {with granular resistance material}
+   21/023   . . {with more than one granular chamber}
+   21/025   . . {disposition of the granular chamber in
+   21/026   . . {in which the sound is perpendicular to the
+current crossing the transducer material}
+   21/028   . . {with a fluid as resistance material}
+   21/04    . Gramophone pick-ups using a stylus; Recorders
+   23/00    Transducers other than those covered by
+groups H04R 9/00 - H04R 21/00 {(diaphragms
+for transducers of the distributed-mode type
+   23/002   . {using electrothermic-effect transducer}
+   23/004   . {using ionised gas}
+   23/006   . {using solid state devices (solid state devices per se
+   23/008   . {using optical signals for detecting or generating
+   23/02    . Transducers using more than one principle
+   25/00    Deaf-aid sets {, i.e. electro-acoustic or electro-
+mechanical hearing aids; Electric tinnitus maskers
+providing an auditory perception (electrical
+stimulation of auditory nerves to promote the auditory
+function A61N 1/36038; optical stimulation of
+auditory nerves to promote the auditory function
+Classification should be directed to groups
+H04R 25/02, H04R 25/04 or H04R 25/50 and its
+subgroups, if and only if the technical subject in
+consideration cannot be classified elsewhere under
+   25/02    . adapted to be supported entirely by ear
+   25/04    . comprising pocket amplifiers
+   25/30    . {Monitoring or testing of hearing aids, e.g.
+functioning, settings, battery power}
+   25/305   . . {Self-monitoring or self-testing}
+   25/35    . {using translation techniques}
+   25/353   . . {Frequency, e.g. frequency shift or compression}
+   25/356   . . {Amplitude, e.g. amplitude shift or compression}
+   25/40    . {Arrangements for obtaining a desired directivity
+   25/402   . . {using contructional means}
+   25/405   . . {by combining a plurality of transducers}
+   25/407   . . {Circuits for combining signals of a plurality of
+   25/43    . {Electronic input selection or mixing based on input
+signal analysis, e.g. mixing or selection between
+microphone and telecoil or between microphones
+with different directivity characteristics
+(H04R 25/407 takes precedence)}
+   25/45    . {Prevention of acoustic reaction, i.e. acoustic
+   25/453   . . {electronically}
+   25/48    . {using constructional means for obtaining a
+desired frequency response (H04R 25/652 takes
+   25/50    . {Customised settings for obtaining desired overall
+   25/502   . . {using analog signal processing}
+   25/505   . . {using digital signal processing}
+   25/507   . . . {implemented by neural network or fuzzy
+   25/55    . {using an external connection, either wireless or
+   25/554   . . {using a wireless connection, e.g. between
+microphone and amplifier or using Tcoils}
+   25/556   . . {External connectors, e.g. plugs or modules
+(H04R 25/607 takes precedence)}
+   25/558   . . {Remote control, e.g. of amplification,
+   25/60    . {Mounting or interconnection of hearing aid parts,
+e.g. inside tips, housings or to ossicles (ear wax
+retarders, e.g. mounting thereof H04R 25/654)}
+   25/603   . . {of mechanical or electronic switches or control
+   25/604   . . {of acoustic or vibrational transducers}
+   25/606   . . . {acting directly on the eardrum, the ossicles
+or the skull, e.g. mastoid, tooth, maxillary or
+mandibular bone, or mechanically stimulating
+the cochlea, e.g. at the oval window}
+   25/609   . . {of circuitry (of electronic switches or control
+   25/65    . {Housing parts, e.g. shells, tips or moulds, or their
+Housing parts for mechanical mounting or
+interconnection of hearing aid parts covered by
+H04R 25/60 are to be classified in H04R 25/60
+   25/652   . . {Ear tips; Ear moulds (hybrid ear moulds or
+post-processing thereof for their customisation
+   25/654   . . . {Ear wax retarders}
+   25/656   . . . {Non-customized, universal ear tips, i.e. ear
+tips which are not specifically adapted to the
+size or shape of the ear or ear canal}
+   25/658   . . {Manufacture of housing parts}
+   25/659   . . . {Post-processing of hybrid ear moulds for
+customisation, e.g. in-situ curing}
+   25/70    . {Adaptation of deaf aid to hearing loss, e.g. initial
+   25/75    . {Electric tinnitus maskers providing an auditory
+   27/00    Public address systems (circuits for preventing
+acoustic reaction H04R 3/02; circuits for distributing
+signals to loudspeakers H04R 3/12; {monitoring
+or testing arrangements for public address systems
+   27/02    . Amplifying systems for the deaf
+   27/04    . Electric megaphones
+   29/00    Monitoring arrangements; Testing arrangements
+{(for hearing aids H04R 25/30; detection of
+loudspeaker connection H04R 5/04; sound-
+field adaptation dependent on speaker detection
+   29/001   . {for loudspeakers (H04R 29/007 takes precedence)}
+   29/002   . . {Loudspeaker arrays}
+   29/003   . . {of the moving-coil type}
+   29/004   . {for microphones (H04R 29/007 takes precedence)}
+   29/005   . . {Microphone arrays}
+   29/006   . . . {Microphone matching}
+   29/007   . {for public address systems (public address systems
+   29/008   . {Visual indication of individual signal levels
+(visual indication of stereophonic sound image
+   31/00    Apparatus or processes specially adapted for
+the manufacture of transducers or diaphragms
+therefor {(manufacture of microstructural
+arrangements of deformable or non-deformable
+structures in general B81C 1/00182)}
+   31/003   . {for diaphragms or their outer suspension}
+   31/006   . {Interconnection of transducer parts (of diaphragm
+and outer suspension by moulding H04R 31/003)}
+ 2201/00    Details of transducers, loudspeakers or
+microphones covered by H04R 1/00 but not
+provided for in any of its subgroups
+ 2201/003   . Mems transducers or their use (of the electrostatic
+ 2201/02    . Details casings, cabinets or mounting therein for
+transducers covered by H04R 1/02 but not provided
+ 2201/021   . . Transducers or their casings adapted for mounting
+ 2201/023   . . Transducers incorporated in garment, rucksacks
+ 2201/025   . . Transducer mountings or cabinet supports
+enabling variable orientation of transducer of
+ 2201/028   . . Structural combinations of loudspeakers with
+built-in power amplifiers, e.g. in the same
+acoustic enclosure (H04R 2499/10 takes
+precedence; Single (sub)woofer with two or
+more satellite loudspeakers for mid- and high-
+frequency band reproduction driven via the
+ 2201/029   . . Manufacturing aspects of enclosures transducers
+ 2201/10    . Details of earpieces, attachments therefor,
+earphones or monophonic headphones covered
+by H04R 1/10 but not provided for in any of its
+ 2201/103   . . Combination of monophonic or stereophonic
+headphones with audio players, e.g. integrated in
+ 2201/105   . . Manufacture of mono- or stereophonic headphone
+ 2201/107   . . Monophonic and stereophonic headphones
+with microphone for two-way hands free
+ 2201/109   . . Arrangements to adapt hands free headphones for
+ 2201/34    . Directing or guiding sound by means of a phase
+ 2201/40    . Details of arrangements for obtaining desired
+directional characteristic by combining a number of
+identical transducers covered by H04R 1/40 but not
+provided for in any of its subgroups
+ 2201/401   . . 2D or 3D arrays of transducers
+ 2201/403   . . Linear arrays of transducers
+ 2201/405   . . Non-uniform arrays of transducers or a plurality
+of uniform arrays with different transducer
+ 2203/00    Details of circuits for transducers, loudspeakers
+or microphones covered by H04R 3/00 but not
+provided for in any of its subgroups
+ 2203/12    . Beamforming aspects for stereophonic sound
+reproduction with loudspeaker arrays
+ 2205/00    Details of stereophonic arrangements covered
+by H04R 5/00 but not provided for in any of its
+ 2205/021   . Aspects relating to docking-station type assemblies
+to obtain an acoustical effect, e.g. the type of
+connection to external loudspeakers or housings,
+ 2205/022   . Plurality of transducers corresponding to a plurality
+of sound channels in each earpiece of headphones or
+ 2205/024   . Positioning of loudspeaker enclosures for spatial
+ 2205/026   . Single (sub)woofer with two or more satellite
+loudspeakers for mid- and high-frequency band
+reproduction driven via the (sub)woofer
+ 2205/041   . Adaptation of stereophonic signal reproduction for
+ 2207/00    Details of diaphragms or cones for
+electromechanical transducers or their suspension
+covered by H04R 7/00 but not provided for in
+ 2207/021   . Diaphragm extensions, not necessarily integrally
+formed, e.g. skirts, rims, flanges
+ 2209/00    Details of transducers of the moving-coil, moving-
+strip, or moving-wire type covered by H04R 9/00
+but not provided for in any of its subgroups
+ 2209/021   . Reduction of eddy currents in the magnetic circuit
+of electrodynamic loudspeaker transducer
+ 2209/022   . Aspects regarding the stray flux internal or external
+to the magnetic circuit, e.g. shielding, shape of
+magnetic circuit, flux compensation coils
+ 2209/024   . Manufacturing aspects of the magnetic circuit of
+loudspeaker or microphone transducers
+ 2209/026   . Transducers having separately controllable
+opposing diaphragms, e.g. for ring-tone and voice
+(H04R 2400/03 takes precedence)
+ 2209/027   . Electrical or mechanical reduction of yoke vibration
+ 2209/041   . Voice coil arrangements comprising more than one
+voice coil unit on the same bobbin
+ 2209/043   . Short circuited voice coils driven by induction
+ 2217/00    Details of magnetostrictive, piezo-electric, or
+electrostrictive transducers covered by H04R 15/00
+or H04R 17/00 but not provided for in any of their
+ 2217/01    . Non-planar magnetostrictive, piezo-electric or
+ 2217/03    . Parametric transducers where sound is generated or
+captured by the acoustic demodulation of amplitude
+ 2225/00    Details of deaf aids covered by H04R 25/00, not
+provided for in any of its subgroups
+ 2225/021   . Behind the ear [BTE] hearing aids
+ 2225/0213  . . Constructional details of earhooks, e.g. shape,
+ 2225/0216  . . BTE hearing aids having a receiver in the ear
+ 2225/023   . Completely in the canal [CIC] hearing aids
+ 2225/025   . In the ear hearing aids [ITE] hearing aids
+ 2225/31    . Aspects of the use of accumulators in hearing aids,
+e.g. rechargeable batteries or fuel cells
+ 2225/33    . Aspects relating to adaptation of the battery voltage,
+e.g. its regulation, increase or decrease
+ 2225/39    . Aspects relating to automatic logging of sound
+environment parameters and the performance of the
+hearing aid during use, e.g. histogram logging, or of
+user selected programs or settings in the hearing aid,
+ 2225/41    . Detection or adaptation of hearing aid parameters or
+programs to listening situation, e.g. pub, forest
+ 2225/43    . Signal processing in hearing aids to enhance the
+ 2225/49    . Reducing the effects of electromagnetic noise on the
+functioning of hearing aids, by, e.g. shielding, signal
+processing adaptation, selective (de)activation of
+electronic parts in hearing aid
+ 2225/51    . Aspects of antennas or their circuitry in or for
+ 2225/53    . Hearing aid for unilateral hearing impairment using
+Contralateral Routing Of Signals [CROS]
+ 2225/55    . Communication between hearing aids and external
+devices via a network for data exchange
+ 2225/57    . Aspects of electrical interconnection between
+ 2225/59    . Arrangements for selective connection between one
+or more amplifiers and one or more receivers within
+ 2225/61    . Aspects relating to mechanical or electronic
+switches or control elements, e.g. functioning
+ 2225/67    . Implantable hearing aids or parts thereof not
+ 2225/77    . Design aspects, e.g. CAD, of hearing aid tips,
+ 2225/81    . Aspects of electrical fitting of hearing aids related
+to problems arising from the emotional state of a
+hearing aid user, e.g. nervousness or unwillingness
+ 2225/83    . Aspects of electrical fitting of hearing aids related
+to problems arising from growth of the hearing aid
+ 2227/00    Details of public address [PA] systems covered
+by H04R 27/00 but not provided for in any of its
+ 2227/001   . Adaptation of signal processing in PA systems in
+dependence of presence of noise
+ 2227/003   . Digital PA systems using, e.g. LAN or internet
+ 2227/005   . Audio distribution systems for home, i.e. multi-
+ 2227/007   . Electronic adaptation of audio signals to
+reverberation of the listening space for PA
+ 2227/009   . Signal processing in [PA] systems to enhance the
+ 2231/00    Details of apparatus or processes specially adapted
+for the manufacture of transducers or diaphragms
+therefor covered by H04R 31/00, not provided for
+ 2231/001   . Moulding aspects of diaphragm or surround
+ 2231/003   . Manufacturing aspects of the outer suspension of
+loudspeaker or microphone diaphragms or of their
+connecting aspects to said diaphragms
+ 2307/00    Details of diaphragms or cones for
+electromechanical transducers, their suspension
+or their manufacture covered by H04R 7/00
+or H04R 31/003, not provided for in any of its
+ 2307/021   . Diaphragms comprising cellulose-like materials,
+ 2307/023   . Diaphragms comprising ceramic-like materials, e.g.
+pure ceramic, glass, boride, nitride, carbide, mica
+ 2307/025   . Diaphragms comprising polymeric materials
+ 2307/027   . Diaphragms comprising metallic materials
+ 2307/029   . Diaphragms comprising fibres
+ 2307/201   . Damping aspects of the outer suspension of
+loudspeaker diaphragms by addition of additional
+ 2307/204   . Material aspects of the outer suspension of
+ 2307/207   . Shape aspects of the outer suspension of
+H04R 2400/00 itself is only to be used for those
+cases where the classification does not allow
+specification the type of transducer and the type
+is important, e.g. frequency control circuit (
+H04R 3/04 and subgroups) may require different
+circuits for microphones or for loudspeakers
+ 2400/01    . Transducers used as a loudspeaker to generate
+sound aswell as a microphone to detect sound
+ 2400/03    . Transducers capable of generating both sound as
+well as tactile vibration, e.g. as used in cellular
+ 2400/07    . Suspension between moving magnetic core and
+ 2400/11    . Aspects regarding the frame of loudspeaker
+ 2400/13    . Use or details of compression drivers
+H04R 2410/00 itself is only to be used for those
+cases where the classification does not allow
+specification the type of transducer and the type
+is important, e.g. frequency control circuit (
+H04R 3/04 and subgroups) may require different
+circuits for microphones or for loudspeakers
+ 2410/01    . Noise reduction using microphones having different
+ 2410/03    . Reduction of intrinsic noise in microphones
+ 2410/05    . Noise reduction with a separate noise microphone
+ 2410/07    . Mechanical or electrical reduction of wind noise
+generated by wind passing a microphone
+ 2420/00    Details of connection covered by H04R, not
+ 2420/01    . Input selection or mixing for amplifiers or
+loudspeakers (for hearing aids H04R 25/43)
+ 2420/03    . Connection circuits to selectively connect
+loudspeakers or headphones to amplifiers
+ 2420/05    . Detection of connection of loudspeakers or
+ 2420/07    . Applications of wireless loudspeakers or wireless
+ 2420/09    . Applications of special connectors, e.g. USB, XLR,
+in loudspeakers, microphones or headphones
+ 2430/00    Signal processing covered by H04R, not provided
+ 2430/01    . Aspects of volume control, not necessarily
+ 2430/03    . Synergistic effects of band splitting and sub-band
+ 2430/20    . Processing of the output signals of the acoustic
+transducers of an array for obtaining a desired
+directivity characteristic (H04R 2203/12 takes
+ 2430/21    . . Direction finding using differential microphone
+ 2430/23    . . Direction finding using a sum-delay beam-former
+ 2430/25    . . Array processing for suppression of unwanted
+side-lobes in directivity characteristics, e.g. a
+ 2440/00    Bending wave transducers covered by H04R, not
+ 2440/01    . Acoustic transducers using travelling bending waves
+ 2440/03    . Resonant bending wave transducer used as a
+ 2440/05    . Aspects relating to the positioning and way or
+means of mounting of exciters to resonant bending
+ 2440/07    . Loudspeakers using bending wave resonance and
+pistonic motion to generate sound
+ 2460/00    Details of hearing devices, i.e. of ear- or
+headphones covered by H04R 1/10 or H04R 5/033
+but not provided for in any of their subgroups,
+or of hearing aids covered by H04R 25/00 but not
+provided for in any of its subgroups
+ 2460/01    . Hearing devices using active noise cancellation
+ 2460/03    . Aspects of the reduction of energy consumption in
+ 2460/05    . Electronic compensation of the occlusion effect
+ 2460/07    . Use of position data from wide-area or local-area
+positioning systems in hearing devices, e.g. program
+ 2460/09    . Non-occlusive ear tips, i.e. leaving the ear canal
+open, for both custom and non-custom tips
+(H04R 2460/11 takes precedence)
+ 2460/11    . Aspects relating to vents, e.g. shape, orientation,
+acoustic properties in ear tips of hearing devices to
+ 2460/13    . Hearing devices using bone conduction transducers
+ 2460/15    . Determination of the acoustic seal of ear moulds or
+ 2460/17    . Hearing device specific tools used for storing or
+handling hearing devices or parts thereof, e.g.
+placement in the ear, replacement of cerumen
+barriers, repair, cleaning hearing devices
+ 2499/00    Aspects covered by H04R or H04S not otherwise
+provided for in their subgroups
+ 2499/01    . General technical reviews, overviews, tutorials
+ 2499/10    . General applications
+ 2499/11    . . Transducers incorporated or for use in hand-held
+devices, e.g. mobile phones, PDA's, camera's
+ 2499/13    . . Acoustic transducers and sound field adaptation
+ 2499/15    . . Transducers incorporated in visual displaying
+devices, e.g. televisions, computer displays,

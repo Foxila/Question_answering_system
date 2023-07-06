@@ -1,0 +1,1075 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+CONJOINT CONTROL OF VEHICLE SUB-UNITS OF DIFFERENT TYPE OR
+DIFFERENT FUNCTION; CONTROL SYSTEMS SPECIALLY ADAPTED FOR
+HYBRID VEHICLES; ROAD VEHICLE DRIVE CONTROL SYSTEMS FOR
+PURPOSES NOT RELATED TO THE CONTROL OF A PARTICULAR SUB-UNIT
+1. This subclass does not cover the control of a single sub-unit; such control is classified in the relevant place for the sub-unit,
+e.g. F02D, F16H. Where a single sub-unit is controlled by means of signals or commands from other sub-units, the control of
+this single sub-unit is classified in the relevant place for this sub-unit. For example, the control of variable-ratio gearing by
+means of signals from the engine or the accelerator is classified in the subclass for gearing, F16H.
+2. Conjoint control of driveline units, e.g. engines, and variable-ratio gearing occurring only transiently during ratio shift and
+being also characterised by the control of the gearing is also classified in the subclass for gearing, F16H.
+3. When classifying in group B60W 10/00, classification must also be made in groups B60W 20/00 - B60W 60/00 in order to
+identify the purpose or use of the control.
+4. In this subclass, the following terms are used with the meanings indicated:
+• "conjoint control" means that a programmed or condition-responsive {main} automatic controller on board the vehicle,
+embodying control logic for vehicle sub-units of different type or different function, sends control signals to actuators of
+two or more vehicle sub-units, so that the sub-units act together to solve a particular problem or in response to a particular
+driving condition {in order to improve stability, comfort or safety by managing the global dynamics of the vehicle};
+• "drive control system" means an electronic system on board a road vehicle for automatically controlling the movement {by
+managing the global dynamics} of that vehicle in order to take certain actions{in order to improve stability, comfort or
+• "road vehicle" means a motorised vehicle for transportation on roads, e.g. an automobile, truck or bus;
+• "autonomous road vehicle" means a road vehicle capable of controlling all dynamic driving tasks without human
+intervention during {a plurality of} driving scenarios by using on-board computer hardware and software to execute
+decision making processes in real-time.
+• "sub-unit" means one of the following vehicle systems: {driveline systems, e.g.} propulsion system, clutch system, change-
+speed gearing system, system for distributing drive torque between front and rear axles, axle differential system, brake
+system, steering system, suspension system, {and, particularly for hybrid vehicles,} energy storage means, fuel cells, or
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+   10/00    Conjoint control of vehicle sub-units of different
+type or different function (for propulsion of purely
+electrically-propelled vehicles with power supplied
+within the vehicle B60L 50/00 - B60L 58/00)
+When classifying in this group, each controlled
+sub-unit must be separately identified by a
+classification in a relevant place in this group.
+Group B60W 10/00 is incomplete pending
+reclassification of documents from groups
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   10/02    . including control of driveline clutches
+Group B60W 10/02 is incomplete pending
+reclassification of documents from groups
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/023   . . {Fluid clutches}
+Group B60W 10/023 is incomplete
+pending reclassification of documents
+from groups G05D 1/0061, G05D 1/0088,
+G05D 1/021, G05D 1/0214, G05D 1/0221,
+and G05D 1/0223. Group B60W 10/023 is
+also impacted by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/0235  . . . {of bridging or lock-up clutches}
+Group B60W 10/0235 is incomplete
+pending reclassification of documents
+from groups B60W 10/026, G05D 1/0061,
+G05D 1/0088, G05D 1/021, G05D 1/0214,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/024   . . {including control of torque converters}
+Group B60W 10/024 is incomplete pending
+reclassification of documents from groups
+B60W 10/023, B60W 10/026, G05D 1/0061,
+G05D 1/0088, G05D 1/021, G05D 1/0214,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/026   . . . {of lock-up clutches}
+Group B60W 10/026 is incomplete pending
+reclassification of documents from groups
+B60W 10/023, G05D 1/0061, G05D 1/0088,
+G05D 1/021, G05D 1/0214, G05D 1/0221,
+and G05D 1/0223. Group B60W 10/026 is
+also impacted by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/04    . including control of propulsion units
+Groups B60W 10/04 - B60W 10/08 are
+incomplete pending reclassification of
+documents from groups G05D 1/0061,
+G05D 1/0088, G05D 1/021, G05D 1/0214,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/06    . . including control of combustion engines
+   10/08    . . including control of electric propulsion units, e.g.
+   10/10    . including control of change-speed gearings
+Groups B60W 10/10 - B60W 10/115 are
+incomplete pending reclassification of
+documents from groups G05D 1/0061,
+G05D 1/0088, G05D 1/021, G05D 1/0214,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/101   . . Infinitely variable gearings
+   10/103   . . . of fluid type
+   10/105   . . . of electric type
+   10/107   . . . with endless flexible members
+   10/108   . . . Friction gearings
+   10/109   . . . . of the toroïd type
+   10/11    . . Stepped gearings
+   10/111   . . . with separate change-speed gear trains arranged
+   10/113   . . . with two input flow paths, e.g. double clutch
+transmission selection of one of the torque flow
+paths by the corresponding input clutch
+   10/115   . . . with planetary gears
+   10/119   . including control of all-wheel-driveline means,
+e.g. transfer gears or clutches for dividing torque
+between front and rear axle (B60W 10/14 takes
+Group B60W 10/119 is incomplete pending
+reclassification of documents from groups
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/12    . including control of differentials
+Groups B60W 10/12 - B60W 10/16 are
+incomplete pending reclassification of
+documents from groups G05D 1/0061,
+G05D 1/0088, G05D 1/021, G05D 1/0214,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/14    . . Central differentials for dividing torque between
+   10/16    . . Axle differentials, e.g. for dividing torque
+   10/18    . including control of braking systems
+Groups B60W 10/18 - B60W 10/198 are
+incomplete pending reclassification of
+documents from groups G05D 1/0061,
+G05D 1/0088, G05D 1/021, G05D 1/0214,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/182   . . {including control of parking brakes}
+   10/184   . . with wheel brakes
+   10/188   . . . hydraulic brakes
+   10/192   . . . electric brakes
+   10/196   . . acting within the driveline, e.g. retarders
+   10/198   . . with exhaust brakes
+   10/20    . including control of steering systems
+Group B60W 10/20 is incomplete pending
+reclassification of documents from groups
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/22    . including control of suspension systems
+Group B60W 10/22 is incomplete pending
+reclassification of documents from groups
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/24    . including control of energy storage means
+Groups B60W 10/24 - B60W 10/26 are
+incomplete pending reclassification of
+documents from groups G05D 1/0061,
+G05D 1/0088, G05D 1/021, G05D 1/0214,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/26    . . for electrical energy, e.g. batteries or capacitors
+   10/28    . including control of fuel cells
+Group B60W 10/28 is incomplete pending
+reclassification of documents from groups
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/30    . including control of auxiliary equipment, e.g. air-
+conditioning compressors or oil pumps
+Group B60W 10/30 is incomplete pending
+reclassification of documents from groups
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   20/00    Control systems specially adapted for hybrid
+vehicles {(hybrid vehicle design, B60K 6/00; electric
+Groups B60W 20/00 - B60W 20/50 are incomplete
+pending reclassification of documents from
+groups G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   20/10    . Controlling the power contribution of each of the
+prime movers to meet required power demand
+   20/11    . . using model predictive control [MPC] strategies,
+i.e. control methods based on models predicting
+performance {(utilising navigation and traffic
+information in the control strategy B60W 20/12)}
+   20/12    . . using control strategies taking into account
+route information {(estimation or calculation
+of non-directly measurable driving parameters
+   20/13    . . in order to stay within battery power input or
+output limits; in order to prevent overcharging or
+   20/14    . . . in conjunction with braking regeneration
+   20/15    . . Control strategies specially adapted for achieving
+   20/16    . . . for reducing engine exhaust emissions
+   20/17    . . . for noise reduction
+   20/18    . . . for avoiding ageing of fuel
+   20/19    . . . for achieving enhanced acceleration
+   20/20    . Control strategies involving selection of hybrid
+configuration, e.g. selection between series or
+   20/30    . Control strategies involving selection of
+transmission gear ratio {(control of change
+speed gearings, together with other vehicle sub-
+units B60W 10/10; HEV transmission gearing
+B60K 6/36; gearings and control thereof F16H)}
+   20/40    . Controlling the engagement or disengagement of
+prime movers, e.g. for transition between prime
+movers {(power-up or power-down of the driveline
+   20/50    . Control strategies for responding to system failures,
+e.g. for fault diagnosis, failsafe operation or limp
+   30/00    Purposes of road vehicle drive control systems
+not related to the control of a particular sub-unit,
+e.g. of systems using conjoint control of vehicle
+sub-units {, or advanced driver assistance systems
+for ensuring comfort, stability and safety or drive
+control systems for propelling or retarding the
+vehicle (anti-lock brake systems [ABS] B60T 8/00)}
+Groups B60W 30/00 - B60W 2030/206 are
+incomplete pending reclassification of documents
+from groups G05D 1/0061, G05D 1/0088,
+G05D 1/021, G05D 1/0214, G05D 1/0221, and
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   30/02    . Control of vehicle driving stability
+   30/025   . . {related to comfort of drivers or passengers}
+   30/04    . . related to roll-over prevention
+ 2030/041   . . . {about the pitch axis}
+ 2030/043   . . . {about the roll axis}
+   30/045   . . Improving turning performance
+   30/06    . Automatic manoeuvring for parking (controlling
+only the steering B62D 15/0285)
+   30/08    . {Active safety systems} predicting or avoiding
+probable or impending collision {or attempting to
+ 2030/082   . . {Vehicle operation after collision}
+   30/085   . . Taking automatic action to adjust vehicle attitude
+in preparation for collision, e.g. braking for nose
+   30/09    . . Taking automatic action to avoid collision, e.g.
+   30/095   . . Predicting travel path or likelihood of collision
+   30/0953  . . . {the prediction being responsive to vehicle
+   30/0956  . . . {the prediction being responsive to traffic or
+   30/10    . Path keeping {(cruise control for automatically
+following a preceding vehicle B60W 30/165)}
+   30/14    . {Adaptive} cruise control
+   30/143   . . {Speed control (B60W 30/16 takes precedence)}
+   30/146   . . . {Speed limiting}
+   30/16    . . Control of distance between vehicles, e.g. keeping
+a distance to preceding vehicle
+   30/162   . . . {Speed limiting therefor}
+   30/165   . . . Automatically following the path of a
+preceding lead vehicle, e.g. "electronic tow-
+   30/17    . . . with provision for special action when the
+preceding vehicle comes to a halt, e.g. stop and
+   30/18    . Propelling the vehicle
+   30/18009 . . {related to particular drive situations}
+   30/18018 . . . {Start-stop drive, e.g. in a traffic jam}
+   30/18027 . . . {Drive off, accelerating from standstill}
+   30/18045 . . . . {Rocking, i.e. fast change between forward
+   30/18054 . . . {at stand still, e.g. engine in idling state (hill
+ 2030/18081 . . . . {With torque flow from driveshaft to engine,
+i.e. engine being driven by vehicle}
+ 2030/1809  . . . . {Without torque flow between driveshaft
+and engine, e.g. with clutch disengaged or
+   30/181   . . . {Preparing for stopping}
+   30/18118 . . . . {Hill holding}
+   30/18127 . . . . {Regenerative braking}
+   30/18136 . . . . {Engine braking}
+   30/18154 . . . {Approaching an intersection}
+   30/18159 . . . {Traversing an intersection}
+Group B60W 30/18159 is incomplete
+pending reclassification of documents
+from groups B60W 30/12, B60W 30/16,
+B60W 30/17, B60W 30/182, B60W 50/082,
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/18163 . . . {Lane change; Overtaking manoeuvres}
+   30/18172 . . {Preventing, or responsive to skidding of wheels}
+   30/18181 . . {Propulsion control with common controlling
+member for different functions}
+   30/1819  . . {Propulsion control with control means using
+analogue circuits, relays or mechanical links}
+   30/182   . . Selecting between different operative modes, e.g.
+   30/184   . . Preventing damage resulting from overload or
+excessive wear of the driveline
+   30/1843  . . . {Overheating of driveline components
+(B60W 30/186 takes precedence)}
+   30/1846  . . . {Preventing of breakage of drive line
+components, e.g. parts of the gearing}
+   30/186   . . . excessive wear or burn out of friction elements,
+   30/188   . . Controlling power parameters of the driveline,
+e.g. determining the required power
+   30/1882  . . . {characterised by the working point of the
+engine, e.g. by using engine output chart}
+   30/1884  . . . {Avoiding stall or overspeed of the engine}
+   30/1886  . . . {Controlling power supply to auxiliary
+   30/1888  . . . . {Control of power take off [PTO]}
+   30/19    . . Improvement of gear change, e.g. by
+synchronisation or smoothing gear shift
+   30/192   . . Mitigating problems related to power-up or
+power-down of the driveline, e.g. start-up of a
+   30/194   . . . related to low temperature conditions, e.g. high
+   30/20    . . Reducing vibrations in the driveline
+ 2030/203   . . . {related or induced by the clutch}
+ 2030/206   . . . {related or induced by the engine}
+   40/00    Estimation or calculation of {non-directly
+measurable} driving parameters for road vehicle
+drive control systems not related to the control of
+a particular sub unit, {e.g. by using mathematical
+Groups B60W 40/00 - B60W 2040/1392 are
+incomplete pending reclassification of documents
+from groups G05D 1/0061, G05D 1/0088,
+G05D 1/021, G05D 1/0214, G05D 1/0221, and
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   40/02    . related to ambient conditions
+   40/04    . . Traffic conditions
+   40/06    . . Road conditions
+   40/064   . . . Degree of grip
+   40/068   . . . Road friction coefficient
+   40/072   . . . Curvature of the road
+   40/076   . . . Slope angle of the road
+   40/08    . related to drivers or passengers
+ 2040/0809  . . {Driver authorisation; Driver identical check}
+ 2040/0818  . . {Inactivity or incapacity of driver}
+ 2040/0827  . . . {due to sleepiness}
+ 2040/0836  . . . {due to alcohol}
+ 2040/0845  . . . {due to drugs}
+ 2040/0854  . . . {due to driver cheating, e.g. to circumvent
+ 2040/0863  . . . {due to erroneous selection or response of the
+ 2040/0872  . . {Driver physiology}
+ 2040/0881  . . {Seat occupation; Driver or passenger presence}
+   40/09    . . Driving style or behaviour
+   40/10    . related to vehicle motion
+   40/1005  . . {Driving resistance}
+   40/101   . . Side slip angle of tyre
+   40/103   . . Side slip angle of vehicle body
+   40/107   . . Longitudinal acceleration
+   40/109   . . Lateral acceleration
+   40/12    . related to parameters of the vehicle itself {, e.g. tyre
+ 2040/1307  . . . {Load distribution on each wheel suspension}
+ 2040/1315  . . . {Location of the centre of gravity}
+ 2040/1323  . . . {Moment of inertia of the vehicle body}
+ 2040/133   . . . . {about the roll axis}
+ 2040/1338  . . . . {about the pitch axis}
+ 2040/1346  . . . . {about the yaw axis}
+ 2040/1353  . . . {Moment of inertia of a sub-unit}
+ 2040/1361  . . . . {the component being the engine}
+ 2040/1369  . . . . {the component being the clutch}
+ 2040/1376  . . . . {the component being the transmission}
+ 2040/1384  . . . . {the component being the wheel}
+ 2040/1392  . . . {Natural frequency of components}
+   50/00    Details of control systems for road vehicle drive
+control not related to the control of a particular
+sub-unit {, e.g. process diagnostic or vehicle driver
+Groups B60W 50/00 - B60W 50/16 are incomplete
+pending reclassification of documents from
+groups G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+ 2050/0001  . {Details of the control system}
+ 2050/0002  . . {Automatic control, details of type of controller
+or control system architecture}
+ 2050/0003  . . . {In analogue systems, e.g. continuous systems}
+ 2050/0004  . . . {In digital systems, e.g. discrete-time systems
+ 2050/0005  . . . . {Processor details or data handling, e.g.
+memory registers or chip architecture}
+ 2050/0006  . . . . {Digital architecture hierarchy}
+ 2050/0008  . . . {Feedback, closed loop systems or details of
+ 2050/0009  . . . . {Proportional differential [PD] controller}
+ 2050/001   . . . . {Proportional integral [PI] controller}
+ 2050/0011  . . . . {Proportional Integral Differential [PID]
+ 2050/0012  . . . {Feedforward or open loop systems}
+ 2050/0013  . . . {Optimal controllers}
+ 2050/0014  . . . {Adaptive controllers}
+ 2050/0016  . . . {State machine analysis}
+ 2050/0017  . . . {Modal analysis, e.g. for determining system
+ 2050/0018  . . . {Method for the design of a control system}
+ 2050/0019  . . {Control system elements or transfer functions}
+ 2050/002   . . . {Integrating means}
+ 2050/0021  . . . {Differentiating means}
+ 2050/0022  . . . {Gains, weighting coefficients or weighting
+ 2050/0024  . . . . {Variable gains}
+ 2050/0025  . . . . {Transfer function weighting factor}
+ 2050/0026  . . . {Lookup tables or parameter maps}
+ 2050/0027  . . . {Minimum/maximum value selectors}
+ 2050/0028  . . . {Mathematical models, e.g. for simulation}
+ 2050/0029  . . . . {Mathematical model of the driver}
+ 2050/0031  . . . . {Mathematical model of the vehicle}
+ 2050/0032  . . . . . {Quarter vehicle model, i.e. only one
+ 2050/0033  . . . . . {Single-track, 2D vehicle model, i.e. two-
+ 2050/0034  . . . . . {Multiple-track, 2D vehicle model, e.g.
+ 2050/0035  . . . . . {Multiple-track, 3D vehicle model, e.g.
+including roll and pitch conditions}
+ 2050/0036  . . . . . {Multiple-track, 3D multi-body vehicle
+model, e.g. combination of models for
+ 2050/0037  . . . . {Mathematical models of vehicle sub-units}
+ 2050/0039  . . . . . {of the propulsion unit}
+ 2050/004   . . . . . {of the clutch}
+ 2050/0041  . . . . . {of the drive line}
+ 2050/0042  . . . {Transfer function lag; delays}
+ 2050/0043  . . {Signal treatments, identification of variables
+or parameters, parameter estimation or state
+ 2050/0044  . . . {In digital systems}
+ 2050/0045  . . . . {using databus protocols}
+ 2050/0047  . . . {Digital-analogue (D/A) or analogue-digital
+ 2050/0048  . . . {Addition or subtraction of signals}
+ 2050/0049  . . . . {Signal offset}
+ 2050/0051  . . . . {combined with averaging}
+ 2050/0052  . . . {Filtering, filters}
+ 2050/0054  . . . . {Cut-off filters, retarders, delaying means,
+dead zones, threshold values or cut-off
+ 2050/0055  . . . . . {High-pass filters}
+ 2050/0056  . . . . . {Low-pass filters}
+ 2050/0057  . . . {Frequency analysis, spectral techniques or
+ 2050/0058  . . . {Signal modulation for data transmission}
+ 2050/0059  . . . {Signal noise suppression}
+ 2050/006   . . . {Interpolation; Extrapolation}
+ 2050/0062  . {Adapting control system settings}
+ 2050/0063  . . {Manual parameter input, manual setting means,
+manual initialising or calibrating means (for
+vehicle control input means, control panels see
+ 2050/0064  . . . {using a remote, e.g. cordless, transmitter or
+receiver unit, e.g. remote keypad or mobile
+ 2050/0065  . . . {using a personalised data carrier, e.g.
+magnetic card, memory card or electronic
+ 2050/0066  . . . {using buttons or a keyboard connected to the
+ 2050/0067  . . . . {Confirmation by the driver}
+ 2050/0068  . . . {Giving intention of direction, e.g. by indicator
+ 2050/007   . . {Switching between manual and automatic
+parameter input, and vice versa}
+ 2050/0071  . . . {Controller overrides driver automatically}
+ 2050/0072  . . . {Controller asks driver to take over}
+ 2050/0073  . . . {Driver overrides controller}
+ 2050/0074  . . . {Driver shifts control to the controller, e.g. by
+ 2050/0075  . . {Automatic parameter input, automatic
+initialising or calibrating means}
+ 2050/0082  . . . {for initialising the control system}
+ 2050/0083  . . . {Setting, resetting, calibration}
+ 2050/0085  . . . . {Setting or resetting initial positions}
+ 2050/0086  . . . . {Recalibrating datum positions, e.g. by using
+ 2050/0087  . . . . {Resetting start and end points of actuator
+ 2050/0088  . . . . {Adaptive recalibration}
+ 2050/009   . . . {Priority selection}
+ 2050/0091  . . . . {of control inputs}
+ 2050/0093  . . . . . {of the engine}
+ 2050/0094  . . . . {of control units}
+ 2050/0095  . . . {Automatic control mode change}
+ 2050/0096  . . . . {Control during transition between modes}
+   50/0097  . {Predicting future conditions}
+   50/0098  . {Details of control systems ensuring comfort, safety
+or stability not otherwise provided for}
+   50/02    . Ensuring safety in case of control system failures,
+e.g. by diagnosing, circumventing or fixing failures
+   50/0205  . . {Diagnosing or detecting failures; Failure
+ 2050/021   . . . {Means for detecting failure or malfunction}
+ 2050/0215  . . . {Sensor drifts or sensor failures}
+ 2050/022   . . . {Actuator failures}
+   50/0225  . . {Failure correction strategy}
+   50/023   . . Avoiding failures by using redundant parts
+   50/029   . . Adapting to failures or work around with other
+constraints, e.g. circumvention by avoiding use of
+ 2050/0292  . . . {Fail-safe or redundant systems, e.g. limp-
+ 2050/0295  . . . {Inhibiting action of specific actuators or
+ 2050/0297  . . . {Control Giving priority to different actuators
+   50/032   . . Fixing failures by repairing failed parts, e.g.
+   50/035   . . Bringing the control units into a predefined state,
+e.g. giving priority to particular actuators
+   50/038   . . Limiting the input power, torque or speed
+   50/04    . Monitoring the functioning of the control system
+ 2050/041   . . {Built in Test Equipment [BITE]}
+ 2050/043   . . . {Testing equipment at KEY-ON}
+   50/045   . . {Monitoring control system parameters}
+ 2050/046   . . . {involving external transmission of data to or
+from the vehicle, e.g. via telemetry, satellite,
+Global Positioning System [GPS]}
+ 2050/048   . . . . {displaying data transmitted between
+vehicles, e.g. for platooning, control of inter-
+   50/06    . Improving the dynamic response of the control
+system, e.g. improving the speed of regulation or
+ 2050/065   . . {by reducing the computational load on the
+digital processor of the control computer}
+   50/08    . Interaction between the driver and the control
+   50/082   . . {Selecting or switching between different modes
+   50/085   . . {Changing the parameters of the control units,
+e.g. changing limit values, working points by
+   50/087   . . {where the control system corrects or modifies a
+   50/10    . . Interpretation of driver requests or demands
+   50/12    . . Limiting control by the driver depending on
+vehicle state, e.g. interlocking means for the
+control input for preventing unsafe operation
+   50/14    . . Means for informing the driver, warning the
+driver or prompting a driver intervention
+ 2050/143   . . . {Alarm means (B60W 50/16 takes
+ 2050/146   . . . {Display means}
+   50/16    . . . Tactile feedback to the driver, e.g. vibration
+or force feedback to the driver on the steering
+   60/00    Drive control systems specially adapted for
+Groups B60W 60/00 - B60W 60/007 are
+incomplete pending reclassification of documents
+from groups B60K 28/00 - B60K 28/165,
+B60W 30/12, B60W 30/16, B60W 30/162,
+B60W 30/165, B60W 30/17, G05D 1/0088,
+G05D 1/021, G05D 1/0214, G05D 1/0221, and
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   60/001   . {Planning or execution of driving tasks}
+   60/0011  . . {involving control alternatives for a single driving
+scenario, e.g. planning several paths to avoid
+   60/0013  . . {specially adapted for occupant comfort}
+   60/00133 . . . {for resting}
+   60/00136 . . . {for intellectual activities, e.g. reading, gaming
+   60/00139 . . . {for sight-seeing}
+   60/0015  . . {specially adapted for safety}
+   60/0016  . . . {of the vehicle or its occupants}
+   60/0017  . . . {of other traffic participants}
+   60/0018  . . . {by employing degraded modes, e.g. reducing
+speed, in response to suboptimal conditions}
+   60/00182 . . . . {in response to weather conditions}
+   60/00184 . . . . {related to infrastructure}
+   60/00186 . . . . {related to the vehicle}
+   60/00188 . . . . {related to detected security violation of
+control systems, e.g. hacking of moving
+   60/0021  . . {specially adapted for travel time}
+   60/0023  . . {in response to energy consumption}
+   60/0024  . . {with mediation between passenger and vehicle
+requirements, e.g. decision between dropping off
+a passenger or urgent vehicle service}
+   60/0025  . . {specially adapted for specific operations}
+   60/00253 . . . {Taxi operations}
+   60/00256 . . . {Delivery operations}
+   60/00259 . . . {Surveillance operations}
+   60/0027  . . {using trajectory prediction for other traffic
+   60/00272 . . . {relying on extrapolation of current movement}
+   60/00274 . . . {considering possible movement changes}
+   60/00276 . . . {for two or more other traffic participants}
+   60/005   . {Handover processes (between vehicles and remote
+   60/0051  . . {from occupants to vehicle}
+   60/0053  . . {from vehicle to occupant}
+   60/0054  . . . {Selection of occupant to assume driving
+   60/0055  . . . {only part of driving tasks shifted to
+   60/0057  . . {Estimation of the time available or required for
+   60/0059  . . {Estimation of the risk associated with
+autonomous or manual driving, e.g. situation too
+complex, sensor failure or driver incapacity}
+   60/0061  . . {Aborting handover process}
+   60/007   . {Emergency override (remote control
+ 2300/00    Indexing codes relating to the type of vehicle
+Groups B60W 2300/00 - B60W 2300/50 are
+incomplete pending reclassification of documents
+from groups G05D 1/0061, G05D 1/0088,
+G05D 1/021, G05D 1/0214, G05D 1/0221, and
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+ 2300/12    . Trucks; Load vehicles
+ 2300/121   . . Fork lift trucks, Clarks
+ 2300/125   . . Heavy duty trucks
+ 2300/126   . . . Multi-axles trucks
+ 2300/128   . . . Silo or fluid transporting vehicles
+ 2300/13    . Independent Multi-axle long vehicles
+ 2300/135   . . Vehicles having wheels mounted on a vertical
+ 2300/14    . Trailers, e.g. full trailers, caravans (relation between
+towing and towed vehicle B60Y 2300/28)
+ 2300/15    . Agricultural vehicles
+ 2300/154   . . Boom carrying vehicles, e.g. for crop spraying
+ 2300/156   . . Ridable lawn mowers
+ 2300/17    . Construction vehicles, e.g. graders, excavators
+ 2300/18    . Four-wheel drive vehicles
+ 2300/185   . . Off-road vehicles
+ 2300/28    . Racing vehicles, e.g. Formula one cars
+ 2300/32    . Amphibious vehicles
+ 2300/34    . Compact city vehicles
+ 2300/345   . . Three wheelers not including single track vehicles
+ 2300/36    . Cycles; Motorcycles; Scooters
+ 2300/38    . Wheelchairs; Perambulators
+ 2300/40    . Carts, e.g. trolleys
+ 2300/46    . Variable track or wheelbase vehicles
+ 2300/48    . Low or lowerable bed vehicles
+ 2300/50    . Tilting frame vehicles
+ 2400/00    Indexing codes relating to detected, measured or
+calculated conditions or factors
+Group B60W 2400/00 is incomplete pending
+reclassification of documents from groups
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+ 2420/00    Indexing codes relating to the type of sensors based
+on the principle of their operation
+Groups B60W 2420/00 - B60W 2420/905 are
+incomplete pending reclassification of documents
+from groups G05D 1/0061, G05D 1/0088,
+G05D 1/021, G05D 1/0214, G05D 1/0221, and
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+ 2420/10    . Transducer, e.g. piezoelectric elements
+ 2420/20    . Resistance type, e.g. potentiometer as level indicator
+ 2420/225   . . Wheatstone bridge circuit
+ 2420/24    . Capacitance type, e.g. as level indicator
+ 2420/30    . Switches, e.g. mercury or ball type switches
+ 2420/40    . Photo or light sensitive means, e.g. infrared sensors
+ 2420/403   . . Image sensing, e.g. optical camera
+ 2420/406   . . Fiber optic sensor
+ 2420/42    . Image sensing, e.g. optical camera
+ 2420/50    . Magnetic or electromagnetic sensors
+ 2420/503   . . Hall effect or magnetoresistive, i.e. active wheel
+ 2420/506   . . Inductive sensors, i.e. passive wheel sensors
+ 2420/54    . Audio sensitive means, e.g. ultrasound
+ 2420/90    . Single sensor for two or more measurements
+ 2420/905   . . the sensor being an xyz axis sensor
+ 2422/00    Indexing codes relating to the special location or
+Groups B60W 2422/00 - B60W 2422/95 are
+incomplete pending reclassification of documents
+from groups G05D 1/0061, G05D 1/0088,
+G05D 1/021, G05D 1/0214, G05D 1/0221, and
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+ 2422/10    . on a suspension arm
+ 2422/20    . on or inside a spring
+ 2422/202   . . the spring being a coil spring
+ 2422/205   . . the spring being a pneumatic spring
+ 2422/207   . . the spring being a leaf spring
+ 2422/50    . on a steering column
+ 2422/70    . on the wheel or the tire
+ 2422/80    . on wheel hub bearing
+ 2422/90    . on bumper, e.g. collision sensor
+ 2422/95    . Measuring the same parameter at multiple locations
+ 2510/00    Input parameters relating to a particular sub-units
+Groups B60W 2510/00 - B60W 2510/305 are
+incomplete pending reclassification of documents
+from groups G05D 1/0061, G05D 1/0088,
+G05D 1/021, G05D 1/0214, G05D 1/0221, and
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+ 2510/0208  . . Clutch engagement state, e.g. engaged or
+ 2510/0216  . . . Clutch engagement rate
+ 2510/0225  . . . Clutch actuator position
+ 2510/0233  . . . of torque converter lock-up clutch
+ 2510/0241  . . Clutch slip, i.e. difference between input and
+ 2510/025   . . . Slip change rate
+ 2510/0258  . . Clutch friction coefficient
+ 2510/0266  . . Moment of inertia
+ 2510/0283  . . Clutch input shaft speed
+ 2510/0291  . . Clutch temperature
+ 2510/06    . Combustion engines, Gas turbines
+ 2510/0604  . . Throttle position
+ 2510/0609  . . . Throttle change rate
+ 2510/0614  . . Position of fuel or air injector
+ 2510/0619  . . . Air-fuel ratio
+ 2510/0623  . . . Fuel flow rate
+ 2510/0628  . . . Inlet air flow rate
+ 2510/0633  . . Turbocharger state
+ 2510/0642  . . . Idle condition
+ 2510/0647  . . . Coasting condition
+ 2510/0652  . . . Speed change rate
+ 2510/0661  . . . Torque change rate
+ 2510/0671  . . Engine manifold pressure
+ 2510/0676  . . Engine temperature
+ 2510/068   . . Engine exhaust temperature
+ 2510/0685  . . Engine crank angle
+ 2510/069   . . Engine braking signal
+ 2510/08    . Electric propulsion units
+ 2510/082   . . . Speed change rate
+ 2510/084   . . . Torque change rate
+ 2510/086   . . . Power change rate
+ 2510/09    . Other types of propulsion units, e.g. fluid motors, or
+ 2510/10    . Change speed gearings
+ 2510/1005  . . Transmission ratio engaged
+ 2510/101   . . . Transmission neutral state
+ 2510/1015  . . Input shaft speed, e.g. turbine speed
+ 2510/102   . . . Input speed change rate
+ 2510/103   . . . Input torque change rate
+ 2510/1045  . . . Output speed change rate
+ 2510/1055  . . . Output torque change rate
+ 2510/1065  . . . Transmission of zero torque
+ 2510/1075  . . fluid pressure, e.g. oil pressure
+ 2510/108   . . . pressure of control fluid
+ 2510/1085  . . . pressure of working fluid
+ 2510/109   . . Direction of power flow
+ 2510/182   . . Brake pressure, e.g. of fluid or between pad and
+ 2510/184   . . Brake temperature, e.g. of fluid, pads or discs
+ 2510/186   . . Status of parking brakes
+ 2510/188   . . Parking lock mechanisms
+ 2510/202   . . Steering torque
+ 2510/207   . . Oversteer or understeer
+ 2510/22    . Suspension systems
+ 2510/227   . . Oscillation frequency
+ 2510/24    . Energy storage means
+ 2510/242   . . for electrical energy
+ 2510/248   . . . Age of storage means
+ 2510/30    . Auxiliary equipments
+ 2510/305   . . Power absorbed by auxiliaries
+ 2520/00    Input parameters relating to overall vehicle
+Groups B60W 2520/00 - B60W 2520/406 are
+incomplete pending reclassification of documents
+from groups G05D 1/0061, G05D 1/0088,
+G05D 1/021, G05D 1/0214, G05D 1/0221, and
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+ 2520/06    . Direction of travel
+ 2520/10    . Longitudinal speed
+ 2520/105   . . Longitudinal acceleration
+ 2520/125   . . Lateral acceleration
+ 2520/22    . Articulation angle, e.g. between tractor and trailer
+ 2520/263   . . Slip values between front and rear axle
+ 2520/266   . . Slip values between left and right wheel
+ 2520/40    . Torque distribution
+ 2520/403   . . between front and rear axle
+ 2520/406   . . between left and right wheel
+ 2530/00    Input parameters relating to vehicle conditions or
+values, not covered by groups B60W 2510/00 or
+Group B60W 2530/00 - B60W 2530/20 are
+incomplete pending reclassification of documents
+from groups B60K 28/00 - B60K 28/165,
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+ 2530/12    . Catalyst or filter state
+ 2530/16    . Driving resistance
+ 2530/18    . Distance travelled
+ 2530/201   . Dimensions of vehicle
+Groups B60W 2530/201 - B60W 2530/213
+are incomplete pending reclassification
+B60K 28/00 - B60K 28/165, B60W 30/12,
+B60W 30/16, B60W 30/162, B60W 30/165,
+B60W 30/17, B60W 30/182, B60W 50/082,
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2530/203   . Presence of trailer
+ 2530/205   . . Dimensions of trailer
+ 2530/209   . Fuel quantity remaining in tank
+ 2530/211   . Fuel quality, e.g. water content due to age of fuel
+ 2540/00    Input parameters relating to occupants
+Group B60W 2540/00 is incomplete pending
+reclassification of documents from groups
+B60K 28/00 - B60K 28/165, G05D 1/0061,
+G05D 1/0088, G05D 1/021, G05D 1/0214,
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+ 2540/01    . Occupants other than the driver
+Groups B60W 2540/01 - B60W 2540/049
+are incomplete pending reclassification
+B60K 28/00 - B60K 28/165, B60W 30/12,
+B60W 30/16, B60W 30/162, B60W 30/165,
+B60W 30/17, B60W 30/182, B60W 50/082,
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2540/041   . Potential occupants
+ 2540/043   . Identity of occupants
+ 2540/045   . Occupant permissions
+ 2540/047   . Prioritizing desires of multiple occupants, e.g. when
+setting climate control or driving behaviour
+ 2540/049   . Number of occupants
+Groups B60W 2540/06 - B60W 2540/20
+are incomplete pending reclassification
+B60K 28/00 - B60K 28/165, G05D 1/0061,
+G05D 1/0088, G05D 1/021, G05D 1/0214,
+ll groups listed in this Warning should be
+considered in order to perform a complete
+ 2540/10    . Accelerator pedal position
+ 2540/103   . . Accelerator thresholds, e.g. kickdown
+ 2540/12    . Brake pedal position
+ 2540/14    . Clutch pedal position
+ 2540/16    . Ratio selector position
+ 2540/20    . Direction indicator values
+Groups B60W 2540/21 - B60W 2540/215
+are incomplete pending reclassification
+B60K 28/00 - B60K 28/165, B60W 30/12,
+B60W 30/16, B60W 30/162, B60W 30/165,
+B60W 30/17, B60W 30/182, B60W 50/082,
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2540/215   . Selection or confirmation of options
+ 2540/22    . Psychological state; Stress level or workload
+Group B60W 2540/22 is incomplete pending
+reclassification of documents from groups
+B60K 28/00 - B60K 28/165, G05D 1/0061,
+G05D 1/0088, G05D 1/021, G05D 1/0214,
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2540/221   . Physiology, e.g. weight, heartbeat, health or special
+Groups B60W 2540/221 - B60W 2540/229
+are incomplete pending reclassification
+B60K 28/00 - B60K 28/165, B60W 30/12,
+B60W 30/16, B60W 30/162, B60W 30/165,
+B60W 30/17, B60W 30/182, B60W 50/082,
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2540/223   . Posture, e.g. hand, foot, or seat position, turned or
+ 2540/225   . Direction of gaze
+ 2540/227   . Position in the vehicle
+ 2540/229   . Attention level, e.g. attentive to driving, reading or
+ 2540/24    . Drug level, e.g. alcohol
+Groups B60W 2540/24 - B60W 2540/30
+are incomplete pending reclassification
+B60K 28/00 - B60K 28/165, G05D 1/0061,
+G05D 1/0088, G05D 1/021, G05D 1/0214,
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2552/00    Input parameters relating to infrastructure
+Group B60W 2552/00 is incomplete pending
+reclassification of documents from groups
+B60K 28/00 - B60K 28/165, G05D 1/0061,
+G05D 1/0088, G05D 1/021, G05D 1/0214,
+G05D 1/0221, and G05D 1/0223. Group
+B60W 2552/00 is also impacted by reclassification
+into groups B60W 2552/00 - B60W 2552/53.
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+Group B60W 2552/05 is incomplete
+pending reclassification of documents
+from groups B60K 28/00 - B60K 28/165,
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+Group B60W 2552/05 is also impacted by
+reclassification into groups B60W 2552/05 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+Groups B60W 2552/10 – B60W 2552/53
+are incomplete pending reclassification
+B60K 28/00 - B60K 28/165, B60W 2552/00,
+B60W 2552/05, G05D 1/0061, G05D 1/0088,
+G05D 1/021, G05D 1/0214, G05D 1/0221, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2552/30    . Road curve radius
+ 2552/35    . Road bumpiness, e.g. pavement or potholes
+ 2552/40    . Coefficient of friction
+ 2552/45    . Pedestrian sidewalk
+ 2552/53    . Road markings, e.g. lane marker or crosswalk
+ 2554/00    Input parameters relating to objects
+Group B60W 2554/00 is incomplete pending
+reclassification of documents from groups
+B60K 28/00 - B60K 28/165, G05D 1/0061,
+G05D 1/0088, G05D 1/021, G05D 1/0214,
+Group B60W 2554/00 is also impacted by
+reclassification into groups B60W 2554/20,
+B60W 2554/4023, B60W 2554/4026,
+B60W 2554/4041, B60W 2554/4042,
+B60W 2554/4043, B60W 2554/4044,
+B60W 2554/4045, B60W 2554/4046,
+B60W 2554/4047, B60W 2554/4048,
+B60W 2554/408, B60W 2554/60, B60W 2554/80,
+B60W 2554/805, and B60W 2554/806.
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+Groups B60W 2554/20 - B60W 2554/60
+are incomplete pending reclassification
+of documents from groups B60K 28/00,
+B60K 2028/003, B60K 2028/006, B60K 28/02,
+B60K 28/04, B60K 28/06, B60K 28/063,
+B60K 28/066, B60K 28/08, B60K 28/10,
+B60K 28/12, B60K 28/14, B60K 28/16,
+B60K 28/165, B60W 2554/00, G05D 1/0061,
+G05D 1/0088, G05D 1/021, G05D 1/0214,
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2554/40    . Dynamic objects, e.g. animals, windblown objects
+ 2554/4023  . . . large-size vehicles, e.g. trucks
+ 2554/404   . . Characteristics
+ 2554/4042  . . . Longitudinal speed
+ 2554/4043  . . . Lateral speed
+ 2554/4044  . . . Direction of movement, e.g. backwards
+ 2554/4045  . . . Intention, e.g. lane change or imminent
+ 2554/4046  . . . Behavior, e.g. aggressive or erratic
+ 2554/4047  . . . Attentiveness, e.g. distracted by mobile phone
+ 2554/4048  . . . Field of view, e.g. obstructed view or direction
+ 2554/4049  . . . Relationship among other objects, e.g.
+ 2554/406   . . Traffic density
+ 2554/408   . . Traffic behavior, e.g. swarm
+ 2554/60    . Traversable objects, e.g. speed bumps or curbs
+ 2554/80    . Spatial relation or speed relative to objects
+Group B60W 2554/80 is incomplete pending
+reclassification of documents from groups
+B60K 28/00 - B60K 28/165, B60W 2554/00,
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+Group B60W 2554/80 is also impacted by
+reclassification into groups B60W 2554/801,
+B60W 2554/804, B60W 2554/805, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2554/801   . . Lateral distance
+Groups B60W 2554/801 - B60W 2554/806
+are incomplete pending reclassification
+of documents from groups B60K 28/00,
+B60K 28/02, B60K 28/04, B60K 28/06,
+B60K 28/063, B60K 28/066, B60K 28/08,
+B60K 28/10, B60K 28/12, B60K 28/14,
+B60K 28/16, B60K 28/165, B60W 2554/00,
+B60W 2554/80, G05D 1/0061, G05D 1/0088,
+G05D 1/021, G05D 1/0214, G05D 1/0221, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2554/802   . . Longitudinal distance
+ 2554/803   . . Relative lateral speed
+ 2554/804   . . Relative longitudinal speed
+ 2554/806   . . Relative heading
+ 2555/00    Input parameters relating to exterior conditions,
+not covered by groups B60W 2552/00,
+Groups B60W 2555/00 - B60W 2555/80 are
+incomplete pending reclassification of documents
+from groups B60K 28/00 - B60K 28/165,
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+ 2555/20    . Ambient conditions, e.g. wind or rain
+ 2555/60    . Traffic rules, e.g. speed limits or right of way
+ 2555/80    . . Country specific, e.g. driver age limits or right
+ 2556/00    Input parameters relating to data
+Groups B60W 2556/00 – B60W 2556/40 are
+incomplete pending reclassification of documents
+from groups B60K 28/00 - B60K 28/165,
+B60W 30/12, B60W 30/16, B60W 30/162,
+B60W 30/165, B60W 30/17, B60W 30/182,
+B60W 50/082, G05D 1/0061, G05D 1/0088,
+G05D 1/021, G05D 1/0214, G05D 1/0221, and
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+ 2556/20    . Data confidence level
+ 2556/40    . High definition maps
+ 2556/45    . External transmission of data to or from the vehicle
+Groups B60W 2556/45 - B60W 2556/65
+are incomplete pending reclassification
+B60K 28/00 - B60K 28/165, B60W 30/12,
+B60W 30/16, B60W 30/162, B60W 30/165,
+B60W 30/17, B60W 30/182, B60W 50/082,
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2556/50    . . for navigation systems
+ 2556/55    . . using telemetry
+ 2556/60    . . using satellite communication
+ 2556/65    . . Data transmitted between vehicles
+ 2710/00    Output or target parameters relating to a
+Groups B60W 2710/00 - B60W 2710/305 are
+incomplete pending reclassification of documents
+from groups G05D 1/0061, G05D 1/0088,
+G05D 1/021, G05D 1/0214, G05D 1/0221, and
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+ 2710/021   . . Clutch engagement state
+ 2710/022   . . . Clutch actuator position
+ 2710/023   . . . Clutch engagement rate
+ 2710/024   . . . of torque converter lock-up clutch
+ 2710/025   . . Clutch slip, i.e. difference between input and
+ 2710/026   . . . Slip change rate
+ 2710/028   . . Clutch input shaft speed
+ 2710/029   . . Clutch temperature
+ 2710/06    . Combustion engines, Gas turbines
+ 2710/0605  . . Throttle position
+ 2710/0611  . . . Throttle change rate
+ 2710/0616  . . Position of fuel or air injector
+ 2710/0622  . . . Air-fuel ratio
+ 2710/0627  . . . Fuel flow rate
+ 2710/0633  . . . Inlet air flow rate
+ 2710/0638  . . Turbocharger state
+ 2710/065   . . . Idle condition
+ 2710/0655  . . . Coasting condition
+ 2710/0661  . . . Speed change rate
+ 2710/0672  . . . Torque change rate
+ 2710/0683  . . Engine manifold pressure
+ 2710/0688  . . Engine temperature
+ 2710/0694  . . Engine exhaust temperature
+ 2710/08    . Electric propulsion units
+ 2710/082   . . . Speed change rate
+ 2710/085   . . . Torque change rate
+ 2710/087   . . . Power change rate
+ 2710/09    . Other types of propulsion units, e.g. fluid motors, or
+ 2710/10    . Change speed gearings
+ 2710/1005  . . Transmission ratio engaged
+ 2710/1011  . . Input shaft speed, e.g. turbine speed
+ 2710/1016  . . . Input speed change rate
+ 2710/1027  . . . Input torque change rate
+ 2710/1044  . . . Output speed change rate
+ 2710/1055  . . . Output torque change rate
+ 2710/1066  . . . Transmission of zero torque
+ 2710/1077  . . fluid pressure, e.g. oil pressure
+ 2710/1083  . . . pressure of control fluid
+ 2710/1088  . . . pressure of working fluid
+ 2710/1094  . . Direction of power flow
+ 2710/182   . . Brake pressure, e.g. of fluid or between pad and
+ 2710/184   . . Brake temperature, e.g. of fluid, pads or discs
+ 2710/186   . . Status of parking brakes
+ 2710/188   . . Parking lock mechanisms
+ 2710/202   . . Steering torque
+ 2710/207   . . Steering angle of wheels
+ 2710/22    . Suspension systems
+ 2710/24    . Energy storage means
+ 2710/242   . . for electrical energy
+ 2710/248   . . . Current for loading or unloading
+ 2710/30    . Auxiliary equipments
+ 2710/305   . . target power to auxiliaries
+ 2720/00    Output or target parameters relating to overall
+Groups B60W 2720/00 - B60W 2720/406 are
+incomplete pending reclassification of documents
+from groups G05D 1/0061, G05D 1/0088,
+G05D 1/021, G05D 1/0214, G05D 1/0221, and
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+ 2720/10    . Longitudinal speed
+ 2720/106   . . Longitudinal acceleration
+ 2720/125   . . Lateral acceleration
+ 2720/22    . Articulation angle, e.g. between tractor and trailer
+ 2720/24    . Direction of travel
+ 2720/263   . . Slip values between front and rear axle
+ 2720/266   . . Slip values between left and right wheel
+ 2720/40    . Torque distribution
+ 2720/403   . . between front and rear axle
+ 2720/406   . . between left and right wheel
+ 2754/00    Output or target parameters relating to objects
+Group B60W 2754/00 is incomplete pending
+reclassification of documents from groups
+B60K 28/00 - B60K 28/165, G05D 1/0061,
+G05D 1/0088, G05D 1/021, G05D 1/0214,
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+ 2754/10    . Spatial relation or speed relative to objects
+Groups B60W 2754/10 is incomplete pending
+reclassification of documents from groups
+B60K 28/00, B60K 2028/003, B60K 2028/006,
+B60K 28/02, B60K 28/04, B60K 28/06,
+B60K 28/063, B60K 28/066, B60K 28/08,
+B60K 28/10, B60K 28/12, B60K 28/14,
+B60K 28/16, B60K 28/165, G05D 1/0061,
+G05D 1/0088, G05D 1/021, G05D 1/0214,
+Group B60W 2754/10 is also impacted by
+reclassification into groups B60W 2754/20,
+B60W 2754/30, B60W 2754/40, B60W 2754/50,
+B60W 2754/60, and B60W 2754/70.
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2754/20    . . Lateral distance
+Groups B60W 2754/20 - B60W 2754/70
+are incomplete pending reclassification
+B60K 28/00 - B60K 28/165, B60W 2754/10,
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2754/30    . . Longitudinal distance
+ 2754/40    . . Relative lateral speed
+ 2754/50    . . Relative longitudinal speed
+ 2754/70    . . Relative heading
+ 2756/00    Output or target parameters relating to data
+Group B60W 2756/00 - B60W 2756/10 are
+incomplete pending reclassification of documents
+from groups B60K 28/00 - B60K 28/165,
+G05D 1/0061, G05D 1/0088, G05D 1/021,
+G05D 1/0214, G05D 1/0221, and G05D 1/0223.
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+ 2756/10    . Involving external transmission of data to or from
+ 2900/00    Indexing codes relating to the purpose of, or
+problem solved of road vehicle drive control
+systems not otherwise provided for in groups
+Group B60W 2900/00 is incomplete pending
+reclassification of documents from groups
+G05D 1/021, G05D 1/0214, G05D 1/0221, and
+All groups listed in this Warning should be
+considered in order to perform a complete search.

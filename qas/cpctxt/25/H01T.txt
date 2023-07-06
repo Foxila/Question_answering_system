@@ -1,0 +1,101 @@
+COOPERATIVE PATENT CLASSIFICATION
+SPARK GAPS; OVERVOLTAGE ARRESTERS USING SPARK GAPS; SPARKING
+PLUGS; CORONA DEVICES; GENERATING IONS TO BE INTRODUCED INTO
+NON-ENCLOSED GASES (overvoltage protection circuits H02H)
+In this subclass, the term "spark gaps" is used with the following meaning:
+• enclosed or non-enclosed discharge device having cold electrodes and used exclusively to discharge a quantity of electrical
+energy in a small time duration.
+    1/00    Details of spark gaps
+    1/02    . Means for extinguishing arc
+    1/04    . . using magnetic blow-out
+    1/06    . . . with permanent magnet
+    1/08    . . using flow of arc-extinguishing fluid
+    1/10    . . . with extinguishing fluid evolved from solid
+    1/12    . Means structurally associated with spark gap for
+    1/14    . Means structurally associated with spark gap for
+protecting it against overload or for disconnecting
+it in case of failure (H01T 1/15, H01T 1/16,
+H01T 1/18 take precedence; emergency protective
+circuit arrangements for spark gap arrestors
+    1/15    . for protection against excessive pressure
+    1/16    . Series resistor structurally associated with spark gap
+    1/18    . Electrolytic device structurally associated with
+    1/20    . Means for starting arc or facilitating ignition of
+    1/22    . . by the shape or the composition of the electrodes
+    1/24    . Selection of materials for electrodes (H01T 1/22
+    2/00    Spark gaps comprising auxiliary triggering means
+(triggering circuits H01T 15/00)
+    2/02    . comprising a trigger electrode or an auxiliary spark
+    4/00    Overvoltage arresters using spark gaps (H01T 2/00
+takes precedence; overvoltage protection circuits
+    4/04    . Housings (H01T 4/06 takes precedence)
+    4/06    . Mounting arrangements for a plurality of
+    4/08    . structurally associated with protected apparatus
+(with switches H01H 9/14; with fuses H01H 85/44)
+    4/10    . having a single gap or a plurality of gaps in parallel
+    4/12    . . hermetically sealed
+    4/14    . . Arcing horns (associated with insulators
+    4/16    . having a plurality of gaps arranged in series
+    4/18    . . Arrangements for reducing height of stacked
+    4/20    . . Arrangements for improving potential distribution
+    7/00    Rotary spark gaps, i.e. devices having one or more
+    9/00    Spark gaps specially adapted for generating
+   11/00    Spark gaps specially adapted as rectifiers
+   13/04    . . Means providing electrical connection to sparking
+   13/05    . . . combined with interference suppressing or
+   13/06    . . Covers forming a part of the plug and protecting
+   13/08    . . Mounting, fixing or sealing of sparking plugs, e.g.
+   13/10    . . . by bayonet-type connection
+   13/12    . . Means on sparking plugs for facilitating
+   13/14    . . Means for self-cleaning
+   13/16    . . Means for dissipating heat
+   13/18    . . Means for heating, e.g. for drying
+   13/20    . characterised by features of the electrodes or
+   13/22    . . having two or more electrodes embedded in
+insulation (sparking plugs having two or more
+   13/24    . . having movable electrodes (H01T 13/28 takes
+   13/26    . . . for adjusting spark gap otherwise than by
+   13/28    . . having spherically shaped electrodes, e.g. ball-
+   13/30    . . . mounted so as to permit free movement
+   13/32    . . characterised by features of the earthed electrode
+   13/34    . . characterised by the mounting of electrodes in
+   13/36    . . characterised by the joint between insulation and
+   13/38    . . Selection of materials for insulation
+   13/39    . . Selection of materials for electrodes
+   13/40    . structurally combined with other devices (combined
+or associated with fuel injectors F02M 57/06;
+structurally combined with other parts of internal-
+   13/41    . . with interference suppressing or shielding means
+   13/42    . . with magnetic spark generators
+   13/44    . . with transformers, e.g. for high-frequency
+   13/46    . having two or more spark gaps
+   13/462   . . {in series connection}
+   13/465   . . . {one spark gap being incorporated in the
+   13/467   . . {in parallel connection}
+   13/48    . having means for rendering sparks visible
+   13/50    . having means for ionisation of gap (H01T 13/52
+   13/52    . characterised by a discharge along a surface
+   13/54    . having electrodes arranged in a partly-enclosed
+   13/56    . characterised by having component parts which are
+easily assembled or disassembled
+   13/58    . Testing (testing characteristics of the spark in
+internal-combustion engine ignition F02P 17/12)
+   13/60    . . of electrical properties
+   14/00    Spark gaps not provided for in groups
+H01T 2/00 - H01T 13/00 (devices providing for
+   15/00    Circuits specially adapted for spark gaps, e.g.
+ignition circuits (ignition circuits for internal-
+combustion engines F02P; electric spark ignition for
+combustion apparatus F23Q; protection circuits using
+   19/00    Devices providing for corona discharge (for
+charging electrographic elements G03G 15/02)
+   19/04    . having pointed electrodes
+   21/00    Apparatus or processes specially adapted for the
+manufacture or maintenance of spark gaps or
+   21/02    . of sparking plugs
+   21/04    . . Cleaning (means for self-cleaning H01T 13/14;
+abrasive blasting devices for cleaning sparking-
+   21/06    . Adjustment of spark gaps (sparking-plugs
+having movable electrodes for adjusting the gap
+   23/00    Apparatus for generating ions to be introduced
+into non-enclosed gases, e.g. into the atmosphere

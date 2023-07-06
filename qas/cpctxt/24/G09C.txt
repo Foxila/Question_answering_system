@@ -1,0 +1,41 @@
+COOPERATIVE PATENT CLASSIFICATION
+EDUCATION; CRYPTOGRAPHY; DISPLAY; ADVERTISING; SEALS
+CIPHERING OR DECIPHERING APPARATUS FOR CRYPTOGRAPHIC OR OTHER
+PURPOSES INVOLVING THE NEED FOR SECRECY
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Apparatus or methods whereby a given sequence
+of signs, e.g. an intelligible text, is transformed into
+an unintelligible sequence of signs by transposing
+the signs or groups of signs or by replacing them
+by others according to a predetermined system
+(cryptographic typewriters G09C 3/00)
+    1/02    . by using a ciphering code in chart form
+    1/04    . with sign carriers or indicators moved relative
+to one another to positions determined by a
+permutation code, or key, so as to indicate the
+appropriate corresponding clear or ciphered text
+    1/06    . wherein elements corresponding to the signs making
+up the clear text are operatively connected with
+elements corresponding to the signs making up the
+ciphered text, the connections, during operation of
+the apparatus, being automatically and continuously
+permuted by a coding or key member
+    1/08    . . the connections being mechanical
+    1/10    . . the connections being electrical
+    1/12    . . . comprising contact-bearing permutation discs
+    1/14    . . involving removable or interchangeable coding
+numbers, e.g. master tapes, punched cards
+    3/00    Typewriters for ciphering or deciphering
+cryptographic text (marking record carriers G06K)
+    3/02    . with auxiliary keys or keyboards acting on the
+    3/04    . wherein the operative connections between the
+keys and the type-bars are automatically and
+continuously permuted, during operation, by a
+    3/06    . . the connections being mechanical
+    3/08    . . the connections being electrical
+    3/10    . . involving removable or interchangeable coding
+members, e.g. master tapes, punched cards
+    5/00    Ciphering apparatus or methods not provided
+for in the preceding groups, e.g. involving the
+concealment or deformation of graphic data such
+as designs, written or printed messages

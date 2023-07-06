@@ -1,0 +1,1116 @@
+COOPERATIVE PATENT CLASSIFICATION
+ELECTRICALLY-CONDUCTIVE CONNECTIONS; STRUCTURAL ASSOCIATIONS
+OF A PLURALITY OF MUTUALLY-INSULATED ELECTRICAL CONNECTING
+ELEMENTS; COUPLING DEVICES; CURRENT COLLECTORS
+• all kinds of contact-making disconnectable and non-disconnectable electric line connecting devices, coupling devices,
+lamp or similar holders or current collectors for all kinds of electric lines, cables or apparatus;
+• non-printed means for electric connections to or between printed circuits.
+2. This subclass does not cover mounting of connections in or on specified apparatus. Such mounting is covered by the relevant
+subclass for such apparatus, e.g. mounting in junction or distribution boxes is covered by subclass H02B or H02G, high-
+temperature connections for heating elements is covered by group H05B 3/08. Structural association of one part of a coupling
+device with specific electric apparatus is classified with the apparatus, e.g. association of cap with incandescent lamp is
+3. In this subclass, the following expressions are used with the meaning indicated:
+• "pin" is a rigid or flexible conductor for engagement with an appropriately shaped socket to establish contact therewith;
+• "socket" is a rigid or flexible conductor for receiving an appropriate pin to establish electrical contact therewith;
+• "coupling devices" are devices having two or more parts specially adapted so as to be capable of ready and repeated
+physical engagement or disengagement, without the use of a tool, for the purpose of establishing or breaking an electrical
+path. Examples of such devices having more than two parts:
+a. adapters for linking two coupling parts;
+b. rails or bus-bars provided with a plurality of discrete connecting locations for counterparts.  
+4. General details are classified in groups H01R 4/00, H01R 9/00, H01R 11/00, H01R 12/00.
+5. {In this subclass, a contact in a coupling device is regarded as an additional earth contact only if this contact is clearly
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    3/00    Electrically-conductive connections not otherwise
+    3/08    . for making connection to a liquid {(slip rings with
+liquid contacts H01R 39/30, H01R 39/646)}
+    4/00    Electrically-conductive connections between two
+or more conductive members in direct contact,
+i.e. touching one another; Means for effecting or
+maintaining such contact; Electrically-conductive
+connections having two or more spaced connecting
+locations for conductors and using contact
+    4/01    . Connections using shape memory materials, e.g.
+    4/02    . Soldered or welded connections {(H01R 4/625,
+H01R 4/723, H01R 12/59 take precedence)}
+    4/021   . . {between two or more cables or wires}
+    4/022   . . . {comprising preapplied solder}
+    4/023   . . {between cables or wires and terminals}
+    4/024   . . . {comprising preapplied solder}
+    4/025   . . {with built-in heat generating elements}
+    4/026   . . {comprising means for eliminating an insulative
+layer prior to soldering or welding}
+    4/027   . . {comprising means for positioning or holding the
+parts to be soldered or welded}
+    4/028   . . {comprising means for preventing flowing or
+wicking of solder or flux in parts not desired}
+    4/029   . . {Welded connections (H01R 4/021 - H01R 4/028
+    4/04    . using electrically conductive adhesives
+    4/06    . Riveted connections (by explosion H01R 4/08)
+    4/08    . effected by an explosion
+    4/10    . effected solely by twisting, wrapping, bending,
+crimping, or other permanent deformation
+    4/18    . . by crimping {(H01R 4/01, H01R 4/2495 take
+precedence; for coaxial cables H01R 9/0518)}
+    4/182   . . . {for flat conductive elements, e.g. flat cables
+    4/183   . . . {for cylindrical elongated bodies, e.g. cables
+having circular cross-section (H01R 4/01 takes
+    4/184   . . . . {comprising a U-shaped wire-receiving
+    4/185   . . . . . {combined with a U-shaped insulation-
+    4/186   . . . . {using a body comprising a plurality of
+cable-accommodating recesses or bores}
+    4/187   . . . {combined with soldering or welding}
+    4/188   . . . {having an uneven wire-receiving surface to
+    4/20    . . . using a crimping sleeve {(H01R 4/01 takes
+    4/203   . . . . {having an uneven wire-receiving surface to
+    4/206   . . . . . {with transversal grooves or threads}
+    4/22    . End caps, i.e. of insulating or conductive material
+for covering or maintaining connections between
+wires entering the cap from the same end
+    4/24    . Connections using contact members penetrating or
+cutting insulation or cable strands
+    4/2404  . . the contact members having teeth, prongs, pins or
+needles penetrating the insulation
+    4/2406  . . . having needles or pins
+    4/2407  . . . having saw-tooth projections
+    4/2408  . . . actuated by clamping screws
+    4/2412  . . . actuated by insulated cams or wedges
+    4/2416  . . the contact members having insulation-cutting
+edges, e.g. of tuning fork type
+    4/242   . . . the contact members being plates having a
+    4/2425  . . . . Flat plates, e.g. multi-layered flat plates
+    4/2429  . . . . . mounted in an insulating base
+    4/2433  . . . . . . one part of the base being movable to
+    4/2437  . . . . Curved plates
+    4/2441  . . . . . tube-shaped
+    4/2445  . . . the contact members having additional means
+acting on the insulation or the wire, e.g.
+additional insulation penetrating means, strain
+relief means or wire cutting knives
+    4/245   . . . . the additional means having two or more
+    4/2452  . . . . . in serial configuration, e.g. opposing
+    4/2454  . . . . . forming a U-shape with slotted branches
+    4/2455  . . . . . . forming a slotted bight
+    4/2456  . . . . . in parallel configuration
+    4/2458  . . . . the contact members being in a slotted
+tubular configuration, e.g. slotted tube-end
+    4/2462  . . . . the contact members being in a slotted bent
+configuration, e.g. slotted bight
+    4/2466  . . . . the contact members having a channel-
+shaped part, the opposite sidewalls of which
+comprise insulation-cutting means
+    4/247   . . the contact members penetrating the insulation
+    4/2475  . . the contact members penetrating the insulation
+being actuated by screws, nuts or bolts
+    4/2479  . . . penetrating the area under the screw head
+    4/2483  . . . penetrating the area under the screw tip
+    4/2487  . . . penetrating by means of the screw thread
+    4/2491  . . the contact members penetrating the insulation
+being actuated by conductive cams or wedges
+    4/2495  . . Insulation penetration combined with permanent
+deformation of the contact member, e.g. crimping
+    4/26    . Connections in which at least one of the connecting
+parts has projections which bite into or engage
+the other connecting part in order to improve the
+contact ({H01R 4/188, H01R 4/203, H01R 4/5075
+take precedence}; using shape memory materials
+    4/28    . Clamped connections, spring connections (made
+by means of terminals specially adapted for contact
+with, or insertion into, printed circuits H01R 12/00)
+    4/30    . . utilising a screw or nut clamping member
+(H01R 4/50 takes precedence; utilising a
+clamping member acted on by screw or nut
+H01R 4/38; {for coaxial cables H01R 9/0521})
+    4/301   . . . {having means for preventing complete
+    4/302   . . . {having means for preventing loosening of
+screw or nut, e.g. vibration-proof connection}
+    4/304   . . . {having means for improving contact}
+    4/305   . . . {having means for facilitating engagement
+of conductive member or for holding it in
+    4/307   . . . {characterised by the thread of the screw or
+    4/308   . . . {Conductive members located parallel to axis
+    4/32    . . . Conductive members located in slot or hole in
+    4/34    . . . Conductive members located under head of
+    4/36    . . . Conductive members located under tip of screw
+    4/363   . . . . {with intermediate part between tip and
+    4/366   . . . . . {intermediate part attached to the tip of the
+    4/38    . . utilising a clamping member acted on by screw or
+nut (H01R 4/50 takes precedence)
+    4/40    . . . Pivotable clamping member
+    4/42    . . . Clamping area to one side of screw only
+    4/44    . . . Clamping areas on both sides of screw
+    4/46    . . . Clamping area between two screws placed side
+    4/48    . . utilising a spring, clip, or other resilient member
+    4/4809  . . . {using a leaf spring}
+    4/4818  . . . . {adapted for axial insertion of a wire end}
+    4/4827  . . . . . {with an opening in the housing for
+    4/4836  . . . . . {with integral release means}
+    4/4845  . . . . {insertion of a wire only possible by pressing
+    4/4854  . . . {using a wire spring}
+    4/4863  . . . . {Coil spring}
+    4/4872  . . . . . {axially compressed to retain wire end}
+    4/4881  . . . {using a louver type spring}
+    4/489   . . . {spring force increased by screw, cam, wedge,
+    4/50    . . utilising a cam, wedge, cone or ball {also
+    4/5008  . . . {using rotatable cam}
+    4/5016  . . . {using a cone}
+    4/5025  . . . . {combined with a threaded ferrule operating
+in a direction parallel to the conductor}
+    4/5033  . . . {using wedge or pin penetrating into the end of
+a wire in axial direction of the wire}
+    4/5041  . . . {using a tapered groove}
+    4/505   . . . {using an excentric element}
+    4/5058  . . . {using a ball}
+    4/5066  . . . {mounted in an insulating housing having a
+cover providing clamping force}
+    4/5075  . . . {having an uneven wire receiving surface to
+    4/5083  . . . {using a wedge}
+    4/5091  . . . . {combined with a screw}
+    4/52    . . . which is spring loaded
+    4/54    . {Bayonet or keyhole}
+    4/56    . one conductor screwing into another
+    4/58    . characterised by the form or material of the
+contacting members (H01R 4/01 takes precedence)
+    4/60    . . Connections between or with tubular conductors
+    4/62    . . Connections between conductors of different
+materials; Connections between or with
+aluminium or steel-core aluminium conductors
+    4/625   . . . {Soldered or welded connections}
+    4/64    . . Connections between or with conductive parts
+having primarily a non-electric function, e.g.
+    4/643   . . . {for rigid cylindrical bodies}
+    4/646   . . . {for cables or flexible cylindrical bodies}
+    4/66    . . Connections with the terrestrial mass, e.g. earth
+    4/68    . . Connections to or between superconductive
+    4/70    . Insulation of connections (end caps H01R 4/22)
+    4/72    . . using a heat shrinking insulating sleeve
+    4/723   . . . {Making a soldered electrical connection
+simultaneously with the heat shrinking}
+    4/726   . . . {Making a non-soldered electrical connection
+simultaneously with the heat shrinking}
+    9/00    Structural associations of a plurality of mutually-
+insulated electrical connecting elements, e.g.
+terminal strips or terminal blocks; Terminals or
+binding posts mounted upon a base or in a case;
+    9/03    . Connectors arranged to contact a plurality of the
+conductors of a multiconductor cable {, e.g. tapping
+    9/031   . . {for multiphase cables, e.g. with contact members
+penetrating insulation of a plurality of conductors
+(insulation penetrating contact members in
+    9/05    . . for coaxial cables
+    9/0503  . . . {Connection between two cable ends}
+    9/0506  . . . {Connection between three or more cable
+    9/0509  . . . {Tapping connections}
+    9/0512  . . . {Connections to an additional grounding
+    9/0515  . . . {Connection to a rigid planar substrate, e.g.
+    9/0518  . . . {Connection to outer conductor by crimping or
+    9/0521  . . . {Connection to outer conductor by action of a
+    9/0524  . . . {Connection to outer conductor by action of a
+clamping member, e.g. screw fastening means
+(H01R 9/0515 takes precedence)}
+    9/0527  . . . {Connection to outer conductor by action of a
+    9/053   . . . using contact members penetrating insulation
+    9/11    . End pieces for multiconductor cables supported
+by the cable and for facilitating connections to
+other conductive members {, e.g. for liquid cooled
+    9/15    . Connectors for wire wrapping
+    9/16    . Fastening of connecting parts to base or case;
+Insulating connecting parts from base or case
+    9/18    . . Fastening by means of screw or nut
+    9/20    . . Fastening by means of rivet or eyelet
+    9/22    . Bases, e.g. strip, block, panel {(for printed circuits
+    9/223   . . {Insulating enclosures for terminals (for switches
+    9/226   . . {comprising a plurality of conductive flat
+strips providing connection between wires or
+components (H01R 9/2425 takes precedence)}
+    9/24    . . Terminal blocks
+    9/2408  . . . {Modular blocks (H01R 9/26 takes
+    9/2416  . . . {Means for guiding or retaining wires or cables
+    9/2425  . . . {Structural association with built-in
+components (for coupling parts H01R 13/66)}
+    9/2433  . . . . {with built-in switch}
+    9/2441  . . . . {with built-in overvoltage protection}
+    9/245   . . . . {with built-in fuse}
+    9/2458  . . . {Electrical interconnections between terminal
+    9/2466  . . . . {using a planar conductive structure, e.g.
+    9/2475  . . . {Means facilitating correct wiring, e.g. marking
+    9/2483  . . . {specially adapted for ground connection}
+    9/2491  . . . {Terminal blocks structurally associated with
+    9/26    . . . Clip-on terminal blocks for side-by-side rail- or
+    9/2608  . . . . {Fastening means for mounting on support
+rail or strip (H01R 9/2691 takes precedence;
+for switch or other electrical device
+    9/2616  . . . . {End clamping members}
+    9/2625  . . . . {with built-in electrical component}
+    9/2633  . . . . . {with built-in switch}
+    9/2641  . . . . . {with built-in overvoltage protection}
+    9/265   . . . . . {with built-in fuse}
+    9/2658  . . . . . {with built-in data-bus connection}
+    9/2666  . . . . . {with built-in test-points}
+    9/2675  . . . . {Electrical interconnections between two
+blocks, e.g. by means of busbars}
+    9/2683  . . . . {Marking plates or tabs}
+    9/2691  . . . . {with ground wire connection to the rail}
+    9/28    . . Terminal boards
+   11/00    Individual connecting elements providing
+two or more spaced connecting locations for
+conductive members which are, or may be, thereby
+interconnected, e.g. end pieces for wires or cables
+supported by the wire or cable and having means
+for facilitating electrical connection to some other
+wire, terminal, or conductive member, blocks of
+   11/01    . characterised by the form or arrangement of the
+conductive interconnection between the connecting
+   11/03    . characterised by the relationship between
+the connecting locations (H01R 11/11 takes
+   11/05    . . the connecting locations having different types of
+   11/07    . . the connecting locations being of the same type
+   11/09    . . the connecting locations being identical
+   11/11    . End pieces or tapping pieces for wires, supported
+by the wire and for facilitating electrical connection
+to some other wire, terminal or conductive member
+   11/12    . . End pieces terminating in an eye, hook, or fork
+   11/14    . . . the hook being adapted for hanging on
+overhead or other suspended lines, e.g. hot line
+   11/15    . . . . Hook in the form of a screw clamp
+   11/16    . . End pieces terminating in a soldering tip or socket
+   11/18    . . End pieces terminating in a probe
+   11/20    . . End pieces terminating in a needle point or
+analogous contact for penetrating insulation or
+   11/22    . . End pieces terminating in a spring clip
+   11/24    . . . with gripping jaws, e.g. crocodile clip
+   11/26    . . End pieces terminating in a screw clamp, screw or
+   11/28    . . End pieces consisting of a ferrule or sleeve
+   11/281   . . . {for connections to batteries}
+   11/282   . . . . {comprising means for facilitating
+engagement or disengagement, e.g. quick
+   11/283   . . . . {Bolt, screw or threaded ferrule parallel to
+   11/284   . . . . {comprising means for preventing corrosion,
+e.g. covers, enclosures filled with gel}
+   11/285   . . . . {Battery post and cable secured by the same
+   11/286   . . . . {having means for improving contact
+between battery post and clamping member,
+   11/287   . . . . {Intermediate parts between battery post and
+   11/288   . . . . {Interconnections between batteries}
+   11/289   . . . . {characterised by the shape or the structure
+   11/30    . . End pieces held in contact by a magnet
+   11/32    . . End pieces with two or more terminations
+   12/00    Structural associations of a plurality of mutually-
+insulated electrical connecting elements, specially
+adapted for printed circuits, e.g. printed circuit
+boards [PCB], flat or ribbon cables, or like
+generally planar structures, e.g. terminal strips,
+terminal blocks; Coupling devices specially
+adapted for printed circuits, flat or ribbon cables,
+or like generally planar structures; Terminals
+specially adapted for contact with, or insertion
+into, printed circuits, flat or ribbon cables, or like
+generally planar structures (printed connections to,
+or between, printed circuits H05K 1/11)
+   12/50    . Fixed connections
+   12/51    . . for rigid printed circuits or like structures
+   12/515   . . . {Terminal blocks providing connections to
+   12/52    . . . connecting to other rigid printed circuits or like
+   12/523   . . . . {by an interconnection through aligned holes
+in the boards or multilayer board}
+   12/526   . . . . {the printed circuits being on the same board
+(with plated through holes H05K 3/42)}
+   12/53    . . . connecting to cables except for flat or ribbon
+   12/55    . . . characterised by the terminals
+   12/57    . . . . surface mounting terminals
+   12/58    . . . . terminals for insertion into holes
+   12/585   . . . . . {Terminals having a press fit or a
+compliant portion and a shank passing
+through a hole in the printed circuit board}
+   12/59    . . for flexible printed circuits, flat or ribbon cables
+   12/592   . . . {connections to contact elements}
+   12/594   . . . {for shielded flat cable}
+   12/596   . . . . {Connection of the shield to an additional
+grounding conductor, e.g. drain wire}
+   12/598   . . . . {Each conductor being individually
+surrounded by shield, e.g. multiple coaxial
+   12/61    . . . connecting to flexible printed circuits, flat or
+ribbon cables or like structures
+   12/613   . . . . {by means of interconnecting elements}
+   12/616   . . . . . {having contacts penetrating insulation
+for making contact with conductors, e.g.
+   12/62    . . . connecting to rigid printed circuits or like
+   12/63    . . . connecting to another shape cable
+   12/65    . . . characterised by the terminal
+   12/67    . . . . insulation penetrating terminals
+   12/675   . . . . . {with contacts having at least a slotted
+plate for penetration of cable insulation,
+e.g. insulation displacement contacts for
+   12/68    . . . . . comprising deformable portions
+   12/69    . . . . deformable terminals, e.g. crimping
+   12/7005  . . {Guiding, mounting, polarizing or locking means;
+Extractors (for printed circuit boards H05K)}
+   12/7011  . . . {Locking or fixing a connector to a PCB}
+   12/7017  . . . . {Snap means}
+   12/7023  . . . . . {integral with the coupling device}
+   12/7029  . . . . . {not integral with the coupling device}
+   12/7035  . . . . {involving non-elastic deformation, e.g.
+plastic deformation, melting (H01R 12/7064
+   12/7041  . . . . {Gluing or taping}
+   12/7047  . . . . {with a fastener through a screw hole in the
+   12/7052  . . . . {characterised by the locating members}
+   12/7058  . . . . {characterised by the movement, e.g.
+pivoting, camming or translating parallel to
+   12/7064  . . . . {Press fitting}
+   12/707   . . . . {Soldering or welding}
+   12/7076  . . {for connection between PCB and component,
+   12/7082  . . {Coupling device supported only by cooperation
+   12/7088  . . {Arrangements for power supply}
+   12/7094  . . {with switch operated by engagement of PCB}
+   12/71    . . for rigid printing circuits or like structures
+   12/712   . . . {co-operating with the surface of the printed
+circuit or with a coupling device exclusively
+provided on the surface of the printed circuit
+   12/714   . . . . {with contacts abutting directly the printed
+circuit; Button contacts therefore provided on
+   12/716   . . . . {Coupling device provided on the PCB}
+   12/718   . . . . . {Contact members provided on the PCB
+without an insulating housing (contacts for
+   12/72    . . . coupling with the edge of the rigid printed
+   12/721   . . . . {cooperating directly with the edge of the
+   12/722   . . . . {coupling devices mounted on the edge of
+   12/724   . . . . . {containing contact members forming a
+   12/725   . . . . . {containing contact members presenting a
+contact carrying strip, e.g. edge-like strip}
+   12/727   . . . . . {Coupling devices presenting arrays of
+   12/728   . . . . . {Coupling devices without an insulating
+housing provided on the edge of the PCB}
+   12/73    . . . . connecting to other rigid printed circuits or
+   12/732   . . . . . {Printed circuits being in the same plane}
+   12/735   . . . . . {Printed circuits including an angle
+   12/737   . . . . . . {Printed circuits being substantially
+perpendicular to each other (for printed
+   12/75    . . . connecting to cables except for flat or ribbon
+   12/77    . . for flexible printed circuits, flat or ribbon cables
+   12/772   . . . . {Strain relieving means}
+   12/774   . . . . {Retainers}
+   12/775   . . . . {Ground or shield arrangements}
+   12/777   . . . {Coupling parts carrying pins, blades or
+analogous contacts (H01R 12/78, H01R 12/79
+   12/778   . . . {Coupling parts carrying sockets, clips or
+analogous counter-contacts (H01R 12/78,
+   12/78    . . . connecting to other flexible printed circuits, flat
+or ribbon cables or like structures
+   12/79    . . . connecting to rigid printed circuits or like
+   12/81    . . . connecting to another cable except for flat or
+   12/82    . . connected with low or zero insertion force
+   12/83    . . . connected with pivoting of printed circuits or
+   12/85    . . . contact pressure producing means, contacts
+activated after insertion of printed circuits or
+   12/853   . . . . {Fluid activated}
+   12/856   . . . . {activated by shape memory material}
+   12/87    . . . . acting automatically by insertion of rigid
+   12/88    . . . . acting manually by rotating or pivoting
+   12/89    . . . . acting manually by moving connector
+housing parts linearly, e.g. slider
+   12/91    . . allowing relative movement between coupling
+parts, e.g. floating or self aligning (for coupling
+devices not specially adapted for printed circuits,
+flat or ribbon cables, or like generally planar
+structures, H01R 13/6315 takes precedence)
+   13/00    Details of coupling devices of the kinds covered by
+groups H01R 12/70 or H01R 24/00 - H01R 33/00
+   13/005   . {Electrical coupling combined with fluidic
+   13/025   . . {formed by the conductors of a cable end}
+   13/03    . . characterised by the material, e.g. plating, or
+   13/035   . . . {Plated dielectric material}
+   13/04    . . Pins or blades for co-operation with sockets
+   13/05    . . . Resilient pins or blades (carrying separate
+   13/052   . . . . {co-operating with sockets having a circular
+   13/055   . . . . {co-operating with sockets having a
+rectangular transverse section}
+   13/057   . . . . {co-operating with sockets having a square
+   13/08    . . . Resiliently-mounted rigid pins or blades
+   13/10    . . Sockets for co-operation with pins or blades
+   13/11    . . . Resilient sockets (carrying separate resilient
+   13/111   . . . . {co-operating with pins having a circular
+   13/112   . . . . {forked sockets having two legs}
+   13/113   . . . . {co-operating with pins or blades having a
+rectangular transverse section}
+   13/114   . . . . {co-operating with pins or blades having a
+   13/115   . . . . U-shaped sockets having inwardly bent legs,
+   13/14    . . . Resiliently-mounted rigid sockets
+   13/15    . . Pins, blades or sockets having separate spring
+member for producing or increasing contact
+   13/17    . . . with spring member on the pin
+   13/18    . . . with the spring member surrounding the socket
+   13/187   . . . with spring member in the socket
+   13/193   . . Means for increasing contact pressure at the
+end of engagement of coupling part {, e.g. zero
+insertion force or no friction}
+   13/20    . . Pins, blades, or sockets shaped, or provided with
+separate member, to retain co-operating parts
+   13/207   . . . by screw-in connection
+   13/213   . . . by bayonet connection
+   13/22    . . Contacts for co-operating by abutting
+   13/24    . . . resilient; resiliently-mounted
+   13/2407  . . . . {characterized by the resilient means}
+   13/2414  . . . . . {conductive elastomers}
+   13/2421  . . . . . {using coil springs}
+   13/2428  . . . . . {using meander springs}
+   13/2435  . . . . {with opposite contact points, e.g. C beam}
+   13/2442  . . . . {with a single cantilevered beam}
+   13/245   . . . . {by stamped-out resilient contact arm}
+   13/2457  . . . . {consisting of at least two resilient arms
+contacting the same counterpart}
+   13/2464  . . . . {characterized by the contact point}
+   13/2471  . . . . . {pin shaped}
+   13/2478  . . . . . {spherical}
+   13/2485  . . . . . {for contacting a ball}
+   13/2492  . . . . . {multiple contact points}
+   13/26    . . Pin or blade contacts for sliding co-operation on
+one side only {(for modular jack type connectors
+   13/28    . . Contacts for sliding cooperation with identically-
+shaped contact, e.g. for hermaphroditic coupling
+devices {(H01R 24/84 takes precedence)}
+   13/33    . . Contact members made of resilient wire
+   13/35    . . for non-simultaneous co-operation with different
+types of contact member, e.g. socket co-operating
+   13/40    . Securing contact members in or to a base or case;
+   13/405   . . Securing in non-demountable manner, e.g.
+   13/41    . . . by frictional grip in grommet, panel or base
+   13/415   . . . by permanent deformation of contact member
+   13/42    . . Securing in a demountable manner
+   13/422   . . . Securing in resilient one-piece base or case,
+{e.g. by friction}; One-piece base or case
+formed with resilient locking means
+   13/4223  . . . . {comprising integral flexible contact
+   13/4226  . . . . . {comprising two or more integral flexible
+retaining fingers acting on a single
+   13/424   . . . Securing in base or case composed of a
+plurality of insulating parts having at least one
+   13/426   . . . Securing by a separate resilient retaining piece
+supported by base or case, e.g. collar {or metal
+   13/428   . . . by resilient locking means on the contact
+members; by locking means on resilient contact
+   13/432   . . . . by stamped-out resilient tongue snapping
+behind shoulder in base or case
+   13/434   . . . . by separate resilient locking means on
+contact member, e.g. retainer collar or ring
+   13/436   . . . Securing a plurality of contact members by one
+   13/4361  . . . . {Insertion of locking piece perpendicular to
+direction of contact insertion}
+   13/4362  . . . . . {comprising a temporary and a final
+   13/4364  . . . . {Insertion of locking piece from the front}
+   13/4365  . . . . . {comprising a temporary and a final
+   13/4367  . . . . {Insertion of locking piece from the rear}
+   13/4368  . . . . . {comprising a temporary and a final
+   13/44    . Means for preventing access to live contacts
+{(making use of a switch actuated by engagement of
+   13/447   . . Shutter or cover plate
+   13/453   . . . Shutter or cover plate opened by engagement of
+   13/4532  . . . . {Rotating shutter}
+   13/4534  . . . . {Laterally sliding shutter}
+   13/4536  . . . . {Inwardly pivoting shutter}
+   13/4538  . . . . {Covers sliding or withdrawing in the
+   13/465   . . {Identification means, e.g. labels, tags, markings
+(H01R 9/2475, H01R 9/2683 take precedence)}
+   13/50    . . formed as an integral body (H01R 13/514 takes
+   13/501   . . . {comprising an integral hinge or a frangible
+   13/502   . . composed of different pieces (H01R 13/514 takes
+   13/5025  . . . {one or more pieces being of resilient material}
+   13/504   . . . different pieces being moulded, cemented,
+welded, e.g. ultrasonic, or swaged together
+   13/5045  . . . . {different pieces being assembled by press-
+   13/506   . . . assembled by snap action of the parts
+   13/508   . . . assembled by {a separate} clip or spring
+   13/512   . . . assembled by screw or screws
+   13/514   . . composed as a modular blocks or assembly, i.e.
+composed of co-operating parts provided with
+contact members or holding contact members
+   13/516   . . Means for holding or embracing insulating body,
+   13/518   . . . for holding or embracing several coupling
+   13/52    . . Dustproof, splashproof, drip-proof, waterproof, or
+   13/5202  . . . {Sealing means between parts of housing or
+between housing part and a wall, e.g. sealing
+   13/5205  . . . {Sealing means between cable and housing,
+e.g. grommet (H01R 13/5221 takes
+   13/5208  . . . . {having at least two cable receiving
+   13/521   . . . {Sealing between contact members and
+   13/5216  . . . {characterised by the sealing material, e.g. gels
+   13/5219  . . . {Sealing means between coupling parts, e.g.
+   13/5221  . . . . {having cable sealing means}
+   13/5224  . . . {for medical use}
+   13/5227  . . . {with evacuation of penetrating liquids}
+   13/523   . . . for use under water
+   13/527   . . . Flameproof cases (H01R 13/70 takes
+   13/53    . . Bases or cases for heavy duty; Bases or cases {for
+high voltage} with means for preventing corona
+   13/533   . . Bases, cases made for use in extreme conditions,
+e.g. high temperature, radiation, vibration,
+corrosive environment, pressure (H01R 13/52
+   13/56    . Means for preventing chafing or fracture of flexible
+leads at outlet from coupling part
+   13/562   . . {Bending-relieving}
+   13/565   . . {Torsion-relieving}
+   13/567   . . {Traverse cable outlet or wire connection}
+   13/58    . Means for relieving strain on wire connection, e.g.
+cord grip {, for avoiding loosening of connections
+between wires and terminals within a coupling
+device terminating a cable (for flat or ribbon cables
+   13/5804  . . {comprising a separate cable clamping part
+(H01R 13/5841 takes precedence)}
+   13/5808  . . . {formed by a metallic element crimped around
+the cable (H01R 4/185 takes precedence)}
+   13/5812  . . . {the cable clamping being achieved by
+mounting the separate part on the housing of
+   13/5816  . . . {for cables passing through an aperture in a
+housing wall, the separate part being captured
+between cable and contour of aperture}
+   13/582   . . {the cable being clamped between assembled
+   13/5825  . . . {the means comprising additional parts
+captured between housing parts and cable}
+   13/5829  . . . {the clamping part being flexibly or hingedly
+   13/5833  . . {the cable being forced in a tortuous or curved
+path, e.g. knots in cable (H01R 13/582 takes
+   13/5837  . . {specially adapted for accommodating various
+sized cables (H01R 13/5825 takes precedence)}
+   13/5841  . . {allowing different orientations of the cable with
+respect to the coupling direction}
+   13/5845  . . {the strain relief being achieved by molding parts
+   13/585   . . Grip increasing with strain force
+   13/59    . . Threaded ferrule or bolt operating in a direction
+   13/595   . . Bolts operating in a direction transverse to the
+   13/60    . Means for supporting coupling part when not
+   13/62    . Means for facilitating engagement or disengagement
+of coupling parts or for holding them in engagement
+   13/6205  . . {Two-part coupling devices held in engagement
+   13/621   . . Bolt, set screw or screw clamp
+   13/6215  . . . {using one or more bolts}
+   13/622   . . Screw-ring or screw-casing (H01R 13/623 takes
+   13/623   . . Casing or ring with helicoidal groove
+   13/625   . . Casing or ring with bayonet engagement
+   13/627   . . Snap or like fastening
+   13/6271  . . . {Latching means integral with the housing
+(H01R 13/6276, H01R 13/6277, H01R 13/6278
+   13/6272  . . . . {comprising a single latching arm}
+   13/6273  . . . . {comprising two latching arms}
+   13/6275  . . . {Latching arms not integral with the housing
+(H01R 13/6276, H01R 13/6277, H01R 13/6278
+   13/6276  . . . {comprising one or more balls engaging in a
+   13/6277  . . . {comprising annular latching means, e.g. ring
+   13/6278  . . . {comprising a pin snapping into a recess}
+   13/629   . . Additional means for facilitating engagement or
+disengagement of coupling parts, e.g. aligning or
+guiding means, levers, gas pressure {electrical
+locking indicators, manufacturing tolerances
+(separate tools or apparatus H01R 43/26)}
+   13/62905 . . . {comprising a camming member
+(H01R 13/62933 and H01R 13/641 take
+   13/62911 . . . . {U-shaped sliding element}
+   13/62916 . . . . {Single camming plate}
+   13/62922 . . . . {Pair of camming plates}
+   13/62927 . . . . {Comprising supplementary or additional
+   13/62933 . . . {Comprising exclusively pivoting lever}
+   13/62938 . . . . {Pivoting lever comprising own camming
+   13/62944 . . . . {Pivoting lever comprising gear teeth}
+   13/6295  . . . . {Pivoting lever comprising means indicating
+incorrect coupling of mating connectors}
+   13/62955 . . . . {Pivoting lever comprising supplementary/
+   13/62961 . . . . {Pivoting lever having extendable handle}
+   13/62966 . . . . {Comprising two pivoting levers}
+   13/62972 . . . . . {Wherein the pivoting levers are two lever
+   13/62977 . . . {Pivoting levers actuating linearly camming
+   13/62983 . . . {Linear camming means or pivoting lever for
+connectors for flexible or rigid printed circuit
+   13/62988 . . . . {Lever acting directly on flexible or rigid
+printed circuit boards, flat or ribbon cables,
+e.g. recess provided to this purposeon the
+surface or edge of the flexible or rigid
+printed circuit boards, flat or ribbon cables}
+   13/62994 . . . . {Lever acting on a connector mounted onto
+the flexible or rigid printed circuit boards,
+   13/631   . . . for engagement only
+   13/6315  . . . . {allowing relative movement between
+coupling parts, e.g. floating connection
+(for coupling devices specially adapted for
+printed circuits, flat or ribbon cables, or like
+generally planar structures, H01R 12/91
+   13/633   . . . for disengagement only {(in combination with
+   13/6335  . . . . {comprising a handle}
+   13/635   . . . . by mechanical pressure, e.g. spring force
+   13/637   . . . . by fluid pressure, e.g. explosion
+   13/639   . . Additional means for holding or locking coupling
+parts together, after engagement, {e.g. separate
+   13/6392  . . . {for extension cord}
+   13/6395  . . . {for wall or panel outlets}
+   13/6397  . . . {with means for preventing unauthorised use}
+   13/64    . Means for preventing incorrect coupling
+   13/641   . . by indicating incorrect coupling; by indicating
+   13/642   . . by position or shape of contact members
+   13/645   . . by exchangeable elements on case or base
+   13/6453  . . . {comprising pin-shaped elements, capable of
+being orientated in different angular positions
+around their own longitudinal axes, e.g. pins
+   13/6456  . . . {comprising keying elements at different
+positions along the periphery of the connector}
+   13/646   . specially adapted for high-frequency, e.g. structures
+providing an impedance match or phase match (non-
+coaxed protective earth or shield arrangements
+H01R 13/648; coaxed connectors specially adapted
+   13/6461  . . Means for preventing cross-talk
+   13/6463  . . . using twisted pairs of wires
+   13/6464  . . . by adding capacitive elements
+   13/6466  . . . . on substrates, e.g. printed circuit boards
+   13/6467  . . . by cross-over of signal conductors
+   13/6469  . . . . on substrates
+   13/6471  . . . by special arrangement of ground and signal
+conductors, e.g. GSGS [Ground-Signal-
+   13/6473  . . Impedance matching
+   13/6474  . . . by variation of conductive properties, e.g. by
+   13/6476  . . . . by making an aperture, e.g. a hole
+   13/6477  . . . by variation of dielectric properties
+   13/648   . Protective earth or shield arrangements on coupling
+devices {, e.g. anti-static shielding}   (coaxially
+   13/6485  . . {Electrostatic discharge protection (in general
+H05F 1/00, for electric apparatus H05K 9/0067)}
+   13/652   . . with earth pin, blade or socket
+   13/655   . . with earth brace
+   13/658   . . High frequency shielding arrangements, e.g.
+against EMI [Electro-Magnetic Interference] or
+EMP [Electro-Magnetic Pulse] {(coaxial coupling
+devices specially adapted for high frequency
+H01R 24/40; for flat or ribbon cable connectors
+H01R 12/774; for coaxial cable H01R 9/05)}
+   13/6581  . . . Shield structure
+   13/6582  . . . . with resilient means for engaging mating
+   13/6583  . . . . . with separate conductive resilient
+members between mating shield members
+   13/6584  . . . . . . formed by conductive elastomeric
+members, e.g. flat gaskets or O-rings
+   13/6585  . . . . Shielding material individually surrounding
+or interposed between mutually spaced
+   13/6586  . . . . . for separating multiple connector modules
+   13/6587  . . . . . . for mounting on PCBs
+   13/6588  . . . . . with through openings for individual
+   13/6589  . . . . . with wires separated by conductive
+   13/659   . . . . with plural ports for distinct connectors
+   13/6591  . . . Specific features or arrangements of connection
+of shield to conductive members
+   13/65912 . . . . {for shielded multiconductor cable (coaxial
+cables with one conductor surrounded by
+shield H01R 9/05; flat shielded cables
+   13/65914 . . . . . {Connection of shield to additional
+   13/65915 . . . . . {Twisted pair of conductors surrounded by
+   13/65917 . . . . . {Connection to shield by means of
+   13/65918 . . . . . {wherein each conductor is individually
+   13/6592  . . . . the conductive member being a shielded
+   13/6593  . . . . . the shield being composed of different
+   13/6594  . . . . the shield being mounted on a PCB and
+connected to conductive members
+   13/6595  . . . . . with separate members fixing the shield to
+   13/6596  . . . . the conductive member being a metal
+   13/6597  . . . . the conductive member being a contact of the
+   13/6598  . . . Shield material
+   13/6599  . . . . Dielectric material made conductive, e.g.
+plastic material coated with metal
+   13/66    . Structural association with built-in electrical
+component (coupling devices having concentrically
+or coaxially-arranged contacts H01R 24/38)
+   13/6608  . . {with built-in single component (H01R 13/68,
+   13/6616  . . . {with resistor}
+   13/6625  . . . {with capacitive component}
+   13/6633  . . . {with inductive component, e.g. transformer}
+   13/6641  . . . {with diode (with LED H01R 13/7175)}
+   13/665   . . {with built-in electronic circuit (H01R 13/70,
+   13/6658  . . . {on printed circuit board
+(H01R 13/6666 - H01R 13/6691 take
+This group is no longer used for the
+classification of new documents as from
+January 1, 2011. The backlog of this
+group is being continuously reclassified to
+   13/6666  . . . {with built-in overvoltage protection}
+   13/6675  . . . {with built-in power supply}
+   13/6683  . . . {with built-in sensor}
+   13/6691  . . . {with built-in signalling means (H01R 13/717
+   13/68    . . with built-in fuse
+The subgroups of H01R 13/68 are not
+complete pending completion of a
+reclassification, see also this group
+   13/684   . . . the fuse being removable
+   13/688   . . . . with housing part adapted for accessing the
+   13/692   . . . . . Turnable housing part
+   13/696   . . . the fuse being integral with the terminal, e.g.
+   13/70    . . with built-in switch
+   13/701   . . . {the switch being actuated by an accessory, e.g.
+   13/703   . . . operated by engagement or disengagement of
+coupling parts, {e.g. dual-continuity coupling
+part}(H01R 13/71 takes precedence)
+   13/7031  . . . . {Shorting, shunting or bussing of different
+terminals interrupted or effected on
+engagement of coupling part, e.g. for ESD
+   13/7032  . . . . . {making use of a separate bridging
+element directly cooperating with the
+   13/7033  . . . . . {making use of elastic extensions of the
+   13/7034  . . . . . {the terminals being in direct electric
+contact separated by double sided
+connecting element (for printed circuit
+   13/7035  . . . . {comprising a separated limit switch}
+   13/7036  . . . . {the switch being in series with coupling
+part, e.g. dead coupling, explosion proof
+   13/7037  . . . . . {making use of a magnetically operated
+   13/7038  . . . . . {making use of a remote controlled switch,
+e.g. relais, solid state switch activated by
+the engagement of the coupling parts}
+   13/7039  . . . . {the coupling part with coding means
+activating the switch to establish different
+   13/707   . . . interlocked with contact members or
+   13/71    . . . Contact members of coupling parts operating
+as switch {, e.g. linear or rotational movement
+required after mechanical engagement of
+coupling part to establish electrical connection}
+   13/713   . . . the switch being a safety switch
+   13/7132  . . . . {having ejecting mechanisms}
+   13/7135  . . . . {with ground fault protector (H01R 13/7132
+   13/7137  . . . . {with thermal interrupter (H01R 13/7132
+   13/717   . . with built-in light source
+   13/7172  . . . {Conduits for light transmission}
+   13/7175  . . . {Light emitting diodes (LEDs)}
+   13/7177  . . . {filament or neon bulb}
+   13/719   . . specially adapted for high frequency, e.g. with
+The subgroups of H01R 13/719 are
+not complete pending completion of a
+reclassification, see also H01R 13/646 and the
+   13/7193  . . . with ferrite filters
+   13/7195  . . . with planar filters with openings for contacts
+   13/7197  . . . with filters integral with or fitted onto contacts,
+   13/72    . Means for accommodating flexible lead within the
+   13/73    . Means for mounting coupling parts to apparatus or
+   13/74    . . Means for mounting coupling parts in openings of
+   13/741   . . . {using snap fastening means}
+   13/743   . . . . {integral with the housing}
+   13/745   . . . . {separate from the housing}
+   13/746   . . . {using a screw ring}
+   13/748   . . . {using one or more screws (H01R 13/746 takes
+   24/00    Two-part coupling devices, or either of their
+cooperating parts, characterised by their overall
+structure (contact members H01R 13/02; securing
+contact members in or to a base or case or insulating
+of contact members H01R 13/40; bases or cases
+H01R 13/46; means for supporting coupling part
+when not engaged H01R 13/60; means for facilitating
+engagement or disengagement of coupling parts or for
+holding them in engagement H01R 13/62; means for
+preventing, inhibiting or avoiding incorrect coupling
+In this group, it is desirable to add the indexing
+codes of groups H01R 2101/00 - H01R 2107/00
+   24/005   . {requiring successive relative motions to complete
+the coupling, e.g. bayonet type}
+   24/20    . Coupling parts carrying sockets, clips or analogous
+contacts and secured only to wire or cable
+   24/22    . . with additional earth or shield contacts
+   24/28    . Coupling parts carrying pins, blades or analogous
+contacts and secured only to wire or cable
+   24/30    . . with additional earth or shield contacts
+   24/38    . having concentrically or coaxially arranged contacts
+   24/40    . . specially adapted for high frequency
+   24/42    . . . comprising impedance matching means or
+electrical components, e.g. filters or switches
+   24/44    . . . . comprising impedance matching means
+   24/46    . . . . comprising switches
+   24/48    . . . . comprising protection devices, e.g.
+   24/50    . . . mounted on a PCB [Printed Circuit Board]
+   24/52    . . . mounted in or to a panel or structure
+   24/54    . . . Intermediate parts, e.g. adapters, splitters or
+   24/547   . . . . {Splitters}
+   24/56    . . . specially adapted to a specific shape of cables,
+e.g. corrugated cables, twisted pair cables,
+cables with two screens or hollow cables
+   24/562   . . . . {Cables with two screens}
+   24/564   . . . . {Corrugated cables}
+   24/566   . . . . {Hollow cables}
+   24/568   . . . . {Twisted pair cables}
+   24/58    . Contacts spaced along longitudinal axis of
+   24/60    . Contacts spaced along planar side wall transverse to
+longitudinal axis of engagement
+   24/62    . . Sliding engagements with one side only, e.g.
+   24/64    . . . for high frequency, e.g. RJ 45
+   24/66    . with pins, blades or analogous contacts and secured
+to apparatus or structure, e.g. to a wall
+   24/68    . . mounted on directly pluggable apparatus
+   24/70    . . with additional earth or shield contacts
+   24/76    . with sockets, clips or analogous contacts and
+secured to apparatus or structure, e.g. to a wall
+   24/78    . . with additional earth or shield contacts
+   24/84    . Hermaphroditic coupling devices
+   24/86    . Parallel contacts arranged about a common axis
+   25/00    Coupling parts adapted for simultaneous co-
+operation with two or more identical counterparts,
+e.g. for distributing energy to two or more circuits
+(supported only by co-operation with a counterpart
+H01R 31/00; with a holder adapted for supporting
+apparatus to which its counterpart is attached
+   25/003   . {the coupling part being secured only to wires or
+   25/006   . {the coupling part being secured to apparatus or
+structure, e.g. duplex wall receptacle}
+   25/14    . Rails or bus-bars constructed so that the
+counterparts can be connected thereto at any point
+along their length (supporting elements for lighting
+devices, displaceable along guiding elements and
+making electrical contact with conductors running
+along the guiding elements F21V 21/35)
+   25/142   . . {Their counterparts}
+   25/145   . . {Details, e.g. end pieces or joints (H01R 25/147
+   25/147   . . {Low voltage devices, i.e. safe to touch live
+   25/16    . Rails or bus-bars provided with a plurality of
+discrete connecting locations for counterparts
+   25/162   . . . {Electrical connections between or with rails or
+bus-bars (rails having primarily a non electrical
+   25/164   . . {Connecting locations formed by flush mounted
+   25/165   . . {Connecting locations formed by surface
+   25/167   . . {Connecting locations formed by staggering
+   25/168   . . {the connecting locations being situated away
+   27/00    Coupling parts adapted for co-operation with two
+or more dissimilar counterparts ({for dissimilar
+contact members H01R 13/35}; supported only by
+co-operation with a counterpart H01R 31/00; with a
+holder adapted for supporting apparatus to which its
+counterpart is attached H01R 33/90)
+   27/02    . for simultaneous co-operation with two or more
+   29/00    Coupling parts for selective co-operation with a
+counterpart in different ways to establish different
+circuits, e.g. for voltage selection, for series-
+parallel selection, {programmable connectors}
+   31/00    Coupling parts supported only by co-operation
+   31/005   . {Intermediate parts for distributing signals}
+   31/02    . Intermediate parts for distributing energy to two
+or more circuits in parallel, e.g. splitter (with a
+holder adapted for supporting apparatus to which its
+counterpart is attached H01R 33/92)
+   31/06    . Intermediate parts for linking two coupling parts,
+e.g. adapter (with a holder adapted for supporting
+apparatus to which its counterpart is attached
+   31/065   . . {with built-in electric apparatus}
+   31/08    . Short-circuiting members for bridging contacts in a
+   31/085   . . {Short circuiting bus-strips}
+   33/00    Coupling devices specially adapted for supporting
+apparatus and having one part acting as a holder
+providing support and electrical connection via a
+counterpart which is structurally associated with
+the apparatus, e.g. lamp holders; Separate parts
+   33/02    . Single-pole devices, e.g. holder for supporting one
+end of a tubular incandescent or neon lamp
+   33/06    . . with two current-carrying pins, blades or
+analogous contacts, having their axes parallel to
+   33/065   . . . {for supporting starter switches}
+   33/08    . . . for supporting tubular fluorescent lamp
+   33/0809  . . . . {having contacts on one side only}
+   33/0818  . . . . {for a plurality of lamps}
+   33/0827  . . . . {characterised by the contacts}
+   33/0836  . . . . {characterised by the lamp holding means}
+   33/0845  . . . . . {with axially resilient member}
+   33/0854  . . . . . {with lamp rotating means}
+   33/0863  . . . . {characterised by the mounting means}
+   33/0872  . . . . . {for mounting in an opening of a
+   33/0881  . . . . {composed of different pieces}
+   33/089   . . . . {integral with starter holding structure
+(H01R 33/065 for starters only)}
+   33/09    . . . for baseless lamp bulb
+   33/18    . . having only abutting contacts
+   33/20    . . having concentrically or coaxially arranged
+   33/205   . . . {secured to structure or printed circuit board}
+   33/22    . . for screw type base, e.g. for lamp
+   33/225   . . . {secured to structure or printed circuit board}
+   33/46    . . for bayonet type base
+   33/465   . . . {secured to structure or printed circuit board}
+   33/72    . Three-pole devices
+   33/74    . Devices having four or more poles {, e.g. holders
+   33/76    . . Holders with sockets, clips, or analogous contacts
+adapted for axially-sliding engagement with
+parallely-arranged pins, blades, or analogous
+contacts on counterpart, e.g. electronic tube
+   33/7607  . . . {the parallel terminal pins having a circular
+   33/7614  . . . . {the terminals being connected to individual
+   33/7621  . . . . . {the wires being connected using screw,
+clamp, wrap or spring connection}
+   33/7628  . . . . . {the wires being connected using solder}
+   33/7635  . . . . {the terminals being collectively connected,
+   33/7642  . . . . . {socket snap fastened in an opening of a
+   33/765   . . . {the terminal pins having a non-circular
+   33/7657  . . . {characterised by keying or marking means}
+   33/7664  . . . {having additional guiding, adapting, shielding,
+anti-vibration or mounting means}
+   33/7671  . . . {having multiple positions or sockets, e.g.
+stacked sockets while mounting}
+   33/7678  . . . {having a separated part for spark preventing
+   33/7685  . . . {having internal socket contact by abutting}
+   33/7692  . . . {for supporting a tubular fluorescent lamp (for
+   33/88    . adapted for simultaneous co-operation with two or
+   33/90    . adapted for co-operation with two or more
+   33/92    . Holders formed as intermediate parts for
+distributing energy in parallel through two or more
+counterparts at least one of which is attached to
+   33/94    . Holders formed as intermediate parts for linking a
+counter-part to a coupling part
+   33/942   . . {for tubular fluorescent lamps}
+   33/945   . Holders with built-in electrical component
+   33/9453  . . {for screw type coupling devices}
+   33/9456  . . {for bayonet type coupling devices}
+   33/95    . . with fuse; with thermal switch
+   33/955   . . with switch operated manually and independent
+of engagement or disengagement of coupling
+   33/9555  . . . {for screw type coupling devices}
+   33/96    . . with switch operated by engagement or
+   33/962   . . . {for screw type coupling devices}
+   33/965   . Dustproof, splashproof, drip-proof, waterproof, or
+   33/9651  . . {for screw type coupling devices}
+   33/9653  . . . {neither pole becoming electrically connected
+until the coupling parts are substantially
+   33/9655  . . {for bayonet type coupling devices}
+   33/9656  . . . {neither pole becoming electrically connected
+until the coupling parts are substantially
+   33/9658  . . {for tubular fluorescent lamps}
+   33/97    . Holders with separate means to prevent loosening of
+the coupling or unauthorised removal of apparatus
+   33/971   . . {for screw type coupling devices}
+   33/973   . . {for bayonet type coupling devices}
+   33/975   . Holders with resilient means for protecting
+apparatus against vibrations or shocks
+   33/9753  . . {for screw type coupling devices}
+   33/9756  . . {for bayonet type coupling devices}
+   35/00    Flexible or turnable line connectors {, i.e. the
+rotation angle being limited} (rotary current
+collectors, distributors H01R 39/00)
+   35/02    . Flexible line connectors {without frictional contact
+   35/025   . . {having a flexible conductor wound around a
+   35/04    . Turnable line connectors with limited rotation angle
+{with frictional contact members}
+   39/00    Rotary current collectors, distributors or
+   39/02    . Details {for dynamo electric machines (for current
+collectors not particularly for dynamo electric
+machines H01R 39/60, H01R 39/64)}
+   39/022   . . {characterised by the materials used, e.g.
+   39/025   . . . {Conductive materials}
+   39/027   . . . {Insulating materials}
+   39/04    . . Commutators (wherein the segments are formed
+by extensions of dynamo-electric machine
+   39/045   . . . {the commutators being made of carbon}
+   39/06    . . . other than with external cylindrical contact
+   39/085   . . . {the slip-rings being made of carbon}
+   39/10    . . . other than with external cylindrical contact
+   39/12    . . . using bearing or shaft surface as contact surface
+   39/14    . . Fastenings of commutators or slip-rings to shafts
+   39/16    . . . by means of moulded or cast material applied
+   39/18    . . Contacts for co-operation with commutator or
+   39/20    . . . characterised by the material thereof
+   39/22    . . . . incorporating lubricating or polishing
+   39/24    . . . Laminated contacts; Wire contacts, e.g.
+   39/26    . . . Solid sliding contacts, e.g. carbon brush
+   39/27    . . . . End caps on carbon brushes to transmit
+   39/28    . . . Roller contacts; Ball contacts
+   39/30    . . . Liquid contacts
+   39/32    . . Connections of conductor to commutator segment
+   39/34    . . Connections of conductor to slip-ring
+   39/36    . . Connections of cable or wire to brush
+   39/381   . . . {characterised by the application of pressure to
+   39/383   . . . {characterised by the electrical connection to
+   39/385   . . . {Means for mechanical fixation of the brush
+   39/386   . . . . {Electrically insulated bolts}
+   39/388   . . . {characterised by the material of the brush
+   39/39    . . . wherein the brush is fixedly mounted in the
+   39/40    . . . enabling brush movement within holder during
+   39/41    . . . cartridge type
+   39/415   . . . . with self-recoiling spring
+   39/42    . . Devices for lifting brushes
+   39/44    . . Devices for shifting brushes
+   39/46    . . Auxiliary means for improving current transfer,
+or for reducing or preventing sparking or arcing
+   39/48    . . . by air blast; by surrounding collector with non-
+   39/50    . . . Barriers placed between brushes
+   39/52    . . . by use of magnets
+   39/54    . . . by use of impedance between brushes or
+   39/56    . . Devices for lubricating or polishing slip-rings or
+commutators during operation of the collector
+   39/58    . . Means structurally associated with the current
+collector for indicating condition thereof, e.g. for
+   39/59    . . Means structurally associated with the brushes
+for interrupting current (H01R 39/58 takes
+   39/60    . Devices for interrupted current collection, e.g.
+commutating device, distributor, interrupter (self-
+interrupters H01H, e.g. H01H 51/34)
+   39/62    . . with more than one brush co-operating with the
+   39/64    . Devices for uninterrupted current collection
+   39/643   . . {through ball or roller bearing}
+   39/646   . . {through an electrical conductive fluid}
+   41/00    Non-rotary current collectors for maintaining
+contact between moving and stationary parts
+of an electric circuit (end pieces terminating in a
+hook or the like H01R 11/12; current collectors for
+power supply lines of electrically-propelled vehicles
+   41/02    . Devices for interrupted current collection, e.g.
+distributor (electrically-operated selector switches
+   43/00    Apparatus or processes specially adapted for
+manufacturing, assembling, maintaining, or
+repairing of line connectors or current collectors
+or for joining electric conductors (of trolley lines
+   43/002   . {Maintenance of line connectors, e.g. cleaning}
+   43/005   . {for making dustproof, splashproof, drip-proof,
+waterproof, or flameproof connection, coupling, or
+   43/007   . {for elastomeric connecting elements}
+   43/01    . for connecting unstripped conductors to contact
+members having insulation cutting edges
+   43/02    . for soldered or welded connections
+   43/0207  . . {Ultrasonic-, H.F.-, cold- or impact welding}
+   43/0214  . . {Resistance welding (H01R 43/0228 takes
+   43/0221  . . {Laser welding (H01R 43/0228 takes
+   43/0228  . . {without preliminary removing of insulation
+   43/0235  . . {for applying solder (H01R 43/0228 takes
+   43/0242  . . {comprising means for controlling the
+temperature, e.g. making use of the curie point}
+   43/0249  . . {for simultaneous welding or soldering of a
+plurality of wires to contact elements}
+   43/0256  . . {for soldering or welding connectors to a printed
+   43/0263  . . {for positioning or holding parts during soldering
+   43/027   . for connecting conductors by clips
+   43/0275  . . {by using explosive force}
+   43/033   . for wrapping or unwrapping wire connections
+   43/0335  . . {for unwraping}
+   43/04    . for forming connections by deformation, e.g.
+   43/042   . . Hand tools for crimping
+   43/0421  . . . {combined with other functions, e.g. cutting}
+   43/0422  . . . {operated by an explosive force}
+   43/0424  . . . {with more than two radially actuated
+   43/0425  . . . {with mandrels actuated in axial direction to
+   43/0427  . . . {fluid actuated hand crimping tools}
+   43/0428  . . . {Power-driven hand crimping tools}
+   43/045   . . . with contact member feeding mechanism
+   43/048   . . Crimping apparatus or processes (H01R 43/042
+   43/0482  . . . {combined with contact member manufacturing
+   43/0484  . . . {for eyelet contact members}
+   43/0486  . . . {with force measuring means}
+   43/0488  . . . {with crimp height adjusting means}
+   43/05    . . . with wire-insulation stripping
+   43/052   . . . with wire-feeding mechanism
+   43/055   . . . with contact member feeding mechanism
+   43/058   . . Crimping mandrels
+   43/0585  . . . {for crimping apparatus with more than two
+   43/06    . Manufacture of commutators
+   43/08    . . in which segments are not separated until after
+   43/10    . Manufacture of slip-rings
+   43/12    . Manufacture of brushes
+   43/14    . Maintenance of current collectors, e.g. reshaping of
+brushes, cleaning of commutators
+   43/16    . for manufacturing contact members, e.g. by
+   43/18    . for manufacturing bases or cases for contact
+   43/20    . for assembling or disassembling contact members
+with insulating base, case or sleeve
+   43/205   . . {with a panel or printed circuit board}
+   43/24    . . Assembling by moulding on contact members
+   43/26    . for engaging or disengaging the two parts of a
+coupling device (structural association with two-part
+   43/28    . for wire processing before connecting to
+contact members, not provided for in groups
+ 2201/00    Connectors or connections adapted for particular
+ 2201/04    . for network, e.g. LAN connectors
+ 2201/06    . for computer periphery
+ 2201/08    . for halogen lamps
+ 2201/10    . for dynamoelectric machines
+ 2201/12    . for medicine and surgery
+ 2201/14    . seismic connectors
+ 2201/20    . for testing or measuring purposes
+ 2201/22    . for transformers or coils
+ 2201/24    . for radio transmission

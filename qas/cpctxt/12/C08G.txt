@@ -1,0 +1,2067 @@
+COOPERATIVE PATENT CLASSIFICATION
+ORGANIC MACROMOLECULAR COMPOUNDS; THEIR PREPARATION OR
+CHEMICAL WORKING-UP; COMPOSITIONS BASED THEREON
+MACROMOLECULAR COMPOUNDS OBTAINED OTHERWISE THAN BY
+REACTIONS ONLY INVOLVING UNSATURATED CARBON-TO-CARBON BONDS
+1. Therapeutic activity of compounds is further classified in subclass A61P.
+2. In this subclass, group C08G 18/00 takes precedence over the other groups. A further classification is given if the polymers
+are obtained by reactions forming specific linkages for which an appropriate group is provided.
+3. Within each main group of this subclass, the last place priority rule is applied, i.e. at each hierarchical level, in the absence of
+an indication to the contrary, classification is made in the last appropriate place.
+4. This subclass covers also compositions based on monomers which form macromolecular compounds classifiable in this
+a. if the monomers are defined, classification is made in groups C08G 2/00 - C08G 79/00, C08G 83/00 according to the
+b. if the monomers are defined in a way that a composition cannot be classified within one main group of this subclass, the
+composition is classified in group C08G 85/00;
+c. if the compounding ingredients are of interest per se, classification is also made in subclass C08K.
+5. {In this subclass, combination sets [C-Sets] are used. The detailed information about the C-Sets construction and the
+associated syntax rules are found in the Definitions}
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+C08G 14/067, C08G 14/073, C08G 14/09
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    2/00    Addition polymers of aldehydes or cyclic oligomers
+thereof or of ketones; Addition copolymers thereof
+with less than 50 molar percent of other substances
+    2/02    . Polymerisation initiated by wave energy or by
+    2/04    . Polymerisation by using compounds which act upon
+the molecular weight, e.g. chain-transferring agents
+    2/06    . Catalysts (Catalysts in general B01J)
+    2/08    . Polymerisation of formaldehyde
+    2/10    . Polymerisation of cyclic oligomers of formaldehyde
+    2/12    . Polymerisation of acetaldehyde or cyclic oligomers
+    2/14    . Polymerisation of single aldehydes not provided for
+in groups C08G 2/08 - C08G 2/12
+    2/16    . Polymerisation of single ketones
+    2/18    . Copolymerisation of aldehydes or ketones
+    2/20    . . with other aldehydes or ketones
+    2/22    . . with epoxy compounds
+    2/26    . . with compounds containing carbon-to-carbon
+    2/28    . Post-polymerisation treatments
+    2/30    . Chemical modification by after-treatment
+    2/32    . . by esterification
+    2/34    . . by etherification
+    2/36    . . by depolymerisation
+    2/38    . Block or graft polymers prepared by polymerisation
+of aldehydes or ketones on to macromolecular
+    4/00    Condensation polymers of aldehydes or ketones
+with polyalcohols; Addition polymers of
+heterocyclic oxygen compounds containing in the
+ring at least once the grouping —O—C—O— (of
+cyclic oligomers of aldehydes C08G 2/00)
+    6/00    Condensation polymers of aldehydes or ketones
+    6/02    . of aldehydes with ketones
+    8/00    Condensation polymers of aldehydes or ketones
+    8/08    . . of formaldehyde, e.g. of formaldehyde formed in
+    8/12    . . . with monohydric phenols having only one
+hydrocarbon substituent ortho on para to the
+OH group, e.g. p-tert.-butyl phenol
+    8/14    . . . with halogenated phenols
+    8/16    . . . with amino- or nitrophenols
+    8/18    . . . with phenols substituted by carboxylic or
+    8/20    . . . with polyhydric phenols
+    8/24    . . . with mixtures of two or more phenols which
+are not covered by only one of the groups
+    8/26    . from mixtures of aldehydes and ketones
+    8/28    . Chemically modified polycondensates
+    8/30    . . by unsaturated compounds, e.g. terpenes
+    8/32    . . by organic acids or derivatives thereof, e.g. fatty
+    8/34    . . by natural resins or resin acids, e.g. rosin
+    8/38    . Block or graft polymers prepared by
+polycondensation of aldehydes or ketones onto
+   10/00    Condensation polymers of aldehydes or ketones
+with aromatic hydrocarbons or halogenated
+   10/04    . . Chemically-modified polycondensates
+   10/06    . Block or graft polymers prepared by
+polycondensation of aldehydes or ketones onto
+   12/00    Condensation polymers of aldehydes or ketones
+with only compounds containing hydrogen
+attached to nitrogen (aminophenols C08G 8/16)
+   12/04    . . with acyclic or carbocyclic compounds
+   12/043   . . . {with at least two compounds covered
+   12/046   . . . . {one being urea or thiourea}
+   12/10    . . . with acyclic compounds having the moiety
+X=C(—N<)2 in which X is O, S or —N
+   12/12    . . . . Ureas; Thioureas
+   12/14    . . . . Dicyandiamides; Dicyandiamidines;
+Guanidines; Biguanidines; Biuret;
+   12/16    . . . . . Dicyandiamides
+   12/18    . . . with cyanamide
+   12/20    . . . with urethanes or thiourethanes
+   12/22    . . . with carboxylic acid amides (reaction of
+polyamides with aldehydes C08G 69/50)
+   12/24    . . . with sulfonic acid amides
+   12/26    . . with heterocyclic compounds
+   12/263   . . . {with at least two compounds covered
+   12/266   . . . . {one being melamine}
+   12/28    . . . with substituted diazines, diazoles or triazoles
+   12/30    . . . with substituted triazines
+   12/34    . . . and acyclic or carbocyclic compounds
+   12/36    . . . . Ureas; Thioureas
+   12/38    . . . . . and melamines
+   12/40    . . Chemically modified polycondensates
+   12/42    . . . by etherifying
+   12/421   . . . . {of polycondensates based on acyclic or
+   12/422   . . . . . {based on urea or thiourea}
+   12/424   . . . . {of polycondensates based on heterocyclic
+   12/425   . . . . . {based on triazines}
+   12/427   . . . . . . {Melamine}
+   12/428   . . . . {of polycondensates based on heterocyclic
+and acyclic or carbocyclic compounds}
+   12/44    . . . by esterifying
+   12/46    . Block or graft polymers prepared by
+polycondensation of aldehydes or ketones on to
+   14/00    Condensation polymers of aldehydes or ketones
+with two or more other monomers covered by at
+least two of the groups C08G 8/00 - C08G 12/00
+   14/06    . . . and monomers containing hydrogen attached to
+   14/08    . . . . Ureas; Thioureas
+   14/12    . . . Chemically modified polycondensates
+   14/14    . Block or graft polymers prepared by
+polycondensation of aldehydes or ketones on to
+   16/00    Condensation polymers of aldehydes or ketones
+with monomers not provided for in the groups
+C08G 4/00 - C08G 14/00 (with polynitriles
+   16/0206  . . {with inorganic compounds}
+   16/0212  . . {with acyclic or carbocyclic organic compounds}
+   16/0218  . . . {containing atoms other than carbon and
+   16/0225  . . . . {containing oxygen}
+   16/0231  . . . . {containing nitrogen}
+   16/0237  . . . . {containing sulfur}
+   16/0243  . . . . {containing phosphorus}
+   16/025   . . {with heterocyclic organic compounds}
+   16/0256  . . . {containing oxygen in the ring}
+   16/0262  . . . . {Furfuryl alcohol}
+   16/0268  . . . {containing nitrogen in the ring}
+   16/0275  . . . {containing sulfur in the ring}
+   16/0281  . . . {containing phosphorus in the ring}
+   16/0287  . . {with organometallic or metal-containing organic
+   16/0293  . . {with natural products, oils, bitumens, residues}
+   16/04    . . Chemically modified polycondensates
+   16/06    . Block or graft polymers prepared by
+polycondensation of aldehydes or ketones on to
+   18/00    Polymeric products of isocyanates or
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08G.
+   18/003   . {with epoxy compounds having no active hydrogen
+(with epoxy resins containing active hydrogen
+   18/02    . of isocyanates or isothiocyanates only
+   18/022   . . {the polymeric products containing isocyanurate
+   18/025   . . {the polymeric products containing carbodiimide
+   18/027   . . {the polymeric products containing urethodione
+   18/04    . with vinyl compounds
+   18/06    . with compounds having active hydrogen
+   18/0804  . . . {Manufacture of polymers containing ionic or
+   18/0809  . . . . {containing cationic or cationogenic groups}
+   18/0814  . . . . . {containing ammonium groups or groups
+   18/0819  . . . . {containing anionic or anionogenic groups}
+   18/0823  . . . . . {containing carboxylate salt groups or
+   18/0828  . . . . . {containing sulfonate groups or groups
+   18/0833  . . . . {containing cationic or cationogenic groups
+together with anionic or anionogenic groups}
+   18/0838  . . . {Manufacture of polymers in the presence
+of non-reactive compounds (preparation of
+   18/0842  . . . . {in the presence of liquid diluents
+(C08G 18/0804 takes precedence)}
+   18/0847  . . . . . {in the presence of solvents for the
+   18/0852  . . . . . . {the solvents being organic}
+   18/0857  . . . . . . . {the solvent being a polyol}
+   18/0861  . . . . . {in the presence of a dispersing phase for
+the polymers or a phase dispersed in the
+   18/0866  . . . . . . {the dispersing or dispersed phase being
+   18/0871  . . . . . . {the dispersing or dispersed phase being
+   18/0876  . . . . . . . {the dispersing or dispersed phase
+   18/088   . . . {Removal of water or carbon dioxide from the
+reaction mixture or reaction components}
+   18/0885  . . . . {using additives, e.g. absorbing agents}
+   18/089   . . . {Reaction retarding agents}
+   18/0895  . . . {Manufacture of polymers by continuous
+processes (C08G 18/0838 takes precedence)}
+   18/09    . . . comprising oligomerisation of isocyanates or
+isothiocyanates involving reaction of a part
+of the isocyanate or isothiocyanate groups
+with each other in the reaction mixture (use of
+preformed oligomers C08G 18/79)
+   18/092   . . . . {oligomerisation to isocyanurate groups}
+   18/095   . . . . {oligomerisation to carbodiimide or uretone-
+   18/097   . . . . {oligomerisation to urethdione groups}
+   18/10    . . . Prepolymer processes involving reaction of
+isocyanates or isothiocyanates with compounds
+having active hydrogen in a first reaction step
+In groups C08G 18/10 and C08G 18/12, C-
+The detailed information about the C-Sets
+construction and the associated syntax rules
+is present in the Definitions of C08G.
+   18/12    . . . . using two or more compounds having active
+hydrogen in the first polymerisation step
+   18/14    . . . {Manufacture of cellular products}
+   18/16    . . . Catalysts (catalysts in general B01J)
+   18/161   . . . . {containing two or more components to
+be covered by at least two of the groups
+C08G 18/166, C08G 18/18 or C08G 18/22}
+   18/163   . . . . . {covered by C08G 18/18 and
+   18/165   . . . . . . {covered by C08G 18/18 and
+   18/166   . . . . {Catalysts not provided for in the groups
+   18/168   . . . . . {Organic compounds}
+   18/18    . . . . containing secondary or tertiary amines or
+   18/1808  . . . . . {having alkylene polyamine groups}
+   18/1816  . . . . . {having carbocyclic groups}
+   18/1825  . . . . . {having hydroxy or primary amino
+   18/1833  . . . . . {having ether, acetal, or orthoester groups}
+   18/1841  . . . . . {having carbonyl groups which may be
+linked to one or more nitrogen or oxygen
+   18/185   . . . . . {having cyano groups}
+   18/1858  . . . . . {having carbon-to-nitrogen double bonds}
+   18/1866  . . . . . {having carbon-to-carbon unsaturated
+   18/1875  . . . . . {containing ammonium salts or mixtures
+of secondary of tertiary amines and acids}
+   18/1883  . . . . . {having heteroatoms other than oxygen
+   18/1891  . . . . . {in vaporous state}
+   18/20    . . . . . Heterocyclic amines; Salts thereof
+   18/2009  . . . . . . {containing one heterocyclic ring}
+   18/2018  . . . . . . . {having one nitrogen atom in the
+   18/2027  . . . . . . . {having two nitrogen atoms in the
+   18/2036  . . . . . . . {having at least three nitrogen atoms
+   18/2045  . . . . . . {containing condensed heterocyclic
+   18/2054  . . . . . . . {having one nitrogen atom in the
+   18/2063  . . . . . . . {having two nitrogen atoms in the
+   18/2072  . . . . . . . {having at least three nitrogen atoms
+   18/2081  . . . . . . {containing at least two non-condensed
+   18/209   . . . . . . {having heteroatoms other than oxygen
+   18/22    . . . . containing metal compounds
+   18/222   . . . . . {metal compounds not provided for in
+groups C08G 18/225 - C08G 18/26}
+   18/225   . . . . . {of alkali or alkaline earth metals}
+   18/227   . . . . . {of antimony, bismuth or arsenic}
+   18/242   . . . . . . {organometallic compounds containing
+   18/244   . . . . . . {tin salts of carboxylic acids}
+   18/246   . . . . . . . {containing also tin-carbon bonds}
+   18/248   . . . . . . {inorganic compounds of tin}
+   18/28    . . characterised by the compounds used containing
+   18/2805  . . . {Compounds having only one group containing
+active hydrogen (vinylpolymers having
+terminal groups containing active hydrogen
+   18/281   . . . . {Monocarboxylic acid compounds}
+   18/2815  . . . . {Monohydroxy compounds}
+   18/282   . . . . . {Alkanols, cycloalkanols or arylalkanols
+   18/2825  . . . . . . {having at least 6 carbon atoms}
+   18/283   . . . . . {Compounds containing ether groups, e.g.
+oxyalkylated monohydroxy compounds}
+   18/2835  . . . . . . {having less than 5 ether groups}
+   18/284   . . . . . {Compounds containing ester groups, e.g.
+oxyalkylated monocarboxylic acids}
+   18/2845  . . . . . {Monohydroxy epoxy compounds}
+   18/285   . . . . {Nitrogen containing compounds}
+   18/2855  . . . . . {Lactams}
+   18/2865  . . . . . {Compounds having only one primary or
+secondary amino group; Ammonia}
+   18/287   . . . . . . {Imine compounds}
+   18/2875  . . . . . {Monohydroxy compounds containing
+   18/288   . . . . {Compounds containing at least one
+heteroatom other than oxygen or nitrogen}
+   18/2885  . . . . . {containing halogen atoms}
+   18/289   . . . . . {containing silicon}
+   18/2895  . . . . {Compounds containing active methylene
+   18/30    . . . Low-molecular-weight compounds
+{(C08G 18/2805 takes precedence)}
+   18/305   . . . . . {creating amino end groups}
+   18/307   . . . . . {Atmospheric humidity}
+   18/32    . . . . Polyhydroxy compounds; Polyamines;
+   18/3203  . . . . . {Polyhydroxy compounds}
+   18/3206  . . . . . . {aliphatic}
+   18/3209  . . . . . . . {Aliphatic aldehyde condensates and
+hydrogenation products thereof}
+   18/3212  . . . . . . {containing cycloaliphatic groups}
+   18/3215  . . . . . . {containing aromatic groups or
+   18/3218  . . . . . . {containing cyclic groups having at least
+   18/3221  . . . . . . {hydroxylated esters of carboxylic acids
+   18/3225  . . . . . {Polyamines}
+   18/3228  . . . . . . {acyclic}
+   18/3231  . . . . . . . {Hydrazine or derivatives thereof}
+   18/3234  . . . . . . {cycloaliphatic}
+   18/3237  . . . . . . {aromatic (C08G 18/3234 takes
+   18/324   . . . . . . . {containing only one aromatic ring}
+   18/3243  . . . . . . . {containing two or more aromatic
+   18/3246  . . . . . . {heterocyclic, the heteroatom being
+oxygen or nitrogen in the form of an
+   18/325   . . . . . . {containing secondary or tertiary amino
+groups (C08G 18/3228, C08G 18/3234,
+   18/3253  . . . . . . {being in latent form}
+   18/3256  . . . . . . . {Reaction products of polyamines
+   18/3259  . . . . . . . {Reaction products of polyamines
+with inorganic or organic acids or
+derivatives thereof other than metallic
+   18/3262  . . . . . . . . {with carboxylic acids or
+   18/3265  . . . . . . . . {with carbondioxide or
+   18/3268  . . . . . . . {Salt complexes of polyamines}
+   18/3271  . . . . . {Hydroxyamines}
+   18/3275  . . . . . . {containing two hydroxy groups}
+   18/3278  . . . . . . {containing at least three hydroxy
+   18/3281  . . . . . . . {containing three hydroxy groups}
+   18/3284  . . . . . . . {containing four hydroxy groups}
+   18/3287  . . . . . . {containing cycloaliphatic groups}
+   18/329   . . . . . . {containing aromatic groups}
+   18/3293  . . . . . . {containing heterocyclic groups}
+   18/3296  . . . . . . {being in latent form}
+   18/34    . . . . Carboxylic acids; Esters thereof with
+   18/341   . . . . . {Dicarboxylic acids, esters of
+polycarboxylic acids containing two
+   18/343   . . . . . {Polycarboxylic acids having at least three
+   18/345   . . . . . . {having three carboxylic acid groups}
+   18/346   . . . . . . {having four carboxylic acid groups}
+   18/348   . . . . . {Hydroxycarboxylic acids}
+   18/36    . . . . Hydroxylated esters of higher fatty acids
+   18/38    . . . . having heteroatoms other than oxygen
+   18/3802  . . . . . {having halogens}
+   18/3804  . . . . . . {Polyhydroxy compounds}
+   18/3806  . . . . . . . {having chlorine and/or bromine
+   18/3808  . . . . . . . . {having chlorine atoms}
+   18/381   . . . . . . . . {having bromine atoms}
+   18/3812  . . . . . . . {having fluorine atoms}
+   18/3814  . . . . . . {Polyamines}
+   18/3817  . . . . . . {Hydroxylated esters of higher fatty
+   18/3819  . . . . . {having nitrogen}
+   18/3821  . . . . . . {Carboxylic acids; Esters thereof with
+   18/3823  . . . . . . {containing -N-C=O groups}
+   18/3825  . . . . . . . {containing amide groups
+(C08G 18/3821 takes precedence)}
+   18/3827  . . . . . . . . {Bicyclic amide acetals and
+   18/3829  . . . . . . . {containing ureum groups}
+   18/3831  . . . . . . . {containing urethane groups}
+   18/3834  . . . . . . . {containing hydrazide or semi-
+   18/3836  . . . . . . {containing azo groups}
+   18/3838  . . . . . . {containing cyano groups}
+   18/384   . . . . . . {containing nitro groups}
+   18/3842  . . . . . . {containing heterocyclic rings having at
+least one nitrogen atom in the ring}
+   18/3844  . . . . . . . {containing one nitrogen atom in the
+   18/3846  . . . . . . . . {containing imide groups
+(C08G 18/3821 takes precedence)}
+   18/3848  . . . . . . . {containing two nitrogen atoms in the
+   18/3851  . . . . . . . {containing three nitrogen atoms in
+   18/3853  . . . . . . . . {containing cyanurate and/or
+   18/3855  . . . . . {having sulfur}
+   18/3857  . . . . . . {having nitrogen in addition to sulfur}
+   18/3859  . . . . . . . {containing -N-C=S groups}
+   18/3861  . . . . . . . {containing sulfonamide and/or
+   18/3863  . . . . . . {containing groups having sulfur atoms
+between two carbon atoms, the sulfur
+atoms being directly linked to carbon
+   18/3865  . . . . . . . {containing groups having one sulfur
+   18/3868  . . . . . . . . {the sulfur atom belonging to a
+   18/387   . . . . . . . . . {in addition to a perfluoroalkyl
+   18/3872  . . . . . . . . {the sulfur atom belonging to a
+   18/3874  . . . . . . {containing heterocyclic rings having at
+least one sulfur atom in the ring}
+   18/3876  . . . . . . {containing mercapto groups}
+   18/3878  . . . . . {having phosphorus}
+   18/388   . . . . . . {having phosphorus bound to carbon
+   18/3882  . . . . . . {having phosphorus bound to oxygen
+   18/3885  . . . . . . . {Phosphate compounds}
+   18/3887  . . . . . . . {Phosphite compounds}
+   18/3889  . . . . . . {having nitrogen in addition to
+   18/3891  . . . . . . {having sulfur in addition to
+   18/3893  . . . . . {containing silicon}
+   18/3895  . . . . . . {Inorganic compounds, e.g. aqueous
+alkalimetalsilicate solutions; Organic
+derivatives thereof containing no direct
+   18/3897  . . . . . {containing heteroatoms other than
+oxygen, halogens, nitrogen, sulfur,
+   18/40    . . . High-molecular-weight compounds
+{(C08G 18/2805 takes precedence)}
+   18/4009  . . . . {Two or more macromolecular compounds
+not provided for in one single group of
+groups C08G 18/42 - C08G 18/64}
+   18/4018  . . . . . {Mixtures of compounds of group
+C08G 18/42 with compounds of group
+   18/4027  . . . . . {Mixtures of compounds of group
+C08G 18/54 with other macromolecular
+   18/4036  . . . . . {Mixtures of compounds of group
+C08G 18/56 with other macromolecular
+   18/4045  . . . . . {Mixtures of compounds of group
+C08G 18/58 with other macromolecular
+   18/4054  . . . . . {Mixtures of compounds of group
+C08G 18/60 with other macromolecular
+   18/4063  . . . . . {Mixtures of compounds of group
+C08G 18/62 with other macromolecular
+   18/4072  . . . . . {Mixtures of compounds of group
+C08G 18/63 with other macromolecular
+   18/4081  . . . . . {Mixtures of compounds of group
+C08G 18/64 with other macromolecular
+   18/409   . . . . {Dispersions of polymers of C08G in organic
+compounds having active hydrogen}
+   18/42    . . . . Polycondensates having carboxylic or
+carbonic ester groups in the main chain
+   18/4202  . . . . . {Two or more polyesters of different
+physical or chemical nature (C08G 18/44
+   18/4205  . . . . . {containing cyclic groups}
+   18/4208  . . . . . . {containing aromatic groups}
+   18/4211  . . . . . . . {derived from aromatic dicarboxylic
+   18/4213  . . . . . . . . {from terephthalic acid and
+   18/4216  . . . . . . . . {from mixtures or combinations
+of aromatic dicarboxylic acids and
+aliphatic dicarboxylic acids and
+   18/4219  . . . . . . . . {from aromatic dicarboxylic acids
+with polycarboxylic acids and/or
+polyhydroxy compounds which are
+   18/4222  . . . . . . . {derived from aromatic polyhydroxy
+compounds and polycarboxylic acids}
+   18/4225  . . . . . . . {derived from residues obtained
+   18/4227  . . . . . . . {derived from aromatic
+polycarboxylic acids containing
+at least two aromatic rings and
+   18/423   . . . . . . {containing cycloaliphatic groups}
+   18/4233  . . . . . . . {derived from polymerised higher
+   18/4236  . . . . . {containing only aliphatic groups}
+   18/4238  . . . . . . {derived from dicarboxylic acids and
+   18/4241  . . . . . . . {from dicarboxylic acids and
+polyhydroxy compounds which are at
+   18/4244  . . . . . {containing oxygen in the form of ether
+   18/4247  . . . . . . {derived from polyols containing at
+least one ether group and polycarboxylic
+   18/425   . . . . . . . {the polyols containing one or two
+   18/4252  . . . . . . . {derived from polyols containing
+polyether groups and polycarboxylic
+   18/4255  . . . . . . . {derived from polyols containing
+oxyalkylated carbocyclic groups and
+   18/4258  . . . . . . {derived from polycarboxylic acids
+containing at least one ether group and
+   18/4261  . . . . . . {prepared by oxyalkylation of
+   18/4263  . . . . . {containing carboxylic acid groups}
+   18/4266  . . . . . {prepared from hydroxycarboxylic acids
+   18/4269  . . . . . . {Lactones}
+   18/4272  . . . . . . . {Privalolactone}
+   18/4275  . . . . . . . {Valcrolactone and/or substituted
+   18/4277  . . . . . . . {Caprolactone and/or substituted
+   18/428   . . . . . . {Lactides}
+   18/4283  . . . . . . {Hydroxycarboxylic acid or ester}
+   18/4286  . . . . . . {prepared from a combination of
+lactones with polycarboxylic acids or
+ester forming derivatives thereof and
+   18/4288  . . . . . {modified by higher fatty oils or their
+   18/4291  . . . . . {prepared from polyester forming
+components containing monoepoxy
+   18/4294  . . . . . {prepared from polyester forming
+components containing polyepoxy
+   18/4297  . . . . . {prepared from polyester forming
+components containing aliphatic aldehyde
+condensates or hydrogenation products
+thereof having at least two hydroxy
+   18/44    . . . . . Polycarbonates
+   18/46    . . . . . having heteroatoms other than oxygen
+   18/4607  . . . . . . {having halogens}
+   18/4615  . . . . . . {containing nitrogen}
+   18/4623  . . . . . . . {containing primary or secondary
+   18/463   . . . . . . . {containing nitro groups}
+   18/4638  . . . . . . . {containing heterocyclic rings having
+at least one nitrogen atom in the ring}
+   18/4646  . . . . . . . . {containing one nitrogen atom in
+   18/4653  . . . . . . . . {containing two nitrogen atoms in
+   18/4661  . . . . . . . . {containing three nitrogen atoms in
+   18/4669  . . . . . . . {Addition products of unsaturated
+polyesters with amino compounds}
+   18/4676  . . . . . . {containing sulfur}
+   18/4684  . . . . . . {containing phosphorus}
+   18/4692  . . . . . . {containing silicon}
+   18/4804  . . . . . {Two or more polyethers of different
+   18/4808  . . . . . . {Mixtures of two or more
+   18/4812  . . . . . . {Mixtures of polyetherdiols with
+polyetherpolyols having at least three
+   18/4816  . . . . . . {mixtures of two or more
+polyetherpolyols having at least three
+   18/482   . . . . . . {Mixtures of polyethers containing at
+least one polyether containing nitrogen}
+   18/4825  . . . . . {Polyethers containing two hydroxy
+groups (C08G 18/4833 - C08G 18/5096
+   18/4829  . . . . . {Polyethers containing at
+(C08G 18/4833 - C08G 18/5096 take
+   18/4833  . . . . . {Polyethers containing oxyethylene units}
+   18/4837  . . . . . . {and other oxyalkylene units}
+   18/4841  . . . . . . . {containing oxyethylene end groups}
+   18/4845  . . . . . . . {containing oxypropylene or higher
+   18/485   . . . . . . . {containing mixed oxyethylene-
+oxypropylene or oxyethylene-higher
+   18/4854  . . . . . {Polyethers containing oxyalkylene groups
+having four carbon atoms in the alkylene
+   18/4858  . . . . . {Polyethers containing oxyalkylene groups
+having more than four carbon atoms in the
+   18/4862  . . . . . {containing at least a part of the ether
+   18/4866  . . . . . {having a low unsaturation value}
+   18/487   . . . . . {Polyethers containing cyclic groups}
+   18/4875  . . . . . . {containing cycloaliphatic groups}
+   18/4879  . . . . . . {containing aromatic groups}
+   18/4883  . . . . . . {containing cyclic groups having at least
+   18/4887  . . . . . {containing carboxylic ester groups
+derived from carboxylic acids other than
+acids of higher fatty oils or other than resin
+   18/4891  . . . . . {modified with higher fatty oils or their
+   18/4895  . . . . . {prepared from polyepoxy compounds}
+   18/50    . . . . . having heteroatoms other than oxygen
+   18/5003  . . . . . . {having halogens}
+   18/5006  . . . . . . . {having chlorine and/or bromine
+   18/5009  . . . . . . . . {having chlorine atoms}
+   18/5012  . . . . . . . . {having bromine atoms}
+   18/5015  . . . . . . . {having fluorine atoms}
+   18/5018  . . . . . . . {having iodine atoms}
+   18/5021  . . . . . . {having nitrogen}
+   18/5024  . . . . . . . {containing primary and/or secondary
+   18/5027  . . . . . . . . {directly linked to carbocyclic
+   18/503   . . . . . . . . {being in latent form}
+   18/5033  . . . . . . . {containing carbocyclic groups
+(C08G 18/5024 takes precedence)}
+   18/5036  . . . . . . . {containing -N-C=O groups}
+   18/5039  . . . . . . . . {containing amide groups}
+   18/5042  . . . . . . . . {containing ureum groups}
+   18/5045  . . . . . . . . {containing urethane groups}
+   18/5048  . . . . . . . . {Products of hydrolysis of
+   18/5051  . . . . . . . {containing cyano groups}
+   18/5054  . . . . . . . {containing heterocyclic rings having
+at least one nitrogen atom in the ring}
+   18/5057  . . . . . . . . {containing one nitrogen atom in
+   18/506   . . . . . . . . {containing two nitrogen atoms in
+   18/5063  . . . . . . . . {containing three nitrogen atoms in
+   18/5066  . . . . . . . {having halogens in addition to
+   18/5069  . . . . . . . {prepared from polyepoxy
+   18/5072  . . . . . . {containing sulfur}
+   18/5075  . . . . . . {having phosphorus}
+   18/5078  . . . . . . . {having phosphorus bound to carbon
+   18/5081  . . . . . . . {having phosphorus bound to oxygen
+   18/5084  . . . . . . . . {Phosphate compounds}
+   18/5087  . . . . . . . . {Phosphite compounds}
+   18/509   . . . . . . . {having nitrogen in addition to
+   18/5093  . . . . . . . {having sulfur in addition to
+   18/5096  . . . . . . {containing silicon}
+   18/52    . . . . Polythioethers
+   18/54    . . . . Polycondensates of aldehydes
+   18/542   . . . . . {with phenols}
+   18/544   . . . . . {with nitrogen compounds}
+   18/546   . . . . . {Oxyalkylated polycondensates of
+   18/548   . . . . . {Polycondensates of aldehydes with
+   18/56    . . . . Polyacetals
+   18/58    . . . . Epoxy resins {(C08G 18/42, C08G 18/48
+take precedence; reaction products of epoxy
+resins with at least equivalent amounts of
+compounds containing active hydrogen
+C08G 18/6407, with at least equivalent
+amounts of amines C08G 18/6415;
+polymeric products of isocyanates or
+isothiocyanates with epoxy compounds
+having no active hydrogen C08G 18/003)}
+   18/581   . . . . . {Reaction products of epoxy resins
+with less than equivalent amounts of
+compounds containing active hydrogen
+added before or during the reaction with
+the isocyanate component (with amines
+   18/582   . . . . . {having halogens}
+   18/584   . . . . . {having nitrogen}
+   18/585   . . . . . {having sulfur}
+   18/587   . . . . . {having phosphorus}
+   18/588   . . . . . {having silicon}
+   18/60    . . . . Polyamides or polyester-amides
+   18/603   . . . . . {Polyamides}
+   18/606   . . . . . {Polyester-amides}
+   18/61    . . . . Polysiloxanes
+   18/615   . . . . . {containing carboxylic acid groups}
+   18/62    . . . . Polymers of compounds having carbon-to-
+   18/6204  . . . . . {Polymers of olefins (unsaturated
+   18/6208  . . . . . . {Hydrogenated polymers of conjugated
+   18/6212  . . . . . {Polymers of alkenylalcohols; Acetals
+thereof; Oxyalkylation products thereof}
+   18/6216  . . . . . {Polymers of alpha-beta ethylenically
+unsaturated carboxylic acids or of
+   18/622   . . . . . . {Polymers of esters of alpha-beta
+ethylenically unsaturated carboxylic
+   18/6225  . . . . . . . {Polymers of esters of acrylic or
+   18/6229  . . . . . . . . {Polymers of hydroxy groups
+containing esters of acrylic or
+methacrylic acid with aliphatic
+   18/6233  . . . . . . . . . {the monomers or polymers
+being esterified with carboxylic
+   18/6237  . . . . . . . {Polymers of esters containing
+ethylenically unsaturated carboxylic
+acids; reaction products thereof}
+   18/6241  . . . . . . . {Polymers of esters containing
+ethylenically unsaturated carboxylic
+(esterification during or after
+   18/6245  . . . . . . . {Polymers having terminal groups
+   18/625   . . . . . . {Polymers of alpha-beta ethylenically
+hydrolyzed polymers of esters of these
+   18/6254  . . . . . . . {Polymers of alpha-beta ethylenically
+unsaturated carboxylic acids and
+of esters of these acids containing
+   18/6258  . . . . . . . {the acid groups being esterified
+epoxy compounds during or after
+   18/6262  . . . . . . {Polymers of nitriles derived from
+alpha-beta ethylenically unsaturated
+   18/6266  . . . . . . {Polymers of amides or imides from
+alpha-beta ethylenically unsaturated
+   18/627   . . . . . {Polymers of hydroxylated esters of
+unsaturated higher fatty acids}
+   18/6275  . . . . . {Polymers of halogen containing
+compounds having carbon-to-carbon
+double bonds; halogenated polymers of
+compounds having carbon-to-carbon
+double bonds (C08G 18/6212 takes
+   18/6279  . . . . . . {containing fluorine atoms}
+   18/6283  . . . . . {Polymers of nitrogen containing
+compounds having carbon-to-carbon
+   18/6287  . . . . . {Polymers of sulfur containing compounds
+having carbon-to-carbon double bonds}
+   18/6291  . . . . . {Polymers of phosphorus containing
+compounds having carbon-to-carbon
+   18/6295  . . . . . {Polymers of silicium containing
+compounds having carbon-to-carbon
+   18/63    . . . . Block or graft polymers obtained by
+polymerising compounds having carbon-to-
+carbon double bonds on to polymers
+   18/631   . . . . . {onto polyesters and/or polycarbonates}
+   18/632   . . . . . {onto polyethers}
+   18/633   . . . . . {onto polymers of compounds having
+   18/635   . . . . . {onto unsaturated polymers}
+   18/636   . . . . . {characterised by the presence of a
+   18/637   . . . . . {characterised by the in situ
+polymerisation of the compounds having
+carbon-to-carbon double bonds in a
+reaction mixture of saturated polymers and
+   18/638   . . . . . {characterised by the use of compounds
+having carbon-to-carbon double bonds
+other than styrene and/or olefinic nitriles}
+   18/64    . . . . Macromolecular compounds not provided for
+by groups C08G 18/42 - C08G 18/63
+   18/6407  . . . . . {Reaction products of epoxy resins with
+at least equivalent amounts of compounds
+containing active hydrogen (with amines
+C08G 18/643; C08G 18/42, C08G 18/48
+   18/6415  . . . . . {having nitrogen}
+   18/6423  . . . . . . {Polyalkylene polyamines;
+polyethylenimines; Derivatives thereof
+   18/643   . . . . . . {Reaction products of epoxy resins with
+at least equivalent amounts of amines}
+   18/6438  . . . . . . {Polyimides or polyesterimides}
+   18/6446  . . . . . . {Proteins and derivatives thereof}
+   18/6453  . . . . . {having sulfur}
+   18/6461  . . . . . {having phosphorus}
+   18/6469  . . . . . {having silicon}
+   18/6476  . . . . . {Bituminous materials, e.g. asphalt, coal
+tar, pitch; derivatives thereof}
+   18/6484  . . . . . {Polysaccharides and derivatives thereof}
+   18/6492  . . . . . {Lignin containing materials; Wood
+resins; Wood tars; Derivatives thereof}
+   18/65    . . . Low-molecular-weight compounds having
+active hydrogen with high-molecular-
+weight compounds having active hydrogen
+{(C08G 18/2805 takes precedence)}
+   18/6505  . . . . {the low-molecular compounds being
+compounds of group C08G 18/32 or
+   18/6511  . . . . . {compounds of group C08G 18/3203}
+   18/6517  . . . . . . {having at least three hydroxy groups}
+   18/6523  . . . . . {Compounds of group C08G 18/3225
+or C08G 18/3271 or polyamines of
+   18/6529  . . . . . . {Compounds of group C08G 18/3225 or
+   18/6535  . . . . . . {Compounds of group C08G 18/3271}
+   18/6541  . . . . {the low-molecular compounds being
+   18/6547  . . . . {the low-molecular compounds being
+compounds of group C08G 18/36 or
+hydroxylated esters of higher fatty acids of
+   18/6552  . . . . {Compounds of group C08G 18/63}
+   18/6558  . . . . . {with compounds of group C08G 18/32 or
+   18/6564  . . . . . . {with compounds of group
+   18/657   . . . . . . {with compounds of C08G 18/3225
+or C08G 18/3271 or polyamines of
+   18/6576  . . . . {Compounds of group C08G 18/69}
+   18/6582  . . . . . {with compounds of group C08G 18/32 or
+   18/6588  . . . . . . {with compounds of group
+   18/6594  . . . . . . {with compounds of C08G 18/3225
+or C08G 18/3271 or polyamines of
+   18/66    . . . . Compounds of groups C08G 18/42,
+   18/6603  . . . . . {with compounds of group C08G 18/32 or
+   18/6607  . . . . . . {with compounds of group
+   18/6611  . . . . . . . {having at least three hydroxy
+   18/6614  . . . . . . {with compounds of group
+C08G 18/3225 or C08G 18/3271 and/or
+   18/6618  . . . . . . . {with compounds of group
+   18/6622  . . . . . . . {with compounds of group
+   18/6625  . . . . . {with compounds of group C08G 18/34}
+   18/6629  . . . . . {with compounds of group C08G 18/36 or
+hydroxylated esters of higher fatty acids of
+   18/6633  . . . . . {Compounds of group C08G 18/42}
+   18/6637  . . . . . . {with compounds of group C08G 18/32
+   18/664   . . . . . . . {with compounds of group
+   18/6644  . . . . . . . . {having at least three hydroxy
+   18/6648  . . . . . . . {with compounds of group
+C08G 18/3225 or C08G 18/3271 and/
+   18/6651  . . . . . . . . {with compounds of group
+   18/6655  . . . . . . . . {with compounds of group
+   18/6659  . . . . . . {with compounds of group
+   18/6662  . . . . . . {with compounds of group C08G 18/36
+or hydroxylated esters of higher fatty
+   18/6666  . . . . . {Compounds of group C08G 18/48 or
+   18/667   . . . . . . {with compounds of group C08G 18/32
+   18/6674  . . . . . . . {with compounds of group
+   18/6677  . . . . . . . . {having at least three hydroxy
+   18/6681  . . . . . . . {with compounds of group
+C08G 18/32 or C08G 18/3271 and/or
+   18/6685  . . . . . . . . {with compounds of group
+   18/6688  . . . . . . . . {with compounds of group
+   18/6692  . . . . . . {with compounds of group
+   18/6696  . . . . . . {with compounds of group C08G 18/36
+or hydroxylated esters of higher fatty
+   18/67    . . . Unsaturated compounds having active
+In groups C08G 18/67 - C08G 18/679, C-
+The detailed information about the C-Sets
+construction and the associated syntax rules
+is present in the Definitions of C08G.
+   18/6705  . . . . {Unsaturated polymers not provided for in
+the groups C08G 18/671, C08G 18/6795,
+   18/671   . . . . {Unsaturated compounds having
+only one group containing active
+hydrogen (takes precedence on groups
+   18/6715  . . . . . {Unsaturated monofunctional alcohols or
+   18/672   . . . . . {Esters of acrylic or alkyl acrylic acid
+having only one group containing active
+   18/6725  . . . . . . {containing ester groups other than
+acrylate or alkylacrylate ester groups}
+   18/673   . . . . . . {containing two or more acrylate or
+   18/6735  . . . . . {Unsaturated compounds containing the
+unsaturation at least partially in a non-
+   18/674   . . . . . {Unsaturated compounds containing the
+unsaturation at least partially in a cyclic
+ring having at least one oxygen atom in the
+   18/6745  . . . . . {Acetylenic compounds}
+   18/675   . . . . {Low-molecular-weight compounds}
+   18/6755  . . . . . {Unsaturated carboxylic acids}
+   18/676   . . . . . {containing the unsaturation at least
+partially in a non-aromatic carbocyclic
+   18/6765  . . . . . {containing the unsaturation at least
+partially in a cyclic ring having at least one
+   18/677   . . . . . {containing heteroatoms other than oxygen
+and the nitrogen of primary or secondary
+   18/6775  . . . . . . {containing halogen}
+   18/678   . . . . . . {containing nitrogen}
+   18/6785  . . . . . . {containing phosphorus}
+   18/679   . . . . . {Acetylenic compounds}
+   18/6795  . . . . {Unsaturated polyethers}
+   18/68    . . . . Unsaturated polyesters
+   18/683   . . . . . {containing cyclic groups}
+   18/686   . . . . . . {containing cycloaliphatic groups}
+   18/69    . . . . Polymers of conjugated dienes
+{(hydrogenated polymers of conjugated
+   18/692   . . . . . {containing carboxylic acid groups}
+   18/694   . . . . . {containing carboxylic ester groups}
+   18/696   . . . . . {containing heteroatoms other than
+oxygen and other than the heteroatoms of
+   18/698   . . . . . {Mixtures with compounds of group
+   18/70    . . characterised by the isocyanates or
+   18/701   . . . {Compounds forming isocyanates or
+isothiocyanates in situ (C08G 18/80 takes
+   18/702   . . . {Isocyanates or isothiocyanates containing
+compounds having carbon-to-carbon double
+   18/703   . . . {Isocyanates or isothiocyanates transformed in
+a latent form by physical means}
+   18/705   . . . . {Dispersions of isocyanates or
+isothiocyanates in a liquid medium
+(C08G 18/702 takes precedence)}
+   18/706   . . . . . {the liquid medium being water}
+   18/707   . . . . . {the liquid medium being a compound
+containing active hydrogen not comprising
+   18/708   . . . {Isocyanates or isothiocyanates containing non-
+reactive high-molecular-weight compounds}
+   18/71    . . . Monoisocyanates or monoisothiocyanates
+   18/711   . . . . {containing oxygen in addition to isocyanate
+   18/712   . . . . {containing halogens}
+   18/714   . . . . {containing nitrogen in addition to
+isocyanate or isothiocyanate nitrogen}
+   18/715   . . . . {containing sulfur in addition to
+   18/717   . . . . {containing phosphorus}
+   18/718   . . . . {containing silicon}
+   18/72    . . . Polyisocyanates or polyisothiocyanates
+   18/721   . . . . {Two or more polyisocyanates not
+provided for in one single group
+   18/722   . . . . . {Combination of two or more aliphatic
+and/or cycloaliphatic polyisocyanates}
+   18/724   . . . . . {Combination of aromatic polyisocyanates
+with (cyclo)aliphatic polyisocyanates}
+   18/725   . . . . . {Combination of polyisocyanates of
+C08G 18/78 with other polyisocyanates}
+   18/727   . . . . . {comprising distillation residues or non-
+distilled raw phosgenation products}
+   18/728   . . . . {Polymerisation products of compounds
+having carbon-to-carbon unsaturated bonds
+and having isocyanate or isothiocyanate
+groups or groups forming isocyanate or
+   18/735   . . . . . {containing one isocyanate or
+isothiocyanate group linked to a primary
+carbon atom and at least one isocyanate or
+isothiocyanate group linked to a tertiary
+   18/75    . . . . . cycloaliphatic
+   18/751   . . . . . . {containing only one cycloaliphatic
+   18/752   . . . . . . . {containing at least one isocyanate
+or isothiocyanate group linked to the
+cycloaliphatic ring by means of an
+   18/753   . . . . . . . . {containing one isocyanate or
+isothiocyanate group linked to the
+cycloaliphatic ring by means of an
+aliphatic group having a primary
+carbon atom next to the isocyanate
+   18/755   . . . . . . . . . {and at least one isocyanate
+of the cycloaliphatic ring, e.g.
+   18/756   . . . . . . . . . {and at least one isocyanate or
+   18/757   . . . . . . . . {containing at least two isocyanate
+or isothiocyanate groups linked to
+the cycloaliphatic ring by means of
+   18/758   . . . . . . {containing two or more cycloaliphatic
+   18/7607  . . . . . . {Compounds of C08G 18/7614 and of
+   18/7614  . . . . . . {containing only one aromatic ring}
+   18/7621  . . . . . . . {being toluene diisocyanate including
+   18/7628  . . . . . . . {containing at least one isocyanate
+or isothiocyanate group linked to the
+aromatic ring by means of an aliphatic
+   18/7635  . . . . . . . . {containing one isocyanate or
+the aromatic ring by means of an
+aliphatic group and at least one
+isocyanate or isothiocyanate group
+directly linked to the aromatic ring,
+e.g. isocyanatobenzylisocyanate}
+   18/7642  . . . . . . . . {containing at least two isocyanate
+or isothiocyanate groups linked
+the isocyanate or isothiocyanate
+groups, e.g. xylylene diisocyanate
+or homologues substituted on the
+   18/765   . . . . . . . . {alpha, alpha, alpha', alpha', -
+tetraalkylxylylene diisocyanate
+or homologues substituted on the
+   18/7657  . . . . . . {containing two or more aromatic rings}
+   18/7664  . . . . . . . {containing alkylene polyphenyl
+   18/7671  . . . . . . . . {containing only one alkylene
+   18/7678  . . . . . . . {containing condensed aromatic
+   18/7685  . . . . . . . {containing two or more non-
+condensed aromatic rings directly
+   18/7692  . . . . . . . {containing at least one isocyanate
+or isothiocyanate group linked to an
+aromatic ring by means of an aliphatic
+   18/77    . . . . having heteroatoms in addition to the
+isocyanate or isothiocyanate nitrogen and
+   18/773   . . . . . {halogens}
+   18/776   . . . . . {phosphorus}
+   18/778   . . . . . {silicon}
+   18/78    . . . . . Nitrogen {(C08G 18/775, C08G 18/776
+   18/7806  . . . . . . {containing -N-C=0 groups}
+   18/7812  . . . . . . . {containing amide groups}
+   18/7818  . . . . . . . {containing ureum or ureum
+   18/7825  . . . . . . . . {containing ureum groups}
+   18/7831  . . . . . . . . {containing biuret groups}
+   18/7837  . . . . . . . . {containing allophanate groups}
+   18/7843  . . . . . . . {containing urethane groups}
+   18/785   . . . . . . {containing tertiary amino groups}
+   18/7856  . . . . . . {containing azo groups}
+   18/7862  . . . . . . {containing cyano groups or aldimine or
+   18/7868  . . . . . . {containing nitro groups}
+   18/7875  . . . . . . {containing heterocyclic rings having at
+least one nitrogen atom in the ring}
+   18/7881  . . . . . . . {having one nitrogen atom in the
+   18/7887  . . . . . . . {having two nitrogen atoms in the
+   18/7893  . . . . . . . {having three nitrogen atoms in the
+   18/79    . . . . . . characterised by the polyisocyanates
+used, these having groups formed
+by oligomerisation of isocyanates or
+   18/791   . . . . . . . {containing isocyanurate groups}
+   18/792   . . . . . . . . {formed by oligomerisation of
+aliphatic and/or cycloaliphatic
+isocyanates or isothiocyanates}
+   18/794   . . . . . . . . {formed by oligomerisation
+   18/795   . . . . . . . . {formed by oligomerisation
+of mixtures of aliphatic and/or
+isocyanates or isothiocyanates}
+   18/797   . . . . . . . {containing carbodiimide and/or
+   18/798   . . . . . . . {containing urethdione groups}
+   18/80    . . . . Masked polyisocyanates
+   18/8003  . . . . . {masked with compounds having at least
+two groups containing active hydrogen}
+   18/8006  . . . . . . {with compounds of C08G 18/32}
+   18/8009  . . . . . . . {with compounds of C08G 18/3203}
+   18/8012  . . . . . . . . {with diols}
+   18/8016  . . . . . . . . . {Masked aliphatic or
+cycloaliphatic polyisocyanates}
+   18/8019  . . . . . . . . . {Masked aromatic
+   18/8022  . . . . . . . . {with polyols having at least three
+   18/8025  . . . . . . . . . {Masked aliphatic or
+cycloaliphatic polyisocyanates}
+   18/8029  . . . . . . . . . {Masked aromatic
+   18/8032  . . . . . . . . {Masked aliphatic or cycloaliphatic
+for in one single of the groups
+   18/8035  . . . . . . . . {Masked aromatic polyisocyanates
+not provided for in one single of
+   18/8038  . . . . . . . {with compounds of C08G 18/3225}
+   18/8041  . . . . . . . {with compounds of C08G 18/3271}
+   18/8045  . . . . . . {with water}
+   18/8048  . . . . . . {with compounds of C08G 18/34}
+   18/8051  . . . . . . {with compounds of C08G 18/36}
+   18/8054  . . . . . . {with compounds of C08G 18/38}
+   18/8058  . . . . . . . {with compounds of C08G 18/3819}
+   18/8061  . . . . . {masked with compounds having only one
+group containing active hydrogen}
+   18/8064  . . . . . . {with monohydroxy compounds}
+   18/8067  . . . . . . . {phenolic compounds}
+   18/807   . . . . . . {with nitrogen containing compounds}
+   18/8074  . . . . . . . {Lactams}
+   18/8077  . . . . . . . {Oximes}
+   18/808   . . . . . . . {Monoamines}
+   18/8083  . . . . . . {with compounds containing at least
+one heteroatom other than oxygen or
+   18/8087  . . . . . . . {containing halogen atoms}
+   18/809   . . . . . . . {containing silicon}
+   18/8093  . . . . . . {Compounds containing active
+   18/8096  . . . . . . {with two or more compounds having
+only one group containing active
+   18/81    . . . Unsaturated isocyanates or isothiocyanates
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules
+is present in the Definitions of C08G.
+   18/8108  . . . . {having only one isocyanate or
+   18/8116  . . . . . {esters of acrylic or alkylacrylic
+acid having only one isocyanate or
+   18/8125  . . . . {having two or more isocyanate or
+   18/8133  . . . . {having acetylenic groups}
+   18/815   . . . . . {Polyisocyanates or polyisothiocyanates
+masked with unsaturated compounds
+   18/8158  . . . . . . {with unsaturated compounds having
+only one group containing active
+   18/8166  . . . . . . . {with unsaturated monofunctional
+   18/8175  . . . . . . . {with esters of acrylic or alkylacrylic
+acid having only one group containing
+   18/8183  . . . . . . . {with unsaturated compounds
+containing the unsaturation at least
+partially in a cyclic ring having at
+least one oxygen atom in the ring}
+   18/8191  . . . . . . {with acetylenic compounds having
+   18/82    . . Post-polymerisation treatment
+   18/83    . . Chemically modified polymers
+   18/831   . . . {by oxygen-containing compounds inclusive
+of carbonic acid halogenides, carboxylic acid
+halogenides and epoxy halides (by aldehydes
+C08G 18/84, by peroxides C08G 18/86)}
+   18/832   . . . . {by water acting as hydrolizing agent
+(reaction of isocyanates with water
+C08G 18/302; reaction of isocyanate
+prepolymers with water C08G 18/10 +
+   18/833   . . . {by nitrogen containing compounds (by azo
+   18/834   . . . {by compounds containing a thiol group}
+   18/835   . . . . {Unsaturated polymers modified by
+compounds containing a thiol group}
+   18/836   . . . {by phosphorus containing compounds}
+   18/837   . . . {by silicon containing compounds}
+   18/838   . . . {by compounds containing heteroatoms
+other than oxygen, halogens, nitrogen, sulfur,
+   18/85    . . . by azo compounds
+   59/00    Polycondensates containing more than one
+epoxy group per molecule (low-molecular-weight
+polyepoxy compounds C07); Macromolecules
+obtained by polymerising compounds containing
+more than one epoxy group per molecule using
+curing agents or catalysts which react with the
+   59/02    . Polycondensates containing more than one epoxy
+   59/022   . . {characterised by the preparation process or
+   59/025   . . {characterised by the purification methods used}
+   59/027   . . {obtained by epoxidation of unsaturated
+precursor, e.g. polymer or monomer}
+   59/04    . . of polyhydroxy compounds with epihalohydrins
+   59/06    . . . of polyhydric phenols
+   59/063   . . . . {with epihalohydrins}
+   59/066   . . . . {with chain extension or advancing agents}
+   59/08    . . . . from phenol-aldehyde condensates
+   59/10    . . of polyamines with epihalohydrins or precursors
+   59/12    . . of polycarboxylic acids with epihalohydrins or
+   59/14    . Polycondensates modified by chemical after-
+   59/1405  . . {with inorganic compounds}
+   59/1411  . . . {containing sulfur}
+   59/1416  . . . . {Hydrogen sulfide}
+   59/1422  . . . {containing phosphorus}
+   59/1427  . . . {with water, e.g. hydrolysis}
+   59/1433  . . {with organic low-molecular-weight compounds}
+   59/1438  . . . {containing oxygen}
+   59/1444  . . . . {Monoalcohols}
+   59/145   . . . . {Compounds containing one epoxy group}
+   59/1455  . . . . {Monocarboxylic acids, anhydrides, halides,
+or low-molecular-weight esters thereof}
+   59/1461  . . . . . {Unsaturated monoacids}
+   59/1466  . . . . . . {Acrylic or methacrylic acids}
+   59/1472  . . . . . . {Fatty acids}
+   59/1477  . . . {containing nitrogen}
+   59/1483  . . . {containing sulfur}
+   59/1488  . . . {containing phosphorus}
+   59/1494  . . {followed by a further chemical treatment
+   59/18    . Macromolecules obtained by polymerising
+compounds containing more than one epoxy group
+per molecule using curing agents or catalysts which
+react with the epoxy groups {; e.g. general methods
+   59/182   . . {using pre-adducts of epoxy compounds with
+   59/184   . . . {with amines}
+   59/188   . . {using encapsulated compounds}
+   59/20    . . characterised by the epoxy compounds used
+Preparation and curing of epoxy
+polycondensates, in which the epoxy
+polycondensate is not exclusively
+low-molecular-weight compound and
+in which the method of curing is not
+important, are classified only in groups
+   59/22    . . . Di-epoxy compounds
+   59/223   . . . . {together with monoepoxy compounds}
+   59/226   . . . . {Mixtures of di-epoxy compounds}
+   59/24    . . . . carbocyclic
+   59/245   . . . . . {aromatic}
+   59/26    . . . . heterocyclic
+   59/28    . . . . containing acyclic nitrogen atoms
+   59/30    . . . . containing atoms other than carbon,
+   59/302   . . . . . {containing sulfur}
+   59/304   . . . . . {containing phosphorus}
+   59/306   . . . . . {containing silicon}
+   59/308   . . . . . {containing halogen atoms}
+   59/32    . . . Epoxy compounds containing three or more
+   59/3209  . . . . {obtained by polymerisation of unsaturated
+   59/3218  . . . . {Carbocyclic compounds}
+   59/3227  . . . . {Compounds containing acyclic nitrogen
+   59/3236  . . . . {Heterocylic compounds}
+   59/3245  . . . . . {containing only nitrogen as a heteroatom}
+   59/3254  . . . . {containing atoms other than carbon,
+   59/3263  . . . . . {containing sulfur}
+   59/3272  . . . . . {containing phosphorus}
+   59/3281  . . . . . {containing silicon}
+   59/329   . . . . . {containing halogen atoms}
+   59/34    . . . . obtained by epoxidation of an unsaturated
+   59/36    . . . . together with mono-epoxy compounds
+   59/38    . . . . together with di-epoxy compounds
+   59/40    . . characterised by the curing agents used
+   59/4007  . . . {Curing agents not provided for by the groups
+   59/4014  . . . . {Nitrogen containing compounds}
+   59/4021  . . . . . {Ureas; Thioureas; Guanidines;
+   59/4028  . . . . . {Isocyanates; Thioisocyanates}
+   59/4035  . . . . . {Hydrazines; Hydrazides}
+   59/4042  . . . . . {Imines; Imides}
+   59/4057  . . . . . {Carbamates}
+   59/4064  . . . . {sulfur containing compounds
+(C08G 59/4021, C08G 59/4028 take
+   59/4071  . . . . {phosphorus containing compounds}
+   59/4078  . . . . {boron containing compounds}
+   59/4085  . . . . {silicon containing compounds}
+   59/4092  . . . . {titanium containing compounds}
+   59/42    . . . Polycarboxylic acids; Anhydrides, halides or
+low molecular weight esters thereof
+   59/4207  . . . . {aliphatic}
+   59/4215  . . . . {cycloaliphatic}
+   59/423   . . . . {containing an atom other than oxygen
+belonging to a functional groups to
+C08G 59/42, carbon and hydrogen}
+   59/4238  . . . . {heterocyclic}
+   59/4246  . . . . {polymers with carboxylic terminal groups}
+   59/4253  . . . . . {Rubbers}
+   59/4261  . . . . . {Macromolecular compounds obtained
+by reactions involving only unsaturated
+carbon-to-carbon bindings (C08G 59/4253
+   59/4269  . . . . . {Macromolecular compounds obtained
+by reactions other than those involving
+unsaturated carbon-to-carbon bindings
+(C08G 59/4253 takes precedence)}
+   59/4276  . . . . . . {Polyesters}
+   59/4284  . . . . {together with other curing agents}
+   59/4292  . . . . {together with monocarboxylic acids}
+   59/442   . . . . {Thioamides}
+   59/444   . . . . {Sulfonamides}
+   59/446   . . . . {Phosphoramides}
+   59/46    . . . . together with other curing agents
+   59/48    . . . . . with polycarboxylic acids, or with
+anhydrides, halides or low-molecular-
+   59/5006  . . . . {aliphatic}
+   59/5013  . . . . . {containing more than seven carbon
+   59/502   . . . . . {Polyalkylene polyamines}
+   59/5026  . . . . {cycloaliphatic}
+   59/504   . . . . {containing an atom other than nitrogen
+belonging to the amine group, carbon and
+   59/5046  . . . . {heterocyclic}
+   59/5053  . . . . . {containing only nitrogen as a heteroatom}
+   59/506   . . . . . . {having one nitrogen atom in the ring}
+   59/5066  . . . . . . . {Aziridines or their derivatives}
+   59/5073  . . . . . . {having two nitrogen atoms in the ring}
+   59/508   . . . . . . {having three nitrogen atoms in the
+   59/5086  . . . . . . . {Triazines; Melamines; Guanamines}
+   59/5093  . . . . {Complexes of amines}
+   59/52    . . . . Amino carboxylic acids
+   59/54    . . . . Amino amides>
+   59/56    . . . . together with other curing agents
+   59/58    . . . . . with polycarboxylic acids or with
+anhydrides, halides, or low-molecular-
+   59/60    . . . . . with amides
+   59/62    . . . Alcohols or phenols
+   59/623   . . . . . {Aminophenols}
+   59/625   . . . . {Hydroxyacids}
+   59/626   . . . . . {Lactones}
+   59/628   . . . . . {Phenolcarboxylic acids}
+   59/64    . . . . Amino alcohols
+   59/68    . . characterised by the catalysts used
+   59/681   . . . {Metal alcoholates, phenolates or carboxylates}
+   59/682   . . . . {Alcoholates}
+   59/683   . . . . {Phenolates}
+   59/685   . . . . {Carboxylates}
+   59/686   . . . {containing nitrogen}
+   59/687   . . . {containing sulfur}
+   59/688   . . . {containing phosphorus}
+   59/72    . . . Complexes of boron halides
+   61/00    Macromolecular compounds obtained by reactions
+forming a carbon-to-carbon link in the main chain
+of the macromolecule (C08G 2/00 - C08G 16/00 take
+In this group, it is desirable to add the indexing
+codes C08G 2261/00 - C08G 2261/964
+   61/02    . Macromolecular compounds containing only carbon
+atoms in the main chain of the macromolecule, e.g.
+   61/025   . . {Polyxylylenes}
+   61/04    . . only aliphatic carbon atoms
+   61/06    . . . prepared by ring-opening of carbocyclic
+   61/08    . . . . of carbocyclic compounds containing one or
+more carbon-to-carbon double bonds in the
+   61/10    . . only aromatic carbon atoms, e.g. polyphenylenes
+   61/12    . Macromolecular compounds containing atoms other
+than carbon in the main chain of the macromolecule
+   61/121   . . {derived from organic halides}
+   61/122   . . {derived from five- or six-membered heterocyclic
+   61/123   . . . {derived from five-membered heterocyclic
+   61/124   . . . . {with a five-membered ring containing one
+   61/125   . . . . {with a five-membered ring containing one
+   61/126   . . . . {with a five-membered ring containing one
+   61/127   . . {derived from carbon dioxide, carbonyl halide,
+carboxylic acids or their derivatives}
+   63/00    Macromolecular compounds obtained by reactions
+forming a carboxylic ester link in the main
+chain of the macromolecule (polyester-amides
+C08G 69/44; polyester-imides C08G 73/16)
+Compounds characterised by the chemical
+constitution of the polyesters are classified in
+the groups for the type of polyester compound.
+Compounds characterised by the preparation
+process of the polyesters are classified in
+groups   C08G 63/78-C08G 63/87 for the process
+employed. Compounds characterised both by
+the chemical constitution and by the preparation
+process are classified according to each of these
+   63/005   . {Polyesters prepared from ketenes}
+   63/02    . Polyesters derived from hydroxycarboxylic acids
+or from polycarboxylic acids and polyhydroxy
+   63/06    . . derived from hydroxycarboxylic acids
+   63/065   . . . {the hydroxy and carboxylic ester groups being
+   63/08    . . . Lactones or lactides
+   63/12    . . derived from polycarboxylic acids and
+   63/123   . . . the acids or hydroxy compounds containing
+   63/127   . . . . Acids containing aromatic rings
+   63/13    . . . . . containing two or more aromatic rings
+   63/133   . . . . Hydroxy compounds containing aromatic
+   63/137   . . . . Acids or hydroxy compounds containing
+   63/16    . . . Dicarboxylic acids and dihydroxy compounds
+   63/18    . . . . the acids or hydroxy compounds containing
+   63/181   . . . . . Acids containing aromatic rings
+   63/183   . . . . . . Terephthalic acids
+   63/185   . . . . . . containing two or more aromatic rings
+   63/187   . . . . . . . containing condensed aromatic rings
+   63/189   . . . . . . . . containing a naphthalene ring
+   63/19    . . . . . Hydroxy compounds containing aromatic
+   63/191   . . . . . . Hydroquinones
+   63/193   . . . . . . containing two or more aromatic rings
+   63/195   . . . . . . . Bisphenol A
+   63/197   . . . . . . . containing condensed aromatic rings
+   63/199   . . . . . Acids or hydroxy compounds containing
+   63/20    . . . . Polyesters having been prepared in the
+presence of compounds having one reactive
+group or more than two reactive groups
+   63/21    . . . . . in the presence of unsaturated
+monocarboxylic acids or unsaturated
+monohydric alcohols or reactive
+   63/40    . . . Polyesters derived from ester-forming
+derivatives of polycarboxylic acids or of
+polyhydroxy compounds, other than from
+   63/42    . . . . Cyclic ethers (C08G 59/00 takes
+precedence); Cyclic carbonates; Cyclic
+   63/44    . . . . Polyamides; Polynitriles
+   63/46    . . . Polyesters chemically modified by
+esterification (C08G 63/20 takes precedence;
+   63/47    . . . . by unsaturated monocarboxylic acids or
+unsaturated monohydric alcohols or reactive
+   63/48    . . . . by unsaturated higher fatty oils or their acids;
+   63/50    . . . . by monohydric alcohols
+   63/52    . . . Polycarboxylic acids or polyhydroxy
+compounds in which at least one of the two
+components contains aliphatic unsaturation
+   63/54    . . . . the acids or hydroxy compounds containing
+   63/547   . . . . . Hydroxy compounds containing aromatic
+   63/553   . . . . . Acids or hydroxy compounds containing
+cycloaliphatic rings, e.g. Diels-Alder
+   63/56    . . . . Polyesters derived from ester-forming
+derivatives of polycarboxylic acids or of
+polyhydroxy compounds other than from
+   63/58    . . . . . Cyclic ethers (C08G 59/00 takes
+precedence); Cyclic carbonates; Cyclic
+sulfites {; Cyclic orthoesters}
+   63/60    . . derived from the reaction of a mixture of hydroxy
+carboxylic acids, polycarboxylic acids and
+   63/605   . . . {the hydroxy and carboxylic groups being
+   63/64    . Polyesters containing both carboxylic ester groups
+   63/66    . Polyesters containing oxygen in the form of ether
+groups (C08G 63/42, C08G 63/58 take precedence)
+   63/664   . . derived from hydroxy carboxylic acids
+   63/668   . . derived from polycarboxylic acids and
+   63/672   . . . Dicarboxylic acids and dihydroxy compounds
+   63/676   . . . in which at least one of the two components
+contains aliphatic unsaturation
+   63/68    . Polyesters containing atoms other than carbon,
+hydrogen and oxygen (C08G 63/64 takes
+   63/681   . . {containing elements not provided for by groups
+   63/682   . . containing halogens
+   63/6822  . . . {derived from hydroxy carboxylic acids}
+   63/6824  . . . {derived from polycarboxylic acids and
+   63/6826  . . . . {Dicarboxylic acids and dihydroxy
+   63/6828  . . . . {Polycarboxylic acids and polyhydroxy
+compounds in which at least one of the two
+components contains aliphatic unsaturation}
+   63/685   . . containing nitrogen
+   63/6852  . . . {derived from hydroxy carboxylic acids}
+   63/6854  . . . {derived from polycarboxylic acids and
+   63/6856  . . . . {Dicarboxylic acids and dihydroxy
+   63/6858  . . . . {Polycarboxylic acids and polyhydroxy
+compounds in which at least one of the two
+components contains aliphatic unsaturation}
+   63/688   . . containing sulfur
+   63/6882  . . . {derived from hydroxy carboxylic acids}
+   63/6884  . . . {derived from polycarboxylic acids and
+   63/6886  . . . . {Dicarboxylic acids and dihydroxy
+   63/6888  . . . . {Polycarboxylic acids and polyhydroxy
+compounds in which at least one of the two
+components contains aliphatic unsaturation}
+   63/692   . . containing phosphorus
+   63/6922  . . . {derived from hydroxy carboxylic acids}
+   63/6924  . . . {derived from polycarboxylic acids and
+   63/6926  . . . . {Dicarboxylic acids and dihydroxy
+   63/6928  . . . . {Polycarboxylic acids and polyhydroxy
+compounds in which at least one of the two
+components contains aliphatic unsaturation}
+   63/695   . . containing silicon
+   63/6952  . . . {derived from hydroxycarboxylic acids}
+   63/6954  . . . {derived from polxycarboxylic acids and
+   63/6956  . . . . {Dicarboxylic acids and dihydroxy
+   63/6958  . . . . {Polycarboxylic acids and polyhydroxy
+compounds in which at least one of the two
+components contains aliphatic unsaturation}
+   63/698   . . containing boron
+   63/6982  . . . {derived from hydroxy carboxylic acids}
+   63/6984  . . . {derived from polycarboxylic acids and
+   63/6986  . . . . {Dicarboxylic acids and dihydroxy
+   63/6988  . . . . {Polycarboxylic acids and polyhydroxy
+compounds in which at least one of the two
+components contains aliphatic unsaturation}
+   63/78    . Preparation processes
+   63/785   . . {characterised by the apparatus used}
+   63/79    . . Interfacial processes, i.e. processes involving
+a reaction at the interface of two non-miscible
+   63/80    . . Solid-state polycondensation
+   63/81    . . using solvents (C08G 63/79 takes precedence)
+   63/82    . . characterised by the catalyst used
+   63/823   . . . {for the preparation of polylactones or
+   63/826   . . . {Metals not provided for in groups
+C08G 63/83 - C08G 63/86 (C08G 63/823 takes
+   63/83    . . . Alkali metals, alkaline earth metals, beryllium,
+magnesium, copper, silver, gold, zinc,
+cadmium, mercury, manganese, or compounds
+thereof {(C08G 63/823 takes precedence)}
+   63/84    . . . Boron, aluminium, gallium, indium, thallium,
+rare-earth metals, or compounds thereof
+{(C08G 63/823 takes precedence)}
+   63/85    . . . Germanium, tin, lead, arsenic, antimony,
+bismuth, titanium, zirconium, hafnium,
+vanadium, niobium, tantalum, or compounds
+thereof {(C08G 63/823 takes precedence)}
+   63/86    . . . . Germanium, antimony, or compounds
+   63/863   . . . . . {Germanium or compounds thereof}
+   63/866   . . . . . {Antimony or compounds thereof}
+   63/87    . . . Non-metals or inter-compounds thereof (boron
+   63/88    . Post-polymerisation treatment
+   63/89    . . Recovery of the polymer
+   63/90    . . Purification; Drying
+   63/91    . Polymers modified by chemical after-treatment
+   63/912   . . {derived from hydroxycarboxylic acids}
+   63/914   . . {derived from polycarboxylic acids and
+   63/916   . . . {Dicarboxylic acids and dihydroxy
+   63/918   . . . {Polycarboxylic acids and polyhydroxy
+compounds in which at least one of the two
+components contains aliphatic unsaturation}
+   64/00    Macromolecular compounds obtained by reactions
+forming a carbonic ester link in the main chain
+of the macromolecule (polycarbonate-amides
+C08G 69/44; polycarbonate-imides C08G 73/16)
+Polymers containing both carboxylic ester groups
+and carbonate groups are always classified in
+group C08G 63/64, even when the carbonate
+   64/02    . Aliphatic polycarbonates
+   64/0216  . . . {containing a chain-terminating or -
+   64/0225  . . . {containing atoms other than carbon, hydrogen
+   64/0233  . . . . {containing halogens}
+   64/0241  . . . . {containing nitrogen}
+   64/025   . . . . {containing sulfur}
+   64/0258  . . . . {containing phosphorus}
+   64/0266  . . . . {containing silicon}
+   64/0275  . . . . {containing boron}
+   64/0283  . . . . {containing other elements}
+   64/04    . Aromatic polycarbonates
+   64/045   . . {containing aliphatic unsaturation}
+   64/06    . . not containing aliphatic unsaturation
+   64/08    . . . containing atoms other than carbon, hydrogen
+   64/081   . . . . {containing sulfur}
+   64/083   . . . . {containing phosphorus}
+   64/085   . . . . {containing silicon}
+   64/086   . . . . {containing boron}
+   64/088   . . . . {containing other elements}
+   64/10    . . . . containing halogens
+   64/12    . . . . containing nitrogen
+   64/14    . . . containing a chain-terminating or -crosslinking
+   64/16    . Aliphatic-aromatic or araliphatic polycarbonates
+   64/1616  . . . {containing a chain-terminating or -
+   64/1625  . . . {containing atoms other than carbon, hydrogen
+   64/1633  . . . . {containing halogens}
+   64/1641  . . . . {containing nitrogen}
+   64/165   . . . . {containing sulfur}
+   64/1658  . . . . {containing phosphorus}
+   64/1666  . . . . {containing silicon}
+   64/1675  . . . . {containing boron}
+   64/1683  . . . . {containing other elements}
+   64/18    . Block or graft polymers
+   64/183   . . {containing polyether sequences}
+   64/186   . . {containing polysiloxane sequences}
+   64/20    . General preparatory processes
+   64/205   . . {characterised by the apparatus used}
+   64/22    . . using carbonyl halides
+   64/223   . . . {and cyclic ethers}
+   64/226   . . . {and alcohols}
+   64/26    . . using halocarbonates
+   64/263   . . . {and cyclic ethers}
+   64/266   . . . {and alcohols}
+   64/30    . . using carbonates
+   64/302   . . . {and cyclic ethers}
+   64/305   . . . {and alcohols}
+   64/307   . . . {and phenols}
+   64/32    . . using carbon dioxide
+   64/323   . . . {and alcohols}
+   64/326   . . . {and phenols}
+   64/34    . . . and cyclic ethers
+   64/36    . . using carbon monoxide
+   64/38    . . using other monomers
+   64/40    . Post-polymerisation treatment
+   64/403   . . {Recovery of the polymer}
+   64/406   . . {Purifying; Drying}
+   64/42    . Chemical after-treatment
+   65/00    Macromolecular compounds obtained by reactions
+forming an ether link in the main chain of the
+   65/002   . {from unsaturated compounds (unsaturated oxiranes
+   65/005   . . {containing halogens}
+   65/007   . . . {containing fluorine}
+   65/02    . from cyclic ethers by opening of the heterocyclic
+   65/04    . . from cyclic ethers only
+   65/06    . . . Cyclic ethers having no atoms other than
+carbon and hydrogen outside the ring
+   65/08    . . . . Saturated oxiranes
+   65/10    . . . . . characterised by the catalysts used
+   65/105   . . . . . . {Onium compounds}
+   65/12    . . . . . . containing organo-metallic compounds
+   65/14    . . . . Unsaturated oxiranes
+   65/16    . . . . Cyclic ethers having four or more ring atoms
+   65/20    . . . . . Tetrahydrofuran
+   65/22    . . . Cyclic ethers having at least one atom other
+than carbon and hydrogen outside the ring
+   65/223   . . . . {containing halogens (epihalohydrins
+   65/226   . . . . . {containing fluorine}
+   65/24    . . . . Epihalohydrins
+   65/26    . . from cyclic ethers and other compounds
+   65/2603  . . . {the other compounds containing oxygen}
+   65/2606  . . . . {containing hydroxyl groups}
+   65/2609  . . . . . {containing aliphatic hydroxyl groups}
+   65/2612  . . . . . {containing aromatic or arylaliphatic
+   65/2615  . . . . {the other compounds containing carboxylic
+acid, ester or anhydride groups}
+   65/2618  . . . {the other compounds containing nitrogen}
+   65/2621  . . . . {containing amine groups}
+   65/2624  . . . . . {containing aliphatic amine groups}
+   65/2627  . . . . . {containing aromatic or arylaliphatic
+   65/263   . . . . . {containing heterocyclic amine groups}
+   65/2633  . . . . {the other compounds containing amide
+   65/2636  . . . {the other compounds containing sulfur}
+   65/2639  . . . {the other compounds containing elements
+other than oxygen, nitrogen or sulfur}
+   65/2642  . . . {characterised by the catalyst used}
+1. In this group classification is made
+according to the metal in the compounds, if
+2. In this group boron is considered a metal
+and magnesium as an alkaline earth metal
+   65/2645  . . . . {Metals or compounds thereof, e.g. salts}
+   65/2648  . . . . . {Alkali metals or compounds thereof}
+   65/2651  . . . . . {Alkaline earth metals or compounds
+   65/2654  . . . . . {Aluminium or boron; Compounds
+   65/2657  . . . . . . {Aluminosilicates; Clays; Zeolites}
+   65/266   . . . . . {Metallic elements not covered by group
+C08G 65/2648 - C08G 65/2645, or
+   65/2663  . . . . . {Metal cyanide catalysts, i.e. DMC's}
+   65/2666  . . . . . {Hetero polyacids}
+   65/2669  . . . . {Non-metals or compounds thereof (boron
+   65/2672  . . . . . {Nitrogen or compounds thereof}
+   65/2675  . . . . . {Phosphorus or compounds thereof}
+   65/2678  . . . . . {Sulfur or compounds thereof}
+   65/2681  . . . . . {Silicon or compounds thereof (silicates
+   65/2684  . . . . . {Halogens or compounds thereof}
+   65/2687  . . . . . {Elements not covered by groups
+   65/269   . . . . {Mixed catalyst systems, i.e. containing
+more than one reactive component or
+   65/2693  . . . . {Supported catalysts}
+   65/2696  . . . {characterised by the process or apparatus
+   65/30    . . Post-polymerisation treatment, e.g. recovery,
+   65/32    . . Polymers modified by chemical after-treatment
+   65/321   . . . with inorganic compounds
+   65/322   . . . . containing hydrogen
+   65/323   . . . . containing halogens
+   65/3233  . . . . . {Molecular halogen}
+   65/3236  . . . . . . {Fluorine}
+   65/324   . . . . containing oxygen
+   65/3245  . . . . . {Carbondioxide}
+   65/325   . . . . containing nitrogen
+   65/3255  . . . . . {Ammonia}
+   65/326   . . . . containing sulfur
+   65/3265  . . . . . {Sulfurdioxide}
+   65/327   . . . . containing phosphorus
+   65/328   . . . . containing other elements
+   65/329   . . . with organic compounds
+   65/331   . . . . containing oxygen {(cyclic ether compounds
+   65/3311  . . . . . {containing a hydroxy group}
+   65/3312  . . . . . . {acyclic}
+   65/3314  . . . . . . {cyclic}
+   65/3315  . . . . . . . {aromatic}
+   65/3317  . . . . . . . . {phenolic}
+   65/3318  . . . . . . {heterocyclic}
+   65/332   . . . . . containing carboxyl groups, or halides, or
+   65/3322  . . . . . . {acyclic}
+   65/3324  . . . . . . {cyclic}
+   65/3326  . . . . . . . {aromatic}
+   65/3328  . . . . . . {heterocyclic}
+   65/333   . . . . containing nitrogen
+   65/33303 . . . . . {containing amino group}
+   65/33306 . . . . . . {acyclic}
+   65/3331  . . . . . . {cyclic}
+   65/33313 . . . . . . . {aromatic}
+   65/33317 . . . . . . {heterocyclic}
+   65/3332  . . . . . {containing carboxamide group}
+   65/33324 . . . . . . {acyclic}
+   65/33327 . . . . . . {cyclic}
+   65/33331 . . . . . {containing imide group}
+   65/33334 . . . . . . {acyclic}
+   65/33337 . . . . . . {cyclic}
+   65/33341 . . . . . . . {aromatic}
+   65/33344 . . . . . {containing carbamate group}
+   65/33348 . . . . . {containing isocyanate group}
+   65/33351 . . . . . . {acyclic}
+   65/33355 . . . . . . {cyclic}
+   65/33358 . . . . . . . {aromatic}
+   65/33362 . . . . . . {heterocyclic}
+   65/33365 . . . . . {containing cyano group}
+   65/33368 . . . . . . {acyclic}
+   65/33372 . . . . . . . {acrylonitrile}
+   65/33375 . . . . . . {cyclic}
+   65/33379 . . . . . {containing nitro group}
+   65/33382 . . . . . . {acyclic}
+   65/33386 . . . . . . {cyclic}
+   65/33389 . . . . . . . {aromatic}
+   65/33393 . . . . . . {heterocyclic}
+   65/33396 . . . . . {having oxygen in addition to nitrogen}
+   65/334   . . . . containing sulfur
+   65/3342  . . . . . {having sulfur bound to carbon and
+   65/3344  . . . . . {containing oxygen in addition to sulfur}
+   65/3346  . . . . . . {having sulfur bound to carbon and
+   65/3348  . . . . . {containing nitrogen in addition to sulfur}
+   65/335   . . . . containing phosphorus
+   65/3351  . . . . . {having phosphorus bound to carbon and
+   65/3353  . . . . . {containing oxygen in addition to
+   65/3355  . . . . . . {having phosphorus bound to carbon
+   65/3356  . . . . . {having nitrogen in addition to
+   65/3358  . . . . . {having sulfur in addition to phosphorus}
+   65/336   . . . . containing silicon
+   65/337   . . . . containing other elements (organic
+compounds containing halogens only as
+halides of a carboxyl group C08G 65/332)
+   65/338   . . . with inorganic and organic compounds
+   65/34    . from hydroxy compounds or their metallic
+derivatives {(C08G 65/26 takes precedence)}
+   65/36    . . Furfuryl alcohol
+   65/38    . . derived from phenols
+   65/40    . . . from phenols (I) and other compounds (II),
+e.g. OH-Ar-OH + X-Ar-X, where X is halogen
+   65/4006  . . . . {(I) or (II) containing elements other than
+carbon, oxygen, hydrogen or halogen as
+   65/4012  . . . . {Other compound (II) containing a
+ketone group, e.g. X-Ar-C(=O)-Ar-X for
+   65/4018  . . . . . {(I) or (II) containing halogens other than
+   65/4025  . . . . . . {(I) or (II) containing fluorine other than
+   65/4031  . . . . . {(I) or (II) containing nitrogen}
+   65/4037  . . . . . . {in ring structure, e.g. pyridine group}
+   65/4043  . . . . . {(I) or (II) containing oxygen other than as
+   65/405   . . . . . . {in ring structure, e.g. phenolphtalein}
+   65/4056  . . . . . {(I) or (II) containing sulfur (as the sulfone
+   65/4062  . . . . . . {in ring structure}
+   65/4068  . . . . . {(I) or (II) containing elements
+   65/4075  . . . . {from self-polymerisable monomers, e.g.
+   65/4081  . . . . {forming cyclic polymers or oligomers}
+   65/4087  . . . . {characterised by the catalyst used}
+   65/4093  . . . . {characterised by the process or apparatus
+   65/42    . . . . Phenols and polyhydroxy ethers
+   65/44    . . . by oxidation of phenols
+   65/46    . . Post-polymerisation treatment, e.g. recovery,
+   65/48    . . Polymers modified by chemical after-treatment
+   65/485   . . . {Polyphenylene oxides}
+   67/00    Macromolecular compounds obtained by
+reactions forming in the main chain of the
+macromolecule a linkage containing oxygen or
+oxygen and carbon, not provided for in groups
+   67/02    . Copolymers of carbon monoxide and aliphatic
+   69/00    Macromolecular compounds obtained by reactions
+forming a carboxylic amide link in the main
+chain of the macromolecule (products obtained
+from isocyanates or isothiocyanates C08G 18/00;
+   69/02    . Polyamides derived from amino-carboxylic acids or
+from polyamines and polycarboxylic acids
+   69/04    . . Preparatory processes
+   69/06    . . . Solid state polycondensation
+   69/08    . . derived from amino-carboxylic acids
+   69/10    . . . Alpha-amino-carboxylic acids
+{(polysuccinimides C08G 73/1092)}
+   69/12    . . . with both amino and carboxylic groups
+   69/16    . . . . Preparatory processes
+   69/18    . . . . . Anionic polymerisation
+   69/20    . . . . . . characterised by the catalysts used
+   69/22    . . . . Beta-lactams
+   69/24    . . . . Pyrrolidones or piperidones
+   69/26    . . derived from polyamines and polycarboxylic
+   69/265   . . . {from at least two different diamines or at least
+two different dicarboxylic acids}
+   69/28    . . . Preparatory processes
+   69/30    . . . . Solid state polycondensation
+   69/32    . . . from aromatic diamines and aromatic
+dicarboxylic acids with both amino and
+carboxylic groups aromatically bound
+   69/34    . . . using polymerised unsaturated fatty acids
+   69/36    . . derived from amino acids, polyamines and
+   69/38    . Polyamides prepared from aldehydes and
+   69/40    . Polyamides containing oxygen in the form of ether
+groups (C08G 69/12, C08G 69/32 take precedence)
+   69/42    . Polyamides containing atoms other than carbon,
+hydrogen, oxygen, and nitrogen (C08G 69/12,
+   69/46    . Post-polymerisation treatment
+   69/48    . Polymers modified by chemical after-treatment
+   71/00    Macromolecular compounds obtained by reactions
+forming a ureide or urethane link, otherwise, than
+from isocyanate radicals in the main chain of the
+   73/00    Macromolecular compounds obtained by reactions
+forming a linkage containing nitrogen with or
+without oxygen or carbon in the main chain of
+the macromolecule, not provided for in groups
+C08G 12/00 - C08G 71/00 {(polycarbodiimides
+prepared from isocyanates C08G 18/025,
+   73/0206  . . {Polyalkylene(poly)amines}
+   73/0213  . . . {Preparatory process}
+   73/022   . . . . {from polyamines and epihalohydrins}
+   73/0226  . . . . {Quaternisation of
+   73/0233  . . {Polyamines derived from (poly)oxazolines,
+(poly)oxazines or having pendant acyl groups}
+   73/024   . . {Polyamines containing oxygen in the form of
+   73/0246  . . {Polyamines containing other atoms than carbon,
+hydrogen, nitrogen or oxygen in the main chain}
+   73/0253  . . . {Polyamines containing sulfur in the main
+   73/026   . . {Wholly aromatic polyamines}
+   73/0266  . . . {Polyanilines or derivatives thereof}
+   73/0273  . . {Polyamines containing heterocyclic moieties in
+   73/028   . . {Polyamidoamines}
+   73/0286  . . . {Preparatory process from polyamidoamines
+   73/0293  . . . {Quaternisation of polyamidoamines}
+   73/06    . Polycondensates having nitrogen-containing
+heterocyclic rings in the main chain of the
+1. In this subgroup, "spiro" and "bridged"
+compounds are considered as condensed
+2. Heterocyclic rings containing both nitrogen
+and sulfur are classified in subgroups
+   73/0605  . . {Polycondensates containing five-membered
+rings, not condensed with other rings, with
+nitrogen atoms as the only ring hetero atoms}
+   73/0611  . . . {with only one nitrogen atom in the ring,
+e.g. polypyrroles (polysuccinimides
+   73/0616  . . . {with only two nitrogen atoms in the ring}
+   73/0622  . . {Polycondensates containing six-membered rings,
+not condensed with other rings, with nitrogen
+atoms as the only ring hetero atoms}
+   73/0627  . . . {with only one nitrogen atom in the ring}
+   73/0633  . . . {with only two nitrogen atoms in the ring}
+   73/0638  . . . {with at least three nitrogen atoms in the ring}
+   73/0644  . . . . {Poly(1,3,5)triazines}
+   73/065   . . . . {Preparatory processes}
+   73/0655  . . . . . {from polycyanurates}
+   73/0661  . . . . . . {characterised by the catalyst used}
+   73/0666  . . {Polycondensates containing five-membered
+rings, condensed with other rings, with nitrogen
+atoms as the only ring hetero atoms}
+   73/0672  . . . {with only one nitrogen atom in the ring}
+   73/0677  . . . {with only two nitrogen atoms in the ring}
+   73/0683  . . {Polycondensates containing six-membered rings,
+condensed with other rings, with nitrogen atoms
+   73/0688  . . . {with only one nitrogen atom in the ring, e.g.
+   73/0694  . . . {with only two nitrogen atoms in the ring, e.g.
+   73/08    . . Polyhydrazides; Polytriazoles;
+Polyaminotriazoles; Polyoxadiazoles
+   73/10    . . Polyimides; Polyester-imides; Polyamide-imides;
+Polyamide acids or similar polyimide precursors
+   73/1003  . . . {Preparatory processes}
+   73/1007  . . . . {from tetracarboxylic acids or derivatives
+   73/101   . . . . . {containing chain terminating or branching
+   73/1014  . . . . . . {in the form of (mono)anhydrid}
+   73/1017  . . . . . . {in the form of (mono)amine}
+   73/1021  . . . . . {characterised by the catalyst used}
+   73/1025  . . . . . {polymerised by radiations}
+   73/1028  . . . . . {characterised by the process itself, e.g.
+   73/1032  . . . . . . {characterised by the solvent(s) used}
+   73/1035  . . . . {from tetracarboxylic acids or derivatives
+   73/1039  . . . {comprising halogen-containing substituents}
+   73/1042  . . . {Copolyimides derived from at least two
+different tetracarboxylic compounds or two
+   73/1046  . . . {Polyimides containing oxygen in the form of
+   73/105   . . . . {with oxygen only in the diamino moiety}
+   73/1053  . . . . {with oxygen only in the tetracarboxylic
+   73/1057  . . . {Polyimides containing other atoms than
+carbon, hydrogen, nitrogen or oxygen in the
+   73/106   . . . . {containing silicon}
+   73/1064  . . . . {containing sulfur}
+   73/1067  . . . {Wholly aromatic polyimides, i.e. having
+both tetracarboxylic and diamino moieties
+   73/1071  . . . . {Wholly aromatic polyimides containing
+oxygen in the form of ether bonds in the
+   73/1075  . . . {Partially aromatic polyimides}
+   73/1078  . . . . {wholly aromatic in the diamino moiety}
+   73/1082  . . . . {wholly aromatic in the tetracarboxylic
+   73/1085  . . . {Polyimides with diamino moieties or
+tetracarboxylic segments containing
+   73/1089  . . . {Polyisoimides}
+   73/1092  . . . {Polysuccinimides}
+   73/1096  . . . {containing azo linkage in the main chain}
+   73/12    . . . Unsaturated polyimide precursors
+   73/121   . . . . {Preparatory processes from unsaturated
+   73/122   . . . . . {containing chain terminating or branching
+   73/123   . . . . {the unsaturated precursors comprising
+halogen-containing substituents}
+   73/124   . . . . {the unsaturated precursors containing
+oxygen in the form of ether bonds in the
+   73/125   . . . . {the unsaturated precursors containing atoms
+other than carbon, hydrogen, oxygen or
+   73/126   . . . . {the unsaturated precursors being wholly
+   73/127   . . . . . {containing oxygen in the form of ether
+   73/128   . . . . {the unsaturated precursors containing
+heterocyclic moieties in the main chain}
+   73/14    . . . Polyamide-imides
+   73/16    . . . Polyester-imides
+   73/18    . . Polybenzimidazoles
+   73/22    . . Polybenzoxazoles
+   73/24    . Copolymers of a fluoronitroso organic compound
+and another fluoro organic compound, e.g. nitroso
+   73/26    . . of trifluoronitrosomethane with a fluoro-olefin
+   75/00    Macromolecular compounds obtained by reactions
+forming a linkage containing sulfur with or
+without nitrogen, oxygen, or carbon in the main
+   75/0204  . . Polyarylenethioethers
+1. In this group, macromolecular compounds are
+classified for the inventive aspects which are
+relevant in any of the following sets of groups:
+2. Within each set of groups mentioned in Note
+(1), the last place priority rule is applied, i.e.
+at each hierarchical level, in the absence of
+an indication to the contrary, classification is
+made in the last appropriate place.
+   75/0209  . . . derived from monomers containing one
+   75/0213  . . . . containing elements other than carbon,
+   75/0218  . . . . . {containing oxygen}
+   75/0222  . . . . . containing nitrogen
+   75/0227  . . . derived from monomers containing two or
+   75/0231  . . . containing chain-terminating or chain-
+   75/0236  . . . containing atoms other than carbon or sulfur in
+a linkage between arylene groups
+   75/024   . . . . containing carbonyl groups
+   75/0245  . . . Block or graft polymers
+   75/025   . . . Preparatory processes
+   75/0254  . . . . using metal sulfides
+   75/0259  . . . . metal hydrogensulfides
+   75/0263  . . . . using elemental sulfur
+   75/0268  . . . . using disulfides
+   75/0272  . . . . {using other sulfur sources}
+   75/0277  . . . Post-polymerisation treatment (chemical after-
+   75/0281  . . . . Recovery or purification
+   75/0286  . . . Chemical after-treatment
+   75/029   . . . . Modification with organic compounds
+   75/0295  . . . . Modification with inorganic compounds
+   75/04    . . from mercapto compounds or metallic derivatives
+thereof (C08G 75/0204 takes precedence)
+   75/045   . . . from mercapto compounds and unsaturated
+   75/06    . . from cyclic thioethers
+   75/08    . . . from thiiranes
+   75/10    . . from sulfur or sulfur-containing compounds and
+   75/12    . Polythioether-ethers (C08G 75/0245 takes
+   75/16    . . by polycondensation of organic compounds with
+   75/205   . . Copolymers of sulfur dioxide with unsaturated
+   75/22    . . . Copolymers of sulfur dioxide with unsaturated
+   75/23    . . Polyethersulfones
+   75/28    . Polythiocarbonates
+   75/30    . Polysulfonamides; Polysulfonimides
+   75/32    . Polythiazoles; Polythiadiazoles
+   77/00    Macromolecular compounds obtained by reactions
+forming a linkage containing silicon with or
+without sulfur, nitrogen, oxygen or carbon in the
+main chain of the macromolecule
+   77/045   . . {containing less than 25 silicon atoms}
+   77/06    . . Preparatory processes {(C08G 77/045 takes
+   77/08    . . . characterised by the catalysts used
+   77/10    . . . Equilibration processes
+   77/12    . . containing silicon bound to hydrogen
+{(C08G 77/045 takes precedence)}
+   77/14    . . containing silicon bound to oxygen-containing
+groups {(C08G 77/045 takes precedence)}
+   77/16    . . . to hydroxyl groups
+   77/18    . . . to alkoxy or aryloxy groups
+   77/20    . . containing silicon bound to unsaturated aliphatic
+groups {(C08G 77/045 takes precedence)}
+   77/22    . . containing silicon bound to organic groups
+containing atoms other than carbon, hydrogen and
+oxygen {(C08G 77/045 takes precedence)}
+   77/24    . . . halogen-containing groups
+   77/26    . . . nitrogen-containing groups
+   77/28    . . . sulfur-containing groups
+   77/30    . . . phosphorus-containing groups
+   77/32    . . Post-polymerisation treatment ({C08G 77/045
+takes precedence} chemical after-treatment
+   77/36    . . . Fractionation
+   77/38    . . Polysiloxanes modified by chemical after-
+treatment {(C08G 77/045 takes precedence)}
+   77/382   . . . containing atoms other than carbon, hydrogen,
+   77/385   . . . . containing halogens
+   77/388   . . . . containing nitrogen
+   77/392   . . . . containing sulfur
+   77/395   . . . . containing phosphorus
+   77/398   . . . . containing boron or metal atoms
+   77/42    . Block-or graft-polymers containing polysiloxane
+sequences (polymerising aliphatic unsaturated
+monomers on to a polysiloxane C08F 283/12)
+   77/44    . . containing only polysiloxane sequences
+   77/442   . . containing vinyl polymer sequences
+   77/445   . . containing polyester sequences
+   77/448   . . . containing polycarbonate sequences
+   77/452   . . containing nitrogen-containing sequences
+   77/455   . . . containing polyamide, polyesteramide or
+   77/458   . . containing polyurethane sequences
+   77/46    . . containing polyether sequences
+   77/48    . in which at least two but not all the silicon atoms
+are connected by linkages other than oxygen atoms
+   77/485   . . {containing less than 25 silicon atoms}
+   77/50    . . by carbon linkages {(C08G 77/485 takes
+   77/52    . . . containing aromatic rings
+   77/54    . . Nitrogen-containing linkages {(C08G 77/485
+   77/56    . . Boron-containing linkages {(C08G 77/485 takes
+   77/58    . . Metal-containing linkages {(C08G 77/485 takes
+   77/60    . in which all the silicon atoms are connected by
+linkages other than oxygen atoms
+   77/70    . {Siloxanes defined by use of the MDTQ
+   77/80    . {Siloxanes having aromatic substituents, e.g. phenyl
+   79/00    Macromolecular compounds obtained by reactions
+forming a linkage containing atoms other than
+silicon, sulfur, nitrogen, oxygen, and carbon {with
+or without the latter elements in the main chain of
+   79/02    . a linkage containing phosphorus
+   79/025   . . Polyphosphazenes
+   79/04    . . Phosphorus linked to oxygen or to oxygen and
+   79/06    . . Phosphorus linked to carbon only
+   79/08    . a linkage containing boron
+   79/10    . a linkage containing aluminium
+   79/12    . a linkage containing tin
+   79/14    . a linkage containing two or more elements other
+than carbon, oxygen, nitrogen, sulfur and silicon
+   81/00    Macromolecular compounds obtained by
+interreacting polymers in the absence of
+monomers, e.g. block polymers (involving only
+carbon-to-carbon unsaturated bond reactions
+C08F 299/00 {; polyester-amides C08G 69/44;
+polyester-imides C08G 73/16; polyamides-imides
+C08G 73/14; block- or graft polymers containing
+polysiloxane sequences C08G 77/42})
+   81/02    . at least one of the polymers being obtained
+by reactions involving only carbon-to-carbon
+   81/021   . . {Block or graft polymers containing only
+sequences of polymers of C08C or C08F}
+   81/022   . . . {containing sequences of polymers of
+conjugated dienes and of polymers of alkenyl
+   81/024   . . {Block or graft polymers containing sequences
+of polymers of C08C or C08F and of polymers of
+   81/025   . . . {containing polyether sequences}
+   81/027   . . . {containing polyester or polycarbonate
+   81/028   . . . {containing polyamide sequences}
+   83/00    Macromolecular compounds not provided for in
+   83/001   . {Macromolecular compounds containing organic
+and inorganic sequences, e.g. organic polymers
+   83/002   . {Dendritic macromolecules}
+   83/004   . . . {After treatment of dendrimers}
+   83/005   . . {Hyperbranched macromolecules}
+   83/006   . . . {After treatment of hyperbranched
+   83/007   . {Polyrotaxanes; Polycatenanes}
+   83/008   . {Supramolecular polymers}
+   85/00    General processes for preparing compounds
+   85/002   . {Post-polymerisation treatment}
+   85/004   . {Modification of polymers by chemical after-
+   85/006   . {Scale prevention in polymerisation reactors}
+   85/008   . {Cleaning reaction vessels using chemicals
+(mechanical methods B08B 9/08)}
+ 2101/00    Manufacture of cellular products
+ 2110/0033  . having integral skins
+ 2110/0041  . having specified density
+ 2110/0058  . . ≥50 and <150kg/m3
+ 2110/0075  . prepared with an isocyanate index of 60 or lower
+ 2110/0083  . prepared using water as the sole blowing agent
+ 2110/0091  . Aerogels; Xerogels
+ 2115/02    . to isocyanurate groups
+ 2115/06    . to carbodiimide or uretone-imine groups
+ 2120/00    Compositions for reaction injection moulding
+ 2125/00    Compositions for processes using internal mould
+ 2130/00    Compositions of compatibilising agents used in
+mixtures of high-molecular-weight compounds
+having active hydrogen with other compounds
+ 2140/00    Compositions for moulding powders
+ 2150/00    Compositions for coatings
+ 2150/20    . Compositions for powder coatings
+ 2150/50    . Compositions for coatings applied by spraying at
+least two streams of reaction components
+ 2150/60    . Compositions for foaming; Foamed or intumescent
+ 2150/90    . Compositions for anticorrosive coatings
+ 2170/00    Compositions for adhesives
+ 2170/20    . Compositions for hot melt adhesives
+ 2170/40    . Compositions for pressure-sensitive adhesives
+ 2170/60    . Compositions for foaming; Foamed or intumescent
+ 2170/80    . Compositions for aqueous adhesives
+ 2170/90    . Compositions for adhesives used in footwear
+ 2190/00    Compositions for sealing or packing joints
+ 2210/00    Compositions for preparing hydrogels
+ 2220/00    Compositions for preparing gels other than
+hydrogels, aerogels and xerogels
+ 2230/00    Compositions for preparing biodegradable
+ 2250/00    Compositions for preparing crystalline polymers
+ 2261/00    Macromolecular compounds obtained by reactions
+forming a carbon-to-carbon link in the main chain
+ 2261/10    . Definition of the polymer structure
+ 2261/13    . . Morphological aspects
+ 2261/132   . . . branched or hyperbranched
+ 2261/133   . . . Rod-like building block
+ 2261/1332  . . . . Non-ladder-type, e.g. polyphenylenes, PPVs
+ 2261/1334  . . . . Step-ladder-type, e.g. polyfluorenes or
+ 2261/1336  . . . . Ladder-type, e.g. ladder-poly-p-phenylenes
+ 2261/134   . . . Rod and coil building blocks
+ 2261/135   . . . Cross-linked structures
+ 2261/136   . . . Comb-like structures
+ 2261/141   . . . Side-chains having aliphatic units
+ 2261/1412  . . . . Saturated aliphatic units
+ 2261/1414  . . . . Unsaturated aliphatic units
+ 2261/142   . . . Side-chains containing oxygen
+ 2261/1422  . . . . containing OH groups
+ 2261/1424  . . . . containing ether groups, including alkoxy
+ 2261/1426  . . . . containing carboxy groups (COOH) and/or -
+ 2261/1428  . . . . containing acyl groups
+ 2261/143   . . . Side-chains containing nitrogen
+ 2261/1432  . . . . containing amide groups
+ 2261/1434  . . . . containing triarylamine moieties
+ 2261/144   . . . Side-chains containing silicon
+ 2261/145   . . . Side-chains containing sulfur
+ 2261/1452  . . . . containing sulfonyl or sulfonate-groups
+ 2261/146   . . . Side-chains containing halogens
+ 2261/147   . . . Side-chains with other heteroatoms in the side-
+ 2261/148   . . . Side-chains having aromatic units
+ 2261/149   . . . Side-chains having heteroaromatic units
+ 2261/15    . . . conjugated side-chains
+ 2261/152   . . . comprising metal complexes
+ 2261/1522  . . . . of alkali metals or alkaline-earth metals
+ 2261/1523  . . . . of rare earth metals, i.e. Sc, Y or lanthanides
+ 2261/1524  . . . . of Ti, V, Cr, Zr, Nb, Mo, Hf, Ta or W
+ 2261/1526  . . . . of Os, Ir, Pt, Ru, Rh or Pd
+ 2261/1529  . . . . of Fe, Co or Ni
+ 2261/162   . . . comprising metal complexes
+ 2261/1621  . . . . of alkali metals or alkaline-earth metals
+ 2261/1622  . . . . of rare earth metals, i.e. Sc, Y or lanthanides
+ 2261/1623  . . . . of Ti, V, Cr, Zr, Nb, Mo, Hf, Ta or W
+ 2261/1624  . . . . of Os, Ir, Pt, Ru, Rh or Pd
+ 2261/1626  . . . . of Fe, Co or Ni
+ 2261/164   . . . comprising organic end groups
+ 2261/1642  . . . . comprising reactive double bonds or triple
+ 2261/1644  . . . . comprising other functional groups, e.g.
+OH groups, NH groups, COOH groups or
+ 2261/1646  . . . . comprising aromatic or heteroaromatic end
+ 2261/19    . . partially conjugated
+ 2261/21    . . Stereochemical aspects
+ 2261/212   . . . Regioregularity
+ 2261/216   . . . Cis-trans isomerism
+ 2261/22    . . Molecular weight
+ 2261/226   . . . Oligomers, i.e. up to 10 repeat units
+ 2261/228   . . . Polymers, i.e. more than 10 repeat units
+ 2261/30    . Monomer units or repeat units incorporating
+structural elements in the main chain
+ 2261/31    . . incorporating aromatic structural elements in the
+ 2261/312   . . . Non-condensed aromatic systems, e.g. benzene
+ 2261/314   . . . Condensed aromatic systems, e.g. perylene,
+ 2261/3142  . . . . fluorene-based, e.g. fluorene,
+indenofluorene, or spirobifluorene
+ 2261/316   . . . bridged by heteroatoms, e.g. N, P, Si or B
+ 2261/32    . . incorporating heteroaromatic structural elements
+ 2261/322   . . . non-condensed
+ 2261/3221  . . . . containing one or more nitrogen atoms as
+the only heteroatom, e.g. pyrrole, pyridine or
+ 2261/3222  . . . . containing one or more oxygen atoms as the
+ 2261/3223  . . . . containing one or more sulfur atoms as the
+only heteroatom, e.g. thiophene
+ 2261/3224  . . . . containing one or more Si atoms as the only
+ 2261/3225  . . . . containing one or more Se atoms as the only
+ 2261/3226  . . . . containing one or more Te atoms as the only
+ 2261/3227  . . . . containing only one kind of heteroatoms
+ 2261/3228  . . . . containing nitrogen and oxygen as
+ 2261/3229  . . . . containing nitrogen and sulfur as
+ 2261/323   . . . . containing combinations of different
+heteroatoms other than nitrogen and oxygen
+ 2261/3241  . . . . containing one or more nitrogen atoms as the
+only heteroatom, e.g. carbazole
+ 2261/3242  . . . . containing one or more oxygen atoms as the
+only heteroatom, e.g. benzofuran
+ 2261/3243  . . . . containing one or more sulfur atoms as the
+only heteroatom, e.g. benzothiophene
+ 2261/3244  . . . . containing only one kind of heteroatoms
+ 2261/3245  . . . . containing nitrogen and oxygen as
+ 2261/3246  . . . . containing nitrogen and sulfur as
+ 2261/3247  . . . . containing combinations of different
+heteroatoms other than nitrogen and oxygen
+ 2261/33    . . incorporating non-aromatic structural elements in
+ 2261/332   . . . containing only carbon atoms
+ 2261/3321  . . . . derived from cyclopentene
+ 2261/3322  . . . . derived from cyclooctene
+ 2261/3323  . . . . derived from other monocyclic systems
+ 2261/3324  . . . . derived from norbornene
+ 2261/3325  . . . . derived from other polycyclic systems
+ 2261/3326  . . . . alkane-based
+ 2261/3327  . . . . alkene-based
+ 2261/3328  . . . . alkyne-based
+ 2261/334   . . . containing heteroatoms
+ 2261/3342  . . . . derived from cycloolefins containing
+ 2261/34    . . incorporating partially-aromatic structural
+ 2261/342   . . . containing only carbon atoms
+ 2261/3422  . . . . conjugated, e.g. PPV-type
+ 2261/3424  . . . . non-conjugated, e.g. paracyclophanes or
+ 2261/344   . . . containing heteroatoms
+ 2261/3442  . . . . Polyetherketones
+ 2261/3444  . . . . Polyethersulfones
+ 2261/35    . . Macromonomers, i.e. comprising more than 10
+ 2261/352   . . . containing only carbon atoms
+ 2261/354   . . . containing hetero atoms
+ 2261/36    . . Oligomers, i.e. comprising up to 10 repeat units
+ 2261/362   . . . containing only carbon atoms
+ 2261/364   . . . containing hetero atoms
+ 2261/37    . . Metal complexes
+ 2261/371   . . . of alkali metals and alkaline-earth metals
+ 2261/372   . . . of rare earth metals, i.e. Sc, Y, lanthanides
+ 2261/373   . . . of Ti, V, Cr, Zr, Nb, Mo, Hf, Ta, W
+ 2261/374   . . . of Os, Ir, Pt, Ru, Rh, Pd
+ 2261/376   . . . of Fe, Co, Ni
+ 2261/40    . Polymerisation processes
+ 2261/41    . . Organometallic coupling reactions
+ 2261/411   . . . Suzuki reactions
+ 2261/412   . . . Yamamoto reactions
+ 2261/413   . . . Heck reactions
+ 2261/414   . . . Stille reactions
+ 2261/415   . . . Sonogashira / Hagihara reactions
+ 2261/416   . . . zinc-based, e.g. Rieke reactions
+ 2261/417   . . . magnesium-based, e.g. Grignard or
+ 2261/418   . . . Ring opening metathesis polymerisation
+ 2261/419   . . . Acyclic diene metathesis [ADMET]
+ 2261/42    . . Non-organometallic coupling reactions, e.g.
+Gilch-type or Wessling-Zimmermann type
+ 2261/43    . . Chemical oxidative coupling reactions, e.g. with
+ 2261/44    . . Electrochemical polymerisation, i.e. oxidative or
+ 2261/45    . . Friedel-Crafts-type
+ 2261/46    . . Diels-Alder reactions
+ 2261/50    . Physical properties
+ 2261/51    . . Charge transport
+ 2261/512   . . . Hole transport
+ 2261/514   . . . Electron transport
+ 2261/516   . . . ion-conductive
+ 2261/5222  . . . . electrofluorescent
+ 2261/524   . . . phosphorescent
+ 2261/5242  . . . . electrophosphorescent
+ 2261/526   . . . used as active layer in lasers
+ 2261/53    . . liquid-crystalline
+ 2261/54    . . electrochromatic
+ 2261/57    . . photorefractive, e.g. change of refractive index
+ 2261/58    . . corrosion-inhibiting
+ 2261/594   . . . against light, i.e. electromagnetic radiation
+ 2261/596   . . . against oxidation
+ 2261/598   . . . Chemical stability
+ 2261/60    . . Glass transition temperature
+ 2261/62    . . Mechanical aspects
+ 2261/65    . . Electrical insulator
+ 2261/712   . . . Catalyst removal
+ 2261/724   . . . Hydrogenation
+ 2261/73    . . Depolymerisation
+ 2261/74    . . Further polymerisation of the obtained polymers,
+e.g. living polymerisation to obtain block-
+ 2261/75    . . Reaction of polymer building blocks for the
+ 2261/792   . . . with low-molecular weight dopants
+ 2261/794   . . . with polymeric dopants
+ 2261/80    . . Functional group cleavage, e.g. removal of side-
+ 2261/91    . . Photovoltaic applications
+ 2261/92    . . TFT applications
+ 2261/93    . . Applications in textiles, fabrics and yarns
+ 2261/94    . . Applications in sensors, e.g. biosensors
+ 2261/95    . . Use in organic luminescent diodes
+ 2261/96    . . coating of particles
+ 2261/962   . . . coating of organic particles
+ 2261/964   . . . coating of inorganic particles
+ 2270/00    Compositions for creating interpenetrating
+ 2280/00    Compositions for creating shape memory
+ 2290/00    Compositions for creating anti-fogging
+ 2310/00    Agricultural use or equipment
+ 2330/00    Thermal insulation material
+ 2330/50    . Evacuated open-celled polymer material
+ 2350/00    Acoustic or vibration damping material
+ 2390/40    . Inner coatings for containers
+ 2650/00    Macromolecular compounds obtained by reactions
+forming an ether link in the main chain of the
+ 2650/02    . characterized by the type of post-polymerisation
+ 2650/08    . . . Epoxy- capping used as a source of hydroxy
+ 2650/10    . . characterized by the catalyst used in the post-
+polymerisation functionalisation step
+ 2650/12    . . Depolymerisation, e.g. to reform the monomer
+ 2650/14    . . De-esterification, e.g. of polythf-diesters
+ 2650/16    . . Photopolymerisation
+ 2650/18    . . Photodegradation
+ 2650/22    . characterised by the initiator used in polymerisation
+ 2650/24    . . Polymeric initiators
+ 2650/26    . . Sugars or saccharides used as initiators
+ 2650/28    . characterised by the polymer type
+ 2650/32    . . . dendritic or similar
+ 2650/34    . . Oligomeric, e.g. cyclic oligomeric
+ 2650/38    . . containing oxygen in addition to the ether group
+ 2650/40    . . . containing ketone groups, e.g.
+polyarylethylketones, PEEK or PEK
+ 2650/42    . . . containing orthoester groups
+ 2650/44    . . . containing acetal or formal groups
+ 2650/46    . . containing halogen
+ 2650/48    . . . containing fluorine, e.g. perfluropolyethers
+ 2650/50    . . containing nitrogen, e.g. polyetheramines or
+ 2650/52    . . obtained by dehydration of polyhydric alcohols
+ 2650/54    . . . Polyglycerols
+ 2650/56    . . Polyhydroxyethers, e.g. phenoxy resins
+ 2650/58    . . Ethylene oxide or propylene oxide copolymers,
+ 2650/60    . . containing acetylenic group
+ 2650/62    . characterised by the nature of monomer used
+ 2650/64    . . Monomer containing functional groups not
+ 2650/66    . . Oligomeric monomers
+ 2650/68    . . Especially purified monomers

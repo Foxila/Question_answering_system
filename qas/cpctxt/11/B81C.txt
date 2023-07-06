@@ -1,0 +1,409 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+MICROSTRUCTURAL TECHNOLOGY; NANOTECHNOLOGY
+PROCESSES OR APPARATUS SPECIALLY ADAPTED FOR THE MANUFACTURE
+OR TREATMENT OF MICROSTRUCTURAL DEVICES OR SYSTEMS (making
+microcapsules or microballoons B01J 13/02; processes or apparatus peculiar to the manufacture
+or treatment of piezo-electric, electrostrictive or magnetostrictive element per se H10N 30/01)
+1. This subclass does not cover:
+• processes or apparatus for the manufacture or treatment of purely electrical or electronic devices, which are covered by
+section H, e.g. group H01L 21/00;
+• processes or apparatus involving the manipulation of single atoms or molecules, which are covered by group B82B 3/00.
+2. In this subclass, local "residual" subgroups, e.g. B81C 1/00126, are used with the following purpose.
+When classifying a document which does not fit in any of a set of subgroups with the same dot-level, the document should be
+classified in the residual group, if present, and not in the group at the hierarchical level one dot above.
+In the example, the document shall be classified in B81C 1/00126 and not in B81C 1/00023 as B81C 1/00126 is "residual" to
+    1/00    Manufacture or treatment of devices or systems in
+or on a substrate (B81C 3/00 takes precedence)
+    1/00007 . {Assembling automatically hinged components, i.e.
+self-assembly processes (self-assembly mechanisms
+    1/00015 . {for manufacturing microsystems}
+    1/00023 . . {without movable or flexible elements (array of
+static structures for functionalising surfaces in
+B81C 1/00206; manufacture of MEMS devices
+for specific applications, see relevant places,
+e.g. microreactors B01J 19/0093, lab-on-chip
+B01L 3/5027, micromixers B01F 33/30)}
+    1/00031 . . . {Regular or irregular arrays of nanoscale
+structures, e.g. etch mask layer
+(photomechanical, e.g. photolithographic,
+production of textured or patterned surfaces
+G03F 7/00; lithographic processes for making
+patterned surfaces using printing and stamping
+    1/00079 . . . . {Grooves not provided for in groups
+    1/00095 . . . {Interconnects}
+    1/00103 . . . {Structures having a predefined profile, e.g.
+    1/00111 . . . {Tips, pillars, i.e. raised structures
+    1/00119 . . . {Arrangement of basic structures like cavities
+or channels, e.g. suitable for microfluidic
+    1/00126 . . . {Static structures not provided for in groups
+    1/00134 . . {comprising flexible or deformable structures
+(manufacture of MEMS devices for specific
+applications, see relevant places, e.g. gyroscopes
+G01C 19/5719, pressure sensors G01L 9/0042,
+accelerometers G01P 15/0802, acoustic
+transducers or diaphragms therefor H04R 31/00)}
+    1/00142 . . . {Bridges (deformable micromirrors
+    1/0015  . . . {Cantilevers (switches using MEMS
+H01H 1/0036; electrostatic relays using
+micromechanics H01H 59/0009; microelectro-
+mechanical resonators H03H 9/02244)}
+    1/00158 . . . {Diaphragms, membranes (manufacture
+process for semi-permeable inorganic
+    1/00182 . . . {Arrangements of deformable or non-
+deformable structures, e.g. membrane and
+cavity for use in a transducer}
+    1/0019  . . . {Flexible or deformable structures not provided
+for in groups B81C 1/00142 - B81C 1/00182}
+    1/00198 . . {comprising elements which are movable in
+relation to each other, e.g. comprising slidable or
+    1/00206 . . {Processes for functionalising a surface, e.g.
+provide the surface with specific mechanical,
+chemical or biological properties}
+    1/00214 . . {Processes for the simultaneaous manufacturing
+of a network or an array of similar microstructural
+    1/00222 . . {Integrating an electronic processing unit with a
+    1/0023  . . . {Packaging together an electronic processing
+unit die and a micromechanical structure
+die (MEMS packages B81B 7/0032; MEMS
+packaging processes B81C 1/00261)}
+    1/00238 . . . {Joining a substrate with an electronic
+processing unit and a substrate with a
+    1/00246 . . . {Monolithic integration, i.e. micromechanical
+structure and electronic processing unit are
+integrated on the same substrate}
+    1/00253 . . . {Processes for integrating an electronic
+processing unit with a micromechanical
+    1/00261 . . {Processes for packaging MEMS devices (MEMS
+packages B81B 7/0032, packaging of smart-
+    1/00269 . . . {Bonding of solid lids or wafers to the
+    1/00277 . . . {for maintaining a controlled atmosphere inside
+of the cavity containing the MEMS}
+    1/00285 . . . . {using materials for controlling the level of
+pressure, contaminants or moisture inside of
+    1/00293 . . . . {maintaining a controlled atmosphere with
+processes not provided for in B81C 1/00285}
+    1/00301 . . . {Connecting electric signal lines from the
+MEMS device with external electrical signal
+    1/00309 . . . {suitable for fluid transfer from the MEMS out
+of the package or vice versa, e.g. transfer of
+    1/00317 . . . {Packaging optical devices}
+    1/00325 . . . {for reducing stress inside of the package
+    1/00333 . . . {Aspects relating to packaging of
+MEMS devices, not covered by groups
+    1/00341 . . {Processes for manufacturing
+microsystems not provided for in groups
+    1/00349 . {Creating layers of material on a substrate}
+    1/00357 . . {involving bonding one or several substrates on a
+non-temporary support, e.g. another substrate}
+    1/00365 . . {having low tensile stress between layers}
+    1/00373 . . {Selective deposition, e.g. printing or
+    1/0038  . . {Processes for creating layers of
+materials not provided for in groups
+    1/00388 . {Etch mask forming}
+    1/00396 . . {Mask characterised by its composition, e.g.
+    1/00404 . . {Mask characterised by its size, orientation or
+    1/00412 . . {Mask characterised by its behaviour during the
+etching process, e.g. soluble masks}
+    1/0042  . . {Compensation masks in orientation dependent
+    1/00428 . . {Etch mask forming processes not provided for in
+groups B81C 1/00396 - B81C 1/0042}
+    1/00436 . {Shaping materials, i.e. techniques for structuring
+the substrate or the layers on the substrate}
+    1/00444 . . {Surface micromachining, i.e. structuring layers
+    1/0046  . . . {using stamping, e.g. imprinting
+(nanoimprinting for making etch masks
+    1/00468 . . . {Releasing structures}
+    1/00476 . . . . {removing a sacrificial layer (B81C 1/00912
+    1/00484 . . . . {Processes for releasing structures not
+provided for in group B81C 1/00476}
+    1/00492 . . . {Processes for surface micromachining
+    1/005   . . {Bulk micromachining}
+    1/00507 . . . {Formation of buried layers by techniques
+other than deposition, e.g. by deep
+implantation of elements (SIMOX techniques
+    1/00515 . . . {Bulk micromachining techniques not provided
+    1/00523 . . {Etching material}
+    1/00531 . . . {Dry etching}
+    1/00539 . . . {Wet etching}
+    1/00547 . . . {Etching processes not provided for in groups
+    1/00555 . . {Achieving a desired geometry, i.e.
+controlling etch rates, anisotropy or selectivity
+(B81C 1/00023 - B81C 1/0019 take precedence)}
+    1/00563 . . . {Avoid or control over-etching}
+    1/00571 . . . . {Avoid or control under-cutting}
+    1/00579 . . . . {Avoid charge built-up}
+    1/00587 . . . . {Processes for avoiding or controlling
+over-etching not provided for in
+    1/00595 . . . {Control etch selectivity}
+    1/00603 . . . {Aligning features and geometries on both
+sides of a substrate, e.g. when double side
+    1/00611 . . . {Processes for the planarisation of structures
+(planarising depositions C23C, H01L)}
+    1/00619 . . . {Forming high aspect ratio structures having
+    1/00626 . . . {Processes for achieving a desired
+geometry not provided for in groups
+    1/00634 . . {Processes for shaping materials not provided for
+in groups B81C 1/00444 - B81C 1/00626}
+    1/00642 . {for improving the physical properties of a device}
+    1/0065  . . {Mechanical properties}
+    1/00658 . . . {Treatments for improving the stiffness of a
+    1/00666 . . . {Treatments for controlling internal stress or
+    1/00674 . . . {Treatments for improving wear resistance}
+    1/00682 . . . {Treatments for improving mechanical
+properties, not provided for in
+    1/0069  . . {Thermal properties, e.g. improve thermal
+    1/00698 . . {Electrical characteristics, e.g. by doping
+    1/00706 . . {Magnetic properties}
+    1/00714 . . {Treatment for improving the physical
+properties not provided for in groups
+    1/00777 . {Preserve existing structures from alteration, e.g.
+temporary protection during manufacturing}
+    1/00785 . . {Avoid chemical alteration, e.g.
+contamination, oxidation or unwanted
+etching (B81C 1/00563 - B81C 1/00595 take
+    1/00793 . . . {Avoid contamination, e.g. absorption of
+    1/00801 . . . {Avoid alteration of functional structures by
+etching, e.g. using a passivation layer or an etch
+stop layer (B81C 1/00595, B81C 1/00468 take
+    1/00809 . . . {Methods to avoid chemical
+alteration not provided for in groups
+    1/00817 . . {Avoid thermal destruction}
+    1/00825 . . {Protect against mechanical threats, e.g.
+against shocks, or residues (B81C 1/00261 take
+    1/00833 . . {Methods for preserving structures not provided
+for in groups B81C 1/00785 - B81C 1/00825}
+    1/00841 . {Cleaning during or after manufacture (cleaning of
+semiconductor devices H01L 21/306)}
+    1/00849 . . {during manufacture}
+    1/00857 . . {after manufacture, e.g. back-end of the line
+    1/00865 . {Multistep processes for the separation of wafers
+    1/00873 . . {characterised by special arrangements of the
+devices, allowing an easier separation}
+    1/0088  . . {Separation allowing recovery of the substrate or
+a part of the substrate, e.g. epitaxial lift-off}
+    1/00888 . . {Multistep processes involving only mechanical
+separation, e.g. grooving followed by cleaving}
+    1/00896 . . {Temporary protection during separation into
+    1/00904 . . {Multistep processes for the separation of wafers
+into individual elements not provided for in
+groups B81C 1/00873 - B81C 1/00896}
+    1/00912 . {Treatments or methods for avoiding stiction of
+flexible or moving parts of MEMS}
+    1/0092  . . {For avoiding stiction during the manufacturing
+process of the device, e.g. during wet etching}
+    1/00928 . . . {Eliminating or avoiding remaining moisture
+after the wet etch release of the movable
+    1/00936 . . . {Releasing the movable structure without
+    1/00944 . . . {Maintaining a critical distance between the
+    1/00952 . . . {Treatments or methods for avoiding stiction
+during the manufacturing process not provided
+for in groups B81C 1/00928 - B81C 1/00944}
+    1/0096  . . {For avoiding stiction when the device is in use,
+i.e. after manufacture has been completed}
+    1/00968 . . . {Methods for breaking the stiction bond}
+    1/00976 . . . {Control methods for avoiding stiction, e.g.
+    1/00984 . . . {Methods for avoiding stiction when the
+device is in use not provided for in groups
+    1/00992 . . {Treatments or methods for avoiding stiction of
+flexible or moving parts of MEMS not provided
+for in groups B81C 1/0092 - B81C 1/00984}
+    3/00    Assembling of devices or systems from individually
+    3/001   . {Bonding of two components}
+    3/002   . {Aligning microparts}
+    3/004   . . {Active alignment, i.e. moving the elements in
+response to the detected position of the elements
+using internal or external actuators}
+    3/005   . . {Passive alignment, i.e. without a detection of the
+position of the elements or using only structural
+arrangements or thermodynamic forces}
+    3/007   . . {Methods for aligning microparts not provided
+for in groups B81C 3/004 - B81C 3/005}
+    3/008   . {Aspects related to assembling from individually
+processed components, not covered by groups
+   99/00    Subject matter not provided for in other groups of
+   99/0005  . {Apparatus specially adapted for the manufacture or
+treatment of microstructural devices or systems, or
+methods for manufacturing the same}
+   99/001   . . {for cutting, cleaving or grinding}
+   99/0015  . . {for microextrusion (extrusion heads in general
+   99/002   . . {Apparatus for assembling MEMS, e.g.
+micromanipulators (micromanipulators per se
+   99/0025  . . {Apparatus specially adapted for the manufacture
+or treatment of microstructural devices or systems
+not provided for in B81C 99/001 - B81C 99/002}
+   99/003   . {Characterising MEMS devices, e.g. measuring and
+identifying electrical or mechanical constants}
+   99/004   . . {during manufacturing}
+   99/0045  . . {End test of the packaged device}
+   99/005   . . {Test apparatus}
+   99/0055  . {Manufacturing logistics}
+   99/006   . . {Design; Simulation}
+   99/0065  . . {Process control; Yield prediction}
+   99/0075  . {Manufacture of substrate-free structures}
+   99/008   . . {separating the processed structure from a mother
+   99/0085  . . {using moulds and master templates, e.g. for hot-
+   99/009   . . {Manufacturing the stamps or the moulds}
+   99/0095  . . {Aspects relating to the manufacture of
+substrate-free structures, not covered by groups
+ 2201/00    Manufacture or treatment of microstructural
+ 2201/01    . in or on a substrate
+ 2201/0101  . . Shaping material; Structuring the bulk substrate
+or layers on the substrate; Film patterning
+ 2201/0102  . . . Surface micromachining
+ 2201/0104  . . . . Chemical-mechanical polishing [CMP]
+ 2201/0105  . . . . Sacrificial layer
+ 2201/0107  . . . . . Sacrificial metal
+ 2201/0108  . . . . . Sacrificial polymer, ashing of organics
+ 2201/0109  . . . . . Sacrificial layers not provided for in
+B81C 2201/0107 - B81C 2201/0108
+ 2201/0111  . . . Bulk micromachining
+ 2201/0112  . . . . Bosch process
+ 2201/0114  . . . . Electrochemical etching, anodic oxidation
+ 2201/0115  . . . . Porous silicon
+ 2201/0116  . . . . Thermal treatment for structural
+rearrangement of substrate atoms, e.g. for
+ 2201/0118  . . . Processes for the planarization of structures
+ 2201/0119  . . . . involving only addition of materials, i.e.
+ 2201/0121  . . . . involving addition of material followed
+by removal of parts of said material, i.e.
+ 2201/0122  . . . . Selective addition
+ 2201/0123  . . . . Selective removal
+ 2201/0125  . . . . Blanket removal, e.g. polishing
+ 2201/0126  . . . . Processes for the planarization
+of structures not provided for in
+B81C 2201/0119 - B81C 2201/0125
+ 2201/0128  . . . Processes for removing material
+ 2201/0129  . . . . Diamond turning
+ 2201/0132  . . . . . Dry etching, i.e. plasma etching, barrel
+etching, reactive ion etching [RIE], sputter
+ 2201/0133  . . . . . Wet etching
+ 2201/0135  . . . . . Controlling etch progression
+ 2201/0136  . . . . . . by doping limited material regions
+ 2201/0138  . . . . . . Monitoring physical parameters in
+the etching chamber, e.g. pressure,
+ 2201/0139  . . . . . . with the electric potential of an
+ 2201/014   . . . . . . by depositing an etch stop layer, e.g.
+silicon nitride, silicon oxide, metal
+ 2201/0142  . . . . . . Processes for controlling etch
+progression not provided for in
+ 2201/0143  . . . . Focussed beam, i.e. laser, ion or e-beam
+ 2201/0145  . . . . Spark erosion
+ 2201/0146  . . . . Processes for removing material not provided
+for in B81C 2201/0129 - B81C 2201/0145
+ 2201/0147  . . . Film patterning
+ 2201/0149  . . . . Forming nanoscale microstructures using
+auto-arranging or self-assembling material
+ 2201/0152  . . . . . Step and Flash imprinting, UV imprinting
+ 2201/0153  . . . . . Imprinting techniques not provided for in
+ 2201/0154  . . . . other processes for film
+ 2201/0156  . . . Lithographic techniques
+ 2201/0157  . . . . Gray-scale mask technology
+ 2201/0159  . . . . Lithographic techniques not provided for in
+ 2201/0161  . . Controlling physical properties of the material
+ 2201/0163  . . . Controlling internal stress of deposited layers
+ 2201/0164  . . . . by doping the layer
+ 2201/0166  . . . . by ion implantation
+ 2201/0167  . . . . by adding further layers of materials having
+complementary strains, i.e. compressive or
+ 2201/0169  . . . . by post-annealing
+ 2201/017   . . . . Methods for controlling internal stress
+of deposited layers not provided for in
+B81C 2201/0164 - B81C 2201/0169
+ 2201/0171  . . . Doping materials
+ 2201/0173  . . . . Thermo-migration of impurities from a solid,
+e.g. from a doped deposited layer
+ 2201/0174  . . for making multi-layered devices, film deposition
+ 2201/0176  . . . Chemical vapour Deposition
+ 2201/0177  . . . . Epitaxy, i.e. homo-epitaxy, hetero-epitaxy,
+ 2201/018   . . . . Plasma polymerization, i.e. monomer or
+ 2201/0181  . . . Physical Vapour Deposition [PVD], i.e.
+evaporation, sputtering, ion plating or
+plasma assisted deposition, ion cluster beam
+ 2201/0183  . . . Selective deposition
+ 2201/0184  . . . . Digital lithography, e.g. using an inkjet print-
+ 2201/0185  . . . . Printing, e.g. microcontact printing
+ 2201/0187  . . . . Controlled formation of micro- or
+nanostructures using a template positioned
+ 2201/0188  . . . . Selective deposition techniques not provided
+for in B81C 2201/0184 - B81C 2201/0187
+ 2201/019   . . . Bonding or gluing multiple substrate layers
+ 2201/0191  . . . Transfer of a layer from a carrier wafer to a
+ 2201/0192  . . . . by cleaving the carrier wafer
+ 2201/0194  . . . . the layer being structured
+ 2201/0195  . . . . the layer being unstructured
+ 2201/0197  . . . Processes for making multi-layered
+devices not provided for in groups
+B81C 2201/0176 - B81C 2201/0192
+ 2201/0198  . . for making a masking layer
+ 2201/03    . Processes for manufacturing substrate-free
+ 2201/038   . . Processes for manufacturing substrate-
+free structures not provided for in
+ 2201/05    . Temporary protection of devices or parts of the
+ 2201/053   . . Depositing a protective layers
+ 2201/056   . . Releasing structures at the end of the
+ 2201/11    . Treatments for avoiding stiction of elastic or
+ 2201/112   . . Depositing an anti-stiction or passivation coating,
+e.g. on the elastic or moving parts
+ 2201/115   . . Roughening a surface
+ 2201/117   . . Using supercritical fluid, e.g. carbon dioxide, for
+ 2203/00    Forming microstructural systems
+ 2203/0109  . . Bonding an individual cap on the substrate
+ 2203/0118  . . Bonding a wafer on the substrate, i.e. where the
+ 2203/0127  . . Using a carrier for applying a plurality of
+packaging lids to the system wafer
+ 2203/0136  . . Growing or depositing of a covering layer
+ 2203/0145  . . Hermetically sealing an opening in the lid
+ 2203/0154  . . Moulding a cap over the MEMS device
+ 2203/0163  . . Reinforcing a cap, e.g. with ribs
+ 2203/0181  . . . Using microheaters for bonding the lid
+ 2203/019   . . . characterised by the material or arrangement of
+ 2203/03    . Bonding two components
+ 2203/031   . . Anodic bondings
+ 2203/033   . . Thermal bonding
+ 2203/036   . . . Fusion bonding
+ 2203/037   . . . Thermal bonding techniques not provided for
+in B81C 2203/035 - B81C 2203/036
+ 2203/038   . . Bonding techniques not provided for in
+ 2203/05    . Aligning components to be assembled
+ 2203/051   . . Active alignment, e.g. using internal or external
+actuators, magnets, sensors, marks or marks
+ 2203/052   . . Passive alignment, i.e. using only structural
+arrangements or thermodynamic forces without
+an internal or external apparatus
+ 2203/054   . . . using structural alignment aids, e.g. spacers,
+interposers, male/female parts, rods or balls
+ 2203/055   . . . using the surface tension of fluid solder to align
+ 2203/057   . . . Passive alignment techniques not provided for
+in B81C 2203/054 - B81C 2203/055
+ 2203/058   . . Aligning components using methods not provided
+for in B81C 2203/051 - B81C 2203/052
+ 2203/07    . Integrating an electronic processing unit with a
+ 2203/0707  . . Monolithic integration, i.e. the electronic
+processing unit is formed on or in the same
+substrate as the micromechanical structure
+ 2203/0714  . . . Forming the micromechanical structure with a
+ 2203/0721  . . . Forming the micromechanical structure with
+a low-temperature process (B81C 2203/0735
+ 2203/0728  . . . Pre-CMOS, i.e. forming the micromechanical
+structure before the CMOS circuit
+ 2203/0735  . . . Post-CMOS, i.e. forming the micromechanical
+structure after the CMOS circuit
+ 2203/0742  . . . Interleave, i.e. simultaneously forming the
+micromechanical structure and the CMOS
+ 2203/075   . . . the electronic processing unit being integrated
+into an element of the micromechanical
+ 2203/0757  . . . Topology for facilitating the monolithic
+ 2203/0764  . . . . Forming the micromechanical structure in a
+ 2203/0771  . . . . Stacking the electronic processing unit and
+ 2203/0778  . . . . Topology for facilitating the monolithic
+integration not provided for in
+B81C 2203/0764 - B81C 2203/0771
+ 2203/0785  . . Transfer and j oin technology, i.e. forming
+the electronic processing unit and the
+micromechanical structure on separate substrates
+ 2203/0792  . . . Forming interconnections between
+the electronic processing unit and the
+ 2900/00    Apparatus specially adapted for the manufacture
+or treatment of microstructural devices or systems
+ 2900/02    . Microextrusion heads

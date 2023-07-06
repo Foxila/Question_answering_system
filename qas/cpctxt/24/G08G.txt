@@ -1,0 +1,250 @@
+COOPERATIVE PATENT CLASSIFICATION
+TRAFFIC CONTROL SYSTEMS (guiding railway traffic, ensuring the safety of railway
+traffic B61L; arrangement of road signs or traffic signals E01F 9/00; radar or analogous systems,
+sonar systems, lidar systems specially adapted for traffic control G01S 13/91, G01S 15/88,
+G01S 17/88; {radar or analogous systems, sonar systems, lidar systems specially adapted for
+anti-collision purposes G01S 13/93, G01S 15/93, G01S 17/93})
+• identification of traffic offenders;
+• indicating the position of vehicles for traffic control purposes;
+• navigation systems for traffic control purposes, i.e. systems in which the navigation is not performed autonomously by or
+in the vehicles, but where the vehicles are guided by instructions transmitted to them;
+• indication of free spaces in parking areas.
+2. This subclass does not cover:
+• arrangements for measuring levels and bearings for surveillance and navigation, which are covered by G01C;
+• radio navigation systems, e.g. for locating, measuring distances or velocity, which are covered by G01S;
+• details of display instrumentation, which are covered by G09F, G09G
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Traffic control systems for road vehicles
+(arrangement of road signs or traffic signals
+E01F 9/00 {; automatic vehicle control B62D})
+    1/005   . including pedestrian guidance indicator
+    1/01    . Detecting movement of traffic to be counted
+or controlled (G08G 1/07 - G08G 1/14 take
+    1/0104  . . {Measuring and analyzing of parameters relative
+    1/0108  . . . {based on the source of data}
+    1/0112  . . . . {from the vehicle, e.g. floating car data
+    1/0116  . . . . {from roadside infrastructure, e.g. beacons}
+    1/012   . . . . {from other sources than vehicle or roadside
+    1/0125  . . . {Traffic data processing}
+    1/0129  . . . . {for creating historical data or processing
+    1/0133  . . . . {for classifying traffic situation}
+    1/0137  . . . {for specific applications}
+    1/0141  . . . . {for traffic information dissemination}
+    1/0145  . . . . {for active traffic flow control}
+    1/015   . . with provision for distinguishing between two or
+more types of vehicles, e.g. between motor-cars
+    1/017   . . identifying vehicles (G08G 1/015, G08G 1/054
+    1/0175  . . . {by photographing vehicles, e.g. when
+    1/02    . . using treadles built into the road (pads or other
+sensitive devices responsive to passage of
+    1/04    . . using optical or ultrasonic detectors
+    1/042   . . using inductive or magnetic detectors
+    1/048   . . with provision for compensation of environmental
+or other condition, e.g. snow, vehicle stopped at
+    1/052   . . with provision for determining speed or
+overspeed {(speed measuring in general G01P)}
+    1/054   . . . photographing overspeeding vehicles
+    1/056   . . with provision for distinguishing direction of
+    1/065   . by counting the vehicles in a section of the road or
+in a parking area, i.e. comparing incoming count
+    1/07    . Controlling traffic signals
+    1/08    . . according to detected number or speed of vehicles
+    1/081   . . Plural intersections under common control
+    1/082   . . . Controlling the time between beginning of the
+same phase of a cycle at adjacent intersections
+    1/083   . . . Controlling the allocation of time between
+    1/085   . . using a free-running cyclic timer
+    1/087   . . Override of traffic control, e.g. by signal
+transmitted by an emergency vehicle
+    1/09    . Arrangements for giving variable traffic instructions
+({railroad crossing signals B61L; reflectors E01F,
+G08B}; indicating arrangements for variable
+information by selection or combination of
+    1/091   . . {Traffic information broadcasting (broadcasting
+    1/092   . . . {Coding or decoding of the information}
+    1/093   . . . {Data selection, e.g. prioritizing information,
+managing message queues, selecting the
+    1/094   . . . {Hardware aspects; Signal processing or signal
+properties, e.g. frequency bands}
+    1/0955  . . . transportable
+    1/096   . . provided with indicators in which a mark
+progresses showing the time elapsed, e.g. of green
+    1/0962  . . having an indicator mounted inside the vehicle,
+    1/09623 . . . {Systems involving the acquisition of
+information from passive traffic signs by means
+mounted on the vehicle (G08G 1/0967 takes
+    1/09626 . . . {where the origin of the information is within
+the own vehicle, e.g. a local storage device,
+    1/0965  . . . responding to signals from another vehicle, e.g.
+    1/0967  . . . Systems involving transmission of highway
+information, e.g. weather, speed limits
+(transmission of navigation instructions to the
+    1/096708 . . . . {where the received information might be
+used to generate an automatic action on the
+    1/096716 . . . . . {where the received information does
+not generate an automatic action on the
+    1/096725 . . . . . {where the received information generates
+an automatic action on the vehicle control}
+    1/096733 . . . . {where a selection of the information might
+    1/096741 . . . . . {where the source of the transmitted
+information selects which information to
+    1/09675 . . . . . {where a selection from the received
+information takes place in the vehicle}
+    1/096758 . . . . . {where no selection takes place on the
+transmitted or the received information}
+    1/096766 . . . . {where the system is characterised by the
+origin of the information transmission}
+    1/096775 . . . . . {where the origin of the information is a
+    1/096783 . . . . . {where the origin of the information is a
+    1/096791 . . . . . {where the origin of the information is
+    1/0968  . . . Systems involving transmission of navigation
+    1/096805 . . . . {where the transmitted instructions are used
+    1/096811 . . . . . {where the route is computed offboard}
+    1/096816 . . . . . . {where the complete route is transmitted
+    1/096822 . . . . . . {where the segments of the route are
+transmitted to the vehicle at different
+    1/096827 . . . . . {where the route is computed onboard}
+    1/096833 . . . . {where different aspects are considered when
+    1/096838 . . . . . {where the user preferences are taken into
+account or the user selects one route out of
+    1/096844 . . . . . {where the complete route is dynamically
+    1/09685 . . . . . {where the complete route is computed
+    1/096855 . . . . {where the output is provided in a
+suitable form to the driver (details on I/
+O arrangements for onboard navigation
+    1/096861 . . . . . {where the immediate route instructions
+are output to the driver, e.g. arrow signs
+    1/096866 . . . . . {where the complete route is shown to the
+    1/096872 . . . . . {where instructions are given per voice}
+    1/096877 . . . . {where the input to the navigation device
+is provided by a suitable I/O arrangement
+(details of I/O arrangements for onboard
+navigation computers G01C 21/36; I/O
+arrangements for general purpose computers
+    1/096883 . . . . . {where input information is obtained using
+a mobile device, e.g. a mobile phone, a
+    1/096888 . . . . . {where input information is obtained using
+learning systems, e.g. history databases}
+    1/096894 . . . . . {where input is assisted by the navigation
+device, i.e. the user does not type the
+complete name of the destination, e.g.
+using zip codes, telephone numbers,
+progressively selecting from initial letters}
+    1/0969  . . . . having a display in the form of a map
+    1/097   . Supervising of traffic control systems, e.g. by giving
+an alarm if two crossing streets have green light
+    1/123   . indicating the position of vehicles, e.g. scheduled
+vehicles; {Managing passenger vehicles circulating
+according to a fixed timetable, e.g. buses, trains,
+trams}(transmission of navigation instructions to
+    1/127   . . to a central station {; Indicators in a central
+    1/13    . . . the indicator being in the form of a map
+    1/133   . . within the vehicle {; Indicators inside the vehicles
+    1/137   . . . the indicator being in the form of a map
+    1/14    . indicating individual free spaces in parking areas
+    1/141   . . {with means giving the indication of available
+    1/142   . . . {external to the vehicles}
+    1/143   . . . {inside the vehicles}
+    1/144   . . . {on portable or mobile units, e.g. personal
+    1/145   . . {where the indication depends on the parking
+    1/146   . . . {where the parking area is a limited parking
+space, e.g. parking garage, restricted space}
+    1/147   . . . {where the parking area is within an open
+    1/148   . . . {Management of a network of parking areas}
+    1/149   . . {coupled to means for restricting the access to the
+parking space, e.g. authorization, access barriers,
+    1/16    . Anti-collision systems (road vehicle drive control
+systems for predicting or avoiding probable or
+impending collision otherwise than by control of a
+particular sub-unit B60W 30/08)
+    1/161   . . {Decentralised systems, e.g. inter-vehicle
+    1/162   . . . {event-triggered}
+    1/163   . . . {involving continuous checking}
+    1/164   . . {Centralised systems, e.g. external to vehicles}
+    1/165   . . {for passive traffic, e.g. including static obstacles,
+    1/166   . . {for active traffic, e.g. moving vehicles,
+    1/167   . . {Driving aids for lane monitoring, lane changing,
+    1/168   . . {Driving aids for parking, e.g. acoustic or visual
+    1/20    . {Monitoring the location of vehicles belonging
+to a group, e.g. fleet of vehicles, countable or
+    1/202   . . {Dispatching vehicles on the basis of a location,
+    1/205   . . {Indicating the location of the monitored vehicles
+as destination, e.g. accidents, stolen, rental}
+    1/207   . . {with respect to certain areas, e.g. forbidden or
+allowed areas with possible alerting when inside
+    1/22    . {Platooning, i.e. convoy of communicating
+    3/00    Traffic control systems for marine craft (marking
+of navigational route B63B 22/16, B63B 51/00)
+    3/02    . Anti-collision systems
+    5/00    Traffic control systems for aircraft {, e.g. air-
+1. This groups covers arrangements, located in the
+aircraft or on the ground, for controlling aircraft
+2. This group does not cover arrangements for
+control of position, course, altitude or attitude
+of aircraft not specific to a traffic environment,
+e.g. automatic pilots, which are covered by group
+3. In this group the following term is used with the
+• "traffic" includes traffic on the ground and in
+4. Attention is drawn to the following places which
+might be interesting for search:
+• mechanical aspects of equipment for fitting in
+• combined instruments indicating more than one
+    5/0004  . {Transmission of traffic-related information to
+or from an aircraft (airborne radio transmission
+systems in general H04B 7/185; airborne wireless
+    5/0008  . . {with other aircraft}
+    5/0013  . . {with a ground station}
+    5/0017  . {Arrangements for implementing traffic-related
+aircraft activities, e.g. arrangements for generating,
+displaying, acquiring or managing traffic
+information (head-up displays G02B 27/01; ground
+or aircraft-carrier-deck-installations B64F)}
+    5/0021  . . {located in the aircraft}
+    5/0026  . . {located on the ground}
+    5/003   . {Flight plan management}
+    5/0034  . . {Assembly of a flight plan}
+    5/0039  . . {Modification of a flight plan}
+    5/0043  . {Traffic management of multiple aircrafts from
+the ground (G08G 5/003 takes precedence;
+data processing specially designed for resource
+management, e.g. scheduling or allocating time,
+human or machine resources G06Q 10/06)}
+    5/0047  . {Navigation or guidance aids for a single aircraft
+(details of equipment G08G 5/0017)}
+    5/0052  . . {for cruising (combined instruments indicating
+more than one navigational value G01C 23/00)}
+    5/0056  . . {in an emergency situation, e.g. hijacking}
+    5/006   . . {in accordance with predefined flight zones, e.g.
+    5/0065  . . {for taking-off}
+    5/0069  . . {specially adapted for an unmanned aircraft}
+    5/0073  . {Surveillance aids (scene image recognition
+    5/0078  . . {for monitoring traffic from the aircraft (radar or
+analogous systems specially adapted for traffic
+    5/0082  . . {for monitoring traffic from a ground station
+(radar or analogous systems specially adapted for
+    5/0086  . . {for monitoring terrain (radar or analogous
+systems specially adapted for terrain avoidance
+    5/0091  . . {for monitoring atmospheric conditions (radar
+or analogous systems specially adapted for
+meteorological use G01S 13/95; meteorology
+    5/0095  . {Aspects of air-traffic control not provided for in
+the other subgroups of this main group}
+    5/02    . Automatic {approach or} landing aids, i.e. systems
+in which flight data of incoming planes are
+processed to provide landing data (landing aids
+fitted in or to aircraft B64D 45/04; visual or acoustic
+    5/025   . . {Navigation or guidance aids (radar or analogous
+systems specially adapted for landing purposes
+    5/04    . Anti-collision systems
+    5/045   . . {Navigation or guidance aids, e.g. determination
+of anti-collision manoeuvers (radar or analogous
+systems specially adapted for anti-collision
+    5/06    . for control when on the ground
+    5/065   . . {Navigation or guidance aids, e.g. for taxiing or
+    7/00    Traffic control systems for simultaneous control of
+two or more different kinds of craft
+    7/02    . Anti-collision systems
+    9/00    Traffic control systems for craft where the kind of
+craft is irrelevant or unspecified
+    9/02    . Anti-collision systems
+   99/00    Subject matter not provided for in other groups of

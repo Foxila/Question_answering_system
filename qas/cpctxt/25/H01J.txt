@@ -1,0 +1,3069 @@
+COOPERATIVE PATENT CLASSIFICATION
+ELECTRIC DISCHARGE TUBES OR DISCHARGE LAMPS (spark-gaps H01T; arc lamps
+with consumable electrodes H05B; particle accelerators H05H)
+1. This subclass covers only devices for producing, influencing, or using a flow of electrons or ions, e.g. for controlling,
+indicating, or switching of electric current, counting electric pulses, producing light or other electromagnetic oscillations, such
+as X-rays, or for separating or analysing radiation or particles, and having a closed or substantially closed casing containing
+a chosen gas, vapour, or vacuum, upon the pressure and nature of which the characteristics of the device depend. Light
+sources using a combination (other than covered by group H01J 61/96 of this subclass) of discharge and other kinds of light
+generation are dealt with in H05B 35/00.
+2. In this subclass, groups H01J 1/00 - H01J 7/00  relate only to:
+i. details of an unspecified kind of discharge tube or lamp, or
+ii. details mentioned in a specification as applicable to two or more kinds of tubes or lamps as defined by groups H01J 11/00,
+H01J 13/00, H01J 15/00, H01J 17/00, H01J 21/00, H01J 25/00, H01J 27/00, H01J 31/00, H01J 33/00, H01J 35/00,
+H01J 37/00, H01J 40/00, H01J 41/00, H01J 47/00, H01J 49/00, H01J 61/00, H01J 63/00 or H01J 65/00, hereinafter called
+basic kinds. A detail only described with reference to, or clearly only applicable to, tubes or lamps of a single basic kind is
+classified in the detail group appropriate to tubes or lamps of that basic kind, e.g. H01J 17/04.
+3. In this subclass, the following term is used with the meaning indicated:
+• "lamp" includes tubes emitting ultra-violet or infra-red  light.
+4. Attention is drawn to the definition of the expression "spark gaps" given in the Note following the title of subclass H01T.
+5. Apparatus or processes specially adapted for the manufacture of electric discharge tubes, discharge lamps, or parts thereof are
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Details of electrodes, of magnetic control means,
+of screens, or of the mounting or spacing
+thereof, common to two or more basic types of
+discharge tubes or lamps (details of electron-optical
+arrangements or of ion traps H01J 3/00)
+    1/025   . . {Hollow cathodes}
+    1/04    . . Liquid electrodes, e.g. liquid cathode
+    1/05    . . . characterised by material
+    1/06    . . . Containers for liquid-pool electrodes;
+Arrangement or mounting thereof
+    1/08    . . . Positioning or moving the cathode spot on the
+surface of a liquid-pool cathode
+    1/10    . . . Cooling, heating, circulating, filtering, or
+controlling level of liquid in a liquid-pool
+    1/12    . . Cathodes having mercury or liquid alkali metal
+deposited on the cathode surface during operation
+    1/13    . . Solid thermionic cathodes
+    1/135   . . . {Circuit arrangements therefor, e.g. for
+    1/14    . . . characterised by the material
+    1/142   . . . . with alkaline-earth metal oxides, or such
+oxides used in conjunction with reducing
+agents, as an emissive material
+    1/144   . . . . with other metal oxides as an emissive
+    1/146   . . . . with metals or alloys as an emissive material
+    1/148   . . . . with compounds having metallic conductive
+properties, e.g. lanthanum boride, as an
+    1/15    . . . Cathodes heated directly by an electric current
+    1/16    . . . . characterised by the shape
+    1/18    . . . . Supports; Vibration-damping arrangements
+    1/20    . . . Cathodes heated indirectly by an electric
+current; Cathodes heated by electron or ion
+    1/24    . . . . Insulating layer or body located between
+    1/26    . . . . Supports for the emissive material
+    1/28    . . . . Dispenser-type cathodes, e.g. L-cathode
+    1/30    . . Cold cathodes, e.g. field-emissive cathode
+    1/304   . . . Field-emissive cathodes
+    1/3042  . . . . {microengineered, e.g. Spindt-type}
+    1/3044  . . . . . {Point emitters}
+    1/3046  . . . . . {Edge emitters}
+    1/3048  . . . . {Distributed particle emitters}
+    1/308   . . . Semiconductor cathodes, e.g. cathodes with PN
+    1/312   . . . having an electric field perpendicular to
+the surface, e.g. tunnel-effect cathodes
+of Metal-Insulator-Metal [MIM] type
+{(H01J 1/304 - H01J 1/308 take precedence)}
+    1/316   . . . having an electric field parallel to the surface,
+    1/32    . . Secondary-electron-emitting electrodes
+    1/34    . . Photo-emissive cathodes (H01J 1/35 takes
+    1/35    . . Electrodes exhibiting both secondary emission
+    1/36    . . Solid anodes; Solid auxiliary anodes for
+    1/38    . . . characterised by the material
+    1/40    . . . forming part of the envelope of the tube or
+    1/42    . . . Cooling of anodes (cooling rotary anodes
+    1/44    . . . Rotary anodes; Arrangements for rotating
+    1/46    . Control electrodes, e.g. grid (for igniting
+arrangements H01J 7/30); Auxiliary electrodes
+(auxiliary anodes for maintaining a discharge
+    1/48    . . characterised by the material
+    1/50    . Magnetic means for controlling the discharge
+    1/52    . Screens for shielding; Guides for influencing the
+discharge; Masks interposed in the electron stream
+    1/53    . Electrodes intimately associated with a screen on or
+from which an image or pattern is formed, picked-
+    1/54    . Screens on or from which an image or pattern
+is formed, picked-up, converted, or stored;
+Luminescent coatings on vessels
+    1/56    . . acting as light valves by shutter operation, e.g. for
+    1/58    . . acting by discolouration, e.g. halide screen
+    1/60    . . Incandescent screens
+    1/62    . . Luminescent screens; Selection of materials for
+luminescent coatings on vessels
+    1/63    . . . characterised by the luminescent material
+    1/64    . . . characterised by the binder or adhesive for
+securing the luminescent material to its support
+    1/66    . . . Supports for luminescent material
+    1/68    . . . with superimposed luminescent layers
+    1/70    . . . with protective, conductive, or reflective layers
+    1/72    . . . with luminescent material discontinuously
+arranged, e.g. in dots or lines
+    1/74    . . . . with adjacent dots or lines of different
+    1/76    . . . provided with permanent marks or references
+    1/78    . . Photoelectric screens; Charge-storage screens
+    1/88    . Mounting, supporting, spacing, or insulating of
+electrodes or of electrode assemblies
+    1/90    . . Insulation between electrodes or supports within
+    1/92    . . Mountings for the electrode assembly as a whole
+    1/94    . . Mountings for individual electrodes
+    1/96    . . Spacing members extending to the envelope
+    1/98    . . . without fixed connection between spacing
+    3/00    Details of electron-optical or ion-optical
+arrangements or of ion traps common to two or
+more basic types of discharge tubes or lamps
+    3/021   . . {Electron guns using a field emission, photo
+emission, or secondary emission electron source}
+    3/022   . . . {with microengineered cathode, e.g. Spindt-
+    3/023   . . {Electron guns using electron multiplication}
+    3/024   . . {Electron guns using thermionic emission of
+cathode heated by electron or ion bombardment
+or by irradiation by other energetic beams, e.g. by
+    3/025   . . {Electron guns using a discharge in a gas or a
+vapour as electron source (gas-filled discharge
+tubes with gaseous cathodes H01J 15/00)}
+    3/026   . . {Eliminating deleterious effects due to
+thermal effects, electric or magnetic field
+(H01J 3/021 - H01J 3/025 take precedence)}
+    3/027   . . {Construction of the gun or parts thereof
+(H01J 3/021 - H01J 3/025, H01J 3/026 and
+    3/028   . . {Replacing parts of the gun; Relative adjustment
+(H01J 3/021 - H01J 3/025 take precedence)}
+    3/029   . . {Schematic arrangements for beam forming}
+    3/06    . two or more guns being arranged in a single vacuum
+space, e.g. for plural-ray tubes (H01J 3/07 takes
+    3/07    . Arrangements for controlling convergence of a
+    3/08    . Arrangements for controlling intensity of ray or
+beam (H01J 3/02, H01J 3/04 take precedence)
+    3/10    . Arrangements for centring ray or beam (H01J 3/02,
+    3/12    . Arrangements for controlling cross-section of ray
+or beam; Arrangements for correcting aberration of
+beam, e.g. due to lenses (H01J 3/02, H01J 3/04 take
+    3/14    . Arrangements for focusing or reflecting ray or beam
+(H01J 3/02, H01J 3/04 take precedence)
+    3/18    . . Electrostatic lenses
+    3/20    . . Magnetic lenses
+    3/22    . . . using electromagnetic means only
+    3/24    . . . using permanent magnets only
+    3/26    . Arrangements for deflecting ray or beam
+    3/28    . . along one straight line or along two perpendicular
+    3/30    . . . by electric fields only
+    3/32    . . . by magnetic fields only
+    3/34    . . along a circle, spiral, or rotating radial line
+    3/36    . Arrangements for controlling the ray or beam after
+passing the main deflection system, e.g. for post-
+acceleration or post-concentration
+    3/38    . Mounting, supporting, spacing, or insulating
+electron-optical or ion-optical arrangements
+    3/40    . Traps for removing or diverting unwanted particles,
+e.g. negative ions, fringing electrons; Arrangements
+for velocity or mass selection {(see provisionally
+    5/00    Details relating to vessels or to leading-in
+conductors common to two or more basic types of
+    5/02    . Vessels; Containers; Shields associated therewith;
+    5/03    . . Arrangements for preventing or mitigating effects
+of implosion of vessels or containers
+    5/04    . . Vessels or containers characterised by the
+    5/06    . . Vessels or containers specially adapted for
+operation at high tension, e.g. by improved
+potential distribution over surface of vessel
+    5/08    . . provided with coatings on the walls thereof;
+Selection of materials for the coatings
+(luminescent coatings H01J 1/62)
+    5/10    . . . on internal surfaces
+    5/12    . . Double-wall vessels or containers
+    5/125   . . . {with a gas tight space between both walls}
+    5/14    . . Dismountable vessels or containers, e.g. for
+    5/16    . . Optical or photographic arrangements structurally
+    5/18    . . Windows permeable to X-rays, gamma-rays, or
+    5/20    . Seals between parts of vessels
+    5/22    . . Vacuum-tight joints between parts of vessel
+    5/24    . . . between insulating parts of vessel
+    5/26    . . . between insulating and conductive parts of
+    5/28    . . . between conductive parts of vessel
+    5/30    . . . using packing-material, e.g. sealing-liquid or
+    5/32    . Seals for leading-in conductors
+    5/34    . . for an individual conductor (pinched-stem seals
+H01J 5/38; end-disc seals H01J 5/40; annular
+    5/36    . . . using intermediate part
+    5/38    . . Pinched-stem or analogous seals
+    5/40    . . End-disc seals, e.g. flat header
+    5/42    . . . using intermediate part
+    5/44    . . Annular seals disposed between the ends of the
+    5/46    . Leading-in conductors
+    5/48    . Means forming part of the tube or lamp for the
+    5/50    . Means forming part of the tube or lamps for the
+purpose of providing electrical connection to it
+    5/52    . . directly applied to or forming part of the vessel
+    5/54    . . supported by a separate part, e.g. base
+    5/56    . . . Shape of the separate part
+    5/565   . . . . {Bases for circular lamps}
+    5/58    . . . Means for fastening the separate part to the
+    5/60    . . . . for fastening by mechanical means
+    5/62    . . . Connection of wires protruding from the vessel
+to connectors carried by the separate part
+    7/00    Details not provided for in the preceding groups
+and common to two or more basic types of
+    7/02    . Selection of substances for gas fillings; Specified
+operating pressure or temperature
+    7/04    . . having one or more carbon compounds as the
+    7/06    . . having helium, argon, neon, krypton, or xenon as
+    7/08    . . having a metallic vapour as the principal
+    7/10    . . . mercury vapour
+    7/12    . . . vapour of an alkali metal
+    7/14    . Means for obtaining or maintaining the desired
+    7/16    . . Means for permitting pumping during operation
+    7/18    . . Means for absorbing or adsorbing gas, e.g. by
+    7/183   . . . {Composition or manufacture of getters}
+    7/186   . . . {Getter supports}
+    7/20    . . Means for producing, introducing, or replenishing
+gas or vapour during operation of the tube or
+    7/22    . . Tubulations therefor, e.g. for exhausting;
+    7/24    . Cooling arrangements; Heating arrangements;
+Means for circulating gas or vapour within the
+    7/26    . . by flow of fluid through passages associated with
+    7/28    . . by latent heat or evaporation of cooling liquid
+    7/30    . Igniting arrangements
+    7/32    . . having resistive or capacitative igniter
+    7/34    . . . having resistive igniter only
+    7/36    . . Igniting by movement of a solid electrode
+    7/38    . . Igniting by movement of vessel as a whole, e.g.
+    7/40    . . Igniting by associated radioactive materials or
+    7/42    . Means structurally associated with the tube or lamp
+for indicating defects or previous use
+    7/44    . One or more circuit elements structurally associated
+    7/46    . . Structurally associated resonator having
+distributed inductance and capacitance
+    9/00    Apparatus or processes specially adapted for the
+manufacture {, installation, removal, maintenance}
+of electric discharge tubes, discharge lamps, or
+parts thereof; Recovery of material from discharge
+    9/003   . {Auxiliary devices for installing or removing
+    9/006   . . {for fluorescent lamps}
+    9/02    . Manufacture of electrodes or electrode systems
+    9/022   . . {of cold cathodes}
+    9/025   . . . {of field emission cathodes}
+    9/027   . . . {of thin film cathodes}
+    9/04    . . of thermionic cathodes
+    9/042   . . . {Manufacture, activation of the emissive part}
+    9/045   . . . . {Activation of assembled cathode}
+    9/047   . . . . {Cathodes having impregnated bodies
+    9/06    . . . Machines therefor
+    9/08    . . Manufacture of heaters for indirectly-heated
+    9/10    . . . Machines therefor
+    9/12    . . of photo-emissive cathodes; of secondary-
+    9/125   . . . {of secondary emission electrodes}
+    9/14    . . of non-emitting electrodes
+    9/142   . . . {of shadow-masks for colour television tubes}
+    9/144   . . . . {Mask treatment related to the process
+of dot deposition during manufacture of
+    9/146   . . . . {Surface treatment, e.g. blackening, coating
+    9/148   . . . {of electron emission flat panels, e.g. gate
+electrodes, focusing electrodes or anode
+    9/16    . . . Machines for making wire grids
+    9/18    . . Assembling together the component parts of
+    9/185   . . . {of flat panel display devices, e.g. by using
+    9/20    . Manufacture of screens on or from which an image
+or pattern is formed, picked up, converted or stored;
+Applying coatings to the vessel
+    9/205   . . {Applying optical coatings or shielding coatings
+to the vessel of flat panel displays, e.g. applying
+filter layers, electromagnetic interference
+shielding layers, anti-reflection coatings or anti-
+    9/22    . . Applying luminescent coatings
+    9/221   . . . {in continuous layers}
+    9/222   . . . . {constituted by coated granules emitting
+    9/223   . . . . {by uniformly dispersing of liquid}
+    9/224   . . . . {by precipitation}
+    9/225   . . . . {by electrostatic or electrophoretic
+    9/227   . . . with luminescent material discontinuously
+arranged, e.g. in dots or lines
+    9/2271  . . . . {by photographic processes (final treatment
+of shadow-mask prior to or after dot
+    9/2272  . . . . . {Devices for carrying out the processes,
+    9/2273  . . . . . . {Auxiliary lenses and filters}
+    9/2274  . . . . . . {Light sources particularly adapted
+    9/2275  . . . . {including the exposition of a substance
+responsive to a particular radiation}
+    9/2276  . . . . {Development of latent electrostatic images
+    9/2277  . . . . {by other processes, e.g. serigraphy,
+    9/2278  . . . . {Application of light absorbing material, e.g.
+    9/233   . . Manufacture of photoelectric screens or charge-
+    9/236   . Manufacture of magnetic deflecting devices for
+    9/24    . Manufacture or joining of vessels, leading-in
+    9/241   . . {the vessel being for a flat panel display
+(H01J 9/261 takes precedence; flat discharge
+    9/242   . . . {Spacers between faceplate and backplate}
+    9/244   . . {specially adapted for cathode ray tubes
+(H01J 9/241, H01J 9/26 take precedence)}
+    9/245   . . {specially adapted for gas discharge tubes or
+lamps (H01J 9/241, H01J 9/26 take precedence)}
+    9/247   . . . {specially adapted for gas-discharge lamps}
+    9/248   . . . . {the vessel being flat}
+    9/26    . . Sealing together parts of vessels
+    9/261   . . . {the vessel being for a flat panel display (for
+flat discharge lamps H01J 9/268)}
+    9/263   . . . {specially adapted for cathode-ray tubes
+    9/265   . . . {specially adapted for gas-discharge tubes or
+lamps (H01J 9/261 takes precedence)}
+    9/266   . . . . {specially adapted for gas-discharge lamps}
+    9/268   . . . . . {the vessel being flat}
+    9/28    . . Manufacture of leading-in conductors
+    9/30    . . Manufacture of bases
+    9/32    . . Sealing leading-in conductors
+    9/323   . . . {Sealing leading-in conductors into a discharge
+lamp or a gas-filled discharge device}
+    9/326   . . . . {making pinched-stem or analogous seals}
+    9/34    . . Joining base to vessel
+    9/36    . . Joining connectors to internal electrode system
+    9/38    . Exhausting, degassing, filling, or cleaning vessels
+    9/385   . . Exhausting vessels
+    9/39    . . Degassing vessels
+    9/395   . . Filling vessels
+    9/42    . Measurement or testing during manufacture
+    9/44    . Factory adjustment of completed discharge tubes or
+lamps to comply with desired tolerances
+    9/445   . . {Aging of tubes or lamps, e.g. by "spot knocking"
+(cathode activation H01J 9/045)}
+    9/46    . Machines having sequentially arranged operating
+    9/48    . . with automatic transfer of workpieces between
+    9/50    . Repairing or regenerating used or defective
+    9/505   . . {Regeneration of cathodes}
+    9/52    . Recovery of material from discharge tubes or lamps
+   11/00    Gas-filled discharge tubes with alternating current
+induction of the discharge, e.g. alternating current
+plasma display panels [AC-PDP] (circuits or
+methods for driving PDPs G09G 3/28); Gas-filled
+discharge tubes without any main electrode inside
+the vessel; Gas-filled discharge tubes with at least
+one main electrode outside the vessel
+1. When classifying in this group, classification is
+made in all appropriate places.
+2. In this group, the following term is used with the
+• "main electrode" means any of a sustain
+electrode, scan electrode or address electrode.
+   11/10    . AC-PDPs with at least one main electrode being out
+   11/12    . . with main electrodes provided on both sides of
+   11/14    . . with main electrodes provided only on one side of
+   11/16    . . with main electrodes provided inside or on the
+   11/18    . . containing a plurality of independent closed
+structures for containing the gas, e.g. plasma tube
+   11/20    . Constructional details
+   11/22    . . Electrodes, e.g. special shape, material or
+   11/24    . . . Sustain electrodes or scan electrodes
+   11/26    . . . Address electrodes
+   11/28    . . . Auxiliary electrodes, e.g. priming electrodes or
+   11/30    . . . Floating electrodes
+   11/32    . . . Disposition of the electrodes
+   11/34    . . Vessels, containers or parts thereof, e.g.
+   11/36    . . . Spacers, barriers, ribs, partitions or the like
+   11/38    . . . Dielectric or insulating layers
+   11/40    . . . Layers for protecting or enhancing the electron
+   11/42    . . . Fluorescent layers
+   11/44    . . . Optical arrangements or shielding
+arrangements, e.g. filters, black matrices, light
+reflecting means or electromagnetic shielding
+   11/46    . . Connecting or feeding means, e.g. leading-in
+   11/48    . . Sealing, e.g. seals specially adapted for leading-in
+   11/50    . . Filling, e.g. selection of gas mixture
+   11/52    . . Means for absorbing or adsorbing the gas
+   11/54    . . Means for exhausting the gas
+   13/00    Discharge tubes with liquid-pool cathodes, e.g.
+   13/04    . . Main electrodes; Auxiliary anodes
+   13/08    . . . . characterised by the material
+   13/10    . . . . Containers for the liquid pool; Arrangements
+   13/12    . . . . Positioning or moving the cathode spot on
+   13/14    . . . . Cooling, heating, circulating, filtering, or
+controlling level of the liquid
+   13/16    . . . Anodes; Auxiliary anodes for maintaining the
+   13/18    . . . . Cooling or heating of anodes
+   13/20    . . Control electrodes, e.g. grid (for igniting
+   13/22    . . Screens, e.g. for preventing or eliminating arcing-
+   13/24    . . Vessels; Containers
+   13/242   . . . {characterised by the material}
+   13/244   . . . {characterised by the shape}
+   13/246   . . . {Treatment of, or coating on interior parts of
+   13/248   . . . {Envelope means outside vessel, i.e. screens,
+   13/26    . . Seals between parts of vessels; Seals for leading-
+in conductors; Leading-in conductors
+   13/263   . . . {Leading-in conductors to the liquid electrode}
+   13/266   . . . {Leading-in conductors to the anode}
+   13/28    . . Selection of substances for gas filling; Means for
+obtaining the desired pressure within the tube
+   13/30    . . . Means for permitting pumping during operation
+   13/32    . . Cooling arrangements; Heating arrangements (for
+cathodes H01J 13/14; for anodes H01J 13/18)
+   13/34    . . Igniting arrangements
+   13/36    . . . having resistive or capacitative igniter
+   13/38    . . . . having resistive igniter only
+   13/40    . . . Igniting by movement of a solid electrode
+   13/405   . . . . {Interrupting contact with liquid cathode}
+   13/42    . . . Igniting by movement of vessel as a whole, e.g.
+   13/44    . . Devices for preventing or eliminating arcing-back
+   13/46    . . One or more circuit elements structurally
+   13/48    . . Circuit arrangements not adapted to a particular
+application of the tube and not otherwise provided
+   13/50    . Tubes having a single main anode
+   13/52    . . with control by one or more intermediate control
+   13/54    . . with control by igniter, e.g. single-anode ignitron
+   13/56    . Tubes having two or more main anodes
+   13/58    . . with control by one or more intermediate control
+   15/00    Gas-filled discharge tubes with gaseous cathodes,
+   15/02    . Details, e.g. electrode, gas filling, shape of vessel
+   15/04    . . Circuit arrangements not adapted to a particular
+application of the tube and not otherwise provided
+   17/00    Gas-filled discharge tubes with solid cathode
+(H01J 25/00, H01J 27/00, H01J 31/00 - H01J 41/00
+{, H01J 11/00} take precedence; gas filled spark gaps
+H01T; Marx converters H02M 7/26)
+   17/005   . {specially adapted as noise generators (electronic
+circuits for generation of noise currents or voltages
+   17/04    . . Electrodes; Screens
+   17/063   . . . . {Indirectly heated cathodes, e.g. by the
+   17/066   . . . . {Cold cathodes}
+   17/08    . . . . having mercury or liquid alkali metal
+deposited on the cathode surface during
+   17/12    . . . Control electrodes
+   17/14    . . Magnetic means for controlling the discharge
+   17/16    . . Vessels; Containers
+   17/18    . . Seals between parts of vessels; Seals for leading-
+in conductors; Leading-in conductors
+   17/183   . . . {Seals between parts of vessel}
+   17/186   . . . {Seals between leading-in conductors and
+   17/20    . . Selection of substances for gas fillings; Specified
+operating pressures or temperatures
+   17/22    . . Means for obtaining or maintaining the desired
+   17/24    . . . Means for absorbing or adsorbing gas, e.g. by
+   17/26    . . . Means for producing, introducing, or
+replenishing gas or vapour during operation of
+   17/28    . . Cooling arrangements
+   17/30    . . Igniting arrangements
+   17/32    . . . Igniting by associated radioactive materials or
+   17/325   . . . . {Current stabilising tubes, e.g. curpistors}
+   17/34    . . One or more circuit elements structurally
+   17/36    . . Circuit arrangements not adapted to a particular
+application of the tube and not otherwise provided
+   17/38    . Cold-cathode tubes
+   17/40    . . with one cathode and one anode, e.g. glow tubes,
+tuning-indicator glow tubes, voltage-stabiliser
+tubes, voltage-indicator tubes, (cathode-glow
+   17/42    . . . having one or more probe electrodes, e.g. for
+   17/44    . . . having one or more control electrodes
+   17/46    . . . . for preventing and then permitting ignition
+but thereafter having no control
+   17/48    . . with more than one cathode or anode, e.g.
+sequence-discharge tube, counting tube, dekatron
+   17/485   . . . {Plasma addressed liquid crystal displays
+   17/49    . . . Display panels, e.g. with crossed electrodes
+{, e.g. making use of direct current (display
+panels making use of alternating current
+   17/491   . . . . {with electrodes arranged side by side and
+substantially in the same plane, e.g. for
+displaying alphanumeric characters}
+   17/492   . . . . {with crossed electrodes}
+   17/494   . . . . . {using sequential transfer of the
+discharges, e.g. of the self-scan type
+(addressing circuits therefor G09G 3/29)}
+   17/495   . . . . . . {display panels using sequential transfer
+of the discharge along dielectric storage
+   17/497   . . . . . {for several colours}
+   17/498   . . . . {with a gas discharge space and a post
+acceleration space for electrons}
+   17/50    . Thermionic-cathode tubes
+   17/52    . . with one cathode and one anode
+   17/54    . . . having one or more control electrodes
+   17/56    . . . . for preventing and then permitting ignition,
+but thereafter having no control
+   17/58    . . with more than one cathode or anode
+   17/60    . . . the discharge paths priming each other in a
+predetermined sequence, e.g. counting tube
+   17/62    . . . with independent discharge paths controlled by
+intermediate electrodes, e.g. polyphase rectifier
+   17/64    . Tubes specially designed for switching or
+modulating in a waveguide, e.g. TR box
+   19/00    Details of vacuum tubes of the types covered by
+   19/02    . Electron-emitting electrodes; Cathodes
+   19/04    . . Thermionic cathodes
+   19/06    . . . characterised by the material
+   19/062   . . . . with alkaline-earth metal oxides, or such
+oxides used in conjunction with reducing
+agents, as an emissive material
+   19/064   . . . . with other metal oxides as an emissive
+   19/066   . . . . with metals or alloys as an emissive material
+   19/068   . . . . with compounds having metallic conductive
+properties, e.g. lanthanum boride, as an
+   19/08    . . . Cathodes heated directly by an electric current
+   19/10    . . . characterised by the shape
+   19/12    . . . . Supports; Vibration-damping arrangements
+   19/14    . . . Cathodes heated indirectly by an electric
+current; Cathodes heated by electron or ion
+   19/18    . . . . Insulating layer or body located between
+   19/20    . . . . Supports for the emissive material
+   19/22    . . . . Dispenser-type cathodes, e.g. L-cathode
+   19/24    . . Cold cathodes, e.g. field-emissive cathode
+   19/28    . Non-electron-emitting electrodes; Screens
+   19/30    . . characterised by the material
+   19/34    . . . forming part of the envelope
+   19/36    . . . Cooling of anodes
+   19/38    . . Control electrodes, e.g. grid
+   19/40    . . Screens for shielding
+   19/42    . Mounting, supporting, spacing, or insulating of
+electrodes or of electrode assemblies
+   19/44    . . Insulation between electrodes or supports within
+   19/46    . . Mountings for the electrode assembly as a whole
+   19/48    . . Mountings for individual electrodes
+   19/50    . . Spacing members extending to the envelope
+   19/52    . . . without fixed connection between spacing
+   19/54    . Vessels; Containers; Shields associated therewith
+   19/56    . . characterised by the material of the vessel or
+   19/57    . . provided with coatings on the walls thereof;
+Selection of materials for the coatings
+   19/58    . Seals between parts of vessels
+   19/60    . Seals for leading-in conductors
+   19/62    . Leading-in conductors
+   19/64    . Means forming part of the tube for the purpose
+   19/66    . Means forming part of the tube for the purpose
+of providing electrical connection to it
+{(H01J 5/46 - H01J 5/62 take precedence)}
+   19/68    . Specified gas introduced into the tube at low
+pressure, e.g. for reducing or influencing space
+   19/70    . Means for obtaining or maintaining the vacuum, e.g.
+   19/72    . . Tubulations therefor, e.g. for exhausting;
+   19/74    . Cooling arrangements (cooling of anodes
+   19/76    . Means structurally associated with the tube for
+indicating defects or previous use
+   19/78    . One or more circuit elements structurally associated
+   19/80    . . Structurally associated resonator having
+distributed inductance and capacitance
+   19/82    . Circuit arrangements not adapted to a particular
+application of the tube and not otherwise provided
+   21/00    Vacuum tubes (H01J 25/00,
+H01J 31/00 - H01J 40/00, H01J 43/00, H01J 47/00,
+H01J 49/00 take precedence; details of vacuum tubes
+   21/02    . Tubes with a single discharge path
+   21/04    . . without control means, i.e. diodes
+   21/06    . . having electrostatic control means only
+   21/065   . . . {Devices for short wave tubes}
+   21/08    . . . with movable electrode or electrodes
+   21/10    . . . with one or more immovable internal control
+electrodes, e.g. triode, pentode, octode
+   21/105   . . . . {with microengineered cathode and control
+   21/12    . . . . Tubes with variable amplification factor
+   21/14    . . . . Tubes with means for concentrating the
+electron stream, e.g. beam tetrode
+   21/16    . . . with external electrostatic control means and
+with or without internal control electrodes
+   21/18    . . having magnetic control means; having both
+magnetic and electrostatic control means
+   21/20    . Tubes with more than one discharge path; Multiple
+tubes, e.g. double diode, triode-hexode
+   21/22    . . with movable electrode or electrodes
+   21/24    . . with variable amplification factor
+   21/26    . . with means for concentrating the electron stream
+   21/34    . Tubes with electrode system arranged or
+dimensioned so as to eliminate transit-time effect
+(with flat electrodes H01J 21/36)
+   21/36    . Tubes with flat electrodes, e.g. disc electrode
+   23/00    Details of transit-time tubes of the types covered
+   23/005   . {Cooling methods or arrangements (H01J 23/033
+   23/02    . Electrodes; Magnetic control means; Screens
+(associated with resonator or delay system
+   23/0275  . . . {Multistage collectors}
+   23/033   . . . Collector cooling devices
+   23/05    . . . having a cylindrical emissive surface, e.g.
+   23/06    . . Electron or ion guns
+   23/065   . . . producing a solid cylindrical beam
+   23/07    . . . producing a hollow cylindrical beam
+   23/075   . . . Magnetron injection guns
+   23/08    . . Focusing arrangements, e.g. for concentrating
+stream of electrons, for preventing spreading of
+   23/083   . . . Electrostatic focusing arrangements
+   23/087   . . . Magnetic focusing arrangements
+   23/0873  . . . . {with at least one axial-field reversal along
+the interaction space, e.g. P.P.M. focusing}
+   23/0876  . . . . {with arrangements improving the linearity
+and homogeniety of the axial field, e.g. field
+   23/09    . . Electric systems for directing or deflecting
+the discharge along a desired path, e.g. E-type
+(focusing arrangements H01J 23/08)
+   23/10    . . Magnet systems for directing or deflecting the
+discharge along a desired path, e.g. a spiral path
+(magnetic focusing arrangements H01J 23/08)
+   23/11    . . Means for reducing noise (in electron or ion gun
+   23/12    . Vessels; Containers
+   23/14    . Leading-in arrangements; Seals therefor
+   23/15    . . Means for preventing wave energy leakage
+structurally associated with tube leading-in
+arrangements, e.g. filters, chokes, attenuating
+   23/16    . Circuit elements, having distributed capacitance and
+inductance, structurally associated with the tube and
+   23/165   . . {Manufacturing processes or apparatus therefore}
+   23/20    . . . Cavity resonators; Adjustment or tuning thereof
+   23/207   . . . . Tuning of single resonator
+   23/213   . . . . Simultaneous tuning of more than one
+resonator, e.g. resonant cavities of a
+   23/22    . . . Connections between resonators, e.g. strapping
+for connecting resonators of a magnetron
+   23/24    . . Slow-wave structures {, e.g. delay systems}
+   23/26    . . . Helical slow-wave structures; Adjustment
+   23/27    . . . . Helix-derived slow-wave structures
+   23/28    . . . Interdigital slow-wave structures; Adjustment
+   23/30    . . . Damping arrangements associated with
+slow-wave structures, e.g. for suppression of
+   23/34    . Circuit arrangements not adapted to a particular
+application of the tube and not otherwise provided
+   23/36    . Coupling devices having distributed capacitance and
+inductance, structurally associated with the tube, for
+introducing or removing wave energy
+   23/38    . . to or from the discharge
+   23/40    . . to or from the interaction circuit
+   23/42    . . . the interaction circuit being a helix or
+a helix-derived slow-wave structure
+(H01J 23/44 - H01J 23/48 take precedence)
+   23/44    . . . Rod-type coupling devices (H01J 23/46,
+H01J 23/48, H01J 23/54 take precedence)
+   23/46    . . . Loop coupling devices
+   23/48    . . . for linking interaction circuit with coaxial
+lines; Devices of the coupled helices type
+   23/50    . . . . the interaction circuit being a helix or
+derived from a helix (H01J 23/52 takes
+   23/52    . . . . the coupled helices being disposed coaxially
+   23/54    . . Filtering devices preventing unwanted
+frequencies or modes to be coupled to, or out
+of, the interaction circuit; Prevention of high
+frequency leakage in the environment
+   25/00    Transit-time tubes, e.g. klystrons, travelling-wave
+tubes, magnetrons (details of transit-time tubes
+H01J 23/00; particle accelerators H05H)
+   25/005   . {Gas-filled transit-time tubes}
+   25/02    . Tubes with electron stream modulated in velocity
+or density in a modulator zone and thereafter giving
+up energy in an inducing zone, the zones being
+associated with one or more resonators
+   25/025   . . {with an electron stream following a helical path}
+   25/04    . . Tubes having one or more resonators, without
+reflection of the electron stream, and in which the
+modulation produced in the modulator zone is
+mainly density modulation, e.g. Heaff tube
+   25/06    . . Tubes having only one resonator, without
+reflection of the electron stream, and in which the
+modulation produced in the modulator zone is
+mainly velocity modulation, e.g. Lüdi-Klystron
+   25/08    . . . with electron stream perpendicular to the axis
+   25/10    . . Klystrons, i.e. tubes having two or more
+resonators, without reflection of the electron
+stream, and in which the stream is modulated
+mainly by velocity in the zone of the input
+   25/11    . . . Extended interaction klystrons
+   25/12    . . . with pencil-like electron stream in the axis of
+   25/14    . . . with tube-like electron stream coaxial with the
+   25/16    . . . with pencil-like electron stream perpendicular
+   25/18    . . . with radial or disc-like electron stream
+perpendicular to the axis of the resonators
+   25/20    . . . having special arrangements in the space
+between resonators, e.g. resistive-wall amplifier
+tube, space-charge amplifier tube, velocity-
+   25/22    . . Reflex klystrons, i.e. tubes having one or more
+resonators, with a single reflection of the electron
+stream, and in which the stream is modulated
+mainly by velocity in the modulator zone
+   25/24    . . . in which the electron stream is in the axis of the
+resonator or resonators and is pencil-like before
+   25/26    . . . in which the electron stream is coaxial with the
+axis of the resonator or resonators and is tube-
+   25/28    . . . in which the electron stream is perpendicular
+to the axis of the resonator or resonators and is
+   25/30    . . . in which the electron stream is perpendicular
+to the axis of the resonator or resonators and is
+radial or disc-like before reflection
+   25/32    . . Tubes with plural reflection, e.g. Coeterier tube
+   25/34    . Travelling-wave tubes; Tubes in which a travelling
+wave is simulated at spaced gaps
+   25/36    . . Tubes in which an electron stream interacts with
+a wave travelling along a delay line or equivalent
+sequence of impedance elements, and without
+magnet system producing an H-field crossing the
+   25/38    . . . the forward travelling wave being utilised
+   25/40    . . . the backward travelling wave being utilised
+   25/42    . . Tubes in which an electron stream interacts with
+a wave travelling along a delay line or equivalent
+sequence of impedance elements, and with a
+magnet system producing an H-field crossing the
+E-field (with travelling wave moving completely
+around the electron space H01J 25/50)
+   25/44    . . . the forward travelling wave being utilised
+   25/46    . . . the backward travelling wave being utilised
+   25/48    . . Tubes in which two electron streams of different
+velocities interact with one another, e.g. electron-
+   25/49    . . Tubes using the parametric principle, e.g. for
+   25/50    . Magnetrons, i.e. tubes with a magnet system
+producing an H-field crossing the E-field (with
+travelling wave not moving completely around
+the electron space H01J 25/42; functioning with
+plural reflection or with reversed cyclotron action
+   25/52    . . with an electron space having a shape that does
+not prevent any electron from moving completely
+around the cathode or guide electrode
+   25/54    . . . having only one cavity or other resonator, e.g.
+   25/55    . . . . Coaxial cavity magnetrons
+   25/56    . . . . with interdigital arrangements of anodes, e.g.
+   25/58    . . . having a number of resonators; having a
+composite resonator, e.g. a helix
+   25/587   . . . . Multi-cavity magnetrons
+   25/593   . . . . . Rising-sun magnetrons
+   25/60    . . with an electron space having a shape that
+prevents any electron from moving completely
+around the cathode or guide electrode; Linear
+   25/61    . Hybrid tubes, i.e. tubes comprising a klystron
+section and a travelling-wave section
+   25/62    . Strophotrons, i.e. tubes with H-field crossing the E-
+field and functioning with plural reflection
+   25/64    . Turbine tubes, i.e. tubes with H-field crossing the E-
+field and functioning with reversed cyclotron action
+   25/66    . Tubes with electron stream crossing itself and
+thereby interacting or interfering with itself
+   25/68    . Tubes specially designed to act as oscillator
+with positive grid and retarding field, e.g. for
+Barkhausen-Kurz oscillators (with secondary
+   25/70    . . with resonator having distributed inductance with
+   25/72    . . in which a standing wave or a considerable
+part thereof is produced along an electrode, e.g.
+Clavier tube (with resonator having distributed
+inductance and capacitance H01J 25/70)
+   25/74    . Tubes specially designed to act as transit-time diode
+   25/76    . Dynamic electron-multiplier tubes, e.g. Farnsworth
+   25/78    . Tubes with electron stream modulated by deflection
+   27/00    Ion beam tubes (H01J 25/00, H01J 33/00,
+H01J 37/00 take precedence; particle accelerators
+   27/02    . Ion sources; Ion guns {(for examination or
+processing discharge tubes H01J 37/08; ion sources,
+ion guns for particle spectrometer or separator tubes
+H01J 49/10; ion propulsion F03H 1/00)}
+   27/024   . . . {Extraction optics, e.g. grids}
+   27/026   . . {Cluster ion sources}
+   27/028   . . {Negative ion sources}
+   27/04    . . using reflex discharge, e.g. Penning ion
+sources {(electron bombardment ion sources
+   27/06    . . . without applied magnetic field
+   27/08    . . using arc discharge
+   27/10    . . . Duoplasmatrons {; Duopigatrons}
+   27/12    . . . . provided with an expansion cup
+   27/14    . . . Other arc discharge ion sources using an
+   27/143   . . . . {Hall-effect ion sources with closed electron
+   27/146   . . . . {End-Hall type ion sources, wherein the
+magnetic field confines the electrons in a
+   27/16    . . using high-frequency excitation, e.g. microwave
+   27/18    . . . with an applied axial magnetic field
+   27/20    . . using particle {beam} bombardment, e.g. ionisers
+   27/205   . . . {with electrons, e.g. electron impact ionisation,
+   27/22    . . . Metal ion sources
+   27/24    . . using photo-ionisation, e.g. using laser beam
+   27/26    . . using surface ionisation, e.g. field effect ion
+sources, thermionic ion sources (H01J 27/20,
+   29/00    Details of cathode-ray tubes or of electron-beam
+tubes of the types covered by group H01J 31/00
+   29/003   . {Arrangements for eliminating unwanted
+electromagnetic effects, e.g. demagnetisation
+arrangements, shielding coils (H01J 29/06,
+H01J 29/867 take precedence; demagnetisation in
+general H01F 13/00; circuit arrangements therefor
+H04N 9/29; screening of apparatus against electric
+   29/006   . {Arrangements for eliminating unwanted
+   29/02    . Electrodes; Screens; Mounting, supporting, spacing
+   29/021   . . {arrangements for eliminating interferences in the
+tube (H01J 29/484 takes precedence)}
+   29/023   . . {secondary-electron emitting electrode
+arrangements (secondary-emission tubes
+   29/025   . . {Mounting or supporting arrangements for grids
+(H01J 29/028 takes precedence)}
+   29/026   . . {Mounting or supporting arrangements for charge
+storage screens not deposited on the frontplate}
+   29/028   . . {Mounting or supporting arrangements for flat
+panel cathode ray tubes, e.g. spacers particularly
+   29/06    . . Screens for shielding; Masks interposed in the
+   29/07    . . . Shadow masks for colour television tubes
+   29/073   . . . . {Mounting arrangements associated with
+   29/076   . . . . {characterised by the shape or distribution of
+   29/08    . . Electrodes intimately associated with a screen
+on or from which an image or pattern is formed,
+picked-up, converted or stored, e.g. backing-
+plates for storage tubes or collecting secondary
+   29/085   . . . {Anode plates, e.g. for screens of flat panel
+   29/10    . . Screens on or from which an image or pattern is
+formed, picked up, converted or stored
+   29/12    . . . acting as light valves by shutter operation, e.g.
+   29/14    . . . acting by discoloration, e.g. halide screen
+   29/16    . . . Incandescent screens
+   29/18    . . . Luminescent screens
+   29/182   . . . . {acting upon the lighting-up of the
+luminescent material other than by the
+composition of the luminescent material,
+e.g. by infra red or UV radiation, heating or
+   29/185   . . . . {measures against halo-phenomena}
+   29/187   . . . . {screens with more than one luminescent
+material (as mixtures for the treatment of
+the screens) (for several superimposed
+luminescent layers H01J 29/26; for adjacent
+dots or lines of different luminescent
+   29/20    . . . . characterised by the luminescent material
+   29/22    . . . . characterised by the binder or adhesive for
+securing the luminescent material to its
+   29/225   . . . . . {photosensitive adhesive}
+   29/24    . . . . Supports for luminescent material
+   29/26    . . . . with superimposed luminescent layers
+   29/28    . . . . with protective, conductive or reflective
+   29/30    . . . . with luminescent material discontinuously
+arranged, e.g. in dots, in lines
+   29/32    . . . . . with adjacent dots or lines of different
+luminescent material, e.g. for colour
+   29/322   . . . . . . {with adjacent dots}
+   29/325   . . . . . . {with adjacent lines}
+   29/327   . . . . . . {Black matrix materials}
+   29/34    . . . . provided with permanent marks or references
+   29/36    . . . Photoelectric screens; Charge-storage screens
+   29/38    . . . . not using charge storage, e.g. photo-emissive
+screen, extended cathode {(electrodes using
+photo-emission in general H01J 1/34)}
+   29/385   . . . . . {Photocathodes comprising a layer which
+modified the wave length of impinging
+   29/39    . . . . Charge-storage screens
+   29/395   . . . . . {charge-storage grids exhibiting triode
+   29/41    . . . . . using secondary emission, e.g. for
+supericonoscope {(electrodes using
+secondary emission in general H01J 1/32;
+secondary emission tubes H01J 43/00)}
+   29/413   . . . . . . {for writing and reading of charge
+pattern on opposite sides of the target,
+   29/416   . . . . . . . {with a matrix of electrical
+conductors traversing the target}
+   29/43    . . . . . using photo-emissive mosaic, e.g. for
+   29/435   . . . . . . {with a matrix of conductors traversing
+   29/44    . . . . . exhibiting internal electric effects caused
+by particle radiation, e.g. bombardment-
+induced conductivity {(particle detectors
+exhibiting internal electric effects
+   29/45    . . . . . exhibiting internal electric effects
+caused by electromagnetic radiation,
+photodielectric screen, photovoltaic screen
+{(photoconductive layers for electrography
+   29/451   . . . . . . {with photosensitive junctions}
+   29/453   . . . . . . . {provided with diode arrays}
+   29/455   . . . . . . . . {formed on a silicon substrate}
+   29/456   . . . . . . . {exhibiting no discontinuities, e.g.
+   29/458   . . . . . . {pyroelectrical targets; targets for infra-
+red or ultra-violet or X-ray radiations}
+   29/46    . Arrangements of electrodes and associated parts
+for generating or controlling the ray or beam, e.g.
+electron-optical arrangement {(transit time tubes
+H01J 23/00, H01J 25/00; X-ray tubes H01J 35/00;
+beam tubes for examining ions, e.g. electron or ion
+microscopes, or processing of objects or materials,
+e.g. electron or ion beam tubes H01J 37/04; electron
+multipliers H01J 43/04; handling of radiation or
+particles, e.g. focusing, deviating, not otherwise
+H01J 29/48 takes precedence over groups
+   29/462   . . {arrangements for interrupting the beam during
+   29/465   . . {for simultaneous focalisation and deflection of
+   29/467   . . {Control electrodes for flat display tubes, e.g. of
+the type covered by group H01J 31/123}
+   29/481   . . . {Electron guns using field-emission, photo-
+emission, or secondary-emission electron
+   29/482   . . . {Electron guns using electron multiplication}
+   29/484   . . . {Eliminating deleterious effects due to
+thermal effects, electrical or magnetic fields;
+Preventing unwanted emission (H01J 29/481
+and H01J 29/482 take precedence)}
+   29/485   . . . {Construction of the gun or of parts thereof
+(H01J 29/481, H01J 29/482, H01J 29/484 and
+   29/487   . . . {Replacing parts of the gun; Relative
+adjustment of the electrodes (H01J 29/481 and
+H01J 29/482 take precedence; vacuum locks
+   29/488   . . . {Schematic arrangements of the electrodes
+for beam forming; Place and form of the
+   29/50    . . . two or more guns in a single vacuum space,
+e.g. for plural-ray tube (H01J 29/51 takes
+   29/503   . . . . {Three or more guns, the axes of which lay
+   29/506   . . . . {guns in delta or circular configuration}
+   29/51    . . . Arrangements for controlling convergence of a
+plurality of beams {by means of electric field
+   29/52    . . Arrangements for controlling intensity of ray or
+beam, e.g. for modulation {(H01J 29/467 takes
+   29/525   . . . {Digitally controlled systems, e.g. Digisplay}
+   29/54    . . Arrangements for centring ray or beam
+{(H01J 29/467 takes precedence)}
+   29/56    . . Arrangements for controlling cross-section of ray
+or beam; Arrangements for correcting aberration
+of beam, e.g. due to lenses {(H01J 29/467 takes
+   29/563   . . . {for controlling cross-section}
+   29/566   . . . {for correcting aberration}
+   29/58    . . Arrangements for focusing or reflecting ray or
+   29/585   . . . {in which the transit time of the electrons has
+   29/62    . . . Electrostatic lenses
+   29/622   . . . . {producing fields exhibiting symmetry of
+   29/624   . . . . . {co-operating with or closely associated to
+   29/626   . . . . {producing fields exhibiting periodic axial
+symmetry, e.g. multipolar fields}
+   29/628   . . . . . {co-operating with or closely associated to
+   29/64    . . . Magnetic lenses
+   29/66    . . . . using electromagnetic means only
+   29/68    . . . . using permanent magnets only
+   29/70    . . Arrangements for deflecting ray or beam
+{(H01J 29/467, H01J 29/525 take precedence)}
+   29/701   . . . {Systems for correcting deviation or
+convergence of a plurality of beams by means
+   29/702   . . . . {Convergence correction arrangements
+   29/703   . . . . . {Static convergence systems}
+   29/705   . . . . . {Dynamic convergence systems}
+   29/706   . . . . {Deviation correction devices, i.e. having the
+   29/707   . . . . {Arrangements intimately associated with
+parts of the gun and co-operating with
+external magnetic excitation devices}
+   29/708   . . . {in which the transit time of the electrons has
+   29/72    . . . along one straight line or along two
+   29/74    . . . . Deflecting by electric fields only
+   29/76    . . . . Deflecting by magnetic fields only
+   29/762   . . . . . {using saddle coils or printed windings
+   29/764   . . . . . {using toroidal windings}
+   29/766   . . . . . {using a combination of saddle coils and
+   29/768   . . . . . {using printed windings (printed windings
+in general H01F 27/2804; manufacturing
+printed coils per se H01F 41/04; printed
+circuits and apparatus or processes
+for manufacturing printed circuits in
+general H05K 1/00, e.g. H05K 1/16, and
+   29/78    . . . along a circle, spiral or rotating radial line, e.g.
+   29/80    . . Arrangements for controlling the ray or beam
+after passing the main deflection system, e.g. for
+post-acceleration or post-concentration, for colour
+switching {(H01J 29/701 takes precedence)}
+   29/803   . . . {for post-acceleration or post-deflection, e.g.
+   29/806   . . . . {Electron lens mosaics, e.g. fly's eye lenses,
+   29/81    . . . using shadow masks
+   29/82    . . Mounting, supporting, spacing, or insulating
+electron-optical or ion-optical arrangements
+   29/823   . . . {around the neck of the tube}
+   29/826   . . . . {Deflection arrangements}
+   29/84    . Traps for removing or diverting unwanted particles,
+e.g. negative ions, fringing electrons; Arrangements
+   29/845   . . {by means of magnetic systems}
+   29/86    . Vessels; Containers; Vacuum locks
+   29/861   . . {Vessels or containers characterised by the form
+   29/862   . . . {of flat panel cathode ray tubes}
+   29/863   . . {Vessels or containers characterised by the
+   29/864   . . {Spacers between faceplate and backplate of flat
+   29/866   . . . {Devices for introducing a recording support
+   29/867   . . {Means associated with the outside of the vessel
+for shielding, e.g. magnetic shields (screens for
+shielding inside the vessel H01J 29/06; magnetic
+shielding in general H05K 9/00)}
+   29/868   . . . {Screens covering the input or output face of
+the vessel, e.g. transparent anti-static coatings,
+   29/87    . . Arrangements for preventing or limiting effects of
+implosion of vessels or containers
+   29/88    . . provided with coatings on the walls thereof;
+Selection of materials for the coatings
+{(H01J 29/868 and H01J 29/89 take precedence)}
+   29/89    . . Optical or photographic arrangements
+structurally combined {or co-operating} with
+the vessel {(H01J 29/866 and H01J 29/868 take
+   29/892   . . . {using fibre optics}
+   29/894   . . . {Arrangements combined with the vessel
+for the purpose of image projection on a
+screen (projection arrangements for image
+reproduction, e.g. using eidophor H04N 5/74)}
+   29/896   . . . {Anti-reflection means, e.g. eliminating glare
+   29/898   . . . {Spectral filters}
+   29/90    . Leading-in arrangements; Seals therefor
+   29/92    . Means forming part of the tube for the purpose of
+providing electrical connection to it
+   29/925   . . {High voltage anode feedthrough connectors for
+   29/94    . Selection of substances for gas fillings; Means for
+obtaining or maintaining the desired pressure within
+the tube, e.g. by gettering {(exhausting, degassing,
+gettering of electric discharge tubes in general
+   29/96    . One or more circuit elements structurally associated
+   29/98    . Circuit arrangements not adapted to a particular
+application of the tube and not otherwise provided
+   31/00    Cathode ray tubes; Electron beam tubes
+(H01J 25/00, H01J 33/00, H01J 35/00, H01J 37/00
+take precedence; details of cathode ray tubes or of
+electron beam tubes H01J 29/00)
+   31/02    . having one or more output electrodes which may
+be impacted selectively by the ray or beam, and
+onto, from, or over which the ray or beam may be
+deflected or de-focused {(pulse counting circuits
+   31/04    . . with only one or two output electrodes {with
+only two electrically independant groups or
+   31/06    . . with more than two output electrodes, e.g. for
+   31/065   . . . {for electrography or electrophotography,
+for transferring a charge pattern through the
+faceplate (leading-in arrangements H01J 29/90;
+Lenard tubes H01J 33/00; electrography or
+electrophotography per se G03C)}
+   31/08    . having a screen on or from which an image or
+pattern is formed, picked up, converted, or stored
+   31/10    . . Image or pattern display tubes, i.e. having
+electrical input and optical output; Flying-spot
+   31/12    . . . with luminescent screen
+   31/121   . . . . {tubes for oscillography (colour display
+tubes H01J 31/20; cathode ray oscillography
+   31/122   . . . . {Direct viewing storage tubes without
+storage grid (with storage grid H01J 31/18)}
+   31/123   . . . . {Flat display tubes}
+   31/124   . . . . . {using electron beam scanning}
+   31/125   . . . . . {provided with control means permitting
+the electron beam to reach selected parts of
+the screen, e.g. digital selection}
+   31/126   . . . . . . {using line sources}
+   31/127   . . . . . . {using large area or array sources,
+i.e. essentially a source for each pixel
+   31/128   . . . . {provided with control means permitting the
+electron beam to reach selected parts of the
+screen, e.g. digitally controlled display tubes
+(H01J 31/123 takes precedence)}
+   31/14    . . . . Magic-eye or analogous tuning indicators
+{(mounting of visual indicators in a radio
+set H03J 1/04; circuits for timing indicators
+   31/15    . . . . with ray or beam selectively directed to
+luminescent anode segments {(printing by
+application of radiation B41J 2/447)}
+   31/16    . . . . with mask carrying a number of selectively
+displayable signs, e.g. charactron,
+numeroscope {(tubes with a mask carrying
+a matrix of openings, a selection of which
+permits a sign to be displayed H01J 31/128)}
+   31/18    . . . . with image written by a ray or beam on a
+grid-like charge-accumulating screen, and
+with a ray or beam passing through and
+influenced by this screen before striking the
+luminescent screen, e.g. direct-view storage
+tube {(charge storage grids exhibiting triode
+   31/20    . . . for displaying images or patterns in two or
+more colours {(circuits for colour television
+   31/201   . . . . {using a colour-selection electrode}
+   31/203   . . . . . {with more than one electron beam}
+   31/205   . . . . . . {with three electron beams in delta
+   31/206   . . . . . . {with three coplanar electron beams}
+   31/208   . . . . {using variable penetration depth of the
+electron beam in the luminescent layer, e.g.
+   31/22    . . . for stereoscopic displays
+   31/24    . . . with screen acting as light valve by shutter
+operation, e.g. eidophor {(projection
+arrangements for image reproduction, e.g.
+   31/26    . . Image pick-up tubes having an input of visible
+light and electric output (tubes without defined
+electron beams and having a light ray scanning
+photo-emissive screen H01J 40/20)
+   31/265   . . . {with light spot scanning}
+   31/28    . . . with electron ray scanning the image screen
+   31/283   . . . . {with a target comprising semiconductor
+   31/286   . . . . {correlater tubes}
+   31/30    . . . . having regulation of screen potential at
+anode potential, e.g. iconoscope
+   31/32    . . . . . Tubes with image amplification section,
+e.g. image-iconoscope, supericonoscope
+   31/34    . . . . having regulation of screen potential at
+cathode potential, e.g. orthicon
+   31/36    . . . . . Tubes with image amplification section,
+   31/38    . . . . . Tubes with photoconductive screen, e.g.
+   31/40    . . . . having grid-like image screen through which
+the electron ray passes and by which the
+ray is influenced before striking the output
+electrode, i.e. having "triode action"
+   31/42    . . . with image screen generating a composite
+electron beam which is deflected as a whole
+past a stationary probe to simulate a scanning
+effect, e.g. Farnsworth pick-up tube
+   31/44    . . . . Tubes with image amplification section
+   31/46    . . . Tubes in which electrical output represents
+both intensity and colour of image {(colour
+television cameras with only one tube
+   31/48    . . . Tubes with amplification of output effected
+by electron multiplier arrangements within the
+   31/49    . . Pick-up adapted for an input of electromagnetic
+radiation other than visible light and having an
+electric output, e.g. for an input of X-rays, for an
+   31/495   . . Pick-up tubes adapted for an input of sonic,
+ultrasonic, or mechanical vibrations and having
+   31/50    . . Image-conversion or image-amplification tubes,
+i.e. having optical, X-ray, or analogous input, and
+   31/501   . . . {with an electrostatic electron optic system
+(H01J 31/52 - H01J 31/56 take precedence)}
+   31/502   . . . . {with means to interrupt the beam, e.g.
+shutter for high speed photography (circuits
+using electron-beam shutters G03B 27/725)}
+   31/503   . . . {with an electromagnetic electron-optic system
+(H01J 31/52 - H01J 31/56 take precedence)}
+   31/505   . . . {flat tubes, e.g. proximity focusing tubes}
+   31/506   . . . {tubes using secondary emission effect}
+   31/507   . . . . {using a large number of channels, e.g.
+   31/508   . . . {Multistage converters}
+   31/52    . . . having grid-like image screen through which
+the electron ray or beam passes and by which
+the ray or beam is influenced before striking
+the luminescent output screen, i.e. having
+   31/54    . . . in which the electron ray or beam is reflected
+by the image input screen on to the image
+   31/56    . . . for converting or amplifying images in two or
+   31/58    . . Tubes for storage of image or information pattern
+or for conversion of definition of television
+or like images, i.e. having electrical input and
+electrical output {(electrostatic memories using
+electron beam tubes G11C 11/23)}
+   31/585   . . . {Monoscopes (H01J 31/60 takes precedence)}
+   31/60    . . . having means for deflecting, either selectively
+or sequentially, an electron ray on to separate
+surface elements of the screen (by circuitry
+   31/62    . . . . with separate reading and writing rays
+   31/64    . . . . . on opposite sides of screen, e.g. for
+   31/66    . . . having means for allowing all but selected
+cross-section elements of a homogeneous
+electron beam to reach corresponding elements
+   31/68    . . . in which the information pattern represents two
+   33/00    Discharge tubes with provision for emergence
+of electrons or ions from the vessel ({irradiation
+devices G21K} ; particle accelerators H05H); Lenard
+   33/02    . Details {(vessels for operation at high tension
+   35/025   . . {X-ray tubes with structurally associated circuit
+   35/04    . . Electrodes {; Mutual position thereof;
+Constructional adaptations therefor}
+   35/045   . . . {Electrodes for controlling the current of the
+cathode ray, e.g. control grids}
+   35/064   . . . . {Details of the emitter, e.g. material or
+structure (H01J 35/065 takes precedence)}
+   35/065   . . . . {Field emission, photo emission or
+   35/066   . . . . {Details of electron optical components, e.g.
+   35/08    . . . Anodes; Anti cathodes
+   35/10    . . . . Rotary anodes; Arrangements for rotating
+   35/101   . . . . . {Arrangements for rotating anodes, e.g.
+supporting means, means for greasing,
+means for sealing the axle or means for
+shielding or protecting the driving}
+   35/1017  . . . . . . {Bearings for rotating anodes}
+   35/1024  . . . . . . . {Rolling bearings}
+   35/103   . . . . . . . {Magnetic bearings}
+   35/104   . . . . . . . {Fluid bearings}
+   35/105   . . . . . {Cooling of rotating anodes, e.g. heat
+   35/106   . . . . . . {Active cooling, e.g. fluid flow, heat
+   35/107   . . . . . . {Cooling of the bearing assemblies}
+   35/108   . . . . . {Substrates for and bonding of emissive
+target, e.g. composite structures}
+   35/112   . . . . {Non-rotating anodes (H01J 35/12 takes
+   35/116   . . . . . {Transmissive anodes (acting as a window
+   35/12    . . . . Cooling non-rotary anodes
+   35/13    . . . . . {Active cooling, e.g. fluid flow, heat
+   35/14    . . Arrangements for concentrating, focusing, or
+   35/147   . . . {Spot size control}
+   35/153   . . . {Spot position control}
+   35/16    . . Vessels; Containers; Shields associated therewith
+   35/165   . . . {joining connectors to the tube}
+   35/186   . . . . {used as targets or X-ray converters}
+   35/20    . . Selection of substances for gas fillings; Means
+for obtaining or maintaining the desired pressure
+within the tube, e.g. by gettering
+   35/22    . specially designed for passing a very high current
+for a very short time, e.g. for flash operation
+   35/24    . Tubes wherein the point of impact of the cathode
+ray on the anode or anticathode is movable relative
+   35/26    . . by rotation of the anode or anticathode
+   35/28    . . by vibration, oscillation, reciprocation, or swash-
+plate motion of the anode or anticathode
+   35/30    . . by deflection of the cathode ray
+   35/305   . . . {by using a rotating X-ray tube in conjunction
+   35/32    . Tubes wherein the X-rays are produced at or
+near the end of the tube or a part thereof which
+tube or part has a small cross-section to facilitate
+introduction into a small hole or cavity
+   37/00    Discharge tubes with provision for introducing
+objects or material to be exposed to the discharge,
+e.g. for the purpose of examination or processing
+thereof (H01J 33/00, H01J 40/00, H01J 41/00,
+H01J 47/00, H01J 49/00 take precedence)
+   37/023   . . {Means for mechanically adjusting components
+not otherwise provided for (mechanically
+adjusting from the outside of electron or ion-
+optical components H01J 37/067; positioning the
+object or material H01J 37/20; vacuum locks,
+means for obtaining or maintaining the desired
+pressure within the tube H01J 37/18; other
+manipulating devices H01L 21/48, G21F)}
+   37/026   . . {Means for avoiding or neutralising unwanted
+electrical charges on tube components}
+   37/04    . . Arrangements of electrodes and associated parts
+for generating or controlling the discharge,
+e.g. electron-optical arrangement, ion-optical
+arrangement {(electron or ion-optical systems for
+localised treatment of materials H01J 37/3007;
+discharge control means in gas filled discharge
+   37/045   . . . {Beam blanking or chopping, i.e. arrangements
+for momentarily interrupting exposure to the
+   37/05    . . . Electron or ion-optical arrangements for
+separating electrons or ions according to their
+energy {or mass}(particle separator tubes
+   37/06    . . . Electron sources; Electron guns {(electron
+sources in general H01J 1/02, H01J 19/02;
+electron guns in general H01J 3/02)}
+   37/061   . . . . {Electron guns using electron multiplication}
+   37/063   . . . . Geometrical arrangement of electrodes for
+   37/065   . . . . Construction of guns or parts thereof
+(H01J 37/067 - H01J 37/077 take
+   37/067   . . . . Replacing parts of guns; Mutual adjustment
+of electrodes (H01J 37/073 - H01J 37/077
+take precedence; vacuum locks H01J 37/18)
+   37/07    . . . . Eliminating deleterious effects due to
+thermal effects or electric or magnetic
+fields (H01J 37/073 - H01J 37/077 take
+   37/073   . . . . Electron guns using field emission, photo
+emission, or secondary emission electron
+   37/075   . . . . Electron guns using thermionic emission
+from cathodes heated by particle
+bombardment or by irradiation, e.g. by laser
+   37/077   . . . . Electron guns using discharge in gases or
+   37/08    . . . Ion sources; Ion guns
+   37/09    . . . Diaphragms; Shields associated with electron
+or ion-optical arrangements; Compensation of
+   37/12    . . . . electrostatic
+   37/141   . . . . . Electromagnetic lenses
+   37/1413  . . . . . . {Means for interchanging parts of the
+lens, e.g. pole pieces, within the tube
+(mechanically adjusting electron (ion)
+optical components H01J 37/15)}
+   37/1416  . . . . . . {with superconducting coils}
+   37/143   . . . . . Permanent magnetic lenses
+   37/145   . . . . Combinations of electrostatic and magnetic
+   37/147   . . . Arrangements for directing or deflecting the
+discharge along a desired path ({H01J 37/045
+take precedence;} lenses H01J 37/10)
+   37/1471  . . . . {for centering, aligning or positioning of ray
+   37/1472  . . . . {Deflecting along given lines}
+   37/1474  . . . . . {Scanning means}
+   37/1475  . . . . . . {magnetic}
+   37/1477  . . . . . . {electrostatic}
+   37/1478  . . . . {Beam tilting means, i.e. for stereoscopy or
+   37/15    . . . . External mechanical adjustment of electron
+or ion optical components (H01J 37/067,
+   37/153   . . . Electron-optical or ion-optical arrangements for
+the correction of image defects, e.g. stigmators
+   37/16    . . Vessels; Containers
+   37/165   . . . {Means associated with the vessel for
+preventing the generation of or for shielding
+unwanted radiation, e.g. X-rays}
+   37/18    . . Vacuum locks {; Means for obtaining or
+maintaining the desired pressure within the vessel
+(vacuum locks for electron-beam tubes in general
+   37/185   . . . {Means for transferring objects between
+different enclosures of different pressure or
+   37/20    . . Means for supporting or positioning the objects or
+the material; Means for adjusting diaphragms or
+lenses associated with the support {(introducing
+   37/21    . . Means for adjusting the focus {(adjusting the
+focus while observing the image by photographic
+or optical means H01J 37/22; means for
+observing the object or the point of impact on
+the object in tubes for the localised treatment of
+   37/22    . . Optical or photographic arrangements associated
+with the tube {(using a CRT for the display of
+the image in a scanning electron microscope
+H01J 37/28; observing the object or the point of
+impact on the object in tubes for the localised
+treatment of materials H01J 37/3007)}
+   37/222   . . . {Image processing arrangements associated
+with the tube (image data processing or
+   37/224   . . . {Luminescent screens or photographic plates
+for imaging (photosensitive materials for
+photographic purposes G03C); Apparatus
+specially adapted therefor, e.g. cameras, TV-
+cameras, photographic equipment, exposure
+control; Optical subsystems specially adapted
+therefor, e.g. microscopes for observing image
+   37/226   . . . {Optical arrangements for illuminating the
+object; optical arrangements for collecting light
+   37/228   . . . . {whereby illumination and light collection
+take place in the same area of the discharge}
+   37/24    . . Circuit arrangements not adapted to a particular
+application of the tube and not otherwise provided
+   37/241   . . . {High voltage power supply or regulation
+circuits (components H01J 37/248)}
+   37/242   . . . {Filament heating power supply or regulation
+circuits (H01J 37/241 takes precedence)}
+   37/243   . . . {Beam current control or regulation circuits
+(H01J 37/241 takes precedence)}
+   37/244   . . Detectors; Associated components or circuits
+   37/248   . . Components associated with high voltage supply
+{(means for measuring the high voltage per se
+   37/252   . Tubes for spot-analysing by electron or ion beams;
+   37/256   . . using scanning beams
+   37/26    . Electron or ion microscopes; Electron or ion
+   37/263   . . . {Contrast, resolution or power of penetration}
+   37/265   . . . {Controlling the tube; circuit arrangements
+adapted to a particular application not
+otherwise provided, e.g. bright-field-dark-field
+   37/266   . . {Measurement of magnetic- or electric fields
+in the object; Lorentzmicroscopy (emission
+microscopes H01J 37/285; reflecting microscopes
+H01J 37/29; spot analysing H01J 37/252)}
+   37/268   . . . {with scanning beams}
+   37/27    . . Shadow microscopy
+   37/28    . . with scanning beams {(H01J 37/268,
+H01J 37/292, H01J 37/2955 take precedence)}
+   37/285   . . Emission microscopes, e.g. field-emission
+   37/29    . . Reflection microscopes
+   37/292   . . . {using scanning ray}
+   37/295   . . Electron or ion diffraction tubes
+   37/2955  . . . {using scanning ray}
+   37/30    . Electron-beam or ion-beam tubes for localised
+   37/3005  . . . {Observing the objects or the point of impact
+   37/3007  . . . {Electron or ion-optical systems (electron or
+ion-optical details H01J 37/06 - H01J 37/153)}
+   37/301   . . Arrangements enabling beams to pass between
+   37/302   . . Controlling tubes by external information,
+e.g. programme control (H01J 37/304 takes
+   37/3023  . . . {Programme control}
+   37/3026  . . . . {Patterning strategy}
+   37/304   . . Controlling tubes by information coming from
+the objects {or from the beam}, e.g. correction
+   37/3045  . . . {Object or beam position registration}
+   37/305   . . for casting, melting, evaporating or etching
+{(methods for casting or melting of metals with
+electron beam or gas discharges C22B 9/22)}
+   37/3053  . . . {for evaporating or etching}
+   37/3056  . . . . {for microworking, e.g. etching of gratings,
+trimming of electrical components (trimming
+   37/31    . . for cutting or drilling {(methods for cutting or
+drilling metals with electron beams B23K 15/00)}
+   37/315   . . for welding {(methods for welding metals with
+   37/317   . . for changing properties of the objects or for
+applying thin layers thereon, e.g. for ion
+implantation (H01J 37/36 takes precedence)
+   37/3171  . . . {for ion implantation (plasma immersion ion
+   37/3172  . . . . {Maskless patterned ion implantation}
+   37/3174  . . . {Particle-beam lithography, e.g. electron beam
+   37/3175  . . . . {Projection methods, i.e. transfer
+substantially complete pattern to substrate}
+   37/3177  . . . . {Multi-beam, e.g. fly's eye, comb probe}
+   37/3178  . . . {for applying thin layers on objects}
+   37/32    . Gas-filled discharge tubes (heating by discharge
+   37/32009 . . {Arrangements for generation of plasma specially
+adapted for examination or treatment of objects,
+e.g. plasma sources (plasma generation in general
+   37/32018 . . . {Glow discharge}
+   37/32027 . . . . {DC powered}
+   37/32036 . . . . {AC powered}
+   37/32045 . . . . {Circuits specially adapted for controlling
+   37/32055 . . . {Arc discharge}
+   37/32064 . . . . {Circuits specially adapted for controlling
+the arc discharge (for plasma torches
+   37/32073 . . . {Corona discharge}
+   37/32082 . . . {Radio frequency generated discharge
+H01J 37/32394 and H01J 37/32403 take
+   37/32091 . . . . {the radio frequency energy being
+capacitively coupled to the plasma}
+   37/321   . . . . {the radio frequency energy being
+inductively coupled to the plasma}
+   37/3211  . . . . . {Antennas, e.g. particular shapes of coils}
+   37/32119 . . . . . {Windows}
+   37/32128 . . . . {using particular waveforms, e.g. polarised
+   37/32137 . . . . {controlling of the discharge by modulation
+   37/32146 . . . . . {Amplitude modulation, includes pulsing}
+   37/32155 . . . . . {Frequency modulation}
+   37/32165 . . . . . . {Plural frequencies}
+   37/32174 . . . . {Circuits specially adapted for controlling
+   37/32183 . . . . . {Matching circuits}
+   37/32192 . . . {Microwave generated discharge
+H01J 37/32394, H01J 37/32403 take
+   37/32201 . . . . {Generating means}
+   37/32211 . . . . {Means for coupling power to the plasma}
+   37/3222  . . . . . {Antennas}
+   37/32229 . . . . . {Waveguides}
+   37/32238 . . . . . {Windows}
+   37/32247 . . . . . {Resonators}
+   37/32256 . . . . . . {Tuning means}
+   37/32266 . . . . {Means for controlling power transmitted to
+   37/32275 . . . . . {Microwave reflectors}
+   37/32284 . . . . . {Means for controlling or selecting
+   37/32293 . . . . {using particular waveforms, e.g. polarised
+   37/32302 . . . . {Plural frequencies}
+   37/32311 . . . . {Circuits specially adapted for controlling
+   37/32321 . . . {Discharge generated by other radiation
+H01J 37/32348 take precedence)}
+   37/3233  . . . . {using charged particles}
+   37/32339 . . . . {using electromagnetic radiation}
+   37/32348 . . . {Dielectric barrier discharge}
+   37/32357 . . . {Generation remote from the workpiece, e.g.
+   37/32366 . . . {Localised processing}
+   37/32376 . . . . {Scanning across large workpieces}
+   37/32385 . . . . {Treating the edge of the workpieces}
+   37/32394 . . . {Treating interior parts of workpieces}
+   37/32403 . . . {Treating multiple sides of workpieces, e.g. 3D
+   37/32412 . . . {Plasma immersion ion implantation}
+   37/32422 . . . {Arrangement for selecting ions or species in
+   37/32431 . . {Constructional details of the reactor}
+   37/3244  . . . {Gas supply means}
+   37/32449 . . . . {Gas control, e.g. control of the gas flow}
+   37/32477 . . . . {characterised by the means for protecting
+vessels or internal parts, e.g. coatings}
+   37/32486 . . . . . {Means for reducing recombination
+   37/32495 . . . . . {Means for protecting the vessel against
+   37/32504 . . . . . {Means for preventing sputtering of the
+   37/32513 . . . . {Sealing means, e.g. sealing between
+   37/32522 . . . . {Temperature}
+   37/32559 . . . . {Protection means, e.g. coatings}
+   37/32568 . . . . {Relative arrangement or disposition of
+   37/32577 . . . . {Electrical connecting means}
+   37/32587 . . . . {Triode systems}
+   37/32596 . . . . {Hollow cathodes}
+   37/32605 . . . . {Removable or replaceable electrodes or
+   37/32614 . . . . {Consumable cathodes for arc discharge}
+   37/32623 . . . {Mechanical discharge control means}
+   37/32642 . . . . {Focus rings}
+   37/32651 . . . . {Shields, e.g. dark space shields, Faraday
+   37/3266  . . . {Magnetic control means}
+   37/32669 . . . . {Particular magnets or magnet arrangements
+   37/32678 . . . . {Electron cyclotron resonance}
+   37/32688 . . . . {Multi-cusp fields}
+   37/32697 . . . {Electrostatic control}
+   37/32706 . . . . {Polarising the substrate}
+   37/32715 . . . {Workpiece holder}
+   37/32724 . . . . {Temperature}
+   37/32733 . . . {Means for moving the material to be treated}
+   37/32743 . . . . {for introducing the material into processing
+   37/32752 . . . . {for moving the material across the
+   37/32761 . . . . . {Continuous moving}
+   37/3277  . . . . . . {of continuous material}
+   37/32779 . . . . . . {of batches of workpieces}
+   37/32788 . . . . {for extracting the material from the process
+   37/32798 . . . {Further details of plasma apparatus
+H01J 37/3244 - H01J 37/32788; special
+provisions for cleaning or maintenance of the
+   37/32807 . . . . {Construction (includes replacing parts of
+   37/32825 . . . . . {Working under atmospheric pressure or
+   37/32834 . . . . . {Exhausting}
+   37/32844 . . . . . . {Treating effluent gases}
+   37/32862 . . . . . {In situ cleaning of vessels and/or internal
+   37/32871 . . . . . {Means for trapping or directing unwanted
+   37/3288  . . . . {Maintenance}
+   37/32889 . . . . {Connection or combination with other
+   37/32899 . . . . {Multiple chambers, e.g. cluster tools}
+   37/32908 . . . . {Utilities}
+   37/32917 . . {Plasma diagnostics}
+   37/32926 . . . {Software, data control or modelling}
+   37/32935 . . . {Monitoring and controlling tubes by
+information coming from the object and/or
+   37/32944 . . . . {Arc detection}
+   37/32954 . . . . {Electron temperature measurement}
+   37/32963 . . . . {End-point detection}
+   37/32972 . . . . {Spectral analysis}
+   37/32981 . . . . {Gas analysis}
+   37/3299  . . . {Feedback systems}
+   37/34    . . operating with cathodic sputtering (H01J 37/36
+takes precedence {; methods of cathodic
+   37/3402  . . . {using supplementary magnetic fields}
+   37/3405  . . . . {Magnetron sputtering}
+   37/3408  . . . . . {Planar magnetron sputtering}
+   37/3411  . . . {Constructional aspects of the reactor}
+   37/3417  . . . . . {Arrangements}
+   37/342   . . . . . {Hollow targets}
+   37/3426  . . . . . {Material}
+   37/3429  . . . . . . {Plural materials}
+   37/3432  . . . . . {Target-material dispenser}
+   37/3435  . . . . {Target holders (includes backing plates and
+   37/3438  . . . . {Electrodes other than cathode}
+   37/3441  . . . . {Dark space shields}
+   37/3444  . . . . {Associated circuits}
+   37/3447  . . . . {Collimators, shutters, apertures}
+   37/345   . . . . {Magnet arrangements in particular for
+cathodic sputtering apparatus (material of
+magnets or magnets in general H01F 1/00,
+   37/3452  . . . . . {Magnet distribution}
+   37/3455  . . . . . {Movable magnets}
+   37/3458  . . . . . {Electromagnets in particular for cathodic
+sputtering apparatus (electromagnets in
+   37/3461  . . . . {Means for shaping the magnetic field, e.g.
+   37/3464  . . . {Operating strategies}
+   37/3467  . . . . {Pulsed operation, e.g. HIPIMS}
+   37/347   . . . . {Thickness uniformity of coated layers or
+desired profile of target erosion}
+   37/3473  . . . . {Composition uniformity or desired
+   37/3476  . . . {Testing and control}
+   37/3479  . . . . {Detecting exhaustion of target material}
+   37/3482  . . . . {Detecting or avoiding eroding through}
+   37/3485  . . . . {Means for avoiding target poisoning}
+   37/3488  . . . {Constructional details of particle beam
+apparatus not otherwise provided for, e.g.
+arrangement, mounting, housing, environment;
+special provisions for cleaning or maintenance
+   37/3491  . . . . {Manufacturing of targets}
+   37/3494  . . . . {Adaptation to extreme pressure conditions}
+   37/3497  . . . . {Temperature of target}
+   37/36    . . for cleaning surfaces while plating with ions
+of materials introduced into the discharge, e.g.
+introduced by evaporation {(condensing of
+electrically charged vapour onto a surface for
+covering materials with metals C23C 14/32)}
+   40/00    Photoelectric discharge tubes not involving the
+ionisation of a gas (H01J 49/00 takes precedence)
+   40/06    . . . Photo-emissive cathodes
+   40/08    . . Magnetic means for controlling discharge
+   40/10    . . Selection of substances for gas fillings
+   40/12    . . One or more circuit elements structurally
+   40/14    . . Circuit arrangements not adapted to a particular
+application of the tube and not otherwise provided
+   40/16    . having photo- emissive cathode, e.g. alkaline
+photoelectric cell (operating with secondary
+   40/18    . . with luminescent coatings for influencing the
+sensitivity of the tube, e.g. by converting the input
+   40/20    . . wherein a light-ray scans a photo-emissive screen
+   41/00    Discharge tubes for measuring pressure of
+introduced gas {or for detecting presence of gas};
+Discharge tubes for evacuation by diffusion of ions
+   41/02    . Discharge tubes for measuring pressure of
+introduced gas {or for detecting presence of gas}
+   41/04    . . with ionisation by means of thermionic cathodes
+   41/06    . . with ionisation by means of cold cathodes
+   41/08    . . with ionisation by means of radioactive
+   41/10    . . of particle spectrometer type (particle
+spectrometers per se H01J 49/00)
+   41/12    . Discharge tubes for evacuating by diffusion of ions,
+e.g. ion pumps, getter ion pumps
+   41/14    . . with ionisation by means of thermionic cathodes
+   41/16    . . . using gettering substances
+   41/18    . . with ionisation by means of cold cathodes
+   41/20    . . . using gettering substances
+   43/00    Secondary-emission tubes; Electron-multiplier
+tubes (dynamic electron-multiplier tubes H01J 25/76)
+   43/02    . Tubes in which one or a few electrodes are
+secondary-electron emitting electrodes
+   43/025   . . {Circuits therefor}
+   43/04    . Electron multipliers {(if forming part of electron
+   43/045   . . {Position sensitive electron multipliers}
+   43/06    . . Electrode arrangements
+   43/08    . . . Cathode arrangements (construction of photo
+cathodes H01J 40/06, H01J 40/16, H01J 47/00,
+   43/10    . . . Dynodes (H01J 43/24, H01J 43/26 take
+   43/12    . . . Anode arrangements
+   43/14    . . . Control of electron beam by magnetic field
+   43/16    . . . Electrode arrangements using essentially one
+   43/18    . . . Electrode arrangements using essentially more
+   43/20    . . . . Dynodes consisting of sheet material, e.g.
+   43/22    . . . . Dynodes consisting of electron-permeable
+material, e.g. foil, grid, tube, venetian blind
+   43/24    . . . . Dynodes having potential gradient along
+   43/243   . . . . . {Dynodes consisting of a piling-up of
+   43/246   . . . . . {Microchannel plates [MCP] (image
+   43/26    . . . . Box dynodes
+   43/28    . . Vessels {, e.g. wall of the tube}; Windows;
+Screens; Suppressing undesired discharges or
+   43/30    . . Circuit arrangements not adapted to a particular
+application of the tube and not otherwise provided
+   45/00    Discharge tubes functioning as thermionic
+generators {(structural combination of fuel element
+with thermoelectric element G21C 3/40; nuclear
+power plants using thermionic converters G21D 7/04;
+structural combination of a radioactive source
+with a thermionic converter, e.g. radioisotope
+batteries G21H 1/10; generators in which thermal
+or kinetic energy is converted into electrical energy
+by ionisation of a fluid and removal of the charge
+   47/00    Tubes for determining the presence, intensity,
+density or energy of radiation or particles
+({discharge tubes using igniting by associated
+radioactive materials or fillings, e.g. current
+stabilising tubes H01J 17/32} ; photoelectric
+discharge tubes not involving the ionisation of a gas
+H01J 40/00 {; discharge tubes for measuring the
+pressure, partial pressure of introduced gas or for
+detecting presence of gas H01J 41/02; ionisation
+chambers using a solid dielectric G01T 3/008})
+   47/002   . . {Vessels or containers}
+   47/003   . . . {using tissue-equivalent materials}
+   47/004   . . . {Windows permeable to X-rays, gamma-rays,
+or particles (windows for discharge tubes with
+provision for emergence of electrons or ions
+from the vessel H01J 33/04; windows for X-ray
+   47/005   . . {Gas fillings (H01J 47/12 takes precedence);
+Maintaining the desired pressure within the tube}
+   47/006   . . . {Tissue equivalent gas fillings}
+   47/007   . {Flash detectors}
+   47/008   . {Drift detectors}
+   47/02    . Ionisation chambers
+   47/022   . . {Calibration thereof}
+   47/024   . . {Well-type ionisation chambers}
+   47/026   . . {Gas flow ionisation chambers}
+   47/028   . . {using a liquid dielectric}
+   47/04    . . Capacitive ionisation chambers, e.g. the
+electrodes of which are used as electrometers
+   47/06    . Proportional counter tubes
+   47/062   . . {Multiwire proportional counter tubes}
+   47/065   . . {Well-type proportional counter tubes}
+   47/067   . . {Gas flow proportional counter tubes}
+   47/08    . Geiger-Müller counter tubes {(gas filling with very
+short deionisation times H01J 17/64, H01T)}
+   47/10    . Spark counters (H01J 47/14 takes precedence; spark
+   47/12    . Neutron detector tubes, e.g. BF3 tubes
+   47/1205  . . {using nuclear reactions of the type (n, alpha)
+in solid materials, e.g. Boron-10 (n,alpha)
+Lithium-7, Lithium-6 (n, alpha)Hydrogen-3}
+   47/1211  . . . {Ionisation chambers}
+   47/1216  . . . . {Gamma compensated}
+   47/1222  . . . {Proportional counters}
+   47/1227  . . {Fission detectors}
+   47/1233  . . . {Ionisation chambers}
+   47/1244  . . . . {Multiwire counters}
+   47/125   . . {Helium ionisation detectors}
+   47/1255  . . . {Ionisation chambers}
+   47/1266  . . . . {Multi-wire counters}
+   47/1277  . . {Light-nuclei-recoil ionisation detectors, e.g.
+using protons, alpha-particles}
+   47/1283  . . . {Ionisation chambers}
+   47/1294  . . . . {Multi-wire counters}
+   47/14    . Parallel electrode spark or streamer chambers; Wire
+spark or streamer chambers {(circuit arrangements
+with multi-wire or parallel-plate chambers for
+recording of movements or tracks of particles
+   47/16    . . characterised by readout of each individual wire
+   47/18    . . . the readout being electrical (H01J 47/20 takes
+   47/20    . . . the readout employing electrical or mechanical
+delay lines, e.g. magnetostrictive delay lines
+   47/22    . . characterised by another type of readout
+   47/24    . . . the readout being acoustical
+   47/26    . . . the readout being optical
+   49/00    Particle spectrometers or separator tubes
+In classifying particle separators, no distinction is
+made between spectrometry and spectrography, the
+difference being only in the manner of detection
+which in the first case is electrical and in the
+second case is by means of a photographic film.
+   49/0004  . {Imaging particle spectrometry}
+   49/0009  . {Calibration of the apparatus}
+   49/0013  . {Miniaturised spectrometers, e.g. having
+smaller than usual scale, integrated conventional
+   49/0018  . . {Microminiaturised spectrometers, e.g. chip-
+integrated devices, MicroElectro-Mechanical
+   49/0022  . {Portable spectrometers, e.g. devices comprising
+independent power supply, constructional details
+relating to portability (small scale devices per se
+H01J 49/0013 and H01J 49/0018)}
+   49/0027  . {Methods for using particle spectrometers}
+   49/0031  . . {Step by step routines describing the use of the
+apparatus (H01J 49/0081 takes precedence)}
+   49/0036  . . {Step by step routines describing the handling of
+the data generated during a measurement}
+   49/004   . {Combinations of spectrometers, tandem
+spectrometers, e.g. MS/MS, MSn}
+   49/0045  . . {characterised by the fragmentation or other
+   49/005   . . . {by collision with gas, e.g. by introducing gas
+or by accelerating ions with an electric field}
+   49/0054  . . . {by an electron beam, e.g. electron impact
+dissociation, electron capture dissociation}
+   49/0059  . . . {by a photon beam, photo-dissociation}
+   49/0063  . . . {by applying a resonant excitation voltage}
+   49/0068  . . . {by collision with a surface, e.g. surface
+   49/0072  . . . {by ion/ion reaction, e.g. electron transfer
+dissociation, proton transfer dissociation}
+   49/0077  . . . {specific reactions other than fragmentation}
+   49/0081  . . {Tandem in time, i.e. using a single
+   49/0086  . . {Accelerator mass spectrometers}
+   49/009   . . {Spectrometers having multiple channels, parallel
+   49/0095  . {Particular arrangements for generating, introducing
+or analyzing both positive and negative analyte ions
+(ion/ion reactions H01J 49/0072)}
+   49/022   . . {Circuit arrangements, e.g. for generating
+deviation currents or voltages (regulating electric
+or magnetic variables in general, e.g. current,
+magnetic field G05F); Components associated
+with high voltage supply (high voltage supply per
+   49/025   . . {Detectors specially adapted to particle
+spectrometers (data acquisition H01J 49/0036;
+detectors per se G01T, e.g. G01T 1/28,
+   49/027   . . . {detecting image current induced by the
+movement of charged particles (H01J 49/38
+   49/04    . . Arrangements for introducing or extracting
+samples to be analysed, e.g. vacuum locks;
+Arrangements for external adjustment of electron-
+   49/0404  . . . {Capillaries used for transferring samples or
+ions (electrospray nozzles H01J 49/167)}
+   49/0409  . . . {Sample holders or containers (containers for
+retaining a material to be analyzed, B01L 3/50,
+for DNA, C12Q 1/6834, for biological
+   49/0413  . . . . {for automated handling}
+   49/0418  . . . . {for laser desorption, e.g. matrix-assisted
+laser desorption/ionisation [MALDI] plates
+or surface enhanced laser desorption/
+   49/0422  . . . {for gaseous samples (interfaces to gas
+   49/0427  . . . . {using a membrane permeable to gases}
+   49/0431  . . . {for liquid samples (interfaces to liquid
+   49/0436  . . . . {using a membrane permeable to liquids}
+   49/044   . . . . {with means for preventing droplets from
+entering the analyzer; Desolvation of
+   49/0445  . . . . {with means for introducing as a spray, a
+jet or an aerosol (electrospray ion sources
+   49/045   . . . . . {with means for using a nebulising gas, i.e.
+   49/0454  . . . . {with means for vaporising using mechanical
+energy, e.g. by ultrasonic vibrations}
+   49/0459  . . . {for solid samples}
+   49/0463  . . . . {Desorption by laser or particle beam,
+followed by ionisation as a separate step
+(sample holder per se H01J 49/0418)}
+   49/0468  . . . {with means for heating or cooling the sample}
+   49/0472  . . . . {with means for pyrolysis}
+   49/0477  . . . . {using a hot fluid}
+   49/0481  . . . . {with means for collisional cooling}
+   49/0486  . . . . {with means for monitoring the sample
+   49/049   . . . . {with means for applying heat to desorb the
+   49/0495  . . . {Vacuum locks; Valves (valves per se F16K)}
+   49/06    . . Electron- or ion-optical arrangements
+   49/061   . . . {Ion deflecting means, e.g. ion gates}
+   49/062   . . . {Ion guides (linear ion traps performing
+mass selection H01J 49/4225, mass filters
+   49/063   . . . . {Multipole ion guides, e.g. quadrupoles,
+   49/065   . . . . {having stacked electrodes, e.g. ring stack,
+   49/066   . . . . . {Ion funnels}
+   49/067   . . . {Ion lenses, apertures, skimmers}
+   49/068   . . . {Mounting, supporting, spacing, or insulating
+   49/08    . . Electron sources, e.g. for generating photo-
+electrons, secondary electrons or Auger electrons
+   49/10    . . Ion sources; Ion guns
+   49/102   . . . {using reflex discharge, e.g. Penning ion
+   49/105   . . . {using high-frequency excitation, e.g.
+microwave excitation, Inductively Coupled
+   49/107   . . . {Arrangements for using several ion sources}
+   49/12    . . . using an arc discharge, e.g. of the
+   49/123   . . . . {Duoplasmatrons}
+   49/126   . . . . {Other arc discharge ion sources using an
+   49/14    . . . using particle bombardment, e.g. ionisation
+   49/142   . . . . {using a solid target which is not previously
+   49/145   . . . . {using chemical ionisation}
+   49/147   . . . . {with electrons, e.g. electron impact
+ionisation, electron attachment (H01J 49/145
+   49/16    . . . using surface ionisation, e.g. field-, thermionic-
+   49/161   . . . . {using photoionisation, e.g. by laser}
+   49/162   . . . . . {Direct photo-ionisation, e.g. single
+photon or multi-photon ionisation}
+   49/164   . . . . . {Laser desorption/ionisation, e.g. matrix-
+assisted laser desorption/ionisation
+[MALDI] (sample holders H01J 49/0418)}
+   49/165   . . . . {Electrospray ionisation}
+   49/167   . . . . . {Capillaries and nozzles specially adapted
+therefor; (electrostatic spraying per se
+   49/168   . . . . {field ionisation, e.g. corona discharge
+(atmospheric pressure corona discharge per
+   49/18    . . . using spark ionisation
+   49/20    . . Magnetic deflection
+   49/22    . . Electrostatic deflection
+   49/24    . . Vacuum systems, e.g. maintaining desired
+   49/26    . Mass spectrometers or separator tubes
+   49/28    . . Static spectrometers
+   49/282   . . . {using electrostatic analysers}
+   49/284   . . . {using electrostatic and magnetic sectors with
+simple focusing, e.g. with parallel fields such
+   49/286   . . . . {with energy analysis, e.g. Castaing filter
+(in cathode-ray or electron-beam tubes
+H01J 29/84; electron- or ion-optical
+arrangements for separating electrons or
+ions from an analysing or processing beam
+H01J 37/05; micro- or spot-analysing tubes
+   49/288   . . . . . {using crossed electric and magnetic fields
+perpendicular to the beam, e.g. Wien
+   49/30    . . . using magnetic analysers {, e.g. Dempster
+   49/305   . . . . {with several sectors in tandem}
+   49/32    . . . using double focusing
+   49/322   . . . . {with a magnetic sector of 90 degrees, e.g.
+   49/324   . . . . {with an electrostatic section of 90 degrees,
+   49/326   . . . . {with magnetic and electrostatic sectors of
+   49/328   . . . . {with a cycloidal trajectory by using crossed
+electric and magnetic fields, e.g. trochoidal
+   49/34    . . Dynamic spectrometers
+   49/36    . . . Radio frequency spectrometers, e.g.
+Bennett-type spectrometers, Redhead-type
+   49/38    . . . . Omegatrons {; using ion cyclotron
+   49/40    . . . Time-of-flight spectrometers (H01J 49/36 takes
+   49/401   . . . . {characterised by orthogonal acceleration,
+e.g. focusing or selecting the ions, pusher
+   49/403   . . . . {characterised by the acceleration optics and/
+   49/405   . . . . {characterised by the reflectron, e.g. curved
+   49/406   . . . . {with multiple reflections}
+   49/408   . . . . {with multiple changes of direction, e.g. by
+using electric or magnetic sectors, closed-
+   49/42    . . . Stability-of-path spectrometers, e.g. monopole,
+quadrupole, multipole, farvitrons
+   49/4205  . . . . {Device types}
+   49/421   . . . . . {Mass filters, i.e. deviating unwanted ions
+   49/4215  . . . . . . {Quadrupole mass filters (H01J 49/4225
+   49/422   . . . . . {Two-dimensional RF ion traps
+(ion guides without mass selection
+   49/4225  . . . . . . {Multipole linear ion traps, e.g.
+   49/423   . . . . . . {with radial ejection}
+   49/4235  . . . . . . {Stacked rings or stacked plates}
+   49/424   . . . . . {Three-dimensional ion traps, i.e.
+comprising end-cap and ring electrodes}
+   49/4245  . . . . . {Electrostatic ion traps (H01J 49/422 takes
+   49/425   . . . . . . {with a logarithmic radial electric
+   49/4255  . . . . . {with particular constructional features}
+   49/426   . . . . {Methods for controlling ions}
+   49/4265  . . . . . {Controlling the number of trapped ions;
+preventing space charge effects}
+   49/427   . . . . . {Ejection and selection methods}
+   49/4275  . . . . . . {Applying a non-resonant auxiliary
+oscillating voltage, e.g. parametric
+   49/428   . . . . . . {Applying a notched broadband signal}
+   49/4285  . . . . . . {Applying a resonant signal, e.g.
+selective resonant ejection matching the
+secular frequency of ions (H01J 49/429,
+   49/429   . . . . . . {Scanning an electric parameter, e.g.
+voltage amplitude or frequency}
+   49/4295  . . . . . {Storage methods}
+   49/44    . Energy spectrometers, e.g. alpha-, beta-
+   49/443   . . {Dynamic spectrometers}
+   49/446   . . . {Time-of-flight spectrometers}
+   49/46    . . Static spectrometers
+   49/463   . . . {using static magnetic fields}
+   49/466   . . . {using crossed electric and magnetic fields
+perpendicular to the beam, e.g. Wien filter (see
+   49/48    . . . using electrostatic analysers, e.g. cylindrical
+   49/482   . . . . {with cylindrical mirrors}
+   49/484   . . . . {with spherical mirrors}
+   49/486   . . . . {with plane mirrors, i.e. uniform field}
+   49/488   . . . . {with retarding grids}
+   61/00    Gas-discharge or vapour-discharge lamps
+(arc lamps with consumable electrodes H05B;
+   61/025   . . {Associated optical elements}
+   61/04    . . Electrodes (for igniting H01J 61/54); Screens;
+   61/045   . . . {Thermic screens or reflectors (heat-reflecting
+coatings on the wall of the vessel H01J 61/35)}
+   61/06    . . . Main electrodes
+   61/067   . . . . for low-pressure discharge lamps
+   61/0672  . . . . . {characterised by the construction of the
+   61/0675  . . . . . {characterised by the material of the
+   61/0677  . . . . . . {characterised by the electron emissive
+   61/073   . . . . for high-pressure discharge lamps
+   61/0732  . . . . . {characterised by the construction of the
+   61/0735  . . . . . {characterised by the material of the
+   61/0737  . . . . . . {characterised by the electron emissive
+   61/09    . . . . Hollow cathodes
+   61/10    . . . Shields, screens, or guides for influencing the
+   61/103   . . . . {Shields, screens or guides arranged to
+extend the discharge path (H01J 61/106 takes
+   61/106   . . . . {using magnetic means}
+   61/12    . . Selection of substances for gas fillings; Specified
+operating pressure or temperature
+   61/125   . . . {having an halogenide as principal component}
+   61/14    . . . having one or more carbon compounds as the
+   61/16    . . . having helium, argon, neon, krypton, or xenon
+   61/18    . . . having a metallic vapour as the principal
+   61/20    . . . . mercury vapour
+   61/22    . . . . vapour of an alkali metal
+   61/24    . . Means for obtaining or maintaining the desired
+   61/26    . . . Means for absorbing or adsorbing gas, e.g. by
+gettering; Means for preventing blackening of
+   61/28    . . . Means for producing, introducing, or
+replenishing gas or vapour during operation of
+   61/30    . . Vessels; Containers
+   61/302   . . . {characterised by the material of the vessel}
+   61/305   . . . {Flat vessels or containers}
+   61/307   . . . . {with folded elongated discharge path}
+   61/32    . . . Special longitudinal shape, e.g. for advertising
+purposes {(H01J 61/305 takes precedence)}
+   61/322   . . . . {Circular lamps}
+   61/325   . . . . {U-shaped lamps}
+   61/327   . . . . {"Compact"-lamps, i.e. lamps having a
+   61/33    . . . Special shape of cross-section, e.g. for
+   61/34    . . . Double-wall vessels or containers
+   61/35    . . . provided with coatings on the walls thereof;
+Selection of materials for the coatings
+(using coloured coatings H01J 61/40; using
+luminescent coatings H01J 61/42)
+   61/36    . . Seals between parts of vessels; Seals for leading-
+in conductors; Leading-in conductors
+   61/361   . . . {Seals between parts of vessel}
+   61/363   . . . . {End-disc seals or plug seals}
+   61/365   . . . . {Annular seals disposed between the ends of
+the vessel (H01J 61/363 takes precedence)}
+   61/366   . . . {Seals for leading-in conductors}
+   61/368   . . . . {Pinched seals or analogous seals}
+   61/38    . . Devices for influencing the colour or wavelength
+   61/40    . . . by light filters; by coloured coatings in or on
+   61/42    . . . by transforming the wavelength of the light by
+   61/44    . . . . Devices characterised by the luminescent
+   61/46    . . . . Devices characterised by the binder or
+other non-luminescent constituent of the
+luminescent material, e.g. for obtaining
+desired pouring or drying properties
+   61/48    . . . . Separate coatings of different luminous
+   61/50    . . Auxiliary parts or solid material within the
+envelope for reducing risk of explosion upon
+breakage of the envelope, e.g. for use in mines
+   61/52    . . Cooling arrangements; Heating arrangements;
+Means for circulating gas or vapour within
+the discharge space {(heating or cooling
+arrangements to promote ionisation for starting
+   61/523   . . . {Heating or cooling particular parts of the
+   61/526   . . . . {heating or cooling of electrodes}
+   61/54    . . Igniting arrangements, e.g. promoting ionisation
+   61/541   . . . {using a bimetal switch}
+   61/542   . . . . {and an auxiliary electrode inside the vessel}
+   61/544   . . . . {and an auxiliary electrode outside the
+   61/545   . . . {using an auxiliary electrode inside the vessel
+(H01J 61/542 takes precedence)}
+   61/547   . . . {using an auxiliary electrode outside the vessel
+(H01J 61/544 takes precedence)}
+   61/548   . . . {using radioactive means to promote
+   61/56    . . One or more circuit elements structurally
+   61/58    . Lamps with both liquid anode and liquid cathode
+   61/60    . Lamps in which the discharge space is substantially
+filled with mercury before ignition
+   61/62    . Lamps with gaseous cathode, e.g. plasma cathode
+   61/64    . Cathode glow lamps
+   61/66    . . having one or more specially shaped cathodes,
+e.g. for advertising purposes {alphanumeric}
+   61/68    . Lamps in which the main discharge is between parts
+of a current-carrying guide, e.g. halo lamp
+   61/70    . Lamps with low-pressure unconstricted discharge
+{having a cold pressure < 400 Torr}
+   61/72    . . having a main light-emitting filling of easily
+vaporisable metal vapour, e.g. mercury
+   61/74    . . having a main light-emitting filling of difficult
+vaporisable metal vapour, e.g. sodium
+   61/76    . . having a filling of permanent gas or gases only
+   61/78    . . . with cold cathode; with cathode heated only
+by discharge, e.g. high-tension lamp for
+   61/80    . . Lamps suitable only for intermittent operation,
+   61/82    . Lamps with high-pressure unconstricted discharge
+{having a cold pressure > 400 Torr}
+   61/822   . . {High-pressure mercury lamps}
+   61/825   . . {High-pressure sodium lamps}
+   61/827   . . {Metal halide arc lamps}
+   61/84    . Lamps with discharge constricted by high pressure
+   61/86    . . with discharge additionally constricted by close
+spacing of electrodes, e.g. for optical projection
+   61/88    . . with discharge additionally constricted by
+   61/90    . . Lamps suitable only for intermittent operation,
+   61/92    . Lamps with more than one main discharge path
+   61/94    . . Paths producing light of different wavelengths,
+   61/95    . Lamps with control electrode for varying intensity
+or wavelength of the light, e.g. for producing
+   61/96    . Lamps with light-emitting discharge path and
+separately-heated incandescent body within a
+common envelope, e.g. for simulating daylight
+   61/98    . Lamps with closely spaced electrodes heated to
+incandescence by light-emitting discharge, e.g.
+   63/00    Cathode-ray or electron-stream lamps
+   63/02    . Details, e.g. electrode, gas filling, shape of vessel
+   63/04    . . Vessels provided with luminescent coatings;
+Selection of materials for the coatings
+   63/06    . Lamps with luminescent screen excited by the ray
+   63/08    . Lamps with gas plasma excited by the ray or stream
+   65/00    Lamps without any electrode inside the vessel;
+Lamps with at least one main electrode outside the
+   65/04    . Lamps in which a gas filling is excited to luminesce
+by an external electromagnetic field or by external
+corpuscular radiation, e.g. for indicating {plasma
+   65/042   . . {by an external electromagnetic field}
+   65/044   . . . {the field being produced by a separate
+   65/046   . . . {the field being produced by using capacitive
+   65/048   . . . {the field being produced by using an
+   65/06    . Lamps in which a gas filling is excited to luminesce
+by radioactive material structurally associated with
+the lamp, e.g. inside the vessel
+   65/08    . Lamps in which a screen or coating is excited to
+luminesce by radioactive material located inside the
+vessel {(direct conversion of radiation energy from
+radioactive sources into light G21H 3/02)}
+   99/00    Subject matter not provided for in other groups of
+ 2201/00    Electrodes common to discharge tubes
+ 2201/02    . Arrangements for eliminating deleterious effects
+ 2201/19    . Thermionic cathodes
+ 2201/193   . . Thin film cathodes
+ 2201/196   . . Emission assisted by other physical processes,
+ 2201/28    . Heaters for thermionic cathodes
+ 2201/2803  . . Characterised by the shape or size
+ 2201/281   . . . Cage-like construction
+ 2201/2814  . . . . being a mesh-like network
+ 2201/2821  . . . Envelope or cross-section
+ 2201/2825  . . . . being oval or elliptic
+ 2201/2828  . . . . being rectangular or square
+ 2201/2832  . . . . being circular
+ 2201/2839  . . . . Hair-pin or simple bend
+ 2201/285   . . . Plurality of elements
+ 2201/2857  . . . . being coiled
+ 2201/286   . . . . being looped
+ 2201/2864  . . . Ribbon or bar
+ 2201/2867  . . . Spiral or helix
+ 2201/2871  . . . . being flattened
+ 2201/2875  . . . . being double, reverse helix or interwoven
+ 2201/2878  . . . Thin film or film-like
+ 2201/2882  . . . Variable winding density
+ 2201/2889  . . Characterised by material
+ 2201/2896  . . . Insulating layers
+ 2201/304   . . Field emission cathodes
+ 2201/30403 . . . characterised by the emitter shape
+ 2201/30407 . . . . Microengineered point emitters
+ 2201/30411 . . . . . conical shaped, e.g. Spindt type
+ 2201/30415 . . . . . needle shaped
+ 2201/30419 . . . . Pillar shaped emitters
+ 2201/30423 . . . . Microengineered edge emitters
+ 2201/30426 . . . . Coatings on the emitter surface, e.g. with low
+ 2201/30446 . . . characterised by the emitter material
+ 2201/30449 . . . . Metals and metal alloys
+ 2201/30453 . . . . Carbon types
+ 2201/30465 . . . . . Fullerenes
+ 2201/30469 . . . . . Carbon nanotubes (CNTs)
+ 2201/30473 . . . . . Amorphous carbon
+ 2201/30476 . . . . . Diamond-like carbon [DLC]
+ 2201/3048  . . . . Semiconductor materials
+ 2201/306   . . Ferroelectric cathodes
+ 2201/308   . . Semiconductor cathodes, e.g. having PN junction
+ 2201/312   . . having an electric field perpendicular to the
+ 2201/3125  . . . Metal-insulator-Metal [MIM] emission type
+ 2201/316   . . having an electric field parallel to the surface
+thereof, e.g. thin film cathodes
+ 2201/3165  . . . Surface conduction emission type cathodes
+ 2201/317   . . combined with other synergetic effects, e.g.
+secondary, photo- or thermal emission
+ 2201/319   . . Circuit elements associated with the emitters by
+ 2201/3195  . . . Resistive members, e.g. resistive layers
+ 2201/32    . Secondary emission electrodes
+ 2201/34    . Photoemissive electrodes
+ 2201/3421  . . . Composition of the emitting surface
+ 2201/3423  . . . . Semiconductors, e.g. GaAs, NEA emitters
+ 2201/3425  . . . . Metals, metal alloys
+ 2201/3426  . . . . Alkaline metal compounds, e.g. Na-K-Sb
+ 2201/3428  . . . . Organo-metallic compounds, e.g. Ferrocene
+ 2203/00    Electron or ion optical arrangements common to
+ 2203/0204  . . using cold cathodes, e.g. field emission cathodes
+ 2203/0208  . . . Control electrodes
+ 2203/0212  . . . . Gate electrodes
+ 2203/0216  . . . . . characterised by the form or structure
+ 2203/022   . . . . . . Shapes or dimensions of gate openings
+ 2203/0224  . . . . . . Arrangement of gate openings
+ 2203/0228  . . . . . . Curved/extending upwardly
+ 2203/0232  . . . . . characterised by the material
+ 2203/0236  . . . . . Relative position to the emitters, cathodes
+ 2203/024   . . . . Focusing electrodes
+ 2203/0244  . . . . . characterised by the form or structure
+ 2203/0248  . . . . . . Shapes or dimensions of focusing
+ 2203/0252  . . . . . . Arrangement of focusing electrode
+ 2203/0256  . . . . . characterised by the material
+ 2203/026   . . . . . Relative position to the gateelectrodes,
+emitters, cathodes or substrates
+ 2203/0264  . . . . . . In the same plane as the gate electrodes
+ 2203/0268  . . . Insulation layer
+ 2203/0272  . . . . for gate electrodes
+ 2203/0276  . . . . for focusing electrodes
+ 2203/028   . . . . characterised by the shape
+ 2203/0284  . . . . . Dimensions of openings
+ 2203/0288  . . . . characterised by the material
+ 2203/0292  . . . Potentials applied to the electrodes
+ 2203/0296  . . Spin-polarised beams
+ 2209/00    Apparatus and processes for manufacture of
+ 2209/01    . Generalised techniques
+ 2209/015   . . . Machines therefor
+ 2209/02    . Manufacture of cathodes
+ 2209/0223  . . . Field emission cathodes
+ 2209/0226  . . . . Sharpening or resharpening of emitting point
+ 2209/18    . Assembling together the component parts of the
+ 2209/185   . . Machines therefor, e.g. electron gun assembling
+ 2209/236   . Manufacture of magnetic deflecting devices
+ 2209/2366  . . . Machines therefor, e.g. winding, forming,
+ 2209/26    . Sealing parts of the vessel to provide a vacuum
+ 2209/261   . . Apparatus used for sealing vessels, e.g. furnaces,
+ 2209/262   . . . means for applying sealing materials, e.g. frit
+ 2209/264   . . Materials for sealing vessels, e.g. frit glass
+compounds, resins or structures
+ 2209/265   . . Surfaces for sealing vessels
+ 2209/267   . . . shaped surfaces or flanges
+ 2209/268   . . . treated surfaces and surface preparations, e.g.
+ 2209/38    . Control of maintenance of pressure in the vessel
+ 2209/3855  . . . Getter materials
+ 2209/3893  . . . by a discharge
+ 2209/46    . Handling of tube components during manufacture
+ 2209/463   . . Identifying or selecting component pieces
+ 2209/466   . . . Marking, e.g. bar-codes
+ 2211/00    Plasma display panels with alternate current
+induction of the discharge, e.g. AC-PDPs
+ 2211/10    . AC-PDPs with at least one main electrode being out
+ 2211/12    . . with main electrodes provided on both sides of
+ 2211/14    . . with main electrodes provided only on one side of
+ 2211/16    . . with main electrodes provided inside or on the
+ 2211/18    . . containing a plurality of independent closed
+structures for containing the gas, e.g. plasma tube
+ 2211/20    . Constructional details
+ 2211/225   . . . Material of electrodes
+ 2211/24    . . . Sustain electrodes or scan electrodes
+ 2211/245   . . . . Shape, e.g. cross section or pattern
+ 2211/26    . . . Address electrodes
+ 2211/265   . . . . Shape, e.g. cross section or pattern
+ 2211/28    . . . Auxiliary electrodes, e.g. priming electrodes or
+ 2211/30    . . . Floating electrodes
+ 2211/32    . . . Disposition of the electrodes
+ 2211/323   . . . . Mutual disposition of electrodes
+ 2211/326   . . . . Disposition of electrodes with respect
+to cell parameters (H01J 2211/323 takes
+precedence), e.g. electrodes within the ribs
+ 2211/34    . . Vessels, containers or parts thereof, e.g.
+ 2211/36    . . . Spacers, barriers, ribs, partitions or the like
+ 2211/361   . . . . characterized by the shape
+ 2211/363   . . . . . Cross section of the spacers
+ 2211/365   . . . . . Pattern of the spacers
+ 2211/366   . . . . characterized by the material
+ 2211/368   . . . . Dummy spacers, e.g. in a non display region
+ 2211/38    . . . Dielectric or insulating layers
+ 2211/40    . . . Layers for protecting or enhancing the electron
+ 2211/42    . . . Fluorescent layers
+ 2211/44    . . . Optical arrangements or shielding
+arrangements, e.g. filters or lenses
+ 2211/442   . . . . Light reflecting means; Anti-reflection
+ 2211/444   . . . . Means for improving contrast or colour
+purity, e.g. black matrix or light shielding
+ 2211/446   . . . . Electromagnetic shielding means; Antistatic
+ 2211/448   . . . . Near infrared shielding means
+ 2211/46    . . Connecting or feeding means, e.g. leading-in
+ 2211/48    . . Sealing, e.g. seals specially adapted for leading-in
+ 2211/50    . . Filling, e.g. selection of gas mixture
+ 2211/52    . . Means for absorbing or adsorbing the gas
+ 2211/54    . . Means for exhausting the gas
+ 2211/62    . . Circuit arrangements (circuits or methods for
+ 2211/66    . . Cooling arrangements (cooling or supporting
+means not being part of the tube H05K)
+ 2217/00    Gas-filled discharge tubes
+ 2217/04    . Electrodes (for display panels not making use of
+alternating current H01J 2217/492; for discharge
+ 2217/065   . . . heated by the discharge
+ 2217/067   . . . Cold cathodes
+ 2217/12    . . Control electrodes
+ 2217/38    . Cold-cathode tubes
+ 2217/40    . . Gas discharge switches
+ 2217/402   . . . Multiple switches
+ 2217/4025  . . . . for addressing electro-optical devices, i.e.
+ 2217/49    . . Display panels, e.g. not making use of alternating
+current (H01J 2211/10 takes precedence)
+ 2217/491   . . . characterised by problems peculiar to plasma
+ 2217/49221 . . . . . Mutual disposition
+ 2217/49228 . . . . . . Crossed electrodes
+ 2217/49235 . . . . . . Side-by-side electrodes
+ 2217/49242 . . . . . . Auxiliary electrodes
+ 2217/4925  . . . . . Mounting, supporting, spacing
+ 2217/49257 . . . . . Means for isolating electrodes from the
+discharge, e.g. dielectric layers
+ 2217/49271 . . . . . Spacers between front and back panels
+ 2217/49278 . . . . . Coatings (H01J 2217/49292 takes
+ 2217/49285 . . . . Associated optical means
+ 2217/498   . . . Hybrid panels (AC and DC)
+ 2223/00    Details of transit-time tubes of the types covered
+ 2223/005   . Cooling methods or arrangements
+ 2223/02    . Electrodes; Magnetic control means; Screens
+ 2223/0275  . . . Multistage collectors
+ 2223/033   . . . Collector cooling devices
+ 2223/05    . . . having a cylindrical emissive surface, e.g.
+ 2223/06    . . Electron or ion guns
+ 2223/065   . . . producing a solid cylindrical beam
+ 2223/07    . . . producing a hollow cylindrical beam
+ 2223/075   . . . Magnetron injection guns
+ 2223/08    . . Focusing arrangements, e.g. for concentrating
+stream of electrons, for preventing spreading of
+ 2223/083   . . . Electrostatic focusing arrangements
+ 2223/087   . . . Magnetic focusing arrangements
+ 2223/0873  . . . . with at least one axial- field reversal along
+the interaction space, e.g. P.P.M. focusing
+ 2223/0876  . . . . with arrangements improving the linearity
+and homogeniety of the axial field, e.g. field
+ 2223/09    . . Electric system for directing or deflecting the
+discharge along a desired path, e.g. E-type
+ 2223/10    . . Magnet systems for directing or deflecting the
+discharge along a desired path, e.g. a spiral path
+ 2223/11    . . Means for reducing noise
+ 2223/12    . Vessels; Containers
+ 2223/14    . Leading-in arrangements; Seals therefor
+ 2223/15    . . Means for preventing wave energy leakage
+structurally associated with tube leading-in
+arrangements, e.g. filters, chokes, attenuating
+ 2223/16    . Circuit elements, having distributed capacitance and
+inductance, structurally associated with the tube and
+ 2223/165   . . Manufacturing processes or apparatus therefore
+ 2223/20    . . . Cavity resonators; Adjustment or tuning thereof
+ 2223/207   . . . . Tuning of single resonator
+ 2223/213   . . . . Simultaneous tuning of more than one
+resonator, e.g. resonant cavities of a
+ 2223/22    . . . Connections between resonators, e.g. strapping
+for connecting resonators of a magnetron
+ 2223/24    . . Slow-wave structures, e.g. delay systems
+ 2223/26    . . . Helical slow-wave structures; Adjustment
+ 2223/27    . . . . Helix-derived slow-wave structures
+ 2223/28    . . . Interdigital slow-wave structures; Adjustment
+ 2223/30    . . . Damping arrangements associated with
+slow-wave structures, e.g. for suppression of
+ 2223/34    . Circuit arrangements not adapted to a particular
+application of the tube and not otherwise provided
+ 2223/36    . Coupling devices having distributed capacitance and
+inductance, structurally associated with the tube, for
+introducing or removing wave energy
+ 2223/38    . . to or from the discharge
+ 2223/40    . . to or from the interaction circuit
+ 2223/42    . . . the interaction circuit being a helix or a helix-
+ 2223/44    . . . Rod-type coupling devices
+ 2223/46    . . . Loop coupling devices
+ 2223/48    . . . for linking interaction circuit with coaxial lines;
+Devices of the coupled helices type
+ 2223/50    . . . . the interaction circuit being a helix or
+ 2223/52    . . . . the coupled helices being disposed coaxially
+ 2223/54    . . Filtering devices preventing unwanted
+frequencies or modes to be coupled to, or out
+of, the interaction circuit; Prevention of high
+frequency leakage in the environment
+ 2225/00    Transit-time tubes, e.g. Klystrons, travelling-wave
+ 2225/005   . Gas-filled transit-time tubes
+ 2225/02    . Tubes with electron stream modulated in velocity
+or density in a modulator zone and thereafter giving
+up energy in an inducing zone, the zones being
+associated with one or more resonators
+ 2225/025   . . with an electron stream following a helical path
+ 2225/04    . . Tubes having one or more resonators, without
+reflection of the electron stream, and in which the
+modulation produced in the modulator zone is
+mainly density modulation, e.g. Heaff tube
+ 2225/06    . . Tubes having only one resonator, without
+reflection of the electron stream, and in which the
+modulation produced in the modulator zone is
+mainly velocity modulation, e.g. Lüdi-Klystron
+ 2225/08    . . . with electron stream perpendicular to the axis
+ 2225/10    . . Klystrons, i.e. tubes having two or more
+resonators, without reflection of the electron
+stream, and in which the stream is modulated
+mainly by velocity in the zone of the input
+ 2225/11    . . . Extended interaction Klystrons
+ 2225/12    . . . with pencil-like electron stream in the axis of
+ 2225/14    . . . with tube-like electron stream coaxial with the
+ 2225/16    . . . with pencil-like electron stream perpendicular
+ 2225/18    . . . with radial or disc-like electron stream
+perpendicular to the axis of the resonators
+ 2225/20    . . . having special arrangements in the space
+between resonators, e.g. resistive-wall amplifier
+tube, space-charge amplifier tube, velocity-
+ 2225/22    . . Reflex Klystrons, i.e. tubes having one or more
+resonators, with a single reflection of the electron
+stream, and in which the stream is modulated
+mainly by velocity in the modulator zone
+ 2225/24    . . . in which the electron stream is in the axis of the
+resonator or resonators and is pencil-like before
+ 2225/26    . . . in which the electron stream is coaxial with the
+axis of the resonator or resonators and is tube-
+ 2225/28    . . . in which the electron stream is perpendicular
+to the axis of the resonator or resonators and is
+ 2225/30    . . . in which the electron stream is perpendicular
+to the axis of the resonator or resonators and is
+radial or disc-like before reflection
+ 2225/32    . . Tubes with plural reflection, e.g. Coeterier tube
+ 2225/34    . Travelling-wave tubes; Tubes in which a travelling
+wave is simulated at spaced gaps
+ 2225/36    . . Tubes in which an electron stream interacts with
+a wave travelling along a delay line or equivalent
+sequence of impedance elements, and without
+magnet system producing an H-field crossing the
+ 2225/38    . . . the forward travelling wave being utilised
+ 2225/40    . . . the backward travelling wave being utilised
+ 2225/42    . . Tubes in which an electron stream interacts with
+a wave travelling along a delay line or equivalent
+sequence of impedance elements, and with a
+magnet system producing an H-field crossing the
+ 2225/44    . . . the forward travelling wave being utilised
+ 2225/46    . . . the backward travelling wave being utilised
+ 2225/48    . . Tubes in which two electron streams of different
+velocities interact with one another, e.g. electron-
+ 2225/49    . . Tubes using the parametric principle, e.g. for
+ 2225/50    . Magnetrons, i.e. tubes with a magnet system
+producing an H-field crossing the E-field
+ 2225/52    . . with an electron space having a shape that does
+not prevent any electron from moving completely
+around the cathode or guide electrode
+ 2225/54    . . . having only one cavity or other resonator, e.g.
+ 2225/55    . . . . Coaxial cavity magnetrons
+ 2225/56    . . . . with interdigital arrangements of anodes, e.g.
+ 2225/58    . . . having a number of resonators; having a
+composite resonator, e.g. a helix
+ 2225/587   . . . . Multi-cavity magnetrons
+ 2225/593   . . . . . Rising-sun magnetrons
+ 2225/60    . . with an electron space having a shape that
+prevents any electron from moving completely
+around the cathode or guide electrode; Linear
+ 2225/61    . Hybrid tubes, i.e. tubes comprising a klystron
+section and a travelling-wave section
+ 2225/62    . Strophotrons, i.e. tubes with H-field crossing the E-
+field and functioning with plural reflection
+ 2225/64    . Turbine tubes, i.e. tubes with H-field crossing the E-
+field and functioning with reversed cyclotron action
+ 2225/66    . Tubes with electron stream crossing itself and
+thereby interacting or interfering with itself
+ 2225/68    . Tubes specially designed to act as oscillator
+with positive grid and retarding field, e.g. for
+ 2225/70    . . with resonator having distributed inductance with
+ 2225/72    . . in which a standing wave or a considerable
+part thereof is produced along an electrode, e.g.
+ 2225/74    . Tubes specially designed to act as transit-time diode
+ 2225/76    . Dynamic electron-multiplier tubes, e.g. Farnsworth
+ 2225/78    . Tubes with electron stream modulated by deflection
+ 2229/00    Details of cathode ray tubes or electron beam tubes
+(H01J 2329/00 takes precedence)
+ 2229/0007  . Elimination of unwanted or stray electromagnetic
+ 2229/0015  . . Preventing or cancelling fields leaving the
+ 2229/0023  . . . Passive means
+ 2229/003   . . Preventing or cancelling fields entering the
+ 2229/0046  . . Preventing or cancelling fields within the
+ 2229/0053  . . . Demagnetisation
+ 2229/0061  . Cooling arrangements
+ 2229/0069  . . Active means, e.g. fluid flow
+ 2229/0076  . . . applied to the faceplate
+ 2229/0084  . . . . Translucent coolant, e.g. flowing across
+ 2229/0092  . . Passive means, e.g. fins, heat conductors
+ 2229/0705  . . Mounting arrangement of assembly to vessel
+ 2229/0711  . . . Spring and plate (clip) type
+ 2229/0716  . . Mounting arrangements of aperture plate to frame
+ 2229/0733  . . . characterised by the material
+ 2229/0738  . . . Mitigating undesirable mechanical effects
+ 2229/075   . . . Beam passing apertures, e.g. geometrical
+ 2229/0755  . . . . characterised by aperture shape
+ 2229/0761  . . . . . Uniaxial masks having parallel slit
+ 2229/0766  . . . Details of skirt or border
+ 2229/0772  . . . . Apertures, cut-outs, depressions, or the like
+ 2229/0783  . . . . improving thermal radiation properties
+ 2229/0788  . . . Parameterised dimensions of aperture plate,
+e.g. relationships, polynomial expressions
+ 2229/0794  . . Geometrical arrangements, e.g. curvature
+ 2229/186   . . Geometrical arrangement of phosphors
+ 2229/4806  . . . Shield centering cups
+ 2229/481   . . . Focusing electrodes
+ 2229/4813  . . . . Pre-focusing
+ 2229/4817  . . . Accelerating electrodes
+ 2229/482   . . . Extraction grids
+ 2229/4824  . . Constructional arrangements of electrodes
+ 2229/4827  . . . Electrodes formed on surface of common
+ 2229/4831  . . . Electrode supports
+ 2229/4834  . . Electrical arrangements coupled to electrodes,
+ 2229/4837  . . . characterised by the potentials applied
+ 2229/4841  . . . . Dynamic potentials
+ 2229/4844  . . characterised by beam passing apertures or
+ 2229/4848  . . . Aperture shape as viewed along beam axis
+ 2229/4851  . . . . trapezoidal
+ 2229/4855  . . . . . with rounded end or ends
+ 2229/4858  . . . . parallelogram
+ 2229/4865  . . . . . rectangle
+ 2229/4868  . . . . . . with rounded end or ends
+ 2229/4879  . . . . non-symmetric about field scanning axis
+ 2229/4882  . . . . non-symmetric about line scanning axis
+ 2229/4889  . . . . . cross shaped
+ 2229/4893  . . . . Interconnected apertures
+ 2229/4896  . . . . complex and not provided for
+ 2229/50    . . Plurality of guns or beams
+ 2229/502   . . . Three beam guns, e.g. for colour CRTs
+ 2229/507   . . . Multi-beam groups, e.g. number of beams
+greater than number of cathodes
+ 2229/56    . Correction of beam optics
+ 2229/563   . . Aberrations by type
+ 2229/5637  . . . Colour purity
+ 2229/568   . . using supplementary correction devices
+ 2229/5682  . . . . Permanently magnetised materials, e.g.
+ 2229/5684  . . . . Magnetic materials, e.g. soft iron
+ 2229/5685  . . . . . Cross-arms field shaper
+ 2229/5687  . . . . Auxiliary coils
+ 2229/5688  . . . . . Velocity modulation
+ 2229/58    . Electron beam control inside the vessel
+ 2229/581   . . by magnetic means
+ 2229/582   . . by electrostatic means
+ 2229/5835  . . . cooperating with the electron gun
+ 2229/587   . . between the source and the screen
+ 2229/70    . Electron beam control outside the vessel
+ 2229/703   . . by magnetic fields
+ 2229/7031  . . . Cores for field producing elements, e.g. ferrite
+ 2229/7032  . . . Conductor design and distribution
+ 2229/7035  . . . . Wires and conductors
+ 2229/7036  . . . . . Form of conductor
+ 2229/7037  . . . . . . flat, e.g. foil, or ribbon type
+ 2229/7038  . . . Coil separators and formers
+ 2229/86    . Vessels and containers
+ 2229/8603  . . Neck or cone portions of the CRT vessel
+ 2229/8606  . . . characterised by the shape
+ 2229/8609  . . . . Non circular cross-sections
+ 2229/8616  . . . characterised by shape
+ 2229/862   . . . . Parameterised shape, e.g. expression,
+ 2229/863   . Passive shielding means associated with the vessel
+ 2229/8632  . . . characterised by the material
+ 2229/8633  . . Meshes and patterns
+ 2229/8634  . . Magnetic shielding
+ 2229/8635  . . Antistatic shielding
+ 2229/8636  . . Electromagnetic shielding
+ 2229/8637  . . Mechanical shielding, e.g. against water or
+ 2229/8638  . . Ionising radiation shielding, e.g. X-rays
+ 2229/87    . Means for avoiding vessel implosion
+ 2229/875   . . Means substantially covering the output face, e.g.
+resin layers, protective panels
+ 2229/882   . . having particular electrical resistive or conductive
+ 2229/885   . . having particular electrical insulation properties
+ 2229/887   . . having particular X-ray shielding properties
+ 2229/89    . Optical components associated with the vessel
+ 2229/8901  . . Fixing of optical components to the vessel
+ 2229/8903  . . Fibre optic components
+ 2229/8905  . . Direction sensitive devices for controlled viewing
+ 2229/8907  . . Image projection devices
+ 2229/8909  . . Baffles, shutters, apertures or the like against
+ 2229/8911  . . . Large-scale devices, e.g. foldable screens
+ 2229/8913  . . Anti-reflection, anti-glare, viewing angle and
+contrast improving treatments or devices
+ 2229/8915  . . . Surface treatment of vessel or device, e.g.
+ 2229/8916  . . . inside the vessel
+ 2229/8918  . . . by using interference effects
+ 2229/892   . . . Effect varying over surface
+ 2229/8922  . . . Apparatus attached to vessel and not integral
+ 2229/8924  . . having particular properties for protecting the
+vessel, e.g. against abrasion, water or shock
+ 2229/8926  . . Active components, e.g. LCD's, indicators,
+illuminators and moving devices
+ 2229/899   . . Photographic devices (permanent recording of
+ 2229/92    . Means providing or assisting electrical connection
+ 2229/922   . . within the tube
+ 2229/925   . . associated with the high tension [HT], e.g. anode
+ 2229/927   . . associated with digital scanning
+ 2229/94    . Means for obtaining or maintaining the desired
+ 2229/96    . Circuit elements other than coils, reactors or the
+ 2229/962   . . associated with the HT
+ 2229/964   . . associated with the deflection system
+ 2229/966   . . associated with the gun structure
+ 2231/00    Cathode ray tubes or electron beam tubes
+(H01J 2329/00 takes precedence)
+ 2231/12    . CRTs having luminescent screens
+ 2231/121   . . Means for indicating the position of the beam,
+ 2231/123   . . . by direct current detection, e.g. collecting
+ 2231/125   . . with a plurality of electron guns within the tube
+ 2231/1255  . . . two or more neck portions containing one or
+ 2231/50    . Imaging and conversion tubes
+ 2231/50005 . . characterised by form of illumination
+ 2231/50021 . . . . . Ultra-violet
+ 2231/50026 . . . . . Infra-red
+ 2231/50031 . . . . High energy photons
+ 2231/50047 . . . . Charged particles
+ 2231/50052 . . . Mechanical vibrations, e.g. sound
+ 2231/50057 . . characterised by form of output stage
+ 2231/50073 . . . . Charge coupled device [CCD]
+ 2231/50078 . . . . Resistive anode
+ 2231/50084 . . . . using light or electron beam scanning
+ 2231/50089 . . . Having optical stage before electrical
+ 2231/50094 . . . . Charge coupled device [CCD]
+ 2231/501   . . including multiplication stage
+ 2231/5013  . . . with secondary emission electrodes
+ 2231/5016  . . . . Michrochannel plates [MCP]
+ 2231/503   . . with scanning or gating optics
+ 2231/5033  . . . electrostatic
+ 2231/505   . . with non-scanning optics
+ 2231/5053  . . . electrostatic
+ 2235/02    . Electrical arrangements
+ 2235/023   . . Connecting of signals or tensions to or through
+ 2235/0236  . . . Indirect coupling, e.g. capacitive or inductive
+ 2235/064   . . Movement of cathode
+ 2235/068   . . Multi-cathode assembly
+ 2235/08    . Targets (anodes) and X-ray converters
+ 2235/081   . . Target material
+ 2235/082   . . . Fluids, e.g. liquids, gases
+ 2235/083   . . Bonding or fixing with the support or substrate
+ 2235/084   . . . Target-substrate interlayers or structures, e.g.
+to control or prevent diffusion or improve
+ 2235/085   . . Target treatment, e.g. ageing, heating
+ 2235/086   . . Target geometry
+ 2235/088   . . Laminated targets, e.g. plurality of emitting layers
+of unique or differing materials
+ 2235/10    . Drive means for anode (target) substrate
+ 2235/1006  . . Supports or shafts for target or substrate
+ 2235/1013  . . . Fixing to the target or substrate
+ 2235/102   . . . Materials for the shaft
+ 2235/1026  . . Means (motors) for driving the target (anode)
+ 2235/1033  . . . mounted within the vacuum vessel
+ 2235/104   . . . characterised by the shape
+ 2235/1046  . . Bearings and bearing contact surfaces
+ 2235/1053  . . . Retainers or races
+ 2235/106   . . . Dynamic pressure bearings, e.g. helical groove
+ 2235/1066  . . . Treated contact surfaces, e.g. coatings
+ 2235/1073  . . . Magnetic bearings
+ 2235/1086  . . . liquid metals
+ 2235/1093  . . Measures for preventing vibration
+ 2235/1208  . . of the bearing assembly
+ 2235/1225  . . characterised by method
+ 2235/1229  . . . employing layers with high emissivity
+ 2235/1233  . . . . characterised by the material
+ 2235/1241  . . . . Bonding layer to substrate
+ 2235/1245  . . . Increasing emissive surface area
+ 2235/125   . . . . with interdigitated fins or slots
+ 2235/1254  . . . . with microscopic surface features
+ 2235/1258  . . . Placing objects in close proximity
+ 2235/1262  . . . Circulating fluids
+ 2235/1266  . . . . flow being via moving conduit or shaft
+ 2235/127   . . . . Control of flow
+ 2235/1275  . . . . characterised by the fluid
+ 2235/1279  . . . . . Liquid metals
+ 2235/1283  . . . . in conjunction with extended surfaces (e.g.
+ 2235/1291  . . . Thermal conductivity
+ 2235/1295  . . . . Contact between conducting bodies
+ 2235/161   . . Non-stationary vessels
+ 2235/163   . . shaped for a particular application
+ 2235/164   . . . Small cross-section, e.g. for entering in a body
+ 2235/165   . . Shielding arrangements
+ 2235/166   . . . against electromagnetic radiation
+ 2235/167   . . . against thermal (heat) energy
+ 2235/168   . . . against charged particles
+ 2235/18    . Windows, e.g. for X-ray transmission
+ 2235/183   . . Multi-layer structures
+ 2235/20    . Arrangements for controlling gases within the X-ray
+ 2237/00    Discharge tubes exposing object to beam, e.g. for
+analysis treatment, etching, imaging
+1. For features of general interest which may be
+found in other types of discharge tubes, an
+indexing code corresponding to general schemes
+H01J 2201/00 - H01J 2203/00 is given, e.g. for
+cathodes, vessels, cooling means or the like
+2. Same rules apply for manufacturing procedures
+(H01J 2209/00), unless really specific to the tube
+3. The codes in this main group are grouped
+according to the following principle:
+details common to gas or plasma
+discharge of the above mentioned tubes:
+ 2237/002   . Cooling arrangements (of objects being observed or
+ 2237/004   . Charge control of objects or beams
+ 2237/0041  . . Neutralising arrangements
+ 2237/0042  . . . Deflection of neutralising particles
+ 2237/0044  . . . of objects being observed or treated
+ 2237/0045  . . . . using secondary electrons
+ 2237/0047  . . . . using electromagnetic radiations, e.g. UV, X-
+ 2237/0048  . . Charging arrangements
+ 2237/006   . Details of gas supplies, e.g. in an ion source, to
+a beam line, to a specimen or to a workpiece,
+(H01J 37/3244 takes precedence; environmental
+cells for electron microscopes H01J 2237/2003;
+microscopes with environmental specimen chamber
+ 2237/0203  . . Protection arrangements
+ 2237/0206  . . . Extinguishing, preventing or controlling
+ 2237/0209  . . . Avoiding or diminishing effects of eddy
+ 2237/0213  . . . Avoiding deleterious effects due to interactions
+between particles and tube elements
+ 2237/0216  . . Means for avoiding or correcting vibration effects
+ 2237/022   . . Avoiding or removing foreign or contaminating
+particles, debris or deposits on sample or tube
+ 2237/0225  . . . Detecting or monitoring foreign particles
+ 2237/024   . . Moving components not otherwise provided
+for (diaphragms H01J 2237/0458; objects
+ 2237/0245  . . . Moving whole optical system relatively to
+ 2237/0262  . . . electrostatic
+ 2237/0266  . . . electromagnetic
+ 2237/03    . Mounting, supporting, spacing or insulating
+ 2237/032   . . Mounting or supporting
+ 2237/04    . Means for controlling the discharge
+ 2237/041   . . Beam polarising means
+ 2237/0432  . . . High speed and short duration
+ 2237/0435  . . . Multi-aperture
+ 2237/0437  . . . . Semiconductor substrate
+ 2237/0451  . . . with fixed aperture
+ 2237/0453  . . . . multiple apertures
+ 2237/0455  . . . with variable aperture
+ 2237/0458  . . . . movable, i.e. for changing between
+ 2237/047   . . Changing particle velocity
+ 2237/04732 . . . . with magnetic means
+ 2237/04735 . . . . with electrostatic means
+ 2237/04737 . . . . . radio-frequency quadrupole [RFQ]
+ 2237/04753 . . . . with magnetic means
+ 2237/04756 . . . . with electrostatic means
+ 2237/0492  . . . Lens systems (individual lenses H01J 2237/10)
+ 2237/04922 . . . . electromagnetic
+ 2237/04924 . . . . electrostatic
+ 2237/04928 . . . . Telecentric systems
+ 2237/05    . Arrangements for energy or mass analysis
+ 2237/0535  . . . Mirror analyser
+ 2237/057   . . Energy or mass filtering
+ 2237/062   . . . Reducing size of gun
+ 2237/063   . . Electron sources
+ 2237/06308 . . . Thermionic sources
+ 2237/06316 . . . . Schottky emission
+ 2237/06325 . . . Cold-cathode sources
+ 2237/06333 . . . . Photo emission
+ 2237/06341 . . . . Field emission
+ 2237/0635  . . . . . Multiple source, e.g. comb or array
+ 2237/06358 . . . . Secondary emission
+ 2237/06366 . . . . Gas discharge electron sources
+ 2237/06375 . . . Arrangement of electrodes
+ 2237/06383 . . . Spin polarised electron sources
+ 2237/06391 . . . Positron sources
+ 2237/065   . . Source emittance characteristics
+ 2237/0802  . . . Field ionization sources
+ 2237/0805  . . . . Liquid metal sources
+ 2237/0807  . . . . Gas field ion sources [GFIS]
+ 2237/081   . . . Sputtering sources
+ 2237/0812  . . . Ionized cluster beam [ICB] sources
+ 2237/0815  . . . Methods of ionisation
+ 2237/082   . . . . Electron beam
+ 2237/0822  . . . Multiple sources
+ 2237/0825  . . . . for producing different ions simultaneously
+ 2237/0827  . . . . for producing different ions sequentially
+ 2237/0835  . . . Variable cross-section or shape
+ 2237/103   . . characterised by lens type
+ 2237/1035  . . . Immersion lens
+ 2237/1202  . . . Associated circuits
+ 2237/1207  . . . Einzel lenses
+ 2237/121   . . . characterised by shape
+ 2237/1215  . . . . Annular electrodes
+ 2237/1405  . . . Constructional details
+ 2237/141   . . . . Coils (superconducting H01J 2237/142)
+ 2237/1415  . . . . Bores or yokes, i.e. magnetic circuit in
+ 2237/142   . . . with superconducting coils
+ 2237/15    . Means for deflecting or directing discharge
+ 2237/1501  . . Beam alignment means or procedures
+ 2237/1502  . . Mechanical adjustments
+ 2237/1503  . . . Mechanical scanning
+ 2237/1504  . . Associated circuits
+ 2237/1505  . . Rotating beam around optical axis
+ 2237/1506  . . Tilting or rocking beam around an axis
+substantially at an angle to optical axis
+ 2237/1507  . . . dynamically, e.g. to obtain same impinging
+ 2237/1508  . . Combined electrostatic-electromagnetic means
+ 2237/151   . . Electrostatic means
+ 2237/1512  . . . Travelling wave deflectors
+ 2237/1518  . . . for X-Y scanning
+ 2237/1526  . . . For X-Y scanning
+ 2237/153   . Correcting image defects, e.g. stigmators
+ 2237/1536  . . Image distortions due to scanning
+ 2237/1538  . . Space charge (Boersch) effect compensation
+(neutralising means H01J 2237/0041)
+ 2237/16    . Vessels (liner tubes H01J 2237/0268)
+ 2237/162   . . Open vessel, i.e. one end sealed by object or
+ 2237/164   . . Particle-permeable windows
+ 2237/18    . Vacuum control means
+ 2237/182   . . Obtaining or maintaining desired pressure
+ 2237/1825  . . . Evacuating means
+ 2237/188   . . Differential pressure
+ 2237/20    . Positioning, supporting, modifying or maintaining
+the physical state of objects being observed or
+ 2237/2001  . . Maintaining constant desired temperature
+ 2237/2002  . . Controlling environment of sample
+ 2237/2003  . . . Environmental cells
+ 2237/2004  . . . . Biological samples
+ 2237/2005  . . Seal mechanisms
+ 2237/2007  . . Holding mechanisms
+ 2237/2008  . . specially adapted for studying electrical or
+magnetical properties of objects
+ 2237/201   . . for mounting multiple objects
+ 2237/20228 . . . . Mechanical X-Y scanning
+ 2237/20235 . . . . Z movement or adjustment
+ 2237/20242 . . . Eucentric movement
+ 2237/2025  . . . Sensing velocity of translation or rotation
+ 2237/20257 . . . Magnetic coupling
+ 2237/20264 . . . Piezoelectric devices
+ 2237/20271 . . . Temperature responsive devices
+ 2237/20278 . . . Motorised movement
+ 2237/20285 . . . . computer-controlled
+ 2237/20292 . . . Means for position and/or orientation
+ 2237/204   . . Means for introducing and/or outputting objects
+ 2237/206   . . Modifying objects while observing
+ 2237/2062  . . . Mechanical constraints
+ 2237/2065  . . . Temperature variations (maintaining constant
+desired temperature H01J 2237/2001)
+ 2237/2067  . . . Surface alteration
+ 2237/208   . . Elements or methods for movement independent
+of sample stage for influencing or moving or
+contacting or transferring the sample or parts
+thereof, e.g. prober needles or transfer needles in
+ 2237/21    . Focus adjustment (lenses H01J 2237/10)
+ 2237/213   . . during electron or ion beam welding or cutting
+ 2237/216   . . Automatic focusing methods
+ 2237/22    . Treatment of data (mixing signals
+ 2237/221   . . Image processing
+ 2237/223   . . . Fourier techniques
+ 2237/225   . . . Displaying image using synthesised colours
+ 2237/226   . . Image reconstruction
+ 2237/228   . . . Charged particle holography
+ 2237/244   . Detection characterized by the detecting means
+ 2237/2441  . . Semiconductor detectors, e.g. diodes
+ 2237/2442  . . . . Energy-dispersive (Si-Li type) spectrometer
+ 2237/24425 . . . . Wavelength-dispersive spectrometer
+ 2237/2443  . . Scintillation detectors
+ 2237/24435 . . Microchannel plates
+ 2237/2444  . . Electron Multiplier
+ 2237/24445 . . . using avalanche in a gas
+ 2237/2445  . . Photon detectors for X-rays, light, e.g.
+ 2237/24455 . . Transmitted particle detectors
+ 2237/2446  . . Position sensitive detectors
+ 2237/24465 . . . Sectored detectors, e.g. quadrants
+ 2237/2447  . . . Imaging plates
+ 2237/24475 . . Scattered electron detectors
+ 2237/2448  . . Secondary particle detectors
+ 2237/24485 . . Energy spectrometers
+ 2237/2449  . . Detector devices with moving charges in electric
+ 2237/24495 . . Signal processing, e.g. mixing of two or more
+ 2237/245   . Detection characterised by the variable being
+ 2237/24507 . . Intensity, dose or other characteristics of particle
+beams or electromagnetic radiation
+ 2237/24514 . . . Beam diagnostics including control of
+the parameter or property diagnosed
+(H01J 2237/30472 takes precedence)
+ 2237/24521 . . . . Beam diameter
+ 2237/24528 . . . . Direction of beam or parts thereof in
+view of the optical axis, e.g. beam angle,
+angular distribution, beam divergence, beam
+convergence or beam landing angle on
+sample or workpiece (means for deflecting or
+directing discharge H01J 2237/15)
+ 2237/24535 . . . . Beam current
+ 2237/24542 . . . . Beam profile
+ 2237/2455  . . . Polarisation (electromagnetic beams)
+ 2237/24557 . . . Spin polarisation (particles)
+ 2237/24564 . . Measurements of electric or magnetic variables,
+e.g. voltage, current, frequency
+ 2237/24571 . . Measurements of non-electric or non-magnetic
+ 2237/24578 . . . Spatial variables, e.g. position, distance
+ 2237/24585 . . . Other variables, e.g. energy, mass, velocity,
+ 2237/24592 . . Inspection and quality control of devices
+ 2237/248   . Components associated with the control of the tube
+ 2237/2485  . . Electric or electronic means
+ 2237/2487  . . . using digital signal processors
+ 2237/25    . Tubes for localised analysis using electron or ion
+ 2237/2505  . . characterised by their application
+ 2237/2511  . . . Auger spectrometers
+ 2237/2516  . . . Secondary particles mass or energy
+ 2237/2522  . . . . of electrons (ESCA, XPS)
+ 2237/2527  . . . . Ions [SIMS]
+ 2237/2533  . . . . Neutrals [SNMS]
+ 2237/2538  . . . Low energy electron microscopy [LEEM]
+ 2237/2544  . . . . Diffraction [LEED]
+ 2237/255   . . . . . Reflection diffraction [RHEED]
+ 2237/2555  . . . Microprobes, i.e. particle-induced X-ray
+ 2237/2583  . . . using tunnel effects, e.g. STM, AFM
+ 2237/2588  . . . Lorenz microscopy (magnetic field
+ 2237/2594  . . . Measuring electric fields or potentials
+ 2237/26    . Electron or ion microscopes
+ 2237/2605  . . . operating at elevated pressures, e.g. atmosphere
+ 2237/2608  . . . . with environmental specimen chamber
+(environmental cells H01J 2237/2003)
+ 2237/2611  . . Stereoscopic measurements and/or imaging
+ 2237/2614  . . Holography or phase contrast, phase related
+imaging in general, e.g. phase plates
+ 2237/2617  . . Comparison or superposition of transmission
+ 2237/262   . . Non-scanning techniques
+ 2237/2623  . . . Field-emission microscopes
+ 2237/2626  . . . . Pulsed source
+ 2237/28    . . Scanning microscopes
+ 2237/2802  . . . Transmission microscopes
+ 2237/2803  . . . characterised by the imaging method
+ 2237/2804  . . . . Scattered primary beam
+ 2237/2805  . . . . . Elastic scattering
+ 2237/2806  . . . . Secondary charged particle
+ 2237/2808  . . . . Cathodoluminescence
+ 2237/2809  . . . characterised by the imaging problems
+ 2237/281   . . . . Bottom of trenches or holes
+ 2237/2811  . . . . Large objects
+ 2237/2812  . . . Emission microscopes
+ 2237/2813  . . . characterised by the application
+ 2237/2814  . . . . Measurement of surface topography
+ 2237/2815  . . . . . Depth profile
+ 2237/2817  . . . . Pattern inspection
+ 2237/2818  . . . Scanning tunnelling microscopes
+ 2237/282   . . Determination of microscope properties
+ 2237/2826  . . . Calibration (for object processing apparatus
+ 2237/285   . . Emission microscopes
+ 2237/2852  . . . Auto-emission (i.e. field-emission)
+ 2237/2855  . . . Photo-emission
+ 2237/2857  . . . Particle bombardment induced emission
+ 2237/30    . Electron or ion beam tubes for processing objects
+ 2237/303   . . Electron or ion optical systems
+ 2237/304   . . Controlling tubes
+ 2237/30411 . . . . using digital signal processors [DSP]
+ 2237/30416 . . . . Handling of data (for lithography
+ 2237/30422 . . . . . Data compression
+ 2237/30427 . . . . using neural networks or fuzzy logic
+ 2237/30433 . . . System calibration (for microscopes
+ 2237/30438 . . . . Registration
+ 2237/30444 . . . . . Calibration grids
+ 2237/3045  . . . . Deflection calibration (deflecting in general
+H01J 2237/15; specific to material treating
+ 2237/30455 . . . Correction during exposure
+ 2237/30461 . . . . pre-calculated
+ 2237/30466 . . . Detecting endpoint of process (for plasma
+apparatus H01J 37/32963, for sputtering
+ 2237/30472 . . . Controlling the beam
+ 2237/30477 . . . . Beam diameter
+ 2237/30488 . . . . . Raster scan
+ 2237/30494 . . . . . Vector scan
+ 2237/31    . . Processing objects on a macro-scale
+ 2237/3137  . . . . Plasma-assisted co-operation
+ 2237/3146  . . . . Ion beam bombardment sputtering
+ 2237/316   . . . Changing physical properties
+ 2237/3165  . . . Changing chemical properties
+ 2237/317   . . Processing objects on a microscale
+ 2237/31701 . . . Ion implantation
+ 2237/31705 . . . . Impurity or contaminant control
+ 2237/31706 . . . . characterised by the area treated
+ 2237/31708 . . . . . unpatterned
+ 2237/3171  . . . . . patterned
+ 2237/31711 . . . . . . using mask
+ 2237/31713 . . . . . . Focused ion beam
+ 2237/31732 . . . Depositing thin layers on selected microareas
+ 2237/31735 . . . Direct-write microstructures
+ 2237/3174  . . . Etching microareas
+ 2237/31742 . . . . for repairing masks
+ 2237/31744 . . . . . introducing gas in vicinity of workpiece
+ 2237/31745 . . . . for preparing specimen to be viewed in
+microscopes or analyzed in microanalysers
+ 2237/31749 . . . Focused ion beam
+ 2237/31752 . . . . using particular beams or near-field effects,
+ 2237/31754 . . . . . using electron beams
+ 2237/31755 . . . . . using ion beams
+ 2237/31757 . . . . . hybrid, i.e. charged particles and light, X-
+ 2237/31759 . . . . . using near-field effects, e.g. STM
+ 2237/31761 . . . . Patterning strategy
+ 2237/31762 . . . . . Computer and memory organisation
+ 2237/31764 . . . . . Dividing into sub-patterns
+ 2237/31766 . . . . . Continuous moving of wafer
+ 2237/31767 . . . . . Step and repeat
+ 2237/31769 . . . . Proximity effect correction
+ 2237/31771 . . . . . using multiple exposure
+ 2237/31776 . . . . Shaped beam
+ 2237/31777 . . . . by projection
+ 2237/31779 . . . . . from patterned photocathode
+ 2237/31781 . . . . . from patterned cold cathode
+ 2237/31783 . . . . . . M-I-M cathode
+ 2237/31784 . . . . . . Semiconductor cathode
+ 2237/31786 . . . . . . Field-emitting cathode
+ 2237/31788 . . . . . through mask
+ 2237/31789 . . . . . Reflection mask
+ 2237/31791 . . . . . Scattering mask
+ 2237/31793 . . . . Problems associated with lithography
+ 2237/31794 . . . . . affecting masks
+ 2237/31796 . . . . . affecting resists
+ 2237/31798 . . . . . detecting pattern defects (with
+H01J 2237/31735, H01J 2237/3174)
+ 2237/32    . Processing objects by plasma generation
+ 2237/327   . . Arrangements for generating the plasma
+ 2237/33    . . characterised by the type of processing
+ 2237/3321  . . . . CVD [Chemical Vapor Deposition]
+ 2237/3322  . . . . Problems associated with coating
+ 2237/3323  . . . . . uniformity
+ 2237/3325  . . . . . large area
+ 2237/3326  . . . . . high speed
+ 2237/3327  . . . . . Coating high aspect ratio workpieces
+ 2237/3328  . . . . . adhesion, stress, lift-off of deposited films
+ 2237/3341  . . . . Reactive etching
+ 2237/3342  . . . . Resist stripping
+ 2237/3343  . . . . Problems associated with etching
+ 2237/3345  . . . . . anisotropy
+ 2237/3346  . . . . . Selectivity
+ 2237/3347  . . . . . bottom of holes or trenches
+ 2237/3348  . . . . . control of ion bombardment energy
+ 2237/3355  . . . . Holes or apertures, i.e. inprinted circuit
+ 2237/336   . . . Changing physical properties of treated
+ 2237/3365  . . . . Plasma source implantation
+ 2237/338   . . . Changing chemical properties of treated
+ 2237/3382  . . . . Polymerising
+ 2237/3385  . . . . Carburising
+ 2237/339   . . . Synthesising components
+ 2261/00    Gas- or vapour-discharge lamps
+ 2261/38    . . Devices for influencing the colour or wavelength
+ 2261/385   . . . Non-chemical aspects of luminescent layers,
+e.g. thickness profile, shape and distribution of
+ 2329/00    Electron emission display panels, e.g. field
+ 2329/005   . Multi-directional displaying, i.e. with multiple
+display faces facing in different directions
+ 2329/007   . Vacuumless display panels, i.e. with phosphor
+directly applied to emitter without intermediate
+ 2329/02    . Electrodes other than control electrodes
+ 2329/04    . . Cathode electrodes
+ 2329/0402  . . . Thermionic cathodes
+ 2329/0405  . . . Cold cathodes other than those covered by
+H01J 2329/0407 - H01J 2329/0492
+ 2329/0407  . . . Field emission cathodes
+ 2329/041   . . . . characterised by the emitter shape
+ 2329/0413  . . . . . Microengineered point emitters
+ 2329/0415  . . . . . . conical shaped, e.g. Spindt type
+ 2329/0418  . . . . . . needle shaped
+ 2329/0421  . . . . . Pillar shaped emitters
+ 2329/0423  . . . . . Microengineered edge emitters
+ 2329/0426  . . . . . Coatings on the emitter surface, e.g. with
+ 2329/0431  . . . . . Nanotubes
+ 2329/0434  . . . . . Particles
+ 2329/0439  . . . . characterised by the emitter material
+ 2329/0442  . . . . . Metals or metal alloys
+ 2329/0444  . . . . . Carbon types
+ 2329/0447  . . . . . . Diamond
+ 2329/0449  . . . . . . Graphite
+ 2329/0452  . . . . . . Fullerenes
+ 2329/0455  . . . . . . Carbon nanotubes (CNTs)
+ 2329/0457  . . . . . . Amorphous carbon
+ 2329/046   . . . . . . Diamond-like carbon [DLC]
+ 2329/0463  . . . . . Semiconductor materials
+ 2329/0476  . . . Ferroelectric cathodes
+ 2329/0478  . . . Semiconductor cathodes, e.g. having PN
+ 2329/0481  . . . Cold cathodes having an electric field
+perpendicular to the surface thereof
+(H01J 2329/0407 - H01J 2329/0478 take
+ 2329/0484  . . . . Metal-Insulator-Metal [MIM] emission type
+ 2329/0486  . . . Cold cathodes having an electric field parallel
+to the surface thereof, e.g. thin film cathodes
+ 2329/0489  . . . . Surface conduction emission type cathodes
+ 2329/0492  . . . Cold cathodes combined with other synergetic
+effects, e.g. secondary, photo- or thermal
+ 2329/0494  . . . Circuit elements associated with the emitters by
+ 2329/0497  . . . . Resistive members, e.g. resistive layers
+ 2329/08    . . Anode electrodes
+ 2329/18    . Luminescent screens
+ 2329/20    . . characterised by the luminescent material
+ 2329/22    . . characterised by the binder or adhesive for
+securing the luminescent material to its support,
+ 2329/28    . . with protective, conductive or reflective layers
+ 2329/30    . . Shape or geometrical arrangement of the
+ 2329/32    . . Means associated with discontinuous
+arrangements of the luminescent material
+ 2329/326   . . . Color filters structurally combined with the
+ 2329/46    . Arrangements of electrodes and associated parts for
+generating or controlling the electron beams
+ 2329/4604  . . Control electrodes
+ 2329/4608  . . . Gate electrodes
+ 2329/4613  . . . . characterised by the form or structure
+ 2329/4617  . . . . . Shapes or dimensions of gate openings
+ 2329/4621  . . . . . Arrangement of gate openings
+ 2329/4626  . . . . . Curved or extending upwardly
+ 2329/463   . . . . characterised by the material
+ 2329/4634  . . . . Relative position to the emitters, cathodes or
+ 2329/4639  . . . Focusing electrodes
+ 2329/4643  . . . . characterised by the form or structure
+ 2329/4647  . . . . . Shapes or dimensions of focusing
+ 2329/4652  . . . . . Arrangement of focusing electrode
+ 2329/4656  . . . . characterised by the material
+ 2329/466   . . . . Relative position to the gate electrodes,
+emitters, cathodes or substrates
+ 2329/4665  . . . . . In the same plane as the gate electrodes or
+ 2329/4669  . . Insulation layers
+ 2329/4673  . . . for gate electrodes
+ 2329/4678  . . . for focusing electrodes
+ 2329/4682  . . . characterised by the shape
+ 2329/4686  . . . . Dimensions of openings
+ 2329/4691  . . . characterised by the material
+ 2329/4695  . . Potentials applied to the electrodes
+ 2329/8605  . . Front or back plates
+ 2329/861   . . . characterised by the shape
+ 2329/8615  . . . characterised by the material
+ 2329/8625  . . Spacing members
+ 2329/863   . . . characterised by the form or structure
+ 2329/8635  . . . . having a corrugated lateral surface
+ 2329/864   . . . characterised by the material
+ 2329/8645  . . . with coatings on the lateral surfaces thereof
+ 2329/865   . . . Connection of the spacing members to the
+ 2329/8655  . . . . Conductive or resistive layers
+ 2329/8665  . . . Spacer holding means
+ 2329/867   . . Seals between parts of vessels
+ 2329/8675  . . . Seals between the frame and the front and/or
+ 2329/868   . . Passive shielding means of vessels
+ 2329/8685  . . . Antistatic shielding
+ 2329/869   . . . Electromagnetic shielding
+ 2329/8695  . . . Mechanical shielding, e.g. against water or
+ 2329/88    . . Coatings on walls of the vessels (H01J 2329/18,
+H01J 2329/868, H01J 2329/89 take precedence)
+ 2329/89    . . Optical components structurally combined with
+ 2329/892   . . . Anti-reflection, anti-glare, viewing angle and
+ 2329/895   . . . Spectral filters
+ 2329/90    . Leading-in arrangements; seals therefor
+ 2329/92    . Means forming part of the display panel for the
+purpose of providing electrical connection to it
+ 2329/94    . Means for exhausting the vessel or maintaining
+ 2329/941   . . Means for exhausting the vessel
+ 2329/943   . . Means for maintaining vacuum within the vessel
+ 2329/946   . . . . characterised by the position or form of the
+ 2329/948   . . . . characterised by the material of the getter
+ 2329/96    . Circuit elements structurally associated with the
+display panels (H01J 2329/0494 takes precedence)
+ 2893/00    Discharge tubes and lamps
+ 2893/0001  . Electrodes and electrode systems suitable for
+ 2893/0002  . . Construction arrangements of electrode systems
+ 2893/0003  . . . Anodes forming part of vessel walls
+ 2893/0004  . . . . Anodes formed in central part
+ 2893/0005  . . . Fixing of electrodes
+ 2893/0007  . . . . . Machines for assembly
+ 2893/0008  . . . . Supply leads; Electrode supports via rigid
+ 2893/0009  . . . . Electrode system pressing against vessel wall
+ 2893/001   . . Non-constructive schematic arrangements
+ 2893/0011  . . Non-emitting electrodes
+ 2893/0012  . . Constructional arrangements
+ 2893/0013  . . . Sealed electrodes
+ 2893/0015  . . . Non-sealed electrodes
+ 2893/0016  . . . . Planar grids
+ 2893/0017  . . . . Cylindrical, helical or annular grids
+ 2893/0018  . . . . Bar or cage-like grids
+ 2893/0019  . . . Chemical composition and manufacture
+ 2893/0022  . . . . Manufacture
+ 2893/0023  . . . . . carbonising and other surface treatments
+ 2893/0024  . . . . . Planar grids
+ 2893/0025  . . . . . by winding wire upon a support
+ 2893/0026  . . . Machines for manufacture of grids or anodes
+ 2893/0027  . . . Mitigation of temperature effects
+ 2893/0029  . Electron beam tubes
+ 2893/003   . Tubes with plural electrode systems
+ 2893/0031  . Tubes with material luminescing under electron
+ 2893/0032  . Tubes with variable amplification factor
+ 2893/0033  . Vacuum connection techniques applicable to
+ 2893/0035  . . . shaped as flat plates, in particular metallic
+ 2893/0036  . . . having wires, ribbons or tubes placed between
+two vessel walls and being perpendicular to at
+ 2893/0037  . . Solid sealing members other than lamp bases
+ 2893/0038  . . . Direct connection between two insulating
+elements, in particular via glass material
+ 2893/0039  . . . . Glass-to-glass connection, e.g. by soldering
+ 2893/004   . . . . Quartz-to-quartz connection
+ 2893/0041  . . . Direct connection between insulating and metal
+elements, in particular via glass material
+ 2893/0043  . . . . Glass-to-metal or quartz-to-metal, e.g. by
+ 2893/0044  . . . Direct connection between two metal elements,
+in particular via material a connecting material
+ 2893/0045  . . Non-solid connections, e.g. liquid or rubber
+ 2893/0046  . . Lamp base with closure
+ 2893/0047  . . Closure other than lamp base
+ 2893/0048  . Tubes with a main cathode
+ 2893/0051  . . Anode assemblies; screens for influencing the
+ 2893/0052  . . . Anode supporting means
+ 2893/0053  . . . Leading in for anodes; Protecting means for
+ 2893/0054  . . . Cooling means
+ 2893/0055  . . Movable screens
+ 2893/0056  . . Parts inside tubes brought to incandescence by the
+ 2893/0058  . . Grids; Auxiliary internal or external electrodes
+ 2893/0059  . Arc discharge tubes
+ 2893/006   . Tubes with electron bombarded gas (e.g. with
+ 2893/0061  . Tubes with discharge used as electron source
+ 2893/0062  . Tubes with temperature ionized gas as electron
+ 2893/0063  . Plasma light sources
+ 2893/0064  . Tubes with cold main electrodes (including cold
+ 2893/0065  . . Electrode systems
+ 2893/0066  . . . Construction, material, support, protection and
+temperature regulation of electrodes; Electrode
+ 2893/0067  . . . Electrode assembly without control electrodes,
+ 2893/0068  . . . electrode assembly with control electrodes, e.g.
+ 2893/0069  . Tubes for displaying characters
+ 2893/007   . Sequential discharge tubes
+ 2893/0072  . Disassembly or repair of discharge tubes
+ 2893/0073  . . Discharge tubes with liquid poolcathodes;
+ 2893/0074  . . . Cathodic cups; Screens; Reflectors; Filters;
+Windows; Protection against mercury
+deposition; Returning condensed electrode
+material to the cathodic cup; Liquid electrode
+ 2893/0075  . . . . Cathodic cups
+ 2893/0076  . . . . . Liquid electrode materials
+ 2893/0077  . . . . . Cathodic cup construction; Cathodic spot
+ 2893/0078  . . . . . Mounting cathodic cups in the discharge
+ 2893/0079  . . . . . Means for limiting the cathodic spot
+ 2893/008   . . . . . Means for stabilising the cathodic spot
+ 2893/0081  . . . . . Cooling means
+ 2893/0082  . . . . Returning condensed electrode material to
+the cathodic cup, e.g. including cleaning
+ 2893/0083  . . . . Liquid electrode level control
+ 2893/0084  . . . . Protection against mercury deposition
+ 2893/0086  . . . . Gas fill; Maintaining or maintaining
+desired pressure; Producing, introducing or
+replenishing gas or vapour during operation
+of the tube; Getters; Gas cleaning; Electrode
+ 2893/0087  . . . . Igniting means; Cathode spot maintaining or
+ 2893/0088  . . Tubes with at least a solid principal cathode and
+ 2893/0089  . . . Electrode systems
+ 2893/009   . . . Anode systems; Screens
+ 2893/0091  . . . . Anode supporting means
+ 2893/0092  . . . . Anodic screens or grids
+ 2893/0093  . . . . Anodic arms
+ 2893/0094  . . . Electrode arrangements; Auxiliary electrodes
+ 2893/0095  . . Tubes with exclusively liquid main electrodes
+ 2893/0096  . Transport of discharge tube components during
+manufacture, e.g. wires, coils, lamps, contacts, etc.
+ 2893/0097  . . Incandescent wires of coils

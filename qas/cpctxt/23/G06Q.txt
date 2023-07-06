@@ -1,0 +1,451 @@
+COOPERATIVE PATENT CLASSIFICATION
+COMPUTING; CALCULATING OR COUNTING
+INFORMATION AND COMMUNICATION TECHNOLOGY [ICT] SPECIALLY
+ADAPTED FOR ADMINISTRATIVE, COMMERCIAL, FINANCIAL, MANAGERIAL
+OR SUPERVISORY PURPOSES; SYSTEMS OR METHODS SPECIALLY ADAPTED
+FOR ADMINISTRATIVE, COMMERCIAL, FINANCIAL, MANAGERIAL OR
+SUPERVISORY PURPOSES, NOT OTHERWISE PROVIDED FOR
+1. Groups G06Q 10/00 - G06Q 50/00 and G06Q 99/00 only cover systems or methods that involve significant data processing
+operations, i.e. data processing operations that need to be carried out by a technological, e.g. computing, system or device.
+Group G06Q 90/00 covers systems or methods that do not involve significant data processing, when both of the following
+• the systems or methods are specially adapted for the purposes mentioned in the subclass title or the titles of groups
+• the systems or methods cannot be classified elsewhere, for example by applying the principles described in paragraph 96 of
+2. When classifying such systems or methods in group G06Q 90/00, additional classification may be made in the most closely
+related group of this or any other subclass, if this classification gives information about the application of the systems or
+methods that could be of interest for search. Such non-obligatory classification must be given as "additional information".
+1. G06Q has been largely refined to bring most of the former USPC 705 groups into ECLA, prior to CPC launch. Therefore,
+most of the new G06Q subdivisions are not complete pending reclassification. Users are invited to systematically consult
+also the hierarchically higher groups, up to the first valid IPC group. For example, while searching in G06Q 50/2053, it is
+appropriate to consult also G06Q 50/205 and G06Q 50/20
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+   10/00    Administration; Management
+   10/02    . Reservations, e.g. for tickets, services or events
+   10/025   . . {Coordination of plural reservations, e.g. plural
+trip segments, transportation combined with
+   10/04    . Forecasting or optimisation specially adapted for
+administrative or management purposes, e.g. linear
+programming or "cutting stock problem" (market
+predictions or forecasting for commercial activities
+   10/043   . . {Optimisation of two dimensional placement, e.g.
+   10/047   . . Optimisation of routes or paths, e.g. travelling
+   10/06    . Resources, workflows, human or project
+management; Enterprise or organisation planning;
+Enterprise or organisation modelling
+Group G06Q 10/06 is incomplete pending
+reclassification of documents from group
+Groups E21B 41/0092 and G06Q 10/06 should
+be considered in order to perform a complete
+   10/063   . . Operations research, analysis or management
+   10/0631  . . . Resource planning, allocation, distributing or
+scheduling for enterprises or organisations
+   10/06311 . . . . {Scheduling, planning or task assignment for
+   10/063112 . . . . . {Skill-based matching of a person or a
+   10/063114 . . . . . {Status monitoring or status determination
+   10/063116 . . . . . {Schedule adjustment for a person or
+   10/063118 . . . . . {Staff planning in a project environment}
+   10/06312 . . . . {Adjustment or analysis of established
+resource schedule, e.g. resource or task
+levelling, or dynamic rescheduling}
+   10/06313 . . . . {Resource planning in a project
+   10/06314 . . . . {Calendaring for a resource}
+   10/06315 . . . . {Needs-based resource requirements
+   10/06316 . . . . {Sequencing of tasks or work}
+   10/0633  . . . Workflow analysis
+   10/0635  . . . Risk analysis of enterprise or organisation
+   10/0637  . . . Strategic management or analysis, e.g. setting
+a goal or target of an organisation; Planning
+actions based on goals; Analysis or evaluation
+   10/06375 . . . . {Prediction of business process outcome or
+impact based on a proposed change}
+   10/0639  . . . Performance analysis of employees;
+Performance analysis of enterprise or
+   10/06393 . . . . {Score-carding, benchmarking or key
+performance indicator [KPI] analysis}
+   10/06395 . . . . {Quality analysis or management}
+   10/06398 . . . . {Performance of employee with respect to a
+   10/067   . . Enterprise or organisation modelling
+   10/08    . Logistics, e.g. warehousing, loading or distribution;
+   10/0831  . . . Overseas transactions
+   10/0832  . . . Special goods or special handling procedures,
+e.g. handling of hazardous or fragile goods
+   10/0834  . . . Choice of carriers
+   10/0835  . . . Relationships between shipper or supplier and
+   10/08355 . . . . {Routing methods}
+   10/0836  . . . Recipient pick-ups
+   10/0837  . . . Return transactions
+   10/0838  . . . {Historical data}
+   10/087   . . Inventory or stock management, e.g. order filling,
+procurement or balancing against orders
+   10/0875  . . . Itemisation or classification of parts, supplies
+or services, e.g. bill of materials
+   10/10    . Office automation; Time management
+   10/101   . . Collaborative creation, e.g. joint development of
+   10/103   . . {Workflow collaboration or project management}
+   10/105   . . Human resources
+   10/1053  . . . Employment or hiring
+   10/1057  . . . Benefits or employee welfare, e.g. insurance,
+   10/107   . . Computer-aided management of electronic
+   10/109   . . Time management, e.g. calendars, reminders,
+   10/1091  . . . Recording time for administrative or
+   10/1093  . . . Calendar-based scheduling for persons or
+   10/1095  . . . . {Meeting or appointment}
+   10/1097  . . . . {Task assignment}
+   10/20    . Administration of product repair or maintenance
+   10/30    . Administration of product recycling or disposal
+   20/00    Payment architectures, schemes or protocols
+(apparatus for performing or posting payment
+transactions G07F 7/08, G07F 19/00; electronic cash
+   20/02    . involving a neutral party, e.g. certification authority,
+notary or trusted third party [TTP]
+   20/023   . . {the neutral party being a clearing house}
+   20/027   . . {involving a payment switch or gateway}
+   20/042   . . {characterized in that the payment protocol
+   20/0425  . . . {the cheque being electronic only}
+   20/045   . . {using payment protocols involving tickets}
+   20/0457  . . . {the tickets being sent electronically}
+   20/047   . . {using payment protocols involving electronic
+   20/06    . . Private payment circuits, e.g. involving electronic
+currency used among participants of a common
+   20/065   . . . {using e-cash}
+   20/0652  . . . . {e-cash with decreasing value according to a
+   20/0655  . . . . {e-cash managed centrally}
+   20/0658  . . . . {e-cash managed locally}
+   20/08    . Payment architectures
+   20/085   . . {involving remote charge determination or related
+   20/0855  . . . {involving a third party}
+   20/10    . . specially adapted for electronic funds transfer
+[EFT] systems; specially adapted for home
+   20/102   . . . {Bill distribution or payments}
+   20/105   . . . {involving programming of a portable memory
+device, e.g. IC cards, "electronic purses"}
+   20/108   . . . {Remote banking, e.g. home banking}
+   20/1085  . . . . {involving automatic teller machines
+   20/12    . . specially adapted for electronic shopping systems
+   20/123   . . . {Shopping for digital content}
+   20/1235  . . . . {with control of digital rights management
+   20/127   . . . {Shopping or accessing services according to a
+   20/14    . . specially adapted for billing systems
+   20/145   . . . {Payments according to the detected use or
+   20/16    . . Payments settled via telecommunication systems
+   20/18    . . involving self-service terminals [SST], vending
+machines, kiosks or multimedia terminals
+   20/20    . . Point-of-sale [POS] network systems
+   20/201   . . . {Price look-up processing, e.g. updating}
+   20/202   . . . {Interconnection or interaction of plural
+electronic cash registers [ECR] or to host
+computer, e.g. network details, transfer of
+information from host to ECR or from ECR to
+Features of the apparatus per se should be
+   20/203   . . . {Inventory monitoring}
+   20/204   . . . {comprising interface for record bearing
+medium or carrier for electronic funds transfer
+   20/206   . . . {comprising security or operator identification
+provisions, e.g. password entry}
+   20/207   . . . {Tax processing}
+   20/208   . . . {Input by product or record sensing, e.g.
+weighing or scanner processing}
+   20/209   . . . {Specified transaction journal output feature,
+e.g. printed receipt or voice output}
+   20/22    . Payment schemes or models
+   20/223   . . {based on the use of peer-to-peer networks}
+   20/227   . . {characterised in that multiple accounts are
+   20/229   . . {Hierarchy of users of accounts}
+   20/2295  . . . {Parent-child type, e.g. where parent has
+   20/24    . . Credit schemes, i.e. "pay after"
+   20/26    . . Debit schemes, e.g. "pay now"
+   20/28    . . Pre-payment schemes, e.g. "pay before"
+   20/29    . . {characterised by micropayments}
+   20/30    . characterised by the use of specific devices {or
+   20/305   . . {using wired telephone networks}
+   20/306   . . {using TV related infrastructures (external
+card used for payment with client device
+   20/308   . . {using the Internet of Things}
+   20/32    . . using wireless devices
+   20/321   . . . {using wearable devices}
+   20/322   . . . {Aspects of commerce using mobile devices
+   20/3221  . . . . {Access to banking information through M-
+   20/3223  . . . . {Realising banking transactions through M-
+   20/3224  . . . . {Transactions dependent on location of M-
+   20/3226  . . . . {Use of secure elements separate from M-
+   20/3227  . . . . {using secure elements embedded in M-
+   20/3229  . . . . {Use of the SIM of a M-device as secure
+   20/325   . . . {using wireless networks}
+   20/3255  . . . . {using mobile network messaging services
+   20/326   . . . {Payment applications installed on the mobile
+   20/3263  . . . . {characterised by activation or deactivation
+   20/3265  . . . . {characterised by personalisation for use}
+   20/3267  . . . . {In-app payments}
+   20/327   . . . {Short range or proximity payments by means
+   20/3272  . . . . {using an audio code}
+   20/3274  . . . . {using a pictured code, e.g. barcode or QR-
+code, being displayed on the M-device}
+   20/3276  . . . . {using a pictured code, e.g. barcode or QR-
+code, being read by the M-device}
+   20/3278  . . . . {RFID or NFC payments by means of M-
+   20/34    . . using cards, e.g. integrated circuit [IC] cards or
+   20/341   . . . {Active cards, i.e. cards including their own
+processing means, e.g. including an IC or chip}
+   20/3415  . . . . {Cards acting autonomously as pay-media}
+   20/342   . . . {Cards defining paid or billed services or
+   20/343   . . . {Cards including a counter}
+   20/3433  . . . . {the counter having monetary units}
+   20/3437  . . . . {the counter having non-monetary units, e.g.
+   20/346   . . . {Cards serving only as information carrier of
+   20/347   . . . {Passive cards}
+   20/348   . . . {Single-use cards, i.e. without possibility of
+   20/349   . . . {Rechargeable cards}
+   20/351   . . . {Virtual cards}
+   20/352   . . . {Contactless payments by cards}
+   20/353   . . . {Payments by cards read by M-devices}
+   20/354   . . . {Card activation or deactivation}
+   20/355   . . . {Personalisation of cards for use}
+   20/3552  . . . . {Downloading or loading of personalisation
+   20/3555  . . . . {Personalisation of two or more cards}
+   20/3558  . . . . {Preliminary personalisation for transfer to
+   20/356   . . . {Aspects of software for card payments}
+   20/3563  . . . . {Software being resident on card}
+   20/3567  . . . . {Software being in the reader}
+   20/357   . . . {Cards having a plurality of specified features}
+   20/3572  . . . . {Multiple accounts on card}
+   20/3574  . . . . {Multiple applications on card}
+   20/3576  . . . . {Multiple memory zones on card}
+   20/35765 . . . . . {Access rights to memory zones}
+   20/36    . . using electronic wallets or electronic money safes
+   20/363   . . . {with the personal data of a user}
+   20/367   . . . {involving electronic purses or money safes}
+   20/3672  . . . . {initialising or reloading thereof}
+   20/3674  . . . . {involving authentication}
+   20/3676  . . . . {Balancing accounts}
+   20/3678  . . . . {e-cash details, e.g. blinded, divisible or
+   20/38    . Payment protocols; Details thereof
+   20/381   . . {Currency conversion}
+   20/382   . . {insuring higher security of transaction}
+   20/3821  . . . {Electronic credentials}
+   20/38215 . . . . {Use of certificates or encrypted proofs of
+   20/3823  . . . {combining multiple encryption tools for a
+   20/3825  . . . {Use of electronic signatures}
+   20/3827  . . . {Use of message hashing}
+   20/3829  . . . {involving key management}
+   20/383   . . {Anonymous user system}
+   20/384   . . {using social networks}
+   20/385   . . {using an alias or single-use codes}
+   20/386   . . {using messaging services or messaging apps
+(using mobile network messaging services for
+payment, e.g. SMS G06Q 20/3255)}
+   20/387   . . {Payment using discounts or coupons (relating to
+This group covers only the usage of discounts
+or coupons interacting with the payment of the
+   20/388   . . {using mutual authentication without cards, e.g.
+   20/389   . . {Keeping log of transactions for guaranteeing
+non-repudiation of a transaction}
+   20/40    . . Authorisation, e.g. identification of payer
+or payee, verification of customer or shop
+credentials; Review and approval of payers, e.g.
+check credit lines or negative lists
+   20/401   . . . {Transaction verification}
+   20/4012  . . . . {Verifying personal identification numbers
+   20/4014  . . . . {Identity check for transactions}
+   20/40145 . . . . . {Biometric identity checks}
+   20/4015  . . . . {using location information}
+   20/40155 . . . . . {for triggering transactions}
+   20/4016  . . . . {involving fraud or risk level assessment in
+   20/4018  . . . . {using the card verification value [CVV]
+   20/403   . . . {Solvency checks}
+   20/4033  . . . . {Local solvency checks}
+   20/4037  . . . . {Remote solvency checks}
+   20/405   . . . {Establishing or using transaction specific
+   20/407   . . . {Cancellation of a transaction}
+   20/409   . . . {Device specific authentication in transaction
+   20/4093  . . . . {Monitoring of device authentication}
+   20/4097  . . . . {using mutual authentication between
+devices and transaction partners}
+   20/40975 . . . . . {using encryption therefor}
+   20/42    . . Confirmation, e.g. check or permission by the
+   20/425   . . . {using two different networks, one for
+transaction and one for security confirmation}
+   30/01    . Customer relationship services
+Group G06Q 30/01 is impacted by
+reclassification into group G06Q 30/015.
+Groups G06Q 30/01 and G06Q 30/015 should
+be considered in order to perform a complete
+   30/012   . . Providing warranty services
+   30/014   . . Providing recall services for goods or products
+   30/015   . . Providing customer assistance, e.g. assisting
+a customer within a business location or via
+Group G06Q 30/015 is incomplete pending
+reclassification of documents from group
+Groups G06Q 30/01 and G06Q 30/015 should
+be considered in order to perform a complete
+   30/018   . Certifying business or products
+   30/0185  . . {Product, service or business identity fraud}
+   30/02    . Marketing; Price estimation or determination;
+   30/0201  . . Market modelling; Market analysis; Collecting
+   30/0202  . . . Market predictions or forecasting for
+   30/0203  . . . Market surveys; Market polls
+   30/0204  . . . Market segmentation
+   30/0205  . . . . {Location or geographical consideration}
+   30/0206  . . . {Price or cost determination based on market
+   30/0207  . . Discounts or incentives, e.g. coupons or rebates
+   30/0208  . . . Trade or exchange of goods or services in
+exchange for incentives or rewards
+   30/0209  . . . {Incentive being awarded or redeemed in
+connection with the playing of a video game}
+   30/0211  . . . Determining the effectiveness of discounts or
+   30/0212  . . . {Chance discounts or incentives}
+   30/0213  . . . {Consumer transaction fees}
+   30/0214  . . . Referral reward systems
+   30/0215  . . . {Including financial accounts}
+   30/0216  . . . . {Investment accounts}
+   30/0217  . . . involving input on products or services in
+exchange for incentives or rewards
+   30/0218  . . . . {based on score}
+   30/0219  . . . {based on funds or budget}
+   30/0221  . . . {Re-usable coupons}
+   30/0222  . . . {During e-commerce, i.e. online transactions}
+   30/0223  . . . {based on inventory}
+   30/0224  . . . {based on user history}
+   30/0225  . . . {Avoiding frauds}
+   30/0226  . . . Incentive systems for frequent usage, e.g.
+frequent flyer miles programs or point systems
+   30/0227  . . . . {Frequent usage incentive value
+reconciliation between diverse systems}
+   30/0228  . . . . . {On-line clearing houses}
+   30/0229  . . . . {Multi-merchant loyalty card systems}
+   30/0231  . . . . {Awarding of a frequent usage incentive
+independent of the monetary value of a good
+or service purchased, or distance travelled}
+   30/0232  . . . . {Frequent usage rewards other than
+   30/0233  . . . . {Method of redeeming a frequent usage
+   30/0234  . . . Rebates after completed purchase
+   30/0235  . . . constrained by time limit or expiration date
+   30/0236  . . . {Incentive or reward received by requiring
+   30/0238  . . . at point-of-sale [POS]
+   30/0239  . . . {Online discounts or incentives}
+   30/0242  . . . Determining effectiveness of advertisements
+   30/0243  . . . . {Comparative campaigns}
+   30/0244  . . . . {Optimization}
+   30/0247  . . . {Calculate past, present or future revenues}
+   30/0248  . . . {Avoiding fraud}
+   30/0249  . . . {based upon budgets or funds}
+   30/0251  . . . Targeted advertisements
+   30/0252  . . . . {based on events or environment, e.g.
+   30/0253  . . . . {During e-commerce, i.e. online
+   30/0254  . . . . {based on statistics}
+   30/0255  . . . . {based on user history}
+   30/0256  . . . . . {User search}
+   30/0257  . . . . {User requested}
+   30/0258  . . . . . {Registration}
+   30/0259  . . . . {based on store location}
+   30/0261  . . . . {based on user location}
+   30/0262  . . . . {during computer stand-by mode}
+   30/0263  . . . . {based upon Internet or website rating}
+   30/0264  . . . . {based upon schedule}
+   30/0265  . . . . {Vehicular advertisement}
+   30/0266  . . . . . {based on the position of the vehicle}
+   30/0267  . . . . {Wireless devices}
+   30/0268  . . . . {at point-of-sale [POS]}
+   30/0269  . . . . {based on user profile or attribute}
+   30/0271  . . . . . {Personalized advertisement}
+   30/0272  . . . Period of advertisement exposure
+   30/0273  . . . Determination of fees for advertising
+   30/0274  . . . . {Split fees}
+   30/0276  . . . {Advertisement creation}
+   30/0277  . . . {Online advertisement}
+   30/0278  . . {Product appraisal}
+   30/0279  . . Fundraising management
+   30/0281  . . {Customer communication at a business location,
+e.g. providing product or service information,
+   30/0282  . . Rating or review of business operators or
+   30/0283  . . Price estimation or determination
+   30/0284  . . . {Time or distance, e.g. usage of parking meters
+Constructional aspects of time meters
+are classified in groups G07B 13/00,
+   30/04    . Billing or invoicing
+   30/06    . Buying, selling or leasing transactions
+   30/0601  . . Electronic shopping [e-shopping]
+   30/0603  . . . {Catalogue ordering}
+   30/0605  . . . {Supply or demand aggregation}
+   30/0609  . . . {Buyer or seller confidence or verification}
+   30/0611  . . . {Request for offers or quotes}
+   30/0613  . . . {Third-party assisted}
+   30/0615  . . . . {Anonymizing}
+   30/0617  . . . . {Representative agent}
+   30/0619  . . . . {Neutral agent}
+   30/0621  . . . {Item configuration or customization}
+   30/0623  . . . {Item investigation}
+   30/0625  . . . . {Directed, with specific intent or strategy}
+   30/0627  . . . . . {using item specifications}
+   30/0629  . . . . . {for generating comparisons}
+   30/0631  . . . {Item recommendations}
+   30/0633  . . . {Lists, e.g. purchase orders, compilation or
+   30/0635  . . . . {Processing of requisition or of purchase
+   30/0637  . . . . . {Approvals}
+   30/0639  . . . {Item locations}
+   30/0641  . . . {Shopping interfaces}
+   30/0643  . . . . {Graphical representation of items or
+   30/0645  . . Rental transactions; Leasing transactions
+   40/00    Finance; Insurance; Tax strategies; Processing of
+   40/02    . Banking, e.g. interest calculation or account
+maintenance (credit or loans G06Q 40/03)
+   40/03    . Credit; Loans; Processing thereof
+   40/04    . Trading; Exchange, e.g. stocks, commodities,
+derivatives or currency exchange
+   40/06    . Asset management; Financial planning or analysis
+   40/123   . . {Tax preparation or submission}
+   40/125   . . {Finance or payroll}
+   40/128   . . {Check-book balancing, updating or printing
+   50/00    Systems or methods specially adapted for specific
+business sectors, e.g. utilities or tourism (healthcare
+   50/01    . {Social networking}
+   50/02    . Agriculture; Fishing; Mining
+   50/06    . Electricity, gas or water supply
+   50/12    . . Hotels or restaurants
+   50/14    . . Travel agencies
+   50/163   . . . {Property management}
+   50/165   . . . {Land development}
+   50/18    . . Legal services; Handling legal documents
+   50/182   . . . {Alternative dispute resolution}
+   50/184   . . . {Intellectual property management}
+   50/186   . . . {Estate planning}
+   50/188   . . . {Electronic negotiation}
+   50/205   . . . {Education administration or guidance}
+   50/2053  . . . . {Education institution selection, admissions,
+   50/2057  . . . . {Career enhancement or continuing
+   50/26    . . Government or public services
+   50/265   . . . {Personal security, identity or safety}
+   50/28    . Logistics, e.g. warehousing, loading, distribution or
+   50/30    . Transportation; Communications
+   50/32    . . Post and telecommunications (franking apparatus
+   50/34    . Betting or bookmaking, e.g. Internet betting
+When classifying in this group, classification
+should also be made in group G07F 17/32
+   90/00    Systems or methods specially adapted for
+administrative, commercial, financial, managerial
+or supervisory purposes, not involving significant
+   90/20    . {Destination assistance within a business structure
+   90/205   . . {Building evacuation}
+   99/00    Subject matter not provided for in other groups of
+ 2220/00    Business processing using cryptography (postage
+metering system using cryptography G06Q 2250/05)
+ 2220/10    . Usage protection of distributed data files
+ 2220/12    . . Usage or charge determination
+ 2220/123   . . . involving third party for collecting or
+distributing payments, e.g. clearinghouse
+ 2220/127   . . . Adding plural layers of rights or limitations by
+other than the original producer
+ 2220/14    . . Requiring a supplemental attachment or input,
+ 2220/145   . . . Specific computer ID, e.g. serial number,
+ 2220/16    . . Copy protection or prevention
+ 2220/165   . . . Having origin or program ID
+ 2230/00    Voting or election arrangements
+ 2240/00    Transportation facility access, e.g. fares, tolls or
+ 2250/00    Postage metering systems
+ 2250/05    . using cryptography
+ 2250/053   . . Reloading or recharging
+ 2250/057   . . comprising printing details, e.g. verification of
+ 2250/10    . Special services or fees, e.g. discounts, surcharges
+ 2250/50    . with specific mail handling means
+ 2250/60    . involving mailed item weight
+ 2250/70    . Specific printing
+ 2250/90    . Specialized function performed
+ 2250/905   . . Display controlling

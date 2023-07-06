@@ -1,0 +1,682 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+MACHINE TOOLS; METAL-WORKING NOT OTHERWISE PROVIDED FOR
+PLANING; SLOTTING; SHEARING; BROACHING; SAWING; FILING; SCRAPING;
+LIKE OPERATIONS FOR WORKING METAL BY REMOVING MATERIAL, NOT
+OTHERWISE PROVIDED FOR (making toothed gears or the like B23F; cutting metal by
+applying heat locally B23K; arrangements for copying or controlling B23Q)
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Planing or slotting machines cutting by relative
+movement of the tool and workpiece in a
+    1/003   . {for planing elongated workpieces}
+    1/02    . by movement of the work-support
+    1/04    . . with the tool supported only on one side of the
+    1/06    . . with the tool supported on both sides of the bed
+    1/08    . by movement of the tool
+    1/10    . . with means for adjusting the tool-guide vertically
+    1/12    . . . with the tool supported only on one side of the
+    1/14    . . . with the tool supported on both sides of the bed
+    1/16    . . without means for adjusting the tool-guide
+    1/18    . cutting on both the forward and the return stroke
+    1/20    . with tool-supports or work-supports specially
+mounted or guided for working in different
+directions or at different angles; Special purpose
+    1/205   . . {Planing nuts, bolt heads or other prismatic
+    1/22    . . for planing ingots or the like (scrubbing or
+peeling ingots by milling B23C 3/14)
+    1/24    . . for planing inner surfaces, e.g. of moulds
+    1/26    . . for planing edges or ridges or cutting grooves
+(cutting helical grooves B23D 5/02)
+    1/28    . . in which the tool or workpiece is fed otherwise
+than in a straight line, e.g. for planing profiled
+    1/30    . . . in which the direction of feed is controlled by
+a copying device, e.g. by a pattern (features of
+    3/00    Planing or slotting machines cutting by relative
+movement of the tool and workpiece in a vertical
+    3/02    . for cutting grooves (cutting helical grooves
+    3/04    . in which the tool or workpiece is fed otherwise than
+    3/06    . . in which the direction of feed is controlled by
+a copying device, e.g. by a pattern (features of
+    5/00    Planing or slotting machines cutting otherwise
+than by relative movement of the tool and
+    5/02    . involving rotary and straight-line movements only,
+e.g. for cutting helical grooves
+    5/04    . controlled by a copying device, e.g. by a pattern
+(features of copying devices B23Q 35/00)
+    7/00    Planing or slotting machines characterised only
+by constructional features of particular parts
+(constructional features of these parts per se B23Q)
+    7/02    . of frames; of work-table beds
+    7/04    . of pillars, of cross-beams
+    7/06    . of tool-carrying arrangements
+    7/10    . of drives for reciprocating parts
+    7/105   . . {hydraulically driven}
+    7/12    . of arrangements for impact damping or regenerating
+    9/00    Hand-operated planing devices; Portable planing
+   11/00    Planing or slotting devices able to be attached
+to a machine tool, whether or not replacing an
+operative portion of the machine tool
+   13/00    Tools or tool holders specially designed for planing
+or slotting machines (features applicable also to
+turning-machines B23B 27/00, B23B 29/00; for
+   13/005   . {Tools or tool holders adapted to operate in both the
+   13/02    . Pivotally-mounted holders
+   13/04    . Holders for tool sets
+   13/06    . Devices for lifting or lowering the tool
+   15/00    Shearing machines or shearing devices cutting by
+blades which move parallel to themselves
+   15/002   . {for cutting in more than one direction, e.g. angle
+   15/005   . {for bias cutting of webs or sheets}
+ 2015/007   . {reciprocating horizontally}
+   15/02    . having both upper and lower moving blades
+   15/04    . having only one moving blade
+   15/06    . Sheet shears {(B23D 15/002 and B23D 15/005 take
+   15/08    . . with a blade moved in one plane, e.g.
+perpendicular to the surface of the sheet
+   15/10    . . with a blade moved in a curved surface, e.g. for
+producing an edge with a curved cross-section
+   15/12    . characterised by drives or gearings therefor
+   15/14    . . actuated by fluid or gas pressure
+   15/145   . . . {actuated by explosion}
+   17/00    Shearing machines or shearing devices cutting
+by blades pivoted on a single axis (on an axis
+parallel to the blade B23D 15/10; hand-held devices
+   17/02    . characterised by drives or gearings therefor
+   17/04    . . actuated by a rotary shaft
+   17/06    . . actuated by fluid or gas pressure
+   17/08    . . actuated by hand or foot operated lever
+   19/00    Shearing machines or shearing devices cutting by
+rotary discs (by friction saw-discs B23D 45/00)
+   19/02    . having both a fixed shearing blade and a rotary
+   19/04    . having rotary shearing discs arranged in co-
+   19/06    . . with several spaced pairs of shearing discs
+working simultaneously, e.g. for trimming or
+   19/065   . . . {for cutting along lines not parallel to the
+longitudinal direction of the material, e.g.
+   19/08    . for special use, e.g. for cutting curves, for
+   21/00    Machines or devices for shearing or cutting tubes
+(by sawing, see the relevant groups for sawing
+machines or sawing devices; as additional equipment
+for deep drawing presses B21D 24/16)
+   21/003   . {by tools working in different directions
+   21/006   . {and sealing, crushing or chamfering the tubes}
+   21/02    . otherwise than in a plane perpendicular to the axis
+of the tube, e.g. for making mitred cuts, for making
+   21/04    . Tube-severing machines with rotating tool-carrier
+   21/06    . Hand-operated tube-cutters
+   21/08    . . with cutting wheels
+   21/10    . . with other cutting blades or tools
+   21/12    . . . with provision for hammering on the tool
+   21/14    . cutting inside the tube
+   21/145   . . {hand operated}
+   23/00    Machines or devices for shearing or cutting
+profiled stock (hand-held devices B23D 29/00)
+ 2023/005   . {for window coverings}
+   23/02    . otherwise than in a plane perpendicular to the axis
+   23/04    . by means of holding-dies, arranged side by side,
+subjecting the stock to torsional stress
+   25/00    Machines or arrangements for shearing stock
+while the latter is travelling otherwise than in the
+direction of the cut (controlling slack in travelling
+   25/02    . Flying shearing machines (B23D 25/12 takes
+   25/04    . . in which a cutting unit moves bodily with
+the work while cutting (B23D 25/06 takes
+   25/06    . . having a cutting device mounted on an oscillating
+   25/08    . . having two coacting shearing blades mounted
+   25/10    . . . on co-operating beams moving parallel to each
+other and attached to lever mechanisms
+   25/12    . Shearing machines with blades on coacting rotating
+   25/14    . without regard to the exact dimensions of the
+resulting material, e.g. for cutting-up scrap
+   27/00    Machines or devices for cutting by a nibbling
+   27/02    . Hand-held devices
+   27/04    . . actuated by electric power
+   27/06    . . actuated by fluid or gas pressure
+   29/00    Hand-held metal-shearing or metal-cutting devices
+(with nibbling action B23D 27/02; hand-operated
+devices for metal-cutting otherwise than by shearing
+   29/002   . {for cutting wire or the like}
+   29/005   . {for cutting sheets}
+   29/007   . {for splitting nuts (hand operated tools with cutting
+action actuated by muscle power B26B 17/003)}
+   29/02    . Hand-operated metal-shearing devices
+   29/023   . . {for cutting wires}
+   29/026   . . {for cutting sheets}
+   31/00    Shearing machines or shearing devices covered
+by none or more than one of the groups
+B23D 15/00 - B23D 29/00; Combinations of
+   31/001   . {for trimming deep drawn products (combined with
+deep-drawing presses B21D 24/16)}
+   31/002   . {Breaking machines, i.e. pre-cutting and subsequent
+ 2031/005   . . . {Cap holders therefor}
+   31/008   . {Cutting-up scrap (disintegrating by knives in
+general B02C 18/00; cutting-up scrap while the
+material is travelling otherwise than in the direction
+   31/02    . for performing different cutting operations
+on travelling stock, e.g. slitting and severing
+   31/04    . for trimming stock combined with devices for
+   33/00    Accessories for shearing machines or shearing
+devices (feeding stock to machines or removing stock
+   33/003   . {for obtaining pieces of a predetermined weight or
+volume, e.g. control arrangements (B23D 36/0025
+   33/006   . {for obtaining pieces of a predetermined length,
+e.g. control arrangements (B23D 36/0033 takes
+   33/02    . Arrangements for holding, guiding, and/or feeding
+   33/025   . . {Guillotines with holding means behind the
+   33/04    . . for making circular cuts
+   33/06    . . in which the direction of feed is controlled by
+a copying device, e.g. by a pattern (features of
+   33/08    . Press-pads; Counter-bases; Hold-down devices
+   33/10    . Stops for positioning work
+   33/12    . Equipment for indicating where to cut
+   35/00    Tools for shearing machines or shearing devices;
+Holders or chucks for shearing tools
+   35/001   . {cutting members}
+   35/002   . {Means for mounting the cutting members}
+   35/004   . . {for circular cutting members}
+   35/005   . {Adjusting the position of the cutting members}
+   35/007   . . {for circular cutting members}
+   35/008   . {Means for changing the cutting members
+   36/00    Control arrangements specially adapted for
+machines for shearing or similar cutting, or
+for sawing, stock which the latter is travelling
+otherwise than in the direction of the cut
+   36/0008  . {for machines with only one cutting, sawing, or
+   36/0016  . . {for minimising waste}
+   36/0025  . . {for obtaining pieces of a predetermined weight
+   36/0033  . . {for obtaining pieces of a predetermined length}
+   36/0041  . . . {the tool moving continuously}
+   36/005   . . . . {and taking account of marks, e.g. on the
+   36/0058  . . . {the tool stopping for a considerable time after
+   36/0066  . . . . {and taking account of marks, e.g. on the
+   36/0075  . . . {and taking account of the temperature of the
+   36/0083  . . {for cutting off of the ends of the products, e.g.
+   36/0091  . {for machines with more than one cutting, shearing,
+   37/00    Broaching machines or broaching devices
+   37/005   . {for cylindrical workpieces, e.g. crankshafts (takes
+precedence over other subgroups)}
+   37/02    . Broaching machines with horizontally-arranged
+   37/04    . . for broaching inner surfaces
+   37/06    . . for broaching outer surfaces
+   37/08    . Broaching machines with vertically-arranged
+   37/10    . . for broaching inner surfaces
+   37/12    . . for broaching outer surfaces
+   37/14    . Broaching machines with rotatably-arranged
+   37/16    . . for broaching helical grooves
+   37/18    . Broaching machines with working tools mounted on
+   37/20    . Broaching machines with arrangements for working
+   37/22    . for special purposes (B23D 37/14 takes precedence)
+   39/00    Accessories for broaching machines or broaching
+   41/00    Broaching machines or broaching devices
+characterised only by constructional features of
+particular parts (constructional features of these
+   41/02    . of frames; of work supports
+   41/04    . of tool-carrying arrangements
+   41/06    . of devices for feeding, clamping, or ejecting
+   41/08    . of drives; of control devices
+   41/083   . . {Hydraulic drives}
+   41/086   . . {Control devices}
+   43/00    Broaching tools (for cutting gear teeth B23F 21/26)
+   43/005   . {for cutting helical grooves}
+   43/02    . for cutting by rectilinear movement (B23D 43/08
+ 2043/025   . . {for producing grooves in turbines, e.g. for the
+   43/04    . . having inserted cutting edges
+   43/06    . for cutting by rotational movement
+ 2043/063   . . {with cutters mounted externally}
+ 2043/066   . . {with cutters mounted internally}
+   43/08    . mounted on an endless chain or belt
+Sawing (surgical saws A61B 17/14; sawing wood or similar material
+B27B; {sawing stone B28D 1/02})
+   45/00    Sawing machines or sawing devices with
+circular saw blades or with friction saw
+discs (shearing machines with rotary discs
+   45/003   . {for particular purposes}
+   45/006   . {with means to attach the sawing device to the
+   45/02    . with a circular saw blade or the stock mounted on a
+   45/021   . . {with the saw blade mounted on a carriage
+(B23D 45/06, B23D 45/046 take precedence)}
+   45/022   . . . {the carriage performing a vertical movement
+   45/024   . . . {the saw blade being adjustable according
+to depth or angle of cut (B23D 45/022 takes
+   45/025   . . . . {Radial sawing machines}
+   45/027   . . . {the saw carriage being mounted on a carriage,
+e.g. gantry-type sawing machines}
+   45/028   . . . {the saw carriage being mounted on a pivoted
+   45/04    . with a circular saw blade or the stock carried by a
+   45/042   . . {with the saw blade carried by a pivoted lever
+(B23D 45/028, B23D 45/065 take precedence)}
+   45/044   . . . {the saw blade being adjustable according to
+angle of cut (B23D 45/025 takes precedence)}
+   45/046   . . . {the pivoted lever being mounted on a
+   45/048   . . . . {the saw blade being adjustable according to
+   45/06    . with a circular saw blade arranged underneath a
+   45/061   . . {the saw blade being mounted on a carriage}
+   45/062   . . . {the saw blade being adjustable according to
+   45/063   . . . {the carriage performing a vertical movement
+   45/065   . . {with the saw blade carried by a pivoted lever}
+   45/066   . . . {the pivoted lever being mounted on a
+   45/067   . . . {the saw blade being adjustable according to
+   45/068   . . {the saw blade being adjustable according
+to depth or angle of cut (B23D 45/061,
+   45/08    . with a ring blade having inside saw teeth
+   45/10    . with a plurality of circular saw blades
+{(B23D 45/143, B23D 45/165 take precedence)}
+   45/102   . . {some of which turn about perpendicular axes
+(B23D 45/143 takes precedence)}
+   45/105   . . {operating within the same plane}
+   45/107   . . {mounted on a turret}
+   45/12    . with a circular saw blade for cutting tubes
+   45/122   . . {for cutting slots in tubes}
+   45/124   . . {the workpieces turning about their longitudinal
+axis during the cutting operations}
+   45/126   . . {with the tool turning around the workpieces}
+   45/128   . . {with the tool introduced into the tubes and
+cutting from the inside outwards}
+   45/14    . for cutting otherwise than in a plane perpendicular
+to the axis of the stock, e.g. for making a mitred cut
+   45/143   . . {with a plurality of circular saw blades}
+   45/146   . . . {the saw blades being angularly fixed}
+   45/16    . Hand-held sawing devices with circular saw blades
+   45/165   . . {with a plurality of saw blades or saw blades
+   45/18    . Machines with circular saw blades for sawing
+stock while the latter is travelling otherwise than in
+the direction of the cut (control of such machines
+   45/20    . . Flying sawing machines, the saw carrier of which
+is reciprocated in a guide and moves with the
+   45/22    . . Flying sawing machines with lever-supported saw
+carrier which moves in a complete circular path
+   45/24    . . Flying sawing machines with lever-supported saw
+carrier which oscillates in an arc
+   45/26    . with high-speed cutting discs, performing the cut
+by frictional heat melting the material (grinders for
+   47/00    Sawing machines or sawing devices working
+with circular saw blades, characterised only
+by constructional features of particular parts
+(constructional features of these parts per se B23Q;
+details or components, e.g. casings, bodies, of
+portable power-driven tools not particularly related to
+the operation performed B25F 5/00)
+   47/005   . {Vibration-damping}
+   47/02    . of frames; of guiding arrangements for work-table
+   47/04    . of devices for feeding, positioning, clamping, or
+   47/042   . . {for conveying work to, or discharging work
+   47/045   . . {feeding work into engagement with the saw
+   47/047   . . . {the work being mounted on rotating work
+   47/06    . . for stock of indefinite length
+   47/065   . . . {for laterally feeding long workpieces}
+   47/08    . of devices for bringing the circular saw blade to the
+workpiece or removing same therefrom
+   47/10    . . actuated by fluid or gas pressure
+   47/12    . of drives for circular saw blades
+   47/123   . . {acting on the disc of the saw blade}
+   49/00    Machines or devices for sawing with straight
+reciprocating saw blades, e.g. hacksaws
+   49/001   . {transportable, e.g. fitted with wheels}
+   49/002   . {with means to attach the sawing device to the
+   49/003   . {having a plurality of saw blades or saw blades
+   49/005   . . {with opposed saw blades}
+   49/006   . . {with contiguous, oppositely reciprocating saw
+   49/007   . {Jig saws, i.e. machine saws with a vertically
+reciprocating narrow saw blade chucked at both
+   49/008   . . {hand-driven or foot-driven}
+   49/02    . Hacksaw machines with straight saw blades secured
+to a rectilinearly-guided frame, e.g. with the frame
+fed stepwise in the plane of the guide
+   49/04    . Hacksaw machines with straight saw blades secured
+   49/06    . Hacksaw machines with straight saw blades for
+   49/08    . Pad-saw machines, i.e. machines in which the blade
+is attached to a carrier at one end only
+   49/10    . Hand-held or hand-operated sawing devices with
+   49/105   . . {with means for guiding the sawing device}
+   49/11    . . for special purposes, e.g. offset-blade hand;
+{Hand saws having spaced blades; Hand saws for
+sawing grooves or square holes}
+   49/12    . . Hacksaws (B23D 49/11, B23D 49/16 take
+precedence; bows adjustable in length or height
+   49/125   . . . {with wire-type frames}
+   49/14    . . Pad saws {(B23D 49/105, B23D 49/11,
+   49/16    . . actuated by electric or magnetic power or prime
+movers (B23D 49/11 takes precedence)
+   49/162   . . . {Pad sawing devices}
+   49/165   . . . . {with means to move the saw blades in an
+   49/167   . . . . {with means to adjust the guide plate or with
+means to adjust the plane in which the saw
+   51/00    Sawing machines or sawing devices working
+with straight blades, characterised only by
+constructional features of particular parts
+(constructional features of these parts per se B23Q;
+details or components, e.g. casings, bodies, of
+portable power-driven tools not particularly related
+to the operation performed B25F 5/00); Carrying or
+attaching means for tools, covered by this subclass,
+which are connected to a carrier at both ends
+   51/005   . {Devices for moving the tool to the workpiece}
+   51/01    . characterised by the handle
+   51/02    . of beds; of guiding arrangements for work-tables or
+   51/025   . . {of arrangements for guiding the saw blade}
+   51/03    . . with extensible or collapsible frames {; Frames
+with spare blade storage means}
+   51/04    . of devices for feeding, positioning, clamping, or
+   51/043   . . {for conveying work to, or discharging work
+   51/046   . . {for feeding work into engagement with the saw
+blade, e.g. rotating work while sawing}
+   51/06    . . for stock of indefinite length
+   51/065   . . . {for laterally feeding long workpieces}
+   51/08    . of devices for mounting straight saw blades or other
+   51/10    . . for hand-held or hand-operated devices
+   51/12    . . for use with tools, dealt with in this subclass,
+which are connected to a carrier at both ends, e.g.
+bows adjustable in length or height
+   51/125   . . . {Blade tensioning means}
+   51/14    . . . Attachment of the tool
+   51/16    . of drives or feed mechanisms for straight tools, e.g.
+   51/163   . . {Vibratory electromagnetic drives therefor}
+   51/166   . . {Devices for arresting movement of the saw
+blades (B23D 51/20 takes precedence)}
+   51/18    . . actuated by fluid or gas pressure (B23D 51/20
+   51/20    . . with controlled feed of the tool, or with special
+arrangements for relieving or lifting the tool on
+   53/00    Machines or devices for sawing with strap saw-
+blades which are effectively endless in use, e.g. for
+   53/001   . {transportable, e.g. fitted with wheels}
+   53/003   . {with means to attach the sawing device to the
+   53/005   . {with a plurality of band saw blades or band saw
+blades having plural cutting zones, e.g. contiguous
+oppositely-moving saw blade portions (for length
+   53/006   . {Convertible sawing devices}
+   53/008   . {Open-end band saws}
+   53/02    . with stationarily-mounted wheels, {i.e. during
+sawing} carrying the strap (B23D 53/06 takes
+   53/023   . . {Arrangements for tilting the head carrying the
+   53/026   . . {the band saw blade being guided in a horizontal
+   53/04    . with the wheels carrying the strap mounted shiftably
+or swingingly {, i.e. during sawing}, other than
+   53/045   . . {with pivotedly mounted head carrying the saw
+   53/06    . with shiftable or swinging work-table
+   53/08    . for cutting profiled stock
+   53/10    . Sawing devices working with strap saw-blades able
+to be attached to a machine tool, whether or not
+replacing an operative portion of the machine tool
+   53/12    . Hand-held or hand-operated sawing devices
+   55/00    Sawing machines or sawing devices working
+with strap saw blades, characterised only by
+constructional features of particular parts
+(constructional features of these parts per se B23Q)
+   55/005   . {Devices for damping vibrations}
+   55/02    . of frames; of tables
+   55/023   . . {of tables (B23D 53/06 takes precedence)}
+   55/026   . . . {the table being adjustable according to depth
+   55/04    . of devices for feeding or clamping work
+   55/043   . . {for conveying work to the sawing machine}
+   55/046   . . {for feeding work into engagement with the saw
+blade (B23D 53/06 takes precedence)}
+   55/06    . of drives for strap saw blades; of wheel mountings
+   55/08    . of devices for guiding or feeding strap saw blades
+   55/082   . . {Devices for guiding strap saw blades}
+   55/084   . . . {which automatically detect or correct band
+   55/086   . . . {with means for automatically adjusting the
+   55/088   . . {Devices for feeding strap saw blades}
+   55/10    . of devices for tensioning strap saw blades
+(B23D 55/06 takes precedence; incorporated in the
+   57/00    Sawing machines or sawing devices not
+covered by one of the preceding groups
+   57/0007  . {using saw wires}
+   57/0015  . . {hand-held or hand-operated}
+   57/0023  . . {with a plurality of saw wires or saw wires
+   57/003   . {Sawing machines or sawing devices working with
+saw wires, characterised only by constructional
+features of particular parts (constructional features
+   57/0038  . . {of frames; of tables}
+   57/0046  . . {of devices for feeding, conveying or clamping
+   57/0053  . . {of drives for saw wires; of wheel mountings; of
+   57/0061  . . {of devices for guiding or feeding saw wires}
+   57/0069  . . {of devices for tensioning saw wires}
+   57/0076  . {Devices for converting any machine for sawing
+   57/0084  . {specially adapted for sawing under water or at
+places accessible with difficulty}
+   57/0092  . {dismountable, collapsible or transportable, e.g. by
+   57/023   . . {hand-held or hand-operated}
+   57/026   . . {with a plurality of saw chains}
+   59/00    Accessories specially designed for sawing machines
+or sawing devices (lubricating or cooling machine
+   59/001   . {Measuring or control devices, e.g. for automatic
+control of work feed pressure on band saw blade
+(measuring in general G01; controlling in general
+   59/002   . . {for the position of the saw blade (B27B 5/36 and
+   59/003   . . . {Indicating the cutting plane on the workpiece,
+e.g. by projecting a laser beam}
+   59/005   . . {for preventing collision of saw blades with other
+   59/006   . {for removing or collecting chips}
+   59/007   . {for mounting a portable sawing device on a frame
+   59/008   . {comprising computers}
+   59/02    . Devices for lubricating or cooling circular saw
+   59/025   . . {the lubricating or cooling medium being applied
+through the mounting means of the tool, e.g. the
+   59/04    . Devices for lubricating or cooling straight or strap
+   61/00    Tools for sawing machines or sawing devices (tools
+for trepanning B23B 51/04); Clamping devices for
+   61/003   . {Rotary saws comprising an essentially cylindrical
+body having cutting teeth arranged on its surface}
+   61/006   . {Oscillating saw blades}
+   61/02    . Circular saw blades
+   61/021   . . {Types of set; Variable teeth, e.g. variable in
+height or gullet depth: Varying pitch; Details of
+   61/023   . . {with inserted segments having more than one
+   61/025   . . {Details of saw blade body}
+   61/026   . . . {Composite body, e.g. laminated, body of
+   61/028   . . {of special material}
+   61/04    . . with inserted saw teeth {the teeth being
+   61/06    . . . in exchangeable arrangement
+   61/065   . . . . {Adjustable teeth}
+   61/08    . . Ring saw blades with internal saw teeth
+   61/10    . . clamped between hubs; Clamping or aligning
+   61/12    . Straight saw blades; Strap saw blades
+   61/121   . . {Types of set; Variable teeth, e.g. variable in
+height or gullet depth; Varying pitch; Details of
+   61/122   . . {with inserted segments having more than one
+   61/123   . . {Details of saw blade body}
+   61/125   . . . {Composite body, e.g. laminated, body of
+   61/126   . . {having cutting teeth along both edges}
+   61/127   . . {of special material}
+   61/128   . . {Sabre saw blades}
+   61/14    . . with inserted saw teeth {, i.e. the teeth being
+   61/16    . . . in exchangeable arrangement
+   61/18    . Sawing tools of special type, e.g. wire saw strands,
+saw blades or saw wire equipped with diamonds
+or other abrasive particles in selected individual
+positions {(cut-off wheels of bonded abrasive or
+with inserted abrasive blocks B24D 5/12)}
+   61/185   . . {Saw wires; Saw cables; Twisted saw strips}
+   63/00    Dressing the tools of sawing machines or sawing
+devices for use in cutting any kind of material, e.g.
+in the manufacture of sawing tools
+   63/001   . {Devices for positioning the dressing tool with
+   63/003   . {Saw clamping devices}
+   63/005   . {Workpiece indexing equipment specially adapted
+to form part of sawing tool dressing machines}
+   63/006   . {Saw teeth setting devices working with setting
+   63/008   . {using computer control means}
+   63/02    . Setting saw teeth by means of hand-operated
+{or foot-operated} devices {(B23D 63/006 takes
+   63/023   . . {Devices of the portable type carried by one
+hand and operable by one hand or two hands, e.g.
+   63/026   . . {Foot-operated devices}
+   63/04    . Setting saw teeth of circular, straight, or strap
+saw blades by means of power-operated devices
+{(B23D 63/006 takes precedence)}
+   63/06    . Upsetting the cutting edges of saw teeth, e.g.
+   63/08    . Sharpening the cutting edges of saw teeth
+   63/105   . . . {sharpening circular saw blades}
+   63/123   . . . {using two or more grinding wheels
+   63/126   . . . {the tool being a grinding worm}
+   63/14    . . . Sharpening circular saw blades
+   63/16    . . of chain saws (of mortise chain cutters
+   63/162   . . . {by a reciprocating or rotating rod-like
+sharpening tool, e.g. file, grinding cylinder}
+   63/164   . . . {with tools that remain stationarily positioned
+   63/166   . . . {without removal of the saw chain from the
+guide bar (B23D 63/162 takes precedence)}
+   63/168   . . . . {the saw chain moving around the guide bar}
+   63/18    . Straightening damaged saw blades; Reconditioning
+the side surface of saw blades, e.g. by grinding
+   63/20    . Combined processes for dressing saw teeth, e.g.
+   63/201   . . {Combined setting and grinding}
+   63/203   . . {Combined setting and filing}
+   63/205   . . {Combined setting and upsetting}
+   63/206   . . {Combined upsetting and grinding}
+   63/208   . . {Combined upsetting and filing}
+   65/00    Making tools for sawing machines or sawing
+devices for use in cutting any kind of material
+   65/02    . Making saw teeth by punching, cutting, or planing
+   65/04    . Making saw teeth by milling
+Filling or rasping (sharpening saw teeth thereby B23D 63/10)
+   67/00    Filing or rasping machines or devices (securing
+arrangements for files or rasps B23D 71/00)
+   67/02    . with reciprocating tools, mounted on a yoke or the
+   67/04    . with reciprocating tools, attached to a carrier at one
+   67/06    . with rotating tools
+   67/08    . with tools mounted on an endless chain or belt
+   67/10    . for special use, e.g. for filing keys; Accessories
+   67/12    . Hand-held or hand-operated filing or rasping
+devices (hand files or rasps B23D 71/04)
+   69/00    Filing or rasping machines or devices.
+characterised only by constructional features of
+particular parts, e.g. guiding arrangements, drives
+(constructional features of these parts per se B23Q);
+Accessories for filing or rasping (attached to the tool
+   69/02    . Guiding arrangements for hand tools
+   71/00    Filing or rasping tools; Securing arrangements
+therefor (tool holders for machine tools B23Q 3/00;
+handles for hand implements B25G)
+   71/02    . for filing or rasping machines or devices
+   71/025   . . {for rubber-like material}
+   71/04    . Hand files or hand rasps (carrying or attaching
+means for tools which are connected to a carrier
+at both ends B23D 51/12; guiding arrangements
+   71/06    . . using a single interchangeable blade
+   71/08    . . using a plurality of interchangeable cutting
+   71/10    . Accessories for filing or rasping tools, e.g. for
+preventing scoring of workpieces by the edges of
+   73/00    Making files or rasps
+   73/02    . Preliminary treatment of blanks, e.g. grinding,
+polishing, specially adapted for the manufacture of
+   73/04    . Methods or machines for the manufacture of files
+or rasps (non-mechanical methods, see the relevant
+   73/06    . . Cutting the working surfaces by means of chisels
+   73/08    . . Milling, planing, slotting, knurling, or broaching
+   73/10    . . Grinding the working surfaces
+   73/12    . . Peculiar procedures for sharpening or otherwise
+treating the working surfaces (special treatment
+by sand-blast B24C 1/02; sharpening files by
+   73/14    . Tools or accessories specially adapted for making
+files or rasps, e.g. chisels, supporting-frames
+   75/00    Reaming machines or reaming devices (tool holders
+for machine tools B23Q 3/00; handles for hand
+   75/005   . {Hand-held or hand-operated reaming devices}
+   77/003   . {with means for preventing chatter}
+   77/006   . {with means for lubricating or cooling}
+   77/02    . Reamers with inserted cutting edges
+   77/025   . . {Securing arrangements for cutting inserts}
+   77/04    . . with cutting edges adjustable to different
+diameters along the whole cutting length
+   77/042   . . . {by means of oblique planes}
+   77/044   . . . {by means of screws}
+   77/046   . . . {by means of radial cams}
+   77/048   . . . {by means of conical screw threads}
+   77/06    . Reaming with means for compensating wear
+   77/08    . . by spreading slotted parts of the tool body
+   77/10    . . by expanding a tube-like non-slotted part of the
+   77/12    . Reamers with cutting edges arranged in tapered
+   77/14    . Reamers for special use, e.g. for working cylinder
+   79/00    Methods, machines, or devices not covered
+elsewhere, for working metal by removal of
+material (by combined operations B23D 81/00;
+cutting by electron-beam B23K 15/00, by laser beam
+B23K 26/00; by electro-erosion B23H; tool holders
+for machine tools B23Q 3/00; handles for hand
+   79/005   . {for thermal deburring (B23D 79/025 takes
+   79/02    . Machines or devices for scraping (turning-machines
+for bevelling, chamfering, or deburring the ends of
+   79/021   . . {for removing welding, brazing or soldering
+burrs, e.g. flash, on pipes or rods}
+   79/025   . . . . {including other than cutting means, e.g. hot
+   79/026   . . {for removing welding flashes on rails}
+   79/028   . . {for removing welding flashes on chain links}
+   79/04    . . with rotating cutting-tool, e.g. for smoothing
+   79/06    . . with reciprocating cutting-tool
+   79/08    . . Hand scraping-implements
+   79/10    . . Accessories for holding scraping tools or work to
+   79/12    . Machines or devices for peeling bars or tubes
+making use of cutting bits arranged around the
+workpiece, otherwise than by turning (by turning
+   81/00    Methods, machines, or devices for working metal,
+covered by more than one main group in this
+subclass (in combination with other metal-working
+operations B23P 13/00, B23D 23/00)
+ 2277/02    . Cutting head and shank made from two different
+components which are releasably or non-releasably
+ 2277/06    . Connections between component parts
+ 2277/061   . . Brazed connections
+ 2277/062   . . Clamping the cutting insert or cutting bit by
+ 2277/063   . . Clamping the cutting insert or cutting bit using an
+elastically deformable clamping member
+ 2277/064   . . using a specially shaped fixation hole in the
+ 2277/065   . . Glued connections
+ 2277/066   . . using a hollow screw, e.g. for the transmission of
+ 2277/067   . . using heating and cooling, i.e. heat shrinking
+ 2277/068   . . using a groove in the top face of the cutting insert
+ 2277/08    . Adjustment mechanisms
+ 2277/081   . . for axial adjustment of the cutting edge, cutting
+ 2277/083   . . with means to prevent the user accessing the
+ 2277/085   . . comprising hydraulics
+ 2277/086   . . comprising gears
+ 2277/088   . . with an adjustment screw of special form
+ 2277/10    . comprising means for damping of vibration, i.e. for
+ 2277/105   . . with cutting edges located at unequal angles
+around the periphery of the tool
+ 2277/14    . Means for burnishing
+ 2277/16    . Use of centrifugal force to activate cutting means
+ 2277/20    . Number of cutting edges
+ 2277/24    . Materials of the tool or the intended workpiece,
+methods of applying these materials
+ 2277/2407  . . Applied by chemical vapour deposition [CVD]
+processes (coating by chemical vapour deposition
+ 2277/2414  . . Applied by physical vapour deposition [PVD]
+processes (coating by physical vapour deposition
+ 2277/2428  . . Ceramics, e.g. aluminium oxide or silicone nitride
+ 2277/2435  . . Cubic boron nitride [CBN]
+ 2277/245   . . . polycrystalline [PCD]
+ 2277/2457  . . Elastomers, e.g. rubber
+ 2277/2464  . . Hard metal, i.e. cemented carbide
+ 2277/2478  . . . high speed steel
+ 2277/2485  . . Titanium nitride
+ 2277/2492  . . Titanium carbide
+ 2277/26    . Means for breaking chips
+ 2277/30    . Chip guiding means
+ 2277/32    . Details of the region preceding the axial cutting
+ 2277/34    . comprising cutting inserts made from different
+ 2277/36    . with the diameter of the tool decreasing in the
+direction of the shank from the cutting tip
+ 2277/38    . comprising eccentrics
+ 2277/40    . configured to ream an external surface
+ 2277/42    . comprising floating cutting heads
+ 2277/44    . comprising chip grooves, i.e. flutes, of special form
+ 2277/50    . configured as a hand tool
+ 2277/52    . Details of helices, e.g. helix angles or helices of
+ 2277/54    . comprising cutting inserts inclined in the axial plane
+ 2277/56    . comprising an indication scale
+ 2277/58    . Keys, e.g. spanners or allen keys, for assembling or
+ 2277/60    . comprising means for lubrication or cooling
+ 2277/62    . Margins, i.e. the area on the circumference of the
+tool immediately behind the axial cutting edge
+ 2277/64    . Markings, letters or numbers
+ 2277/66    . Measurement of the tool or bore
+ 2277/70    . Polygonal sections, e.g. for torque transmission
+between parts able to be uncoupled
+ 2277/72    . comprising a body having a special profile, i.e.
+ 2277/74    . comprising serrations
+ 2277/78    . for use with holes associated with spark plugs or
+ 2277/80    . comprising a spring
+ 2277/82    . for producing a stepped bore
+ 2277/84    . with tangentially mounted cutting inserts
+ 2277/86    . comprising a thread

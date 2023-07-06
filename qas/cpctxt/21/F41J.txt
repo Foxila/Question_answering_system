@@ -1,0 +1,111 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+TARGETS; TARGET RANGES; BULLET CATCHERS {(targets for shooting or hurling
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Targets; Target stands; Target holders
+(F41J 2/00 - F41J 11/00 take precedence; targets
+combined with bullet catchers F41J 13/02)
+    1/01    . Target discs characterised by their material,
+structure or surface, {e.g. clay pigeon targets
+characterised by their material}(F41J 5/044 takes
+    1/08    . for ordnance, e.g. cannons; for attacking by aircraft;
+Full-scale models imitating target objects, e.g.
+    1/10    . Target stands; Target holders
+    2/00    Reflecting targets, e.g. radar-reflector targets;
+Active targets transmitting electromagnetic {or
+    2/02    . Active targets transmitting infra-red radiation
+    3/00    Targets for arrows or darts, e.g. for sporting
+or amusement purposes {(targets for shooting or
+    3/0004  . {Archery targets}
+    3/0014  . . {Dartboard holders}
+    3/0019  . . . {Stands or wall mountings especially adapted
+    3/0023  . . . {Holders especially adapted for rotating the
+    3/0028  . . . {Dart cabinets, i.e. cabinets adapted for the
+dartboard or dartboard accessories}
+    3/0033  . . {Dartboards for use with safety darts}
+    3/0038  . . . {having a smooth surface especially for suction
+    3/0042  . . . {having perforations for receiving blunt tip
+    3/0047  . . . {having protrusions for receiving blunt tip darts
+    3/0052  . . . {having a hook and loop surface for hook and
+    3/0057  . . . {having a magnetic surface for receiving
+    3/0066  . . . {Segmentation of conventional target faces}
+    3/0071  . . . {Non-conventional target faces}
+    3/0076  . . . . {Target faces simulating a different sport or
+game, e.g. football, billiard or rugby}
+    3/008   . . . {characterised by the material}
+    3/0085  . . . . {made of natural fibres}
+    3/009   . . . . {made of plastic or foam}
+    3/0095  . . {Manufacture of dartboards}
+    3/02    . Indicators or score boards for arrow or dart games
+{(F41J 5/00 takes precedence; timetables, lists or
+forms for shooter enlistment B42D 15/0066)}
+    5/00    Target indicating systems; Target-hit or score
+detecting systems {(for shooting or hurling games
+A63F 9/0204; devices for measuring projectile
+velocity using optical means G01P 3/685)}
+    5/02    . Photo-electric hit-detector systems {(comprising
+a light-emitting device for simulating the firing of
+a gun F41G 3/2622; detecting by optical means
+    5/04    . Electric hit-indicating systems; Detecting hits by
+actuation of electric contacts or switches
+    5/041   . . {Targets comprising two sets of electric contacts
+forming a coordinate system grid}
+    5/042   . . {Targets comprising a system of electric contacts
+lying in the same plane for bridging by hitting
+    5/044   . . Targets having two or more electrically-
+conductive layers for short- circuiting by
+    5/048   . . . one of the layers being in the form of discrete
+    5/052   . . Targets comprising a plurality of electric contacts,
+each corresponding to a discrete target section
+and being actuated by the movement thereof
+    5/056   . . Switch actuation by hit-generated mechanical
+vibration of the target body, e.g. using shock or
+    5/06    . Acoustic hit-indicating systems, i.e. detecting of
+shock waves (F41J 5/056 takes precedence)
+    5/08    . Infra-red hit-indicating systems
+    5/10    . Cinematographic hit-indicating systems
+(cinematographic targets F41J 9/14)
+    5/12    . for indicating the distance by which a bullet misses
+the target (F41J 5/02 - F41J 5/10 takes precedence)
+    5/14    . Apparatus for signalling hits or scores to
+the shooter, e.g. manually operated, or for
+communication between target and shooter;
+Apparatus for recording hits or scores
+    5/16    . . Manually evaluating scores, e.g. using scoring
+plugs or gauges; Apparatus for evaluating scores
+on targets after removal from the target holder
+    5/18    . Targets having hit-indicating means actuated or
+moved mechanically when the target has been
+hit, e.g. discs or flags (the target as a whole
+disappearing or moving when hit F41J 7/04)
+    5/20    . . indicating which part of the target has been hit,
+    5/205   . . . {having target sections displaced or broken
+when hit, e.g. for visual inspection}
+    5/22    . . the indicating means being a dispensing device
+    5/24    . Targets producing a particular effect when hit,
+e.g. detonation of pyrotechnic charge, bell ring,
+    5/26    . . exploding or disintegrating when hit (F41J 9/16
+    7/00    Movable targets which are stationary when fired
+    7/02    . movable for checking
+    7/04    . disappearing {or moving} when hit {(exploding
+targets F41J 5/26; exploding clay-pigeon targets
+    7/06    . Bobbing targets, i.e. targets intermittently or
+    9/00    Moving targets, i.e. moving when fired at
+    9/02    . Land-based targets {, e.g. inflatable targets
+    9/08    . Airborne targets, e.g. drones, kites, balloons
+{(aircraft for towing targets B64D 3/02)}
+    9/14    . Cinematographic targets, e.g. moving-picture targets
+    9/16    . Clay-pigeon targets; Clay-disc targets {(F41J 1/01
+    9/165   . . {with hit-marking or tracer means}
+    9/18    . . Traps or throwing-apparatus therefor
+    9/20    . . . with spring-operated throwing arm
+    9/22    . . . . cocked by manual action
+    9/24    . . . . cocked by electromechanical means
+    9/26    . . . operated by fluid means
+    9/28    . . . operated by manual action
+    9/30    . . . characterised by using a magazine of targets
+    9/32    . . . characterised by means for obviating the
+anticipation of the flight path
+   11/00    Target ranges {(timetables, lists or forms for shooter
+   11/02    . Safety means therefor
+   13/02    . combined with targets

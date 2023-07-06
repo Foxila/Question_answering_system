@@ -1,0 +1,552 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+POSITIVE - DISPLACEMENT MACHINES FOR LIQUIDS; PUMPS FOR LIQUIDS OR
+NON-POSITIVE-DISPLACEMENT PUMPS (engine fuel-injection pumps F02M; ion pumps
+H01J 41/12; electrodynamic pumps H02K 44/02)
+1. This subclass covers non-positive-displacement pumps for liquids, for elastic fluids, or for liquids and elastic fluids whether
+rotary or not having pure rotation.
+2. This subclass does not cover combinations of non-positive-displacement pumps with other pumps, which are covered by
+subclass F04B, except that the use of such other pumps for priming or boosting non-positive-displacement is covered by this
+3. Attention is drawn to the Notes preceding class F01, especially as regards the definition of "pump".
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+Pumping liquids, or liquids and elastic fluids, by rotary pumps
+(pumping liquids and elastic fluids at the same time F04D 31/00)
+    1/00    Radial-flow pumps, e.g. centrifugal pumps; Helico-
+centrifugal pumps (adapted for pumping specific
+fluids F04D 7/00; priming or boosting F04D 9/00)
+    1/003   . {Having contrarotating parts}
+    1/006   . {double suction pumps}
+    1/02    . having non-centrifugal stages, e.g. centripetal
+    1/025   . . {Comprising axial and radial stages}
+    1/04    . Helico-centrifugal pumps
+    1/06    . Multi-stage pumps (F04D 1/02, F04D 13/10 take
+    1/063   . . {of the vertically split casing type}
+    1/066   . . . {the casing consisting of a plurality of annuli
+    1/08    . . the stages being situated concentrically
+    1/10    . . with means for changing the flow-path through
+the stages, e.g. series-parallel, e.g. side loads
+    1/12    . Pumps with scoops or like paring members
+protruding in the fluid circulating in a bowl
+    1/14    . Pumps raising fluids by centrifugal force within a
+conical rotary bowl with vertical axis
+    3/00    Axial-flow pumps (priming or boosting F04D 9/00)
+    3/005   . {with a conventional single stage rotor}
+    5/00    Pumps with circumferential or transverse flow
+{(control thereof F04D 15/005)}
+    5/001   . {Shear force pumps}
+    5/002   . {Regenerative pumps (for elastic fluids
+    5/003   . . {of multistage type}
+    5/005   . . . {the stages being radially offset}
+    5/006   . . . {the stages being axially offset}
+    5/007   . . {Details of the inlet or outlet}
+    5/008   . . {Details of the stator, e.g. channel shape}
+    7/00    Pumps adapted for handling specific fluids, e.g. by
+selection of specific materials for pumps or pump
+parts (F04D 11/005, F04D 29/22 take precedence)
+    7/02    . of centrifugal type
+    7/04    . . the fluids being viscous or non-homogenous
+    7/045   . . . {with means for comminuting, mixing stirring
+    7/06    . . the fluids being hot or corrosive, e.g. liquid
+    7/065   . . . {for liquid metal}
+    7/08    . . the fluids being radioactive
+    9/00    Priming; Preventing vapour lock
+    9/001   . {Preventing vapour lock (F04D 9/041 takes
+    9/002   . . {by means in the very pump (F04D 9/041 takes
+    9/003   . . . {separating and removing the vapour}
+    9/004   . {Priming of not self-priming pumps}
+    9/005   . . {by adducting or recycling liquid (F04D 9/006
+    9/006   . . {by venting gas or using gas valves}
+    9/007   . {Preventing loss of prime, siphon breakers
+(stopping of pumps F04D 15/02)}
+    9/008   . . {by means in the suction mouth, e.g. foot valves}
+    9/02    . Self-priming pumps
+    9/04    . using priming pumps; using booster pumps to
+    9/041   . . {the priming pump having evacuating action
+(F04D 9/043 and F04D 9/06 take precedence)}
+1Pumping liquids, or liquids and elastic fluids, by rotary pumps
+    9/042   . . . {and means for rendering its in operative}
+    9/043   . . {the priming pump being hand operated or of the
+    9/044   . . {Means for rendering the priming pump
+    9/045   . . . {the means being liquid level sensors}
+    9/046   . . . . {the means being floats}
+    9/047   . . . {the means being flow sensors}
+    9/048   . . . {the means being outlet pressure sensors}
+    9/049   . . . {by operator interventions}
+    9/065   . . . {the driving fluid being a gas or vapour, e.g.
+exhaust of a combustion engine}
+   11/00    Other rotary non-positive-displacement pumps
+(pumping installations or systems F04D 13/00)
+   11/005   . {Swash-type impeller pumps}
+   13/00    Pumping installations or systems (controlling
+   13/02    . Units comprising pumps and their driving means
+(predominant aspects of the driving means, see the
+relevant classes for such means)
+   13/021   . . {containing a coupling}
+   13/022   . . . {a coupling allowing slip, e.g. torque
+   13/023   . . . . {for reducing start torque}
+   13/024   . . . {a magnetic coupling}
+   13/025   . . . . {Details of the can separating the pump and
+   13/026   . . . . {Details of the bearings}
+   13/027   . . . . {Details of the magnetic circuit}
+   13/028   . . {the driving means being a planetary gear}
+   13/04    . . the pump being fluid driven
+   13/043   . . . {the pump wheel carrying the fluid driving
+   13/046   . . . {the fluid driving means being a hydraulic
+motor of the positive displacement type}
+   13/06    . . the pump being electrically driven
+   13/0606  . . . {Canned motor pumps}
+   13/0613  . . . . {Special connection between the rotor
+   13/062   . . . . {pressure compensation between motor- and
+   13/0626  . . . . {Details of the can}
+   13/0633  . . . . {Details of the bearings}
+   13/064   . . . . {Details of the magnetic circuit}
+   13/0646  . . . {the hollow pump or motor shaft being the
+   13/0653  . . . {the motor being flooded}
+   13/066   . . . {Floating-units}
+   13/0666  . . . {the motor being of the plane gap type}
+   13/0673  . . . {the motor being of the inside-out type}
+   13/068   . . . {Battery powered}
+   13/0686  . . . {Mechanical details of the pump control unit
+   13/0693  . . . {Details or arrangements of the wiring}
+   13/08    . . . for submerged use
+   13/083   . . . . {and protected by a gas-bell}
+   13/086   . . . . {the pump and drive motor are both
+   13/10    . . . . adapted for use in mining bore holes
+   13/12    . Combinations of two or more pumps (combinations
+with priming pumps or booster pumps to counteract
+   13/14    . . the pumps being all of centrifugal type
+{(deviation valves F04D 15/0016)}
+   13/16    . with storage reservoirs
+   15/00    Control, e.g. regulation, of pumps, pumping
+   15/0005  . {by using valves}
+   15/0011  . . {by-pass valves}
+   15/0016  . . {mixing-reversing- or deviation valves}
+   15/0022  . . {throttling valves or valves varying the pump
+inlet opening or the outlet opening}
+   15/0027  . {Varying behaviour or the very pump
+(F04D 15/0055 and F04D 29/46 take precedence)}
+   15/0033  . . {By-passing by increasing clearance between
+   15/0038  . . {by varying the effective cross-sectional area of
+   15/0044  . . {by introducing a gas}
+   15/005   . . {the pumps being of the circumferential flow
+   15/0055  . {Rotors with adjustable blades}
+   15/0061  . . {responsive to temperature}
+   15/0066  . {by changing the speed, e.g. of the driving engine}
+   15/0072  . {Installation or systems with two or more pumps,
+wherein the flow path through the stages can be
+   15/0077  . {Safety measures (F04D 15/02 takes precedence)}
+   15/0083  . . {Protection against sudden pressure change, e.g.
+   15/0088  . {Testing machines}
+   15/0094  . {Indicators of rotational movement}
+   15/02    . Stopping of pumps, or operating valves, on
+occurrence of unwanted conditions
+   15/0209  . . {responsive to a condition of the working fluid
+(F04D 15/029 takes precedence)}
+   15/0218  . . . {the condition being a liquid level or a lack of
+   15/0227  . . . . {Lack of liquid level being detected using a
+   15/0236  . . . . {Lack of liquid level being detected by
+analysing the parameters of the electric drive,
+e.g. current or power consumption}
+   15/0245  . . {responsive to a condition of the pump}
+   15/0254  . . . {the condition being speed or load}
+   15/0263  . . . {the condition being temperature, ingress of
+   15/0272  . . . {the condition being wear or a position}
+   15/0281  . . {responsive to a condition not otherwise provided
+   15/029   . . {for pumps operating in parallel}
+Pumping elastic fluids by rotary pumps
+   17/00    Radial-flow pumps, e.g. centrifugal pumps; Helico-
+centrifugal pumps (F04D 21/00 takes precedence)
+   17/02    . having non-centrifugal stages, e.g. centripetal
+   17/025   . . {comprising axial flow and radial flow stages}
+   17/04    . . of transverse-flow type
+   17/06    . Helico-centrifugal pumps
+   17/08    . Centrifugal pumps
+   17/10    . . for compressing or evacuating
+2Pumping elastic fluids by rotary pumps
+   17/105   . . . {with double suction}
+   17/12    . . . Multi-stage pumps
+   17/122   . . . . {the individual rotor discs being, one for
+each stage, on a common shaft and axially
+spaced, e.g. conventional centrifugal multi-
+   17/125   . . . . . {the casing being vertically split}
+   17/127   . . . . {with radially spaced stages, e.g. for
+   17/14    . . . . with means for changing the flow-path
+through the stages, e.g. series-parallel, e.g.
+side-loads, (surge control F04D 27/02)
+   17/16    . . for displacing without appreciable compression
+   17/161   . . . {Shear force pumps}
+   17/162   . . . {Double suction pumps}
+   17/164   . . . {Multi-stage fans, e.g. for vacuum cleaners}
+   17/165   . . . {Axial entry and discharge}
+   17/167   . . . {Operating by means of fibrous or porous
+elements (suction filters F04D 29/701), e.g.
+   17/168   . . . {Pumps specially adapted to produce a
+   17/18    . . characterised by use of centrifugal force of
+liquids entrained in pumps {(, e.g. by means
+of an auxiliary liquid; fluid ring compressors
+   19/00    Axial-flow pumps (F04D 21/00 takes precedence;
+{pump comprising axial flow and radial flow stages
+   19/002   . {Axial flow fans}
+   19/005   . . {reversible fans}
+   19/007   . {multistage fans}
+   19/02    . Multi-stage pumps
+   19/022   . . {with concentric rows of vanes;}
+   19/024   . . {with contrarotating parts}
+   19/026   . . {with a plurality of shafts rotating at different
+speeds (F04D 19/022 takes precedence)}
+   19/028   . . {Layout of fluid flow through the stages}
+   19/04    . . specially adapted to the production of a high
+   19/042   . . . {Turbomolecular vacuum pumps}
+   19/044   . . . {Holweck-type pumps}
+   19/046   . . . {Combinations of two or more different types
+   19/048   . . . {comprising magnetic bearings}
+   21/00    Pump involving supersonic speed of pumped fluids
+   23/00    Other rotary non-positive-displacement pumps
+(pumping installations or systems F04D 25/00)
+   23/001   . {Pumps adapted for conveying materials or for
+handling specific elastic fluids}
+   23/003   . . {of radial-flow type}
+   23/005   . . {of axial-flow type}
+   23/006   . {Creating a pulsating flow}
+   23/008   . {Regenerative pumps (for liquids or for liquids and
+   25/00    Pumping installations or systems (controlling
+   25/02    . Units comprising pumps and their driving means
+(predominant aspect of the driving means, see the
+relevant classes for such means)
+   25/022   . . {comprising a yielding coupling, e.g. hydraulic (a
+magnetic coupling F04D 25/026)}
+   25/024   . . {the driving means being assisted by a power
+   25/026   . . {with a magnetic coupling}
+   25/028   . . {the driving means being a planetary gear}
+   25/04    . . the pump being fluid-driven {(pumps driven
+by exhaust gases F02B 37/00, F02B 39/00;
+   25/045   . . . {the pump wheel carrying the fluid driving
+   25/06    . . the pump being electrically driven (F04D 25/08
+   25/0606  . . . {the electric motor being specially adapted for
+   25/0613  . . . . {the electric motor being of the inside-out
+type, i.e. the rotor is arranged radially outside
+   25/062   . . . . . {Details of the bearings}
+   25/0626  . . . . . {Details of the lubrication}
+   25/0633  . . . . . {Details of the magnetic circuit}
+   25/064   . . . . . {Details of the rotor}
+   25/0646  . . . . . {Details of the stator}
+   25/0653  . . . . {the motor having a plane air gap, e.g. disc-
+   25/066   . . . . {Linear Motors}
+   25/0666  . . . . {a sensor is integrated into the pump/motor
+   25/0673  . . . {Battery powered}
+   25/068   . . . {Mechanical details of the pump control unit
+(pump control details F04D 27/00)}
+   25/0686  . . . {specially adapted for submerged use}
+   25/0693  . . . {Details or arrangements of the wiring}
+   25/08    . . the working fluid being air, e.g. for ventilation
+   25/082   . . . {the unit having provision for cooling the
+   25/086   . . . . {hand operated}
+   25/088   . . . {Ceiling fans}
+   25/10    . . . the unit having provisions for automatically
+changing direction of output air
+   25/105   . . . . {by changing rotor axis direction, e.g.
+oscillating fans (interconnecting rotary
+motion and oscillating motion F16H)}
+   25/12    . . . the unit being adapted for mounting in
+   25/14    . . . . and having shutters, e.g. automatically closed
+   25/16    . Combinations of two or more pumps {Producing
+two or more separate gas flows}
+   25/163   . . {driven by a common gearing arrangement}
+   27/00    Control, e.g. regulation, of pumps, pumping
+installations or pumping systems specially adapted
+   27/001   . {Testing thereof; Determination or simulation of
+flow characteristics; Stall or surge detection, e.g.
+   27/002   . {by varying geometry within the pumps, e.g. by
+   27/003   . {by throttling (F04D 27/002 takes precedence)}
+   27/004   . {by varying driving speed}
+3Pumping elastic fluids by rotary pumps
+   27/005   . {by changing flow path between different stages
+or between a plurality of compressors; Load
+distribution between compressors}
+   27/006   . {by influencing fluid temperatures}
+   27/007   . {Conjoint control of two or more different
+   27/008   . {Stop safety or alarm devices, e.g. stop-and-go
+control; Disposition of check-valves}
+   27/009   . {by bleeding, by passing or recycling fluid}
+   27/02    . Surge control {(surge detection F04D 27/001)}
+   27/0207  . . {by bleeding, bypassing or recycling fluids
+(influencing the boundary layer by an
+uncontrolled bleeding of the working fluid
+   27/0215  . . . {Arrangements therefor, e.g. bleed or by-pass
+   27/0223  . . . {Control schemes therefor}
+   27/023   . . . {Details or means for fluid extraction}
+   27/0238  . . . {Details or means for fluid reinjection}
+   27/0246  . . {by varying geometry within the pumps, e.g. by
+   27/0253  . . {by throttling (F04D 27/0246 takes precedence)}
+   27/0261  . . {by varying driving speed}
+   27/0269  . . {by changing flow path between different stages
+or between a plurality of compressors; load
+distribution between compressors}
+   27/0276  . . {by influencing fluid temperature}
+   27/0284  . . {Conjoint control of two or more different
+   27/0292  . . {Stop safety or alarm devices, e.g. stop-and-go
+control; Disposition of check-valves}
+   29/00    Details, component parts, or accessories (machine
+   29/002   . {especially adapted for elastic fluid pumps}
+   29/005   . {Decorative aspects, i.e. features which have no
+effect on the functioning of the pump}
+   29/007   . {especially adapted for liquid pumps}
+   29/02    . Selection of particular materials (for handling
+specific liquids F04D 7/00 {F04D 23/001})
+   29/023   . . {especially adapted for elastic fluid pumps}
+   29/026   . . {especially adapted for liquid pumps}
+   29/04    . Shafts or bearings, or assemblies thereof (specially
+adapted for elastic fluid pumps F04D 29/05)
+   29/0405  . . {joining shafts, e.g. rigid couplings, quill shafts}
+The group F04D 29/0405 is no longer used
+for the classification of new documents as
+from July 1st, 2007. The backlog of this
+group is being continuously reclassified to
+   29/041   . . Axial thrust balancing
+   29/0413  . . . {hydrostatic; hydrodynamic thrust bearings}
+   29/0416  . . . {balancing pistons}
+   29/042   . . Axially shiftable rotors (F04D 29/041 takes
+precedence {; control by creating a by-pass
+   29/044   . . . Arrangements for joining or assembling shafts
+   29/0462  . . . {Bearing cartridges}
+   29/0465  . . . {Ceramic bearing designs}
+   29/0467  . . . {Spherical bearings}
+   29/047   . . . hydrostatic; hydrodynamic
+   29/0473  . . . . {for radial pumps}
+   29/0476  . . . . {for axial pumps}
+   29/048   . . . magnetic; electromagnetic
+   29/049   . . . Roller bearings
+   29/05    . Shafts or bearings, or assemblies thereof, specially
+adapted for elastic fluid pumps
+   29/051   . . Axial thrust balancing
+   29/0513  . . . {hydrostatic; hydrodynamic thrust bearings}
+   29/0516  . . . {balancing pistons}
+   29/052   . . Axially shiftable rotors (F04D 29/051 takes
+precedence {; control by creating a by-pass
+   29/054   . . . Arrangements for joining or assembling shafts
+   29/0563  . . . {Bearings cartridges}
+   29/0566  . . . {Ceramic bearing designs}
+   29/057   . . . hydrostatic; hydrodynamic
+   29/058   . . . magnetic; electromagnetic
+   29/059   . . . Roller bearings
+   29/06    . Lubrication {(F04D 13/0606, F04D 13/0646,
+   29/061   . . {especially adapted for liquid pumps}
+   29/063   . . specially adapted for elastic fluid pumps
+   29/083   . . {especially adapted for elastic fluid pumps}
+   29/086   . . {especially adapted for liquid pumps}
+   29/102   . . . {especially adapted for elastic fluid pumps}
+   29/104   . . . . {the sealing fluid being other than the
+working fluid or being the working fluid
+   29/106   . . . {especially adapted for liquid pumps}
+   29/108   . . . . {the sealing fluid being other than the
+working liquid or being the working liquid
+   29/12    . . . using sealing-rings
+   29/122   . . . . {especially adapted for elastic fluid pumps}
+   29/124   . . . . . {with special means for adducting cooling
+   29/126   . . . . {especially adapted for liquid pumps}
+   29/128   . . . . . {with special means for adducting cooling
+   29/14    . . . operative only when pump is inoperative
+   29/143   . . . . {especially adapted for elastic fluid pumps}
+   29/146   . . . . {especially adapted for liquid pumps}
+   29/16    . . between pressure and suction sides
+   29/161   . . . {especially adapted for elastic fluid pumps}
+   29/162   . . . . {of a centrifugal flow wheel}
+   29/164   . . . . {of an axial flow wheel}
+   29/165   . . . {especially adapted for liquid pumps}
+   29/167   . . . . {of a centrifugal flow wheel}
+   29/168   . . . . {of an axial flow wheel}
+   29/18    . Rotors (specially for elastic fluids F04D 29/26)
+   29/181   . . {Axial flow rotors (F04D 29/185 take
+   29/183   . . . {Semi axial flow rotors}
+   29/185   . . {Rotors consisting of a plurality of wheels}
+   29/186   . . {Shaftless rotors (F04D 13/024 takes
+4Pumping elastic fluids by rotary pumps
+   29/188   . . {specially for regenerative pumps}
+   29/20    . . Mounting rotors on shafts
+   29/22    . . specially for centrifugal pumps
+   29/2205  . . . {Conventional flow pattern (F04D 29/18 takes
+   29/2211  . . . . {More than one set of flow passages}
+   29/2216  . . . . {Shape, geometry (F04D 29/2211 takes
+   29/2222  . . . . {Construction and assembly (F04D 29/2211
+   29/2227  . . . . . {for special materials}
+   29/2233  . . . . . {entirely open or stamped from one sheet}
+   29/2238  . . . {Special flow patterns (F04D 11/005 takes
+   29/2244  . . . . {Free vortex}
+   29/225   . . . . {Channel wheels, e.g. one blade or one flow
+   29/2255  . . . . {flow-channels with a special cross-section
+contour, e.g. ejecting, throttling or diffusing
+   29/2261  . . . {with special measures}
+   29/2266  . . . . {for sealing or thrust balance (F04D 29/04
+and F04D 29/16 take precedence)}
+   29/2272  . . . . {for influencing flow or boundary layer}
+   29/2277  . . . . {for increasing NPSH or dealing with liquids
+   29/2283  . . . . {for reverse pumping action}
+   29/2288  . . . . {for comminuting, mixing or separating}
+   29/2294  . . . . {for protection, e.g. against abrasion}
+   29/242   . . . . {Geometry, shape}
+   29/245   . . . . . {for special effects}
+   29/247   . . . . {elastic or self-adjusting}
+   29/26    . Rotors specially for elastic fluids
+   29/263   . . {mounting fan or blower rotors on shafts}
+   29/266   . . {mounting compressor rotors on shafts}
+   29/28    . . for centrifugal or helico-centrifugal pumps {for
+radial-flow or helico-centrifugal pumps}
+   29/281   . . . {for fans or blowers}
+   29/282   . . . . {the leading edge of each vane being
+substantially parallel to the rotation axis}
+   29/283   . . . . . {rotors of the squirrel-cage type}
+   29/284   . . . {for compressors}
+   29/285   . . . . {the compressor wheel comprising a pair of
+rotatable bladed hub portions axially aligned
+   29/286   . . . . {multi-stage rotors}
+   29/287   . . . {with adjusting means}
+   29/288   . . . {Part of the wheel having an ejecting effect,
+   29/289   . . . {having provision against erosion or for dust-
+   29/305   . . . . {Flexible vanes}
+   29/32    . . for axial flow pumps
+   29/321   . . . {for axial flow compressors}
+   29/322   . . . . {Blade mountings}
+   29/323   . . . . . {adjustable}
+   29/325   . . . {for axial flow fans (blade mountings
+F04D 29/34, blades F04D 29/38)}
+   29/326   . . . . {comprising a rotating shroud}
+   29/327   . . . . {with non identical blades}
+   29/328   . . . . {with unequal distribution of blades around
+   29/329   . . . . {Details of the hub}
+   29/34    . . . Blade mountings {(for axial flow compressors
+   29/36    . . . . adjustable {(flexible blades F04D 29/382)}
+   29/362   . . . . . {during rotation}
+   29/364   . . . . . . {The blades having only a
+predetermined number of possible
+   29/366   . . . . . . {Adjustment by interaction of inertion
+   29/368   . . . . . . {Adjustment by differences of
+   29/38    . . . Blades {(for axial flow compressors
+   29/382   . . . . {Flexible blades}
+   29/384   . . . . {characterised by form}
+   29/386   . . . . . {Skewed blades}
+   29/388   . . . . {characterised by construction}
+   29/40    . Casings; Connections of working fluid {(bleed or
+by-pass valves F04D 15/0011, F04D 27/0215)}
+   29/403   . . {especially adapted for elastic fluid pumps}
+   29/406   . . {especially adapted for liquid pumps}
+   29/42    . . for radial or helico-centrifugal pumps
+   29/4206  . . . {especially adapted for elastic fluid pumps}
+   29/4213  . . . . {suction ports}
+   29/422   . . . . {Discharge tongues (F04D 17/04 takes
+   29/4226  . . . . {Fan casings}
+   29/4233  . . . . . {with volutes extending mainly in axial or
+   29/424   . . . . . {Double entry casings}
+   29/4246  . . . . . {comprising more than one outlet}
+   29/4253  . . . . . {with axial entry and discharge}
+   29/426   . . . {especially adapted for liquid pumps}
+   29/4266  . . . . {made of sheet metal}
+   29/4273  . . . . {suction eyes}
+   29/428   . . . . {Discharge tongues (F04D 17/04 takes
+   29/4286  . . . . {inside lining, e.g. rubber}
+   29/4293  . . . . {Details of fluid inlet or outlet}
+   29/44    . . . Fluid-guiding means, e.g. diffusers
+   29/441   . . . . {especially adapted for elastic fluid pumps}
+   29/442   . . . . . {rotating diffusers}
+   29/444   . . . . . {Bladed diffusers}
+   29/445   . . . . {especially adapted for liquid pumps}
+   29/447   . . . . . {rotating diffusers}
+   29/448   . . . . . {bladed diffusers}
+   29/462   . . . . . {especially adapted for elastic fluid
+   29/464   . . . . . . {adjusting flow cross-section, otherwise
+than by using adjustable stator blades}
+   29/466   . . . . . {especially adapted for liquid fluid
+   29/468   . . . . . . {adjusting flow cross-section, otherwise
+than by using adjustable stator blades}
+   29/48    . . . . . for unidirectional fluid flow in reversible
+pumps {(rotors for reverse action
+   29/483   . . . . . . {especially adapted for elastic fluid
+5Pumping elastic fluids by rotary pumps
+   29/486   . . . . . . {especially adapted for liquid pumps}
+   29/50    . . . . . for reversing fluid flow {(rotors for reverse
+   29/503   . . . . . . {especially adapted for elastic fluid
+   29/506   . . . . . . {especially adapted for liquid pumps}
+   29/52    . . for axial pumps
+   29/522   . . . {especially adapted for elastic fluid pumps}
+   29/524   . . . . {shiftable members for obturating part of the
+   29/526   . . . . {Details of the casing section radially
+opposing blade tips (ducts F04D 29/545)}
+   29/528   . . . {especially adapted for liquid pumps}
+   29/54    . . . Fluid-guiding means, e.g. diffusers
+   29/541   . . . . {Specially adapted for elastic fluid pumps
+   29/542   . . . . . {Bladed diffusers (fixing blades to stators
+   29/544   . . . . . . {Blade shapes}
+   29/547   . . . . . . {having a special shape in order to
+   29/548   . . . . {Specially adapted for liquid pumps
+   29/563   . . . . . {specially adapted for elastic fluid pumps}
+   29/566   . . . . . {specially adapted for liquid pumps}
+   29/58    . Cooling (of machines or engines in general F01P);
+Heating; Diminishing heat transfer {(for the motor
+of air-pump units F04D 25/082; cooling of shafts or
+   29/5806  . . {Cooling the drive system}
+   29/5813  . . {Cooling the control unit}
+   29/582   . . {specially adapted for elastic fluid pumps}
+   29/5826  . . . {Cooling at least part of the working fluid in a
+   29/5833  . . . . {flow schemes and regulation thereto}
+   29/584   . . . {cooling or heating the machine
+(F04D 29/5846, F04D 29/5853 take
+   29/5846  . . . {cooling by injection}
+   29/5853  . . . {heat insulation or conduction}
+   29/586   . . {specially adapted for liquid pumps}
+   29/5866  . . . {Cooling at last part of the working fluid in a
+   29/5873  . . . . {flow schemes and regulation thereto}
+   29/588   . . . {cooling or heating the machine
+(F04D 29/5886, F04D 29/5893 take
+   29/5886  . . . {cooling by injection}
+   29/5893  . . . {heat insulation or conduction}
+   29/60    . Mounting; Assembling; Disassembling
+{(F04D 13/10 takes precedence)}
+   29/601   . . {specially adapted for elastic fluid pumps}
+   29/602   . . . {Mounting in cavities}
+   29/603   . . . . {means for positioning from outside}
+   29/604   . . . . {means for removing without depressurising
+   29/605   . . {specially adapted for liquid pumps}
+   29/606   . . . {Mounting in cavities}
+   29/607   . . . . {means for positioning from outside}
+   29/608   . . . . {means for removing without depressurizing
+   29/62    . . of radial or helico-centrifugal pumps
+   29/622   . . . {Adjusting the clearances between rotary and
+   29/624   . . . {especially adapted for elastic fluid pumps}
+   29/626   . . . . {Mounting or removal of fans}
+   29/628   . . . {especially adapted for liquid pumps}
+   29/642   . . . {by adjusting the clearances between rotary and
+   29/644   . . . {especially adapted for elastic fluid pumps}
+   29/646   . . . . {Mounting or removal of fans}
+   29/648   . . . {especially adapted for liquid pumps}
+   29/66    . Combating cavitation, whirls, noise, vibration
+or the like (gas-flow silencers for machines or
+engines in general F01N); Balancing (surge control
+   29/661   . . {especially adapted for elastic fluid pumps}
+   29/662   . . . {Balancing of rotors (compensating unbalance
+   29/663   . . . {Sound attenuation}
+   29/664   . . . . {by means of sound absorbing material}
+   29/665   . . . . {by means of resonance chambers or
+   29/666   . . . {by means of rotor construction or layout, e.g.
+unequal distribution of blades or vanes}
+   29/667   . . . {by influencing the flow pattern, e.g.
+   29/668   . . . {damping or preventing mechanical vibrations}
+   29/669   . . {especially adapted for liquid pumps (F04D 29/18
+   29/68    . . by influencing boundary layers {(by bleeding
+   29/681   . . . {especially adapted for elastic fluid pumps}
+   29/682   . . . . {by fluid extraction}
+   29/684   . . . . {by fluid injection}
+   29/685   . . . . {Inducing localised fluid recirculation in the
+   29/687   . . . . {Plasma actuators therefore}
+   29/688   . . . {especially adapted for liquid pumps}
+   29/70    . Suction grids; Strainers; Dust separation; Cleaning
+   29/701   . . {especially adapted for elastic fluid pumps}
+   29/703   . . . {specially for fans, e.g. fan guards}
+   29/705   . . . {Adding liquids}
+   29/706   . . . {Humidity separation}
+   29/708   . . {specially for liquid pumps}
+Other non-positive-displacement pumps
+   31/00    Pumping liquids and elastic fluids at the same time
+   33/00    Non-positive-displacement pumps with other than
+pure rotation, e.g. of oscillating type (F04D 35/00
+takes precedence; hand-held fans A45B)
+   35/00    Pumps producing waves in liquids, i.e. wave-
+producers (for bath tubs A47K 3/10)

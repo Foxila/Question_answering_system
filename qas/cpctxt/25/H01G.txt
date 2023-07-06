@@ -1,0 +1,440 @@
+COOPERATIVE PATENT CLASSIFICATION
+CAPACITORS; CAPACITORS, RECTIFIERS, DETECTORS, SWITCHING DEVICES
+OR LIGHT-SENSITIVE DEVICES, OF THE ELECTROLYTIC TYPE (selection of
+specified materials as dielectric H01B 3/00; capacitors with potential-jump or surface barrier
+In this subclass, group H01G 11/00 takes precedence over groups H01G 4/00 and H01G 9/00.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    2/00    Details of capacitors not covered by a single one of
+    2/04    . . specially adapted for mounting on a chassis
+    2/06    . . specially adapted for mounting on a printed-
+    2/065   . . . {for surface mounting, e.g. chip capacitors}
+    2/08    . Cooling arrangements; Heating arrangements;
+    2/10    . Housing; Encapsulation
+    2/103   . . {Sealings, e.g. for lead-in wires; Covers}
+    2/106   . . {Fixing the capacitor in a housing}
+    2/12    . Protection against corrosion (H01G 2/10 takes
+    2/14    . Protection against electric or thermal overload (by
+    2/16    . . with fusing elements
+    2/18    . . with breakable contacts
+    2/20    . Arrangements for preventing discharge from edges
+    2/22    . Electrostatic or magnetic shielding
+    2/24    . Distinguishing marks, e.g. colour coding
+    4/00    Fixed capacitors; Processes of their manufacture
+(electrolytic capacitors H01G 9/00)
+    4/008   . . . Selection of materials
+    4/0085  . . . . {Fried electrodes}
+    4/01    . . . Form of self-supporting electrodes
+    4/012   . . . Form of non-self-supporting electrodes
+    4/015   . . . Special provisions for self-healing
+    4/02    . . . Gas or vapour dielectrics
+    4/04    . . . Liquid dielectrics
+    4/06    . . . Solid dielectrics
+    4/08    . . . . Inorganic dielectrics
+    4/085   . . . . . {Vapour deposited}
+    4/10    . . . . . Metal-oxide dielectrics {(H01G 4/085
+    4/105   . . . . . . {Glass dielectric}
+    4/12    . . . . . Ceramic dielectrics {(H01G 4/085 takes
+    4/1209  . . . . . . {characterised by the ceramic dielectric
+material (H01G 4/1272, H01G 4/1281
+    4/1218  . . . . . . . {based on titanium oxides or titanates
+(H01G 4/1245 takes precedence)}
+    4/1227  . . . . . . . . {based on alkaline earth titanates}
+    4/1236  . . . . . . . {based on zirconium oxides or
+    4/1245  . . . . . . . . {containing also titanates}
+    4/1254  . . . . . . . {based on niobium or tungsteen,
+    4/1263  . . . . . . . . {containing also zirconium oxides
+    4/1272  . . . . . . {Semiconductive ceramic capacitors}
+    4/1281  . . . . . . . {with grain boundary layer}
+    4/129   . . . . . . {containing a glassy phase, e.g. glass
+    4/14    . . . . Organic dielectrics
+    4/145   . . . . . {vapour deposited}
+    4/16    . . . . . of fibrous material, e.g. paper
+    4/18    . . . . . of synthetic material, e.g. derivatives of
+cellulose (H01G 4/16 takes precedence)
+    4/183   . . . . . . {Derivatives of cellulose (H01G 4/145
+    4/186   . . . . . . {halogenated (H01G 4/145 takes
+    4/20    . . . using combinations of dielectrics from more
+than one of groups H01G 4/02 - H01G 4/06
+    4/203   . . . . {Fibrous material or synthetic material}
+    4/206   . . . . {inorganic and synthetic material}
+    4/22    . . . . impregnated
+    4/221   . . . . . {characterised by the composition of the
+    4/222   . . . . . . {halogenated}
+    4/224   . . Housing; Encapsulation
+    4/232   . . . electrically connecting two or more layers of a
+    4/2325  . . . . {characterised by the material of the
+    4/236   . . . leading through the housing, i.e. lead-through
+    4/242   . . . the capacitive element surrounding the terminal
+    4/245   . . . . Tabs between the layers of a rolled electrode
+    4/248   . . . the terminals embracing or surrounding the
+capacitive element, e.g. caps (H01G 4/252
+    4/252   . . . the terminals being coated on the capacitive
+element (H01G 4/232 takes precedence)
+    4/255   . . Means for correcting the capacitance value
+    4/258   . . Temperature compensation means
+    4/26    . Folded capacitors
+    4/28    . Tubular capacitors
+    4/30    . Stacked capacitors (H01G 4/33 takes precedence)
+    4/302   . . {obtained by injection of metal in cavities formed
+    4/304   . . {obtained from a another capacitor}
+    4/306   . . {made by thin film techniques}
+    4/308   . . {made by transfer techniques}
+    4/33    . Thin- or thick-film capacitors (thin- or thick-
+film circuits H01L 27/00 {capacitors without a
+potential-jump or surface barrier specially adapted
+for integrated circuits, details thereof, multistep
+manufacturing processes therefor H01L 28/40})
+    4/35    . Feed-through capacitors or anti-noise capacitors
+    4/38    . Multiple capacitors, i.e. structural combinations of
+    4/385   . . {Single unit multiple capacitors, e.g. dual
+    4/40    . Structural combinations of fixed capacitors with
+other electric elements, the structure mainly
+consisting of a capacitor, e.g. RC combinations
+    5/00    Capacitors in which the capacitance is varied
+by mechanical means, e.g. by turning a shaft;
+    5/012   . . . at least one of the electrodes being a
+    5/0132  . . . {Liquid dielectrics}
+    5/0134  . . . {Solid dielectrics}
+    5/0136  . . . . {with movable electrodes}
+    5/0138  . . . . {with movable dielectrics}
+    5/014   . . Housing; Encapsulation
+    5/015   . . Current collectors
+    5/017   . . Temperature compensation
+    5/019   . . Means for correcting the capacitance
+ 2005/02    . {having air, gas, or vacuum as the dielectric}
+    5/04    . using variation of effective area of electrode
+    5/06    . . due to rotation of flat or substantially flat
+    5/08    . . . becoming active in succession
+    5/10    . . due to rotation of helical electrodes
+    5/12    . . due to rotation of part-cylindrical, conical, or
+    5/14    . . due to longitudinal movement of electrodes
+    5/145   . . . {with profiled electrodes}
+    5/16    . using variation of distance between electrodes
+    5/18    . . due to change in inclination, e.g. by flexing, by
+    5/38    . Multiple capacitors, e.g. ganged
+    5/40    . Structural combinations of variable capacitors with
+other electric elements not covered by this subclass,
+the structure mainly consisting of a capacitor, e.g.
+    7/00    Capacitors in which the capacitance is varied
+by non-mechanical means; Processes of their
+    7/02    . Electrets, i.e. having a permanently-polarised
+    7/021   . . {having an organic dielectric}
+    7/023   . . . {of macromolecular compounds}
+    7/025   . . {having an inorganic dielectric}
+    7/026   . . . {with ceramic dielectric}
+    7/028   . . {having a heterogeneous dielectric}
+    7/04    . having a dielectric selected for the variation of its
+permittivity with applied temperature
+    7/06    . having a dielectric selected for the variation of its
+permittivity with applied voltage, i.e. ferroelectric
+capacitors (electrets H01G 7/02)
+    9/00    Electrolytic capacitors, rectifiers, detectors,
+switching devices, light-sensitive or temperature-
+sensitive devices; Processes of their manufacture
+    9/0003  . {Protection against electric or thermal overload;
+cooling arrangements; means for avoiding the
+formation of cathode films (H01G 9/12 takes
+    9/0029  . {Processes of manufacture}
+    9/0032  . . {formation of the dielectric layer}
+    9/0036  . . {Formation of the solid electrolyte layer}
+    9/012   . . . specially adapted for solid capacitors
+    9/02    . . Diaphragms; Separators
+    9/022   . . Electrolytes; Absorbents
+    9/025   . . . Solid electrolytes (H01G 11/54 takes
+    9/028   . . . . Organic semiconducting electrolytes, e.g.
+    9/032   . . . . Inorganic semiconducting electrolytes, e.g.
+    9/035   . . . Liquid electrolytes, e.g. impregnating materials
+. . . {Electrolytes specially adapted for double-layer
+Group H01G 9/038 is no longer used
+for the classification of documents as of
+H01G 11/54 - H01G 11/64. Groups
+H01G 9/038 and H01G 11/54 - H01G 11/64
+should be considered in order to perform a
+    9/04    . . Electrodes {or formation of dielectric layers
+    9/042   . . . characterised by the material (H01G 11/22
+    9/0425  . . . . {specially adapted for cathode}
+    9/045   . . . . based on aluminium
+    9/048   . . . characterised by their structure (H01G 11/22
+ 2009/05    . . . . {consisting of tantalum, niobium, or sintered
+material; Combinations of such electrodes
+with solid semiconductive electrolytes, e.g.
+    9/052   . . . . Sintered electrodes
+    9/0525  . . . . . {Powder therefor}
+    9/055   . . . . Etched foil electrodes
+    9/06    . . . Mounting in containers
+    9/07    . . Dielectric layers
+    9/08    . . Housing; Encapsulation
+    9/10    . . . Sealing, e.g. of lead-in wires
+    9/12    . . . Vents or other means allowing expansion
+    9/14    . . Structural combinations {or circuits} for
+modifying, or compensating for, electric
+characteristics of electrolytic capacitors
+    9/145   . Liquid electrolytic capacitors (H01G 11/00 takes
+    9/15    . Solid electrolytic capacitors (H01G 11/00 takes
+    9/151   . . {with wound foil electrodes}
+Group H01G 9/155 is no longer used
+for the classification of documents as
+of January 1, 2021. The content of this
+group is being reclassified into groups
+H01G 11/00 - H01G 11/86. All groups listed in
+this Warning should be considered in order to
+    9/16    . specially for use as rectifiers or detectors
+    9/18    . Self-interrupters
+    9/20    . Light-sensitive devices
+    9/2004  . . {characterised by the electrolyte, e.g. comprising
+    9/2009  . . . {Solid electrolytes}
+    9/2013  . . . {the electrolyte comprising ionic liquids, e.g.
+    9/2018  . . . {characterised by the ionic charge transport
+    9/2022  . . {characterized by he counter electrode}
+    9/2027  . . {comprising an oxide semiconductor electrode}
+    9/2031  . . . {comprising titanium oxide, e.g. TiO2
+(H01G 9/2036 takes precedence)}
+    9/2036  . . . {comprising mixed oxides, e.g. ZnO covered
+    9/204   . . . {comprising zinc oxides, e.g. ZnO
+(H01G 9/2036 takes precedence)}
+    9/2045  . . {comprising a semiconductor electrode
+comprising elements of the fourth group of the
+Periodic System (C, Si, Ge, Sn, Pb) with or
+without impurities, e.g. doping materials}
+    9/205   . . {comprising a semiconductor electrode
+comprising AIII-BV compounds with or without
+impurities, e.g. doping materials}
+    9/2054  . . {comprising a semiconductor electrode
+comprising AII-BVI compounds, e.g. CdTe,
+CdSe, ZnTe, ZnSe, with or without impurities,
+e.g. doping materials (H01G 9/2027 takes
+    9/2059  . . {comprising an organic dye as the active light
+absorbing material, e.g. adsorbed on an electrode
+    9/2063  . . . {comprising a mixture of two or more dyes}
+    9/2068  . . {Panels or arrays of photoelectrochemical
+cells, e.g. photovoltaic modules based on
+    9/2072  . . . {comprising two or more photoelectrodes
+sensible to different parts of the solar spectrum,
+    9/2077  . . . {Sealing arrangements, e.g. to prevent the
+    9/2081  . . . {Serial interconnection of cells}
+    9/2086  . . . {Photoelectrochemical cells in the form of a
+    9/209   . . {Light trapping arrangements}
+    9/2095  . . {comprising a flexible sustrate}
+    9/21    . Temperature-sensitive devices
+    9/22    . Devices using combined reduction and oxidation,
+e.g. redox arrangement or solion
+    9/26    . Structural combinations of electrolytic capacitors,
+rectifiers, detectors, switching devices, light-
+sensitive or temperature-sensitive devices with each
+    9/28    . Structural combinations of electrolytic capacitors,
+rectifiers, detectors, switching devices with other
+electric components not covered by this subclass
+   11/00    Hybrid capacitors, i.e. capacitors having different
+positive and negative electrodes; Electric double-
+layer [EDL] capacitors; Processes for the
+manufacture thereof or of parts thereof
+Group H01G 11/02 takes precedence over groups
+Group H01G 11/00 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/00 should be
+considered in order to perform a complete search.
+   11/02    . using combined reduction-oxidation reactions, e.g.
+Group H01G 11/02 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/02 should
+be considered in order to perform a complete
+   11/04    . Hybrid capacitors
+Group H01G 11/04 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/04 should
+be considered in order to perform a complete
+   11/06    . . with one of the electrodes allowing ions to be
+reversibly doped thereinto, e.g. lithium ion
+Group H01G 11/06 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/06 should
+be considered in order to perform a complete
+   11/08    . Structural combinations, e.g. assembly or
+connection, of hybrid or EDL capacitors with other
+electric components, at least one hybrid or EDL
+capacitor being the main component
+Group H01G 11/08 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/08 should
+be considered in order to perform a complete
+   11/10    . Multiple hybrid or EDL capacitors, e.g. arrays
+or modules (housings, cases, encapsulations or
+Group H01G 11/10 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/10 should
+be considered in order to perform a complete
+   11/12    . . Stacked hybrid or EDL capacitors
+Group H01G 11/12 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/12 should
+be considered in order to perform a complete
+   11/14    . Arrangements or processes for adjusting or
+protecting hybrid or EDL capacitors (emergency
+protective circuit arrangements specially adapted for
+capacitors, and effecting automatic switching in the
+event of an undesired change from normal working
+conditions H02H 7/16; emergency protective circuit
+arrangements for limiting excess current or voltages
+without disconnection H02H 9/00)
+Group H01G 11/14 – H01G 11/20 are
+incomplete pending reclassification of
+documents from group H01G 9/155.
+Groups H01G 9/155 and H01G 11/14 –
+H01G 11/20 should be considered in order to
+   11/16    . . against electric overloads, e.g. including fuses
+   11/18    . . against thermal overloads, e.g. heating, cooling or
+   11/20    . . Reformation or processes for removal of
+Group H01G 11/22 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/22 should
+be considered in order to perform a complete
+   11/24    . . characterised by structural features of the
+materials making up or comprised in the
+electrodes, e.g. form, surface area or porosity;
+characterised by the structural features of
+powders or particles used therefor
+Group H01G 11/24 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/24 should
+be considered in order to perform a complete
+   11/26    . . characterised by their structure, e.g. multi-
+layered, porosity or surface features
+Groups H01G 11/26 – H01G 11/28 are
+incomplete pending reclassification of
+documents from group H01G 9/155.
+Groups H01G 9/155 and H01G 11/26 –
+H01G 11/28 should be considered in order to
+   11/28    . . . arranged or disposed on a current collector;
+Layers or phases between electrodes and
+current collectors, e.g. adhesives
+   11/30    . . characterised by their material
+Group H01G 11/30 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/30 should
+be considered in order to perform a complete
+Groups H01G 11/32 – H01G 11/44 are
+incomplete pending reclassification of
+documents from group H01G 9/155.
+Groups H01G 9/155 and H01G 11/32 –
+H01G 11/44 should be considered in order
+   11/34    . . . . characterised by carbonisation or activation
+   11/36    . . . . Nanostructures, e.g. nanofibres, nanotubes or
+   11/38    . . . . Carbon pastes or blends; Binders or additives
+   11/42    . . . . Powders or particles, e.g. composition
+   11/44    . . . . Raw materials therefor, e.g. resins or coal
+Group H01G 11/46 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/46
+should be considered in order to perform a
+   11/48    . . . Conductive polymers
+Group H01G 11/48 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/48
+should be considered in order to perform a
+   11/50    . . . specially adapted for lithium-ion capacitors,
+e.g. for lithium-doping or for intercalation
+Group H01G 11/50 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/50
+should be considered in order to perform a
+Group H01G 11/52 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/52 should
+be considered in order to perform a complete
+Group H01G 11/54 is incomplete pending
+reclassification of documents from groups
+Groups H01G 9/038, H01G 9/155, and
+H01G 11/54 should be considered in order to
+   11/56    . . Solid electrolytes, e.g. gels; Additives therein
+Group H01G 11/56 is incomplete pending
+reclassification of documents from groups
+Groups H01G 9/038, H01G 9/155, and
+H01G 11/56 should be considered in order to
+   11/58    . . Liquid electrolytes
+Groups H01G 11/58 – H01G 11/64 are
+incomplete pending reclassification of
+documents from groups H01G 9/038 and
+Groups H01G 9/038, H01G 9/155, and
+H01G 11/58 – H01G 11/64 should be
+considered in order to perform a complete
+   11/60    . . . characterised by the solvent
+   11/62    . . . characterised by the solute, e.g. salts, anions or
+   11/64    . . . characterised by additives
+   11/66    . Current collectors
+Group H01G 11/66 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/66 should
+be considered in order to perform a complete
+   11/68    . . characterised by their material
+Group H01G 11/68 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/68 should
+be considered in order to perform a complete
+   11/70    . . characterised by their structure
+Group H01G 11/70 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/70 should
+be considered in order to perform a complete
+   11/72    . . specially adapted for integration in multiple or
+stacked hybrid or EDL capacitors
+Group H01G 11/72 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/72 should
+be considered in order to perform a complete
+   11/74    . Terminals, e.g. extensions of current collectors
+Group H01G 11/74 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/74 should
+be considered in order to perform a complete
+   11/76    . . specially adapted for integration in multiple or
+stacked hybrid or EDL capacitors
+Group H01G 11/76 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/76 should
+be considered in order to perform a complete
+   11/78    . Cases; Housings; Encapsulations; Mountings
+Group H01G 11/78 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/78 should
+be considered in order to perform a complete
+   11/80    . . Gaskets; Sealings
+Group H01G 11/80 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/80 should
+be considered in order to perform a complete
+   11/82    . . Fixing or assembling a capacitive element in
+a housing, e.g. mounting electrodes, current
+collectors or terminals in containers or
+Group H01G 11/82 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/82 should
+be considered in order to perform a complete
+   11/84    . Processes for the manufacture of hybrid or EDL
+capacitors, or components thereof
+Group H01G 11/84 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/84 should
+be considered in order to perform a complete
+   11/86    . . specially adapted for electrodes (carbonisation
+or activation of carbon for the manufacture of
+Group H01G 11/86 is incomplete pending
+reclassification of documents from group
+Groups H01G 9/155 and H01G 11/86 should
+be considered in order to perform a complete
+   13/00    Apparatus specially adapted for manufacturing
+capacitors; Processes specially adapted for
+manufacturing capacitors not provided for in
+   13/003   . {Apparatus or processes for encapsulating
+   13/006   . {Apparatus or processes for applying terminals}
+   13/02    . Machines for winding capacitors
+   13/04    . Drying; Impregnating
+   13/06    . with provision for removing metal surfaces
+   15/00    Structural combinations of capacitors or other
+devices covered by at least two different main
+groups of this subclass with each other (involving
+at least one hybrid or electric double-layer [EDL]
+capacitor as the main component H01G 11/08)
+   17/00    Structural combinations of capacitors or other
+devices covered by at least two different main
+groups of this subclass with other electric elements,
+not covered by this subclass, e.g. RC combinations

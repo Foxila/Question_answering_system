@@ -1,0 +1,847 @@
+COOPERATIVE PATENT CLASSIFICATION
+MEDICAL OR VETERINARY SCIENCE; HYGIENE
+METHODS OR APPARATUS FOR STERILISING MATERIALS OR OBJECTS IN
+GENERAL; DISINFECTION, STERILISATION OR DEODORISATION OF AIR;
+CHEMICAL ASPECTS OF BANDAGES, DRESSINGS, ABSORBENT PADS OR
+SURGICAL ARTICLES; MATERIALS FOR BANDAGES, DRESSINGS, ABSORBENT
+PADS OR SURGICAL ARTICLES (preservation of bodies or disinfecting characterised by
+the agents employed A01N; preserving, e.g. sterilising, food or foodstuffs A23; preparations for
+medical, dental or toiletry purposes A61K)
+In groups A61L 2/00 - A61L 12/00, it is desirable to add the indexing codes of groups {A61L 2101/00 - A61L 2101/50}.
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. {In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    2/00    Methods or apparatus for disinfecting or sterilising
+materials or objects other than foodstuffs or
+contact lenses; Accessories therefor (for contact
+lenses A61L 12/00; atomisers for disinfecting agents
+A61M; sterilisation of packages or package contents
+in association with packaging B65B 55/00; treatment
+of water, waste water, sewage or sludge C02F;
+disinfecting paper D21H 21/36; disinfecting devices
+for water closets E03D; articles having provision
+for disinfection, see the relevant subclasses for these
+    2/0005  . {for pharmaceuticals, biologicals or living parts}
+    2/0011  . . {using physical methods}
+    2/0035  . . . . {Gamma radiation}
+    2/0047  . . . . {Ultraviolet radiation}
+    2/0052  . . . . {Visible light}
+    2/0058  . . . . {Infrared radiation}
+    2/0064  . . . . {Microwaves}
+    2/007   . . . . {Particle radiation, e.g. electron-beam, alpha
+    2/0076  . . . . {using a photocatalyst or photosensitiser}
+    2/0082  . . {using chemical substances}
+    2/0088  . . . {Liquid substances}
+    2/0094  . . . {Gaseous substances}
+    2/02    . using physical phenomena
+    2/03    . . Electric current
+    2/035   . . . {Electrolysis}
+    2/04    . . Heat (A61L 2/08 takes precedence)
+    2/081   . . . {Gamma radiation}
+    2/084   . . . {Visible light}
+    2/085   . . . {Infrared radiation}
+    2/087   . . . {Particle radiation, e.g. electron-beam, alpha or
+    2/088   . . . {using a photocatalyst or photosensitiser}
+    2/10    . . . Ultra-violet radiation
+    2/14    . . Plasma, i.e. ionised gases
+    2/16    . using chemical substances
+    2/18    . . Liquid substances {or solutions comprising solids
+    2/183   . . . {Ozone dissolved in a liquid}
+    2/186   . . . {Peroxide solutions}
+    2/20    . . Gaseous substances, e.g. vapours
+    2/204   . . . {Formaldehyde}
+    2/206   . . . {Ethylene oxide}
+    2/208   . . . {Hydrogen peroxide}
+    2/22    . . Phase substances, e.g. smokes, aerosols {or
+sprayed or atomised substances}
+    2/23    . . Solid substances, e.g. granules, powders, blocks,
+    2/232   . . . layered or coated
+    2/235   . . . cellular, porous or foamed
+    2/238   . . . Metals or alloys, e.g. oligodynamic metals
+    2/24    . Apparatus using programmed or automatic
+    2/26    . Accessories {or devices or components used for
+    2/28    . . Devices for testing the effectiveness or
+completeness of sterilisation, e.g. indicators
+which change colour (apparatus involving
+enzymes or microorganisms C12M 1/34;
+methods involving enzymes or microorganisms
+    9/00    Disinfection, sterilisation or deodorisation of
+air (body deodorants A61Q 15/00; purifying
+air by respirators A62B, A62D 9/00; separating
+dispersed particles from gases or vapours
+B01D 45/00 - B01D 51/00, B03C 3/00; chemical or
+biological purification of waste gases B01D 53/34;
+production of ozone C01B 13/10; air-conditioning
+systems incorporating sterilisation F24F 3/16,
+    9/01    . Deodorant compositions {(compositions released by
+contact with a liquid A61L 9/05)}
+    9/012   . . characterised by being in a special form, e.g. gels,
+emulsions {(A61L 9/048 takes precedence)}
+    9/013   . . containing animal or plant extracts, or vegetable
+    9/014   . . containing sorbent material, e.g. activated carbon
+    9/015   . using gaseous or vaporous substances, e.g. ozone
+(A61L 9/20 takes precedence {; evaporation in
+    9/02    . . using substances evaporated in the air by heating
+    9/03    . . . Apparatus therefor
+    9/032   . . . . {comprising a fan}
+    9/035   . . . . {emanating multiple odours}
+    9/037   . . . . {comprising a wick}
+    9/04    . . using substances evaporated in the air without
+    9/042   . . . {with the help of a macromolecular compound
+as a carrier or diluent (A61L 9/048 takes
+    9/044   . . . {with the help of an organic compound other
+than a macromolecular compound}
+    9/046   . . . {with the help of a non-organic compound}
+    9/048   . . . {air treating gels}
+    9/05    . . . specially adapted to be released by contact with
+    9/12    . . . Apparatus, e.g. holders, therefor
+    9/122   . . . . {comprising a fan}
+    9/125   . . . . {emanating multiple odours}
+    9/127   . . . . {comprising a wick}
+    9/14    . using sprayed or atomised substances {including
+    9/145   . . {air-liquid contact processes, e.g. scrubbing}
+    9/16    . using physical phenomena
+    9/18    . . Radiation (A61L 9/22 takes precedence)
+    9/20    . . . Ultra-violet radiation
+    9/205   . . . . {using a photocatalyst or photosensitiser}
+   11/00    Methods specially adapted for refuse
+{(disintegrating medical waste B02C 19/0075;
+disposal of medical waste B09B 3/00)}
+   12/00    Methods or apparatus for disinfecting or sterilising
+contact lenses; Accessories therefor
+   12/02    . using physical phenomena, e.g. electricity,
+   12/04    . . Heat (A61L 12/06 takes precedence)
+   12/06    . . Radiation, e.g. ultraviolet or microwaves
+   12/063   . . . {Ultraviolet radiation}
+   12/08    . using chemical substances
+   12/082   . . {in combination with specific enzymes}
+   12/084   . . {in a gaseous state}
+   12/086   . . {Container, accessories or devices therefor}
+   12/10    . . Halogens or compounds thereof
+   12/102   . . . {Chlorine dioxide (ClO2)}
+   12/105   . . . {Iodine, iodides or iodophores}
+   12/107   . . . {Hypohalites; Active halogens}
+   12/12    . . Non-macromolecular oxygen-containing
+compounds, e.g. hydrogen peroxide or ozone
+   12/124   . . . {Hydrogen peroxide; Peroxy compounds}
+   12/126   . . . . {neutralised with catalase or peroxidase}
+   12/128   . . . . {neutralised with catalysts}
+   12/14    . . Organic compounds not covered by groups
+   12/141   . . . {Biguanides, e.g. chlorhexidine}
+   12/142   . . . . {Polymeric biguanides}
+   12/143   . . . {Quaternary ammonium compounds}
+   12/145   . . . . {Polymeric quaternary ammonium
+   12/147   . . . {Alcohols or derivatives thereof (aldehydes
+   12/148   . . . {Mercury containing compounds, e.g.
+Chemical aspects of, or use of materials for, bandages, dressings
+or absorbent pads {comprising a solid support or backing}(for
+liquid bandages A61L 26/00; radioactive dressings {A61N 5/1029 }
+{transdermal delivery devices A61K 9/7023})
+   15/00    Chemical aspects of, or use of materials for,
+bandages, dressings or absorbent pads (for
+liquid bandages A61L 26/00; radioactive dressings
+1. In groups A61L 15/08 -  A61L 15/12, the
+last place priority rule is applied, i.e. at each
+hierarchical level, in the absence of an indication
+to the contrary, classification is made in the last
+A61L 15/08 - A61L 15/12, classification is also
+made in group A61L 15/14 if the use of materials
+2Chemical aspects of, or use of materials for, bandages, dressings or absorbent pads comprising a solid
+characterised by their function or physical
+3. In groups A61L 15/18 - A61L 15/40, the last place
+priority rule is applied, i.e. at each hierarchical
+level, in the absence of an indication to the
+contrary, classification is made in the last
+appropriate place. {This Note corresponds to IPC
+Note (1) relating to A61L 15/18 - A61L 15/40.}
+A61L 15/18 - A61L 15/40, classification is also
+made in group A61L 15/42 if the use of materials
+characterised by their function or physical
+   15/07    . Stiffening bandages
+   15/08    . . containing inorganic materials, e.g. plaster of
+   15/10    . . containing organic materials
+   15/12    . . containing macromolecular materials
+In group A61L 15/12 and subgroups, the use
+of specific polymers is indicated using the
+relevant combination set symbol, adding, after
+the A61L 15/12 symbol, the correspondent
+symbol of the polymer composition in subclass
+C08L, e.g. stiffening bandage based on
+polyurethane A61L 15/12, C08L 75/04
+   15/125   . . . {Mixtures of macromolecular compounds}
+   15/14    . . Use of materials characterised by their function or
+   15/16    . Bandages, dressings or absorbent pads for
+physiological fluids such as urine or blood, e.g.
+   15/18    . . containing inorganic materials
+   15/20    . . containing organic materials
+   15/22    . . containing macromolecular materials
+In groups A61L 15/22 - A61L 15/30, the use
+of specific polymers is indicated using the
+relevant combination set symbol, adding,
+after the symbol in A61L, the correspondent
+symbol of the polymer in subclass C08L, e.g.
+absorbent pad containing starch A61L 15/22,
+   15/225   . . . {Mixtures of macromolecular compounds}
+   15/24    . . . Macromolecular compounds obtained by
+reactions only involving carbon-to-carbon
+unsaturated bonds; Derivatives thereof
+{(A61L 15/225 takes precedence)}
+   15/26    . . . Macromolecular compounds obtained
+otherwise than by reactions only involving
+carbon-to-carbon unsaturated bonds;
+Derivatives thereof {(A61L 15/225 takes
+   15/28    . . . Polysaccharides or their derivatives
+{(A61L 15/225 takes precedence)}
+   15/30    . . . Rubbers or their derivatives {(A61L 15/225
+   15/32    . . . Proteins, polypeptides; Degradation
+products or derivatives thereof, e.g. albumin,
+collagen, fibrin, gelatin {(A61L 15/225 takes
+   15/34    . . . Oils, fats, waxes or natural resins
+{(A61L 15/225 takes precedence)}
+   15/36    . . containing microorganisms
+   15/38    . . containing enzymes
+   15/40    . . containing ingredients of undetermined
+constitution or reaction products thereof {, e.g.
+   15/42    . . Use of materials characterised by their function or
+physical properties (liquid bandages A61L 26/00)
+   15/425   . . . {Porous materials, e.g. foams or sponges}
+   15/46    . . . Deodorants or malodour counteractants, e.g. to
+inhibit the formation of ammonia or bacteria
+   15/50    . . . Lubricants; Anti-adhesive agents
+   15/52    . . . Water-repellants
+   15/54    . . . Radio-opaque materials
+   15/56    . . . Wetness-indicators or colourants
+   15/585   . . . . {Mixtures of macromolecular compounds}
+   15/60    . . . Liquid-swellable gel-forming materials, e.g.
+   15/62    . . . {Compostable,} hydrosoluble or
+   15/64    . . . specially adapted to be resorbable inside the
+   17/00    Materials for surgical sutures or for ligaturing
+blood vessels (surgical adhesives A61L 24/00;
+surgical instruments, devices or methods for suturing
+or ligaturing A61B 17/04, A61B 17/12; supports
+or packages for suture materials A61B 17/04);
+{Materials for prostheses or catheters (bone
+cements or surgical adhesives for soft body tissues
+A61L 24/00; shape or structure of prostheses
+A61F 2/00; shape or structure of catheters
+1. In groups A61L 17/04 -  A61L 17/145, the
+last place priority rule is applied, i.e. at each
+hierarchical level, in the absence of an indication
+to the contrary, classification is made in the last
+2. When classifying in group A61L 17/00,
+classification is also made in A61L 33/00 if the
+materials used are antithrombogenic.
+   17/005   . {containing a biologically active substance, e.g. a
+   17/04    . Non-resorbable materials
+   17/06    . At least partially resorbable materials
+   17/08    . . of animal origin, e.g. catgut, collagen
+   17/10    . . containing macromolecular materials
+   17/105   . . . {Polyesters not covered by A61L 17/12}
+   17/12    . . . Homopolymers or copolymers of glycolic acid
+   17/14    . Post-treatment to improve physical properties
+3Chemical aspects of, or use of materials for, bandages, dressings or absorbent pads comprising a solid
+   24/00    Surgical adhesives or cements; Adhesives for
+1. In groups A61L 24/00 - A61L 24/12, the use of
+specific polymers is indicated using the relevant
+combination set symbol, adding, after the symbol
+in A61L, the correspondent symbol of the polymer
+in subclass C08L, e.g. surgical adhesives based on
+polymethylmethacrylate: A61L 24/06, C08L 33/12
+2. In groups A61L 24/00 -  A61L 24/12, the
+last place priority rule is applied, i.e. at each
+hierarchical level, in the absence of an indication
+to the contrary, classification is made in the last
+3. When classifying in group A61L 24/00,
+classification is also made in A61L 33/00 if the
+materials used are antithrombogenic.
+   24/0005  . {Ingredients of undetermined constitution or
+   24/001   . {Use of materials characterised by their function or
+   24/0015  . . {Medicaments; Biocides}
+   24/0026  . . {Sprayable compositions}
+   24/0031  . . {Hydrogels or hydrocolloids}
+   24/0036  . . {Porous materials, e.g. foams or sponges}
+   24/0042  . . {Materials resorbable by the body}
+   24/0047  . {Composite materials, i.e. containing one material
+dispersed in a matrix of the same or different
+   24/0052  . . {with an inorganic matrix}
+   24/0063  . . . {Phosphorus containing materials, e.g. apatite}
+   24/0068  . . . {Inorganic materials not covered by groups
+   24/0073  . . {with a macromolecular matrix}
+   24/0078  . . . {containing fillers of carbon}
+   24/0084  . . . {containing fillers of phosphorus-containing
+inorganic compounds, e.g. apatite}
+   24/0089  . . . {containing inorganic fillers not covered by
+groups A61L 24/0078 or A61L 24/0084}
+   24/0094  . . . {containing macromolecular fillers}
+   24/02    . containing inorganic materials
+   24/04    . containing macromolecular materials
+   24/043   . . {Mixtures of macromolecular materials}
+   24/046   . . {obtained otherwise than by reactions only
+involving carbon-to-carbon unsaturated bonds
+(A61L 24/043 takes precedence)}
+   24/06    . . obtained by reactions only involving carbon-
+to-carbon unsaturated bonds {(A61L 24/043,
+   24/08    . . Polysaccharides {(A61L 24/043 takes
+   24/10    . . Polypeptides; Proteins {(A61L 24/043 takes
+   24/106   . . . {Fibrin; Fibrinogen}
+   24/108   . . . {Specific proteins or polypeptides not covered
+by groups A61L 24/102 - A61L 24/106}
+   24/12    . . Ionomer cements, e.g. glass-ionomer cements
+{(A61L 24/043 takes precedence)}
+   26/00    Chemical aspects of, or use of materials for,
+{wound dressings or} bandages {in liquid, gel or
+1. When classifying in group A61L 26/00,
+classification is also made in A61L 33/00 if the
+materials used are antithrombogenic.
+2. In groups A61L 26/00 - A61L 26/0095, the
+use of specific polymers is indicated using the
+relevant combination set symbol, adding, after the
+symbol in A61L, the correspondent symbol of the
+polymer in subclass C08L, e.g. liquid bandages on
+alginates: A61L 26/0023, C08L 5/04
+   26/0004  . {containing inorganic materials}
+   26/0009  . {containing macromolecular materials}
+   26/0014  . . {obtained by reactions only involving carbon-to-
+   26/0019  . . {obtained otherwise than by reactions only
+involving carbon-to-carbon unsaturated bonds}
+   26/0023  . . {Polysaccharides}
+   26/0028  . . {Polypeptides; Proteins; Degradation products
+   26/0042  . . . {Fibrin; Fibrinogen}
+   26/0047  . . . {Specific proteins or polypeptides not covered
+by groups A61L 26/0033 - A61L 26/0042}
+   26/0052  . . {Mixtures of macromolecular compounds}
+   26/0057  . {Ingredients of undetermined constitution or
+   26/0061  . {Use of materials characterised by their function or
+   26/0066  . . {Medicaments; Biocides}
+   26/0076  . . {Sprayable compositions}
+   26/008   . . {Hydrogels or hydrocolloids}
+   26/0085  . . {Porous materials, e.g. foams or sponges}
+   26/009   . . {Materials resorbable by the body}
+   26/0095  . {Composite materials, i.e. containing one material
+dispersed in a matrix of the same or different
+   27/00    Materials for {grafts or} prostheses or for
+coating {grafts or} prostheses (dental prostheses
+A61C 13/00; shape or structure of prostheses
+A61F 2/00; use of preparations for artificial teeth
+A61K 6/80; artificial kidneys A61M 1/14)
+1. In groups A61L 27/02 -  A61L 27/48, the
+last place priority rule is applied, i.e. at each
+hierarchical level, in the absence of an indication
+to the contrary, classification is made in the last
+2. When classifying in groups A61L 27/02 -
+A61L 27/48, classification is also made in groups
+A61L 27/50 - A61L 27/60 if the use of materials
+characterised by their function or physical
+3. When classifying in group A61L 27/00,
+classification is also made in A61L 33/00 if the
+materials used are antithrombogenic
+4Chemical aspects of, or use of materials for, bandages, dressings or absorbent pads comprising a solid
+4. In group A61L 27/00, the use of specific polymers
+is indicated using the relevant classification
+symbols of subclass C08L in the second position
+of the combination set, e.g. prosthesis based on
+polyvinylchloride A61L 27/16, C08L 27/06
+   27/02    . Inorganic materials
+   27/025   . . {Other specific inorganic materials not covered
+   27/04    . . Metals or alloys
+   27/042   . . . {Iron or iron alloys}
+   27/045   . . . {Cobalt or cobalt alloys}
+   27/047   . . . {Other specific metals or alloys not covered by
+A61L 27/042 - A61L 27/045 or A61L 27/06}
+   27/06    . . . Titanium or titanium alloys
+   27/08    . . Carbon {; Graphite}
+   27/10    . . Ceramics or glasses
+   27/105   . . . {containing Al2O3}
+   27/12    . . Phosphorus-containing materials, e.g. apatite
+   27/14    . Macromolecular materials
+   27/16    . . obtained by reactions only involving carbon-to-
+   27/18    . . obtained otherwise than by reactions only
+involving carbon-to-carbon unsaturated bonds
+   27/20    . . Polysaccharides
+   27/22    . . Polypeptides or derivatives thereof {, e.g.
+   27/225   . . . {Fibrin; Fibrinogen}
+   27/227   . . . {Other specific proteins or polypeptides not
+covered by A61L 27/222, A61L 27/225 or
+   27/26    . . Mixtures of macromolecular compounds
+   27/28    . Materials for coating prostheses
+   27/30    . . Inorganic materials
+   27/306   . . . {Other specific inorganic materials not covered
+   27/32    . . . Phosphorus-containing materials, e.g. apatite
+   27/34    . . Macromolecular materials
+   27/36    . containing ingredients of undetermined constitution
+or reaction products thereof {, e.g. transplant tissue,
+natural bone, extracellular matrix (isolated natural
+compounds, e.g. collagen A61L 27/24)}
+   27/3604  . . {characterised by the human or animal origin
+of the biological material, e.g. hair, fascia, fish
+scales, silk, shellac, pericardium, pleura, renal
+tissue, amniotic membrane, parenchymal tissue,
+fetal tissue, muscle tissue, fat tissue, enamel}
+   27/3608  . . . {Bone, e.g. demineralised bone matrix [DBM],
+   27/3612  . . . {Cartilage, synovial fluid}
+   27/3616  . . . {Blood, e.g. platelet-rich plasma}
+   27/362   . . . {Skin, e.g. dermal papillae}
+   27/3625  . . . {Vascular tissue, e.g. heart valves}
+   27/3629  . . . {Intestinal tissue, e.g. small intestinal
+   27/3633  . . . {Extracellular matrix [ECM]}
+   27/3637  . . {characterised by the origin of the biological
+material other than human or animal, e.g. plant
+   27/3641  . . {characterised by the site of application in
+the body (materials for artificial blood vessels
+A61L 27/507; materials for use in artificial skin
+   27/3645  . . . {Connective tissue}
+   27/3654  . . . . {Cartilage, e.g. meniscus}
+   27/3658  . . . . . {Intervertebral discs (mechanical aspects
+and structures of intervertebral discs
+   27/3662  . . . . {Ligaments, tendons}
+   27/3666  . . . {Epithelial tissues other than skin}
+   27/367   . . . {Muscle tissue, e.g. sphincter}
+   27/3675  . . . {Nerve tissue, e.g. brain, spinal cord, nerves,
+   27/3679  . . . {Hollow organs, e.g. bladder, esophagus,
+   27/3683  . . {subjected to a specific treatment prior to
+implantation, e.g. decellularising, demineralising,
+grinding, cellular disruption/non-collagenous
+protein removal, anti-calcification, crosslinking,
+supercritical fluid extraction, enzyme treatment}
+   27/3687  . . . {characterised by the use of chemical agents in
+the treatment, e.g. specific enzymes, detergents,
+capping agents, crosslinkers, anticalcification
+   27/3691  . . . {characterised by physical conditions of
+the treatment, e.g. applying a compressive
+force to the composition, pressure cycles,
+ultrasonic/sonication or microwave treatment,
+   27/3695  . . . {characterised by the function or physical
+properties of the final product, where no
+specific conditions are defined to achieve
+this (A61L 27/3687, A61L 27/3691 take
+   27/38    . . {containing added animal cells (organs or tissue
+containing native cells A61L 27/36)}
+   27/3804  . . . {characterised by specific cells or progenitors
+thereof, e.g. fibroblasts, connective tissue cells,
+   27/3808  . . . . {Endothelial cells}
+   27/3813  . . . . {Epithelial cells, e.g. keratinocytes,
+   27/3817  . . . . {Cartilage-forming cells, e.g. pre-
+   27/3821  . . . . {Bone-forming cells, e.g. osteoblasts,
+osteocytes, osteoprogenitor cells}
+   27/3826  . . . . {Muscle cells, e.g. smooth muscle cells}
+   27/383   . . . . {Nerve cells, e.g. dendritic cells, Schwann
+   27/3834  . . . . {Cells able to produce different cell types,
+e.g. hematopoietic stem cells, mesenchymal
+stem cells, marrow stromal cells, embryonic
+   27/3839  . . . {characterised by the site of application in
+the body (materials for artificial blood vessels
+A61L 27/507; materials for use in artificial skin
+   27/3843  . . . . {Connective tissue}
+   27/3852  . . . . . {Cartilage, e.g. meniscus}
+5Chemical aspects of, or use of materials for, bandages, dressings or absorbent pads comprising a solid
+   27/3856  . . . . . . {Intervertebral discs (mechanical
+aspects and structures of intervertebral
+   27/386   . . . . . {Ligaments, tendons}
+   27/3865  . . . . . {Dental/periodontal tissues}
+   27/3869  . . . . {Epithelial tissues other than skin}
+   27/3873  . . . . {Muscle tissue, e.g. sphincter}
+   27/3878  . . . . {Nerve tissue, brain, spinal cord, nerves,
+   27/3882  . . . . {Hollow organs, e.g. bladder, esophagus,
+   27/3886  . . . {comprising two or more cell types}
+   27/3891  . . . . {as distinct cell layers}
+   27/3895  . . . {using specific culture conditions, e.g.
+stimulating differentiation of stem cells,
+   27/40    . Composite materials, i.e. containing one material
+dispersed in a matrix of the same or different
+   27/42    . . having an inorganic matrix
+   27/425   . . . {of phosphorus containing material, e.g.
+   27/427   . . . {of other specific inorganic materials not
+covered by A61L 27/422 or A61L 27/425}
+   27/44    . . having a macromolecular matrix
+   27/443   . . . {with carbon fillers}
+   27/446   . . . {with other specific inorganic fillers other than
+those covered by A61L 27/443 or A61L 27/46}
+   27/46    . . . with phosphorus-containing inorganic fillers
+   27/48    . . . with macromolecular fillers
+   27/50    . Materials characterised by their function or
+physical properties {, e.g. injectable or lubricating
+compositions, shape-memory materials, surface
+   27/507   . . {for artificial blood vessels (apparatus for
+applying cells on a blood vessel prosthesis
+   27/52    . . Hydrogels or hydrocolloids
+   27/54    . . Biologically active materials, e.g. therapeutic
+substances {(A61L 27/227 takes precedence)}
+   27/56    . . Porous materials, {e.g. foams or sponges}
+   27/58    . . Materials at least partially resorbable by the body
+   27/60    . . Materials for use in artificial skin
+   28/00    Materials for colostomy devices (adhesives for
+When classifying in group A61L 28/00,
+classification is also made in A61L 33/00 if the
+materials used are antithrombogenic.
+   28/0003  . {containing inorganic materials}
+   28/0007  . {containing macromolecular materials}
+   28/0011  . . {obtained by reactions only involving carbon-to-
+   28/0015  . . {obtained otherwise than by reactions only
+involving carbon-to-carbon unsaturated bonds}
+   28/0019  . . {Polysaccharides}
+   28/0023  . . {Polypeptides; Proteins; Degradation products
+   28/0026  . . {Mixtures of macromolecular compounds}
+   28/003   . {Ingredients of undetermined constitution or
+   28/0034  . {Use of materials characterised by their function or
+   28/0038  . . {Medicaments; Biocides}
+   28/0046  . . {Sprayable compositions}
+   28/0049  . . {Hydrogels or hydrocolloids}
+   28/0053  . . {Porous materials, e.g. foams or sponges}
+   28/0057  . . {Materials resorbable by the body}
+   28/0061  . {Materials for coating}
+   28/0065  . . {Inorganic materials}
+   28/0069  . . {Macromolecular materials}
+   28/0073  . {Composite materials, i.e. containing one material
+dispersed in a matrix of the same or different
+   28/0076  . . {with an inorganic matrix}
+   28/008   . . {with a macromolecular matrix}
+   28/0084  . . . {containing fillers of carbon}
+   28/0088  . . . {containing fillers of phosphorus-containing
+   28/0092  . . . {containing inorganic fillers not covered by
+groups A61L 28/0084 or A61L 28/0088}
+   28/0096  . . . {containing macromolecular fillers}
+   29/00    Materials for catheters, {medical tubing, cannulae,
+or endoscopes} or for coating catheters (shape or
+structure of catheters A61M 25/00)
+1. In groups A61L 29/02 - {A61L 29/126}, the
+last place priority rule is applied, i.e. at each
+hierarchical level, in the absence of an indication
+to the contrary, classification is made in the last
+A61L 29/02 - {A61L 29/126} , classification is
+also made in groups A61L 29/14 - A61L 29/18 if
+the use of materials characterised by their function
+or physical properties is of interest.
+3. When classifying in group A61L 29/00,
+classification is also made in A61L 33/00 if the
+materials used are antithrombogenic
+4. In group A61L 29/00, the use of specific polymers
+is indicated using the relevant classification
+symbols of subclass C08L in the combination
+set, e.g. a catheter based on polyvinylchloride
+   29/005   . {Ingredients of undetermined constitution or
+   29/02    . Inorganic materials
+   29/04    . Macromolecular materials
+   29/041   . . {obtained by reactions only involving carbon-to-
+   29/043   . . {Polysaccharides}
+   29/044   . . {Proteins; Polypeptides; Degradation products
+   29/047   . . . {Fibrin; Fibrinogen}
+   29/048   . . . {Other specific proteins or polypeptides not
+covered by A61L 29/045 - A61L 29/047}
+6Chemical aspects of, or use of materials for, bandages, dressings or absorbent pads comprising a solid
+   29/049   . . {Mixtures of macromolecular compounds}
+   29/06    . . obtained otherwise than by reactions only
+involving carbon-to-carbon unsaturated bonds
+   29/08    . Materials for coatings
+   29/085   . . {Macromolecular materials}
+   29/10    . . Inorganic materials
+   29/106   . . . {Inorganic materials other than carbon}
+   29/12    . Composite materials, i.e. containing one material
+dispersed in a matrix of the same or different
+   29/123   . . {having an inorganic matrix}
+   29/126   . . {having a macromolecular matrix}
+   29/14    . Materials characterised by their function or physical
+properties {, e.g. lubricating compositions}
+   29/145   . . {Hydrogels or hydrocolloids}
+   29/146   . . {Porous materials, e.g. foams or sponges}
+   29/148   . . {Materials at least partially resorbable by the
+   29/16    . . Biologically active materials, e.g. therapeutic
+substances {(A61L 29/048 takes precedence)}
+   29/18    . . Materials at least partially X-ray or laser opaque
+   31/00    Materials for other surgical articles {, e.g. stents,
+stent-grafts, shunts, surgical drapes, guide wires,
+materials for adhesion prevention, occluding
+devices, surgical gloves, tissue fixation devices
+(shape or structure of stent-grafts A61F 2/07, of
+stents A61F 2/82, of surgical gloves A61B 42/00, of
+surgical drapes A61B 46/00, of occluding devices
+1. In groups A61L 31/02 -  {A61L 31/129}, the
+last place priority rule is applied, i.e. at each
+hierarchical level, in the absence of an indication
+to the contrary, classification is made in the last
+A61L 31/02 - {A61L 31/129} , classification is
+also made in groups A61L 31/14 - A61L 31/18 if
+the use of materials characterised by their function
+or physical properties is of interest.
+3. When classifying in group A61L 31/00,
+classification is also made in A61L 33/00 if the
+materials used are antithrombogenic
+4. In group A61L 31/00, the use of specific polymers
+is indicated using the relevant classification
+symbols of subclass C08L in the second position
+of the combination set, e.g. surgical clamp based
+on polyvinylchloride A61L 31/048, C08L 27/06
+   31/005   . {Ingredients of undetermined constitution or
+   31/02    . Inorganic materials
+   31/022   . . {Metals or alloys}
+   31/024   . . {Carbon; Graphite}
+   31/026   . . {Ceramic or ceramic-like structures, e.g. glasses}
+   31/028   . . {Other inorganic materials not covered by
+   31/04    . Macromolecular materials
+   31/041   . . {Mixtures of macromolecular compounds}
+   31/042   . . {Polysaccharides}
+   31/043   . . {Proteins; Polypeptides; Degradation products
+   31/046   . . . {Fibrin; Fibrinogen}
+   31/047   . . . {Other specific proteins or polypeptides not
+covered by A61L 31/044 - A61L 31/046}
+   31/048   . . {obtained by reactions only involving carbon-to-
+carbon unsaturated bonds (A61L 31/041 takes
+   31/06    . . obtained otherwise than by reactions only
+involving carbon-to-carbon unsaturated bonds
+{(A61L 31/041 takes precedence)}
+   31/08    . Materials for coatings
+   31/082   . . {Inorganic materials}
+   31/084   . . . {Carbon; Graphite}
+   31/086   . . . {Phosphorus-containing materials, e.g. apatite}
+   31/088   . . . {Other specific inorganic materials not covered
+   31/10    . . Macromolecular materials
+   31/12    . Composite materials, i.e. containing one material
+dispersed in a matrix of the same or different
+   31/121   . . {having an inorganic matrix}
+   31/123   . . . {of phosphorus-containing materials, e.g.
+   31/124   . . . {of other specific inorganic materials not
+covered by A61L 31/122 or A61L 31/123}
+   31/125   . . {having a macromolecular matrix}
+   31/126   . . . {containing carbon fillers}
+   31/127   . . . {containing fillers of phosphorus-containing
+   31/128   . . . {containing other specific inorganic fillers not
+covered by A61L 31/126 or A61L 31/127}
+   31/129   . . . {containing macromolecular fillers}
+   31/14    . Materials characterised by their function or
+physical properties {, e.g. injectable or lubricating
+compositions, shape-memory materials, surface
+   31/145   . . {Hydrogels or hydrocolloids}
+   31/146   . . {Porous materials, e.g. foams or sponges}
+   31/148   . . {Materials at least partially resorbable by the
+   31/16    . . Biologically active materials, e.g. therapeutic
+substances {(A61L 31/047 takes precedence)}
+   31/18    . . Materials at least partially X-ray or laser opaque
+   33/00    Antithrombogenic treatment of surgical articles,
+e.g. sutures, catheters, prostheses, or of articles
+for the manipulation or conditioning of blood;
+1. In groups A61L 33/0076 -  A61L 33/0094 and
+A61L 33/02 -  A61L 33/122, the last place priority
+rule is applied, i.e. at each hierarchical level,
+in the absence of an indication to the contrary,
+classification is made in the last appropriate place.
+7Chemical aspects of, or use of materials for, bandages, dressings or absorbent pads comprising a solid
+A61L 33/02 - A61L 33/122, classification is also
+made in group A61L 33/0005 if of interest
+3. In group A61L 33/00, the use of specific polymers
+is indicated using the relevant classification
+symbols of subclass C08L in the second position
+of the combination set, e.g. antithrombogenic
+treatment with the help of polyvinylchloride
+   33/0005  . {Use of materials characterised by their function or
+   33/0011  . . {Anticoagulant, e.g. heparin, platelet aggregation
+inhibitor, fibrinolytic agent, other than enzymes,
+   33/0017  . . . {using a surface active agent}
+   33/0023  . . . {using a quaternized group or a protonated
+   33/0029  . . . {using an intermediate layer of polymer}
+   33/0035  . . . {using a polymer with positively charged atoms
+in the polymeric backbone, e.g. ionenes}
+   33/0041  . . . {characterised by the choice of an
+antithrombatic agent other than heparin
+(heparinoïd A61L 33/08; polypeptides
+   33/0047  . . {Enzymes, e.g. urokinase, streptokinase}
+   33/0064  . . {Hydrogels or hydrocolloids}
+   33/007   . . {Porous materials, e.g. foams or sponges}
+   33/0076  . {Chemical modification of the substrate}
+   33/0082  . . {by reacting with an organic compound other
+   33/0088  . . {by grafting of a monomer onto the substrate}
+   33/0094  . {Physical treatment, e.g. plasma treatment}
+   33/02    . Use of inorganic materials
+   33/022   . . {Metal or alloys}
+   33/025   . . {Carbon; Graphite}
+   33/027   . . {Other specific inorganic materials not covered
+   33/04    . Use of organic materials, e.g. acetylsalicylic acid
+   33/06    . Use of macromolecular materials (grafting of a
+monomer onto the substrate A61L 33/0088)
+   33/062   . . {Mixtures of macromolecular compounds}
+   33/064   . . {obtained by reactions only involving carbon-to-
+carbon unsaturated bonds (A61L 33/062 takes
+   33/068   . . {obtained otherwise than by reactions only
+involving carbon-to-carbon unsaturated bonds
+(A61L 33/062 takes precedence)}
+   33/08    . . Polysaccharides
+   33/12    . . Polypeptides, proteins or derivatives thereof {,
+e.g. degradation products thereof}
+   33/128   . . . {Other specific proteins or polypeptides not
+covered by A61L 33/122 - A61L 33/126}
+   33/18    . Use of ingredients of undetermined constitution or
+Indexing scheme associated with groups A61L 2/00 - A61L 12/00,
+relating to the chemical composition of the materials used in
+disinfecting, sterilizing or deodorizing.
+ 2101/00    Chemical composition of materials used in
+disinfecting, sterilising or deodorising
+ 2101/02    . Inorganic materials
+ 2101/06    . . containing halogen
+ 2101/08    . . . Elemental halogen
+ 2101/12    . . containing silicon
+ 2101/14    . . containing sulfur
+ 2101/16    . . containing phosphorus
+ 2101/24    . . containing aluminium
+ 2101/26    . . containing copper
+ 2101/28    . . containing iron
+ 2101/30    . . containing zinc
+ 2101/32    . Organic compounds
+ 2101/34    . . Hydroxy compounds
+ 2101/36    . . Carboxylic acids or derivatives thereof
+ 2101/40    . . containing sulfur
+ 2101/42    . . Organo-metallic compounds or complexes
+ 2101/44    . . Heterocyclic compounds
+ 2101/46    . . Macromolecular compounds
+ 2101/48    . . . obtained by reactions only involving carbon-to-
+ 2101/50    . . . Polysaccharides or derivatives thereof
+ 2202/00    Aspects relating to methods or apparatus for
+disinfecting or sterilising materials or objects
+ 2202/10    . Apparatus features
+ 2202/11    . . Apparatus for generating biocidal substances, e.g.
+ 2202/12    . . Apparatus for isolating biocidal substances from
+ 2202/121   . . . Sealings, e.g. doors, covers, valves, sluices
+ 2202/122   . . . Chambers for sterilisation
+ 2202/123   . . . Connecting means
+ 2202/13    . . Biocide decomposition means, e.g. catalysts,
+ 2202/14    . . Means for controlling sterilisation processes, data
+processing, presentation and storage means, e.g.
+ 2202/15    . . Biocide distribution means, e.g. nozzles, pumps,
+manifolds, fans, baffles, sprayers
+ 2202/16    . . Mobile applications, e.g. portable devices,
+trailers, devices mounted on vehicles
+ 2202/17    . . Combination with washing or cleaning means
+ 2202/18    . . Aseptic storing means
+ 2202/181   . . . Flexible packaging means, e.g. permeable
+ 2202/182   . . . Rigid packaging means
+ 2202/20    . Targets to be treated
+ 2202/21    . . Pharmaceuticals, e.g. medicaments, artificial
+ 2202/22    . . Blood or products thereof
+ 2202/23    . . Containers, e.g. vials, bottles, syringes, mail
+ 2202/24    . . Medical instruments, e.g. endoscopes, catheters,
+ 2202/25    . . Rooms in buildings, passenger compartments
+ 2202/26    . . Textiles, e.g. towels, beds, cloths
+ 2209/00    Aspects relating to disinfection, sterilisation or
+ 2209/10    . Apparatus features
+ 2209/11    . . Apparatus for controlling air treatment
+ 2209/111   . . . Sensor means, e.g. motion, brightness, scent,
+ 2209/13    . . Dispensing or storing means for active
+ 2209/131   . . . Semi-permeable membranes
+ 2209/132   . . . Piezo or ultrasonic elements for dispensing
+ 2209/133   . . . Replaceable cartridges, refills
+ 2209/134   . . . Distributing means, e.g. baffles, valves,
+ 2209/135   . . . Vaporisers for active components
+ 2209/14    . . Filtering means
+ 2209/15    . . Supporting means, e.g. stands, hooks, holes for
+ 2209/16    . . Connections to a HVAC unit
+ 2209/20    . Method-related aspects
+ 2209/21    . . Use of chemical compounds for treating air or the
+ 2209/211   . . . Use of hydrogen peroxide, liquid and vaporous
+ 2209/212   . . . Use of ozone, e.g. generated by UV radiation or
+ 2209/213   . . . Use of electrochemically treated water, e.g.
+electrolysed water or water treated by electrical
+ 2209/22    . . Treatment by sorption, e.g. absorption,
+adsorption, chemisorption, scrubbing, wet
+ 2300/00    Biologically active materials used in bandages,
+wound dressings, absorbent pads or medical
+ 2300/10    . containing or releasing inorganic materials
+ 2300/102   . . Metals or metal compounds, e.g. salts such
+as bicarbonates, carbonates, oxides, zeolites,
+ 2300/104   . . . Silver, e.g. silver sulfadiazine
+ 2300/106   . . Halogens or compounds thereof, e.g. iodine,
+ 2300/108   . . Elemental carbon, e.g. charcoal
+ 2300/11    . . Peroxy compounds, peroxides, e.g. hydrogen
+ 2300/112   . . Phosphorus-containing compounds, e.g.
+ 2300/114   . . Nitric oxide, i.e. NO
+ 2300/20    . containing or releasing organic materials
+ 2300/202   . . with halogen atoms, e.g. triclosan, povidone-
+ 2300/204   . . with nitrogen-containing functional groups, e.g.
+aminoxides, nitriles, guanidines
+ 2300/206   . . . Biguanides, e.g. chlorohexidine
+ 2300/208   . . . Quaternary ammonium compounds
+ 2300/212   . . . Peroxy acids, peracids
+ 2300/216   . . with other specific functional groups, e.g.
+aldehydes, ketones, phenols, quaternary
+ 2300/22    . . Lipids, fatty acids, e.g. prostaglandins, oils, fats,
+ 2300/222   . . . Steroids, e.g. corticosteroids
+ 2300/224   . . containing metals, e.g. porphyrins, vitamin B12
+ 2300/232   . . . Monosaccharides, disaccharides,
+polysaccharides, lipopolysaccharides
+ 2300/236   . . . Glycosaminoglycans, e.g. heparin, hyaluronic
+ 2300/25    . . Peptides having up to 20 amino acids in a defined
+ 2300/252   . . Polypeptides, proteins, e.g. glycoproteins,
+ 2300/254   . . . Enzymes, proenzymes
+ 2300/256   . . . Antibodies, e.g. immunoglobulins, vaccines
+ 2300/258   . . Genetic materials, DNA, RNA, genes, vectors,
+ 2300/30    . . Compounds of undetermined constitution
+extracted from natural sources, e.g. Aloe Vera
+ 2300/40    . characterised by a specific therapeutic activity or
+ 2300/402   . . Anaestetics, analgesics, e.g. lidocaine
+ 2300/404   . . Biocides, antimicrobial agents, antiseptic agents
+ 2300/408   . . . Virucides, spermicides
+ 2300/41    . . Anti-inflammatory agents, e.g. NSAIDs
+ 2300/412   . . Tissue-regenerating or healing or proliferative
+ 2300/414   . . . Growth factors
+ 2300/416   . . Anti-neoplastic or anti-proliferative or anti-
+restenosis or anti-angiogenic agents, e.g.
+ 2300/418   . . Agents promoting blood coagulation, blood-
+clotting agents, embolising agents
+ 2300/42    . . Anti-thrombotic agents, anticoagulants, anti-
+ 2300/422   . . Anti-atherosclerotic agents
+ 2300/424   . . Anti-adhesion agents
+ 2300/426   . . Immunomodulating agents, i.e. cytokines,
+ 2300/428   . . Vitamins, e.g. tocopherol, riboflavin
+ 2300/43    . . Hormones, e.g. dexamethasone
+ 2300/432   . . Inhibitors, antagonists
+(A61L 2300/402 - A61L 2300/43 take
+ 2300/44    . . Radioisotopes, radionuclides
+ 2300/442   . . Colorants, dyes
+ 2300/45    . . Mixtures of two or more drugs, e.g. synergistic
+ 2300/60    . characterised by a special physical form
+ 2300/602   . . Type of release, e.g. controlled, sustained, slow
+ 2300/604   . . . Biodegradation
+ 2300/608   . . . having two or more layers
+ 2300/61    . . . . containing two or more active agents in
+ 2300/62    . . Encapsulated active agents, e.g. emulsified
+ 2300/622   . . . Microcapsules
+ 2300/626   . . . Liposomes, micelles, vesicles
+ 2300/80    . characterised by a special chemical form
+ 2300/802   . . Additives, excipients, e.g. cyclodextrins, fatty
+ 2400/00    Materials characterised by their function or
+ 2400/02    . Treatment of implants to prevent calcification or
+ 2400/04    . Materials for stopping bleeding
+ 2400/06    . Flowable or injectable implant compositions
+ 2400/08    . Methods for forming porous structures using a
+negative form which is filled and then removed by
+ 2400/10    . Materials for lubricating medical devices
+ 2400/12    . Nanosized materials, e.g. nanofibres, nanoparticles,
+nanowires, nanotubes; Nanostructured surfaces
+ 2400/14    . Adhesives for ostomy devices
+ 2400/16    . Materials with shape-memory or superelastic
+ 2400/18    . Modification of implant surfaces in order to
+improve biocompatibility, cell growth, fixation of
+biomolecules, e.g. plasma treatment
+ 2420/00    Materials or methods for coatings medical devices
+ 2420/02    . Methods for coating medical devices
+ 2420/04    . Coatings containing a composite material such as
+inorganic/organic, i.e. material comprising different
+ 2420/06    . Coatings containing a mixture of two or more
+ 2420/08    . Coatings comprising two or more layers
+ 2430/00    Materials or treatment for tissue regeneration
+ 2430/02    . for reconstruction of bones; weight-bearing implants
+ 2430/04    . for mammary reconstruction
+ 2430/06    . for cartilage reconstruction, e.g. meniscus
+ 2430/10    . for reconstruction of tendons or ligaments
+ 2430/12    . for dental implants or prostheses
+ 2430/14    . for ear reconstruction or ear implants, e.g.
+ 2430/16    . for reconstruction of eye parts, e.g. intraocular lens,
+ 2430/18    . for hair reconstruction
+ 2430/20    . for reconstruction of the heart, e.g. heart valves
+ 2430/22    . for reconstruction of hollow organs, e.g. bladder,
+ 2430/24    . for joint reconstruction
+ 2430/26    . for kidney reconstruction
+ 2430/28    . for liver reconstruction
+ 2430/30    . for muscle reconstruction
+ 2430/32    . for nerve reconstruction
+ 2430/34    . for soft tissue reconstruction
+ 2430/36    . for embolization or occlusion, e.g. vaso-occlusive
+compositions or devices (artificial blood vessels
+ 2430/38    . for reconstruction of the spine, vertebrae or
+ 2430/40    . Preparation and treatment of biological tissue for
+implantation, e.g. decellularisation, cross-linking

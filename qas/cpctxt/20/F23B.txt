@@ -1,0 +1,147 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+COMBUSTION APPARATUS; COMBUSTION PROCESSES
+METHODS OR APPARATUS FOR COMBUSTION USING ONLY SOLID FUEL (for
+combustion of fuels that are solid at room temperatures, but burned in melted form, e.g. candle
+wax, C11C 5/00, F23C, F23D; using solid fuel suspended in air F23C, F23D 1/00; using solid
+fuel suspended in liquids F23C, F23D 11/00; using solid fuel and fluent fuel simultaneously
+or alternately F23C, F23D 17/00; burning of low grade fuel F23G; grates F23H; feeding solid
+fuel to combustion apparatus F23K; combustion chambers, not otherwise provided for F23M;
+domestic apparatus F24; central heating boilers F24D; package boilers F24H)
+1. This subclass only covers combustion wherein the main body of fuel is either essentially stationary during combustion or
+mechanically transported, as opposed to pneumatically transported or suspended in air, during combustion.
+2. In this subclass, the first place priority rule is applied, i.e. at each hierarchical level, in the absence of an indication to the
+contrary, classification is made in the first appropriate place.
+3. In this subclass, methods are classified in the groups that cover the apparatus used. Methods that are not related to a particular
+type of apparatus are classified in group F23B 90/00.
+4. In this subclass, it is desirable to add the indexing codes of groups F23B 2101/00 - F23B 2900/00.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    {Combustion apparatus using only lump fuel}
+    1/02    . {for indirect heating of a medium in a vessel, e.g.
+for boiling water (steam generation F22)}
+    1/04    . . {External furnaces, i.e. with furnace in front of
+    1/06    . . . {for heating water-tube boilers, e.g. Tenbrink
+    1/08    . . {Internal furnaces, i.e. with furnaces inside the
+    1/10    . . . {for heating locomotive boilers}
+    1/12    . . {with a plurality of combustion chambers}
+    1/16    . {the combustion apparatus being modified
+according to the form of grate or other fuel support
+    1/165   . . {using roller grate}
+    1/18    . . {using inclined grate}
+    1/20    . . {using step-type grate}
+    1/22    . . {using travelling grate}
+    1/24    . . {using rotating grate}
+    1/26    . . {using imperforate fuel supports}
+    1/28    . . {using ridge-type grate, e.g. for combustion of
+peat, sawdust, or pulverulent fuel (combustion of
+    1/30    . {characterised by the form of combustion chamber}
+    1/38    . . {for combustion of peat, sawdust, or pulverulent
+fuel on a grate or other fuel support (combustion
+    3/00    {Combustion apparatus which is portable or
+removable with respect to the boiler or other
+    5/00    {Combustion apparatus with arrangements for
+burning uncombusted material from primary
+combustion (combustion apparatus characterised by
+the combination of two or more combustion chambers
+F23C 6/00; the primary combustion being pulverulent
+    5/02    . {in main combustion chamber}
+    5/025   . . {recirculating uncombusted solids to combustion
+    5/04    . {in separate combustion chamber; on separate
+    7/00    {Combustion techniques; Other solid-fuel
+    7/002   . {characterised by gas flow arrangements}
+    7/005   . . {with downdraught through fuel bed and grate}
+    7/007   . . {with fluegas recirculation to combustion
+   10/00    Combustion apparatus characterised by the
+combination of two or more combustion chambers
+   10/02    . including separate secondary combustion chambers
+   20/00    Combustion apparatus specially adapted for
+portability or transportability
+   30/00    Combustion apparatus with driven means for
+agitating the burning fuel; Combustion apparatus
+with driven means for advancing the burning fuel
+   30/02    . with movable, e.g. vibratable, fuel-supporting
+surfaces; with fuel-supporting surfaces that have
+   30/04    . . with fuel-supporting surfaces that are rotatable
+around a horizontal or inclined axis and support
+the fuel on their inside, e.g. cylindrical grates
+   30/06    . . with fuel supporting surfaces that are specially
+adapted for advancing fuel through the
+   30/08    . . . with fuel-supporting surfaces that move
+through the combustion zone, e.g. with chain
+   30/10    . . . with fuel-supporting surfaces having fuel
+advancing elements that are movable, but
+remain essentially in the same place, e.g. with
+rollers or reciprocating grate bars
+   40/00    Combustion apparatus with driven means for
+feeding fuel into the combustion chamber
+   40/02    . the fuel being fed by scattering over the fuel-
+   40/04    . the fuel being fed from below through an opening in
+   40/06    . the fuel being fed along the fuel-supporting surface
+   40/08    . . into pot- or trough-shaped grates
+   50/00    Combustion apparatus in which the fuel is fed into
+or through the combustion zone by gravity, e.g.
+from a fuel storage situated above the combustion
+   50/02    . the fuel forming a column, stack or thick layer with
+the combustion zone at its bottom
+   50/04    . . the movement of combustion air and flue gases
+being substantially transverse to the movement of
+   50/06    . . the flue gases being removed downwards through
+one or more openings in the fuel-supporting
+   50/08    . . with fuel-deflecting bodies forming free
+combustion spaces inside the fuel layer
+   50/10    . . with the combustion zone at the bottom of fuel-
+filled conduits ending at the surface of a fuel bed
+   50/12    . the fuel being fed to the combustion zone by free
+fall or by sliding along inclined surfaces, e.g. from a
+conveyor terminating above the fuel bed
+   60/00    Combustion apparatus in which the fuel burns
+   60/02    . with combustion air supplied through a grate
+   70/00    Combustion apparatus characterised by means
+returning solid combustion residues to the
+   80/00    Combustion apparatus characterised by means
+creating a distinct flow path for flue gases or for
+non-combusted gases given off by the fuel
+   80/02    . by means for returning flue gases to the combustion
+chamber or to the combustion zone
+   80/04    . by means for guiding the flow of flue gases, e.g.
+   90/00    Combustion methods not related to a particular
+Groups F23B 90/00 - F23B 90/08 correspond to
+   90/02    . Start-up techniques
+   90/04    . including secondary combustion (in separate
+combustion chambers F23B 10/02)
+   90/06    . . the primary combustion being a gasification or
+pyrolysis in a reductive atmosphere
+   90/08    . . in the presence of catalytic material
+   99/00    Subject matter not provided for in other groups of
+Indexing scheme related to adaptation of combustion apparatus
+ 2101/00    Adaptation of combustion apparatus to boilers
+in which the combustion chamber is situated
+inside the boiler vessel, e.g. surrounded by cooled
+ 2103/00    Adaptation of combustion apparatus for
+placement in or against an opening of a boiler, e.g.
+ 2103/02    . for producing an essentially horizontal flame
+ 2700/00    Combustion apparatus for solid fuel
+ 2700/003   . adapted for use in water-tube boilers
+ 2700/004   . adapted for use in Tenbrink boilers
+ 2700/005   . adapted for use in locomotives
+ 2700/006   . Details of locomotive combustion apparatus
+ 2700/007   . with pressurised combustion chambers
+ 2700/008   . with interchangeable combustion chambers
+ 2700/009   . adapted for use in various steam boilers
+ 2700/01    . adapted for boilers built up from sections
+ 2700/011   . with fuel shaft for steam boilers
+ 2700/012   . with predrying in fuel supply area
+ 2700/013   . for use in baking ovens or cooking vessels
+ 2700/014   . for use in reverberatory furnaces
+ 2700/018   . with fume afterburning by staged combustion
+ 2700/022   . with various types of fume afterburners
+ 2700/023   . with various arrangements not otherwise provided
+ 2700/037   . Burners for solid or solidified fuel, e.g. metaldehyde
+ 2900/00    Special features of, or arrangements for
+combustion apparatus using solid fuels;
+ 2900/00001 . Combustion chambers with integrated fuel hopper
+ 2900/00003 . Combustion devices specially adapted for burning
+ 2900/00004 . Means for generating pulsating combustion of solid
+ 2900/00005 . Means for applying acoustical energy to flame
+ 2900/00006 . Means for applying electricity to flame, e.g. an
+ 2900/99001 . Retrofitting or converting solid fuel stoves to gas or

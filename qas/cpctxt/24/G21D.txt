@@ -1,0 +1,55 @@
+COOPERATIVE PATENT CLASSIFICATION
+NUCLEAR PHYSICS; NUCLEAR ENGINEERING
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Details of nuclear power plant (control G21D 3/00)
+    1/003   . {Nuclear facilities decommissioning arrangements
+(decontamination arrangements, treating
+radioactively contaminated material G21F 9/00)}
+    1/006   . {primary side of steam generators (secondary side
+of steam generators F22B 1/00, F22B 35/00 or
+    1/02    . Arrangements of auxiliary equipment
+    1/04    . Pumping arrangements (within the reactor pressure
+vessel G21C 15/24; electrodynamic pumps
+    3/00    Control of nuclear power plant (control of nuclear
+    3/001   . {Computer implemented control}
+    3/002   . . {Core design; core simulations; core
+    3/004   . . {Fuel shuffle simulation; fuel shuffle
+    3/005   . . {Thermo-hydraulic simulations}
+    3/008   . {Man-machine interface, e.g. control room layout}
+    3/04    . Safety arrangements (emergency protection of
+    3/06    . . responsive to faults within the plant (in the
+    3/08    . Regulation of any parameters in the plant
+    3/10    . . by a combination of a variable derived from
+neutron flux with other controlling variables, e.g.
+derived from temperature, cooling flow, pressure
+    3/12    . . by adjustment of the reactor in response only to
+    3/14    . . . Varying flow of coolant
+    3/16    . . . Varying reactivity
+    3/18    . . by adjustment of plant external to the reactor only
+in response to change in reactivity
+    5/00    Arrangements of reactor and engine in which
+reactor-produced heat is converted into
+    5/02    . Reactor and engine structurally combined, e.g.
+    5/04    . Reactor and engine not structurally combined
+    5/06    . . with engine working medium circulating through
+    5/08    . . with engine working medium heated in a heat
+exchanger by the reactor coolant
+    5/10    . . . Liquid working medium partially heated by
+reactor and vaporised by heat source external to
+the core, e.g. with oil heating
+    5/12    . . . Liquid working medium vaporised by reactor
+    5/14    . . . . and also superheated by reactor coolant
+    5/16    . . . . superheated by separate heat source
+    7/00    Arrangements for direct production of electric
+energy from fusion or fission reactions (obtaining
+electric energy from radioactive sources G21H 1/00)
+    7/02    . using magneto-hydrodynamic generators {(MHD-
+generators with thermodynamic cycles F02C 7/00;
+magneto-hydrodynamic generators H02K 44/08)}
+    7/04    . using thermoelectric elements {or thermoionic
+converters}(structural combination of fuel
+element with thermoelectric element {or with
+thermoionic converters} G21C 3/40 {, G21H 1/10};
+thermoelectric elements per se H10N 10/00,
+    9/00    Arrangements to provide heat for purposes other
+than conversion into power, e.g. for heating

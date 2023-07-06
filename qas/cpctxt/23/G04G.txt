@@ -1,0 +1,166 @@
+COOPERATIVE PATENT CLASSIFICATION
+• electronic time-pieces with no moving parts;
+• electronic circuitry for producing timing pulses irrespective of the nature of the time indicating means utilised.
+2. This subclass does not cover electronic time-pieces with moving parts, which are covered by subclass G04C.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    3/00    Producing timing pulses (driving circuits for
+stepping motors G04C 3/14; producing preselected
+time intervals for use as timing standards G04F 5/00;
+pulse technique in general H03K; control,
+synchronisation, or stabilisation of generators in
+    3/02    . Circuits for deriving low frequency timing pulses
+from pulses of higher frequency (pulse frequency
+dividers in general H03K 23/00 - H03K 29/00)
+    3/022   . . {the desired number of pulses per unit of time
+being obtained by adding to or substracting
+from a pulse train one or more pulses (in general
+    3/025   . . {by storing time-date which are periodically
+investigated and modified accordingly, e.g. by
+    3/027   . . {by combining pulse-trains of different
+frequencies, e.g. obtained from two independent
+oscillators or from a common oscillator
+by means of different frequency dividing
+ratios (sychronisation of electric time pieces
+    3/04    . Temperature-compensating arrangements
+    5/00    Setting, i.e. correcting or changing, the time-
+indication (radio-controlled time-pieces G04R)
+    5/002   . {brought into action by radio}
+    5/005   . {Debouncing circuits}
+    5/007   . {by using a separate register into which the entire
+correct setting is introduced, which is thereafter
+transferred to the time counters}
+    5/02    . by temporarily changing the number of pulses per
+unit time, e.g. quick-feed method
+    5/022   . . {quick-feed method}
+    5/025   . . . {the time-counters first being reset to zero}
+    5/027   . . {by adding or suppressing individual pulses, e.g.
+    5/04    . by setting each of the displayed values, e.g. date,
+    5/041   . . {Correction of the minutes counter in function of
+the seconds' counter position at zero adjustment
+    5/043   . . {using commutating devices for selecting
+the value, e.g. hours, minutes, seconds, to be
+    5/045   . . . {using a sequential electronic commutator}
+    5/046   . . . . {by using a separate register into which
+the correct setting of one of the counters is
+introduced which is thereafter transferred to
+the selected time-counter to be reset}
+    5/048   . . . {by using a separate register into which the
+correct setting of the selected time-counter is
+introduced which is thereafter transferred to the
+    7/00    Synchronisation (radio-controlled time-pieces G04R)
+    7/005   . {provided with arrangements to prevent
+synchronisation by interfering signals (G04G 7/023
+    7/023   . . {provided with arrangements to prevent
+synchronisation by interfering signals}
+    7/026   . . {the time-piece preparing itself on set times on
+the reception of the synchronising signal}
+    9/00    Visual time or date indication means
+    9/0005  . {Transmission of control signals}
+    9/0011  . . {using coded signals (synchronisation combined
+with automatic setting at regular intervals, e.g. by
+    9/0017  . {in which the light emitting display elements may
+be activated at will or are controlled in accordance
+    9/0023  . {by light valves in general (G04G 9/06, G04G 9/12
+takes precedence; electro-, magneto- or acousto-
+optic devices in general G02F 1/00)}
+    9/0035  . . . {constructional}
+    9/0041  . . . . {Illumination devices}
+    9/0047  . . . {electrical, e.g. selection or application of the
+    9/0052  . . . . {using means to adjust the display in
+accordance with the ambient light, e.g.
+switching or controlling a supplementary
+    9/0058  . {using a cathode ray tube as display device
+(displaying supplementary informative, e.g. time on
+    9/0064  . {in which functions not related to time can be
+displayed (digital output to display devices of digital
+    9/007   . . {combined with a calculator or computing
+    9/0076  . {in which the time in another time-zone or in
+another city can be displayed at will}
+    9/0082  . {by building-up characters using a combination
+of indicating elements and by selecting desired
+characters out of a number of characters or by
+selecting indicating elements the positions of which
+represents the time, i.e. combinations of G04G 9/02
+    9/0088  . . {by controlling light sources, e.g.
+    9/0094  . . {using light valves, e.g. liquid crystals}
+    9/02    . by selecting desired characters out of a number
+of characters or by selecting indicating elements
+the position of which represent the time, e.g. by
+using multiplexing techniques {(G04G 9/0082 takes
+    9/022   . . {using multiplexing techniques}
+    9/025   . . {provided with date indication}
+    9/027   . . {provided with means for displaying at will a
+time indication or a date or a part thereof}
+    9/04    . . by controlling light sources, e.g.
+electroluminescent diodes {(G04G 9/0058 takes
+    9/042   . . . {using multiplexing techniques}
+    9/045   . . . {provided with date indication}
+    9/047   . . . {provided with means for displaying at will a
+time indication or a date or a part thereof}
+    9/06    . . using light valves, e.g. liquid crystals
+    9/062   . . . {using multiplexing techniques}
+    9/065   . . . {using a drop of liquid suspended by capillary
+forces and moved by an electric field}
+    9/067   . . . {using mechano-optical means}
+    9/08    . by building-up characters using a combination of
+indicating elements, e.g. by using multiplexing
+techniques {(G04G 9/0082 takes precedence)}
+    9/082   . . {using multiplexing techniques}
+    9/085   . . {provided with date indication}
+    9/087   . . {provided with means for displaying at will a
+time indication or a date or a part thereof}
+    9/10    . . by controlling light sources, e.g.
+electroluminescent diodes {(G04G 9/0058 takes
+    9/102   . . . {using multiplexing techniques}
+    9/105   . . . {provided with date indication}
+    9/107   . . . {provided with means for displaying at will a
+time indication or a date or a part thereof}
+    9/12    . . using light valves, e.g. liquid crystals
+    9/122   . . . {using multiplexing techniques}
+    9/124   . . . {provided with date indication}
+    9/126   . . . {provided with means for displaying at will a
+time indication or a date or a part thereof}
+    9/128   . . . {using mechano-optical means}
+   11/00    Producing optical signals at preselected times
+   13/00    Producing acoustic time signals
+   13/02    . at preselected times, e.g. alarm clocks
+   13/023   . . . {Adjusting the duration or amplitude of
+   13/025   . . {acting only at one preselected time}
+   13/026   . . {acting at a number of different times}
+   13/028   . . {combined with a radio}
+   15/00    Time-pieces comprising means to be operated
+at preselected times or after preselected time
+intervals (G04G 11/00, G04G 13/00 take precedence;
+{electronic timers G04F 1/005}; pulse delay
+circuits H03K 5/13; electronic time-delay switches
+H03K 17/28; electronic time-programme switches
+which automatically terminate their operation after the
+programme is completed H03K 17/296)
+   15/003   . {acting only at one preselected time or during one
+   15/006   . {for operating at a number of different times (cigar
+or cigarette receptacles or boxes with means for
+limiting the frequency of smoking A24F 15/005)}
+   17/00    Structural details; Housings (constructional
+details of radio-controlled time-pieces, e.g. antennas
+   17/005   . {Time-pieces combined with games}
+   17/02    . Component assemblies
+   17/04    . . Mounting of electronic components
+   17/045   . . . {Mounting of the display}
+   17/06    . . Electric connectors, e.g. conductive elastomers
+   17/083   . . {Watches distributed over several housings}
+   17/086   . . {Desktop clocks}
+   19/00    Electric power supply circuits specially adapted
+for use in electronic time-pieces
+   19/02    . Conversion or regulation of current or voltage
+   19/04    . . Capacitive voltage division or multiplication
+   19/08    . Arrangements for preventing voltage drop due to
+   19/10    . Arrangements for supplying back-up power
+   19/12    . Arrangements for reducing power consumption
+   21/00    Input or output devices integrated in time-pieces
+   21/02    . Detectors of external physical values, e.g.
+   21/025   . . {for measuring physiological data}
+   21/04    . using radio waves (radio-controlled time-pieces
+   21/08    . Touch switches specially adapted for time-pieces
+   99/00    Subject matter not provided for in other groups of
+   99/003   . {Pulse shaping; Amplification}
+   99/006   . {Electronic time-pieces using a microcomputer, e.g.

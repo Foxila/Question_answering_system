@@ -1,0 +1,214 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+WEAPON SIGHTS; AIMING (optical aspects thereof G02B)
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Sighting devices (for indirect laying of fire
+F41G 3/16; bombsights F41G 3/24 {; structurally
+associated with laser telemeters F41G 3/065;
+mounting tubular or beam shaped aiming devices on
+    1/01    . characterised by the visual combination effect of the
+respective geometrical forms of fore and rear sight
+    1/04    . . Protection means therefor
+    1/065   . . {Protection means therefor (F41G 1/04 takes
+    1/08    . . with aperture {; tubular or of ring form; Peep
+sights (F41G 1/42 takes precedence)}
+    1/12    . . with line or mark other than notch
+    1/16    . . Adjusting mechanisms therefor; Mountings
+    1/17    . . . Convertible sights, i.e. sets of two or more
+sights brought into the sight line optionally
+    1/18    . . . Clicking-indicators with spring detents
+    1/20    . . . coarse and fine
+    1/22    . . . Friction clamps
+    1/24    . . . rack-and-pinion; lever; linkwork
+    1/28    . . . wedge; cam; eccentric
+    1/30    . Reflecting-sights specially adapted for smallarms or
+ordnance (reflecting-sights in general G02B)
+    1/32    . Night sights, e.g. luminescent {(optical aspects of
+sighting devices G02B 23/00, G02B 27/00)}
+    1/34    . . combined with light source, e.g. spot light
+    1/345   . . . {for illuminating the sights}
+    1/35    . . . for illuminating the target {, e.g. flash lights}
+    1/36    . . . with infra-red light source
+    1/38    . Telescopic sights specially adapted for smallarms
+or ordnance (telescopic sights in general G02B);
+    1/383   . . {Protection means therefor}
+    1/387   . . Mounting telescopic sights on smallarms
+    1/393   . . Mounting telescopic sights on ordnance;
+Transmission of sight movements to the
+    1/3935  . . . {Transmission of sight movements to the
+    1/40    . Periscopic sights specially adapted for smallarms
+or ordnance (periscopic sights in general G02B);
+    1/41    . . Mounting periscopic sights on smallarms
+    1/42    . Tube sights; Bar sights {; Combinations of tubular
+    1/44    . Spirit-level adjusting means, e.g. for correcting tilt;
+{Means for indicating or correcting tilt or cant}
+    1/46    . for particular applications
+    1/473   . . for lead-indicating or range-finding, e.g. for use
+    1/48    . . for firing grenades from rifles
+    1/50    . . for trench mortars {or for other mortars}
+    1/52    . . for rifles or shotguns having two or more barrels,
+or adapted to fire different kinds of ammunition,
+    1/54    . Devices for testing or checking {; Tools for
+    1/545   . . {Tools for adjustment of sights}
+    3/00    Aiming or laying means (sighting devices
+F41G 1/00; determining direction, distance or velocity
+by use of radio or other waves G01S; computers G06;
+    3/005   . {with means for correcting the parallax between the
+sighting means and the muzzle axis}
+    3/02    . using an independent line of sight
+    3/04    . for dispersing fire from a battery {; for controlling
+spread of shots; for coordinating fire from spaced
+    3/06    . with rangefinder (rangefinders per se G01C)
+    3/065   . . {Structural association of sighting-devices with
+    3/08    . with means for compensating for speed, direction,
+temperature, pressure, or humidity of the
+    3/10    . with means for compensating for canting of the
+    3/12    . with means for compensating for muzzle velocity or
+powder temperature {with means for compensating
+    3/14    . Indirect aiming means
+    3/142   . . {based on observation of a first shoot; using a
+simulated shoot (training F41G 3/26)}
+    3/145   . . {using a target illuminator}
+    3/147   . . {based on detection of a firing weapon}
+    3/16    . . Sighting devices adapted for indirect laying of
+    3/165   . . . {using a TV-monitor}
+    3/18    . . Auxiliary target devices adapted for indirect
+    3/20    . . specially adapted for mountain artillery
+    3/22    . for vehicle-borne armament, e.g. on aircraft
+    3/225   . . {Helmet sighting systems}
+    3/26    . Teaching or practice apparatus for gun-aiming or
+gun-laying {(shooting games A63F 9/02; light- or
+radiation-emitting guns F41A 33/02; targets therefor
+F41J; responders, transponders for radar, sonar,
+lidar G01S 13/767, G01S 15/74, G01S 17/74)}
+    3/2605  . . {using a view recording device cosighted with the
+gun (F41G 3/2616 takes precedence)}
+    3/2611  . . . {coacting with a TV-monitor}
+    3/2616  . . {using a light emitting device}
+    3/2622  . . . {for simulating the firing of a gun or the
+    3/2627  . . . . {Cooperating with a motion picture
+    3/2633  . . . . . {using a TV type screen, e.g. a CRT,
+    3/2638  . . . . . . {giving hit coordinates by means of
+raster control signals, e.g. standard light
+    3/2644  . . . . {Displaying the trajectory or the impact
+point of a simulated projectile in the gunner's
+    3/265   . . . . {with means for selecting or varying the
+shape or the direction of the emitted beam}
+    3/2655  . . . . {in which the light beam is sent from the
+    3/2661  . . . . {in which the light beam is sent from the
+target to the weapon (F41G 3/2638 takes
+    3/2666  . . . . {with means for selecting or varying PRF or
+time coding of the emitted beam}
+    3/2672  . . . . . {using PRF adapted receiver}
+    3/2677  . . . . . . {with PRF determination}
+    3/2683  . . . . {with reflection of the beam on the target
+    3/2688  . . . . . {using target range measurement, e.g. with
+    3/2694  . . . {for simulating a target (F41G 3/2627 takes
+precedence; moving targets per se F41J 9/00)}
+    3/28    . . Small-scale apparatus (relief models or maps
+    3/30    . . Gun-laying apparatus
+    3/32    . Devices for testing or checking
+    3/323   . . {for checking the angle between the muzzle axis
+of the gun and a reference axis, e.g. the axis of the
+associated sighting device (testing alignment of
+    3/326   . . {for checking the angle between the axis of the
+gun sighting device and an auxiliary measuring
+device (F41G 3/323 takes precedence)}
+    5/00    Elevating or traversing control systems for guns
+({means for inhibiting firing in a specified direction
+F41A 17/08}; gun mountings permitting traversing or
+elevating movement, e.g. gun carriages, F41A 27/00;
+    5/02    . using only mechanical means for remote control
+    5/04    . using hydraulic means for remote control
+    5/06    . using electric means for remote control
+    5/08    . Ground-based tracking-systems for aerial targets
+    5/12    . acoustically influenced
+    5/14    . for vehicle-borne guns
+    5/16    . . gyroscopically influenced
+    5/18    . . Tracking systems for guns on aircraft
+    5/20    . . for guns on ships
+    5/22    . . . to compensate for rolling or pitching
+    5/24    . . for guns on tanks
+    5/26    . Apparatus for testing or checking
+    7/00    Direction control systems for self-propelled
+missiles (flight control B64C, G05D 1/00 {; counter-
+measures against guided missiles F41H 11/02; spin-
+stabilised missiles F42B 10/26}; self-propelled or
+guided missiles having direction control systems
+only installed aboard F42B 15/01; rocket torpedoes
+F42B 17/00; marine torpedoes or sea-mines having
+self-propulsion means F42B 19/00; locating by use of
+radio or other waves G01S; computing aspects G06)
+    7/001   . {Devices or systems for testing or checking}
+    7/002   . . {target simulators}
+    7/003   . . . {for seekers using radio waves}
+    7/004   . . . {for infra-red seekers}
+    7/005   . . {for testing benches or sets}
+    7/006   . {Guided missiles training or simulation devices}
+    7/007   . {Preparatory measures taken before the launching of
+    7/008   . {Combinations of different guidance systems}
+    7/20    . based on continuous observation of target position
+    7/22    . . Homing guidance systems
+    7/2206  . . . {using a remote control station}
+    7/2213  . . . {maintaining the axis of an orientable seeking
+head pointed at the target, e.g. target seeking
+    7/222   . . . {for spin-stabilized missiles}
+    7/2226  . . . {comparing the observed data with stored
+target data, e.g. target configuration data}
+    7/2233  . . . {Multimissile systems}
+    7/224   . . . {Deceiving or protecting means (jamming or
+anti-jamming of radio-wave systems in general
+G01S 7/36, G01S 7/38; defense installations
+in general F41H 11/02; chaff dispensers
+    7/2246  . . . {Active homing systems, i.e. comprising both a
+    7/2253  . . . {Passive homing systems, i.e. comprising
+a receiver and do not requiring an active
+    7/226   . . . {Semi-active homing systems, i.e. comprising
+a receiver and involving auxiliary illuminating
+means, e.g. using auxiliary guiding missiles}
+    7/2266  . . . . {Systems comparing signals received from a
+base station and reflected from the target}
+    7/2273  . . . {characterised by the type of waves}
+    7/228   . . . . {using acoustic waves, e.g. for torpedoes}
+    7/2286  . . . . {using radio waves}
+    7/2293  . . . . {using electromagnetic waves other than
+    7/24    . . Beam riding guidance systems (conical-scan
+beam beacons therefor G01S 1/42)
+    7/26    . . . Optical guidance systems
+    7/263   . . . . {Means for producing guidance beams}
+    7/266   . . . . {for spin-stabilized missiles}
+    7/28    . . . Radio guidance systems
+    7/30    . . Command link guidance systems {(homing
+    7/303   . . . . {Sighting or tracking devices especially
+provided for simultaneous observation of the
+    7/305   . . . . {for spin-stabilized missiles}
+    7/306   . . . . {for transmitting guidance signals;
+    7/308   . . . . {for guiding a plurality of missiles}
+    7/32    . . . for wire-guided missiles
+    7/34    . based on predetermined target position data
+    7/343   . . {comparing observed and stored data of target
+position or of distinctive marks along the path
+    7/346   . . {using global navigation satellite systems, e.g.
+    7/36    . . using inertial references
+    9/00    Systems for controlling missiles or projectiles, not
+    9/002   . {for guiding a craft to a correct firing position (for
+    9/004   . . {Training or teaching apparatus therefor}
+    9/006   . . {for torpedo launchers (torpedo launching-
+    9/008   . {Means for controlling firing of torpedoes; Torpedo
+directors (acoustic homing F41G 7/228)}
+    9/02    . for bombing control (bombsights F41G 3/24)
+    9/025   . . {Training or teaching apparatus therefor}
+   11/00    Details of sighting or aiming apparatus;
+Accessories {(tools for adjustment of sights
+   11/001   . {Means for mounting tubular or beam shaped
+sighting or aiming devices on firearms}
+   11/002   . . {Mountings with recoil absorbing means}
+   11/003   . . {Mountings with a dove tail element, e.g.
+   11/004   . . {Mountings with clamping means on the device
+embracing at least a part of the firearm, e.g.
+the receiver or a dustcover (F41G 11/003 takes
+   11/005   . . {Mountings using a pivot point and an anchoring
+   11/006   . . . {the device being rotated in a horizontal plane}
+   11/007   . . . {the device being tilted in a vertical plane}
+   11/008   . . . {the device being pivotable about an axis
+coaxial with the axis of the barrel, e.g. for

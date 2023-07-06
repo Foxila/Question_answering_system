@@ -1,0 +1,183 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+MACHINES OR ENGINES FOR LIQUIDS; WIND, SPRING, OR WEIGHT MOTORS;
+PRODUCING MECHANICAL POWER OR A REACTIVE PROPULSIVE THRUST,
+1. This subclass covers wind motors, i.e. mechanisms for converting the energy of wind into useful mechanical power, and the
+transmission of such power to its point of use.
+2. This subclass does not cover electrical power generation or distribution aspects of wind-power plants, which are covered by
+3. In this subclass, the following terms or expressions are used with the meanings indicated:
+• "rotor" means the wind-engaging parts of the wind motor and the rotary member carrying them;
+• "rotation axis" means the axis of rotation of the rotor.
+    1/00    Wind motors with rotation axis
+substantially parallel to the air flow entering the
+rotor  (controlling thereof F03D 7/02)
+    1/02    . having a plurality of rotors
+    1/025   . . {coaxially arranged}
+    1/04    . having stationary wind-guiding means, e.g. with
+shrouds or channels (F03D 9/35 takes precedence)
+    1/0608  . . {characterised by their form}
+    1/0616  . . . {using the Magnus effect}
+    1/0625  . . . {of the whole rotor, i.e. form features of the
+    1/0633  . . . {of the blades}
+    1/0641  . . . . {of the section profile of the blades}
+    1/065   . . {characterised by their construction, i.e. structural
+design details (F03D 13/10 takes precedence)}
+    1/0658  . . . {Fixing wind-engaging parts to rotor}
+    1/0666  . . . {of the whole rotor}
+    1/0675  . . . {of the blades}
+    1/0683  . . . . {of the section profile of the blades}
+    3/00    Wind motors with rotation axis
+substantially perpendicular to the air flow entering
+the rotor  (controlling thereof F03D 7/06)
+    3/002   . {axis horizontal}
+    3/007   . . {using the Magnus effect}
+    3/02    . having a plurality of rotors
+    3/04    . having stationary wind-guiding means, e.g. with
+shrouds or channels (F03D 9/35 takes precedence)
+    3/0409  . . {having stationary guiding vanes surrounding the
+rotor (F03D 3/0427 takes precedence)}
+    3/0418  . . . {the vanes being adjustable}
+    3/0427  . . {with augmenting action, i.e. the guiding means
+intercepting an area greater than the effective
+rotor area (F03D 3/0463, F03D 3/049 take
+    3/0436  . . {having shield means on one side of the rotor}
+    3/0445  . . . {fixed with respect to rotor, orientable
+    3/0454  . . . . {and only with concentrating action, i.e. only
+increasing the airflow speed into the rotor
+(F03D 3/0463 takes precedence)}
+    3/0463  . . . . {with augmenting action, i.e. the shield
+means intercepting an area greater than the
+    3/0472  . . . {orientable with respect to the rotor}
+    3/0481  . . . . {and only with concentrating action, i.e. only
+increasing the airflow speed into the rotor
+    3/049   . . . . {with augmenting action, i.e. the shield
+means intercepting an area greater than the
+    3/064   . . . {Fixing wind engaging parts to rest of rotor}
+    3/065   . . . {the wind engaging parts having no movement
+relative to the rotor during its rotation}
+    3/067   . . . {the wind engaging parts having a cyclic
+movement relative to the rotor during its
+    3/068   . . . . {the cyclic relative movement being coupled
+to the movement of rotation; Controlling
+same, e.g. according to wind direction or
+    5/00    Other wind motors (controlling thereof F03D 7/00)
+    5/005   . {Wind motors having a single vane which axis
+generate a conus or like surface}
+    5/02    . the wind-engaging parts being attached to endless
+    5/04    . the wind-engaging parts being attached to carriages
+    5/06    . the wind-engaging parts swinging to-and-fro and
+    7/00    Controlling wind motors
+    7/02    . the wind motors having rotation axis
+substantially parallel to the air flow entering the
+    7/0204  . . {for orientation in relation to wind direction}
+    7/0208  . . . {Orientating out of wind}
+    7/0212  . . . . {the rotating axis remaining horizontal}
+    7/0216  . . . . {the rotating axis changing to vertical
+    7/022   . . {Adjusting aerodynamic properties of the blades}
+    7/0224  . . . {Adjusting blade pitch}
+    7/0228  . . . . {of the blade tips only}
+    7/0232  . . . {with flaps or slats (with aerodynamic
+drag devices on the blades for braking
+    7/0236  . . . {by changing the active surface of the wind
+engaging parts, e.g. reefing, telescoping, furling
+    7/024   . . . {of individual blades}
+    7/0248  . . . {by mechanical means acting on the power
+    7/0252  . . . {with aerodynamic drag devices on the blades}
+    7/0256  . . {Stall control (adjusting the blades in stall
+    7/026   . . {for starting-up}
+    7/0264  . . {for stopping or in emergency situation
+(orientating out of wind F03D 7/0208)}
+    7/0268  . . . {Parking or storm protection}
+    7/0272  . . {by measures acting on the electrical generator
+(controlling electric generator per se H02P)}
+    7/0276  . . {Controlling rotor speed, e.g. variable speed}
+    7/028   . . {Controlling motor output power}
+    7/0284  . . . {in relation to the state of the electric grid
+(supplying or distributing electric power
+    7/0288  . . . {to prevent instantaneous damage to any part of
+    7/0292  . . . {to increase fatigue life}
+    7/0296  . . {to prevent, counteract or reduce vibration or
+    7/04    . . Automatic control; Regulation
+    7/041   . . . {by means of a mechanical governor}
+    7/042   . . . {by means of an electrical or electronic
+    7/043   . . . . {characterised by the type of control logic}
+    7/044   . . . . . {with PID control}
+    7/045   . . . . . {with model-based controls}
+    7/046   . . . . . {with learning or adaptive control, e.g.
+self-tuning, fuzzy logic or neural network}
+    7/047   . . . . {characterised by the controller
+architecture, e.g. multiple processors or data
+    7/048   . . . . {Controlling wind farms}
+    7/06    . the wind motors having rotation axis
+substantially perpendicular to the air flow entering
+    9/00    Adaptations of wind motors for special use;
+Combinations of wind motors with apparatus
+driven thereby; Wind motors specially adapted for
+installation in particular locations (hybrid wind-
+photovoltaic energy systems for the generation of
+    9/007   . {the wind motor being combined with means for
+converting solar radiation into useful energy}
+    9/008   . {the wind motor being combined with water energy
+converters, e.g. a water turbine}
+    9/10    . Combinations of wind motors with apparatus
+    9/11    . . storing electrical energy
+    9/12    . . storing kinetic energy, e.g. using flywheels
+    9/13    . . storing gravitational potential energy
+    9/14    . . . using liquids
+    9/16    . . . using weights
+    9/17    . . storing energy in pressurised fluids
+    9/19    . . storing chemical energy, e.g. using electrolysis
+    9/20    . Wind motors characterised by the driven apparatus
+    9/22    . . the apparatus producing heat
+    9/25    . . the apparatus being an electrical generator
+    9/255   . . . {connected to an electrical general supply grid;
+    9/257   . . . . {the wind motor being part of a wind farm}
+    9/28    . . the apparatus being a pump or a compressor
+    9/30    . Wind motors specially adapted for installation
+in particular locations (means for mounting or
+supporting wind motors F03D 13/20)
+    9/32    . . on moving objects, e.g. vehicles
+    9/34    . . on stationary objects or on stationary man-made
+    9/35    . . . within towers, e.g. using chimney effects
+    9/37    . . . . with means for enhancing the air flow within
+    9/39    . . . . . by circulation or vortex formation
+    9/41    . . . . . by using the wind outside the tower, e.g.
+    9/43    . . . using infrastructure primarily used for other
+purposes, e.g. masts for overhead railway
+    9/45    . . . . Building formations
+    9/46    . . . . Tunnels or streets
+    9/48    . . using landscape topography, e.g. valleys
+   13/00    Assembly, mounting or commissioning of wind
+motors; Arrangements specially adapted for
+transporting wind motor components
+   13/10    . Assembly of wind motors; Arrangements for
+   13/20    . Arrangements for mounting or supporting wind
+motors; Masts or towers for wind motors
+   13/22    . . {Foundations specially adapted for wind motors}
+   13/25    . . specially adapted for offshore installation
+   13/30    . Commissioning, e.g. inspection, testing or final
+adjustment before releasing for production
+   13/35    . . Balancing static or dynamic imbalances
+   13/40    . Arrangements or methods specially adapted for
+transporting wind motor components
+   15/00    Transmission of mechanical power
+   15/05    . {using hollow exhausting blades}
+   15/10    . using gearing not limited to rotary motion, e.g. with
+oscillating or reciprocating members
+   15/15    . . {Changing or adjusting stroke}
+   15/20    . Gearless transmission, i.e. direct-drive
+   17/00    Monitoring or testing of wind motors, e.g.
+diagnostics (testing during commissioning of wind
+   80/00    Details, components or accessories not provided
+for in groups F03D 1/00 - F03D 17/00
+   80/10    . Arrangements for warning air traffic
+   80/20    . Arrangements for avoiding shadow flicker
+   80/30    . Lightning protection
+   80/40    . Ice detection; De-icing means
+   80/50    . Maintenance or repair
+   80/55    . . Cleaning (F03D 80/40 takes precedence)
+   80/60    . Cooling or heating of wind motors
+   80/70    . Bearing or lubricating arrangements
+   80/80    . Arrangement of components within nacelles or
+   80/82    . . {of electrical components}
+   80/88    . . {of mechanical components}

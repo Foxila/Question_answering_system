@@ -1,0 +1,57 @@
+COOPERATIVE PATENT CLASSIFICATION
+MEASUREMENT OF MECHANICAL VIBRATIONS OR ULTRASONIC, SONIC OR
+1. This subclass covers the combination of generation and measurement of mechanical vibrations.
+2. Attention is drawn to the Notes following the title of class G01.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Measuring {characteristics of} vibrations in
+solids by using direct conduction to the detector
+(G01H 9/00, G01H 11/00 take precedence)
+    1/003   . {of rotating machines (G01H 1/10 takes
+    1/006   . . {of the rotor of turbo machines}
+    1/04    . of vibrations which are transverse to direction of
+    1/10    . of torsional vibrations
+    1/12    . of longitudinal or not specified vibrations
+    3/00    Measuring {characteristics of} vibrations by
+using a detector in a fluid (G01H 7/00, G01H 9/00,
+    3/005   . {Testing or calibrating of detectors covered by the
+subgroups of G01H 3/00 (calibrating geophysical
+instruments, e.g. seismic receivers G01V 13/00)}
+    3/06    . . by electric means
+    3/08    . . Analysing frequencies present in complex
+vibrations, e.g. comparing harmonics present
+{(acoustic presence detection G01V 1/001)}
+    3/12    . . by electric means (G01H 3/14 takes precedence)
+    3/125   . . . {for representing acoustic field distribution
+(using optical means G01H 9/002; sonar
+systems for imaging G01S 7/56, G01S 15/89;
+acoustic holography G03H 3/00)}
+    3/14    . . Measuring mean amplitude; Measuring mean
+power; Measuring time integral of power
+    5/00    Measuring propagation velocity of ultrasonic,
+sonic or infrasonic waves {, e.g. of pressure waves}
+    7/00    Measuring reverberation time {; room acoustic
+    9/00    Measuring mechanical vibrations or ultrasonic,
+sonic or infrasonic waves by using radiation-
+sensitive means, e.g. optical means
+    9/002   . {for representing acoustic field distribution (sonar
+systems for imaging G01S 7/56, G01S 15/89;
+acoustic holography G03H 3/00)}
+    9/004   . {using fibre optic sensors (light guides per se
+G02B 6/00, acousto-optical devices specially
+adapted for gating or modulating in optical wave
+    9/006   . . {the vibrations causing a variation in the relative
+position of the end of a fibre and another
+    9/008   . {by using ultrasonic waves (measuring position
+using ultrasonic waves G01S 15/02)}
+   11/00    Measuring mechanical vibrations or ultrasonic,
+sonic or infrasonic waves by detecting changes in
+electric or magnetic properties
+   11/02    . by magnetic means, e.g. reluctance
+   11/04    . . using magnetostrictive devices
+   11/06    . by electric means
+   11/08    . . using piezo-electric devices
+   13/00    Measuring resonant frequency
+   15/00    Measuring mechanical or acoustic impedance
+   17/00    Measuring mechanical vibrations or ultrasonic,
+sonic or infrasonic waves, not provided for in
+the preceding groups {(see provisionally also

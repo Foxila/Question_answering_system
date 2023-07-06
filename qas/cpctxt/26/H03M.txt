@@ -1,0 +1,1242 @@
+COOPERATIVE PATENT CLASSIFICATION
+CODING; DECODING; CODE CONVERSION IN GENERAL (using fluidic means
+F15C 4/00; optical analogue/digital converters G02F 7/00; coding, decoding or code conversion,
+specially adapted for particular applications, see the relevant subclasses, e.g. G01D, G01R,
+G06F, G06T, G09G, G10L, G11B, G11C, H04B, H04L, H04M, H04N; ciphering or deciphering
+for cryptography or other purposes involving the need for secrecy G09C)
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+H03M 7/3002,  H03M 7/3004,  H03M 7/3006,
+H03M 7/3008,  H03M 7/3011,  H03M 7/3013,
+H03M 7/3015,  H03M 7/3017,  H03M 7/302,
+H03M 7/3024,  H03M 7/3028,  H03M 7/3031,
+H03M 7/3033,  H03M 7/3035,  H03M 7/3037,
+H03M 7/304,  H03M 7/3042,   H03M 7/3048
+H03M 7/3022,  H03M 7/3026, H03M 7/3044
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Analogue/digital conversion; Digital/analogue
+conversion (conversion of analogue values to or from
+differential modulation H03M 3/00)
+    1/001   . {Analogue/digital/analogue conversion}
+    1/002   . {Provisions or arrangements for saving power,
+e.g. by allowing a sleep mode, using lower supply
+voltage for downstream stages, using multiple clock
+domains or by selectively turning on stages when
+    1/004   . {Reconfigurable analogue/digital or digital/
+analogue converters (H03M 1/02 takes
+    1/005   . . {among different converters types}
+    1/007   . . {among different resolutions}
+    1/008   . . {among different conversion characteristics, e.g.
+    1/02    . Reversible analogue/digital converters
+    1/04    . using stochastic techniques
+    1/06    . Continuously compensating for, or preventing,
+undesired influence of physical parameters
+(periodically, {e.g. by using stored correction
+    1/0602  . . {of deviations from the desired transfer
+characteristic (H03M 1/0617 takes precedence)}
+    1/0604  . . . {at one point, i.e. by adjusting a single
+reference value, e.g. bias or gain error (gain
+setting for range control H03M 1/18)}
+    1/0607  . . . . {Offset or drift compensation (removal of
+offset already present on the analogue input
+    1/0609  . . . {at two points of the transfer characteristic, i.e.
+by adjusting two reference values, e.g. offset
+    1/0612  . . . {over the full range of the converter, e.g. for
+correcting differential non-linearity}
+    1/0614  . . {of harmonic distortion (H03M 1/0617 takes
+    1/0617  . . {characterised by the use of methods or means
+not specific to a particular type of detrimental
+    1/0619  . . . {by dividing out the errors, i.e. using a
+    1/0621  . . . . {with auxiliary conversion of a value
+corresponding to the physical parameter(s) to
+    1/0624  . . . {by synchronisation}
+    1/0626  . . . {by filtering}
+    1/0629  . . . . {Anti-aliasing}
+    1/0631  . . . . {Smoothing}
+    1/0634  . . . {by averaging out the errors, e.g. using sliding
+    1/0636  . . . . {in the amplitude domain}
+    1/0639  . . . . . {using dither, e.g. using triangular or
+sawtooth waveforms (for increasing
+    1/0641  . . . . . . {the dither being a random signal}
+    1/0643  . . . . {in the spatial domain}
+    1/0646  . . . . . {by analogue redistribution among
+corresponding nodes of adjacent cells, e.g.
+using an impedance network connected
+among all comparator outputs in a flash
+    1/0648  . . . . . {by arranging the quantisation value
+generators in a non-sequential pattern
+    1/0651  . . . . . {by selecting the quantisation value
+generators in a non-sequential order, e.g.
+    1/0653  . . . . . . {the order being based on measuring the
+    1/0656  . . . . {in the time domain, e.g. using intended jitter
+    1/0658  . . . . . {by calculating a running average of a
+    1/066   . . . . . {by continuously permuting the elements
+used, i.e. dynamic element matching}
+    1/0663  . . . . . . {using clocked averaging}
+    1/0665  . . . . . . {using data dependent selection of the
+elements, e.g. data weighted averaging}
+    1/0668  . . . . . . . {the selection being based on the
+output of noise shaping circuits for
+    1/067   . . . . . . {using different permutation circuits for
+different parts of the digital signal}
+    1/0673  . . . . . . {using random selection of the elements
+(with data-controlled random generator
+    1/0675  . . . {using redundancy}
+    1/0678  . . . . {using additional components or elements,
+    1/068   . . . . . {the original and additional components
+or elements being complementary to each
+    1/0682  . . . . . . {using a differential network structure,
+i.e. symmetrical with respect to ground}
+    1/0685  . . . . . . {using real and complementary
+    1/0687  . . . . {using fault-tolerant coding, e.g. parity
+check, error correcting codes (H03M 1/069
+    1/069   . . . . {by range overlap between successive stages
+    1/0692  . . . . . {using a diminished radix representation,
+    1/0695  . . . . . {using less than the maximum number of
+output states per stage or step, e.g. 1.5 per
+stage or less than 1.5 bit per stage type}
+    1/0697  . . . . {in time, e.g. using additional comparison
+    1/08    . . of noise {(H03M 1/0617 takes precedence)}
+    1/0809  . . . {of bubble errors, i.e. irregularities in
+    1/0818  . . . {of clock feed-through}
+    1/0827  . . . {of electromagnetic or electrostatic field noise,
+e.g. preventing crosstalk by shielding or optical
+    1/0836  . . . {of phase error, e.g. jitter}
+    1/0845  . . . {of power supply variations, e.g. ripple}
+    1/0854  . . . {of quantisation noise}
+    1/0863  . . . {of switching transients, e.g. glitches}
+    1/0872  . . . . {by disabling changes in the output during
+the transitions, e.g. by holding or latching}
+    1/0881  . . . . {by forcing a gradual change from one
+output level to the next, e.g. soft-start}
+    1/089   . . . {of temperature variations}
+    1/10    . Calibration or testing
+    1/1004  . . {without interrupting normal operation, e.g.
+by providing an additional component for
+temporarily replacing components to be tested
+or calibrated (H03M 1/1009, H03M 1/1071 take
+    1/1014  . . . {at one point of the transfer characteristic, i.e.
+by adjusting a single reference value, e.g. bias
+or gain error (gain setting for range control
+    1/1019  . . . . {by storing a corrected or correction value in
+    1/1023  . . . . {Offset correction (H03M 1/1019 takes
+precedence; removal of offset already present
+on the analogue input signal H03M 1/1295)}
+    1/1028  . . . {at two points of the transfer characteristic, i.e.
+by adjusting two reference values, e.g. offset
+and gain error (gain setting for range control
+    1/1033  . . . {over the full range of the converter, e.g. for
+correcting differential non-linearity}
+    1/1038  . . . . {by storing corrected or correction values
+in one or more digital look-up tables
+(H03M 1/1057 takes precedence)}
+    1/1042  . . . . . {the look-up table containing corrected
+values for replacing the original digital
+values (H03M 1/1052 takes precedence)}
+    1/1047  . . . . . {using an auxiliary digital/analogue
+converter for adding the correction values
+to the analogue signal (H03M 1/1052 takes
+    1/1052  . . . . . {using two or more look-up tables each
+corresponding to a different type of error,
+e.g. for offset, gain error and non-linearity
+    1/1057  . . . . {by trimming, i.e. by individually adjusting
+at least part of the quantisation value
+generators or stages to their nominal values}
+    1/1061  . . . . . {using digitally programmable trimming
+    1/1066  . . {Mechanical or optical alignment}
+    1/1071  . . {Measuring or testing}
+    1/1076  . . . {Detection or location of converter hardware
+failure, e.g. power supply failure, open or short
+    1/108   . . . {Converters having special provisions for
+facilitating access for testing purposes}
+    1/1085  . . . {using domain transforms, e.g. Fast Fourier
+    1/109   . . . {for dc performance, i.e. static testing
+(H03M 1/1085 takes precedence)}
+    1/1095  . . . {for ac performance, i.e. dynamic testing
+(H03M 1/1085 takes precedence)}
+    1/12    . Analogue/digital converters ({H03M 1/001 – }
+    1/1205  . . {Multiplexed conversion systems}
+    1/121   . . . {Interleaved, i.e. using multiple converters or
+converter parts for one channel}
+    1/1215  . . . . {using time-division multiplexing}
+    1/122   . . . {Shared using a single converter or a part
+thereof for multiple channels, e.g. a residue
+    1/1225  . . . . {using time-division multiplexing}
+    1/123   . . . {Simultaneous, i.e. using one converter per
+channel but with common control or reference
+circuits for multiple converters}
+    1/1235  . . {Non-linear conversion not otherwise provided
+    1/124   . . {Sampling or signal conditioning arrangements
+specially adapted for A/D converters}
+    1/1245  . . . {Details of sampling arrangements or methods}
+    1/125   . . . . {Asynchronous, i.e. free-running operation
+    1/1255  . . . . {Synchronisation of the sampling frequency
+or phase to the input frequency or phase}
+    1/126   . . . . {Multi-rate systems, i.e. adaptive to different
+    1/1265  . . . . {Non-uniform sampling}
+    1/127   . . . . . {at intervals varying with the rate of
+    1/1275  . . . . . . {at extreme values only}
+    1/128   . . . . . {at random intervals, e.g. digital alias free
+    1/1285  . . . . {Synchronous circular sampling, i.e. using
+undersampling of periodic input signals}
+    1/129   . . . {Means for adapting the input signal to the
+range the converter can handle, e.g. limiting,
+pre-scaling (H03M 1/18 takes precedence);
+    1/1295  . . . . {Clamping, i.e. adjusting the DC level of the
+input signal to a predetermined value}
+    1/14    . . Conversion in steps with each step involving
+the same or a different conversion means and
+    1/141   . . . {in which at least one step is of the folding
+type; Folding stages therefore}
+    1/142   . . . {the reference generators for the steps being
+arranged in a common two-dimensional array}
+    1/143   . . . {in pattern-reading type converters, e.g. having
+both absolute and incremental tracks on one
+disc or strip (H03M 1/16 takes precedence)}
+    1/144   . . . {the steps being performed sequentially
+in a single stage, i.e. recirculation type
+(H03M 1/141, H03M 1/143, H03M 1/16 take
+    1/145   . . . {the steps being performed sequentially
+in series-connected stages (H03M 1/141,
+H03M 1/143, H03M 1/16 take precedence)}
+    1/146   . . . . {all stages being simultaneous converters}
+    1/147   . . . . . {at least two of which share a common
+    1/148   . . . . . . {the reference generator being arranged
+    1/16    . . . with scale factor modification, i.e. by
+changing the amplification between the steps
+{(H03M 1/141 takes precedence)}
+    1/161   . . . . {in pattern-reading type converters, e.g. with
+    1/162   . . . . {the steps being performed sequentially
+in a single stage, i.e. recirculation type
+    1/164   . . . . {the steps being performed sequentially in
+series-connected stages (H03M 1/161 takes
+    1/165   . . . . . {in which two or more residues with
+respect to different reference levels in a
+stage are used as input signals for the next
+stage, i.e. multi-residue type}
+    1/167   . . . . . {all stages comprising simultaneous
+    1/168   . . . . . . {and delivering the same number of
+    1/18    . . Automatic control for modifying the range of
+signals the converter can handle, e.g. gain ranging
+    1/181   . . . {in feedback mode, i.e. by determining the
+range to be selected from one or more previous
+    1/182   . . . . {the feedback signal controlling the
+reference levels of the analogue/digital
+    1/183   . . . . {the feedback signal controlling the gain
+of an amplifier or attenuator preceding the
+    1/185   . . . . . {the determination of the range being
+based on more than one digital output
+value, e.g. on a running average, a power
+estimation or the rate of change}
+    1/186   . . . {in feedforward mode, i.e. by determining the
+range to be selected directly from the input
+    1/187   . . . . {using an auxiliary analogue/digital
+    1/188   . . . {Multi-path, i.e. having a separate analogue/
+digital converter for each possible range}
+    1/20    . . Increasing resolution using an n bit system to
+    1/201   . . . {by dithering}
+    1/202   . . . {by interpolation}
+    1/203   . . . . {using an analogue interpolation circuit}
+    1/204   . . . . . {in which one or more virtual intermediate
+reference signals are generated between
+adjacent original reference signals, e.g.
+by connecting pre-amplifier outputs to
+    1/205   . . . . . . {using resistor strings for redistribution
+of the original reference signals or
+    1/206   . . . . {using a logic interpolation circuit}
+    1/207   . . . . {using a digital interpolation circuit}
+    1/208   . . . {by prediction}
+    1/22    . . pattern-reading type
+    1/24    . . . using relatively movable reader and disc or
+    1/245   . . . . {Constructional details of parts relevant
+to the encoding mechanism, e.g. pattern
+    1/26    . . . . with weighted coding, i.e. the weight given
+to a digit depends on the position of the digit
+within the block or code word, e.g. there is
+a given radix and the weights are powers of
+    1/28    . . . . with non-weighted coding
+    1/282   . . . . . {of the pattern-shifting type, e.g. pseudo-
+    1/285   . . . . . {of the unit Hamming distance type, e.g.
+    1/287   . . . . . {using gradually changing slit width or
+pitch within one track; using plural tracks
+having slightly different pitches, e.g. of the
+    1/30    . . . . . incremental
+    1/301   . . . . . . {Constructional details of parts relevant
+to the encoding mechanism, e.g. pattern
+    1/303   . . . . . . {Circuits or methods for processing the
+    1/305   . . . . . . . {for detecting the direction of
+    1/306   . . . . . . . {for waveshaping}
+    1/308   . . . . . . {with additional pattern means for
+determining the absolute position, e.g.
+    1/32    . . . using cathode-ray tubes {or analoguous two-
+dimensional deflection systems}
+    1/34    . . Analogue value compared with reference values
+    1/345   . . . {for direct conversion to a residue number
+    1/36    . . . simultaneously only, i.e. parallel type
+    1/361   . . . . {having a separate comparator and reference
+value for each quantisation level, i.e. full
+    1/362   . . . . . {the reference values being generated by a
+    1/363   . . . . . . {the voltage divider taps being held in a
+floating state, e.g. by feeding the divider
+    1/365   . . . . . . {the voltage divider being a single
+    1/366   . . . . . {using current mode circuits, i.e. circuits
+in which the information is represented
+by current values rather than by voltage
+    1/367   . . . . {Non-linear conversion}
+    1/368   . . . . {having a single comparator per bit, e.g. of
+    1/38    . . . sequentially only, e.g. successive
+approximation type (converting more than one
+    1/40    . . . . recirculation type
+    1/403   . . . . . {using switched capacitors}
+    1/406   . . . . . {using current mode circuits, i.e. circuits
+in which the information is represented
+by current values rather than by voltage
+    1/42    . . . . Sequential comparisons in series-connected
+stages with no change in value of analogue
+    1/44    . . . . Sequential comparisons in series-connected
+stages with change in value of analogue
+    1/442   . . . . . {using switched capacitors}
+    1/445   . . . . . {the stages being of the folding type}
+    1/447   . . . . . {using current mode circuits, i.e. circuits
+in which the information is represented
+by current values rather than by voltage
+    1/46    . . . . with digital/analogue converter for supplying
+    1/462   . . . . . {Details of the control circuitry, e.g. of the
+successive approximation register}
+    1/464   . . . . . {Non-linear conversion}
+    1/466   . . . . . {using switched capacitors}
+    1/468   . . . . . . {in which the input S/H circuit is
+merged with the feedback DAC array}
+    1/48    . . Servo-type converters
+    1/485   . . . {for position encoding, e.g. using resolvers or
+    1/50    . . with intermediate conversion to time interval
+    1/502   . . . {using tapped delay lines}
+    1/504   . . . {using pulse width modulation}
+    1/506   . . . . {the pulse width modulator being of the
+    1/508   . . . . {the pulse width modulator being of the self-
+    1/52    . . . Input signal integrated with linear return to
+    1/54    . . . Input signal sampled and held with linear return
+    1/56    . . . Input signal compared with linear ramp
+    1/58    . . . Non-linear conversion
+    1/60    . . with intermediate conversion to frequency of
+    1/62    . . . Non-linear conversion
+    1/64    . . with intermediate conversion to phase of
+sinusoidal {or similar periodical} signals
+    1/645   . . . {for position encoding, e.g. using resolvers or
+synchros (H03M 1/485 takes precedence)}
+    1/66    . Digital/analogue converters ({H03M 1/001 – }
+    1/661   . . {Improving the reconstruction of the analogue
+output signal beyond the resolution of the digital
+input signal, e.g. by interpolation, by curve-
+    1/662   . . {Multiplexed conversion systems}
+    1/664   . . {Non-linear conversion not otherwise provided
+    1/665   . . {with intermediate conversion to phase of
+sinusoidal or similar periodical signals}
+    1/667   . . {Recirculation type}
+    1/668   . . {Servo-type converters}
+    1/68    . . with conversions of different sensitivity, i.e. one
+conversion relating to the more significant digital
+bits and another conversion to the less significant
+    1/682   . . . {both converters being of the unary decoded
+    1/685   . . . . {the quantisation value generators of both
+converters being arranged in a common two-
+    1/687   . . . {Segmented, i.e. the more significant bit
+converter being of the unary decoded type and
+the less significant bit converter being of the
+    1/70    . . Automatic control for modifying converter range
+    1/72    . . Sequential conversion in series-connected stages
+    1/74    . . Simultaneous conversion
+    1/742   . . . {using current sources as quantisation value
+    1/745   . . . . {with weighted currents}
+    1/747   . . . . {with equal currents which are switched by
+    1/76    . . . using switching tree
+    1/765   . . . . {using a single level of switches which are
+controlled by unary decoded digital signals}
+    1/78    . . . using ladder network
+    1/785   . . . . {using resistors, i.e. R-2R ladders}
+    1/80    . . . using weighted impedances (H03M 1/76 takes
+    1/802   . . . . {using capacitors, e.g. neuron-mos
+transistors, charge coupled devices}
+    1/804   . . . . . {with charge redistribution}
+    1/806   . . . . . . {with equally weighted capacitors which
+are switched by unary decoded digital
+    1/808   . . . . {using resistors}
+    1/82    . . with intermediate conversion to time interval
+    1/822   . . . {using pulse width modulation}
+    1/825   . . . . {by comparing the input signal with a digital
+    1/827   . . . . {in which the total pulse width is distributed
+over multiple shorter pulse widths}
+    1/84    . . . Non-linear conversion
+    1/86    . . with intermediate conversion to frequency of
+    1/88    . . . Non-linear conversion
+    3/00    Conversion of analogue values to or from
+    3/02    . Delta modulation, i.e. one-bit differential
+modulation {(H03M 3/30 takes precedence)}
+    3/022   . . {with adaptable step size, e.g. adaptive delta
+    3/024   . . . {using syllabic companding, e.g. continuously
+variable slope delta modulation [CVSD]}
+    3/04    . Differential modulation with several bits {, e.g.
+differential pulse code modulation [DPCM]
+    3/042   . . {with adaptable step size, e.g. adaptive
+differential pulse code modulation [ADPCM]}
+    3/30    . {Delta-sigma modulation}
+{In group branch H03M 3/30, in the absence of
+an indication to the contrary, classification is
+made in the first appropriate place.}
+    3/32    . . {with special provisions or arrangements for
+power saving, e.g. by allowing a sleep mode,
+using lower supply voltage for downstream
+stages, using multiple clock domains, by
+selectively turning on stages when needed}
+    3/322   . . {Continuously compensating for, or preventing,
+undesired influence of physical parameters
+(periodically, e.g. by using stored correction
+    3/324   . . . {characterised by means or methods for
+compensating or preventing more than one type
+of error at a time, e.g. by synchronisation or
+using a ratiometric arrangement}
+    3/326   . . . . {by averaging out the errors}
+    3/328   . . . . . {using dither}
+    3/3283  . . . . . . {the dither being in the time domain}
+    3/3287  . . . . . . {the dither being at least partially
+    3/33    . . . . . . {the dither being a random signal}
+    3/332   . . . . . . . {in particular a pseudo-random
+    3/338   . . . . . {by permutation in the time domain, e.g.
+dynamic element matching (in multiple bit
+    3/34    . . . . . . {by chopping}
+    3/342   . . . . . . {by double sampling, e.g. correlated
+    3/344   . . . . {by filtering other than the noise-shaping
+inherent to delta-sigma modulators, e.g. anti-
+    3/346   . . . . {by suppressing active signals at
+predetermined times, e.g. muting, using non-
+    3/348   . . . . . {using return-to-zero signals}
+    3/35    . . . . {using redundancy}
+    3/352   . . . {of deviations from the desired transfer
+    3/354   . . . . {at one point, i.e. by adjusting a single
+reference value, e.g. bias or gain error}
+    3/356   . . . . . {Offset or drift compensation (removal
+of offset already present on the analogue
+    3/358   . . . {of non-linear distortion, e.g. instability
+(avoiding instability by structural design
+    3/36    . . . . {by temporarily adapting the operation upon
+detection of instability conditions}
+    3/362   . . . . . {in feedback mode, e.g. by reducing the
+    3/364   . . . . . . {by resetting one or more loop filter
+    3/366   . . . . . {in feed-forward mode, e.g. using look-
+    3/368   . . . {of noise other than the quantisation noise
+already being shaped inherently by delta-sigma
+    3/37    . . . . {Compensation or reduction of delay or
+    3/372   . . . . . {Jitter reduction}
+    3/374   . . . . . {Relaxation of settling time constraints,
+    3/376   . . . . {Prevention or reduction of switching
+    3/382   . . . {at one point of the transfer characteristic, i.e.
+by adjusting a single reference value, e.g. bias
+    3/384   . . . . {Offset correction (removal of offset
+already present on the analogue input signal
+    3/386   . . . {over the full range of the converter, e.g. for
+correcting differential non-linearity}
+    3/388   . . . . {by storing corrected or correction values in
+one or more digital look-up tables}
+    3/39    . . {Structural details of delta-sigma modulators, e.g.
+incremental delta-sigma modulators (of digital
+delta-sigma modulators H03M 7/3004)}
+    3/392   . . . {Arrangements for selecting among plural
+operation modes, e.g. for multi-standard
+    3/394   . . . . {among different orders of the loop filter}
+    3/396   . . . . {among different frequency bands}
+    3/398   . . . . {among different converter types}
+    3/40    . . . {Arrangements for handling quadrature signals,
+    3/402   . . . {Arrangements specific to bandpass
+    3/404   . . . . {characterised by the type of bandpass filters
+    3/406   . . . . . {by the use of a pair of integrators forming
+    3/408   . . . . . {by the use of an LC circuit}
+    3/41    . . . . {combined with modulation to or
+    3/412   . . . {characterised by the number of quantisers and
+    3/414   . . . . {having multiple quantisers arranged in
+cascaded loops, each of the second and
+further loops processing the quantisation
+error of the loop preceding it, i.e. multiple
+stage noise shaping [MASH] type}
+    3/416   . . . . . {all these quantisers being multiple bit
+    3/418   . . . . . {all these quantisers being single bit
+    3/42    . . . . {having multiple quantisers arranged in
+    3/422   . . . . {having one quantiser only}
+    3/424   . . . . . {the quantiser being a multiple bit one}
+    3/426   . . . . . . {the quantiser being a successive
+approximation type analogue/digital
+    3/428   . . . . . . {with lower resolution, e.g. single bit,
+    3/43    . . . . . {the quantiser being a single bit one}
+    3/432   . . . . . . {the quantiser being a pulse width
+modulation type analogue/digital
+converter, i.e. differential pulse width
+    3/434   . . . . . . {with multi-level feedback}
+    3/436   . . . {characterised by the order of the loop filter,
+In this group branch the order of the loop
+filters is considered to be the number of
+integrators for a baseband modulator and
+the number of resonators for a bandpass
+    3/438   . . . . {the modulator having a higher order loop
+filter in the feedforward path}
+    3/44    . . . . . {with provisions for rendering the
+In this subgroup, classification is made
+both here and in H03M 3/478 if both
+    3/442   . . . . . . {by restricting the swing within the
+    3/444   . . . . . . . {using non-linear elements, e.g.
+    3/446   . . . . . . {by a particular choice of poles or
+zeroes in the z-plane, e.g. by positioning
+zeroes outside the unit circle, i.e.
+causing the modulator to operate in a
+    3/448   . . . . . . . {by removing part of the zeroes, e.g.
+    3/45    . . . . . {with distributed feedforward inputs, i.e.
+with forward paths from the modulator
+input to more than one filter stage}
+    3/452   . . . . . {with weighted feedforward summation,
+i.e. with feedforward paths from more than
+one filter stage to the quantiser input}
+    3/454   . . . . . {with distributed feedback, i.e. with
+feedback paths from the quantiser output
+    3/456   . . . . {the modulator having a first order loop filter
+    3/458   . . {Analogue/digital converters using delta-sigma
+modulation as an intermediate step}
+    3/46    . . . {using a combination of at least one delta-
+sigma modulator in series with at least one
+analogue/digital converter of a different type}
+    3/462   . . . {Details relating to the decimation process
+(decimation filters in general H03H 17/0416,
+    3/464   . . . {Details of the digital/analogue conversion in
+    3/466   . . . {Multiplexed conversion systems}
+    3/468   . . . . {Interleaved, i.e. using multiple converters
+or converter parts for one channel, e.g. using
+Hadamard codes, pi-delta-sigma converters}
+    3/47    . . . . . {using time-division multiplexing}
+    3/472   . . . . {Shared, i.e. using a single converter for
+    3/474   . . . . . {using time-division multiplexing}
+    3/476   . . . {Non-linear conversion systems}
+    3/478   . . . {Means for controlling the correspondence
+between the range of the input signal and the
+range of signals the converter can handle;
+Means for out-of-range indication}
+In this subgroup, classification is made both
+here and in H03M 3/44 if both subgroups
+    3/48    . . . . {characterised by the type of range control,
+    3/482   . . . . . {by adapting the quantisation step size}
+    3/484   . . . . . . {by adapting the gain of the feedback
+signal, e.g. by adapting the reference
+values of the digital/analogue converter
+    3/486   . . . . . {by adapting the input gain}
+    3/488   . . . . {using automatic control}
+    3/49    . . . . . {in feedback mode, i.e. by determining
+the range to be selected from one or more
+previous digital output values}
+    3/492   . . . . . {in feed forward mode, i.e. by determining
+the range to be selected directly from the
+    3/494   . . . {Sampling or signal conditioning arrangements
+specially adapted for delta-sigma type
+analogue/digital conversion systems}
+    3/496   . . . . {Details of sampling arrangements or
+    3/498   . . . . . {Variable sample rate}
+    3/50    . . {Digital/analogue converters using delta-sigma
+modulation as an intermediate step (digital delta-
+sigma modulators per se H03M 7/3004)}
+    3/502   . . . {Details of the final digital/analogue
+conversion following the digital delta-sigma
+    3/504   . . . . {the final digital/analogue converter being
+constituted by a finite impulse response
+    3/506   . . . . {the final digital/analogue converter being
+constituted by a pulse width modulator}
+    3/508   . . . {Details relating to the interpolation process}
+    3/51    . . . {Automatic control for modifying converter
+    5/00    Conversion of the form of the representation of
+1. In groups H03M 5/02 - H03M 5/22, in the absence
+of an indication to the contrary, an invention is
+classified in the last appropriate place.
+2. {In this main group, additional information has
+been classified systematically for documents
+published from 01-04-2004 onwards.}
+    5/02    . Conversion to or from representation by pulses
+    5/04    . . the pulses having two levels
+    5/06    . . . Code representation, e.g. transition, for a given
+bit cell depending only on the information in
+    5/08    . . . . Code representation by pulse width
+    5/10    . . . . Code representation by pulse frequency
+    5/12    . . . . Biphase level code, e.g. split phase code,
+Manchester code; Biphase space or mark
+code, e.g. double frequency code
+    5/14    . . . Code representation, e.g. transition, for a given
+bit cell depending on the information in one or
+more adjacent bit cells, e.g. delay modulation
+    5/145   . . . . {Conversion to or from block codes or
+    5/16    . . the pulses having three levels
+    5/18    . . . two levels being symmetrical with respect to
+the third level, i.e. balanced bipolar ternary
+    5/20    . . the pulses having more than three levels
+    5/22    . Conversion to or from representation by sinusoidal
+    7/00    Conversion of a code where information is
+represented by a given sequence or number of
+digits to a code where the same {, similar or subset
+of} information is represented by a different
+1. In groups H03M 7/001 - H03M 7/50, the last place
+priority rule is applied, i.e. at each hierarchical
+level, in the absence of an indication to the
+contrary, classification is made in the last
+2. In groups H03M 7/02 – H03M 7/50, in the absence
+of an indication to the contrary, an invention is
+classified in the last appropriate place.
+3. {In this main group, in the absence of an indication
+to the contrary, additional information has been
+classified systematically for documents published
+    7/001   . {characterised by the elements used}
+    7/002   . . {using thin film devices}
+    7/003   . . {using superconductive devices}
+    7/004   . . {using magnetic elements, e.g. transfluxors}
+    7/005   . . {using semiconductor devices}
+    7/007   . . {using resistive or capacitive elements}
+    7/008   . . {using opto-electronic devices}
+    7/02    . Conversion to or from weighted codes, i.e. the
+weight given to a digit depending on the position of
+the digit within the block or code word
+    7/04    . . the radix thereof being two
+    7/06    . . the radix thereof being a positive integer different
+    7/08    . . . the radix being ten, i.e. pure decimal code
+    7/10    . . the radix thereof being negative
+    7/12    . . having two radices, e.g. binary-coded-decimal
+    7/14    . Conversion to or from non-weighted codes
+    7/16    . . Conversion to or from unit-distance codes, e.g.
+Gray code, reflected binary code
+    7/165   . . . {Conversion to or from thermometric code}
+    7/18    . . Conversion to or from residue codes
+    7/20    . . Conversion to or from n-out-of-m codes
+    7/22    . . . to or from one-out-of-m codes
+    7/24    . . Conversion to or from floating-point codes
+    7/26    . Conversion to or from stochastic codes
+    7/28    . Programmable structures, i.e. where the code
+converter contains apparatus which is operator-
+changeable to modify the conversion process
+    7/30    . Compression (speech analysis-synthesis for
+redundancy reduction G10L 19/00; for image
+communication H04N); Expansion; Suppression of
+unnecessary data, e.g. redundancy reduction
+    7/3002  . . {Conversion to or from differential modulation}
+{In group branch H03M 7/3002, additional
+information has been systematically classified
+    7/3004  . . . {Digital delta-sigma modulation}
+    7/3006  . . . . {Compensating for, or preventing of,
+undesired influence of physical parameters}
+    7/3008  . . . . . {by averaging out the errors, e.g. using
+    7/3011  . . . . . {of non-linear distortion, e.g. by
+temporarily adapting the operation
+upon detection of instability conditions
+(avoiding instability by structural design
+    7/3013  . . . . {Non-linear modulators}
+    7/3015  . . . . {Structural details of digital delta-sigma
+    7/3017  . . . . . {Arrangements specific to bandpass
+    7/302   . . . . . {characterised by the number of quantisers
+    7/3022  . . . . . . {having multiple quantisers arranged in
+cascaded loops, each of the second and
+further loops processing the quantisation
+error of the loop preceding it, i.e.
+multiple stage noise shaping [MASH]
+    7/3024  . . . . . . {having one quantiser only}
+    7/3026  . . . . . . . {the quantiser being a multiple bit
+    7/3028  . . . . . . . {the quantiser being a single bit one}
+    7/3031  . . . . . {characterised by the order of the loop
+filter, e.g. having a first order loop filter in
+In this group the order of the loop
+filters is considered to be the number
+of integrators for a baseband modulator
+and the number of resonators for a
+bandpass modulator respectively
+    7/3033  . . . . . . {the modulator having a higher order
+loop filter in the feedforward path, e.g.
+with distributed feedforward inputs}
+    7/3035  . . . . . . . {with provisions for rendering the
+modulator inherently stable, e.g. by
+restricting the swing within the loop,
+by removing part of the zeroes using
+local feedback loops, by positioning
+zeroes outside the unit circle causing
+the modulator to operate in a chaotic
+    7/3037  . . . . . . . {with weighted feedforward
+summation, i.e. with feedforward
+paths from more than one filter stage
+    7/304   . . . . . . . {with distributed feedback, i.e. with
+feedback paths from the quantiser
+output to more than one filter stage}
+    7/3042  . . . . . . {the modulator being of the error
+feedback type, i.e. having loop filter
+stages in the feedback path only}
+    7/3044  . . . {Conversion to or from differential modulation
+with several bits only, i.e. the difference
+between successive samples being coded by
+more than one bit, e.g. differential pulse code
+modulation [DPCM] (H03M 7/3004 takes
+precedence; voice coding G10L 19/00; image
+    7/3046  . . . . {adaptive, e.g. adaptive differential pulse
+    7/3048  . . . {Conversion to or from one-bit differential
+modulation only, e.g. delta modulation [DM]
+(H03M 7/3004 takes precedence)}
+    7/3051  . . . . {adaptive, e.g. adaptive delta modulation
+    7/3053  . . {Block-companding PCM systems}
+    7/3055  . . {Conversion to or from Modulo-PCM}
+    7/3057  . . {Distributed Source coding, e.g. Wyner-Ziv,
+    7/3059  . . {Digital compression and data reduction
+techniques where the original information is
+represented by a subset or similar information,
+    7/3062  . . . {Compressive sampling or sensing}
+    7/3066  . . {by means of a mask or a bit-map}
+    7/3068  . . {Precoding preceding compression, e.g. Burrows-
+    7/3079  . . . {Context modeling}
+    7/3082  . . {Vector coding (for television signals, see
+    7/3084  . . {using adaptive string matching, e.g. the Lempel-
+    7/3086  . . . {employing a sliding window, e.g. LZ77}
+    7/3088  . . . {employing the use of a dictionary, e.g. LZ78}
+    7/3091  . . . {Data deduplication}
+    7/3093  . . . . {using fixed length segments}
+    7/3095  . . . . {using variable length segments}
+    7/3097  . . . {Grammar codes}
+    7/40    . . Conversion to or from variable length codes, e.g.
+Shannon-Fano code, Huffman code, Morse code
+    7/4006  . . . {Conversion to or from arithmetic code}
+    7/4012  . . . . {Binary arithmetic codes}
+    7/4018  . . . . . {Context adapative binary arithmetic
+    7/4025  . . . {constant length to or from Morse code
+    7/4031  . . . {Fixed length to variable length coding}
+    7/4037  . . . . {Prefix coding}
+    7/4043  . . . . . {Adaptive prefix coding}
+    7/405   . . . . . . {Tree adaptation}
+    7/4056  . . . . . . {Coding table selection}
+    7/4062  . . . . . . {Coding table adaptation}
+    7/4068  . . . . . . {Parameterized codes}
+    7/4075  . . . . . . . {Golomb codes}
+    7/4081  . . . . . {Static prefix coding}
+    7/4087  . . . . . {Encoding of a tuple of symbols}
+    7/4093  . . . {Variable length to variable length coding}
+    7/42    . . . using table look-up for the coding or decoding
+process, e.g. using read-only memory
+{(H03M 7/4006 takes precedence)}
+    7/425   . . . . {for the decoding process only}
+    7/46    . . Conversion to or from run-length codes, i.e. by
+representing the number of consecutive digits, or
+groups of digits, of the same kind by a code word
+and a digit indicative of that kind
+    7/48    . . . alternating with other codes during the
+code conversion process, e.g. run-length
+coding being performed only as long as
+sufficientlylong runs of digits of the same kind
+    7/50    . . Conversion to or from non-linear codes, e.g.
+    7/55    . . {Compression Theory, e.g. compression of
+random number, repeated compression}
+    7/60    . . {General implementation details not specific to a
+particular type of compression}
+    7/6005  . . . {Decoder aspects}
+    7/6011  . . . {Encoder aspects}
+    7/6017  . . . {Methods or arrangements to increase the
+    7/6023  . . . . {Parallelization}
+    7/6029  . . . . {Pipelining}
+    7/6035  . . . {Handling of unkown probabilities}
+    7/6041  . . . {Compression optimized for errors}
+    7/6047  . . . {Power optimization with respect to the
+encoder, decoder, storage or transmission}
+    7/6052  . . . {Synchronisation of encoder and decoder}
+    7/6058  . . . {Saving memory space in the encoder or
+    7/6064  . . . {Selection of Compressor}
+    7/607   . . . . {Selection between different types of
+    7/6076  . . . . {Selection between compressors of the same
+    7/6082  . . . . {Selection strategies}
+    7/6088  . . . . . {according to the data type}
+    7/6094  . . . . . {according to reasons other than
+    7/70    . . {Type of the data to be coded, other than image
+    7/707   . . . {Structured documents, e.g. XML}
+    9/00    Parallel/series conversion or vice versa (digital
+stores in which the information is moved stepwise per
+   11/00    Coding in connection with keyboards or like
+devices, i.e. coding of the position of operated keys
+(keyboard switch arrangements, structural association
+of coders and keyboards H01H 13/70, H03K 17/94)
+{In this main group additional information has
+been classified systematically for documents
+published from 01-01-2013 onwards.}
+   11/003   . {Phantom keys detection and prevention}
+   11/006   . {Measures for preventing unauthorised decoding of
+   11/04    . . Coding of multifunction keys
+   11/06    . . . by operating the multifunction key itself in
+   11/08    . . . . by operating selected combinations of
+   11/10    . . . . by methods based on duration or pressure
+   11/12    . . . . by operating a key a selected number of
+consecutive times whereafter a separate enter
+key is used which marks the end of the series
+   11/14    . . . by using additional keys, e.g. shift keys, which
+determine the function performed by the
+   11/16    . . . . wherein the shift keys are operated after the
+operation of the multifunction keys
+   11/18    . . . . wherein the shift keys are operated before the
+operation of the multifunction keys
+   11/20    . Dynamic coding, i.e. by key scanning (H03M 11/26
+   11/22    . Static coding (H03M 11/26 takes precedence)
+   11/24    . . using analogue means {, e.g. by coding the states
+of multiple switches into a single multi-level
+analogue signal or by indicating the type of a
+device using the voltage level at a specific tap of
+   11/26    . using opto-electronic means
+   13/00    Coding, decoding or code conversion, for error
+detection or error correction; Coding theory basic
+assumptions; Coding bounds; Error probability
+evaluation methods; Channel models; Simulation
+or testing of codes (error detection or error correction
+for analogue/digital, digital/analogue or code
+conversion H03M 1/00 – H03M 11/00 specially
+adapted for digital computers G06F 11/08, for
+information storage based on relative movement
+between record carrier and transducer G11B, e.g.
+G11B 20/18, for static stores G11C)
+   13/01    . Coding theory basic assumptions; Coding bounds;
+Error probability evaluation methods; Channel
+models; Simulation or testing of codes
+   13/015   . . {Simulation or testing of codes, e.g. bit error rate
+   13/03    . Error detection or forward error correction by
+redundancy in data representation, i.e. code words
+containing more digits than the source words
+   13/033   . . {Theoretical methods to calculate these checking
+   13/036   . . . {Heuristic code construction methods, i.e. code
+construction or code search based on using
+   13/05    . . using block codes, i.e. a predetermined number
+of check bits joined to a predetermined number
+of information bits {(H03M 13/2906 takes
+   13/07    . . . Arithmetic codes
+   13/09    . . . Error detection only, e.g. using cyclic
+redundancy check [CRC] codes or single parity
+   13/091   . . . . {Parallel or block-wise CRC computation}
+   13/093   . . . . {CRC update after modification of the
+   13/095   . . . . {Error detection codes other than CRC and
+   13/096   . . . . . {Checksums}
+   13/098   . . . . {using single parity bit}
+   13/11    . . . using multiple parity bits
+   13/1102  . . . . {Codes on graphs and decoding on graphs,
+e.g. low-density parity check [LDPC] codes}
+   13/1105  . . . . . {Decoding}
+   13/1108  . . . . . . {Hard decision decoding, e.g. bit
+flipping, modified or weighted bit
+   13/1111  . . . . . . {Soft-decision decoding, e.g. by means
+of message passing or belief propagation
+   13/1114  . . . . . . . {Merged schedule message passing
+algorithm with storage of sums of
+check-to-bit node messages or sums
+of bit-to-check node messages, e.g.
+in order to increase the memory
+   13/1117  . . . . . . . {using approximations for check node
+processing, e.g. an outgoing message
+is depending on the signs and the
+minimum over the magnitudes of all
+incoming messages according to the
+   13/112   . . . . . . . . {with correction functions for the
+min-sum rule, e.g. using an offset
+   13/1122  . . . . . . . . {storing only the first and second
+   13/1125  . . . . . . . {using different domains for check
+wherein the different domains include
+probabilities, likelihood ratios,
+likelihood differences, log-likelihood
+ratios or log-likelihood difference
+   13/1128  . . . . . . {Judging correct decoding and iterative
+stopping criteria other than syndrome
+check and upper limit for decoding
+   13/1131  . . . . . . {Scheduling of bit node or check node
+   13/1134  . . . . . . . {Full parallel processing, i.e. all bit
+nodes or check nodes are processed in
+   13/1137  . . . . . . . {Partly parallel processing, i.e. sub-
+blocks or sub-groups of nodes being
+   13/114   . . . . . . . {Shuffled, staggered, layered or turbo
+   13/1142  . . . . . . {using trapping sets}
+   13/1145  . . . . . . {Pipelined decoding at code word level,
+e.g. multiple code words being decoded
+   13/1148  . . . . . {Structural properties of the code parity-
+   13/1151  . . . . . . {Algebraically constructed LDPC
+codes, e.g. LDPC codes derived from
+Euclidean geometries [EG-LDPC codes]
+(H03M 13/116, H03M 13/1174 take
+   13/1154  . . . . . . {Low-density parity-check
+   13/1157  . . . . . . {Low-density generator matrices
+   13/116   . . . . . . {Quasi-cyclic LDPC [QC-LDPC]
+codes, i.e. the parity-check matrix being
+composed of permutation or circulant
+   13/1162  . . . . . . . {Array based LDPC codes, e.g. array
+   13/1165  . . . . . . . {QC-LDPC codes as defined for the
+digital video broadcasting [DVB]
+specifications, e.g. DVB-Satellite
+   13/1168  . . . . . . . {wherein the sub-matrices have
+column and row weights greater than
+one, e.g. multi-diagonal sub-matrices}
+   13/1171  . . . . . . {Parity-check or generator matrices with
+non-binary elements, e.g. for non-binary
+   13/1174  . . . . . . {Parity-check or generator matrices built
+from sub-matrices representing known
+block codes such as, e.g. Hamming
+codes, e.g. generalized LDPC codes}
+   13/1177  . . . . . . {Regular LDPC codes with parity-check
+matrices wherein all rows and columns
+have the same row weight and column
+   13/118   . . . . . . {Parity check matrix structured for
+simplifying encoding, e.g. by having a
+triangular or an approximate triangular
+   13/1182  . . . . . . . {wherein the structure of the
+parity-check matrix is obtained by
+reordering of a random parity-check
+   13/1185  . . . . . . . {wherein the parity-check matrix
+comprises a part with a double-
+   13/1188  . . . . . . . . {wherein in the part with the
+column has an odd column weight
+   13/1191  . . . . . {Codes on graphs other than LDPC codes}
+   13/1194  . . . . . . {Repeat-accumulate [RA] codes}
+   13/1197  . . . . . . . {Irregular repeat-accumulate [IRA]
+   13/132   . . . . {Algebraic geometric codes, e.g. Goppa
+   13/134   . . . . {Non-binary linear block codes not provided
+   13/136   . . . . {Reed-Muller [RM] codes}
+   13/138   . . . . {Codes linear in a ring, e.g. Z4-linear codes
+   13/15    . . . . Cyclic codes, i.e. cyclic shifts of codewords
+produce other codewords, e.g. codes defined
+by a generator polynomial, Bose-Chaudhuri-
+Hocquenghem [BCH] codes (H03M 13/17
+   13/1505  . . . . . {Golay Codes}
+   13/151   . . . . . {using error location or error correction
+   13/1515  . . . . . . {Reed-Solomon codes}
+   13/152   . . . . . . {Bose-Chaudhuri-Hocquenghem [BCH]
+   13/1525  . . . . . . {Determination and particular use of
+   13/153   . . . . . . . {using the Berlekamp-Massey
+   13/1535  . . . . . . . {using the Euclid algorithm}
+   13/154   . . . . . . {Error and erasure correction, e.g. by
+using the error and erasure locator or
+   13/1545  . . . . . . {Determination of error locations,
+e.g. Chien search or other methods or
+arrangements for the determination
+of the roots of the error locator
+   13/155   . . . . . . {Shortening or extension of codes}
+   13/1555  . . . . . . {Pipelined decoder implementations}
+   13/156   . . . . . . {Encoding or decoding using time-
+frequency transformations, e.g. fast
+   13/1565  . . . . . . {Decoding beyond the bounded
+   13/157   . . . . . . {Polynomial evaluation, i.e.
+determination of a polynomial sum at a
+   13/1575  . . . . . . {Direct decoding, e.g. by a direct
+determination of the error locator
+subsequent analysis or by matrix
+operations involving syndromes, e.g. for
+codes with a small minimum Hamming
+   13/158   . . . . . . {Finite field arithmetic processing}
+   13/1585  . . . . . . {Determination of error values}
+   13/159   . . . . . {Remainder calculation, e.g. for encoding
+   13/1595  . . . . . . {Parallel or block-wise remainder
+   13/17    . . . . Burst error correction, e.g. error trapping,
+   13/175   . . . . . {Error trapping or Fire codes}
+   13/19    . . . . Single error correction without using
+particular properties of the cyclic codes, e.g.
+Hamming codes, extended or generalised
+   13/21    . . . Non-linear codes, e.g. m-bit data word to n-
+bit code word [mBnB] conversion with error
+   13/23    . . using convolutional codes, e.g. unit memory
+   13/235   . . . {Encoding of convolutional codes, e.g.
+methods or arrangements for parallel or block-
+   13/25    . Error detection or forward error correction by signal
+space coding, i.e. adding redundancy in the signal
+constellation, e.g. Trellis Coded Modulation [TCM]
+{(modulation codes H03M 13/31)}
+   13/251   . . {with block coding}
+   13/253   . . {with concatenated codes}
+   13/255   . . {with Low Density Parity Check [LDPC] codes}
+   13/256   . . {with trellis coding, e.g. with convolutional codes
+   13/258   . . {with turbo codes, e.g. Turbo Trellis Coded
+   13/27    . using interleaving techniques
+   13/2703  . . {the interleaver involving at least two directions}
+   13/2707  . . . {Simple row-column interleaver, i.e. pure block
+   13/271   . . . {Row-column interleaver with permutations,
+e.g. block interleaving with inter-row,
+inter-column, intra-row or intra-column
+   13/2714  . . . . {Turbo interleaver for 3rd generation
+partnership project [3GPP] universal mobile
+telecommunications systems [UMTS], e.g. as
+defined in technical specification TS 25.212}
+   13/2717  . . . {the interleaver involves 3 or more directions}
+   13/2721  . . . {the interleaver involves a diagonal direction,
+e.g. by using an interleaving matrix with read-
+   13/2725  . . . {Turbo interleaver for 3rd generation
+partnership project 2 [3GPP2] mobile
+telecommunication systems, e.g. as defined in
+the 3GPP2 technical specifications C.S0002}
+   13/2728  . . . {Helical type interleaver}
+   13/2732  . . {Convolutional interleaver; Interleavers using
+shift-registers or delay lines like, e.g. Ramsey
+   13/2735  . . {Interleaver using powers of a primitive element,
+e.g. Galois field [GF] interleaver}
+   13/2739  . . {Permutation polynomial interleaver, e.g.
+quadratic permutation polynomial [QPP]
+interleaver and quadratic congruence interleaver}
+   13/2742  . . {Irregular interleaver wherein the permutation
+pattern is not obtained by a computation rule, e.g.
+interleaver based on random generators}
+   13/2746  . . . {S-random interleaver}
+   13/275   . . {Interleaver wherein the permutation pattern is
+obtained using a congruential operation of the
+   13/2753  . . . {Almost regular permutation [ARP]
+   13/2757  . . {Interleaver with an interleaving rule
+not provided for in the subgroups
+   13/276   . . {Interleaving address generation}
+   13/2764  . . . {Circuits therefore}
+   13/2767  . . {Interleaver wherein the permutation pattern or a
+   13/2771  . . {Internal interleaver for turbo codes
+(H03M 13/2714 and H03M 13/2725 take
+   13/2775  . . . {Contention or collision free turbo code
+   13/2778  . . {Interleaver using block-wise interleaving, e.g.
+the interleaving matrix is sub-divided into sub-
+matrices and the permutation is performed in
+   13/2782  . . {Interleaver implementations, which reduce the
+amount of required interleaving memory}
+   13/2785  . . . {Interleaver using in-place interleaving, i.e.
+writing to and reading from the memory is
+performed at the same memory location}
+   13/2789  . . {Interleaver providing variable interleaving, e.g.
+   13/2792  . . {Interleaver wherein interleaving is performed
+jointly with another technique such as puncturing,
+   13/2796  . . . {Two or more interleaving operations are
+performed jointly, e.g. the first and second
+interleaving operations defined for 3GPP
+UMTS are performed jointly in a single
+   13/29    . combining two or more codes or code structures,
+e.g. product codes, generalised product codes,
+concatenated codes, inner and outer codes
+   13/2903  . . {Methods and arrangements specifically for
+encoding, e.g. parallel encoding of a plurality of
+   13/2906  . . {using block codes (H03M 13/2957 takes
+   13/2909  . . . {Product codes}
+   13/2912  . . . . {omitting parity on parity}
+   13/2915  . . . . {with an error detection code in one
+   13/2918  . . . {with error correction codes in three or more
+dimensions, e.g. 3-dimensional product code
+where the bits are arranged in a cube}
+   13/2921  . . . {wherein error correction coding involves a
+   13/2924  . . . . {Cross interleaved Reed-Solomon codes
+   13/2927  . . . {Decoding strategies}
+   13/293   . . . . {with erasure setting}
+   13/2933  . . {using a block and a convolutional code
+(H03M 13/2957 takes precedence)}
+   13/2936  . . . {comprising an outer Reed-Solomon code and
+   13/2939  . . {using convolutional codes (H03M 13/2957 takes
+   13/2942  . . {wherein a block of parity bits is computed
+only from combined information bits or only
+from parity bits, e.g. a second block of parity
+bits is computed from a first block of parity
+bits obtained by systematic encoding of a block
+of information bits, or a block of parity bits is
+obtained by an XOR combination of sub-blocks
+   13/2945  . . {using at least three error correction codes
+(H03M 13/2957 takes precedence)}
+   13/2948  . . {Iterative decoding (H03M 13/2957 takes
+   13/2951  . . . {using iteration stopping criteria}
+   13/2954  . . {using Picket codes or other codes providing
+error burst detection capabilities, e.g. burst
+indicator codes and long distance codes [LDC]}
+   13/2957  . . {Turbo codes and decoding}
+This group covers also aspects when a
+component code is replaced by a non-coded
+constraint, e.g. like in joint turbo decoding and
+   13/296   . . . {Particular turbo code structure}
+this group covers hybrid parallel and serial
+concatenated turbo code structures and other
+unusual code structures that do not fit into
+   13/2963  . . . . {Turbo-block codes, i.e. turbo codes based
+on block codes, e.g. turbo decoding of
+   13/2966  . . . . {Turbo codes concatenated with another
+code, e.g. an outer block code}
+   13/2969  . . . . {Non-binary turbo codes}
+   13/2972  . . . . {Serial concatenation using convolutional
+   13/2975  . . . {Judging correct decoding, e.g. iteration
+   13/2978  . . . {Particular arrangement of the component
+   13/2981  . . . . {using as many component decoders as
+   13/2984  . . . . {using less component decoders than
+component codes, e.g. multiplexed decoders
+   13/2987  . . . . {using more component decoders than
+component codes, e.g. pipelined turbo
+   13/299   . . . {Turbo codes with short blocks}
+   13/2993  . . . {Implementing the return to a predetermined
+state, i.e. trellis termination}
+   13/2996  . . . {Tail biting}
+   13/31    . combining coding for error detection or correction
+and efficient use of the spectrum (without
+error detection or correction H03M 5/14 {,
+   13/33    . Synchronisation based on error coding or decoding
+Groups H03M 13/333 - H03M 13/336 are not
+complete pending reclassification; see also this
+   13/333   . . {Synchronisation on a multi-bit block basis, e.g.
+   13/336   . . {Phase recovery}
+   13/35    . Unequal or adaptive error protection, e.g. by
+providing a different level of protection according
+to significance of source information or by adapting
+the coding according to the change of transmission
+   13/353   . . {Adaptation to the channel}
+   13/356   . . {Unequal error protection [UEP]}
+   13/37    . Decoding methods or techniques, not specific to
+the particular type of coding provided for in groups
+   13/3707  . . {Adaptive decoding and hybrid decoding, e.g.
+decoding methods or techniques providing more
+than one decoding algorithm for one code}
+   13/3715  . . . {Adaptation to the number of estimated errors
+   13/3723  . . {using means or methods for the initialisation of
+   13/373   . . {with erasure correction and erasure
+determination, e.g. for packet loss recovery or
+setting of erasures for the decoding of Reed-
+   13/3738  . . {with judging correct decoding}
+   13/3746  . . {with iterative decoding}
+   13/3753  . . . {using iteration stopping criteria}
+   13/3761  . . {using code combining, i.e. using combining
+of codeword portions which may have been
+transmitted separately, e.g. Digital Fountain
+codes, Raptor codes or Luby Transform [LT]
+   13/3769  . . {using symbol combining, e.g. Chase combining
+of symbols received twice or more}
+   13/3776  . . {using a re-encoding step during the decoding
+   13/3784  . . {for soft-output decoding of block codes}
+   13/3792  . . {for decoding of real number codes}
+   13/39    . . Sequence estimation, i.e. using statistical methods
+for the reconstruction of the original codes
+   13/3905  . . . {Maximum a posteriori probability [MAP]
+decoding or approximations thereof based
+on trellis or lattice decoding, e.g. forward-
+backward algorithm, log-MAP decoding, max-
+   13/3911  . . . . {Correction factor, e.g. approximations of
+   13/3916  . . . . {for block codes using a trellis or lattice}
+   13/3922  . . . . {Add-Compare-Select [ACS] operation in
+forward or backward recursions}
+   13/3927  . . . . {Log-Likelihood Ratio [LLR] computation
+by combination of forward and backward
+   13/3933  . . . . {Decoding in probability domain}
+   13/3938  . . . . {Tail-biting (H03M 13/2996 takes
+   13/3944  . . . {for block codes, especially trellis or lattice
+   13/395   . . . {using a collapsed trellis, e.g. M-step
+algorithm, radix-n architectures with n>2}
+   13/3955  . . . {using a trellis with a reduced state space
+complexity, e.g. M-algorithm or T-algorithm}
+   13/3961  . . . {Arrangements of methods for branch or
+   13/3966  . . . {based on architectures providing a highly
+parallelized implementation, e.g. based on
+   13/3972  . . . {using sliding window techniques or parallel
+   13/3977  . . . {using sequential decoding, e.g. the Fano or
+   13/3983  . . . {for non-binary convolutional codes}
+   13/3988  . . . {for rate k/n convolutional codes, with k>1,
+obtained by convolutional encoders with k
+   13/3994  . . . {using state pinning or decision forcing, i.e. the
+decoded sequence is forced through a particular
+trellis state or a particular set of trellis states or
+   13/41    . . . using the Viterbi algorithm or Viterbi
+   13/4107  . . . . {implementing add, compare, select [ACS]
+   13/4115  . . . . {list output Viterbi decoding}
+   13/4123  . . . . {implementing the return to a predetermined
+   13/413   . . . . {tail biting Viterbi decoding}
+   13/4138  . . . . {soft-output Viterbi algorithm based
+decoding, i.e. Viterbi decoding with
+   13/4146  . . . . . {soft-output Viterbi decoding according to
+Battail and Hagenauer in which the soft-
+output is determined using path metric
+differences along the maximum-likelihood
+   13/4153  . . . . . . {two-step SOVA decoding, i.e.
+the soft-output is determined by a
+second traceback operation after the
+determination of the hard decision like
+   13/4161  . . . . {implementing path management}
+   13/4169  . . . . . {using traceback (H03M 13/4192 takes
+   13/4176  . . . . . . {using a plurality of RAMs, e.g. for
+carrying out a plurality of traceback
+implementations simultaneously}
+   13/4184  . . . . . {using register-exchange (H03M 13/4192
+   13/4192  . . . . . {using combined traceback and register-
+   13/43    . . Majority logic or threshold decoding
+   13/45    . . Soft decoding, i.e. using symbol reliability
+information (H03M 13/41 takes precedence)
+   13/451   . . . {using a set of candidate code words, e.g.
+ordered statistics decoding [OSD]}
+   13/453   . . . . {wherein the candidate code words are
+obtained by an algebraic decoder, e.g. Chase
+   13/455   . . . . . {using a set of erasure patterns or
+successive erasure decoding, e.g.
+generalized minimum distance [GMD]
+   13/456   . . . . {wherein all the code words of the code
+or its dual code are tested, e.g. brute force
+   13/458   . . . {by updating bit probabilities or hard decisions
+in an iterative fashion for convergence to a
+   13/47    . Error detection, forward error correction or
+error protection, not provided for in groups
+   13/49    . . Unidirectional error detection or correction
+   13/51    . . Constant weight codes; n-out-of-m codes; Berger
+   13/53    . . Codes using Fibonacci numbers series
+   13/61    . {Aspects and characteristics of methods and
+arrangements for error correction or error detection,
+   13/611   . . {Specific encoding aspects, e.g. encoding by
+   13/612   . . {Aspects specific to channel or signal-to-noise
+ratio estimation (H03M 13/63 takes precedence)}
+   13/613   . . {Use of the dual code}
+   13/615   . . {Use of computational or mathematical
+   13/616   . . . {Matrix operations, especially for generator
+matrices or check matrices, e.g. column or row
+   13/617   . . . {Polynomial operations, e.g. operations related
+to generator polynomials or parity-check
+   13/618   . . {Shortening and extension of codes}
+   13/63    . {Joint error correction and other techniques
+(H03M 13/31 and H03M 13/33 take precedence)}
+   13/6306  . . {Error control coding in combination with
+Automatic Repeat reQuest [ARQ] and
+diversity transmission, e.g. coding schemes
+for the multiple transmission of the same
+information or the transmission of incremental
+redundancy (H03M 13/3761, H03M 13/3769 and
+   13/6312  . . {Error control coding in combination with data
+   13/6318  . . . {using variable length codes}
+   13/6325  . . {Error control coding in combination with
+   13/6331  . . {Error control coding in combination with
+   13/6337  . . {Error control coding in combination with
+   13/6343  . . {Error control coding in combination with
+techniques for partial response channels, e.g.
+   13/635   . . {Error control coding in combination with rate
+   13/6356  . . . {by repetition or insertion of dummy data, i.e.
+   13/6362  . . . {by puncturing}
+   13/6368  . . . . {using rate compatible puncturing or
+   13/6375  . . . . . {Rate compatible punctured convolutional
+   13/6381  . . . . . {Rate compatible punctured turbo [RCPT]
+   13/6387  . . . . . {Complementary punctured convolutional
+   13/6393  . . . . . {Rate compatible low-density parity check
+   13/65    . {Purpose and implementation aspects}
+   13/6502  . . {Reduction of hardware complexity or efficient
+   13/6505  . . . {Memory efficient implementations}
+   13/6508  . . {Flexibility, adaptability, parametrability and
+configurability of the implementation}
+   13/6511  . . . {Support of multiple decoding rules, e.g.
+combined MAP and Viterbi decoding}
+   13/6513  . . . {Support of multiple code types, e.g. unified
+decoder for LDPC and turbo codes}
+   13/6516  . . . {Support of multiple code parameters, e.g.
+generalized Reed-Solomon decoder for a
+variety of generator polynomials or Galois
+   13/6519  . . . {Support of multiple transmission or
+   13/6522  . . {Intended application, e.g. transmission or
+   13/6525  . . . {3GPP LTE including E-UTRA}
+   13/6527  . . . {IEEE 802.11 [WLAN]}
+   13/653   . . . {3GPP HSDPA, e.g. HS-SCCH or DS-DSCH
+   13/6533  . . . {ITU 992.X [ADSL]}
+   13/6538  . . . {ATSC VBS systems}
+   13/6541  . . . {DVB-H and DVB-M}
+   13/6544  . . . {IEEE 802.16 (WIMAX and broadband
+   13/6547  . . . {TCP, UDP, IP and associated protocols, e.g.
+   13/6561  . . {Parallelized implementations}
+   13/6563  . . {Implementations using multi-port memories}
+   13/6566  . . {Implementations concerning memory access
+   13/6569  . . {Implementation on processors, e.g. DSPs, or
+   13/6572  . . {Implementations using a tree structure, e.g.
+implementations in which the complexity is
+reduced by a tree structure from O(n) to O
+   13/6575  . . {Implementations based on combinatorial logic,
+   13/6577  . . {Representation or format of variables, register
+sizes or word-lengths and quantization}
+   13/658   . . . {Scaling by multiplication or division}
+   13/6583  . . . {Normalization other than scaling, e.g. by
+   13/6586  . . . . {Modulo/modular normalization, e.g. 2's
+complement modulo implementations}
+   13/6588  . . . {Compression or short representation of
+   13/6591  . . . {Truncation, saturation and clamping}
+   13/6594  . . . {Non-linear quantization}
+   13/6597  . . {Implementations using analogue techniques
+for coding or decoding, e.g. analogue Viterbi
+   99/00    Subject matter not provided for in other groups of

@@ -1,0 +1,596 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+ARRANGEMENT OF SIGNALLING OR LIGHTING DEVICES, THE MOUNTING
+OR SUPPORTING THEREOF OR CIRCUITS THEREFOR, FOR VEHICLES IN
+1. This subclass also covers the operation and control of lighting devices, for example:
+• arrangement or adaptation of lighting switches or signal-initiating means for vehicles;
+• control of lighting devices in relation to the vehicle as a whole, e.g. for levelling, swivelling or aiming.
+2. This subclass does not cover optical, mechanical, thermal or electrical arrangement of elements within lighting devices, which
+are covered by groups F21S 41/00 – F21S 45/00.
+3. Attention is drawn to the Note following the title of class B60.
+The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+    1/00    Arrangement of optical signalling or lighting
+devices, the mounting or supporting thereof
+or circuits therefor (for lighting vehicle interior
+    1/0005  . {Devices preventing the lights from becoming dirty
+or damaged, e.g. protection grids or cleaning by air
+flow (windshield wipers for cleaning optical devices
+    1/0011  . {with light guides for distributing the light between
+several lighting or signalling devices}
+    1/0017  . {Devices integrating an element dedicated to
+    1/0023  . . {the element being a sensor, e.g. distance sensor,
+    1/0029  . {Spatial arrangement}
+    1/0035  . . {relative to the vehicle}
+    1/0041  . . {of several lamps in relation to each other}
+    1/0047  . . . {Signalling unit mounted on a headlamp unit}
+    1/0058  . . . {Stacked, i.e. one lamp located behind the other
+    1/0064  . {with provision for maintenance, e.g. changing the
+light bulb (swivel arrangements  B60Q 1/0425)}
+    1/007   . . {via a removable cap}
+    1/0076  . {Switches therefor (B60Q 1/1446, B60Q 1/343,
+    1/0082  . . {mounted on the steering wheel}
+    1/0088  . {Details of electrical connections (B60Q 1/305
+takes precedence; electrical connection of the light
+source itself F21S 41/192, F21S 43/195)}
+    1/0094  . . {Arrangement of electronic circuits separated
+from the light source, e.g. mounting of
+housings for starter circuits for discharge lamps
+(arrangements being part of the light source
+holder F21V 17/06, F21S 43/195)}
+    1/02    . the devices being primarily intended to illuminate
+the way ahead or to illuminate other areas of way or
+    1/04    . . the devices being headlights
+    1/0408  . . . {built into the vehicle body, e.g. details
+concerning the mounting of the headlamps on
+the vehicle body (B60Q 1/0491, B60Q 1/05
+take precedence, integrated front ends
+    1/0416  . . . . {the housing being mounted on the vehicle
+    1/0425  . . . . {the housing being swivel mounted on the
+    1/0433  . . . . {the housing being fastened onto the vehicle
+body using screws (adjustable headlamp by
+rotation of a screw B60Q 1/0683)}
+    1/0441  . . . . {the housing being fastened onto the vehicle
+body using means other than screws}
+    1/045   . . . . {with provision for adjusting the alignment
+of the headlamp housing with respect to the
+    1/0458  . . . . {the front cover being directly mounted onto
+    1/0466  . . . . {with arrangement for sealing the headlamp
+with respect to the vehicle body, or for
+concealling gaps between the headlamp and
+    1/0475  . . . . {with provisions for pre-mounting, for
+temporary holding the headlamp before or
+    1/0483  . . . {mounted on a bracket, e.g. details concerning
+the mouting of the lamps on the vehicle body}
+    1/0491  . . . {Shock absorbing devices therefor}
+Group B60Q 1/0491 is impacted by
+reclassification into group B60Q 1/0495.
+Groups B60Q 1/0491 and B60Q 1/0495
+should be considered in order to perform a
+    1/0495  . . . . {Frangible brackets}
+Group B60Q 1/0495 is incomplete
+pending reclassification of documents
+Groups B60Q 1/0491 and B60Q 1/0495
+should be considered in order to perform
+    1/06    . . . adjustable, e.g. remotely-controlled from inside
+vehicle (B60Q 1/05 takes precedence)
+    1/064   . . . . by fluid means
+    1/068   . . . . by mechanical means
+    1/0683  . . . . . {Adjustable by rotation of a screw}
+    1/0686  . . . . . . {using a position indicator mounted on
+the headlight and permanently attached
+    1/072   . . . . . comprising a flexible element, e.g. chain
+    1/076   . . . . by electrical means {including means to
+transmit the movements, e.g. shafts or joints}
+    1/08    . . . . automatically
+    1/085   . . . . . {due to special conditions, e.g.
+adverse weather, type of road, badly
+illuminated road signs or potential dangers
+(B60Q 1/10, B60Q 1/12, B60Q 1/1423
+    1/10    . . . . . due to vehicle inclination, e.g. due to load
+    1/105   . . . . . . by fluid means
+    1/11    . . . . . . by mechanical means
+    1/115   . . . . . . by electric means {(details of the
+electric drive components, e.g. motors,
+shafts, ball joints B60Q 1/076)}
+    1/12    . . . . . due to steering position
+    1/121   . . . . . . {with fluid actuating means}
+    1/122   . . . . . . {with electrical actuating means (details
+of the electric drive components, e.g.
+motors, shafts, ball joints B60Q 1/076)}
+    1/124   . . . . . . by mechanical means
+    1/14    . . . having dimming means
+    1/1407  . . . . {General lighting circuits comprising
+    1/1415  . . . . {Dimming circuits}
+    1/1423  . . . . . {Automatic dimming circuits, i.e.
+switching between high beam and low
+beam due to change of ambient light or
+    1/143   . . . . . . {combined with another condition, e.g.
+using vehicle recognition from camera
+images or activation of wipers}
+    1/1438  . . . . {Actuating means for dimming masks or
+    1/1446  . . . . {controlled by mechanically actuated
+    1/1453  . . . . . {Hand actuated switches}
+    1/1461  . . . . . . {Multifunction switches for dimming
+headlights and controlling additional
+devices, e.g. for controlling direction
+    1/1469  . . . . . . . {controlled by or attached to a single
+lever, e.g. steering column stalk
+    1/1476  . . . . . . . . {comprising switch controlling
+means located near the free end
+of the lever, e.g. press buttons,
+    1/1484  . . . . . . . {mounted on the steering wheel}
+    1/1492  . . . . . {Foot actuated switches}
+    1/16    . . . illuminating the way asymmetrically
+    1/18    . . . being additional front lights {(bracket mounted
+    1/22    . . for reverse drive
+    1/24    . . for lighting other areas than only the way ahead
+reclassification into groups B60Q 1/245,
+All groups listed in this Warning should be
+considered in order to perform a complete
+    1/245   . . . {Searchlights, e.g. adjustable from within the
+vehicle (adjustable headlights B60Q 1/06)}
+Group B60Q 1/245 is incomplete pending
+reclassification of documents from group
+Groups B60Q 1/24 and B60Q 1/245
+should be considered in order to perform a
+    1/247   . . . {for illuminating the close surroundings of
+the vehicle, e.g. to facilitate entry or exit (for
+reverse drive B60Q 1/22; by opening a side
+Group B60Q 1/247 is incomplete pending
+reclassification of documents from group
+Groups B60Q 1/24 and B60Q 1/247
+should be considered in order to perform a
+    1/249   . . . {for illuminating the field of view of a sensor
+Group B60Q 1/249 is incomplete pending
+reclassification of documents from group
+Groups B60Q 1/24 and B60Q 1/249
+should be considered in order to perform a
+    1/26    . the devices being primarily intended to indicate the
+vehicle, or parts thereof, or to give signals, to other
+    1/2603  . . {Attenuation of the light according to ambient
+luminiosity, e.g. for braking or direction
+    1/2607  . . {comprising at least two indicating lamps}
+    1/2611  . . {Indicating devices mounted on the roof of the
+    1/2615  . . {mounted on the vehicle body, e.g. with magnets}
+    1/2619  . . {built in the vehicle body}
+    1/2623  . . . {Details of the fastening means}
+    1/2626  . . . . {Screw-nut fasteners}
+    1/263   . . . . {Snap-in fasteners}
+    1/2634  . . . . {Fastening by rotating the device housing
+about its longitudinal axis, e.g. bayonet
+    1/2638  . . . {Positioning the device housing by indexing
+means separate from the fastening means, e.g.
+    1/2642  . . . {with provision for adjusting the alignment of
+the device housing with respect to the vehicle
+    1/2646  . . . . {using dowels or expansible elements}
+    1/2649  . . . {with provision for pre-mounting or temporary
+holding the device before or during final
+    1/2653  . . . {with arrangement for sealing the device with
+respect to the vehicle body, or for concealing
+gaps between the device and the vehicle body}
+    1/2657  . . {mounted on a shaft, e.g. telescopic}
+    1/2661  . . {mounted on parts having other functions (on
+    1/2665  . . . {on rear-view mirrors (lighting devices for
+vehicle interior on or for rear-view mirrors
+    1/2669  . . . {on door or boot handles (lighting devices for
+vehicle interior on door handles B60Q 3/267)}
+    1/2673  . . . {on parts worn by the driver, e.g. clothes,
+gloves or bags, specially adapted to provide
+    1/268   . . . {on windscreens or windows (B60Q 1/302
+takes precedence; lighting devices for vehicle
+interior on or for windows B60Q 3/208)}
+    1/2684  . . . {on wipers or windscreen washers}
+    1/2688  . . . {on exhaust pipes}
+    1/2692  . . {retractable lights (retractable headlights
+    1/2696  . . {Mounting of devices using LEDs}
+    1/28    . . for indicating front of vehicle
+    1/30    . . for indicating rear of vehicle, e.g. by means of
+reclassification into groups B60Q 1/301,
+B60Q 1/3015, B60Q 1/303 and B60Q 1/304.
+All groups listed in this Warning should be
+considered in order to perform a complete
+    1/301   . . . {by means of surfaces, e.g. metal plate,
+reflecting the light of an external light source}
+Groups B60Q 1/301 and B60Q 1/3015
+are incomplete pending reclassification of
+documents from group B60Q 1/30.
+Groups B60Q 1/30, B60Q 1/301 and
+B60Q 1/3015 should be considered in order
+    1/3015  . . . . {combined with a lamp}
+    1/302   . . . {mounted in the vicinity, e.g. in the middle, of
+    1/303   . . . {Rear fog lamps}
+Group B60Q 1/303 is incomplete pending
+reclassification of documents from group
+Groups B60Q 1/30 and B60Q 1/303
+should be considered in order to perform a
+    1/304   . . . {Adaptations of signalling devices having a
+part on the vehicle body and another on the
+Group B60Q 1/304 is incomplete pending
+reclassification of documents from group
+Groups B60Q 1/30 and B60Q 1/304
+should be considered in order to perform a
+    1/305   . . . {Indicating devices for towed vehicles}
+    1/307   . . . {mounted on loading platforms}
+    1/32    . . for indicating vehicle sides {, e.g. clearance
+    1/323   . . . {on or for doors (illuminated exterior door
+handles B60Q 1/2669; illuminated door locks
+Group B60Q 1/323 is impacted by
+reclassification into groups B60Q 1/324 and
+Groups B60Q 1/323, B60Q 1/324 and
+B60Q 1/325 should be considered in order
+    1/324   . . . . {for signalling that a door is open or intended
+Group B60Q 1/324 is incomplete pending
+reclassification of documents from group
+Groups B60Q 1/323 and B60Q 1/324
+should be considered in order to perform
+    1/325   . . . {on or for running boards or steps}
+Group B60Q 1/325 is incomplete pending
+reclassification of documents from group
+Groups B60Q 1/323 and B60Q 1/325
+should be considered in order to perform a
+    1/326   . . . {on or for wheels}
+    1/34    . . for indicating change of drive direction
+    1/343   . . . {Manually actuated switching arrangements
+therefor (hand actuated multifunction switches
+B60Q 1/1461; B60Q 1/40 takes precedence)}
+    1/346   . . . {with automatic actuation}
+    1/36    . . . using movable members, e.g. arms with built-in
+    1/38    . . . using immovably-mounted light sources, e.g.
+reclassification into group B60Q 1/381.
+Groups B60Q 1/38 and B60Q 1/381
+should be considered in order to perform a
+    1/381   . . . . {with several light sources activated in
+sequence, e.g. to create a sweep effect}
+Group B60Q 1/381 is incomplete pending
+reclassification of documents from group
+Groups B60Q 1/38 and B60Q 1/381
+should be considered in order to perform
+    1/382   . . . . {Electronic temporisation with
+    1/385   . . . . {Electronic temporisation with relay
+    1/387   . . . . {Mechanical temporisation}
+    1/40    . . . having {mechanical, electric or electronic}
+automatic return to inoperative position
+    1/42    . . . . {having mechanical automatic return to
+inoperative position} due to steering-wheel
+position {, e.g. with roller wheel control}
+    1/425   . . . . . {using a latching element for resetting a
+    1/44    . . for indicating braking action {or preparation for
+braking, e.g. by detection of the foot approaching
+    1/441   . . . {Electric switches operable by the driver's
+    1/442   . . . {visible on the front side of the vehicle, e.g. for
+    1/444   . . . {with indication of the braking strength or
+speed changes, e.g. by changing shape or
+intensity of the indication (B60Q 1/1407,
+B60Q 1/442, B60Q 1/447 take precedence)}
+    1/445   . . . {controlled by inertial devices}
+    1/447   . . . . {with indication of the braking strength or
+speed changes, e.g. by changing the shape or
+    1/448   . . . {specially adapted for vehicles with ABS}
+    1/46    . . for giving flashing caution signals during drive,
+other than signalling change of direction, e.g.
+flashing the headlights {or hazard lights}
+    1/48    . . for parking purposes
+    1/482   . . . {for locating vehicle in parking lot}
+    1/484   . . . {for showing outline of vehicle}
+    1/486   . . . {for indicating that vehicle is in a parked state}
+    1/488   . . . {for indicating intention to park}
+    1/50    . . for indicating other intentions or conditions, e.g.
+request for waiting or overtaking
+reclassification into groups B60Q 1/503,
+B60Q 1/5035, B60Q 1/5037, B60Q 1/507,
+B60Q 1/508, B60Q 1/509, B60Q 1/543,
+B60Q 1/544, B60Q 1/545, B60Q 1/547 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+    1/503   . . . {using luminous text or symbol displays in or
+on the vehicle, e.g. static text}
+Group B60Q 1/503 is incomplete pending
+reclassification of documents from group
+Group B60Q 1/503 is also impacted by
+reclassification into groups B60Q 1/5035
+All groups listed in this Warning should be
+considered in order to perform a complete
+    1/5035  . . . . {electronic displays}
+Groups B60Q 1/5035 and B60Q 1/5037
+are incomplete pending reclassification of
+documents from groups B60Q 1/50 and
+All groups listed in this warning should
+be considered in order to perform a
+    1/5037  . . . . . {the display content changing
+automatically, e.g. depending on traffic
+    1/506   . . . {specific to silent vehicles, e.g. for warning that
+a hybrid or electric vehicle is approaching}
+    1/507   . . . {specific to autonomous vehicles}
+Group B60Q 1/507 is incomplete pending
+reclassification of documents from group
+Groups B60Q 1/50 and B60Q 1/507
+should be considered in order to perform a
+    1/508   . . . {specific to vehicles driving in fleets or
+Group B60Q 1/508 is incomplete pending
+reclassification of documents from group
+Groups B60Q 1/50 and B60Q 1/508
+should be considered in order to perform a
+    1/509   . . . {specific to unauthorised use, e.g. for
+indicating stolen vehicles or infringements of
+Group B60Q 1/509 is incomplete pending
+reclassification of documents from group
+Groups B60Q 1/50 and B60Q 1/509
+should be considered in order to perform a
+    1/52    . . . for indicating emergencies
+    1/525   . . . {automatically indicating risk of collision
+between vehicles in traffic or with pedestrians,
+e.g. after risk assessment using the vehicle
+Group B60Q 1/525 is impacted by
+reclassification into group B60Q 1/535.
+Groups B60Q 1/525 and B60Q 1/535
+should be considered in order to perform a
+    1/535   . . . . {to prevent rear-end collisions, e.g. by
+indicating safety distance at the rear of the
+Group B60Q 1/535 is incomplete pending
+reclassification of documents from group
+Groups B60Q 1/525 and B60Q 1/535
+should be considered in order to perform
+    1/54    . . . for indicating speed {outside of the vehicle}
+    1/543   . . . {for indicating other states or conditions of the
+vehicle (indicating taxis' state of hire or fare
+Group B60Q 1/543 is incomplete pending
+reclassification of documents from group
+Groups B60Q 1/50 and B60Q 1/543
+should be considered in order to perform a
+    1/544   . . . {for indicating other states or conditions of the
+vehicle occupants, e.g. for indicating disabled
+Group B60Q 1/544 is incomplete pending
+reclassification of documents from group
+Groups B60Q 1/50 and B60Q 1/544
+should be considered in order to perform a
+    1/545   . . . {for indicating other traffic conditions, e.g. fog,
+Group B60Q 1/545 is incomplete pending
+reclassification of documents from group
+Groups B60Q 1/50 and B60Q 1/545
+should be considered in order to perform a
+    1/547   . . . {for issuing requests to other traffic
+participants; for confirming to other traffic
+participants they can proceed, e.g. they can
+Group B60Q 1/547 is incomplete pending
+reclassification of documents from group
+Groups B60Q 1/50 and B60Q 1/547
+should be considered in order to perform a
+    1/549   . . . {for expressing greetings, gratitude or
+Group B60Q 1/549 is incomplete pending
+reclassification of documents from group
+Groups B60Q 1/50 and B60Q 1/549
+should be considered in order to perform a
+    1/56    . . for illuminating registrations or the like {, e.g. for
+    3/00    Arrangement of lighting devices for vehicle
+interiors; Lighting devices specially adapted for
+    3/12    . . lighting onto the surface to be illuminated
+    3/14    . . lighting through the surface to be illuminated
+    3/16    . . Circuits; Control arrangements
+    3/18    . . . for varying the light intensity
+    3/20    . for lighting specific fittings of passenger or driving
+compartments; mounted on specific fittings of
+passenger or driving compartments (lighting for
+    3/208   . . Sun roofs; Windows
+    3/217   . . Doors, e.g. door sills; Steps
+    3/225   . . Small compartments, e.g. glove compartments
+Group B60Q 3/225 is impacted by
+reclassification into group B60Q 3/229.
+Groups B60Q 3/225 and B60Q 3/229 should
+be considered in order to perform a complete
+    3/229   . . . {Cup holders}
+Group B60Q 3/229 is incomplete pending
+reclassification of documents from group
+Groups B60Q 3/225 and B60Q 3/229
+should be considered in order to perform a
+    3/233   . . Seats; Arm rests; Head rests
+    3/242   . . Safety belts; Body harnesses
+    3/258   . . Rear-view mirrors
+    3/267   . . Door handles; Hand grips
+    3/275   . . Smoking-related fittings, e.g. cigarette lighters or
+    3/283   . . Steering wheels; Gear levers
+    3/30    . for compartments other than passenger or driving
+compartments, e.g. luggage or engine compartments
+    3/35    . . Portable lighting devices
+    3/40    . specially adapted for specific vehicle types
+    3/41    . . for mass transit vehicles, e.g. buses
+    3/43    . . . General lighting
+    3/44    . . . Spotlighting, e.g. reading lamps
+    3/46    . . . Emergency lighting, e.g. for escape routes
+    3/47    . . . Circuits; Control arrangements
+    3/49    . . for vehicles with non-fixed roofs, e.g.
+    3/50    . Mounting arrangements (for compartments other
+than passenger or driving compartments B60Q 3/30;
+specially adapted for specific vehicle types
+    3/51    . . for mounting lighting devices onto vehicle
+interior, e.g. onto ceiling or floor
+    3/53    . . . Modular mounting systems, e.g. using tracks,
+    3/54    . . Lighting devices embedded in interior trim, e.g.
+    3/56    . . Lighting devices mounted on elongate supports,
+    3/57    . . Retractable or concealable lighting devices
+    3/59    . . Lighting devices mounted in the vehicle interior
+    3/60    . characterised by optical aspects
+    3/62    . . using light guides
+    3/64    . . . for a single lighting device
+    3/66    . . . for distributing light among several lighting
+    3/68    . . using ultra-violet light
+    3/70    . characterised by the purpose
+Group B60Q 3/70 is impacted by reclassification
+into groups B60Q 3/731 and B60Q 3/735.
+Groups B60Q 3/70, B60Q 3/731 and
+B60Q 3/735 should be considered in order to
+    3/72    . . for preventing the driver from being dazzled
+    3/731   . . {for autonomous vehicle travel}
+Groups B60Q 3/731 and B60Q 3/735 are
+incomplete pending reclassification of
+documents from group B60Q 3/70.
+Groups B60Q 3/70, B60Q 3/731 and
+B60Q 3/735 should be considered in order to
+    3/735   . . . {for preventing discomfort, e.g. for preventing
+motion sickness or for anticipating motion}
+    3/74    . . for overall compartment lighting; for overall
+compartment lighting in combination with
+specific lighting, e.g. room lamps with reading
+lamps (general lighting mounted on specific
+fittings B60Q 3/20; general lighting for mass
+    3/745   . . . {using lighting panels or mats, e.g. electro-
+    3/76    . . for spotlighting, e.g. reading lamps (spotlighting
+on or for specific fittings B60Q 3/20; spotlighting
+in mass transit vehicles B60Q 3/44)
+    3/78    . . for generating luminous strips, e.g. for marking
+    3/80    . Circuits; Control arrangements (for dashboards
+B60Q 3/16; for mass transit vehicles B60Q 3/47)
+    3/82    . . Switches specially adapted for vehicle interior
+lighting, e.g. switching by tilting the lens
+    3/85    . . for manual control of the light, e.g. of colour,
+    3/88    . . Means for plugging to the electrical power supply
+of the vehicle, e.g. by using cigarette lighter
+    5/00    Arrangement or adaptation of acoustic signal
+    5/001   . {Switches therefor}
+    5/003   . . {mounted on the steering wheel}
+    5/005   . {automatically actuated}
+    5/006   . . {indicating risk of collision between vehicles or
+    5/008   . . {for signaling silent vehicles, e.g. for warning that
+a hybrid or electric vehicle is approaching}
+    7/00    Arrangement or adaptation of portable emergency
+    7/005   . {Devices without lamps}
+    7/02    . to be attached to overhanging loads or extending
+    9/00    Arrangement or adaptation of signal devices
+not provided for in one of main groups
+B60Q 1/00 - B60Q 7/00 {, e.g. haptic signalling}
+    9/001   . {Alarm devices when the motor is stopped and the
+    9/002   . {for parking purposes, e.g. for warning the driver
+that his vehicle has contacted or is about to contact
+an obstacle (warning arrangements in garages
+    9/003   . . {using physical contactors, e.g. arms that trigger
+alarm upon contact with obstacle}
+    9/004   . . {using wave sensors (radar designed for anti-
+collision purposes between land vehicles or
+between land vehicles and fixed obstacles
+    9/005   . . . {using a video camera}
+    9/006   . . . {using a distance sensor}
+    9/007   . . {providing information about the distance to an
+    9/008   . {for anti-collision purposes}
+   11/00    Arrangement of monitoring devices for devices
+provided for in groups B60Q 1/00 - B60Q 9/00
+   11/002   . {Emergency driving lights in the event of failure of
+the principal lighting circuit}
+   11/005   . {for lighting devices, e.g. indicating if lamps are
+   11/007   . . {the lighting devices indicating change of drive
+ 2200/00    Special features or arrangements of vehicle
+ 2200/30    . Special arrangements for adjusting headlamps, e.g.
+means for transmitting the movements for adjusting
+ 2200/34    . . Deformable parts, i.e. the adjustment is performed
+by bending or stretching a part
+ 2200/36    . . Conjoint adjustments, i.e. a mechanical link
+allows conjoint adjustment of several units
+ 2200/38    . . Automatic calibration of motor-driven means for
+adjusting headlamps, i.e. when switching on the
+headlamps, not during mounting at factories
+ 2300/00    Indexing codes for automatically adjustable
+headlamps or automatically dimmable headlamps
+ 2300/05    . Special features for controlling or switching of the
+ 2300/052   . . Switching delay, i.e. the beam is not switched or
+changed instantaneously upon occurrence of a
+ 2300/054   . . Variable non-standard intensity, i.e. emission of
+various beam intensities different from standard
+intensities, e.g. continuous or stepped transitions
+ 2300/056   . . Special anti-blinding beams, e.g. a standard beam
+is chopped or moved in order not to blind
+ 2300/10    . Indexing codes relating to particular vehicle
+ 2300/11    . . Linear movements of the vehicle
+ 2300/112   . . . Vehicle speed
+ 2300/114   . . . Vehicle acceleration or deceleration
+ 2300/116   . . . Vehicle at a stop
+ 2300/12    . . Steering parameters
+ 2300/122   . . . Steering angle
+ 2300/124   . . . Steering speed
+ 2300/126   . . . Hysteresis behavior based on steering
+ 2300/128   . . . Steering dead zone
+ 2300/13    . . Attitude of the vehicle body
+ 2300/14    . . Other vehicle conditions
+ 2300/142   . . . Turn signal actuation
+ 2300/144   . . . Rearward ratio actuation
+ 2300/146   . . . Abnormalities, e.g. fail-safe
+ 2300/20    . Indexing codes relating to the driver or the
+ 2300/22    . . Seat occupation
+ 2300/23    . . Driver's line of sight
+ 2300/30    . Indexing codes relating to the vehicle environment
+ 2300/305   . . Calendar date or clock time
+ 2300/31    . . Atmospheric conditions
+ 2300/312   . . . Adverse weather
+ 2300/314   . . . Ambient light
+ 2300/32    . . Road surface or travel path
+ 2300/322   . . . Road curvature
+ 2300/324   . . . Road inclination, e.g. uphill or downhill
+ 2300/33    . . Driving situation
+ 2300/331   . . . characterised by the driving side, e.g. on the
+ 2300/332   . . . on city roads
+ 2300/3321  . . . . Detection of streetlights
+ 2300/333   . . . on suburban or country roads
+ 2300/335   . . . Number or size of road lanes
+ 2300/337   . . . Tunnels or bridges
+ 2300/40    . Indexing codes relating to other road users or
+ 2300/41    . . preceding vehicle
+ 2300/42    . . oncoming vehicle
+ 2300/43    . . following vehicle
+ 2300/45    . . Special conditions, e.g. pedestrians, road signs or
+ 2300/47    . . Direct command from other road users, i.e. the
+command for switching or changing the beam is
+sent by other vehicles or road devices
+ 2400/00    Special features or arrangements of exterior signal
+Group B60Q 2400/00 is impacted by
+reclassification into groups B60Q 2400/10 and
+Groups B60Q 2400/00, B60Q 2400/10 and
+B60Q 2400/50 should be considered in order to
+ 2400/10    . Electro- or photo- luminescent surfaces, e.g.
+signalling by way of electroluminescent strips or
+Group B60Q 2400/10 is incomplete pending
+reclassification of documents from group
+Groups B60Q 2400/00 and B60Q 2400/10
+should be considered in order to perform a
+ 2400/20    . Multi-color single source or LED matrix, e.g.
+yellow blinker and red brake lamp generated by
+ 2400/30    . Daytime running lights [DRL], e.g. circuits or
+ 2400/40    . Welcome lights, i.e. specific or existing exterior
+lamps to assist leaving or approaching the vehicle
+ 2400/50    . Projected symbol or information, e.g. onto the road
+Group B60Q 2400/50 is incomplete pending
+reclassification of documents from group
+Groups B60Q 2400/00 and B60Q 2400/50
+should be considered in order to perform a
+ 2500/00    Special features or arrangements of vehicle
+Group B60Q 2500/00 is impacted by
+reclassification into group B60Q 2500/30.
+Groups B60Q 2500/00 and B60Q 2500/30 should
+be considered in order to perform a complete
+ 2500/20    . associated with air conditioning arrangements
+ 2500/30    . Arrangements for illuminating different zones in the
+vehicle, e.g. front/rear, different seats
+Group B60Q 2500/30 is incomplete pending
+reclassification of documents from group
+Groups B60Q 2500/00 and B60Q 2500/30
+should be considered in order to perform a
+ 2800/00    Features related to particular types of vehicles not
+ 2800/10    . Autonomous vehicles
+ 2800/20    . Utility vehicles, e.g. for agriculture, construction
+ 2800/30    . Mass transport vehicles
+ 2900/00    Features of lamps not covered by other groups in
+Group B60Q 2900/00 is impacted by
+reclassification into groups B60Q 2900/40 and
+Groups B60Q 2900/00, B60Q 2900/40 and
+B60Q 2900/50 should be considered in order to
+ 2900/10    . Retrofit arrangements
+ 2900/20    . Arrangements for easy recycling, e.g. for easy
+dismantling or use of special materials
+ 2900/30    . Lamps commanded by wireless transmissions
+ 2900/40    . Several lamps activated in sequence, e.g. sweep
+Group B60Q 2900/40 is incomplete pending
+reclassification of documents from group
+Groups B60Q 2900/00 and B60Q 2900/40
+should be considered in order to perform a
+ 2900/50    . Arrangements to reconfigure features of lighting or
+signalling devices, or to choose from a list of pre-
+Group B60Q 2900/50 is incomplete pending
+reclassification of documents from group
+Groups B60Q 2900/00 and B60Q 2900/50
+should be considered in order to perform a

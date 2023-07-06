@@ -1,0 +1,136 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+COMBUSTION ENGINES; HOT-GAS OR COMBUSTION-PRODUCT ENGINE
+HOT GAS OR COMBUSTION-PRODUCT POSITIVE-DISPLACEMENT ENGINE
+PLANTS (steam engine plants, special vapour plants, plants operating on either hot gas
+or combustion-product gases together with other fluid F01K; gas-turbine plants F02C; jet-
+propulsion plants F02K); USE OF WASTE HEAT OF COMBUSTION ENGINES; NOT
+Attention is drawn to the notes preceding class F01.
+    1/00    Hot gas positive-displacement engine plants
+    1/02    . of open-cycle type
+    1/04    . of closed-cycle type
+    1/043   . . the engine being operated by expansion and
+contraction of a mass of working gas which
+is heated and cooled in one of a plurality of
+constantly communicating expansible chambers,
+e.g. Stirling cycle type engines
+    1/0435  . . . {the engine being of the free piston type}
+    1/044   . . . having at least two working members, e.g.
+pistons, delivering power output
+    1/0445  . . . . {Engine plants with combined cycles, e.g.
+    1/047   . . . . by varying the heating or cooling
+    1/05    . . . . by varying the rate of flow or quantity of the
+    1/053   . . . Component parts or details
+    1/0535  . . . . {Seals or sealing arrangements}
+    1/055   . . . . Heaters or coolers
+    1/057   . . . . Regenerators
+    3/00    Combustion-product positive-displacement engine
+    3/02    . with reciprocating-piston engines
+    5/00    Profiting from waste heat of combustion engines,
+    5/02    . Profiting from waste heat of exhaust gases
+    5/04    . . in combination with other waste heat from
+ 2242/00    Ericsson-type engines having open regenerative
+ 2242/02    . Displacer-type engines
+ 2242/04    . . having constant working volume
+ 2242/06    . . . with external drive displacers
+ 2242/08    . . . . having gas actuated valves, e.g. "Bush
+ 2242/10    . . . . having mechanically actuated valves, e.g.
+ 2242/30    . . having variable working volume
+ 2242/32    . . . Regenerative displacers with independent
+ 2242/40    . Piston-type engines
+ 2242/42    . . having a single piston regenerative displacer
+attached to the piston, e.g. "Gifford-McMahon"
+ 2242/44    . . having two pistons and reverse flow regenerators
+ 2243/00    Stirling type engines having closed regenerative
+thermodynamic cycles with flow controlled by
+ 2243/02    . having pistons and displacers in the same cylinder
+ 2243/04    . . Crank-connecting-rod drives
+ 2243/06    . . . Regenerative displacers
+ 2243/08    . . . External regenerators, e.g. "Rankine Napier"
+ 2243/20    . . each having a single free piston, e.g. "Beale
+ 2243/206   . . . externally excited
+ 2243/22    . . with oscillating cylinders
+ 2243/24    . . with free displacers
+ 2243/30    . having their pistons and displacers each in separate
+cylinders (two-piston machines F02G 2244/00)
+ 2243/32    . . Regenerative displacers having parallel cylinder,
+e.g. "Lauberau" or "Schwartzkopff" engines
+ 2243/34    . . Regenerative displacers having their cylinders at
+right angle, e.g. "Robinson" engines
+ 2243/36    . . with twin-expansion cylinders, e.g. "Rainbow"
+ 2243/38    . . External regenerators having parallel cylinders,
+ 2243/40    . . with free displacers
+ 2243/50    . . having resonance tubes
+ 2243/54    . . . thermo-acoustic
+ 2244/00    Machines having two pistons
+ 2244/02    . Single-acting two piston engines
+ 2244/04    . . of rotary cylinder type, e.g. "Finkelstein" engines
+ 2244/06    . . of stationary cylinder type
+ 2244/08    . . . having parallel cylinder, e.g. "Rider" engines
+ 2244/10    . . . having cylinders in V-arrangement
+ 2244/12    . . . having opposed pistons
+ 2244/50    . Double acting piston machines
+ 2244/52    . . having interconnecting adjacent cylinders
+constituting a single system, e.g. "Rinia" engines
+ 2244/54    . . having two-cylinder twin systems, with
+compression in one cylinder and expansion in the
+other cylinder for each of the twin systems, e.g.
+ 2250/00    Special cycles or special engines
+ 2250/06    . Beau de Rochas constant volume cycles
+ 2250/09    . Carnot cycles in general
+ 2250/12    . Malone liquid thermal cycles
+ 2250/15    . Sabathe mixed air cycles
+ 2250/18    . Vuilleumier cycles
+ 2250/21    . Cooke Yarborough engines
+ 2250/24    . Ringbom engines, the displacement of the free
+displacer being obtained by expansion of the heated
+gas and the weight of the piston
+ 2250/27    . Martini Stirling engines
+ 2250/31    . Nano- or microengines
+ 2253/01    . Rotary piston seals
+ 2253/02    . Reciprocating piston seals
+ 2253/08    . Stem with rolling membranes
+ 2253/10    . Piston with rolling membranes
+ 2253/60    . Sealing of the lubrication circuit
+ 2253/80    . Sealing of the crankcase
+ 2254/11    . . Catalytic burners
+ 2254/18    . using deflectors, e.g. spirals
+ 2254/20    . using heat transfer tubes
+ 2254/30    . using solar radiation
+ 2254/40    . using heat accumulators
+ 2254/45    . by electric heating
+ 2254/50    . Dome arrangements for heat input
+ 2254/60    . using air preheaters
+ 2254/70    . by catalytic conversion, i.e. flameless oxydation
+ 2256/50    . with coolant circulation
+ 2258/20    . having heat insulating properties
+ 2258/50    . having frictional properties
+ 2258/80    . having magnetic properties
+ 2258/90    . Processing of materials
+ 2260/00    Recuperating heat from exhaust gases of
+combustion engines and heat from cooling circuits
+ 2262/00    Recuperating heat from exhaust gases of
+combustion engines and heat from lubrication
+ 2270/00    Constructional features
+ 2270/005   . Shells, e.g. a sealed or sealing shell for a Stirling
+ 2270/02    . Pistons for reciprocating and rotating
+ 2270/04    . Roller assemblies connecting opposed pistons
+ 2270/15    . Rotating cylinders
+ 2270/20    . Plural piston swash plates
+ 2270/30    . Displacer assemblies
+ 2270/40    . Piston assemblies
+ 2270/425   . . the displacer being driven by a four-bar
+mechanism, e.g. a rhombic mechanism
+ 2270/50    . Crosshead guiding pistons
+ 2270/60    . Counterweights for pistons
+ 2270/80    . Engines without crankshafts
+ 2270/95    . Pressurised crankcases
+ 2275/10    . for vibration reduction
+ 2275/20    . for preventing piston over stroke
+ 2275/30    . for proper burning
+ 2280/005   . Medical applications, e.g. for prosthesis or artificial
+ 2280/10    . Linear generators
+ 2280/20    . Rotary generators
+ 2280/50    . Compressors or pumps
+ 2290/00    Engines characterised by the use of a particular
+power transfer medium, e.g. Helium

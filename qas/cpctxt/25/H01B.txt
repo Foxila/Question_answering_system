@@ -1,0 +1,569 @@
+COOPERATIVE PATENT CLASSIFICATION
+CABLES; CONDUCTORS; INSULATORS; SELECTION OF MATERIALS FOR THEIR
+CONDUCTIVE, INSULATING OR DIELECTRIC PROPERTIES (selection for magnetic
+properties H01F 1/00; waveguides H01P {; printed circuits H05K})
+Group H01B 12/00 takes precedence over groups H01B 5/00 - H01B 11/00.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Conductors or conductive bodies characterised by
+the conductive materials; Selection of materials as
+Groups H01B 1/14 - H01B 1/24 take precedence
+over groups H01B 1/02 - H01B 1/12
+    1/02    . mainly consisting of metals or alloys
+    1/023   . . {Alloys based on aluminium}
+    1/026   . . {Alloys based on copper}
+    1/04    . mainly consisting of carbon-silicon compounds,
+    1/06    . mainly consisting of other non-metallic substances
+    1/12    . . organic substances {(organic macromolecular
+compounds or compositions C08)}
+    1/121   . . . {Charge-transfer complexes}
+    1/122   . . . {Ionic conductors}
+    1/124   . . . {Intrinsically conductive polymers}
+    1/125   . . . . {comprising aliphatic main chains, e.g.
+    1/127   . . . . {comprising five-membered aromatic
+rings in the main chain, e.g. polypyrroles,
+    1/128   . . . . {comprising six-membered aromatic
+rings in the main chain, e.g. polyanilines,
+    1/14    . Conductive material dispersed in non-conductive
+    1/16    . . the conductive material comprising metals or
+    1/18    . . the conductive material comprising carbon-silicon
+    1/20    . Conductive material dispersed in non-conductive
+organic material {(organic macromolecular
+compounds or compositions C08)}
+    1/22    . . the conductive material comprising metals or
+    1/24    . . the conductive material comprising carbon-silicon
+    3/00    Insulators or insulating bodies characterised by
+the insulating materials; Selection of materials for
+their insulating or dielectric properties
+    3/002   . {Inhomogeneous material in general}
+    3/004   . . {with conductive additives or conductive layers}
+    3/006   . . {Other inhomogeneous material}
+    3/008   . {Other insulating material}
+    3/02    . mainly consisting of inorganic substances
+    3/025   . . {Other inorganic material}
+    3/065   . . . {Wires with asbestos}
+    3/08    . . quartz; glass; glass wool; slag wool; vitreous
+    3/081   . . . {Wires with vitreous enamels}
+    3/082   . . . {Wires with glass or glass wool}
+    3/084   . . . {Glass or glass wool in binder}
+    3/085   . . . {Particles bound with glass}
+    3/087   . . . {Chemical composition of glass}
+    3/088   . . . {Shaping of glass or deposition of glass}
+    3/10    . . metallic oxides (ceramics H01B 3/12)
+    3/105   . . . {Wires with oxides}
+    3/18    . mainly consisting of organic substances {(organic
+macromolecular compounds or compositions C08)}
+    3/185   . . {Substances or derivates of cellulose}
+    3/20    . . liquids, e.g. oils (silicone oils H01B 3/46)
+    3/24    . . . containing halogen in the molecules, e.g.
+    3/26    . . asphalts; bitumens; pitches
+    3/28    . . natural or synthetic rubbers
+    3/30    . . plastics; resins; waxes
+Group H01B 3/47 takes precedence over
+    3/301   . . . {Macromolecular compounds obtained by
+reactions forming a linkage containing sulfur
+with or without nitrogen, oxygen or carbon
+in the main chain of the macromolecule, not
+provided for in group H01B 3/302}
+    3/302   . . . {Polyurethanes or polythiourethanes; Polyurea
+    3/303   . . . {Macromolecular compounds obtained by
+reactions forming a linkage containing nitrogen
+with or without oxygen or carbon in the main
+chain of the macromolecule, not provided for in
+groups H01B 3/38 or H01B 3/302}
+    3/305   . . . . {Polyamides or polyesteramides}
+    3/306   . . . . {Polyimides or polyesterimides}
+    3/307   . . . {Other macromolecular compounds}
+    3/308   . . . {Wires with resins}
+    3/32    . . . natural resins
+    3/34    . . . Waxes (silicone waxes H01B 3/46)
+    3/36    . . . condensation products of phenols with
+    3/38    . . . condensation products of aldehydes with
+    3/42    . . . polyesters; polyethers; polyacetals
+    3/421   . . . . {Polyesters}
+    3/422   . . . . . {Linear saturated polyesters derived
+from dicarboxylic acids and dihydroxy
+    3/423   . . . . . . {Linear aromatic polyesters}
+    3/425   . . . . . {Non-saturated polyesters derived from
+polycarboxylic acids and polyhydroxy
+compounds, in which at least one of
+the two components contains aliphatic
+    3/426   . . . . . {Polycarbonates}
+    3/427   . . . . {Polyethers}
+    3/428   . . . . {Polyacetals}
+    3/44    . . . vinyl resins; acrylic resins (silicones
+    3/441   . . . . {from alkenes}
+    3/442   . . . . {from aromatic vinyl compounds}
+    3/443   . . . . {from vinylhalogenides or other
+    3/445   . . . . . {from vinylfluorides or other
+    3/446   . . . . {from vinylacetals}
+    3/447   . . . . {from acrylic compounds}
+    3/448   . . . . {from other vinyl compounds}
+    3/465   . . . . {Silicone oils}
+    3/47    . . . fibre-reinforced plastics, e.g. glass-reinforced
+    3/48    . . fibrous materials (fibre-reinforced plastics
+    3/485   . . . {Other fibrous materials fabric}
+    3/52    . . . wood; paper; press board
+    3/54    . . . hard paper; hard fabrics
+    3/545   . . . . {Hard fabrics}
+    5/00    Non-insulated conductors or conductive bodies
+    5/002   . {Auxiliary arrangements}
+    5/004   . . {for protection against corona}
+    5/006   . . {for protection against vibrations}
+    5/008   . {Fence-wire not otherwise provided for (wire
+    5/02    . Single bars, rods, wires, or strips
+    5/04    . . wound or coiled
+    5/08    . Several wires or the like stranded in the form of a
+    5/10    . . stranded around a space, insulating material, or
+    5/101   . . . {stranded around a space}
+    5/102   . . . {stranded around a high tensile strength core}
+    5/104   . . . . {composed of metallic wires, e.g. steel
+    5/105   . . . . {composed of synthetic filaments, e.g. glass-
+    5/107   . . . {stranded around a core supporting radial
+stresses, e.g. a tube, a wire helix}
+    5/108   . . . {stranded around communication or control
+    5/12    . Braided wires or the like
+    5/14    . comprising conductive layers or films on insulating-
+    5/16    . comprising conductive material in insulating or
+poorly conductive material, e.g. conductive rubber
+(H01B 1/14, H01B 1/20 take precedence; insulating
+bodies with conductive admixtures H01B 17/64;
+    7/00    Insulated conductors or cables characterised by
+    7/0009  . {Details relating to the conductive cores}
+    7/0018  . . {Strip or foil conductors (H01B 7/08 takes
+    7/0027  . . {Liquid conductors}
+    7/0036  . . {Alkali metal conductors}
+    7/0045  . {Cable-harnesses}
+    7/0054  . {Cables with incorporated electric resistances}
+    7/0063  . {Ignition cables}
+    7/0072  . {Electrical cables comprising fluid supply
+    7/0081  . {Cables of rigid construction (rigid-tube cables
+    7/009   . {Cables with built-in connecting points or with
+predetermined areas for making deviations}
+    7/02    . Disposition of insulation
+    7/0208  . . {Cables with several layers of insulating
+    7/0225  . . . {Three or more layers}
+    7/0233  . . {Cables with a predominant gas dielectric}
+    7/0241  . . {comprising one or more helical wrapped layers
+    7/025   . . . {comprising in addition one or more other
+layers of non-helical wrapped insulation}
+    7/0258  . . {comprising one or more longitudinal lapped
+    7/0266  . . {comprising one or more braided layers of
+    7/0275  . . {comprising one or more extruded layers of
+    7/0283  . . . {comprising in addition one or more other
+layers of non-extruded insulation}
+    7/0291  . . {comprising two or more layers of insulation
+having different electrical properties}
+    7/04    . Flexible cables, conductors, or cords, e.g. trailing
+    7/041   . . {attached to mobile objects, e.g. portable tools,
+elevators, mining equipment, hoisting cables}
+    7/043   . . {attached to flying objects, e.g. aircraft towline,
+cables connecting an aerodyne to the ground}
+    7/045   . . {attached to marine objects, e.g. buoys, diving
+equipment, aquatic probes, marine towline}
+    7/046   . . {attached to objects sunk in bore holes, e.g. well
+    7/048   . . {for implantation into a human or animal body,
+    7/06    . Extensible conductors or cables, e.g. self-coiling
+    7/065   . . {having the shape of an helix}
+    7/08    . Flat or ribbon cables
+    7/0807  . . {Twin conductor or cable}
+    7/0815  . . {covered with gluten for wall-fixing}
+    7/0823  . . {Parallel wires, incorporated in a flat insulating
+    7/083   . . {Parallel wires, incorporated in a fabric}
+    7/0838  . . {Parallel wires, sandwiched between two
+    7/0846  . . {Parallel wires, fixed upon a support layer}
+    7/0853  . . {Juxtaposed parallel wires, fixed to each other
+    7/0861  . . {comprising one or more screens}
+    7/0869  . . {comprising one or more armouring, tensile- or
+compression-resistant elements}
+    7/0876  . . {comprising twisted pairs}
+    7/0884  . . {comprising connection wire loops}
+    7/0892  . . {incorporated in a cable of non-flat
+    7/10    . Contact cables, i.e. having conductors which may be
+brought into contact by distortion of the cable
+    7/102   . . {responsive to heat}
+    7/104   . . {responsive to pressure}
+    7/106   . . . {comprising concentric conductors}
+    7/108   . . . {comprising parallel conductors}
+    7/145   . . {associated with hydrodynamic bodies}
+    7/16    . Rigid-tube cables
+    7/17    . Protection against damage caused by external
+factors, e.g. sheaths or armouring
+    7/18    . . {Protection against damage caused} by wear,
+mechanical force or pressure; {Sheaths;
+    7/1805  . . . {Protections not provided for in groups
+    7/181   . . . . {composed of beads or rings}
+    7/1815  . . . . {composed of longitudinal inserts}
+    7/182   . . . {comprising synthetic filaments}
+    7/1825  . . . . {forming part of a high tensile strength core}
+    7/183   . . . . {forming part of an outer sheath}
+    7/1835  . . . {Sheaths comprising abrasive charges}
+    7/184   . . . {Sheaths comprising grooves, ribs or other
+    7/1845  . . . {Sheaths comprising perforations}
+    7/185   . . . {Sheaths comprising internal cavities or
+    7/1855  . . . {Sheaths comprising helical wrapped non-
+    7/186   . . . {Sheaths comprising longitudinal lapped non-
+    7/1865  . . . {Sheaths comprising braided non-metallic
+    7/187   . . . {Sheaths comprising extruded non-metallic
+    7/1875  . . . {Multi-layer sheaths}
+    7/188   . . . . {Inter-layer adherence promoting means}
+    7/1885  . . . . {Inter-layer adherence preventing means}
+    7/189   . . . {Radial force absorbing layers providing
+a cushioning effect (H01B 7/185 takes
+    7/1895  . . . {Internal space filling-up means}
+    7/20    . . . Metal tubes, e.g. lead sheaths
+    7/201   . . . . {Extruded metal tubes}
+    7/202   . . . . {Longitudinal lapped metal tubes}
+    7/204   . . . . {composed of lead}
+    7/205   . . . . {composed of aluminium}
+    7/207   . . . . {composed of iron or steel}
+    7/208   . . . . {composed of composite laminated metals}
+    7/22    . . . Metal wires or tapes, e.g. made of steel
+    7/221   . . . . {Longitudinally placed metal wires or tapes}
+    7/223   . . . . . {forming part of a high tensile strength
+    7/225   . . . . . {forming part of an outer sheath}
+    7/226   . . . . {Helicoidally wound metal wires or tapes}
+    7/228   . . . . {Metal braid}
+    7/24    . . . Devices affording localised protection against
+    7/26    . . . Reduction of losses in sheaths or armouring
+    7/28    . . {Protection against damage caused} by moisture,
+corrosion, chemical attack or weather
+    7/2806  . . . {Protection against damage caused by
+    7/2813  . . . {Protection against damage caused by
+electrical, chemical or water tree deterioration}
+    7/282   . . . Preventing penetration of fluid {, e.g. water or
+humidity,} into conductor or cable
+    7/2825  . . . . {using a water impermeable sheath}
+    7/285   . . . . by completely or partially filling interstices
+    7/2855  . . . . . {using foamed plastic}
+    7/288   . . . . . using hygroscopic material or material
+swelling in the presence of liquid
+    7/29    . . Protection against damage caused by extremes
+of temperature or by flame {(heat dissipation or
+    7/292   . . . {using material resistant to heat}
+    7/295   . . . using material resistant to flame
+    7/30    . with arrangements for reducing conductor losses
+when carrying alternating current, e.g. due to skin
+    7/303   . . {Conductors comprising interwire insulation}
+    7/306   . . {Transposed conductors}
+    7/32    . with arrangements for indicating defects, e.g. breaks
+    7/322   . . {comprising humidity sensing means}
+    7/324   . . {comprising temperature sensing means}
+    7/326   . . {comprising pressure sensing means}
+    7/328   . . {comprising violation sensing means}
+    7/36    . with distinguishing or length marks
+    7/361   . . {being the colour of the insulation or conductor}
+    7/363   . . {being the form of the insulation or conductor}
+    7/365   . . {being indicia imposed on the insulation or
+    7/366   . . {being a tape, thread or wire extending the full
+length of the conductor or cable}
+    7/368   . . {being a sleeve, ferrule, tag, clip, label or short
+    7/38    . with arrangements for facilitating removal of
+    7/385   . . {comprising a rip cord or wire}
+    7/40    . with arrangements for facilitating mounting or
+    7/42    . with arrangements for heat dissipation or
+    7/421   . . {for heat dissipation}
+    7/423   . . . {using a cooling fluid}
+    7/425   . . . . {the construction being bendable}
+    7/426   . . . {using cooling fins, ribs}
+    7/428   . . {Heat conduction}
+    9/001   . {Power supply cables for the electrodes of electric-
+welding apparatus or electric-arc furnaces}
+    9/003   . {including electrical control or communication
+    9/005   . {including optical transmission elements}
+    9/006   . {Constructional features relating to the conductors}
+    9/008   . {for overhead application}
+    9/02    . with screens or conductive layers, e.g. for avoiding
+    9/021   . . {Features relating to screening tape per se}
+    9/022   . . {composed of longitudinal lapped tape-
+    9/023   . . {composed of helicoidally wound tape-
+    9/024   . . {composed of braided metal wire}
+    9/025   . . {composed of helicoidally wound wire-
+    9/026   . . {composed of longitudinally posed wire-
+    9/027   . . {composed of semi-conducting layers}
+    9/028   . . {with screen grounding means, e.g. drain wires}
+    9/029   . . {Screen interconnecting circuits}
+    9/04    . Concentric cables
+    9/06    . Gas-pressure cables; Oil-pressure cables; Cables for
+use in conduits under fluid pressure
+    9/0605  . . {Gas-pressure cables with enclosed conduits}
+    9/0611  . . {Oil-pressure cables}
+    9/0616  . . {Oil-pressure cables with enclosed conduits}
+    9/0622  . . {Cables for use in conduits under gas-pressure}
+    9/0627  . . {Cables for use in conduits under oil-pressure}
+    9/0633  . . {Expansion-absorbing apparatus, enclosed within
+    9/0638  . . {Features relating to the conductors of gas-
+    9/0644  . . {Features relating to the dielectric of gas-pressure
+    9/065   . . . {Tubular insulation}
+    9/0655  . . . {Helically wrapped insulation}
+    9/0661  . . . {Longitudinally wrapped insulation}
+    9/0666  . . . {Discontinuous insulation}
+    9/0672  . . . . {having the shape of a disc}
+    9/0677  . . {Features relating to the enclosing sheath of gas-
+    9/0683  . . {Features relating to the conductors of oil-
+    9/0688  . . {Features relating to the dielectric of oil-pressure
+    9/0694  . . {Features relating to the enclosing sheath of oil-
+   11/00    Communication cables or conductors
+   11/002   . {Pair constructions}
+   11/005   . {Quad constructions}
+   11/007   . {for overhead application}
+   11/02    . Cables with twisted pairs or quads
+   11/04    . . with pairs or quads mutually positioned to reduce
+   11/06    . . with means for reducing effects of
+electromagnetic or electrostatic disturbances, e.g.
+   11/08    . . . Screens specially adapted for reducing cross-
+   11/085   . . . . {composed of longitudinal tape conductors}
+   11/10    . . . Screens specially adapted for reducing
+interference from external sources
+   11/1008  . . . . {Features relating to screening tape per se}
+   11/1016  . . . . {composed of a longitudinal lapped tape-
+   11/1025  . . . . {composed of a helicoidally wound tape-
+   11/1033  . . . . {composed of a wire-braided conductor}
+   11/1041  . . . . {composed of a helicoidally wound wire-
+   11/105   . . . . {composed of a longitudinally posed wire-
+   11/1058  . . . . {using a coating, e.g. a loaded polymer, ink
+   11/1066  . . . . . {the coating containing conductive or
+   11/1075  . . . . . . {the coating being applied by printing}
+   11/1083  . . . . . {the coating containing magnetic material}
+   11/1091  . . . . {with screen grounding means, e.g. drain
+   11/12    . . Arrangements for exhibiting specific transmission
+   11/125   . . . {Specially adapted cable interconnections}
+   11/14    . . . Continuously inductively loaded cables, e.g.
+   11/143   . . . . {using helically wound magnetic tape}
+   11/146   . . . . {using magnetically loaded coatings}
+   11/16    . . . Cables, e.g. submarine cables, with coils
+or other devices incorporated during cable
+   11/18    . Coaxial cables; Analogous cables having more
+than one inner conductor within a common outer
+If suitable for handling frequencies considerably
+beyond the audio range and if typical HF-
+features of coaxial cables are disclosed, e.g.
+propagation of non-TEM modes, multimoding,
+oversized coaxial cables, particular cross-section
+adapted for HF-propagation, classification is
+   11/1804  . . {Construction of the space inside the hollow inner
+   11/1808  . . {Construction of the conductors}
+   11/1813  . . . {Co-axial cables with at least one braided
+   11/1817  . . . {Co-axial cables with at least one metal deposit
+   11/1821  . . . {Co-axial cables with at least one wire-wound
+   11/1826  . . . {Co-axial cables with at least one longitudinal
+   11/183   . . . {Co-axial cables with at least one helicoidally
+   11/1834  . . {Construction of the insulation between the
+   11/1839  . . . {of cellular structure}
+   11/1843  . . . {of tubular structure}
+   11/1847  . . . {of helical wrapped structure}
+   11/1852  . . . {of longitudinal lapped structure}
+   11/1856  . . . {Discontinuous insulation}
+   11/186   . . . . {having the shape of a disc}
+   11/1865  . . . . {having the shape of a bead}
+   11/1869  . . {Construction of the layers on the outer side of
+   11/1873  . . {Measures for the conductors, in order to fix the
+   11/1878  . . {Special measures in order to improve the
+   11/1882  . . {Special measures in order to improve the
+   11/1886  . . {Special measures in order to improve the
+centration of the inner conductor}
+   11/1891  . . {comprising auxiliary conductors}
+   11/1895  . . {Particular features or applications}
+   11/20    . . Cables having a multiplicity of coaxial lines
+   11/203   . . . {forming a flat arrangement}
+   11/206   . . . {Tri-conductor coaxial cables}
+   11/22    . Cables including at least one electrical conductor
+   12/00    Superconductive or hyperconductive conductors,
+   12/02    . characterised by their form
+Group H01B 12/12 takes precedence over groups
+   12/06    . . Films or wires on bases or cores
+   12/08    . . Stranded or braided wires
+   12/10    . . Multi-filaments embedded in normal conductors
+   12/12    . . Hollow conductors
+   12/14    . characterised by the disposition of thermal
+   12/16    . characterised by cooling
+   13/00    Apparatus or processes specially adapted for
+manufacturing conductors or cables
+   13/0003  . {for feeding conductors or cables}
+   13/0006  . {for reducing the size of conductors or cables}
+   13/0009  . {for forming corrugations on conductors or cables}
+   13/0013  . {for embedding wires in plastic layers}
+   13/0016  . {for heat treatment}
+   13/002   . . {for heat extraction}
+   13/0023  . {for welding together plastic insulated wires side-
+   13/0026  . {Apparatus for manufacturing conducting or semi-
+conducting layers, e.g. deposition of metal}
+   13/003   . {using irradiation}
+   13/0033  . {by electrostatic coating}
+   13/004   . for manufacturing rigid-tube cables
+   13/008   . for manufacturing extensible conductors or cables
+   13/012   . for manufacturing wire harnesses
+   13/01218 . . {the wires being disposed by hand}
+   13/01227 . . . {using a layout board}
+   13/01236 . . {the wires being disposed by machine}
+   13/01245 . . . {using a layout board}
+   13/01254 . . {Flat-harness manufacturing}
+   13/01263 . . {Tying, wrapping, binding, lacing, strapping or
+   13/01272 . . . {Harness tying apparatus}
+   13/01281 . . . {Harness wrapping apparatus}
+   13/0129  . . . {Sheathing harnesses with foil material}
+   13/016   . for manufacturing co-axial cables (applying
+discontinuous insulation H01B 13/20)
+   13/0162  . . {of the central conductor}
+   13/0165  . . {of the layers outside the outer conductor}
+   13/0167  . . {After-treatment}
+   13/0207  . . {Details; Auxiliary devices}
+   13/0214  . . {by a twisting pay-off device}
+   13/0221  . . {by a twisting take-up device}
+   13/0228  . . {by a twisting pay-off and take-up device}
+   13/0235  . . {by a twisting device situated between a pay-off
+   13/0242  . . . {being an accumulator}
+   13/025   . . . . {of tubular construction}
+   13/0257  . . . {being a perforated disc}
+   13/0264  . . . {being rollers, pulleys, drums or belts
+(H01B 13/0242 takes precedence)}
+   13/0271  . . {Alternate stranding processes}
+   13/0278  . . {Stranding machines comprising a transposing
+   13/0292  . . {After-treatment}
+   13/04    . . Mutually positioning pairs or quads to reduce
+   13/06    . Insulating conductors or cables (H01B 13/32 takes
+   13/062   . . {by pulling on an insulating sleeve}
+   13/065   . . {Insulating conductors with lacquers or enamels}
+   13/067   . . {Insulating coaxial cables (H01B 13/20 takes
+   13/0808  . . . {Hand-held devices}
+   13/0816  . . . {Apparatus having a coaxial rotation of the
+supply reels about the conductor or cable}
+   13/0825  . . . {Apparatus having a planetary rotation of the
+supply reels around the conductor or cable}
+   13/0833  . . . . {the supply reel axis being arranged parallel
+to the conductor or cable axis}
+   13/0841  . . . . {the supply reel axis being arranged
+perpendicular to the conductor or cable axis}
+   13/085   . . . {Apparatus having the supply reels in a fixed
+position, the conductor or cable rotating about
+   13/0858  . . . {Details of winding apparatus; Auxiliary
+   13/0866  . . . . {Brakes or tension regulating means}
+   13/0875  . . . . {Detecting breakage or run-out of winding
+   13/0883  . . . {Pretreatment}
+   13/0891  . . . {After-treatment}
+   13/10    . . by longitudinal lapping
+   13/103   . . . {combined with pressing of plastic material
+   13/106   . . . {the conductor having a rectangular cross-
+   13/12    . . by applying loose fibres
+   13/14    . . by extrusion {(extrusion in general B29C 48/00)}
+   13/141   . . . {of two or more insulating layers}
+   13/142   . . . {of cellular material}
+   13/143   . . . {with a special opening of the extrusion head}
+   13/144   . . . . {Heads for simultaneous extrusion on two or
+   13/145   . . . {Pretreatment or after-treatment}
+   13/146   . . . {Controlling the extrusion apparatus dependent
+on the capacitance or the thickness of the
+insulating material (measuring thickness G01B;
+testing during manufacturing G01R 31/59)}
+   13/147   . . . {Feeding of the insulating material}
+   13/148   . . . {Selection of the insulating material therefor}
+   13/16    . . by passing through or dipping in a liquid bath; by
+   13/165   . . . {by spraying}
+   13/18    . . Applying discontinuous insulation, e.g. discs,
+   13/185   . . . {by periodically constricting an insulating
+   13/20    . . . for concentric or coaxial cables
+   13/202   . . . . {by molding spacers}
+   13/204   . . . . {by punching spacers}
+   13/206   . . . . {by forming a helical web}
+   13/208   . . . . {by mechanically removing parts of a
+   13/22    . Sheathing; Armouring; Screening; Applying other
+protective layers (H01B 13/32 takes precedence)
+   13/221   . . {filling-up interstices}
+   13/222   . . {by electro-plating}
+   13/224   . . {by drawing a cable core into an oversized tube
+   13/225   . . {Screening coaxial cables}
+   13/228   . . {After-treatment}
+   13/24    . . by extrusion {(extrusion of cables with plastic
+material in general B29C 48/15)}
+   13/245   . . . {of metal layers}
+   13/26    . . by winding, braiding or longitudinal lapping
+   13/2606  . . . {by braiding}
+   13/2613  . . . {by longitudinal lapping}
+   13/262   . . . . {of an outer metallic screen}
+   13/2626  . . . . {of a coaxial cable outer conductor}
+   13/2633  . . . . {Bending and welding of a metallic screen}
+   13/264   . . . . . {Details of the welding stage}
+   13/2646  . . . . {Bending and soldering of a metallic screen}
+   13/2653  . . . . . {Details of the soldering stage}
+   13/266   . . . . {Bending and adhesively bonding of a
+   13/2666  . . . . . {Details of the bonding stage}
+   13/2673  . . . . {of a compartment separating metallic
+   13/268   . . . . {of a non-metallic sheet}
+   13/2686  . . . . {Pretreatment}
+   13/2693  . . . . {After-treatment}
+   13/28    . Applying continuous inductive loading, e.g. Krarup
+   13/287   . . {by passing through a coating bath}
+   13/30    . Drying; Impregnating (H01B 13/32 takes
+   13/32    . Filling or coating with impervious material
+   13/321   . . {the material being a powder}
+   13/322   . . {the material being a liquid, jelly-like or viscous
+   13/323   . . . {using a filling or coating head}
+   13/324   . . . . {in combination with a vacuum chamber}
+   13/325   . . . . {in combination with vibration generating
+   13/326   . . . . {Material preparing or feeding devices}
+   13/327   . . . {using a filling or coating cone or die}
+   13/328   . . . {using a filling or coating bath}
+   13/329   . . {the material being a foam}
+   13/34    . for marking conductors or cables
+   13/341   . . {using marking wheels, discs, rollers, drums,
+   13/342   . . {by applying marked tape, thread or wire on the
+full length of the conductor or cable}
+   13/344   . . {by applying sleeves, ferrules, tags, clips, labels
+   13/345   . . {by spraying, ejecting or dispensing marking
+   13/347   . . . {Electrostatic deflection of the fluid jets}
+   13/348   . . {using radiant energy, e.g. a laser beam}
+   15/00    Apparatus or processes for salvaging material
+from cables (for removing insulation from conductors
+   15/001   . {by cooling down}
+   15/006   . . {Making a longitudinal cut}
+   17/00    Insulators or insulating bodies characterised by
+   17/005   . {Insulators structurally associated with built-in
+   17/02    . Suspension insulators; Strain insulators
+   17/04    . . Chains; Multiple chains
+   17/06    . . Fastening of insulator to support, to conductor, or
+   17/08    . . . by cap-and-bolt
+   17/10    . . . by intermediate link
+   17/12    . . Special features of strain insulators
+   17/14    . Supporting insulators (pin insulators H01B 17/20;
+apertured insulators H01B 17/24)
+   17/145   . . {Insulators, poles, handles, or the like in electric
+   17/16    . . Fastening of insulators to support, to conductor,
+   17/18    . . for very heavy conductors, e.g. bus-bars, rails
+   17/22    . . Fastening of conductors to insulator
+   17/24    . Insulators apertured for fixing by nail, screw, wire,
+   17/26    . Lead-in insulators; Lead-through insulators
+   17/265   . . {Fastening of insulators to support (H01B 17/301
+   17/301   . . . {Sealing of insulators to support}
+   17/303   . . . {Sealing of leads to lead-through insulators}
+   17/305   . . . . {by embedding in glass or ceramic material}
+   17/306   . . . . {by embedding in material other than glass
+   17/308   . . . . {by compressing packing material}
+   17/32    . Single insulators consisting of two or more
+   17/325   . . {comprising a fibre-reinforced insulating core
+   17/34    . Insulators containing liquid, e.g. oil
+   17/36    . Insulators having evacuated or gas-filled spaces
+   17/38    . Fittings, e.g. caps; Fastenings therefor
+   17/40    . . Cementless fittings
+   17/42    . Means for obtaining improved distribution of
+voltage (capacitor-type lead-through insulators
+H01B 17/28); Protection against arc discharges
+   17/44    . . Structural association of insulators with corona
+   17/46    . . Means for providing an external arc-discharge
+   17/48    . . over chains or other serially-arranged insulators
+   17/50    . with surfaces specially treated for preserving
+insulating properties, e.g. for protection against
+   17/52    . having cleaning devices (H01B 17/54 takes
+   17/525   . . {Self-cleaning, e.g. by shape or disposition of
+   17/54    . having heating or cooling devices
+   17/56    . Insulating bodies
+   17/58    . . Tubes, sleeves, beads, or bobbins through which
+   17/583   . . . {Grommets; Bushings}
+   17/586   . . . . {with strain relief arrangements}
+   17/60    . . Composite insulating bodies
+   17/62    . . Insulating-layers or insulating-films on metal
+   17/64    . . with conductive admixtures, inserts or layers
+   17/66    . . Joining insulating bodies together, e.g. by
+   19/00    Apparatus or processes specially adapted for
+manufacturing insulators or insulating bodies
+{(manufacture of porcelain for electric insulation
+   19/02    . Drying; Impregnating
+   19/04    . Treating the surfaces, e.g. applying coatings

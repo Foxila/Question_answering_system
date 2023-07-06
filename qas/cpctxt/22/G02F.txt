@@ -1,0 +1,822 @@
+COOPERATIVE PATENT CLASSIFICATION
+OPTICAL DEVICES OR ARRANGEMENTS FOR THE CONTROL OF LIGHT
+BY MODIFICATION OF THE OPTICAL PROPERTIES OF THE MEDIA OF THE
+ELEMENTS INVOLVED THEREIN; NON-LINEAR OPTICS; FREQUENCY-
+CHANGING OF LIGHT; OPTICAL LOGIC ELEMENTS; OPTICAL ANALOGUE/
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+Subject matter covered by these groups is classified in the following CPC groups:
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Devices or arrangements for the control of the
+intensity, colour, phase, polarisation or direction
+of light arriving from an independent light source,
+e.g. switching, gating or modulating; Non-linear
+• devices or arrangements, e.g. cells, the optical
+operation of  which is modified by changing the
+optical properties of the  medium of the devices
+or arrangements by the influence or  control of
+physical parameters, e.g. electric fields, electric
+current, magnetic fields, sound or mechanical
+vibrations,  stress or thermal effects;
+• devices or arrangements in which the electric
+or magnetic  field component of the light
+beams influences the optical  properties of the
+medium, i.e. non-linear optics;
+• control of light by electromagnetic waves,
+e.g. radio waves,  or by electrons or other
+    1/0009  . {Materials therefor}
+G02F 1/0009 and subgroups contain mostly non-
+    1/0018  . . {Electro-optical materials}
+    1/0027  . . . {Ferro-electric materials}
+    1/0036  . . {Magneto-optical materials}
+    1/0045  . . {Liquid crystals characterised by their physical
+    1/0054  . . {Structure, phase transitions, NMR, ESR,
+    1/0063  . . {Optical properties, e.g. absorption, reflection
+or birefringence (materials for non-linear optics
+    1/0072  . . {Mechanical, acoustic, electro-elastic, magneto-
+    1/0081  . . {Electric or magnetic properties}
+    1/009   . . {Thermal properties}
+    1/01    . for the control of the intensity, phase, polarisation or
+colour  (G02F 1/29, G02F 1/35 take precedence)
+    1/0102  . . {Constructional details, not otherwise provided
+    1/0105  . . . {Illuminating devices}
+    1/0107  . . . {Gaskets, spacers or sealing of cells; Filling
+    1/011   . . {in optical waveguides, not otherwise provided
+    1/0113  . . . {Glass-based, e.g. silica-based, optical
+    1/0115  . . . {in optical fibres}
+    1/0118  . . . . {by controlling the evanescent coupling of
+light from a fibre into an active, e.g. electro-
+    1/0121  . . {Operation of devices; Circuit arrangements, not
+otherwise provided for in this subclass}
+    1/0123  . . . {Circuits for the control or stabilisation of the
+bias voltage, e.g. automatic bias control [ABC]
+    1/0126  . . {Opto-optical modulation, i.e. control of one
+light beam by another light beam, not otherwise
+    1/0128  . . {based on electro-mechanical, magneto-
+mechanical, elasto-optic effects}
+    1/0131  . . . {based on photo-elastic effects, e.g.
+mechanically induced birefringence}
+    1/0134  . . . . {in optical waveguides}
+    1/0136  . . {for the control of polarisation, e.g. state
+of polarisation [SOP] control, polarisation
+scrambling, TE-TM mode conversion or
+separation (G02F 1/0353 takes precedence)}
+    1/0139  . . . {Polarisation scrambling devices;
+    1/0142  . . . {TE-TM mode conversion}
+    1/0144  . . . {TE-TM mode separation}
+    1/0147  . . {based on thermo-optic effects (G02F 1/132 takes
+    1/015   . . based on semiconductor elements with at least
+one potential jump barrier, e.g. PN, PIN junction
+    1/0151  . . . {modulating the refractive index}
+    1/0152  . . . . {using free carrier effects, e.g. plasma effect}
+    1/0153  . . . . {using electro-refraction, e.g. Kramers-
+    1/0154  . . . . {using electro-optic effects, e.g. linear
+electro optic [LEO], Pockels, quadratic
+electro optical [QEO] or Kerr effect}
+    1/0155  . . . {modulating the optical absorption}
+    1/0156  . . . . {using free carrier absorption}
+    1/0157  . . . . {using electro-absorption effects, e.g. Franz-
+Keldysh [FK] effect or quantum confined
+    1/0158  . . . . . {Blue-shift of the absorption band}
+    1/0159  . . . . . {Red-shift of the absorption band}
+    1/017   . . . Structures with periodic or quasi periodic
+potential variation, e.g. superlattices, quantum
+    1/01708 . . . . {in an optical wavequide structure}
+    1/01716 . . . . {Optically controlled superlattice or quantum
+    1/01725 . . . . {Non-rectangular quantum well structures,
+e.g. graded or stepped quantum wells}
+    1/01733 . . . . . {Coupled or double quantum wells}
+    1/01741 . . . . . . {Asymmetrically coupled or double
+    1/0175  . . . . . {with a spatially varied well profile, e.g.
+graded or stepped quantum wells}
+    1/01758 . . . . . . {with an asymmetric well profile, e.g.
+asymmetrically stepped quantum wells}
+    1/01766 . . . . {Strained superlattice devices; Strained
+    1/01775 . . . . {involving an inter-subband transition in one
+    1/01783 . . . . {Quantum wires}
+    1/01791 . . . . {Quantum boxes or quantum dots}
+    1/025   . . . in an optical waveguide structure (G02F 1/017,
+    1/03    . . based on ceramics or electro-optical crystals,
+e.g. exhibiting Pockels effect or Kerr effect
+    1/0305  . . . {Constructional arrangements
+(G02F 1/0327 - G02F 1/05 take precedence)}
+    1/0311  . . . . {Structural association of optical elements,
+e.g. lenses, polarizers, phase plates, with the
+    1/0316  . . . . {Electrodes}
+    1/0322  . . . . {Arrangements comprising two or more
+independently controlled crystals}
+    1/0327  . . . {Operation of the cell; Circuit arrangements
+    1/0333  . . . {addressed by a beam of charged particles
+    1/0338  . . . {structurally associated with a photoconductive
+layer or having photo-refractive properties
+    1/0344  . . . {controlled by a high-frequency
+electromagnetic wave component in an
+electric waveguide (G02F 1/0356, G02F 1/05,
+G02F 1/2255, G02F 1/3134 take precedence)}
+    1/035   . . . in an optical waveguide structure
+    1/0353  . . . . {involving an electro-optic TE-TM mode
+    1/0356  . . . . {controlled by a high-frequency
+electromagnetic wave component in an
+    1/05    . . . with ferro-electric properties (G02F 1/035,
+    1/0508  . . . . {specially adapted for gating or modulating
+    1/0516  . . . . {Operation of the cell; Circuit arrangements}
+    1/0525  . . . . {addressed by a beam of charged particles}
+    1/0533  . . . . {structurally associated with a photo-
+    1/0541  . . . . {using photorefractive effects}
+    1/055   . . . the active material being a ceramic
+    1/0551  . . . . {Constructional details}
+    1/0553  . . . . {specially adapted for gating or modulating
+    1/0555  . . . . {Operation of the cell; Circuit arrangements}
+    1/0556  . . . . {specially adapted for a particular
+    1/0558  . . . . {structurally associated with a
+photoconductive layer or exhibiting photo-
+    1/061   . . based on electro-optical organic material
+(G02F 1/07, {G02F 1/13} take precedence)
+    1/065   . . . in an optical waveguide structure
+    1/07    . . based on electro-optical liquids exhibiting Kerr
+    1/073   . . . {specially adapted for gating or modulating in
+    1/076   . . . {Operation of the cell; Circuit arrangements}
+    1/09    . . based on magneto-optical elements, e.g.
+    1/091   . . . {based on magneto-absorption or magneto-
+    1/092   . . . {Operation of the cell; Circuit arrangements}
+    1/093   . . . {used as non-reciprocal devices, e.g. optical
+isolators, circulators (G02F 1/0955 takes
+    1/094   . . . {based on magnetophoretic effect}
+    1/095   . . . in an optical waveguide structure
+    1/0955  . . . . {used as non-reciprocal devices, e.g. optical
+    1/11    . . based on acousto-optical elements, e.g. using
+variable diffraction by sound or like mechanical
+waves (acousto-optical deflection G02F 1/33)
+    1/113   . . . {Circuit or control arrangements}
+    1/116   . . . {using an optically anisotropic medium,
+wherein the incident and the diffracted
+light waves have different polarizations,
+e.g. acousto-optic tunable filter [AOTF]
+    1/125   . . . in an optical waveguide structure
+    1/13    . . based on liquid crystals, e.g. single liquid crystal
+    1/1303  . . . {Apparatus specially adapted to the
+    1/1309  . . . . {Repairing; Testing}
+    1/1313  . . . {specially adapted for a particular application}
+    1/1316  . . . {Methods for cleaning the liquid crystal cells,
+or components thereof, during manufacture:
+    1/132   . . . {Thermal activation of liquid crystals
+exhibiting a thermo-optic effect}
+    1/1323  . . . {Arrangements for providing a switchable
+    1/1326  . . . {Liquid crystal optical waveguides or liquid
+crystal cells specially adapted for gating or
+modulating between optical waveguides}
+    1/133   . . . Constructional arrangements; Operation of
+liquid crystal cells; Circuit arrangements
+(arrangements or circuits for control of liquid
+crystal elements in a matrix, not structurally
+associated with these elements G09G 3/36)
+    1/13306 . . . . {Circuit arrangements or driving methods
+for the control of single liquid crystal
+cells (G02F 1/132, G02F 1/133382 take
+    1/13312 . . . . . {Circuits comprising photodetectors for
+    1/13318 . . . . . {Circuits comprising a photodetector}
+    1/13324 . . . . . {Circuits comprising solar cells}
+    1/1333  . . . . Constructional arrangements;
+{Manufacturing methods}(G02F 1/135,
+    1/133302 . . . . . {Rigid substrates, e.g. inorganic
+    1/133305 . . . . . {Flexible substrates, e.g. plastics, organic
+    1/133308 . . . . . {Support structures for LCD panels, e.g.
+    1/133311 . . . . . . {Environmental protection, e.g. against
+    1/133314 . . . . . . {Back frames}
+    1/133317 . . . . . . {Intermediate frames, e.g. between
+backlight housing and front frame}
+    1/13332 . . . . . . {Front frames}
+    1/133322 . . . . . . {Mechanical guidance or alignment of
+    1/133325 . . . . . . {Assembling processes}
+    1/133328 . . . . . . {Segmented frames}
+    1/133331 . . . . . . {Cover glasses}
+    1/133334 . . . . . . {Electromagnetic shields}
+    1/133337 . . . . . {Layers preventing ion diffusion, e.g. by
+    1/13334 . . . . . {Plasma addressed liquid crystal cells
+    1/133342 . . . . . {for double-sided displays}
+    1/133345 . . . . . {Insulating layers (G02F 1/1335,
+G02F 1/1337, G02F 1/135, G02F 1/136
+    1/133348 . . . . . {Charged particles addressed liquid crystal
+cells, e.g. controlled by an electron beam}
+    1/133351 . . . . . {Manufacturing of individual cells out of a
+plurality of cells, e.g. by dicing}
+    1/133354 . . . . . {Arrangements for aligning or assembling
+    1/133357 . . . . . {Planarisation layers}
+    1/13336 . . . . . {Combining plural substrates to produce
+large-area displays, e.g. tiled displays}
+    1/133362 . . . . . {Optically addressed liquid crystal cells
+    1/133365 . . . . . {Cells in which the active layer comprises
+    1/133368 . . . . . {Cells having two substrates with different
+characteristics, e.g. different thickness or
+    1/133371 . . . . . {Cells with varying thickness of the liquid
+    1/133374 . . . . . {for displaying permanent signs or marks}
+    1/133377 . . . . . {Cells with plural compartments or having
+plurality of liquid crystal microcells
+partitioned by walls, e.g. one microcell per
+    1/13338 . . . . . {Input devices, e.g. touch panels}
+    1/133382 . . . . . {Heating or cooling of liquid crystal cells
+other than for activation, e.g. circuits or
+arrangements for temperature control,
+stabilisation or uniform distribution over
+    1/133385 . . . . . . {with cooling means, e.g. fans}
+    1/133388 . . . . . {with constructional differences between
+the display region and the peripheral
+    1/133391 . . . . . {Constructional arrangement for sub-
+    1/133394 . . . . . {Piezoelectric elements associated with the
+    1/133397 . . . . . {for suppressing after-image or image-
+    1/1334  . . . . . based on polymer dispersed liquid crystals,
+e.g. microencapsulated liquid crystals
+    1/13342 . . . . . . {Holographic polymer dispersed liquid
+    1/13345 . . . . . . {Network or three-dimensional gels}
+    1/13347 . . . . . . {working in reverse mode, i.e. clear in
+the off-state and scattering in the on-
+    1/1335  . . . . . Structural association of cells with optical
+devices, e.g. polarisers or reflectors
+    1/133502 . . . . . . {Antiglare, refractive index matching
+    1/133504 . . . . . . {Diffusing, scattering, diffracting
+elements (associated to illuminating
+    1/133507 . . . . . . . {Films for enhancing the luminance}
+    1/133509 . . . . . . {Filters, e.g. light shielding masks}
+    1/133512 . . . . . . . {Light shielding layers, e.g. black
+    1/133514 . . . . . . . {Colour filters}
+    1/133516 . . . . . . . . {Methods for their manufacture,
+e.g. printing, electro-deposition or
+    1/133519 . . . . . . . . {Overcoatings}
+    1/133521 . . . . . . . . {Interference filters}
+    1/133524 . . . . . . {Light-guides, e.g. fibre-optic bundles,
+louvered or jalousie light-guides}
+    1/133526 . . . . . . {Lenses, e.g. microlenses or Fresnel
+    1/133528 . . . . . . {Polarisers}
+    1/133531 . . . . . . . {characterised by the arrangement of
+    1/133533 . . . . . . . {Colour selective polarisers
+(G02F 1/1347 takes precedence)}
+    1/133536 . . . . . . . {Reflective polarizers (G02F 1/13362
+    1/133538 . . . . . . . {with spatial distribution of the
+    1/133541 . . . . . . . {Circular polarisers}
+    1/133543 . . . . . . . {Cholesteric polarisers}
+    1/133545 . . . . . . . {Dielectric stack polarisers}
+    1/133548 . . . . . . . {Wire-grid polarisers}
+    1/13355 . . . . . . . {Polarising beam splitters [PBS]}
+    1/133553 . . . . . . {Reflecting elements (associated to
+illuminating devices G02F 1/133605)}
+    1/133555 . . . . . . . {Transflectors}
+    1/133557 . . . . . . . . {Half-mirrors}
+    1/13356 . . . . . . {characterised by the placement of the
+    1/133562 . . . . . . . {on the viewer side}
+    1/133565 . . . . . . . {inside the LC elements, i.e. between
+    1/133567 . . . . . . . {on the back side}
+    1/1336  . . . . . . {Illuminating devices}
+    1/133601 . . . . . . . {for spatial active dimming}
+    1/133602 . . . . . . . {Direct backlight}
+    1/133603 . . . . . . . . {with LEDs}
+    1/133604 . . . . . . . . {with lamps}
+    1/133605 . . . . . . . . {including specially adapted
+    1/133606 . . . . . . . . {including a specially adapted
+    1/133607 . . . . . . . . . {the light controlling member
+refracting elements, e.g. prisms
+    1/133608 . . . . . . . . {including particular frames or
+    1/133609 . . . . . . . . {including means for improving the
+    1/133611 . . . . . . . . {including means for improving the
+    1/133612 . . . . . . . . {Electrical details}
+    1/133613 . . . . . . . . {characterized by the sequence of
+    1/133614 . . . . . . . {using photoluminescence, e.g.
+phosphors illuminated by UV or blue
+    1/133615 . . . . . . . {Edge-illuminating devices, i.e.
+    1/133616 . . . . . . . {Front illuminating devices}
+    1/133617 . . . . . . . {Illumination with ultra-violet light;
+Luminescent elements or materials
+    1/133618 . . . . . . . {for ambient light}
+    1/13362 . . . . . . . {providing polarized light, e.g. by
+converting a polarisation component
+    1/133621 . . . . . . . {providing coloured light
+(G02F 1/133617, G02F 1/133533 take
+    1/133622 . . . . . . . . {Colour sequential illumination}
+    1/133623 . . . . . . . . {Inclined coloured light beams}
+    1/133624 . . . . . . . {characterised by their spectral
+    1/133625 . . . . . . . {Electron stream lamps}
+    1/133626 . . . . . . . {providing two modes of
+    1/133627 . . . . . . . . {Projection-direct viewing}
+    1/133628 . . . . . . . {with cooling means}
+    1/13363 . . . . . . Birefringent elements, e.g. for optical
+    1/133631 . . . . . . . {with a spatial distribution of the
+    1/133632 . . . . . . . {with refractive index ellipsoid
+inclined relative to the LC-layer
+    1/133633 . . . . . . . {using mesogenic materials}
+    1/133634 . . . . . . . {the refractive index Nz perpendicular
+to the element surface being different
+from in-plane refractive indices Nx
+and Ny, e.g. biaxial or with normal
+    1/133635 . . . . . . . {Multifunctional compensators}
+    1/133636 . . . . . . . {with twisted orientation, e.g.
+comprising helically oriented LC-
+molecules or a plurality of twisted
+    1/133637 . . . . . . . {characterised by the wavelength
+    1/133638 . . . . . . . {Waveplates, i.e. plates with a
+    1/1337  . . . . . Surface-induced orientation of the liquid
+crystal molecules, e.g. by alignment layers
+    1/133703 . . . . . . {by introducing organic surfactant
+additives into the liquid crystal
+    1/133707 . . . . . . {Structures for producing distorted
+electric fields, e.g. bumps, protrusions,
+recesses, slits in pixel electrodes}
+    1/133711 . . . . . . {by organic films, e.g. polymeric films}
+    1/133715 . . . . . . . {by first depositing a monomer}
+    1/133719 . . . . . . . {with coupling agent molecules, e.g.
+    1/133723 . . . . . . . {Polyimide, polyamide-imide}
+    1/133726 . . . . . . . {made of a mesogenic material}
+    1/13373 . . . . . . {Disclination line; Reverse tilt}
+    1/133734 . . . . . . {by obliquely evaporated films, e.g. Si
+    1/133738 . . . . . . {for homogeneous alignment}
+    1/133742 . . . . . . {for homeotropic alignment}
+    1/133746 . . . . . . {for high pretilt angles, i.e. higher than
+    1/133749 . . . . . . {for low pretilt angles, i.e. lower than 15
+    1/133753 . . . . . . {with different alignment orientations or
+pretilt angles on a same surface, e.g. for
+grey scale or improved viewing angle}
+    1/133757 . . . . . . . {with different alignment
+    1/133761 . . . . . . . {with different pretilt angles}
+    1/133765 . . . . . . {without a surface treatment}
+    1/133769 . . . . . . {comprising an active, e.g. switchable,
+    1/133773 . . . . . . {the alignment material or treatment
+being different for the two opposite
+    1/133776 . . . . . . {having structures locally influencing
+the alignment, e.g. unevenness}
+    1/13378 . . . . . . {by treatment of the surface, e.g.
+embossing, rubbing or light irradiation
+G02F 1/133753 take precedence)}
+    1/133784 . . . . . . . {by rubbing}
+    1/133788 . . . . . . . {by light irradiation, e.g. linearly
+polarised light photo-polymerisation}
+    1/133792 . . . . . . . {by etching}
+    1/133796 . . . . . . {having conducting property}
+    1/1339  . . . . . Gaskets; Spacers; Sealing of cells
+    1/13392 . . . . . . {spacers dispersed on the cell substrate,
+e.g. spherical particles, microfibres}
+    1/13394 . . . . . . {spacers regularly patterned on
+the cell subtrate, e.g. walls, pillars
+(G02F 1/133377 takes precedence)}
+    1/13396 . . . . . . {Spacers having different sizes}
+    1/13398 . . . . . . {Spacer materials; Spacer properties}
+    1/1341  . . . . . Filling or closing of cells
+    1/13415 . . . . . . {Drop filling process}
+    1/1343  . . . . . Electrodes {(reflective electrodes
+    1/134309 . . . . . . {characterised by their geometrical
+    1/134318 . . . . . . . {having a patterned common
+    1/134327 . . . . . . . {Segmented, e.g. alpha numeric
+    1/134336 . . . . . . . {Matrix}
+    1/134345 . . . . . . . {Subdivided pixels, e.g. for grey scale
+    1/134354 . . . . . . . . {the sub-pixels being capacitively
+    1/134363 . . . . . . . {for applying an electric field
+parallel to the substrate, i.e. in-plane
+    1/134372 . . . . . . . {for fringe field switching [FFS]
+where the common electrode is not
+    1/134381 . . . . . . . {Hybrid switching mode, i.e. for
+applying an electric field with
+components parallel and orthogonal to
+    1/13439 . . . . . . {characterised by their electrical,
+optical, physical properties; materials
+    1/1345  . . . . . Conductors connecting electrodes to cell
+    1/13452 . . . . . . {Conductors connecting driver circuitry
+    1/13454 . . . . . . {Drivers integrated on the active
+matrix substrate (G02F 1/136277 takes
+    1/13456 . . . . . . {Cell terminals located on one side of
+    1/13458 . . . . . . {Terminal pads}
+    1/1347  . . . . . Arrangement of liquid crystal layers or
+cells in which the final condition of one
+light beam is achieved by the addition of
+the effects of two or more layers or cells
+    1/13471 . . . . . . {in which all the liquid crystal cells or
+layers remain transparent, e.g. FLC,
+cells (G02F 1/13475 takes precedence)}
+    1/13473 . . . . . . . {for wavelength filtering or for colour
+display without the use of colour
+    1/13475 . . . . . . {in which at least one liquid crystal cell
+or layer is doped with a pleochroic dye,
+e.g. GH-LC cell (G02F 1/13476 takes
+    1/13476 . . . . . . {in which at least one liquid crystal cell
+or layer assumes a scattering state}
+    1/13478 . . . . . . {based on selective reflection}
+    1/135   . . . . Liquid crystal cells structurally associated
+with a photoconducting or a ferro-
+electric layer, the properties of which
+can be optically or electrically varied
+{(G02F 1/133348 takes precedence)}
+    1/1351  . . . . . {Light-absorbing or blocking layers}
+    1/1352  . . . . . {Light-reflecting layers}
+    1/1354  . . . . . {having a particular photoconducting
+    1/1355  . . . . . . {Materials or manufacture processes
+    1/1357  . . . . . {Electrode structure}
+    1/1358  . . . . . {the supplementary layer being a ferro-
+    1/136   . . . . Liquid crystal cells structurally associated
+with a semi-conducting layer or substrate,
+e.g. cells forming part of an integrated circuit
+    1/13606 . . . . . {having means for reducing parasitic
+    1/13613 . . . . . {the semiconductor element being
+formed on a first substrate and thereafter
+transferred to the final cell substrate}
+    1/1362  . . . . . Active matrix addressed cells
+{(G02F 1/134336, G02F 1/134363 take
+    1/136204 . . . . . . {Arrangements to prevent high voltage
+or static electricity failures}
+    1/136209 . . . . . . {Light shielding layers, e.g. black
+matrix, incorporated in the active matrix
+substrate, e.g. structurally associated
+    1/136213 . . . . . . {Storage capacitors associated with the
+    1/136218 . . . . . . {Shield electrodes}
+    1/136222 . . . . . . {Colour filters incorporated in the active
+    1/136227 . . . . . . {Through-hole connection of the pixel
+electrode to the active element through
+    1/136231 . . . . . . {for reducing the number of lithographic
+    1/136236 . . . . . . . {using a grey or half tone lithographic
+    1/13624 . . . . . . {having more than one switching
+    1/136245 . . . . . . . {having complementary transistors}
+    1/13625 . . . . . . {Patterning using multi-mask exposure}
+    1/136254 . . . . . . {Checking; Testing}
+    1/136259 . . . . . . {Repairing; Defects}
+    1/136263 . . . . . . . {Line defects}
+    1/136268 . . . . . . . {Switch defects}
+    1/136272 . . . . . . . {Auxiliary lines}
+    1/136277 . . . . . . {formed on a semiconductor substrate,
+    1/136281 . . . . . . . {having a transmissive semiconductor
+    1/136286 . . . . . . {Wiring, e.g. gate line, drain line}
+    1/13629 . . . . . . . {Multilayer wirings}
+    1/136295 . . . . . . . {Materials; Compositions;
+    1/1365  . . . . . . in which the switching element is a two-
+electrode device {(G02F 1/136277 takes
+    1/1368  . . . . . . in which the switching element is a
+three-electrode device {(G02F 1/136277
+    1/13685 . . . . . . . {Top gates}
+    1/137   . . . characterised by the electro-optical or
+magneto-optical effect, e.g. field-induced
+phase transition, orientation effect, guest-host
+interaction or dynamic scattering
+    1/13706 . . . . {the liquid crystal having positive dielectric
+    1/13712 . . . . {the liquid crystal having negative dielectric
+    1/13718 . . . . {based on a change of the texture state of a
+    1/13725 . . . . {based on guest-host interaction
+(G02F 1/13762, G02F 1/13737, take
+    1/13731 . . . . {based on a field-induced phase transition
+(G02F 1/13781 takes precedence)}
+    1/13737 . . . . . {in liquid crystals doped with a pleochroic
+    1/13743 . . . . {based on electrohydrodynamic instabilities
+or domain formation in liquid crystals}
+    1/1375  . . . . . {using dynamic scattering}
+    1/13756 . . . . {the liquid crystal selectively
+assuming a light-scattering state
+(G02F 1/1334, G02F 1/13718 take
+    1/13762 . . . . {containing luminescent or
+    1/13768 . . . . {based on magneto-optical effects}
+    1/13775 . . . . {Polymer-stabilized liquid crystal layers}
+    1/13781 . . . . {using smectic liquid crystals (G02F 1/141
+    1/13787 . . . . {Hybrid-alignment cells (G02F 1/1393 takes
+    1/13793 . . . . {Blue phases}
+    1/139   . . . . based on orientation effects in which the
+liquid crystal remains transparent
+    1/1391  . . . . . {Bistable or multi-stable liquid crystal
+cells (G02F 1/141 takes precedence)}
+    1/1392  . . . . . {using a field-induced sign-reversal of the
+    1/1393  . . . . . {the birefringence of the liquid crystal
+being electrically controlled, e.g. ECB-,
+DAP-, HAN-, PI-LC cells (G02F 1/1396,
+    1/1395  . . . . . . {Optically compensated birefringence
+    1/1396  . . . . . {the liquid crystal being selectively
+controlled between a twisted state and
+a non-twisted state, e.g. TN-LC cell
+    1/1397  . . . . . . {the twist being substantially higher
+than 90°, e.g. STN-, SBE-, OMI-LC
+    1/1398  . . . . . . {the twist being below 90°}
+    1/141   . . . . . using ferroelectric liquid crystals
+    1/1412  . . . . . . {Antiferroelectric liquid crystals}
+    1/1414  . . . . . . {Deformed helix ferroelectric [DHL]}
+    1/1416  . . . . . . {Details of the smectic layer structure,
+e.g. bookshelf, chevron, C1 and C2}
+    1/1418  . . . . . . {using smectic liquid crystals, e.g. based
+    1/15    . . based on an electrochromic effect
+ 2001/1502  . . . {complementary cell}
+ 2001/15025 . . . . {having an inorganic electrochromic layer
+and a second solid organic electrochromic
+    1/1503  . . . caused by oxidation-reduction reactions in
+organic liquid solutions, e.g. viologen solutions
+    1/1506  . . . caused by electrodeposition, e.g. electrolytic
+deposition of an inorganic material on or close
+    1/1508  . . . . {using a solid electrolyte}
+    1/1514  . . . characterised by the electrochromic material,
+e.g. by the electrodeposited material
+ 2001/15145 . . . . {the electrochromic layer comprises a
+mixture of anodic and cathodic compounds}
+    1/1516  . . . . comprising organic material
+    1/15165 . . . . . {Polymers}
+ 2001/1517  . . . . . {Cyano complex compounds, e.g. Prussian
+ 2001/1518  . . . . . {Ferrocene compounds}
+    1/1523  . . . . comprising inorganic material
+    1/1524  . . . . . Transition metal compounds
+    1/15245 . . . . . . {based on iridium oxide or hydroxide}
+    1/1525  . . . . . {characterised by a particular ion
+transporting layer, e.g. electrolyte}
+    1/153   . . . Constructional details
+    1/1533  . . . . {structural features not otherwise provided
+ 2001/1536  . . . . . {additional, e.g. protective, layer inside the
+ 2001/1552  . . . . . {Inner electrode, e.g. the electrochromic
+layer being sandwiched between the inner
+electrode and the support substrate----
+this group, now to be changed, should
+already been created by implementation
+of a previous DOC14 (prior to the one
+ 2001/1555  . . . . . {Counter electrode}
+ 2001/1557  . . . . . {Side by side arrangements of working
+    1/157   . . . . Structural association of cells with optical
+devices, e.g. reflectors or illuminating
+    1/161   . . . . Gaskets; Spacers; Sealing of cells; Filling or
+    1/163   . . . Operation of electrochromic cells, e.g.
+electrodeposition cells; Circuit arrangements
+ 2001/1635  . . . . {the pixel comprises active switching
+ 2001/164   . . . {the electrolyte is made of polymers}
+    1/165   . . based on translational movement of particles in a
+fluid under the influence of an applied field
+    1/166   . . . characterised by the electro-optical or magneto-
+    1/167   . . . . by electrophoresis
+    1/1671  . . . . involving dry toners
+    1/1673  . . . . by magnetophoresis
+    1/1675  . . . Constructional details
+    1/16753 . . . . Structures for supporting or mounting cells,
+    1/16756 . . . . Insulating layers
+    1/16757 . . . . Microcapsules
+    1/16761 . . . . . Side-by-side arrangement of working
+electrodes and counter-electrodes
+    1/16762 . . . . . having three or more electrodes per pixel
+    1/16766 . . . . . for active matrices
+    1/1677  . . . . Structural association of cells with optical
+devices, e.g. reflectors or illuminating
+ 2001/1678  . . . . {characterised by the composition or particle
+    1/1679  . . . . Gaskets; Spacers; Sealing of cells; Filling or
+    1/1681  . . . . . having two or more microcells partitioned
+by walls, e.g. of microcup type
+    1/1685  . . . Operation of cells; Circuit arrangements
+    1/169   . . based on orientable non-spherical particles having
+a common optical characteristic, e.g. suspended
+particles of reflective metal flakes
+    1/17    . . based on variable-absorption elements not
+provided for in groups G02F 1/015 - G02F 1/169
+    1/172   . . . {based on a suspension of orientable dipolar
+particles, e.g. suspended particles displays}
+    1/174   . . . {based on absorption band-shift, e.g. Stark - or
+Franz-Keldysh effect (G02F 1/015, G02F 1/178
+    1/176   . . . {using acid- based indicators}
+    1/178   . . . {based on pressure effects (G02F 1/195 takes
+    1/19    . . based on variable-reflection or variable-
+refraction elements not provided for in groups
+    1/195   . . . {by using frustrated reflection (digital
+reflection using controlled total internal
+    1/21    . . by interference
+    1/211   . . . {Sagnac type}
+    1/212   . . . {Mach-Zehnder type}
+    1/213   . . . {Fabry-Perot type}
+    1/215   . . . {Michelson type}
+    1/216   . . . {using liquid crystals, e.g. liquid crystal Fabry-
+    1/217   . . . {Multimode interference type}
+    1/218   . . . {using semi-conducting materials}
+    1/225   . . . in an optical waveguide structure
+    1/2252  . . . . {in optical fibres}
+    1/2255  . . . . {controlled by a high-frequency
+electromagnetic component in an electric
+    1/2257  . . . . {the optical waveguides being made of
+    1/23    . . for the control of the colour
+(G02F 1/03 - G02F 1/21 take precedence)
+    1/25    . . . as to hue or predominant wavelength
+    1/29    . for the control of the position or the direction of
+    1/291   . . {Two-dimensional analogue deflection}
+    1/292   . . {by controlled diffraction or phased-array
+beam steering (controlled diffraction for optical
+    1/293   . . {by another light beam, i.e. opto-optical
+    1/294   . . {Variable focal length devices}
+    1/295   . . {Analog deflection from or} in an optical
+    1/2955  . . . {by controlled diffraction or phased-array
+beam steering (controlled diffraction for optical
+waveguide switching G02F 1/313)}
+    1/31    . . Digital deflection, {i.e. optical
+switching}(G02F 1/33 takes precedence)
+    1/311   . . . {Cascade arrangement of plural switches}
+    1/313   . . . in an optical waveguide structure
+    1/3131  . . . . {in optical fibres}
+    1/3132  . . . . {of directional coupler type}
+    1/3133  . . . . . {the optical waveguides being made of
+    1/3134  . . . . . {controlled by a high-frequency
+electromagnetic wave component in an
+    1/3135  . . . . . {Vertical structure}
+    1/3136  . . . . {of interferometric switch type}
+    1/3137  . . . . {with intersecting or branching waveguides,
+e.g. X-switches and Y-junctions}
+    1/3138  . . . . . {the optical waveguides being made of
+    1/315   . . . based on the use of controlled internal
+    1/33    . . Acousto-optical deflection devices {(circuit or
+control arrangements therefor G02F 1/113)}
+    1/332   . . . {comprising a plurality of transducers on the
+same crystal surface, e.g. multi-channel Bragg
+    1/335   . . . having an optical waveguide structure
+    1/35    . Non-linear optics
+    1/3501  . . {Constructional details or arrangements of non-
+linear optical devices, e.g. shape of non-linear
+    1/3503  . . . {Structural association of optical elements, e.g.
+lenses, with the non-linear optical device}
+    1/3505  . . . {Coatings; Housings; Supports}
+    1/3507  . . . {Arrangements comprising two or more
+    1/3509  . . . {Shape, e.g. shape of end face}
+    1/3511  . . {Self-focusing or self-trapping of light; Light-
+induced birefringence; Induced optical Kerr-
+    1/3513  . . . {Soliton propagation}
+    1/3515  . . {All-optical modulation, gating, switching,
+e.g. control of a light beam by another light
+beam (G02F 1/353, G02F 1/37, G02F 1/39 take
+    1/3517  . . . {using an interferometer}
+    1/3519  . . . . {of Sagnac type, i.e. nonlinear optical loop
+    1/3521  . . . {using a directional coupler}
+    1/3523  . . {Non-linear absorption changing by light, e.g.
+    1/3525  . . {Optical damage}
+    1/3526  . . {using two-photon emission or absorption
+    1/3528  . . {for producing a supercontinuum}
+    1/353   . . {Frequency conversion, i.e. wherein a light beam
+is generated with frequency components different
+from those of the incident light beams}
+    1/3532  . . . {Arrangements of plural nonlinear devices
+for generating multi-colour light beams, e.g.
+arrangements of SHG, SFG, OPO devices for
+    1/3534  . . . {Three-wave interaction, e.g. sum-difference
+frequency generation (G02F 1/3532 takes
+    1/3536  . . . {Four-wave interaction}
+    1/3538  . . . . {for optical phase conjugation (controlling
+the intensity, frequency, phase, polarisation
+or direction of the emitted radiation using
+optical phase conjugation H01S 3/10076)}
+    1/354   . . . {Third or higher harmonic generation}
+    1/3542  . . . {Multipass arrangements, i.e. arrangements
+to make light pass multiple times through
+the same element, e.g. using an enhancement
+    1/3544  . . . {Particular phase matching techniques}
+    1/3546  . . . . {Active phase matching, e.g. by electro- or
+    1/3548  . . . . {Quasi phase matching [QPM], e.g. using a
+periodic domain inverted structure}
+    1/355   . . characterised by the materials used
+    1/3553  . . . . {having the formula MTiOYO4, where
+M=K, Rb, TI, NH4 or Cs and Y=P or As,
+    1/3556  . . . {Semiconductor materials, e.g. quantum wells}
+    1/3558  . . . {Poled materials, e.g. with periodic poling;
+Fabrication of domain inverted structures, e.g.
+for quasi-phase-matching [QPM]}
+    1/361   . . . Organic materials
+    1/3611  . . . . {containing Nitrogen}
+    1/3612  . . . . . {Heterocycles having N as heteroatom}
+    1/3613  . . . . {containing Sulfur}
+    1/3614  . . . . . {Heterocycles having S as heteroatom}
+    1/3615  . . . . {containing polymers}
+    1/3616  . . . . . {having the non-linear optical group in the
+    1/3617  . . . . . {having the non-linear optical group in a
+    1/3618  . . . . {Langmuir Blodgett Films}
+    1/3619  . . . . {Organometallic compounds}
+    1/365   . . in an optical waveguide structure (G02F 1/377,
+    1/37    . . for second-harmonic generation {(G02F 1/3532
+    1/372   . . . {Means for homogenizing the output beam}
+    1/374   . . . {Cherenkov radiation}
+    1/377   . . . in an optical waveguide structure
+    1/3775  . . . . {with a periodic structure, e.g. domain
+inversion, for quasi-phase-matching [QPM]
+    1/383   . . . . of the optical fibre type
+    1/39    . . for parametric generation or amplification of
+light, infra-red or ultra-violet waves
+    1/392   . . . {Parametric amplification}
+    1/395   . . . {in optical waveguides}
+    1/397   . . . {Amplification of light by wave mixing
+involving an interference pattern, e.g. using
+    2/00    Demodulating light; Transferring the modulation
+of modulated light; Frequency-changing of light
+    2/002   . {using optical mixing}
+    2/004   . {Transferring the modulation of modulated light,
+i.e. transferring the information from one optical
+carrier of a first wavelength to a second optical
+carrier of a second wavelength, e.g. all-optical
+    2/006   . . {All-optical wavelength conversion}
+    2/008   . . {Opto-electronic wavelength conversion, i.e.
+involving photo-electric conversion of the first
+    2/02    . Frequency-changing of light, e.g. by quantum
+    3/00    Optical logic elements; Optical bistable devices
+    3/02    . Optical bistable devices
+    3/022   . . {based on electro-, magneto- or acousto-optical
+elements (G02F 3/028 takes precedence)}
+    3/024   . . {based on non-linear elements, e.g. non-
+linear Fabry-Perot cavity (G02F 3/028 takes
+    3/026   . . {based on laser effects}
+    3/028   . . {based on self electro-optic effect devices
+    7/00    Optical analogue/digital converters
+This group covers only converters based in
+substantial manner on elements which are provided
+ 2201/00    Constructional arrangements not provided for in
+ 2201/06    . integrated waveguide
+ 2201/063   . . ridge; rib; strip loaded
+ 2201/066   . . channel; buried
+ 2201/08    . light absorbing layer
+ 2201/083   . . infra-red absorbing
+ 2201/121   . . common or background
+ 2201/122   . . having a particular pattern
+ 2201/127   . . travelling wave
+ 2201/17    . Multi-pass arrangements, i.e. arrangements to pass
+light a plurality of times through the same element,
+e.g. by using an enhancement cavity
+ 2201/302   . . grating coupler
+ 2201/305   . . diffraction grating
+ 2201/307   . . Reflective grating, i.e. Bragg grating
+ 2201/343   . . cholesteric liquid crystal reflector
+ 2201/346   . . distributed (Bragg) reflector
+ 2201/36    . Airflow channels, e.g. constructional arrangements
+ 2201/38    . Anti-reflection arrangements
+ 2201/40    . Arrangements for improving the aperture ratio
+ 2201/42    . Arrangements for providing conduction through an
+ 2201/44    . Arrangements combining different electro-active
+layers, e.g. electrochromic, liquid crystal or
+ 2201/48    . Flattening arrangements
+ 2201/50    . Protective arrangements
+ 2201/501   . . Blocking layers, e.g. against migration of ions
+ 2201/503   . . Arrangements improving the resistance to shock
+ 2201/505   . . Arrangements improving the resistance to
+ 2201/506   . . Repairing, e.g. with redundant arrangement
+ 2201/508   . . . Pseudo repairing, e.g. a defective part is
+brought into a condition in which it does not
+disturb the functioning of the device
+ 2201/52    . RGB geometrical arrangements
+ 2201/54    . Arrangements for reducing warping-twist
+ 2201/56    . Substrates having a particular shape, e.g. non-
+ 2201/58    . Arrangements comprising a monitoring
+ 2202/00    Materials and properties
+ 2202/021   . . low molecular weight
+ 2202/025   . . . . thermocurable
+ 2202/026   . . charge transfer complex
+ 2202/027   . . Langmuir-Blodgett film
+ 2202/08    . glass transition temperature
+ 2202/101   . . Ga×As and alloy
+ 2202/105   . . single crystal Si
+ 2202/106   . . Cd×Se or Cd×Te and alloys
+ 2202/107   . . Zn×S or Zn×Se and alloys
+ 2202/22    . Antistatic materials or arrangements
+ 2202/28    . Adhesive materials or arrangements
+ 2202/32    . Photonic crystals
+ 2202/34    . Metal hydrides materials
+ 2202/36    . Micro- or nanomaterials
+ 2202/38    . Sol-gel materials
+ 2202/40    . Materials having a particular birefringence,
+ 2202/42    . Materials having a particular dielectric constant
+ 2203/00    Function characteristic
+ 2203/023   . . total internal reflection
+ 2203/026   . . attenuated or frustrated internal reflection
+ 2203/04    . wavelength independent
+ 2203/05    . wavelength dependent
+ 2203/055   . . wavelength filtering
+ 2203/06    . Polarisation independent
+ 2203/07    . Polarisation dependent
+ 2203/11    . involving infrared radiation
+ 2203/12    . spatial light modulator
+ 2203/13    . involving THZ radiation
+ 2203/15    . involving resonance effects, e.g. resonantly
+ 2203/16    . involving spin polarization effects
+ 2203/17    . involving soliton waves
+ 2203/18    . adaptive optics, e.g. wavefront correction
+ 2203/19    . linearised modulation; reduction of harmonic
+ 2203/20    . Intrinsic phase difference, i.e. optical bias, of an
+optical modulator; Methods for the pre-set thereof
+ 2203/21    . Thermal instability, i.e. DC drift, of an optical
+modulator; Arrangements or methods for the
+ 2203/25    . Frequency chirping of an optical modulator;
+Arrangements or methods for the pre-set or tuning
+ 2203/26    . Pulse shaping; Apparatus or methods therefor
+ 2203/28    . focussing or defocussing
+ 2203/34    . Colour display without the use of colour mosaic
+ 2203/48    . Variable attenuator
+ 2203/50    . Phase-only modulation
+ 2203/54    . Optical pulse train (comb) synthesizer
+ 2203/56    . Frequency comb synthesizer
+ 2203/58    . Multi-wavelength, e.g. operation of the device at a
+ 2203/585   . . Add/drop devices
+ 2203/60    . Temperature independent
+ 2203/62    . Switchable arrangements whereby the element
+ 2203/64    . Normally black display, i.e. the off state being black
+ 2203/66    . Normally white display, i.e. the off state being white
+ 2203/68    . Green display, e.g. recycling, reduction of harmful
+ 2203/69    . Arrangements or methods for testing or calibrating a
+ 2203/70    . Semiconductor optical amplifier [SOA] used in a
+ 2413/00    Indexing scheme related to G02F 1/13363,
+i.e. to birefringent elements, e.g. for optical
+compensation, characterised by the number,
+position, orientation or value of the compensation
+ 2413/01    . Number of plates being 1
+ 2413/02    . Number of plates being 2
+ 2413/03    . Number of plates being 3
+ 2413/04    . Number of plates greater than or equal to 4
+ 2413/05    . Single plate on one side of the LC cell
+ 2413/06    . Two plates on one side of the LC cell
+ 2413/07    . All plates on one side of the LC cell
+ 2413/08    . with a particular optical axis orientation
+ 2413/10    . with refractive index ellipsoid inclined, or tilted,
+relative to the LC-layer surface O plate
+ 2413/105   . . with varying inclination in thickness direction,
+e.g. hybrid oriented discotic LC
+ 2413/12    . Biaxial compensators
+ 2413/13    . Positive birefingence
+ 2413/14    . Negative birefingence
+ 2413/15    . with twisted orientation, e.g. comprising helically
+oriented LC-molecules or a plurality of twisted

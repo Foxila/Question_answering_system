@@ -1,0 +1,646 @@
+COOPERATIVE PATENT CLASSIFICATION
+AGRICULTURE; FORESTRY; ANIMAL HUSBANDRY; HUNTING; TRAPPING;
+PRESERVATION OF BODIES OF HUMANS OR ANIMALS OR PLANTS OR PARTS
+THEREOF (preservation of food or foodstuff A23); BIOCIDES, e.g. AS DISINFECTANTS,
+AS PESTICIDES OR AS HERBICIDES (preparations for medical, dental or toiletry purposes
+which kill or prevent the growth or proliferation of unwanted organisms A61K); PEST
+REPELLANTS OR ATTRACTANTS; PLANT GROWTH REGULATORS
+• compositions, physical forms, methods of application of specific materials or the use of single compounds or compositions
+• chemosterilants for the sexual sterilisation of invertebrates, e.g. insects, whereas sex sterilants for other purposes are
+2. This subclass does not cover materials which affect the growth of a plant solely by supplying nutrients, i.e. plant food,
+ordinarily required for growth or materials which are used to prevent or cure mineral deficiencies in plants, e.g. addition of
+iron chelates to cure iron chlorosis, which materials are covered by class C05.
+3. In this subclass, the following expression is used with the meaning indicated:
+• "plant growth regulators" are those materials which alter the plant through a chemical modification of the plant
+4. Biocidal, pest repellant, pest attractant or plant growth regulatory activity of compounds or preparations is further classified in
+5. {In this subclass, combination sets [C-Sets] are used. The detailed information about the C-Sets construction and the
+associated syntax rules are found in the Definitions.}
+The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+Preservation of bodies of humans or animals, or plants, or parts
+    1/00    Preservation of bodies of humans or animals, or
+    1/02    . Preservation of living parts
+    1/0205  . . {Chemical aspects}
+    1/021   . . . {Preservation or perfusion media, liquids,
+solids or gases used in the preservation of cells,
+tissue, organs or bodily fluids}
+    1/0215  . . . . {Disinfecting agents, e.g. antimicrobials for
+    1/0221  . . . . {Freeze-process protecting agents, i.e.
+substances protecting cells from effects of
+the physical process, e.g. cryoprotectants,
+osmolarity regulators like oncotic agents}
+    1/0226  . . . . {Physiologically active agents, i.e.
+substances affecting physiological processes
+of cells and tissue to be preserved, e.g. anti-
+1Preservation of bodies of humans or animals, or plants, or parts thereof
+    1/0231  . . . {Chemically defined matrices, e.g. alginate
+gels, for immobilising, holding or storing cells,
+tissue or organs for preservation purposes;
+Chemically altering or fixing cells, tissue or
+organs, e.g. by cross-linking, for preservation
+    1/0236  . . {Mechanical aspects}
+    1/0242  . . . {Apparatuses, i.e. devices used in the process
+of preservation of living parts, such as pumps,
+refrigeration devices or any other devices
+featuring moving parts and/or temperature
+    1/0247  . . . . {for perfusion, i.e. for circulating fluid
+through organs, blood vessels or other living
+    1/0252  . . . . {Temperature controlling refrigerating
+apparatus, i.e. devices used to actively
+control the temperature of a designated
+internal volume, e.g. refrigerators, freeze-
+drying apparatus or liquid nitrogen baths}
+    1/0257  . . . . . {Stationary or portable vessels generating
+    1/0263  . . . {Non-refrigerated containers specially adapted
+for transporting or storing living parts whilst
+preserving, e.g. cool boxes, blood bags or
+    1/0268  . . . . {Carriers for immersion in cryogenic fluid,
+both for slow-freezing and vitrification, e.g.
+open or closed "straws" for embryos, oocytes
+    1/0273  . . . . {Transport containers (A01N 1/0268 takes
+    1/0278  . . {Physical preservation processes}
+    1/0284  . . . {Temperature processes, i.e. using a designated
+change in temperature over time}
+    1/0289  . . . {Pressure processes, i.e. using a designated
+    1/0294  . . . {Electromagnetic, i.e. using electromagnetic
+radiation or electromagnetic fields}
+    3/00    Preservation of plants or parts thereof, e.g.
+inhibiting evaporation, improvement of the
+appearance of leaves {or protection against
+physical influences such as UV radiation using
+chemical compositions} (preservation or chemical
+ripening of fruit or vegetables A23B 7/00); Grafting
+    3/02    . Keeping cut flowers fresh chemically
+Biocides; Pest repellants or attractants; Plant growth regulators
+1. Attention is drawn to the definitions of groups of chemical
+elements following the title of section C.
+2. In groups A01N 27/00 - A01N 65/00, the last place priority rule
+is applied, i.e. at each hierarchical level, in the absence of an
+indication to the contrary, an active ingredient is classified in the
+3. A composition, i.e. a mixture of two or more active ingredients
+is classified in the last of groups  A01N 27/00 - A01N 65/00 that
+provides for at least one of these active ingredients.
+4. Any part of a composition which is not identified by the
+classification according to Note (3), and which itself is determined
+to be novel and non-obvious, must also be classified in the last
+appropriate place in groups A01N 27/00 - A01N 65/00. The part
+can be either a single ingredient or a composition in itself.
+5. Any part of a composition which is not identified by the
+classification according to Note (3) or (4), and which is
+considered to represent information of interest for search,
+may also be classified in the last appropriate place in groups
+A01N 27/00 - A01N 65/00. This can, for example, be the
+case when it is considered of interest to enable searching of
+compositions using a combination of classification symbols.
+Such non-obligatory classification should be given as "additional
+6. Where a compound is described as existing in tautomeric forms, it
+is classified as if existing in the form which is classified last in the
+7. Compounds covered by different main groups according to
+alternatively specified parts of their formulae are classified in
+every one of the relevant main groups.
+8. Salts formed between two or more organic compounds are
+classified as the compound providing the essential ion and it is
+also classified as the compound providing the other ion.
+9. Salts or metal chelates of an organic compound are classified as
+10.In this subclass, a foodstuff is not considered as an active
+11.Different materials applied in sequence, at different times, are
+considered as a mixture of all materials employed.
+12.Synergistic or potentiated compositions are classified as if the
+synergist or potentiator were an active ingredient.
+13.In groups A01N 25/00 - A01N 65/00, the symbol X means
+nitrogen, oxygen, sulfur or a halogen; Y means nitrogen, oxygen
+or sulfur. A dotted line between atoms indicates an optional bond,
+ indicates one or two single bonds or a double bond.
+   25/00    Biocides, pest repellants or attractants, or plant
+growth regulators, characterised by their forms, or
+by their non-active ingredients or by their methods
+of application {, e.g. seed treatment or sequential
+application}; Substances for reducing the noxious
+effect of the active ingredients to organisms other
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   25/002   . {containing a foodstuff as carrier or diluent, i.e.
+   25/008   . . {molluscicidal}
+   25/02    . containing liquids as carriers, diluents or solvents
+   25/04    . . Dispersions, {emulsions, suspoemulsions,
+suspension concentrates} or gels (foams
+   25/08    . containing solids as carriers or diluents
+   25/10    . . Macromolecular compounds
+   25/12    . Powders or granules (A01N 25/26 takes
+   25/18    . Vapour or smoke emitting compositions with
+2Biocides; Pest repellants or attractants; Plant growth regulators
+   25/20    . Combustible or heat-generating compositions
+   25/22    . containing ingredients stabilising the active
+   25/24    . containing ingredients to enhance the sticking of the
+   25/26    . in coated particulate form
+   25/28    . . Microcapsules {or nanocapsules}
+   25/30    . characterised by the surfactants
+   25/32    . Ingredients for reducing the noxious effect of the
+active substances to organisms other than pests, e.g.
+toxicity reducing compositions, self-destructing
+   25/34    . Shaped forms, e.g. sheets, not provided for in any
+other sub-group of this main group
+   27/00    Biocides, pest repellants or attractants, or plant
+growth regulators containing hydrocarbons
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   29/00    Biocides, pest repellants or attractants, or plant
+growth regulators containing halogenated
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   29/02    . Acyclic compounds or compounds containing
+halogen attached to an aliphatic side-chain of a
+   29/04    . Halogen directly attached to a carbocyclic ring
+   29/06    . . Hexachlorocyclohexane
+   29/08    . . Halogen directly attached to a polycyclic ring
+   29/10    . Halogen attached to an aliphatic side chain of an
+   29/12    . . 1,1-Di- or 1,1,1-trihalo-2-aryl-ethane or -ethene
+or derivatives thereof, e.g. DDT
+   31/00    Biocides, pest repellants or attractants, or plant
+growth regulators containing organic oxygen or
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   31/02    . Acyclic compounds
+   31/04    . Oxygen or sulfur attached to an aliphatic side-chain
+   31/06    . Oxygen or sulfur directly attached to a
+   31/08    . Oxygen or sulfur directly attached to an aromatic
+   31/10    . . Pentachlorophenol
+   31/12    . . Bis-chlorophenols
+   31/16    . . with two or more oxygen or sulfur atoms directly
+attached to the same aromatic ring system
+   33/00    Biocides, pest repellants or attractants, or plant
+growth regulators containing organic nitrogen
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   33/02    . Amines; Quaternary ammonium compounds
+   33/04    . . Nitrogen directly attached to aliphatic or
+   33/06    . . Nitrogen directly attached to an aromatic ring
+   33/08    . . containing oxygen or sulfur
+   33/10    . . . having at least one oxygen or sulfur atom
+directly attached to an aromatic ring system
+   33/12    . . Quaternary ammonium compounds
+   33/14    . containing nitrogen-to-halogen bonds
+   33/16    . containing nitrogen-to-oxygen bonds
+   33/18    . . Nitro compounds
+   33/20    . . . containing oxygen or sulfur attached to the
+carbon skeleton containing the nitro group
+   33/22    . . . . having at least one oxygen or sulfur atom
+and at least one nitro group directly attached
+to the same aromatic ring system
+   33/24    . . only one oxygen atom attached to the nitrogen
+   33/26    . containing nitrogen-to-nitrogen bonds, e.g. azides,
+diazo-amino compounds, diazonium compounds,
+   35/00    Biocides, pest repellants or attractants, or plant
+growth regulators containing organic compounds
+containing a carbon atom having two bonds to
+hetero atoms with at the most one bond to halogen,
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   35/02    . containing aliphatically bound aldehyde or keto
+groups, or thio analogues thereof; Derivatives
+   35/04    . containing aldehyde or keto groups, or thio
+analogues thereof, directly attached to an aromatic
+ring system, e.g. acetophenone; Derivatives thereof,
+   35/06    . containing keto or thioketo groups as part of a ring,
+e.g. cyclohexanone, quinone; Derivatives thereof,
+   35/08    . at least one of the bonds to hetero atoms is to
+   35/10    . . containing a carbon-to-nitrogen double bond
+3Biocides; Pest repellants or attractants; Plant growth regulators
+   37/00    Biocides, pest repellants or attractants, or plant
+growth regulators containing organic compounds
+containing a carbon atom having three bonds
+to hetero atoms with at the most two bonds
+to halogen, e.g. carboxylic acids (containing
+cyclopropane carboxylic acids or derivatives
+thereof, e.g. cyclopropane carboxylic acid nitriles,
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   37/02    . Saturated carboxylic acids or thio analogues thereof;
+   37/06    . Unsaturated carboxylic acids or thio analogues
+   37/08    . containing carboxylic groups or thio analogues
+thereof, directly attached by the carbon atom to a
+cycloaliphatic ring; Derivatives thereof
+   37/10    . Aromatic or araliphatic carboxylic acids, or thio
+analogues thereof; Derivatives thereof
+   37/12    . containing the group 
+Cn means a carbon skeleton not containing a ring;
+   37/14    . containing the group 
+   37/16    . containing the group 
+   37/18    . containing the group —CO—N<, e.g. carboxylic
+acid amides or imides; Thio analogues thereof
+   37/20    . . containing the group 
+wherein Cn means a carbon skeleton not
+containing a ring; Thio analogues thereof
+   37/22    . . the nitrogen atom being directly attached to an
+aromatic ring system, e.g. anilides
+   37/24    . . . containing at least one oxygen or sulfur atom
+being directly attached to the same aromatic
+   37/26    . . containing the group 
+   37/28    . . containing the group 
+   37/30    . . containing the groups —CO—N< and 
+both being directly attached by their carbon atoms
+to the same carbon skeleton, e.g. H2N—NH—CO
+—C6H4—COOCH3; Thio-analogues thereof
+   37/32    . . Cyclic imides of polybasic carboxylic acids or
+   37/36    . containing at least one carboxylic group or a thio
+analogue, or a derivative thereof, and a singly bound
+oxygen or sulfur atom attached to the same carbon
+skeleton, this oxygen or sulfur atom not being a
+member of a carboxylic group or of a thio analogue,
+or of a derivative thereof, e.g. hydroxy-carboxylic
+   37/38    . . having at least one oxygen or sulfur atom
+attached to an aromatic ring system
+   37/40    . . . having at least one carboxylic group or a thio
+analogue, or a derivative thereof, and one
+oxygen or sulfur atom attached to the same
+   37/42    . containing within the same carbon skeleton a
+carboxylic group or a thio analogue, or a derivative
+thereof, and a carbon atom having only two bonds
+to hetero atoms with at the most one bond to
+halogen, e.g. keto-carboxylic acids
+   37/44    . containing at least one carboxylic group or a thio
+analogue, or a derivative thereof, and a nitrogen
+atom attached to the same carbon skeleton by a
+single or double bond, this nitrogen atom not being
+a member of a derivative or of a thio analogue of a
+carboxylic group, e.g. amino-carboxylic acids
+   37/46    . . N-acyl derivatives
+   37/48    . . Nitro-carboxylic acids; Derivatives thereof
+   37/50    . . the nitrogen atom being doubly bound to the
+   39/00    Biocides, pest repellants or attractants, or plant
+growth regulators containing aryloxy- or arylthio-
+aliphatic or cycloaliphatic compounds, containing
+phenoxyethylamine, phenylthio-acetonitrile,
+1. In this group, the symbol Cn means a carbon
+skeleton, not containing an aromatic ring system
+2. {In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   39/02    . Aryloxy-carboxylic acids; Derivatives thereof
+   39/04    . . Aryloxy-acetic acids; Derivatives thereof
+   41/00    Biocides, pest repellants or attractants, or plant
+growth regulators containing organic compounds
+containing a sulfur atom bound to a hetero atom
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   41/02    . containing a sulfur-to-oxygen double bond
+   41/04    . . Sulfonic acids; Derivatives thereof
+   41/06    . . . Sulfonic acid amides
+   41/08    . . . Sulfonic acid halides; alpha-Hydroxy-sulfonic
+acids; Amino-sulfonic acids; Thiosulfonic
+4Biocides; Pest repellants or attractants; Plant growth regulators
+   41/10    . . Sulfones; Sulfoxides
+   41/12    . not containing sulfur-to-oxygen bonds, e.g.
+   43/00    Biocides, pest repellants or attractants, or
+plant growth regulators containing heterocyclic
+compounds (containing cyclic anhydrides, cyclic
+imides A01N 37/00; containing compounds of
+one heterocyclic ring, wherein m>=1 and n>=0
+is unsubstituted or alkylsubstituted
+pyrrolidine, piperidine, morpholine, thiomorpholine,
+piperazine or a polymethyleneimine with four or more
+CH2 groups, A01N 33/00 - A01N 41/12; containing
+cyclopropane carboxylic acids or derivatives thereof,
+e.g. esters having heterocyclic rings, A01N 53/00)
+1. In group A01N 43/00, the following terms or
+expressions are used with the meanings indicated:
+• "Hetero ring" is a ring having at least one
+halogen nitrogen, oxygen or sulfur atom as a
+• "Bridged" means the presence of at least one
+fusion other than ortho, peri and spiro.
+• Two rings are "condensed" if they share at least
+one ring member, i.e. "spiro" and "bridged" are
+• "Condensed ring system" is a ring system
+in which all rings are condensed among
+2. In group A01N 43/00, the number of rings in a
+condensed system equals the number of scissions
+necessary to convert the ring system into one
+acyclic chain. The relevant rings in a condensed
+system are chosen according to the following
+i. lowest number of ring members,
+ii. highest number of hetero atoms as ring
+Ring members shared by two or more rings are
+regarded as being a member of each of these rings.
+3. {In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   43/02    . having rings with one or more oxygen or sulfur
+atoms as the only ring hetero atoms
+   43/04    . . with one hetero atom
+   43/06    . . . five-membered rings
+   43/08    . . . . with oxygen as the ring hetero atom
+   43/10    . . . . with sulfur as the ring hetero atom
+   43/12    . . . . condensed with a carbocyclic ring
+   43/14    . . . six-membered rings
+   43/16    . . . . with oxygen as the ring hetero atom
+   43/18    . . . . with sulfur as the ring hetero atom
+   43/20    . . . three- or four-membered rings
+   43/22    . . . rings with more than six members
+   43/24    . . with two or more hetero atoms
+   43/26    . . . five-membered rings
+   43/28    . . . . with two hetero atoms in positions 1,3
+   43/30    . . . . . with two oxygen atoms in positions 1,3,
+condensed with a carbocyclic ring
+   43/32    . . . six-membered rings
+   43/34    . having rings with one nitrogen atom as the only ring
+   43/36    . . five-membered rings
+   43/38    . . . condensed with carbocyclic rings
+   43/40    . . six-membered rings
+   43/42    . . . condensed with carbocyclic rings
+   43/44    . . three- or four-membered rings
+   43/46    . . rings with more than six members
+   43/48    . having rings with two nitrogen atoms as the only
+   43/50    . . 1,3-Diazoles; Hydrogenated 1,3-diazoles
+   43/52    . . . condensed with carbocyclic rings, e.g.
+   43/54    . . 1,3-Diazines; Hydrogenated 1,3-diazines
+   43/56    . . 1,2-Diazoles; Hydrogenated 1,2-diazoles
+   43/58    . . 1,2-Diazines; Hydrogenated 1,2-diazines
+   43/60    . . 1,4-Diazines; Hydrogenated 1,4-diazines
+   43/62    . . three- or four-membered rings or rings with more
+   43/64    . having rings with three nitrogen atoms as the only
+   43/647   . . Triazoles; Hydrogenated triazoles
+   43/653   . . . 1,2,4-Triazoles; Hydrogenated 1,2,4-triazoles
+   43/66    . . 1,3,5-Triazines, not hydrogenated and not
+substituted at the ring nitrogen atoms
+   43/68    . . . with two or three nitrogen atoms directly
+   43/70    . . . . Diamino—1,3,5—triazines with only one
+oxygen, sulfur or halogen atom or only
+one cyano, thiocyano (—SCN), cyanato
+(—OCN) or azido (—N3) group directly
+   43/707   . . 1,2,3- or 1,2,4-triazines; Hydrogenated 1,2,3- or
+   43/713   . having rings with four or more nitrogen atoms as the
+   43/72    . having rings with nitrogen atoms and oxygen or
+sulfur atoms as ring hetero atoms
+   43/74    . . five-membered rings with one nitrogen atom and
+either one oxygen atom or one sulfur atom in
+   43/76    . . . 1,3-Oxazoles; Hydrogenated 1,3-oxazoles
+   43/78    . . . 1,3-Thiazoles; Hydrogenated 1,3-thiazoles
+   43/80    . . five-membered rings with one nitrogen atom and
+either one oxygen atom or one sulfur atom in
+   43/82    . . five-membered rings with three ring hetero atoms
+   43/84    . . six-membered rings with one nitrogen atom and
+either one oxygen atom or one sulfur atom in
+   43/86    . . six-membered rings with one nitrogen atom and
+either one oxygen atom or one sulfur atom in
+   43/88    . . six-membered rings with three ring hetero atoms
+   43/90    . having two or more relevant hetero rings, condensed
+among themselves or with a common carbocyclic
+   43/92    . having rings with one or more halogen atoms as ring
+5Biocides; Pest repellants or attractants; Plant growth regulators
+   45/00    Biocides, pest repellants or attractants, or plant
+growth regulators, containing compounds having
+three or more carbocyclic rings condensed
+among themselves, at least one ring not being
+a six-membered ring (halogenated hydrocarbons
+A01N 29/08; condensed with heterocyclic rings
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   45/02    . having three carbocyclic rings
+   47/00    Biocides, pest repellants or attractants, or plant
+growth regulators containing organic compounds
+containing a carbon atom not being member of a
+ring and having no bond to a carbon or hydrogen
+atom, e.g. derivatives of carbonic acid (carbon
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   47/02    . the carbon atom having no bond to a nitrogen atom
+   47/04    . . containing >N—S—C≡(Hal)3 groups
+   47/06    . . containing —O—CO—O— groups; Thio
+   47/08    . the carbon atom having one or more single bonds to
+   47/10    . . Carbamic acid derivatives, i.e. containing the
+group —O—CO—N<; Thio analogues thereof
+   47/12    . . . containing a —O—CO—N< group, or a thio
+analogue thereof, neither directly attached to a
+ring nor the nitrogen atom being a member of a
+   47/14    . . . . Di-thio analogues thereof
+   47/16    . . . the nitrogen atom being part of a heterocyclic
+   47/18    . . . containing a —O—CO—N< group, or a
+thio analogue thereof, directly attached to a
+heterocyclic or cycloaliphatic ring
+   47/20    . . . N-Aryl derivatives thereof
+   47/22    . . . O-Aryl or S-Aryl esters thereof
+   47/24    . . . containing the groups 
+   47/26    . . . Oxidation products of dithiocarbamic acid
+derivatives, e.g. thiuram sulfides
+   47/28    . . Ureas or thioureas containing the groups >N—
+CO—N< or >N—CS—N< (isoureas, isothioureas
+   47/30    . . . Derivatives containing the group >N—CO—N
+   47/32    . . . containing >N—CO—N< or >N—CS—N<
+groups directly attached to a cycloaliphatic ring
+   47/34    . . . containing the groups
+biuret; Thio analogues thereof; Urea-aldehyde
+   47/36    . . . containing the group >N—CO—N< directly
+attached to at least one heterocyclic ring; Thio
+   47/38    . . . containing the group >N—CO—N< where at
+least one nitrogen atom is part of a heterocyclic
+   47/40    . the carbon atom having a double or triple bond to
+nitrogen, e.g. cyanates, cyanamides
+   47/42    . . containing —N=CX2 groups, e.g. isothiourea
+   47/44    . . . Guanidine; Derivatives thereof
+   47/46    . . containing —N=C=S groups
+   47/48    . . containing —S—C≡N groups
+(A01N 43/00 - A01N 47/38 take precedence)
+   49/00    Biocides, pest repellants or attractants, or plant
+growth regulators, containing compounds
+wherein m+n>=1, both X together may also mean
+—Y— or a direct carbon-to-carbon bond, and
+the carbon atoms marked with an asterisk are not
+part of any ring system other than that which may
+be formed by the atoms X, the carbon atoms in
+square brackets being part of any acyclic or cyclic
+wherein A means a carbon atom or Y, n>=0, and
+not more than one of these carbon atoms being
+a member of the same ring system, e.g. juvenile
+insect hormones or mimics thereof (containing
+1. Group A01N 49/00 is intended to cover insect
+2. {In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   51/00    Biocides, pest repellants or attractants, or plant
+growth regulators containing organic compounds
+having the sequences of atoms O—N—S, X—O—
+S, N—N—S, O—N—N or O-halogen, regardless
+of the number of bonds each atom has and with
+no atom of these sequences forming part of a
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+6Biocides; Pest repellants or attractants; Plant growth regulators
+   53/00    Biocides, pest repellants or attractants, or plant
+growth regulators containing cyclopropane
+carboxylic acids or derivatives thereof
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   55/00    Biocides, pest repellants or attractants, or plant
+growth regulators, containing organic compounds
+containing elements other than carbon, hydrogen,
+halogen, oxygen, nitrogen and sulfur (containing
+organo-phosphorus compounds A01N 57/00)
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   55/02    . containing metal atoms
+   57/00    Biocides, pest repellants or attractants, or plant
+growth regulators containing organic phosphorus
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   57/02    . having alternatively specified atoms bound to the
+phosphorus atom and not covered by a single one
+of groups A01N 57/10, A01N 57/18, A01N 57/26,
+   57/04    . . containing acyclic or cycloaliphatic radicals
+   57/06    . . containing aromatic radicals
+   57/08    . . containing heterocyclic radicals
+   57/10    . having phosphorus-to-oxygen bonds or phosphorus-
+to-sulfur bonds (A01N 57/02 takes precedence)
+   57/12    . . containing acyclic or cycloaliphatic radicals
+   57/14    . . containing aromatic radicals
+   57/16    . . containing heterocyclic radicals
+   57/18    . having phosphorus-to-carbon bonds (A01N 57/02
+   57/20    . . containing acyclic or cycloaliphatic radicals
+   57/22    . . containing aromatic radicals
+   57/24    . . containing heterocyclic radicals
+   57/26    . having phosphorus-to-nitrogen bonds (A01N 57/02
+   57/28    . . containing acyclic or cycloaliphatic radicals
+   57/30    . . containing aromatic radicals
+   57/32    . . containing heterocyclic radicals
+   57/34    . having phosphorus-to-halogen bonds; Phosphonium
+   57/36    . having phosphorus as a ring member
+   59/00    Biocides, pest repellants or attractants, or
+plant growth regulators containing elements or
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   59/02    . Sulfur; Selenium; Tellurium; Compounds thereof
+   59/04    . Carbon disulfide; Carbon monoxide; Carbon
+   59/06    . Aluminium; Calcium; Magnesium; Compounds
+   59/08    . Alkali metal chlorides; Alkaline earth metal
+   59/12    . Iodine, e.g. iodophors; Compounds thereof
+   59/14    . Boron; Compounds thereof
+   59/16    . Heavy metals; Compounds thereof
+   59/24    . Cyanogen or compounds thereof, e.g. hydrogen
+cyanide, cyanic acid, cyanamide, thiocyanic acid
+   59/26    . Phosphorus; Compounds thereof
+   61/00    Biocides, pest repellants or attractants, or plant
+growth regulators containing substances of
+unknown or undetermined composition, e.g.
+substances characterised only by the mode of
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   61/02    . Mineral oils; Tar oils; Tar; Distillates, extracts or
+conversion products thereof (containing single
+chemical compounds isolated from these materials
+   63/00    Biocides, pest repellants or attractants, or plant
+growth regulators containing microorganisms,
+viruses, microbial fungi, animals or substances
+produced by, or obtained from, microorganisms,
+viruses, microbial fungi or animals, e.g. enzymes
+or fermentates (containing compounds of determined
+constitution A01N 27/00 - A01N 59/00; unicellular
+1. In this main group and its indented subgroups,
+the last place priority rule is not applied, i.e. the
+2. {In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   63/10    . Animals; Substances produced thereby or obtained
+7Biocides; Pest repellants or attractants; Plant growth regulators
+   63/20    . Bacteria; Substances produced thereby or obtained
+   63/23    . . . B. thuringiensis
+   63/30    . Microbial fungi; Substances produced thereby or
+   63/40    . Viruses, e.g. bacteriophages
+   63/50    . Isolated enzymes; Isolated proteins (peptides
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   63/60    . Isolated nucleic acids
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   65/00    Biocides, pest repellants or attractants, or plant
+growth regulators containing material from
+algae, lichens, bryophyta, multi-cellular fungi or
+plants, or extracts thereof (containing compounds of
+determined constitution A01N 27/00 - A01N 59/00)
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+found in the Definitions of A01N.}
+   65/04    . Pteridophyta [fern allies]; Filicophyta [ferns]
+   65/06    . Coniferophyta [gymnosperms], e.g. cypress
+   65/08    . Magnoliopsida [dicotyledons]
+   65/10    . . Apiaceae or Umbelliferae [Carrot family], e.g.
+parsley, caraway, dill, lovage, fennel or snakebed
+   65/12    . . Asteraceae or Compositae [Aster or Sunflower
+family], e.g. daisy, pyrethrum, artichoke, lettuce,
+sunflower, wormwood or tarragon
+   65/14    . . Celastraceae [Staff-tree or Bittersweet family],
+e.g. spindle tree, bittersweet or thunder god vine
+   65/16    . . Ericaceae [Heath or Blueberry family], e.g.
+rhododendron, arbutus, pieris, cranberry or
+   65/18    . . Euphorbiaceae [Spurge family], e.g. ricinus
+   65/20    . . Fabaceae or Leguminosae [Pea or Legume
+family], e.g. pea, lentil, soybean, clover, acacia,
+honey locust, derris or millettia
+   65/22    . . Lamiaceae or Labiatae [Mint family], e.g. thyme,
+rosemary, skullcap, selfheal, lavender, perilla,
+pennyroyal, peppermint or spearmint
+   65/24    . . Lauraceae [Laurel family], e.g. laurel, avocado,
+   65/26    . . Meliaceae [Chinaberry or Mahogany family], e.g.
+   65/28    . . Myrtaceae [Myrtle family], e.g. teatree or clove
+   65/30    . . Polygonaceae [Buckwheat family], e.g. red-knees
+   65/32    . . Ranunculaceae [Buttercup family], e.g. hepatica,
+   65/34    . . Rosaceae [Rose family], e.g. strawberry,
+hawthorn, plum, cherry, peach, apricot or almond
+   65/36    . . Rutaceae [Rue family], e.g. lime, orange, lemon,
+   65/38    . . Solanaceae [Potato family], e.g. nightshade,
+tomato, tobacco or chilli pepper
+   65/40    . Liliopsida [monocotyledons]
+   65/42    . . Aloeaceae [Aloe family] or Liliaceae [Lily
+family], e.g. aloe, veratrum, onion, garlic or
+   65/44    . . Poaceae or Gramineae [Grass family], e.g.
+bamboo, lemon grass or citronella grass
+   65/46    . . Stemonaceae [Stemona family], e.g. croomia
+   65/48    . . Zingiberaceae [Ginger family], e.g. ginger or
+ 2300/00    Combinations or mixtures of active ingredients
+covered by classes A01N 27/00 - A01N 65/48 with
+other active or formulation relevant ingredients,
+e.g. specific carrier materials or surfactants,
+covered by classes A01N 25/00 - A01N 65/48
+A01N 2300/00 is only used as a subsequent
+symbol in C-Sets and should not be allocated as
+a single symbol. Detailed information about C-
+Sets construction and the associated syntax rules is
+present in the Definitions of A01N 27/00.

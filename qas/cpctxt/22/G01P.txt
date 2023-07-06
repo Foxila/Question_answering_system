@@ -1,0 +1,375 @@
+COOPERATIVE PATENT CLASSIFICATION
+MEASURING LINEAR OR ANGULAR SPEED, ACCELERATION, DECELERATION,
+OR SHOCK; INDICATING PRESENCE, ABSENCE, OR DIRECTION, OF
+MOVEMENT (measuring or recording blood flow A61B 5/02, A61B 8/06; monitoring speed
+or deceleration of electrically-propelled vehicles B60L 3/00; vehicle lighting systems adapted
+to indicate speed B60Q 1/54; determining position or course in navigation, measuring ground
+distance in geodesy or surveying G01C; combined measuring devices for measuring two or more
+variables of movement G01C 23/00; measuring velocity of sound G01H; measuring velocity
+of light G01J 7/00; measuring direction or velocity of solid objects by reception or emission of
+radiowaves or other waves and based on propagation effects, e.g. Doppler effect, propagation
+time, direction of propagation, G01S; measuring speed of nuclear radiation G01T; measuring
+acceleration of gravity G01V; {measuring or recording the speed of trains B61L 23/00; speed
+indicators incorporated in motor vehicles B60K 35/00; measuring frequency or phase G01R;
+1. This subclass covers measuring direction or velocity of flowing fluids using propagation effects of radiowaves or other waves
+caused in the fluid itself, e.g. by laser anemometer, by ultrasonic flowmeter with "sing-around-system".
+2. Attention is drawn to the Notes following the title of class G01.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Details of instruments
+    1/003   . {used for damping}
+    1/006   . {used for thermal compensation}
+    1/023   . . {for acceleration measuring devices}
+    1/026   . . {for speed measuring devices, e.g. pulse
+    1/04    . Special adaptations of driving means
+    1/06    . {Indicating or recording devices, e.g. for remote
+indication (indicating or recording in general G01D;
+registering or indicating working conditions of
+    1/07    . Indicating devices, e.g. for remote indication
+(indicating working conditions of vehicles
+    1/08    . . Arrangements of scales, pointers, lamps
+or acoustic indicators, e.g. in automobile
+    1/10    . . . for indicating predetermined speeds
+    1/103   . . . . {by comparing the value of the measured
+signal with one or several reference values
+    1/106   . . . . {by comparing the time duration between
+two impulses with a reference time}
+    1/11    . . . . by the detection of the position of the
+    1/12    . Recording devices (indicating working conditions of
+    1/122   . . {Speed recorders}
+    1/125   . . . {with recording discs}
+    1/127   . . {for acceleration values}
+    1/14    . . for permanent recording {(G01P 1/125 takes
+    1/16    . . for erasable recording, e.g. magnetic recording
+    3/00    Measuring linear or angular speed; Measuring
+differences of linear or angular speeds
+(G01P 5/00 - G01P 11/00 take precedence; {direction
+and speed indication G01P 13/045}; counting
+The sub-groups of this group are distinguished
+by the method of measurement which is of major
+importance. Thus the mere application of other
+methods for giving a final indication does not
+    3/02    . Devices characterised by the use of mechanical
+    3/04    . . by comparing two speeds
+    3/06    . . . using a friction gear
+    3/08    . . . using differential gearing
+    3/10    . . by actuating an indicating element, e.g. pointer,
+    3/12    . . by making use of a system excited by impact
+    3/14    . . by exciting one or more mechanical resonance
+    3/16    . . by using centrifugal forces of solid masses
+    3/18    . . . transferred to the indicator by mechanical
+    3/20    . . . transferred to the indicator by fluid means
+    3/22    . . . transferred to the indicator by electric or
+    3/24    . . by using friction effects (G01P 3/06 takes
+    3/26    . Devices characterised by the use of fluids
+    3/263   . . {by using fluidic impulse generators}
+    3/266   . . {by using a vortex chamber}
+    3/30    . . by using centrifugal forces of fluids
+    3/32    . . . in a rotary container communicating with a
+    3/34    . . by using friction effects
+    3/36    . Devices characterised by the use of optical means,
+e.g. using infra-red, visible, or ultra-violet light
+(G01P 3/68 takes precedence; gyrometers using
+the Sagnac effect, i.e. rotation-induced shifts
+between counter-rotating electromagnetic beams
+    3/363   . . {by using a ring laser (ring lasers in general
+    3/366   . . {by using diffraction of light (for measuring
+    3/38    . . using photographic means
+    3/40    . . using stroboscopic means
+    3/42    . Devices characterised by the use of electric or
+magnetic means (G01P 3/66 takes precedence;
+measuring electric or magnetic values in general
+    3/44    . . for measuring angular speed (G01P 3/56 takes
+    3/443   . . . {mounted in bearings (bearings F16C)}
+    3/446   . . . . {mounted between two axially spaced rows
+    3/46    . . . by measuring amplitude of generated current or
+voltage {(in general G01R 19/00)}
+    3/465   . . . . {by using dynamo-electro tachometers or
+    3/48    . . . by measuring frequency of generated current or
+voltage {(in general G01R 23/00)}
+    3/4802  . . . . {by using electronic circuits in general}
+    3/4805  . . . . . {by using circuits for the electrical
+integration of the generated pulses
+(measuring impulse frequency by
+    3/4807  . . . . . {by using circuits for the detection of the
+pulses delivered by the ignition system of
+    3/481   . . . . of pulse signals
+    3/4815  . . . . . {using a pulse wire sensor, e.g. Wiegand
+    3/482   . . . . . delivered by nuclear radiation detectors
+    3/483   . . . . . delivered by variable capacitance detectors
+    3/484   . . . . . delivered by contact-making switches
+    3/486   . . . . . delivered by photo-electric detectors
+    3/487   . . . . . delivered by rotating magnets
+    3/488   . . . . . delivered by variable reluctance detectors
+    3/489   . . . . . Digital circuits therefor
+    3/49    . . . using eddy currents
+    3/495   . . . . where the indicating means responds to
+forces produced by the eddy currents and the
+    3/4953  . . . . . {with a counter for the covered distance
+incorporated (measuring the covered
+    3/4956  . . . . . {with thermal compensation}
+    3/50    . . for measuring linear speed (G01P 3/56 takes
+    3/505   . . . {by using eddy currents}
+    3/52    . . . by measuring amplitude of generated current or
+    3/54    . . . by measuring frequency of generated current or
+    3/56    . . for comparing two speeds
+    3/565   . . . {by measuring or by comparing the phase
+of generated current or voltage (phase
+comparators per se H03D 13/00; phase
+    3/58    . . . by measuring or comparing amplitudes of
+generated currents or voltage {(amplitude
+    3/60    . . . by measuring or comparing frequency of
+generated currents or voltages {(frequency
+    3/62    . Devices characterised by the determination or
+the variation of atmospheric pressure with height
+to measure the vertical components of speed
+(measuring pressure in general G01L)
+    3/64    . Devices characterised by the determination of the
+time taken to traverse a fixed distance
+    3/66    . . using electric or magnetic means (G01P 3/80
+takes precedence; measuring short time intervals
+    3/665   . . . {for projectile velocity measurements}
+    3/68    . . using optical means, i.e. using infra-red, visible,
+or ultra-violet light (G01P 3/80 takes precedence
+{; by reflection of waves G01S 17/58})
+    3/685   . . . {for projectile velocity measurements}
+    3/80    . . using auto-correlation or cross-correlation
+    3/803   . . . {in devices of the type to be classified in
+    3/806   . . . {in devices of the type to be classified in
+    5/00    Measuring speed of fluids, e.g. of air stream;
+Measuring speed of bodies relative to fluids, e.g.
+of ship, of aircraft (application of speed-measuring
+devices for measuring volume of fluid G01F)
+    5/001   . {Full-field flow measurement, e.g. determining flow
+velocity and direction in a whole region at the same
+    5/003   . {by measuring fluid level in front of an obstacle}
+    5/005   . {by using a jet directed into the fluid}
+    5/006   . . {the jet used is composed of ionised or
+    5/008   . {by using an electrolyte added to the fluid}
+    5/01    . by using swirlflowmeter
+    5/02    . by measuring forces exerted by the fluid on solid
+    5/04    . . using deflection of baffle-plates
+    5/06    . . using rotation of vanes (measuring speed of
+    5/065   . . . {with mechanical coupling to the indicating
+    5/07    . . . with electrical coupling to the indicating device
+    5/08    . by measuring variation of an electric variable
+directly affected by the flow, e.g. by using dynamo-
+    5/083   . . {by using electronic circuits for measuring the
+    5/086   . . {by using special arrangements and constructions
+for measuring the dynamo-electric effect}
+    5/10    . by measuring thermal variables
+    5/12    . . using variation of resistance of a heated conductor
+    5/14    . by measuring differences of pressure in the fluid
+    5/16    . . using Pitot tubes {, e.g. Machmeter}
+    5/165   . . . Arrangements or constructions of Pitot tubes
+    5/17    . . . Coupling arrangements to the indicating device
+    5/175   . . . . with the determination of Mach number
+(analogue computers therefor G06G 7/57)
+    5/18    . by measuring the time taken to traverse a fixed
+    5/20    . . using particles entrained by a fluid stream
+    5/22    . . using auto-correlation or cross-correlation
+    5/24    . by measuring the direct influence of the streaming
+fluid on the properties of a detecting acoustical
+    5/241   . . {by using reflection of acoustical waves, i.e.
+    5/242   . . . {involving continuous, e.g. modulated or
+unmodulated, waves (G01P 5/244 takes
+    5/244   . . . {involving pulsed waves}
+    5/245   . . {by measuring transit time of acoustical waves
+(measuring propagation velocity of acoustical
+    5/247   . . . {Sing-around-systems}
+    5/248   . . . {by measuring phase differences}
+    5/26    . by measuring the direct influence of the streaming
+fluid on the properties of a detecting optical wave
+    7/00    Measuring speed by integrating acceleration
+(measuring travelled distance by double integration of
+{Measuring speed by using gyroscopic effect, e.g.
+using gas, using electron beam (gyroscopes or turn-
+sensitive devices per se G01C 19/00)}
+Absolute angular speed sensors are classified
+Group G01P 9/00 is no longer used for the
+classification of documents as of January 1, 2022.
+The content of this group is being reclassified into
+groups G01C 19/005, G01C 19/065, G01C 21/16,
+G01C 21/165, G01C 21/1652, G01C 21/1654,
+G01C 21/1656, G01C 21/166, G01C 21/18,
+G01C 21/183, G01C 21/185 and G01C 21/188.
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+Group G01P 9/02 is no longer used for
+the classification of documents as of
+January 1, 2022. The content of this group is
+being reclassified into groups G01C 19/005,
+G01C 19/02, G01C 19/025, G01C 19/04,
+G01C 19/06, G01C 19/065, G01C 19/08,
+G01C 19/10, G01C 19/12, G01C 19/14,
+G01C 19/16, G01C 19/18, G01C 19/20,
+G01C 19/22, G01C 19/24, G01C 19/26,
+G01C 19/28, G01C 19/30, G01C 19/32,
+G01C 19/34, G01C 19/36, G01C 19/38,
+G01C 19/40, G01C 19/42, G01C 19/44,
+G01C 19/46, G01C 19/48, G01C 19/50,
+G01C 19/52, G01C 19/54, G01C 21/16,
+G01C 21/165, G01C 21/1652, G01C 21/1654,
+G01C 21/1656, G01C 21/166, G01C 21/18,
+G01C 21/183, G01C 21/185 and G01C 21/188.
+All groups listed in this Warning should be
+considered in order to perform a complete
+. {using turn-sensitive devices with vibrating masses,
+Group G01P 9/04 is no longer used for
+the classification of documents as of
+January 1, 2022. The content of this group is
+being reclassified into groups G01C 19/005,
+G01C 19/56, G01C 19/5607, G01C 19/5614,
+G01C 19/5621, G01C 19/5628, G01C 19/5635,
+G01C 19/5642, G01C 19/5649, G01C 19/5656,
+G01C 19/5663, G01C 19/567, G01C 19/5677,
+G01C 19/5684, G01C 19/5691, G01C 19/5698,
+G01C 19/5705, G01C 19/5712, G01C 19/5719,
+G01C 19/5726, G01C 19/5733, G01C 19/574,
+G01C 19/5747, G01C 19/5755, G01C 19/5762,
+G01C 19/5769, G01C 19/5776, G01C 19/5783,
+G01C 21/16, G01C 21/165, G01C 21/1652,
+G01C 21/1654, G01C 21/1656, G01C 21/166,
+G01C 21/18, G01C 21/183, G01C 21/185 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   11/00    Measuring average value of speed (by determining
+time taken to traverse a fixed distance G01P 3/64,
+   11/02    . Measuring average speed of number of bodies, e.g.
+of vehicles for traffic control
+   13/00    Indicating or recording presence, absence, or
+direction, of movement (electric switches H01H;
+counting moving objects G06M 7/00)
+   13/0006  . {of fluids or of granulous or powder-like
+   13/0013  . . {by using a solid body which is shifted by the
+   13/002   . . . {with electrical coupling to the indicating
+   13/0026  . . {by using deflection of baffle-plates}
+   13/0033  . . . {with electrical coupling to the indicating
+   13/004   . . {by using the rotation of vanes}
+   13/0046  . . . {with electrical coupling to the indicating
+   13/0053  . . {by using dynamo-electric effect}
+   13/006   . . {by using thermal variables}
+   13/0066  . . {by using differences of pressure in the fluid}
+   13/0073  . . {by using vibrations generated by the fluid}
+   13/008   . {by using a window mounted in the fluid carrying
+tube (G01P 13/0013, G01P 13/0026, G01P 13/004
+   13/0086  . . {with photo-electric detection}
+   13/0093  . {by making use of products, e.g. chemical products
+added to the fluid in order to make the fluid flow
+   13/02    . Indicating direction only, e.g. by weather vane
+   13/025   . . {indicating air data, i.e. flight variables of an
+aircraft, e.g. angle of attack, side slip, shear, yaw}
+   13/04    . . Indicating positive or negative direction of a
+linear movement or clockwise or anti-clockwise
+direction of a rotational movement
+   13/045   . . . {with speed indication}
+   15/00    Measuring acceleration; Measuring deceleration;
+Measuring shock, i.e. sudden change of
+   15/001   . {by measuring acceleration changes by making use
+of a triple differentiation of a displacement signal}
+   15/003   . {Kinematic accelerometers, i.e. measuring
+acceleration in relation to an external reference
+frame, e.g. Ferratis accelerometers (G01P 15/001,
+G01P 15/16, G01P 15/165 take precedence)}
+   15/005   . . {measuring translational acceleration}
+   15/006   . {by making use of fluid seismic masses}
+   15/008   . . {by using thermal pick-up}
+   15/02    . by making use of inertia forces {using solid seismic
+masses}(G01P 15/14 takes precedence)
+   15/03    . . by using non-electrical means
+   15/032   . . . {by measuring the displacement of a movable
+   15/034   . . . . {for indicating angular accelerations
+(G01P 15/036 takes precedence)}
+   15/036   . . . . {for indicating predetermined acceleration
+   15/038   . . . {by using fluidic means}
+   15/04    . . for indicating maximum value
+   15/06    . . . using members subjected to a permanent
+   15/08    . . with conversion into electric or magnetic values
+ 2015/0805  . . . {being provided with a particular type
+of spring-mass-system for defining the
+displacement of a seismic mass due to an
+ 2015/0808  . . . . {for defining in-plane movement of the
+mass, i.e. movement of the mass in the plane
+ 2015/0811  . . . . . {for one single degree of freedom of
+ 2015/0814  . . . . . . {for translational movement of the mass,
+ 2015/0817  . . . . . . {for pivoting movement of the mass,
+ 2015/082   . . . . . {for two degrees of freedom of movement
+ 2015/0822  . . . . {for defining out-of-plane movement of the
+ 2015/0825  . . . . . {for one single degree of freedom of
+ 2015/0828  . . . . . . {the mass being of the paddle type being
+suspended at one of its longitudinal
+ 2015/0831  . . . . . . {the mass being of the paddle type
+having the pivot axis between the
+longitudinal ends of the mass, e.g. see-
+ 2015/0834  . . . . . . {the mass constituting a pendulum
+symmetrically between the longitudinal
+ends, the center of mass being shifted
+away from the plane of the pendulum
+ 2015/0837  . . . . . . {the mass being suspended so as to only
+allow movement perpendicular to the
+plane of the substrate, i.e. z-axis sensor}
+ 2015/084   . . . . . {the mass being suspended at more than
+one of its sides, e.g. membrane-type
+suspension, so as to permit multi-axis
+ 2015/0842  . . . . . . {the mass being of clover leaf shape}
+ 2015/0845  . . . . {using a plurality of spring-mass
+systems being arranged on one common
+planar substrate, the systems not being
+mechanically coupled and the sensitive
+direction of each system being different}
+ 2015/0848  . . . . {using a plurality of mechanically coupled
+spring-mass systems, the sensitive direction
+of each system being different}
+ 2015/0851  . . . . {using a plurality of spring-mass systems,
+each system having a different range of
+ 2015/0854  . . . . {using a particular shape of the mass, e.g.
+ 2015/0857  . . . . {using a particular shape of the suspension
+ 2015/086   . . . . . {using a torsional suspension spring}
+ 2015/0862  . . . {being provided with particular means being
+integrated into a MEMS accelerometer
+structure for providing particular additional
+functionalities to those of a spring mass
+ 2015/0865  . . . . {using integrated signal processing circuitry}
+ 2015/0868  . . . . {using self-test structures integrated into the
+ 2015/0871  . . . . {using stopper structures for limiting the
+ 2015/0874  . . . . {using means for preventing stiction of the
+ 2015/0877  . . . . {using integrated interconnect structures}
+ 2015/088   . . . . {for providing wafer-level encapsulation}
+ 2015/0882  . . . . {for providing damping of vibrations}
+   15/0885  . . . {by magnetostrictive pick-up}
+   15/0888  . . . {for indicating angular acceleration}
+   15/0891  . . . {with indication of predetermined acceleration
+values (G01P 15/135 takes precedence)}
+   15/0894  . . . {by non-contact electron transfer, i.e. electron
+   15/0897  . . . {by thermal pick-up (G01P 15/008 takes
+   15/09    . . . by piezo-electric pick-up
+   15/0907  . . . . {of the compression mode type}
+   15/0915  . . . . {of the shear mode type}
+   15/0922  . . . . {of the bending or flexing mode type}
+   15/093   . . . by photoelectric pick-up
+   15/097   . . . by vibratory elements
+   15/0975  . . . . {by acoustic surface wave resonators or
+   15/10    . . . . by vibratory strings
+   15/105   . . . by magnetically sensitive devices
+   15/11    . . . by inductive pick-up
+   15/12    . . . by alteration of electrical resistance
+{(G01P 15/0897, G01P 15/105 take
+   15/121   . . . . {by potentiometers}
+   15/122   . . . . {by metal resistance strain gauges, e.g. wire
+   15/123   . . . . {by piezo-resistive elements, e.g.
+   15/124   . . . . {by semiconductor devices comprising at
+least one PN junction, e.g. transistors}
+   15/125   . . . by capacitive pick-up
+   15/13    . . . by measuring the force required to restore a
+proofmass subjected to inertial forces to a null
+   15/131   . . . . {with electrostatic counterbalancing means}
+   15/132   . . . . {with electromagnetic counterbalancing
+   15/133   . . . . {with piezo-electric counterbalancing
+   15/135   . . . by making use of contacts which are actuated
+   15/14    . by making use of gyroscopes (gyroscopes per se
+   15/16    . by evaluating the time-derivative of a measured
+   15/165   . . {for measuring angular accelerations}
+   15/18    . in two or more dimensions
+   21/00    Testing or calibrating of apparatus or devices
+covered by the preceding groups
+   21/025   . . {for measuring speed of fluids; for measuring
+speed of bodies relative to fluids (for measuring

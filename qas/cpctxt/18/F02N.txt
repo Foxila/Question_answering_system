@@ -1,0 +1,219 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+COMBUSTION ENGINES; HOT-GAS OR COMBUSTION-PRODUCT ENGINE
+STARTING OF COMBUSTION ENGINES; STARTING AIDS FOR SUCH ENGINES,
+1. Attention is drawn to the notes preceding class F01.
+2. The starting of engines which are not explicitly stated to be combustion engines will be classified in this subclass insofar as
+their starting is equivalent to that of combustion engines.
+Muscle-operated starting apparatus
+    1/00    Starting apparatus having hand cranks (with
+intermediate power storage F02N 5/00 - F02N 15/00)
+    1/005   . {Safety means (F02N 1/02 takes precedence)}
+    1/02    . having safety means preventing damage caused by
+    3/00    Other muscle-operated starting apparatus (with
+intermediate power storage F02N 5/00 - F02N 15/00)
+    3/02    . having pull-cords
+    3/04    . having foot-actuated levers
+Power-operated starting apparatus; Muscle-operated starting
+apparatus with intermediate power storage
+    5/00    Starting apparatus having mechanical power
+    7/00    Starting apparatus having fluid-driven auxiliary
+    7/02    . the apparatus being of single-stroke piston type, e.g.
+pistons acting on racks or pull-cords
+    7/04    . . the pistons acting on screw-threaded members to
+    7/06    . the engines being of reciprocating-piston type (of
+internal-combustion type F02N 7/10)
+    7/08    . the engines being of rotary type
+    7/10    . characterised by using auxiliary engines or
+apparatus of combustion type (by using explosive
+    7/12    . . the engines being of rotary type, e.g. turbines
+    7/14    . . the starting engines being readily removable from
+main engines, e.g. of portable type
+    9/00    Starting of engines by supplying auxiliary pressure
+fluid to their working chambers
+    9/02    . the pressure fluid being generated directly by
+combustion (by using explosive cartridges
+    9/04    . the pressure fluid being generated otherwise, e.g. by
+   11/00    Starting of engines by means of electric motors
+   11/003   . {said electric motor being also used as a drive for
+auxiliaries, e.g. for driving transmission pumps or
+   11/006   . {using a plurality of electric motors}
+   11/02    . the motors having longitudinally-shiftable rotors
+   11/04    . the motors being associated with current generators
+   11/06    . . and with ignition apparatus
+   11/08    . Circuits {or control means} specially adapted for
+   11/0803  . . {characterised by means for initiating engine start
+or stop (F02N 11/0814 takes precedence)}
+   11/0807  . . . {Remote means}
+   11/0811  . . . {using a timer}
+   11/0814  . . {comprising means for controlling automatic idle-
+   11/0818  . . . {Conditions for starting or stopping the engine
+or for deactivating the idle-start-stop mode}
+   11/0822  . . . . {related to action of the driver}
+   11/0825  . . . . {related to prevention of engine restart
+failure, e.g. disabling automatic stop at low
+   11/0829  . . . . {related to special engine control, e.g. giving
+priority to engine warming-up or learning}
+   11/0833  . . . . {Vehicle conditions (F02N 11/0822,
+   11/0837  . . . . . {Environmental conditions thereof, e.g.
+traffic, weather or road conditions}
+   11/084   . . . . . {State of vehicle accessories, e.g. air
+   11/0844  . . . {with means for restarting the engine directly
+after an engine stop request, e.g. caused by
+   11/0848  . . {with means for detecting successful engine start,
+e.g. to stop starter actuation}
+   11/0851  . . {characterised by means for controlling the
+engagement or disengagement between engine
+and starter, e.g. meshing of pinion and engine
+1Power-operated starting apparatus; Muscle-operated starting apparatus with intermediate power storage
+   11/0855  . . . {during engine shutdown or after engine stop
+before start command, e.g. pre-engagement of
+   11/0859  . . {specially adapted to the type of the starter motor
+   11/0862  . . {characterised by the electrical power supply
+   11/0866  . . . {comprising several power sources, e.g. battery
+and capacitor or two batteries}
+   11/087   . . {Details of the switching means in starting
+circuits, e.g. relays or electronic switches}
+ 2011/0874  . . . {characterised by said switch being an
+ 2011/0877  . . . {said switch being used as a series-parallel
+switch, e.g. to switch circuit elements from
+ 2011/0881  . . {Components of the circuit not provided for by
+ 2011/0885  . . . {Capacitors, e.g. for additional power supply}
+ 2011/0888  . . . {DC/DC converters}
+ 2011/0892  . . . {Two coils being used in the starting circuit,
+e.g. in two windings in the starting relay or two
+ 2011/0896  . . . {Inverters for electric machines, e.g. starter-
+   11/10    . Safety devices (F02N 11/08 takes precedence)
+   11/101   . . {for preventing engine starter actuation or
+   11/103   . . . {according to the vehicle transmission or clutch
+   11/105   . . . {when the engine is already running
+(F02N 11/0848 takes precedence)}
+   11/106   . . {for stopping or interrupting starter actuation}
+   11/108   . . {for diagnosis of the starter or its components}
+   11/12    . Starting of engines by means of mobile, e.g.
+   11/14    . Starting of engines by means of electric starters
+with external current supply (F02N 11/12 takes
+   13/00    Starting of engines, or driving of starting
+apparatus by use of explosives, e.g. stored in
+   13/02    . Cartridges specially adapted therefor
+   15/00    Other power-operated starting apparatus;
+Component parts, details, or accessories, not
+provided for in, or of interest apart from groups
+   15/003   . {Starters comprising a brake mechanism}
+   15/006   . {Assembling or mounting of starting devices}
+   15/02    . Gearing between starting-engines and started
+engines; Engagement or disengagement thereof
+   15/021   . . {the gearing including disengaging starter jaws}
+   15/022   . . {the starter comprising an intermediate clutch}
+   15/023   . . . {of the overrunning type}
+   15/025   . . . {of the friction type}
+   15/026   . . . {of the centrifugal type}
+   15/027   . . . {of the pawl type}
+   15/028   . . . {of the jaw type}
+   15/04    . . the gearing including disengaging toothed gears
+   15/043   . . . {the gearing including a speed reducer}
+   15/046   . . . . {of the planetary type}
+   15/06    . . . the toothed gears being moved by axial
+ 2015/061   . . . . {said axial displacement being limited, e.g.
+   15/062   . . . . {Starter drives}
+   15/063   . . . . . {with resilient shock absorbers}
+   15/065   . . . . . {with blocking means}
+   15/066   . . . . {the starter being of the coaxial type}
+   15/067   . . . . {the starter comprising an electro-
+   15/068   . . . . {starter drive being actuated by muscular
+   15/08    . . the gearing being of friction type
+   15/10    . Safety devices not otherwise provided for
+   19/00    Starting aids for combustion engines, not
+   19/001   . {Arrangements thereof}
+ 2019/002   . {Aiding engine start by acting on fuel}
+   19/004   . {Aiding engine start by using decompression means
+   19/005   . {Aiding engine start by starting from a
+predetermined position, e.g. pre-positioning or
+ 2019/007   . . {using inertial reverse rotation}
+ 2019/008   . . {the engine being stopped in a particular
+   19/02    . Aiding engine start by thermal means, e.g. using
+   19/04    . . by heating of fluids used in engines
+   19/06    . . . by heating of combustion-air by flame
+generating means, e.g. flame glow-plugs
+   19/08    . . . . Arrangement thereof
+   19/10    . . . by heating of engine coolants
+   99/00    Subject matter not provided for in other groups of
+   99/002   . {Starting combustion engines by ignition means}
+   99/004   . . {Generation of the ignition spark}
+   99/006   . . {Providing a combustible mixture inside the
+   99/008   . . {Providing a combustible mixture outside the
+ 2200/00    Parameters used for control of starting apparatus
+ 2200/02    . said parameters being related to the engine
+ 2200/021   . . Engine crank angle
+ 2200/023   . . Engine temperature
+ 2200/024   . . Engine oil temperature
+ 2200/025   . . Engine oil pressure
+ 2200/026   . . Catalyst temperature
+ 2200/04    . said parameters being related to the starter motor
+ 2200/043   . . Starter voltage
+ 2200/044   . . Starter current
+ 2200/045   . . Starter temperature or parameters related to it
+ 2200/046   . . Energy or power necessary for starting
+ 2200/047   . . Information about pinion position
+ 2200/048   . . Information about pinion speed, both translational
+ 2200/06    . said parameters being related to the power supply or
+driving circuits for the starter
+ 2200/061   . . Battery state of charge [SOC]
+ 2200/062   . . Battery current
+ 2200/063   . . Battery voltage
+ 2200/064   . . Battery temperature
+ 2200/066   . . Relay temperature
+ 2200/08    . said parameters being related to the vehicle or its
+ 2200/0802  . . Transmission state, e.g. gear ratio or neutral state
+ 2200/0803  . . Parking brake state
+ 2200/0804  . . Temperature inside the vehicle cabin
+ 2200/0805  . . Detection of vehicle emergency state, e.g. from
+ 2200/0806  . . Air condition state
+ 2200/0807  . . Brake booster state
+ 2200/0808  . . Steering state, e.g. state of power assisted steering
+ 2200/0809  . . Electrical loads
+ 2200/0812  . . Power-take-off state
+ 2200/0813  . . Windscreen wiper state
+ 2200/0814  . . Bonnet switches
+ 2200/0815  . . Vehicle door sensors
+ 2200/10    . said parameters being related to driver demands or
+ 2200/101   . . Accelerator pedal position
+ 2200/102   . . Brake pedal position
+ 2200/103   . . Clutch pedal position
+ 2200/104   . . Driver's intention to turn, e.g. by evaluating
+ 2200/105   . . Driver behaviours or types, e.g. sportive or
+ 2200/106   . . Driver presence, e.g. detected by door lock, seat
+ 2200/12    . said parameters being related to the vehicle exterior
+ 2200/121   . . Atmospheric pressure, e.g. for determination of
+ 2200/122   . . Atmospheric temperature
+ 2200/123   . . Information about vehicle position, e.g. from
+navigation systems or GPS signals
+ 2200/124   . . Information about road conditions, e.g. road
+ 2200/125   . . Information about other vehicles, traffic lights or
+ 2200/14    . said parameter being related to wear of starter or
+other components, e.g. based on total number of
+Muscle-operated starting apparatus
+ 2250/00    Problems related to engine starting or engine's
+ 2250/02    . Battery voltage drop at start, e.g. drops causing
+ 2250/04    . Reverse rotation of the engine
+ 2250/06    . Engine stall and related control features, e.g. for
+ 2250/08    . Lubrication of starters; Sealing means for starters
+ 2300/00    Control related aspects of engine starting
+ 2300/10    . characterised by the control output, i.e. means or
+parameters used as a control output or target
+ 2300/102   . . Control of the starter motor speed; Control of the
+ 2300/104   . . Control of the starter motor torque
+ 2300/106   . . Control of starter current
+ 2300/108   . . Duty cycle control or pulse width modulation
+ 2300/20    . characterised by the control method
+ 2300/2002  . . using different starting modes, methods, or
+actuators depending on circumstances, e.g. engine
+ 2300/2004  . . using adaptive control
+ 2300/2006  . . using prediction of future conditions
+ 2300/2011  . . Control involving a delay; Control involving a
+waiting period before engine stop or engine start
+ 2300/30    . characterised by the use of digital means
+ 2300/302   . . using data communication
+ 2300/304   . . . with other systems inside the vehicle
+ 2300/306   . . . with external senders or receivers, e.g.
+receiving signals from traffic lights, other

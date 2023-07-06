@@ -1,0 +1,266 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+CONVEYING; PACKING; STORING; HANDLING THIN OR FILAMENTARY
+LABELLING OR TAGGING MACHINES, APPARATUS, OR PROCESSES (nailing
+or stapling in general B25C, B27F; applying labels for packaging purposes B65B; labels,
+name-plates G09F ){(series-printing machines B41L; containers for the storage or transport of
+In this subclass, the following term is used with the meaning indicated:
+• "labels" covers also decalcomanias, stamps or the like
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Labelling flat essentially-rigid surfaces (labelling of
+    1/02    . Affixing labels to one flat surface of articles, e.g. of
+    1/021   . . {the label being applied by movement of the
+labelling head towards the article (B65C 1/028
+    1/023   . . . {and being supplied from a stack (removing
+    1/025   . . {the label being picked up by the article to
+be labelled, i.e. the labelling head remaining
+    1/026   . . . {and the article being moved out of its normal
+conveyance path towards the labelling head
+    1/028   . . {the labelling head and the article both being
+    1/04    . Affixing labels, e.g. wrap-around labels, to two or
+more flat surfaces of a polyhedral article
+    1/042   . . {using two or more applicators, e.g. cooperating
+    1/045   . . . {acting one after the other}
+    1/047   . . {by rotating the article about one of its axes}
+    3/00    Labelling other than flat surfaces (of fabrics
+    3/02    . Affixing labels to elongated objects, e.g. wires,
+    3/04    . . Applying bands or labels to cigars or cigarettes
+{(bands for cigars or cigarettes A24D 1/16)}
+    3/06    . Affixing labels to short rigid containers
+    3/065   . . {by placing tubular labels around the container
+(applying preformed tubular sheathings of plastics
+in general B29C 63/18; applying protective
+    3/08    . . to container bodies {(B65C 3/065 takes
+    3/10    . . . the container being positioned for labelling
+with its centre-line horizontal
+    3/105   . . . . {the machine being hand- or foot driven}
+    3/12    . . . . by rolling the labels onto cylindrical
+    3/14    . . . the container being positioned for labelling
+    3/145   . . . . {the machine being hand- or foot driven}
+    3/16    . . . . by rolling the labels onto cylindrical
+    3/163   . . . . . {where the label is of the wrap-around
+    3/166   . . . . . . {the label being shrunken after
+    3/18    . . to container necks {(B65C 3/065 takes
+    3/20    . . to bottle closures (applying closures or capsules
+    3/22    . . . Affixing metal foil coverings
+    3/24    . . . Affixing labels indicating original state of
+    3/26    . Affixing labels to non-rigid containers, e.g. bottles
+made of polyethylene, boxes to be inflated by
+internal air pressure prior to labelling
+    5/00    Labelling fabrics or comparable materials or
+articles with deformable surface, e.g. paper, fabric
+rolls, stockings, shoes (affixing labels to non-rigid
+containers B65C 3/26; by sewing D05B {; applying
+marks during shoe manufacture A43D 95/14; marking
+textile materials by attaching tags D06H 1/04})
+    5/04    . . Thermo-activatable adhesives
+    5/06    . using staples {(man-operated portable stapling tools
+B25C 5/00; permanently attaching together sheets
+    7/00    Affixing tags (in combination with filling of tea bags
+B65B 29/04 {; multi-step processes for making labels
+    7/001   . {using pins having at least one sharp pointed end}
+    7/003   . {using paddle-shaped plastic pins (using plastic pins
+for affixing buttons to garments A41H 37/008)}
+    7/005   . . {Portable tools}
+    7/006   . . . {electrically actuated}
+    7/008   . . . {fluid-actuated}
+    9/00    Details of labelling machines or apparatus
+{(attaching articles to carriers B65B 15/00; cards of
+ 2009/0003  . {Use of RFID labels}
+    9/0006  . {Removing backing sheets}
+ 2009/0009  . . {by means of a peeling tip}
+ 2009/0012  . . . {the peeling tip having a variable radius}
+    9/0015  . {Preparing the labels or articles, e.g. smoothing,
+ 2009/0018  . . {Preparing the labels}
+ 2009/0021  . . . {for temporary attachment to transfer means or
+ 2009/0025  . . . . {by electrostatical charge}
+ 2009/0028  . . . {for activating the glue}
+ 2009/0031  . . . . {by radiation}
+ 2009/004   . . . . . {electron beam}
+ 2009/0046  . . . . {by hot air}
+ 2009/005   . . . {for reorienting the labels}
+ 2009/0053  . . . . {by rotation}
+ 2009/0056  . . . {removing overlapping labels from backing
+ 2009/0059  . . {Preparing the articles}
+    9/0062  . {Interchangeable modules, e.g. applicator heads
+with label magazines and glue rollers}
+    9/0065  . {Cutting tubular labels from a web}
+ 2009/0068  . {Machines or apparatus used with gas bottles}
+ 2009/0071  . {Details of glueing devices}
+ 2009/0075  . . {Constructional details of glueing rollers}
+ 2009/0078  . . {Constructional details of doctor blades}
+ 2009/0081  . {Means for forming a label web buffer, e.g. label
+ 2009/0084  . {Means for reversing the transport of label or web
+for repositioning the next to be dispensed label, e.g.
+ 2009/0087  . {Details of handling backing sheets}
+ 2009/009   . . {Devices for removing remaining labels from
+ 2009/0093  . . {Devices switching between a peelable and a non
+ 2009/0096  . . {Rotation of the backing sheet about its
+longitudinal axis by passing the backing sheet
+    9/02    . Devices for moving articles, e.g. containers, past
+    9/04    . . having means for rotating the articles
+    9/045   . . . {adapted for accommodating articles of
+different diameters, e.g. for adapting the
+program of rotation to the diameter of the
+    9/06    . Devices for presenting articles in predetermined
+attitude or position at labelling station
+    9/062   . . {for orienting bottles having swing stoppers, i.e.
+by means responsive to the position of the swing
+    9/065   . . {for orienting articles having irregularities in
+their shape, the irregularities being detected by
+    9/067   . . {for orienting articles having irregularities, e.g.
+holes, spots or markings, e.g. labels or imprints,
+the irregularities or markings being detected}
+    9/10    . . Label magazines
+    9/105   . . . {Storage arrangements including a plurality of
+    9/12    . . Removing separate labels from stacks (for
+printing B41F; separating articles from piles in
+general B65H)({multi-step processes for making
+labels or tags B31D 1/02}; for printing B41F)
+    9/16    . . . by wetting devices
+    9/18    . . Label feeding from strips, e.g. from rolls
+    9/1803  . . . {the labels being cut from a strip}
+    9/1807  . . . . {and transferred directly from the cutting
+    9/1811  . . . . . {the transfer involving heating means}
+    9/1815  . . . . {and transferred by suction means}
+    9/1819  . . . . . {the suction means being a vacuum drum}
+    9/1823  . . . . . . {the transfer involving heating means,
+e.g. heat activated glue-coating of the
+    9/1826  . . . . . {the suction means being a movable
+    9/183   . . . . {and transferred by gripping means or
+ 2009/1834  . . . . {Details of cutting means}
+ 2009/1838  . . . . . {Cutting drum}
+ 2009/1842  . . . . . . {Temperature control}
+ 2009/1849  . . . . . {Fluid-jet}
+ 2009/1853  . . . . . {Electrical resistance}
+ 2009/1857  . . . . . {two co-acting knifes}
+ 2009/1861  . . . . . . {whereby one knife remains stationary}
+    9/1865  . . . {the labels adhering on a backing strip}
+    9/1869  . . . . {and being transferred directly from the
+backing strip onto the article}
+    9/1873  . . . . . {the transfer involving heating means, e.g.
+    9/1876  . . . . {and being transferred by suction means}
+    9/188   . . . . . {the suction means being a vacuum drum}
+    9/1884  . . . . . {the suction means being a movable
+ 2009/1888  . . . . {Overlapping labels}
+    9/1892  . . . {Spools or cassettes for strips (in general
+    9/1896  . . . {the labels being torn or burst from a strip}
+    9/20    . Gluing the labels or articles
+    9/22    . . by wetting, e.g. by applying liquid glue or a liquid
+    9/2204  . . . {using spraying means}
+    9/2208  . . . . {Applying the liquid on the article}
+    9/2213  . . . . {Applying the liquid on the label}
+    9/2217  . . . . . {discretely, i.e. several points or strips or
+    9/2221  . . . . . {continuously, i.e. an uninterrupted film}
+    9/2226  . . . {using manipulator arms}
+    9/223   . . . . {Applying the liquid on the article}
+    9/2234  . . . . {Applying the liquid on the label}
+    9/2239  . . . . . {discretely, i.e. several points or strips or
+    9/2243  . . . . . {continuously, i.e. an uninterrupted film}
+    9/2247  . . . {using liquid rollers or bands}
+    9/2252  . . . . {Applying the liquid on the article}
+    9/2256  . . . . {Applying the liquid on the label}
+    9/226   . . . . . {discretely, i.e. several points or strips or
+    9/2265  . . . . . {continuously, i.e. an uninterrupted film}
+    9/2269  . . . . {Means for controlling the liquid film on the
+    9/2273  . . . {using wipers, pallets or segments
+(B65C 9/2226 takes precedence)}
+    9/2278  . . . . {Applying the liquid on the article}
+    9/2282  . . . . {Applying the liquid on the label}
+    9/2286  . . . . . {discretely, i.e. several points or strips or
+    9/2291  . . . . . {continuously, i.e. an uninterrupted film}
+ 2009/2295  . . . {Applying several tracks of glue or liquid}
+    9/25    . . . by thermo-activating the glue
+    9/26    . Devices for applying labels
+    9/262   . . {manually operable}
+    9/265   . . . {specially adapted for compact discs}
+ 2009/267   . . . . {for non-circular shaped compact discs}
+    9/28    . . Air-blast devices
+    9/32    . . . Cooperating rollers between which articles and
+    9/36    . . Wipers; Pressers
+    9/38    . Label cooling or drying
+    9/40    . Controls; Safety devices
+ 2009/401   . . {for detecting the height of articles to be labelled}
+ 2009/402   . . {for detecting properties or defects of labels}
+ 2009/404   . . . {prior to labelling}
+ 2009/405   . . . . {reading information before printing and
+ 2009/407   . . . {after labelling}
+ 2009/408   . . {reading information before printing and applying
+    9/42    . . Label feed control
+    9/44    . . . by special means responsive to marks on labels
+or articles (feed control in wrapping B65B)
+    9/46    . Applying date marks, code marks, or the like, to
+the label during labelling (manually-controlled
+or operable apparatus having printing equipment
+B65C 11/02; ticket printing and issuing G07B 1/00
+{; apparatus for ticket validating or cancelling
+   11/00    Manually-controlled or manually-operable label
+dispensers, e.g. modified for the application of
+labels to articles (special furniture, fittings, or
+accessories for shops, storehouses, bars, or the like
+A47F; for paper napkins, for toilet paper A47K; for
+playing cards A63F; movable-strip writing or reading
+apparatus B42D 19/00; adhesive tape dispensers
+B65H 35/002; dispensers for tickets G07B; coin-
+operated dispensers for stamps G07F {; dispensing
+devices for pamphlets from vehicles G09F 21/22})
+   11/002   . {modified for the application of labels to articles}
+   11/004   . . {label feeding from strips}
+   11/006   . {using electrical or electro-mechanical means
+(B65C 11/0289 and B65C 11/066 take precedence)}
+   11/008   . {using pneumatic means (B65C 11/0294 and
+   11/02    . having printing equipment
+   11/0205  . . {modified for the application of labels to articles}
+   11/021   . . . {label feeding from strips}
+   11/0215  . . . . {Labels being adhered to a web}
+   11/0221  . . . . . {Advancing the web by friction}
+   11/0226  . . . . . . {electrically driven}
+   11/0231  . . . . . . {by actuating a hanbdle manually}
+   11/0236  . . . . . {Advancing the web by a cog wheel}
+   11/0242  . . . . . . {electrically driven}
+   11/0247  . . . . . . {by actuating a handle manually}
+   11/0252  . . . . . {Advancing the web by grippers}
+   11/0257  . . . . . . {electrically driven}
+   11/0263  . . . . . . {by actuating a handle manually}
+   11/0268  . . . . . {Advancing the web by winding it up}
+   11/0273  . . . . . . {electrically driven}
+   11/0278  . . . . . . {by actuating a handle manually}
+   11/0284  . . . . {Linerless labels}
+   11/0289  . . {using electrical or electro-mechanical means
+(B65C 11/0205 takes precedence)}
+   11/0294  . . {using pneumatic means}
+   11/04    . having means for moistening the labels
+   11/043   . . {modified for the application of labels to articles}
+   11/046   . . . {label feeding from strips}
+   11/06    . having means for heating thermo-activatable labels
+   11/062   . . {modified for the application of labels to articles}
+   11/064   . . . {label feeding from strips}
+   11/066   . . {using electrical or electro-mechanical means}
+   11/068   . . {using pneumatic means}
+ 2201/00    Portable tools for labelling or tagging, associated
+ 2210/00    Details of manually controlled or manually
+ 2210/0002  . Data entry devices
+ 2210/0008  . . . Optical scanners
+ 2210/001   . . . Electromagnetical scanners
+ 2210/0013  . . Keyboards; Touchscreens
+ 2210/0021  . . Floppies; Smartcards
+ 2210/0027  . . . permanent connection
+ 2210/0035  . . . storing into memory
+ 2210/0037  . Printing equipment
+ 2210/004   . . using printing heads
+ 2210/0043  . . . electrically actuated
+ 2210/0045  . . . mechanically actuated, e.g. by a hand lever
+ 2210/0048  . . . . Means for controlling the force of the
+ 2210/0051  . . . Means for applying print to labels
+ 2210/0056  . . . . Inking rollers
+ 2210/0059  . . . using several printing heads
+ 2210/0062  . . . using color printing heads
+ 2210/0064  . . using thermosensitive labels
+ 2210/0067  . accommodating labels of different sizes
+ 2210/007   . Cutting equipment
+ 2210/0072  . Specific details of different parts
+ 2210/0075  . . Applying rollers
+ 2210/0078  . . Peeling devices
+ 2210/0091  . . correction label applying devices
+ 2210/0094  . . Label sensing devices
+ 2210/0097  . . Predetermining the label length

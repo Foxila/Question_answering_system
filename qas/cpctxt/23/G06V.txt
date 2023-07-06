@@ -1,0 +1,2134 @@
+COOPERATIVE PATENT CLASSIFICATION
+COMPUTING; CALCULATING OR COUNTING
+IMAGE OR VIDEO RECOGNITION OR UNDERSTANDING
+• methods or arrangements for pattern recognition or machine learning specially adapted for images or video.
+2. In this subclass, the following terms or expressions are used with the meaning indicated:
+• "pattern recognition" means detection, categorisation, authentication and identification of patterns for explanatory purposes
+or to derive a certain meaning in images or video, by acquiring, preprocessing or extracting distinctive features and
+matching, clustering or classifying these features or representations thereof;
+• "feature extraction" means deriving descriptive or quantitative measures from images or video;
+• "clustering" means grouping or separating patterns according to their (dis)similarity or closeness;
+• "classification" means the identification of an object/feature as belonging to a class of objects/features by assigning of a
+3. In this subclass, subject matter classified in groups G06V 20/00 - G06V 40/00 is also classified in groups G06V 10/10 or
+G06V 10/20 respectively, if recognition relies on specific processing at the stages of acquisition or preprocessing.
+   10/00    Arrangements for image or video recognition or
+understanding (character recognition in images or
+Groups G06V 10/00, G06V 10/74, G06V 10/77,
+G06V 10/7792, G06V 10/82 and G06V 10/86 are
+incomplete pending reclassification of documents
+from groups G06F 18/00, G06V 10/10 and
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   10/10    . Image acquisition (document image scanning and
+transmission H04N 1/00; control of digital cameras
+Group G06V 10/10 is incomplete pending
+reclassification of documents from group
+Group G06V 10/10 is also impacted
+by reclassification into groups
+G06V 10/00, G06V 10/70 - G06V 10/87,
+G06V 30/14 - G06V 30/158, G06V 30/199 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/12    . . Details of acquisition arrangements;
+Group G06V 10/12 is incomplete pending
+reclassification of documents from group
+Group G06V 10/12 is also impacted by
+reclassification into groups G06V 10/14 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/14    . . . Optical characteristics of the device performing
+the acquisition or on the illumination
+Group G06V 10/14 is incomplete pending
+reclassification of documents from groups
+Groups G06F 18/00, G06V 10/12 and
+G06V 10/14 should be considered in order
+   10/141   . . . . Control of illumination
+Group G06V 10/141 is incomplete
+pending reclassification of documents
+Group G06V 10/141 is also impacted by
+reclassification into group G06V 30/1431.
+Groups G06F 18/00, G06V 10/141 and
+G06V 30/1431 should be considered in
+order to perform a complete search.
+   10/143   . . . . Sensing or illuminating at different
+Group G06V 10/143 is incomplete
+pending reclassification of documents
+Group G06V 10/143 is also impacted by
+reclassification into group G06V 30/1429.
+Groups G06F 18/00, G06V 10/143 and
+G06V 30/1429 should be considered in
+order to perform a complete search.
+   10/145   . . . . Illumination specially adapted for pattern
+recognition, e.g. using gratings
+Group G06V 10/145 is incomplete
+pending reclassification of documents
+Group G06V 10/145 is also impacted by
+reclassification into group G06V 30/1434.
+Groups G06F 18/00, G06V 10/145 and
+G06V 30/1434 should be considered in
+order to perform a complete search.
+   10/147   . . . . Details of sensors, e.g. sensor lenses
+(fingerprint or palmprint sensors
+G06V 40/13; vascular sensors G06V 40/145;
+Group G06V 10/147 is incomplete
+pending reclassification of documents
+Group G06V 10/147 is also impacted
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   10/16    . . {using multiple overlapping images; Image
+Group G06V 10/16 is incomplete pending
+reclassification of documents from group
+Group G06V 10/16 is also impacted by
+reclassification into group G06V 30/141.
+Groups G06F 18/00, G06V 10/16 and
+G06V 30/141 should be considered in order to
+   10/17    . . {using hand-held instruments}
+Group G06V 10/17 is incomplete pending
+reclassification of documents from group
+Group G06V 10/17 is also impacted by
+reclassification into group G06V 30/142.
+Groups G06F 18/00, G06V 10/17 and
+G06V 30/142 should be considered in order to
+   10/19    . . {by sensing codes defining pattern positions}
+Group G06V 10/19 is incomplete pending
+reclassification of documents from group
+Group G06V 10/19 is also impacted by
+reclassification into group G06V 30/1426.
+Groups G06F 18/00, G06V 10/19 and
+G06V 30/1426 should be considered in order
+   10/20    . Image preprocessing
+Group G06V 10/20 is incomplete pending
+reclassification of documents from group
+Group G06V 10/20 is also impacted
+by reclassification into groups
+G06V 10/00, G06V 10/70 - G06V 10/87,
+G06V 30/16 - G06V 30/168, G06V 30/199 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/22    . . by selection of a specific region containing or
+referencing a pattern; Locating or processing
+of specific regions to guide the detection or
+Group G06V 10/22 is incomplete pending
+reclassification of documents from group
+Group G06V 10/22 is also impacted by
+reclassification into group G06V 30/1444.
+Groups G06F 18/00, G06V 10/22 and
+G06V 30/1444 should be considered in order
+   10/225   . . . {based on a marking or identifier characterising
+Group G06V 10/225 is incomplete pending
+reclassification of documents from group
+Group G06V 10/225 is also impacted by
+reclassification into group G06V 30/1448.
+Groups G06F 18/00, G06V 10/225 and
+G06V 30/1448 should be considered in
+order to perform a complete search.
+   10/23    . . . {based on positionally close patterns or
+Group G06V 10/23 is incomplete pending
+reclassification of documents from group
+Group G06V 10/23 is also impacted by
+reclassification into group G06V 30/1452.
+Groups G06F 18/00, G06V 10/23 and
+G06V 30/1452 should be considered in
+order to perform a complete search.
+   10/235   . . . {based on user input or interaction}
+Group G06V 10/235 is incomplete pending
+reclassification of documents from group
+Group G06V 10/235 is also impacted by
+reclassification into group G06V 30/1456.
+Groups G06F 18/00, G06V 10/235 and
+G06V 30/1456 should be considered in
+order to perform a complete search.
+   10/24    . . Aligning, centring, orientation detection or
+Group G06V 10/24 is incomplete pending
+reclassification of documents from group
+Group G06V 10/24 is also impacted by
+reclassification into group G06V 30/146.
+Groups G06F 18/00, G06V 10/24 and
+G06V 30/146 should be considered in order to
+   10/242   . . . {by image rotation, e.g. by 90 degrees}
+Group G06V 10/242 is incomplete pending
+reclassification of documents from group
+Group G06V 10/242 is also impacted by
+reclassification into group G06V 30/1463.
+Groups G06F 18/00, G06V 10/242 and
+G06V 30/1463 should be considered in
+order to perform a complete search.
+   10/243   . . . {by compensating for image skew or non-
+Group G06V 10/243 is incomplete pending
+reclassification of documents from group
+Group G06V 10/243 is also impacted by
+reclassification into group G06V 30/1475.
+Groups G06F 18/00, G06V 10/243 and
+G06V 30/1475 should be considered in
+order to perform a complete search.
+   10/245   . . . {by locating a pattern; Special marks for
+Group G06V 10/245 is incomplete pending
+reclassification of documents from group
+Group G06V 10/245 is also impacted by
+reclassification into groups G06V 30/1448,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/247   . . . {by affine transforms, e.g. correction due
+to perspective effects; Quadrilaterals, e.g.
+Group G06V 10/247 is incomplete pending
+reclassification of documents from group
+Group G06V 10/247 is also impacted by
+reclassification into group G06V 30/1607.
+Groups G06F 18/00, G06V 10/247 and
+G06V 30/1607 should be considered in
+order to perform a complete search.
+   10/248   . . . {by interactive preprocessing or interactive
+shape modelling, e.g. feature points assigned by
+Group G06V 10/248 is incomplete pending
+reclassification of documents from group
+Group G06V 10/248 is also impacted by
+reclassification into group G06V 30/1613.
+Groups G06F 18/00, G06V 10/248 and
+G06V 30/1613 should be considered in
+order to perform a complete search.
+   10/25    . . Determination of region of interest [ROI] or a
+Group G06V 10/25 is incomplete pending
+reclassification of documents from group
+Group G06V 10/25 is also impacted by
+reclassification into group G06V 30/147.
+Groups G06F 18/00, G06V 10/25 and
+G06V 30/147 should be considered in order to
+   10/255   . . {Detecting or recognising potential candidate
+objects based on visual cues, e.g. shapes}
+Group G06V 10/255 is incomplete pending
+reclassification of documents from group
+Group G06V 10/255 is also impacted by
+reclassification into group G06V 30/1473.
+Groups G06F 18/00, G06V 10/255 and
+G06V 30/1473 should be considered in order
+   10/26    . . Segmentation of patterns in the image field;
+Cutting or merging of image elements to
+establish the pattern region, e.g. clustering-based
+techniques; Detection of occlusion
+Group G06V 10/26 is incomplete pending
+reclassification of documents from group
+Group G06V 10/26 is also impacted by
+reclassification into group G06V 30/148.
+Groups G06F 18/00, G06V 10/26 and
+G06V 30/148 should be considered in order to
+   10/267   . . . {by performing operations on regions, e.g.
+growing, shrinking or watersheds}
+Group G06V 10/267 is incomplete pending
+reclassification of documents from group
+Group G06V 10/267 is also impacted by
+reclassification into group G06V 30/15.
+Groups G06F 18/00, G06V 10/267 and
+G06V 30/15 should be considered in order
+   10/273   . . . {removing elements interfering with the pattern
+Group G06V 10/273 is incomplete pending
+reclassification of documents from group
+Group G06V 10/273 is also impacted by
+reclassification into group G06V 30/155.
+Groups G06F 18/00, G06V 10/273 and
+G06V 30/155 should be considered in order
+   10/28    . . Quantising the image, e.g. histogram thresholding
+for discrimination between background and
+Group G06V 10/28 is incomplete pending
+reclassification of documents from group
+Group G06V 10/28 is also impacted by
+reclassification into group G06V 30/162.
+Groups G06F 18/00, G06V 10/28 and
+G06V 30/162 should be considered in order to
+   10/30    . . Noise filtering
+Group G06V 10/30 is incomplete pending
+reclassification of documents from group
+Group G06V 10/30 is also impacted by
+reclassification into group G06V 30/164.
+Groups G06F 18/00, G06V 10/30 and
+G06V 30/164 should be considered in order to
+   10/32    . . Normalisation of the pattern dimensions
+Group G06V 10/32 is incomplete pending
+reclassification of documents from group
+Group G06V 10/32 is also impacted by
+reclassification into group G06V 30/166.
+Groups G06F 18/00, G06V 10/32 and
+G06V 30/166 should be considered in order to
+   10/34    . . Smoothing or thinning of the pattern;
+Morphological operations; Skeletonisation
+Group G06V 10/34 is incomplete pending
+reclassification of documents from group
+Group G06V 10/34 is also impacted by
+reclassification into group G06V 30/168.
+Groups G06F 18/00, G06V 10/34 and
+G06V 30/168 should be considered in order to
+   10/36    . . Applying a local operator, i.e. means to operate
+on image points situated in the vicinity of a given
+point; Non-linear local filtering operations, e.g.
+Group G06V 10/36 is incomplete pending
+reclassification of documents from group
+Group G06V 10/36 is also impacted by
+reclassification into group G06V 30/20.
+Groups G06F 18/00, G06V 10/36 and
+G06V 30/20 should be considered in order to
+   10/40    . Extraction of image or video features
+Group G06V 10/40 is incomplete pending
+reclassification of documents from group
+Group G06V 10/40 is also impacted by
+reclassification into group s G06V 10/54 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/42    . . Global feature extraction by analysis of the
+whole pattern, e.g. using frequency domain
+transformations or autocorrelation
+Group G06V 10/42 is incomplete pending
+reclassification of documents from group
+Group G06V 10/42 is also impacted by
+reclassification into group G06V 30/186.
+Groups G06F 18/00, G06V 10/42 and
+G06V 30/186 should be considered in order to
+   10/421   . . . {by analysing segments intersecting the
+Group G06V 10/421 is incomplete pending
+reclassification of documents from group
+Group G06V 10/421 is also impacted by
+reclassification into group G06V 30/184.
+Groups G06F 18/00, G06V 10/421 and
+G06V 30/184 should be considered in order
+   10/422   . . . for representing the structure of the pattern or
+Group G06V 10/422 is incomplete pending
+reclassification of documents from group
+Group G06V 10/422 is also impacted by
+reclassification into group G06V 30/18162.
+Groups G06F 18/00, G06V 10/422 and
+G06V 30/18162 should be considered in
+order to perform a complete search.
+   10/424   . . . . Syntactic representation, e.g. by using
+Group G06V 10/424 is incomplete
+pending reclassification of documents
+Group G06V 10/424 is also impacted
+Groups G06F 18/00, G06V 10/424 and
+G06V 30/18171 should be considered in
+order to perform a complete search.
+   10/426   . . . . Graphical representations
+Group G06V 10/426 is incomplete
+pending reclassification of documents
+Group G06V 10/426 is also impacted
+Groups G06F 18/00, G06V 10/426 and
+G06V 30/18181 should be considered in
+order to perform a complete search.
+   10/431   . . . {Frequency domain transformation;
+Group G06V 10/431 is incomplete pending
+reclassification of documents from group
+Group G06V 10/431 is also impacted by
+reclassification into group G06V 30/187.
+Groups G06F 18/00, G06V 10/431 and
+G06V 30/187 should be considered in order
+   10/435   . . . {Computation of moments}
+Group G06V 10/435 is incomplete pending
+reclassification of documents from group
+Group G06V 10/435 is also impacted by
+reclassification into group G06V 30/188.
+Groups G06F 18/00, G06V 10/435 and
+G06V 30/188 should be considered in order
+   10/44    . . Local feature extraction by analysis of parts of the
+pattern, e.g. by detecting edges, contours, loops,
+corners, strokes or intersections; Connectivity
+analysis, e.g. of connected components
+Group G06V 10/44 is incomplete pending
+reclassification of documents from group
+Group G06V 10/44 is also impacted by
+reclassification into groups G06V 30/1801,
+G06V 30/182, G06V 30/1823, G06V 30/1826,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/443   . . . {by matching or filtering}
+Group G06V 10/443 is incomplete pending
+reclassification of documents from group
+Group G06V 10/443 is also impacted by
+reclassification into group G06V 30/18019.
+Groups G06F 18/00, G06V 10/443 and
+G06V 30/18019 should be considered in
+order to perform a complete search.
+   10/446   . . . . {using Haar-like filters, e.g. using integral
+Group G06V 10/446 is incomplete
+pending reclassification of documents
+Group G06V 10/446 is also impacted
+Groups G06F 18/00, G06V 10/446 and
+G06V 30/18029 should be considered in
+order to perform a complete search.
+   10/449   . . . . {Biologically inspired filters, e.g. difference
+of Gaussians [DoG] or Gabor filters}
+Group G06V 10/449 is incomplete
+pending reclassification of documents
+Group G06V 10/449 is also impacted
+Groups G06F 18/00, G06V 10/449 and
+G06V 30/18038 should be considered in
+order to perform a complete search.
+   10/451   . . . . . {with interaction between the filter
+responses, e.g. cortical complex cells}
+Group G06V 10/451 is incomplete
+pending reclassification of documents
+Group G06V 10/451 is also impacted
+Groups G06F 18/00, G06V 10/451 and
+G06V 30/18048 should be considered
+in order to perform a complete search.
+   10/454   . . . . . . {Integrating the filters into a
+hierarchical structure, e.g. convolutional
+Group G06V 10/454 is incomplete
+documents from group G06F 18/00.
+Group G06V 10/454 is also impacted
+considered in order to perform a
+   10/457   . . . {by analysing connectivity, e.g. edge linking,
+connected component analysis or slices}
+Group G06V 10/457 is incomplete pending
+reclassification of documents from group
+Group G06V 10/457 is also impacted by
+reclassification into group G06V 30/18076.
+Groups G06F 18/00, G06V 10/457 and
+G06V 30/18076 should be considered in
+order to perform a complete search.
+   10/46    . . Descriptors for shape, contour or point-related
+descriptors, e.g. scale invariant feature transform
+[SIFT] or bags of words [BoW]; Salient regional
+features (colour feature extraction G06V 10/56)
+Group G06V 10/46 is incomplete pending
+reclassification of documents from group
+Group G06V 10/46 is also impacted by
+reclassification into group G06V 30/182.
+Groups G06F 18/00, G06V 10/46 and
+G06V 30/182 should be considered in order to
+   10/462   . . . {Salient features, e.g. scale invariant feature
+Group G06V 10/462 is incomplete pending
+reclassification of documents from group
+Group G06V 10/462 is also impacted by
+reclassification into group G06V 30/18143.
+Groups G06F 18/00, G06V 10/462 and
+G06V 30/18143 should be considered in
+order to perform a complete search.
+   10/464   . . . . {using a plurality of salient features, e.g.
+bag-of-words [BoW] representations}
+Group G06V 10/464 is incomplete
+pending reclassification of documents
+Group G06V 10/464 is also impacted
+Groups G06F 18/00, G06V 10/464 and
+G06V 30/18152 should be considered in
+order to perform a complete search.
+   10/467   . . . {Encoded features or binary features, e.g. local
+Group G06V 10/467 is incomplete pending
+reclassification of documents from group
+Group G06V 10/467 is also impacted by
+reclassification into group G06V 30/18133.
+Groups G06F 18/00, G06V 10/467 and
+G06V 30/18133 should be considered in
+order to perform a complete search.
+   10/469   . . . {Contour-based spatial representations, e.g.
+Group G06V 10/469 is incomplete pending
+reclassification of documents from group
+Group G06V 10/469 is also impacted by
+reclassification into group G06V 30/1823.
+Groups G06F 18/00, G06V 10/469 and
+G06V 30/1823 should be considered in
+order to perform a complete search.
+   10/471   . . . . {using approximation functions}
+Group G06V 10/471 is incomplete
+pending reclassification of documents
+Group G06V 10/471 is also impacted by
+reclassification into group G06V 30/1829.
+Groups G06F 18/00, G06V 10/471 and
+G06V 30/1829 should be considered in
+order to perform a complete search.
+   10/473   . . . . {using gradient analysis}
+Group G06V 10/473 is incomplete
+pending reclassification of documents
+Group G06V 10/473 is also impacted by
+reclassification into group G06V 30/1831.
+Groups G06F 18/00, G06V 10/473 and
+G06V 30/1831 should be considered in
+order to perform a complete search.
+   10/476   . . . . {using statistical shape modelling, e.g. point
+Group G06V 10/476 is incomplete
+pending reclassification of documents
+Group G06V 10/476 is also impacted by
+reclassification into group G06V 30/1834.
+Groups G06F 18/00, G06V 10/476 and
+G06V 30/1834 should be considered in
+order to perform a complete search.
+   10/478   . . . {Contour-based spectral representations or
+scale-space representations, e.g. by Fourier
+analysis, wavelet analysis or curvature scale-
+Group G06V 10/478 is incomplete pending
+reclassification of documents from group
+Group G06V 10/478 is also impacted by
+reclassification into groups G06V 30/1826
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/48    . . by mapping characteristic values of the pattern
+into a parameter space, e.g. Hough transformation
+Group G06V 10/48 is incomplete pending
+reclassification of documents from group
+Group G06V 10/48 is also impacted by
+reclassification into group G06V 30/18067.
+Groups G06F 18/00, G06V 10/48 and
+G06V 30/18067 should be considered in order
+   10/50    . . by performing operations within image blocks;
+by using histograms, e.g. histogram of oriented
+gradients [HoG]; by summing image-intensity
+Group G06V 10/50 is incomplete pending
+reclassification of documents from group
+Group G06V 10/50 is also impacted by
+reclassification into group G06V 30/18086.
+Groups G06F 18/00, G06V 10/50 and
+G06V 30/18086 should be considered in order
+   10/507   . . . {Summing image-intensity values; Histogram
+Group G06V 10/507 is incomplete pending
+reclassification of documents from group
+Group G06V 10/507 is also impacted by
+reclassification into group G06V 30/18095.
+Groups G06F 18/00, G06V 10/507 and
+G06V 30/18095 should be considered in
+order to perform a complete search.
+   10/513   . . {Sparse representations}
+Group G06V 10/513 is incomplete pending
+reclassification of documents from group
+Group G06V 10/513 is also impacted by
+reclassification into group G06V 30/1819.
+Groups G06F 18/00, G06V 10/513 and
+G06V 30/1819 should be considered in order
+   10/52    . . Scale-space analysis, e.g. wavelet analysis (multi-
+scale boundary representations G06V 10/42)
+Group G06V 10/52 is incomplete pending
+reclassification of documents from group
+Group G06V 10/52 is also impacted by
+reclassification into group G06V 30/189.
+Groups G06F 18/00, G06V 10/52 and
+G06V 30/189 should be considered in order to
+   10/54    . . relating to texture
+Group G06V 10/54 is incomplete pending
+reclassification of documents from group
+Groups G06V 10/40 and G06V 10/54 should
+be considered in order to perform a complete
+   10/56    . . relating to colour
+Group G06V 10/56 is incomplete pending
+reclassification of documents from group
+Group G06V 10/56 is also impacted by
+reclassification into group G06V 30/18105.
+Groups G06F 18/00, G06V 10/56 and
+G06V 30/18105 should be considered in order
+   10/58    . . relating to hyperspectral data
+Group G06V 10/58 is incomplete pending
+reclassification of documents from group
+Group G06V 10/58 is also impacted by
+reclassification into group G06V 30/18114.
+Groups G06F 18/00, G06V 10/58 and
+G06V 30/18114 should be considered in order
+   10/60    . . relating to illumination properties, e.g. using a
+Group G06V 10/60 is incomplete pending
+reclassification of documents from group
+Group G06V 10/60 is also impacted by
+reclassification into group G06V 30/18124.
+Groups G06F 18/00, G06V 10/60 and
+G06V 30/18124 should be considered in order
+   10/62    . . relating to a temporal dimension, e.g. time-based
+feature extraction; Pattern tracking
+Group G06V 10/62 is incomplete pending
+reclassification of documents from group
+Groups G06F 18/00 and G06V 10/62 should
+be considered in order to perform a complete
+   10/70    . using pattern recognition or machine learning
+(optical pattern recognition or electronic
+computations therefor G06V 10/88)
+Groups G06V 10/70 and G06V 10/766
+are incomplete pending reclassification
+of documents from groups G06F 18/00,
+G06F 18/00, G06F 18/21, G06V 10/10,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/72    . . Data preparation, e.g. statistical preprocessing of
+Group G06V 10/72 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/10, G06V 10/10 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/74    . . Image or video pattern matching; Proximity
+   10/75    . . . Organisation of the matching processes,
+e.g. simultaneous or sequential comparisons
+of image or video features; Coarse-fine
+approaches, e.g. multi-scale approaches; using
+context analysis; Selection of dictionaries
+Group G06V 10/75 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/22, G06V 10/10 and
+Group G06V 10/75 is also impacted by
+reclassification into groups G06V 30/19007,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/751   . . . . {Comparing pixel values or logical
+combinations thereof, or feature values
+having positional relevance, e.g. template
+Group G06V 10/751 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10
+Group G06V 10/751 is also impacted
+All groups listed in this Warning should
+be considered in order to perform a
+   10/7515  . . . . . {Shifting the patterns to accommodate for
+Group G06V 10/7515 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10
+Group G06V 10/7515 is also impacted
+All groups listed in this Warning should
+be considered in order to perform a
+   10/752   . . . . {Contour matching}
+Group G06V 10/752 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10
+Group G06V 10/752 is also impacted
+All groups listed in this Warning should
+be considered in order to perform a
+   10/753   . . . . {Transform-based matching, e.g. Hough
+Group G06V 10/753 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10
+Group G06V 10/753 is also impacted
+All groups listed in this Warning should
+be considered in order to perform a
+   10/754   . . . . {involving a deformation of the sample
+pattern or of the reference pattern; Elastic
+Group G06V 10/754 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10
+Group G06V 10/754 is also impacted by
+reclassification into group G06V 30/1904.
+All groups listed in this Warning should
+be considered in order to perform a
+   10/755   . . . . {Deformable models or variational models,
+e.g. snakes or active contours}
+Group G06V 10/755 is incomplete
+pending reclassification of documents
+from groups G06F 18/00 G06V 10/10 and
+Group G06V 10/755 is also impacted
+All groups listed in this Warning should
+be considered in order to perform a
+   10/7553  . . . . . {based on shape, e.g. active shape models
+Group G06V 10/7553 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10
+Group G06V 10/7553 is also impacted
+All groups listed in this Warning should
+be considered in order to perform a
+   10/7557  . . . . . {based on appearance, e.g. active
+Group G06V 10/7557 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10
+Group G06V 10/7557 is also impacted
+All groups listed in this Warning should
+be considered in order to perform a
+   10/757   . . . . {Matching configurations of points or
+Group G06V 10/757 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10
+Group G06V 10/757 is also impacted
+All groups listed in this Warning should
+be considered in order to perform a
+   10/758   . . . . {Involving statistics of pixels or of feature
+values, e.g. histogram matching}
+Group G06V 10/758 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10
+Group G06V 10/758 is also impacted
+All groups listed in this Warning should
+be considered in order to perform a
+   10/759   . . . . {Region-based matching}
+Group G06V 10/759 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10
+Group G06V 10/759 is also impacted by
+reclassification into group G06V 30/1908.
+All groups listed in this Warning should
+be considered in order to perform a
+   10/76    . . . . {based on eigen-space representations,
+e.g. from pose or different illumination
+Group G06V 10/76 is incomplete pending
+reclassification of documents from
+groups G06F 18/00, G06V 10/10 and
+Group G06V 10/76 is also impacted
+All groups listed in this Warning should
+be considered in order to perform a
+   10/761   . . . {Proximity, similarity or dissimilarity
+Group G06V 10/761 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/22, G06V 10/10 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/762   . . using clustering, e.g. of similar faces in social
+Group G06V 10/762 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/23, G06V 10/10 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/7625  . . . {Hierarchical techniques, i.e. dividing
+or merging patterns to obtain a tree-like
+Group G06V 10/7625 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/231, G06V 10/10 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/763   . . . {Non-hierarchical techniques, e.g. based on
+statistics of modelling distributions}
+Group G06V 10/763 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/232, G06F 18/2321,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/7635  . . . {based on graphs, e.g. graph cuts or spectral
+Group G06V 10/7635 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/2323, G06V 10/10
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/764   . . using classification, e.g. of video objects
+Group G06V 10/764 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/24,
+G06F 18/241, G06F 18/2411, G06F 18/2413,
+G06F 18/24155, G06F 18/243, G06F 18/2431,
+G06F 18/2433, G06F 18/245, G06F 18/2451,
+G06F 18/2453, G06V 10/10 and G06V 10/20.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/765   . . . {using rules for classification or partitioning
+Group G06V 10/765 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/24765,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/766   . . using regression, e.g. by projecting features on
+   10/768   . . {using context analysis, e.g. recognition aided by
+Group G06V 10/768 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/10 and G06V 10/20.
+Group G06V 10/768 is also impacted by
+reclassification into group G06V 30/262.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/77    . . Processing image or video features in feature
+spaces; using data integration or data reduction,
+e.g. principal component analysis [PCA] or
+independent component analysis [ICA] or self-
+organising maps [SOM]; Blind source separation
+   10/771   . . . Feature selection, e.g. selecting representative
+features from a multi-dimensional feature space
+Group G06V 10/771 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/211, G06F 18/2111,
+G06F 18/2113, G06F 18/2115, G06V 10/10
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/7715  . . . {Feature extraction, e.g. by transforming the
+feature space, e.g. multi-dimensional scaling
+[MDS]; Mappings, e.g. subspace methods}
+Group G06V 10/7715 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/213, G06F 18/2132,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/772   . . . Determining representative reference patterns,
+e.g. averaging or distorting patterns; Generating
+Group G06V 10/772 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/28, G06V 10/10 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/774   . . . Generating sets of training patterns; Bootstrap
+methods, e.g. bagging or boosting
+Group G06V 10/774 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/214, G06V 10/10 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/7747  . . . . {Organisation of the process, e.g. bagging or
+Group G06V 10/7747 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/2148,
+All groups listed in this Warning should
+be considered in order to perform a
+   10/7753  . . . . {Incorporation of unlabelled data, e.g.
+multiple instance learning [MIL]}
+Group G06V 10/7753 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/2155,
+All groups listed in this Warning should
+be considered in order to perform a
+   10/776   . . . Validation; Performance evaluation
+Group G06V 10/776 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/217, G06V 10/10 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/778   . . . Active pattern-learning, e.g. online learning of
+Group G06V 10/778 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/217, G06V 10/10 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/7784  . . . . {based on feedback from supervisors}
+Group G06V 10/7784 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/2178,
+All groups listed in this Warning should
+be considered in order to perform a
+   10/7788  . . . . . {the supervisor being a human, e.g.
+interactive learning with a human teacher}
+Group G06V 10/7788 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/41,
+All groups listed in this Warning should
+be considered in order to perform a
+   10/7792  . . . . . {the supervisor being an automated
+module, e.g. "intelligent oracle"}
+   10/7796  . . . . {based on specific statistical tests}
+Group G06V 10/7796 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/2193,
+All groups listed in this Warning should
+be considered in order to perform a
+   10/80    . . . Fusion, i.e. combining data from various
+sources at the sensor level, preprocessing
+level, feature extraction level or classification
+level (multimodal speaker identification or
+Group G06V 10/80 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/25, G06V 10/10 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/803   . . . . {of input or preprocessed data}
+Group G06V 10/803 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/251,
+All groups listed in this Warning should
+be considered in order to perform a
+   10/806   . . . . {of extracted features}
+Group G06V 10/806 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/253,
+All groups listed in this Warning should
+be considered in order to perform a
+   10/809   . . . . {of classification results, e.g. where the
+classifiers operate on the same input data}
+Group G06V 10/809 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/254,
+All groups listed in this Warning should
+be considered in order to perform a
+   10/811   . . . . . {the classifiers operating on different input
+data, e.g. multi-modal recognition}
+Group G06V 10/811 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/256,
+All groups listed in this Warning should
+be considered in order to perform a
+   10/814   . . . . {using belief theory, e.g. Dempster-Shafer}
+Group G06V 10/814 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/257,
+All groups listed in this Warning should
+be considered in order to perform a
+   10/817   . . . . {by voting}
+Group G06V 10/817 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/259,
+All groups listed in this Warning should
+be considered in order to perform a
+   10/82    . . using neural networks
+   10/84    . . using probabilistic graphical models from
+image or video features, e.g. Markov models or
+Group G06V 10/84 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/29, G06V 10/10 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/85    . . . {Markov-related models; Markov random
+Group G06V 10/85 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/295, G06V 10/10 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/86    . . using syntactic or structural representations of
+the image or video pattern, e.g. symbolic string
+recognition; using graph matching
+   10/87    . . {using selection of the recognition techniques,
+e.g. of a classifier in a multiple classifier system}
+Group G06V 10/87 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/285, G06V 10/10 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/88    . Image or video recognition using optical means,
+e.g. reference filters, holographic masks, frequency
+domain filters or spatial domain filters
+Group G06V 10/88 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/10 and G06V 10/20.
+Group G06V 10/88 is also impacted by
+reclassification into groups G06V 30/199 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/89    . . {using frequency domain filters, e.g. Fourier
+masks implemented on spatial light modulators}
+Group G06V 10/89 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/10 and G06V 10/20.
+Group G06V 10/89 is also impacted by
+reclassification into group G06V 30/199.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/893   . . . {characterised by the kind of filter}
+Group G06V 10/893 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/10 and G06V 10/20.
+Group G06V 10/893 is also impacted by
+reclassification into group G06V 30/199.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/895   . . . . {the filter being related to phase processing,
+Group G06V 10/895 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10
+Group G06V 10/895 is also impacted by
+reclassification into group G06V 30/199.
+All groups listed in this Warning should
+be considered in order to perform a
+   10/898   . . . . {combination of filters, e.g. phase-only
+Group G06V 10/898 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10
+Group G06V 10/898 is also impacted by
+reclassification into group G06V 30/199.
+All groups listed in this Warning should
+be considered in order to perform a
+   10/92    . . {using spatial domain filters, e.g. joint transform
+Group G06V 10/92 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/10 and G06V 10/20.
+Group G06V 10/92 is also impacted by
+reclassification into group G06V 30/199.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/94    . Hardware or software architectures specially
+adapted for image or video understanding
+Groups G06V 10/94, G06V 10/95 and
+G06V 10/955 are incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/945   . . {User interactive design; Environments;
+Group G06V 10/945 is incomplete pending
+reclassification of documents from groups
+Groups G06F 18/00, G06F 18/40 and
+G06V 10/945 should be considered in order to
+   10/95    . . {structured as a network, e.g. client-server
+   10/955   . . {using specific electronic processors}
+   10/96    . Management of image or video recognition tasks
+Group G06V 10/96 is incomplete pending
+reclassification of documents from group
+Groups G06F 18/00 and G06V 10/96 should
+be considered in order to perform a complete
+   10/98    . Detection or correction of errors, e.g. by rescanning
+the pattern or by human intervention; Evaluation of
+the quality of the acquired patterns
+Group G06V 10/98 is incomplete pending
+reclassification of documents from group
+Group G06V 10/98 is also impacted by
+reclassification into group G06V 30/12.
+Groups G06F 18/00, G06V 10/98 and
+G06V 30/12 should be considered in order to
+   10/987   . . {with the intervention of an operator}
+Group G06V 10/987 is impacted by
+reclassification into group G06V 30/127.
+Groups G06V 10/987 and G06V 30/127
+should be considered in order to perform a
+   10/993   . . {Evaluation of the quality of the acquired pattern}
+Group G06V 10/993 is impacted by
+reclassification into group G06V 30/133.
+Groups G06V 10/993 and G06V 30/133
+should be considered in order to perform a
+   20/00    Scenes; Scene-specific elements (control of digital
+In this group, the following term is used with the
+• "scene" is a visual representation of the world
+or of some elements of it, as captured by a
+sensor or generated by a computer.
+Group G06V 20/00 is incomplete pending
+reclassification of documents from group
+Group G06V 20/00 is also impacted by
+reclassification into groups G06V 20/05,
+G06V 20/50, G06V 20/60, G06V 20/66,
+G06V 20/69, G06V 20/693, G06V 20/695,
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   20/05    . Underwater scenes
+Group G06V 20/05 is incomplete pending
+reclassification of documents from groups
+Groups G06F 18/00, G06V 20/00 and
+G06V 20/05 should be considered in order to
+   20/10    . Terrestrial scenes (scenes under surveillance with
+static cameras G06V 20/52; scenes perceived
+from the exterior of a vehicle G06V 20/56;
+scenes perceived from the interior of a vehicle
+Groups G06V 20/10, G06V 20/176,
+G06V 20/182, G06V 20/188 and G06V 20/194
+are incomplete pending reclassification of
+documents from group G06F 18/00.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   20/13    . . Satellite images
+Group G06V 20/13 is incomplete pending
+reclassification of documents from group
+Group G06V 20/13 is also impacted by
+reclassification into group G06V 20/17.
+Groups G06F 18/00, G06V 20/13 and
+G06V 20/17 should be considered in order to
+   20/17    . . taken from planes or by drones
+Group G06V 20/17 is incomplete pending
+reclassification of documents from groups
+Groups G06F 18/00, G06V 20/13 and
+G06V 20/17 should be considered in order to
+   20/176   . . {Urban or other man-made structures}
+   20/182   . . {Network patterns, e.g. roads or rivers}
+   20/194   . . {using hyperspectral data, i.e. more or other
+   20/20    . in augmented reality scenes
+Group G06V 20/20 is incomplete pending
+reclassification of documents from group
+Groups G06F 18/00 and G06V 20/20 should
+be considered in order to perform a complete
+   20/30    . in albums, collections or shared content, e.g. social
+Group G06V 20/30 is incomplete pending
+reclassification of documents from group
+Groups G06F 18/00 and G06V 20/30 should
+be considered in order to perform a complete
+   20/35    . {Categorising the entire scene, e.g. birthday party or
+Groups G06V 20/35, G06V 20/36, G06V 20/38
+and G06V 20/39 are incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete
+   20/36    . . {Indoor scenes}
+   20/38    . . {Outdoor scenes}
+   20/39    . . . {Urban scenes}
+   20/40    . in video content (extracting overlay text
+G06V 20/62; video retrieval G06F 16/70;
+processing of video elementary streams in video
+servers H04N 21/234; processing of video
+elementary streams in video clients H04N 21/44)
+Groups G06V 20/40, G06V 20/41, G06V 20/42,
+G06V 20/43, G06V 20/44, G06V 20/46,
+G06V 20/47, G06V 20/48 and G06V 20/49
+are incomplete pending reclassification of
+documents from group G06F 18/00.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   20/41    . . {Higher-level, semantic clustering, classification
+or understanding of video scenes, e.g. detection,
+labelling or Markovian modelling of sport events
+or news items (segmenting video sequences
+   20/42    . . . {of sport video content}
+   20/43    . . . {of news video content}
+   20/44    . . {Event detection}
+   20/46    . . {Extracting features or characteristics from
+the video content, e.g. video fingerprints,
+representative shots or key frames}
+   20/47    . . . {Detecting features for summarising video
+   20/48    . . {Matching video sequences}
+   20/49    . . {Segmenting video sequences, i.e. computational
+techniques such as parsing or cutting the
+sequence, low-level clustering or determining
+   20/50    . Context or environment of the image
+Group G06V 20/50 is incomplete pending
+reclassification of documents from groups
+Groups G06F 18/00, G06V 20/00 and
+G06V 20/50 should be considered in order to
+   20/52    . . Surveillance or monitoring of activities, e.g.
+for recognising suspicious objects (recognising
+microscopic objects G06V 20/69)
+Groups G06V 20/52, G06V 20/53 and
+G06V 20/54 are incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete
+   20/53    . . . {Recognition of crowd images, e.g. recognition
+   20/54    . . . of traffic, e.g. cars on the road, trains or boats
+   20/56    . . exterior to a vehicle by using sensors mounted on
+G06V 20/582, G06V 20/584, G06V 20/586
+and G06V 20/588 are incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete
+   20/58    . . . Recognition of moving objects or obstacles,
+e.g. vehicles or pedestrians; Recognition of
+traffic objects, e.g. traffic signs, traffic lights or
+   20/582   . . . . {of traffic signs}
+   20/584   . . . . {of vehicle lights or traffic lights}
+   20/586   . . . . {of parking space}
+   20/588   . . . {Recognition of the road, e.g. of lane markings;
+Recognition of the vehicle driving pattern in
+   20/59    . . inside of a vehicle, e.g. relating to seat
+occupancy, driver state or inner lighting
+Groups G06V 20/59, G06V 20/593 and
+G06V 20/597 are incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete
+   20/593   . . . {Recognising seat occupancy}
+   20/597   . . . {Recognising the driver's state or behaviour,
+Groups G06V 20/60, G06V 20/66, G06V 20/69,
+G06V 20/693, G06V 20/695 and G06V 20/698
+are incomplete pending reclassification of
+documents from groups G06F 18/00 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   20/62    . . Text, e.g. of license plates, overlay texts or
+Groups G06V 20/62, G06V 20/625,
+G06V 20/63 and G06V 20/635 are incomplete
+pending reclassification of documents from
+All groups listed in this Warning should be
+considered in order to perform a complete
+   20/625   . . . {License plates}
+   20/63    . . . {Scene text, e.g. street names}
+   20/635   . . . {Overlay text, e.g. embedded captions in a TV
+   20/64    . . Three-dimensional objects
+Groups G06V 20/64, G06V 20/647 and
+G06V 20/653 are incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete
+   20/647   . . . {by matching two-dimensional images to three-
+   20/653   . . . {by matching three-dimensional models, e.g.
+conformal mapping of Riemann surfaces}
+   20/66    . . Trinkets, e.g. shirt buttons or jewellery items
+(recognising microscopic objects G06V 20/69)
+   20/68    . . Food, e.g. fruit or vegetables
+Group G06V 20/68 is incomplete pending
+reclassification of documents from group
+Groups G06F 18/00 and G06V 20/68 should
+be considered in order to perform a complete
+   20/69    . . Microscopic objects, e.g. biological cells or
+   20/693   . . . {Acquisition}
+   20/695   . . . {Preprocessing, e.g. image segmentation}
+   20/698   . . . {Matching; Classification}
+   20/70    . Labelling scene content, e.g. deriving syntactic or
+Group G06V 20/70 is incomplete pending
+reclassification of documents from groups
+Groups G06F 18/00, G06V 20/00 and
+G06V 20/70 should be considered in order to
+   20/80    . Recognising image objects characterised by unique
+Group G06V 20/80 is incomplete pending
+reclassification of documents from group
+Groups G06F 18/00 and G06V 20/80 should
+be considered in order to perform a complete
+   20/90    . Identifying an image sensor based on its output data
+Group G06V 20/90 is incomplete pending
+reclassification of documents from group
+Groups G06F 18/00 and G06V 20/90 should
+be considered in order to perform a complete
+   20/95    . {Pattern authentication; Markers therefor; Forgery
+   30/00    Character recognition; Recognising digital
+ink; Document-oriented image-based pattern
+recognition (scanning, transmission or reproduction
+of documents or the like H04N 1/00)
+This group covers recognition of characters or
+digital ink, where the characters or the digital ink
+can include representations in three dimensions,
+e.g. as written by performing gestures in the air.
+Groups G06V 30/00, G06V 30/412, G06V 30/413,
+G06V 30/414, G06V 30/416, G06V 30/418,
+G06V 30/42, G06V 30/422 and G06V 30/424 are
+incomplete pending reclassification of documents
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   30/10    . Character recognition
+Group G06V 30/10 is incomplete pending
+reclassification of documents from group
+Group G06V 30/10 is also impacted by
+reclassification into groups G06V 30/12,
+G06V 30/127, G06V 30/133, G06V 30/14,
+G06V 30/141, G06V 30/142, G06V 30/1423,
+G06V 30/1426, G06V 30/1429, G06V 30/1431,
+G06V 30/1434, G06V 30/1437, G06V 30/144,
+G06V 30/1444, G06V 30/1448, G06V 30/1452,
+G06V 30/1456, G06V 30/146, G06V 30/1463,
+G06V 30/1465, G06V 30/1468, G06V 30/147,
+G06V 30/1473, G06V 30/1475, G06V 30/1478,
+G06V 30/148, G06V 30/15, G06V 30/153,
+G06V 30/155, G06V 30/158, G06V 30/16,
+G06V 30/1607, G06V 30/1613, G06V 30/162,
+G06V 30/164, G06V 30/166, G06V 30/168,
+G06V 30/18, G06V 30/1801, G06V 30/18019,
+G06V 30/18181, G06V 30/1819, G06V 30/182,
+G06V 30/1823, G06V 30/1826, G06V 30/1829,
+G06V 30/1831, G06V 30/1834, G06V 30/1837,
+G06V 30/184, G06V 30/186, G06V 30/187,
+G06V 30/188, G06V 30/189, G06V 30/19,
+G06V 30/191, G06V 30/19107, G06V 30/19113,
+G06V 30/19187, G06V 30/19193, G06V 30/192,
+G06V 30/194, G06V 30/195, G06V 30/196,
+G06V 30/198, G06V 30/1983, G06V 30/1985,
+G06V 30/1988, G06V 30/199, G06V 30/20,
+G06V 30/22, G06V 30/222, G06V 30/224,
+G06V 30/2247, G06V 30/2253, G06V 30/226,
+G06V 30/2264, G06V 30/2268, G06V 30/2272,
+G06V 30/2276, G06V 30/228, G06V 30/24,
+G06V 30/242, G06V 30/244, G06V 30/2445,
+G06V 30/245, G06V 30/2455, G06V 30/246,
+G06V 30/248, G06V 30/2504, G06V 30/2528,
+G06V 30/2552, G06V 30/26, G06V 30/262,
+G06V 30/268, G06V 30/274, G06V 30/28,
+G06V 30/287, G06V 30/293, G06V 30/30,
+G06V 30/302, G06V 30/304, G06V 30/32,
+G06V 30/333, G06V 30/347, G06V 30/36,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/12    . . Detection or correction of errors, e.g. by
+Group G06V 30/12 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/98 and G06V 30/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/127   . . . {with the intervention of an operator}
+Group G06V 30/127 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/987 and G06V 30/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/133   . . . {Evaluation of quality of the acquired
+Group G06V 30/133 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/993 and G06V 30/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/14    . . Image acquisition
+Groups G06V 30/14, G06V 30/1423,
+G06V 30/144, G06V 30/153 and G06V 30/158
+are incomplete pending reclassification
+of documents from groups G06F 18/00,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/141   . . . {using multiple overlapping images; Image
+Group G06V 30/141 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/10, G06V 10/16 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/142   . . . using hand-held instruments; Constructional
+Group G06V 30/142 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/10, G06V 10/12,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/1423  . . . . {the instrument generating sequences of
+position coordinates corresponding to
+handwriting (preprocessing or recognising
+   30/1426  . . . . {by sensing position defining codes on a
+Group G06V 30/1426 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1429  . . . {Identifying or ignoring parts by sensing at
+Group G06V 30/1429 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/10, G06V 10/143,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/1431  . . . {Illumination control}
+Group G06V 30/1431 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/10, G06V 10/141 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/1434  . . . {Special illumination such as grating,
+reflections or deflections, e.g. for characters
+Group G06V 30/1434 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/10, G06V 10/145 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/1437  . . . {Sensor details, e.g. position, configuration
+or special lenses (G06V 30/1429 takes
+Group G06V 30/1437 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/10, G06V 10/147 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/144   . . . using a slot moved over the image; using
+discrete sensing elements at predetermined
+points; using automatic curve following means
+   30/1444  . . . {Selective acquisition, locating or processing of
+specific regions, e.g. highlighted text, fiducial
+Group G06V 30/1444 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/10, G06V 10/22 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/1448  . . . . {based on markings or identifiers
+characterising the document or the area}
+Group G06V 30/1448 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1452  . . . . {based on positionally close symbols, e.g.
+amount sign or URL-specific characters}
+Group G06V 30/1452 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1456  . . . . {based on user interactions}
+Group G06V 30/1456 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/146   . . . Aligning or centring of the image pick-up or
+Group G06V 30/146 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/10, G06V 10/24 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/1463  . . . . {Orientation detection or correction, e.g.
+rotation of multiples of 90 degrees}
+Group G06V 30/1463 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1465  . . . . {by locating a pattern (G06V 30/1475 takes
+precedence; centring within a document with
+G06V 30/1468 are incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/10, G06V 10/245
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1468  . . . . . {Special marks for positioning}
+   30/147   . . . . {Determination of region of interest}
+Group G06V 30/147 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1473  . . . . {Recognising objects as potential recognition
+candidates based on visual cues, e.g. shapes}
+Group G06V 30/1473 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1475  . . . . {Inclination or skew detection or correction
+of characters or of image to be recognised}
+Group G06V 30/1475 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1478  . . . . . {of characters or characters lines}
+Group G06V 30/1478 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/148   . . . Segmentation of character regions
+Group G06V 30/148 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/10, G06V 10/26 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/15    . . . . {Cutting or merging image elements, e.g.
+region growing, watershed or clustering-
+Group G06V 30/15 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/10, G06V 10/267
+All groups listed in this Warning should
+be considered in order to perform a
+   30/153   . . . . {using recognition of characters or words}
+   30/155   . . . . {Removing patterns interfering with the
+pattern to be recognised, such as ruled lines
+Group G06V 30/155 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/10,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/158   . . . . {using character size, text spacings or pitch
+   30/16    . . Image preprocessing
+Group G06V 30/16 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/20 and G06V 30/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/1607  . . . {Correcting image deformation, e.g.
+trapezoidal deformation caused by perspective}
+Group G06V 30/1607 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/20, G06V 10/247 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/1613  . . . {Interactive preprocessing or shape modelling,
+e.g. assignment of feature points by a user}
+Group G06V 30/1613 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/20, G06V 10/248 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/162   . . . Quantising the image signal
+Group G06V 30/162 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/20, G06V 10/28 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/164   . . . Noise filtering
+Group G06V 30/164 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/20, G06V 10/30 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/166   . . . Normalisation of pattern dimensions
+Group G06V 30/166 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/20, G06V 10/32 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/168   . . . Smoothing or thinning of the pattern;
+Group G06V 30/168 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/20, G06V 10/34 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/18    . . Extraction of features or characteristics of the
+Group G06V 30/18 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/40 and G06V 30/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/1801  . . . {Detecting partial patterns, e.g. edges or
+contours, or configurations, e.g. loops, corners,
+strokes or intersections (extracting features by
+Group G06V 30/1801 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/44 and G06V 30/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/18019 . . . . {by matching or filtering}
+Group G06V 30/18019 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/443
+All groups listed in this Warning should
+be considered in order to perform a
+   30/18029 . . . . . {filtering with Haar-like subimages, e.g.
+computation thereof with the integral
+Group G06V 30/18029 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/446
+All groups listed in this Warning should
+be considered in order to perform a
+   30/18038 . . . . . {Biologically-inspired filters, e.g.
+difference of Gaussians [DoG], Gabor
+Group G06V 30/18038 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/449
+All groups listed in this Warning should
+be considered in order to perform a
+   30/18048 . . . . . . {with interaction between the responses
+of different filters, e.g. cortical complex
+Group G06V 30/18048 is incomplete
+documents from groups G06F 18/00,
+All groups listed in this Warning
+should be considered in order to
+   30/18057 . . . . . . . {Integrating the filters into
+reclassification of documents from
+All groups listed in this Warning
+should be considered in order to
+   30/18067 . . . . {by mapping characteristic values of the
+pattern into a parameter space, e.g. Hough
+Group G06V 30/18067 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/48
+All groups listed in this Warning should
+be considered in order to perform a
+   30/18076 . . . . {by analysing connectivity, e.g. edge linking,
+connected component analysis or slices}
+Group G06V 30/18076 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/457
+All groups listed in this Warning should
+be considered in order to perform a
+   30/18086 . . . {by performing operations within image blocks
+Group G06V 30/18086 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/50 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/18095 . . . . {Summing image-intensity values;
+Projection and histogram analysis}
+Group G06V 30/18095 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/507
+All groups listed in this Warning should
+be considered in order to perform a
+   30/18105 . . . {related to colour}
+Group G06V 30/18105 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/56 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/18114 . . . {involving specific hyperspectral computations
+Group G06V 30/18114 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/58 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/18124 . . . {related to illumination properties, e.g.
+according to a reflectance or lighting model}
+Group G06V 30/18124 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/60 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/18133 . . . {regional/local feature not essentially salient,
+Group G06V 30/18133 is incomplete
+pending reclassification of documents from
+groups G06F 18/00, G06V 10/467 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/18143 . . . {Extracting features based on salient regional
+features, e.g. scale invariant feature transform
+Group G06V 30/18143 is incomplete
+pending reclassification of documents from
+groups G06F 18/00, G06V 10/462 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/18152 . . . . {Extracting features based on a plurality of
+salient regional features, e.g. "bag of words"}
+Group G06V 30/18152 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/464
+All groups listed in this Warning should
+be considered in order to perform a
+   30/18162 . . . {related to a structural representation of the
+Group G06V 30/18162 is incomplete
+pending reclassification of documents from
+groups G06F 18/00, G06V 10/422 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/18171 . . . . {Syntactic representation, e.g. using a
+Group G06V 30/18171 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/424
+All groups listed in this Warning should
+be considered in order to perform a
+   30/18181 . . . . {Graphical representation, e.g. directed
+Group G06V 30/18181 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/426
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1819  . . . {sparse representations}
+Group G06V 30/1819 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/513 and G06V 30/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/182   . . . by coding the contour of the pattern
+Group G06V 30/182 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/44, G06V 10/46 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/1823  . . . . {using vector-coding}
+Group G06V 30/1823 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/44,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1826  . . . . {analysing the spectrum of the contour, e.g.
+Group G06V 30/1826 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/44,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1829  . . . . {using an approximation function}
+Group G06V 30/1829 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/44,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1831  . . . . {using gradient analysis}
+Group G06V 30/1831 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/44,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1834  . . . . {using statistical shape modelling, e.g. point
+Group G06V 30/1834 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/44,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1837  . . . . {using wavelet analysis}
+Group G06V 30/1837 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/44,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/184   . . . by analysing segments intersecting the pattern
+Group G06V 30/184 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/421 and G06V 30/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/186   . . . by deriving mathematical or geometrical
+properties from the whole image
+Group G06V 30/186 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/42 and G06V 30/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/187   . . . . {Frequency domain transformation;
+Group G06V 30/187 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/431
+All groups listed in this Warning should
+be considered in order to perform a
+   30/188   . . . . {Computation of moments}
+Group G06V 30/188 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/435
+All groups listed in this Warning should
+be considered in order to perform a
+   30/189   . . . . {Scale-space domain transformation, e.g.
+Group G06V 30/189 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/52
+All groups listed in this Warning should
+be considered in order to perform a
+   30/19    . . Recognition using electronic means
+Group G06V 30/19 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/00 and G06V 30/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/19007 . . . {Matching; Proximity measures}
+Group G06V 30/19007 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/22,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/19013 . . . . {Comparing pixel values or logical
+combinations thereof, or feature values
+having positional relevance, e.g. template
+matching (specially adapted for image
+segmentation G06T 7/10; specially adapted
+for the analysis of motion G06T 7/20;
+specially adapted for image alignment
+G06T 7/30; specially adapted for the
+calculation of depth from stereo images
+G06T 7/50; specially adapted for position
+Group G06V 30/19013 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/751
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1902  . . . . . {Shifting or otherwise transforming the
+patterns to accommodate for positional
+Group G06V 30/1902 is incomplete
+documents from groups G06F 18/00,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/19027 . . . . . . {Matching of contours}
+Group G06V 30/19027 is incomplete
+documents from groups G06F 18/00,
+All groups listed in this Warning
+should be considered in order to
+   30/19033 . . . . . . . {by mapping curve parameters onto
+an accumulator array, e.g. generalised
+reclassification of documents from
+All groups listed in this Warning
+should be considered in order to
+   30/1904  . . . . . . {involving a deformation of the sample
+or reference pattern; Elastic matching}
+Group G06V 30/1904 is incomplete
+documents from groups G06F 18/00,
+All groups listed in this Warning
+should be considered in order to
+   30/19047 . . . . . . . {based on a local optimisation
+criterion, e.g. "snakes", i.e. active
+contour models of the pattern to be
+reclassification of documents from
+All groups listed in this Warning
+should be considered in order to
+   30/19053 . . . . . . . {based on shape statistics, e.g. active
+shape models of the pattern to be
+All groups listed in this Warning
+should be considered in order to
+   30/1906  . . . . . . . . {based also on statistics of image
+patches, e.g. active appearance
+All groups listed in this Warning
+should be considered in order to
+   30/19067 . . . . . . {Matching configurations of points or
+features, e.g. constellation matching}
+Group G06V 30/19067 is incomplete
+documents from groups G06F 18/00,
+All groups listed in this Warning
+should be considered in order to
+   30/19073 . . . . {Comparing statistics of pixel or of feature
+values, e.g. histogram matching}
+Group G06V 30/19073 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/758
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1908  . . . . {Region based matching}
+Group G06V 30/1908 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/759
+All groups listed in this Warning should
+be considered in order to perform a
+   30/19087 . . . . {based on parametric eigenspace
+representations, e.g. eigenspace
+representations using pose or illumination
+Group G06V 30/19087 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06V 10/76
+All groups listed in this Warning should
+be considered in order to perform a
+   30/19093 . . . . {Proximity measures, i.e. similarity or
+Group G06V 30/19093 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/22 and
+All groups listed in this Warning should
+be considered in order to perform a
+   30/191   . . . {Design or setup of recognition systems or
+techniques; Extraction of features in feature
+space; Clustering techniques; Blind source
+Group G06V 30/191 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/21 and G06V 30/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/19107 . . . . {Clustering techniques}
+Group G06V 30/19107 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/23,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/19113 . . . . {Selection of pattern recognition techniques,
+e.g. of classifiers in a multi-classifier
+Group G06V 30/19113 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/285
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1912  . . . . {Selecting the most significant subset of
+features (G06V 30/19127 takes precedence)}
+Group G06V 30/1912 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/211,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/19127 . . . . {Extracting features by transforming the
+feature space, e.g. multidimensional scaling;
+Mappings, e.g. subspace methods}
+Group G06V 30/19127 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/213,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/19133 . . . . {Interactive pattern learning with a human
+Group G06V 30/19133 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/41 and
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1914  . . . . {Determining representative reference
+patterns, e.g. averaging or distorting
+patterns; Generating dictionaries, e.g. user
+Group G06V 30/1914 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/28 and
+All groups listed in this Warning should
+be considered in order to perform a
+   30/19147 . . . . {Obtaining sets of training patterns;
+Bootstrap methods, e.g. bagging or boosting}
+Group G06V 30/19147 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/214,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/19153 . . . . {using rules for classification or partitioning
+Group G06V 30/19153 is incomplete
+documents from groups G06F 18/00,
+G06F 18/24765, G06F 18/2163 and
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1916  . . . . {Validation; Performance evaluation}
+Group G06V 30/1916 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/217
+All groups listed in this Warning should
+be considered in order to perform a
+   30/19167 . . . . {Active pattern learning}
+Group G06V 30/19167 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/217,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/19173 . . . . {Classification techniques}
+Group G06V 30/19173 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/24,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1918  . . . . {Fusion techniques, i.e. combining data from
+various sources, e.g. sensor fusion}
+Group G06V 30/1918 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/25,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/19187 . . . . {Graphical models, e.g. Bayesian networks
+Group G06V 30/19187 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/29,
+All groups listed in this Warning should
+be considered in order to perform a
+   30/19193 . . . {Statistical pre-processing, e.g. techniques for
+normalisation or restoring missing data}
+Group G06V 30/19193 is incomplete
+pending reclassification of documents
+from groups G06F 18/00, G06F 18/10 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/192   . . . using simultaneous comparisons or correlations
+of the image signals with a plurality of
+Group G06V 30/192 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/75 and G06V 30/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/194   . . . . References adjustable by an adaptive
+Group G06V 30/194 is incomplete
+pending reclassification of documents
+Group G06V 30/194 is also impacted by
+reclassification into groups G06V 10/70
+All groups listed in this Warning should
+be considered in order to perform a
+   30/195   . . . . {using a resistor matrix}
+Group G06V 30/195 is incomplete
+pending reclassification of documents
+Groups G06F 18/00, G06V 30/10 and
+G06V 30/195 should be considered in
+order to perform a complete search.
+   30/196   . . . using sequential comparisons of the image
+signals with a plurality of references
+Groups G06V 30/196 and G06V 30/198
+are incomplete pending reclassification
+of documents from groups G06F 18/00,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/198   . . . . the selection of the next reference depending
+on the result of the preceding comparison
+   30/1983  . . . . {Syntactic or structural pattern recognition,
+e.g. symbolic string recognition}
+Groups G06V 30/1983, G06V 30/1985
+and G06V 30/1988 are incomplete
+pending reclassification of documents
+All groups listed in this Warning should
+be considered in order to perform a
+   30/1985  . . . . . {Syntactic analysis, e.g. using a
+grammatical approach (syntactic image
+   30/1988  . . . . . {Graph matching (graphical image
+   30/199   . . Arrangements for recognition using optical
+reference masks, e.g. holographic masks
+Group G06V 30/199 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/10, G06V 10/20,
+G06V 10/88, G06V 10/89, G06V 10/893,
+G06V 10/895, G06V 10/898, G06V 10/92 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/20    . . Combination of acquisition, preprocessing or
+Group G06V 30/20 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/10, G06V 10/20,
+G06V 10/36, G06V 10/88 and G06V 30/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/22    . . characterised by the type of writing
+Groups G06V 30/22, G06V 30/222,
+G06V 30/226, G06V 30/2264, G06V 30/2268,
+G06V 30/228 are incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/222   . . . of characters separated by spaces
+   30/224   . . . of printed characters having additional code
+Groups G06V 30/224, G06V 30/2247 and
+G06V 30/2253 are incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 30/10 and G06V 30/40.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/2247  . . . . {Characters composed of bars, e.g. CMC-7}
+   30/2253  . . . . {Recognition of characters printed with
+magnetic ink (G06V 30/2247 takes
+   30/226   . . . of cursive writing
+   30/2264  . . . . {using word shape}
+   30/2268  . . . . {using stroke segmentation}
+   30/2272  . . . . . {with lexical matching}
+   30/2276  . . . . . {with probabilistic networks, e.g. hidden
+   30/228   . . . of three-dimensional handwriting, e.g. writing
+   30/24    . . characterised by the processing or recognition
+method (segmentation of character regions
+Groups G06V 30/24, G06V 30/242,
+G06V 30/244, G06V 30/2445, G06V 30/245,
+G06V 30/2455, G06V 30/246, G06V 30/248,
+G06V 30/2552 are incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/242   . . . Division of the character sequences into groups
+prior to recognition; Selection of dictionaries
+   30/244   . . . . using graphical properties, e.g. alphabet type
+   30/2445  . . . . . {Alphabet recognition, e.g. Latin, Kanji or
+   30/245   . . . . . {Font recognition}
+   30/2455  . . . . . {Discrimination between machine-print,
+hand-print and cursive writing}
+   30/246   . . . . using linguistic properties, e.g. specific for
+   30/248   . . . {involving plural approaches, e.g. verification
+by template match; Resolving confusion
+among similar patterns, e.g. "O" versus "Q"
+(G06V 30/242 takes precedence)}
+   30/2504  . . . . {Coarse or fine approaches, e.g. resolution of
+ambiguities or multiscale approaches}
+   30/2528  . . . . {Combination of methods, e.g. classifiers,
+working on the same input data}
+   30/2552  . . . . {Combination of methods, e.g. classifiers,
+working on different input data, e.g. sensor
+   30/26    . . Techniques for post-processing, e.g. correcting
+Groups G06V 30/26, G06V 30/268 and
+G06V 30/274 are incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/262   . . . using context analysis, e.g. lexical, syntactic or
+Group G06V 30/262 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06V 10/768 and G06V 30/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/268   . . . . {Lexical context}
+   30/274   . . . . {Syntactic or semantic context, e.g.
+   30/28    . . specially adapted to the type of the alphabet, e.g.
+Groups G06V 30/28, G06V 30/287 and
+G06V 30/293 are incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/287   . . . {of Kanji, Hiragana or Katakana characters}
+   30/293   . . . {of characters other than Kanji, Hiragana or
+   30/30    . . based on the type of data
+Groups G06V 30/30 and G06V 30/304
+are incomplete pending reclassification of
+documents from groups G06F 18/00 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/302   . . . Images containing characters for discriminating
+human versus automated computer access
+Group G06V 30/302 is incomplete pending
+reclassification of documents from groups
+G06F 18/00, G06F 18/217 and G06V 30/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/304   . . . Music notations
+Groups G06V 30/32, G06V 30/333,
+G06V 30/347, G06V 30/36, G06V 30/373
+and G06V 30/387 are incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/333   . . . {Preprocessing; Feature extraction}
+   30/347   . . . . {Sampling; Contour coding; Stroke
+   30/36    . . . {Matching; Classification}
+   30/373   . . . . {using a special pattern or subpattern
+   30/387   . . . . {using human interaction, e.g. selection of
+the best displayed recognition candidate}
+   30/40    . Document-oriented image-based pattern recognition
+Group G06V 30/40 is incomplete pending
+reclassification of documents from group
+Group G06V 30/40 is also impacted by
+reclassification into groups G06V 30/224,
+G06V 30/2247, G06V 30/2253 and G06V 30/41.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/41    . . Analysis of document content (recognition
+of printed characters based on code marks
+Group G06V 30/41 is incomplete pending
+reclassification of documents from groups
+Groups G06F 18/00, G06V 30/40 and
+G06V 30/41 should be considered in order to
+   30/412   . . . Layout analysis of documents structured with
+printed lines or input boxes, e.g. business forms
+   30/413   . . . Classification of content, e.g. text, photographs
+   30/414   . . . Extracting the geometrical structure, e.g. layout
+tree; Block segmentation, e.g. bounding boxes
+   30/416   . . . Extracting the logical structure, e.g. chapters,
+sections or page numbers; Identifying elements
+   30/418   . . . Document matching, e.g. of document images
+   30/42    . . based on the type of document
+   30/422   . . . Technical drawings; Geographical maps
+   30/424   . . . Postal images, e.g. labels or addresses on
+   30/43    . . {Editing text-bitmaps, e.g. alignment, spacing;
+Semantic analysis of bitmaps of text without
+   40/00    Recognition of biometric, human-related or
+animal-related patterns in image or video data
+Groups G06V 40/00, G06V 40/10, G06V 40/103,
+G06V 40/107, G06V 40/11, G06V 40/113,
+G06V 40/117, G06V 40/12, G06V 40/1306,
+G06V 40/1312, G06V 40/1318, G06V 40/1324,
+G06V 40/1329, G06V 40/1335, G06V 40/1341,
+G06V 40/1347, G06V 40/1353, G06V 40/1359,
+G06V 40/1365, G06V 40/1371, G06V 40/1376,
+G06V 40/1382, G06V 40/1388, G06V 40/1394,
+G06V 40/14, G06V 40/15, G06V 40/155,
+G06V 40/16, G06V 40/161, G06V 40/162,
+G06V 40/164, G06V 40/165, G06V 40/166,
+G06V 40/167, G06V 40/168, G06V 40/169,
+G06V 40/171, G06V 40/172, G06V 40/173,
+G06V 40/174, G06V 40/175, G06V 40/176,
+G06V 40/178, G06V 40/179, G06V 40/18,
+G06V 40/19, G06V 40/193, G06V 40/197,
+G06V 40/20, G06V 40/23, G06V 40/25,
+G06V 40/28, G06V 40/30, G06V 40/33,
+G06V 40/37, G06V 40/376, G06V 40/382,
+G06V 40/388, G06V 40/394, G06V 40/40,
+G06V 40/45, G06V 40/50, G06V 40/53,
+G06V 40/55, G06V 40/58, G06V 40/60,
+G06V 40/63, G06V 40/67 and G06V 40/70 are
+incomplete pending reclassification of documents
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   40/10    . Human or animal bodies, e.g. vehicle occupants or
+pedestrians; Body parts, e.g. hands
+   40/103   . . {Static body considered as a whole, e.g. static
+pedestrian or occupant recognition}
+   40/107   . . {Static hand or arm}
+   40/11    . . . {Hand-related biometrics; Hand pose
+   40/113   . . . {Recognition of static hand signs}
+   40/117   . . . {Biometrics derived from hands}
+   40/12    . . Fingerprints or palmprints
+   40/13    . . . Sensors therefor
+Group G06V 40/13 is incomplete pending
+reclassification of documents from group
+Group G06V 40/13 is also impacted by
+reclassification into group G06V 40/145.
+Groups G06F 18/00, G06V 40/13 and
+G06V 40/145 should be considered in order
+   40/1306  . . . . {non-optical, e.g. ultrasonic or capacitive
+   40/1312  . . . . {direct reading, e.g. contactless acquisition}
+   40/1318  . . . . {using electro-optical elements or layers, e.g.
+   40/1324  . . . . {by using geometrical optics, e.g. using
+prisms (G06V 40/1312 takes precedence)}
+   40/1329  . . . . {Protecting the fingerprint sensor against
+   40/1335  . . . {Combining adjacent partial images (e.g.
+slices) to create a composite input or
+reference pattern; Tracking a sweeping finger
+   40/1341  . . . {Sensing with light passing through the finger}
+   40/1347  . . . {Preprocessing; Feature extraction}
+   40/1353  . . . . {Extracting features related to minutiae or
+   40/1359  . . . . {Extracting features related to ridge
+properties; Determining the fingerprint type,
+   40/1365  . . . {Matching; Classification}
+   40/1371  . . . . {Matching features related to minutiae or
+   40/1376  . . . . {Matching features related to ridge
+properties or fingerprint texture}
+   40/1382  . . . {Detecting the live character of the finger, i.e.
+distinguishing from a fake or cadaver finger}
+   40/1388  . . . . {using image processing}
+   40/1394  . . . . {using acquisition arrangements}
+   40/14    . . Vascular patterns
+   40/145   . . . Sensors therefor
+Group G06V 40/145 is incomplete pending
+reclassification of documents from groups
+Groups G06F 18/00, G06V 40/13 and
+G06V 40/145 should be considered in order
+   40/15    . . {Biometric patterns based on physiological
+signals, e.g. heartbeat, blood flow}
+   40/155   . . {use of biometric patterns for forensic purposes}
+   40/16    . . Human faces, e.g. facial parts, sketches or
+   40/161   . . . {Detection; Localisation; Normalisation}
+   40/162   . . . . {using pixel segmentation or colour
+   40/164   . . . . {using holistic features}
+   40/165   . . . . {using facial parts and geometric
+   40/166   . . . . {using acquisition arrangements}
+   40/167   . . . . {using comparisons between temporally
+   40/168   . . . {Feature extraction; Face representation}
+   40/169   . . . . {Holistic features and representations, i.e.
+based on the facial image taken as a whole}
+   40/171   . . . . {Local features and components; Facial
+parts (eye characteristics G06V 40/18);
+Occluding parts, e.g. glasses; Geometrical
+   40/172   . . . {Classification, e.g. identification}
+   40/173   . . . . {face re-identification, e.g. recognising
+unknown faces across different face tracks}
+   40/174   . . . {Facial expression recognition}
+   40/175   . . . . {Static expression}
+   40/176   . . . . {Dynamic expression}
+   40/178   . . . {estimating age from face image; using age
+information for improving recognition}
+   40/179   . . . {metadata assisted face recognition}
+   40/18    . . Eye characteristics, e.g. of the iris
+   40/19    . . . Sensors therefor
+   40/193   . . . {Preprocessing; Feature extraction}
+   40/197   . . . {Matching; Classification}
+   40/20    . Movements or behaviour, e.g. gesture recognition
+(recognition of facial expressions G06V 40/16)
+   40/23    . . {Recognition of whole body movements, e.g. for
+   40/25    . . . {Recognition of walking or running
+movements, e.g. gait recognition}
+   40/28    . . {Recognition of hand or arm movements, e.g.
+recognition of deaf sign language (static hand
+   40/30    . Writer recognition; Reading and verifying
+   40/33    . . {based only on signature image, e.g. static
+   40/37    . . {based only on signature signals such as velocity
+or pressure, e.g. dynamic signature recognition}
+   40/376   . . . {Acquisition}
+   40/382   . . . {Preprocessing; Feature extraction}
+   40/388   . . . . {Sampling; Contour coding; Stroke
+   40/394   . . . {Matching; Classification}
+   40/40    . Spoof detection, e.g. liveness detection
+   40/45    . . {Detection of the body part being alive}
+   40/50    . Maintenance of biometric data or enrolment thereof
+   40/53    . . {Measures to keep reference information secret,
+   40/55    . . {Performing matching on a personal external
+card, e.g. to avoid submitting reference
+   40/58    . . {Solutions for unknown imposter distribution}
+   40/60    . Static or dynamic means for assisting the user to
+position a body part for biometric acquisition
+   40/63    . . {by static guides}
+   40/67    . . {by interactive indications to the user}
+   40/70    . Multimodal biometrics, e.g. combining information
+from different biometric modalities
+ 2201/00    Indexing scheme relating to image or video
+ 2201/01    . Solutions for problems related to non-uniform
+ 2201/02    . Recognising information on displays, dials, clocks
+ 2201/03    . Recognition of patterns in medical or anatomical
+ 2201/031   . . of internal organs
+ 2201/032   . . of protuberances, polyps nodules, etc.
+ 2201/033   . . of skeletal patterns
+ 2201/034   . . of medical instruments
+ 2201/04    . Recognition of patterns in DNA microarrays
+ 2201/05    . Recognition of patterns representing particular kinds
+of hidden objects, e.g. weapons, explosives, drugs
+ 2201/06    . Recognition of objects for industrial automation
+ 2201/08    . Detecting or categorising vehicles
+ 2201/09    . Recognition of logos
+ 2201/10    . Recognition assisted with metadata
+ 2201/11    . Technique with transformation invariance effect
+ 2201/12    . Acquisition of 3D measurements of objects
+ 2201/121   . . using special illumination
+ 2201/122   . . Computational image acquisition in electron
+ 2201/13    . Type of disclosure document
+ 2201/134   . . Technical report or standard
+ 2201/135   . . Master, PhD or other thesis

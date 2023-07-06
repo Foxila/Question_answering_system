@@ -1,0 +1,337 @@
+COOPERATIVE PATENT CLASSIFICATION
+ELECTROMECHANICAL CLOCKS OR WATCHES (mechanical parts of clocks or
+watches in general G04B; electronic time-pieces with no moving parts, electronic circuitry for
+This subclass covers electric features of mechanically-driven clocks or watches, such as electric winding of such clocks or the
+provision of electric contacts thereon.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+Electric winding of mechanical clocks; Independent electric
+    1/00    Winding mechanical clocks electrically (winding
+mechanically G04B 3/00 {; electrical winding of
+spring driven arrangements for grammophones
+    1/003   . {by electro-thermal or electro-pneumatic
+    1/006   . {for clocksystems (G04C 1/02 - G04C 1/04 take
+    1/02    . by electromagnets
+    1/022   . . {with snap-acting armature}
+    1/024   . . . {winding-up springs}
+    1/026   . . {having unipolar rotating armature (two-pole or
+multi-pole arrangements G04C 1/04, G04C 1/06,
+    1/028   . . {with linearly moving armature}
+    1/04    . by electric motors with rotating or with
+reciprocating movement {(in general H02K 33/00)}
+    1/06    . . winding-up springs
+    1/062   . . . {by oscillating movement}
+    1/065   . . . {by continuous rotating movement}
+    1/067   . . . {by stepping rotating movement}
+    1/08    . . raising weights
+    1/082   . . . {by oscillating movement}
+    1/085   . . . {by continuously rotating movement}
+    1/087   . . . {by stepping rotating movement}
+    1/10    . Protection against overwinding (in mechanical
+clocks or watches G04B 1/20, G04B 3/06,
+G04B 3/10; {G04B 5/24, G04B 9/02})
+    3/00    Electromechanical clocks or watches independent
+of other time-pieces and in which the movement
+is maintained by electric means {(synchronisation
+    3/001   . {Electromechanical switches for setting or display
+    3/002   . . {Position, e.g. inclination dependent switches}
+    3/004   . . {Magnetically controlled}
+    3/005   . . {Multiple switches (G04C 3/004 takes
+    3/007   . . {Electromechanical contact-making and breaking
+devices acting as pulse generators for setting}
+    3/008   . {Mounting, assembling of components}
+    3/02    . wherein movement is regulated by a pendulum
+    3/021   . . {using mechanical coupling (using more than
+one pendulum G04C 3/025; using torsion
+pendulums G04C 3/033; using conical pendulums
+    3/022   . . . {with constant impulses}
+    3/024   . . {using other coupling means, e.g. electrostrictive,
+    3/025   . . {using more than one pendulum (synchronisation
+between master and slave pendulums
+    3/027   . . using electromagnetic coupling between electric
+power source and pendulum (G04C 3/033 takes
+    3/0271  . . . {the pendulum controlling contacts
+and mechanically driving the gear-train
+(constructional details of contact devices
+    3/0273  . . . {the pendulum controlling contacts, thereby
+electromagnetically driving the gear-train or
+several gear-trains (generating driving pulses in
+    3/0275  . . . {the pendulum controlling contacts,
+the pendulum driving electro-magnet
+simultaneously driving the gear-train}
+    3/0276  . . . {the pendulum controlling indirectly, i.e.
+without mechanical connection, contacts, e.g.
+1Electric winding of mechanical clocks; Independent electric clocks or watches
+    3/0278  . . . {the pendulum controlling the gear-train
+by means of static switches, e.g. transistor
+    3/033   . . using torsion pendulums; using conical
+pendulums (construction thereof G04B 17/00)
+    3/0335  . . . {using conical pendulums (construction thereof
+    3/04    . wherein movement is regulated by a balance
+{(construction thereof G04B 17/063)}
+    3/042   . . {using mechanical coupling}
+    3/045   . . . {with constant impulses}
+    3/047   . . {using other coupling means, e.g. electrostrictive,
+    3/06    . . using electromagnetic coupling between electric
+    3/061   . . . {the balance controlling contacts and
+mechanically driving the gear-train}
+    3/062   . . . {the balance controlling contacts, the gear-
+train or several gear-trains being driven electro-
+    3/063   . . . {the balance controlling contacts, the balance
+driving electro-magnet simultaneously driving
+    3/064   . . . {the balance controlling indirectly, i.e. without
+mechanical connection, contacts, e.g. by
+    3/065   . . . {the balance controlling gear-train by means
+of static switches, e.g. transistor circuits
+(synchronisation of balance G04C 11/084)}
+    3/066   . . . . {Constructional details, e.g. disposition of
+    3/067   . . . . {Driving circuits with distinct detecting and
+    3/068   . . . . . {provided with automatic control}
+    3/069   . . . . {Driving circuits using a single coil for
+detection and driving purposes}
+    3/08    . wherein movement is regulated by a mechanical
+oscillator other than a pendulum or balance, e.g. by
+a tuning fork {, e.g. electrostatically}
+    3/10    . . driven by electromagnetic means
+    3/101   . . . {constructional details}
+    3/102   . . . . {of the mechanical oscillator or of the coil}
+    3/104   . . . . {of the pawl or the ratched-wheel (in general
+    3/105   . . . . . {pawl and ratched-wheel being
+    3/107   . . . . {Controlling frequency or amplitude of the
+oscillating system (circuits G04C 3/108)}
+    3/108   . . . {Driving circuits}
+    3/12    . . driven by piezo-electric means; driven by
+    3/125   . . . {driven by magneto-strictive means}
+    3/14    . incorporating a stepping motor
+(G04C 3/02 - G04C 3/12 take precedence
+{generating timing pulses G04F 5/00, G04G 3/00;
+setting G04G 5/00; synchronisation G04G 7/00;
+generating commutating pulses in masterclocks
+G04C 13/0463, G04C 13/02; slave clocks actuated
+intermittently by electromechanical step advancing
+mechanisms G04C 13/10; control circuits for
+stepping motors in general H02P 8/00})
+    3/143   . . {Means to reduce power consumption by
+reducing pulse width or amplitude and related
+problems, e.g. detection of unwanted or missing
+    3/146   . . {incorporating two or more stepping motors or
+    3/16    . incorporating an electro-dynamic continuously
+rotating motor (G04C 3/02 - G04C 3/12 take
+precedence; clocks driven by synchronous motors
+G04C 15/00; {apparatus which can be set and
+started to measure-off predetermined or adjustably-
+fixed time intervals with electric driving means,
+e.g. incorporating clocks G04F 3/06, G04F 3/08;
+electromechanical stop watches G04F 8/00})
+    3/165   . . {comprising a mechanical regulating device
+influencing the electromotor (constructional
+details of the mechanical regulating device
+    3/18    . incorporating electro-thermal or electro-pneumatic
+    5/00    Electric or magnetic means for converting
+oscillatory to rotary motion in time-pieces, i.e.
+electric or magnetic escapements (regulators
+    5/005   . {Magnetic or electromagnetic means}
+    9/00    Electrically-actuated devices for setting the time-
+indicating means (of slave clocks G04C 13/03;
+mechanical setting devices G04B 27/00; radio-
+    9/02    . {brought into action by radio transmission}
+    9/04    . by blocking the driving means {(see provisionally
+    9/06    . by decoupling the driving means (combined with
+blocking means G04C 9/04 {see provisionally
+    9/08    . by electric drive, {(i.e. for mechanical clocks; see
+   10/00    Arrangements of electric power supplies in time
+pieces {(circuits G04G 19/00; mounting, assembling
+of components of electromechanical watches
+G04C 3/008, of electronic watches G04G 17/00)}
+   10/02    . the power supply being a radioactive {or
+   10/04    . with means for indicating the condition of the power
+supply {(in general G01R 31/36)}
+Electric clock installations; Master-and-slave clock systems;
+   11/00    Synchronisation of independently-driven clocks
+(radio-controlled time-pieces G04R)
+   11/002   . {by changing the driving speed}
+   11/005   . {by changing the ratio of the driving-gear}
+   11/007   . {by positioning of the index or by regulating the
+length of the pendulum in dependance on the time
+   11/02    . {by radio (time setting brought into action by radio
+   11/023   . . {provided with arrangements to prevent
+synchronisation by interfering signals}
+   11/026   . . {the time-piece preparing itself on set times on
+the reception of the sychronising signal}
+   11/04    . over a line (transmitting time signals over telephone
+networks H04M 11/06 {; time setting G04C 9/00})
+2Electric clock installations; Master-and-slave clock systems; Synchronous-motor clocks
+   11/043   . . {provided with arrangements to prevent
+synchronisation by interfering signals}
+   11/046   . . {the time-piece preparing itself on set time on the
+reception of the synchronising signal}
+   11/06    . with direct mechanical action on the time-indicating
+means {(time setting G04C 9/00)}
+   11/08    . using an electro-magnet or-motor {for oscillation
+   11/081   . . {using an electro-magnet}
+   11/082   . . . {acting on the pendulum (mutual
+synchronisation of pendulums G04C 13/028)}
+   11/084   . . . {acting on the balance}
+   11/085   . . {using an electro-motor}
+   11/087   . . . {acting on the pendulum (mutual
+synchronisation of pendulums G04C 13/028)}
+   11/088   . . . {acting on the balance}
+   13/00    Driving mechanisms for clocks by master-clocks
+   13/02    . Circuit arrangements; Electric clock installations
+   13/021   . . {master-slave systems using transmission of
+singular pulses for driving directly slave-clocks
+step by step (G04C 13/03 takes precedence)}
+   13/022   . . . {via existing power distribution lines}
+   13/023   . . . {via existing transmission lines (transmitting
+time signals over telephone networks
+   13/025   . . . {via special lines}
+   13/027   . . {master-slave systems using transmission of other
+driving signals, e.g. coded signals}
+   13/028   . . {transmission systems for synchronisation of
+pendulum of slave-clocks by pendulums of
+   13/03    . . Pulse transmission systems with additional means
+for setting the time indication of slave-clocks
+{(G04C 13/028 takes precedence)}
+   13/0409  . . . {monitoring or controlling master-clock or
+system with more than one master-clock, e.g.
+for switching-over to standby motor or power
+   13/0418  . . . . {by using devices similar to slave-clocks}
+   13/0427  . . . . {Systems in which slave-clocks function
+as master-clocks for other slave-clocks
+(synchronisation of independently-driven
+clocks G04C 11/00, setting G04C 9/00)}
+   13/0436  . . . {provided with supplementary means for
+setting or changing the time indication of the
+   13/0445  . . . . {for automatically correcting of or
+   13/0454  . . . . {for automatically setting of slave-clocks
+after correction or after setting of master-
+   13/0463  . . . {Arrangements for generating normal driving
+   13/0472  . . . . {by starting an independent mechanical
+driving devices, e.g. motor controlling the
+   13/0481  . . . . {by switching on an electromagnetic driving
+device, e.g. electro-motor, controlling the
+   13/049   . . . . {by using current generating driving device}
+   13/06    . . . Contact devices (for simultaneously winding
+   13/065   . . . . {controlled by a pendulum or a balance}
+   13/08    . Slave-clocks actuated intermittently
+   13/10    . . by electromechanical step advancing mechanisms
+{(independent clocks or watches incorporating
+a stepping motor G04C 3/14; stepping motors in
+   13/105   . . . {setting the time-indicating means (master-
+slave systems with setting means G04C 13/03;
+adjusting independently-driven clocks
+   13/11    . . . with rotating armature
+   13/12    . . by continuously-rotating electric motors
+{(independent clocks G04C 3/16; clocks driven
+by synchronous motors G04C 15/00)}
+   13/14    . . by electrically-released mechanical driving
+   15/00    Clocks driven by synchronous motors
+   15/0009  . {without power-reserve}
+   15/0018  . . {provided with hand-actuated starting device}
+   15/0027  . . {provided with automatic-starting device}
+   15/0036  . . {provided with means for indicating disturbance}
+   15/0045  . . {provided with means for checking sense of
+   15/0054  . {with power-reserve}
+   15/0063  . {Synchronous clock systems, e.g. provided with
+radiolink or using transmission of alternating
+current via existing power distribution lines}
+   15/0072  . . {Setting the time-indicating means, e.g. by
+controlling the frequency or by changing the
+drive of the separate clocks by using an auxiliary
+   15/0081  . . {Automatic stabilisation of net frequency
+with regard to time, e.g. by comparing one of
+the clocks with an independent clock, means
+being provided for automatic compensation of
+Indicating the time or producing time signals electrically
+   17/00    Indicating the time optically by electric means
+(G04C 19/00 takes precedence; by mechanical means
+   17/0016  . . {with date indication}
+   17/0033  . . {with date indication}
+   17/0041  . {by a combination of different types of indicating
+   17/005   . {by discs (by drums G04C 17/0075)}
+   17/0058  . . {with date indication}
+   17/0066  . . . {electromagnetically driven, e.g. intermittently
+(clocks incorporating a stepping motor
+   17/0075  . {by drums or drum-like devices}
+   17/0083  . . {with date indication}
+   17/0091  . {Combined electro-optical and electro-mechanical
+displays (see provisionally also G04G 9/0082)}
+   17/02    . by electric lamps
+   19/00    Producing optical time signals at prefixed times by
+3Indicating the time or producing time signals electrically
+   19/02    . by electric lamps
+   19/04    . by indicating members moved electrically, e.g. flap,
+   21/00    Producing acoustic time signals by electrical means
+{(for mechanical clocks or watches G04B 21/08,
+   21/02    . Constructional details (G04C 21/04, G04C 21/16
+take precedence {sound producing devices in
+   21/04    . Indicating the time of the day (acoustic indication of
+   21/06    . . by striking mechanism
+   21/10    . . . with locking plate
+   21/12    . . by electro-acoustic means
+   21/14    . . . Electro-acoustic time announcement, i.e.
+   21/16    . producing the signals at adjustable fixed times
+   21/18    . . by mechanically unlocking an electromechanical
+vibrator, e.g. actuated by the leakage flux of the
+   21/185   . . . {provided with means for sheeting off or
+temporarity stopping the signal}
+   21/20    . . by closing a contact to ring an electromechanical
+   21/205   . . . {by the hand(s) or handlike members closing
+   21/22    . . . put into action by the arbor of a mechanical
+   21/24    . . . put into action by the spring of a mechanical
+   21/26    . . . put into action by the vibrations caused by the
+operation of a mechanical alarm work
+   21/28    . . by closing a contact to put into action electro-
+acoustic means, e.g. awakening by music
+   21/30    . . with provision for a number of operations at
+different times, e.g. ringing the bells in a school
+   21/305   . . . {by the hand(s) or handlike members closing
+   21/32    . . . giving indications at a number of places each at
+a different time, e.g. system of alarms in a hotel
+   21/323   . . . . {by the hand(s) or handlike members closing
+   21/326   . . . . {adjustable from the different places
+   21/34    . . Devices on watches or similar portable timepieces
+   21/36    . . Signal repeating devices
+   21/38    . . Adjusting the duration of signals
+   23/00    Clocks with attached or built-in means operating
+any device at preselected times or after preselected
+time-intervals (if restricted to producing acoustic
+time signals by electrical means G04C 21/00;
+mechanical alarm clocks G04B 23/02; apparatus
+which can be set and started to measure-off
+predetermined intervals G04F 3/06; time or time-
+programme switches which automatically terminate
+their operation after the programme is completed
+   23/02    . Constructional details
+   23/04    . . Housings, supports, shielding, or similar
+   23/06    . . Driving or regulating means
+   23/08    . . Programming means
+   23/10    . . for actuating any element which operates, or
+initiates the operation of, the device concerned
+   23/12    . . Electric circuitry
+   23/14    . Mechanisms continuously running to relate the
+operation(s) to the time of day
+   23/16    . . acting only at one preselected time or during one
+   23/18    . . for operating one device at a number of different
+   23/20    . . . with contacts operated, or formed by clock
+hands or elements of similar form
+   23/22    . . . with the actuating element carried by a disc
+   23/24    . . . . the actuating element controlling another
+   23/26    . . for operating a number of devices at different
+   23/28    . . . with contacts operated, or formed, by clock
+hands or elements of similar form
+   23/30    . . . with the actuating element carried by a disc
+   23/32    . . . . the actuating element controlling another
+   23/34    . . with provision for automatic modification of the
+   23/342   . . . {some operations being performed at another
+   23/345   . . . {another programme being carried out}
+   23/347   . . . {some operations being overridden}
+   23/36    . . . by external influences
+   23/38    . Mechanisms measuring a chosen time interval
+independently of the time of day at which interval
+   23/40    . . using continuously-running mechanism
+   23/42    . . acting only at the end of a single time interval
+   23/44    . . . with provision for selection from a number of
+   23/46    . . . with provision for adjustment of the interval
+   23/48    . . acting at the ends of successive time intervals
+   23/50    . . with provision for modification of the interval(s)
+   99/00    Subject matter not provided for in other groups of

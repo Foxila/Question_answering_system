@@ -1,0 +1,564 @@
+COOPERATIVE PATENT CLASSIFICATION
+PETROLEUM, GAS OR COKE INDUSTRIES; TECHNICAL GASES CONTAINING
+CARBON MONOXIDE; FUELS; LUBRICANTS; PEAT
+CRACKING HYDROCARBON OILS; PRODUCTION OF LIQUID HYDROCARBON
+MIXTURES, e.g. BY DESTRUCTIVE HYDROGENATION, OLIGOMERISATION,
+POLYMERISATION (cracking to hydrogen or synthesis gas C01B; cracking or pyrolysis
+of hydrocarbon gases to individual hydrocarbons or mixtures thereof of definite or specified
+constitution C07C; cracking to cokes C10B); RECOVERY OF HYDROCARBON OILS
+FROM OIL-SHALE, OIL-SAND, OR GASES; REFINING MIXTURES MAINLY
+CONSISTING OF HYDROCARBONS; REFORMING OF NAPHTHA; MINERAL
+• groups C10G 9/00 - C10G 49/00 are limited to one-step processes;
+• combined or multi-step processes are covered by groups C10G 51/00 - C10G 69/00;
+• refining or recovery of mineral waxes is covered by group C10G 73/00
+2. In this subclass, the following terms or expressions are used with the meanings indicated:
+• "in the presence of hydrogen" or "in the absence of hydrogen" mean treatments in which hydrogen, in free form or as
+hydrogen generating compounds, is added, or not added, respectively;
+• "hydrotreatment" is used for conversion processes as defined in group C10G 45/00 or group C10G 47/00;
+• "hydrocarbon oils" covers mixtures of hydrocarbons such as tar oils or mineral oils.
+3. In this subclass, in the absence of an indication to the contrary, classification is made in the last appropriate place.
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Production of liquid hydrocarbon mixtures
+from oil-shale, oil-sand, or non-melting solid
+carbonaceous or similar materials, e.g. wood, coal
+(mechanical winning of oil from oil-shales, oil-sand,
+    1/002   . {in combination with oil conversion- or refining
+    1/004   . {Inhibiting of corrosion}
+    1/006   . {Combinations of processes provided in groups
+    1/008   . {Controlling or regulating of liquefaction
+    1/042   . . {by the use of hydrogen-donor solvents}
+    1/045   . . {Separation of insoluble materials}
+    1/047   . . {Hot water or cold water extraction processes}
+    1/06    . by destructive hydrogenation
+    1/065   . . {in the presence of a solvent}
+    1/08    . with moving catalysts
+    1/083   . . {in the presence of a solvent}
+    1/086   . . {Characterised by the catalyst used}
+    1/10    . from rubber or rubber waste
+    2/00    Production of liquid hydrocarbon mixtures of
+undefined composition from oxides of carbon
+    2/30    . {from carbon monoxide with hydrogen}
+    2/31    . . {thermal, non catalytic conversion}
+    2/32    . . {with the use of catalysts}
+    2/33    . . . {characterised by the catalyst used}
+    2/331   . . . . {containing group VIII-metals}
+    2/332   . . . . . {of the iron-group}
+    2/333   . . . . . {of the platinum-group}
+    2/334   . . . . {containing molecular sieve catalysts}
+    2/34    . . . {Apparatus, reactors}
+    2/341   . . . . {with stationary catalyst bed}
+    2/342   . . . . {with moving solid catalysts}
+    2/343   . . . . . {according to the "moving-bed" method}
+    2/344   . . . . . {according to the "fluidised-bed"
+    2/35    . . {with the use of another activation, e.g. radiation,
+vibration, electrical or electromagnetic means}
+    2/40    . {from carbon monoxide with water vapor}
+    2/50    . {from carbon dioxide with hydrogen}
+    3/00    Production of liquid hydrocarbon mixtures from
+oxygen-containing organic materials, e.g. fatty
+oils, fatty acids (production from non-melting
+solid oxygen-containing carbonaceous materials
+    3/40    . {Thermal non-catalytic treatment}
+    3/42    . {Catalytic treatment}
+    3/44    . . {characterised by the catalyst used}
+    3/45    . . . {containing iron group metals or compounds
+    3/46    . . . . {in combination with chromium,
+molybdenum, tungsten metals or compounds
+    3/47    . . . {containing platinum group metals or
+    3/48    . . . {further characterised by the catalyst support}
+    3/49    . . . . {containing crystalline aluminosilicates, e.g.
+    3/50    . {in the presence of hydrogen, hydrogen donors or
+    3/52    . . {Hydrogen in a special composition or from a
+    3/54    . {characterised by the catalytic bed}
+    3/55    . . {with moving solid particles, e.g. moving beds}
+    3/56    . . . {suspended in the oil, e.g. slurries, ebullated
+    3/57    . . . {according to the fluidised bed technique}
+    3/60    . {Controlling or regulating the processes}
+    3/62    . {Catalyst regeneration}
+    5/00    Recovery of liquid hydrocarbon mixtures from
+    5/02    . with solid adsorbents
+    5/04    . with liquid absorbents
+    5/06    . by cooling or compressing
+    7/00    Distillation of hydrocarbon oils
+    7/003   . {distillation of lubricating oils}
+    7/006   . {of waste oils other than lubricating oils, e.g. PCB's
+    7/02    . Stabilising gasoline by removing gases by
+    7/06    . Vacuum distillation
+    7/08    . Azeotropic or extractive distillation (refining of
+hydrocarbon oils, in the absence of hydrogen, by
+extraction with selective solvents C10G 21/00)
+    7/10    . Inhibiting corrosion during distillation
+    7/12    . Controlling or regulating
+Cracking in the absence of hydrogen
+    9/00    Thermal non-catalytic cracking, in the absence of
+    9/002   . {Cooling of cracked gases}
+    9/005   . {Coking (in order to produce liquid products
+    9/06    . by pressure distillation
+    9/08    . . Apparatus therefor
+    9/12    . . . Removing incrustation
+    9/14    . in pipes or coils with or without auxiliary means,
+e.g. digesters, soaking drums, expansion means
+    9/16    . . Preventing or removing incrustation
+    9/20    . . . Tube furnaces
+    9/203   . . . . {chemical composition of the tubes}
+    9/206   . . . . {controlling or regulating the tube furnaces}
+    9/24    . by heating with electrical means
+    9/26    . with discontinuously preheated non-moving solid
+    9/28    . with preheated moving solid material
+    9/30    . . according to the "moving bed" method
+    9/32    . . according to the "fluidised-bed" technique
+    9/34    . by direct contact with inert preheated fluids, e.g.
+    9/36    . . with heated gases or vapours
+    9/38    . . . produced by partial combustion of the material
+to be cracked or by combustion of another
+    9/40    . by indirect contact with preheated fluid other than
+    9/42    . by passing the material to be cracked in thin streams
+or as spray on or near continuously heated surfaces
+   11/00    Catalytic cracking, in the absence of hydrogen,
+of hydrocarbon oils (cracking in direct contact with
+molten metals or salts C10G 9/34)
+   11/02    . characterised by the catalyst used
+   11/05    . . . Crystalline alumino-silicates, e.g. molecular
+   11/10    . with stationary catalyst bed
+   11/12    . with discontinuously preheated non-moving solid
+   11/14    . with preheated moving solid catalysts
+   11/16    . . according to the "moving bed" method
+   11/18    . . according to the "fluidised-bed" technique
+   11/182   . . . {Regeneration}
+   11/185   . . . {Energy recovery from regenerator effluent
+   11/187   . . . {Controlling or regulating}
+   11/20    . by direct contact with inert heated gases or vapours
+   11/22    . . produced by partial combustion of the material to
+   15/00    Cracking of hydrocarbon oils by electric means,
+electromagnetic or mechanical vibrations, by
+particle radiation or with gases superheated in
+   15/08    . by electric means or by electromagnetic or
+   15/10    . by particle radiation
+   15/12    . with gases superheated in an electric arc, e.g.
+Refining in the absence of hydrogen
+   17/00    Refining of hydrocarbon oils in the absence of
+hydrogen, with acids, acid-forming compounds or
+acid-containing liquids, e.g. acid sludge
+2Refining in the absence of hydrogen
+   17/02    . with acids or acid-containing liquids, e.g. acid
+   17/04    . . Liquid-liquid treatment forming two immiscible
+   17/06    . . . using acids derived from sulfur or acid sludge
+   17/07    . . . using halogen acids or oxyacids of halogen
+(acids generating halogen C10G 27/02)
+   17/08    . with acid-forming oxides (refining with CO2 or SO2
+as a selective solvent C10G 21/06)
+   17/095   . with "solid acids", e.g. phosphoric acid deposited on
+   17/10    . Recovery of used refining agents
+   19/00    Refining hydrocarbon oils in the absence of
+hydrogen, by alkaline treatment
+   19/02    . with aqueous alkaline solutions
+   19/04    . . containing solubilisers, e.g. solutisers
+   19/06    . . with plumbites or plumbates
+   19/067   . with molten alkaline material
+   19/073   . with solid alkaline material
+   19/08    . Recovery of used refining agents
+   21/00    Refining of hydrocarbon oils, in the absence of
+hydrogen, by extraction with selective solvents
+(C10G 17/00, C10G 19/00 take precedence)
+   21/003   . {Solvent de-asphalting}
+   21/006   . {of waste oils, e.g. PCB's containing oils}
+   21/02    . with two or more solvents, which are introduced or
+   21/04    . . by introducing simultaneously at least two
+immiscible solvents counter-current to each other
+   21/06    . characterised by the solvent used
+   21/08    . . Inorganic compounds only
+   21/10    . . . Sulfur dioxide
+   21/12    . . Organic compounds only
+   21/16    . . . Oxygen-containing compounds
+   21/18    . . . Halogen-containing compounds
+   21/20    . . . Nitrogen-containing compounds
+   21/22    . . . Compounds containing sulfur, selenium, or
+   21/24    . . . Phosphorus-containing compounds
+   21/26    . . . Silicon-containing compounds
+   21/27    . . . Organic compounds not provided for in a single
+one of groups C10G 21/14 - C10G 21/26
+   21/28    . Recovery of used solvent
+   21/30    . Controlling or regulating
+   25/00    Refining of hydrocarbon oils in the absence of
+When classifying in this group, classification
+is also made in group B01D 15/08 insofar as
+subject matter of general interest relating to
+   25/003   . {Specific sorbent material, not covered by
+   25/006   . {of waste oils, e.g. PCB's containing oils}
+   25/02    . with ion-exchange material
+   25/03    . . with crystalline alumino-silicates, e.g. molecular
+   25/05    . . . Removal of non-hydrocarbon compounds, e.g.
+   25/06    . with moving sorbents or sorbents dispersed in the
+   25/08    . . according to the "moving bed" method
+   25/09    . . according to the "fluidised bed" technique
+   25/11    . . Distillation in the presence of moving sorbents
+   25/12    . Recovery of used adsorbent
+   27/00    Refining of hydrocarbon oils in the absence of
+   27/02    . with halogen or compounds generating halogen;
+Hypochlorous acid or salts thereof
+   27/04    . with oxygen or compounds generating oxygen
+   27/06    . . in the presence of alkaline solutions
+   27/08    . . in the presence of copper chloride
+   27/10    . . in the presence of metal-containing organic
+complexes, e.g. chelates, or cationic ion-exchange
+   27/12    . . with oxygen-generating compounds, e.g. per-
+compounds, chromic acid, chromates (plumbites
+   27/14    . . with ozone-containing gases
+   29/00    Refining of hydrocarbon oils, in the absence of
+   29/04    . Metals, or metals deposited on a carrier
+   29/06    . Metal salts, or metal salts deposited on a carrier
+   29/08    . . containing the metal in the lower valency
+   29/20    . Organic compounds not containing metal atoms
+   29/205   . . {by reaction with hydrocarbons added to the
+   29/22    . . containing oxygen as the only hetero atom
+   29/24    . . . Aldehydes or ketones
+   29/26    . . Halogenated hydrocarbons
+   29/28    . . containing sulfur as the only hetero atom, e.g.
+mercaptans, or sulfur and oxygen as the only
+   31/00    Refining of hydrocarbon oils, in the absence of
+hydrogen, by methods not otherwise provided for
+   31/06    . by heating, cooling, or pressure treatment
+   31/08    . by treating with water
+   31/10    . with the aid of centrifugal force
+   32/00    Refining of hydrocarbon oils by electric or
+magnetic means, by irradiation, or by using
+   32/02    . by electric or magnetic means
+   32/04    . by particle radiation
+   33/00    Dewatering or demulsification of hydrocarbon oils
+   33/02    . with electrical or magnetic means
+   33/04    . with chemical means
+   33/06    . with mechanical means, e.g. by filtration
+3Refining in the absence of hydrogen
+   33/08    . Controlling or regulating
+By reforming is meant the treatment of naphtha, in
+order to improve the octane number or its aromatic
+   35/02    . Thermal reforming
+   35/04    . Catalytic reforming
+   35/06    . . characterised by the catalyst used
+   35/065   . . . {containing crystalline zeolitic molecular
+sieves, other than aluminosilicates}
+   35/085   . . . containing platinum group metals or
+   35/09    . . . . Bimetallic catalysts in which at least one of
+the metals is a platinum group metal
+   35/095   . . . containing crystalline alumino-silicates,
+e.g. molecular sieves {(C10G 35/065 takes
+   35/10    . . with moving catalysts
+   35/12    . . . according to the "moving-bed" method
+   35/14    . . . according to the "fluidised-bed" technique
+   35/16    . with electric, electromagnetic, or mechanical
+vibrations; by particle radiation
+   35/22    . Starting-up reforming operations
+   35/24    . Controlling or regulating of reforming operations
+   45/00    Refining of hydrocarbon oils using hydrogen or
+Treatment of hydrocarbon oils in the presence of
+hydrogen-generating compounds not provided
+for in a single one of groups C10G 45/02,
+C10G 45/32, C10G 45/44 or C10G 45/58 is
+provided for in group C10G 49/00.
+   45/02    . to eliminate hetero atoms without changing
+the skeleton of the hydrocarbon involved and
+without cracking into lower boiling hydrocarbons;
+   45/04    . . characterised by the catalyst used
+   45/06    . . . containing nickel or cobalt metal, or
+   45/08    . . . . in combination with chromium,
+molybdenum, or tungsten metals, or
+   45/10    . . . containing platinum group metals or
+   45/12    . . . containing crystalline alumino-silicates, e.g.
+   45/14    . . with moving solid particles
+   45/16    . . . suspended in the oil, e.g. slurries
+   45/18    . . . according to the "moving-bed" technique
+   45/20    . . . according to the "fluidised-bed" technique
+   45/22    . . with hydrogen dissolved or suspended in the oil
+   45/24    . . with hydrogen-generating compounds
+   45/26    . . . Steam or water
+   45/28    . . . Organic compounds; Autofining
+   45/30    . . . . characterised by the catalyst used
+   45/32    . Selective hydrogenation of the diolefin or acetylene
+   45/34    . . characterised by the catalyst used
+   45/36    . . . containing nickel or cobalt metal, or
+   45/38    . . . . in combination with chromium, molybdenum
+or tungsten metals, or compounds thereof
+   45/40    . . . containing platinum group metals or
+   45/42    . . with moving solid particles
+   45/44    . Hydrogenation of the aromatic hydrocarbons
+   45/46    . . characterised by the catalyst used
+   45/48    . . . containing nickel or cobalt metal, or
+   45/50    . . . . in combination with chromium, molybdenum
+or tungsten metal, or compounds thereof
+   45/52    . . . containing platinum group metals or
+   45/54    . . . containing crystalline alumino-silicates, e.g.
+   45/56    . . with moving solid particles
+   45/58    . to change the structural skeleton of some of the
+hydrocarbon content without cracking the other
+hydrocarbons present, e.g. lowering pour point;
+Selective hydrocracking of normal paraffins
+(C10G 32/00 takes precedence; improving or
+increasing the octane number or aromatic content of
+   45/60    . . characterised by the catalyst used
+   45/62    . . . containing platinum group metals or
+   45/64    . . . containing crystalline alumino-silicates, e.g.
+   45/66    . . with moving solid particles
+   45/68    . . Aromatisation of hydrocarbon oil fractions
+   45/70    . . . with catalysts containing platinum group metals
+   45/72    . Controlling or regulating
+   47/00    Cracking of hydrocarbon oils, in the presence of
+hydrogen or hydrogen- generating compounds, to
+obtain lower boiling fractions (C10G 15/00 takes
+precedence; destructive hydrogenation of non-melting
+solid carbonaceous or similar materials C10G 1/06)
+   47/02    . characterised by the catalyst used
+   47/10    . . with catalysts deposited on a carrier
+   47/12    . . . Inorganic carriers
+   47/14    . . . . the catalyst containing platinum group metals
+   47/16    . . . . Crystalline alumino-silicate carriers
+   47/18    . . . . . the catalyst containing platinum group
+   47/20    . . . . . the catalyst containing other metals or
+   47/22    . Non-catalytic cracking in the presence of hydrogen
+   47/24    . with moving solid particles
+   47/26    . . suspended in the oil, e.g. slurries
+   47/28    . . according to the "moving-bed" technique
+   47/30    . . according to the "fluidised-bed" technique
+   47/32    . in the presence of hydrogen-generating compounds
+   47/34    . . Organic compounds, e.g. hydrogenated
+   47/36    . Controlling or regulating
+   49/00    Treatment of hydrocarbon oils, in the presence
+of hydrogen or hydrogen-generating compounds,
+not provided for in a single one of groups
+C10G 45/02, C10G 45/32, C10G 45/44, C10G 45/58
+   49/002   . {Apparatus for fixed bed hydrotreatment processes}
+   49/005   . {Inhibiting corrosion in hydrotreatment processes}
+   49/007   . {in the presence of hydrogen from a special source
+or of a special composition or having been purified
+   49/02    . characterised by the catalyst used
+   49/04    . . containing nickel, cobalt, chromium,
+molybdenum, or tungsten metals, or compounds
+   49/06    . . containing platinum group metals or compounds
+   49/08    . . containing crystalline alumino-silicates, e.g.
+   49/10    . with moving solid particles
+   49/12    . . suspended in the oil, e.g. slurries
+   49/14    . . according to the "moving-bed" technique
+   49/16    . . according to the "fluidised-bed" technique
+   49/18    . in the presence of hydrogen-generating compounds,
+e.g. ammonia, water, hydrogen sulfide
+   49/20    . . Organic compounds
+   49/22    . Separation of effluents
+   49/24    . Starting-up hydrotreatment operations
+   49/26    . Controlling or regulating
+   50/00    Production of liquid hydrocarbon mixtures from
+lower carbon number hydrocarbons, e.g. by
+   50/02    . of hydrocarbon oils for lubricating purposes
+Groups C10G 51/00 - C10G 69/00 cover only those combined
+treating operations where the interest is directed to the relationship
+   51/00    Treatment of hydrocarbon oils, in the absence of
+hydrogen, by two or more cracking processes only
+   51/02    . plural serial stages only
+   51/023   . . {only thermal cracking steps}
+   51/026   . . {only catalytic cracking steps}
+   51/04    . . including only thermal and catalytic cracking
+   51/06    . plural parallel stages only
+   53/00    Treatment of hydrocarbon oils, in the absence of
+hydrogen, by two or more refining processes
+   53/02    . plural serial stages only
+   53/04    . . including at least one extraction step
+   53/06    . . . including only extraction steps, e.g.
+deasphalting by solvent treatment followed by
+   53/08    . . including at least one sorption step
+   53/10    . . including at least one acid-treatment step
+   53/12    . . including at least one alkaline treatment step
+   53/14    . . including at least one oxidation step
+   53/16    . plural parallel stages only
+   55/00    Treatment of hydrocarbon oils, in the absence of
+hydrogen, by at least one refining process and at
+   55/02    . plural serial stages only
+   55/04    . . including at least one thermal cracking step
+   55/06    . . including at least one catalytic cracking step
+   55/08    . plural parallel stages only
+   57/00    Treatment of hydrocarbon oils, in the absence
+of hydrogen, by at least one cracking process or
+refining process and at least one other conversion
+   57/005   . {with alkylation}
+   57/02    . with polymerisation
+   59/00    Treatment of naphtha by two or more reforming
+processes only or by at least one reforming
+process and at least one process which does not
+substantially change the boiling range of the
+   59/02    . plural serial stages only
+   59/04    . . including at least one catalytic and at least one
+   59/06    . plural parallel stages only
+   61/00    Treatment of naphtha by at least one reforming
+process and at least one process of refining in the
+   61/02    . plural serial stages only
+   61/04    . . the refining step being an extraction
+   61/06    . . the refining step being a sorption process
+   61/08    . plural parallel stages only
+   61/10    . processes also including other conversion steps
+   63/00    Treatment of naphtha by at least one reforming
+process and at least one other conversion process
+(C10G 59/00, C10G 61/00 take precedence)
+   63/02    . plural serial stages only
+   63/04    . . including at least one cracking step
+   63/06    . plural parallel stages only
+   63/08    . . including at least one cracking step
+   65/00    Treatment of hydrocarbon oils by two or more
+   65/02    . plural serial stages only
+   65/04    . . including only refining steps
+   65/043   . . . {at least one step being a change in the
+   65/046   . . . {at least one step being an aromatisation step}
+   65/06    . . . at least one step being a selective
+   65/08    . . . at least one step being a hydrogenation of the
+   65/10    . . including only cracking steps
+   65/12    . . including cracking steps and other hydrotreatment
+   65/14    . plural parallel stages only
+   65/16    . . including only refining steps
+   65/18    . . including only cracking steps
+   67/00    Treatment of hydrocarbon oils by at least one
+hydrotreatment process and at least one process
+for refining in the absence of hydrogen only
+   67/02    . plural serial stages only
+   67/04    . . including solvent extraction as the refining step in
+   67/0409  . . . {Extraction of unsaturated hydrocarbons}
+   67/0418  . . . . {The hydrotreatment being a hydrorefining}
+   67/0427  . . . . {The hydrotreatment being a selective
+hydrogenation of diolefins or acetylenes}
+   67/0436  . . . . {The hydrotreatment being an aromatic
+   67/0445  . . . . {The hydrotreatment being a hydrocracking}
+   67/0454  . . . {Solvent desasphalting}
+   67/0463  . . . . {The hydrotreatment being a hydrorefining}
+   67/0472  . . . . {The hydrotreatment being a selective
+hydrogenation of diolefines or acetylenes}
+   67/0481  . . . . {The hydrotreatment being an aromatics
+   67/049   . . . . {The hydrotreatment being a hydrocracking}
+   67/06    . . including a sorption process as the refining step in
+   67/08    . . including acid treatment as the refining step in the
+   67/10    . . including alkaline treatment as the refining step in
+   67/12    . . including oxidation as the refining step in the
+   67/14    . . including at least two different refining steps in
+   67/16    . plural parallel stages only
+   69/00    Treatment of hydrocarbon oils by at least one
+hydrotreatment process and at least one other
+conversion process (C10G 67/00 takes precedence)
+   69/02    . plural serial stages only
+   69/04    . . including at least one step of catalytic cracking in
+   69/06    . . including at least one step of thermal cracking in
+   69/08    . . including at least one step of reforming naphtha
+   69/10    . . . hydrocracking of higher boiling fractions into
+naphtha and reforming the naphtha obtained
+   69/12    . . including at least one polymerisation or alkylation
+   69/126   . . . {polymerisation, e.g. oligomerisation}
+   69/14    . plural parallel stages only
+   70/00    Working-up undefined normally gaseous
+mixtures obtained by processes covered by groups
+C10G 9/00, C10G 11/00, C10G 15/00, C10G 47/00,
+   70/002   . {by forming adducts or complexes}
+   70/004   . . {with solutions of copper salts}
+   70/006   . {with the use of acids or sulfur oxides}
+   70/008   . {with the use of organometallic compounds}
+   70/04    . by physical processes
+   70/041   . . {by distillation}
+   70/042   . . . {with the use of auxiliary compounds}
+   70/043   . . {by fractional condensation}
+   70/044   . . {by crystallisation}
+   70/045   . . {using membranes, e.g. selective permeation}
+   70/046   . . {by adsorption, i.e. with the use of solids}
+   70/047   . . . {by molecular sieve technique}
+   70/048   . . {by liquid-liquid extraction}
+   70/06    . . by gas-liquid contact
+   71/00    Treatment by methods not otherwise provided for
+of hydrocarbon oils or fatty oils for lubricating
+   71/02    . Thickening by voltolising (chemical modification of
+drying oils by voltolising C09F 7/04)
+   73/00    Recovery or refining of mineral waxes, e.g. montan
+wax (compositions essentially based on waxes
+   73/02    . Recovery of petroleum waxes from hydrocarbon
+oils; Dewaxing of hydrocarbon oils
+   73/025   . . {by filtration}
+   73/04    . . with the use of filter aids
+   73/06    . . with the use of solvents
+   73/08    . . . Organic compounds
+   73/10    . . . . Hydrocarbons
+   73/12    . . . . Oxygen-containing compounds
+   73/14    . . . . Halogen-containing compounds
+   73/16    . . . . Nitrogen-containing compounds
+   73/18    . . . . containing sulfur, selenium or tellurium
+   73/20    . . . . containing phosphorus
+   73/22    . . . . Mixtures or organic compounds
+   73/24    . . by formation of adducts
+   73/28    . . by centrifugal force
+   73/30    . . with electric means
+   73/32    . . Methods of cooling during dewaxing
+   73/34    . . Controlling or regulating
+   73/36    . Recovery of petroleum waxes from other
+compositions containing oil in minor proportions,
+from concentrates or from residues; De-oiling,
+   73/38    . Chemical modification of petroleum
+   73/40    . Physical treatment of waxes or modified waxes, e.g.
+granulation, dispersion, emulsion, irradiation
+   73/42    . Refining of petroleum waxes
+   73/44    . . in the presence of hydrogen or hydrogen-
+   75/00    Inhibiting corrosion or fouling in apparatus for
+treatment or conversion of hydrocarbon oils, in
+general (C10G 7/10, C10G 9/16 take precedence)
+   75/02    . by addition of corrosion inhibitors
+   75/04    . by addition of antifouling agents
+   99/00    Subject matter not provided for in other groups of
+ 2300/00    Aspects relating to hydrocarbon processing
+covered by groups C10G 1/00 - C10G 99/00
+ 2300/10    . Feedstock materials
+ 2300/1003  . . Waste materials
+ 2300/1014  . . . of vegetal origin
+ 2300/1018  . . . of animal origin
+ 2300/1022  . . Fischer-Tropsch products
+ 2300/1033  . . Oil well production fluids
+ 2300/1037  . . Hydrocarbon fractions
+ 2300/104   . . . Light gasoline having a boiling range of about
+ 2300/1044  . . . Heavy gasoline or naphtha having a boiling
+ 2300/1048  . . . Middle distillates
+ 2300/1051  . . . . Kerosene having a boiling range of about
+ 2300/1055  . . . . Diesel having a boiling range of about 230 -
+ 2300/1059  . . . . Gasoil having a boiling range of about 330 -
+ 2300/1062  . . . Lubricating oils
+ 2300/1066  . . . . Special oils
+ 2300/107   . . Atmospheric residues having a boiling point of at
+ 2300/1074  . . Vacuum distillates
+ 2300/1077  . . Vacuum residues
+ 2300/1085  . . . Solid paraffins
+ 2300/1092  . . . C2-C4 olefins
+ 2300/1096  . . Aromatics or polyaromatics
+ 2300/20    . Characteristics of the feedstock or the products
+ 2300/202   . . . Heteroatoms content, i.e. S, N, O, P
+ 2300/203   . . . . Naphthenic acids, TAN
+ 2300/205   . . . Metal content
+ 2300/206   . . . . Asphaltenes
+ 2300/207   . . . Acid gases, e.g. H2S, COS, SO2, HCN
+ 2300/208   . . . Sediments, e.g. bottom sediment and water or
+ 2300/30    . . Physical properties of feedstocks or products
+ 2300/301   . . . Boiling range
+ 2300/304   . . . Pour point, cloud point, cold flow properties
+ 2300/305   . . . Octane number, e.g. motor octane number
+[MON], research octane number [RON]
+ 2300/307   . . . Cetane number, cetane index
+ 2300/308   . . . Gravity, density, e.g. API
+ 2300/40    . Characteristics of the process deviating from typical
+ 2300/4018  . . Spatial velocity, e.g. LHSV, WHSV
+ 2300/4031  . . Start up or shut down operations
+ 2300/4037  . . In-situ processes
+ 2300/4043  . . Limiting CO2 emissions
+ 2300/405   . . Limiting CO, NOx or SOx emissions
+ 2300/4056  . . Retrofitting operations
+ 2300/4062  . . Geographical aspects, e.g. different process
+units form a combination process at different
+ 2300/4068  . . Moveable devices or units, e.g. on trucks, barges
+ 2300/4075  . . Limiting deterioration of equipment
+ 2300/4081  . . Recycling aspects
+ 2300/4087  . . Catalytic distillation
+ 2300/4093  . . Catalyst stripping
+ 2300/42    . . Hydrogen of special source or of special
+ 2300/701   . . Use of spent catalysts
+ 2300/706   . . Catalytic metal recovery
+ 2300/708   . . Coking aspect, coke content and composition of
+ 2400/00    Products obtained by processes covered by groups
+ 2400/12    . Electrical isolation oil
+ 2400/14    . White oil, eating oil
+ 2400/24    . Acetylene and homologues
+ 2400/28    . Propane and butane

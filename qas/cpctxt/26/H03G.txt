@@ -1,0 +1,221 @@
+COOPERATIVE PATENT CLASSIFICATION
+CONTROL OF AMPLIFICATION (impedance networks, e.g. attenuators, H03H; control of
+transmission in lines H04B 3/04)
+• control of gain of amplifiers or frequency-changers,
+• control of frequency range of amplifiers,
+• limiting amplitude or rate of change of amplitude
+2. Attention is drawn to the Note following the title of subclass H03F.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Details of arrangements for controlling
+amplification {(for arrangements combined with
+means for generating a controlling signal, or these
+means per se, see the other main groups of H03G)}
+    1/0005  . {Circuits characterised by the type of controlling
+devices operated by a controlling current or voltage
+    1/0011  . . {the device being at least one of the amplifying
+    1/0017  . . {the device being at least one of the amplifying
+solid state elements of the amplifier}
+    1/0023  . . . {in emitter-coupled or cascode amplifiers
+(H03G 1/0029 takes precedence)}
+    1/0035  . . {using continuously variable impedance
+    1/0041  . . . {using thermistors}
+    1/0047  . . . {using photo-electric elements}
+    1/0052  . . . {using diodes}
+    1/0058  . . . . {PIN-diodes}
+    1/0064  . . . . {Variable capacitance diodes}
+    1/007   . . . {using FET type devices}
+    1/0076  . . . {using galvanomagnetic elements}
+    1/0082  . . . {using bipolar transistor-type devices}
+    1/0088  . . {using discontinuously variable devices, e.g.
+    1/0094  . . . {using switched capacitors}
+    1/02    . Remote control of amplification, tone, or bandwidth
+(remote control in general G05, G08; combined
+with remote tuning or selection of resonant circuits
+    1/04    . Modifications of control circuit to reduce distortion
+caused by control (modifications to reduce influence
+of variations of internal impedance of amplifying
+elements caused by control H03F 1/08)
+    3/00    Gain control in amplifiers or frequency changers
+{without distortion of the input signal}(gated
+amplifiers H03F 3/72; peculiar to television receivers
+    3/001   . {Digital control of analog signals}
+    3/002   . {Control of digital or coded signals (H03G 3/3089
+    3/004   . {Control by varying the supply voltage}
+    3/005   . {Control by a pilot signal (H03G 3/001 takes
+    3/007   . {Control dependent on the supply voltage}
+    3/008   . {Control by switched capacitors}
+    3/02    . Manually-operated control {(H03G 3/001 and
+    3/04    . . in untuned amplifiers
+    3/06    . . . having discharge tubes
+    3/08    . . . . incorporating negative feedback
+    3/10    . . . having semiconductor devices
+    3/12    . . . . incorporating negative feedback
+    3/14    . . in frequency-selective amplifiers
+    3/16    . . . having discharge tubes
+    3/18    . . . having semiconductor devices
+    3/20    . Automatic control ({H03G 3/005 takes
+precedence } ; combined with volume compression
+    3/22    . . in amplifiers having discharge tubes
+    3/225   . . . {controlling or controlled by the (local)
+oscillators of a (super)heterodyne receiver}
+    3/24    . . . Control dependent upon ambient noise level or
+    3/26    . . . Muting amplifier when no signal is present {or
+when only weak signals are present, or caused
+by the presence of noise, e.g. squelch systems}
+    3/28    . . . . in frequency-modulation receivers {; in
+    3/30    . . in amplifiers having semiconductor devices
+    3/3005  . . . {in amplifiers suitable for low-frequencies, e.g.
+audio amplifiers (H03G 3/32, H03G 3/34 take
+    3/301   . . . . {the gain being continuously variable}
+    3/3015  . . . . . {using diodes or transistors}
+    3/3021  . . . . . {by varying the duty cycle}
+    3/3026  . . . . {the gain being discontinuously variable, e.g.
+    3/3031  . . . . . {using switched capacitors}
+    3/3036  . . . {in high-frequency amplifiers or in frequency-
+changers (H03G 3/3052, H03G 3/32,
+    3/3042  . . . . {in modulators, frequency-changers,
+transmitters or power amplifiers
+(transmission power control in bidirectional
+transmission systems H04W 52/04)}
+    3/3047  . . . . . {for intermittent signals, e.g. burst signals}
+    3/3052  . . . {in bandpass amplifiers (H.F. or I.F.)
+or in frequency-changers used in a
+(super)heterodyne receiver (H03G 3/32,
+    3/3057  . . . . {using at least one diode as controlling
+    3/3063  . . . . {using at least one transistor as controlling
+device, the transistor being used as a variable
+    3/3068  . . . . {Circuits generating control signals for both
+    3/3073  . . . . {Circuits generating control signals when
+no carrier is present, or in SSB, CW or pulse
+    3/3078  . . . . {Circuits generating control signals for
+    3/3084  . . . {in receivers or transmitters for
+electromagnetic waves other than radiowaves,
+e.g. lightwaves (H03G 3/32, H03G 3/34 take
+    3/3089  . . . {Control of digital or coded signals}
+    3/3094  . . . {in parametric amplifiers (H03G 3/32,
+    3/32    . . . the control being dependent upon ambient
+    3/34    . . . Muting amplifier when no signal is present {or
+when only weak signals are present, or caused
+by the presence of noise signals, e.g. squelch
+    3/341   . . . . {Muting when no signals or only
+weak signals are present (H03G 3/344,
+    3/342   . . . . {Muting when some special characteristic
+of the signal is sensed which distinguishes
+it from noise, e.g. using speech detector
+(H03G 3/344, H03G 3/345 take precedence)}
+    3/344   . . . . {Muting responsive to the amount of
+noise (noise squelch) (H03G 3/345 takes
+    3/345   . . . . {Muting during a short period of time when
+noise pulses are detected, i.e. blanking
+    3/347   . . . . . {dependent on the rate of noise pulses}
+    3/348   . . . . {Muting in response to a mechanical action
+or to power supply variations, e.g. during
+tuning; Click removal circuits}
+    5/00    Tone control or bandwidth control in amplifiers
+    5/005   . {of digital signals (see provisionally also
+    5/02    . Manually-operated control (variable bandpass or
+    5/025   . . {Equalizers; Volume or gain control in limited
+    5/04    . . in untuned amplifiers
+    5/06    . . . having discharge tubes
+    5/08    . . . . incorporating negative feedback
+    5/10    . . . having semiconductor devices
+    5/12    . . . . incorporating negative feedback
+    5/14    . . in frequency-selective amplifiers
+    5/16    . Automatic control
+    5/165   . . {Equalizers; Volume or gain control in limited
+    5/18    . . in untuned amplifiers
+    5/20    . . . having discharge tubes
+    5/22    . . . having semiconductor devices
+    5/24    . . in frequency-selective amplifiers
+    5/26    . . . having discharge tubes
+    5/28    . . . having semiconductor devices
+    7/00    Volume compression or expansion in amplifiers
+{(frequency dependent H03G 9/00)}
+    7/001   . {without controlling loop (H03G 7/007, H03G 7/02,
+    7/002   . {in untuned or low-frequency amplifiers, e.g. audio
+amplifiers (H03G 7/007, H03G 7/001, H03G 7/008,
+H03G 7/02, H03G 7/06 take precedence)}
+    7/004   . . {using continuously variable impedance devices}
+    7/005   . . {using discontinuously variable devices, e.g.
+    7/007   . {of digital or coded signals (see provis. also
+    7/008   . {Control by a pilot signal (H03G 7/007, H03G 7/02,
+    7/02    . having discharge tubes
+    7/04    . . incorporating negative feedback
+    7/06    . having semiconductor devices
+    7/08    . . incorporating negative feedback
+    9/00    Combinations of two or more types of control, e.g.
+    9/005   . {of digital or coded signals}
+    9/02    . in untuned amplifiers (combined tone controls
+for low and high frequencies H03G 5/00 {;
+compression or expansion combined with volume
+    9/025   . . {frequency-dependent volume compression
+or expansion, e.g. multiple-band systems
+(H03G 9/10, H03G 9/18 take precedence)}
+    9/04    . . having discharge tubes
+    9/06    . . . for gain control and tone control
+    9/08    . . . . incorporating negative feedback
+    9/10    . . . for tone control and volume expansion or
+    9/12    . . having semiconductor devices
+    9/14    . . . for gain control and tone control
+    9/16    . . . . incorporating negative feedback
+    9/18    . . . for tone control and volume expansion or
+    9/20    . in frequency-selective amplifiers
+    9/22    . . having discharge tubes
+    9/24    . . having semiconductor devices
+    9/26    . in untuned amplifying stages as well as in
+frequency-selective amplifying stages (gain
+control in both stages H03G 3/00; tone control
+or bandwidth control H03G 5/00 {; compression
+or expansion combined with volume control
+    9/28    . . all amplifying stages having discharge tubes
+    9/30    . . all amplifying stages having semiconductor
+   11/00    Limiting amplitude; Limiting rate of change of
+amplitude {; Clipping in general}
+   11/002   . {without controlling loop (H03G 11/004,
+H03G 11/006, H03G 11/008, H03G 11/02,
+H03G 11/04, H03G 11/06, H03G 11/08 take
+precedence; see provisional also H03G 11/00)}
+   11/004   . {using discharge tubes (H03G 11/008 takes
+   11/006   . {in circuits having distributed constants
+(H03G 11/008 takes precedence)}
+   11/008   . {of digital or coded signals (see provis. also
+   11/02    . by means of diodes ({H03G 11/008, } H03G 11/04,
+H03G 11/06, H03G 11/08 take precedence)
+   11/025   . . {in circuits having distributed constants}
+   11/04    . Limiting level dependent on strength of signal;
+Limiting level dependent on strength of carrier on
+which signal is modulated {(H03G 11/008 takes
+   11/06    . {Limiters of angle-modulated signals}; such limiters
+combined with discriminators (H03G 11/00 takes
+precedence; discriminators having an inherent
+   11/08    . Limiting rate of change of amplitude
+{(H03G 11/008 takes precedence)}
+   99/00    Subject matter not provided for in other groups of
+ 2201/00    Indexing scheme relating to subclass H03G
+ 2201/10    . Gain control characterised by the type of controlled
+ 2201/103   . . being an amplifying element
+ 2201/106   . . being attenuating element
+ 2201/20    . Gain control characterized by the position of the
+ 2201/202   . . being in baseband
+ 2201/204   . . being in intermediate frequency
+ 2201/206   . . being in radio frequency
+ 2201/208   . . being in power supply of the amplifier
+ 2201/30    . Gain control characterized by the type of controlled
+ 2201/302   . . being baseband signal
+ 2201/305   . . being intermediate frequency signal
+ 2201/307   . . being radio frequency signal
+ 2201/40    . Combined gain and bias control
+ 2201/50    . Gain control characterized by the means of gain
+ 2201/502   . . by switching impedance in feedback loop
+ 2201/504   . . by summing selected parallel amplifying paths,
+i.e. more amplifying/attenuating paths summed
+ 2201/506   . . by selecting one parallel amplifying path
+ 2201/508   . . by using look-up tables
+ 2201/60    . Gain control characterized by varying time
+ 2201/603   . . time constant being continuous
+ 2201/606   . . time constant being discrete
+ 2201/70    . Gain control characterized by the gain control
+ 2201/702   . . being frequency, e.g. frequency deviations
+ 2201/704   . . being number of multiplexed channels
+ 2201/706   . . being quality indicator, e.g. BER,C/I
+ 2201/708   . . being temperature

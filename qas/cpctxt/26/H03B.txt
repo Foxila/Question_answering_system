@@ -1,0 +1,368 @@
+COOPERATIVE PATENT CLASSIFICATION
+GENERATION OF OSCILLATIONS, DIRECTLY OR BY FREQUENCY-CHANGING,
+BY CIRCUITS EMPLOYING ACTIVE ELEMENTS WHICH OPERATE IN A NON-
+SWITCHING MANNER; GENERATION OF NOISE BY SUCH CIRCUITS (measuring,
+testing G01R; generators adapted for electrophonic musical instruments G10H; Speech synthesis
+G10L; masers, lasers H01S; dynamo-electric machines H02K; power inverter circuits H02M; by
+using pulse techniques H03K; automatic control of generators H03L; starting, synchronisation
+or stabilisation of generators where the type of generator is irrelevant or unspecified H03L;
+generation of oscillations in plasma H05H)
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/02    . Structural details of power oscillators, e.g.
+for heating {(construction of transmitters
+H04B; features of generators for heating by
+electromagnetic fields H05B 6/00)}
+    1/04    . Reducing undesired oscillations, e.g. harmonics
+    5/00    Generation of oscillations using amplifier with
+regenerative feedback from output to input
+(H03B 9/00, H03B 15/00 take precedence)
+    5/04    . . Modifications of generator to compensate for
+variations in physical values, e.g. power supply,
+    5/06    . . Modifications of generator to ensure starting of
+    5/08    . with frequency-determining element comprising
+lumped inductance and capacitance
+    5/10    . . active element in amplifier being vacuum tube
+    5/12    . . active element in amplifier being semiconductor
+device (H03B 5/14 takes precedence)
+    5/1203  . . . {the amplifier being a single transistor}
+    5/1206  . . . {using multiple transistors for amplification}
+    5/1209  . . . . {the amplifier having two current paths
+operating in a differential manner and a
+current source or degeneration circuit in
+common to both paths, e.g. a long-tailed pair.
+(H03B 5/1215 takes precedence)}
+    5/1212  . . . . {the amplifier comprising a pair of
+transistors, wherein an output terminal of
+each being connected to an input terminal of
+the other, e.g. a cross coupled pair}
+    5/1215  . . . . . {the current source or degeneration circuit
+being in common to both transistors of the
+pair, e.g. a cross-coupled long-tailed pair}
+    5/1218  . . . . {the generator being of the balanced type}
+    5/1221  . . . . {the amplifier comprising multiple
+amplification stages connected in cascade}
+    5/1225  . . . . {the generator comprising multiple
+amplifiers connected in parallel}
+    5/1228  . . . {the amplifier comprising one or more field
+    5/1231  . . . {the amplifier comprising one or more bipolar
+    5/1234  . . . {and comprising means for varying the output
+amplitude of the generator (H03B 5/1278 takes
+    5/1237  . . . {comprising means for varying the frequency
+    5/124   . . . . {the means comprising a voltage dependent
+    5/1243  . . . . . {the means comprising voltage variable
+    5/1246  . . . . . {the means comprising transistors used to
+provide a variable capacitance}
+    5/125   . . . . . . {the transistors being bipolar
+    5/1253  . . . . . . {the transistors being field-effect
+    5/1256  . . . . {the means comprising a variable
+    5/1259  . . . . . {the means comprising a variable active
+inductor, e.g. gyrator circuits}
+    5/1262  . . . . {the means comprising switched elements}
+    5/1265  . . . . . {switched capacitors}
+    5/1268  . . . . . {switched inductors}
+    5/1271  . . . . {the frequency being controlled by a control
+current, i.e. current controlled oscillators}
+    5/1275  . . . . {having further means for varying a
+parameter in dependence on the frequency}
+    5/1278  . . . . . {the parameter being an amplitude of a
+signal, e.g. maintaining a constant output
+amplitude over the frequency range}
+    5/1281  . . . . . {the parameter being the amount of
+    5/1284  . . . . . {the parameter being another frequency,
+e.g. a harmonic of the oscillating
+    5/1287  . . . . . {the parameter being a quality factor, e.g.
+Q factor of the frequency determining
+    5/129   . . . . . {the parameter being a bias voltage or a
+    5/1293  . . . . {having means for achieving a desired tuning
+characteristic, e.g. linearising the frequency
+characteristic across the tuning voltage
+    5/1296  . . . {the feedback circuit comprising a transformer}
+    5/14    . . frequency-determining element connected via
+bridge circuit to closed ring around which signal
+    5/16    . . . active element in amplifier being vacuum tube
+    5/18    . with frequency-determining element comprising
+distributed inductance and capacitance
+    5/1805  . . {the frequency-determining element being a
+    5/1811  . . . {the active element in the amplifier being
+a vacuum tube (see provisionally also
+    5/1817  . . {the frequency-determining element being a
+    5/1823  . . . {the active element in the amplifier being a
+    5/1829  . . . . {the semiconductor device being a field-
+    5/1835  . . . {the active element in the amplifier being a
+    5/1841  . . {the frequency-determining element being a
+strip line resonator (H03B 5/1805, H03B 5/1817,
+H03B 5/1864 and H03B 5/1882 take
+    5/1847  . . . {the active element in the amplifier being a
+    5/1852  . . . . {the semiconductor device being a field-
+    5/1858  . . . {the active element in the amplifier being
+a vacuum tube (see provisionally also
+    5/1864  . . {the frequency-determining element being a
+    5/187   . . . {the active element in the amplifier being a
+    5/1876  . . . . {the semiconductor device being a field-
+    5/1882  . . {the frequency-determining element being a
+magnetic-field sensitive resonator, e.g. a Yttrium
+Iron Garnet or a magnetostatic surface wave
+    5/1888  . . . {the active element in the amplifier being a
+    5/1894  . . . . {the semiconductor device being a field-
+    5/20    . with frequency-determining element comprising
+resistance and either capacitance or inductance, e.g.
+    5/22    . . active element in amplifier being vacuum tube
+    5/24    . . active element in amplifier being semiconductor
+device (H03B 5/26 takes precedence)
+    5/26    . . frequency-determining element being part of
+bridge circuit in closed ring around which signal
+is transmitted; frequency-determining element
+being connected via a bridge circuit to such a
+closed ring, e.g. Wien-Bridge oscillator, parallel-
+    5/28    . . . active element in amplifier being vacuum tube
+    5/30    . with frequency-determining element being
+    5/32    . . being a piezo-electric resonator (selection of
+piezo-electric material H10N 30/00)
+    5/323   . . . {the resonator having more than two terminals
+    5/326   . . . {the resonator being an acoustic wave device,
+    5/34    . . . active element in amplifier being vacuum tube
+    5/36    . . . active element in amplifier being
+semiconductor device ({H03B 5/323,
+H03B 5/326} , H03B 5/38 take precedence)
+    5/362   . . . . {the amplifier being a single transistor
+    5/364   . . . . {the amplifier comprising field effect
+transistors (H03B 5/366 takes precedence)}
+    5/366   . . . . {and comprising means for varying the
+frequency by a variable voltage or current}
+    5/368   . . . . . {the means being voltage variable
+    5/38    . . . frequency-determining element being
+connected via bridge circuit to closed ring
+around which signal is transmitted
+    5/40    . . being a magnetostrictive resonator (H03B 5/42
+takes precedence; selection of magneto-strictive
+material {H01F 1/00}; H10N 30/00)
+    5/42    . . frequency-determining element connected via
+bridge circuit to closed ring around which signal
+    7/00    Generation of oscillations using active element
+having a negative resistance between two of its
+electrodes (H03B 9/00 takes precedence)
+    7/02    . with frequency-determining element comprising
+lumped inductance and capacitance
+    7/04    . . active element being vacuum tube
+    7/06    . . active element being semiconductor device
+    7/08    . . . being a tunnel diode
+    7/10    . . active element being gas-discharge or arc-
+    7/12    . with frequency-determining element comprising
+distributed inductance and capacitance
+    7/14    . . active element being semiconductor device
+    7/143   . . . {and which comprises an element depending
+on a voltage or a magnetic field, e.g. varactor-
+    7/146   . . . {with several semiconductor devices}
+    9/00    Generation of oscillations using transit-time effects
+{(construction of tube and circuit arrangements not
+adapted to a particular application H01J; construction
+of the semiconductor devices H01L)}
+    9/01    . using discharge tubes
+    9/02    . . using a retarding-field tube (using klystrons
+    9/04    . . using a klystron
+    9/06    . . . using a reflex klystron
+    9/08    . . using a travelling-wave tube
+    9/10    . . using a magnetron
+    9/12    . using solid state devices, e.g. Gunn-effect devices
+ 2009/123   . . {using Gunn diodes}
+ 2009/126   . . {using impact ionization avalanche transit time
+    9/14    . . and elements comprising distributed inductance
+    9/141   . . . {and comprising a voltage sensitive element,
+    9/142   . . . {and comprising a magnetic field sensitive
+    9/143   . . . {using more than one solid state device}
+    9/145   . . . {the frequency being determined by a cavity
+resonator, e.g. a hollow waveguide cavity or
+a coaxial cavity (H03B 9/141 - H03B 9/143,
+H03B 9/147, H03B 9/148 take precedence)}
+    9/146   . . . . {formed by a disc, e.g. a waveguide cap
+    9/147   . . . {the frequency being determined by a stripline
+resonator (H03B 9/141 - H03B 9/143,
+    9/148   . . . {the frequency being determined by a dielectric
+resonator (H03B 9/141 - H03B 9/143 take
+   11/00    Generation of oscillations using a shock-excited
+tuned circuit (with feedback H03B 5/00)
+   11/02    . excited by spark (spark gaps therefor H01T 9/00)
+   11/04    . excited by interrupter
+   11/06    . . by mechanical interrupter
+   11/08    . . interrupter being discharge tube
+   11/10    . . interrupter being semiconductor device
+   13/00    Generation of oscillations using deflection of
+electron beam in a cathode-ray tube
+   15/00    Generation of oscillations using galvano-
+magnetic devices, e.g. Hall-effect devices, or using
+   15/003   . {using superconductivity effects (devices using
+   15/006   . {using spin transfer effects or giant
+   17/00    Generation of oscillations using radiation source
+and detector, e.g. with interposed variable
+   19/00    Generation of oscillations by non-regenerative
+frequency multiplication or division of a signal
+from a separate source (transference of modulation
+from one carrier to another H03D 7/00)
+   19/03    . using non-linear inductance
+   19/05    . using non-linear capacitance, e.g. varactor diodes
+   19/06    . by means of discharge device or semiconductor
+device with more than two electrodes
+   19/08    . . by means of a discharge device
+   19/10    . . . using multiplication only
+   19/12    . . . using division only
+   19/14    . . by means of a semiconductor device
+   19/16    . using uncontrolled rectifying devices, e.g. rectifying
+   19/18    . . and elements comprising distributed inductance
+   19/20    . . being diodes exhibiting charge storage or
+   21/00    Generation of oscillations by combining
+unmodulated signals of different frequencies
+(H03B 19/00 takes precedence; frequency changing
+   21/01    . by beating unmodulated signals of different
+   21/02    . . by plural beating, i.e. for frequency synthesis {;
+Beating in combination with multiplication or
+division of frequency (digital frequency synthesis
+using a ROM G06F 1/02; digital frequency
+synthesis in general H03K; indirect frequency
+synthesis using a PLL H03L 7/16)}
+   21/025   . . . {by repeated mixing in combination with
+   21/04    . . using several similar stages
+   23/00    Generation of oscillations periodically swept over a
+predetermined frequency range (angle-modulating
+   25/00    Simultaneous generation by a free-running
+oscillator of oscillations having different
+   27/00    Generation of oscillations providing a plurality
+of outputs of the same frequency but differing in
+phase, other than merely two anti-phase outputs
+   28/00    Generation of oscillations by methods not
+covered by groups H03B 5/00 - H03B 27/00,
+including modification of the waveform to produce
+sinusoidal oscillations (analogue function generators
+for performing computing operations G06G 7/26; use
+of transformers for conversion of waveform in ac-ac
+   29/00    Generation of noise currents and voltages
+{(gasfilled discharge tubes with solid cathode
+specially adapted as noise generators H01J 17/005)}
+ 2200/00    Indexing scheme relating to details of oscillators
+ 2200/0002  . Types of oscillators
+ 2200/0004  . . Butler oscillator
+ 2200/0006  . . Clapp oscillator
+ 2200/0008  . . Colpitts oscillator
+ 2200/001   . . Hartley oscillator
+ 2200/0012  . . Pierce oscillator
+ 2200/0014  . Structural aspects of oscillators
+ 2200/0016  . . including a ring, disk or loop shaped resonator
+ 2200/0018  . . relating to the cutting angle of a crystal, e.g. AT
+ 2200/002   . . making use of ceramic material
+ 2200/0022  . . characterised by the substrate, e.g. material
+ 2200/0024  . . including parallel striplines
+ 2200/0026  . . relating to the pins of integrated circuits
+ 2200/0028  . . based on a monolithic microwave integrated
+ 2200/003   . Circuit elements of oscillators
+ 2200/0032  . . including a device with a Schottky junction
+ 2200/0034  . . including a buffer amplifier
+ 2200/0036  . . including an emitter or source coupled transistor
+ 2200/0038  . . including a current mirror
+ 2200/004   . . including a variable capacitance, e.g. a varicap,
+a varactor or a variable capacitance of a diode or
+ 2200/0042  . . . the capacitance diode being in the feedback
+ 2200/0044  . . including optical elements, e.g. optical injection
+ 2200/0046  . . including measures to switch the gain of an
+ 2200/0048  . . including measures to switch the frequency band,
+ 2200/005   . . including measures to switch a capacitor
+ 2200/0052  . . including measures to switch the feedback circuit
+ 2200/0054  . . including measures to switch a filter, e.g. for
+frequency tuning or for harmonic selection
+ 2200/0056  . . including a diode used for switching
+ 2200/0058  . . with particular transconductance characteristics,
+e.g. an operational transconductance amplifier
+ 2200/006   . Functional aspects of oscillators
+ 2200/0062  . . Bias and operating point
+ 2200/0064  . . Pulse width, duty cycle or on/off ratio
+ 2200/0066  . . Amplitude or AM detection
+ 2200/0068  . . Frequency or FM detection
+ 2200/007   . . Generation of oscillations based on harmonic
+frequencies, e.g. overtone oscillators
+ 2200/0072  . . Frequency hopping and enabling of rapid
+ 2200/0074  . . Locking of an oscillator by injecting an input
+signal directly into the oscillator
+ 2200/0076  . . Power combination of several oscillators
+oscillating at the same frequency
+ 2200/0078  . . generating or using signals in quadrature
+ 2200/008   . . making use of a reference frequency
+ 2200/0082  . . Lowering the supply voltage and saving power
+ 2200/0084  . . dedicated to Terahertz frequencies
+ 2200/0086  . . relating to the Q factor or damping of the resonant
+ 2200/0088  . . Reduction of noise
+ 2200/009   . . . Reduction of phase noise
+ 2200/0092  . . Measures to linearise or reduce distortion of
+ 2200/0094  . . Measures to ensure starting of oscillations
+ 2200/0096  . . Measures to ensure stopping of oscillations
+ 2200/0098  . . having a balanced output signal
+ 2201/00    Aspects of oscillators relating to varying the
+ 2201/01    . Varying the frequency of the oscillations by manual
+ 2201/011   . . the means being an element with a variable
+ 2201/012   . . the means being an element with a variable
+ 2201/014   . . the means being associated with an element
+comprising distributed inductances and
+ 2201/015   . . . the element being a cavity
+ 2201/017   . . . the element being a dielectric resonator
+ 2201/018   . . the means being a manual switch
+ 2201/02    . Varying the frequency of the oscillations by
+ 2201/0208  . . the means being an element with a variable
+capacitance, e.g. capacitance diode
+ 2201/0216  . . the means being an element with a variable
+ 2201/0225  . . the means being associated with an element
+comprising distributed inductances and
+ 2201/0233  . . . the element being a cavity
+ 2201/0241  . . . the element being a magnetically variable
+element, e.g. an Yttrium Iron Garnet
+ 2201/025   . . the means being an electronic switch for
+switching in or out oscillator elements
+ 2201/0258  . . . the means comprising a diode
+ 2201/0266  . . . the means comprising a transistor
+ 2201/0275  . . the means delivering several selected voltages or
+ 2201/0283  . . . the means functioning digitally
+ 2201/0291  . . . . and being controlled by a processing device,
+ 2201/03    . Varying beside the frequency also another
+parameter of the oscillator in dependence on the
+ 2201/031   . . the parameter being the amplitude of a signal, e.g.
+maintaining a constant output amplitude over the
+ 2201/033   . . the parameter being the amount of feedback
+ 2201/035   . . the parameter being another frequency, e.g. a
+harmonic of the oscillating frequency
+ 2201/036   . . the parameter being the quality factor of a
+ 2201/038   . . the parameter being a bias voltage or a power
+ 2202/00    Aspects of oscillators relating to reduction of
+ 2202/01    . Reduction of undesired oscillations originated
+from distortion in one of the circuit elements of the
+ 2202/012   . . the circuit element being the active device
+ 2202/015   . . the circuit element being a limiter
+ 2202/017   . . the circuit element being a frequency determining
+ 2202/02    . Reduction of undesired oscillations originated from
+natural noise of the circuit elements of the oscillator
+ 2202/022   . . the noise being essentially white noise, i.e.
+ 2202/025   . . the noise being coloured noise, i.e. frequency
+ 2202/027   . . . the noise being essentially proportional to the
+inverse of the frequency, i.e. the so-called 1/f
+ 2202/03    . Reduction of undesired oscillations originated from
+internal parasitic couplings, i.e. parasitic couplings
+ 2202/04    . Reduction of undesired oscillations originated
+from outside noise or interferences, e.g. from
+parasitic couplings with circuit elements outside the
+ 2202/042   . . the circuit element belonging to the power supply
+ 2202/044   . . the circuit element belonging to transmitter
+ 2202/046   . . the circuit element belonging to receiver circuitry
+ 2202/048   . . the circuit element being a frequency divider
+ 2202/05    . Reduction of undesired oscillations through filtering
+or through special resonator characteristics
+ 2202/06    . Reduction of undesired oscillations through
+modification of a bias voltage, e.g. selecting the
+operation point of an active device
+ 2202/07    . Reduction of undesired oscillations through a
+cancelling of the undesired oscillation
+ 2202/073   . . by modifying the internal feedback of the
+ 2202/076   . . by using a feedback loop external to the
+oscillator, e.g. the so-called noise degeneration
+ 2202/08    . Reduction of undesired oscillations originated from
+the oscillator in circuit elements external to the
+oscillator by means associated with the oscillator
+ 2202/082   . . by avoiding coupling between these circuit
+ 2202/084   . . . through shielding
+ 2202/086   . . . through a frequency dependent coupling, e.g.
+which attenuates a certain frequency range
+ 2202/088   . . by compensating through additional couplings

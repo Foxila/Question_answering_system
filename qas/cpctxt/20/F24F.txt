@@ -1,0 +1,676 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+AIR-CONDITIONING; AIR-HUMIDIFICATION; VENTILATION; USE OF AIR
+CURRENTS FOR SCREENING (removing dirt or fumes from areas where they are produced
+B08B 15/00; vertical ducts for carrying away waste gases from buildings E04F 17/02; tops for
+chimneys or ventilating shafts, terminals for flues F23L 17/02)
+1. This subclass covers treatment, e.g. purification, of air supplied to human living or working spaces in air conditioning systems
+• air-humidification as auxiliary treatment in air-conditioning, i.e. in units wherein the air is also either cooled or heated, is
+covered by groups F24F 1/00 or F24F 3/14;
+• air-humidification per se, e.g. "room humidifiers", is covered by group F24F 6/00.
+3. In this subclass, the following terms or expressions are used with the meanings indicated:
+• "air-conditioning" means the supply of air to or the treatment of air in rooms or spaces by means of cooling or a
+combination of cooling and a further kind of air treatment, e.g. humidification, heating or air purification;
+• "ventilation" means the supply of air to, or its extraction from, rooms or spaces, and systems for circulating air within
+rooms or spaces, but does not cover the mere treatment of air being supplied to, extracted from, or circulated within, rooms
+4. In this subclass, control or safety arrangements are classified in group F24F 11/00. In order to indicate the type of air-
+treatment system in which these arrangements are used, further classification may be made in groups F24F 1/00 - F24F 9/00.
+    1/00    Room units for air-conditioning, e.g. separate or
+self-contained units or units receiving primary air
+    1/0003  . characterised by a split arrangement, wherein parts
+of the air-conditioning system, e.g. evaporator and
+condenser, are in separately located units
+    1/0007  . Indoor units, e.g. fan coil units (self-contained units
+    1/00073 . . {comprising a compressor in the indoor unit
+    1/00075 . . {receiving air from a central station}
+    1/00077 . . {receiving heat exchange fluid entering and
+    1/0011  . . characterised by air outlets
+    1/0014  . . . having two or more outlet openings
+    1/0018  . . characterised by fans (with secondary air induced
+by injector action of the primary air F24F 1/01)
+    1/0022  . . . Centrifugal or radial fans
+    1/0025  . . . Cross-flow or tangential fans
+    1/0033  . . . having two or more fans
+    1/0035  . . characterised by introduction of outside air to the
+    1/0038  . . . in combination with simultaneous exhaustion
+    1/0041  . . characterised by exhaustion of inside air from
+the room (in combination with simultaneous
+introduction of outside air F24F 1/0038)
+    1/0043  . . characterised by mounting arrangements
+    1/0047  . . . mounted in the ceiling or at the ceiling
+    1/005   . . . mounted on the floor; standing on the floor
+    1/0053  . . . mounted at least partially below the floor; with
+air distribution below the floor
+    1/0057  . . . mounted in or on a wall
+    1/0059  . . characterised by heat exchangers
+    1/0063  . . . by the mounting or arrangement of the heat
+    1/0067  . . . by the shape of the heat exchangers or of parts
+    1/0068  . . characterised by the arrangement of refrigerant
+piping outside the heat exchanger within the unit
+    1/0071  . . with means for purifying supplied air (perfuming
+or deodorising means F24F 1/008)
+    1/0073  . . . characterised by the mounting or arrangement
+    1/0076  . . . by electric means, e.g. ionisers or electrostatic
+    1/008   . . with perfuming or deodorising means
+    1/0083  . . with dehumidification means
+    1/0087  . . with humidification means
+    1/009   . . characterised by heating arrangements
+(characterised by heat exchangers F24F 1/0059)
+    1/0093  . . . with additional radiant heat-discharging
+elements, e.g. electric heaters
+    1/0097  . . . using thermoelectric or thermomagnetic means,
+    1/01    . in which secondary air is induced by injector action
+    1/02    . Self-contained room units for air-conditioning,
+i.e. with all apparatus for treatment installed in a
+    1/022   . . comprising a compressor cycle
+    1/027   . . . mounted in wall openings, e.g. in windows
+    1/028   . . characterised by air supply means, e.g. fan
+casings, internal dampers or ducts (with
+secondary air induced by injector action of the
+    1/0284  . . . with horizontally arranged fan axis
+    1/0287  . . . with vertically arranged fan axis
+    1/029   . . characterised by the layout or mutual arrangement
+of components, e.g. of compressors or fans
+    1/03    . . characterised by mounting arrangements
+    1/031   . . . penetrating a wall or window
+    1/0314  . . . mounted on a wall
+    1/0317  . . . suspended from the ceiling
+    1/032   . . characterised by heat exchangers
+    1/0323  . . . by the mounting or arrangement of the heat
+    1/0325  . . . by the shape of the heat exchangers or of parts
+    1/0326  . . characterised by the arrangement of refrigerant
+piping outside the heat exchanger within the unit
+    1/0328  . . with means for purifying supplied air (perfuming
+or deodorising means F24F 1/0355)
+    1/035   . . . characterised by the mounting or arrangement
+    1/0353  . . . by electric means, e.g. ionisers or electrostatic
+    1/0355  . . with perfuming or deodorising means
+    1/0358  . . with dehumidification means
+    1/037   . . with humidification means
+    1/0373  . . characterised by heating arrangements
+(characterised by heat exchangers F24F 1/032)
+    1/0375  . . . with additional radiant heat-discharging
+elements, e.g. electric heaters
+    1/0378  . . . using thermoelectric or thermomagnetic means,
+    1/039   . . using water to enhance cooling, e.g. spraying onto
+    1/04    . . Arrangements for portability
+    1/06    . Separate outdoor units, e.g. outdoor unit to be linked
+to a separate room comprising a compressor and a
+In this group, the first place priority rule is
+applied, i.e. at each hierarchical level, in
+the absence of an indication to the contrary,
+classification is made in the first appropriate
+    1/08    . . Compressors specially adapted for separate
+    1/10    . . . Arrangement or mounting thereof
+    1/12    . . . Vibration or noise prevention thereof
+    1/14    . . Heat exchangers specially adapted for separate
+    1/16    . . . Arrangement or mounting thereof
+    1/18    . . . characterised by their shape
+    1/20    . . Electric components for separate outdoor units
+    1/22    . . . Arrangement or mounting thereof
+    1/24    . . . Cooling of electric components
+    1/26    . . Refrigerant piping
+    1/28    . . . for connecting several separate outdoor units
+    1/30    . . . for use inside the separate outdoor units
+    1/32    . . . for connecting the separate outdoor units to
+    1/34    . . . Protection means thereof, e.g. covers for
+    1/36    . . Drip trays for outdoor units
+    1/38    . . Fan details of outdoor units, e.g. bell-mouth
+    1/40    . . Vibration or noise prevention at outdoor units (for
+outdoor units compressors F24F 1/12)
+    1/42    . . characterised by the use of the condensate, e.g.
+    1/44    . . characterised by the use of internal combustion
+    1/46    . . Component arrangements in separate outdoor
+    1/48    . . . characterised by air airflow, e.g. inlet or outlet
+    1/50    . . . . with outlet air in upward direction
+    1/52    . . . . with inlet and outlet arranged on the same
+side, e.g. for mounting in a wall opening
+    1/54    . . . . Inlet and outlet arranged on opposite sides
+    1/56    . . Casing or covers of separate outdoor units, e.g.
+    1/58    . . . Separate protective covers for outdoor units,
+e.g. solar guards, snow shields or camouflage
+    1/60    . . Arrangement or mounting of the outdoor unit
+    1/64    . . . Ceiling-mounted, e.g. below a balcony
+    1/66    . . . under the floor level
+    1/68    . . . Arrangement of multiple separate outdoor units
+    3/00    Air-conditioning systems in which conditioned
+primary air is supplied from one or more central
+stations to distributing units in the rooms or
+spaces where it may receive secondary treatment;
+Apparatus specially designed for such systems
+    3/001   . {in which the air treatment in the central station
+takes place by means of a heat-pump or by means of
+a reversible cycle (reversible cycle for humidifying
+ 2003/003   . {with primary air treatment in the central station and
+subsequent secondary air treatment in air treatment
+units located in or near the rooms}
+ 2003/005   . . {with a single air duct for transporting treated
+primary air from the central station to air
+treatment units located in or near the rooms}
+ 2003/006   . . {with two air ducts for separately transporting
+treated hot and cold primary air from the central
+station to air treatment units located in or near the
+ 2003/008   . {Supplying highly filtered air to a room or to a
+    3/02    . characterised by the pressure or velocity of the
+    3/04    . . operating with high pressure or high velocity
+    3/044   . Systems in which all treatment is given in the
+central station, i.e. all-air systems
+    3/0442  . . {with volume control at a constant temperature}
+    3/0444  . . . {in which two airstreams are conducted from
+the central station via independent conduits
+to the space to be treated, of which one has
+a constant volume and a season-adapted
+temperature, while the other one is always cold
+ 2003/0446  . . {with a single air duct for transporting treated air
+from the central station to the rooms}
+ 2003/0448  . . {with two air ducts for separately transporting
+treated hot and cold air from the central station to
+    3/048   . . with temperature control at constant rate of air-
+    3/052   . . . Multiple duct systems, e.g. systems in which
+hot and cold air are supplied by separate
+circuits from the central station to mixing
+chambers in the spaces to be conditioned
+    3/0522  . . . . {in which warm or cold air from the central
+station is delivered via individual pipes to
+mixing chambers in the space to be treated,
+the cold air/warm air ratio being controlled
+by a thermostat in the space concerned, i.e.
+    3/0525  . . . . {in which the air treated in the central station
+    3/0527  . . . . {in which treated air having differing
+temperatures is conducted through
+independent conduits from the central station
+to various spaces to be treated, i.e. so-called
+"multi-Zone" systems (F24F 3/0525 takes
+    3/056   . . the air at least partially flowing over lighting
+fixtures, the heat of which is dissipated or
+used  (outlets for directing or distributing air
+into rooms or spaces combined with lighting
+    3/06    . characterised by the arrangements for the supply of
+heat-exchange fluid for the subsequent treatment of
+    3/065   . . {with a plurality of evaporators or condensers}
+    3/08    . . with separate supply and return lines for hot
+and cold heat-exchange fluids {i.e. so-called "4-
+    3/10    . . with separate supply lines and common return
+line for hot and cold heat-exchange fluids {i.e. so-
+    3/12    . characterised by the treatment of the air otherwise
+    3/14    . . by humidification; by dehumidification
+    3/1405  . . . {in which the humidity of the air is exclusively
+affected by contact with the evaporator of a
+closed-circuit cooling system or heat pump
+    3/1411  . . . {by absorbing or adsorbing water, e.g. using an
+    3/1417  . . . . {with liquid hygroscopic desiccants}
+    3/1423  . . . . {with a moving bed of solid desiccants, e.g. a
+rotary wheel supporting solid desiccants}
+    3/1429  . . . . {alternatively operating a heat exchanger
+in an absorbing/adsorbing mode and a heat
+exchanger in a regeneration mode}
+ 2003/1435  . . . {comprising semi-permeable membrane}
+ 2003/144   . . . {by dehumidification only}
+ 2003/1446  . . . . {by condensing}
+ 2003/1452  . . . . . {heat extracted from the humid air for
+condensing is returned to the dried air}
+ 2003/1458  . . . {using regenerators}
+ 2003/1464  . . . . {using rotating regenerators}
+    3/147   . . . with both heat and humidity transfer between
+    3/153   . . . with subsequent heating, i.e. with the air,
+given the required humidity in the central
+station, passing a heating element to achieve
+    3/16    . . by purification, e.g. by filtering; by sterilisation;
+reclassification into groups F24F 8/00,
+F24F 8/20, F24F 8/22, F24F 8/24, F24F 8/26,
+F24F 8/28, F24F 8/30, F24F 8/40, F24F 8/50,
+F24F 8/60, F24F 8/70, F24F 8/80, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+    3/163   . . . Clean air work stations, i.e. selected areas
+within a space which filtered air is passed
+    3/167   . . . Clean rooms, i.e. enclosed spaces in which a
+uniform flow of filtered air is distributed (air
+distribution by perforated walls F24F 7/10)
+    5/00    Air-conditioning systems or apparatus not covered
+by F24F 1/00 or F24F 3/00 {, e.g. using solar heat
+or combined with household units such as an oven
+    5/0003  . {Exclusively-fluid systems}
+    5/0007  . {cooling apparatus specially adapted for use in air-
+conditioning (F24F 5/0046 takes precedence)}
+    5/001   . . {Compression cycle type}
+    5/0014  . . {using absorption or desorption}
+    5/0017  . . {using cold storage bodies, e.g. ice}
+    5/0021  . . . {using phase change material [PCM] for
+ 2005/0025  . . . {using heat exchange fluid storage tanks}
+ 2005/0028  . . . {using hydridable metals as energy storage
+ 2005/0032  . . . {Systems storing energy during the night}
+    5/0035  . . {using evaporation}
+ 2005/0039  . . {using a cryogen, e.g. CO2 liquid or N2 liquid}
+    5/0042  . {characterised by the application of thermo-electric
+    5/0046  . {using natural energy, e.g. solar energy, energy
+    5/005   . . {using energy from the ground by air circulation,
+ 2005/0053  . . {receiving heat-exchange fluid from a well}
+ 2005/0057  . . {receiving heat-exchange fluid from a closed
+ 2005/006   . . {receiving heat-exchange fluid from the drinking
+or sanitary water supply circuit}
+ 2005/0064  . . {using solar energy}
+ 2005/0067  . . . {with photovoltaic panels}
+    5/0071  . {adapted for use in covered swimming pools}
+    5/0075  . {Systems using thermal walls, e.g. double window}
+ 2005/0078  . . {Double windows}
+    5/0085  . {Systems using a compressed air circuit}
+    5/0089  . {Systems using radiation from walls or panels}
+    5/0092  . . {ceilings, e.g. cool ceilings}
+    5/0096  . {combined with domestic apparatus}
+    6/00    Air-humidification {, e.g. cooling by
+ 2006/001   . {using a water curtain}
+ 2006/003   . {using a decorative fountain}
+ 2006/006   . {with water treatment}
+ 2006/008   . {Air-humidifier with water reservoir}
+    6/02    . by evaporation of water in the air
+    6/025   . . {using electrical heating means (F24F 6/105 takes
+    6/04    . . using stationary unheated wet elements
+    6/043   . . . {with self-sucking action, e.g. wicks}
+ 2006/046   . . . {with a water pump}
+    6/06    . . using moving unheated wet elements
+ 2006/065   . . . {using slowly rotating discs for evaporation}
+    6/08    . . using heated wet elements
+    6/10    . . . heated electrically
+    6/105   . . . . {using the heat of lamps}
+    6/12    . by forming water dispersions in the air
+ 2006/143   . . . {using pressurised air for spraying}
+ 2006/146   . . . {using pressurised water for spraying}
+    6/16    . . using rotating elements
+    6/18    . by injection of steam into the air
+Group F24F 7/00 is impacted by reclassification
+Groups F24F 7/00 and F24F 7/003 should be
+considered in order to perform a complete search.
+ 2007/001   . {with exhausting air ducts}
+Group F24F 2007/001 is impacted by
+reclassification into group F24F 7/003.
+Groups F24F 2007/001 and F24F 7/003 should
+be considered in order to perform a complete
+ 2007/002   . . {Junction box, e.g. for ducts from kitchen, toilet
+Group F24F 2007/002 is impacted by
+reclassification into group F24F 7/003.
+Groups F24F 2007/002 and F24F 7/003 should
+be considered in order to perform a complete
+ 2007/0025  . {using vent ports in a wall}
+Group F24F 2007/0025 is impacted by
+reclassification into group F24F 7/003.
+Groups F24F 2007/0025 and F24F 7/003 should
+be considered in order to perform a complete
+    7/003   . in combination with air cleaning
+Group F24F 7/003 is incomplete pending
+reclassification of documents from groups
+F24F 7/00, F24F 2007/001, F24F 2007/002,
+F24F 2007/0025, F24F 2007/004, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2007/004   . {Natural ventilation using convection}
+Group F24F 2007/004 is impacted by
+reclassification into group F24F 7/003.
+Groups F24F 2007/004 and F24F 7/003 should
+be considered in order to perform a complete
+ 2007/005   . {Cyclic ventilation, e.g. alternating air supply
+volume or reversing flow direction}
+Group F24F 2007/005 is impacted by
+reclassification into group F24F 7/003.
+Groups F24F 2007/005 and F24F 7/003 should
+be considered in order to perform a complete
+    7/007   . with forced flow (using ducting systems F24F 7/06)
+    7/013   . . using wall or window fans, displacing air through
+    7/02    . Roof ventilation (ventilation of roof coverings
+    7/025   . . {with forced air circulation by means of a built-in
+    7/04    . with ducting systems {, e.g. by double walls; with
+natural circulation (F24F 7/02 takes precedence)}
+    7/06    . . with forced air circulation, e.g. by fan
+{positioning of a ventilator in or against a
+    7/065   . . . {fan combined with single duct; mounting
+arrangements of a fan in a duct}
+    7/08    . . . with separate ducts for supplied and exhausted
+air {with provisions for reversal of the input
+    7/10    . . . with air supply, or exhaust, through perforated
+wall, floor or ceiling (outlet members for
+directing or distributing air {into rooms or
+spaces, e.g. ceiling air-diffusers} F24F 13/06)
+    8/00    Treatment, e.g. purification, of air supplied to
+human living or working spaces otherwise than by
+heating, cooling, humidifying or drying
+Groups F24F 8/00, F24F 8/20, F24F 8/22,
+F24F 8/24, F24F 8/26, F24F 8/28, F24F 8/30,
+F24F 8/40, F24F 8/50, F24F 8/60, F24F 8/70,
+F24F 8/80, and F24F 8/95 are incomplete
+pending reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+    8/10    . by separation, e.g. by filtering
+Group F24F 8/10 is impacted by reclassification
+into groups F24F 8/108, F24F 8/117,
+F24F 8/125, F24F 8/133, F24F 8/142,
+F24F 8/15, F24F 8/158, F24F 8/167, F24F 8/175,
+F24F 8/183, F24F 8/90, F24F 8/96, F24F 8/97,
+All groups listed in this Warning should be
+considered in order to perform a complete
+    8/108   . . using dry filter elements
+Group F24F 8/108 is incomplete pending
+reclassification of documents from group
+Groups F24F 8/10 and F24F 8/108 should
+be considered in order to perform a complete
+    8/117   . . using wet filtering
+Group F24F 8/117 is incomplete pending
+reclassification of documents from group
+Group F24F 8/117 is also impacted by
+reclassification into groups F24F 8/125,
+All groups listed in this Warning should be
+considered in order to perform a complete
+    8/125   . . . using wet filter elements
+Group F24F 8/125 is incomplete pending
+reclassification of documents from groups
+Groups F24F 8/10, F24F 8/117, and
+F24F 8/125 should be considered in order to
+    8/133   . . . by direct contact with liquid, e.g. with sprayed
+Group F24F 8/133 is incomplete pending
+reclassification of documents from groups
+Groups F24F 8/10, F24F 8/117, and
+F24F 8/133 should be considered in order to
+    8/142   . . . Treatment of used liquid, e.g. cleaning for
+Group F24F 8/142 is incomplete pending
+reclassification of documents from groups
+Groups F24F 8/10, F24F 8/117, and
+F24F 8/142 should be considered in order to
+    8/15    . . by chemical means
+Groups F24F 8/15 - F24F 8/167 are
+incomplete pending reclassification of
+documents from group F24F 8/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+    8/158   . . . using active carbon
+    8/167   . . . using catalytic reactions
+    8/175   . . using biological materials, plants or
+Group F24F 8/175 is incomplete pending
+reclassification of documents from group
+Groups F24F 8/10 and F24F 8/175 should
+be considered in order to perform a complete
+    8/183   . . by centrifugal separation, e.g. using vortices
+Group F24F 8/183 is incomplete pending
+reclassification of documents from group
+Groups F24F 8/10 and F24F 8/183 should
+be considered in order to perform a complete
+    8/192   . . by electrical means, e.g. by applying electrostatic
+    8/194   . . . {by filtering using high voltage}
+    8/24    . . using sterilising media
+    8/28    . . specially adapted for combatting or avoiding
+    8/40    . by ozonisation (for sterilisation F24F 8/26)
+    8/70    . by removing radon
+    8/80    . Self-contained air purifiers
+    8/90    . Cleaning of purification apparatus
+Group F24F 8/90 is incomplete pending
+reclassification of documents from group
+Groups F24F 8/10 and F24F 8/90 should be
+considered in order to perform a complete
+    8/95    . specially adapted for specific purposes
+    8/96    . . for removing pollen
+Group F24F 8/96 is incomplete pending
+reclassification of documents from group
+Groups F24F 8/10 and F24F 8/96 should be
+considered in order to perform a complete
+    8/97    . . for removing tobacco smoke
+Group F24F 8/97 is incomplete pending
+reclassification of documents from group
+Groups F24F 8/10 and F24F 8/97 should be
+considered in order to perform a complete
+    8/98    . . for removing ozone
+Group F24F 8/98 is incomplete pending
+reclassification of documents from group
+Groups F24F 8/10 and F24F 8/98 should be
+considered in order to perform a complete
+    8/99    . . for treating air sourced from urban areas, e.g.
+Group F24F 8/99 is incomplete pending
+reclassification of documents from group
+Groups F24F 8/10 and F24F 8/99 should be
+considered in order to perform a complete
+    9/00    Use of air currents for screening, e.g. air curtains
+ 2009/005   . {combined with a door}
+ 2009/007   . {using more than one jet or band in the air curtain}
+   11/00    Control or safety arrangements
+In this group, it is desirable to add the indexing
+codes of groups F24F 2110/00 – F24F 2140/00.
+   11/0001  . {for ventilation (F24F 11/30 takes precedence)}
+ 2011/0002  . . {for admittance of outside air}
+ 2011/0004  . . . {to create overpressure in a room}
+ 2011/0005  . . . {to create underpressure in a room, keeping
+ 2011/0006  . . {using low temperature external supply air to
+   11/0008  . {for air-humidification (F24F 11/30 takes
+   11/30    . for purposes related to the operation of the system,
+   11/32    . . Responding to malfunctions or emergencies
+   11/33    . . . to fire, excessive heat or smoke
+   11/34    . . . . by opening air passages
+   11/35    . . . . by closing air passages
+   11/36    . . . to leakage of heat-exchange fluid
+   11/37    . . . Resuming operation, e.g. after power outages;
+   11/38    . . . Failure diagnosis
+   11/39    . . . Monitoring filter performance
+   11/41    . . Defrosting; Preventing freezing
+   11/42    . . . of outdoor units
+   11/43    . . . of indoor units
+   11/46    . . Improving electric energy efficiency or saving
+   11/47    . . . Responding to energy costs
+   11/48    . . prior to normal operation, e.g. pre-heating or pre-
+   11/49    . . ensuring correct operation, e.g. by trial operation
+   11/50    . characterised by user interfaces or communication
+   11/52    . . Indication arrangements, e.g. displays
+   11/523   . . . for displaying temperature data
+   11/526   . . . giving audible indications
+   11/54    . . using one central controller connected to several
+   11/57    . . . using telephone networks
+   11/58    . . . using Internet communication
+   11/59    . . . for presetting
+   11/62    . characterised by the type of control or by internal
+processing, e.g. using fuzzy logic, adaptive control
+   11/63    . . Electronic processing
+   11/64    . . . using pre-stored data
+   11/65    . . . for selecting an operating mode
+   11/67    . . . . Switching between heating and cooling
+   11/70    . Control systems characterised by their outputs;
+   11/72    . . for controlling the supply of treated air, e.g. its
+   11/74    . . . for controlling air flow rate or air velocity
+   11/745   . . . . {the air flow rate increasing with an increase
+of air-current or wind pressure}
+   11/75    . . . . for maintaining constant air flow rate or air
+   11/755   . . . . for cyclical variation of air flow rate or air
+   11/76    . . . . by means responsive to temperature, e.g.
+   11/77    . . . . by controlling the speed of ventilators
+   11/79    . . . for controlling the direction of the supplied air
+   11/80    . . for controlling the temperature of the supplied air
+   11/81    . . . by controlling the air supply to heat-exchangers
+   11/83    . . . by controlling the supply of heat-exchange
+   11/84    . . . . using valves
+   11/85    . . . . using variable-flow pumps
+   11/86    . . . by controlling compressors within refrigeration
+   11/87    . . . by controlling absorption or discharge of heat
+   11/871   . . . . by controlling outdoor fans
+   11/873   . . . by controlling refrigerant heaters
+   11/875   . . . by controlling heat-storage apparatus
+   11/88    . Electrical aspects, e.g. circuits
+   11/89    . Arrangement or mounting of control or safety
+   12/00    Use of energy recovery systems in air conditioning,
+ventilation or screening (with both heat and
+humidity transfer between supplied and exhausted
+   12/001   . {with heat-exchange between supplied and
+   12/002   . . {using an intermediate heat-transfer fluid}
+   12/003   . . . {using a heat pump}
+ 2012/005   . . . {using heat pipes}
+   12/006   . . {using an air-to-air heat exchanger (F24F 12/002
+ 2012/007   . . {using a by-pass for bypassing the heat-
+ 2012/008   . . {cyclic routing supply and exhaust air}
+   13/00    Details common to, or for air-conditioning, air-
+humidification, ventilation or use of air currents
+   13/02    . Ducting arrangements
+   13/0209  . . {characterised by their connecting means, e.g.
+   13/0218  . . {Flexible soft ducts, e.g. ducts made of permeable
+   13/0227  . . {using parts of the building, e.g. air ducts inside
+the floor, walls or ceiling of a building}
+   13/0236  . . {with ducts including air distributors, e.g. air
+collecting boxes with at least three openings}
+   13/0245  . . {Manufacturing or assembly of air ducts;
+   13/0254  . . {characterised by their mounting means, e.g.
+   13/0263  . . {Insulation for air ducts}
+   13/0272  . . {Modules for easy installation or transport}
+   13/0281  . . {Multilayer duct}
+   13/029   . . {Duct comprising an opening for inspection, e.g.
+   13/04    . . Air-mixing units (F24F 13/06 takes precedence)
+   13/06    . . Outlets for directing or distributing air into rooms
+or spaces, e.g. ceiling air diffuser
+   13/0604  . . . {integrated in or forming part of furniture}
+ 2013/0608  . . . {Perforated ducts}
+ 2013/0612  . . . {Induction nozzles without swirl means}
+ 2013/0616  . . . {Outlets that have intake openings}
+   13/062   . . . having one or more bowls or cones diverging in
+   13/065   . . . formed as cylindrical or spherical bodies which
+   13/068   . . . formed as perforated walls, ceilings or floors
+   13/072   . . . of elongated shape, e.g. between ceiling panels
+   13/075   . . . having parallel rods or lamellae directing
+the outflow, e.g. the rods or lamellae being
+individually adjustable (F24F 13/072 takes
+   13/078   . . . combined with lighting fixtures
+   13/08    . Air-flow control members, e.g. louvres, grilles,
+flaps or guide plates (F24F 7/013, F24F 13/06 take
+   13/081   . . {for guiding air around a curve}
+   13/082   . . {Grilles, registers or guards}
+   13/084   . . . {with mounting arrangements, e.g. snap
+fasteners for mounting to the wall or duct}
+   13/085   . . . {including an air filter}
+ 2013/087   . . . {using inflatable bellows}
+ 2013/088   . . . {Air-flow straightener}
+   13/10    . . movable, e.g. dampers
+   13/105   . . . {composed of diaphragms or segments}
+   13/12    . . . built up of sliding members
+   13/14    . . . built up of tilting members, e.g. louvre
+   13/1406  . . . . {characterised by sealing means}
+   13/1413  . . . . {using more than one tilting member, e.g.
+with several pivoting blades (F24F 13/15
+   13/142   . . . . {using pivoting blades with intersecting
+   13/1426  . . . . {characterised by actuating means}
+ 2013/1433  . . . . . {with electric motors}
+ 2013/144   . . . . . {with thermoactuators}
+ 2013/1446  . . . . . {with gearings}
+ 2013/1453  . . . . . {with cables, e.g. bowden cables}
+ 2013/146   . . . . . {with springs}
+ 2013/1466  . . . . . {with pneumatic means}
+ 2013/1473  . . . . . {with cams or levers}
+ 2013/148   . . . . . {with magnets}
+   13/1486  . . . . {characterised by bearings, pivots or hinges}
+ 2013/1493  . . . . {using an elastic membrane}
+   13/15    . . . . with parallel simultaneously tiltable lamellae
+   13/16    . . . built up of parallelly-movable plates
+   13/18    . . specially adapted for insertion in flat panels, e.g.
+   13/20    . Casings or covers
+ 2013/202   . . {Mounting a compressor unit therein}
+ 2013/205   . . {Mounting a ventilator fan therein}
+ 2013/207   . . {with control knobs; Mounting controlling
+members or control units therein}
+   13/22    . Means for preventing condensation or evacuating
+ 2013/221   . . {to avoid the formation of condensate, e.g. dew}
+   13/222   . . {for evacuating condensate}
+   13/224   . . . {in a window-type room air conditioner}
+ 2013/225   . . . {by evaporating the condensate in the cooling
+medium, e.g. in air flow from the condenser}
+ 2013/227   . . . {Condensate pipe for drainage of condensate
+ 2013/228   . . {Treatment of condensate, e.g. sterilising}
+   13/24    . Means for preventing or suppressing noise
+ 2013/242   . . {Sound-absorbing material}
+ 2013/245   . . {using resonance}
+ 2013/247   . . {Active noise-suppression}
+   13/26    . Arrangements for air-circulation by means of
+induction, e.g. by fluid coupling or thermal effect
+   13/28    . Arrangement or mounting of filters
+   13/30    . Arrangement or mounting of heat-exchangers
+   13/32    . Supports for air-conditioning, air-humidification or
+Indexing scheme associated with group F24F 11/00, relating to
+control inputs, e.g. measured or estimated values or parameters
+ 2110/00    Control inputs relating to air properties
+ 2110/12    . . of the outside air
+ 2110/22    . . of the outside air
+ 2110/32    . . of the outside air
+ 2110/40    . Pressure, e.g. wind pressure
+ 2110/50    . Air quality properties
+ 2110/52    . . of the outside air
+ 2110/64    . . Airborne particle content
+ 2110/65    . . Concentration of specific substances or
+ 2110/66    . . . Volatile organic compounds [VOC]
+ 2110/70    . . . Carbon dioxide
+ 2110/72    . . . Carbon monoxide
+ 2110/80    . . Electric charge
+ 2120/00    Control inputs relating to users or occupants
+ 2120/12    . . Position of occupants
+ 2120/14    . . Activity of occupants
+ 2120/20    . Feedback from users
+ 2130/00    Control inputs relating to environmental factors
+not covered by group F24F 2110/00
+ 2130/10    . Weather information or forecasts
+ 2140/00    Control inputs relating to system states
+ 2140/12    . . Heat-exchange fluid pressure
+ 2140/20    . Heat-exchange fluid temperature
+ 2140/30    . Condensation of water from cooled air
+ 2140/40    . Damper positions, e.g. open or closed
+ 2140/60    . Energy consumption
+ 2203/00    Devices or apparatus used for air treatment
+ 2203/02    . System or Device comprising a heat pump as a
+subsystem, e.g. combined with humidification/
+dehumidification, heating, natural energy or with
+ 2203/021   . . Compression cycle
+ 2203/023   . . . with turbine used for expansion
+ 2203/025   . . . with turbine for compression
+ 2203/026   . . Absorption - desorption cycle
+ 2203/028   . . . using a solid absorbing medium
+ 2203/1004  . . Bearings or driving means
+ 2203/1008  . . comprising a by-pass channel
+ 2203/1012  . . Details of the casing or cover
+ 2203/1016  . . combined with another type of cooling principle,
+ 2203/102   . . combined with a heat pipe
+ 2203/1024  . . combined with a humidifier
+ 2203/1028  . . combined with a spraying device
+ 2203/1032  . . Desiccant wheel
+ 2203/104   . . Heat exchanger wheel
+ 2203/1044  . . performing other movements, e.g. sliding
+ 2203/1048  . . Geometric details
+ 2203/1052  . . comprising a non-axial air flow
+ 2203/1056  . . comprising a reheater
+ 2203/106   . . . Electrical reheater
+ 2203/1064  . . . Gas fired reheater
+ 2203/1068  . . comprising one rotor
+ 2203/1072  . . comprising two rotors
+ 2203/1076  . . comprising three rotors
+ 2203/108   . . comprising rotor parts shaped in sector form
+ 2203/1084  . . comprising two flow rotor segments
+ 2203/1088  . . comprising three flow rotor segments
+ 2203/1092  . . comprising four flow rotor segments
+ 2203/1096  . . comprising sealing means
+ 2203/12    . Dehumidifying or humidifying belt type
+ 2221/00    Details or features not otherwise provided for
+ 2221/02    . combined with lighting fixtures
+ 2221/08    . Installation or apparatus for use in sport halls, e.g.
+ 2221/10    . combined with, or integrated in, furniture
+ 2221/125   . . mounted on wheels
+ 2221/14    . mounted on the ceiling
+ 2221/16    . mounted on the roof
+ 2221/17    . mounted in a wall
+ 2221/18    . combined with domestic apparatus
+ 2221/183   . . combined with a hot-water boiler
+ 2221/186   . . combined with a fireplace
+ 2221/20    . mounted in or close to a window
+ 2221/22    . Cleaning ducts or apparatus
+ 2221/26    . improving the aesthetic appearance
+ 2221/28    . using the Coanda effect
+ 2221/30    . comprising fireproof material
+ 2221/32    . preventing human errors during the installation, use
+or maintenance, e.g. goofy proof
+ 2221/34    . Heater, e.g. gas burner, electric air heater
+ 2221/36    . Modules, e.g. for an easy mounting or transport
+ 2221/38    . Personalised air distribution
+ 2221/40    . HVAC with raised floors
+ 2221/42    . Mobile autonomous air conditioner, e.g. robots
+ 2221/44    . Protection from terrorism or theft
+ 2221/46    . Air flow forming a vortex
+ 2221/48    . HVAC for a wine cellar
+ 2221/50    . HVAC for high buildings, e.g. thermal or pressure
+ 2221/52    . Weather protecting means, e.g. against wind, rain or
+ 2221/54    . Heating and cooling, simultaneously or alternatively
+ 2221/56    . Cooling being a secondary aspect

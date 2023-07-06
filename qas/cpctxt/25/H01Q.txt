@@ -1,0 +1,718 @@
+COOPERATIVE PATENT CLASSIFICATION
+ANTENNAS, i.e. RADIO AERIALS (radiators or antennas for microwave heating H05B 6/72)
+• in addition to the primary active radiating elements,
+i. secondary devices for absorbing or for modifying the direction or polarisation of waves radiated from antennas, and
+ii. combinations with auxiliary devices such as earthing switches, lead-in devices, and lightning protectors;
+• both transmitting and receiving antennas.
+2. This subclass does not cover devices of the waveguide type, such as resonators or lines, not designed as radiating elements,
+which are covered by subclass H01P.
+3. In this subclass, the following expression is used with the meaning indicated:
+• "active radiating element" covers corresponding parts of a receiving antenna.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Details of, or arrangements associated with,
+antennas (arrangements for varying orientation of
+• structural details or features of antennas not
+dependent on electric operation;
+• structural details or features applicable to more
+than one type of  antenna or antenna element.
+2. Structural details or features described with
+reference to, or clearly applicable only to,
+ antennas or antenna elements of a particular type
+are classified in the group appropriate to that type
+    1/002   . {Protection against seismic waves, thermal radiation
+or other disturbances, e.g. nuclear explosion;
+Arrangements for improving the power handling
+    1/005   . {Damping of vibrations; Means for reducing wind-
+    1/007   . {specially adapted for indoor communication}
+    1/02    . Arrangements for de-icing; Arrangements
+for drying-out {; Arrangements for cooling;
+Arrangements for preventing corrosion}
+    1/04    . Adaptation for subterranean or subaqueous use
+    1/06    . Means for the lighting or illuminating of antennas,
+    1/08    . Means for collapsing antennas or parts
+thereof (collapsible loop antennas H01Q 7/02;
+means for collapsing H-antennas or Yagi
+    1/081   . . {Inflatable antennas}
+    1/082   . . . {Balloon antennas}
+    1/084   . . {Pivotable antennas}
+    1/085   . . {Flexible aerials; Whip aerials with a resilient
+    1/087   . . . {Extensible roll- up aerials}
+    1/088   . . {Quick-releasable antenna elements}
+    1/10    . . Telescopic elements
+    1/103   . . . {Latching means; ensuring extension or
+    1/106   . . . {Means for locking or protecting against
+    1/12    . Supports; Mounting means
+    1/1207  . . {for fastening a rigid aerial element}
+    1/1214  . . . {through a wall}
+    1/1221  . . . {onto a wall}
+    1/1235  . . {Collapsible supports; Means for erecting a rigid
+    1/1242  . . {Rigid masts specially adapted for supporting an
+    1/125   . . {Means for positioning}
+    1/1257  . . . {using the received signal strength}
+    1/1264  . . . {Adjusting different parts or elements of an
+    1/1271  . . {for mounting on windscreens}
+    1/1278  . . . {in association with heating wires or layers}
+    1/1285  . . . {with capacitive feeding through the
+    1/1292  . . {for mounting on balloons}
+    1/14    . . for wire or other non-rigid radiating elements
+    1/16    . . . Strainers, spreaders, or spacers
+    1/18    . . Means for stabilising antennas on an unstable
+    1/185   . . . {by electronic means}
+    1/20    . . Resilient mountings
+    1/22    . . by structural association with other equipment or
+    1/2208  . . . {associated with components used in
+interrogation type services, i.e. in systems for
+information exchange between an interrogator/
+reader and a tag/transponder, e.g. in Radio
+Frequency Identification [RFID] systems
+(methods or arrangements for sensing record
+carriers, e.g. for reading patterns G06K 7/00;
+record carrier for use with machines and with at
+least a part designed to carry digital markings
+    1/2216  . . . . {used in interrogator/reader equipment}
+    1/2225  . . . . {used in active tags, i.e. provided with its
+own power source or in passive tags, i.e.
+    1/2233  . . . . {used in consumption-meter devices, e.g.
+electricity, gas or water meters}
+    1/2241  . . . . {used in or for vehicle tyres}
+    1/225   . . . {used in level-measurement devices, e.g. for
+    1/2258  . . . {used with computer equipment}
+    1/2266  . . . . {disposed inside the computer}
+    1/2275  . . . . {associated to expansion card or bus, e.g. in
+PCMCIA, PC cards, Wireless USB}
+    1/2283  . . . {mounted in or on the surface of a
+semiconductor substrate as a chip-type antenna
+or integrated with other components into an IC
+    1/2291  . . . {used in bluetooth or WI-FI devices of
+Wireless Local Area Networks [WLAN]
+(H01Q 1/241 takes precedence; WLAN in
+    1/24    . . . with receiving set
+    1/241   . . . . {used in mobile communications, e.g. GSM
+(H01Q 1/247, H01Q 1/248 take precedence)}
+    1/242   . . . . . {specially adapted for hand-held use}
+    1/243   . . . . . . {with built-in antennas}
+    1/244   . . . . . . . {extendable from a housing along a
+    1/245   . . . . . . {with means for shaping the antenna
+pattern, e.g. in order to protect user
+    1/246   . . . . . {specially adapted for base stations}
+    1/247   . . . . {with frequency mixer, e.g. for direct
+satellite reception or Doppler radar}
+    1/248   . . . . {provided with an AC/DC converting device,
+    1/26    . . . with electric discharge tube
+    1/27    . Adaptation for use in or on movable bodies
+(H01Q 1/08, H01Q 1/12, H01Q 1/18 take
+    1/273   . . {Adaptation for carrying or wearing by persons or
+    1/276   . . . {for mounting on helmets}
+    1/28    . . Adaptation for use in or on aircraft, missiles,
+    1/281   . . . {Nose antennas}
+    1/282   . . . {Modifying the aerodynamic properties of the
+vehicle, e.g. projecting type aerials}
+    1/283   . . . . {Blade, stub antennas}
+    1/285   . . . {Aircraft wire antennas (means for trailing
+    1/286   . . . {substantially flush mounted with the skin of
+    1/287   . . . . {integrated in a wing or a stabiliser}
+    1/288   . . . {Satellite antennas}
+    1/30    . . . Means for trailing antennas
+    1/32    . . Adaptation for use in or on road or rail vehicles
+    1/3208  . . . {characterised by the application wherein the
+    1/3216  . . . . {where the road or rail vehicle is only used
+    1/3225  . . . . {Cooperation with the rails or the road}
+    1/3233  . . . . {particular used as part of a sensor or in a
+security system, e.g. for automotive radar,
+    1/3241  . . . . . {particular used in keyless entry systems}
+    1/325   . . . {characterised by the location of the antenna on
+    1/3258  . . . . {using the gutter of the vehicle; Means for
+clamping a whip aerial on the edge of a part
+    1/3266  . . . . {using the mirror of the vehicle}
+    1/3275  . . . . {mounted on a horizontal surface of the
+vehicle, e.g. on roof, hood, trunk}
+    1/3283  . . . . {side-mounted antennas, e.g. bumper-
+mounted, door-mounted (mounted on
+    1/3291  . . . . {mounted in or on other locations inside the
+    1/34    . . Adaptation for use in or on ships, submarines,
+buoys or torpedoes (for subaqueous use
+    1/36    . Structural form of radiating elements, e.g. cone,
+spiral, umbrella; {Particular materials used
+therewith}(H01Q 1/08, H01Q 1/14 take precedence)
+    1/362   . . {for broadside radiating helical antennas}
+    1/364   . . {using a particular conducting material, e.g.
+    1/366   . . . {using an ionized gas}
+    1/368   . . . {using carbon or carbon composite}
+    1/38    . . formed by a conductive layer on an insulating
+support {(patch antennas H01Q 9/0407;
+microstrip dipole antennas H01Q 9/065;
+microstrip slot antennas H01Q 13/106;
+transmission line microstrip antennas
+H01Q 13/206; manufacturing reflecting surfaces
+using insulating material for supporting the
+reflecting surface  H01Q 15/142)}
+    1/40    . Radiating elements coated with or embedded in
+    1/405   . . {Radome integrated radiating elements}
+    1/42    . Housings not intimately mechanically associated
+with radiating elements, e.g. radome
+    1/421   . . {Means for correcting aberrations introduced by a
+    1/422   . . {comprising two or more layers of dielectric
+material (H01Q 1/425 takes precedence)}
+    1/424   . . . {comprising a layer of expanded material}
+    1/425   . . {comprising a metallic grid}
+    1/427   . . {Flexible radomes}
+    1/428   . . {Collapsible radomes; rotatable, tiltable radomes}
+    1/44    . using equipment having another main function
+to serve additionally as an antenna {, e.g.
+means for giving an antenna an aesthetic
+aspect}(H01Q 1/27 - H01Q 1/34 take precedence)
+    1/46    . . Electric supply lines or communication lines
+    1/48    . Earthing means; Earth screens; Counterpoises
+    1/50    . Structural association of antennas with earthing
+switches, lead-in devices or lightning protectors
+    1/52    . Means for reducing coupling between antennas;
+Means for reducing coupling between an
+antenna and another structure (absorbing means
+    1/521   . . {reducing the coupling between adjacent
+    1/523   . . . {between antennas of an array}
+    1/525   . . . {between emitting and receiving antennas}
+    1/526   . . {Electromagnetic shields}
+    1/528   . . {reducing the re-radiation of a support structure
+(in a parabolic reflector antenna H01Q 19/023)}
+    3/00    Arrangements for changing or varying the
+orientation or the shape of the directional pattern
+of the waves radiated from an antenna or antenna
+system {(means for positioning H01Q 1/125)}
+    3/005   . {using remotely controlled antenna positioning or
+    3/01    . varying the shape of the antenna or antenna system
+    3/02    . using mechanical movement of antenna or antenna
+    3/04    . . for varying one co-ordinate of the orientation
+    3/06    . . . over a restricted angle
+    3/08    . . for varying two co-ordinates of the orientation
+    3/10    . . . to produce a conical or spiral scan
+    3/12    . using mechanical relative movement between
+primary active elements and secondary devices of
+    3/14    . . for varying the relative position of primary active
+element and a refracting or diffracting device
+    3/16    . . for varying relative position of primary active
+element and a reflecting device
+    3/18    . . . wherein the primary active element is movable
+and the reflecting device is fixed
+    3/20    . . . wherein the primary active element is fixed and
+the reflecting device is movable
+    3/22    . varying the orientation in accordance with variation
+    3/24    . varying the orientation by switching energy from
+one active radiating element to another, e.g. for
+    3/242   . . {Circumferential scanning}
+    3/245   . . {in the focal plane of a focussing device}
+    3/247   . . {by switching different parts of a primary active
+    3/26    . varying the relative phase or relative amplitude of
+energisation between two or more active radiating
+elements; varying the distribution of energy across
+a radiating aperture ({H01Q 3/12,} H01Q 3/22,
+    3/2605  . . {Array of radiating elements provided with a
+feedback control over the element weights, e.g.
+    3/2611  . . . {Means for null steering; Adaptive interference
+    3/2617  . . . . {Array of identical elements}
+    3/2623  . . . . . {composed of two antennas}
+    3/2629  . . . . {Combination of a main antenna unit with an
+    3/2635  . . . . . {the auxiliary unit being composed of a
+    3/2641  . . . . . . {being secundary elements, e.g.
+    3/2647  . . . {Retrodirective arrays}
+    3/2652  . . . {Self-phasing arrays}
+    3/2658  . . {Phased-array fed focussing structure}
+    3/2664  . . {electrically moving the phase centre of a
+radiating element in the focal plane of a focussing
+device (switching H01Q 3/245, phased-array
+    3/267   . . {Phased-array testing or checking devices}
+    3/2676  . . {Optically controlled phased array}
+    3/2682  . . {Time delay steered arrays}
+    3/2688  . . . {using acoustic or magnetostatic wave devices}
+    3/2694  . . . {using also variable phase-shifters
+(H01Q 3/2688 takes precedence)}
+    3/28    . . varying the amplitude
+    3/30    . . varying the {relative} phase {between the
+radiating elements of an array (H01Q 3/2605,
+H01Q 3/2658, H01Q 3/2682, H01Q 3/44 take
+    3/32    . . . by mechanical means
+    3/34    . . . by electrical means (active lenses or reflecting
+    3/36    . . . . with variable phase-shifters
+    3/38    . . . . . the phase-shifters being digital
+    3/385   . . . . . . {Scan control logics}
+    3/40    . . . . with phasing matrix
+    3/42    . . . . using frequency-mixing {(H01Q 3/2676
+    3/44    . varying the electric or magnetic characteristics
+of reflecting, refracting, or diffracting devices
+associated with the radiating element
+    3/443   . . {varying the phase velocity along a leaky
+transmission line (frequency scanning
+H01Q 3/22; non-resonant leaky-waveguide or
+transmission-line aerials H01Q 13/20)}
+    3/446   . . {the radiating element being at the centre of one
+or more rings of auxiliary elements}
+    3/46    . . Active lenses or reflecting arrays
+    5/00    Arrangements for simultaneous operation of
+antennas on two or more different wavebands,
+e.g. dual-band or multi-band arrangements
+(combinations of separate active antenna units
+operating in different wavebands and connected to a
+common feeder system H01Q 21/30)
+    5/10    . Resonant antennas
+    5/15    . . for operation of centre-fed antennas comprising
+one or more collinear, substantially straight or
+    5/20    . characterised by the operating wavebands
+    5/22    . . RF wavebands combined with non-RF
+wavebands, e.g. infrared or optical
+    5/25    . . Ultra-wideband [UWB] systems, e.g. multiple
+resonance systems; Pulse systems
+    5/28    . . Arrangements for establishing polarisation
+or beam width over two or more different
+    5/30    . Arrangements for providing operation on different
+    5/307   . . Individual or coupled radiating elements, each
+element being fed in an unspecified way
+    5/314   . . . using frequency dependent circuits or
+components, e.g. trap circuits or capacitors
+    5/321   . . . . within a radiating element or between
+    5/328   . . . . between a radiating element and ground
+    5/335   . . . . at the feed, e.g. for impedance matching
+    5/342   . . . for different propagation modes (H01Q 5/314
+    5/35    . . . . using two or more simultaneously fed points
+    5/357   . . . . using a single feed point
+    5/364   . . . . . Creating multiple current paths
+    5/371   . . . . . . Branching current paths
+    5/378   . . Combination of fed elements with parasitic
+    5/385   . . . Two or more parasitic elements
+    5/392   . . . the parasitic elements having dual-band or
+    5/40    . Imbricated or interleaved structures; Combined
+or electromagnetically coupled arrangements,
+e.g. comprising two or more non-connected fed
+    5/42    . . using two or more imbricated arrays (H01Q 5/49
+    5/45    . . using two or more feeds in association with a
+common reflecting, diffracting or refracting
+    5/47    . . . with a coaxial arrangement of the feeds
+    5/48    . . Combinations of two or more dipole type
+    5/49    . . . with parasitic elements used for purposes
+other than for dual-band or multi-band, e.g.
+    5/50    . Feeding or matching arrangements for broad-band
+    5/55    . . for horn or waveguide antennas
+    7/00    Loop antennas with a substantially uniform
+current distribution around the loop and
+having a directional radiation pattern in a plane
+perpendicular to the plane of the loop
+    7/005   . {with variable reactance for tuning the antenna}
+    7/02    . Collapsible antennas; Retractable antennas
+    7/04    . Screened antennas (H01Q 7/02, H01Q 7/06 take
+    7/06    . with core of ferromagnetic material (H01Q 7/02
+    7/08    . . Ferrite rod or like elongated core
+    9/00    Electrically-short antennas having dimensions not
+more than twice the operating wavelength and
+consisting of conductive active radiating elements
+    9/005   . {for radiating non-sinusoidal waves}
+    9/02    . Non-resonant antennas
+    9/04    . Resonant antennas
+    9/0407  . . {Substantially flat resonant element parallel
+to ground plane, e.g. patch antenna (dipole
+H01Q 9/285; monopole H01Q 9/40)}
+    9/0414  . . . {in a stacked or folded configuration}
+    9/0421  . . . {with a shorting wall or a shorting pin at
+one end of the element (H01Q 9/0414 takes
+    9/0428  . . . {radiating a circular polarised wave}
+    9/0435  . . . . {using two feed points}
+    9/0442  . . . {with particular tuning means}
+    9/045   . . . {with particular feeding means (for circular
+    9/0457  . . . . {electromagnetically coupled to the feed
+    9/0464  . . . {Annular ring patch}
+    9/0471  . . . {Non-planar, stepped or wedge-shaped patch}
+    9/0478  . . . {with means for suppressing spurious modes,
+    9/0485  . . {Dielectric resonator antennas}
+    9/0492  . . . {circularly polarised}
+    9/065   . . . {Microstrip dipole antennas (patch antenna
+    9/08    . . . Junction boxes specially adapted for supporting
+adjacent ends of collinear rigid elements
+    9/10    . . . Junction boxes specially adapted for supporting
+adjacent ends of divergent elements
+    9/12    . . . . adapted for adjustment of angle between
+    9/14    . . . Length of element or elements adjustable
+(telescopic elements H01Q 1/10)
+    9/145   . . . . {by varying the electrical length}
+    9/16    . . with feed intermediate between the extremities
+of the antenna, e.g. centre-fed dipole (H01Q 9/44
+    9/18    . . . Vertical disposition of the antenna
+    9/20    . . . Two collinear substantially straight active
+elements; Substantially straight single active
+elements (H01Q 9/28 takes precedence)
+    9/22    . . . . Rigid rod or equivalent tubular element or
+    9/24    . . . . Shunt feed arrangements to single active
+elements, e.g. for delta matching
+    9/26    . . . with folded element or elements, the folded
+parts being spaced apart a small fraction of
+operating wavelength (resonant loop antennas
+    9/265   . . . . {Open ring dipoles; Circular dipoles}
+    9/27    . . . . Spiral antennas
+    9/28    . . . Conical, cylindrical, cage, strip, gauze, or like
+elements having an extended radiating surface;
+Elements comprising two conical surfaces
+having collinear axes and adjacent apices
+and fed by two-conductor transmission lines
+(waveguide horns or mouths H01Q 13/00; slot
+    9/285   . . . . {Planar dipole (H01Q 9/065 takes
+precedence; patch antenna H01Q 9/0407)}
+    9/30    . . with feed to end of elongated active element, e.g.
+unipole (H01Q 9/44 takes precedence)
+    9/32    . . . Vertical arrangement of element (H01Q 9/40
+    9/34    . . . . Mast, tower, or like self-supporting or stay-
+    9/36    . . . . with top loading
+    9/38    . . . . with counterpoise (with counterpoise
+comprising elongated elements coplanar with
+    9/40    . . . Element having extended radiating surface
+    9/42    . . . with folded element, the folded parts being
+spaced apart a small fraction of the operating
+    9/43    . . . . Scimitar antennas
+    9/44    . . with a plurality of divergent straight elements,
+e.g. V-dipole, X-antenna; with a plurality of
+elements having mutually inclined substantially
+straight portions (combinations of two or
+more active elements H01Q 21/00; turnstile
+    9/46    . . . with rigid elements diverging from single point
+   11/00    Electrically-long antennas having dimensions
+more than twice the shortest operating wavelength
+and consisting of conductive active radiating
+elements (leaky waveguides antennas or slot antennas
+   11/02    . Non-resonant antennas, e.g. travelling-wave antenna
+   11/04    . . with parts bent, folded, shaped, screened or
+electrically loaded to obtain desired phase relation
+of radiation from selected sections of the antenna
+(H01Q 11/06 – H01Q 11/10 take precedence)
+   11/06    . . Rhombic antennas; V-antennas
+   11/08    . . Helical antennas
+   11/083   . . . {Tapered helical aerials, e.g. conical spiral
+   11/086   . . . {collapsible}
+   11/10    . . Logperiodic antennas (H01Q 11/08 takes
+   11/105   . . . {using a dielectric support}
+   11/12    . Resonant antennas
+   11/14    . . with parts bent, folded, shaped or screened or
+with phasing impedances, to obtain desired phase
+relation of radiation from selected sections of the
+antenna or to obtain desired polarisation effect
+   11/16    . . . in which the selected sections are collinear
+   11/18    . . . in which the selected sections are parallelly
+   13/00    Waveguide horns or mouths; Slot antennas;
+Leaky-waveguide antennas; Equivalent structures
+causing radiation along the transmission path of a
+   13/0208  . . {Corrugated horns (waveguide mouth
+antenna with corrugated flange H01Q 13/065;
+manufacturing details H01Q 13/0283)}
+   13/0216  . . . {Dual-depth corrugated horns}
+   13/0225  . . . {of non-circular cross-section (H01Q 13/0216
+   13/0233  . . {Horns fed by a slotted waveguide array
+   13/0241  . . {radiating a circularly polarised wave
+(H01Q 13/0258 takes precedence; polarisation
+converters H01Q 15/244, in a waveguide
+   13/025   . . {Multimode horn antennas; Horns using higher
+mode of propagation (H01Q 13/0241 takes
+precedence; multiple beam H01Q 25/04)}
+   13/0258  . . . {Orthomode horns (orthomode transducers
+   13/0266  . . {provided with a flange or a choke}
+   13/0275  . . {Ridged horns (slot-line radiating ends
+   13/0283  . . {Apparatus or processes specially provided for
+   13/0291  . . . {for corrugated horns}
+   13/04    . . Biconical horns (biconical dipoles comprising
+two conical surfaces having collinear axes and
+adjacent apices and fed by a two-conductor
+   13/06    . Waveguide mouths (horns H01Q 13/02)
+   13/065   . . {provided with a flange or a choke}
+   13/08    . Radiating ends of two-conductor microwave
+transmission lines, e.g. of coaxial lines, of
+   13/085   . . {Slot-line radiating ends}
+   13/10    . Resonant slot antennas
+   13/103   . . {with variable reactance for tuning the antenna
+(tuning resonant circuits H03J)}
+   13/106   . . {Microstrip slot antennas (patch antenna elements
+   13/12    . . Longitudinally slotted cylinder antennas;
+   13/14    . . . Skeleton cylinder antennas
+   13/16    . . Folded slot antennas
+   13/18    . . the slot being backed by, or formed in boundary
+wall of, a resonant cavity (longitudinally slotted
+cylinder H01Q 13/12 ){; Open cavity antennas}
+   13/20    . Non-resonant leaky-waveguide or transmission-line
+antennas; Equivalent structures causing radiation
+along the transmission path of a guided wave
+   13/203   . . {Leaky coaxial lines}
+   13/206   . . {Microstrip transmission line antennas}
+   13/22    . . Longitudinal slot in boundary wall of waveguide
+or transmission line {(H01Q 13/203 takes
+   13/24    . . constituted by a dielectric or ferromagnetic rod or
+pipe (H01Q 13/28 takes precedence)
+   13/26    . . Surface waveguide constituted by a single
+conductor, e.g. strip conductor
+   13/28    . . comprising elements constituting electric
+discontinuities and spaced in direction of
+wave propagation, e.g. dielectric elements or
+conductive elements forming artificial dielectric
+   15/00    Devices for reflection, refraction, diffraction or
+polarisation of waves radiated from an antenna,
+e.g. quasi-optical devices (variable for purpose of
+altering directivity H01Q 3/00; arrangements of such
+devices for guiding waves H01P 3/20; variable for
+purpose of modulation H03C 7/02)
+   15/0006  . {Devices acting selectively as reflecting surface, as
+diffracting or as refracting device, e.g. frequency
+filtering or angular spatial filtering devices
+(H01Q 15/12, H01Q 15/22, H01Q 15/24 take
+   15/0013  . . {said selective devices working as frequency-
+selective reflecting surfaces, e.g. FSS, dichroic
+plates, surfaces being partly transmissive and
+   15/002   . . . {said selective devices being reconfigurable or
+tunable, e.g. using switches or diodes}
+   15/0026  . . . {said selective devices having a stacked
+geometry or having multiple layers}
+   15/0033  . . . {used for beam splitting or combining,
+e.g. acting as a quasi-optical multiplexer
+(H01Q 19/191 and H01Q 19/195 take
+   15/004   . . . {using superconducting materials or
+   15/0046  . . . {Theoretical analysis and design methods of
+   15/0053  . . {Selective devices used as spatial filter or angular
+   15/006   . . {Selective devices having photonic band gap
+materials or materials of which the material
+properties are frequency dependent, e.g.
+perforated substrates, high-impedance surfaces}
+   15/0066  . . . {said selective devices being reconfigurable,
+tunable or controllable, e.g. using switches}
+   15/0073  . . . {said selective devices having corrugations}
+   15/008   . . . {said selective devices having Sievenpipers'
+   15/0086  . . {said selective devices having materials with
+a synthesized negative refractive index, e.g.
+metamaterials or left-handed materials}
+   15/0093  . . {having a fractal shape}
+   15/02    . Refracting or diffracting devices, e.g. lens, prism
+   15/04    . . comprising wave-guiding channel or channels
+bounded by effective conductive surfaces
+substantially perpendicular to the electric vector
+of the wave, e.g. parallel-plate waveguide lens
+   15/06    . . comprising plurality of wave-guiding channels of
+   15/08    . . formed of solid dielectric material
+   15/10    . . comprising three-dimensional array of impedance
+discontinuities, e.g. holes in conductive surfaces
+or conductive discs forming artificial dielectric
+   15/12    . . functioning also as polarisation filter
+{(polarisation converters H01Q 15/242)}
+   15/14    . Reflecting surfaces; Equivalent structures
+{(electromagnetic shields H01Q 1/526)}
+   15/141   . . {Apparatus or processes specially adapted for
+manufacturing reflecting surfaces}
+   15/142   . . . {using insulating material for supporting the
+   15/144   . . . . {with a honeycomb, cellular or foamed
+   15/145   . . {comprising a plurality of reflecting particles, e.g.
+radar chaff (missiles of the signal type provided
+with means for disseminating radar-reflecting
+   15/147   . . {provided with means for controlling or
+monitoring the shape of the reflecting surface (for
+scanning H01Q 3/01; aerials or aerial systems
+providing multiple beamwidths H01Q 25/002)}
+   15/148   . . {with means for varying the reflecting properties
+(H01Q 15/147 takes precedence)}
+   15/16    . . curved in two dimensions, e.g. paraboloidal
+   15/161   . . . {Collapsible reflectors}
+   15/162   . . . . {composed of a plurality of rigid panels}
+   15/163   . . . . {inflatable}
+   15/165   . . . {composed of a plurality of rigid panels
+   15/166   . . . . {sector shaped}
+   15/167   . . . . {comprising a gap between adjacent panels
+or group of panels, e.g. stepped reflectors}
+   15/168   . . . {Mesh reflectors mounted on a non-collapsible
+   15/18    . . comprising plurality of mutually inclined plane
+surfaces, e.g. corner reflector {(H01Q 15/16 takes
+   15/20    . . . Collapsible reflectors
+   15/22    . . functioning also as polarisation filter
+   15/23    . Combinations of reflecting surfaces with refracting
+   15/24    . Polarising devices; Polarisation filters 
+(H01Q 15/12, H01Q 15/22 take precedence)
+   15/242   . . {Polarisation converters}
+   15/244   . . . {converting a linear polarised wave into
+a circular polarised wave (guided wave
+   15/246   . . . {rotating the plane of polarisation of a linear
+polarised wave (guided wave H01P 1/165)}
+   15/248   . . . . {using a reflecting surface, e.g.
+twist reflector (combination with a
+polarisation filter in dual reflector antennas
+   17/00    Devices for absorbing waves radiated from an
+antenna; Combinations of such devices with active
+   17/001   . {for modifying the directional characteristic of an
+   17/002   . {using short elongated elements as dissipative
+material, e.g. metallic threads or flake-like
+   17/004   . {using non-directional dissipative particles, e.g.
+ferrite powders (H01Q 17/005 takes precedence;
+   17/005   . {using woven or wound filaments; impregnated nets
+   17/007   . {with means for controlling the absorption}
+   17/008   . {with a particular shape (H01Q 17/007 takes
+   19/00    Combinations of primary active antenna elements
+and units with secondary devices, e.g. with quasi-
+optical devices, for giving the antenna a desired
+directional characteristic {(combination of horns
+with slotted waveguide array H01Q 13/0233)}
+   19/005   . {Patch antenna using one or more coplanar parasitic
+   19/02    . Details {(fastening of an element on a boom
+   19/021   . . {Means for reducing undesirable effects}
+   19/022   . . . {for reducing the edge scattering of reflectors}
+   19/023   . . . {for reducing the scattering of mounting
+structures, e.g. of the struts}
+   19/025   . . . {for optimizing the matching of the primary
+   19/026   . . . {for reducing the primary feed spill-over}
+   19/027   . . . {for compensating or reducing aperture
+blockage (offset feeding H01Q 19/132,
+   19/028   . . . {for reducing the cross polarisation}
+   19/04    . . Means for collapsing H-antennas or Yagi
+   19/06    . using refracting or diffracting devices, e.g. lens
+   19/065   . . . {Zone plate type antennas}
+   19/067   . . {using a hologram}
+   19/08    . . for modifying the radiation pattern of a radiating
+horn in which it is located {(corrugated horns
+H01Q 13/0208; producing a circular polarisation
+   19/09    . . wherein the primary active element is coated with
+or embedded in a dielectric or magnetic material
+(protective material H01Q 1/40, varying the
+electric or magnetic characteristics of refracting
+or diffracting devices H01Q 3/44)
+   19/10    . using reflecting surfaces
+   19/102   . . {wherein the surfaces are of convex toroïdal
+shape (biconical horns H01Q 13/04)}
+   19/104   . . {using a substantially flat reflector for
+deflecting the radiated beam, e.g. periscopic
+antennas (periscopic fed Cassegrain antennas
+H01Q 19/191; passive relays H04B 7/145)}
+   19/106   . . {using two or more intersecting plane surfaces,
+e.g. corner reflector antennas}
+   19/108   . . {Combination of a dipole with a plane reflecting
+surface (H01Q 19/106 takes precedence; strip line
+   19/12    . . wherein the surfaces are concave (H01Q 19/18
+   19/13    . . . the primary radiating source being a single
+radiating element, e.g. a dipole, a slot, a
+waveguide termination (H01Q 19/15 takes
+   19/132   . . . . {Horn reflector antennas; Off-set feeding}
+   19/134   . . . . {Rear-feeds; Splash plate feeds}
+   19/136   . . . . . {cross-polarised}
+   19/138   . . . . {Parallel-plate feeds, e.g. pill-box, cheese
+   19/15    . . . the primary radiating source being a line
+source, e.g. leaky waveguide antennas
+   19/17    . . . the primary radiating source comprising two
+or more radiating elements (H01Q 19/15,
+   19/175   . . . . {arrayed along the focal line of a cylindrical
+   19/18    . . having two or more spaced reflecting surfaces
+   19/185   . . . wherein the surfaces are plane
+   19/19    . . . comprising one main concave reflecting surface
+associated with an auxiliary reflecting surface
+   19/191   . . . . {wherein the primary active element uses
+one or more deflecting surfaces, e.g. beam
+   19/192   . . . . {with dual offset reflectors}
+   19/193   . . . . {with feed supported subreflector (splash
+   19/195   . . . . wherein a reflecting surface acts also as a
+polarisation filter or a polarising device
+   19/20    . Producing pencil beam by two cylindrical focusing
+devices with their focal lines orthogonally disposed
+   19/22    . using a secondary device in the form of a single
+substantially straight conductive element
+   19/24    . . the primary active element being centre-fed and
+substantially straight, e.g. H-antenna
+   19/26    . . the primary active element being end-fed and
+   19/28    . using a secondary device in the form of two or
+more substantially straight conductive elements
+(log- periodic antennas H01Q 11/10; constituting a
+   19/30    . . the primary active element being centre-fed and
+substantially straight, e.g. Yagi antenna
+   19/32    . . the primary active element being end-fed and
+   21/00    Antenna arrays or systems (arrangements for
+changing or varying the orientation or the shape of
+the directional pattern of the waves radiated from an
+antenna or antenna system H01Q 3/00)
+• arrays comprising two or more individually
+energised  similar active aerial units spaced
+• combinations of different types of active aerials
+• combinations of substantially independant non-
+interacting  active aerials or arrays.
+   21/0006  . {Particular feeding systems}
+   21/0012  . . {Radial guide fed arrays}
+   21/0018  . . {Space- fed arrays}
+   21/0025  . . {Modular arrays}
+   21/0031  . . {Parallel-plate fed arrays; Lens-fed arrays
+(multibeam arrays H01Q 25/008)}
+   21/0037  . . {linear waveguide fed arrays}
+   21/0043  . . . {Slotted waveguides (combination with horns
+   21/005   . . . . {Slotted waveguides arrays}
+   21/0056  . . . . . {Conically or cylindrically arrayed}
+   21/0062  . . . . {the slots being disposed around the feeding
+   21/0068  . . . {Dielectric waveguide fed arrays}
+   21/0075  . . {Stripline fed arrays (H01Q 21/065 takes
+   21/0081  . . . {using suspended striplines}
+   21/0087  . {Apparatus or processes specially adapted for
+manufacturing antenna arrays (manufacturing
+   21/0093  . . {Monolithic arrays}
+   21/06    . Arrays of individually energised antenna units
+similarly polarised and spaced apart
+   21/061   . . {Two dimensional planar arrays}
+   21/062   . . . {using dipole aerials; (H01Q 21/067,
+   21/064   . . . {using horn or slot aerials (slotted waveguides
+   21/065   . . . {Patch antenna array}
+   21/067   . . . {using endfire radiating aerial units transverse
+   21/068   . . . {using parallel coplanar travelling wave or
+leaky wave aerial units (H01Q 21/065 takes
+   21/08    . . the units being spaced along or adjacent to a
+rectilinear path {(waveguide fed H01Q 21/0037)}
+   21/10    . . . Collinear arrangements of substantially straight
+   21/12    . . . Parallel arrangements of substantially straight
+elongated conductive units (travelling-wave
+antennas comprising transmission line loaded
+with transverse elements H01Q 11/02; Yagi
+   21/14    . . . . Adcock antennas
+   21/20    . . the units being spaced along or adjacent to a
+curvilinear path {(slotted waveguide arrays
+H01Q 21/005; circularly or helically slotted
+   21/205   . . . {providing an omnidirectional coverage
+(turnstile aerials H01Q 21/26)}
+   21/22    . . Antenna units of the array energised non-
+uniformly in amplitude or phase, e.g. tapered
+   21/225   . . . {Finite focus antenna arrays}
+   21/24    . Combinations of antenna units polarised in
+different directions for transmitting or receiving
+circularly and elliptically polarised waves
+or waves linearly polarised in any direction
+{(circularly polarised patch antennas H01Q 9/0428;
+circularly polarised horns H01Q 13/0241; cross-
+polarised horns H01Q 13/0258; polarisation
+converters H01Q 15/242; cross-polarised rear feeds
+H01Q 19/136; crossed polarisation dual antenna
+   21/245   . . {provided with means for varying the polarisation
+(polarising devices H01Q 15/24; tracking by
+comparing linear polarisation compounds
+G01S 3/146; reducing depolarisation effects
+H04B 7/00 polarisation diversity H04B 7/10)}
+   21/26    . . Turnstile or like antennas comprising
+arrangements of three or more elongated
+elements disposed radially and symmetrically in a
+horizontal plane about a common centre
+   21/28    . Combinations of substantially independent non-
+interacting antenna units or systems {(multiple
+   21/29    . Combinations of different interacting antenna
+units for giving a desired directional characteristic
+   21/293   . . {one unit or more being an array of identical
+aerial elements (adaptive arrays H01Q 3/2605)}
+   21/296   . . . {Multiplicative arrays}
+   21/30    . Combinations of separate antenna units operating
+in different wavebands and connected to a common
+   23/00    Antennas with active circuits or circuit elements
+integrated within them or attached to them
+1. This group covers only such combinations in
+which the type of antenna or antenna element is
+2. Combinations with a particular type of antenna are
+classified in the group appropriate to that type.
+   25/00    Antennas or antenna systems providing at
+least two radiating patterns (arrangements for
+changing or varying the orientation or the shape of the
+   25/001   . {Crossed polarisation dual antennas (orthomode
+horns H01Q 13/0258; cross-polarised rear feeds
+H01Q 19/136; orthomode transducers H01P 1/161)}
+   25/002   . {providing at least two patterns of different
+beamwidth; Variable beamwidth antennas}
+   25/004   . {providing two or four symmetrical beams for Janus
+   25/005   . {providing two patterns of opposite direction; back
+to back antennas (H01Q 25/004 takes precedence)}
+   25/007   . {using two or more primary active elements in the
+focal region of a focusing device (for operation on
+different wavebands H01Q 5/22)}
+   25/008   . . {lens fed multibeam arrays}
+   25/02    . providing sum and difference patterns (H01Q 25/04
+   25/04    . Multimode antennas {(corrugated horns

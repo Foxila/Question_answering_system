@@ -1,0 +1,864 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+VEHICLE BRAKE CONTROL SYSTEMS OR PARTS THEREOF; BRAKE CONTROL
+SYSTEMS OR PARTS THEREOF, IN GENERAL (electrodynamic brake systems for
+vehicle, in general B60L; brakes per se, i.e. devices where braking effect occurs, including
+ultimate brake actuators, F16D); ARRANGEMENT OF BRAKING ELEMENTS ON
+VEHICLES IN GENERAL; PORTABLE DEVICES FOR PREVENTING UNWANTED
+MOVEMENT OF VEHICLES; VEHICLE MODIFICATIONS TO FACILITATE
+In this subclass, the term "brake control systems" includes brake control systems for vehicles or of general applicability
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Arrangements of braking elements, i.e. of those
+parts where braking effect occurs {specially for
+    1/005   . {by locking of wheel or transmission rotation}
+    1/02    . acting by retarding wheels
+    1/04    . . acting directly on tread
+    1/06    . . acting otherwise than on tread, e.g. employing
+rim, drum, disc, or transmission {or on double
+    1/062   . . . {acting on transmission parts}
+    1/065   . . . {employing disc (B60T 1/062 takes
+    1/067   . . . {employing drum (B60T 1/062 takes
+    1/08    . . using fluid or powdered medium
+    1/087   . . . in hydrodynamic, i.e. non-positive
+    1/093   . . . in hydrostatic, i.e. positive displacement,
+    1/10    . . by utilising wheel movement for accumulating
+energy, e.g. driving air compressors (using
+propulsion unit as braking means, see the relevant
+    1/12    . acting otherwise than by retarding wheels, e.g. jet
+    1/14    . . directly on road (portable devices, e.g. chocks
+    1/16    . . by increasing air resistance, e.g. flaps
+    3/00    Portable devices for preventing unwanted
+movement of vehicles, e.g. chocks
+    5/00    Vehicle modifications to facilitate cooling of brakes
+Brake control systems or parts thereof
+    7/00    Brake-action initiating means
+1Brake control systems or parts thereof
+    7/02    . for personal initiation
+    7/042   . . . {by electrical means, e.g. using travel or force
+    7/045   . . . {with locking and release means, e.g. providing
+    7/047   . . . . {Hand-actuated release means}
+    7/06    . . . Disposition of pedal
+    7/065   . . . . {with means to prevent injuries in case of
+collision (for vehicle pedals in general by
+moving them from an operative to an out-of-
+    7/085   . . . {by electrical means, e.g. travel, force sensors}
+    7/10    . . . Disposition of hand control
+    7/101   . . . . {by means of a pull rod}
+    7/102   . . . . {by means of a tilting lever}
+    7/104   . . . . . {with a locking mechanism}
+    7/105   . . . . . . {the lock being released by means of a
+    7/107   . . . . {with electrical power assistance}
+    7/108   . . . . {with mechanisms to take up slack in the
+    7/12    . for automatic initiation; for initiation not subject
+to will of driver or passenger {(limiting speed of
+vehicles other than rail vehicles B60K 31/00)}
+    7/122   . . {for locking of reverse movement}
+    7/124   . . {Brakes for railway vehicles coming into
+operation in case of accident, derailment or
+damage of rolling stock or superstructure (self-
+acting brakes in general F16D 59/00)}
+    7/126   . . {Brakes for railway vehicles coming into
+operation in case of exceeding a predetermined
+speed (self-acting brakes in general F16D 59/00)}
+    7/128   . . {Self-acting brakes of different types for railway
+vehicles (B60T 7/12 takes precedence; self-acting
+    7/14    . . operated upon collapse of driver (deadman's
+devices for electrically propelled vehicles
+    7/16    . . operated by remote control, i.e. initiating means
+    7/18    . . . operated by wayside apparatus
+    7/20    . . specially for trailers, e.g. in case of uncoupling
+of {or overrunning by} trailer (inertia-actuated
+    7/203   . . . {with automatic brake release or reduction
+in case of reverse travel, e.g. by means of
+mechanisms mounted on the draw bar}
+    7/206   . . . . {by means of mechanisms mounted on trailer
+    7/22    . . initiated by contact of vehicle, e.g. bumper, with
+an external object, e.g. another vehicle {, or by
+means of contactless obstacle detectors mounted
+    8/00    Arrangements for adjusting wheel-braking force
+to meet varying vehicular or ground-surface
+conditions, e.g. limiting or varying distribution
+of braking force (by changing number of effective
+brake cylinders in power brake systems B60T 17/10)
+    8/17    . Using electrical or electronic regulation means to
+control braking {(detecting or indicating faulty
+    8/1701  . . {Braking or traction control means specially
+adapted for particular types of vehicles (for
+vehicles having more than one drive axle
+    8/1703  . . . {for aircrafts}
+    8/1705  . . . {for rail vehicles}
+    8/1706  . . . {for single-track vehicles, e.g. motorcycles}
+    8/1708  . . . {for lorries or tractor-trailer combinations}
+    8/171   . . Detecting parameters used in the regulation;
+Measuring values used in the regulation
+    8/172   . . Determining control parameters used in the
+regulation, e.g. by calculations involving
+measured or detected parameters {(B60T 8/17551
+    8/1725  . . . {Using tyre sensors, e.g. Sidewall Torsion
+sensors [SWT] (for tyre pressure and
+temperature detection B60C 23/00)}
+    8/173   . . Eliminating or reducing the effect of unwanted
+signals, e.g. due to vibrations or electrical noise
+    8/174   . . characterised by using special control logic, e.g.
+fuzzy logic {, neural computing}
+    8/175   . . Brake regulation specially adapted to prevent
+excessive wheel spin during vehicle acceleration,
+e.g. for traction control (safety devices for
+propulsion unit control responsive to, or
+preventing, skidding of wheels B60K 28/16)
+    8/1755  . . Brake regulation specially adapted to control the
+stability of the vehicle, e.g. taking into account
+yaw rate or transverse acceleration in a curve
+(road vehicle drive control systems for control of
+driving stability otherwise than by controlling a
+particular sub-unit B60W 30/02)
+    8/17551 . . . {determining control parameters related to
+vehicle stability used in the regulation, e.g. by
+calculations involving measured or detected
+    8/17552 . . . {responsive to the tire sideslip angle or the
+    8/17554 . . . {specially adapted for enhancing stability
+around the vehicles longitudinal axle, i.e. roll-
+over prevention (road vehicle drive control
+systems for roll-over prevention otherwise
+than by controlling a particular sub-unit
+    8/17555 . . . {specially adapted for enhancing driver or
+passenger comfort, e.g. soft intervention or pre-
+    8/17557 . . . {specially adapted for lane departure
+prevention (road vehicle drive control systems
+for lane keeping otherwise than by controlling a
+particular sub-unit B60W 30/12)}
+    8/17558 . . . {specially adapted for collision avoidance or
+collision mitigation (road vehicle drive control
+systems for collision avoidance otherwise
+than by controlling a particular sub-unit
+    8/176   . . Brake regulation specially adapted to prevent
+excessive wheel slip during vehicle deceleration,
+e.g. ABS (B60T 8/1755 takes precedence)
+    8/1761  . . . responsive to wheel or brake dynamics, e.g.
+wheel slip, wheel acceleration or rate of change
+    8/17613 . . . . {based on analogue circuits or digital circuits
+comprised of discrete electronic elements}
+    8/17616 . . . . {Microprocessor-based systems}
+2Brake control systems or parts thereof
+    8/1763  . . . responsive to the coefficient of friction
+between the wheels and the ground surface
+    8/17633 . . . . {based on analogue circuits or digital circuits
+comprised of discrete electronic elements}
+    8/17636 . . . . {Microprocessor-based systems}
+    8/1764  . . . Regulation during travel on surface with
+different coefficients of friction, e.g. between
+left and right sides, mu-split {or between front
+    8/1766  . . . Proportioning of brake forces according to
+vehicle axle loads, e.g. front to rear of vehicle
+    8/1769  . . . specially adapted for vehicles having more than
+one driven axle, e.g. four-wheel drive vehicles
+    8/18    . responsive to vehicle weight or load, e.g. load
+distribution ({using electrical circuitry on regulation
+means B60T 8/17; } B60T 8/30 takes precedence;
+responsive to weight and speed condition
+B60T 8/1887 and B60T 8/1893 take precedence
+    8/1806  . . {characterised by the calibration process or the
+    8/1812  . . {characterised by the means for pressure
+    8/1818  . . . {Lever mechanism}
+    8/1825  . . . {Means for changing the diaphragm area
+    8/1831  . . . {pressure reducing or limiting valves}
+    8/1837  . . {characterised by the load-detecting
+    8/1843  . . . {Arrangements for detecting air spring
+    8/185   . . . {Arrangements for detecting vehicle level}
+    8/1856  . . . {Arrangements for detecting suspension spring
+load (B60T 8/1843 takes precedence)}
+    8/1862  . . . . {comprising sensors of the type providing a
+fluid output signal representing the load on
+    8/1868  . . . . {comprising sensors of the type providing
+a mechanical output signal representing the
+load on the vehicle suspension}
+    8/1875  . . . . {comprising sensors of the type providing an
+electrical output signal representing the load
+    8/1881  . . {characterised by failure-responsive means}
+    8/1887  . . {especially adapted for tractor-trailer
+    8/1893  . . {especially adapted for railway vehicles}
+    8/24    . responsive to vehicle inclination or change of
+direction, e.g. negotiating bends {(using electrical
+circuitry or regulation means B60T 8/17)}
+    8/241   . . {Lateral vehicle inclination}
+    8/243   . . . {for roll-over protection}
+    8/245   . . {Longitudinal vehicle inclination}
+    8/246   . . {Change of direction}
+    8/248   . . {Trailer sway, e.g. for preventing jackknifing}
+    8/26    . characterised by producing differential braking
+between front and rear wheels {(using electrical
+circuitry or regulation means B60T 8/17)}
+    8/261   . . {specially adapted for use in motorcycles}
+    8/262   . . {using valves with stepped characteristics
+(B60T 8/261, B60T 8/266 take precedence)}
+    8/263   . . . {for pneumatic brake systems}
+    8/265   . . . {for hydraulic brake systems}
+    8/266   . . {using valves or actuators with external control
+means (B60T 8/261 takes precedence)}
+    8/267   . . . {for hybrid systems with different kind of
+    8/268   . . . {using the valves of an ABS, ASR or ESP
+    8/28    . . responsive to deceleration {(B60T 8/261,
+B60T 8/262, B60T 8/266 take precedence)}
+    8/282   . . . {using ball and ramp}
+    8/285   . . . {using horizontal moving mass}
+    8/287   . . . {using pendulums}
+    8/30    . . responsive to load {(B60T 8/261, B60T 8/262,
+    8/303   . . . {using pneumatic valves}
+    8/306   . . . {using hydraulic valves}
+    8/32    . responsive to a speed condition, e.g. acceleration or
+deceleration ({using electrical circuitry or regulation
+means B60T 8/17} ; B60T 8/28 takes precedence;
+electric devices on electrically propelled vehicles
+indicating the wheel slip B60L 3/10; measuring
+linear or angular speed per se G01P 3/00)
+    8/3205  . . {acceleration (B60T 8/34, B60T 8/52, B60T 8/54,
+B60T 8/56, B60T 8/58, B60T 8/72, B60T 8/86,
+    8/321   . . {deceleration (B60T 8/34, B60T 8/52, B60T 8/54,
+B60T 8/56, B60T 8/58, B60T 8/72, B60T 8/86,
+    8/3215  . . . {Systems characterised by having means acting
+on components of the drive line, e.g. retarder,
+clutch or differential gear (B60T 8/322 takes
+    8/322   . . . {Systems specially adapted for vehicles driven
+by more than one axle, e.g. Four Wheel-Drive
+    8/3225  . . . {Systems specially adapted for single-track
+vehicles, e.g. motorcycles (B60T 8/3235 takes
+    8/323   . . . {Systems specially adapted for tractor-trailer
+    8/3235  . . . {Systems specially adapted for rail vehicles}
+    8/324   . . . . {Speed measurement by means of centrifugal
+    8/3245  . . . . {responsive to the speed difference between
+wheels and rail, or between two wheels or
+    8/325   . . . {Systems specially adapted for aircraft}
+    8/3255  . . . {Systems in which the braking action is
+    8/326   . . . . {Hydraulic systems}
+    8/3265  . . . . . {with control of the booster (B60T 8/3275
+    8/327   . . . . {Pneumatic systems}
+    8/3275  . . . . {Systems with a braking assistant function,
+i.e. automatic full braking initiation in
+dependence of brake pedal velocity}
+    8/328   . . . {Systems sharing components with other fluid
+    8/3285  . . . . {the other fluid systems being suspension
+3Brake control systems or parts thereof
+    8/329   . . . {Systems characterised by their speed sensor
+    8/3295  . . . {Systems in which there is a pulsating signal
+superposed on the command signal}
+    8/34    . . having a fluid pressure regulator responsive to a
+    8/341   . . . {Systems characterised by their valves
+(B60T 8/36, B60T 8/38 take precedence)}
+    8/342   . . . . {Pneumatic systems}
+    8/343   . . . {Systems characterised by their lay-out
+    8/344   . . . . {Hydraulic systems}
+    8/345   . . . . . {having more than one brake circuit per
+    8/346   . . . . . {2 Channel systems (B60T 8/345 takes
+    8/347   . . . . . {3 Channel systems (B60T 8/345 takes
+    8/348   . . . . . {4 Channel systems (B60T 8/345 takes
+    8/349   . . . {Systems adapted to control a set of axles, e.g.
+    8/36    . . . including a pilot valve responding to an
+    8/3605  . . . . {wherein the pilot valve is mounted in a
+circuit controlling the working fluid system}
+    8/361   . . . . {wherein the pilot valve is mounted in a
+circuit controlling an auxiliary fluid system}
+    8/3615  . . . . {Electromagnetic valves specially adapted
+for anti-lock brake and traction control
+systems (electromagnetic valves in general
+    8/362   . . . . . {in pneumatic systems (B60T 8/3655,
+B60T 8/3675 and B60T 8/369 take
+    8/3625  . . . . . . {having at least one vacuum
+    8/363   . . . . . {in hydraulic systems (B60T 8/3655,
+B60T 8/3675 and B60T 8/369 take
+    8/3635  . . . . . . {switching between more than
+two connections, e.g. 3/2-valves
+    8/364   . . . . . . {switching between a number of
+discrete positions as a function of
+the applied signal, e.g. 3/3-valves
+(B60T 8/3645 takes precedence)}
+    8/3645  . . . . . . {having more than one electromagnetic
+    8/365   . . . . . . {combining a plurality of functions in
+one unit, e.g. pressure relief}
+    8/3655  . . . . . {Continuously controlled electromagnetic
+    8/366   . . . . . . {Valve details}
+    8/3665  . . . . . . . {Sliding valves}
+    8/367   . . . . . . . {Seat valves, e.g. poppet valves}
+    8/3675  . . . . . {integrated in modulator units}
+    8/368   . . . . . . {combined with other mechanical
+components, e.g. pump units, master
+    8/3685  . . . . . . . {characterised by the mounting of the
+modulator unit onto the vehicle}
+    8/369   . . . . . {Valves using piezo-electric elements (in
+    8/3695  . . . . {wherein the pilot valve is mounted
+separately from its power section
+(B60T 8/3605, B60T 8/361 and B60T 8/3615
+    8/38    . . . including valve means of the relay or driver
+    8/40    . . . comprising an additional fluid circuit including
+fluid pressurising means for modifying the
+pressure of the braking fluid, e.g. including
+wheel driven pumps for detecting a speed
+condition, or pumps which are controlled by
+means independent of the braking system
+    8/4004  . . . . {Repositioning the piston(s) of the
+brake control means by means of a fluid
+pressurising means in order to reduce the
+    8/4009  . . . . . {the brake control means being the wheel
+    8/4013  . . . . {Fluid pressurising means for more than one
+fluid circuit, e.g. separate pump units used
+for hydraulic booster and anti-lock braking}
+    8/4018  . . . . {Pump units characterised by their
+drive mechanisms (B60T 8/4095 takes
+    8/4022  . . . . . {Pump units driven by an individual
+electric motor (B60T 8/4027 takes
+    8/4027  . . . . . {Pump units driven by (parts of) the
+    8/4031  . . . . {Pump units characterised by their
+construction or mounting (pump units in
+combination with valve blocks B60T 8/36)}
+    8/4036  . . . . {Pump units characterised by their failure-
+responsive means (B60T 8/88 takes
+    8/404   . . . . {Control of the pump unit}
+    8/4045  . . . . . {involving ON/OFF switching}
+    8/405   . . . . . {involving the start-up phase}
+    8/4054  . . . . . {involving the delivery pressure control
+(B60T 8/4072 takes precedence)}
+    8/4059  . . . . . {involving the rate of delivery}
+    8/4063  . . . . . {involving the direction of fluid flow}
+    8/4068  . . . . {the additional fluid circuit comprising
+means for attenuating pressure pulsations}
+    8/4072  . . . . {Systems in which a driver input signal is
+used as a control signal for the additional
+fluid circuit which is normally used for
+    8/4077  . . . . . {Systems in which the booster is used as
+    8/4081  . . . . . {Systems with stroke simulating devices
+for driver input (B60T 8/4077 takes
+    8/4086  . . . . . . {the stroke simulating device being
+connected to, or integrated in the driver
+    8/409   . . . . . . {characterised by details of the stroke
+    8/4095  . . . . {including wheel driven pumps for detecting
+    8/42    . . . having expanding chambers for controlling
+pressure {, i.e. closed systems}
+4Brake control systems or parts thereof
+    8/4208  . . . . {Debooster systems}
+    8/4216  . . . . . {having a mechanically actuated
+expansion unit (B60T 8/4225 and
+    8/4225  . . . . . {having a fluid actuated expansion unit}
+    8/4233  . . . . . . {with brake pressure relief by
+introducing fluid pressure into the
+expansion unit (B60T 8/4241 takes
+    8/4241  . . . . . . {pneumatically}
+    8/425   . . . . . . . {using a vacuum}
+    8/4258  . . . . . . . . {with brake pressure relief by
+    8/4266  . . . . . {having an electro-mechanically actuated
+expansion unit, e.g. solenoid, electric
+    8/4275  . . . . {Pump-back systems}
+    8/4283  . . . . . {having a pressure sensitive inlet valve}
+    8/4291  . . . . . {having means to reduce or eliminate
+    8/44    . . . co-operating with a power-assist booster
+means associated with a master cylinder for
+controlling the release and reapplication of
+brake pressure through an interaction with the
+power assist device {, i.e. open systems}
+    8/441   . . . . {using hydraulic boosters (B60T 8/445,
+B60T 8/446, B60T 8/447 take precedence)}
+    8/442   . . . . . {the booster being a fluid return pump, e.g.
+in combination with a brake pedal force
+    8/443   . . . . {using compressed air (B60T 8/445,
+B60T 8/446, B60T 8/448 take precedence)}
+    8/444   . . . . {using vacuum (B60T 8/445, B60T 8/446,
+    8/445   . . . . {replenishing the released brake fluid
+    8/446   . . . . {replenishing the released brake fluid
+volume via the master cylinder}
+    8/447   . . . . {Reducing the boost of the power-assist
+booster means to reduce brake pressure}
+    8/448   . . . . . {the power-assist booster means being a
+vacuum or compressed air booster}
+    8/449   . . . . . . {of the multiple booster type}
+    8/46    . . . the pressure being reduced by exhausting fluid
+    8/48    . . . connecting the brake actuator to an alternative
+or additional source of fluid pressure {, e.g.
+    8/4809  . . . . {Traction control, stability control, using
+both the wheel brakes and other automatic
+    8/4818  . . . . . {in pneumatic brake systems}
+    8/4827  . . . . . {in hydraulic brake systems}
+    8/4836  . . . . . . {wherein a booster output pressure
+is used for normal or anti lock
+braking (B60T 8/4845, B60T 8/4863,
+    8/4845  . . . . . . {using a booster or a master cylinder for
+    8/4854  . . . . . . . {pneumatic boosters}
+    8/4863  . . . . . . {closed systems (B60T 8/4845,
+    8/4872  . . . . . . . {pump-back systems}
+    8/4881  . . . . . . . . {having priming means}
+    8/489   . . . . . . {using separate traction control
+    8/50    . . . having means for controlling the rate at which
+pressure is reapplied to {or released from} the
+    8/5006  . . . . {Pressure reapplication by pulsing of valves
+(B60T 8/5012, B60T 8/5018, B60T 8/505,
+    8/5012  . . . . {Pressure reapplication using a plurality of
+    8/5018  . . . . {Pressure reapplication using restrictions
+    8/5025  . . . . . {in hydraulic brake systems}
+    8/5031  . . . . . . {open systems}
+    8/5037  . . . . . . {closed systems}
+    8/5043  . . . . . . . {debooster systems}
+    8/505   . . . . {Pressure reapplication in a mu-split
+situation, i.e. a situation with different
+coefficients of friction on both sides of the
+    8/5056  . . . . {Pressure reapplication using memory
+    8/5062  . . . . . {using memory chambers}
+    8/5068  . . . . . . {having decay means}
+    8/5075  . . . . {Pressure release by pulsing of valves
+    8/5081  . . . . {Pressure release using a plurality of valves
+    8/5087  . . . . {Pressure release using restrictions
+(B60T 8/5081 takes precedence)}
+    8/5093  . . . . . {in hydraulic brake systems}
+    8/52    . . Torque sensing, i.e. wherein the braking action
+is controlled by forces producing or tending to
+produce a twisting or rotating motion on a braked
+    8/54    . . by mechanical means
+    8/56    . . having means for changing the coefficient of
+    8/58    . . responsive to speed and another condition or to
+In this group, a single condition which is itself
+responsive to, or representative of, another
+single condition is not regarded as plural
+    8/72    . . responsive to a difference between a speed
+condition, e.g. deceleration, and a fixed reference
+    8/74    . . . sensing a rate of change of velocity
+    8/76    . . . two or more sensing means from different
+wheels indicative of the same type of speed
+    8/86    . . wherein the brakes are automatically applied in
+accordance with a speed condition and having
+means for overriding the automatic braking
+device when a skid condition occurs
+    8/88    . . with failure responsive means, i.e. means for
+detecting and indicating faulty operation of the
+    8/885   . . . {using electrical circuitry}
+    8/90    . . . using a simulated speed signal to test speed
+5Brake control systems or parts thereof
+    8/92    . . . automatically taking corrective action
+    8/94    . . . . on a fluid pressure regulator
+    8/96    . . . . on speed responsive control means
+   10/00    Control or regulation for continuous braking
+making use of fluid or powdered medium, e.g. for
+use when descending a long slope
+   10/02    . with hydrodynamic brake
+   10/04    . with hydrostatic brake
+   11/00    Transmitting braking action from initiating
+means to ultimate brake actuator without power
+assistance or drive or where such assistance or
+drive is irrelevant (the power assistance or drive
+   11/04    . transmitting mechanically
+   11/043   . . {in case of steerable wheels}
+   11/046   . . {Using cables (B60T 11/043 takes precedence)}
+   11/06    . . Equalising arrangements
+   11/08    . . providing variable leverage
+   11/10    . transmitting by fluid means, e.g. hydraulic
+   11/101   . . {equalising arrangements}
+   11/102   . . {in combination with mechanical elements}
+   11/103   . . {in combination with other control devices
+(conjoint control of brake system and at least
+   11/105   . . . {with brake locking after actuation, release of
+the brake by a different control device, e.g. gear
+   11/106   . . . . {locking and release of the brake by the
+   11/107   . . {overrun brakes with fluid means}
+   11/108   . . {to a trailer fluid system}
+   11/12    . . the transmitted force being varied therein
+(B60T 11/16 - B60T 11/26 take precedence)
+   11/14    . . the transmitted force being substantially
+   11/16    . . Master control, e.g. master cylinders (master
+cylinders associated with vacuum boosters
+   11/165   . . . {Single master cylinders for pressurised
+   11/18    . . . Connection thereof to initiating means
+   11/20    . . . Tandem, side-by-side, or other multiple master
+   11/203   . . . . {Side-by-side configuration}
+   11/206   . . . . . {with control by a force distributing lever}
+   11/21    . . . . with two pedals operating on respective
+circuits, pressures therein being equalised
+when both pedals are operated together, e.g.
+for steering (steering non-deflectable wheels
+or endless tracks by differentially driving
+ground-engaging elements on opposite
+vehicle sides using brakes as main steering
+   11/22    . . . characterised by being integral with reservoir
+   11/224   . . . with pressure-varying means, e.g. with two
+stage operation provided by use of different
+piston diameters including continuous variation
+   11/228   . . . Pressure-maintaining arrangements, e.g. for
+replenishing the master cylinder chamber with
+fluid from a reservoir (B60T 11/232 takes
+   11/232   . . . Recuperation valves
+   11/236   . . . Piston sealing arrangements
+   11/24    . . Single initiating means operating on more than
+one circuit, e.g. dual circuits (multiple master
+   11/26    . . Reservoirs (integral with master controls
+   11/28    . . Valves specially adapted therefor (recuperation
+   11/30    . . . Bleed valves for hydraulic brake systems
+   11/32    . . . Automatic cut-off valves for defective pipes
+   11/323   . . . . {in hydraulic systems}
+   11/326   . . . . {in pneumatic systems}
+   11/34    . . . Pressure reducing or limiting valves {(for
+arrangements for adjusting wheel-braking
+force responsive to vehicle weight or load
+   13/00    Transmitting braking action from initiating
+means to ultimate brake actuator with power
+assistance or drive; Brake systems incorporating
+such transmitting means, e.g. air-pressure brake
+systems (arrangements for adjusting wheel-braking
+force to meet varying vehicular or ground-surface
+conditions B60T 8/00; valves incorporated in such
+   13/02    . with mechanical assistance or drive {(combined
+with fluid pressure B60T 13/588)}
+   13/04    . . by spring or weight (fluid released B60T 13/10)
+   13/06    . . by inertia, e.g. flywheel
+   13/065   . . . {of the propulsion system}
+   13/08    . . . Overrun brakes
+   13/10    . with fluid assistance, drive, or release
+   13/12    . . the fluid being liquid
+   13/14    . . . using accumulators or reservoirs {fed by
+   13/141   . . . . {Systems with distributor valve
+(B60T 13/147 takes precedence)}
+   13/142   . . . . {Systems with master cylinder}
+   13/143   . . . . . {Master cylinder mechanically coupled
+   13/144   . . . . . . {Pilot valve provided inside booster
+   13/145   . . . . . {Master cylinder integrated or
+hydraulically coupled with booster}
+   13/146   . . . . . . {Part of the system directly actuated by
+   13/147   . . . . . {In combination with distributor valve}
+   13/148   . . . . {Arrangements for pressure supply}
+   13/16    . . . using pumps directly, i.e. without interposition
+   13/161   . . . . {Systems with master cylinder}
+   13/162   . . . . . {Master cylinder mechanically coupled
+   13/163   . . . . . . {Pilot valve provided inside booster
+   13/165   . . . . . {Master cylinder integrated or
+hydraulically coupled with booster}
+   13/166   . . . . . . {Part of the system directly actuated by
+   13/167   . . . . . {In combination with distributor valve}
+   13/168   . . . . {Arrangements for pressure supply}
+   13/18    . . . . with control of pump output delivery {, e.g.
+by distributor valves (B60T 13/167 takes
+6Brake control systems or parts thereof
+   13/20    . . . . with control of pump driving means
+   13/22    . . . Brakes applied by springs or weights and
+   13/24    . . the fluid being gaseous
+   13/241   . . . {Differential pressure systems}
+   13/242   . . . . {The control valve is provided as one unit
+   13/243   . . . . . {Mechanical command of the control
+valve, mechanical transmission to the
+   13/244   . . . . . {Mechanical command of the control
+valve, hydraulic transmission to the
+   13/245   . . . . . {Hydraulic command of the control valve,
+hydraulic transmission to the brake}
+   13/246   . . . . {The control valve is provided apart from the
+   13/247   . . . . . {Mechanical command of the control
+valve, mechanical transmission to the
+   13/248   . . . . . {Mechanical command of the control
+valve, hydraulic transmission to the
+   13/249   . . . . . {Hydraulic command of the control valve,
+hydraulic transmission to the brakes}
+   13/26    . . . Compressed-air systems
+   13/261   . . . . {systems with both indirect application
+and application by springs or weights and
+   13/263   . . . . . {specially adapted for coupling with
+dependent systems, e.g. tractor-trailer
+   13/265   . . . . . {dependent systems, e.g. trailer systems}
+   13/266   . . . . {Systems with both direct and indirect
+application, e.g. in railway vehicles}
+   13/268   . . . . {using accumulators or reservoirs}
+   13/36    . . . . direct, i.e. brakes applied directly by
+   13/365   . . . . . {for railway vehicles}
+   13/38    . . . . Brakes applied by springs or weights and
+released by compressed air {(B60T 13/261
+   13/385   . . . . . {Control arrangements therefor}
+   13/40    . . . . indirect, i.e. compressed air booster units
+   13/403   . . . . . {specially adapted for coupling with
+dependent systems, e.g. tractor-trailer
+   13/406   . . . . . . {specially adapted for transfer of
+two or more command signals, e.g.
+railway systems (with electrical control
+   13/44    . . . . . with two-chamber booster units
+   13/45    . . . . . with multiple booster units, e.g. tandem
+   13/46    . . . Vacuum systems
+   13/465   . . . . {for railway vehicles}
+   13/48    . . . . direct, i.e. brakes applied directly by vacuum
+   13/50    . . . . Brakes applied by springs or weights and
+   13/52    . . . . indirect, i.e. vacuum booster units
+   13/56    . . . . . with two-chamber booster units
+   13/563   . . . . . with multiple booster units, e.g. tandem
+   13/565   . . . . . characterised by being associated with
+master cylinders, e.g. integrally formed
+   13/567   . . . . . characterised by constructional features
+of the casing or by its strengthening or
+   13/5675  . . . . . . {Supportstruts}
+   13/569   . . . . . characterised by piston details, e.g.
+construction, mounting of diaphragm
+   13/57    . . . . . characterised by constructional features of
+   13/573   . . . . . characterised by reaction devices
+   13/575   . . . . . . using resilient discs or pads
+   13/577   . . . . . . using levers
+   13/58    . . Combined or convertible systems
+   13/581   . . . {both hydraulic and pneumatic}
+   13/583   . . . . {using converters}
+   13/585   . . . {comprising friction brakes and retarders}
+   13/586   . . . . {the retarders being of the electric type}
+   13/588   . . . {both fluid and mechanical assistance or drive}
+   13/62    . . . both straight and automatic
+   13/64    . . . both single and multiple, e.g. single and tandem
+   13/66    . . Electrical control in fluid-pressure brake systems
+   13/662   . . . {characterised by specified functions of the
+   13/665   . . . {the systems being specially adapted for
+transferring two or more command signals,
+e.g. railway systems (B60T 13/662 takes
+   13/667   . . . . {and combined with electro-magnetic
+   13/68    . . . by electrically-controlled valves
+{(B60T 13/662 and B60T 13/665 take
+   13/683   . . . . {in pneumatic systems or parts thereof (in
+   13/686   . . . . {in hydraulic systems or parts thereof}
+   13/70    . . . by fluid-controlled switches
+   13/72    . . . in vacuum systems {or vacuum booster units}
+   13/74    . with electrical assistance or drive
+   13/741   . . {acting on an ultimate actuator}
+   13/743   . . . {with a spring accumulator}
+   13/745   . . {acting on a hydraulic system, e.g. a master
+   13/746   . . {and mechanical transmission of the braking
+   13/748   . . {acting on electro-magnetic brakes (combined
+with fluid-pressure brake systems B60T 13/667)}
+   15/00    Construction arrangement, or operation of valves
+incorporated in power brake systems and not
+covered by groups B60T 11/00 or B60T 13/00
+(valve structures responsive to a speed condition
+B60T 8/34; valves in general F16K)
+   15/02    . Application and release valves
+   15/021   . . {Railway control or brake valves}
+   15/022   . . . {with one slide valve, e.g. an emergency slide
+   15/024   . . . . {with quick braking action and evacuation of
+air to a reservoir, to the atmosphere or to the
+   15/025   . . {Electrically controlled valves}
+   15/027   . . . {in pneumatic systems}
+   15/028   . . . {in hydraulic systems}
+   15/04    . . Driver's valves
+7Brake control systems or parts thereof
+   15/041   . . . {controlling auxiliary pressure brakes, e.g.
+parking or emergency brakes (B60T 15/048
+   15/043   . . . {controlling service pressure brakes
+(B60T 15/048 takes precedence)}
+   15/045   . . . . {in multiple circuit systems, e.g. dual circuit
+   15/046   . . . . . {with valves mounted in tandem}
+   15/048   . . . {Controlling pressure brakes of railway
+   15/10    . . . for vacuum brakes
+   15/12    . . . combined with relay valves or the like
+   15/14    . . . influencing electric control means
+   15/16    . . . Arrangements enabling systems to be
+controlled from two or more positions
+   15/18    . . Triple or other relay valves which allow step-wise
+application or release and which are actuated by
+brake-pipe pressure variation to connect brake
+cylinders or equivalent to compressed air or
+   15/181   . . . {Trailer control valves (B60T 15/20 and
+   15/182   . . . {Trailer brake valves (B60T 15/20 and
+   15/184   . . . {Railway control or brake valves}
+   15/185   . . . . {with one slide valve}
+   15/187   . . . . . {with a slide valve for initiation and
+a second slide valve for control of the
+   15/188   . . . . . {with a slide valve for initiation and
+annular valves for control of the braking}
+   15/20    . . . controlled by two fluid pressures
+   15/203   . . . . {Trailer control valves (B60T 15/223 takes
+   15/206   . . . . {Trailer brake valves (B60T 15/226 takes
+   15/22    . . . . with one or more auxiliary valves, for
+braking, releasing, filling reservoirs
+   15/223   . . . . . {Trailer control valves}
+   15/226   . . . . . {Trailer brake valves}
+   15/24    . . . controlled by three fluid pressures
+   15/243   . . . . {Trailer control valves}
+   15/246   . . . . {Trailer brake valves}
+   15/26    . . . . without a quick braking action
+   15/28    . . . . . and having auxiliary valves
+   15/30    . . . . with a quick braking action
+   15/302   . . . . . {Railway control or brake valves with
+evacuation of air to a reservoir, to the
+atmosphere or to the brake cylinder}
+   15/304   . . . . . . {with one slide valve}
+   15/306   . . . . . . . {with a slide valve for initiation and
+a second slide valve for control of the
+   15/308   . . . . . . . {with a slide valve for initiation and
+annular valves for control of the
+   15/32    . . . . . and having auxiliary valves
+   15/34    . . . controlled alternatively by two or three fluid
+   15/36    . . Other control devices or valves characterised by
+definite functions {(electrically controlled valves
+in fluid-pressure brake systems B60T 15/027,
+   15/38    . . . for quick take-up and heavy braking, e.g. with
+auxiliary reservoir for taking-up slack
+   15/40    . . . . with separate take-up and applying cylinders
+   15/42    . . . with a quick braking action, i.e. with
+accelerating valves actuated by brake-pipe
+   15/44    . . . . and operating independently of the main
+   15/46    . . . for retarding braking action to prevent rear
+vehicles of a vehicle train overtaking the
+   15/48    . . . for filling reservoirs
+   15/50    . . . . with means for limiting or relieving pressure
+   15/52    . . . for quick release of brakes, e.g. for influencing
+counter- pressure in triple valve or recirculating
+air from reservoir or brake cylinder to brake
+   15/54    . . . for controlling exhaust from triple valve or
+   15/56    . . . for filling reservoirs by means of a secondary
+   15/58    . . . for supplying control impulses through a
+   15/60    . . . for releasing or applying brakes when vehicles
+of a vehicle train are uncoupled
+   17/00    Component parts, details, or accessories of power
+brake systems not covered by groups B60T 8/00,
+B60T 13/00 or B60T 15/00, or presenting other
+characteristic features (air compressors per se F04)
+   17/002   . {Air treatment devices}
+   17/004   . . {Draining and drying devices}
+   17/006   . . {Anti-frost devices}
+   17/008   . . {Silencer devices}
+   17/02    . Arrangements of pumps or compressors, or control
+   17/04    . Arrangements of piping, valves in the piping, e.g.
+cut-off valves, couplings or air hoses (traction
+couplings involving joints for supply lines, electric
+circuits, or the like B60D 1/62; couplings peculiar
+to railway vehicles for, or combined with, couplings
+or connectors for fluid conduits or electric cables
+B61G 5/06; pipes, cut-off valves, couplings, air
+   17/043   . . {Brake line couplings, air hoses and stopcocks}
+   17/046   . . {Devices for pipe guiding and fixing}
+   17/06    . Applications or arrangements of reservoirs
+   17/08    . Brake cylinders other than ultimate actuators (with
+built-in wear-compensating mechanisms, ultimate
+   17/081   . . {Single service brake actuators}
+   17/083   . . {Combination of service brake actuators with
+   17/085   . . {Spring loaded brake actuators}
+   17/086   . . . {Spring loaded brake actuators with emergency
+   17/088   . . {Mounting arrangements}
+   17/10    . . Two or more cylinders acting on the same
+brake with means for rendering them effective
+selectively or successively, the number of
+effective cylinders being variable
+   17/12    . . . according to vehicle weight
+   17/14    . . . according to vehicle speed
+8Brake control systems or parts thereof
+   17/16    . . Locking of brake cylinders
+   17/18    . Safety devices; Monitoring
+   17/20    . . Safety devices operable by passengers other than
+the driver {, e.g. for railway vehicles}
+   17/22    . . Devices for monitoring or checking brake
+   17/221   . . . {Procedure or apparatus for checking or
+keeping in a correct functioning condition of
+brake systems (hydraulic pressure systems
+in general F15B 19/00, F15B 21/04; testing
+   17/222   . . . . {by filling or bleeding of hydraulic systems}
+   17/223   . . . . . {Devices for pressurising brake systems
+   17/225   . . . {brake fluid level indicators (level indication in
+   17/226   . . . {using devices being responsive to the
+difference between the fluid pressions in
+conduits of multiple braking systems}
+   17/227   . . . . {With additional functions, e.g. by-pass}
+   17/228   . . . {for railway vehicles}
+ 2201/00    Particular use of vehicle brake systems; Special
+systems using also the brakes; Special software
+modules within the brake system controller
+ 2201/02    . Active or adaptive cruise control system; Distance
+ 2201/022   . . Collision avoidance systems
+ 2201/024   . . Collision mitigation systems
+ 2201/04    . Hill descent control
+ 2201/06    . Hill holder; Start aid systems on inclined road
+ 2201/08    . Lane monitoring; Lane Keeping Systems
+ 2201/081   . . using distance control
+ 2201/082   . . using alarm actuation
+ 2201/083   . . using active brake actuation
+ 2201/084   . . using suspension control
+ 2201/085   . . using several actuators; Coordination of the lane
+keeping system with other control systems
+ 2201/086   . . using driver related features
+ 2201/087   . . using active steering actuation
+ 2201/088   . . using transmission control
+ 2201/089   . . using optical detection
+ 2201/09    . Engine drag compensation
+ 2201/10    . Automatic or semi-automatic parking aid systems
+ 2201/12    . Pre-actuation of braking systems without significant
+braking effect; Optimizing brake performance by
+reduction of play between brake pads and brake disc
+ 2201/122   . . Pre-actuation in case of ESP control
+ 2201/124   . . Rain brake support [RBS]; Cleaning or drying
+brake discs, e.g. removing water or dirt
+ 2201/14    . Electronic locking-differential
+ 2201/16    . Curve braking control, e.g. turn control within ABS
+ 2210/00    Detection or estimation of road or environment
+conditions; Detection or estimation of road shapes
+ 2210/10    . Detection or estimation of road conditions
+ 2210/122   . . . using fuzzy logic, neural computing
+ 2210/124   . . . Roads with different friction levels
+ 2210/13    . . Aquaplaning, hydroplaning
+ 2210/14    . . Rough roads, bad roads, gravel roads
+ 2210/16    . . Off-road driving conditions
+ 2210/30    . Environment conditions or position therewithin
+ 2210/32    . . Vehicle surroundings
+ 2210/36    . . Global Positioning System [GPS]
+ 2220/00    Monitoring, detecting driver behaviour; Signalling
+ 2220/02    . Driver type; Driving style; Driver adaptive features
+ 2220/03    . Driver counter-steering; Avoidance of conflicts with
+ 2220/04    . Pedal travel sensor, stroke sensor; Sensing brake
+ 2220/06    . Adjustment of accelerator pedal reaction forces
+ 2230/00    Monitoring, detecting special vehicle behaviour;
+ 2230/02    . Side slip angle, attitude angle, floating angle, drift
+ 2230/03    . Overturn, rollover
+ 2230/04    . Jerk, soft-stop; Anti-jerk, reduction of pitch or nose-
+ 2230/06    . Tractor-trailer swaying
+ 2230/08    . Driving in reverse
+ 2240/00    Monitoring, detecting wheel/tire behaviour;
+ 2240/02    . Longitudinal grip (detection of road friction
+ 2240/06    . Wheel load; Wheel lift
+ 2240/07    . Tire tolerance compensation
+ 2240/08    . Spare wheel detection; Adjusting brake control in
+ 2250/00    Monitoring, detecting, estimating vehicle
+ 2250/04    . Vehicle reference speed; Vehicle body speed
+ 2250/042   . . Reference speed calculation in ASR or under
+ 2250/06    . Sensor zero-point adjustment; Offset compensation
+ 2250/062   . . loosing zero-point calibration of yaw rate sensors
+when travelling on banked roads or in case of
+ 2260/00    Interaction of vehicle brake system with other
+ 2260/02    . Active Steering, Steer-by-Wire
+ 2260/022   . . Rear-wheel steering; Four-wheel steering
+ 2260/024   . . Yawing moment compensation during mu-split
+ 2260/04    . Automatic transmission
+ 2260/06    . Active Suspension System
+ 2260/08    . Coordination of integrated systems
+ 2260/09    . Complex systems; Conjoint control of two or more
+ 2270/00    Further aspects of brake control systems not
+ 2270/10    . ABS control systems
+ 2270/12    . . for all-wheel drive vehicles
+ 2270/14    . . hydraulic model
+ 2270/20    . ASR control systems
+ 2270/202   . . for all-wheel drive vehicles
+ 2270/203   . . hydraulic system components
+ 2270/204   . . hydraulic model
+ 2270/206   . . Monitoring, e.g. parameter monitoring,
+ 2270/208   . . adapted to friction condition
+ 2270/211   . . Setting or adjusting start-control threshold
+ 2270/213   . . Driving off under Mu-split conditions
+ 2270/30    . ESP control system
+ 2270/302   . . for all-wheel drive vehicles
+ 2270/303   . . Stability control with active acceleration
+ 2270/304   . . during driver brake actuation
+ 2270/306   . . hydraulic system components
+ 2270/308   . . hydraulic model
+ 2270/311   . . Predefined control maps, lookup tables
+ 2270/313   . . with less than three sensors (yaw rate, steering
+ 2270/40    . Failsafe aspects of brake control systems
+ 2270/403   . . Brake circuit failure
+ 2270/404   . . Brake-by-wire or X-by-wire failsafe
+ 2270/406   . . Test-mode; Self-diagnosis
+ 2270/408   . . Hierarchical failure detection
+ 2270/413   . . Plausibility monitoring, cross check, redundancy
+ 2270/414   . . Power supply failure
+ 2270/415   . . Short-circuit, open circuit failure
+ 2270/416   . . Wheel speed sensor failure
+ 2270/60    . Regenerative braking
+ 2270/602   . . ABS features related thereto
+ 2270/603   . . ASR features related thereto
+ 2270/604   . . Merging friction therewith; Adjusting their
+ 2270/606   . . Axle differential or center differential features
+ 2270/608   . . Electronic brake distribution (EBV/EBD) features
+ 2270/611   . . Engine braking features related thereto
+ 2270/613   . . ESP features related thereto
+ 2270/82    . Brake-by-Wire, EHB
+ 2270/83    . Control features of electronic wedge brake [EWB]
+ 2270/84    . Driver circuits for actuating motor, valve and the
+ 2270/86    . Optimizing braking by using ESP vehicle or tire
+ 2270/88    . Pressure measurement in brake systems
+ 2270/89    . Criteria for brake release

@@ -1,0 +1,128 @@
+COOPERATIVE PATENT CLASSIFICATION
+TEXTILES OR FLEXIBLE MATERIALS NOT OTHERWISE PROVIDED FOR
+SHEDDING MECHANISMS; PATTERN CARDS OR CHAINS; PUNCHING OF
+{In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/005   . {Electronic dobbies}
+    1/02    . Single-lift dobbies, i.e. dobbies in which the same
+draw-knife or equivalent operates for every pick
+    1/04    . . Open-shed single-lift dobbies
+    1/06    . Double-lift dobbies, i.e. dobbies in which separate
+draw-knives or equivalent operate on alternate picks
+    1/08    . . reversible, i.e. correct sheds open automatically
+when the loom is driven backwards
+    1/10    . Centre-shed dobbies, i.e. shed formed by lifting
+some threads and lowering the others from central
+    1/12    . Dobbies employing toothed gearing instead of
+    1/14    . Features common to dobbies of different types (stop
+motions acting on defective operation of shedding
+    1/142   . . {Leveling mechanisms}
+    1/144   . . {linking to the heald frame}
+    1/146   . . {Independent drive motor}
+    1/16    . . Arrangements of dobby in relation to loom
+    1/18    . . Knives; Knife frames
+    1/22    . . Needles; Needle boxes; Needle boards
+    1/24    . . Cylinders; Cylinder battens
+    1/26    . . Facilitating engagement of lifting-hooks with
+    1/28    . . . by creating and then eliminating back-lash
+    1/30    . . . wherein all the hooks are disengaged from the
+knives, and selected hooks then re-engaged
+    1/32    . . . wherein all the hooks are engaged with the
+knives, and unselected hooks then disengaged
+    1/34    . . Arrangements wherein warp threads pass one
+another at different heights to avoid congestion
+    1/36    . . Card- or chain-saving arrangements, e.g. cross-
+    3/00    Jacquards (controlling jacquard by scanning
+design D03C 17/06; for gripper Axminster looms
+    3/02    . Single-lift jacquards
+    3/04    . . of open-shed type
+    3/06    . Double-lift jacquards
+    3/08    . . of open-shed type
+    3/10    . Centre-shed jacquards
+    3/12    . Multiple-shed jacquards, i.e. jacquards which move
+warp threads to several different heights, e.g. for
+    3/14    . Jacquards not employing lifting-hooks, e.g.
+employing knotted cords in conjunction with
+    3/16    . Verdol or other jacquards having intermediate
+power-operated needles between reading needles
+    3/18    . Selvedge jacquards
+    3/20    . Electrically-operated jacquards
+    3/205   . . {Independently actuated lifting cords}
+    3/22    . Fluid-operated jacquards
+    3/24    . Features common to jacquards of different types
+    3/26    . . General arrangements of jacquards, or disposition
+    3/28    . . Pick-finding arrangements; Arrangements for
+preventing next shed from being opened during
+    3/30    . . Arrangements wherein hooks are positively
+    3/32    . . Jacquard driving mechanisms
+    3/34    . . . Cylinder operating mechanisms
+    3/36    . . . Griffe operating mechanisms
+    3/40    . . Constructions of lifting-cords
+    3/42    . . Arrangements of lifting-cords
+    5/00    Cam or other direct-acting shedding mechanisms,
+i.e. operating heald frames without intervening
+    5/005   . {Leveling mechanisms}
+    5/02    . operated by rotating cams
+    5/04    . . Construction or shape of cams (cams in general
+    5/06    . operated by cam devices other than rotating cams
+    7/00    Leno or similar shedding mechanisms
+    7/005   . {Combined leno and patterned shedding motion}
+    7/04    . Mechanisms having discs oscillating about a
+weftwise axis and having apertures for warp threads
+    7/06    . Mechanisms having eyed needles for moving warp
+threads from side to side of other warp threads
+    7/08    . Devices for twisting warp threads repeatedly in the
+    9/00    Healds; Heald frames (for leno shedding
+    9/022   . . {anti-buckling}
+    9/026   . . {Material used}
+    9/0608  . . {Construction of frame parts}
+    9/0616  . . . {Horizontal upper or lower rods}
+    9/0625  . . . . {Composition or used material}
+    9/0633  . . . . {Heald bars or their connection to other
+    9/0641  . . . . {Distance guides for keeping distance to the
+    9/0658  . . . {Intermediate supports or their connection to
+    9/0666  . . {Connection of frame parts (D03C 9/0633 and
+    9/0675  . . . {Corner connections between horizontal rods
+    9/0683  . . {Arrangements or means for the linking to the
+    9/0691  . . {Arrangements of means for damping or noise
+   11/00    Selvedge shedding mechanisms not forming part
+of main shedding mechanism (selvedge jacquards
+D03C 3/18; leno selvedge mechanism D03C 7/00)
+   13/00    Shedding mechanisms not otherwise provided for
+   13/02    . {with independent drive motors (D03C 1/146 and
+   13/025   . . {with independent frame drives}
+   15/00    Pattern cards or chains
+   15/02    . Chains of metal, wood, or similar material with
+projecting pattern-indicating elements
+   15/04    . Cards or paper perforated to indicate pattern
+   15/06    . Apparatus for setting pegs in, or removing pegs
+   15/08    . Apparatus for interconnecting, e.g. by lacing, or
+   17/00    Card-punching apparatus (marking record carriers
+   17/02    . manually-controlled, i.e. holes to be punched
+   17/06    . automatic, i.e. design scanned optically or otherwise
+to control punching apparatus or to control loom
+   19/00    Methods or devices concerned with designing or
+making patterns, not provided for in other groups
+ 2700/00    Shedding mechanisms
+ 2700/01    . Shedding mechanisms using heald frames
+ 2700/0105  . . Cam-driven heald frame movement
+ 2700/0111  . . . Devices for levelling the heald frames;
+Coupling and uncoupling the drive for the
+heald frames; Devices for holding the shed
+ 2700/0116  . . . Arrangements in which warp threads pass one
+ 2700/0122  . . . Devices for adjusting the geometric and time
+ 2700/0127  . . Programme-controlled heald frame movement
+ 2700/0133  . . . with mechanical transmission
+ 2700/0138  . . . . using hooks or lifters
+ 2700/0144  . . . . . Single-lift mechanisms
+ 2700/015   . . . . . . of closed-shed type
+ 2700/0155  . . . . . Double-lift mechanisms
+ 2700/0161  . . . . . . of negatively-driven type
+ 2700/0166  . . . . . . of positively-driven type
+ 2700/0172  . . . . . . Constructional details
+ 2700/0177  . . . Devices for levelling the heald frames;
+Coupling and uncoupling the drive for the
+heald frames; Devices for holding the shed
+ 2700/0183  . . . Devices for adjusting the geometric and time
+ 2700/0188  . . Heald frame return devices
+ 2700/0194  . . Frame-operating devices for ribbon looms
+ 2700/14    . . Heald frame lifting devices

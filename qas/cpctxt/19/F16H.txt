@@ -1,0 +1,2515 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+ENGINEERING ELEMENTS AND UNITS; GENERAL MEASURES FOR
+PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR
+INSTALLATIONS; THERMAL INSULATION IN GENERAL
+1. Combinations including mechanical gearings are classified in groups F16H 37/00 or F16H 47/00, unless they are provided for
+in groups F16H 1/00 - F16H 35/00.
+2. In this subclass, sets of rigidly-connected members are regarded as single members.
+3. In this subclass, the following terms or expressions are used with the meanings indicated:
+• "toothed gearing" includes worm gearing and other gearing involving at least one wheel or sector provided with teeth  or
+the equivalent, EXCEPT gearing with chains or toothed  belts, which is treated as friction gearing;
+• "conveying motion" includes transmitting energy, and means  that the applied and resultant motions are of the same  kind,
+though they may differ in, e.g. speed, direction  extent:
+• "rotary" implies that the motion may continue indefinitely;
+• "oscillating" means moving about an axis to an extent which  is limited by the construction of the gearing, and which
+may exceed one revolution, the movement being alternately  forwards and backwards during continued operation of the
+• "reciprocating" means moving substantially in a straight  line, the movement being alternately forwards and backwards
+during continued operation of the gearing;
+• "reversing" or "reversal" means that an applied movement in  one direction may produce a resultant movement in either of
+two opposed directions at will;
+• "central gears" includes any gears whose axis is the main  axis of the gearing.
+4. Attention is drawn to the following places:
+Gearings in harvesting machines
+Toothed-wheel gearing for metal-rolling mills
+Arrangement of transmissions in vehicles
+Transmissions for railway locomotives
+Transmissions for marine propulsions
+{Transmissions for helicopters}
+Gearings associated with fluid-actuated devices
+Gearing used in indicating or recording apparatus in connection with measuring devices
+Driving arrangements for tuning resonant circuits
+Driving mechanisms for apparatus for transmission of coded digital information.
+{In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+Toothed gearings for conveying rotary motion
+    1/00    Toothed gearings for conveying rotary motion
+(specific for conveying rotary motion with variable
+gear ratio or for reversing rotary motion F16H 3/00)
+    1/003   . {Monodirectionally torque-transmitting toothed
+    1/006   . {the driving and driven axes being designed to
+assume variable positions relative to one another
+    1/02    . without gears having orbital motion
+    1/04    . . involving only two intermeshing members
+    1/06    . . . with parallel axes
+    1/08    . . . . the members having helical, herringbone, or
+1Toothed gearings for conveying rotary motion
+    1/10    . . . . one of the members being internally toothed
+    1/12    . . . with non-parallel axes
+    1/125   . . . . {comprising spiral gears}
+    1/14    . . . . comprising conical gears only
+    1/145   . . . . . {with offset axes, e.g. hypoïd gearings}
+    1/16    . . . . comprising worm and worm-wheel
+    1/163   . . . . . {with balls between the co-operating
+    1/166   . . . . . {with members rotating around axes on the
+    1/18    . . . . the members having helical, herringbone, or
+like teeth (F16H 1/14 takes precedence)
+    1/20    . . involving more than two intermeshing members
+    1/203   . . . {with non-parallel axes (F16H 1/22 takes
+    1/206   . . . {characterised by the driving or driven member
+being composed of two or more gear wheels}
+    1/22    . . . with a plurality of driving or driven shafts; with
+arrangements for dividing torque between two
+    1/222   . . . . {with non-parallel axes}
+    1/225   . . . . . {with two or more worm and worm-wheel
+    1/227   . . . . {comprising two or more gearwheels in mesh
+with the same internally toothed wheel}
+    1/24    . . involving gears essentially having intermeshing
+elements other than involute or cycloidal teeth
+    1/26    . . Special means compensating for misalignment of
+    1/28    . with gears having orbital motion
+    1/2809  . . {with means for equalising the distribution of
+    1/2818  . . . {by allowing limited movement of the ring gear
+relative to the casing or shaft}
+    1/2827  . . . {by allowing limited movement of the planet
+carrier, e.g. relative to its shaft}
+    1/2836  . . . {by allowing limited movement of the planets
+relative to the planet carrier or by using free
+    1/2845  . . . {by allowing limited movement of the sun
+    1/2854  . . {involving conical gears}
+    1/2863  . . {Arrangements for adjusting or for taking-up
+ 2001/2872  . . {comprising three central gears, i.e. ring or sun
+gear, engaged by at least one common orbital gear
+ 2001/2881  . . {comprising two axially spaced central gears, i.e.
+ring or sun gear, engaged by at least one common
+orbital gear wherein one of the central gears is
+ 2001/289   . . {comprising two or more coaxial and identical
+sets of orbital gears, e.g. for distributing torque
+    1/30    . . in which an orbital gear has an axis crossing the
+main axes of the gearing and has helical teeth or
+    1/32    . . in which the central axis of the gearing lies inside
+the periphery of an orbital gear
+    1/321   . . . {the orbital gear being nutating}
+ 2001/322   . . . {comprising at least one universal joint, e.g. a
+ 2001/323   . . . {comprising eccentric crankshafts driving or
+ 2001/324   . . . {comprising two axially spaced, rigidly
+ 2001/325   . . . {comprising a carrier with pins guiding at least
+one orbital gear with circular holes}
+ 2001/326   . . . {comprising a carrier with linear guiding means
+guiding at least one orbital gear}
+ 2001/327   . . . {with orbital gear sets comprising an internally
+ 2001/328   . . . {comprising balancing means}
+    1/34    . . involving gears essentially having intermeshing
+elements other than involute or cycloidal teeth (in
+    1/36    . . with two central gears coupled by intermeshing
+    1/46    . . Systems consisting of a plurality of gear trains
+each with orbital gears, {i.e. systems having three
+    1/48    . . Special means compensating for misalignment
+of axes {, e.g. for equalising distribution of load
+on the face width of the teeth (in combination
+with distribution of load on the planet-wheels
+    3/00    Toothed gearings for conveying rotary motion
+with variable gear ratio or for reversing rotary
+motion (speed-changing or reversing mechanisms
+    3/001   . {convertible for varying the gear-ratio, e.g. for
+selecting one of several shafts as the input shaft}
+    3/002   . {using gears having teeth movable out of mesh
+    3/003   . {the gear-ratio being changed by inversion of torque
+    3/005   . . {for gearings using gears having orbital motion}
+    3/006   . {power being selectively transmitted by either one
+ 2003/007   . . {with two flow paths, one being directly
+connected to the input, the other being connected
+ 2003/008   . . {comprising means for selectively driving
+    3/02    . without gears having orbital motion
+    3/04    . . with internally-toothed gears
+    3/06    . . with worm and worm-wheel or gears essentially
+having helical or herring-bone teeth
+    3/08    . . exclusively or essentially with continuously
+meshing gears, that can be disengaged from their
+In this group, gears which can be put out of
+mesh are not taken into consideration if they
+ 2003/0803  . . . {with countershafts coaxial with input or output
+ 2003/0807  . . . {with gear ratios in which the power is
+transferred by axially coupling idle gears}
+ 2003/0811  . . . {using unsynchronised clutches}
+ 2003/0815  . . . {using torque sharing, i.e. engaging two gear
+ratios simultaneously to transfer large torque,
+e.g. using one slipping clutch}
+ 2003/0818  . . . {comprising means for power-shifting}
+2Toothed gearings for conveying rotary motion
+ 2003/0822  . . . {characterised by the arrangement of at least
+ 2003/0826  . . . {wherein at least one gear on the input shaft,
+or on a countershaft is used for two different
+    3/083   . . . with radially acting and axially controlled
+clutching members, e.g. sliding keys {(clutches
+with clutching members movable otherwise
+than only axially F16D 11/12; clutches with
+wedgeable clutching members F16D 15/00;
+systems of mechanically actuated clutches
+    3/085   . . . with more than one output shaft
+    3/087   . . . characterised by the disposition of the gears
+(F16H 3/083, F16H 3/085 take precedence)
+When counting the countershafts, the
+reverse countershaft is not taken into
+consideration if it is used for reversal only.
+    3/089   . . . . all of the meshing gears being supported by
+a pair of parallel shafts, one being the input
+shaft and the other the output shaft, there
+    3/091   . . . . including a single countershaft
+    3/0915  . . . . . {with coaxial input and output shafts}
+    3/093   . . . . with two or more countershafts
+ 2003/0931  . . . . . {each countershaft having an output gear
+meshing with a single common gear on the
+ 2003/0933  . . . . . {with coaxial countershafts}
+ 2003/0935  . . . . . {with multiple countershafts comprising
+only one idle gear and one gear fixed to
+ 2003/0936  . . . . . {with multiple countershafts comprising
+only two idle gears and one gear fixed to
+ 2003/0938  . . . . . {with multiple gears on the input shaft
+directly meshing with respective gears on
+    3/095   . . . . . with means for ensuring an even
+distribution of torque between the
+    3/097   . . . . . the input and output shafts being aligned
+    3/10    . . . with one or more one-way clutches as an
+    3/12    . . . with means for synchronisation not
+ 2003/123   . . . . {using a brake}
+    3/126   . . . . {using an electric drive}
+    3/14    . . . Gearings for reversal only
+    3/145   . . . . {with a pair of coaxial bevel gears, rotatable
+    3/16    . . essentially with both gears that can be put out of
+gear and continuously-meshing gears that can be
+In this group, gears which can be put out of
+mesh are not taken into consideration if they
+    3/18    . . . Gearings for reversal only
+    3/20    . . exclusively or essentially using gears that can be
+In this group, gears which can be put out of
+mesh are not taken into consideration if they
+    3/22    . . . with gears shiftable only axially
+    3/24    . . . . with driving and driven shafts coaxial
+    3/26    . . . . . and two or more additional shafts
+    3/28    . . . . . . an additional shaft being coaxial with
+    3/30    . . . . with driving and driven shafts not coaxial
+    3/32    . . . . . and an additional shaft
+    3/34    . . . with gears shiftable otherwise than only axially
+    3/36    . . . with a single gear meshable with any of a set of
+coaxial gears of different diameters
+    3/363   . . . . {the teeth of the set of coaxial gears being
+arranged on a surface of generally conical
+    3/366   . . . . {the teeth of the set of coaxial gears being
+arranged on a generally flat, e.g. disc-type,
+    3/38    . . . with synchro-meshing
+    3/385   . . . . {with braking means (constructional features
+of the final output mechanisms for reversing
+    3/40    . . . Gearings for reversal only
+    3/42    . . with gears having teeth formed or arranged
+for obtaining multiple gear ratios, e.g. nearly
+    3/423   . . . {the teeth being arranged on a surface of
+    3/426   . . . {the teeth being arranged on a generally flat,
+    3/44    . using gears having orbital motion {(the gear-ratio
+being changed by inversion of torque direction
+ 2003/442   . . {comprising two or more sets of orbital gears
+ 2003/445   . . {without permanent connection between the input
+ 2003/447   . . {without permanent connection between the set of
+    3/46    . . Gearings having only two central
+gears, connected by orbital gears
+(F16H 3/68 - F16H 3/78 take precedence)
+    3/48    . . . with single orbital gears or pairs of rigidly-
+    3/50    . . . . comprising orbital conical gears
+    3/52    . . . . comprising orbital spur gears
+    3/54    . . . . . one of the central gears being internally
+toothed and the other externally toothed
+    3/56    . . . . . both central gears being sun gears
+    3/58    . . . with sets of orbital gears, each consisting of
+two or more intermeshing orbital gears
+    3/60    . . . Gearings for reversal only
+    3/62    . . Gearings having three or more central gears
+(F16H 3/68 - F16H 3/78 take precedence)
+    3/64    . . . composed of a number of gear trains, the drive
+always passing through all the trains, each
+train having not more than one connection for
+3Toothed gearings for conveying rotary motion
+    3/66    . . . composed of a number of gear trains without
+drive passing from one train to another
+    3/663   . . . . {with conveying rotary motion between
+axially spaced orbital gears, e.g.
+    3/666   . . . . {with compound planetary gear units, e.g.
+two intermeshing orbital gears (F16H 3/663
+    3/68    . . in which an orbital gear has an axis crossing the
+main axis of the gearing and has helical teeth or is
+    3/70    . . in which the central axis of the gearing lies inside
+the periphery of an orbital gear
+    3/72    . . with a secondary drive, e.g. regulating motor, in
+order to vary speed continuously
+    3/721   . . . {with an energy dissipating device, e.g.
+regulating brake or fluid throttle, in order to
+    3/722   . . . . {with a fluid throttle}
+    3/724   . . . {using external powered electric machines}
+    3/725   . . . . {with means to change ratio in the
+    3/727   . . . {with at least two dynamo electric machines
+for creating an electric power path inside the
+gearing, e.g. using generator and motor for a
+variable power torque path (special adapted for
+a hybrid electric vehicle B60K 6/20)}
+    3/728   . . . . {with means to change ratio in the
+    3/74    . . Complexes, not using actuable speedchanging
+or regulating members, e.g. with gear ratio
+determined by free play of frictional or other
+    3/76    . . with an orbital gear having teeth formed or
+arranged for obtaining multiple gear ratios, e.g.
+    3/78    . . Special adaptation of synchronisation
+Gearing for conveying rotary motion by endless flexible members
+    7/00    Gearings for conveying rotary motion by endless
+flexible members (specific for conveying rotary
+motion with variable gear ratio or for reversing rotary
+motion F16H 9/00 {; chainwheels F16H 55/30})
+    7/02    . with belts; with V-belts
+    7/023   . . {with belts having a toothed contact surface or
+regularly spaced bosses or hollows for slipless
+or nearly slipless meshing with complementary
+profiled contact surface of a pulley (toothed belts
+ 2007/026   . . {with belts running in a mist of oil}
+    7/08    . Means for varying tension of belts, ropes, or chains
+(pulleys of adjustable construction F16H 55/52 {;
+gearings with endless belts F16H 7/02; tensioning
+for chains or belts specially adapted for cycles
+B62M 9/16; belt or chain tensioning arrangements
+for endless conveyors B65G 23/44})
+ 2007/0802  . . {Actuators for final output members}
+ 2007/0804  . . . {Leaf springs}
+ 2007/0806  . . . {Compression coil springs}
+ 2007/0808  . . . {Extension coil springs}
+ 2007/081   . . . {Torsion springs}
+ 2007/0812  . . . {Fluid pressure}
+ 2007/0814  . . . . {with valves opening on surplus pressure}
+ 2007/0817  . . . . {with means for venting unwanted gas}
+ 2007/0819  . . . {Rubber or other elastic materials}
+ 2007/0821  . . . {working with gravity}
+ 2007/0823  . . . {Electric actuators}
+ 2007/0825  . . . {influenced by other actuators of output
+    7/0827  . . {for disconnecting the drive}
+    7/0829  . . {with vibration damping means}
+    7/0831  . . . {of the dry friction type}
+    7/0834  . . . {of the viscous friction type, e.g. viscous fluid}
+    7/0836  . . . {of the fluid and restriction type, e.g. dashpot}
+    7/0838  . . . {of the dissipating material type, e.g.
+ 2007/084   . . . {having vibration damping characteristics
+dependent on the moving direction of the
+ 2007/0842  . . {Mounting or support of tensioner}
+ 2007/0844  . . . {Mounting elements essentially within
+boundaries of final output members}
+ 2007/0846  . . {comprising a mechanical stopper}
+    7/0848  . . {with means for impeding reverse motion}
+ 2007/0855  . . . . {comprising a clip member engaging with
+ 2007/0857  . . . {Screw mechanisms}
+ 2007/0859  . . . {Check valves}
+ 2007/0861  . . {comprising means for sensing tensioner
+ 2007/0863  . . {Finally actuated members, e.g. constructional
+ 2007/0868  . . . . {comprising means for changing working
+ 2007/0872  . . . {Sliding members}
+ 2007/0874  . . . {Two or more finally actuated members}
+ 2007/0876  . . {Control or adjustment of actuators}
+ 2007/0878  . . . {Disabling during transport}
+ 2007/088   . . . {Manual adjustment}
+ 2007/0882  . . . {the tension being a function of temperature}
+ 2007/0885  . . . {the tension being a function of engine running
+ 2007/0887  . . . {the tension being a function of load}
+ 2007/0889  . . {Path of movement of the finally actuated
+ 2007/0891  . . . {Linear path}
+ 2007/0893  . . . {Circular path}
+ 2007/0895  . . . {Internal to external direction}
+ 2007/0897  . . . {External to internal direction}
+    7/10    . . by adjusting the axis of a pulley {(F16H 7/0827
+    7/12    . . . of an idle pulley
+    7/1209  . . . . {with vibration damping means (vibration
+    7/1218  . . . . . {of the dry friction type}
+    7/1227  . . . . . {of the viscous friction type, e.g. viscous
+    7/1236  . . . . . {of the fluid and restriction type, e.g.
+4Gearing for conveying rotary motion by endless flexible members
+    7/1245  . . . . . {of the dissipating material type, e.g.
+    7/1254  . . . . {without vibration damping means}
+    7/1263  . . . . . {where the axis of the pulley moves along
+    7/1272  . . . . . . {with means for impeding reverse
+    7/1281  . . . . . {where the axis of the pulley moves along
+    7/129   . . . . . . {with means for impeding reverse
+    7/14    . . . of a driving or driven pulley
+    7/16    . . . . without adjusting the driving or driven shaft
+    7/18    . Means for guiding or supporting belts, ropes, or
+chains (construction of pulleys F16H 55/36)
+ 2007/185   . . {the guiding surface in contact with the belt, rope
+or chain having particular shapes, structures or
+    7/20    . . Mountings for rollers or pulleys
+    7/22    . Belt, rope, or chain shifters
+    7/24    . Equipment for mounting belts, ropes, or chains
+    9/00    Gearings for conveying rotary motion with
+variable gear ratio, or for reversing rotary motion,
+by endless flexible members (control of change-
+speed or reversing-gearings conveying rotary motion
+    9/02    . without members having orbital motion
+    9/04    . . using belts, V-belts, or ropes (with toothed belts
+F16H 9/24; pulleys of adjustable construction
+    9/06    . . . engaging a stepped pulley
+    9/08    . . . engaging a conical drum (F16H 9/12 takes
+    9/10    . . . engaging a pulley provided with radially-
+actuatable elements carrying the belt
+    9/12    . . . engaging a pulley built-up out of relatively
+axially-adjustable parts in which the belt
+engages the opposite flanges of the pulley
+directly without interposed belt-supporting
+    9/125   . . . . {characterised by means for controlling
+the geometrical interrelationship of pulleys
+and the endless flexible member, e.g. belt
+alignment or position of the resulting axial
+pulley force in the plane perpendicular to the
+    9/14    . . . . using only one pulley built-up out of
+    9/16    . . . . using two pulleys, both built-up out of
+ 2009/163   . . . . . {Arrangements of two or more belt
+gearings mounted in parallel, e.g. for
+increasing transmittable torque}
+ 2009/166   . . . . . {Arrangements of two or more belt
+gearings mounted in series, e.g. for
+    9/18    . . . . . only one flange of each pulley being
+    9/20    . . . . . both flanges of the pulleys being
+    9/22    . . . specially adapted for ropes
+    9/24    . . using chains or toothed belts, belts in the form of
+links; Chains or belts specially adapted to such
+ 2009/245   . . . {with idle wheels to assist ratio change}
+    9/26    . with members having orbital motion
+Other friction gearing for conveying rotary motion
+   13/00    Gearing for conveying rotary motion with constant
+gear ratio by friction between rotary members
+   13/02    . without members having orbital motion
+   13/04    . . with balls or with rollers acting in a similar
+   13/06    . with members having orbital motion
+   13/08    . . with balls or with rollers acting in a similar
+   13/10    . Means for influencing the pressure between the
+   13/12    . . by magnetic forces
+   13/14    . . for automatically varying the pressure
+   15/00    Gearings for conveying rotary motion with
+variable gear ratio, or for reversing rotary motion,
+by friction between rotary members ({gearings
+for reversal only F16H 3/14, F16H 3/60} ; control of
+change-speed or reversing-gearings conveying rotary
+motion F16H 59/00 - F16H 63/00)
+   15/01    . characterised by the use of a magnetisable powder
+or liquid as friction medium between the rotary
+   15/02    . without members having orbital motion
+   15/04    . . Gearings providing a continuous range of gear
+   15/06    . . . in which a member A of uniform effective
+diameter mounted on a shaft may co-operate
+with different parts of a member B
+   15/08    . . . . in which the member B is a disc with a flat or
+approximately flat friction surface
+   15/10    . . . . . in which the axes of the two members
+   15/12    . . . . . . in which one or each member is
+duplicated, e.g. for obtaining better
+transmission, for lessening the reaction
+   15/14    . . . . . in which the axes of the members are
+parallel or approximately parallel
+   15/16    . . . . in which the member B has a conical friction
+   15/18    . . . . . externally
+   15/20    . . . . . . co-operating with the outer rim of the
+member A, which is perpendicular or
+nearly perpendicular to the friction
+   15/22    . . . . . . the axes of the members being parallel
+   15/24    . . . . . internally
+   15/26    . . . . in which the member B has a spherical
+friction surface centered on its axis of
+   15/28    . . . . . with external friction surface
+   15/30    . . . . . with internal friction surface
+   15/32    . . . . in which the member B has a curved friction
+surface formed as a surface of a body of
+revolution generated by a curve which is
+neither a circular arc centered on its axis of
+5Other friction gearing for conveying rotary motion
+   15/34    . . . . . with convex friction surface
+   15/36    . . . . . with concave friction surface, e.g. a hollow
+   15/38    . . . . . . with two members B having hollow
+toroid surfaces opposite to each other,
+ 2015/383   . . . . . . . {with two or more sets of toroid
+ 2015/386   . . . . . . . {with two or more sets of toroid
+   15/40    . . . in which two members co-operative by
+means of balls, or rollers of uniform effective
+diameter, not mounted on shafts
+   15/42    . . . in which two members co-operate by means of
+rings or by means of parts of endless flexible
+members pressed between the first mentioned
+   15/44    . . . in which two members of non-uniform
+effective diameter directly co-operate with one
+   15/46    . . Gearings providing a discontinuous or stepped
+   15/48    . with members having orbital motion
+   15/50    . . Gearings providing a continuous range of gear
+   15/503   . . . {in which two members co-operate by means
+of balls or rollers of uniform effective diameter,
+   15/506   . . . {in which two members of non-uniform
+effective diameter directly co-operate with one
+   15/52    . . . in which a member of uniform effective
+diameter mounted on a shaft may co-operate
+with different parts of another member
+   15/54    . . . in which two members co-operate by means of
+rings or by means of parts of endless flexible
+members pressed between the first-mentioned
+   15/56    . . Gearings providing a discontinuous or stepped
+   19/00    Gearings comprising essentially only toothed
+gears or friction members and not capable
+of conveying indefinitely-continuing rotary
+motion (with intermittently-driving members
+   19/001   . {for conveying reciprocating or limited rotary
+   19/003   . . {comprising a flexible member}
+   19/005   . . . {for conveying oscillating or limited rotary
+   19/006   . . . {for converting reciprocating into an other
+ 2019/008   . . {Facilitating the engagement or stopping of gear
+   19/02    . for interconverting rotary {or oscillating} motion
+   19/025   . . {comprising a friction shaft}
+   19/04    . . comprising a rack
+   19/043   . . . {for converting reciprocating movement in a
+continuous rotary movement or vice versa, e.g.
+by opposite racks engaging intermittently for a
+ 2019/046   . . . {Facilitating the engagement or stopping of
+   19/06    . . comprising {flexible members, e.g. an} endless
+Groups F16H 19/0604 - F16H 19/0672 are not
+complete pending reclassification; see also this
+   19/0604  . . . {with means to double or half the stroke of the
+ 2019/0609  . . . {the reciprocating motion being created by
+at least one drum or pulley with different
+diameters, using a differential effect}
+ 2019/0613  . . . {the flexible member being a toothed belt or
+   19/0618  . . . {the flexible member, e.g. cable, being
+wound on a drum or thread for creating axial
+   19/0622  . . . {for converting reciprocating movement into
+oscillating movement and vice versa, the
+reciprocating movement is perpendicular to the
+   19/0628  . . . . {the flexible member, e.g. a cable, being
+wound with one string to a drum and
+unwound with the other string to create
+reciprocating movement of the flexible
+   19/0636  . . . {the flexible member being a non-buckling
+   19/064   . . . {the flexible push member uses a bended
+profile to generate stiffness, e.g. spreading
+   19/0645  . . . {the flexible push or pull member having
+guiding means, i.e. the flexible member being
+supported at least partially by a guide to
+transmit the reciprocating movement (non-
+   19/065   . . . {with flexible members between discs creating
+reciprocation by relative rotation of the discs}
+   19/0654  . . . {using twisting movement of flexible members
+to modify the axial length of the mechanism}
+   19/0659  . . . {combined with means for creating non-linear
+characteristics, e.g. cams; Means for creating
+different velocity on forward and reverse
+   19/0663  . . . {with telescopic means, e.g. for supporting or
+shielding the reciprocating member}
+ 2019/0668  . . . {with open loop, e.g. with the free ends of the
+flexible member fixed to the casing, e.g. when
+the drive means are arranged on the carriage}
+   19/0672  . . . {characterised by means for tensioning the
+ 2019/0677  . . . {characterised by the means for fixing the
+ 2019/0681  . . . {the flexible member forming a closed loop}
+ 2019/0686  . . . . {the flexible member being directly driven
+ 2019/069   . . . {with means for generating two superposed
+movements, e.g. for driving a X-Y table}
+ 2019/0695  . . . {Generating pivoting movement of a joint}
+   19/08    . for interconverting rotary motion and oscillating
+6Other friction gearing for conveying rotary motion
+ 2019/085   . . {by using flexible members}
+Gearing for conveying or converting motion by means of levers,
+links, cams or screw-and-nut mechanisms
+   21/00    Gearings comprising primarily only links or
+   21/02    . the movements of two or more independently-
+moving members being combined into a single
+   21/04    . Guiding mechanisms, e.g. for straight-line guidance
+   21/06    . which can be made ineffective when desired
+   21/08    . . by pushing a reciprocating rod out of its operative
+   21/10    . all movement being in, or parallel to, a single plane
+   21/12    . . for conveying rotary motion
+   21/14    . . . by means of cranks, eccentrics, or like
+members fixed to one rotary member and
+guided along tracks on the other
+   21/16    . . for interconverting rotary motion and
+   21/18    . . . Crank gearings; Eccentric gearings
+   21/20    . . . . with adjustment of throw
+   21/22    . . . . with one connecting-rod and one guided
+slide to each crank or eccentric
+   21/24    . . . . . without further links or guides
+   21/26    . . . . . with toggle action
+   21/28    . . . . . with cams or additional guides
+   21/30    . . . . . with members having rolling contact
+   21/32    . . . . . with additional members comprising only
+   21/34    . . . . with two or more connecting-rods to each
+   21/36    . . . . without swinging connecting-rod, e.g. with
+epicyclic parallel motion, slot-and-crank
+   21/365   . . . . . {with planetary gearing having a ratio of
+2:1 between sun gear and planet gear}
+   21/38    . . . . with means for temporary energy
+accumulation, e.g. to overcome dead-centre
+   21/40    . . for interconverting rotary motion and oscillating
+   21/42    . . . with adjustable throw
+   21/44    . . for conveying or interconverting oscillating or
+   21/46    . with movements in three dimensions
+   21/48    . . for conveying rotary motions
+   21/50    . . for interconverting rotary motion and
+reciprocating motion {(F16H 23/00 takes
+   21/52    . . for interconverting rotary motion and oscillating
+   21/54    . . for conveying or interconverting oscillating or
+   23/00    Wobble-plate gearings; Oblique-crank gearings
+{(conveying rotary motion with toothed nutating gears
+   23/02    . with adjustment of throw by changing the position
+of the wobble-member (gearings in which the
+transmission ratio is changed by adjustment of a
+wobble-plate F16H 29/04; gearings with gyroscopic
+action, e.g. comprising wobble-plates F16H 33/10)
+   23/04    . with non-rotary wobble-members
+   23/06    . . with sliding members hinged to reciprocating
+   23/08    . . connected to reciprocating members by
+   23/10    . with rotary wobble-plates with plane surfaces
+   25/00    Gearings comprising primarily only cams, cam-
+followers and screw-and-nut mechanisms
+   25/02    . the movements of two or more independently
+moving members being combined into a single
+   25/04    . for conveying rotary motion
+   25/06    . . with intermediate members guided along tracks
+ 2025/063   . . . {the intermediate members being balls
+engaging on opposite cam discs}
+ 2025/066   . . . {the intermediate members being rollers
+   25/08    . for interconverting rotary motion and reciprocating
+motion (F16H 23/00 takes precedence)
+   25/10    . . with adjustable throw
+   25/12    . . with reciprocation along the axis of rotation,
+e.g. gearings with helical grooves and automatic
+   25/122   . . . {Gearings with helical grooves and automatic
+   25/125   . . . {having the cam on an end surface of the
+ 2025/127   . . . {using electric solenoids for generating the
+   25/14    . . with reciprocation perpendicular to the axis of
+rotation (crank or eccentric gearings without
+swinging connecting-rod F16H 21/36)
+   25/16    . for interconverting rotary motion and oscillating
+   25/18    . for conveying or interconverting oscillating or
+   25/183   . . {conveying only reciprocating motion, e.g.
+   25/186   . . {with reciprocation along the axis of oscillation}
+   25/20    . . Screw mechanisms (with automatic reversal
+   25/2003  . . . {with arrangements for taking up backlash
+(F16H 25/2209 takes precedence)}
+   25/2006  . . . . {with more than one nut or with nuts
+consisting of more than one bearing part}
+   25/2009  . . . . {with radial preloading}
+ 2025/2012  . . . . {using a spring member creating rotary
+torque for counter rotating the two nuts, e.g.
+   25/2015  . . . {Means specially adapted for stopping
+actuators in the end position; Position sensing
+   25/2018  . . . {with both screw and nut being driven, i.e.
+screw and nut are both rotating}
+   25/2021  . . . {with means for avoiding overloading}
+   25/2025  . . . {with means to disengage the nut or screw from
+their counterpart; Means for connecting screw
+and nut for stopping reciprocating movement
+(F16H 25/2015 takes precedence)}
+ 2025/2028  . . . {using screw profiles with high efficiency for
+converting reciprocating motion into oscillating
+ 2025/2031  . . . {Actuator casings}
+7Gearing for conveying or converting motion by means of levers, links, cams or screw-and-nut
+ 2025/2034  . . . . {Extruded frame casings}
+ 2025/2037  . . . {Actuator supports or means for fixing piston
+ 2025/204   . . . {Axial sliding means, i.e. for rotary support and
+axial guiding of nut or screw shaft}
+ 2025/2043  . . . {Screw mechanisms driving an oscillating
+lever, e.g. lever with perpendicular pivoting
+ 2025/2046  . . . {with gears arranged perpendicular to
+screw shaft axis, e.g. helical gears engaging
+   25/205   . . . {comprising alternate power paths, e.g. for fail
+ 2025/2053  . . . {Screws in parallel arrangement driven
+simultaneously with an output member moved
+   25/2056  . . . {Telescopic screws with at least three screw
+members in coaxial arrangement}
+ 2025/2059  . . . {Superposing movement by two screws,
+e.g. with opposite thread direction
+(telescopic screws with three screw members
+ 2025/2062  . . . {Arrangements for driving the actuator}
+ 2025/2065  . . . . {Manual back-up means for overriding
+motor control, e.g. hand operation in case of
+ 2025/2068  . . . . {Means for returning linear actuator to zero
+position, e.g. upon occurrence of failure by
+ 2025/2071  . . . . {Disconnecting drive source from the
+actuator, e.g. using clutches for release of
+drive connection during manual control}
+ 2025/2075  . . . . {Coaxial drive motors}
+ 2025/2078  . . . . . {the rotor being integrated with the nut or
+ 2025/2081  . . . . {Parallel arrangement of drive motor to
+ 2025/2084  . . . . {Perpendicular arrangement of drive motor
+ 2025/2087  . . . . {using planetary gears}
+ 2025/209   . . . . {using worm gears}
+ 2025/2093  . . . . {using conical gears}
+ 2025/2096  . . . . {using endless flexible members}
+   25/22    . . . with balls, rollers, or similar members between
+the co-operating parts; Elements essential to the
+   25/2204  . . . . {with balls}
+   25/2209  . . . . . {with arrangements for taking up
+   25/2214  . . . . . {with elements for guiding the circulating
+   25/2219  . . . . . . {Axially mounted end-deflectors}
+   25/2223  . . . . . . {Cross over deflectors between adjacent
+thread turns, e.g. S-form deflectors
+connecting neighbouring threads}
+   25/2228  . . . . . . {the device for circulation forming a
+   25/2233  . . . . . {with cages or means to hold the balls in
+   25/2238  . . . . . . {using ball spacers, i.e. spacers
+separating the balls, e.g. by forming a
+ 2025/2242  . . . . . {Thread profile of the screw or nut
+showing a pointed "gothic" arch in cross-
+   25/2247  . . . . {with rollers}
+   25/2252  . . . . . {Planetary rollers between nut and screw}
+ 2025/2257  . . . . . . {with means for shifting planetary
+rollers axially, e.g. into central position}
+   25/2261  . . . . . {arranged substantially perpendicular to
+   25/2266  . . . . . {arranged substantially in parallel to
+the screw shaft axis (planetary rollers
+ 2025/2271  . . . . . {with means for guiding circulating
+ 2025/2276  . . . . . {using roller spacers, i.e. spacers
+separating the rollers, e.g. by forming a
+ 2025/228   . . . . . {Screw mechanisms having rollers being
+supported by the screw shaft and engaging
+   25/2285  . . . . {with rings engaging the screw shaft with the
+inner perimeter, e.g. using inner rings of a
+   25/229   . . . . . {Eccentric rings with their axis arranged
+substantially parallel to the screw shaft
+   25/2295  . . . . . {Rings which are inclined or can pivot
+around an axis perpendicular to the screw
+   25/24    . . . Elements essential to such mechanisms, e.g.
+screws, nuts (F16H 25/22 takes precedence)
+   25/2409  . . . . {one of the threads being replaced by
+elements specially formed for engaging the
+screw or nut, e.g. pins, racks, toothed belts}
+   25/2418  . . . . {Screw seals, wipers, scrapers or the like}
+   25/2427  . . . . {one of the threads being replaced by a wire
+ 2025/2436  . . . . {Intermediate screw supports for reducing
+unsupported length of screw shaft}
+ 2025/2445  . . . . {Supports or other means for compensating
+misalignment or offset between screw and
+   25/2454  . . . . {Brakes; Rotational locks}
+ 2025/2463  . . . . . {using a wrap spring brake, i.e. a helical
+wind up spring for braking or locking}
+   25/2472  . . . . {Safety nuts}
+ 2025/2481  . . . . {Special features for facilitating the
+manufacturing of spindles, nuts, or sleeves of
+ 2025/249   . . . . {Special materials or coatings for screws or
+nuts (lubrication F16H 57/0497)}
+Gearings with intermittently-driving member
+   27/00    Step-by-step mechanisms without freewheel
+   27/02    . with at least one reciprocating or oscillating
+transmission member {(F16H 27/04 takes
+   27/04    . for converting continuous rotation into a step-by-
+   27/045   . . {Mechanism comprising a member with partially
+   27/06    . . Mechanisms with driving pins in driven slots, e.g.
+8Gearings with intermittently-driving member
+   27/08    . . with driving toothed gears with interrupted
+   27/10    . . obtained by means of disengageable transmission
+members, combined or not combined with
+mechanisms according to group F16H 27/06 or
+   29/00    Gearings for conveying rotary motion with
+intermittently-driving members, e.g. with
+freewheel action {(gearings for converting oscillating
+or reciprocating movement with freewheeling
+members or other intermittently-driving members into
+   29/02    . between one of the shafts and an oscillating or
+reciprocating intermediate member, not rotating
+with either of the shafts (F16H 29/20, F16H 29/22
+   29/04    . . in which the transmission ratio is changed by
+adjustment of a crank, an eccentric, a wobble-
+plate, or a cam, on one of the shafts
+   29/06    . . . with concentric shafts, an annular intermediate
+member moving around and being supported
+on an adjustable crank or eccentric
+   29/08    . . in which the transmission ratio is changed
+by adjustment of the path of movement, the
+location of the pivot, or the effective length, of an
+   29/10    . . in which the transmission ratio is changed by
+directly acting on the intermittently driving
+   29/12    . between rotary driving and driven members
+(F16H 29/20, F16H 29/22 take precedence)
+   29/14    . . in which the transmission ratio is changed by
+adjustment of an otherwise stationary guide
+member for the intermittently-driving members
+   29/16    . . in which the transmission ratio is changed by
+adjustment of the distance between the axes of the
+   29/18    . . . in which the intermittently-driving members
+slide along approximately radial guides while
+rotating with one of the rotary members
+   29/20    . the intermittently-acting members being shaped as
+   29/22    . with automatic speed change
+   31/00    Other gearings with freewheeling members or
+other intermittently driving members (F16H 21/00,
+F16H 23/00, F16H 25/00 take precedence)
+   31/001   . {Mechanisms with freewheeling members}
+   31/002   . . {Hand-driven ratchets (wrenches of the ratchet
+   31/003   . {Step-by-step mechanisms for rotary motion}
+   31/004   . . {with pawls driven by a rotary cam}
+   31/005   . . {with pawls driven by a reciprocating or
+oscillating transmission member (F16H 31/002,
+   31/006   . . {with friction means}
+   31/007   . {Step-by-step mechanisms for linear motion}
+   31/008   . . {with friction means}
+   33/00    Gearings based on repeated accumulation and
+   33/02    . Rotary transmissions with mechanical accumulators,
+e.g. weights, springs, intermittently-connected
+   33/04    . . Gearings for conveying rotary motion with
+variable velocity ratio, in which self-regulation is
+   33/06    . . . based essentially on spring action
+   33/08    . . . based essentially on inertia
+   33/10    . . . . with gyroscopic action, e.g. comprising
+   33/12    . . . . with a driving member connected
+differentially with both a driven member and
+an oscillatory member with large resistance
+to movement, e.g. Constantinesco gearing
+   33/14    . . . . having orbital members influenced by
+   33/16    . . . . . which have their own free motion, or
+   33/18    . . . . . of which the motion is constrained
+   33/185   . . . . . . {the masses being fixed to the orbital
+   33/20    . for interconversion, based essentially on inertia,
+of rotary motion and reciprocating or oscillating
+motion {(for converting into a linear propulsion
+force, i.e. inertia motors F03G 3/00)}
+   35/00    Gearings or mechanisms with other special
+ 2035/001   . {Gearings with eccentric mounted gears, e.g. for
+ 2035/003   . {Gearings comprising pulleys or toothed members
+of non-circular shape, e.g. elliptical gears
+(harmonic drives with elliptical wave generators
+ 2035/005   . {Gearings or mechanisms preventing back-
+driving (braking or locking of screw actuators
+ 2035/006   . {Gearings or mechanisms for stopping or limiting
+movement, e.g. stopping a movement after few
+turns (for linear screw actuators F16H 25/2015)}
+   35/008   . {for variation of rotational phase relationship, e.g.
+angular relationship between input and output shaft
+   35/02    . for conveying rotary motion with cyclically varying
+   35/06    . Gearings designed to allow relative movement
+between supports thereof without ill effects (special
+means compensating for misalignment of axes
+F16H 1/26, F16H 1/48 {; mounting or supporting
+   35/08    . for adjustment of members on moving parts from a
+   35/10    . Arrangements or devices for absorbing overload
+or preventing damage by overload {(for screw
+ 2035/103   . . {with drive interruption by structural failure of
+overload preventing means, e.g. using shear pins}
+ 2035/106   . . {Monitoring of overload}
+   35/12    . Transmitting mechanisms with delayed effect
+   35/14    . Mechanisms with only two stable positions, e.g.
+acting at definite angular positions
+   35/16    . Mechanisms for movements or movement relations
+conforming to mathematical formulae
+   35/18    . Turning devices for rotatable members, e.g. shafts
+9Gearings with intermittently-driving member
+   37/00    Combinations of mechanical gearings, not
+provided for in groups F16H 1/00 - F16H 35/00
+(combinations of mechanical gearing with fluid
+clutches or fluid gearing F16H 47/00)
+   37/02    . comprising essentially only toothed or friction
+   37/021   . . {toothed gearing combined with continuous
+   37/022   . . . {the toothed gearing having orbital motion}
+ 2037/023   . . . {CVT's provided with at least two forward
+and one reverse ratio in a serial arranged sub-
+ 2037/025   . . . {CVT's in which the ratio coverage is used
+more than once to produce the overall
+transmission ratio coverage, e.g. by shift to end
+of range, then change ratio in sub-transmission
+and shift CVT through range once again}
+ 2037/026   . . . {CVT layouts with particular features of
+reversing gear, e.g. to achieve compact
+   37/027   . . {toothed gearing combined with a gear using
+endless flexible members for reversing rotary
+ 2037/028   . . {having two distinct forward drive ratios and
+one reverse drive ratio arranged in series with a
+continuously variable transmission unit}
+   37/04    . . Combinations of toothed gearings only
+   37/041   . . . {for conveying rotary motion with constant
+This group is not complete pending a
+reorganisation; see also subgroups of
+   37/042   . . . {change gear transmissions in group
+   37/043   . . . . {without gears having orbital motion}
+ 2037/044   . . . . . {comprising a separate gearing unit for
+shifting between forward or reverse}
+ 2037/045   . . . . . {comprising a separate gearing unit for
+shifting between high and low ratio range}
+   37/046   . . . . {with an additional planetary gear train, e.g.
+ 2037/047   . . . {comprising one or more orbital gear sets
+coaxial with a first shaft and having more than
+one drive connection to a second shaft parallel
+ 2037/048   . . . {Combinations of parallel shaft and orbital
+motion gearing, wherein the orbital motion gear
+has more than one connection with the parallel
+ 2037/049   . . . {Forward-reverse units with forward and
+reverse gears for achieving multiple forward
+and reverse gears, e.g. for working machines}
+   37/06    . . with a plurality of driving or driven shafts; with
+arrangements for dividing torque between two or
+   37/065   . . . {with a plurality of driving or driven shafts
+   37/08    . . . with differential gearing
+   37/0806  . . . . {with a plurality of driving or driven shafts}
+   37/0813  . . . . . {with only one input shaft (differentials for
+four wheel drive vehicles B60K 17/346)}
+   37/082   . . . . . . {and additional planetary reduction
+   37/0826  . . . . . {with only one output shaft}
+   37/0833  . . . . {with arrangements for dividing torque
+between two or more intermediate shafts,
+i.e. with two or more internal power paths
+   37/084   . . . . . {at least one power path being a
+continuously variable transmission, i.e.
+   37/0846  . . . . . . {CVT using endless flexible members}
+   37/0853  . . . . . . {CVT using friction between rotary
+members having a first member of
+uniform effective diameter cooperating
+with different parts of a second
+   37/086   . . . . . . {CVT using two coaxial friction
+members cooperating with at least one
+ 2037/0866  . . . . . . {Power split variators with distributing
+differentials, with the output of the CVT
+connected or connectable to the output
+ 2037/0873  . . . . . . . {with switching, e.g. to change
+ 2037/088   . . . . . . {Power split variators with summing
+differentials, with the input of the CVT
+connected or connectable to the input
+ 2037/0886  . . . . . . . {with switching means, e.g. to change
+ 2037/0893  . . . . . . {characterised in the ratio of the
+continuously variable transmission is
+different from zero when the output
+   37/10    . . . . at both ends of intermediate shafts
+{(F16H 37/0806 takes precedence)}
+ 2037/101   . . . . . {Power split variators with one differential
+ 2037/102   . . . . . {the input or output shaft of the
+transmission is connected or connectable
+ 2037/103   . . . . . {Power split variators with each end of
+the CVT connected or connectable to a
+ 2037/104   . . . . . {Power split variators with one end of the
+CVT connected or connectable to two or
+ 2037/105   . . . . . {characterised by number of modes or
+ranges, e.g. for compound gearing}
+ 2037/106   . . . . . . {with switching means to provide two
+ 2037/107   . . . . . . {with switching means to provide three
+ 2037/108   . . . . . . {with switching means to provide four
+or more variator modes or ranges}
+   37/12    . Gearings comprising primarily toothed or friction
+gearing, links or levers, and cams, or members of
+at least two of these types (gearings with cranks,
+eccentrics, or like members fixed to one rotary
+member and guided along tracks on the other
+F16H 21/14; crank or eccentric gearings with cams
+or additional guides, or with members having
+rolling contact F16H 21/28, F16H 21/30)
+10Gearings with intermittently-driving member
+   37/122   . . {for interconverting rotary motion and oscillating
+   37/124   . . {for interconverting rotary motion and
+   37/126   . . . {Guiding mechanism using levers combined
+with gearings for straight line output
+movement, e.g. by using gears or pulleys with
+ 2037/128   . . {Generating reciprocating motion by a planetary
+gear (ratio 2:1) using endless flexible members}
+   37/14    . . the movements of two or more independently-
+moving members being combined into a single
+movement {(screw mechanisms with both nut and
+screw being driven F16H 25/2018)}
+   37/16    . . with a driving or driven member which both
+rotates or oscillates on its axis and reciprocates
+   39/00    Rotary fluid gearing using pumps and motors of
+the volumetric type, i.e. passing a predetermined
+volume of fluid per revolution (control of
+exclusively fluid gearing F16H 61/38)
+ 2039/005   . {comprising arrangements or layout to change
+the capacity of the motor or pump by moving the
+hydraulic chamber of the motor or pump}
+   39/01    . Pneumatic gearing; Gearing working with
+   39/02    . with liquid motors at a distance from liquid pumps
+   39/04    . with liquid motor and pump combined in one unit
+   39/06    . . pump and motor being of the same type
+   39/08    . . . each with one main shaft and provided with
+pistons reciprocating in cylinders
+   39/10    . . . . with cylinders arranged around, and parallel
+or approximately parallel to the main axis of
+ 2039/105   . . . . . {at least one pair of motors or pumps
+   39/12    . . . . . with stationary cylinders
+   39/14    . . . . . with cylinders carried in rotary cylinder
+blocks or cylinder-bearing members
+   39/16    . . . . with cylinders arranged perpendicular to the
+   39/18    . . . . . the connections of the pistons being at the
+   39/20    . . . . . the connections of the pistons being at the
+   39/22    . . . with liquid chambers shaped as bodies of
+revolution concentric with the main axis of the
+   39/24    . . . . with rotary displacement members, e.g.
+provided with axially or radially movable
+vanes passing movable sealing members
+   39/26    . . . with liquid chambers not shaped as bodies of
+revolution or shaped as bodies of revolution
+eccentric to the main axis of the gearing
+   39/28    . . . . with liquid chambers formed in rotary
+   39/30    . . . . with liquid chambers formed in stationary
+   39/32    . . . . . with sliding vanes carried by the rotor
+   39/34    . . . in which a rotor on one shaft co-operates with a
+   39/36    . . . . toothed-gear type
+   39/38    . . . . Displacement screw-pump type
+   39/40    . . . Hydraulic differential gearings, e.g. having a
+rotary input housing with interconnected liquid
+   39/42    . . pump and motor being of different types
+   41/00    Rotary fluid gearing of the hydrokinetic type
+(control of exclusively fluid gearing F16H 61/38)
+   41/02    . with pump and turbine connected by conduits or
+   41/04    . Combined pump-turbine units
+   41/22    . . Gearing systems consisting of a plurality of
+hydrokinetic units operating alternatively,
+e.g. made effective or ineffective by filling or
+emptying or by mechanical clutches
+ 2041/243   . . {Connections between pump shell and cover shell
+ 2041/246   . . {relating to one way clutch of the stator}
+   41/26    . . Shape of runner blades or channels with respect
+   41/28    . . with respect to manufacture, e.g. blade attachment
+ 2041/285   . . . {of stator blades}
+   41/30    . . relating to venting, lubrication, cooling,
+circulation of the cooling medium
+   41/32    . Selection of working fluids
+   43/00    Other fluid gearing, e.g. with oscillating input
+or output {(generating mechanical vibrations of
+infrasonic or sonic frequency B06B; percussive
+tools B25D 9/00; mine roof supports for step by
+step movement E21D 23/00; reciprocating-piston
+machines without rotary main shaft F01B 11/08; fluid
+   43/02    . Fluid gearing actuated by pressure waves
+   45/00    Combinations of fluid gearings for conveying
+rotary motion with couplings or clutches (gearing
+systems consisting of a plurality of hydrokinetic units
+operating alternatively F16H 41/22 {, F16H 47/085})
+Clutches for varying working conditions in fluid
+torque-converters are regarded as part of the torque
+ 2045/002   . {comprising a clutch between prime mover and
+ 2045/005   . {comprising a clutch between fluid gearing and the
+ 2045/007   . {comprising a damper between turbine of the fluid
+gearing and the mechanical gearing unit}
+   45/02    . with mechanical clutches for bridging a fluid
+gearing of the hydrokinetic type (control of torque
+converter lock-up clutches F16H 61/14)
+ 2045/0205  . . {two chamber system, i.e. without a separated,
+closed chamber specially adapted for actuating a
+ 2045/021   . . {three chamber system, i.e. comprising a
+separated, closed chamber specially adapted for
+ 2045/0215  . . {Details of oil circulation}
+ 2045/0221  . . {with damping means}
+ 2045/0226  . . . {comprising two or more vibration dampers}
+ 2045/0231  . . . . {arranged in series}
+ 2045/0236  . . . {with axial dampers, e.g. comprising a ramp
+ 2045/0242  . . . {with viscous dampers}
+ 2045/0247  . . . {having a turbine with hydrodynamic damping
+ 2045/0252  . . . {having a damper arranged on input side of the
+ 2045/0257  . . . {having a pump adapted for use as a secondary
+ 2045/0263  . . . {the damper comprising a pendulum}
+ 2045/0268  . . . {the damper comprising a gearing}
+ 2045/0273  . . {characterised by the type of the friction surface
+ 2045/0278  . . . {comprising only two co-acting friction
+ 2045/0284  . . . {Multiple disk type lock-up clutch}
+ 2045/0289  . . . {Details of friction surfaces of the lock-up
+ 2045/0294  . . . {Single disk type lock-up clutch, i.e. using a
+single disc engaged between friction members}
+   47/00    Combinations of mechanical gearing with fluid
+   47/02    . the fluid gearing being of the volumetric type
+ 2047/025   . . {the fluid gearing comprising a plurality of
+   47/04    . . the mechanical gearing being of the type with
+ 2047/045   . . . {the fluid gearing comprising a plurality of
+   47/06    . the fluid gearing being of the hydrokinetic type
+   47/065   . . {the mechanical gearing being of the friction or
+   47/07    . . using two or more power-transmitting fluid
+circuits ({F16H 47/065, } F16H 47/10 take
+   47/08    . . the mechanical gearing being of the type with
+members having orbital motion {(F16H 47/065
+   47/085   . . . {with at least two mechanical connections
+between the hydraulic device and the
+   47/10    . . . using two or more power-transmitting fluid
+   47/12    . . . the members with orbital motion having vanes
+   48/00    Differential gearings (cooling or lubricating of
+differential gearing F16H 57/04)
+When classifying in this main group, in the
+absence of an indication to the contrary,
+classification is made in all appropriate places.
+ 2048/02    . {Transfer gears for influencing drive between
+ 2048/04    . . {having unequal torque transfer between two
+   48/05    . Multiple interconnected differential sets
+   48/06    . with gears having orbital motion
+   48/08    . . comprising bevel gears
+ 2048/082   . . . {characterised by the arrangement of output
+ 2048/085   . . . {characterised by shafts or gear carriers for
+ 2048/087   . . . {characterised by the pinion gears, e.g. their
+   48/10    . . with orbital spur gears
+ 2048/102   . . . {with spur gears engaging face gears}
+ 2048/104   . . . {characterised by two ring gears}
+ 2048/106   . . . {characterised by two sun gears}
+   48/11    . . . having intermeshing planet gears
+   48/12    . without gears having orbital motion
+   48/142   . . . {consisting of linked clutches using axially
+   48/145   . . . . {with friction clutching members}
+   48/147   . . . {with driven cam followers or balls engaging
+   48/16    . . with freewheels
+   48/18    . . with fluid gearing
+   48/19    . . consisting of two linked clutches
+   48/20    . Arrangements for suppressing or influencing the
+differential action, e.g. locking devices
+ 2048/201   . . {with means directly braking the orbital gears}
+ 2048/202   . . {using freewheel clutches}
+ 2048/204   . . {Control of arrangements for suppressing
+ 2048/205   . . . {using the steering as a control parameter}
+ 2048/207   . . . {using torque sensors}
+ 2048/208   . . . {using flywheels}
+   48/22    . . using friction clutches or brakes
+   48/24    . . using positive clutches or brakes
+   48/26    . . using fluid action, e.g. viscous clutches
+ 2048/265   . . . {with a fluid throttling means}
+   48/27    . . using internally-actuatable fluid pressure, e.g.
+   48/28    . . using self-locking gears or self-braking gears
+ 2048/282   . . . {using the axial movement of axially movable
+   48/285   . . . with self-braking intermeshing gears having
+parallel axes and having worms or helical teeth
+   48/29    . . . with self-braking intermeshing gears having
+perpendicular arranged axes and having worms
+   48/295   . . using multiple means for force boosting
+   48/30    . . using externally-actuatable means
+ 2048/305   . . . {using manual actuators}
+   48/32    . . . using fluid pressure actuators
+   48/34    . . . using electromagnetic or electric actuators
+ 2048/343   . . . . {using a rotary motor}
+ 2048/346   . . . . {using a linear motor}
+   48/36    . characterised by intentionally generating speed
+ 2048/362   . . {using a continuously variable transmission}
+ 2048/364   . . {using electric or hydraulic motors}
+ 2048/366   . . {using additional non-orbital gears in
+combination with clutches or brakes}
+ 2048/368   . . {using additional orbital gears in combination
+   48/38    . Constructional details (the outer casing comprising
+the differential and supporting input and output
+ 2048/382   . . {Methods for manufacturing differential
+ 2048/385   . . {of the ring or crown gear}
+ 2048/387   . . {Shields or washers}
+   48/40    . . characterised by features of the rotating cases
+ 2048/405   . . . {characterised by features of the bearing of the
+   48/42    . . characterised by features of the input shafts, e.g.
+mounting of drive gears thereon
+ 2048/423   . . . {characterised by bearing arrangement}
+ 2048/426   . . . . {characterised by spigot bearing
+arrangement, e.g. bearing for supporting the
+free end of the drive shaft pinion}
+   49/001   . {Wave gearings, e.g. harmonic drive transmissions
+(harmonic drives specially adapted for positioning
+programme-controlled manipulators B25J 9/1025)}
+ 2049/003   . . {Features of the flexsplines therefor}
+   49/005   . {Magnetic gearings with physical contact between
+gears (rotating torque transmitting elements of the
+permanent-magnet type H02K 49/102)}
+ 2049/006   . {Wave generators producing a non-elliptical shape
+of flexsplines, i.e. with a qualified different shape
+ 2049/008   . {Linear wave gearings, i.e. harmonic type gearing
+imposing a strain wave to a straight flexible member
+engaging a second member with different pitch to
+generate linear motion thereof}
+Details of gearing or mechanisms
+   51/00    Levers of gearing mechanisms
+   53/00    Cams {; Non-rotary cams;} or cam-followers, e.g.
+   53/02    . Single-track cams for single-revolution cycles;
+   53/025   . . {characterised by their construction, e.g.
+assembling or manufacturing features (grinding of
+   53/04    . . Adjustable cams
+   53/06    . Cam-followers (F16H 53/08 takes precedence)
+   53/08    . Multi-track cams, e.g. for cycles consisting of
+several revolutions; Cam-followers specially
+   55/00    Elements with teeth or friction surfaces for
+conveying motion; Worms, pulleys or sheaves
+for gearing mechanisms (of screw-and-nut gearing
+   55/02    . Toothed members; Worms
+   55/06    . . Use of materials; Use of treatments of toothed
+members or worms to affect their intrinsic
+material properties {(coatings for lubrication
+F16H 57/041; producing gear wheels from
+plastics or substances in a plastic state
+B29D 15/00; heat treatment C21D 9/32;
+electrolytic surface treatment C25D; heating by
+electromagnetic field H05B 6/00)}
+ 2055/065   . . . {Moulded gears, e.g. inserts therefor}
+   55/0806  . . . {Involute profile}
+   55/0813  . . . . {Intersecting-shaft arrangement of the
+   55/082   . . . . {Skewed-shaft arrangement of the toothed
+members, i.e. non-intersecting shafts}
+   55/0826  . . . {Novikov-Wildhaber profile}
+   55/0833  . . . {Flexible toothed member, e.g. harmonic
+   55/084   . . . {Non-circular rigid toothed member, e.g.
+   55/0846  . . . {Intersecting-shaft arrangement of the toothed
+members (F16H 55/0813, F16H 55/0826,
+F16H 55/0833, F16H 55/084 take precedence)}
+   55/0853  . . . {Skewed-shaft arrangement of the toothed
+members (F16H 55/082, F16H 55/0826,
+F16H 55/0833, F16H 55/084 take precedence)}
+ 2055/086   . . . {Silent gear profiles}
+ 2055/0866  . . . {Profiles for improving radial engagement of
+gears, e.g. chamfers on the tips of the teeth}
+   55/0873  . . . {for improving axial engagement, e.g. a
+chamfer at the end of the tooth flank}
+   55/088   . . . {with corrections on tip or foot of the teeth, e.g.
+addendum relief for better approach contact}
+   55/0886  . . . {with corrections along the width, e.g. flank
+width crowning for better load distribution}
+ 2055/0893  . . . {for parallel shaft arrangement of toothed
+   55/10    . . Constructively simple tooth shapes, e.g. shaped as
+pins, as balls {(gearwork for clocks and watches
+   55/12    . . with body or rim assembled out of detachable
+   55/14    . . Construction providing resilience or vibration-
+damping (F16H 55/06 takes precedence)
+   55/16    . . . relating to teeth only
+   55/17    . . Toothed wheels (worm wheels F16H 55/22; chain
+   55/171   . . . {Toothed belt pulleys}
+ 2055/173   . . . {Crown gears, i.e. gears have axially arranged
+ 2055/175   . . . {specially adapted for easy repair, e.g.
+ 2055/176   . . . {Ring gears with inner teeth}
+ 2055/178   . . . {combined with clutch means, e.g. gear with
+integrated synchronizer clutch}
+   55/18    . . . Special devices for taking up backlash {(for
+gears having orbital motion F16H 1/2863)}
+ 2055/185   . . . . {using compound gears with coincident
+teeth of different material, e.g. laminated
+construction of metal and elastomeric
+gear layers, where elastic layer is slightly
+   55/20    . . . . for bevel gears
+   55/22    . . for transmissions with crossing shafts, especially
+   55/24    . . . Special devices for taking up backlash
+   55/28    . . . Special devices for taking up backlash
+ 2055/281   . . . . {Cylindrical or half-cylindrical bushings
+around the rack, e.g. using special wedges to
+   55/283   . . . . {using pressure yokes}
+   55/285   . . . . . {with rollers or balls to reduce friction}
+   55/286   . . . . . {with asymmetric layout of the yoke}
+   55/288   . . . . . {comprising two or more pressure yokes}
+   55/303   . . . {for round linked chains, i.e. hoisting chains
+ 2055/306   . . . {with means providing resilience or vibration
+damping in chain sprocket wheels}
+13Details of gearing or mechanisms
+ 2055/325   . . {characterized by roughness or hardness of
+   55/34    . . Non-adjustable friction discs
+   55/36    . . Pulleys (with features essential for adjustment
+ 2055/363   . . . {with special means or properties for lateral
+tracking of the flexible members running on
+the pulley, e.g. with crowning to keep a belt on
+ 2055/366   . . . {with means providing resilience or vibration
+   55/38    . . . Means or measures for increasing adhesion
+   55/40    . . . with spokes (F16H 55/48 takes precedence)
+   55/42    . . . Laminated pulleys
+   55/44    . . . Sheet-metal pulleys
+   55/46    . . . Split pulleys
+   55/48    . . . manufactured exclusively or in part of non-
+metallic material, e.g. plastics (F16H 55/38,
+F16H 55/42, F16H 55/46 take precedence {;
+manufacture of wooden wheels B27H 7/00})
+   55/49    . . . Features essential to V-belts pulleys
+   55/50    . . . Features essential to rope pulleys
+   55/52    . . Pulleys or friction discs of adjustable construction
+   55/54    . . . of which the bearing parts are radially
+   55/56    . . . of which the bearing parts are relatively axially
+   55/563   . . . . {actuated by centrifugal masses}
+   55/566   . . . . {only adjustable when pulley is stationary}
+   57/00    General details of gearing (of screw-and-
+nut gearing F16H 25/00; of fluid gearing
+   57/0006  . {Vibration-damping or noise reducing means
+specially adapted for gearings (devices for
+varying tension of belts, ropes or chains with
+damping means F16H 7/0829; toothed members
+with construction providing vibration damping
+F16H 55/14; reducing vibrations or noise of the
+gearbox casing F16H 57/028; suppression of
+vibrations or noise of gear selectors F16H 59/0208;
+control of hydrostatic fluid gearing preventing or
+reducing vibrations or noise F16H 61/4183)}
+ 2057/0012  . . {for reducing drive line oscillations}
+   57/0018  . {Shaft assemblies for gearings (camshafts with
+   57/0025  . . {with gearing elements rigidly connected to a
+shaft, e.g. securing gears or pulleys by specially
+adapted splines, keys or methods}
+   57/0031  . . {with gearing elements rotatable supported on the
+shaft (F16H 57/021 takes precedence)}
+   57/0037  . . {Special features of coaxial shafts, e.g. relative
+ 2057/0043  . {Mounting or adjusting transmission parts by
+ 2057/005   . {Mounting preassembled units, i.e. using pre-
+mounted structures to speed up final mounting
+process (mounting of gears or shafts in a gearbox
+ 2057/0056  . {Mounting parts arranged in special position or by
+special sequence, e.g. for keeping particular parts in
+ 2057/0062  . {Tools specially adapted for assembly of
+ 2057/0068  . {Repairing of transmissions by using repair kits (for
+ 2057/0075  . {Modifying standard transmissions from
+manufacturer, e.g. by adding an extension for
+additional ratios (for control F16H 2061/0062)}
+ 2057/0081  . {Fixing of, or adapting to transmission failure
+(detecting transmission failures F16H 2057/018)}
+ 2057/0087  . {Computer aided design [CAD] specially adapted
+for gearing features (computer aided design per se
+G06F 30/00); Analysis of gear systems}
+ 2057/0093  . {Means or measures for transport, shipping or
+   57/01    . Monitoring wear or stress of gearing elements, e.g.
+ 2057/014   . . {of friction elements in transmissions}
+ 2057/016   . . {Monitoring of overload conditions}
+ 2057/018   . . {Detection of mechanical transmission failures
+(fixing or adapting to failure F16H 2057/0081; of
+transmission control F16H 61/12)}
+   57/02    . Gearboxes; Mounting gearing therein
+When classifying in this group, in the absence
+of an indication to the contrary, classification is
+made in all appropriate subgroups.
+   57/02004 . . {the gears being positioned relative to one
+another by rolling members or by specially
+adapted surfaces on the gears, e.g. by a rolling
+surface with the diameter of the pitch circle}
+ 2057/02008 . . {characterised by specific dividing lines or planes
+ 2057/02013 . . {Extension units for gearboxes, e.g. additional
+ 2057/02017 . . {characterised by special features related to
+the manufacturing of the gear case, e.g. special
+ 2057/02021 . . {with means for adjusting alignment}
+ 2057/02026 . . {Connection of auxiliaries with a gear case;
+Mounting of auxiliaries on the gearbox}
+ 2057/0203  . . {the gearbox is associated or combined with a
+ 2057/02034 . . {Gearboxes combined or connected with electric
+machines (structural association with electric
+ 2057/02039 . . {Gearboxes for particular applications}
+ 2057/02043 . . . {for vehicle transmissions}
+ 2057/02047 . . . . {Automatic transmissions}
+ 2057/02052 . . . . {Axle units; Transfer casings for four wheel
+ 2057/02056 . . . . {for utility vehicles, e.g. tractors or
+ 2057/0206  . . . . {for commercial vehicles, e.g. buses or
+ 2057/02065 . . . . {for motorcycles or squads}
+ 2057/02069 . . . {for industrial applications}
+ 2057/02073 . . . . {Reduction gearboxes for industry}
+ 2057/02078 . . . {for wind turbines}
+ 2057/02082 . . . {for application in vehicles other than
+propelling, e.g. adjustment of parts}
+ 2057/02086 . . {Measures for reducing size of gearbox, e.g. for
+creating a more compact transmission casing}
+14Details of gearing or mechanisms
+ 2057/02091 . . {Measures for reducing weight of gearbox (by
+using particular materials F16H 57/032)}
+ 2057/02095 . . {Measures for reducing number of parts or
+   57/021   . . Shaft support structures, e.g. partition walls,
+bearing eyes, casing walls or covers with bearings
+ 2057/0213  . . . {Support of worm gear shafts}
+ 2057/0216  . . . {Intermediate shaft supports, e.g. by using a
+   57/022   . . . Adjustment of gear shafts or bearings (for
+compensating misalignment of axes of toothed
+gearings without orbital motion F16H 1/26;
+for compensating misalignment of axes of
+ 2057/0221  . . . . {Axial adjustment}
+ 2057/0222  . . . . {Lateral adjustment}
+ 2057/0224  . . . . . {using eccentric bushes}
+ 2057/0225  . . . . {with means for adjusting alignment}
+ 2057/0227  . . . . {Assembly method measuring first
+tolerances or position and selecting mating
+parts accordingly, e.g. special sized shims for
+ 2057/0228  . . . . {Mounting with rough tolerances and fine
+   57/023   . . Mounting or installation of gears or shafts in the
+gearboxes, e.g. methods or means for assembly
+ 2057/0235  . . . {specially adapted to allow easy accessibility
+and repair (using repair kits F16H 2057/0068)}
+   57/025   . . Support of gearboxes, e.g. torque arms, or
+   57/027   . . characterised by means for venting gearboxes,
+   57/028   . . characterised by means for reducing vibration or
+   57/029   . . characterised by means for sealing the gearboxes,
+   57/03    . . characterised by means for reinforcing gearboxes,
+   57/031   . . characterised by covers or lids for gearboxes
+   57/032   . . characterised by the materials used
+ 2057/0325  . . {Moulded casings made from plastic}
+   57/033   . . Series gearboxes, e.g. gearboxes based on the
+same design being available in different sizes
+or gearboxes using a combination of several
+ 2057/0335  . . . {Series transmissions of modular design, e.g.
+providing for different transmission ratios or
+   57/035   . . Gearboxes for gearing with endless flexible
+   57/037   . . Gearboxes for accommodating differential
+gearings (rotating cases for differential gearings
+   57/038   . . Gearboxes for accommodating bevel gears
+   57/039   . . Gearboxes for accommodating worm gears
+   57/04    . Features relating to lubrication or cooling {or
+heating}({in hydrokinetic gearing F16H 41/30; }
+control of lubrication or cooling in hydrostatic
+   57/0401  . . {using different fluids, e.g. a traction fluid for
+traction gearing and a lubricant for bearings or
+   57/0402  . . {Cleaning of lubricants, e.g. filters or magnets}
+   57/0404  . . . {Lubricant filters}
+   57/0405  . . {Monitoring quality of lubricant or hydraulic
+   57/0406  . . {Absorption elements for lubricants, e.g. oil felts}
+   57/0408  . . {Exchange, draining or filling of transmission
+   57/0409  . . {characterised by the problem to increase
+efficiency, e.g. by reducing splash losses}
+   57/041   . . {Coatings or solid lubricants, e.g. antiseize layers
+   57/0412  . . {Cooling or heating; Control of temperature}
+   57/0413  . . . {Controlled cooling or heating of lubricant;
+   57/0415  . . . {Air cooling or ventilation; Heat exchangers;
+   57/0416  . . . . {Air cooling or ventilation}
+   57/0417  . . . . {Heat exchangers adapted or integrated in
+   57/0419  . . . . {Thermal insulations}
+   57/042   . . {Guidance of lubricant}
+   57/0421  . . . {on or within the casing, e.g. shields or baffles
+for collecting lubricant, tubes, pipes, grooves,
+   57/0423  . . . . {Lubricant guiding means mounted or
+supported on the casing, e.g. shields or
+baffles for collecting lubricant, tubes or pipes
+(means for guiding lubricant into an axial
+channel of a shaft F16H 57/0426; lubrication
+by injection, injection nozzles or tubes
+   57/0424  . . . . {Lubricant guiding means in the wall
+of or integrated with the casing, e.g.
+grooves, channels, holes (means for guiding
+lubricant into an axial channel of a shaft
+   57/0426  . . . . {Means for guiding lubricant into an axial
+   57/0427  . . . {on rotary parts, e.g. using baffles for
+collecting lubricant by centrifugal force}
+   57/0428  . . . . {Grooves with pumping effect for supplying
+   57/043   . . . {within rotary parts, e.g. axial channels or
+   57/0431  . . . . {Means for guiding lubricant directly onto a
+tooth surface or to foot areas of a gear, e.g.
+by holes or grooves in a tooth flank}
+   57/0432  . . . {Lubricant guiding means on or inside shift
+rods or shift forks (shift rods or shift forks to be
+lubricated, cooled or heated F16H 57/0468)}
+   57/0434  . . {relating to lubrication supply, e.g. pumps
+(arrangement of pumps F16H 57/0441); Pressure
+control (grooves with pumping effect for
+supplying lubricant F16H 57/0428; generation
+and variation of line pressure for transmission
+   57/0435  . . . {Pressure control for supplying lubricant;
+   57/0438  . . . . {Pumps of jet type, e.g. jet pumps with
+means to inject high pressure fluid to the
+suction area thereby supercharging the pump
+15Details of gearing or mechanisms
+   57/0439  . . . . {using multiple pumps with different power
+sources or a single pump with different
+power sources, e.g. one and the same pump
+may selectively be driven by either the
+   57/0441  . . . {Arrangements of pumps}
+   57/0442  . . . {for supply in case of failure, i.e. auxiliary
+   57/0443  . . . {for supply of lubricant during tilt or high
+acceleration, e.g. problems related to the tilt
+or extreme acceleration of the transmission
+casing and the supply of lubricant under these
+   57/0445  . . . {for supply of different gearbox casings or
+   57/0446  . . . {the supply forming part of the transmission
+control unit, e.g. for automatic transmissions}
+   57/0447  . . {Control of lubricant levels, e.g. lubricant level
+control dependent on temperature}
+   57/0449  . . . {Sensors or indicators for controlling the fluid
+   57/045   . . {Lubricant storage reservoirs, e.g. reservoirs in
+addition to a gear sump for collecting lubricant in
+   57/0453  . . . {Section walls to divide a gear sump}
+   57/0454  . . . {Sealings between different partitions of a
+gearing or to a reservoir (means for sealing
+   57/0456  . . {Lubrication by injection; Injection nozzles
+or tubes therefor (oil mist or spray lubrication
+   57/0457  . . {Splash lubrication (characterised by the
+problem reducing losses, e.g. splash losses
+   57/0458  . . {Oil-mist or spray lubrication; Means to reduce
+foam formation (reducing foam formation by
+   57/046   . . . {Oil-mist or spray lubrication}
+   57/0461  . . . {Means to reduce foam formation}
+   57/0463  . . {Grease lubrication; Drop-feed lubrication}
+   57/0464  . . . {Grease lubrication}
+   57/0465  . . . {Drop-feed lubrication}
+   57/0467  . . {Elements of gearings to be lubricated, cooled or
+   57/0468  . . . {Shift rods or shift forks}
+   57/0469  . . . {Bearings or seals}
+   57/0473  . . . {Friction devices, e.g. clutches or brakes}
+   57/0475  . . . {Engine and gearing, i.e. joint lubrication or
+cooling or heating thereof (electric machines
+   57/0476  . . . {Electric machines and gearing, i.e. joint
+lubrication or cooling or heating thereof}
+   57/0478  . . . {Synchromesh devices}
+   57/0479  . . . {Gears or bearings on planet carriers}
+   57/048   . . {Type of gearings to be lubricated, cooled or
+   57/0482  . . . {Gearings with gears having orbital motion}
+   57/0483  . . . . {Axle or inter-axle differentials}
+   57/0484  . . . . {with variable gear ratio or for reversing
+   57/0486  . . . . {with fixed gear ratio (differentials
+   57/0487  . . . {Friction gearings}
+   57/0489  . . . . {with endless flexible members, e.g. belt
+   57/049   . . . . {of the toroid type}
+   57/0491  . . . . {of the cone ring type}
+   57/0493  . . . {Gearings with spur or bevel gears
+(differentials with spur or bevel gears
+   57/0494  . . . . {with variable gear ratio or for reversing
+   57/0495  . . . . {with fixed gear ratio}
+   57/0497  . . . {Screw mechanisms}
+   57/0498  . . . {Worm gearings}
+   57/08    . of gearings with members having orbital motion
+   57/082   . . {Planet carriers}
+ 2057/085   . . {Bearings for orbital gears}
+ 2057/087   . . {Arrangement and support of friction devices in
+planetary gearings, e.g. support of clutch drums,
+stacked arrangements of friction devices (see
+also arrangements for shifting planetary gears
+   57/10    . . Braking arrangements
+   57/12    . Arrangements for adjusting or for taking-up
+backlash not provided for elsewhere
+ 2057/121   . . {using parallel torque paths and means to twist
+the two path against each other}
+ 2057/122   . . . {by using two independent drive sources, e.g.
+ 2057/123   . . {using electric control means}
+ 2057/125   . . {Adjustment of backlash during mounting or
+ 2057/126   . . {Self-adjusting during operation, e.g. by a spring}
+ 2057/127   . . . {using springs}
+ 2057/128   . . {using axial positioning of gear wheel with
+addendum modification on gear width, i.e.
+backlash is compensated by axial positioning of a
+Control of gearings conveying rotary motion
+1. Attention is drawn to the Notes after the title of subclass B60W.
+2. In groups F16H 59/00 - F16H 63/00, clutches positioned within a
+gearbox are considered as comprising part of the gearings.
+3. In groups F16H 59/00 - F16H 63/00, the following terms or
+expressions are used with the meaning indicated:
+• "final output element" means the final element which is
+moved to establish a gear ratio, i.e. which achieves the  linking
+between two power transmission means, e.g. reverse  idler
+gear, gear cluster, coupling sleeve, apply piston  of a hydraulic
+• "mechanism" means a kinematic chain consisting either of
+a  single element or alternatively of a series of elements,
+the position of each point on the kinematic chain being
+derivable from the position of any other point on the chain,  and
+therefore, for a given position of a point on one of  the elements
+forming the kinematic chain there is only one  position for
+each of the other points on the elements  forming the kinematic
+• "final output mechanism" means the mechanism which
+includes  the final output element;
+16Control of gearings conveying rotary motion
+• "actuating mechanism" means the mechanism, the movement
+of  which causes the movement of another mechanism by being
+• "final actuating mechanism" means the mechanism actuating
+• {"mechanical force" means the force transmitted by an
+actuating mechanism or the human body}
+4. Combinations of features individually covered by group
+F16H 61/00 and one or both of groups F16H 59/00 and
+F16H 63/00 are classified in group F16H 61/00.
+5. Combinations of features individually covered by groups
+F16H 59/00 and F16H 63/00 are classified in group F16H 63/00.
+6. When classifying in groups F16H 59/00 - F16H 63/00, control
+inputs or types of gearing, which are not identified by the
+preceding notes concerning combinations, and which are
+considered to represent information of interest for search, may
+also be classified. Such non-obligatory classification should be
+given as "additional information", e.g. selected from subgroup
+F16H 61/66 relating to the type of gearing controlled or from
+group F16H 59/00 relating to control inputs
+   59/00    Control inputs to {control units of} change-speed-,
+or reversing-gearings for conveying rotary motion
+ 2059/003   . {Detecting or using driving style of a driver, e.g. for
+ 2059/006   . {Overriding automatic control}
+   59/02    . Selector apparatus
+Selection apparatus of general applicability or of
+interest apart from its use in control of gearings
+conveying rotary motion is also classified in
+   59/0204  . . {for automatic transmissions with means for
+range selection and manual shifting, e.g. range
+   59/0208  . . {with means for suppression of vibrations or
+   59/0213  . . {with sealing means, e.g. against entry of dust}
+   59/0217  . . {with electric switches or sensors not for gear
+or range selection, e.g. for controlling auxiliary
+devices (for gear selection F16H 59/044; for
+ 2059/0221  . . {for selecting modes, i.e. input device (for
+selecting between different modes with range
+selector F16H 2059/082; for conjoint control
+ 2059/0226  . . . {for selecting particular shift speeds, e.g. a fast
+shift speed with aggressive gear change}
+ 2059/023   . . {Selectors for gearings using voice control (for
+ 2059/0234  . . {Selectors for gearings using foot control}
+ 2059/0239  . . {Up- and down-shift or range or mode selection
+by repeated movement (mechanical step by step
+ 2059/0243  . . . {with push buttons, e.g. shift buttons arranged
+on steering wheel (range selection with push
+ 2059/0247  . . . {with lever or paddle behind steering wheel}
+ 2059/0252  . . {with means for initiating skip or double gear
+shifts, e.g. by moving selection lever beyond a
+ 2059/0256  . . {Levers for forward-reverse selection only, e.g.
+for working machines having a separate lever for
+switching between forward and reverse mode}
+ 2059/026   . . {Details or special features of the selector casing
+or lever support (for mechanical gear shifting
+ 2059/0265  . . . {Selector lever support with pivot axis offset,
+e.g. support by four bar linkage to create
+pivoting centre outside the mechanism}
+ 2059/0269  . . . {Ball joints or spherical bearings for supporting
+ 2059/0273  . . . {Cardan or gimbal type joints for supporting
+   59/0278  . . {Constructional features of the selector lever, e.g.
+grip parts, mounting or manufacturing}
+ 2059/0282  . . . {Lever handles with lock mechanisms, e.g. for
+allowing selection of reverse gear or releasing
+ 2059/0286  . . . {with range or splitter selector on selector
+ 2059/0291  . . {comprising safety means for preventing injuries
+ 2059/0295  . . {with mechanisms to return lever to neutral or
+datum position, e.g. by return springs}
+   59/04    . . Ratio selector apparatus
+   59/041   . . . {consisting of a final output mechanism,
+e.g. ratio selector being directly linked to a
+   59/042   . . . {comprising a final actuating mechanism
+(multiple final output mechanism in a gearbox
+   59/044   . . . {consisting of electrical switches or sensors
+(range selectors with electric switches or
+   59/045   . . . {consisting of fluid valves}
+ 2059/047   . . . {with essentially straight linear movement for
+gear selection, e.g. straight selection movement
+using detent mechanism for improving feeling
+(up-down shift by repeated movements
+ 2059/048   . . . {with means for unlocking select or shift
+movement to allow access to reverse gear
+position (particular details of the lever handle
+   59/06    . . . the ratio being infinitely variable
+ 2059/065   . . . . {Inching pedals for setting the ratio of an
+   59/08    . . Range selector apparatus
+ 2059/081   . . . {using knops or discs for rotary range
+ 2059/082   . . . {with different modes}
+ 2059/083   . . . . {Overdrive or overdrive cut-off}
+ 2059/084   . . . . {Economy mode}
+ 2059/085   . . . . {Power mode}
+ 2059/086   . . . . {Adaptive mode, e.g. learning from the
+ 2059/087   . . . . {Winter mode, e.g. to start on snow or
+ 2059/088   . . . {Fast forward-reverse-sequence mode}
+   59/10    . . . comprising levers
+   59/105   . . . . {consisting of electrical switches or sensors}
+   59/12    . . . comprising push button devices
+   59/14    . Inputs being a function of torque or torque demand
+   59/141   . . {of rate of change of torque or torque demand}
+ 2059/142   . . {of driving resistance calculated from weight,
+17Control of gearings conveying rotary motion
+ 2059/144   . . {characterised by change between positive
+and negative drive line torque, e.g. torque
+changes when switching between coasting and
+ 2059/145   . . {being a function of power demand of auxiliary
+ 2059/147   . . {Transmission input torque, e.g. measured or
+ 2059/148   . . {Transmission output torque, e.g. measured or
+estimated torque at output drive shaft}
+   59/16    . . Dynamometric measurement of torque
+   59/18    . . dependent on the position of the accelerator pedal
+ 2059/183   . . . {Rate of change of accelerator position, i.e.
+pedal or throttle change gradient}
+   59/22    . . . Idle position
+   59/24    . . dependent on the throttle opening
+   59/26    . . dependent on pressure
+   59/28    . . . Gasifier pressure in gas turbines
+   59/30    . . . Intake manifold vacuum
+   59/32    . . . Supercharger pressure in internal combustion
+   59/34    . . dependent on fuel feed
+   59/36    . Inputs being a function of speed
+ 2059/363   . . {Rate of change of input shaft speed, e.g. of
+ 2059/366   . . {Engine or motor speed}
+   59/38    . . of gearing elements
+ 2059/385   . . . {Turbine speed}
+   59/40    . . . Output shaft speed
+ 2059/405   . . . {Rate of change of output shaft speed or
+   59/42    . . . Input shaft speed
+ 2059/425   . . . . {Rate of change of input or turbine shaft
+   59/44    . . dependent on machine speed of the machine, {e.g.
+ 2059/443   . . . {Detecting travel direction, e.g. the forward or
+reverse movement of the vehicle}
+ 2059/446   . . . {Detecting vehicle stop, i.e. the vehicle is at
+stand still, e.g. for engaging parking lock}
+   59/46    . . dependent on a comparison between speeds
+ 2059/462   . . . {Detecting synchronisation, i.e. speed
+difference is approaching zero}
+ 2059/465   . . . {Detecting slip, e.g. clutch slip ratio}
+ 2059/467   . . . . {of torque converter}
+   59/48    . Inputs being a function of acceleration
+   59/50    . Inputs being a function of the status of the machine,
+e.g. position of doors or safety belts
+ 2059/503   . . {Axle-load distribution}
+   59/52    . . dependent on the weight of the machine, e.g.
+change in weight resulting from passengers
+ 2059/525   . . . {the machine undergoing additional towing
+load, e.g. by towing a trailer}
+   59/54    . . dependent on signals from the brakes, e.g.
+   59/56    . . dependent on signals from the main clutch
+   59/58    . . dependent on signals from the steering
+   59/60    . Inputs being a function of ambient conditions
+ 2059/605   . . {Traffic stagnation information, e.g. traffic jams}
+   59/62    . . Atmospheric pressure
+   59/64    . . Atmospheric temperature
+   59/66    . . Road conditions, e.g. slope, slippery
+ 2059/666   . . . {Determining road conditions by using vehicle
+location or position, e.g. from global navigation
+   59/68    . Inputs being a function of gearing status
+ 2059/6807  . . {Status of gear-change operation, e.g. clutch fully
+ 2059/6815  . . {Post shift value of gearing, i.e. calculated or
+estimated parameters after shift is completed, e.g.
+estimated output torque after shift is performed}
+ 2059/6823  . . {Sensing neutral state of the transmission}
+ 2059/683   . . {Sensing pressure in control systems or in fluid
+controlled devices, e.g. by pressure sensors (for
+hydrostatic transmissions F16H 2059/6861)}
+ 2059/6838  . . {Sensing gearing status of hydrostatic
+ 2059/6846  . . . {the flow in hydrostatic transmissions circuits,
+e.g. high, low or differential pressures}
+ 2059/6853  . . . {the state of the transmission units, i.e. motor
+or pump capacity, e.g. for controlled shifting of
+ 2059/6861  . . . {the pressures, e.g. high, low or differential
+ 2059/6869  . . . {the pump speed}
+ 2059/6876  . . . {the motor speed}
+ 2059/6884  . . . {Sensing or calculating the pump torque}
+ 2059/6892  . . . {Sensing or calculating the motor torque}
+   59/70    . . dependent on the ratio established
+ 2059/702   . . . {Rate of change of gear ratio, e.g. for triggering
+ 2059/704   . . . {Monitoring gear ratio in CVT's}
+ 2059/706   . . . {Monitoring gear ratio in stepped
+transmissions, e.g. by calculating the ratio from
+ 2059/708   . . . {Sensing reverse gear, e.g. by a reverse gear
+   59/72    . . dependent on oil characteristics, e.g. temperature,
+ 2059/725   . . . {Sensing or calculating temperature of friction
+devices, e.g. clutches to prevent overheating of
+   59/74    . Inputs being a function of engine parameters
+ 2059/743   . . {using engine performance or power for
+control of gearing (transmission input torque
+ 2059/746   . . {Engine running state, e.g. on-off of ignition
+   59/76    . . Number of cylinders operating
+   61/00    Control functions within {control units of} change-
+speed- or reversing-gearings for conveying rotary
+motion {; Control of exclusively fluid gearing,
+friction gearing, gearings with endless flexible
+members or other particular types of gearing}
+   61/0003  . {Arrangement or mounting of elements of the
+control apparatus, e.g. valve assemblies or
+snapfittings of valves; Arrangements of the control
+unit on or in the transmission gearbox}
+18Control of gearings conveying rotary motion
+   61/0006  . . {Electronic control units for transmission control,
+e.g. connectors, casings or circuit boards}
+   61/0009  . . {Hydraulic control units for transmission control,
+e.g. assembly of valve plates or valve units}
+ 2061/0012  . {Transmission control for optimising power output
+ 2061/0015  . {Transmission control for optimising fuel
+ 2061/0018  . {Transmission control for optimising exhaust
+   61/0021  . {Generation or control of line pressure}
+   61/0025  . . {Supply of control fluid; Pumps therefore}
+   61/0028  . . . {using a single pump driven by different power
+   61/0031  . . . {using auxiliary pumps, e.g. pump driven by a
+different power source than the engine}
+ 2061/0034  . . {Accumulators for fluid pressure supply; Control
+ 2061/0037  . . {characterised by controlled fluid supply to
+lubrication circuits of the gearing (see also
+lubrication control F16H 57/0446)}
+ 2061/004   . {Venting trapped air from hydraulic systems
+(venting of hydrostatic transmissions
+F16H 61/4174; deaeration or removal of unsolved
+ 2061/0043  . {Cleaning of hydraulic parts, e.g. removal of an
+ 2061/0046  . {Details of fluid supply channels, e.g. within shafts,
+for supplying friction devices or transmission
+ 2061/005   . {Supply of electric power, e.g. batteries for back up
+ 2061/0053  . {Initializing the parameters of the controller}
+ 2061/0056  . {Powering down of the controller}
+   61/0059  . {Braking of gear output shaft using simultaneous
+engagement of friction devices applied for different
+ 2061/0062  . {Modifying an existing transmission control from a
+manufacturer for improvement or adaptation, e.g. by
+replacing a valve or an electric part}
+ 2061/0065  . {Modifying or tuning an existing transmission
+control for racing, e.g. adaptation of valves for very
+ 2061/0068  . {Method or means for testing of transmission
+ 2061/0071  . . {Robots or simulators for testing control
+functions in automatic transmission (testing of
+ 2061/0075  . {characterised by a particular control method}
+ 2061/0078  . . {Linear control, e.g. PID, state feedback or
+ 2061/0084  . . {Neural networks}
+ 2061/0087  . . {Adaptive control, e.g. the control parameters
+ 2061/009   . . {using formulas or mathematic relations for
+ 2061/0093  . . {using models to estimate the state of the
+ 2061/0096  . . {using a parameter map}
+   61/02    . characterised by the signals used {(for shift
+actuators F16H 61/28, for continuously variable
+1. Control units where gearshift is controlled by an
+electric circuit, are classified in F16H 61/0202
+2. Control units where gearshift is controlled
+by hydraulic signals and a subfunction, e.g.
+kickdown, is controlled by an electric circuit, are
+classified in F16H 61/0262 with indexing of the
+   61/0202  . . {the signals being electric (F16H 61/04 takes
+   61/0204  . . . {for gearshift control, e.g. control functions
+for performing shifting or generation of shift
+   61/0206  . . . . {Layout of electro-hydraulic control circuits,
+e.g. arrangement of valves (for control of
+actuators selecting and moving final output
+members, e.g. shift forks F16H 61/2807)}
+ 2061/0209  . . . . . {with independent solenoid valves
+modulating the pressure individually for
+   61/0211  . . . . . {characterised by low integration or small
+   61/0213  . . . . {characterised by the method for generating
+ 2061/0216  . . . . . {Calculation or estimation of post shift
+values for different gear ratios, e.g. by
+using engine performance tables}
+ 2061/0218  . . . . . {Calculation or estimation of the available
+ratio range, i.e. possible gear ratios, e.g.
+for prompting a driver with a display}
+ 2061/022   . . . . . {Calculation or estimation of optimal gear
+ratio, e.g. best ratio for economy drive or
+performance according driver preference,
+or to optimise exhaust emissions}
+ 2061/0223  . . . . . {Generating of new shift maps, i.e.
+methods for determining shift points for a
+schedule by taking into account driveline
+ 2061/0225  . . . . . {Modifying of shift maps by manual
+control, e.g. by learning values from the
+driver during manual shift mode}
+ 2061/0227  . . . . . {Shift map selection, i.e. methods for
+controlling selection between different
+shift maps, e.g. to initiate switch to a map
+ 2061/023   . . . . . {Drive-off gear selection, i.e. optimising
+gear ratio for drive off of a vehicle}
+ 2061/0232  . . . . . {Selecting ratios for bringing engine into a
+particular state, e.g. for fast warming up or
+for reducing exhaust emissions}
+ 2061/0234  . . . . . {Adapting the ratios to special vehicle
+ 2061/0237  . . . . . . {Selecting ratios for providing engine
+ 2061/0239  . . . . . . {Selecting ratios for preventing or
+ 2061/0241  . . . . . {Adapting the ratio to special transmission
+conditions, e.g. shifts during warming up
+phase of transmission when fluid viscosity
+19Control of gearings conveying rotary motion
+ 2061/0244  . . . . . {Adapting the automatic ratio to direct
+driver requests, e.g. manual shift signals or
+   61/0246  . . . . {characterised by initiating reverse gearshift}
+   61/0248  . . . {Control units where shifting is directly
+initiated by the driver, e.g. semi-automatic
+transmissions (generation of movements for
+final actuating mechanisms F16H 61/28)}
+   61/0251  . . . {Elements specially adapted for electric control
+units, e.g. valves for converting electrical
+ 2061/0253  . . . . {Details of electro hydraulic valves, e.g.
+lands, ports, spools or springs}
+ 2061/0255  . . . . {Solenoid valve using PWM or duty-cycle
+ 2061/0258  . . . . {Proportional solenoid valve}
+ 2061/026   . . . . {On-off solenoid valve}
+   61/0262  . . {the signals being hydraulic (F16H 61/04 takes
+   61/0265  . . . {for gearshift control, e.g. control functions
+for performing shifting or generation of shift
+   61/0267  . . . . {Layout of hydraulic control circuits,
+e.g. arrangement of valves (for control of
+actuators selecting and moving final output
+members, e.g. shift forks F16H 61/30)}
+   61/0269  . . . . . {characterised by low integration or small
+   61/0272  . . . . {characterised by initiating reverse gearshift}
+   61/0274  . . . {Control units where shifting is directly
+initiated by the driver, e.g. semi-automatic
+transmissions (generation of movements for
+final actuating mechanisms F16H 61/28)}
+   61/0276  . . . {Elements specially adapted for hydraulic
+ 2061/0279  . . . . {Details of hydraulic valves, e.g. lands,
+ 2061/0281  . . . . {Rotary shift valves, e.g. with a rotary
+moveable spool for supply of fluid to
+   61/0283  . . . . {Governor valves}
+   61/0286  . . . . {Manual valves}
+ 2061/0288  . . . . {Relay valve, e.g. valve arranged between
+   61/029   . . . . {Throttle valves}
+   61/0293  . . {the signals being purely mechanical}
+   61/0295  . . . {Automatic gear shift control, e.g. initiating
+   61/0297  . . . {Gear shift control where shifting is directly
+initiated by the driver, e.g. semi-automatic
+   61/04    . Smoothing ratio shift
+   61/0403  . . {Synchronisation before shifting}
+ 2061/0407  . . . {by control of clutch in parallel torque path}
+ 2061/0411  . . . {by control of shaft brakes}
+ 2061/0414  . . . {by retarder control}
+ 2061/0418  . . . {by using different synchronisation devices
+simultaneously, e.g. for faster synchronisation}
+ 2061/0422  . . . {by an electric machine, e.g. by accelerating or
+ 2061/0425  . . {Bridging torque interruption}
+ 2061/0429  . . . {by torque supply with a clutch in parallel
+ 2061/0433  . . . {by torque supply with an electric motor}
+   61/0437  . . {by using electrical signals (F16H 61/0403 and
+ 2061/044   . . {when a freewheel device is disengaged or
+ 2061/0444  . . {during fast shifting over two gearsteps, e.g.
+jumping from fourth to second gear}
+ 2061/0448  . . . {using a particular sequence of gear ratios or
+ 2061/0451  . . {during swap-shifts, i.e. gear shifts between
+different planetary units, e.g. with double
+transitions shift involving three or more friction
+ 2061/0455  . . {during shifts involving three or more shift
+members, e.g. release of 3-4 clutch, 2-4 brake and
+ 2061/0459  . . {using map for shift parameters, e.g. shift
+time, slip or pressure gradient, for performing
+controlled shift transition and adapting shift
+ 2061/0462  . . {by controlling slip rate during gear shift
+ 2061/0466  . . {Smoothing shift shock by apply or release of
+band brake servos, e.g. overlap control of band
+brake and a clutch or vice versa}
+ 2061/047   . . {by preventing or solving a tooth butt situation
+upon engagement failure due to misalignment of
+ 2061/0474  . . {by smoothing engagement or release of positive
+clutches; Methods or means for shock free
+engagement of dog clutches (for tooth butt
+ 2061/0477  . . {by suppression of excessive engine flare or
+turbine racing during shift transition (engine flare
+caused by lock-up release F16H 61/143)}
+ 2061/0481  . . {during range shift from drive (D) or reverse (R)
+ 2061/0485  . . {during range shift from neutral (N) to reverse
+ 2061/0488  . . {during range shift from neutral (N) to drive (D)}
+ 2061/0492  . . {for high engine torque, e.g. during acceleration
+ 2061/0496  . . {for low engine torque, e.g. during coasting,
+   61/06    . . by controlling rate of change of fluid pressure
+   61/061   . . . {using electric control means}
+ 2061/062   . . . . {for controlling filling of clutches or brake
+servos, e.g. fill time, fill level or pressure
+ 2061/064   . . . . {for calibration of pressure levels for friction
+members, e.g. by monitoring the speed
+   61/065   . . . {using fluid control means}
+   61/067   . . . . {using an accumulator}
+   61/068   . . . . {using an orifice control valve (F16H 61/067
+ 2061/085   . . . {Timing of auxiliary gear shifts}
+   61/10    . Controlling shift hysteresis
+   61/12    . Detecting malfunction or potential malfunction,
+e.g. fail safe (in control of hydrostatic gearing
+F16H 61/4192); {Circumventing or fixing failures}
+20Control of gearings conveying rotary motion
+ 2061/1204  . . {for malfunction caused by simultaneous
+engagement of different ratios resulting in
+transmission lock state or tie-up condition (lock
+state for braking F16H 61/0059)}
+ 2061/1208  . . {with diagnostic check cycles; Monitoring of
+ 2061/1212  . . . {Plausibility checks; Counting means for
+ 2061/1216  . . . {Display or indication of detected failures}
+ 2061/122   . . {Avoiding failures by using redundant parts}
+ 2061/1224  . . {Adapting to failures or work around with other
+constraints, e.g. circumvention by avoiding use of
+ 2061/1228  . . {Fixing failures by repairing failed parts, e.g.
+ 2061/1232  . . {Bringing the control into a predefined state,
+e.g. giving priority to particular actuators or gear
+ 2061/1236  . . . {using fail priority valves}
+ 2061/124   . . {Limiting the input power, torque or speed}
+ 2061/1244  . . {Keeping the current state}
+ 2061/1248  . . {Resuming normal operation}
+ 2061/1252  . . {Fail safe valves (fail priority valves
+ 2061/1256  . . {characterised by the parts or units where
+malfunctioning was assumed or detected}
+ 2061/126   . . . {the failing part is the controller}
+ 2061/1264  . . . . {Hydraulic parts of the controller, e.g. a
+sticking valve or clogged channel}
+ 2061/1268  . . . . {Electric parts of the controller, e.g. a defect
+solenoid, wiring or microprocessor}
+ 2061/1272  . . . {the failing part is a part of the final output
+mechanism, e.g. shift rods or forks}
+ 2061/1276  . . . {the failing part is a friction device, e.g.
+ 2061/128   . . . . {the main clutch}
+ 2061/1284  . . . {the failing part is a sensor}
+ 2061/1288  . . . {the failing part is an actuator}
+ 2061/1292  . . . {the failing part is the power supply, e.g. the
+ 2061/1296  . . . {the failing part is an electric machine forming
+   61/14    . Control of torque converter lock-up clutches
+   61/141   . . {using means only actuated by centrifugal force}
+   61/142   . . . {the means being hydraulic valves}
+   61/143   . . {using electric control means}
+ 2061/145   . . . {for controlling slip, e.g. approaching target
+ 2061/146   . . . {for smoothing gear shift shock}
+ 2061/147   . . . {during engine braking, e.g. to attenuate gear
+clunk when torque direction is changed}
+   61/148   . . {using mechanical control means}
+   61/16    . Inhibiting {or initiating} shift during unfavourable
+conditions, {e.g. preventing forward reverse shift
+at high vehicle speed, preventing engine over speed
+(unintentional control input F16H 61/18)}
+ 2061/161   . . {by checking feasibility of shifts, i.e. determine if
+requested shift can be successfully completed and
+post shift values are in an acceptable range}
+ 2061/163   . . {Holding the gear for delaying gear shifts under
+unfavorable conditions, e.g. during cornering}
+ 2061/165   . . {Preventing reverse gear shifts if vehicle speed is
+ 2061/166   . . {Preventing or initiating shifts for preventing stall
+ 2061/168   . . {Forced shifts into neutral for safety reasons,
+e.g. in case of transmission failure or emergency
+   61/18    . Preventing unintentional or unsafe shift {, e.g.
+preventing manual shift from highest gear to reverse
+ 2061/185   . . {Means, e.g. catches or interlocks, for preventing
+unintended shift into reverse gear}
+   61/20    . Preventing gear creeping {; Transmission control
+during standstill, e.g. hill hold control}
+ 2061/202   . . {Active creep control for slow driving, e.g. by
+ 2061/205   . . {Hill hold control, e.g. with torque converter or
+a friction device slightly engaged to keep vehicle
+ 2061/207   . . {by neutral control}
+   61/21    . Providing engine brake control
+ 2061/213   . . {for emergency braking, e.g. for increasing brake
+ 2061/216   . . {by using exhaust brakes}
+   61/22    . Locking {of the control input devices}
+(constructional features of locking or disabling
+ 2061/223   . . {Electrical gear shift lock, e.g. locking of lever in
+park or neutral position by electric means if brake
+is not applied; Key interlock, i.e. locking the key
+if lever is not in park position}
+ 2061/226   . . {Manual distress release of the locking means for
+shift levers, e.g. to allow towing of vehicle in case
+of breakdown (for parking locks F16H 63/3491)}
+   61/24    . Providing feel, e.g. to enable selection
+ 2061/241   . . {Actuators providing feel or simulating a
+shift gate, i.e. with active force generation for
+providing counter forces for feed back}
+ 2061/242   . . {Mechanical shift gates or similar guiding means
+ 2061/243   . . {Cams or detent arrays for guiding and providing
+ 2061/245   . . {Ramp contours for generating force threshold,
+e.g. cams or pushers for generating additional
+ 2061/246   . . {Additional mass or weight on shift linkage for
+ 2061/247   . . {Detents for range selectors}
+ 2061/248   . . {with audible signals for providing selection or
+   61/26    . Generation or transmission of movements for final
+1. The generation or transmission of movements
+comprising only the selector apparatus, is
+classified in group F16H 59/00.
+2. The generation or transmission of movements,
+when part of the final output mechanisms, is
+classified in group F16H 63/00.
+   61/28    . . with at least one movement of the final actuating
+mechanism being caused by a non-mechanical
+21Control of gearings conveying rotary motion
+   61/2807  . . . {using electric control signals for shift
+actuators, e.g. electro-hydraulic control
+therefor (F16H 61/30, F16H 61/32 take
+precedence; methods for generating shift
+   61/2815  . . . . {with a control using only relays and
+ 2061/2823  . . . {Controlling actuator force way characteristic,
+i.e. controlling force or movement depending
+on the actuator position, e.g. for adapting force
+to synchronisation and engagement of gear
+ 2061/283   . . . {Adjustment or calibration of actuator
+positions, e.g. neutral position}
+ 2061/2838  . . . {Arrangements with single drive motor for
+selecting and shifting movements, i.e. one
+motor used for generating both movements}
+ 2061/2846  . . . {Arrangements of actuators for enabling jump
+shifting for skipping of gear ratios}
+ 2061/2853  . . . {Electromagnetic solenoids}
+ 2061/2861  . . . {Linear motors}
+ 2061/2869  . . . {Cam or crank gearing}
+ 2061/2884  . . . {Screw-nut devices}
+ 2061/2892  . . . {other gears, e.g. worm gears, for transmitting
+rotary motion to the output mechanism}
+   61/30    . . . Hydraulic {or pneumatic} motors {or related
+ 2061/301   . . . . {for power assistance, i.e. servos with follow
+ 2061/302   . . . . . {with variable force amplification, e.g.
+force is depending on selected gear or on
+actuator force (non-linear amplification)}
+ 2061/304   . . . . {using telemotors, i.e. systems with master
+cylinder and linked shift actuator without
+ 2061/305   . . . . {Accumulators for fluid supply to the servo
+ 2061/307   . . . . {Actuators with three or more defined
+positions, e.g. three position servos}
+ 2061/308   . . . . {Modular hydraulic shift units, i.e.
+preassembled actuator units for select and
+shift movements adapted for being mounted
+   61/32    . . . Electric motors {actuators or related electrical
+ 2061/323   . . . . {for power assistance, i.e. servos with follow
+ 2061/326   . . . . {Actuators for range selection, i.e. actuators
+for controlling the range selector or the
+manual range valve in the transmission}
+   61/34    . . comprising two mechanisms, one for the
+preselection movement, and one for the shifting
+movement (F16H 61/36 takes precedence)
+   61/36    . . with at least one movement being transmitted by
+   61/38    . Control of exclusively fluid gearing
+   61/4008  . . . Control of circuit pressure
+   61/4017  . . . . Control of high pressure, e.g. avoiding
+excess pressure by a relief valve
+   61/4026  . . . . Control of low pressure
+   61/4035  . . . Control of circuit flow
+   61/4043  . . . Control of a bypass valve
+   61/4052  . . . . by using a variable restriction, e.g. an orifice
+   61/4061  . . . Control related to directional control valves,
+e.g. change-over valves, for crossing the
+   61/4069  . . . Valves related to the control of neutral, e.g.
+   61/4078  . . . Fluid exchange between hydrostatic circuits
+and external sources or consumers
+   61/4096  . . . . with pressure accumulators
+   61/4104  . . . . Flushing, e.g. by using flushing valves or by
+   61/4131  . . . . Fluid exchange by aspiration from reservoirs,
+   61/4139  . . . . Replenishing or scavenging pumps, e.g.
+   61/4148  . . . Open loop circuits
+   61/4157  . . . Control of braking, e.g. preventing pump over-
+speeding when motor acts as a pump
+   61/4165  . . . Control of cooling or lubricating
+   61/4174  . . . Control of venting, e.g. removing trapped air
+   61/4183  . . . Preventing or reducing vibrations or noise, e.g.
+   61/4192  . . . Detecting malfunction or potential malfunction,
+   61/42    . . . involving adjustment of a pump or motor with
+adjustable output or capacity {(F16H 61/46
+   61/421   . . . . Motor capacity control by electro-hydraulic
+control means, e.g. using solenoid valves
+   61/423   . . . . Motor capacity control by fluid pressure
+   61/425   . . . . Motor capacity control by electric actuators
+   61/427   . . . . Motor capacity control by mechanical
+control means, e.g. by levers or pedals
+   61/431   . . . . Pump capacity control by electro-hydraulic
+control means, e.g. using solenoid valves
+   61/433   . . . . Pump capacity control by fluid pressure
+   61/435   . . . . Pump capacity control by electric actuators
+   61/437   . . . . Pump capacity control by mechanical control
+means, e.g. by levers or pedals
+   61/438   . . . . Control of forward-reverse switching, e.g.
+control of the swash plate causing discharge
+   61/439   . . . . Control of the neutral position, e.g. by zero
+   61/44    . . . with more than one pump or motor in operation
+   61/444   . . . . by changing the number of pump or motor
+   61/448   . . . . Control circuits for tandem pumps or motors
+   61/452   . . . . Selectively controlling multiple pumps or
+motors, e.g. switching between series or
+   61/456   . . . . Control of the balance of torque or speed
+   61/46    . . . Automatic regulation in accordance with output
+   61/461   . . . . {not involving a variation of the output
+capacity of the main pumps or motors}
+   61/462   . . . . for achieving a target speed ratio
+   61/465   . . . . for achieving a target input speed
+   61/468   . . . . for achieving a target input torque
+   61/47    . . . . for achieving a target output speed
+22Control of gearings conveying rotary motion
+   61/472   . . . . for achieving a target output torque
+   61/475   . . . . for achieving a target power, e.g. input
+   61/478   . . . . for preventing overload, e.g. high pressure
+   61/50    . . . controlled by changing the flow, force, or
+reaction of the liquid in the working circuit,
+while maintaining a completely filled working
+   61/52    . . . . by altering the position of blades
+   61/54    . . . . . by means of axially-shiftable blade runners
+   61/56    . . . . . to change the blade angle
+   61/58    . . . . by change of the mechanical connection of,
+   61/60    . . . . . exclusively by the use of freewheel
+   61/62    . . . . . involving use of a speed-changing gearing
+or of a clutch in the connection between
+runners (F16H 61/60 takes precedence;
+combinations of fluid gearings for
+conveying rotary motion with mechanical
+clutches for bridging a fluid gearing of the
+   61/64    . . . controlled by changing the amount of liquid in
+   61/66    . specially adapted for continuously variable gearings
+(control of exclusively fluid gearing F16H 61/38)
+ 2061/6601  . . {with arrangements for dividing torque and
+shifting between different ranges}
+ 2061/6602  . . {with at least two dynamo-electric machines
+for creating an electric power path inside the
+transmission device, e.g. using generator and
+motor for a variable power torque path}
+ 2061/6603  . . . {characterised by changing ratio in the
+ 2061/6604  . . {Special control features generally applicable to
+continuously variable gearings}
+ 2061/6605  . . . {Control for completing downshift at hard
+ 2061/6607  . . . {Controls concerning lubrication or cooling
+(lubrication features of friction gearings
+ 2061/6608  . . . {Control of clutches, or brakes for forward-
+ 2061/6609  . . . {Control of clutches or brakes in torque split
+ 2061/661   . . . {Conjoint control of CVT and drive clutch}
+ 2061/6611  . . . {Control to achieve a particular driver
+perception, e.g. for generating a shift shock
+ 2061/6612  . . . . {for engine braking}
+ 2061/6614  . . . {Control of ratio during dual or multiple pass
+shifting for enlarged ration coverage}
+ 2061/6615  . . . {Imitating a stepped transmissions}
+ 2061/6616  . . . . {the shifting of the transmission being
+ 2061/6617  . . . {Manual control of CVTs while continuously
+ 2061/6618  . . . {Protecting CVTs against overload by limiting
+clutch capacity, e.g. torque fuse}
+   61/662   . . with endless flexible members
+ 2061/66204 . . . {Control for modifying the ratio control
+ 2061/66209 . . . . {dependent on ambient conditions}
+ 2061/66213 . . . . {dependent on driver's choice}
+ 2061/66218 . . . . {dependent on control input parameters other
+than ambient conditions or driver's choice}
+ 2061/66222 . . . . {the ratio is varied in order to reduce surface
+   61/66227 . . . {controlling shifting exclusively as a function
+   61/66231 . . . {controlling shifting exclusively as a function
+   61/66236 . . . . {using electrical or electronical sensing or
+   61/6624  . . . . {using only hydraulical and mechanical
+   61/66245 . . . . {using purely mechanical sensing or control
+   61/6625  . . . {controlling shifting exclusively as a function
+   61/66254 . . . {controlling of shifting being influenced by a
+signal derived from the engine and the main
+   61/66259 . . . . {using electrical or electronical sensing or
+   61/66263 . . . . {using only hydraulical and mechanical
+   61/66268 . . . . {using purely mechanical sensing or control
+   61/66272 . . . {characterised by means for controlling the
+torque transmitting capability of the gearing}
+ 2061/66277 . . . . {by optimising the clamping force exerted on
+ 2061/66281 . . . . {by increasing the line pressure at the
+occurrence of input torque peak}
+ 2061/66286 . . . {Control for optimising pump efficiency}
+ 2061/6629  . . . {Detection of slip for determining level of
+ 2061/66295 . . . {characterised by means for controlling the
+geometrical interrelationship of pulleys and the
+endless flexible member, e.g. belt alignment or
+position of the resulting axial pulley force in
+the plane perpendicular to the pulley axis}
+   61/664   . . Friction gearings
+ 2061/6641  . . . {Control for modifying the ratio control
+ 2061/6642  . . . . {dependent on ambient conditions}
+ 2061/6643  . . . . {dependent on driver's choice}
+ 2061/6644  . . . . {dependent on control input parameters other
+than ambient conditions or driver's choice}
+   61/6645  . . . {controlling shifting exclusively as a function
+   61/6646  . . . {controlling shifting exclusively as a function
+   61/6647  . . . {controlling shifting exclusively as a function
+   61/6648  . . . {controlling of shifting being influenced by a
+signal derived from the engine and the main
+   61/6649  . . . {characterised by the means for controlling the
+torque transmitting capability of the gearing}
+   61/68    . specially adapted for stepped gearings
+   61/682   . . with interruption of drive
+   61/684   . . without interruption of drive
+   61/686   . . . with orbital gears
+23Control of gearings conveying rotary motion
+   61/688   . . . with two inputs, e.g. selection of one of two
+   61/70    . specially adapted for change-speed gearing in group
+arrangement, i.e. with separate change-speed gear
+trains arranged in series, e.g. range or overdrive-
+   61/702   . . {using electric or electrohydraulic control means}
+   61/705   . . {using hydraulic and mechanical control means}
+   61/707   . . {using only mechanical control means}
+   63/00    Control outputs {from the control unit} to change-
+speed- or reversing-gearings for conveying rotary
+motion {or to other devices than the final output
+ 2063/005   . {Preassembled gear shift units for mounting on gear
+case (for hydraulic shift units F16H 2061/308)}
+   63/02    . Final output mechanisms therefor; Actuating means
+for the final output mechanisms
+ 2063/025   . . {Final output mechanisms for double clutch
+   63/04    . . a single final output mechanism being
+moved by a single final actuating mechanism
+{(constructional features of the final output
+   63/06    . . . the final output mechanism having an indefinite
+   63/062   . . . . {electric or electro-mechanical actuating
+   63/065   . . . . {hydraulic actuating means}
+   63/067   . . . . {mechanical actuating means}
+   63/08    . . Multiple final output mechanisms being moved
+by a single common final actuating mechanism
+{(constructional features of the final output
+   63/10    . . . the final actuating mechanism having a series
+of independent ways of movement, each way of
+movement being associated with only one final
+   63/12    . . . . two or more ways of movement occurring
+   63/14    . . . the final output mechanisms being successively
+actuated by repeated movement of the final
+   63/16    . . . the final output mechanisms being successively
+actuated by progressive movement of the final
+   63/18    . . . . the final actuating mechanism comprising
+   63/20    . . . with preselection and subsequent movement of
+each final output mechanism by movement of
+the final actuating mechanism in two different
+ways, e.g. guided by a shift gate
+ 2063/202   . . . . {using cam plates for selection or shifting,
+e.g. shift plates with recesses or groves
+ 2063/204   . . . . {the gear shift lever being the immediate
+final actuating mechanism, e.g. the shift
+finger being a part of the gear shift lever}
+   63/206   . . . . {the final output mechanisms being mounted
+coaxially on a single shaft, e.g. mono rail
+ 2063/208   . . . . {using two or more selecting fingers}
+   63/22    . . . . the final output mechanisms being
+simultaneously moved by the final actuating
+   63/24    . . each of the final output mechanisms being
+moved by only one of the various final actuating
+mechanisms {(constructional features of the final
+   63/26    . . . some of the movements of the final output
+mechanisms being caused by another final
+   63/28    . . two or more final actuating mechanisms moving
+the same final output mechanism {(constructional
+features of the final output mechanisms
+   63/285   . . . {with a first final actuating member applying
+a force to two or more final output members
+and a second final actuating member locking in
+position another final output member}
+   63/30    . . Constructional features of the final output
+   63/3003  . . . {Band brake actuating mechanisms}
+ 2063/3006  . . . . {moved by a non-mechanical force}
+   63/3009  . . . {the final output mechanisms having elements
+   63/3013  . . . {the final output mechanism being
+characterised by linkages converting
+movement, e.g. into opposite direction by a
+pivoting lever linking two shift rods}
+   63/3016  . . . {Final output mechanisms varying the leverage
+   63/302   . . . {Final output mechanisms for reversing}
+   63/3023  . . . {the final output mechanisms comprising
+elements moved by fluid pressure (band brake
+actuating mechanisms F16H 63/3003)}
+   63/3026  . . . . {comprising friction clutches or brakes (band
+brake actuating mechanisms F16H 63/3003)}
+ 2063/303   . . . . . {the friction member is actuated and
+released by applying pressure to different
+ 2063/3033  . . . . . {the brake is actuated by springs and
+ 2063/3036  . . . . . {the clutch is actuated by springs and
+   63/304   . . . {the final output mechanisms comprising
+elements moved by electrical or magnetic
+force (band brake actuating mechanisms
+   63/3043  . . . . {comprising friction clutches or brakes}
+ 2063/3046  . . . . {using electromagnetic clutch for coupling
+gear wheel to shaft (friction clutches
+ 2063/305   . . . . {using electromagnetic solenoids}
+ 2063/3053  . . . . {using linear motors}
+ 2063/3056  . . . . {using cam or crank gearing}
+ 2063/3059  . . . . {using racks}
+ 2063/3063  . . . . {using screw devices}
+ 2063/3066  . . . . {using worm gears}
+   63/3069  . . . {Interrelationship between two or more final
+output mechanisms (interlocking devices
+ 2063/3073  . . . . {final output mechanisms mounted on a
+ 2063/3076  . . . {Selector shaft assembly, e.g. supporting,
+assembly or manufacturing of selector or shift
+shafts; Special details thereof}
+24Control of gearings conveying rotary motion
+ 2063/3079  . . . {Shift rod assembly, e.g. supporting, assembly
+or manufacturing of shift rails or rods; Special
+ 2063/3083  . . . {Shift finger arrangements, e.g. shape or
+ 2063/3086  . . . {Shift head arrangements, e.g. forms or
+arrangements of shift heads for preselection or
+ 2063/3089  . . . {Spring assisted shift, e.g. springs for
+accumulating energy of shift movement and
+release it when clutch teeth are aligned}
+ 2063/3093  . . . {Final output elements, i.e. the final elements
+to establish gear ratio, e.g. dog clutches or
+other means establishing coupling to shaft
+(fluid actuated clutches F16H 63/3026;
+electromagnetic clutches F16H 2063/3046)}
+ 2063/3096  . . . . {Sliding keys as final output elements;
+   63/32    . . . Gear shift yokes, {e.g. shift forks}
+ 2063/321   . . . . {characterised by the interface between fork
+body and shift rod, e.g. fixing means, bushes,
+ 2063/322   . . . . {characterised by catches or notches for
+ 2063/324   . . . . {characterised by slide shoes, or similar
+means to transfer shift force to sleeve}
+ 2063/325   . . . . {Rocker or swiveling forks, i.e. the forks are
+pivoted in the gear case when moving the
+ 2063/327   . . . . {essentially made of sheet metal}
+ 2063/328   . . . . {essentially made of plastics, e.g. injection
+   63/34    . . . Locking or disabling mechanisms
+   63/3408  . . . . {the locking mechanism being moved by the
+   63/3416  . . . . {Parking lock mechanisms or brakes in the
+   63/3425  . . . . . {characterised by pawls or wheels}
+   63/3433  . . . . . . {Details of latch mechanisms, e.g. for
+keeping pawls out of engagement}
+   63/3441  . . . . . {Parking locks engaging axially}
+   63/345   . . . . . {using friction brakes, e.g. a band brakes}
+   63/3458  . . . . . {with electric actuating means, e.g. shift
+   63/3466  . . . . . . {using electric motors}
+   63/3475  . . . . . . {using solenoids}
+   63/3483  . . . . . {with hydraulic actuating means}
+   63/3491  . . . . . {Emergency release or engagement of
+   63/36    . . . . Interlocking devices
+   63/38    . . . Detents {(spring-loaded ball units for holding
+levers in a limited number of positions
+   63/40    . comprising signals other than signals for actuating
+   63/42    . . Ratio indicator devices
+ 2063/423   . . . {Range indicators for automatic transmissions,
+e.g. showing selected range or mode}
+ 2063/426   . . . {with means for advising the driver for proper
+shift action, e.g. prompting the driver with
+allowable selection range of ratios}
+   63/44    . . Signals to the control unit of auxiliary gearing
+   63/46    . . Signals to a clutch outside the gearbox
+   63/48    . . Signals to a parking brake {or parking lock;
+Control of parking locks or brakes being part of
+   63/483   . . . {Circuits for controlling engagement of parking
+   63/486   . . . {Common control of parking locks or brakes in
+the transmission and other parking brakes, e.g.
+   63/50    . . Signals to an engine or motor
+   63/502   . . . {for smoothing gear shifts}
+ 2063/504   . . . {for bringing engine into special condition by
+transmission control, e.g. by changing torque
+converter characteristic to modify engine
+set point to higher engine speed for better
+ 2063/506   . . . {for engine torque resume after shift transition,
+e.g. a resume adapted to the driving style}
+ 2063/508   . . . {for limiting transmission input torque, e.g. to
+prevent damage of transmission parts}
+ 2200/00    Transmissions for multiple ratios
+ 2200/0004  . comprising a power take off shaft
+ 2200/0008  . specially adapted for front-wheel-driven vehicles
+ 2200/0013  . specially adapted for rear-wheel-driven vehicles
+ 2200/0017  . specially adapted for four-wheel-driven vehicles
+ 2200/0021  . specially adapted for electric vehicles
+ 2200/0026  . comprising at least one creep low gear, e.g.
+additional gear for extra low speed or creeping
+ 2200/003   . characterised by the number of forward speeds
+ 2200/0034  . . the gear ratios comprising two forward speeds
+ 2200/0039  . . the gear ratios comprising three forward speeds
+ 2200/0043  . . the gear ratios comprising four forward speeds
+ 2200/0047  . . the gear ratios comprising five forward speeds
+ 2200/0052  . . the gear ratios comprising six forward speeds
+ 2200/0056  . . the gear ratios comprising seven forward speeds
+ 2200/006   . . the gear ratios comprising eight forward speeds
+ 2200/0065  . . the gear ratios comprising nine forward speeds
+ 2200/0069  . . the gear ratios comprising ten forward speeds
+ 2200/0073  . . the gear ratios comprising eleven forward speeds
+ 2200/0078  . . the gear ratio comprising twelve or more forward
+ 2200/0082  . characterised by the number of reverse speeds
+ 2200/0086  . . the gear ratios comprising two reverse speeds
+ 2200/0091  . . the gear ratios comprising three reverse speeds
+ 2200/0095  . . the gear ratios comprising four reverse speeds
+ 2200/20    . Transmissions using gears with orbital motion
+ 2200/2002  . . characterised by the number of sets of orbital
+ 2200/2005  . . . with one sets of orbital gears
+ 2200/2007  . . . with two sets of orbital gears
+ 2200/201   . . . with three sets of orbital gears
+ 2200/2012  . . . with four sets of orbital gears
+ 2200/2015  . . . with five sets of orbital gears
+ 2200/2017  . . . with six sets of orbital gears
+ 2200/202   . . characterised by the type of Ravigneaux set
+ 2200/2023  . . . using a Ravigneaux set with 4 connections
+ 2200/2025  . . . using a Ravigneaux set with 5 connections
+ 2200/2028  . . . using a Ravigneaux set with 6 connections
+ 2200/203   . . characterised by the engaging friction means not
+of the freewheel type, e.g. friction clutches or
+ 2200/2033  . . . with one engaging means
+ 2200/2035  . . . with two engaging means
+ 2200/2038  . . . with three engaging means
+ 2200/2041  . . . with four engaging means
+ 2200/2043  . . . with five engaging means
+ 2200/2046  . . . with six engaging means
+ 2200/2048  . . . with seven engaging means
+ 2200/2051  . . . with eight engaging means
+ 2200/2053  . . . with nine engaging means
+ 2200/2056  . . . with ten engaging means
+ 2200/2058  . . . with eleven engaging means
+ 2200/2061  . . . with twelve engaging means
+ 2200/2064  . . . using at least one positive clutch, e.g. dog
+ 2200/2066  . . . using one freewheel mechanism
+ 2200/2069  . . . using two freewheel mechanism
+ 2200/2071  . . . using three freewheel mechanism
+ 2200/2074  . . . using four freewheel mechanism
+ 2200/2076  . . . using at least five freewheel mechanism
+ 2200/2079  . . using freewheel type mechanisms, e.g. freewheel
+ 2200/2082  . . . one freewheel mechanisms
+ 2200/2084  . . . two freewheel mechanisms
+ 2200/2087  . . . three freewheel mechanisms
+ 2200/2089  . . . four freewheel mechanisms
+ 2200/2092  . . . at least five freewheel mechanisms
+ 2200/2094  . . using positive clutches, e.g. dog clutches
+ 2200/2097  . . comprising an orbital gear set member
+permanently connected to the housing, e.g. a sun
+wheel permanently connected to the housing
+ 2300/00    Determining of new ratio
+ 2300/02    . Computing a new ratio
+ 2300/14    . Selecting a state of operation, e.g. depending on two
+ 2300/18    . Determining the range
+ 2302/00    Determining the way or trajectory to new
+ratio, e.g. by determining speed, torque or time
+parameters for shift transition
+ 2302/02    . Optimizing the way to the new ratio
+ 2302/04    . Determining a modus for shifting (selection of shift
+ 2302/06    . Determining timing parameters of shifting, e.g. start
+of shifting (for smoothing gear shift F16H 61/08)
+ 2306/14    . Skipping gear shift (for smoothing gear shift
+ 2306/18    . Preparing coupling or engaging of future gear
+ 2306/20    . Timing of gear shifts (for smoothing gear shift
+ 2306/21    . . for auxiliary gear shifts (for smoothing auxiliary
+ 2306/22    . Swap shifting (for smoothing gear shift
+ 2306/24    . Interruption of shift, e.g. if new shift is initiated
+ 2306/30    . characterised by the way or trajectory to a new ratio,
+e.g. by performing shift according to a particular
+algorithm or function (determining the way or
+trajectory to a new ratio F16H 2302/00)
+ 2306/32    . Preparing the opening or release of the torque
+ 2306/36    . Filling the dead volume of actuators (controlling
+filling of clutches or brake servos F16H 61/62)
+ 2306/40    . Shifting activities
+ 2306/42    . . Changing the input torque to the transmission
+ 2306/44    . . Removing torque from current gears
+ 2306/46    . . Uncoupling of current gear
+ 2306/48    . . Synchronising of new gear
+ 2306/50    . . Coupling of new gear
+ 2306/52    . . Applying torque to new gears
+ 2306/54    . . Synchronizing engine speed to transmission input
+ 2312/022   . . Preparing to drive off
+ 2312/04    . Holding or hillholding
+ 2312/09    . Switching between forward and reverse (rocking
+ 2312/14    . Going to, or coming from standby operation, e.g. for
+engine start-stop operation at traffic lights
+ 2312/18    . Strong or emergency braking
+ 2312/20    . Start-up or shut-down
+ 2342/02    . Calibrating shift or range movements
+ 2342/04    . Calibrating engagement of friction elements
+ 2342/042   . . Point of engagement
+ 2342/044   . . Torque transmitting capability
+ 2342/06    . Determining which part to calibrate or timing of
+ 2342/10    . Calibrating valves
+ 2700/00    Transmission housings and mounting of
+transmission components therein; Cooling;
+Lubrication; Flexible suspensions, e.g. floating
+ 2700/02    . Transmissions, specially for working vehicles
+ 2700/04    . . Starting devices or devices to start turning of
+ 2700/06    . Protections for shifting mechanical transmissions
+ 2702/00    Combinations of two or more transmissions
+ 2702/02    . Mechanical transmissions with planetary gearing
+combined with one or more other mechanical
+ 2702/04    . . Combinations of a speed-change mechanism
+without planetary gearing with a differential for
+ 2702/06    . Combinations of transmissions with parallel force
+splitting paths having same output
+ 2704/00    Control mechanisms and elements applying a
+ 2704/02    . Speed-change devices wherein the control lever
+actuates directly sliding gears pivoting around two
+ 2704/04    . Speed-change devices with an intermediary
+mechanism placed between control member and
+ 2706/00    Rotary transmissions with mechanical energy
+accumulation and recovery without means for
+automatic selfregulation essentially based on
+ 2708/00    Control devices for speed-changing geared
+mechanisms, e.g. specially adapted couplings for
+synchronising devices, devices to simplify control,
+ 2708/02    . only the toothed wheels remain engaged
+ 2708/04    . . the control being mechanical
+ 2708/06    . . the control being hydraulic or pneumatic
+ 2708/08    . . the control being electric
+ 2708/10    . only the toothed wheels may be disengaged
+ 2708/12    . . the control being mechanical
+ 2708/14    . . the control being hydraulic or pneumatic
+ 2708/16    . wherein the gearing is not described or not essential
+ 2708/18    . . the control being mechanical
+ 2708/20    . . the control being hydraulic or pneumatic
+ 2708/22    . . the control being electric
+ 2708/24    . with a preselection system, mainly semi-automatic,
+e.g. with automatic preselection, but controlled at
+the intended moment, with force amplification
+ 2708/26    . . only the toothed wheels remain engaged
+ 2708/28    . . only the toothed wheels may be disengaged
+ 2710/00    Control devices for speed-change mechanisms,
+the speed change control is dependent on function
+ 2710/02    . Control dependent on speed and torque, wherein
+only the toothed wheels remain engaged, control
+ 2710/04    . Control dependent on speed
+ 2710/06    . . only the toothed wheels remain engaged
+ 2710/08    . . . the control being mechanical
+ 2710/10    . . . the control being hydraulic or pneumatic
+ 2710/12    . . . the control being electric
+ 2710/14    . Control dependent on speed, wherein only the
+toothed wheels may be disengaged, control being
+ 2710/16    . the gearing is not described or not essential
+ 2710/18    . . the control being mechanical
+ 2710/20    . . the control being hydraulic or pneumatic
+ 2710/22    . . the control being electric
+ 2710/24    . Control dependent on torque
+ 2710/26    . . wherein only the toothed wheels remain engaged,
+ 2712/00    Mechanisms for changing direction
+ 2712/02    . Automatic control, e.g. for an alternating movement
+ 2712/04    . the control being hydraulic or pneumatic
+ 2712/06    . only with toothed wheels or friction wheels
+ 2712/08    . . only the toothed wheels may be disengaged
+ 2712/10    . . with a combination of engaged and disengageable
+ 2714/00    Different types speed-changing mechanisms for
+ 2714/02    . only with toothed wheels remaining engaged
+ 2714/04    . with specially adapted devices
+ 2716/00    Control devices for speed-change mechanisms of
+planetary gearings, with toothed wheels remaining
+engaged, e.g. also for devices to simplify the
+control or for synchronising devices combined with
+ 2716/02    . the control being mechanical
+ 2716/04    . the control being hydraulic or pneumatic
+ 2716/06    . . Circuits thereof
+ 2716/08    . the control being electric
+ 2716/10    . only the toothed wheels may be disengaged, the
+ 2716/12    . with preselection system, mainly semi-automatic,
+e.g. with automatic preselection, but controlled at
+the intended moment, with force amplification
+ 2716/14    . . only with toothed wheels remaining engaged
+ 2718/00    Mechanisms for speed-change of planetary
+gearing, the speed change control being dependent
+on function parameters of the gearing
+ 2718/02    . Control dependent on speed and torque, wherein
+only the toothed wheels remain engaged
+ 2718/04    . . the control being mechanical
+ 2718/06    . . the control being hydraulic or pneumatic
+ 2718/08    . Control dependent on speed
+ 2718/10    . . only the toothed wheels remain engaged
+ 2718/12    . . . the control being mechanical
+ 2718/14    . . . the control being hydraulic or pneumatic
+ 2718/16    . . . the control being electric
+ 2718/18    . Control dependent on torque
+ 2718/20    . . only the toothed wheels remain engaged
+ 2718/22    . . . the control being mechanical
+ 2718/24    . . . the control being hydraulic or pneumatic
+ 2718/26    . . . the control being electric
+ 2720/00    Different types of speed-change gear mechanisms
+ 2720/02    . Gears with a non-circular rolling curve or gears with
+ 2720/04    . Combining a planetary speed-change gearing with a
+motor vehicle drive axle differential

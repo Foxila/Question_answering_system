@@ -1,0 +1,990 @@
+COOPERATIVE PATENT CLASSIFICATION
+DYES; PAINTS; POLISHES; NATURAL RESINS; ADHESIVES; COMPOSITIONS
+NOT OTHERWISE PROVIDED FOR; APPLICATIONS OF MATERIALS NOT
+COATING COMPOSITIONS, e.g. PAINTS, VARNISHES OR LACQUERS; FILLING
+PASTES; CHEMICAL PAINT OR INK REMOVERS; INKS; CORRECTING FLUIDS;
+WOODSTAINS; PASTES OR SOLIDS FOR COLOURING OR PRINTING; USE OF
+MATERIALS THEREFOR (cosmetics A61K; processes for applying liquids or other fluent
+materials to surfaces, in general, B05D; staining wood B27K 5/02; glazes or vitreous enamels
+C03C; natural resins, French polish, drying-oils, driers, turpentine, per se, C09F; polishing
+compositions other than French polish, ski waxes C09G; adhesives or use of materials as
+adhesives C09J; materials for sealing or packing joints or covers C09K 3/10; materials for
+stopping leaks C09K 3/12; processes for the electrolytic or electrophoretic production of
+1. In this subclass, the following terms or expressions are used with the meanings indicated:
+• "use of materials for coating compositions" means the use of known or new polymers or products;
+a. natural or conjugated diene rubbers;
+b. rubber in general (for a specific rubber, other than a natural rubber or a conjugated diene rubber, see the group provided
+for coating compositions based on such macromolecular compounds);
+• "based on" is defined by means of Note (3), below;
+• "filling pastes" means materials used to fill up the holes or cavities of a substrate in order to smooth its surface prior
+2. In this subclass, coating compositions, containing specific organic macromolecular substances are classified only according to
+the macromolecular substance, non-macromolecular substances not being taken into account.
+Example: a coating composition containing polyethene and amino-propyltrimethoxysilane is classified in group
+However, coating compositions containing combinations of organic non-macromolecular compounds having at least
+one polymerisable carbon-to-carbon unsaturated bond with prepolymers or polymers other than unsaturated polymers of
+groups C09D 159/00 - C09D 187/00 are classified according to the unsaturated non-macromolecular component in group
+Example: a coating composition containing polyethene and styrene monomer is classified in group C09D 4/00.
+Aspects relating to the physical nature of the coating compositions or to the effects produced, as defined in group
+C09D 5/00, if clearly and explicitly stated, are also classified in this subclass.
+Coating compositions characterised by other features, e.g. additives, are classified in group C09D 7/00, unless the
+macromolecular constituent is specified.
+3. In this subclass, coating compositions comprising two or more macromolecular constituents are classified according to the
+macromolecular constituent or constituents present in the highest proportion, i.e. the constituent on which the composition
+is based. If the composition is based on two or more constituents, present in equal proportions, the composition is classified
+according to each of these constituents.
+Example: a coating composition containing 80 parts of polyethene and 20 parts of polyvinylchloride is classified in group
+C09D 123/06. A coating composition containing 40 parts of polyethene and 40 parts of polyvinylchloride is classified in
+groups C09D 123/06 and C09D 127/06.
+4. In groups C09D 101/00 - C09D 201/00, any macromolecular constituent of a coating composition which is not identified by
+the classification according to Note (3) after the title of subclass C09D, and the use of which is determined to be novel and
+non-obvious, must also be classified in a group chosen from groups C09D 101/00 - C09D 201/00.
+{This Note corresponds to IPC Note (1) relating to C09D 101/00 - C09D 201/00.}
+5. Any macromolecular constituent of a coating composition which is not identified by the classification according to Note (3)
+after the title of subclass C09D or Note (1) above, and which is considered to represent information of interest for search,
+may also be classified in a group chosen from groups C09D 101/00 - C09D 201/00. This can for example be the case when
+it is considered of interest to enable searching of coating compositions using a combination of classification symbols. Such
+non-obligatory classification should be given as "additional information." {This Note corresponds to IPC Note (2) relating to
+6. In groups C09D 165/00 - C09D 185/00, in the absence of an indication to the contrary, coating compositions based on
+macromolecular compounds obtained by reactions forming two different linkages in the main chain are classified only
+according to the linkage present in excess.
+{This Note corresponds to IPC Note (1) relating to C09D 165/00 - C09D 185/00.}
+7. {In this subclass, combination sets [C-Sets] are used. Detailed information about the CSets construction and the associated
+syntax rules is found in the definitions for C09D.}
+8. {In addition to Note (4) above C08L 2666/00 indexing codes were used for C-Sets classification of documents before April
+2012. See C-Sets Search Rules in C08L, in C09D, or in C09J Definitions.}
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Coating compositions, e.g. paints, varnishes or
+lacquers, based on inorganic substances
+    1/02    . alkali metal silicates
+    1/04    . . with organic additives
+    1/08    . . with organic additives
+    1/12    . . with organic additives
+    4/00    Coating compositions, e.g. paints, varnishes or
+lacquers, based on organic non-macromolecular
+compounds having at least one polymerisable
+carbon-to-carbon unsaturated bond {;
+Coating compositions, based on monomers
+of macromolecular compounds of groups
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of  C09D}
+    4/06    . {Organic non-macromolecular compounds
+having at least one polymerisable carbon-
+to-carbon unsaturated bond} in combination
+with a macromolecular compound other
+than an unsaturated polymer of groups
+    5/00    Coating compositions, e.g. paints, varnishes or
+lacquers, characterised by their physical nature or
+the effects produced {(electrically insulating plastics,
+resins or waxes H01B 3/30)}; Filling pastes
+    5/002   . {Priming paints (C09D 5/08 takes precedence)}
+    5/004   . {Reflecting paints; Signal paints}
+    5/006   . {Anti-reflective coatings}
+    5/008   . {Temporary coatings (C09D 5/20 takes
+    5/02    . Emulsion paints {including aerosols}
+    5/021   . . {Aerosols (aerosol compositions C09K 3/30)}
+    5/022   . . {Emulsions, e.g. oil in water}
+    5/024   . . {characterised by the additives}
+    5/025   . . . {Preservatives, e.g. antimicrobial agents}
+    5/027   . . . {Dispersing agents (anti-settling agents
+    5/028   . . . {Pigments; Filters}
+    5/031   . . {characterised by particle size or shape}
+    5/032   . . {characterised by a special effect of the produced
+film, e.g. wrinkle, pearlescence, matt finish}
+    5/033   . . {characterised by the additives}
+    5/034   . . . {Charge control agents (for toners
+    5/035   . . . {Coloring agents, e.g. pigments (C09D 5/032
+    5/036   . . . {Stabilisers (organic stabilisers for paints
+    5/037   . . . {Rheology improving agents, e.g. flow control
+    5/038   . . . {Anticorrosion agents}
+    5/04    . Thixotropic paints
+    5/08    . Anti-corrosive paints
+    5/082   . . {characterised by the anti-corrosive pigment}
+    5/084   . . . {Inorganic compounds}
+    5/086   . . . {Organic or non-macromolecular compounds}
+    5/088   . . {Autophoretic paints}
+    5/10    . . containing metal dust
+    5/103   . . . {containing Al}
+    5/106   . . . {containing Zn}
+    5/14    . Paints containing biocides, e.g. fungicides,
+insecticides or pesticides (C09D 5/16 takes
+    5/16    . Antifouling paints; Underwater paints
+    5/1606  . . {characterised by the anti-fouling agent}
+    5/1612  . . . {Non-macromolecular compounds}
+    5/1618  . . . . {inorganic}
+    5/1631  . . . . . {Organotin compounds}
+    5/1637  . . . {Macromolecular compounds}
+    5/1643  . . . . {containing tin}
+    5/165   . . . . {containing hydrolysable groups
+(C09D 5/1643 takes precedence)}
+    5/1656  . . {characterised by the film-forming substance
+(C09D 5/1637 takes precedence)}
+    5/1662  . . . {Synthetic film-forming substance}
+    5/1668  . . . . {Vinyl-type polymers}
+    5/1675  . . . . {Polyorganosiloxane-containing
+    5/1681  . . {Antifouling coatings characterised by surface
+structure, e.g. for roughness effect giving
+superhydrophobic coatings or Lotus effect}
+    5/1687  . . {Use of special additives}
+    5/1693  . . {as part of a multilayer system}
+    5/18    . Fireproof paints {including high temperature
+    5/185   . . {Intumescent paints}
+    5/20    . for coatings strippable as coherent films, e.g.
+temporary coatings strippable as coherent films
+    5/22    . Luminous paints {(luminescent compositions
+    5/23    . Magnetisable or magnetic paints or lacquers
+    5/24    . Electrically-conducting paints {(conductive
+    5/26    . Thermosensitive paints
+    5/28    . for wrinkle, crackle, orange-peel, or similar
+    5/29    . for multicolour effects
+    5/30    . Camouflage paints
+    5/32    . Radiation-absorbing paints {(protection against X-,
+gamma- or corpuscular radiation G21F)}
+    5/34    . Filling pastes (materials for sealing or packing joints
+or covers C09K 3/10; materials for stopping leaks
+    5/36    . Pearl essence, e.g. coatings containing platelet-like
+    5/38    . Paints containing free metal not provided for above
+in groups C09D 5/00 - C09D 5/36
+    5/44    . for electrophoretic applications (processes for
+coating by electrophoresis C25D 13/00)
+The groups C09D 5/4403 - C09D 5/4476 relating
+to paints based on a specified film-forming
+polymer or mixture of polymers take precedence
+over the groups C09D 5/448 - C09D 5/4496
+relating to paints characterised by other features
+    5/4407  . . {with polymers obtained by polymerisation
+reactions involving only carbon-to-carbon
+    5/4411  . . . {Homopolymers or copolymers of acrylates or
+    5/4415  . . . {Copolymers wherein one of the monomers is
+    5/4419  . . {with polymers obtained otherwise than by
+polymerisation reactions only involving carbon-
+    5/4423  . . . {Polyesters, esterified polyepoxides}
+    5/4426  . . . . {Esterified polyepoxides}
+    5/443   . . . {Polyepoxides}
+    5/4434  . . . . {characterised by the nature of the epoxy
+    5/4438  . . . . . {Binder based on epoxy/amine adducts,
+i.e. reaction products of polyepoxides with
+compounds containing amino groups only}
+    5/4442  . . . . . {Binder characterised by functional
+    5/4446  . . . . . . {Aliphatic groups, e.g. ester}
+    5/4449  . . . . . . {Heterocyclic groups, e.g. oxazolidine}
+    5/4453  . . . . {characterised by the nature of the curing
+    5/4457  . . . . {containing special additives, e.g. pigments,
+    5/4461  . . . {Polyamides; Polyimides}
+    5/4465  . . . {Polyurethanes}
+    5/4469  . . . {Phenoplasts; Aminoplasts}
+    5/4473  . . {Mixture of polymers}
+    5/4476  . . {comprising polymerisation in situ}
+    5/448   . . {characterised by the additives used
+(C09D 5/4403 - C09D 5/4476, C09D 5/4492 take
+    5/4484  . . {Anodic paints (C09D 5/4403 - C09D 5/4476
+    5/4488  . . {Cathodic paints (C09D 5/4403 - C09D 5/4476
+    5/4492  . . . {containing special additives, e.g. grinding
+    5/4496  . . . {characterised by the nature of the curing
+    7/00    Features of coating compositions, not provided
+for in group C09D 5/00 (driers C09F 9/00);
+Processes for incorporating ingredients in coating
+    7/20    . Diluents or solvents
+    7/41    . . Organic pigments; Organic dyes
+    7/42    . . Gloss-reducing agents
+    7/43    . . Thickening agents
+    7/44    . . . Combinations of two or more thickening agents
+    7/45    . . Anti-settling agents
+    7/46    . . Anti-skinning agents
+    7/47    . . Levelling agents
+    7/48    . . Stabilisers against degradation by oxygen, light or
+    7/60    . . non-macromolecular (C09D 7/41-C09D 7/48 take
+    7/62    . . . . modified by treatment with other compounds
+    7/65    . . macromolecular (C09D 7/41-C09D 7/48 take
+    7/66    . . {characterised by particle size}
+    7/67    . . . {Particle size smaller than 100 nm}
+    7/68    . . . {Particle size between 100-1000 nm}
+    7/69    . . . {Particle size larger than 1000 nm}
+    7/70    . . {characterised by shape, e.g. fibres, flakes or
+    7/71    . {Paint detackifiers or coagulants, e.g. for
+the treatment of oversprays in paint spraying
+installations (chemical paint removers C09D 9/00)}
+    7/80    . Processes for incorporating ingredients
+    9/00    Chemical paint or ink removers (fluid media
+for correction of typographical errors by coating
+    9/005   . {containing organic solvents}
+    9/04    . with surface-active agents
+   10/00    Correcting fluids, e.g. fluid media for correction of
+typographical errors by coating {(correcting errors
+   11/02    . Printing inks (C09D 11/30 takes precedence)
+   11/0235  . . . Duplicating inks, e.g. for stencil printing
+   11/03    . . characterised by features other than the chemical
+   11/033   . . . characterised by the solvent
+   11/037   . . . characterised by the pigment
+   11/04    . . based on proteins
+   11/06    . . based on fatty oils
+   11/08    . . based on natural resins
+   11/10    . . based on artificial resins
+   11/101   . . . Inks specially adapted for printing processes
+involving curing by wave energy or particle
+radiation, e.g. with UV-curing following the
+   11/102   . . . containing macromolecular compounds
+obtained by reactions other than those only
+involving unsaturated carbon-to-carbon bonds
+   11/103   . . . . of aldehydes, e.g. phenol-formaldehyde
+   11/105   . . . . . Alkyd resins
+   11/106   . . . containing macromolecular compounds
+obtained by reactions only involving carbon-to-
+   11/107   . . . . from unsaturated acids or derivatives thereof
+   11/108   . . . . Hydrocarbon resins
+   11/12    . . based on waxes or bitumen
+   11/14    . . based on carbohydrates
+   11/17    . . characterised by colouring agents
+   11/18    . . specially adapted for ball-point writing
+   11/30    . Inkjet printing inks
+   11/32    . . characterised by colouring agents
+   11/324   . . . containing carbon black
+   11/326   . . . . characterised by the pigment dispersant
+   11/328   . . . characterised by dyes
+   11/36    . . based on non-aqueous solvents
+   11/38    . . characterised by non-macromolecular additives
+other than solvents, pigments or dyes
+   11/40    . . Ink-sets specially adapted for multi-colour inkjet
+   11/50    . Sympathetic, colour changing or similar inks
+   11/52    . Electrically conductive inks
+   11/54    . Inks based on two liquids, one liquid being the ink,
+the other liquid being a reaction solution, a fixer or a
+   13/00    Pencil-leads; Crayon compositions; Chalk
+   17/00    Pigment pastes, e.g. for mixing in paints (artists'
+   17/001   . {in aqueous medium (C09D 17/003, C09D 17/004
+   17/002   . {in organic medium (C09D 17/003, C09D 17/004
+   17/003   . {containing an organic pigment (process features in
+the making of dye stuff preparations C09B 67/00)}
+   17/004   . {containing an inorganic pigment}
+   17/008   . . . {Titanium dioxide}
+Coating compositions based on polysaccharides or on their
+  101/00    Coating compositions based on cellulose, modified
+cellulose, or cellulose derivatives
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  101/02    . Cellulose; Modified cellulose
+  101/04    . . Oxycellulose; Hydrocellulose
+  101/06    . . Cellulose hydrate
+  101/08    . Cellulose derivatives
+  101/10    . . Esters of organic acids (of both organic acids and
+  101/12    . . . Cellulose acetate
+  101/14    . . . Mixed esters, e.g. cellulose acetate-butyrate
+  101/16    . . Esters of inorganic acids (of both organic acids
+and inorganic acids C09D 101/20)
+  101/18    . . . Cellulose nitrate
+  101/20    . . Esters of both organic acids and inorganic acids
+  101/22    . . Cellulose xanthate
+  101/26    . . Cellulose ethers
+  101/282   . . . . {with halogen-substituted hydrocarbon
+  101/284   . . . . {with hydroxylated hydrocarbon radicals}
+  101/286   . . . . {substituted with acid radicals
+(C09D 101/282 takes precedence)}
+  101/288   . . . . {substituted with nitrogen containing
+  101/30    . . . Aryl ethers; Aralkyl ethers
+  101/32    . . Cellulose ether-esters
+4Coating compositions based on polysaccharides or on their derivatives
+  103/00    Coating compositions based on starch, amylose or
+amylopectin or on their derivatives or degradation
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  103/02    . Starch; Degradation products thereof, e.g. dextrin
+  103/04    . Starch derivatives
+  103/10    . . Oxidised starch
+  103/12    . Amylose; Amylopectin; Degradation products
+  103/14    . Amylose derivatives; Amylopectin derivatives
+  103/20    . . Oxidised amylose; Oxidised amylopectin
+  105/00    Coating compositions based on polysaccharides
+or on their derivatives, not provided for in groups
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  105/02    . Dextran; Derivatives thereof
+  105/04    . Alginic acid; Derivatives thereof
+  105/06    . Pectin; Derivatives thereof
+  105/08    . Chitin; Chondroitin sulfate; Hyaluronic acid;
+  105/10    . Heparin; Derivatives thereof
+  105/12    . Agar-agar; Derivatives thereof
+  105/14    . Hemicellulose; Derivatives thereof
+  105/16    . Cyclodextrin; Derivatives thereof
+Coating compositions based on rubbers or on their derivatives
+  107/00    Coating compositions based on natural rubber
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  109/00    Coating compositions based on homopolymers or
+copolymers of conjugated diene hydrocarbons
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  109/02    . Copolymers with acrylonitrile
+  109/06    . Copolymers with styrene
+  109/10    . Latex (C09D 109/04, C09D 109/08 take
+  111/00    Coating compositions based on homopolymers or
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  113/00    Coating compositions based on rubbers containing
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  115/00    Coating compositions based on rubber derivatives
+(C09D 111/00, C09D 113/00 take precedence)
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  115/005   . {Hydrogenated nitrile rubber}
+  115/02    . Rubber derivatives containing halogen
+  117/00    Coating compositions based on reclaimed rubber
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  119/00    Coating compositions based on rubbers, not
+provided for in groups C09D 107/00 - C09D 117/00
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  119/003   . {Precrosslinked rubber; Scrap rubber; Used
+  119/006   . {Rubber characterised by functional groups, e.g.
+  121/00    Coating compositions based on unspecified
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+5Coating compositions based on rubbers or on their derivatives
+Coating compositions based on organic macromolecular
+compounds obtained by reactions only involving carbon-to-
+  123/00    Coating compositions based on homopolymers or
+copolymers of unsaturated aliphatic hydrocarbons
+having only one carbon-to-carbon double bond;
+Coating compositions based on derivatives of such
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  123/02    . not modified by chemical after-treatment
+  123/025   . . {Copolymer of an unspecified olefine with a
+  123/04    . . Homopolymers or copolymers of ethene
+  123/08    . . . Copolymers of ethene (C09D 123/16 takes
+  123/0807  . . . . {Copolymers of ethene with unsaturated
+hydrocarbons only containing more than
+  123/0815  . . . . . {Copolymers of ethene with aliphatic 1-
+  123/0823  . . . . . . {Copolymers of ethene with aliphatic
+  123/083   . . . . . {Copolymers of ethene with aliphatic
+polyenes, i.e. containing more than one
+  123/0838  . . . . . {Copolymers of ethene with aromatic
+  123/0846  . . . . {Copolymers of ethene with unsaturated
+hydrocarbons containing other atoms than
+  123/0853  . . . . . {Vinylacetate}
+  123/0861  . . . . . . {Saponified vinylacetate}
+  123/0869  . . . . . {Acids or derivatives thereof}
+  123/0876  . . . . . . {Neutralised polymers, i.e. ionomers}
+  123/0884  . . . . . . {Epoxide containing esters}
+  123/0892  . . . . . {containing monomers with other atoms
+than carbon, hydrogen or oxygen atoms}
+  123/10    . . Homopolymers or copolymers of propene
+  123/14    . . . Copolymers of propene (C09D 123/16 takes
+  123/142   . . . . {at least partially crystalline copolymers of
+  123/145   . . . . {Copolymers of propene with monomers
+having more than one C=C double bond}
+  123/147   . . . . {Copolymers of propene with monomers
+containing other atoms than carbon or
+  123/16    . . {Elastomeric} ethene-propene or ethene-propene-
+diene copolymers, {e.g. EPR and EPDM rubbers}
+This group is used for polymers comprising
+  123/18    . . Homopolymers or copolymers of hydrocarbons
+having four or more carbon atoms
+  123/20    . . . having four to nine carbon atoms
+  123/22    . . . . Copolymers of isobutene; Butyl rubber
+{Homo- or copolymers of other iso-olefines}
+  123/24    . . . having ten or more carbon atoms
+  123/26    . modified by chemical after-treatment
+  123/28    . . by reaction with halogens or compounds
+containing halogen (C09D 123/32 takes
+  123/283   . . . {Halogenated homo- or copolymers of iso-
+  123/286   . . . {Chlorinated polyethylene}
+  123/32    . . by reaction with compounds containing
+  123/34    . . . by chlorosulfonation
+  123/36    . . by reaction with compounds containing nitrogen,
+  125/00    Coating compositions based on homopolymers
+or copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by an aromatic carbocyclic
+ring; Coating compositions based on derivatives of
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  125/02    . Homopolymers or copolymers of hydrocarbons
+  125/04    . . Homopolymers or copolymers of styrene
+  125/08    . . . Copolymers of styrene (C09D 129/08,
+C09D 135/06, C09D 155/02 take precedence)
+  125/10    . . . . with conjugated dienes
+  125/12    . . . . with unsaturated nitriles
+  125/14    . . . . with unsaturated esters
+  125/16    . . Homopolymers or copolymers of alkyl-
+  125/18    . Homopolymers or copolymers of aromatic
+monomers containing elements other than carbon
+  127/00    Coating compositions based on homopolymers
+or copolymers of compounds having one or
+more unsaturated aliphatic radicals, each having
+only one carbon-to-carbon double bond, and
+at least one being terminated by a halogen;
+Coating compositions based on derivatives of such
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  127/02    . not modified by chemical after-treatment
+  127/04    . . containing chlorine atoms
+  127/06    . . . Homopolymers or copolymers of vinyl chloride
+6Coating compositions based on organic macromolecular compounds obtained by reactions only involving
+  127/08    . . . Homopolymers or copolymers of vinylidene
+  127/10    . . containing bromine or iodine atoms
+  127/12    . . containing fluorine atoms
+  127/14    . . . Homopolymers or copolymers of vinyl fluoride
+  127/16    . . . Homopolymers or copolymers of vinylidene
+  127/18    . . . Homopolymers or copolymers of
+  127/20    . . . Homopolymers or copolymers of
+  127/22    . modified by chemical after-treatment
+  129/00    Coating compositions based on homopolymers
+or copolymers of compounds having one or
+more unsaturated aliphatic radicals, each having
+only one carbon-to-carbon double bond, and at
+least one being terminated by an alcohol, ether,
+aldehydo, ketonic, acetal, or ketal radical; Coating
+compositions based on hydrolysed polymers of
+esters of unsaturated alcohols with saturated
+carboxylic acids; Coating compositions based on
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  129/02    . Homopolymers or copolymers of unsaturated
+alcohols (C09D 129/14 takes precedence)
+  129/04    . . Polyvinyl alcohol; Partially hydrolysed
+homopolymers or copolymers of esters of
+unsaturated alcohols with saturated carboxylic
+  129/06    . . Copolymers of allyl alcohol
+  129/08    . . . with vinyl aromatic monomers
+  129/10    . Homopolymers or copolymers of unsaturated ethers
+  129/12    . Homopolymers or copolymers of unsaturated
+  129/14    . Homopolymers or copolymers of acetals or ketals
+obtained by polymerisation of unsaturated acetals
+or ketals or by after-treatment of polymers of
+  131/00    Coating compositions based on homopolymers
+or copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by an acyloxy radical of a
+saturated carboxylic acid, of carbonic acid, or of
+a haloformic acid (based on hydrolysed polymers
+C09D 129/00); Coating compositions based on
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  131/02    . Homopolymers or copolymers of esters of
+  131/04    . . Homopolymers or copolymers of vinyl acetate
+  131/06    . Homopolymers or copolymers of esters of
+  131/08    . . of phthalic acid
+  133/00    Coating compositions based on homopolymers
+or copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by only one carboxyl radical,
+or of salts, anhydrides, esters, amides, imides, or
+nitriles thereof; Coating compositions based on
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  133/02    . Homopolymers or copolymers of acids; Metal or
+  133/04    . Homopolymers or copolymers of esters
+{(C09D 143/04 takes precedence)}
+  133/06    . . of esters containing only carbon, hydrogen and
+oxygen, the oxygen atom being present only as
+  133/062   . . . {Copolymers with monomers not covered by
+  133/064   . . . . {containing anhydride, COOH or COOM
+groups, with M being metal or onium-cation}
+  133/066   . . . . {containing -OH groups}
+  133/068   . . . . {containing glycidyl groups}
+  133/08    . . . Homopolymers or copolymers of acrylic acid
+  133/10    . . . Homopolymers or copolymers of methacrylic
+  133/12    . . . . Homopolymers or copolymers of methyl
+  133/14    . . of esters containing halogen, nitrogen, sulfur or
+oxygen atoms in addition to the carboxy oxygen
+  133/16    . . . Homopolymers or copolymers of esters
+  133/18    . Homopolymers or copolymers of nitriles
+  133/20    . . Homopolymers or copolymers of acrylonitrile
+  133/22    . . Homopolymers or copolymers of nitriles
+containing four or more carbon atoms
+  133/24    . Homopolymers or copolymers of amides or imides
+  133/26    . . Homopolymers or copolymers of acrylamide or
+  135/00    Coating compositions based on homopolymers
+or copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a carboxyl radical, and
+containing at least another carboxyl radical in the
+molecule, or of salts, anhydrides, esters, amides,
+imides or nitriles thereof; Coating compositions
+based on derivatives of such polymers
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+7Coating compositions based on organic macromolecular compounds obtained by reactions only involving
+  135/02    . Homopolymers or copolymers of esters
+(C09D 135/06, C09D 135/08 take precedence)
+  135/04    . Homopolymers or copolymers of nitriles
+(C09D 135/06, C09D 135/08 take precedence)
+  135/06    . Copolymers with vinyl aromatic monomers
+  135/08    . Copolymers with vinyl ethers
+  137/00    Coating compositions based on homopolymers
+or copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a heterocyclic ring
+containing oxygen (based on polymers of cyclic
+esters of polyfunctional acids C09D 131/00; based on
+polymers of cyclic anhydrides of unsaturated acids
+C09D 135/00); Coating compositions based on
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  139/00    Coating compositions based on homopolymers
+or copolymers of compounds having one or
+more unsaturated aliphatic radicals, each having
+only one carbon-to-carbon double bond, and
+at least one being terminated by a single or
+double bond to nitrogen or by a heterocyclic ring
+containing nitrogen; Coating compositions based
+on derivatives of such polymers
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of  C09D}
+  139/02    . Homopolymers or copolymers of vinylamine
+  139/04    . Homopolymers or copolymers of monomers
+containing heterocyclic rings having nitrogen as
+  139/06    . . Homopolymers or copolymers of N-vinyl-
+  139/08    . . Homopolymers or copolymers of vinyl-pyridine
+  141/00    Coating compositions based on homopolymers
+or copolymers of compounds having one or
+more unsaturated aliphatic radicals, each having
+only one carbon-to-carbon double bond, and at
+least one being terminated by a bond to sulfur
+or by a heterocyclic ring containing sulfur;
+Coating compositions based on derivatives of such
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  143/00    Coating compositions based on homopolymers
+or copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and containing
+boron, silicon, phosphorus, selenium, tellurium, or
+a metal; Coating compositions based on derivatives
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of  C09D}
+  143/02    . Homopolymers or copolymers of monomers
+  143/04    . Homopolymers or copolymers of monomers
+  145/00    Coating compositions based on homopolymers or
+copolymers of compounds having no unsaturated
+aliphatic radicals in a side chain, and having
+one or more carbon-to-carbon double bonds
+in a carbocyclic or in a heterocyclic system;
+Coating compositions based on derivatives of such
+polymers (based on polymers of cyclic esters of
+polyfunctional acids C09D 131/00; based on polymers
+of cyclic anhydrides or imides C09D 135/00)
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  145/02    . Coumarone-indene polymers
+  147/00    Coating compositions based on homopolymers
+or copolymers of compounds having one or
+more unsaturated aliphatic radicals, at least
+one having two or more carbon-to-carbon
+double bonds; Coating compositions based on
+derivatives of such polymers (C09D 145/00 takes
+precedence; based on conjugated diene rubbers
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  149/00    Coating compositions based on homopolymers
+or copolymers of compounds having one or
+more carbon-to-carbon triple bonds; Coating
+compositions based on derivatives of such
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+8Coating compositions based on organic macromolecular compounds obtained by reactions only involving
+  151/00    Coating compositions based on graft polymers
+in which the grafted component is obtained
+by reactions only involving carbon-to-carbon
+unsaturated bonds (based on ABS polymers
+C09D 155/02); Coating compositions based on
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  151/003   . {grafted on to macromolecular compounds obtained
+by reactions only involving unsaturated carbon-to-
+carbon bonds (C09D 151/04, C09D 151/06 take
+  151/006   . {grafted on to block copolymers containing at least
+one sequence of polymer obtained by reactions only
+involving carbon-to-carbon unsaturated bonds}
+  151/02    . grafted on to polysaccharides
+  151/04    . grafted on to rubbers
+  151/06    . grafted on to homopolymers or copolymers of
+aliphatic hydrocarbons containing only one carbon-
+  151/08    . grafted on to macromolecular compounds obtained
+otherwise than by reactions only involving carbon-
+  151/085   . . {on to polysiloxanes}
+  151/10    . grafted on to inorganic materials
+  153/00    Coating compositions based on block copolymers
+containing at least one sequence of a polymer
+obtained by reactions only involving carbon-to-
+carbon unsaturated bonds; Coating compositions
+based on derivatives of such polymers
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  153/005   . {Modified block copolymers}
+  153/02    . Vinyl aromatic monomers and conjugated dienes
+  155/00    Coating compositions based on homopolymers
+or copolymers, obtained by polymerisation
+reactions only involving carbon-to-carbon
+unsaturated bonds, not provided for in groups
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  155/005   . {Homopolymers or copolymers obtained by
+polymerisation of macromolecular compounds
+terminated by a carbon-to-carbon double bond}
+  155/02    . ABS [Acrylonitrile-Butadiene-Styrene] polymers
+  155/04    . Polyadducts obtained by the diene synthesis
+  157/00    Coating compositions based on unspecified
+polymers obtained by reactions only involving
+carbon-to-carbon unsaturated bonds
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  157/02    . Copolymers of mineral oil hydrocarbons
+  157/04    . Copolymers in which only the monomer in minority
+  157/06    . Homopolymers or copolymers containing elements
+  157/08    . . containing halogen atoms
+  157/10    . . containing oxygen atoms
+  157/12    . . containing nitrogen atoms
+Coating compositions based on organic macromolecular
+compounds obtained otherwise than by reactions only involving
+carbon-to-carbon unsaturated bonds
+  159/00    Coating compositions based on polyacetals;
+Coating compositions based on derivatives of
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  159/02    . Polyacetals containing polyoxymethylene sequence
+  159/04    . Copolyoxymethylenes
+  161/00    Coating compositions based on condensation
+polymers of aldehydes or ketones (with
+polyalcohols C09D 159/00; with polynitriles
+C09D 177/00); Coating compositions based on
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  161/02    . Condensation polymers of aldehydes or ketones
+  161/04    . Condensation polymers of aldehydes or ketones
+  161/06    . . of aldehydes with phenols
+  161/12    . . . with polyhydric phenols
+  161/14    . . . Modified phenol-aldehyde condensates
+  161/16    . . of ketones with phenols
+  161/18    . Condensation polymers of aldehydes or ketones
+with aromatic hydrocarbons or their halogen
+  161/20    . Condensation polymers of aldehydes or ketones
+with only compounds containing hydrogen attached
+to nitrogen (with amino phenols C09D 161/04)
+  161/22    . . of aldehydes with acyclic or carbocyclic
+  161/24    . . . with urea or thiourea
+  161/26    . . of aldehydes with heterocyclic compounds
+9Coating compositions based on organic macromolecular compounds obtained otherwise than by reactions
+  161/28    . . . with melamine
+  161/30    . . of aldehydes with heterocyclic and acyclic or
+  161/32    . . Modified amine-aldehyde condensates
+  161/34    . Condensation polymers of aldehydes or ketones
+with monomers covered by at least two of
+the groups C09D 161/04, C09D 161/18 and
+  163/00    Coating compositions based on epoxy resins;
+Coating compositions based on derivatives of
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  163/06    . Triglycidylisocyanurates
+  163/08    . Epoxidised polymerised polyenes
+  163/10    . Epoxy resins modified by unsaturated compounds
+  165/00    Coating compositions based on macromolecular
+compounds obtained by reactions forming
+a carbon-to-carbon link in the main chain
+(C09D 107/00 - C09D 157/00, C09D 161/00 take
+precedence); Coating compositions based on
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  167/00    Coating compositions based on polyesters
+obtained by reactions forming a carboxylic
+ester link in the main chain (based on polyester-
+amides C09D 177/12; based on polyester-imides
+C09D 179/08); Coating compositions based on
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  167/02    . Polyesters derived from dicarboxylic acids and
+dihydroxy compounds (C09D 167/06 takes
+  167/025   . . {containing polyether sequences}
+  167/03    . . the dicarboxylic acids and dihydroxy compounds
+having the carboxyl - and the hydroxy groups
+directly linked to aromatic rings
+  167/04    . Polyesters derived from hydroxycarboxylic acids,
+e.g. lactones (C09D 167/06 takes precedence)
+  167/06    . Unsaturated polyesters having carbon-to-carbon
+  167/07    . . having terminal carbon-to-carbon unsaturated
+  167/08    . Polyesters modified with higher fatty oils or their
+acids, or with natural resins or resin acids
+  169/00    Coating compositions based on polycarbonates;
+Coating compositions based on derivatives of
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  169/005   . {Polyester-carbonates}
+  171/00    Coating compositions based on polyethers
+obtained by reactions forming an ether link in
+the main chain (based on polyacetals C09D 159/00;
+based on epoxy resins C09D 163/00; based
+on polythioether-ethers C09D 181/02; based
+on polyethersulfones C09D 181/06); Coating
+compositions based on derivatives of such
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of  C09D}
+  171/02    . Polyalkylene oxides
+  171/03    . . Polyepihalohydrins
+  171/08    . Polyethers derived from hydroxy compounds or
+from their metallic derivatives (C09D 171/02 takes
+  171/12    . . . Polyphenylene oxides
+  171/14    . . Furfuryl alcohol polymers
+  173/00    Coating compositions based on macromolecular
+compounds obtained by reactions forming a
+linkage containing oxygen or oxygen and carbon
+in the main chain, not provided for in groups
+C09D 159/00 - C09D 171/00; Coating compositions
+based on derivatives of such polymers
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of  C09D}
+  175/00    Coating compositions based on polyureas or
+polyurethanes; Coating compositions based on
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  175/06    . . from polyesters
+  175/08    . . from polyethers
+  175/10    . . from polyacetals
+10Coating compositions based on organic macromolecular compounds obtained otherwise than by reactions
+  175/12    . . from compounds containing nitrogen and active
+hydrogen, the nitrogen atom not being part of an
+  175/14    . . Polyurethanes having carbon-to-carbon
+  175/16    . . . having terminal carbon-to-carbon unsaturated
+  177/00    Coating compositions based on polyamides
+obtained by reactions forming a carboxylic amide
+link in the main chain (based on polyhydrazides
+C09D 179/06; based on polyamide-imides
+C09D 179/08); Coating compositions based on
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  177/02    . Polyamides derived from omega-amino carboxylic
+acids or from lactams thereof (C09D 177/10 takes
+  177/04    . Polyamides derived from alpha-amino carboxylic
+acids (C09D 177/10 takes precedence)
+  177/06    . Polyamides derived from polyamines and
+polycarboxylic acids (C09D 177/10 takes
+  177/08    . . from polyamines and polymerised unsaturated
+  177/10    . Polyamides derived from aromatically bound amino
+and carboxyl groups of amino carboxylic acids or of
+polyamines and polycarboxylic acids
+  179/00    Coating compositions based on macromolecular
+compounds obtained by reactions forming in
+the main chain of the macromolecule a linkage
+containing nitrogen, with or without oxygen,
+or carbon only, not provided for in groups
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  179/04    . Polycondensates having nitrogen-containing
+heterocyclic rings in the main chain;
+Polyhydrazides; Polyamide acids or similar
+  179/06    . . Polyhydrazides; Polytriazoles; Polyamino-
+  179/08    . . Polyimides; Polyester-imides; Polyamide-imides;
+Polyamide acids or similar polyimide precursors
+  179/085   . . . {Unsaturated polyimide precursors}
+  181/00    Coating compositions based on macromolecular
+compounds obtained by reactions forming in
+the main chain of the macromolecule a linkage
+containing sulfur, with or without nitrogen,
+oxygen, or carbon only; Coating compositions
+based on polysulfones; Coating compositions based
+on derivatives of such polymers
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  181/02    . Polythioethers; Polythioether-ethers
+  181/06    . Polysulfones; Polyethersulfones
+  181/10    . Polysulfonamides; Polysulfonimides
+  183/00    Coating compositions based on macromolecular
+compounds obtained by reactions forming in
+the main chain of the macromolecule a linkage
+containing silicon, with or without sulfur, nitrogen,
+oxygen, or carbon only; Coating compositions
+based on derivatives of such polymers
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  183/06    . . containing silicon bound to oxygen-containing
+groups (C09D 183/12 takes precedence)
+  183/08    . . containing silicon bound to organic groups
+containing atoms other than carbon, hydrogen,
+  183/10    . Block or graft copolymers containing polysiloxane
+sequences (obtained by polymerising a compound
+having a carbon-to-carbon double bond on to a
+polysiloxane C09D 151/08, C09D 153/00)
+  183/12    . . containing polyether sequences
+  183/14    . in which at least two but not all the silicon atoms
+are connected by linkages other than oxygen atoms
+  183/16    . in which all the silicon atoms are connected by
+linkages other than oxygen atoms
+  185/00    Coating compositions based on macromolecular
+compounds obtained by reactions forming
+in the main chain of the macromolecule a
+linkage containing atoms other than silicon,
+sulfur, nitrogen, oxygen, and carbon; Coating
+compositions based on derivatives of such
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  185/02    . containing phosphorus
+11Coating compositions based on organic macromolecular compounds obtained otherwise than by reactions
+  187/00    Coating compositions based on unspecified
+macromolecular compounds, obtained otherwise
+than by polymerisation reactions only involving
+unsaturated carbon-to-carbon bonds
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  187/005   . {Block or graft polymers not provided for in groups
+Coating compositions based on natural macromolecular
+compounds or on derivatives thereof (based on polysaccharides
+C09D 101/00 - C09D 105/00; based on natural rubber C09D 107/00)
+  189/00    Coating compositions based on proteins; Coating
+compositions based on derivatives thereof
+(foodstuff preparations A23J 3/00)
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  189/02    . Casein-aldehyde condensates
+  189/04    . Products derived from waste materials, e.g. horn,
+  189/06    . . derived from leather or skin
+  191/00    Coating compositions based on oils, fats or waxes;
+Coating compositions based on derivatives thereof
+(polishing compositions, ski waxes C09G)
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  191/02    . Vulcanised oils, e.g. factice
+  193/00    Coating compositions based on natural
+resins; Coating compositions based on
+derivatives thereof (based on polysaccharides
+C09D 101/00 - C09D 105/00; based on natural rubber
+C09D 107/00; polishing compositions C09G)
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  195/00    Coating compositions based on bituminous
+materials, e.g. asphalt, tar, pitch
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  195/005   . {Aqueous compositions, e.g. emulsions}
+  197/00    Coating compositions based on lignin-
+containing materials (based on polysaccharides
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  197/002   . {Peat, lignite, coal (briquettes C10L 5/00; working-
+up peat; ceramic products based on carbon or
+  197/02    . Lignocellulosic material, e.g. wood, straw or
+  199/00    Coating compositions based on natural
+derivatives thereof, not provided for in
+groups C09D 101/00 - C09D 107/00 or
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  201/00    Coating compositions based on unspecified
+{In this group, C-Sets are used for classification.
+The detailed information about the C-Sets
+construction and the associated syntax rules are
+found in the Definitions of C09D}
+  201/005   . {Dendritic macromolecules}
+  201/02    . characterised by the presence of specified groups {,
+e.g. terminal or pendant functional groups}
+  201/025   . . {containing nitrogen atoms}
+  201/04    . . containing halogen atoms
+  201/06    . . containing oxygen atoms {(C09D 201/025 takes
+  201/08    . . . Carboxyl groups
+  201/10    . . containing hydrolysable silane groups

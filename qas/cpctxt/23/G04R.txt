@@ -1,0 +1,28 @@
+COOPERATIVE PATENT CLASSIFICATION
+   20/00    Setting the time according to the time information
+carried or implied by the radio signal
+   20/02    . the radio signal being sent by a satellite, e.g. GPS
+   20/04    . . Tuning or receiving; Circuits therefor
+   20/06    . . Decoding time data; Circuits therefor
+   20/08    . the radio signal being broadcast from a long-wave
+call sign, e.g. DCF77, JJY40, JJY60, MSF60 or
+   20/10    . . Tuning or receiving; Circuits therefor
+   20/12    . . Decoding time data; Circuits therefor
+   20/14    . the radio signal being a telecommunication standard
+   20/16    . . Tuning or receiving; Circuits therefor
+   20/18    . . Decoding time data; Circuits therefor
+   20/20    . the radio signal being an AM/FM standard signal,
+   20/22    . . Tuning or receiving; Circuits therefor
+   20/24    . . Decoding time data; Circuits therefor
+   20/26    . the radio signal being a near-field communication
+   20/28    . . Tuning or receiving; Circuits therefor
+   20/30    . . Decoding time data; Circuits therefor
+   40/00    Correcting the clock frequency
+   40/04    . by detecting the radio signal frequency
+   40/06    . by computing the time value implied by the radio
+   60/00    Constructional details
+   60/02    . Antennas also serving as components of clocks or
+   60/04    . Antennas attached to or integrated in watch
+   60/06    . Antennas attached to or integrated in clock or watch
+   60/12    . . . inside metal cases
+   60/14    . specific to electromechanical timepieces, e.g.

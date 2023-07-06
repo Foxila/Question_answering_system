@@ -1,0 +1,210 @@
+COOPERATIVE PATENT CLASSIFICATION
+AUTOMATIC CONTROL, STARTING, SYNCHRONISATION, OR STABILISATION
+OF GENERATORS OF ELECTRONIC OSCILLATIONS OR PULSES (of dynamo-
+• automatic control circuits for generators of electronic  oscillations or pulses;
+• starting, synchronisation, or stabilisation circuits for  generators where the type of generator is irrelevant or  unspecified.
+2. This subclass does not cover stabilisation or starting circuits specially adapted to only one specific type of generator, which
+are covered by subclasses H03B, H03K.
+3. In this subclass, the following expression is used with the meaning indicated:
+• "automatic control" covers only closed loop systems.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Stabilisation of generator output against variations
+of physical values, e.g. power supply (automatic
+    1/02    . against variations of temperature only
+    1/021   . . {of generators comprising distributed capacitance
+    1/022   . . {by indirect stabilisation, i.e. by generating an
+electrical correction signal which is a function of
+the temperature (H03L 1/021 takes precedence)}
+    1/023   . . . {by using voltage variable capacitance diodes}
+    1/025   . . . . {and a memory for digitally storing
+    1/026   . . . {by using a memory for digitally storing
+correction values (H03L 1/025 takes
+    1/027   . . . {by using frequency conversion means
+which is variable with temperature, e.g.
+mixer, frequency divider, pulse add/substract
+logic circuit (H03L 1/023, H03L 1/026 take
+    1/028   . . {of generators comprising piezo-electric
+resonators (H03L 1/021 and H03L 1/022 take
+precedence; oscillation generators with a piezo-
+electric resonator per se H03B 5/32)}
+    1/04    . . Constructional details for maintaining
+    3/00    Starting of generators
+    5/00    Automatic control of voltage, current, or power
+    7/00    Automatic control of frequency or phase;
+Synchronisation (tuning of resonant circuits in
+general H03J; synchronising in digital communication
+systems, see the relevant groups in class H04)
+    7/02    . using a frequency discriminator comprising a
+passive frequency-determining element
+    7/04    . . wherein the frequency-determining element
+comprises distributed inductance and capacitance
+    7/06    . using a reference signal applied to a frequency- or
+    7/07    . . using several loops, e.g. for redundant clock
+signal generation (for indirect frequency synthesis
+    7/08    . . Details of the phase-locked loop
+    7/0802  . . . {the loop being adapted for reducing power
+consumption (H03L 7/14 takes precedence)}
+    7/0805  . . . {the loop being adapted to provide an
+additional control signal for use outside the
+    7/0807  . . . {concerning mainly a recovery circuit for the
+    7/081   . . . provided with an additional controlled phase
+shifter {(H03L 7/0998 takes precedence)}
+    7/0812  . . . . {and where no voltage or current controlled
+    7/0814  . . . . . {the phase shifting device being digitally
+    7/0816  . . . . . {the controlled phase shifter and the
+frequency- or phase-detection arrangement
+being connected to a common input}
+    7/0818  . . . . . {the controlled phase shifter comprising
+coarse and fine delay or phase-shifting
+    7/083   . . . the reference signal being additionally directly
+applied to the generator (direct frequency
+synchronisation without loop H03L 7/24)
+    7/085   . . . concerning mainly the frequency- or phase-
+detection arrangement including the filtering or
+amplification of its output signal (H03L 7/10
+takes precedence; frequency or phase
+detection comparison in general H03D 3/00,
+    7/087   . . . . using at least two phase detectors or a
+frequency and phase detector in the loop
+    7/089   . . . . the phase or frequency detector generating
+up-down pulses (H03L 7/087 takes
+    7/0891  . . . . . {the up-down pulses controlling source
+and sink current generators, e.g. a charge
+    7/0893  . . . . . . {the up-down pulses controlling at least
+two source current generators or at least
+two sink current generators connected to
+    7/0895  . . . . . . {Details of the current generators
+(H03L 7/0893 takes precedence)}
+    7/0896  . . . . . . . {the current generators being
+controlled by differential up-down
+    7/0898  . . . . . . . {the source or sink current values
+being variable (H03L 7/0896 takes
+    7/091   . . . . the phase or frequency detector using
+a sampling device (H03L 7/087 takes
+    7/093   . . . . using special filtering or amplification
+(H03L 7/087 - H03L 7/091 take precedence)
+    7/095   . . . . using a lock detector (H03L 7/087 takes
+    7/097   . . . . using a comparator for comparing the
+voltages obtained from two frequency to
+    7/099   . . . concerning mainly the controlled oscillator of
+    7/0991  . . . . {the oscillator being a digital oscillator, e.g.
+composed of a fixed oscillator followed by
+a variable frequency divider (H03L 7/0995
+takes precedence; fixed oscillators with
+means for selecting among various phases
+    7/0992  . . . . . {comprising a counter or a frequency
+    7/0993  . . . . . . {and a circuit for adding and deleting
+    7/0994  . . . . . {comprising an accumulator}
+    7/0995  . . . . {the oscillator comprising a ring oscillator}
+    7/0996  . . . . . {Selecting a signal among the plurality of
+phase-shifted signals produced by the ring
+    7/0997  . . . . . {Controlling the number of delay elements
+connected in series in the ring oscillator}
+    7/0998  . . . . . {using phase interpolation}
+    7/10    . . . for assuring initial synchronisation or for
+    7/101   . . . . {using an additional control signal to the
+controlled loop oscillator derived from a
+signal generated in the loop (H03L 7/113,
+    7/102   . . . . . {the additional signal being directly
+applied to the controlled loop oscillator}
+    7/103   . . . . . . {the additional signal being a digital
+    7/104   . . . . {using an additional signal from outside the
+loop for setting or controlling a parameter
+in the loop (H03L 7/107, H03L 7/12 take
+    7/105   . . . . {Resetting the controlled oscillator when its
+frequency is outside a predetermined limit}
+    7/107   . . . . using a variable transfer function for the
+loop, e.g. low pass filter having a variable
+    7/1072  . . . . . {by changing characteristics of the charge
+    7/1075  . . . . . {by changing characteristics of the loop
+filter, e.g. changing the gain, changing
+the bandwidth (H03L 7/1072 takes
+    7/1077  . . . . . {by changing characteristics of the
+phase or frequency detection means
+(H03L 7/1072 takes precedence)}
+    7/113   . . . . using frequency discriminator
+    7/12    . . . . using a scanning signal (tuning circuits
+with automatic scanning over a band of
+    7/14    . . . for assuring constant frequency when supply or
+correction voltages fail {or are interrupted}
+    7/141   . . . . {the phase-locked loop controlling several
+    7/143   . . . . {by switching the reference signal of the
+    7/145   . . . . . {the switched reference signal being
+derived from the controlled oscillator
+    7/146   . . . . {by using digital means for generating
+the oscillator control signal (H03L 7/141,
+    7/148   . . . . . {said digital means comprising a counter
+    7/16    . . Indirect frequency synthesis, i.e. generating
+a desired one of a number of predetermined
+frequencies using a frequency- or phase-locked
+    7/18    . . . using a frequency divider or counter in the loop
+(H03L 7/20, H03L 7/22 take precedence)
+    7/1803  . . . . {the counter or frequency divider being
+connected to a cycle or pulse swallowing
+    7/1806  . . . . {the frequency divider comprising a phase
+accumulator generating the frequency
+    7/181   . . . . a numerical count result being used for
+locking the loop, the counter counting during
+fixed time intervals {(H03L 7/1806 takes
+    7/183   . . . . a time difference being used for locking the
+loop, the counter counting between fixed
+numbers or the frequency divider dividing
+by a fixed number {(H03L 7/1806 takes
+    7/185   . . . . . using a mixer in the loop
+    7/187   . . . . . using means for coarse tuning the
+voltage controlled oscillator of the
+loop (H03L 7/191 - H03L 7/195 take
+    7/189   . . . . . . comprising a D/A converter for
+generating a coarse tuning voltage
+    7/191   . . . . . using at least two different signals
+from the frequency divider or the
+counter for determining the time
+difference (H03L 7/193, H03L 7/195 take
+    7/193   . . . . . the frequency divider/counter comprising
+a commutable pre-divider, e.g. a two
+modulus divider (pulse counters/frequency
+dividers H03K 21/00 - H03K 29/00)
+    7/195   . . . . . in which the counter of the loop counts
+between two different non zero numbers,
+e.g. for generating an offset frequency
+(H03L 7/193 takes precedence; pulse
+counters for predetermined counting
+    7/197   . . . . a time difference being used for locking the
+loop, the counter counting between numbers
+which are variable in time or the frequency
+divider dividing by a factor variable in
+time, e.g. for obtaining fractional frequency
+division {(H03L 7/1806 takes precedence)}
+    7/1972  . . . . . {for reducing the locking time interval
+    7/1974  . . . . . {for fractional frequency division}
+    7/1976  . . . . . . {using a phase accumulator for
+controlling the counter or frequency
+    7/1978  . . . . . . . {using a cycle or pulse removing
+    7/199   . . . . . with reset of the frequency divider or
+the counter, e.g. for assuring initial
+    7/20    . . . using a harmonic phase-locked loop, i.e. a loop
+which can be locked to one of a number of
+harmonically related frequencies applied to it
+    7/22    . . . using more than one loop
+    7/23    . . . . with pulse counters or frequency dividers
+    7/235   . . . . . {Nested phase locked loops}
+    7/24    . using a reference signal directly applied to the
+    7/26    . using energy levels of molecules, atoms, or
+subatomic particles as a frequency reference
+    9/00    Automatic control not provided for in other
+ 2207/00    Indexing scheme relating to automatic control of
+frequency or phase and to synchronisation
+ 2207/04    . Modifications for maintaining constant the phase-
+locked loop damping factor when other loop
+ 2207/05    . Compensating for non-linear characteristics of the
+ 2207/06    . Phase locked loops with a controlled oscillator
+having at least two frequency control terminals
+ 2207/08    . Modifications of the phase-locked loop for ensuring
+constant frequency when the power supply fails or
+is interrupted, e.g. for saving power
+ 2207/10    . Indirect frequency synthesis using a frequency
+multiplier in the phase-locked loop or in the
+ 2207/12    . Indirect frequency synthesis using a mixer in the
+ 2207/14    . Preventing false-lock or pseudo-lock of the PLL
+ 2207/18    . Temporarily disabling, deactivating or stopping the
+ 2207/50    . All digital phase-locked loop

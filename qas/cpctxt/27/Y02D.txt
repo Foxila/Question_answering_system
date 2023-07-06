@@ -1,0 +1,19 @@
+COOPERATIVE PATENT CLASSIFICATION
+GENERAL TAGGING OF NEW TECHNOLOGICAL DEVELOPMENTS; GENERAL
+TAGGING OF CROSS-SECTIONAL TECHNOLOGIES SPANNING OVER SEVERAL
+SECTIONS OF THE IPC; TECHNICAL SUBJECTS COVERED BY FORMER USPC
+CROSS-REFERENCE ART COLLECTIONS [XRACs] AND DIGESTS
+TECHNOLOGIES OR APPLICATIONS FOR MITIGATION OR ADAPTATION
+CLIMATE CHANGE MITIGATION TECHNOLOGIES IN INFORMATION
+AND COMMUNICATION TECHNOLOGIES [ICT], I.E. INFORMATION AND
+COMMUNICATION TECHNOLOGIES AIMING AT THE REDUCTION OF THEIR
+1. This subclass covers information and communication technologies [ICT] whose purpose is to minimize the use of energy
+during the operation of the involved ICT equipment.
+2. This subclass does not cover the use of an ICT technology supporting energy efficient operation of a further piece of
+equipment, nor the reuse or recycling of ICT equipment.
+   10/00    Energy efficient computing, e.g. low power
+processors, power management or thermal
+   30/00    Reducing energy consumption in communication
+   30/50    . in wire-line communication networks, e.g. low
+power modes or reduced link rate
+   30/70    . in wireless communication networks

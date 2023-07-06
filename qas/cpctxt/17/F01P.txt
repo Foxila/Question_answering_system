@@ -1,0 +1,217 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+MACHINES OR ENGINES IN GENERAL; ENGINE PLANTS IN GENERAL; STEAM
+COOLING OF MACHINES OR ENGINES IN GENERAL; COOLING OF INTERNAL-
+COMBUSTION ENGINES (arrangements in connection with cooling of propulsion units
+in vehicles B60K 11/00; heat-transfer, heat-exchange or heat-storage materials C09K 5/00;
+{cooling of gas-turbine engines F02C 7/12}; heat exchange in general, radiators F28)
+1. In this subclass, the following terms or expressions are used with the meanings indicated:
+• "air" also includes other gaseous cooling fluids;
+• "liquid cooling" also includes cooling where liquid is used as the heat transferring fluid between parts to be cooled and the
+• "air cooling" means direct air cooling and thus excludes indirect air cooling occurring in liquid cooling systems as
+• "cooling-air" includes directly or indirectly acting cooling-air.
+2. Attention is drawn to the notes preceding class F01, especially as regards Note (3).
+3. Cooling by lubricant is classified in subclass F01M when the lubrication aspect predominates and in subclass F01P when the
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+Air cooling; Liquid cooling (propelling cooling-air or liquid coolants
+F01P 5/00; controlling supply or circulation of coolants F01P 7/00;
+cylinders, pistons, valves, fuel injectors, sparking-plugs, or other
+engine or machine parts, modified to facilitate cooling, see the
+relevant classes for such parts)
+ 2001/005   . {Cooling engine rooms}
+    1/02    . Arrangements for cooling cylinders or cylinder
+heads, e.g. ducting cooling-air from its pressure
+source to cylinders or along cylinders
+ 2001/023   . . {Cooling cylinders (F01P 2003/022 takes
+ 2001/026   . . {Cooling cylinder heads (F01P 2003/025 takes
+    1/04    . Arrangements for cooling pistons
+    1/06    . Arrangements for cooling other engine or machine
+    1/08    . . for cooling intake or exhaust valves
+    1/10    . . for cooling fuel injectors or sparking-plugs
+ 2003/003   . . {having boiling-point higher than 100°C}
+ 2003/005   . {the liquid being fuel}
+ 2003/006   . {the liquid being oil}
+ 2003/008   . {the liquid being water and oil}
+    3/02    . Arrangements for cooling cylinders or cylinder
+ 2003/021   . . {Cooling cylinders}
+ 2003/022   . . . {combined with air cooling}
+ 2003/024   . . {Cooling cylinder heads}
+ 2003/025   . . . {combined with air cooling}
+ 2003/027   . . {Cooling cylinders and cylinder heads in parallel}
+ 2003/028   . . {Cooling cylinders and cylinder heads in series}
+    3/04    . . Liquid-to-air heat-exchangers combined with, or
+arranged on, cylinders or cylinder heads
+    3/06    . Arrangements for cooling pistons
+    3/08    . . Cooling of piston exterior only, e.g. by jets
+    3/10    . . Cooling by flow of coolant through pistons
+    3/12    . Arrangements for cooling other engine or machine
+    3/14    . . for cooling intake or exhaust valves
+    3/16    . . for cooling fuel injectors or sparking-plugs
+    3/18    . Arrangements or mounting of liquid-to-air heat-
+exchangers (such arrangements on cylinders or
+cylinder heads F01P 3/04; relative to vehicles
+ 2003/182   . . {with multiple heat-exchangers}
+ 2003/185   . . {arranged in parallel}
+ 2003/187   . . {arranged in series}
+    3/20    . Cooling circuits not specific to a single part of
+engine or machine (F01P 3/22 takes precedence)
+    3/202   . . {for outboard marine engines}
+    3/207   . . {liquid-to-liquid heat-exchanging relative to
+    3/22    . characterised by evaporation and condensation
+of coolant in closed cycles (other cooling by
+evaporation F01P 9/02); characterised by the
+coolant reaching higher temperatures than normal
+    3/2207  . . {characterised by the coolant reaching
+temperatures higher than the normal atmospheric
+ 2003/2221  . . . {of the horizontal type}
+ 2003/2228  . . . {of the upflow type}
+ 2003/2235  . . . {of the downflow type}
+ 2003/2242  . . . {Steam-to-steam condensers}
+ 2003/225   . . . {Steam-to-liquid condensers}
+ 2003/2257  . . . {Rotating condensers}
+    3/2271  . . {Closed cycles with separator and liquid return}
+    3/2285  . . {Closed cycles with condenser and feed pump}
+ 2003/2292  . . {with thermostatically controlled by-pass}
+Pumping cooling-air or liquid coolants; Controlling circulation or
+    5/00    Pumping cooling-air or liquid coolants (controlling
+circulation or supply of coolants by influencing drive
+    5/02    . Pumping cooling-air; Arrangements of cooling-air
+ 2005/025   . . {using two or more air pumps}
+    5/04    . . Pump-driving arrangements
+    5/043   . . . {Pump reversing arrangements}
+ 2005/046   . . . {with electrical pump drive}
+    5/06    . . Guiding or ducting air to, or from, ducted fans
+    5/08    . . Use of engine exhaust gases for pumping cooling-
+    5/10    . Pumping liquid coolant; Arrangements of coolant
+ 2005/105   . . {Using two or more pumps}
+    5/12    . . Pump-driving arrangements
+ 2005/125   . . . {Driving auxiliary pumps electrically}
+    5/14    . Safety means against, or active at, failure of
+coolant-pumps drives, e.g. shutting engine down;
+Means for indicating functioning of coolant pumps
+    7/00    Controlling of coolant flow
+    7/02    . the coolant being cooling-air
+    7/023   . . {Cowlings for airplane engines}
+    7/026   . . {Thermostatic control}
+    7/04    . . by varying pump speed, e.g. by changing pump-
+    7/042   . . . {using fluid couplings (couplings or clutches of
+    7/044   . . . {using hydraulic drives}
+    7/046   . . . {using mechanical drives}
+    7/048   . . . {using electrical drives}
+    7/06    . . by varying blade pitch
+    7/08    . . by cutting in or out of pumps
+    7/081   . . . {using clutches, e.g. electro-magnetic or
+    7/082   . . . . {using friction clutches}
+    7/084   . . . . . {actuated electromagnetically}
+    7/085   . . . . . {actuated by fluid pressure}
+    7/087   . . . . . {actuated directly by deformation of a
+    7/088   . . . . . {actuated in response to driving speed, e.g.
+    7/10    . . by throttling amount of air flowing through
+    7/12    . . . by thermostatic control
+    7/14    . the coolant being liquid
+ 2007/143   . . {using restrictions}
+    7/16    . . by thermostatic control
+    7/161   . . . {by bypassing pumps}
+    7/162   . . . {by cutting in and out of pumps}
+    7/164   . . . {by varying pump speed}
+    7/165   . . . {characterised by systems with two or more
+    7/167   . . . {by adjusting the pre-set temperature according
+to engine parameters, e.g. engine load, engine
+ 2007/168   . . . {By varying the cooling capacity of a liquid-to-
+    9/00    Cooling having pertinent characteristics not
+provided for in, or of interest apart from, groups
+F01P 1/00 - F01P 7/00 (profiting from waste heat of
+combustion-engine cooling F02G 5/00)
+ 2009/005   . {Cooling with melting solids}
+    9/02    . Cooling by evaporation, e.g. by spraying water on
+to cylinders (evaporation and condensation of liquid
+coolant in closed cycles F01P 3/22 {; evaporation
+or evaporation apparatus for physical or chemical
+purposes, e.g. evaporation of liquids for gas phase
+    9/04    . by simultaneous or alternative use of direct air-
+cooling and liquid cooling (F01P 9/02 takes
+    9/06    . by use of refrigerating apparatus, e.g. of compressor
+   11/00    Component parts, details, or accessories not
+provided for in, or of interest apart from, groups
+   11/02    . Liquid-coolant {filling}, overflow, venting, or
+draining devices (automatic draining during freezing
+   11/0209  . . . {Closure caps}
+ 2011/0219  . . . . . {using bayonet connections}
+ 2011/0223  . . . . . {Decoration}
+ 2011/0228  . . . . . {Sealing}
+ 2011/0233  . . . . . {Venting}
+   11/0238  . . . . {with overpressure valves or vent valves}
+ 2011/0242  . . . . . {setting the pressure valve}
+   11/0247  . . . . {Safety; Locking against opening}
+ 2011/0252  . . . . . {Venting before opening}
+ 2011/0257  . . . . . {with theft preventing means}
+ 2011/0261  . . . . . {activated by temperature}
+ 2011/0266  . . . . . {activated by pressure}
+ 2011/0271  . . . . {Semi-permeable, e.g. using Gore-Tex c
+   11/0276  . . {Draining or purging}
+   11/028   . . {Deaeration devices}
+   11/0285  . . {Venting devices}
+2Pumping cooling-air or liquid coolants; Controlling circulation or supply of coolants
+   11/029   . . {Expansion reservoirs}
+   11/0295  . . {Condensers for radiators}
+   11/04    . Arrangements of liquid pipes or hoses
+   11/06    . Cleaning (in general B08B); Combating corrosion
+ 2011/061   . . {Cleaning or combating corrosion using filters}
+ 2011/063   . . {Cleaning (F01P 2011/061 takes precedence)}
+ 2011/066   . . {Combating corrosion (F01P 2011/061 takes
+   11/08    . Arrangements of lubricant coolers (in lubrication
+   11/10    . Guiding or ducting cooling-air, to, or from, liquid-
+   11/12    . Filtering, cooling, or silencing cooling-air
+   11/14    . Indicating devices; Other safety devices
+   11/16    . . concerning coolant temperature (F01P 11/20
+   11/18    . . concerning coolant pressure, coolant flow, or
+   11/20    . . concerning atmospheric freezing conditions, e.g.
+automatically draining or heating during frosty
+ 2011/205   . . {using heat-accumulators}
+ 2023/00    Signal processing; Details thereof
+ 2023/08    . Microprocessor; Microcomputer
+Air cooling; Liquid cooling (propelling cooling-air or liquid coolants
+F01P 5/00; controlling supply or circulation of coolants F01P 7/00;
+cylinders, pistons, valves, fuel injectors, sparking-plugs, or other
+engine or machine parts, modified to facilitate cooling, see the
+relevant classes for such parts)
+ 2025/06    . . for determining flow
+ 2025/12    . . Cabin temperature
+ 2025/13    . . Ambient temperature
+ 2025/30    . . Engine incoming fluid temperature
+ 2025/31    . . Cylinder temperature
+ 2025/32    . . Engine outcoming fluid temperature
+ 2025/33    . . Cylinder head temperature
+ 2025/34    . . Heat exchanger incoming fluid temperature
+ 2025/36    . . Heat exchanger mixed fluid temperature
+ 2025/40    . . Oil temperature
+ 2025/42    . . Intake manifold temperature
+ 2025/44    . . Outlet manifold temperature
+ 2025/46    . . Engine parts temperature
+ 2025/48    . . Engine room temperature
+ 2025/50    . . using two or more temperature sensors
+ 2025/52    . . Heat exchanger temperature
+ 2025/60    . Operating parameters
+ 2025/64    . . Number of revolutions
+ 2025/80    . Concentration anti-freeze
+ 2031/16    . using melting materials
+ 2031/18    . Detecting fluid leaks
+ 2031/22    . using warning lamps
+ 2031/30    . Cooling after the engine is stopped
+ 2031/32    . Deblocking of damaged thermostat
+ 2031/36    . Failure of coolant pump
+ 2050/04    . . using direct cooling
+ 2050/06    . . using liquid-to-liquid heat exchangers
+ 2050/12    . . Outboard engine
+ 2060/00    Cooling circuits using auxiliaries
+ 2060/045   . . for transmissions
+ 2060/185   . . for alternators or generators
+ 2070/02    . using shape memory alloys
+ 2070/04    . using electrical heating elements
+ 2070/06    . Using intake pressure as actuating fluid
+ 2070/08    . Using lubricant pressure as actuating fluid
+ 2070/10    . using electrical or electromechanical means
+ 2070/30    . Rotating radiators
+ 2070/32    . Ring-shaped heat exchangers
+ 2070/50    . mounting fans to heat-exchangers
+ 2070/52    . mounting heat-exchangers

@@ -1,0 +1,256 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+MICROSTRUCTURAL TECHNOLOGY; NANOTECHNOLOGY
+MICROSTRUCTURAL DEVICES OR SYSTEMS, e.g. MICROMECHANICAL
+DEVICES (piezo-electric, electrostrictive or magnetostrictive elements per se H10N 30/00)
+1. This subclass does not cover:
+• purely electrical or electronic devices per se which are covered by section H, e.g. subclass H01L or class H10;
+• purely optical devices per se which are covered by subclasses G02B or G02F;
+• essentially two-dimensional structures, e.g. layered products which are covered by subclass B32B;
+• chemical or biological structures per se which are covered by section C;
+• structures in atomic scale produced by manipulation of single atoms or molecules, which are covered by group B82B 1/00.
+2. Devices or systems classified in this subclass are also classified in appropriate subclasses providing for their structural or
+functional features, if such features are of interest.
+3. Attention is drawn to the following places:
+Microcapsules for medicinal preparations
+Micromanupulators combined with microscopes
+4. In this subclass, local "residual" subgroups, e.g. B81B 7/0077, are used with the following purpose:
+When classifying a document which does not fit in any of a set of subgroups with the same dot-level, the document should
+be classified in the residual group, if present, and not in the group at the hierarchical level one dot above.
+In the example, the document shall be classified in B81B 7/0077 and not in B81B 7/0032 as B81B 7/0077 is "residual" to
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Devices without movable or flexible elements, e.g.
+    1/002   . {Holes characterised by their shape, in either
+longitudinal or sectional plane}
+    1/004   . . {Through-holes, i.e. extending from one face to
+    1/006   . {Microdevices formed as a single homogeneous
+piece, i.e. wherein the mechanical function is
+obtained by the use of the device, e.g. cutters}
+    3/00    Devices comprising flexible or deformable
+elements, e.g. comprising elastic tongues or
+membranes (B81B 5/00 takes precedence)
+    3/0002  . {Arrangements for avoiding sticking of the flexible
+    3/0005  . . {Anti-stiction coatings}
+    3/0008  . . {Structures for avoiding electrostatic attraction,
+e.g. avoiding charge accumulation}
+    3/001   . . {Structures having a reduced contact area, e.g.
+with bumps or with a textured surface}
+    3/0013  . . {Structures dimensioned for mechanical
+prevention of stiction, e.g. spring with increased
+    3/0016  . . {Arrangements for avoiding sticking of the
+flexible or moving parts not provided for in
+groups B81B 3/0005 - B81B 3/0013}
+    3/0018  . {Structures acting upon the moving or flexible
+element for transforming energy into mechanical
+movement or vice versa, i.e. actuators, sensors,
+    3/0021  . . {Transducers for transforming electrical into
+mechanical energy or vice versa (dynamo-electric
+machines H02K 99/00; electrostatic machines
+H02N 1/00; piezo-electric devices H10N 30/00)}
+    3/0024  . . {Transducers for transforming thermal into
+mechanical energy or vice versa, e.g. thermal or
+bimorph actuators (electric motors using thermal
+    3/0027  . . {Structures for transforming mechanical energy,
+e.g. potential energy of a spring into translation,
+    3/0029  . . {Transducers for transforming light into
+mechanical energy or viceversa}
+    3/0032  . . {Structures for transforming energy not provided
+for in groups B81B 3/0021 - B81B 3/0029}
+    3/0035  . {Constitution or structural means for controlling the
+movement of the flexible or deformable elements}
+    3/0037  . . {For increasing stroke, i.e. achieve large
+displacement of actuated parts}
+    3/004   . . {Angular deflection}
+    3/0043  . . . {Increasing angular deflection}
+    3/0045  . . . {Improve properties related to angular
+swinging, e.g. control resonance frequency}
+    3/0048  . . . {Constitution or structural means for
+controlling angular deflection not provided for
+in groups B81B 3/0043 - B81B 3/0045}
+    3/0051  . . {For defining the movement, i.e. structures
+that guide or limit the movement of an element
+(mechanical arrangements for preventing or
+damping vibration or shock H01H 3/60)}
+    3/0054  . . {For holding or placing an element in a given
+    3/0056  . . {Adjusting the distance between two elements,
+at least one of them being movable, e.g. air-gap
+    3/0059  . . {Constitution or structural means for controlling
+the movement not provided for in groups
+    3/0062  . {Devices moving in two or more dimensions, i.e.
+having special features which allow movement in
+    3/0064  . {Constitution or structural means for improving or
+controlling the physical properties of a device}
+    3/0067  . . {Mechanical properties}
+    3/007   . . . {For controlling stiffness, e.g. ribs}
+    3/0072  . . . {For controlling internal stress or strain
+in moving or flexible elements, e.g. stress
+    3/0075  . . . {For improving wear resistance}
+    3/0078  . . . {Constitution or structural means for improving
+mechanical properties not provided for in
+    3/0081  . . {Thermal properties}
+    3/0083  . . {Optical properties}
+    3/0086  . . {Electrical characteristics, e.g. reducing driving
+voltage, improving resistance to peak voltage}
+    3/0089  . . {Chemical or biological characteristics, e.g. layer
+which makes a surface chemically active}
+    3/0091  . . {Magnetic properties, e.g. guiding magnetic flux}
+    3/0094  . . {Constitution or structural means for improving
+or controlling physical properties not provided for
+    3/0097  . {Devices comprising flexible or deformable
+elements not provided for in groups
+    5/00    Devices comprising elements which are movable in
+relation to each other, e.g. comprising slidable or
+    7/00    Microstructural systems; {Auxiliary parts of
+microstructural devices or systems}
+    7/0003  . {MEMS mechanisms for assembling automatically
+hinged components, self-assembly devices (self-
+assembly processes B81C 1/00007)}
+    7/0009  . {Structural features, others than packages, for
+protecting a device against environmental influences
+(B81C 1/00777 takes precedence)}
+    7/0012  . . {Protection against reverse engineering,
+unauthorised use, use in unintended manner,
+wrong insertion or pin assignment}
+    7/0016  . . {Protection against shocks or vibrations, e.g.
+    7/0019  . . {Protection against thermal alteration or
+destruction (B81B 7/0083 takes precedence)}
+    7/0022  . . {Protection against electrostatic discharge
+(electrostatic discharge protection for electronic
+semiconductor circuits H01L 27/0248; circuit
+arrangements for protecting electronic switching
+circuits used for pulse technique against
+overcurrent or overvoltage H03K 17/08)}
+    7/0025  . . {Protection against chemical alteration}
+    7/0029  . . {Protection against environmental
+influences not provided for in groups
+    7/0032  . {Packages or encapsulation (processes for
+packaging MEMS B81C 1/00261; packaging of
+    7/0035  . . {for maintaining a controlled atmosphere inside
+of the chamber containing the MEMS}
+    7/0038  . . . {using materials for controlling the level of
+pressure, contaminants or moisture inside of the
+    7/0041  . . . {maintaining a controlled atmosphere with
+techniques not provided for in B81B 7/0038}
+    7/0045  . . {for reducing stress inside of the package
+    7/0048  . . . {between the MEMS die and the substrate}
+    7/0051  . . . {between the package lid and the substrate}
+    7/0054  . . . {between other parts not provided for in
+    7/0058  . . {for protecting against damages due to external
+chemical or mechanical influences, e.g. shocks or
+    7/0061  . . {suitable for fluid transfer from the MEMS out of
+the package or vice versa, e.g. transfer of liquid,
+    7/0064  . . {for protecting against electromagnetic or
+    7/0067  . . {for controlling the passage of optical signals
+    7/007   . . {Interconnections between the MEMS and
+    7/0074  . . {3D packaging, i.e. encapsulation containing one
+or several MEMS devices arranged in planes non-
+parallel to the mounting board}
+    7/0077  . . {Other packages not provided for in groups
+    7/008   . {MEMS characterised by an electronic circuit
+specially adapted for controlling or driving the
+same (B81B 7/0087 takes precedence; arrangements
+for starting, regulating, braking, or otherwise
+controlling an actuator H02N; control arrangements
+or circuits for visual indicators G09G 3/00)}
+1. This group covers: only MEMS with an
+electronic circuit which is not specific to a
+2. This group does not cover: electronic circuits
+per se, e.g. for controlling or driving application
+    7/0083  . {Temperature control}
+    7/0087  . . {On-device systems and sensors for controlling,
+    7/009   . . {Maintaining a constant temperature by heating
+    7/02    . containing distinct electrical or optical devices
+of particular relevance for their function, e.g.
+microelectro-mechanical systems [MEMS]
+    7/04    . Networks or arrays of similar microstructural
+ 2201/00    Specific applications of microelectromechanical
+ 2201/012   . . characterised by the shape
+ 2201/014   . . . having a cantilever fixed on one side connected
+ 2201/016   . . . having a bridge fixed on two ends and
+connected to one or more dimples
+ 2201/018   . . . Switches not provided for in
+ 2201/0214  . . Biosensors; Chemical sensors
+ 2201/0221  . . Variable capacitors
+ 2201/0228  . . Inertial sensors
+ 2201/0235  . . . Accelerometers
+ 2201/025   . . . Inertial sensors not provided for in
+B81B 2201/0235 - B81B 2201/0242
+ 2201/0257  . . Microphones or microspeakers
+ 2201/0264  . . Pressure sensors
+ 2201/0271  . . Resonators; ultrasonic resonators
+ 2201/0278  . . Temperature sensors
+ 2201/0285  . . Vibration sensors
+ 2201/0292  . . Sensors not provided for in
+B81B 2201/0207 - B81B 2201/0285
+ 2201/03    . Microengines and actuators
+ 2201/031   . . Thermal actuators
+ 2201/032   . . Bimorph and unimorph actuators, e.g. piezo and
+ 2201/034   . . Electrical rotating micromachines
+ 2201/037   . . Microtransmissions
+ 2201/038   . . Microengines and actuators not provided for in
+ 2201/042   . . Micromirrors, not used as optical switches
+ 2201/045   . . Optical switches
+ 2201/047   . . Optical MEMS not provided for in
+ 2201/051   . . Micromixers, microreactors
+ 2201/052   . . Ink-jet print cartridges
+ 2201/057   . . Micropipets, dropformers
+ 2201/058   . . Microfluidics not provided for in
+ 2201/07    . Data storage devices, static or dynamic memories
+ 2201/10    . Microfilters, e.g. for gas or fluids
+ 2201/11    . Read heads, write heads or micropositioners for
+ 2201/12    . STM or AFM microtips
+ 2201/13    . Mechanical connectors, i.e. not functioning as an
+ 2203/00    Basic microelectromechanical structures
+ 2203/01    . Suspended structures, i.e. structures allowing a
+ 2203/0127  . . Diaphragms, i.e. structures separating two media
+that can control the passage from one medium
+to another; Membranes, i.e. diaphragms with
+ 2203/0136  . . Comb structures
+ 2203/0145  . . Flexible holders
+ 2203/0163  . . . Spring holders
+ 2203/0172  . . . Flexible holders not provided for in
+B81B 2203/0154 - B81B 2203/0163
+ 2203/019   . . characterized by their profile
+ 2203/03    . Static structures
+ 2203/0346  . . . Grooves not provided for in
+ 2203/0369  . . characterized by their profile
+ 2203/0376  . . . rounded profile
+ 2203/0384  . . . sloped profile
+ 2203/0392  . . . profiles not provided for in
+B81B 2203/0376 - B81B 2203/0384
+ 2203/051   . . Translation according to an axis parallel to the
+ 2203/053   . . Translation according to an axis perpendicular to
+ 2203/055   . . Translation in a plane parallel to the substrate,
+i.e. enabling movement along any direction in the
+ 2203/056   . . Rotation in a plane parallel to the substrate
+ 2203/058   . . Rotation out of a plane parallel to the substrate
+ 2203/06    . Devices comprising elements which are movable in
+relation to each other, e.g. slidable or rotatable
+ 2207/00    Microstructural systems or auxiliary parts thereof
+ 2207/01    . comprising a micromechanical device connected to
+control or processing electronics, i.e. Smart-MEMS
+ 2207/012   . . the micromechanical device and the control or
+processing electronics being separate parts in the
+ 2207/015   . . the micromechanical device and the control or
+processing electronics being integrated on the
+ 2207/017   . . Smart-MEMS not provided for in
+ 2207/03    . Electronic circuits for micromechanical devices
+which are not application specific, e.g. for
+controlling, power supplying, testing, protecting
+ 2207/053   . . of movable structures
+ 2207/056   . . of static structures
+ 2207/091   . . Arrangements for connecting external electrical
+signals to mechanical structures inside the
+ 2207/092   . . . Buried interconnects in the substrate or in the
+ 2207/093   . . . Conductive package seal
+ 2207/094   . . . Feed-through, via
+ 2207/095   . . . . through the lid
+ 2207/096   . . . . through the substrate
+ 2207/097   . . . Interconnects arranged on the substrate or the
+lid, and covered by the package seal
+ 2207/098   . . . Arrangements not provided for in groups
+ 2207/11    . Structural features, others than packages, for
+protecting a device against environmental influences
+ 2207/115   . . Protective layers applied directly to the device
+ 2207/99    . Microstructural systems or auxiliary parts thereof
+not provided for in B81B 2207/01 - B81B 2207/115

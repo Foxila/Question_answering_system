@@ -1,0 +1,922 @@
+COOPERATIVE PATENT CLASSIFICATION
+ORGANIC MACROMOLECULAR COMPOUNDS; THEIR PREPARATION OR
+CHEMICAL WORKING-UP; COMPOSITIONS BASED THEREON
+COMPOSITIONS OF MACROMOLECULAR COMPOUNDS (compositions based on
+polymerisable monomers C08F, C08G; artificial filaments or fibres D01F; textile treating
+1. In this subclass, the following term is used with the meaning indicated:
+a. natural or conjugated diene rubbers;
+b. rubber in general (for a specific rubber, other than a natural rubber or a conjugated diene rubber, see the group provided
+for compositions of such macromolecular compounds).
+a. compositions are classified according to the mutual proportions by weight of only the macromolecular constituents;
+b. compositions are classified according to the macromolecular constituent or constituents present in the highest proportion: if
+all these constituents are present in equal proportions the composition is classified according to each of these constituents.
+3. Any macromolecular constituent of a composition which is not identified by the classification according to Note (2) above,
+and the use of which is determined to be novel and non-obvious, must also be classified in this subclass. For example, a
+composition containing 80 parts polyethene and 20 parts polyvinyl chloride is classified in both groups C08L 23/06 and
+C08L 27/06, if the use of polyvinyl chloride is determined to be novel and non-obvious. {This IPC Note does not apply in
+4. Any macromolecular constituent of a composition which is not identified by the classification according to Notes (2) or (3)
+above, and which is considered to represent information of interest for search, may also be classified in this subclass. This
+can, for example, be the case when it is considered of interest to enable searching of compositions using a combination of
+classification symbols. Such non-obligatory classification should be given as "additional information". {This IPC Note does
+5. In groups C08L 65/00 - C08L 85/00, in the absence of an indication to the contrary, compositions of macromolecular
+compounds obtained by reactions forming two different linkages in the main chain are classified only according to the linkage
+present in excess.{This Note corresponds to IPC Note (1) relating to C08L 65/00 - C08L 85/00.}
+6. {Compositions classified in C08K according to note 3 of C08K, are not classified in C08L.}
+7. {In this subclass, combination sets [C-Sets] are used. The detailed information about the C-Sets construction and the
+associated syntax rules is present in the definitions of C08L}
+8. {C08L 2666/00 indexing codes were used for C-Sets classification of documents before April 2012. In addition to note (6),
+for searching documents classified before April 2012, see also C08L 2666/00 in the definitions of C08L.}
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+Compositions of polysaccharides or of their derivatives
+    1/00    Compositions of cellulose, modified cellulose or
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+    1/02    . Cellulose; Modified cellulose
+    1/04    . . Oxycellulose; Hydrocellulose {, e.g.
+    1/06    . . Cellulose hydrate
+1Compositions of polysaccharides or of their derivatives
+    1/08    . Cellulose derivatives
+    1/10    . . Esters of organic acids {, i.e. acylates}
+    1/12    . . . Cellulose acetate
+    1/14    . . . Mixed esters, e.g. cellulose acetate-butyrate
+    1/16    . . Esters of inorganic acids
+    1/18    . . . Cellulose nitrate {, i.e. nitrocellulose}
+    1/20    . . Esters of both organic acids and inorganic acids
+    1/22    . . Cellulose xanthate
+    1/26    . . Cellulose ethers
+    1/282   . . . . {with halogen-substituted hydrocarbon
+    1/284   . . . . {with hydroxylated hydrocarbon radicals}
+    1/286   . . . . {substituted with acid radicals, e.g.
+    1/288   . . . . {substituted with nitrogen-containing
+    1/30    . . . Aryl ethers; Aralkyl ethers
+    1/32    . . Cellulose ether-esters
+    3/00    Compositions of starch, amylose or amylopectin or
+of their derivatives or degradation products
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+    3/02    . Starch; Degradation products thereof, e.g. dextrin
+    3/04    . Starch derivatives {, e.g. crosslinked derivatives}
+    3/10    . . Oxidised starch
+    3/12    . Amylose; Amylopectin; Degradation products
+    3/14    . Amylose derivatives; Amylopectin derivatives
+    3/20    . . Oxidised amylose; Oxidised amylopectin
+    5/00    Compositions of polysaccharides or of their
+derivatives not provided for in groups C08L 1/00
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+    5/02    . Dextran; Derivatives thereof
+    5/04    . Alginic acid; Derivatives thereof
+    5/06    . Pectin; Derivatives thereof
+    5/08    . Chitin; Chondroitin sulfate; Hyaluronic acid;
+    5/10    . Heparin; Derivatives thereof
+    5/12    . {Agar or} agar-agar {, i.e. mixture of agarose and
+agaropectin}; Derivatives thereof
+    5/14    . Hemicellulose; Derivatives thereof
+    5/16    . Cyclodextrin; Derivatives thereof
+Compositions of rubber or of their derivatives
+    7/00    Compositions of natural rubber
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+    9/00    Compositions of homopolymers or copolymers of
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+    9/02    . Copolymers with acrylonitrile
+    9/06    . Copolymers with styrene
+    9/10    . Latex (C08L 9/04, C08L 9/08 take precedence)
+   11/00    Compositions of homopolymers or copolymers of
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   13/00    Compositions of rubbers containing carboxyl
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   15/00    Compositions of rubber derivatives (C08L 11/00,
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   15/005   . {Hydrogenated nitrile rubber}
+   15/02    . Rubber derivatives containing halogen
+   17/00    Compositions of reclaimed rubber
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+2Compositions of rubber or of their derivatives
+   19/00    Compositions of rubbers not provided for in
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   19/003   . {Precrosslinked rubber; Scrap rubber; Used
+   19/006   . {Rubber characterised by functional groups, e.g.
+   21/00    Compositions of unspecified rubbers
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+Compositions of macromolecular compounds obtained by
+reactions involving only carbon-to-carbon unsaturated bonds
+{Groups C08L 23/00 - C08L 49/00 are to be interpreted in
+accordance with Notes 2), 3) and 4 a) following the title of
+   23/00    Compositions of homopolymers or copolymers of
+unsaturated aliphatic hydrocarbons having only
+one carbon-to-carbon double bond; Compositions
+of derivatives of such polymers
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   23/02    . not modified by chemical after-treatment
+   23/025   . . {Copolymer of an unspecified olefin with a
+   23/04    . . Homopolymers or copolymers of ethene
+   23/08    . . . Copolymers of ethene (C08L 23/16 takes
+   23/0807  . . . . {Copolymers of ethene with unsaturated
+hydrocarbons only containing more than
+   23/0815  . . . . . {Copolymers of ethene with aliphatic 1-
+   23/0823  . . . . . . {Copolymers of ethene with aliphatic
+   23/083   . . . . . {Copolymers of ethene with aliphatic
+polyenes, i.e. containing more than one
+   23/0838  . . . . . {Copolymers of ethene with aromatic
+   23/0846  . . . . {Copolymers of ethene with unsaturated
+hydrocarbons containing other atoms than
+   23/0853  . . . . . {Vinylacetate}
+   23/0861  . . . . . . {Saponified vinylacetate}
+   23/0869  . . . . . {Acids or derivatives thereof}
+   23/0876  . . . . . . {Neutralised polymers, i.e. ionomers}
+   23/0884  . . . . . . {Epoxide containing esters}
+   23/0892  . . . . . {containing monomers with other atoms
+than carbon, hydrogen or oxygen atoms}
+   23/10    . . Homopolymers or copolymers of propene
+   23/14    . . . Copolymers of propene (C08L 23/16 takes
+   23/142   . . . . {at least partially crystalline copolymers of
+   23/145   . . . . {Copolymers of propene with monomers
+having more than one C=C double bond}
+   23/147   . . . . {Copolymers of propene with monomers
+containing other atoms than carbon or
+   23/16    . . {Elastomeric} ethene-propene or ethene-propene-
+diene copolymers, {e.g. EPR and EPDM rubbers}
+This group is used for polymers comprising
+   23/18    . . Homopolymers or copolymers of hydrocarbons
+having four or more carbon atoms
+   23/20    . . . having four to nine carbon atoms
+   23/22    . . . . Copolymers of isobutene; Butyl rubber {;
+Homo- or copolymers of other iso-olefins}
+   23/24    . . . having ten or more carbon atoms
+   23/26    . modified by chemical after-treatment
+   23/28    . . by reaction with halogens or compounds
+containing halogen (C08L 23/32 takes
+   23/283   . . . {Halogenated homo- or copolymers of iso-
+   23/286   . . . {Chlorinated polyethylene}
+   23/32    . . by reaction with compounds containing
+   23/34    . . . by chlorosulfonation
+   23/36    . . by reaction with compounds containing nitrogen,
+ 2023/40    . . {by reaction with compounds changing molecular
+ 2023/42    . . . {Depolymerisation, vis-breaking or
+ 2023/44    . . . {Coupling; Molecular weight increase}
+   25/00    Compositions of, homopolymers or copolymers
+of compounds having one or more unsaturated
+aliphatic radicals, each having only one carbon-
+to-carbon double bond, and at least one being
+terminated by an aromatic carbocyclic ring;
+Compositions of derivatives of such polymers
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   25/02    . Homopolymers or copolymers of hydrocarbons
+   25/04    . . Homopolymers or copolymers of styrene
+3Compositions of macromolecular compounds obtained by reactions involving only carbon-to-carbon
+   25/08    . . . Copolymers of styrene (C08L 29/08,
+C08L 35/06, C08L 55/02 take precedence)
+   25/10    . . . . with conjugated dienes
+   25/12    . . . . with unsaturated nitriles
+   25/14    . . . . with unsaturated esters
+   25/16    . . Homopolymers or copolymers of alkyl-
+   25/18    . Homopolymers or copolymers of aromatic
+monomers containing elements other than carbon
+   27/00    Compositions of homopolymers or copolymers
+of compounds having one or more unsaturated
+aliphatic radicals, each having only one carbon-
+to-carbon double bond, and at least one being
+terminated by a halogen; Compositions of
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   27/02    . not modified by chemical after-treatment
+   27/04    . . containing chlorine atoms
+   27/06    . . . Homopolymers or copolymers of vinyl chloride
+   27/08    . . . Homopolymers or copolymers of vinylidene
+   27/10    . . containing bromine or iodine atoms
+   27/12    . . containing fluorine atoms
+   27/14    . . . Homopolymers or copolymers of vinyl fluoride
+   27/16    . . . Homopolymers or copolymers or vinylidene
+   27/18    . . . Homopolymers or copolymers or
+   27/20    . . . Homopolymers or copolymers of
+   27/22    . modified by chemical after-treatment
+   29/00    Compositions of homopolymers or copolymers
+of compounds having one or more unsaturated
+aliphatic radicals, each having only one carbon-
+to-carbon double bond, and at least one being
+terminated by an alcohol, ether, aldehydo, ketonic,
+acetal or ketal radical; Compositions of hydrolysed
+polymers of esters of unsaturated alcohols with
+saturated carboxylic acids; Compositions of
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   29/02    . Homopolymers or copolymers of unsaturated
+alcohols (C08L 29/14 takes precedence)
+   29/04    . . Polyvinyl alcohol; Partially hydrolysed
+homopolymers or copolymers of esters of
+unsaturated alcohols with saturated carboxylic
+   29/06    . . Copolymers of allyl alcohol
+   29/08    . . . with vinyl-aromatic monomers
+   29/10    . Homopolymers or copolymers of unsaturated ethers
+   29/12    . Homopolymers or copolymers of unsaturated
+   29/14    . Homopolymers or copolymers of acetals or ketals
+obtained by polymerisation of unsaturated acetals
+or ketals or by after-treatment of polymers of
+   31/00    Compositions of homopolymers or copolymers
+of compounds having one or more unsaturated
+aliphatic radicals, each having only one carbon-
+to-carbon double bond, and at least one being
+terminated by an acyloxy radical of a saturated
+carboxylic acid, of carbonic acid or of a haloformic
+acid (of hydrolysed polymers C08L 29/00);
+Compositions of derivatives of such polymers
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   31/02    . Homopolymers or copolymers of esters of
+   31/04    . . Homopolymers or copolymers of vinyl acetate
+   31/06    . Homopolymers or copolymers of esters of
+   31/08    . . of phthalic acid
+   33/00    Compositions of homopolymers or copolymers
+of compounds having one or more unsaturated
+aliphatic radicals, each having only one carbon-
+to-carbon double bond, and only one being
+terminated by only one carboxyl radical, or of
+salts, anhydrides, esters, amides, imides or nitriles
+thereof; Compositions of derivatives of such
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   33/02    . Homopolymers or copolymers of acids; Metal or
+   33/04    . Homopolymers or copolymers of esters
+{(C08L 43/04 takes precedence)}
+   33/06    . . of esters containing only carbon, hydrogen and
+oxygen, which oxygen atoms are present only as
+   33/062   . . . {Copolymers with monomers not covered by
+   33/064   . . . . {containing anhydride, COOH or COOM
+groups, with M being metal or onium-cation}
+   33/066   . . . . {containing -OH groups}
+   33/068   . . . . {containing glycidyl groups}
+   33/08    . . . Homopolymers or copolymers of acrylic acid
+   33/10    . . . Homopolymers or copolymers of methacrylic
+   33/12    . . . . Homopolymers or copolymers of methyl
+4Compositions of macromolecular compounds obtained by reactions involving only carbon-to-carbon
+   33/14    . . of esters containing halogen, nitrogen, sulfur, or
+oxygen atoms in addition to the carboxy oxygen
+   33/16    . . . Homopolymers or copolymers of esters
+   33/18    . Homopolymers or copolymers of nitriles
+   33/20    . . Homopolymers or copolymers of acrylonitrile
+   33/22    . . Homopolymers or copolymers of nitriles
+containing four or more carbon atoms
+   33/24    . Homopolymers or copolymers of amides or imides
+   33/26    . . Homopolymers or copolymers of acrylamide or
+   35/00    Compositions of homopolymers or copolymers
+of compounds having one or more unsaturated
+aliphatic radicals, each having only one carbon-
+to-carbon double bond, and at least one being
+terminated by a carboxyl radical, and containing
+at least one other carboxyl radical in the molecule,
+or of salts, anhydrides, esters, amides, imides or
+nitriles thereof; Compositions of derivatives of
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   35/02    . Homopolymers or copolymers of esters
+(C08L 35/06, C08L 35/08 take precedence)
+   35/04    . Homopolymers or copolymers of nitriles
+(C08L 35/06, C08L 35/08 take precedence)
+   35/06    . Copolymers with vinyl aromatic monomers
+   35/08    . Copolymers with vinyl ethers
+   37/00    Compositions of homopolymers or copolymers
+of compounds having one or more unsaturated
+aliphatic radicals, each having only one carbon-
+to-carbon double bond, and at least one being
+terminated by a heterocyclic ring containing
+oxygen (of cyclic esters of polyfunctional acids
+C08L 31/00; of cyclic anhydrides of unsaturated acids
+C08L 35/00); Compositions of derivatives of such
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   39/00    Compositions of homopolymers or copolymers
+of compounds having one or more unsaturated
+aliphatic radicals, each having only one carbon-
+to-carbon double bond, and at least one being
+terminated by a single or double bond to nitrogen
+or by a heterocyclic ring containing nitrogen;
+Compositions of derivatives of such polymers
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   39/02    . Homopolymers or copolymers of vinylamine
+   39/04    . Homopolymers or copolymers of monomers
+containing heterocyclic rings having nitrogen as
+   39/06    . . Homopolymers or copolymers of N-vinyl-
+   39/08    . . Homopolymers or copolymers of vinyl-pyridine
+   41/00    Compositions of homopolymers or copolymers
+of compounds having one or more unsaturated
+aliphatic radicals, each having only one carbon-
+to-carbon double bond, and at least one being
+terminated by a bond to sulfur or by a heterocyclic
+ring containing sulfur; Compositions of derivatives
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   43/00    Compositions of homopolymers or copolymers
+of compounds having one or more unsaturated
+aliphatic radicals, each having only one carbon-to-
+carbon double bond, and containing boron, silicon,
+phosphorus, selenium, tellurium or a metal;
+Compositions of derivatives of such polymers (of
+metal salts, e.g. phenolates, alcoholates, see the parent
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   43/02    . Homopolymers or copolymers of monomers
+   43/04    . Homopolymers or copolymers of monomers
+   45/00    Compositions of homopolymers or copolymers
+of compounds having no unsaturated aliphatic
+radicals in side chain, and having one or more
+carbon-to-carbon double bonds in a carbocyclic
+or in a heterocyclic ring system; Compositions
+of derivatives of such polymers (of cyclic
+anhydrides or imides C08L 35/00; of cyclic esters of
+polyfunctional acids C08L 31/00)
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   45/02    . of coumarone-indene polymers
+   47/00    Compositions of homopolymers or copolymers
+of compounds having one or more unsaturated
+aliphatic radicals, at least one having two or more
+carbon-to-carbon double bonds; Compositions
+of derivatives of such polymers (C08L 45/00
+takes precedence; of conjugated diene rubbers
+In this group, C-Sets are used.
+5Compositions of macromolecular compounds obtained by reactions involving only carbon-to-carbon
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   49/00    Compositions of homopolymers or copolymers of
+compounds having one or more carbon-to-carbon
+triple bonds; Compositions of derivatives of such
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   51/00    Compositions of graft polymers in which the
+grafted component is obtained by reactions only
+involving carbon-to-carbon unsaturated bonds
+(for ABS polymers C08L 55/02); Compositions of
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   51/003   . {grafted on to macromolecular compounds obtained
+by reactions only involving unsaturated carbon-
+to-carbon bonds (C08L 51/04, C08L 51/06 take
+   51/006   . {grafted on to block copolymers containing at least
+one sequence of polymer obtained by reactions only
+involving carbon-to-carbon unsaturated bonds}
+   51/02    . grafted on to polysaccharides
+   51/04    . grafted on to rubbers
+   51/06    . grafted on to homopolymers or copolymers of
+aliphatic hydrocarbons containing only one carbon-
+   51/08    . grafted on to macromolecular compounds obtained
+otherwise than by reactions only involving
+unsaturated carbon-to-carbon bonds
+   51/085   . . {on to polysiloxanes}
+   51/10    . grafted on to inorganic materials
+   53/00    Compositions of block copolymers containing
+at least one sequence of a polymer obtained
+by reactions only involving carbon-to-carbon
+unsaturated bonds; Compositions of derivatives of
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   53/005   . {Modified block copolymers}
+   53/02    . of vinyl-aromatic monomers and conjugated dienes
+   55/00    Compositions of homopolymers or copolymers,
+obtained by polymerisation reactions only
+involving carbon-to-carbon unsaturated bonds, not
+provided for in groups C08L 23/00 - C08L 53/00
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   55/005   . {Homopolymers or copolymers obtained by
+polymerisation of macromolecular compounds
+terminated by a carbon-to-carbon double bond}
+   55/02    . ABS [Acrylonitrile-Butadiene-Styrene] polymers
+   55/04    . Polyadducts obtained by the diene synthesis
+   57/00    Compositions of unspecified polymers obtained
+by reactions only involving carbon-to-carbon
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   57/02    . Copolymers of mineral oil hydrocarbons
+   57/04    . Copolymers in which only the monomer in minority
+   57/06    . Homopolymers or copolymers containing elements
+   57/08    . . containing halogen atoms
+   57/10    . . containing oxygen atoms
+   57/12    . . containing nitrogen atoms
+Compositions of macromolecular compounds obtained otherwise
+than by reactions only involving carbon-to-carbon unsaturated
+   59/00    Compositions of polyacetals; Compositions of
+derivatives of polyacetals (of polyvinyl acetals
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   59/02    . Polyacetals containing polyoxymethylene sequences
+   59/04    . Copolyoxymethylenes
+   61/00    Compositions of condensation polymers
+of aldehydes or ketones (with polyalcohols
+C08L 59/00; with polynitriles C08L 77/00);
+Compositions of derivatives of such polymers
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   61/02    . Condensation polymers of aldehydes or ketones
+6Compositions of macromolecular compounds obtained otherwise than by reactions only involving
+   61/04    . Condensation polymers of aldehydes or ketones
+   61/06    . . of aldehydes with phenols
+   61/12    . . . with polyhydric phenols
+   61/14    . . . Modified phenol-aldehyde condensates
+   61/16    . . of ketones with phenols
+   61/18    . Condensation polymers of aldehydes or ketones
+with aromatic hydrocarbons or their halogen
+   61/20    . Condensation polymers of aldehydes or ketones
+with only compounds containing hydrogen attached
+to nitrogen (with aminophenols C08L 61/04)
+   61/22    . . of aldehydes with acyclic or carbocyclic
+   61/24    . . . with urea or thiourea
+   61/26    . . of aldehydes with heterocyclic compounds
+   61/28    . . . with melamine
+   61/30    . . of aldehydes with heterocyclic and acyclic or
+   61/32    . . Modified amine-aldehyde condensates
+   61/34    . Condensation polymers of aldehydes or ketones
+with monomers covered by at least two of the
+groups C08L 61/04, C08L 61/18 and C08L 61/20
+   63/00    Compositions of epoxy resins; Compositions of
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   63/06    . Triglycidylisocyanurates
+   63/08    . Epoxidised polymerised polyenes
+   63/10    . Epoxy resins modified by unsaturated compounds
+   65/00    Compositions of macromolecular compounds
+obtained by reactions forming a carbon-to-carbon
+link in the main chain (C08L 7/00 - C08L 57/00,
+C08L 61/00 take precedence); Compositions of
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   67/00    Compositions of polyesters obtained by reactions
+forming a carboxylic ester link in the main chain
+(of polyester-amides C08L 77/12; of polyester-imides
+C08L 79/08); Compositions of derivatives of such
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   67/02    . Polyesters derived from dicarboxylic acids
+and dihydroxy compounds (C08L 67/06 takes
+   67/025   . . {containing polyether sequences}
+   67/03    . . the dicarboxylic acids and dihydroxy compounds
+having the carboxyl- and the hydroxy groups
+directly linked to aromatic rings
+   67/04    . Polyesters derived from hydroxycarboxylic acids,
+e.g. lactones (C08L 67/06 takes precedence)
+   67/06    . Unsaturated polyesters
+   67/07    . . having terminal carbon-to-carbon unsaturated
+   67/08    . Polyesters modified with higher fatty oils or their
+acids, or with resins or resin acids
+   69/00    Compositions of polycarbonates; Compositions of
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   69/005   . {Polyester-carbonates}
+   71/00    Compositions of polyethers obtained by reactions
+forming an ether link in the main chain (of
+polyacetals C08L 59/00; of epoxy resins C08L 63/00;
+of polythioether-ethers C08L 81/02; of polyether-
+sulfones C08L 81/06); Compositions of derivatives
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   71/02    . Polyalkylene oxides
+   71/03    . . Polyepihalohydrins
+   71/08    . Polyethers derived from hydroxy compounds or
+from their metallic derivatives (C08L 71/02 takes
+   71/12    . . . Polyphenylene oxides
+   71/123   . . . . {not modified by chemical after-treatment}
+   71/126   . . . . {modified by chemical after-treatment}
+   71/14    . . Furfuryl alcohol polymers
+   73/00    Compositions of macromolecular compounds
+obtained by reactions forming a linkage
+containing oxygen or oxygen and carbon in
+the main chain, not provided for in groups
+C08L 59/00 - C08L 71/00; Compositions of
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+7Compositions of macromolecular compounds obtained otherwise than by reactions only involving
+   75/00    Compositions of polyureas or polyurethanes;
+Compositions of derivatives of such polymers
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   75/06    . . from polyesters
+   75/08    . . from polyethers
+   75/10    . . from polyacetals
+   75/12    . . from compounds containing nitrogen and active
+hydrogen, the nitrogen atom not being part of an
+   75/14    . . Polyurethanes having carbon-to-carbon
+   75/16    . . . having terminal carbon-to-carbon unsaturated
+   77/00    Compositions of polyamides obtained by reactions
+forming a carboxylic amide link in the main chain
+(of polyhydrazides C08L 79/06; of polyamideimides
+or polyamide acids C08L 79/08); Compositions of
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   77/02    . Polyamides derived from omega-amino carboxylic
+acids or from lactams thereof (C08L 77/10 takes
+   77/04    . Polyamides derived from alpha-amino carboxylic
+acids (C08L 77/10 takes precedence)
+   77/06    . Polyamides derived from polyamines and
+polycarboxylic acids (C08L 77/10 takes precedence)
+   77/08    . . from polyamines and polymerised unsaturated
+   77/10    . Polyamides derived from aromatically bound amino
+and carboxyl groups of amino-carboxylic acids or of
+polyamines and polycarboxylic acids
+   79/00    Compositions of macromolecular compounds
+obtained by reactions forming in the main chain of
+the macromolecule a linkage containing nitrogen
+with or without oxygen or carbon only, not
+provided for in groups C08L 61/00 - C08L 77/00
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   79/04    . Polycondensates having nitrogen-containing
+heterocyclic rings in the main chain;
+Polyhydrazides; Polyamide acids or similar
+   79/06    . . Polyhydrazides; Polytriazoles; Polyamino-
+   79/08    . . Polyimides; Polyester-imides; Polyamide-imides;
+Polyamide acids or similar polyimide precursors
+   79/085   . . . {Unsaturated polyimide precursors}
+   81/00    Compositions of macromolecular compounds
+obtained by reactions forming in the main chain
+of the macromolecule a linkage containing sulfur
+with or without nitrogen, oxygen or carbon only;
+Compositions of polysulfones; Compositions of
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   81/02    . Polythioethers; Polythioether-ethers
+   81/06    . Polysulfones; Polyethersulfones
+   81/10    . Polysulfonamides; Polysulfonimides
+   83/00    Compositions of macromolecular compounds
+obtained by reactions forming in the main chain
+of the macromolecule a linkage containing silicon
+with or without sulfur, nitrogen, oxygen or carbon
+only; Compositions of derivatives of such polymers
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   83/06    . . containing silicon bound to oxygen-containing
+groups (C08L 83/12 takes precedence)
+This group does not comprise Si-OH and Si-
+OR groups that are classified in  C08L 83/04.
+   83/08    . . containing silicon bound to organic groups
+containing atoms other than carbon, hydrogen and
+   83/10    . Block- or graft-copolymers containing polysiloxane
+sequences (obtained by polymerising a compound
+having a carbon-to-carbon double bond on to a
+polysiloxane C08L 51/08, C08L 53/00)
+   83/12    . . containing polyether sequences
+   83/14    . in which at least two but not all the silicon atoms
+are connected by linkages other than oxygen atoms
+   83/16    . in which all the silicon atoms are connected by
+linkages other than oxygen atoms
+8Compositions of macromolecular compounds obtained otherwise than by reactions only involving
+   85/00    Compositions of macromolecular compounds
+obtained by reactions forming a linkage in the
+main chain of the macromolecule containing
+atoms other than silicon, sulfur, nitrogen, oxygen
+and carbon; Compositions of derivatives of such
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   85/02    . containing phosphorus
+   87/00    Compositions of unspecified macromolecular
+compounds, obtained otherwise than by
+polymerisation reactions only involving
+unsaturated carbon-to-carbon bonds
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   87/005   . {Block or graft polymers not provided for in groups
+Compositions of natural macromolecular compounds or of
+derivatives thereof (of polysaccharides C08L 1/00 - C08L 5/00; of
+   89/00    Compositions of proteins; Compositions of
+derivatives thereof (foodstuff preparations
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   89/02    . Casein-aldehyde condensates
+   89/04    . Products derived from waste materials, e.g. horn,
+   89/06    . . derived from leather or skin {, e.g. gelatin}
+   91/00    Compositions of oils, fats or waxes; Compositions
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   91/02    . Vulcanised oils, e.g. factice
+   93/00    Compositions of natural resins; Compositions
+of derivatives thereof (of polysaccharides
+C08L 1/00 - C08L 5/00; of natural rubber C08L 7/00)
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   93/02    . Shellac (French polish C09F)
+   95/00    Compositions of bituminous materials, e.g. asphalt,
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   95/005   . {Aqueous compositions, e.g. emulsions}
+   97/00    Compositions of lignin-containing materials (of
+polysaccharides C08L 1/00 - C08L 5/00)
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+   97/002   . {Peat, lignite, coal (ceramic products based on
+carbon or carbides C04B 35/00; working-up peat
+C10F 7/00; briquettes C10L 5/00)}
+   97/02    . Lignocellulosic material, e.g. wood, straw or
+bagasse {(manufacture of articles made from
+lignocellulosic material by dry processes B27N)}
+   99/00    Compositions of natural macromolecular
+compounds or of derivatives thereof not provided
+for in groups C08L 89/00 - C08L 97/00
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+  101/00    Compositions of unspecified macromolecular
+In this group, C-Sets are used.
+The detailed information about the C-Sets
+construction and the associated syntax rules is
+present in the Definitions of C08L.
+  101/005   . {Dendritic macromolecules}
+  101/02    . characterised by the presence of specified groups {,
+e.g. terminal or pendant functional groups}
+  101/025   . . {containing nitrogen atoms}
+  101/04    . . containing halogen atoms
+  101/06    . . containing oxygen atoms {(C08L 101/025 takes
+9Compositions of natural macromolecular compounds or of derivatives thereof
+  101/08    . . . Carboxyl groups
+  101/10    . . containing hydrolysable silane groups
+  101/12    . characterised by physical features, e.g. anisotropy,
+viscosity or electrical conductivity (liquid crystal
+materials or compositions C09K 19/00)
+  101/14    . . the macromolecular compounds being water
+soluble or water swellable, e.g. aqueous gels
+  101/16    . the macromolecular compounds being
+ 2201/02    . Flame or fire retardant/resistant
+ 2201/08    . Stabilised against heat, light or radiation or
+ 2201/10    . Transparent films; Clear coatings; Transparent
+ 2201/14    . Gas barrier composition
+ 2201/22    . Halogen free composition
+ 2201/50    . Aqueous dispersion, e.g. containing polymers with a
+glass transition temperature (Tg) above 20°C
+ 2201/52    . Aqueous emulsion or latex, e.g. containing
+polymers of a glass transition temperature (Tg)
+ 2201/54    . Aqueous solutions or dispersions
+ 2201/56    . Non-aqueous solutions or dispersions
+Properties; Applications; Other features
+ 2203/02    . for biomedical use
+ 2203/20    . use in electrical or conductive gadgets
+ 2203/202   . . use in electrical wires or wirecoating
+ 2203/204   . . use in solar cells
+ 2203/206   . . use in coating or encapsulating of electronic parts
+ 2203/30    . used for thermoforming
+ 2203/40    . used as motor oil additive
+ 2205/00    Polymer mixtures characterised by other features
+ 2205/02    . containing two or more polymers of the same C08L
+ 2205/025   . . containing two or more polymers of the same
+hierarchy C08L, and differing only in parameters
+such as density, comonomer content, molecular
+ 2205/03    . containing three or more polymers in a blend
+ 2205/035   . . containing four or more polymers in a blend
+ 2205/04    . containing interpenetrating networks
+ 2205/05    . containing polymer components which can react
+ 2205/06    . having improved processability or containing aids
+ 2205/08    . containing additives to improve the compatibility
+ 2205/12    . containing additives being liquid crystalline or
+ 2205/14    . containing polymeric additives characterised by
+ 2205/16    . . Fibres; Fibrils
+ 2205/20    . . . Hollow spheres
+ 2205/22    . Mixtures comprising a continuous polymer matrix
+in which are dispersed crosslinked particles of
+ 2205/24    . Crystallisation aids
+ 2205/242   . . Beta spherulite nucleating agents
+ 2207/00    Properties characterising the ingredient of the
+ 2207/02    . Heterophasic composition
+ 2207/04    . Thermoplastic elastomer
+ 2207/06    . Properties of polyethylene
+ 2207/066   . . LDPE (radical process)
+ 2207/068   . . Ultra high molecular weight polyethylene
+ 2207/07    . . Long chain branching
+ 2207/10    . Peculiar tacticity
+ 2207/12    . . Syndiotactic polypropylene
+ 2207/14    . . Amorphous or atactic polypropylene
+ 2207/22    . . Recycled asphalt
+ 2207/24    . . recycling of old tyres and caoutchouc and
+addition of caoutchouc particles
+ 2207/26    . . recycling of glass in bitumen
+ 2207/32    . containing low molecular weight liquid component
+ 2207/322   . . Liquid component is processing oil
+ 2207/324   . . Liquid component is low molecular weight
+ 2207/53    . Core-shell polymer
+ 2308/00    Chemical blending or stepwise polymerisation
+ 2312/04    . with phenolic resin
+ 2314/00    Polymer mixtures characterised by way of
+ 2314/02    . Ziegler natta catalyst
+ 2314/04    . Philipps catalyst
+ 2314/06    . Metallocene or single site catalysts
+ 2314/08    . prepared by late transition metal, i.e. Ni, Pd, Pt, Co,
+Rh, Ir, Fe, Ru or Os, single site catalyst
+ 2555/00    Characteristics of bituminous mixtures
+ 2555/10    . Design or test methods for bitumen or asphalt
+mixtures, e.g. series of measures, procedures or
+tests to obtain a bitumen or asphalt mixture having
+preset defined properties, general or international
+test methods, procedures or standards
+ 2555/20    . Mixtures of bitumen and aggregate defined by their
+production temperatures, e.g. production of asphalt
+for road or pavement applications
+10Properties; Applications; Other features
+ 2555/22    . . Asphalt produced above 140°C, e.g. hot melt
+ 2555/24    . . Asphalt produced between 100°C and 140°C, e.g.
+ 2555/26    . . Asphalt produced between 65°C and 100°C,
+e.g. half warm mix asphalt, low energy asphalt
+produced at 95°C or low temperature asphalt
+ 2555/28    . . Asphalt produced between 0°C and below 65°C,
+e.g. cold mix asphalt produced between 0°C and
+ 2555/30    . Environmental or health characteristics, e.g. energy
+consumption, recycling or safety issues
+ 2555/32    . . Environmental burden or human safety, e.g. CO2
+ 2555/34    . . Recycled or waste materials, e.g. reclaimed
+bitumen, asphalt, roads or pathways, recycled
+roof coverings or shingles, recycled aggregate,
+recycled tires, crumb rubber, glass or cullet, fly or
+ 2555/40    . Mixtures based upon bitumen or asphalt containing
+ 2555/50    . . Inorganic non-macromolecular ingredients
+ 2555/52    . . . Aggregate, e.g. crushed stone, sand, gravel or
+ 2555/54    . . . Sulfur or carbon black
+ 2555/60    . . Organic non-macromolecular ingredients, e.g. oil,
+ 2555/62    . . . from natural renewable resources
+ 2555/64    . . . . Oils, fats or waxes based upon fatty acid
+esters, e.g. fish oil, olive oil, lard, cocoa
+butter, bees wax or carnauba wax
+ 2555/70    . . . from natural non-renewable resources
+ 2555/72    . . . . Petrochemical based or extracted waxes,
+e.g. paraffin, Montan wax or cracked
+ 2555/74    . . . . Petrochemicals other than waxes, e.g.
+synthetic oils, diesel or other fuels,
+hydrocarbons, halogenated or otherwise
+ 2555/80    . . Macromolecular constituents
+ 2555/82    . . . from natural renewable resources, e.g. starch,
+cellulose, saw dust, straw, hair or shells
+ 2555/84    . . . Polymers comprising styrene, e.g. ,
+polystyrene, styrene-diene copolymers or
+styrene-butadiene-styrene copolymers
+ 2555/86    . . . Polymers containing aliphatic hydrocarbons
+only, e.g. polyethylene, polypropylene or
+ethylene-propylene-diene copolymers
+ 2666/00    Composition of polymers characterized by a
+further compound in the blend, being organic
+macromolecular compounds, natural resins, waxes
+or and bituminous materials, non-macromolecular
+organic substances, inorganic substances or
+characterized by their function in the composition
+Indexing codes of C08L 2666/00 have not been
+used for the classification of new documents
+since April 2012. However, they are used in
+C-Sets searches for documents prior to April
+2012. The detailed information about how to
+search using C08L 2666/00 C-Sets is presented in
+the Definitions of C08L, C09D and C09J.
+ 2666/02    . Organic macromolecular compounds, natural resins,
+waxes or and bituminous materials
+ 2666/04    . . Macromolecular compounds according
+to groups C08L 7/00 - C08L 49/00, or
+C08L 55/00 - C08L 57/00; Derivatives thereof
+ 2666/06    . . . Homopolymers or copolymers of unsaturated
+hydrocarbons; Derivatives thereof
+ 2666/08    . . . Homopolymers or copolymers according to
+C08L 7/00 - C08L 21/00; Derivatives thereof
+ 2666/10    . . Homopolymers or copolymers according to
+C08L 39/00 - C08L 49/00; Derivatives thereof
+ 2666/12    . . Homopolymers or copolymers not provided for in
+ 2666/14    . . Macromolecular compounds according to
+C08L 59/00 - C08L 87/00; Derivatives thereof
+ 2666/16    . . . Addition or condensation polymers
+of aldehydes or ketones according to
+C08L 59/00 - C08L 61/00; Derivatives thereof
+ 2666/18    . . . Polyesters or polycarbonates according to
+C08L 67/00 - C08L 69/00; Derivatives thereof
+ 2666/20    . . . Macromolecular compounds having
+nitrogen in the main chain according to
+C08L 75/00 - C08L 79/00; Derivatives thereof
+ 2666/22    . . . Macromolecular compounds not provided for
+ 2666/24    . . Graft or block copolymers according to groups
+C08L 51/00, C08L 53/00 or C08L 55/02;
+ 2666/26    . . Natural polymers, natural resins or derivatives
+thereof according to C08L 1/00 - C08L 5/00,
+C08L 89/00, C08L 93/00, C08L 97/00 or
+ 2666/28    . Non-macromolecular organic substances
+ 2666/32    . . Halogen-containing compounds
+ 2666/34    . . Oxygen-containing compounds, including
+ 2666/36    . . Nitrogen-containing compounds
+ 2666/38    . . Sulfur-, selenium- or tellurium-containing
+ 2666/40    . . Phosphorus-containing compounds
+ 2666/42    . . . Compounds containing phosphorus and sulfur
+ 2666/44    . . Silicon-containing compounds
+ 2666/46    . . Boron-containing compounds
+ 2666/48    . . Organo-metallic compounds, i.e. organic
+compounds containing a metal-to-carbon bond
+ 2666/50    . . Arsenic- or antimony-containing compounds
+ 2666/52    . . Metal-containing compounds
+ 2666/54    . Inorganic substances
+ 2666/58    . . SiO2 or silicates
+ 2666/66    . Substances characterised by their function in the
+ 2666/68    . . Plasticizers; Solvents
+ 2666/70    . . Organic dyes or pigments; Optical brightening
+ 2666/72    . . Fillers; Inorganic pigments; Reinforcing additives
+ 2666/76    . . . Textured backings, e.g. woven or non-woven
+ 2666/78    . . Stabilisers against oxidation, heat, light or ozone
+11Properties; Applications; Other features
+ 2666/80    . . . Metal-containing stabilizers
+ 2666/82    . . . Phosphorus-containing stabilizers
+ 2666/84    . . Flame-proofing or flame-retarding additives

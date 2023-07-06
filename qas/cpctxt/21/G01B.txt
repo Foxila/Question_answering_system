@@ -1,0 +1,563 @@
+COOPERATIVE PATENT CLASSIFICATION
+MEASURING LENGTH, THICKNESS OR SIMILAR LINEAR DIMENSIONS;
+MEASURING ANGLES; MEASURING AREAS; MEASURING IRREGULARITIES OF
+1. This subclass covers measuring of position or displacement in terms of linear or angular dimensions.
+2. In this subclass, the groups are distinguished by the measurement technique which is of major importance. Thus, the mere
+application of other techniques or means for giving a final indication does not affect the classification.
+3. Attention is drawn to the Notes following the title of class G01.
+4. Machines operated on similar principles to the hand-held devices specified in this subclass are classified with these devices.
+5. Measuring arrangements or details thereof covered by two or more of groups G01B 3/00 - G01B 17/00 are classified in group
+G01B 21/00 if no single other group can be selected as being predominantly applicable.
+{In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Measuring instruments characterised by the
+    3/00    Measuring instruments characterised by the use of
+When classifying in this group, mechanical
+arrangements for measuring specific parameters
+can be further classified in group G01B 5/00.
+    3/004   . . {Scales; Graduations}
+    3/006   . . . {having both coarse and fine graduation}
+    3/008   . . {Arrangements for controlling the measuring
+    3/02    . Rulers with scales or marks for direct reading
+    3/1003  . . characterised by structure or material;
+characterised by layout or indicia
+    3/1004  . . . {Measuring tapes without casings}
+    3/1005  . . Means for controlling winding or unwinding of
+    3/1007  . . . Means for locking
+ 2003/101   . . . . {acting on the drum}
+ 2003/1012  . . . . {engaging the tape in a direction parallel to
+ 2003/1015  . . . . {engaging the tape in a direction transversal
+ 2003/1017  . . . . {acting on the whole coil}
+    3/102   . . . Means for damping
+ 2003/1023  . . . {Winding mechanisms}
+ 2003/1025  . . . . {operated manually, e.g. crank-handles}
+ 2003/1028  . . . . {operated by electric motors}
+ 2003/103   . . . . {operated by springs}
+ 2003/1033  . . . {Means for activating the locking, braking or
+releasing of the tape, e.g. buttons}
+ 2003/1035  . . . . {by pivotal operation}
+ 2003/1038  . . . . {by translatory motion operation}
+    3/1041  . . characterised by casings
+    3/1043  . . . Details of internal structure thereof, e.g. means
+for coupling separately moulded casing halves
+    3/1046  . . . Details of external structure thereof, e.g. shapes
+    3/1048  . . . . Integrated means for affixing or holding
+ 2003/1051  . . . {specially adapted for two or more tapes within
+ 2003/1053  . . . {Tape exit slots, e.g. shape or exit direction}
+    3/1056  . . Tape end arrangements, e.g. end-hooks
+ 2003/1058  . . {Manufacturing or assembling methods}
+    3/1061  . . Means for displaying or assisting reading of
+ 2003/1064  . . . {Windows, e.g. lenses, glasses or cross-hairs}
+ 2003/1066  . . . {Index sliding on tape}
+    3/1069  . . . Electronic or mechanical display arrangements
+    3/1071  . . Separate means for supporting or affixing
+ 2003/1074  . . . {associated with the casings}
+ 2003/1076  . . . {associated with the end-hooks}
+ 2003/1079  . . . {associated with the tapes}
+    3/1084  . . Tapes combined with arrangements for functions
+ 2003/1087  . . . {for illuminating}
+    3/1089  . . . for marking, drawing or cutting
+    3/1092  . . . for performing length measurements and at
+least one other measurement of a different
+    3/1094  . . . for recording information or for performing
+ 2003/1097  . . . {Tape measures with an adhesive surface}
+    3/11    . Chains for measuring length
+    3/14    . Templates for checking contours {(templates for
+mounting doors or windows E04F 21/0007)}
+    3/16    . Compasses, i.e. with a pair of pivoted arms
+    3/163   . . {without measuring scale}
+    3/166   . . {provided with a measuring scale}
+    3/205   . . {provided with a counter for digital indication of
+    3/22    . Feeler-pin gauges, e.g. dial gauges (for measuring
+contours or curvatures G01B 5/20)
+    3/24    . . with open yoke, i.e. calipers
+    3/30    . Bars, blocks, or strips in which the distance
+between a pair of faces is fixed, although it may be
+preadjustable, e.g. end measure, feeler strip
+    3/303   . . {pre-adjustable, e.g. by means of
+    3/306   . . . {with inclined slide plane}
+    3/32    . . Holders therefor
+    3/34    . Ring or other apertured gauges, e.g. "go/no-go"
+    3/36    . . for external screw-threads
+    3/38    . Gauges with an open yoke and opposed faces, i.e.
+calipers, in which the internal distance between the
+faces is fixed, although it may be preadjustable
+    3/40    . . for external screw-threads
+    3/42    . . of limit-gauge type, i.e. "go/no-go" (G01B 3/40
+    3/44    . . . preadjustable for wear or tolerance
+    3/46    . Plug gauges for internal dimensions with engaging
+surfaces which are at a fixed distance, although they
+    3/48    . . for internal screw-threads
+    3/50    . . of limit-gauge type, i.e. "go/no-go" (G01B 3/48
+    3/52    . . . preadjustable for wear or tolerance
+    3/56    . Gauges for measuring angles or tapers, e.g. conical
+    3/563   . . {Protractors (for use in geodesy G01C 1/00;
+protractor heads for drawing machines
+    5/00    Measuring arrangements characterised by the use
+When classifying in this group, specific
+mechanical measuring instruments can be further
+    5/0002  . {Arrangements for supporting, fixing or guiding the
+measuring instrument or the object to be measured}
+    5/0004  . . {Supports (G01B 5/025 takes precedence)}
+    5/0007  . . {Surface plates}
+    5/0009  . . {Guiding surfaces; Arrangements compensating
+    5/0011  . {Arrangements for eliminating or compensation of
+measuring errors due to temperature or weight}
+    5/0014  . . {due to temperature (on machine tools
+    5/0016  . . {due to weight (on machine tools B23Q 11/001)}
+    5/0018  . {for measuring key-ways}
+    5/0021  . {for measuring the volumetric dimension of an
+    5/0023  . {Measuring of sport goods, e.g. bowling
+accessories, golfclubs, game balls}
+    5/0025  . {Measuring of vehicle parts (G01B 5/003 takes
+    5/0028  . . {Brakes, brakeshoes, clutches}
+    5/003   . {Measuring of motor parts}
+    5/0032  . . {Valves, actuating devices for valves}
+    5/0035  . {Measuring of dimensions of trees}
+    5/0037  . {Measuring of dimensions of welds}
+    5/004   . for measuring coordinates of points
+    5/008   . . using coordinate measuring machines
+    5/012   . . . Contact-making feeler heads therefor
+    5/016   . . . . Constructional details of contacts
+    5/02    . for measuring length, width or thickness
+(G01B 5/004, G01B 5/08 take precedence)
+    5/025   . . {Measuring of circumference; Measuring length
+of ring-shaped articles (G01B 5/0035 takes
+    5/04    . . specially adapted for measuring length or width
+    5/043   . . . {for measuring length}
+    5/046   . . . {for measuring width}
+    5/06    . . for measuring thickness
+    5/061   . . . {height gauges}
+    5/063   . . . . {provided with a slide which may be moved
+along a vertical support by means of a
+    5/065   . . . . {provided with a slide which may be
+fixed along its vertical support in discrete
+    5/068   . . . {of objects while moving (G01B 5/066 takes
+    5/08    . for measuring diameters {(G01B 5/0035 takes
+precedence; measuring radius of curvature
+    5/10    . . of objects while moving
+    5/12    . . internal diameters
+    5/14    . for measuring distance or clearance between spaced
+objects or spaced apertures (G01B 5/24 takes
+    5/143   . . {between holes on a workpiece}
+    5/146   . . {measuring play on bearings}
+    5/16    . . between a succession of regularly spaced objects
+    5/163   . . . {of screw-threads}
+    5/166   . . . {of gear teeth}
+    5/18    . for measuring depth
+    5/20    . for measuring contours or curvatures
+    5/201   . . {for measuring roundness}
+    5/204   . . {of screw-threads}
+    5/205   . . {of turbine blades or propellers}
+    5/207   . . using a plurality of fixed, simultaneously
+operating transducers (G01B 5/213 - G01B 5/22
+    5/213   . . for measuring radius of curvature
+    5/24    . for measuring angles or tapers; for testing the
+    5/241   . . {for measuring conicity}
+    5/242   . . {Sine bars; Sine plates}
+    5/243   . . {for measuring chamfer (see G01B 3/56)}
+    5/245   . . for testing perpendicularity
+    5/25    . . for testing the alignment of axes
+    5/252   . . . for measuring eccentricity, i.e. lateral shift
+    5/255   . . for testing wheel alignment
+    5/26    . for measuring areas, e.g. planimeters
+    5/28    . for measuring roughness or irregularity of surfaces
+    5/285   . . {for controlling eveness}
+    5/30    . for measuring the deformation in a solid, e.g.
+    7/00    Measuring arrangements characterised by the use
+of electric or magnetic techniques
+    7/001   . {Constructional details of gauge heads (G01B 7/012
+    7/002   . {Constructional details of contacts for gauges
+actuating one or more contacts (G01B 7/016 takes
+    7/003   . {for measuring position, not involving coordinate
+determination (coordinate measuring G01B 7/004)}
+    7/004   . for measuring coordinates of points
+    7/008   . . using coordinate measuring machines
+    7/012   . . . Contact-making feeler heads therefor
+    7/016   . . . . Constructional details of contacts
+    7/02    . for measuring length, width or thickness
+(G01B 7/004, G01B 7/12 take precedence)
+    7/023   . . {for measuring distance between sensor and
+object (G01B 7/082 and G01B 7/102 take
+    7/026   . . {for measuring length of cable, band or the
+like, which has been paid out, e.g. from a reel
+(measuring length of objects while moving
+    7/04    . . specially adapted for measuring length or width
+    7/042   . . . {for measuring length}
+    7/044   . . . . {using capacitive means}
+    7/046   . . . . {using magnetic means}
+    7/048   . . . {for measuring width}
+    7/06    . . for measuring thickness {(measuring during the
+manufacture of coatings C23C 14/54)}
+    7/063   . . . {using piezo-electric resonators}
+    7/066   . . . . {for measuring thickness of coating
+(apparatus or processes for the manufacture
+of piezo-electric or electrostrictive resonators
+for obtaining desired frequency H03H 3/04)}
+    7/08    . . . {using capacitive means}
+    7/082   . . . . {Height gauges}
+    7/085   . . . . {for measuring thickness of coating}
+    7/087   . . . . {for measuring of objects while moving
+    7/10    . . . {using magnetic means, e.g. by measuring
+    7/102   . . . . {Height gauges}
+    7/105   . . . . {for measuring thickness of coating}
+    7/107   . . . . {for measuring objects while moving
+    7/12    . for measuring diameters
+    7/125   . . {of objects while moving}
+    7/13    . . Internal diameters
+    7/14    . for measuring distance or clearance between spaced
+objects or spaced apertures (G01B 7/30 takes
+    7/142   . . {between holes on a workpiece}
+    7/144   . . {Measuring play on bearings}
+    7/146   . . {Measuring on gear teeth}
+    7/148   . . {Measuring on screw threads}
+    7/15    . . being regularly spaced
+    7/16    . for measuring the deformation in a solid, e.g. by
+    7/18    . . {using change in resistance}
+    7/20    . . . {formed by printed-circuit technique}
+    7/22    . . {using change in capacitance}
+    7/24    . . using change in magnetic properties
+    7/26    . for measuring depth
+    7/28    . for measuring contours or curvatures
+    7/281   . . {for measuring contour or curvature along an
+axis, e.g. axial curvature of a pipeline or along a
+    7/282   . . {for measuring roundness}
+    7/284   . . {of screw-threads}
+    7/285   . . {of propellers or turbine blades}
+    7/287   . . using a plurality of fixed, simultaneously
+operating transducers (G01B 7/293 takes
+    7/293   . . for measuring radius of curvature
+    7/30    . for measuring angles or tapers; for testing the
+    7/305   . . for testing perpendicularity
+    7/31    . . for testing the alignment of axes
+    7/312   . . . for measuring eccentricity, i.e. lateral shift
+    7/315   . . for testing wheel alignment
+    7/32    . for measuring areas
+    7/34    . for measuring roughness or irregularity of surfaces
+    7/345   . . {for measuring evenness}
+    9/00    Measuring instruments characterised by the use of
+When classifying in this group, optical
+arrangements for measuring specific parameters
+can be further classified in group G01B 11/00.
+    9/02001 . . characterised by controlling or generating
+    9/02002 . . . using two or more frequencies
+    9/02003 . . . . using beat frequencies
+    9/02004 . . . . using frequency scans
+    9/02005 . . . . {using discrete frequency stepping or
+    9/02007 . . . {Two or more frequencies or sources used for
+interferometric measurement (using only beat
+    9/02008 . . . . {by using a frequency comb}
+    9/02009 . . . . {by using two or more low coherence lengths
+using different or varying spectral width}
+    9/0201  . . . {using temporal phase variation}
+    9/02011 . . . {using temporal polarization variation}
+    9/02012 . . . {using temporal intensity variation}
+    9/02014 . . . . {by using pulsed light}
+    9/02015 . . characterised by the beam path configuration
+    9/02016 . . . {contacting two or more objects}
+    9/02017 . . . with multiple interactions between the target
+object and light beams, e.g. beam reflections
+occurring from different locations
+    9/02018 . . . . Multipass interferometers, e.g. double-pass
+    9/02019 . . . . {contacting different points on same face of
+    9/02021 . . . . {contacting different faces of object, e.g.
+    9/02022 . . . {contacting one object by grazing incidence}
+    9/02023 . . . {Indirect probing of object, e.g. via influence
+    9/02024 . . . {Measuring in transmission, i.e. light traverses
+    9/02025 . . . {Interference between three or more discrete
+    9/02027 . . . {Two or more interferometric channels or
+    9/02028 . . . . {Two or more reference or object arms in
+    9/02029 . . . {Combination with non-interferometric
+systems, i.e. for measuring the object}
+    9/0203  . . . . {With imaging systems}
+    9/02031 . . . . {With non-optical systems, e.g. tactile}
+    9/02032 . . . {generating a spatial carrier frequency,
+e.g. by creating lateral or angular offset
+between reference and object beam (shearing
+    9/02034 . . {characterised by particularly shaped beams or
+    9/02035 . . . {Shaping the focal point, e.g. elongated focus}
+    9/02036 . . . . {by using chromatic effects, e.g. a
+wavelength dependent focal point}
+    9/02037 . . . . {by generating a transverse line focus}
+    9/02038 . . . {Shaping the wavefront, e.g. generating a
+    9/02039 . . . . {by matching the wavefront with a particular
+    9/02041 . . {characterised by particular imaging or detection
+    9/02042 . . . {Confocal imaging}
+    9/02043 . . . {Imaging of the Fourier or pupil or back focal
+plane, i.e. angle resolved imaging}
+    9/02044 . . . {Imaging in the frequency domain, e.g. by
+    9/02045 . . . {using the Doppler effect}
+    9/02047 . . . {using digital holographic imaging, e.g.
+lensless phase imaging without hologram in the
+    9/02048 . . . {Rough and fine measurement}
+    9/02049 . . {characterised by particular mechanical design
+    9/0205  . . . {of probe head}
+    9/02051 . . . {Integrated design, e.g. on-chip or monolithic}
+    9/02052 . . . {Protecting, e.g. shock absorbing,
+    9/02055 . . Reduction or prevention of errors; Testing;
+    9/02056 . . . Passive reduction of errors
+    9/02057 . . . . {by using common path configuration, i.e.
+reference and object path almost entirely
+    9/02058 . . . . {by particular optical compensation
+or alignment elements, e.g. dispersion
+    9/02059 . . . . {Reducing effect of parasitic reflections, e.g.
+    9/02061 . . . . Reduction or prevention of effects of tilts or
+    9/02062 . . . {Active error reduction, i.e. varying with time}
+    9/02063 . . . . {by particular alignment of focus position,
+e.g. dynamic focussing in optical coherence
+    9/02064 . . . . {by particular adjustment of coherence gate,
+i.e. adjusting position of zero path difference
+in low coherence interferometry}
+    9/02065 . . . . . {using a second interferometer before or
+after measuring interferometer}
+    9/02067 . . . . {by electronic control systems, i.e. using
+feedback acting on optics or light}
+    9/02068 . . . . . {Auto-alignment of optical elements}
+    9/02069 . . . . . {Synchronization of light source or
+    9/0207  . . . {Error reduction by correction of the
+measurement signal based on independently
+determined error sources, e.g. using a reference
+    9/02071 . . . . {by measuring path difference independently
+    9/02072 . . . . {by calibration or testing of interferometer}
+    9/02074 . . . . . {of the detector}
+    9/02075 . . . {of particular errors}
+    9/02076 . . . . {Caused by motion}
+    9/02077 . . . . . {of the object}
+    9/02078 . . . . {Caused by ambiguity}
+    9/02079 . . . . . {Quadrature detection, i.e. detecting
+relatively phase-shifted signals}
+    9/02081 . . . . . . {simultaneous quadrature detection, e.g.
+    9/02082 . . . . {Caused by speckles}
+    9/02083 . . {characterised by particular signal processing and
+    9/02084 . . . {Processing in the Fourier or frequency domain
+when not imaged in the frequency domain}
+    9/02085 . . . {Combining two or more images of different
+    9/02087 . . . {Combining two or more images of the same
+    9/02088 . . . {Matching signals with a database}
+    9/02089 . . . {Displaying the signal, e.g. for user
+    9/0209  . . Low-coherence interferometers
+    9/02091 . . . Tomographic interferometers, e.g. based on
+    9/02092 . . {Self-mixing interferometers, i.e. feedback of
+light from object into laser cavity}
+    9/02094 . . {Speckle interferometers, i.e. for detecting
+    9/02095 . . . {detecting deformation from original shape}
+    9/02096 . . . {detecting a contour or curvature}
+    9/02097 . . Self-interferometers
+    9/02098 . . . Shearing interferometers
+    9/021   . . using holographic techniques
+    9/023   . . . for contour producing
+(G01B 9/025 - G01B 9/029 take precedence)
+    9/025   . . . Double exposure technique
+    9/029   . . . by time averaging
+    9/04    . Measuring microscopes
+    9/06    . Measuring telescopes
+    9/08    . Optical projection comparators
+    9/10    . Goniometers for measuring angles between surfaces
+   11/00    Measuring arrangements characterised by the use
+When classifying in this group, specific optical
+measuring instruments can be further classified in
+   11/002   . {for measuring two or more coordinates}
+   11/005   . . {coordinate measuring machines}
+   11/007   . . . {feeler heads therefor}
+   11/02    . for measuring length, width or thickness
+   11/022   . . {by means of tv-camera scanning}
+   11/024   . . {by means of diode-array scanning}
+   11/026   . . {by measuring distance between sensor and
+object (G01B 11/0608 takes precedence)}
+   11/028   . . {by measuring lateral position of a boundary
+of the object (G01B 11/022, G01B 11/024,
+   11/03    . . by measuring coordinates of points
+   11/04    . . specially adapted for measuring length or width
+   11/043   . . . {for measuring length}
+   11/046   . . . {for measuring width}
+   11/06    . . for measuring thickness {; e.g. of sheet material
+(thickness measurement by thermal means
+   11/0608  . . . {Height gauges}
+   11/0625  . . . . {with measurement of absorption or
+   11/0633  . . . . . {using one or more discrete wavelengths}
+   11/0641  . . . . {with measurement of polarization}
+   11/065   . . . . . {using one or more discrete wavelengths}
+   11/0658  . . . . {with measurement of emissivity or
+   11/0666  . . . . {using an exciting beam and a detection
+beam including surface acoustic waves
+   11/0675  . . . . {using interferometry}
+   11/0683  . . . . {measurement during deposition or removal
+   11/0691  . . . {of objects while moving (G01B 11/0616 takes
+   11/08    . for measuring diameters
+   11/10    . . of objects while moving
+   11/105   . . . {using photoelectric detection means}
+   11/12    . . internal diameters
+   11/14    . for measuring distance or clearance between spaced
+objects or spaced apertures (G01B 11/26 takes
+precedence; rangefinders G01C 3/00)
+   11/16    . for measuring the deformation in a solid, e.g. optical
+   11/161   . . {by interferometric means}
+   11/162   . . . {by speckle- or shearing interferometry}
+   11/164   . . . {by holographic interferometry}
+   11/165   . . {by means of a grating deformed by the object}
+   11/167   . . {by projecting a pattern on the object}
+   11/168   . . {by means of polarisation}
+   11/18    . . {using photoelastic elements}
+   11/20    . . {using brittle lacquer}
+   11/22    . for measuring depth
+   11/24    . for measuring contours or curvatures
+   11/2408  . . {for measuring roundness}
+   11/2416  . . {of gears (optical projection profile comparators
+   11/2425  . . {of screw-threads}
+   11/2433  . . {for measuring outlines by shadow casting}
+   11/2441  . . {using interferometry}
+   11/245   . . using a plurality of fixed,
+simultaneously operating transducers
+({G01B 11/2408 - G01B 11/2425, } G01B 11/255
+   11/25    . . by projecting a pattern, e.g. {one or more lines,}
+moiré fringes on the object (G01B 11/255 takes
+precedence {; image analysis for depth or shape
+   11/2504  . . . {Calibration devices}
+   11/2509  . . . {Color coding}
+   11/2513  . . . {with several lines being projected in more
+than one direction, e.g. grids, patterns}
+   11/2518  . . . {Projection by scanning of the object}
+   11/2522  . . . . {the position of the object changing and
+   11/2527  . . . . {with phase change by in-plane movement of
+   11/2531  . . . {using several gratings, projected with variable
+angle of incidence on the object, and one
+   11/2536  . . . {using several gratings with variable grating
+pitch, projected on the object with the same
+   11/254   . . . {Projection of a pattern, viewing through a
+   11/2545  . . . {with one projection direction and several
+detection directions, e.g. stereo}
+   11/255   . . for measuring radius of curvature {(measuring
+   11/26    . for measuring angles or tapers; for testing the
+   11/27    . . for testing the alignment of axes {(means for
+centering or aligning a light guide within a ferrule
+   11/272   . . . {using photoelectric detection means}
+   11/275   . . for testing wheel alignment
+   11/2755  . . . {using photoelectric detection means}
+   11/28    . for measuring areas
+   11/285   . . {using photoelectric detection means}
+   11/30    . for measuring roughness or irregularity of surfaces
+   11/303   . . {using photoelectric detection means}
+   11/306   . . {for measuring evenness}
+   13/00    Measuring arrangements characterised by the use
+   13/02    . for measuring length, width or thickness
+   13/03    . . by measuring coordinates of points
+   13/04    . . specially adapted for measuring length or width
+   13/06    . . for measuring thickness
+   13/065   . . . {Height gauges}
+   13/08    . for measuring diameters
+   13/10    . . internal diameters
+   13/12    . for measuring distance or clearance between spaced
+objects or spaced apertures (G01B 13/18 takes
+   13/14    . for measuring depth
+   13/16    . for measuring contours or curvatures
+   13/18    . for measuring angles or tapers; for testing the
+   13/19    . . for testing the alignment of axes
+   13/195   . . for testing wheel alignment
+   13/20    . for measuring areas, e.g. pneumatic planimeters
+   13/22    . for measuring roughness or irregularity of surfaces
+   13/24    . for measuring the deformation in a solid
+   15/00    Measuring arrangements characterised by the use
+of electromagnetic waves or particle radiation,
+e.g. by the use of microwaves, X-rays, gamma
+rays or electrons (characterised by the use of optical
+techniques G01B 9/00, G01B 11/00)
+   15/02    . for measuring thickness
+   15/025   . . {by measuring absorption}
+   15/04    . for measuring contours or curvatures
+   15/045   . . {by measuring absorption}
+   15/06    . for measuring the deformation in a solid
+   15/08    . for measuring roughness or irregularity of surfaces
+   17/00    Measuring arrangements characterised by the use
+of infrasonic, sonic or ultrasonic vibrations
+   17/02    . for measuring thickness
+   17/025   . . {for measuring thickness of coating}
+   17/04    . for measuring the deformation in a solid, e.g. by
+   17/06    . for measuring contours or curvatures
+   17/08    . for measuring roughness or irregularity of surfaces
+   21/00    Measuring arrangements or details thereof, where
+the measuring technique is not covered by the
+other groups of this subclass, unspecified or not
+Measuring arrangements or details
+thereof covered by two or more of groups
+G01B 3/00 - G01B 17/00 are classified in this
+group if no single other group can be selected as
+being predominantly applicable.
+   21/02    . for measuring length, width, or thickness
+   21/04    . . by measuring coordinates of points
+   21/042   . . . {Calibration or calibration artifacts
+(G01B 3/30, G01B 9/02072 take precedence)}
+   21/045   . . . {Correction of measurements (G01B 9/02055
+   21/047   . . . {Accessories, e.g. for positioning, for tool-
+   21/06    . . specially adapted for measuring length or width
+   21/065   . . . {for stretchable materials}
+   21/08    . . for measuring thickness
+   21/085   . . . {using thermal means}
+   21/10    . for measuring diameters
+   21/12    . . of objects while moving
+   21/14    . . internal diameters {(of boreholes or wells
+   21/16    . for measuring distance of clearance between spaced
+   21/18    . for measuring depth
+   21/20    . for measuring contours or curvatures, e.g.
+   21/22    . for measuring angles or tapers; for testing the
+   21/24    . . for testing alignment of axes
+   21/26    . . for testing wheel alignment
+   21/28    . for measuring areas
+   21/30    . for measuring roughness or irregularity of surfaces
+   21/32    . for measuring the deformation in a solid
+ 2210/00    Aspects not specifically covered by any group
+under G01B, e.g. of wheel alignment, caliper-like
+ 2210/12    . . Method or fixture for calibrating the wheel
+ 2210/14    . . One or more cameras or other optical devices
+capable of acquiring a two-dimensional image
+ 2210/143   . . . One or more cameras on each side of a vehicle
+ 2210/146   . . . Two or more cameras imaging the same area
+ 2210/16    . . Active or passive device attached to the chassis of
+ 2210/18    . . Specially developed for using with motorbikes or
+ 2210/20    . . Vehicle in a state of translatory motion
+ 2210/22    . . Wheels in a state of motion supported on rollers,
+rotating platform or other structure substantially
+capable of only one degree of rotational freedom
+ 2210/24    . . Specially developed for using with trucks or other
+ 2210/26    . . Algorithms, instructions, databases, computerized
+methods and graphical user interfaces employed
+by a user in conjunction with the wheel aligner
+ 2210/28    . . Beam projector and related sensors, camera,
+inclinometer or other active sensing or projecting
+ 2210/283   . . . Beam projectors and related sensors
+ 2210/286   . . . . Projecting a light pattern on the wheel or
+ 2210/30    . . Reference markings, reflector, scale or other
+ 2210/303   . . . fixed to the ground or to the measuring station
+ 2210/306   . . . Mirror, prism or other reflector
+ 2210/40    . Caliper-like sensors
+ 2210/42    . . with one or more detectors on a single side of the
+object to be measured and with a backing surface
+of support or reference on the other side
+ 2210/44    . . with detectors on both sides of the object to be
+ 2210/46    . . with one or more detectors on a single side of the
+object to be measured and with a transmitter on
+ 2210/48    . . for measurement of a wafer
+ 2210/50    . Using chromatic effects to achieve wavelength-
+ 2210/52    . Combining or merging partially overlapping images
+ 2210/54    . Revolving an optical measuring instrument around a
+ 2210/56    . Measuring geometric parameters of semiconductor
+structures, e.g. profile, critical dimensions or trench
+ 2210/58    . Wireless transmission of information between a
+sensor or probe and a control or evaluation unit
+ 2210/60    . Unique sensor identification
+ 2210/62    . Support for workpiece air film or bearing with
+ 2210/64    . Interconnection or interfacing through or under
+capping or via rear of substrate in microsensors
+ 2210/66    . Rock or ground anchors having deformation
+ 2290/00    Aspects of interferometers not specifically covered
+ 2290/10    . Astronomic interferometers
+ 2290/15    . Cat eye, i.e. reflection always parallel to incoming
+ 2290/20    . Dispersive element for generating dispersion
+ 2290/25    . Fabry-Perot in interferometer, e.g. etalon, cavity
+ 2290/30    . Grating as beam-splitter
+ 2290/35    . Mechanical variable delay line
+ 2290/40    . Non-mechanical variable delay line
+ 2290/45    . Multiple detectors for detecting interferometer
+ 2290/50    . Pupil plane manipulation, e.g. filtering light of
+ 2290/60    . Reference interferometer, i.e. additional
+interferometer not interacting with object
+ 2290/65    . Spatial scanning object beam
+ 2290/70    . Using polarization in the interferometer

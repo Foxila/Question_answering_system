@@ -1,0 +1,131 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+FLUID-PRESSURE ACTUATORS; HYDRAULICS OR PNEUMATICS IN GENERAL
+FLUID-CIRCUIT ELEMENTS PREDOMINANTLY USED FOR COMPUTING OR
+CONTROL PURPOSES (transducers F15B 5/00, {F15B 21/00}; fluid dynamics in general
+F15D; computer comprising fluid elements G06D, G06G; {electric control by means of electro-
+hydraulic or electro-pneumatic amplifiers G05B 7/02})
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Circuit elements having no moving parts
+Group F15C 1/22 takes precedence over groups
+{This Note corresponds to IPC Note (1) relating to
+    1/001   . {for punched-card machines (punched-card
+machines G06K); for typewriters (typewriters
+B41J); for keyboards; for conveying cards or tape;
+for conveying through tubes (transport through
+tubes B65G 51/00, B65G 53/00); for computers
+(non-electric computers G06C, G06D, G06G);
+for dc-ac transducers for information processing
+(dc-ac converters H02M); for signal transmission
+    1/002   . {for controlling engines, turbines, compressors
+(starting, speed regulation, temperature control or
+the like) (control of internal-combustion piston
+engines F02D; of turbines F01D, F02C; of fans
+F04D 27/00; speedometers G01P)}
+    1/003   . {for process regulation, (e.g. chemical processes,
+in boilers or the like); for machine tool control
+(e.g. sewing machines, automatic washing
+machines); for liquid level control; for controlling
+various mechanisms; for alarm circuits; for ac-
+dc transducers for control purposes (automatic
+washing machines D06F 33/00; electric regulation
+of mechanical working machines B23Q 35/00,
+G05B 19/00; valve-controlled servomotors
+F15B 9/08; thread feeding devices for sewing
+machines D05B 51/00; special provisions on lathes
+B23B 25/00, B23Q; non-electric signal transmission
+    1/005   . {for measurement techniques, e.g. measuring
+from a distance; for detection devices, e.g.
+for presence detection; for sorting measured
+properties (testing); for gyrometers; for analysis;
+for chromatography (fluid information or impulse
+transducers F15B 5/00; postal sorting according
+to size B07C 1/10; dial gauges, spherometers
+G01B 3/22, G01B 5/22; gyroscopic apparatus
+G01C 19/00; viscosimeters G01N 11/00; speed
+    1/006   . {for aeronautics; for rockets (drives, controls); for
+satellites; for air cushion vehicles; for controlling
+vessels or torpedoes (injectors F04F 5/00; aircraft
+control by jet reaction B64C 15/00; air pressure
+regulation in aircraft B64D 13/04; instruments
+adapted to be mounted in aircraft B64D 43/00)}
+    1/007   . {for indicating devices for fluid signals (output
+arrangements in electronic computers G06F 3/14;
+luminous advertising G09F 13/00; name or number
+plates with interchangeable characters G09F 7/00;
+fluid operating means for indicating or recording
+members in measuring instruments G01D 5/42;
+fluid information or pulse transducers for converting
+variations of fluid pressure into other physical
+    1/008   . {Other applications, e.g. for air conditioning,
+medical applications, other than in respirators,
+derricks for underwater separation of materials by
+    1/02    . Details {, e.g. special constructional devices for
+circuits with fluid elements, such as resistances,
+capacitive circuit elements; devices preventing
+reaction coupling in composite elements
+(servomotor systems adapted for maintaining
+constant speed F15B 11/05); Switch boards;
+Programme devices (hydraulic programme control
+    1/04    . . Means for controlling fluid streams to fluid
+devices, e.g. by electric signals {or other
+signals, no mixing taking place between the
+signal and the flow to be controlled (fluid
+information or pulse transducers F15B 5/00;
+electric regulation with electro-fluid amplifiers
+G05B 7/02; fluid operating means for indicating
+or recording members in measuring instruments
+G01D 5/42; distribution or supply devices for
+servomotors with electrically-controlled pilot
+    1/06    . . Constructional details; Selection of specified
+materials {Constructional realisation of one
+single element; Canal shapes; Jet nozzles;
+Assembling an element with other devices, only if
+the element forms the main part (F15C 5/00 takes
+    1/08    . Boundary-layer devices, e.g. wall-attachment
+amplifiers {coanda effect (fluid oscillators of pulse
+    1/10    . . for digital operation, e.g. to form a logical
+flip-flop, OR-gate, NOR-gate {, AND-gate;
+    1/12    . . . Multiple arrangements thereof for performing
+operations of the same kind, e.g. majority gates,
+identity gates {(static stores G11C 25/00);
+Counting circuits; Sliding registers}
+    1/14    . Stream-interaction devices; Momentum-exchange
+devices, e.g. operating by exchange between two
+orthogonal fluid jets {; Proportional amplifiers}
+    1/143   . . {for digital operation, e.g. to form a logical flip-
+flop, OR-gate, NOR-gate, AND-gate (F15C 1/10
+    1/146   . . {multiple arrangements thereof, forming counting
+circuits, sliding registers, integration circuits or
+the like (F15C 1/12 take precedence)}
+    1/16    . Vortex devices, i.e. devices in which use is
+made of the pressure drop associated with vortex
+motion in a fluid {(vortex chambers F15D 1/0015;
+vortex chambers as resistances F15C 1/02; vortex
+chambers associated with amplifiers for improving
+the switching time by interaction F15C 1/14)}
+    1/18    . Turbulence devices, i.e. devices in which a
+controlling stream will cause a laminar flow to
+become turbulent {; Diffusion amplifiers}
+    1/20    . Direct-impact devices i.e., devices in which two
+collinear opposing power streams are impacted
+    3/00    Circuit elements having moving parts (valves,
+Group F15C 3/16 takes precedence over groups
+    3/002   . {using fluid droplets or similar deformable bodies
+    3/005   . {using loose plates or foils (using diaphragms
+    3/007   . {using a spiral spring which allows fluid bass upon
+deformation (using reeds F15C 3/08)}
+    3/02    . using spool valves
+    3/04    . using diaphragms ({using loose plates or foils
+F15C 3/005}; connection of valves to inflatable
+    3/06    . using balls {or pill-shaped disks (using fluid drops
+or similar deformable bodies F15C 3/002)}
+    3/08    . using reeds {(using spiral springs F15C 3/007)}
+    3/10    . using nozzles or jet pipes {(fluid information or
+    3/12    . . the nozzle or jet pipe being movable
+    3/14    . . the jet the nozzle being intercepted by a flap
+    4/00    Circuit elements characterised by their special
+    5/00    Manufacture of fluid circuit elements;
+Manufacture of assemblages of such elements
+    7/00    Hybrid elements, i.e. circuit elements having
+features according to groups F15C 1/00 and

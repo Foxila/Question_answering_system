@@ -1,0 +1,1257 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+LAYERED PRODUCTS, i.e. PRODUCTS BUILT-UP OF STRATA OF FLAT OR NON-
+FLAT, e.g. CELLULAR OR HONEYCOMB, FORM
+• layered products comprising different kinds of material or  layered products not characterised by the particular kind  of
+• a product similar to a layered product but comprising only  material in the form of a sheet or network embedded in a  mass
+of plastics or of physically-similar substances which  mass penetrates the said sheet or network and lies on both  sides of
+the latter (e.g. so that the sheet or network  reinforces the plastics substance) PROVIDED THAT the  embedded sheet or
+network extends coherently or connectedly  over substantially the whole area of the product; thus the  embedded sheet or
+network may be a fabric or a series of  rods connected by cross wires. The manner of making such a  product is, however,
+classified in this subclass only if it  is essentially a process of building-up an assembly of layers  of which at least one outer
+layer is preformed. If the  embedded material comprises only a series of unconnected  rods, the product is not classified in
+2. This subclass does not cover:
+• processes or apparatus used in, or in connection with, the  production or treatment of any product, if the process or
+apparatus is fully classifiable in a single other class or  subclass for processes or apparatus, e.g. B05, B29, B44D, C08J,
+• compositions or preparation or treatment thereof, unless  they are essentially restricted to layered products and  cannot be
+fully classified in another class without  ignoring this restriction;
+• etched metallic pattern on the surface of a printed circuit board.
+• a film formed on a layer by spreading a substance thereon is not considered to constitute a layer itself if it serves only as an
+adhesive or its purpose is merely to finish a surface of a product
+• {with exclusion to B32B 15/01 - B32B 15/018, a coating formed directly onto a substrate layer is not considered to
+constitute a layer when at the moment of its contact with the substrate it does not have the form of a layer with the
+exception of layers that come under the meaning of Note (4).}
+• {groups designating products cover also methods or apparatus specially adapted for producing such products.}
+4. In this subclass, the following terms or expressions are used with the meanings indicated:
+• "layer" is a sheet or strip or anything else having a small thickness relatively to its other dimensions which, together with
+at least one other layer, exists in a product, whether it pre-existed, e.g. as a separate sheet or strip, or was formed during the
+production of the layered product{, e.g. formed in-situ as with casting, extrusion or moulding. It may be deformed out of
+the flat plane to form a three-dimensional shape}. It may or may not be homogeneous or cohesive; it may be an assembly
+of fibres or pieces of material. It may be discontinuous, e.g. in the form of a grating, honeycomb, or frame. It may or may
+not be in complete contact with the next layer, e.g. a corrugated layer against a flat layer;
+• "layered product" comprises at least two layers secured together. The term "secured" includes any method of uniting
+layers, e.g. needling, stitching, gluing, nailing, dovetailing or the interposition of an adhesive or adhesive impregnated
+support. It may also be an intermediate stage in the production of an article which is not layered in its final form, e.g. a
+panel with a protective layer {that} is stripped off when the panel is placed in its position of use. The layers are preformed
+layers or layers formed IN SITU on a preformed layer and may consist of coherent solid materials, including honeycombs
+and other cellular materials or of non-coherent solid materials composed of assemblies of strands, strips, fibres, tiles or the
+• "filamentary layer" means a layer of threads or filaments of any substance (e.g. wires) of more or less unlimited length
+placed in an orderly arrangement and secured together; it may be woven, knitted, braided, or netted, or formed of threads
+crossed or laid side by side and bonded together;
+• "fibrous layer" means a random assembly of fibres or filaments, usually of limited length, e.g. felt, fleece; the fibres
+{being} interengaged or connected, e.g. by adhesive.
+5. If a layered product is characterised by the way it is produced and not by its structure or composition, the production method
+should be classified in groups B32B 37/00 or B32B 38/00, or in subclass B29C, for example in groups B29C 45/16 or
+• The classification of layered products is provided for in many classes, most of which are confined to a particular kind
+of material. However, in order that this subclass may provide a basis for making a complete search with respect to layered
+products, all relevant subject matter is classified in this subclass even though it may also be classified in other classes.
+7. {In groups B32B 37/00,  B32B 38/00, B32B 41/00 and  B32B 39/00, the following expressions are used with the meaning
+"lay-up" is considered to be the action of combining separate layers, one on top of the other, in order to form a half-
+product for entering the laminating process
+"laminating" means the action of combining previously unconnected but possibly laid up layers to become one product
+whose layers will remain together;
+"partial laminating" occurs when one layer does not fully cover a surface of another layer, whereby the layer with the
+greater surface area is laminated on only part of its surface or when two coextensive layers are bonded on only part of
+"adhesive" means a substance applied in any state or in any manner, which has bonding properties.}
+8. {In this subclass, combination sets [C-Sets] are used. The detailed information about the  C-Sets construction and the
+associated syntax rules are found in the definitions of B32B.}
+The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+    1/00    Layered products having a general shape other
+For classification of a product in this group,
+surface unevennesses or non-uniformities and the
+shape of individual layers are ignored.
+    1/02    . Receptacles {, i.e. rigid containers}, e.g. tanks
+    1/04    . characterised by feature of form at particular places,
+e.g. in edge regions {(not used)}
+    1/06    . characterised by fillings or added members in
+    3/00    Layered products comprising a layer with external
+or internal discontinuities or unevennesses, or a
+layer of non-planar form (fibrous or filamentary
+layer B32B 5/02; particulate layer B32B 5/16;
+foamed layer B32B 5/18); Layered products having
+particular features of form (receptacles or tubular
+    3/02    . characterised by features of form at particular
+places, e.g. in edge regions {(non-uniform thickness
+    3/04    . . characterised by {at least one} layer folded at
+the edge, e.g. over another layer {; characterised
+by at least one layer enveloping or enclosing a
+    3/06    . . for securing layers together; for attaching the
+product to another member, e.g. to a support
+{, or to another product, e.g. groove/tongue,
+    3/08    . . characterised by added members at particular
+parts {(layer formed of separate pieces of material
+which are juxtaposed side-by-side B32B 3/14,
+    3/085   . . . {spaced apart pieces on the surface of a layer}
+    3/10    . characterised by a discontinuous layer, i.e. formed
+In this group, a series of spaced separate
+elements forming in effect a broken surface
+should {not} be regarded as a layer.
+    3/12    . . characterised by a layer of regularly- arranged
+cells, e.g. a honeycomb structure
+    3/14    . . characterised by a face layer formed of separate
+pieces of material {which are juxtaposed side-by-
+side (B32B 5/02 takes precedence)}
+    3/16    . . . secured to a flexible backing
+    3/18    . . characterised by an internal layer formed of
+separate pieces of material {which are juxtaposed
+side-by-side (B32B 5/02 takes precedence)}
+    3/20    . . . of hollow pieces, e.g. tubes; of pieces with
+    3/22    . . . of spaced pieces {(not used)}
+    3/26    . characterised by a particular shape of the outline
+of the cross-section of a continuous layer;
+characterised by a layer with cavities or internal
+voids {(foam layer B32B 5/18; layer of synthetic
+resin characterised by fillers that create voids
+or cavities B32B 27/205); characterised by an
+    3/263   . . {characterised by a layer having non-uniform
+    3/266   . . {characterised by an apertured layer, the apertures
+going through the whole thickness of the layer,
+e.g. expanded metal, perforated layer, slit layer
+    3/28    . . characterised by a layer comprising a deformed
+thin sheet {, i.e. the layer having its entire
+thickness deformed out of the plane}, e.g.
+corrugated, crumpled (B32B 29/08 takes
+    3/30    . . characterised by a layer formed with recesses
+or projections, e.g. {hollows, grooves,
+protuberances, ribs (apertured layer B32B 3/266;
+layer with cavities or internal voids B32B 3/26)}
+    5/00    Layered products characterised by the non-
+homogeneity or physical structure {, i.e.
+comprising a fibrous, filamentary, particulate
+or foam layer; Layered products characterised
+by having a layer differing constitutionally or
+    5/02    . characterised by structural features of a {fibrous
+or filamentary} layer {(layer formed of metallic
+wires B32B 15/02; layer formed of natural mineral
+fibres B32B 19/02; layer formed of wood fibres
+1. This group covers, in addition to filamentary and
+fibrous layers as defined in Note (4) following
+the title of this subclass, layers of substances
+having an intrinsic fibrous nature (e.g. paper,
+wood), if the fibrous nature is important and the
+particular substance is not important.
+2. {When classifying in group B32B 5/02, the
+chemical composition of the fibres is further
+classified by using the Indexing symbols
+    5/022   . . {Non-woven fabric}
+    5/026   . . {Knitted fabric}
+    5/028   . . {Net structure, e.g. spaced apart filaments bonded
+    5/04    . . characterised by a layer being specifically
+extensible by reason of its structure or
+arrangement {, e.g. by reason of the chemical
+nature of the fibres or filaments}
+    5/06    . . characterised by a fibrous {or filamentary} layer
+{mechanically connected, e.g. by needling} to
+another layer, e.g. of fibres, of paper
+reclassification into groups B32B 5/067 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+    5/067   . . . {characterised by the fibrous or filamentary
+layer being mechanically connected by
+Group B32B 5/067 is incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete
+    5/073   . . . {characterised by the fibrous or filamentary
+layer being mechanically connected to another
+layer by sewing, stitching, hook-and-loop
+Group B32B 5/073 is incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete
+    5/08    . . the fibres or filaments of a layer being of different
+substances {, e.g. conjugate fibres, mixture of
+    5/10    . . characterised by a fibrous {or filamentary} layer
+    5/12    . . characterised by the relative arrangement of fibres
+or filaments of {different layers, e.g. the fibres or
+filaments being parallel or perpendicular to each
+    5/14    . characterised by a layer differing constitutionally
+or physically in different parts, e.g. denser near its
+    5/142   . . {Variation across the area of the layer}
+    5/145   . . {Variation across the thickness of the layer}
+    5/147   . . {by treatment of the layer}
+    5/16    . characterised by features of a layer formed of
+particles, e.g. chips, powder {or granules (layer
+formed of natural mineral particles B32B 19/00;
+layer being formed of wood fibres, chips or
+    5/18    . characterised by features of a layer {of} foamed
+    5/22    . characterised by the presence of two or more layers
+which {are next to each other and are fibrous,
+filamentary, formed of particles or foamed (layer
+formed of natural mineral fibres or particles next
+to a foam layer B32B 19/047, next to a layer
+made of particles B32B 19/048, or next to a
+fibrous or filamentary layer B32B 19/06; paper
+layer or cardboard layer next to a paper layer or
+cardboard layer B32B 29/005, next to a foam layer
+B32B 29/007, next to a fibrous or filamentary
+layer B32B 29/02, or next to a particulate layer
+    5/24    . . one layer being a fibrous or filamentary layer
+    5/245   . . . {another layer next to it being a foam layer}
+    5/26    . . . another layer {next to it} also being fibrous or
+filamentary {(relative arrangement of fibres or
+filaments of different layers B32B 5/12)}
+reclassification into groups B32B 5/262,
+B32B 5/263, B32B 5/265, B32B 5/266,
+B32B 5/267, B32B 5/268, B32B 5/269,
+B32B 5/271, B32B 5/273, B32B 5/275,
+B32B 5/277, B32B 5/279 and B32B 5/2795.
+All groups listed in this Warning should be
+considered in order to perform a complete
+    5/262   . . . . {characterised by one fibrous or filamentary
+layer being a woven fabric layer}
+Groups B32B 5/262 and B32B 5/263 are
+incomplete pending reclassification of
+documents from group B32B 5/26.
+Groups B32B 5/26, B32B 5/262 and
+B32B 5/263 should be considered in order
+    5/263   . . . . . {next to one or more woven fabric layers}
+    5/265   . . . . {characterised by one fibrous or filamentary
+layer being a non-woven fabric layer}
+B32B 5/267, B32B 5/268, B32B 5/269,
+incomplete pending reclassification of
+documents from group B32B 5/26.
+All groups listed in this Warning should
+be considered in order to perform a
+    5/266   . . . . . {next to one or more non-woven fabric
+    5/267   . . . . . . {characterised by at least one non-
+woven fabric layer that is a spunbonded
+    5/268   . . . . . . {characterised by at least one non-
+woven fabric layer that is a melt-blown
+    5/269   . . . . . . . {characterised by at least one non-
+woven fabric layer that is a melt-
+blown fabric next to a non-woven
+fabric layer that is a spunbonded
+    5/271   . . . . . {characterised by separate non-woven
+fabric layers that comprise chemically
+different strands or fibre material}
+    5/273   . . . . . {including a separate net structure layer}
+    5/275   . . . . {characterised by one woven fabric layer
+next to a non-woven fabric layer}
+Groups B32B 5/275 and B32B 5/277 are
+incomplete pending reclassification of
+documents from group B32B 5/26.
+Groups B32B 5/26, B32B 5/275 and
+B32B 5/277 should be considered in order
+    5/277   . . . . . {including an additional non-woven fabric
+    5/279   . . . . {characterised by a knit fabric layer next to a
+Group B32B 5/279 is incomplete pending
+reclassification of documents from group
+Groups B32B 5/26 and B32B 5/279
+should be considered in order to perform
+    5/2795  . . . . {characterised by a knit fabric layer next to a
+Group B32B 5/2795 is incomplete
+pending reclassification of documents
+Groups B32B 5/26 and B32B 5/2795
+should be considered in order to perform
+    5/28    . . . impregnated with or embedded in a plastic
+    5/30    . . one layer {being formed of particles, e.g. chips,}
+    5/32    . . {at least two} layers being foamed {and next to
+    7/00    Layered products characterised by the relation
+between layers; Layered products characterised
+by the relative orientation of features between
+layers, or by the relative values of a measurable
+parameter between layers, i.e. products comprising
+layers having different physical, chemical or
+physicochemical properties; Layered products
+characterised by the interconnection of layers
+    7/02    . Physical, chemical or physicochemical properties
+    7/022   . . Mechanical properties
+    7/023   . . Optical properties
+    7/025   . . Electric or magnetic properties
+    7/027   . . Thermal properties
+    7/028   . . . Heat-shrinkability
+    7/03    . with respect to the orientation of features (direction
+of fibres or filaments B32B 5/12)
+    7/035   . . using arrangements of stretched films, e.g. of
+mono-axially stretched films arranged alternately
+    7/04    . Interconnection of layers
+    7/05    . . the layers not being connected over the
+whole surface, e.g. discontinuous connection
+or patterned connection (using interposed
+adhesives or bonding materials applied in spaced
+    7/06    . . permitting easy separation
+    7/08    . . by mechanical means
+    7/09    . . . by stitching, needling or sewing (by
+{mechanically connecting} fibrous layers {to
+    7/10    . . at least one layer having inter-reactive properties
+    7/12    . . using interposed adhesives or interposed materials
+    7/14    . . . applied in spaced arrangements, e.g. in stripes
+Layered products characterised by particular substances used
+In groups B32B 9/00 - B32B 29/00, the following expressions are
+used with the meanings indicated:
+• "specific substance" covers specified alternative substances if
+they are all covered by a single main group;
+• "particulate layer" means a layer of particles, e.g. chips,
+4Layered products characterised by particular substances used
+• {"essentially" means that if an alteration or removal of such a
+layer occurred it would alter the scope of the invention}
+    9/00    Layered products comprising a {layer of a}
+particular substance not covered by groups
+    9/002   . {comprising natural stone or artificial stone}
+    9/005   . {comprising one layer of ceramic material, e.g.
+porcelain, ceramic tile (layered products with
+at least two ceramic layers composed mainly of
+    9/007   . . {comprising carbon, e.g. graphite, composite
+    9/02    . comprising animal or vegetable substances {, e.g.
+    9/025   . . {comprising leather}
+    9/04    . comprising such {particular} substance as the main
+or only constituent of a layer, {which is} next
+to another layer of {the same or of} a {different
+material (next to a glass layer B32B 17/06; layered
+products with at least two ceramic layers composed
+    9/043   . . {of natural rubber or synthetic rubber}
+    9/045   . . {of synthetic resin}
+    9/047   . . {made of fibres or filaments}
+    9/048   . . {made of particles}
+    9/06    . . of paper or cardboard
+   11/00    Layered products comprising {a layer of}
+   11/02    . with fibres or particles {being present as additives in
+   11/04    . comprising such {bituminous or tarry} substance as
+the main or only constituent of a layer, {which is}
+next to another layer of {the same or of} a {different
+material (next to a glass layer B32B 17/06)}
+   11/044   . . {of natural rubber or synthetic rubber}
+   11/046   . . {of synthetic resin}
+   11/06    . . of paper or cardboard
+   11/10    . next to a fibrous or filamentary layer
+   11/12    . next to a particulate layer
+   13/00    Layered products comprising a {a layer of} water-
+setting substance, e.g. concrete, plaster, asbestos
+cement, or like builders' material
+   13/02    . with fibres or particles {being present as additives in
+   13/04    . comprising such {water setting} substance as the
+main or only constituent of a layer, {which is} next
+to another layer of {the same or of} a {different
+material (next to a glass layer B32B 17/06)}
+   13/042   . . {of natural rubber or synthetic rubber}
+   13/047   . . {made of particles}
+   13/08    . . of paper or cardboard
+   13/10    . . of wood; of wood particle board
+   13/12    . . of synthetic resin
+   13/14    . next to a fibrous or filamentary layer
+   15/00    Layered products comprising {a layer of} metal
+   15/01    . all layers being exclusively metallic {(making
+layered metal workpieces by pressure cladding
+B23K 20/22; making coatings with a metallic
+material characterised by its composition
+   15/011   . . {all layers being formed of iron alloys or steels}
+   15/012   . . {one layer being formed of an iron alloy or steel,
+another layer being formed of aluminium or an
+   15/013   . . {one layer being formed of an iron alloy or steel,
+another layer being formed of a metal other than
+   15/015   . . . {the said other metal being copper or nickel or
+   15/016   . . {all layers being formed of aluminium or
+   15/017   . . {one layer being formed of aluminium or an
+aluminium alloy, another layer being formed of
+an alloy based on a non ferrous metal other than
+   15/018   . . {one layer being formed of a noble metal or a
+   15/02    . {Layer formed of wires, e.g. mesh}
+   15/04    . comprising metal as the main or only constituent
+of a layer, {which is} next to another layer of
+{the same or of} a {different material (next to a
+bituminous or tarry layer B32B 11/08; next to a
+water-setting substance layer B32B 13/06; next to a
+glass layer B32B 17/061; next to a cellulosic plastic
+   15/043   . . {of metal (B32B 15/01 takes precedence)}
+   15/06    . . of {natural rubber or synthetic} rubber
+   15/08    . . of synthetic resin
+   15/082   . . . comprising vinyl resins; comprising acrylic
+   15/085   . . . comprising polyolefins
+   15/088   . . . comprising polyamides
+   15/09    . . . comprising polyesters
+   15/092   . . . comprising epoxy resins
+   15/095   . . . comprising polyurethanes
+   15/098   . . . comprising condensation resins of aldehydes,
+e.g. with phenols, ureas or melamines
+   15/12    . . of paper or cardboard
+   15/14    . next to a fibrous or filamentary layer
+   15/16    . next to a particulate layer
+   15/18    . comprising iron or steel {(B32B 15/011,
+B32B 15/012 and B32B 15/013 take precedence)}
+   15/20    . comprising aluminium or copper {(B32B 15/016
+and B32B 15/017 take precedence)}
+   17/00    Layered products essentially comprising sheet
+glass, or glass, slag, or like fibres
+{In this group, a layer of organic glass is not
+considered as a glass layer but as a synthetic resin
+   17/02    . in the form of fibres or filaments
+   17/04    . . bonded with or embedded in a plastic substance
+5Layered products characterised by particular substances used
+   17/06    . comprising glass as the main or only constituent of a
+layer, next to another layer of a specific {material}
+   17/065   . . {of paper or cardboard}
+   17/067   . . {of fibres or filaments}
+   17/069   . . {of intumescent material (B32B 17/10311 takes
+   17/08    . . of cellulosic plastic substance {or gelatin}
+   17/10    . . of synthetic resin
+   17/10005 . . . {laminated safety glass or glazing}
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction
+and the associated syntax rules is present in
+   17/10009 . . . . {characterized by the number, the
+constitution or treatment of glass sheets}
+   17/10018 . . . . . {comprising only one glass sheet}
+   17/10027 . . . . . . {the glass sheet not being an outer
+   17/10036 . . . . . {comprising two outer glass sheets}
+   17/10045 . . . . . . {with at least one intermediate layer
+   17/10055 . . . . . . . {with at least one intermediate air
+   17/10064 . . . . . {comprising at least two glass sheets, only
+one of which being an outer layer}
+   17/10073 . . . . . {comprising at least two glass sheets,
+neither of which being an outer layer}
+   17/10082 . . . . . {Properties of the bulk of a glass sheet}
+   17/10091 . . . . . . {thermally hardened}
+   17/101   . . . . . . {having a predetermined coefficient of
+   17/1011  . . . . . . {having predetermined tint or excitation
+   17/10119 . . . . . . {having a composition deviating from
+the basic composition of soda-lime
+   17/10128 . . . . . {Treatment of at least one glass sheet}
+   17/10137 . . . . . . {Chemical strengthening}
+   17/10146 . . . . . . {Face treatment, e.g. etching, grinding
+   17/10155 . . . . . . {Edge treatment or chamfering}
+   17/10165 . . . . {Functional features of the laminated safety
+   17/10174 . . . . . {Coatings of a metallic or dielectric
+material on a constituent layer of glass or
+   17/10183 . . . . . . {being not continuous, e.g. in edge
+   17/10192 . . . . . . . {patterned in the form of columns or
+   17/10201 . . . . . . {Dielectric coatings}
+   17/10211 . . . . . . . {Doped dielectric layer, electrically
+   17/1022  . . . . . . {Metallic coatings}
+   17/10229 . . . . . . . {Metallic layers sandwiched by
+   17/10238 . . . . . . {in the form of particles}
+   17/10247 . . . . . {Laminated safety glass or glazing
+containing decorations or patterns for
+aesthetic reasons (containing metal wires
+for aesthetic reasons B32B 17/10422)}
+   17/10256 . . . . . . {created by printing techniques}
+   17/10266 . . . . . . . {on glass pane}
+   17/10275 . . . . . . . {on interlayer}
+   17/10284 . . . . . . . {on intermediate layer}
+   17/10293 . . . . . {Edge features, e.g. inserts or holes}
+   17/10302 . . . . . . {Edge sealing}
+   17/10311 . . . . . {Intumescent layers for fire protection}
+   17/10321 . . . . . {Laminated safety glass or glazing
+   17/1033  . . . . . {Laminated safety glass or glazing
+containing temporary protective coatings
+   17/10339 . . . . . {Specific parts of the laminated safety
+glass or glazing being colored or tinted
+(tinted glass sheet B32B 17/1011; tinted
+   17/10348 . . . . . . {comprising an obscuration band}
+   17/10357 . . . . . . {comprising a tinted intermediate film}
+   17/10366 . . . . . {Reinforcements of the laminated
+safety glass or glazing against impact
+or intrusion (containing metal wires for
+   17/10376 . . . . . {Laminated safety glass or glazing
+   17/10385 . . . . . . {for ohmic resistance heating}
+   17/10394 . . . . . . {Alarm wires}
+   17/10403 . . . . . . {for radiation shielding}
+   17/10412 . . . . . . {for reinforcement}
+   17/10422 . . . . . . {for aesthetic reasons}
+   17/10431 . . . . . {Specific parts for the modulation of light
+incorporated into the laminated safety
+   17/1044  . . . . . . {Invariable transmission}
+   17/10449 . . . . . . . {Wavelength selective transmission}
+   17/10458 . . . . . . . {Polarization selective transmission}
+   17/10467 . . . . . . {Variable transmission}
+   17/10477 . . . . . . . {thermochromic}
+   17/10486 . . . . . . . {photochromic}
+   17/10495 . . . . . . . {optoelectronic, i.e. optical valve}
+   17/10504 . . . . . . . . {Liquid crystal layer}
+   17/10513 . . . . . . . . {Electrochromic layer}
+   17/10522 . . . . . . . . {Electrophoretic layer}
+   17/10532 . . . . . . . . {Suspended particle layer}
+   17/10541 . . . . . {comprising a light source or a light
+   17/1055  . . . . {characterized by the resin layer, i.e.
+   17/10559 . . . . . {Shape of the cross-section}
+   17/10568 . . . . . . {varying in thickness}
+   17/10577 . . . . . . {Surface roughness}
+   17/10587 . . . . . . . {created by embossing}
+   17/10596 . . . . . . . {created by melt fracture}
+   17/10605 . . . . . {Type of plasticiser}
+   17/10614 . . . . . {comprising particles for purposes other
+   17/10623 . . . . . . {Whitening agents reflecting visible
+6Layered products characterised by particular substances used
+   17/10633 . . . . . . {Infrared radiation absorbing or
+   17/10642 . . . . . . {Thermally conductive agents}
+   17/10651 . . . . . {comprising colorants, e.g. dyes or
+   17/1066  . . . . . . {imparting a tint in certain regions only,
+   17/10669 . . . . . . {Luminescent agents}
+   17/10678 . . . . . {comprising UV absorbers or stabilizers,
+   17/10688 . . . . . {Adjustment of the adherence to the glass
+   17/10697 . . . . . {being cross-linked}
+   17/10706 . . . . . {being photo-polymerized}
+   17/10715 . . . . . {containing polyether}
+   17/10724 . . . . . {containing polyamide}
+   17/10733 . . . . . {containing epoxy}
+   17/10743 . . . . . {containing acrylate (co)polymers or salts
+   17/10752 . . . . . {containing polycarbonate}
+   17/10761 . . . . . {containing vinyl acetal}
+   17/1077  . . . . . {containing polyurethane}
+   17/10779 . . . . . {containing polyester}
+   17/10788 . . . . . {containing ethylene vinylacetate}
+   17/10798 . . . . . {containing silicone}
+   17/10807 . . . . {Making laminated safety glass or glazing;
+   17/10816 . . . . . {by pressing}
+   17/10825 . . . . . . {Isostatic pressing, i.e. using non rigid
+pressure-exerting members against rigid
+   17/10834 . . . . . . . {using a fluid}
+   17/10844 . . . . . . . . {using a membrane between the
+   17/10853 . . . . . . . . . {the membrane being bag-
+   17/10862 . . . . . . . {using pressing-rolls}
+   17/10871 . . . . . . {in combination with particular heat
+   17/1088  . . . . . {by superposing a plurality of layered
+   17/10889 . . . . . {shaping the sheets, e.g. by using a mould
+(B32B 17/10816 takes precedence)}
+   17/10899 . . . . . {by introducing interlayers of synthetic
+   17/10908 . . . . . . {in liquid form}
+   17/10917 . . . . . . . {between two pre-positioned glass
+   17/10926 . . . . . . {by spraying}
+   17/10935 . . . . . . {as a preformed layer, e.g. formed by
+   17/10944 . . . . . . {in powder form}
+   17/10954 . . . . . . {by using an aligning laminating
+   17/10963 . . . . . {specially adapted for repairing the
+   17/10972 . . . . . {Degassing during the lamination
+(B32B 17/10816 takes precedence)}
+   17/10981 . . . . . {Pre-treatment of the layers}
+   17/1099  . . . . . {After-treatment of the layered product,
+   18/00    Layered products essentially comprising ceramics,
+{In group B32B 18/00, features relating to
+interlayers,additional compositional information
+or further processing are indexed with symbols
+chosen from C04B 2237/00 -  C04B 2237/88}
+   19/00    Layered products comprising {a layer of} natural
+mineral fibres or particles, e.g. asbestos, mica
+   19/02    . {the layer of fibres or particles being impregnated
+or} embedded in a plastic substance
+   19/04    . next to another layer of {the same or of} a {different
+material (next to a glass layer B32B 17/067)}
+   19/043   . . {of natural rubber or synthetic rubber}
+   19/045   . . {of synthetic resin}
+   19/046   . . {of paper or cardboard}
+   19/048   . . {made of particles}
+   19/06    . next to a fibrous or filamentary layer
+   19/08    . comprising asbestos
+   21/00    Layered products comprising {a layer of} wood,
+e.g. wood board, veneer, wood particle board
+   21/02    . {the layer being formed} of fibres, chips, or
+particles {, e.g. MDF, HDF, OSB, chipboard,
+   21/04    . comprising wood as the main or only constituent
+of a layer, {which is} next to another layer of {the
+same or of} a {different material (next to a layer
+of a particular substance B32B 9/042; next to a
+bituminous or tarry layer B32B 11/042; next to a
+water setting substance layer B32B 13/10; next
+to a metal layer B32B 15/10; next to a glass layer
+B32B 17/062; next to a layer formed of natural
+mineral fibres or particles B32B 19/042; next to a
+cellulosic plastic layer B32B 23/044)}
+   21/042   . . {of wood (B32B 21/13 takes precedence)}
+   21/045   . . {of natural rubber or synthetic rubber}
+   21/06    . . of paper or cardboard
+   21/08    . . of synthetic resin
+   21/10    . Next to a fibrous or filamentary layer
+   21/12    . next to a particulate layer
+   21/13    . all layers being exclusively wood
+   21/14    . comprising wood board or veneer
+   23/00    Layered products comprising {a layer of} cellulosic
+plastic substances {, i.e. substances obtained by
+chemical modification of cellulose, e.g. cellulose
+ethers, cellulose esters, viscose}
+   23/02    . in the form of fibres or filaments {(not used)}
+   23/04    . comprising such {cellulosic plastic} substance as
+the main or only constituent of a layer, {which is}
+next to another layer of {the same or of} a {different
+material (next to a glass layer B32B 17/08)}
+   23/046   . . {of natural rubber or synthetic rubber}
+   23/06    . . of paper or cardboard
+   23/08    . . of synthetic resin
+7Layered products characterised by particular substances used
+   23/10    . next to a fibrous or filamentary layer
+   23/12    . next to a particulate layer
+   23/14    . characterised by containing special compounding
+   23/16    . . Modifying agents
+   23/20    . comprising esters
+   23/22    . comprising ethers
+   25/00    Layered products comprising {a layer of} natural
+or synthetic rubber {(fibrous or filamentary layer
+made of a natural or synthetic rubber B32B 5/02;
+particulate layer made of a natural or synthetic
+rubber B32B 5/16; foamed layer made of a natural or
+   25/02    . with fibres or particles {being present as additives in
+   25/04    . comprising rubber as the main or only constituent
+of a layer, {which is} next to another layer of {the
+same or of} a {different material (next to a layer
+of a particular substance B32B 9/043; next to a
+bituminous or tarry layer B32B 11/044; next to a
+water setting substance layer B32B 13/042; next
+to a metal layer B32B 15/06; next to a glass layer
+B32B 17/063; next to a layer formed of natural
+mineral fibres or particles B32B 19/043; next to a
+wood layer B32B 21/045; next to a cellulosic plastic
+   25/042   . . {of natural rubber or synthetic rubber}
+   25/06    . . of paper or cardboard
+   25/08    . . of synthetic resin
+   25/10    . next to a fibrous or filamentary layer
+   25/12    . comprising natural rubber
+   25/14    . comprising {synthetic rubber copolymers
+(B32B 25/18 and B32B 25/20 take precedence)}
+   25/16    . comprising polydienes {homopolymers} or poly-
+halodienes {homopolymers (B32B 25/12 takes
+   25/18    . comprising butyl or halobutyl rubber
+   25/20    . comprising silicone rubber
+   27/00    Layered products comprising {a layer of} synthetic
+resin {(fibrous or filamentary layer made of a
+synthetic resin B32B 5/02; particulate layer made of
+a synthetic resin B32B 5/16; foamed layer made of a
+This group covers all synthetic resins except those
+covered by B32B 25/00 or B32B 23/00
+   27/02    . in the form of fibres or filaments {(not used)}
+   27/04    . as impregnant, bonding, or embedding substance
+   27/06    . as the main or only constituent of a layer, {which
+is} next to another layer of {the same or of} a
+{different material (next to a layer of a particular
+substance B32B 9/045; next to a bituminous or
+tarry layer B32B 11/046; next to a water setting
+substance layer B32B 13/12; next to a metal layer
+B32B 15/08; next to a glass layer B32B 17/10;
+next to a layer formed of natural mineral fibres
+or particles B32B 19/045; next to a wood layer
+B32B 21/08; next to a cellulosic plastic layer
+B32B 23/08; next to a natural or synthetic rubber
+   27/08    . . of synthetic resin
+   27/10    . . of paper or cardboard
+   27/12    . next to a fibrous or filamentary layer
+   27/14    . next to a particulate layer
+   27/16    . specially treated, e.g. irradiated
+   27/18    . characterised by the use of special additives
+   27/20    . . using fillers, pigments, thixotroping agents
+   27/205   . . . {the fillers creating voids or cavities, e.g. by
+   27/22    . . using plasticisers
+   27/24    . . using solvents or swelling agents
+   27/26    . . using curing agents
+   27/28    . comprising synthetic resins not wholly
+covered by any one of the sub-groups
+   27/281   . . {comprising polyimides}
+   27/283   . . {comprising polysiloxanes}
+   27/285   . . {comprising polyethers}
+   27/286   . . {comprising polysulphones; polysulfides}
+   27/288   . . {comprising polyketones}
+   27/30    . comprising vinyl {(co)polymers; comprising acrylic
+   27/302   . . {comprising aromatic vinyl (co)polymers, e.g.
+   27/304   . . {comprising vinyl halide (co)polymers, e.g. PVC,
+   27/306   . . {comprising vinyl acetate or vinyl alcohol
+   27/308   . . {comprising acrylic (co)polymers}
+   27/32    . comprising polyolefins {(comprising vinyl
+(co)polymers or acrylic (co)polymers B32B 27/30)}
+   27/322   . . {comprising halogenated polyolefins, e.g. PTFE}
+   27/325   . . {comprising polycycloolefins}
+   27/327   . . {comprising polyolefins obtained by a
+metallocene or single-site catalyst}
+   27/34    . comprising polyamides
+   27/36    . comprising polyesters
+   27/365   . . {comprising polycarbonates}
+   27/38    . comprising epoxy resins
+   27/40    . comprising polyurethanes
+   27/42    . comprising condensation resins of aldehydes, e.g.
+with phenols, ureas or melamines
+   29/00    Layered products comprising {a layer of} paper or
+8Layered products characterised by particular substances used
+   29/002   . {as the main or only constituent of a layer, which
+is next to another layer of the same or of a different
+material (next to a layer of a particular substance
+B32B 9/06; next to a bituminous or tarry layer
+B32B 11/06; next to a water-setting substance layer
+B32B 13/08; next to a metal layer B32B 15/12;
+next to a glass layer B32B 17/065; next to a layer
+formed of natural mineral fibres or particles
+B32B 19/046; next to a wood layer B32B 21/06;
+next to a cellulosic plastic layer B32B 23/06; next to
+a natural or synthetic rubber layer B32B 25/06; next
+to a synthetic resin layer B32B 27/10)}
+   29/005   . . {next to another layer of paper or cardboard
+   29/007   . . {next to a foam layer}
+   29/02    . next to a fibrous or filamentary layer
+   29/04    . next to a particulate layer
+   29/06    . specially treated, e.g. surfaced, parchmentised
+   29/08    . Corrugated paper or cardboard
+   33/00    Layered products characterised by particular
+properties or particular surface features, e.g.
+particular surface coatings; Layered products
+designed for particular purposes not covered by
+Methods or apparatus for making layered products; Treatment
+of the layers or of the layered products
+In groups B32B 37/00{ , B32B 38/00, B32B 41/00} and
+B32B 39/00, the following expressions are used with the meaning
+• {"lay-up" is condisered to be the action of combining separate
+layers,one on top of the other, in order to form a half-product
+for entering the laminating process}
+• "laminating" means the action of combining previously
+unconnected {but possibly laid up} layers to become one
+product whose layers will remain together;
+• "partial laminating" occurs when one layer does not fully cover
+a surface of another layer, whereby the layer with the greater
+surface area is laminated on only part of its surface;
+• "adhesive" means a layer, or part of a layer, applied in any
+state or in any manner which is incorporated for the purpose of
+   37/00    Methods or apparatus for laminating, e.g. by
+curing or by ultrasonic bonding
+   37/0007  . {involving treatment or provisions in order to avoid
+deformation or air inclusion, e.g. to improve surface
+   37/0015  . . {to avoid warp or curl}
+   37/0023  . . {around holes, apertures or channels present in at
+   37/003   . . {to avoid air inclusion}
+   37/0038  . {involving application of liquid to the layers prior to
+lamination, e.g. wet laminating (B32B 37/12 takes
+   37/0046  . {characterised by constructional aspects of the
+   37/0053  . . {Constructional details of laminating machines
+comprising rollers; Constructional features of the
+ 2037/0061  . . {the apparatus being an office laminator}
+ 2037/0069  . . {the apparatus being originally designed for
+another function, e.g. printer, photocopier}
+   37/0076  . {characterised in that the layers are not bonded on
+the totality of their surfaces}
+   37/0084  . . {Point bonding}
+ 2037/0092  . {in which absence of adhesives is explicitly
+   37/02    . characterised by a sequence of laminating steps,
+e.g. by adding new layers at consecutive laminating
+   37/025   . . {Transfer laminating}
+   37/04    . characterised by the partial melting of at least one
+   37/06    . characterised by the heating method
+   37/065   . . {resulting in the laminate being partially bonded
+(B32B 37/0076 takes precedence)}
+   37/08    . characterised by the cooling method
+   37/10    . characterised by the pressing technique, e.g. using
+action of vacuum or fluid pressure
+   37/1009  . . {using vacuum and fluid pressure}
+   37/1018  . . {using only vacuum}
+   37/1027  . . {Pressing using at least one press band}
+   37/1036  . . . {Pressing between one press band and a
+   37/1045  . . {Intermittent pressing, e.g. by oscillating or
+reciprocating motion of the pressing means
+(B32B 37/0076 takes precedence)}
+   37/1054  . . {Regulating the dimensions of the laminate, e.g.
+by adjusting the nip or platen gap}
+ 2037/1063  . . {using an electrostatic force}
+ 2037/1072  . . {using a fluid jet}
+ 2037/1081  . . {using a magnetic force}
+ 2037/109   . . {using a squeegee}
+   37/12    . characterised by using adhesives
+   37/1207  . . {Heat-activated adhesive (B32B 37/04 takes
+ 2037/1215  . . . {Hot-melt adhesive}
+ 2037/1223  . . . . {film-shaped}
+ 2037/123   . . . . {net-shaped}
+ 2037/1238  . . . {in the form of powder}
+ 2037/1253  . . {curable adhesive}
+ 2037/1261  . . . {moisture curable}
+ 2037/1269  . . {multi-component adhesive}
+ 2037/1276  . . {water-based adhesive}
+   37/1284  . . {Application of adhesive}
+   37/1292  . . . {selectively, e.g. in stripes, in patterns
+(B32B 37/0076 takes precedence)}
+   37/14    . characterised by the properties of the layers
+   37/142   . . {Laminating of sheets, panels or inserts, e.g.
+stiffeners, by wrapping in at least one outer layer,
+or inserting into a preformed pocket}
+   37/144   . . {using layers with different mechanical or
+chemical conditions or properties, e.g. layers
+with different thermal shrinkage, layers under
+tension during bonding (constructional features
+   37/146   . . {whereby one or more of the layers is a
+ 2037/148   . . {whereby layers material is selected in order to
+facilitate recycling of the laminate}
+   37/15    . . with at least one layer being manufactured
+and immediately laminated before reaching its
+stable state, e.g. in which a layer is extruded and
+laminated while in semi-molten state
+9Methods or apparatus for making layered products; Treatment of the layers or of the layered products
+   37/153   . . . {at least one layer is extruded and immediately
+laminated while in semi-molten state}
+   37/156   . . . {at least one layer is calendered and
+   37/16    . . with all layers existing as coherent layers before
+   37/18    . . . involving the assembly of discrete sheets or
+   37/182   . . . . {one or more of the layers being plastic}
+   37/185   . . . . . {Laminating sheets, panels or inserts
+between two discrete plastic layers}
+   37/187   . . . . {the layers being placed in a carrier before
+going through the lamination process}
+   37/20    . . . involving the assembly of continuous webs
+   37/203   . . . . {One or more of the layers being plastic}
+   37/206   . . . . . {Laminating a continuous layer between
+   37/22    . . . involving the assembly of both discrete and
+   37/223   . . . . {One or more of the layers being plastic}
+   37/226   . . . . . {Laminating sheets, panels or inserts
+between two continuous plastic layers}
+   37/24    . . with at least one layer not being coherent before
+laminating, e.g. made up from granular material
+sprinkled onto a substrate (B32B 37/15 takes
+ 2037/246   . . . {Vapour deposition}
+   37/26    . . with at least one layer which influences the
+bonding during the lamination process, e.g.
+release layers or pressure equalising layers
+ 2037/262   . . . {Partition plates or sheets for separating several
+laminates pressed simultaneously}
+ 2037/264   . . . {Pressure equalizing layers}
+ 2037/266   . . . {Cushioning layers}
+ 2037/268   . . . {Release layers}
+   37/28    . involving assembly of non-flat intermediate
+products which are flattened at a later step, e.g.
+   37/30    . Partial laminating
+   38/00    Ancillary operations in connection with laminating
+{In this group, the following expression is used
+"in connection with laminating processes"
+means ancillary operations are carried out
+as steps of the lamination processes, or
+in line with the lamination processes, just
+   38/0004  . {Cutting, tearing or severing, e.g. bursting;
+Cutter details (cutting in general B26D;
+laminating combined with punching or perforating
+B32B 38/04; removing all or part of the layers
+B32B 38/10; cutting in combination with laying up
+and registration B32B 38/185 takes precedence)}
+   38/0008  . {Electrical discharge treatment, e.g. corona, plasma
+treatment; wave energy or particle radiation (heat
+   38/0012  . {Mechanical treatment, e.g. roughening, deforming,
+ 2038/0028  . . {Stretching, elongating}
+   38/0032  . {increasing porosity (B32B 38/04 takes
+   38/0036  . {Heat treatment (for heating or cooling of layers
+during lamination B32B 37/06, B32B 37/08)}
+   38/004   . . {by physically contacting the layers, e.g. by the
+use of heated platens or rollers}
+ 2038/0044  . . {for creating local stresses}
+ 2038/0048  . . {Annealing, relaxing}
+ 2038/0052  . {Other operations not otherwise provided for}
+ 2038/006   . . {Relieving internal or residual stresses}
+ 2038/0064  . . {Smoothing, polishing, making a glossy surface}
+ 2038/0068  . . {Changing crystal orientation}
+ 2038/0072  . . {Orienting fibers}
+ 2038/0076  . . {Curing, vulcanising, cross-linking}
+ 2038/008   . . {Sewing, stitching}
+ 2038/0088  . . {Expanding, swelling}
+   38/04    . Punching, slitting or perforating
+   38/10    . Removing layers, or parts of layers, mechanically or
+   38/14    . Printing or colouring
+   38/16    . Drying; Softening; Cleaning
+ 2038/166   . . . {Removing moisture}
+ 2038/168   . . . {Removing solvent}
+   38/18    . Handling of layers or the laminate
+   38/1808  . . {characterised by the laying up of the layers}
+   38/1816  . . . {Cross feeding of one or more of the layers}
+   38/1825  . . {characterised by the control or constructional
+features of devices for tensioning, stretching or
+   38/1833  . . . {Positioning, e.g. registration or centering}
+   38/1841  . . . . {during laying up}
+   38/185   . . . . . {combined with the cutting of one or more
+   38/1866  . . {conforming the layers or laminate to a convex or
+ 2038/1891  . . {Using a robot for handling the layers}
+   39/00    Layout of apparatus or plants, e.g. modular
+10Methods or apparatus for making layered products; Treatment of the layers or of the layered products
+   41/00    Arrangements for controlling or monitoring
+lamination processes; Safety arrangements
+   41/02    . Safety arrangements
+ 2041/04    . {Detecting wrong registration, misalignment,
+ 2041/06    . {Starting the lamination machine or method}
+   43/00    Operations specially adapted for layered products
+and not otherwise provided for, e.g. repairing;
+Layer arrangements; Coating, impregnation or embedding of
+layers; Composition of fibres, particles or foam present on a
+layer; Resin or rubber layer containing a blend of polymers or
+ 2250/20    . All layers being fibrous or filamentary
+ 2250/22    . All layers being foamed
+ 2250/24    . All layers being polymeric
+ 2250/242   . . All polymers belonging to those covered by group
+ 2250/244   . . All polymers belonging to those covered by group
+ 2250/246   . . All polymers belonging to those covered by
+groups B32B 27/32 and B32B 27/30
+ 2250/248   . . All polymers belonging to those covered by group
+ 2250/26    . All layers being made of paper or paperboard
+ 2250/40    . Symmetrical or sandwich layers, e.g. ABA,
+ 2250/42    . Alternating layers, e.g. ABAB(C), AABBAABB(C)
+ 2250/44    . Number of layers variable across the laminate
+ 2255/00    Coating on the layer surface
+This group is for classification of coatings on
+a layered product. Specific details of coatings
+or processes thereof can be found in C08J 7/00,
+B05D, C09D, C09J, C23C or D06M.
+ 2255/02    . on fibrous or filamentary layer
+ 2255/04    . on a particulate layer
+ 2255/062   . . metal layer being a foamed layer
+ 2255/10    . on synthetic resin layer or on natural or synthetic
+ 2255/102   . . synthetic resin or rubber layer being a foamed
+ 2255/20    . Inorganic coating
+ 2255/205   . . Metallic coating
+ 2255/24    . Organic non-macromolecular coating
+ 2255/26    . Polymeric coating
+ 2255/28    . Multiple coating on one surface
+ 2260/00    Layered product comprising an impregnated,
+embedded, or bonded layer wherein the layer
+comprises an impregnation, embedding, or binder
+ 2260/02    . Composition of the impregnated, bonded or
+ 2260/021   . . Fibrous or filamentary layer (layers of natural
+mineral fibres or particles being impregnated in a
+ 2260/023   . . . Two or more layers
+ 2260/025   . . Particulate layer (layers of natural mineral
+fibres or particles being impregnated in a plastic
+ 2260/04    . Impregnation, embedding, or binder material
+ 2260/042   . . Bituminous or tarry substance
+ 2260/044   . . Water-setting substance, e.g. concrete, plaster
+ 2260/046   . . Synthetic resin
+ 2260/048   . . Natural or synthetic rubber
+ 2262/00    Composition or structural features of fibres which
+form a fibrous or filamentary layer or are present
+ 2262/02    . Synthetic macromolecular fibres
+ 2262/0207  . . Elastomeric fibres
+ 2262/0215  . . . Thermoplastic elastomer fibers
+ 2262/0223  . . Vinyl resin fibres
+ 2262/023   . . . Aromatic vinyl resin, e.g. styrenic
+ 2262/0238  . . . Vinyl halide, e.g. PVC, PVDC, PVF, PVDF
+ 2262/0246  . . Acrylic resin fibres
+ 2262/0253  . . Polyolefin fibres (vinyl or acrylic copolymers
+B32B 2262/0223 or B32B 2262/0246)
+ 2262/0261  . . Polyamide fibres
+ 2262/0269  . . . Aromatic polyamide fibres
+ 2262/0276  . . Polyester fibres
+ 2262/0284  . . . Polyethylene terephthalate [PET] or
+polybutylene terephthalate [PBT]
+ 2262/0292  . . Polyurethane fibres
+ 2262/04    . Cellulosic plastic fibres, e.g. rayon
+ 2262/062   . . Cellulose fibres, e.g. cotton
+ 2262/065   . . . Lignocellulosic fibres, e.g. jute, sisal, hemp,
+ 2262/08    . Animal fibres, e.g. hair, wool, silk
+ 2262/10    . Inorganic fibres (layered products comprising a
+layer of natural mineral fibres B32B 19/00)
+ 2262/106   . . Carbon fibres, e.g. graphite fibres
+ 2262/108   . . Rockwool fibres
+ 2262/12    . Conjugate fibres, e.g. core/sheath or side-by-side
+ 2262/124   . . Non-woven fabric
+ 2262/14    . Mixture of at least two fibres made of different
+ 2262/144   . . Non-woven fabric
+11Layer arrangements; Coating, impregnation or embedding of layers; Composition of fibres, particles or
+ 2262/16    . Structural features of fibres, filaments or yarns e.g.
+wrapped, coiled, crimped or covered
+ 2264/00    Composition or properties of particles which form
+a particulate layer or are present as additives
+ 2264/02    . Synthetic macromolecular particles
+ 2264/0207  . . Particles made of materials belonging to
+ 2264/0214  . . Particles made of materials belonging to
+ 2264/0221  . . . Thermoplastic elastomer particles
+ 2264/0228  . . . Vinyl resin particles, e.g. polyvinyl acetate,
+polyvinyl alcohol polymers or ethylene-vinyl
+ 2264/0235  . . . . Aromatic vinyl resin, e.g. styrenic
+ 2264/0242  . . . . Vinyl halide, e.g. PVC, PVDC, PVF or
+ 2264/025   . . . Acrylic resin particles, e.g. polymethyl
+methacrylate or ethylene-acrylate copolymers
+ 2264/0257  . . . Polyolefin particles, e.g. polyethylene or
+polypropylene homopolymers or ethylene-
+ 2264/0264  . . . Polyamide particles
+ 2264/0271  . . . . Aromatic polyamide particles
+ 2264/0278  . . . Polyester particles
+ 2264/0292  . . . Polyurethane particles
+ 2264/04    . Cellulosic particles, e.g. rayon
+ 2264/06    . Vegetal particles
+ 2264/062   . . Cellulose particles, e.g. cotton
+ 2264/065   . . . Lignocellulosic particles, e.g. jute, sisal, hemp,
+ 2264/067   . . . Wood particles
+ 2264/08    . Animal particles, e.g. leather
+ 2264/10    . Inorganic particles
+ 2264/102   . . Oxide or hydroxide
+ 2264/104   . . Oxysalt, e.g. carbonate, sulfate, phosphate or
+ 2264/1051  . . . Silver or gold
+ 2264/1054  . . . Alkaline earth metal
+ 2264/1055  . . . Copper or nickel
+ 2264/1056  . . . Iron or steel
+ 2264/108   . . . Carbon, e.g. graphite particles
+ 2264/12    . Mixture of at least two particles made of different
+ 2264/20    . Particles characterised by shape
+ 2264/201   . . Flat or platelet-shaped particles, e.g. flakes
+ 2264/203   . . Expanded, porous or hollow particles
+ 2264/2031  . . . Porous particles
+ 2264/2032  . . . Hollow spheres
+ 2264/204   . . Rod- or needle-shaped particles
+ 2264/30    . Particles characterised by physical dimension
+ 2264/301   . . Average diameter smaller than 100 nm
+ 2264/302   . . Average diameter in the range from 100 nm to
+ 2264/303   . . Average diameter greater than 1µm
+ 2264/304   . . Particle length
+ 2264/305   . . Particle size distribution, e.g. unimodal size
+ 2264/306   . . . Multimodal particle size distribution
+ 2264/3065  . . . . bimodal size distribution
+ 2264/307   . . Surface area of particles
+ 2264/308   . . Aspect ratio of particles
+ 2264/40    . Pretreated particles
+ 2264/401   . . with inorganic substances
+ 2264/402   . . with organic substances
+ 2264/4021  . . . with silicon-containing compounds
+ 2264/403   . . coated or encapsulated
+ 2264/50    . Particles characterised by their position or
+ 2264/501   . . homogeneously distributed
+ 2264/502   . . distributed in a gradient manner
+ 2264/503   . . distributed in a predetermined pattern in a
+ 2264/504   . . distributed in a predetermined pattern in a
+direction perpendicular to the thickness
+ 2266/00    Composition of foam
+ 2266/0207  . . Materials belonging to B32B 25/00
+ 2266/0214  . . Materials belonging to B32B 27/00
+ 2266/0228  . . . . Aromatic vinyl resin, e.g. styrenic
+ 2266/0235  . . . . Vinyl halide, e.g. PVC, PVDC, PVF, PVDF
+ 2266/0242  . . . Acrylic resin
+ 2266/025   . . . Polyolefin (vinyl or acrylic copolymers
+B32B 2266/0221, B32B 2266/0242)
+ 2266/0285  . . . Condensation resins of aldehydes, e.g. with
+ 2266/0292  . . . Thermoplastic elastomer
+ 2266/031   . . Bituminous or tarry material
+ 2266/049   . . Water-setting material, e.g. concrete, plaster or
+ 2266/053   . . Mineral element, e.g. asbestos or mica
+ 2266/057   . . Silicon-containing material, e.g. glass
+ 2266/10    . characterised by the foam pores
+ 2266/102   . . Nanopores, i.e. with average diameter smaller
+12Layer arrangements; Coating, impregnation or embedding of layers; Composition of fibres, particles or
+ 2266/104   . . Micropores, i.e. with average diameter in the
+ 2266/106   . . Unimodal pore distribution
+ 2266/108   . . Bimodal pore distribution
+ 2266/122   . . Hydrogel, i.e. a gel containing an aqueous
+ 2266/124   . . Organogel, i.e. a gel containing an organic
+ 2266/126   . . Aerogel, i.e. a supercritically dried gel
+ 2266/128   . . Xerogel, i.e. an air dried gel
+ 2270/00    Resin or rubber layer containing a blend of at least
+ 2272/00    Resin or rubber layer comprising scrap, waste or
+ 2274/00    Thermoplastic elastomer material (thermoplastic
+elastomer fibres B32B 2262/0215, thermoplastic
+elastomer particles B32B 2264/0221, thermoplastic
+Condition, form, state or properties of the layers or laminate
+ 2305/00    Condition, form or state of the layers or laminate
+ 2305/02    . Cellular or porous
+ 2305/028   . . Hollow fillers; Syntactic material
+ 2305/07    . Parts immersed or impregnated in a matrix
+ 2305/10    . Fibres of continuous length
+ 2305/18    . . Fabrics, textiles
+ 2305/184   . . . Braided fabrics
+ 2305/186   . . . Knitted fabrics
+ 2305/188   . . . Woven fabrics
+ 2305/20    . . in the form of a non-woven mat
+ 2305/22    . Fibres of short length
+ 2305/28    . . in the form of a mat
+ 2305/30    . Fillers, e.g. particles, powders, beads, flakes,
+ 2305/345   . . Heating elements
+ 2305/347   . . Security elements
+ 2305/38    . Meshes, lattices or nets
+ 2305/54    . Filled microcapsules
+ 2305/70    . Scrap or recycled material
+ 2305/72    . Cured, e.g. vulcanised, cross-linked
+ 2305/77    . Uncured, e.g. green
+ 2307/00    Properties of the layers or laminate
+ 2307/10    . having particular acoustical properties
+ 2307/20    . having particular electrical or magnetic properties,
+ 2307/208   . . Magnetic, paramagnetic
+ 2307/212   . . Electromagnetic interference shielding
+ 2307/30    . having particular thermal properties
+ 2307/306   . . Resistant to heat
+ 2307/3065  . . . Flame resistant or retardant, fire resistant or
+ 2307/308   . . Heat stability (dimensional stability
+ 2307/40    . having particular optical properties (light or UV
+ 2307/4023  . . . on the layer surface, e.g. ink
+ 2307/4026  . . . within the layer by addition of a colorant, e.g.
+ 2307/404   . . . Multi-coloured
+ 2307/406   . . Bright, glossy, shiny surface
+ 2307/408   . . Matt, dull surface
+ 2307/409   . . Iridescent, pearlescent surface
+ 2307/42    . . Polarizing, birefringent, filtering
+ 2307/422   . . Luminescent, fluorescent, phosphorescent
+ 2307/50    . having particular mechanical properties
+ 2307/52    . . . multi-axially
+ 2307/54    . . Yield strength; Tensile strength
+ 2307/544   . . Torsion strength; Torsion stiffness
+ 2307/546   . . Flexural strength; Flexion stiffness
+ 2307/552   . . Fatigue strength
+ 2307/554   . . Wear resistance
+ 2307/558   . . Impact strength, toughness
+ 2307/56    . . Damping, energy absorption
+ 2307/581   . . . Resistant to cut
+ 2307/5825  . . . Tear resistant
+ 2307/584   . . Scratch resistance
+ 2307/71    . . Resistive to light or to UV
+13Condition, form, state or properties of the layers or laminate
+ 2307/712   . . Weather resistant
+ 2307/714   . . Inert, i.e. inert to chemical degradation, corrosion
+ 2307/7145  . . . Rot proof, resistant to bacteria, mildew, mould,
+ 2307/7163  . . . Biodegradable
+ 2307/7166  . . . Water-soluble, water-dispersible
+ 2307/718   . . Weight, e.g. weight per square meter
+ 2307/722   . . . Non-uniform density
+ 2307/724   . . Permeability to gases, adsorption
+ 2307/7242  . . . Non-permeable
+ 2307/7244  . . . . Oxygen barrier
+ 2307/7246  . . . . Water vapor barrier
+ 2307/7248  . . . . Odour barrier
+ 2307/726   . . Permeability to liquids, absorption
+ 2307/7265  . . . Non-permeable
+ 2307/732   . . Dimensional properties
+ 2307/734   . . . Dimensional stability
+ 2307/737   . . . Dimensions, e.g. volume or area
+ 2307/7375  . . . . Linear, e.g. length, distance or width
+ 2307/7376  . . . . . Thickness
+ 2307/738   . . Thermoformability
+ 2307/74    . . Oxygen absorber
+ 2307/744   . . Non-slip, anti-slip
+ 2307/746   . . Slipping, anti-blocking, low friction
+ 2307/752   . . Corrosion inhibitor
+ 2307/756   . . Refurbishable, i.e. marks or scratches can be
+ 2307/758   . . Odour absorbent
+ 2307/762   . . Self-repairing, self-healing
+ 2307/764   . . Insect repellent
+Operating procedures; Apparatus details
+ 2309/00    Parameters for the laminating or treatment
+ 2309/022   . . Temperature vs pressure profiles
+ 2309/025   . . Temperature vs time profiles
+ 2309/027   . . Ambient temperature
+ 2309/08    . Dimensions, e.g. volume
+ 2309/10    . . linear, e.g. length, distance, width
+ 2309/125   . . Pressure vs time profiles
+ 2309/14    . Velocity, e.g. feed speeds
+ 2309/60    . In a particular environment
+ 2309/65    . . Dust free, e.g. clean room
+ 2309/66    . . Fluid other than air
+ 2309/70    . Automated, e.g. using a computer or microcomputer
+ 2309/72    . . For measuring or regulating, e.g. systems with
+ 2310/00    Treatment by energy or chemical effects
+ 2310/021   . using electrical effects (B32B 2310/08 and
+ 2310/022   . . Electrical resistance
+ 2310/025   . . Electrostatic charges
+ 2310/028   . using vibration, e.g. sonic or ultrasonic
+ 2310/04    . using liquids, gas or steam
+ 2310/0418  . . . other than water
+ 2310/0427  . . . Liquified gases
+ 2310/0445  . . using gas or flames (B32B 2310/0427 takes
+ 2310/0463  . . . other than air
+ 2310/049   . . using steam or damp
+ 2310/08    . by wave energy or particle radiation
+ 2310/0806  . . using electromagnetic radiation
+ 2310/0812  . . . using induction
+ 2310/0818  . . . . using eddy currents
+ 2310/0825  . . . using IR radiation
+ 2310/0831  . . . using UV radiation
+ 2310/0837  . . . using actinic light
+ 2310/0856  . . . using gamma-ray
+ 2310/0862  . . . using microwave
+ 2310/0868  . . . using radio frequency
+ 2310/0875  . . using particle radiation
+ 2310/0881  . . . using ion-radiation, e.g. alpha-rays
+ 2310/0887  . . . using electron radiation, e.g. beta-rays
+ 2310/0893  . . . using neutron radiation
+ 2310/12    . using dielectric properties
+ 2310/14    . Corona, ionisation, electrical discharge, plasma
+Inorganic materials used for the layers, laminate or apparatus
+ 2311/00    Metals, their alloys or their compounds
+Alloys and compounds of specific metals are
+indexed with the same indexing code as the
+ 2311/005   . Shape memory alloys
+14Inorganic materials used for the layers, laminate or apparatus components
+ 2313/00    Elements other than metals
+ 2315/00    Other materials containing non-metallic
+inorganic compounds not provided for in groups
+ 2315/085   . . Glass fiber cloth or fabric
+Other natural products or their composites used for the layers,
+laminate or apparatus components not provided for in groups
+B32B 2311/00 - B32B 2315/18 and B32B 2319/00 - B32B 2398/20
+ 2317/00    Animal or vegetable based
+ 2317/06    . Bone; Horn; Ivory
+ 2317/10    . Natural fibres, e.g. wool, cotton
+ 2317/12    . Paper, e.g. cardboard
+ 2317/125   . . impregnated with thermosetting resin
+ 2317/127   . . Corrugated cardboard
+ 2317/16    . Wood, e.g. woodboard, fibreboard, woodchips
+ 2317/18    . Cellulose, modified cellulose or cellulose
+derivatives, e.g. viscose (B32B 2317/10,
+B32B 2317/12, B32B 2317/16 take precedence)
+ 2317/22    . Natural rubber (synthetic rubber B32B 2319/00)
+ 2317/24    . Oil (B32B 2318/02 takes precedence)
+Organic materials used for the layers, laminate or apparatus
+ 2319/00    Synthetic rubber (natural rubber B32B 2317/22)
+In groups B32B 2319/00 - B32B 2386/00, C-
+Sets are used. Detailed information about C-Sets
+construction and the associated syntax rules is
+ 2323/043   . . HDPE, i.e. high density polyethylene
+ 2323/046   . . LDPE, i.e. low density polyethylene
+ 2323/16    . EPDM, i.e. ethylene propylene diene monomer
+ 2325/00    Polymers of vinyl-aromatic compounds, e.g.
+ 2327/00    Polyvinylhalogenides
+ 2327/06    . PVC, i.e. polyvinylchloride
+ 2327/12    . containing fluorine
+ 2327/18    . . PTFE, i.e. polytetrafluoroethylene
+ 2329/00    Polyvinylalcohols, polyvinylethers,
+polyvinylaldehydes, polyvinylketones or
+ 2329/06    . PVB, i.e. polyinylbutyral
+ 2331/04    . Polymers of vinyl acetate, e.g. PVA
+ 2333/00    Polymers of unsaturated acids or derivatives
+ 2333/04    . Polymers of esters
+ 2333/08    . . Polymers of acrylic acid esters, e.g. PMA, i.e.
+ 2333/12    . . Polymers of methacrylic acid esters, e.g. PMMA,
+ 2355/00    Specific polymers obtained by polymerisation
+reactions only involving carbon-to-carbon
+unsaturated bonds, not provided for in a single one
+of index codes B32B 2323/00 - B32B 2333/00
+ 2355/02    . ABS polymers, i.e. acrylonitrile-butadiene-styrene
+ 2361/00    Phenoplast, aminoplast
+ 2367/00    Polyesters, e.g. PET, i.e. polyethylene terephthalate
+ 2371/00    Polyethers, e.g. PEEK, i.e. polyether-etherketone;
+ 2375/00    Polyureas; Polyurethanes
+ 2379/00    Other polymers having nitrogen, with or without
+oxygen or carbon only, in the main chain
+ 2386/00    Specific polymers obtained by polycondensation
+or polyaddition not provided for in a single one of
+index codes B32B 2363/00 - B32B 2383/00
+ 2395/00    Bituminous material, e.g. tar, asphalt
+ 2398/00    Unspecified macromolecular compounds
+ 2398/10    . Thermosetting resins
+Parts of specific articles are indexed with the same indexing codes
+ 2405/00    Adhesive articles, e.g. adhesive tapes (labels
+ 2410/00    Agriculture-related articles
+ 2413/00    Belts (conveyor belts B32B 2433/02; drive belts
+ 2419/00    Buildings or parts thereof (walls, panels
+ 2419/04    . Tiles for floors or walls (tiles for roofs
+ 2419/06    . Roofs, roof membranes
+ 2425/00    Cards, e.g. identity cards, credit cards
+ 2429/00    Carriers for sound or information
+ 2432/00    Cleaning articles, e.g. mops, wipes (personal care
+ 2433/00    Closed loop articles
+ 2435/00    Closures, end caps, stoppers
+ 2437/00    Clothing (anti-ballistic clothing B32B 2571/02)
+ 2439/00    Containers; Receptacles (closures therefor
+ 2439/06    . . Bags, sacks, sachets
+ 2439/40    . Closed containers
+ 2439/62    . . Boxes, cartons, cases
+ 2439/80    . Medical packaging
+ 2451/00    Decorative or ornamental articles (wall paper
+ 2457/00    Electrical equipment
+ 2457/08    . PCBs, i.e. printed circuit boards
+ 2457/12    . Photovoltaic modules
+ 2457/14    . Semiconductor wafers
+ 2457/20    . Displays, e.g. liquid crystal displays, plasma
+ 2457/202   . . LCD, i.e. liquid crystal displays
+ 2457/204   . . Plasma displays
+ 2457/206   . . Organic displays, e.g. OLED
+ 2459/00    Nets, e.g. camouflage nets
+ 2471/00    Floor coverings (B32B 2419/04 takes precedence)
+ 2475/00    Frictional elements
+ 2479/00    Furniture (upholstery B32B 2601/00)
+ 2509/00    Household appliances
+ 2509/10    . Refrigerators or refrigerating equipment
+ 2535/00    Medical equipment, e.g. bandage, prostheses,
+catheter (medical patches B32B 2556/00)
+ 2553/00    Packaging equipment or accessories not otherwise
+ 2553/023   . . for use in loose form, e.g. dunnage
+ 2554/00    Paper of special types, e.g. banknotes
+ 2555/02    . Diapers or napkins
+ 2556/00    Patches, e.g. medical patches, repair patches
+ 2559/00    Photographic equipment or accessories
+ 2571/00    Protective equipment
+ 2571/02    . defensive, e.g. armour plates, anti-ballistic clothing
+ 2581/00    Seals; Sealing equipment; Gaskets
+ 2590/00    Signboards, advertising panels, road signs
+ 2597/00    Tubular articles, e.g. hoses, pipes
+ 2603/00    Vanes, blades, propellers, rotors with blades
+ 2605/003   . Interior finishings
+ 2605/006   . Transparent parts other than made from inorganic
+glass, e.g. polycarbonate glazings
+ 2605/18    . Aircraft (blades, propellers B32B 2603/00)
+ 2607/02    . Wall papers, wall coverings

@@ -1,0 +1,456 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+DOMESTIC- OR SPACE-HEATING SYSTEMS, e.g. CENTRAL HEATING SYSTEMS;
+DOMESTIC HOT-WATER SUPPLY SYSTEMS; ELEMENTS OR COMPONENTS
+THEREFOR (using steam or condensate extracted or exhausted from steam engine plants for
+In this subclass, the following expression is used with the meaning indicated:
+• "Central heating system" means a system in which heat is  generated or stored at central sources and is distributed  by
+means of a transfer fluid to the spaces or areas to be  heated.
+{In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Steam central heating systems (district heating
+systems F24D 10/00; central heating systems using
+heat accumulated in storage masses F24D 11/00)
+    1/005   . {in combination with systems for domestic water
+    1/02    . operating with live steam {(F24D 1/005 takes
+    1/04    . operating with exhaust steam {(F24D 1/005 takes
+    1/06    . operating with superheated steam {(F24D 1/005
+    1/08    . Feed-line arrangements, e.g. providing for heat-
+accumulator tanks, expansion tanks
+    3/00    Hot-water central heating systems (district heating
+systems F24D 10/00; central heating systems using
+heat accumulated in storage masses F24D 11/00)
+    3/005   . {combined with solar energy (solar heat collectors
+    3/02    . with forced circulation, e.g. by pumps (pump
+    3/04    . with the water under high pressure
+    3/06    . . Arrangements or devices for maintaining high
+    3/08    . in combination with systems for domestic hot-water
+    3/082   . . {Hot water storage tanks specially adapted
+    3/085   . . . {Double-walled tanks}
+    3/087   . . {Tap water heat exchangers specially adapted
+    3/10    . Feed-line arrangements, e.g. providing for heat-
+accumulator tanks, expansion tanks {Hydraulic
+components of a central heating system}
+    3/1008  . . {expansion tanks}
+    3/1016  . . . {Tanks having a bladder}
+    3/1025  . . . {Compressor controlled pressure heads}
+    3/1033  . . . {with compressed gas cylinder}
+    3/1041  . . . {Flow-through}
+    3/105   . . {pumps combined with multiple way valves}
+    3/1058  . . {disposition of pipes and pipe connections}
+    3/1066  . . . {Distributors for heating liquids}
+    3/1075  . . . . {Built up from modules}
+    3/1083  . . {Filling valves or arrangements for filling}
+    3/1091  . . {Mixing cylinders}
+    3/12    . Tube and panel arrangements for ceiling, wall,
+or underfloor heating (electric underfloor heating
+    3/125   . . . {Hydraulic pipe connections}
+    3/127   . . . {Mechanical connections between panels}
+    3/14    . . incorporated in a ceiling, wall or floor
+    3/141   . . . {Tube mountings specially adapted therefor}
+    3/142   . . . . {integrated in prefab construction elements}
+    3/143   . . . . {Tube clips with barbed anchors}
+    3/144   . . . . {Clips for fastening heating tubes on a
+reinforcement net or mesh, e.g. mesh for
+    3/145   . . . {Convecting elements concealed in wall or
+    3/146   . . . {Tubes specially adapted for underfloor
+    3/147   . . . {arranged in facades}
+    3/148   . . . {with heat spreading plates}
+    3/149   . . . {Tube-laying devices}
+    3/16    . . mounted on, or adjacent to, a ceiling, wall or floor
+    3/165   . . . {Suspended radiant heating ceiling}
+    5/00    Hot-air central heating systems (district heating
+systems F24D 10/00; central heating systems using
+heat accumulated in storage masses F24D 11/00; air
+conditioning F24F); Exhaust gas central heating
+    5/005   . {combined with solar energy}
+    5/02    . operating with discharge of hot air into the space or
+    5/04    . . with return of the air or the air-heater
+    5/06    . operating without discharge of hot air into the space
+    5/08    . . with hot air led through radiators
+    5/10    . . with hot air led through heat-exchange ducts in
+    7/00    Central heating systems employing heat-
+transfer fluids not covered by groups
+F24D 1/00 - F24D 5/00, e.g. oil, salt or gas (district
+heating systems F24D 10/00; central heating
+systems using heat accumulated in storage masses
+    9/00    Central heating systems employing combinations
+of heat transfer fluids covered by two or more
+of groups F24D 1/00 - F24D 7/00 (district heating
+systems F24D 10/00; central heating systems using
+heat accumulated in storage masses F24D 11/00)
+    9/02    . Hot water and steam systems
+   10/00    District heating systems
+   10/003   . {Domestic delivery stations having a heat
+   10/006   . {Direct domestic delivery stations}
+   11/00    Central heating systems using heat accumulated in
+storage masses (self-contained storage heating units
+   11/001   . {district heating system}
+   11/002   . {water heating system}
+   11/003   . . {combined with solar energy}
+   11/004   . . {with conventional supplementary heat source}
+   11/005   . . {with recuperation of waste heat}
+   11/006   . {air heating system}
+   11/007   . . {combined with solar energy}
+   11/008   . . {with conventional supplementary heat source}
+   11/009   . . {with recuperation of waste heat}
+   11/0207  . . {district heating system}
+   11/0214  . . {water heating system}
+   11/0221  . . . {combined with solar energy}
+   11/0228  . . . {combined with conventional heater}
+   11/0235  . . . {with recuperation of waste energy}
+   11/0242  . . . . {contained in exhausted air}
+   11/025   . . . . {contained in waste water}
+   11/0257  . . {air heating system}
+   11/0264  . . . {combined with solar energy}
+   11/0271  . . . {combined with conventional energy}
+   11/0278  . . . {with recuperation of waste energy}
+   11/0285  . . . . {contained in exhausted air}
+   11/0292  . . . . {contained in waste water}
+   12/00    Other central heating systems
+   12/02    . having more than one heat source (using heat
+pumps, in water central heating systems F24D 3/18;
+in air central heating systems F24D 5/12; in systems
+using heat storage masses F24D 11/02)
+Other domestic- or space-heating systems
+   13/00    Electric heating systems
+   13/02    . solely using resistance heating, e.g. underfloor
+   13/022   . . {resistances incorporated in construction
+   13/024   . . . {in walls, floors, ceilings}
+   13/026   . . . {in door, windows}
+   13/028   . . . {Glass panels, e.g. mirrors, design radiators,
+   13/04    . using electric heating of heat-transfer fluid in
+   15/00    Other domestic- or space-heating systems
+   15/02    . consisting of self-contained heating units, e.g.
+   17/00    Domestic hot-water supply systems
+   17/0005  . {using recuperation of waste heat (F24D 17/0036
+   17/001   . . {with accumulation of heated water}
+   17/0015  . {using solar energy (F24D 17/0036 takes
+   17/0021  . . {with accumulation of the heated water}
+   17/0026  . {with conventional heating means (F24D 17/0036
+   17/0031  . . {with accumulation of the heated water}
+   17/0036  . {with combination of different kinds of heating
+   17/0042  . . {recuperated waste heat and solar energy}
+   17/0047  . . . {with accumulation of the heated water}
+   17/0052  . . {recuperated waste heat and conventional heating
+   17/0057  . . . {with accumulation of the heated water}
+   17/0063  . . {solar energy and conventional heaters}
+   17/0068  . . . {with accumulation of the heated water}
+   17/0073  . {Arrangements for preventing the occurrence or
+proliferation of microorganisms in the water}
+   17/0078  . {Recirculation systems}
+   17/0084  . . {Coaxial tubings}
+   17/0089  . {Additional heating means, e.g. electric heated
+buffer tanks or electric continuous flow heaters,
+located close to the consumer, e.g. directly before
+the water taps in bathrooms, in domestic hot water
+   17/0094  . {Recovering of cold water}
+   18/00    Small-scale combined heat and power [CHP]
+generation systems specially adapted for domestic
+heating, space heating or domestic hot-water
+In this group, it is desirable to add the indexing
+codes of groups F24D 2101/00 - F24D 2105/00.
+2Other domestic- or space-heating systems
+   19/00    Details (of water or air heaters F24H 9/00; of heat-
+exchange or heat-transfer apparatus, of general
+   19/0002  . {Means for connecting central heating radiators to
+   19/0004  . . {In a one pipe system}
+   19/0007  . . . {Comprising regulation means}
+   19/0009  . . {In a two pipe system}
+   19/0012  . . . {Comprising regulation means}
+   19/0014  . . {Connection means adaptable for one and two
+   19/0017  . . {Connections between supply and inlet or outlet
+   19/0019  . . . {Means for adapting connections}
+   19/0021  . . . {Flexible tubes or hoses}
+   19/0024  . . . {Connections for plate radiators}
+   19/0026  . . {Places of the inlet on the radiator}
+   19/0029  . . . {on a top corner}
+   19/0031  . . . {on the top in the middle}
+   19/0034  . . . {on a bottom corner}
+   19/0036  . . . {on the bottom in the middle}
+   19/0039  . . {Places of the outlet on the radiator}
+   19/0041  . . . {on the top in the middle}
+   19/0043  . . . {on the opposite top corner}
+   19/0046  . . . {on the top on the same side}
+   19/0048  . . . {on the bottom in the middle}
+   19/0051  . . . {on the bottom on the opposite corner}
+   19/0053  . . . {on the bottom on the same side}
+   19/0056  . . {Supplies from the central heating system}
+   19/0058  . . . {coming out the floor}
+   19/006   . . . . {Alongside the radiator}
+   19/0063  . . . . {under the radiator}
+   19/0065  . . . {coming out the wall}
+   19/0068  . . . . {alongside the radiator}
+   19/007   . . . . {under the radiator}
+   19/0073  . . {Means for changing the flow of the fluid inside a
+   19/0075  . . {Valves for isolating the radiator from the
+   19/008   . {Details related to central heating radiators}
+   19/0082  . . {Humidifiers for radiators}
+   19/0085  . . {Fresh air entries for air entering the room to be
+   19/0087  . . {Fan arrangements for forced convection}
+   19/009   . . {Magnets, e.g. for attaching a cover}
+   19/0092  . {Devices for preventing or removing corrosion,
+   19/0095  . {Devices for preventing damage by freezing}
+   19/0097  . {Casings or frame structures for hydraulic
+   19/02    . Arrangement of mountings or supports for radiators
+   19/0203  . . {Types of supporting means}
+   19/0206  . . . {Tube shaped supports inserted into a wall}
+   19/0209  . . . {Supporting means having bracket}
+   19/0213  . . . {Floor mounted supporting means}
+   19/0216  . . . {Supporting means having a rail}
+   19/022   . . {Constructional details of supporting means for
+   19/0223  . . . {Distance pieces between the radiator and the
+   19/0226  . . . {Additional means supporting the process of
+   19/023   . . . {Radiators having fixed suspension means for
+connecting the radiator to the support means}
+   19/0233  . . . {Templates for installing the radiator}
+   19/0236  . . . {Water tubes or pipes forming part of the
+   19/024   . . {Functioning details of supporting means for
+   19/0243  . . . {Means for moving the radiator horizontally to
+   19/0246  . . . {Means for moving the radiator vertically to
+   19/025   . . . {Eccentric means for moving the radiator
+   19/0253  . . . {Adjusting a dimension, e.g. length, of the
+radiator support, e.g. telescopic rails}
+   19/0256  . . . {Radiators clamped by supporting means}
+   19/0259  . . . . {Radiators clamped by supporting means
+   19/0263  . . . . {Radiators clamped by supporting means
+   19/0273  . . . {Radiators fixed in order to prevent undesired
+   19/0276  . . . . {Radiators fixed on the bottom}
+   19/0279  . . . . {Radiators fixed on the sides}
+   19/0283  . . . . {Radiators fixed on the top}
+   19/0286  . . . . {Radiators fixed using a spring}
+   19/0289  . . . . {Radiators fixed using a flexible clip}
+   19/0293  . . . {Radiators rotating without being demounted}
+   19/06    . Casings, cover lids or ornamental panels, for
+   19/061   . . {Radiator shelves}
+   19/062   . . {Heat reflecting or insulating shields}
+   19/064   . . {Coverings not directly attached to a radiator, e.g.
+   19/065   . . {Grids attached to the radiator and covering its
+   19/067   . . {Front coverings attached to the radiator}
+   19/068   . . {Side coverings attached to the radiator}
+   19/08    . Arrangements for drainage, venting or aerating
+(valves for venting or aerating F16K 24/00)
+   19/081   . . {for steam heating systems}
+   19/082   . . {for water heating systems}
+   19/083   . . . {Venting arrangements}
+   19/085   . . . . {Arrangement of venting valves for central
+   19/086   . . . . . {hand-operated}
+   19/087   . . . . . {automatic}
+   19/088   . . . {Draining arrangements}
+   19/10    . Arrangement or mounting of control or safety
+devices (only the heater being controlled
+by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+3Other domestic- or space-heating systems
+   19/1003  . . {for steam heating systems}
+by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   19/1006  . . {for water heating systems}
+by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   19/1009  . . . {for central heating}
+by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   19/1012  . . . . {by regulating the speed of a pump}
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   19/1015  . . . . {using a valve or valves}
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   19/1018  . . . . . {Radiator valves}
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   19/1021  . . . . . {a by pass valve}
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   19/1024  . . . . . {a multiple way valve}
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   19/1027  . . . . . . {hand operated}
+by reclassification into groups
+All groups listed in this Warning
+should be considered in order to
+   19/103   . . . . . . {bimetal operated}
+by reclassification into groups
+All groups listed in this Warning
+should be considered in order to
+   19/1033  . . . . . . {motor operated}
+by reclassification into groups
+All groups listed in this Warning
+should be considered in order to
+   19/1036  . . . . . {Having differential pressure measurement
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+4Other domestic- or space-heating systems
+   19/1039  . . . . {the system uses a heat pump}
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   19/1042  . . . . {the system uses solar energy}
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   19/1045  . . . . {the system uses a heat pump and solar
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   19/1048  . . . . {Counting of energy consumption}
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   19/1051  . . . {for domestic hot water}
+by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   19/1054  . . . . {the system uses a heat pump}
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   19/1057  . . . . {the system uses solar energy}
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   19/106   . . . . {the system uses a heat pump and solar
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   19/1063  . . . . {counting of energy consumption}
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   19/1066  . . . {for the combination of central heating and
+by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   19/1069  . . . . {regulation in function of the temperature of
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   19/1072  . . . . {the system uses a heat pump}
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+5Other domestic- or space-heating systems
+   19/1075  . . . . {the system uses solar energy}
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   19/1078  . . . . {the system uses a heat pump and solar
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   19/1081  . . . . {counting of energy consumption}
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   19/1084  . . {for air heating systems}
+by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   19/1087  . . . {system using a heat pump}
+by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   19/109   . . . {system using solar energy}
+by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   19/1093  . . . {system using a heat pump and solar energy}
+by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   19/1096  . . {for electric heating systems}
+by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+Indexing scheme associated with group F24D 18/00, relating to
+electric generators, thermal aspects and constructional aspects of
+small-scale combined heat and power [CHP] systems
+ 2101/00    Electric generators of small-scale CHP systems
+ 2101/10    . Gas turbines; Steam engines or steam turbines;
+Water turbines, e.g. located in water pipes
+ 2101/40    . Photovoltaic [PV] modules
+ 2101/50    . Thermophotovoltaic [TPV] modules
+ 2101/60    . Thermoelectric generators, e.g. Peltier or Seebeck
+ 2101/70    . Electric generators driven by internal combustion
+ 2101/80    . Electric generators driven by external combustion
+ 2103/00    Thermal aspects of small-scale CHP systems
+ 2103/10    . Small-scale CHP systems characterised by their heat
+ 2103/13    . . characterised by their heat exchangers
+ 2103/20    . Additional heat sources for supporting thermal peak
+ 2105/00    Constructional aspects of small-scale CHP systems
+ 2200/00    Heat sources or energy sources
+ 2200/02    . Photovoltaic energy
+ 2200/04    . Gas or oil fired boiler
+ 2200/043   . . More than one gas or oil fired boiler
+ 2200/046   . . Condensing boilers
+ 2200/06    . Solid fuel fired boiler
+ 2200/062   . . Coal fired boilers
+ 2200/065   . . Wood fired boilers
+ 2200/067   . . . Pellet fired boilers
+ 2200/07    . Solid fuel burners
+ 2200/11    . Geothermal energy
+ 2200/115   . . Involving mains water supply
+ 2200/123   . . Compression type heat pumps
+ 2200/126   . . Absorption type heat pumps
+ 2200/13    . Heat from a district heating network
+ 2200/18    . . Flue gas recuperation
+ 2200/22    . . Ventilation air
+ 2200/26    . . Internal combustion engine
+ 2200/28    . . Biological processes
+ 2200/29    . . Electrical devices, e.g. computers, servers
+ 2200/31    . . Air conditioning systems
+ 2200/32    . involving multiple heat sources in combination or as
+ 2220/00    Components of central heating installations
+ 2220/003   . Generic central heating systems
+ 2220/006   . Parts of a building integrally forming part of heating
+systems, e.g. a wall as a heat storing mass
+ 2220/02    . Fluid distribution means
+ 2220/0214  . . Inlets or outlets
+ 2220/0221  . . Mixing cylinders
+ 2220/0228  . . Branched distribution conduits
+ 2220/0235  . . Three-way-valves
+ 2220/0242  . . Multiple way valves
+ 2220/0257  . . Thermostatic valves
+ 2220/0264  . . Hydraulic balancing valves
+ 2220/0278  . . Expansion vessels
+ 2220/0292  . . Fluid distribution networks
+ 2220/042   . . Temperature sensors
+ 2220/046   . . Pressure sensors
+ 2220/048   . . Level sensors, e.g. water level sensors
+ 2220/10    . Heat storage materials, e.g. phase change materials
+or static water enclosed in a space
+ 2220/2018  . . . Column radiators having vertically extending
+ 2220/2027  . . . Convectors (radiators wherein heat transfer
+mainly takes place by convection)
+ 2220/2036  . . . Electric radiators
+ 2220/2045  . . . Radiators having horizontally extending tubes
+ 2220/2054  . . . Panel radiators with or without extended
+ 2220/2063  . . . Central heating radiators having heat storage
+ 2220/2072  . . . Radiators being skirting boards between floor
+and wall or ledges between wall and ceiling
+ 2220/2081  . . Floor or wall heating panels
+ 2220/209   . . Sanitary water taps
+ 2240/00    Characterizing positions, e.g. of sensors, inlets,
+ 2240/10    . Placed within or inside of
+ 2240/12    . Placed outside of
+ 2240/20    . Placed at top position
+ 2240/22    . Placed at bottom position
+ 2240/24    . Placed at centre position
+ 2240/243   . . Vertically centred
+ 2240/246   . . Horizontally centred
+ 2240/26    . Vertically distributed at fixed positions, e.g.
+multiple sensors distributed over the height of a
+tank, or a vertical inlet distribution pipe having a
+ 2240/28    . Horizontally distributed at fixed positions
+ 2240/30    . At vertical variable positions, e.g. a movable inlet
+ 2240/32    . At horizontal variable positions

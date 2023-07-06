@@ -1,0 +1,515 @@
+COOPERATIVE PATENT CLASSIFICATION
+MEASURING DISTANCES, LEVELS OR BEARINGS; SURVEYING; NAVIGATION;
+GYROSCOPIC INSTRUMENTS; PHOTOGRAMMETRY OR VIDEOGRAMMETRY
+(measuring liquid level G01F; radio navigation, determining distance or velocity by use
+of propagation effects, e.g. Doppler effects, propagation time, of radio waves, analogous
+arrangements using other waves G01S)
+1. In this subclass, the following term is used with the meaning indicated:
+"navigation" means determining the position and course of land vehicles, ships, aircraft, and space vehicles.
+2. Attention is drawn to the Notes following the title of class G01.
+{In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/04    . . combined with cameras
+    1/06    . . Arrangements for reading scales
+    1/10    . . including an artificial horizon (G01C 1/14 takes
+    1/12    . . . with a stabilised mirror
+    1/14    . . Periscopic sextants
+    3/00    Measuring distances in line of sight; Optical
+rangefinders (tapes, chains or wheels for measuring
+length G01B 3/00; active triangulation systems,
+i.e. using the transmission and reflection of
+electromagnetic waves other than radio waves,
+    3/04    . . Adaptation of rangefinders for combination with
+    3/06    . . Use of electric means to obtain final indication
+    3/08    . . . Use of electric radiation detectors
+    3/085   . . . . {with electronic parallax measurement}
+    3/10    . using a parallactic triangle with variable angles and
+a base of fixed length in the observation station, e.g.
+    3/12    . . with monocular observation at a single point, e.g.
+coincidence type (G01C 3/20 takes precedence)
+    3/14    . . with binocular observation at a single point, e.g.
+stereoscopic type (G01C 3/20 takes precedence)
+    3/16    . . . Measuring marks
+    3/18    . . with one observation point at each end of the base
+    3/20    . . with adaptation to the measurement of the height
+    3/22    . using a parallactic triangle with variable angles and
+a base of fixed length at, near, or formed by the
+    3/24    . using a parallactic triangle with fixed angles and a
+base of variable length in the observation station,
+    3/26    . using a parallactic triangle with fixed angles and a
+base of variable length, at, near, or formed by the
+    3/28    . . with provision for reduction of the distance into
+    3/30    . . . with adaptation to the measurement of the
+height of an object, e.g. tacheometers
+    3/32    . by focusing the object, e.g. on a ground glass screen
+    5/00    Measuring height; Measuring distances transverse
+to line of sight; Levelling between separated
+points; Surveyors' levels (G01C 3/20, G01C 3/30
+    5/005   . {altimeters for aircraft (G01C 5/02, G01C 5/06 take
+    5/02    . involving automatic stabilisation of the line of sight
+    5/04    . Hydrostatic levelling, i.e. by flexibly interconnected
+liquid containers at separated points
+    5/06    . by using barometric means
+    7/00    Tracing profiles (by photogrammetry or
+    7/04    . . involving a vehicle which moves along the profile
+    7/06    . of cavities, e.g. tunnels
+    9/00    Measuring inclination, e.g. by clinometers, by
+    9/005   . {specially adapted for use in aircraft}
+    9/04    . . Transmission means between sensing element and
+final indicator for giving an enlarged reading
+    9/06    . . Electric or photoelectric indication or reading
+    9/08    . . Means for compensating acceleration forces due
+    9/10    . by using rolling bodies {, e.g. spheres, cylinders,
+ 2009/105   . . {mercury droplets}
+    9/12    . by using a single pendulum {plumb lines
+    9/14    . . movable in more than one direction
+    9/16    . by using more than one pendulum
+ 2009/187   . . {magnetic, e.g. ferromagnetic}
+    9/20    . . the indication being based on the inclination of
+the surface of a liquid relative to its container
+    9/22    . . . with interconnected containers in fixed relation
+    9/24    . . in closed containers partially filled with liquid so
+    9/30    . . . . Means for adjusting dimensions of bubble
+    9/32    . . . . Means for facilitating the observation of
+the position of the bubble, e.g. illuminating
+    9/34    . . . of the tubular type, i.e. for indicating the level
+    9/36    . . . of the spherical type, i.e. for indicating the level
+   11/00    Photogrammetry or videogrammetry, e.g.
+stereogrammetry; Photographic surveying
+   11/02    . Picture taking arrangements specially adapted for
+photogrammetry or photographic surveying, e.g.
+controlling overlapping of pictures
+   11/025   . . {by scanning the object}
+   11/04    . Interpretation of pictures
+   11/06    . . by comparison of two or more pictures of the
+   11/08    . . . the pictures not being supported in the same
+relative position as when they were taken
+   11/10    . . . . using computers to control the position of the
+   11/12    . . . the pictures being supported in the same
+relative position as when they were taken
+   11/14    . . . . with optical projection (G01C 11/26 takes
+   11/16    . . . . . in a common plane
+   11/18    . . . . . . involving scanning means
+   11/20    . . . . . in separate planes
+   11/22    . . . . with mechanical projection (G01C 11/26
+   11/24    . . . . with optical-mechanical projection
+   11/26    . . . . using computers to control the position of the
+   11/28    . . . Special adaptation for recording picture point
+   11/30    . . by triangulation
+   11/32    . . . Radial triangulation
+   11/34    . . . Aerial triangulation
+   11/36    . Videogrammetry, i.e. electronic processing of video
+signals {from a single source or } from different
+sources to give parallax or range information
+   13/00    Surveying specially adapted to open water, e.g. sea,
+lake, river or canal (liquid level metering G01F)
+   13/002   . {Measuring the movement of open water}
+   13/004   . . {vertical movement}
+   13/006   . . {horizontal movement}
+   13/008   . {measuring depth of open water}
+   15/00    Surveying instruments or accessories not provided
+for in groups G01C 1/00 - G01C 13/00
+   15/002   . {Active optical surveying means (optical plumbing
+   15/004   . . {Reference lines, planes or sectors}
+   15/006   . . . {Detectors therefor}
+   15/008   . . {combined with inclination sensor}
+   15/02    . Means for marking measuring points
+   15/04    . . Permanent marks; Boundary markers
+   15/06    . . Surveyors' staffs; Movable markers
+   15/08    . . . Plumbing or registering staffs or markers over
+   15/105   . . {Optical plumbing}
+   15/12    . Instruments for setting out fixed angles, e.g. right
+   15/14    . Artificial horizons
+   17/00    Compasses; Devices for ascertaining true or
+magnetic north for navigation or surveying
+purposes (using gyroscopic effect G01C 19/00)
+   17/02    . Magnetic compasses
+   17/04    . . with north-seeking magnetic elements, e.g.
+   17/06    . . . Suspending magnetic elements
+   17/08    . . . . by flotation
+   17/10    . . . Comparing observed direction with north
+   17/12    . . . . by sighting means, e.g. for surveyors'
+   17/14    . . . . by reference marks, e.g. for ships' compasses
+   17/16    . . . . by clinometers, e.g. for determining dip or
+   17/18    . . . Supporting or suspending compasses, e.g. by
+   17/20    . . . Observing the compass card or needle
+   17/22    . . . . by projection
+   17/24    . . . . Illumination
+   17/26    . . . . using electric pick-offs for transmission to
+final indicator, e.g. photocell
+   17/28    . . Electromagnetic compasses (with north seeking
+magnetic elements and having electric pick-offs
+   17/30    . . . Earth-inductor compasses
+   17/32    . . . Electron compasses
+   17/34    . Sun- or astro-compasses
+   17/36    . Repeaters for remote indication of readings of a
+   17/38    . Testing, calibrating, or compensating of compasses
+   19/00    Gyroscopes; Turn-sensitive devices using vibrating
+masses; Turn-sensitive devices without moving
+masses; Measuring angular rate using gyroscopic
+   19/005   . {Measuring angular rate using gyroscopic effects}
+Group G01C 19/005 is incomplete pending
+reclassification of documents from groups
+G01P 9/00, G01P 9/02 and G01P 9/04.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   19/02    . Rotary gyroscopes
+Groups G01C 19/02, G01C 19/025, G01C 19/04,
+G01C 19/06, G01C 19/08, G01C 19/10,
+G01C 19/12, G01C 19/14, G01C 19/16,
+G01C 19/18, G01C 19/20, G01C 19/22,
+G01C 19/24, G01C 19/26, G01C 19/28,
+G01C 19/30, G01C 19/32, G01C 19/34,
+G01C 19/36, G01C 19/38, G01C 19/40,
+G01C 19/42, G01C 19/44, G01C 19/46,
+G01C 19/48, G01C 19/50, G01C 19/52
+and G01C 19/54 are incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete
+   19/025   . . {Gyroscopes functioning for short periods}
+   19/065   . . . . {Means for measuring or controlling of
+Group G01C 19/065 is incomplete
+pending reclassification of documents
+from groups G01P 9/00 and G01P 9/02.
+Groups G01P 9/00, G01P 9/02 and
+G01C 19/065 should be considered in
+order to perform a complete search.
+   19/08    . . . . electrically driven (G01C 19/14 takes
+   19/10    . . . . . Power supply
+   19/12    . . . . fluid driven (G01C 19/14 takes precedence)
+   19/14    . . . . Fluid rotors
+   19/16    . . . Suspensions; Bearings
+   19/18    . . . . providing movement of rotor with respect to
+its rotational axes (G01C 19/20, G01C 19/24
+   19/24    . . . . using magnetic or electrostatic fields
+   19/26    . . . Caging, i.e. immobilising moving parts, e.g. for
+   19/28    . . . Pick-offs, i.e. devices for taking-off an
+indication of the displacement of the rotor axis
+   19/30    . . . Erection devices, i.e. devices for restoring
+rotor axis to a desired position (for instrument
+indicating the vertical G01C 19/46)
+   19/32    . . . Indicating or recording means specially adapted
+   19/34    . . for indicating a direction in the horizontal plane,
+   19/36    . . . with north-seeking action by magnetic means,
+   19/38    . . . with north-seeking action by other than
+magnetic means, e.g. gyrocompasses using
+   19/40    . . for control by signals from a master compass, i.e.
+   19/42    . . for indicating rate of turn; for integrating rate of
+   19/44    . . for indicating the vertical
+   19/46    . . . Erection devices for restoring rotor axis to a
+   19/48    . . . . operating by electrical means (G01C 19/54
+   19/50    . . . . operating by mechanical means (G01C 19/54
+   19/52    . . . . operating by fluid means (G01C 19/54 takes
+   19/54    . . . . with correction for acceleration forces due to
+   19/56    . Turn-sensitive devices using vibrating masses, e.g.
+vibratory angular rate sensors based on Coriolis
+Groups G01C 19/56 - G01C 19/5783 are
+incomplete pending reclassification of
+documents from group G01P 9/04.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   19/5607  . . using vibrating tuning forks (double-ended tuning
+forks using planar vibrating masses suspended at
+   19/5614  . . . Signal processing
+   19/5621  . . . the devices involving a micromechanical
+   19/5628  . . . Manufacturing; Trimming; Mounting;
+   19/5635  . . using vibrating wires or strings
+   19/5642  . . using vibrating bars or beams
+   19/5649  . . . Signal processing
+   19/5656  . . . the devices involving a micromechanical
+   19/5663  . . . Manufacturing; Trimming; Mounting;
+   19/567   . . using the phase shift of a vibration node or
+   19/5677  . . . of essentially two-dimensional vibrators, e.g.
+   19/5684  . . . . the devices involving a micromechanical
+   19/5691  . . . of essentially three-dimensional vibrators, e.g.
+   19/5698  . . using acoustic waves, e.g. surface acoustic wave
+   19/5705  . . using masses driven in reciprocating rotary
+   19/5712  . . . the devices involving a micromechanical
+   19/5719  . . using planar vibrating masses driven in a
+translation vibration along an axis
+   19/5726  . . . Signal processing
+   19/5733  . . . Structural details or topology
+   19/574   . . . . the devices having two sensing masses in
+   19/5747  . . . . . each sensing mass being connected to a
+driving mass, e.g. driving frames
+   19/5755  . . . . the devices having a single sensing mass
+   19/5762  . . . . . the sensing mass being connected to a
+driving mass, e.g. driving frames
+   19/5769  . . . Manufacturing; Mounting; Housings
+   19/5776  . . Signal processing not specific to any
+of the devices covered by groups
+   19/5783  . . Mountings or housings not specific to
+any of the devices covered by groups
+   19/58    . Turn-sensitive devices without moving masses
+   19/60    . . Electronic or nuclear magnetic resonance
+   19/62    . . . with optical pumping
+   19/64    . . Gyrometers using the Sagnac effect, i.e.
+rotation-induced shifts between counter-rotating
+   19/66    . . . Ring laser gyrometers
+   19/662   . . . . . {signal readout; dither compensators}
+   19/664   . . . . . . {means for removing the dither signal}
+   19/665   . . . . . {control of the cavity }
+   19/667   . . . . {using a multioscillator ring laser}
+   19/668   . . . . {Assemblies for measuring along different
+   19/68    . . . . Lock-in prevention
+   19/70    . . . . . by mechanical means
+   19/72    . . . with counter-rotating light beams in a passive
+ring, e.g. fibre laser gyrometers
+   19/722   . . . . . {of the mechanical construction}
+   19/723   . . . . {Heterodyning fibre optic gyrometers}
+   19/725   . . . . {using nxn optical couplers, e.g. 3x3
+   19/726   . . . . {Phase nulling gyrometers, i.e. compensating
+the Sagnac phase shift in a closed loop
+   19/727   . . . . {using a passive ring resonator}
+   19/728   . . . . {Assemblies for measuring along different
+   21/00    Navigation; Navigational instruments not provided
+for in groups G01C 1/00 - G01C 19/00 (measuring
+distance traversed on the ground by a vehicle
+G01C 22/00; control of position, course, altitude or
+attitude of vehicles G05D 1/00; traffic control systems
+for road vehicles involving transmission of navigation
+instructions to the vehicle G08G 1/0968)
+Group G01C 21/00 is impacted by reclassification
+into groups G01C 21/38 - G01C 21/3896.
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   21/005   . {with correlation of navigation data from several
+sources, e.g. map or contour matching (G01C 21/30
+   21/02    . by astronomical means (G01C 21/24, G01C 21/26
+   21/025   . . {with the use of startrackers}
+   21/04    . by terrestrial means (G01C 21/24, G01C 21/26 take
+   21/06    . . involving measuring of drift angle; involving
+   21/08    . . involving use of the magnetic field of the earth
+   21/10    . by using measurements of speed or acceleration
+(G01C 21/24, G01C 21/26 take precedence)
+   21/12    . . executed aboard the object being navigated; Dead
+   21/14    . . . by recording the course traversed by the object
+   21/16    . . . by integrating acceleration or speed, i.e. inertial
+Groups G01C 21/16 - G01C 21/188
+are incomplete pending reclassification
+of documents from groups G01P 9/00,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   21/165   . . . . {combined with non-inertial navigation
+by reclassification into groups
+G01C 21/1652, G01C 21/1654, and
+Groups G01C 21/165, G01C 21/1652,
+G01C 21/1654, and G01C 21/1656 should
+be considered in order to perform a
+   21/1652  . . . . . {with ranging devices, e.g. LIDAR or
+Group G01C 21/1652 is incomplete
+pending reclassification of documents
+G01C 21/1652 should be considered in
+order to perform a complete search.
+   21/1654  . . . . . {with electromagnetic compass}
+Group G01C 21/1654 is incomplete
+pending reclassification of documents
+G01C 21/1654 should be considered in
+order to perform a complete search.
+   21/1656  . . . . . {with passive imaging devices, e.g.
+Group G01C 21/1656 is incomplete
+pending reclassification of documents
+G01C 21/1656 should be considered in
+order to perform a complete search.
+   21/166   . . . . {Mechanical, construction or arrangement
+details of inertial navigation systems}
+Group G01C 21/166 is incomplete
+pending reclassification of documents
+Groups G01C 21/16 and G01C 21/166
+should be considered in order to perform
+   21/18    . . . . Stabilised platforms, e.g. by gyroscope
+   21/183   . . . . {Compensation of inertial measurements,
+Group G01C 21/183 is incomplete
+pending reclassification of documents
+Groups G01C 21/16 and G01C 21/183
+should be considered in order to perform
+   21/185   . . . . . {for gravity}
+Group G01C 21/185 is incomplete
+pending reclassification of documents
+Groups G01C 21/16 and G01C 21/185
+should be considered in order to
+   21/188   . . . . . {for accumulated errors, e.g. by coupling
+inertial systems with absolute positioning
+Group G01C 21/188 is incomplete
+pending reclassification of documents
+Groups G01C 21/16 and G01C 21/188
+should be considered in order to
+   21/20    . Instruments for performing navigational
+calculations (G01C 21/24, G01C 21/26 take
+   21/203   . . {Specially adapted for sailing ships}
+   21/206   . . {specially adapted for indoor navigation}
+   21/22    . . Plotting boards
+   21/24    . specially adapted for cosmonautical navigation
+   21/26    . specially adapted for navigation in a road network
+   21/265   . . {constructional aspects of navigation devices, e.g.
+housings, mountings, displays (G01C 21/3688
+   21/28    . . with correlation of data from several navigational
+   21/30    . . . Map- or contour-matching
+   21/32    . . . . Structuring or formatting of map data
+by reclassification into groups
+G01C 21/38 - G01C 21/3896 should be
+considered in order to perform a complete
+   21/34    . . Route searching; Route guidance
+   21/3407  . . . {specially adapted for specific applications}
+   21/3415  . . . . {Dynamic re-routing, e.g. recalculating the
+route when the user deviates from calculated
+route or after detecting real-time traffic data
+   21/3423  . . . . {Multimodal routing, i.e. combining two
+or more modes of transportation, where the
+modes can be any of, e.g. driving, walking,
+   21/343   . . . . {Calculating itineraries, i.e. routes leading
+from a starting point to a series of categorical
+destinations using a global route restraint,
+round trips, touristic trips (travelling
+salesman problem G06Q 10/04; optimisation
+   21/3438  . . . . {Rendez-vous, i.e. searching a destination
+where several users can meet, and the routes
+to this destination for these users; Ride
+sharing, i.e. searching a route such that at
+least two users can share a vehicle for at least
+   21/3446  . . . {Details of route searching algorithms, e.g.
+Dijkstra, A*, arc-flags, using precalculated
+   21/3453  . . . {Special cost functions, i.e. other than distance
+or default speed limit of road segments}
+   21/3461  . . . . {Preferred or disfavoured areas, e.g.
+dangerous zones, toll or emission zones,
+intersections, manoeuvre types, segments
+such as motorways, toll roads, ferries}
+   21/3469  . . . . {Fuel consumption; Energy use; Emission
+   21/3476  . . . . {using point of interest [POI] information,
+e.g. a route passing visible POIs}
+   21/3484  . . . . {Personalized, e.g. from learned user
+behaviour or user-defined profiles}
+   21/3492  . . . . {employing speed data or traffic data, e.g.
+real-time or historical (traffic control systems
+for road vehicles involving transmission
+of navigation instructions to the vehicle
+   21/36    . . . Input/output arrangements for on-board
+   21/3602  . . . . {Input other than that of destination using
+image analysis, e.g. detection of road signs,
+lanes, buildings, real preceding vehicles
+   21/3605  . . . . {Destination input or retrieval}
+   21/3608  . . . . . {using speech input, e.g. using speech
+   21/3611  . . . . . {using character input or menus, e.g.
+menus of POIs (character input methods in
+   21/3614  . . . . . {through interaction with a road map, e.g.
+selecting a POI icon on a road map}
+   21/3617  . . . . . {using user history, behaviour, conditions
+or preferences, e.g. predicted or inferred
+from previous use or current movement}
+   21/362   . . . . . {received from an external device or
+application, e.g. PDA, mobile phone or
+   21/3623  . . . . . {using a camera or code reader, e.g. for
+   21/3626  . . . . {Details of the output of route guidance
+instructions (traffic control systems for road
+vehicles involving transmission of navigation
+instructions to the vehicle G08G 1/0968)}
+   21/3629  . . . . . {Guidance using speech or audio output,
+e.g. text-to-speech (text to speech systems
+   21/3632  . . . . . {Guidance using simplified or
+iconic instructions, e.g. using arrows
+(G01C 21/365 takes precedence)}
+   21/3635  . . . . . {Guidance using 3D or perspective road
+   21/3638  . . . . . . {including 3D objects and buildings
+(three dimensional [3D] modelling,
+e.g. data description of 3D objects
+   21/3641  . . . . . {Personalized guidance, e.g. limited
+guidance on previously travelled routes}
+   21/3644  . . . . . {Landmark guidance, e.g. using POIs or
+   21/3647  . . . . . {Guidance involving output of stored or
+live camera images or video streams}
+   21/365   . . . . . {Guidance using head up displays or
+projectors, e.g. virtual vehicles or arrows
+projected on the windscreen or on the road
+   21/3652  . . . . . {Guidance using non-audiovisual output,
+e.g. tactile, haptic or electric stimuli}
+   21/3655  . . . . . {Timing of guidance instructions}
+   21/3658  . . . . . {Lane guidance}
+   21/3661  . . . . . {Guidance output on an external device,
+   21/3664  . . . . {Details of the user input interface,
+e.g. buttons, knobs or sliders, including
+those provided on a touch screen; remote
+controllers; input using gestures}
+   21/3667  . . . . {Display of a road map (G01C 21/3614
+takes precedence; guidance using 3D or
+perspective road maps G01C 21/3635)}
+   21/367   . . . . . {Details, e.g. road map scale, orientation,
+zooming, illumination, level of detail,
+scrolling of road map or positioning of
+   21/3673  . . . . . {Labelling using text of road map data
+items, e.g. road names, POI names}
+   21/3676  . . . . . {Overview of the route on the road map}
+   21/3679  . . . . {Retrieval, searching and output of POI
+information, e.g. hotels, restaurants,
+shops, filling stations, parking facilities
+(G01C 21/3611 takes precedence)}
+   21/3682  . . . . . {output of POI information on a road
+map (G01C 21/3614, G01C 21/3685 take
+   21/3685  . . . . . {the POI's being parking facilities}
+   21/3688  . . . . {Systems comprising multiple parts or
+multiple output devices (not client-server),
+e.g. detachable faceplates, key fobs or
+   21/3691  . . . . {Retrieval, searching and output of
+information related to real-time traffic,
+weather, or environmental conditions
+(arrangements for giving variable traffic
+   21/3694  . . . . . {Output thereof on a road map}
+   21/3697  . . . . {Output of additional, non-guidance
+related information, e.g. low fuel level
+(G01C 21/3679 takes precedence)}
+   21/38    . {Electronic maps specially adapted for navigation;
+Groups G01C 21/38 - G01C 21/3896 are
+incomplete pending reclassification of
+documents from groups G01C 21/00 and
+Groups G01C 21/00, G01C 21/32, and
+G01C 21/38 - G01C 21/3896 should be
+considered in order to perform a complete
+   21/3804  . . {Creation or updating of map data}
+   21/3807  . . . {characterised by the type of data}
+   21/3811  . . . . {Point data, e.g. Point of Interest [POI]}
+   21/3815  . . . . {Road data}
+   21/3819  . . . . . {Road shape data, e.g. outline of a route}
+   21/3822  . . . . . {Road feature data, e.g. slope data}
+   21/3826  . . . . {Terrain data}
+   21/383   . . . . {Indoor data}
+   21/3833  . . . {characterised by the source of data}
+   21/3837  . . . . {Data obtained from a single source}
+   21/3841  . . . . {Data obtained from two or more sources,
+   21/3844  . . . . {Data obtained from position sensors only,
+   21/3848  . . . . {Data obtained from both position sensors
+   21/3852  . . . . {Data derived from aerial or satellite
+   21/3856  . . . . {Data obtained from user input}
+   21/3859  . . . {Differential updating map data}
+   21/3863  . . {Structures of map data}
+   21/3867  . . . {Geometry of map features, e.g. shape points,
+polygons or for simplified maps}
+   21/387   . . . {Organisation of map data, e.g. version
+management or database structures}
+   21/3874  . . . . {Structures specially adapted for data
+   21/3878  . . . . {Hierarchical structures, e.g. layering}
+   21/3881  . . . . {Tile-based structures}
+   21/3885  . . {Transmission of map data to client devices;
+Reception of map data by client devices}
+   21/3889  . . . {Transmission of selected map data, e.g.
+   21/3893  . . . {Transmission of map data from distributed
+sources, e.g. from roadside stations}
+   21/3896  . . . {Transmission of map data from central
+   22/00    Measuring distance traversed on the ground by
+vehicles, persons, animals or other moving solid
+bodies, e.g. using odometers, using pedometers
+   22/004   . {for golf carts }
+   22/02    . by conversion into electric waveforms and
+subsequent integration, e.g. using tachometer
+generator {(G01C 22/002, G01C 22/004,
+   22/025   . . {Differential odometers}
+   23/00    Combined instruments indicating more than one
+navigational value, e.g. for aircraft; Combined
+measuring devices for measuring two or more
+variables of movement, e.g. distance, speed or
+   23/005   . {Flight directors (indicating arrangements specially
+adapted for rotary gyroscopes G01C 19/32)}
+   25/00    Manufacturing, calibrating, cleaning, or repairing
+instruments or devices referred to in the other
+groups of this subclass (testing, calibrating or
+compensating compasses G01C 17/38)
+   25/005   . {initial alignment, calibration or starting-up of

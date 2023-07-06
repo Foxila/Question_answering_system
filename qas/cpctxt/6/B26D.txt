@@ -1,0 +1,350 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+HAND CUTTING TOOLS; CUTTING; SEVERING
+CUTTING; DETAILS COMMON TO MACHINES FOR PERFORATING, PUNCHING,
+CUTTING-OUT, STAMPING-OUT OR SEVERING (soil-working A01B; for growing
+crops or plants A01D, A01G; for fodder or straw A01F; for bulk butter A01J; for dough A21C;
+slaughtering A22B; for tobacco, cigars or cigarettes A24; marking-out, perforating or making
+buttonholes A41H 25/00; manufacturing footwear A43D; brushmaking A46D; surgery A61B;
+disintegrating, mincing or shredding in general B02C; cutting wire, making pins or nails B21F,
+B21G; of the kind used formetal B23; cutting by abrasive fluid jets B24C 5/02; hand-held cutting
+tools B26B; perforating, cutting-out, stamping-out or punching, or severing by means other
+than cutting B26F; for wood B27; for stone B28D; working of plastics or substances in a plastic
+state B29; making boxes, cartons, envelopes or bags, of paper or similarly worked materials,
+e.g. metal foil, B31B; article or web delivery apparatus incorporating cutting or line-perforating
+devices B65H 35/00; for leather or upholstery B68; C14B; for glass C03B; making matches
+C06F; for peat C10F; for sugar C13B 45/00; for textile materials D06H; civil engineering,
+building, mining, see Section E; for light guides G02B 6/25; cutting processed photographic
+• cutting non-metallic sheet material and metal foil in general;
+• cutting other forms of non-metallic material not otherwise provided for;
+• features specific to machines for cutting, perforating, punching, cutting-out, stamping-out and severing by means other
+than cutting, which relate to a requirement or problem of a nature which is not peculiar to a machine for these purposes,
+that is, details of or arrangements for operating or controlling such machines, although the realisation of such features may
+differ according to the kind of machine concerned. This subclass covers such features in general even if the feature in any
+particular case is to some extent peculiar to, or is claimed only for, a machine designed for perforating, punching, cutting-
+out, stamping-out, or for severing other than by cutting.
+2. If the details or arrangements have no essential features specific to cutting, perforating, punching, cutting-out, stamping-out or
+severing machines, the more general classes, e.g. F16, take precedence.
+3. In this subclass, in groups B26D 5/00 and B26D 7/00, the following term is used with the meaning indicated:
+• "cutting" includes cutting-out, stamping-out, punching, perforating, and severing by means other than cutting.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Cutting through work characterised by the nature
+or movement of the cutting member {or particular
+materials not otherwise provided for}; Apparatus
+or machines therefor; Cutting members therefor
+    1/0006  . {Cutting members therefor}
+ 2001/0013  . . {consisting of a reciprocating or endless band}
+ 2001/002   . . {Materials or surface treatments therefor, e.g.
+ 2001/0026  . . . {fiber reinforced materials}
+ 2001/0033  . . {assembled from multiple blades}
+ 2001/0046  . . {rotating continuously about an axis
+ 2001/0053  . . {having a special cutting edge section or blade
+ 2001/006   . . {the cutting blade having a special shape, e.g. a
+ 2001/0066  . . {having shearing means, e.g. shearing blades,
+ 2001/0073  . . {having the form of a three dimensional spiral}
+ 2001/008   . . {in the form of wires}
+ 2001/0086  . . {having a radiussed blunt cutting edge}
+ 2001/0093  . . {circular cutting discs with a radiussed blunt
+    1/01    . involving a cutting member which does not travel
+    1/015   . . {for thin material, e.g. for sheets, strips or the
+    1/02    . . having a stationary cutting member (B26D 1/547
+    1/025   . . . {for thin material, e.g. for sheets, strips or the
+    1/03    . . . with a plurality of cutting members
+    1/035   . . . . {for thin material, e.g. for sheets, strips or the
+    1/04    . . having a linearly-movable cutting member
+(B26D 1/46, B26D 1/547 take precedence)
+    1/045   . . . {for thin material, e.g. for sheets, strips or the
+    1/06    . . . wherein the cutting member reciprocates (cup
+or like cutting members B26D 1/44)
+    1/065   . . . . {for thin material, e.g. for sheets, strips or the
+    1/08    . . . . of the guillotine type
+    1/085   . . . . . {for thin material, e.g. for sheets, strips or
+    1/09    . . . . . with a plurality of cutting members
+    1/095   . . . . . . {for thin material, e.g. for sheets, strips
+    1/10    . . . . in, or substantially in, a direction parallel to
+    1/105   . . . . . {for thin material, e.g. for sheets, strips or
+    1/11    . . . . . with a plurality of cutting members
+    1/115   . . . . . . {for thin material, e.g. for sheets, strips
+    1/12    . . having a cutting member moving about an axis
+(B26D 1/547 takes precedence; cup or like cutting
+    1/125   . . . {for thin material, e.g. for sheets, strips or the
+    1/14    . . . with a circular cutting member, e.g. disc cutter
+    1/141   . . . . {for thin material, e.g. for sheets, strips or the
+    1/143   . . . . rotating about a stationary axis
+(B26D 1/20 - B26D 1/24 take precedence)
+    1/1435  . . . . . {for thin material, e.g. for sheets, strips or
+    1/147   . . . . . with horizontal cutting member
+    1/1475  . . . . . . {for thin material, e.g. for sheets, strips
+    1/15    . . . . . with vertical cutting member
+    1/151   . . . . . . {for thin material, e.g. for sheets, strips
+    1/153   . . . . . with inclined cutting member
+    1/1535  . . . . . . {for thin material, e.g. for sheets, strips
+    1/157   . . . . rotating about a movable axis
+(B26D 1/20 - B26D 1/24 take precedence)
+    1/1575  . . . . . {for thin material, e.g. for sheets, strips or
+    1/16    . . . . . mounted on a movable arm or the like
+    1/165   . . . . . . {for thin material, e.g. for sheets, strips
+    1/18    . . . . . mounted on a movable carriage
+    1/185   . . . . . . {for thin material, e.g. for sheets, strips
+    1/20    . . . . coacting with a fixed member
+    1/205   . . . . . {for thin material, e.g. for sheets, strips or
+    1/22    . . . . coacting with a movable member, e.g. a
+roller (B26D 1/24 takes precedence)
+    1/225   . . . . . {for thin material, e.g. for sheets, strips or
+    1/24    . . . . coacting with another disc cutter
+    1/245   . . . . . {for thin material, e.g. for sheets, strips or
+    1/25    . . . with a non-circular cutting member
+    1/255   . . . . {for thin material, e.g. for sheets, strips or the
+    1/26    . . . . moving about an axis substantially
+perpendicular to the line of cut
+    1/265   . . . . . {for thin material, e.g. for sheets, strips or
+    1/28    . . . . . and rotating continuously in one direction
+    1/285   . . . . . . {for thin material, e.g. for sheets, strips
+    1/29    . . . . . . with cutting member mounted in the
+plane of a rotating disc, e.g. for slicing
+    1/295   . . . . . . . {for thin material, e.g. for sheets,
+    1/30    . . . . . with limited pivotal movement to effect
+    1/305   . . . . . . {for thin material, e.g. for sheets, strips
+    1/34    . . . . moving about an axis parallel to the line of
+    1/345   . . . . . {for thin material, e.g. for sheets, strips or
+    1/36    . . . . . and rotating continuously in one direction
+during cutting, e.g. mounted on a rotary
+cylinder (for flying cutting B26D 1/62)
+    1/365   . . . . . . {for thin material, e.g. for sheets, strips
+    1/38    . . . . . and coacting with a fixed blade or other
+    1/385   . . . . . . {for thin material, e.g. for sheets, strips
+    1/40    . . . . . and coacting with a rotary member
+    1/405   . . . . . . {for thin material, e.g. for sheets, strips
+    1/42    . . . . . and slidably mounted in a rotary member
+    1/425   . . . . . . {for thin material, e.g. for sheets, strips
+    1/43    . . . . moving about another axis, e.g. mounted on
+the surface of a cone or curved body
+    1/435   . . . . . {for thin material, e.g. for sheets, strips or
+    1/44    . . having a cup or like cutting member
+    1/445   . . . {for thin material, e.g. for sheets, strips or the
+    1/45    . . having a cutting member the movement of which
+is not covered by any preceding group
+    1/455   . . . {for thin material, e.g. for sheets, strips or the
+    1/46    . . having an endless band-knife or the like
+    1/465   . . . {for thin material, e.g. for sheets, strips or the
+    1/48    . . . with tensioning means
+    1/485   . . . . {for thin material, e.g. for sheets, strips or the
+    1/50    . . . with a plurality of band-knives or the like
+    1/505   . . . . {for thin material, e.g. for sheets, strips or the
+    1/52    . . . . having adjustable spacing between knives
+    1/525   . . . . . {for thin material, e.g. for sheets, strips or
+    1/54    . . . Guides for band-knives or the like
+    1/543   . . . . {for thin material, e.g. for sheets, strips or the
+    1/547   . . having a wire-like cutting member (endless
+wire B26D 1/46; severing using a heated wire
+    1/5475  . . . {for thin material, e.g. for sheets, strips or the
+    1/553   . . . with a plurality of wire-like cutting members
+    1/5535  . . . . {for thin material, e.g. for sheets, strips or the
+    1/56    . involving a cutting member which travels with
+the work {otherwise than in the direction of the
+cut}, i.e. flying cutter (flying shears for metal
+B23D 25/00; flying saws for metal B23D 45/18)
+    1/565   . . {for thin material, e.g. for sheets, strips or the
+    1/58    . . and is mounted on a movable arm or the like {(for
+    1/585   . . . {for thin material, e.g. for sheets, strips or the
+    1/60    . . and is mounted on a movable carriage
+    1/605   . . . {for thin material, e.g. for sheets, strips or the
+    1/62    . . and is rotating about an axis parallel to the line of
+cut, e.g. mounted on a rotary cylinder
+ 2001/623   . . . {for selecting different knife sets by shifting
+the angle of the rotary cylinder}
+    1/626   . . . {for thin material, e.g. for sheets, strips or the
+    3/00    Cutting work characterised by the nature of the
+    3/001   . {Cutting tubes longitudinally}
+    3/003   . {specially adapted for cutting rubber}
+    3/005   . . {for cutting used tyres}
+    3/006   . {specially adapted for cutting blocs of plastic
+    3/06    . Grooving involving removal of material from the
+    3/065   . . {On sheet material}
+    3/08    . Making a superficial cut in the surface of the work
+without removal of material, e.g. scoring, incising
+    3/085   . . {On sheet material}
+    3/10    . Making cuts of other than simple rectilinear form
+    3/11    . . to obtain pieces of spiral or helical form
+    3/12    . Slitting marginal portions of the work, i.e. forming
+cuts, without removal of material, at an angle, e.g. a
+right angle, to the edge of the work
+    3/14    . Forming notches in marginal portion of work by
+cutting (by punching B26F 1/12)
+    3/16    . Cutting rods or tubes transversely {(cutting tubes
+B26D 3/161 takes precedence over groups
+    3/161   . . {for obtaining more than one product at a time}
+    3/162   . . {cutting tubes obliquely}
+    3/163   . . {Cutting tubes from the inside}
+    3/164   . . {characterised by means for supporting the tube
+    3/165   . . . {by fluid under pressure}
+    3/166   . . {Trimming tube-ends}
+    3/167   . . {Cutting tubes having a non-circular cross-
+    3/168   . . . {flattened tubes}
+    3/169   . . {Hand held tube cutters}
+    3/18    . to obtain cubes or the like (ice harvesting
+    3/185   . . {Grid like cutters}
+    3/20    . . using reciprocating knives
+    3/22    . . using rotating knives
+    3/225   . . . {with adjustable knives}
+    3/24    . to obtain segments other than slices, e.g. cutting pies
+    3/245   . . {having means to change the number of equal
+    3/26    . . specially adapted for cutting fruit or vegetables,
+    3/28    . Splitting layers from work; Mutually separating
+layers by cutting (B26D 3/30 takes precedence;
+Recovery of plastics or other constituents of waste
+material containing plastics B29B 17/00)
+    3/281   . . {the work being simultaneously deformed by
+the application of pressure to obtain profiled
+    3/282   . . {by peeling-off}
+    3/283   . . {Household devices therefor}
+ 2003/285   . . . {cutting one single slice at each stroke}
+ 2003/286   . . . {having a detachable blade that is removable
+ 2003/287   . . . {having a holder for the product to be cut}
+ 2003/288   . . . {making several incisions and cutting cubes or
+the like, e.g. so-called "julienne-cutter"}
+    3/30    . Halving devices, e.g. for halving buns
+    5/00    Arrangements for operating and controlling
+machines or devices for cutting, cutting-out,
+stamping-out, punching, perforating, or severing
+ 2005/002   . {Performing a pattern matching operation}
+    5/005   . {Computer numerical control means}
+    5/007   . {Control means comprising cameras, vision or
+    5/02    . Means for moving the cutting member into its
+    5/04    . . by fluid pressure
+    5/06    . . by electrical means
+    5/08    . Means for actuating the cutting member to effect the
+    5/083   . . {Rack-and-pinion means}
+    5/086   . . {Electric, magnetic, piezo-electric, electro-
+    5/10    . . Hand or foot actuated means
+    5/12    . . Fluid-pressure means
+    5/14    . . Crank and pin means
+    5/18    . . Toggle-link means (B26D 5/10 - B26D 5/16 take
+    5/20    . with interrelated action between the cutting member
+    5/22    . . having the cutting member and work feed
+    5/24    . . . including a metering device
+    5/26    . . wherein control means on the work feed means
+renders the cutting member operative
+    5/28    . . . the control means being responsive to presence
+    5/30    . . having the cutting member controlled by scanning
+    5/32    . . . with the record carrier formed by the work
+    5/34    . . . scanning being effected by a photosensitive
+    5/36    . . . scanning being effected by magnetic means
+    5/38    . with means operable by the moving work to initiate
+    5/40    . . including a metering device
+    5/42    . with interrelated action between work feed and
+clamp (work clamping arrangements B26D 7/02)
+    7/00    Details of apparatus for cutting, cutting-out,
+stamping-out, punching, perforating, or severing
+by means other than cutting (cutters B26D 1/00;
+arrangements for guiding hand cutting tools
+B26B 29/06; punching tools or dies, cutting-out
+    7/0006  . {Means for guiding the cutter (for hand knives
+B26B 29/06; for band-knives B26D 1/54)}
+ 2007/0012  . {Details, accessories or auxiliary or special
+operations not otherwise provided for}
+ 2007/0018  . . {Trays, reservoirs for waste, chips or cut
+ 2007/0031  . . {floating a web during slitting}
+ 2007/0037  . . {the cutter being a so-called "iris cutter"}
+ 2007/0043  . . {the cutting machine comprising a linear motor}
+ 2007/005   . . {cutters, e.g. guillotines, used in a label maker or
+ 2007/0056  . . {Rotating a pile of sheets in the plane of the
+ 2007/0062  . . {Rounding off the end of self adhesive labels on
+ 2007/0068  . . {Trimming and removing web edges}
+ 2007/0075  . . {so-called "winder slitters"}
+ 2007/0081  . . {Cutting on three sides, e.g. trilateral trimming}
+ 2007/0087  . . {for use on a desktop}
+ 2007/0093  . . {for embossing, forming, creasing, flange
+    7/01    . Means for holding or positioning work
+ 2007/011   . . {by clamping claws, e.g. in high speed slicers for
+ 2007/013   . . {the work being tubes, rods or logs}
+    7/015   . . {for sheet material or piles of sheets (B26D 7/018
+and B26D 7/02 take precedence)}
+    7/016   . . . {Back gauges (for metal shearing machines
+    7/018   . . {Holding the work by suction}
+    7/02    . . with clamping means {(B26D 7/018 takes
+    7/025   . . . {acting upon planar surfaces (B26D 7/04 takes
+    7/04    . . . providing adjustable clamping pressure
+    7/06    . Arrangements for feeding or delivering work of
+other than sheet, web, or filamentary form (feeding
+or discharging sheets, webs, or filaments B65H)
+    7/0608  . . {by pushers (B26D 7/0616, B26D 7/0625 and
+    7/0616  . . {by carriages, e.g. for slicing machines}
+    7/0625  . . {by endless conveyors, e.g. belts}
+    7/0633  . . . {by grippers}
+    7/0641  . . {using chutes, hoppers, magazines}
+    7/065   . . {by the cutter itself because of its form}
+    7/0658  . . {using fluid, e.g. hydraulic, acting directly on the
+    7/0666  . . {by screw or rotary spiral conveyors}
+    7/0675  . . {specially adapted for piles of sheets}
+    7/0683  . . {specially adapted for elongated articles}
+    7/0691  . . {by centrifugal force}
+    7/08    . Means for treating work or cutting member
+to facilitate cutting (tensioning band cutters
+ 2007/082   . . {Guiding or pushing a web into a favorable
+    7/084   . . {specially adapted for cutting articles composed
+of at least two different materials, e.g. using
+cutters of different shapes (cutting concrete
+    7/086   . . {by vibrating, e.g. ultrasonically}
+    7/088   . . {by cleaning or lubricating (sterilizing
+    7/10    . . by heating (with Laser B23K 26/00; severing by
+    7/12    . . by sharpening the cutting member
+    7/14    . . by tensioning the work
+    7/18    . Means for removing cut-out material or waste
+ 2007/1809  . . {by stripping fingers}
+    7/1818  . . {by pushing out}
+    7/1836  . . {by pulling out}
+    7/1845  . . {by non mechanical means}
+    7/1854  . . . {by air under pressure}
+ 2007/1872  . . {using breakaway pins}
+ 2007/1881  . . {using countertools}
+ 2007/189   . . {Mounting blanking, stripping and break-out
+    7/20    . Cutting beds {(B26D 7/018 takes precedence;
+supporting beds for severing by means of a fluid jet
+ 2007/202   . . {Rollers or cylinders being pivoted during
+    7/204   . . {Anvil rollers}
+ 2007/206   . . {having a travelling gap}
+ 2007/208   . . {having a cleaning device}
+    7/22    . Safety devices specially adapted for cutting
+machines (safety devices in general F16P)
+    7/225   . . {for food slicers}
+    7/24    . . arranged to disable the operating means for the
+    7/26    . Means for mounting or adjusting the cutting
+member; Means for adjusting the stroke of the
+ 2007/2607  . . {for mounting die cutters}
+    7/2614  . . {Means for mounting the cutting member}
+    7/2621  . . . {for circular cutters}
+    7/2628  . . {Means for adjusting the position of the cutting
+    7/2635  . . . {for circular cutters}
+    7/2642  . . . {for slotting cutters}
+    7/265   . . . {Journals, bearings or supports for positioning
+rollers or cylinders relatively to each other}
+ 2007/2657  . . {Auxiliary carriages for moving the tool holders}
+ 2007/2664  . . {for radial adjustment}
+ 2007/2671  . . {for cutters moving in a planetary motion on their
+support, e.g. so-called "Ferris Wheels"}
+ 2007/2678  . . {for cutting pens mounting in a cutting plotter}
+ 2007/2685  . . {flexible mounting means}
+ 2007/2692  . . {the rollers or cylinders being mounted skewed}
+    7/27    . Means for performing other operations combined
+with cutting (B26D 9/00 takes precedence)
+    7/28    . . for counting the number of cuts or measuring cut
+lenghts (B26D 5/24, B26D 5/40 take precedence)
+    7/30    . . for weighing cut product
+    7/32    . . for conveying or stacking cut product (means for
+removing cut-out material or waste B26D 7/18)
+ 2007/322   . . . {the cut products being sheets, e.g. sheets of
+    7/325   . . . {stacking the cut product individually separated
+ 2007/327   . . . {the cut products being slices of bread}
+    7/34    . . for applying a coating, such as butter, to cut
+    9/00    Cutting apparatus combined with punching or
+perforating apparatus or with dissimilar cutting
+   11/00    Combinations of several similar cutting apparatus
+ 2011/005   . {in combination with different kind of cutters, e.g.
+two serial slitters in combination with a transversal
+ 2210/00    Machines or methods used for cutting special
+ 2210/02    . for cutting food products, e.g. food slicers
+ 2210/04    . . controlling the volume by pressing the food
+product, e.g. meat to a predetermined shape
+ 2210/06    . . for bread, e.g. bread slicing machines for use in a
+ 2210/11    . for cutting web rolls

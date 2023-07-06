@@ -1,0 +1,216 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+AMMUNITION FUZES (blasting cartridge initiators F42B 3/10; chemical aspects C06C);
+ARMING OR SAFETY MEANS THEREFOR (filling fuzes F42B 33/02; fitting or extracting
+primers in or from fuzes F42B 33/04; containers for fuzes F42B 39/30)
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Impact fuzes, i.e. fuzes actuated only by
+    1/02    . with firing-pin structurally combined with fuze
+    1/04    . . operating by inertia of members on impact
+    1/06    . . . for any direction of impact {(electric contact
+    1/08    . . with delayed action after ignition of fuze (time
+fuzes F42C 9/00 ){or after impact}
+    1/09    . . the fuze activating a propulsive charge for
+propelling the ammunition or the warhead into the
+air, e.g. in rebounding projectiles
+    1/10    . without firing-pin
+    1/12    . . with delayed action after ignition of fuze (time
+    1/14    . operating at a predetermined distance from ground
+or target by means of a protruding member
+    3/00    Fuzes actuated by exposure to a liquid, e.g.
+seawater (F42C 5/00 takes precedence; time fuzes
+    5/00    Fuzes actuated by exposure to a predetermined
+ambient fluid pressure {(fluid-pressure-operated
+    5/02    . barometric pressure
+    7/00    Fuzes actuated by application of a predetermined
+mechanical force, e.g. tension, torsion, pressure
+(by ammunition impact F42C 1/00, by exposure to a
+predetermined ambient fluid pressure F42C 5/00)
+    7/02    . Contact fuzes, i.e. fuzes actuated by mechanical
+contact between a stationary ammunition, e.g. a land
+mine, and a moving target, e.g. a person (F42C 7/12
+    7/04    . . actuated by applying pressure on the ammunition
+    7/06    . . . and comprising pneumatic or hydraulic
+    7/08    . . of release type, i.e. actuated by releasing pressure
+    7/10    . . of antenna type
+    7/12    . Percussion fuzes of the double-action type, i.e. fuzes
+cocked and fired in a single movement, e.g. by
+pulling an incorporated percussion pin or hammer
+    9/00    Time fuzes; Combined time and percussion or
+pressure-actuated fuzes; Fuzes for timed self-
+    9/02    . the timing being caused by mechanical means
+    9/04    . . by spring motor {(F42C 9/141 takes precedence;
+housings for fuzes specially adapted for winding
+    9/041   . . . {the clockwork activating a security device,
+e.g. for unlocking the firing-pin}
+    9/043   . . . . {and the firing-pin being activated by
+    9/045   . . . . {and the firing-pin being activated by a
+    9/046   . . . . . {and the activating spring being the spring
+    9/048   . . . {Unlocking of clockwork mechanisms, e.g.
+by inertia or centrifugal forces; Means for
+disconnecting the clockwork mechanism from
+    9/06    . . by flow of fluent material, e.g. shot, fluids
+    9/08    . the timing being caused by chemical action, e.g. of
+acids {(F42C 9/14 takes precedence)}
+    9/10    . the timing being caused by combustion {(F42C 9/14
+    9/12    . . with ring combustion elements
+    9/14    . Double fuzes; Multiple fuzes
+    9/141   . . {Impact fuze in combination with a clockwork
+    9/142   . . {combined time and percussion fuzes in which
+the timing is caused by combustion}
+    9/144   . . . {with ring or spiral combustion elements}
+    9/145   . . {combined time and percussion fuzes in which
+the timing is caused by chemical reaction}
+    9/147   . . {Impact fuze in combination with electric time
+    9/148   . . {Proximity fuzes in combination with other
+    9/16    . . for self-destruction of ammunition
+{(F42C 9/141 - F42C 9/148 take precedence)}
+    9/18    . . . when the spin rate falls below a predetermined
+limit, e.g. a spring force being stronger than the
+locking action of a centrifugally-operated lock
+   11/00    Electric fuzes ({in combination with other fuzes
+F42C 9/14}; proximity fuzes F42C 13/00; {safety
+or arming effected by electric means F42C 15/40;
+electric contact parts for fuzes F42C 19/06}; electric
+igniters F42C 19/12, {F42B 3/12 - F42B 3/18; optical
+   11/001   . {Electric circuits for fuzes characterised by the
+ammunition class or type (F42C 11/02 - F42C 11/06
+take precedence; mechanical fuzes having electric
+igniters for hand grenades or marine warheads
+   11/002   . . {Smart ammunition fuzes, i.e. having an
+integrated scanning, guiding and firing system}
+   11/003   . . {for hand grenades}
+   11/005   . . {for marine warheads, e.g. torpedoes, mines,
+   11/006   . . {for fall bombs}
+   11/007   . . {for land mines}
+   11/008   . {Power generation in electric fuzes (F42C 11/02,
+F42C 11/04 and F42C 15/295 take precedence)}
+   11/02    . with piezo-crystal
+   11/04    . with current induction
+   11/06    . with time delay by electric circuitry
+   11/065   . . {Programmable electronic delay initiators in
+   13/00    Proximity fuzes; Fuzes for remote detonation
+{(F42C 9/148 takes precedence; constructional details
+F42C 19/00; mounting of antennas F42B 30/006)}
+   13/003   . {operated by variations in electrostatic field}
+   13/006   . {for non-guided, spinning, braked or gravity-driven
+weapons, e.g. parachute-braked sub-munitions}
+   13/02    . operated by intensity of light or similar radiation
+   13/023   . . {using active distance measurement}
+   13/026   . . {Remotely actuated projectile fuzes operated by
+   13/04    . operated by radio waves
+   13/042   . . {based on distance determination by coded radar
+   13/045   . . {using transmission of F.M. waves}
+   13/047   . . {Remotely actuated projectile fuzes operated by
+   13/06    . operated by sound waves
+   13/08    . operated by variations in magnetic field
+   14/00    {Mechanical} fuzes characterised by the
+ammunition class or type (F42C 1/00, {F42C 7/00,
+F42C 9/00, F42C 11/001}, F42C 13/00, F42C 15/00
+   14/02    . for hand grenades
+   14/025   . . {having electric igniters}
+   14/04    . for torpedoes, marine mines or depth charges
+(influenced marine mines F42B 22/04)
+   14/045   . . {having electric igniters}
+   15/00    Arming-means in fuzes; Safety means for
+preventing premature detonation of fuzes or
+   15/005   . {Combination-type safety mechanisms, i.e. two
+or more safeties are moved in a predetermined
+   15/16    . wherein the firing pin is displaced out of the action
+line for safety (F42C 15/40 takes precedence)
+   15/18    . wherein a carrier for an element of the pyrotechnic
+or explosive train is moved (F42C 15/40 takes
+   15/184   . . using a slidable carrier
+   15/188   . . using a rotatable carrier
+   15/192   . . . rotatable in a plane which is parallel to the
+longitudinal axis of the projectile
+   15/196   . . . . by the action of centrifugal or inertia forces
+on the carrier body, e.g. the carrier having
+eccentrically mounted weights or eccentric
+   15/20    . wherein a securing-pin or latch is removed to
+arm the fuze, e.g. removed from the firing-pin
+({F42C 9/041 and} F42C 15/40 take precedence)
+   15/21    . . using spring action (F42C 15/32 takes
+   15/22    . . using centrifugal force (F42C 15/23 takes
+   15/23    . . by unwinding a flexible ribbon or tape
+   15/24    . wherein the safety or arming action is effected
+by inertia means (F42C 15/196, F42C 15/20 take
+   15/26    . . using centrifugal force
+   15/28    . operated by flow of fluent material, e.g. shot, fluids
+   15/285   . . stored within the fuze housing
+   15/29    . . operated by fluidic oscillators; operated by
+dynamic fluid pressure, e.g. ram-air operated
+   15/295   . . operated by a turbine or a propeller; Mounting
+   15/30    . . of propellant gases, i.e. derived from propulsive
+   15/31    . . generated by the combustion of a pyrotechnic or
+explosive charge within the fuze
+   15/32    . operated by change of fluid pressure (F42C 5/00,
+   15/33    . . by breaking a vacuum or pressure container
+   15/34    . wherein the safety or arming action is effected by
+a blocking-member in the pyrotechnic or explosive
+train between primer and main charge (F42C 15/18,
+   15/36    . wherein arming is effected by combustion or fusion
+of an element; {Arming methods using temperature
+gradients}(F42C 15/31 takes precedence)
+   15/38    . wherein arming is effected by chemical action
+   15/40    . wherein the safety or arming action is effected
+   15/42    . . from a remote location, e.g. for controlled mines
+   15/44    . Arrangements for disarming, or for rendering
+harmless, fuzes after arming, e.g. after launch
+   17/00    Fuze-setting apparatus
+   17/02    . Fuze-setting keys
+   17/04    . for electric fuzes
+   19/00    Details of fuzes (except F42C 15/00)
+   19/02    . Fuze bodies; Fuze housings
+   19/06    . Electric contact parts specially adapted for use with
+electric fuzes {(switches operated by change of
+speed H01H 35/06; switches operated by change of
+acceleration, e.g. shock or vibration, inertia switches
+H01H 35/14; fluid-pressure-operated switches
+   19/07    . . Nose-contacts for projectiles or missiles
+   19/08    . Primers (initiators for blasting cartridges F42B 3/10;
+ignition means for rocket engine plants F02K 9/95);
+   19/0803  . . {characterised by the combination of per se
+known chemical composition in the priming
+   19/0807  . . {characterised by the particular configuration
+of the transmission channels from the priming
+energy source to the charge to be ignited, e.g.
+multiple channels, nozzles, diaphragms or filters}
+   19/0811  . . {characterised by the generation of a plasma for
+initiating the charge to be ignited}
+   19/0815  . . {Intermediate ignition capsules, i.e. self-
+contained primary pyrotechnic module
+transmitting the initial firing signal to the
+secondary explosive, e.g. using electric, radio
+frequency, optical or percussion signals to the
+secondary explosive (initiators for blasting
+cartridges or air bags F42B 3/10)}
+   19/0819  . . {Primers or igniters for the initiation of rocket
+motors, i.e. pyrotechnical aspects thereof}
+   19/0823  . . {Primers or igniters for the initiation or the
+propellant charge in a cartridged ammunition
+(primers for caseless ammunition F42C 19/085)}
+   19/0826  . . . {comprising an elongated perforated tube, i.e.
+flame tube, for the transmission of the initial
+energy to the propellant charge, e.g. used for
+artillery shells and kinetic energy penetrators}
+   19/083   . . . {characterised by the shape and configuration
+of the base element embedded in the cartridge
+bottom, e.g. the housing for the squib or
+   19/0834  . . . {Arrangements of a multiplicity of primers or
+detonators dispersed within a propellant charge
+   19/0838  . . {Primers or igniters for the initiation or the
+explosive charge in a warhead (F42C 19/095
+   19/0842  . . . {Arrangements of a multiplicity of primers or
+detonators, dispersed within a warhead, for
+   19/0846  . . . {Arrangements of a multiplicity of primers or
+detonators, dispersed within a warhead, for
+   19/085   . . Primers for caseless ammunition
+   19/09    . . Primers or detonators containing a hollow charge
+   19/095   . . Arrangements of a multiplicity of primers or
+detonators, dispersed around a warhead, one
+of the primers or detonators being selected for
+   19/10    . . Percussion caps
+   19/14    . . . operable also in the percussion mode
+   21/00    Checking fuzes; Testing fuzes
+   99/00    Subject matter not provided for in other groups of

@@ -1,0 +1,55 @@
+COOPERATIVE PATENT CLASSIFICATION
+INFORMATION AND COMMUNICATION TECHNOLOGY [ICT] SPECIALLY
+ADAPTED FOR SPECIFIC APPLICATION FIELDS
+BIOINFORMATICS, i.e. INFORMATION AND COMMUNICATION TECHNOLOGY
+[ICT] SPECIALLY ADAPTED FOR GENETIC OR PROTEIN-RELATED DATA
+PROCESSING IN COMPUTATIONAL MOLECULAR BIOLOGY
+    5/00    ICT specially adapted for modelling or simulations
+in systems biology, e.g. gene-regulatory networks,
+protein interaction networks or metabolic
+    5/20    . Probabilistic models
+    5/30    . Dynamic-time models
+   10/00    ICT specially adapted for evolutionary
+bioinformatics, e.g. phylogenetic tree construction
+   15/00    ICT specially adapted for analysing two-
+dimensional or three-dimensional molecular
+structures, e.g. structural or functional relations or
+   15/10    . Nucleic acid folding
+   15/20    . Protein or domain folding
+   15/30    . Drug targeting using structural data; Docking or
+   20/00    ICT specially adapted for functional genomics or
+proteomics, e.g. genotype-phenotype associations
+   20/10    . Ploidy or copy number detection
+   20/20    . Allele or variant detection, e.g. single nucleotide
+   20/30    . Detection of binding sites or motifs
+   20/40    . Population genetics; Linkage disequilibrium
+   25/00    ICT specially adapted for hybridisation; ICT
+specially adapted for gene or protein expression
+   25/10    . Gene or protein expression profiling; Expression-
+ratio estimation or normalisation
+   25/20    . Polymerase chain reaction [PCR]; Primer or probe
+   25/30    . Microarray design
+   30/00    ICT specially adapted for sequence analysis
+involving nucleotides or amino acids
+   30/10    . Sequence alignment; Homology search
+   30/20    . Sequence assembly
+   35/00    ICT specially adapted for in silico combinatorial
+libraries of nucleic acids, proteins or peptides
+   35/10    . Design of libraries
+   35/20    . Screening of libraries
+   40/00    ICT specially adapted for biostatistics; ICT
+specially adapted for bioinformatics-related
+machine learning or data mining, e.g. knowledge
+   40/10    . Signal processing, e.g. from mass spectrometry
+   40/20    . Supervised data analysis
+   40/30    . Unsupervised data analysis
+   45/00    ICT specially adapted for bioinformatics-related
+data visualisation, e.g. displaying of maps or
+   50/00    ICT programming tools or database systems
+specially adapted for bioinformatics
+   50/10    . Ontologies; Annotations
+   50/20    . Heterogeneous data integration
+   50/30    . Data warehousing; Computing architectures
+   50/40    . Encryption of genetic data
+   50/50    . Compression of genetic data
+   99/00    Subject matter not provided for in other groups of

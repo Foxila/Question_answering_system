@@ -1,0 +1,417 @@
+COOPERATIVE PATENT CLASSIFICATION
+SEMICONDUCTOR DEVICES; ELECTRIC SOLID-STATE DEVICES NOT
+ELECTRIC SOLID-STATE DEVICES NOT OTHERWISE PROVIDED FOR
+Thermoelectric or thermomagnetic devices
+   10/00    Thermoelectric devices comprising a junction of
+dissimilar materials, i.e. devices exhibiting Seebeck
+or Peltier effects (integrated devices or assemblies of
+   10/01    . Manufacture or treatment
+   10/10    . operating with only the Peltier or Seebeck effects
+   10/13    . . characterised by the heat-exchanging means at the
+   10/17    . . characterised by the structure or configuration of
+the cell or thermocouple forming the device
+   10/80    . Constructional details
+   10/81    . . Structural details of the junction
+   10/813   . . . the junction being separable, e.g. using a spring
+   10/817   . . . the junction being non-separable, e.g. being
+   10/82    . . Connection of interconnections
+   10/85    . . Thermoelectric active materials
+   10/851   . . . comprising inorganic compositions
+   10/852   . . . . comprising tellurium, selenium or sulfur
+   10/853   . . . . comprising arsenic, antimony or bismuth
+   10/854   . . . . comprising only metals (H10N 10/852,
+   10/855   . . . . comprising compounds containing boron,
+Group H10N 10/855 is impacted by
+reclassification into group H10N 10/8556.
+Groups H10N 10/855 and H10N 10/8556
+should be considered in order to perform
+   10/8552  . . . . . {the compounds being superconducting}
+   10/8556  . . . . {comprising compounds containing
+Group H10N 10/8556 is incomplete
+pending reclassification of documents
+Groups H10N 10/855 and H10N 10/8556
+should be considered in order to perform
+   10/856   . . . comprising organic compositions
+   10/857   . . . comprising compositions changing
+continuously or discontinuously inside the
+   15/00    Thermoelectric devices without a junction of
+dissimilar materials; Thermomagnetic devices,
+e.g. using the Nernst-Ettingshausen effect
+(integrated devices or assemblies of multiple devices
+   15/10    . Thermoelectric devices using thermal change of the
+dielectric constant, e.g. working above and below
+   15/15    . . {Selection of materials}
+   15/20    . Thermomagnetic devices using thermal change of
+the magnetic permeability, e.g. working above and
+   19/00    Integrated devices, or assemblies of multiple
+devices, comprising at least one thermoelectric
+or thermomagnetic element covered by groups
+Group H10N 19/00 is incomplete pending
+reclassification of documents from groups
+H01L 25/16, H01L 25/162, H01L 25/165,
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   19/101   . {Multiple thermocouples connected in a cascade
+Piezoelectric, electrostrictive or magnetostrictive devices
+   30/00    Piezoelectric or electrostrictive devices (integrated
+devices or assemblies of multiple devices
+Group H10N 30/00 is impacted by reclassification
+Groups H10N 30/00 and H10N 35/00 should be
+considered in order to perform a complete search.
+   30/01    . Manufacture or treatment
+   30/02    . . Forming enclosures or casings
+   30/03    . . Assembling devices that include piezoelectric or
+   30/04    . . Treatments to modify a piezoelectric or
+electrostrictive property, e.g. polarisation
+characteristics, vibration characteristics or mode
+   30/045   . . . by polarising
+   30/05    . . Manufacture of multilayered piezoelectric or
+electrostrictive devices, or parts thereof, e.g. by
+stacking piezoelectric bodies and electrodes
+1Piezoelectric, electrostrictive or magnetostrictive devices
+   30/053   . . . by integrally sintering piezoelectric or
+electrostrictive bodies and electrodes
+   30/057   . . . by stacking bulk piezoelectric or
+electrostrictive bodies and electrodes
+   30/06    . . Forming electrodes or interconnections, e.g. leads
+   30/063   . . . Forming interconnections, e.g. connection
+electrodes of multilayered piezoelectric or
+   30/067   . . . Forming single-layered electrodes of
+multilayered piezoelectric or electrostrictive
+   30/07    . . Forming of piezoelectric or electrostrictive parts
+or bodies on an electrical element or another base
+   30/071   . . . Mounting of piezoelectric or electrostrictive
+parts together with semiconductor elements, or
+other circuit elements, on a common substrate
+   30/072   . . . by laminating or bonding of piezoelectric or
+   30/073   . . . . by fusion of metals or by adhesives
+   30/074   . . . by depositing piezoelectric or electrostrictive
+layers, e.g. aerosol or screen printing
+   30/076   . . . . by vapour phase deposition
+   30/077   . . . . by liquid phase deposition
+   30/078   . . . . . by sol-gel deposition
+   30/079   . . . . using intermediate layers, e.g. for growth
+   30/08    . . Shaping or machining of piezoelectric or
+   30/081   . . . by coating or depositing using masks, e.g. lift-
+   30/082   . . . by etching, e.g. lithography
+   30/084   . . . by moulding or extrusion
+   30/086   . . . . by polishing or grinding
+   30/088   . . . . by cutting or dicing
+   30/089   . . . . by punching
+   30/09    . . Forming piezoelectric or electrostrictive materials
+   30/092   . . . Forming composite materials
+   30/093   . . . Forming inorganic materials
+   30/097   . . . . by sintering
+   30/098   . . . Forming organic materials
+   30/1051  . {based on piezoelectric or electrostrictive films or
+   30/10513 . . {characterised by the underlying bases, e.g.
+   30/10516 . . . {Intermediate layers, e.g. barrier, adhesion or
+   30/1061  . {based on piezoelectric or electrostrictive fibres}
+   30/1071  . {with electrical and mechanical input and output,
+e.g. having combined actuator and sensor parts}
+   30/20    . with electrical input and mechanical output, e.g.
+functioning as actuators or vibrators
+   30/202   . . {using longitudinal or thickness displacement
+combined with bending, shear or torsion
+   30/2023  . . . {having polygonal or rectangular shape}
+   30/2027  . . . {having cylindrical or annular shape}
+   30/204   . . {using bending displacement, e.g. unimorph,
+bimorph or multimorph cantilever or membrane
+   30/2042  . . . . {Cantilevers, i.e. having one fixed end}
+   30/2043  . . . . . {connected at their free ends, e.g.
+   30/2044  . . . . . {having multiple segments mechanically
+connected in series, e.g. zig-zag type}
+   30/2045  . . . . . {adapted for in-plane bending
+   30/2046  . . . . . {adapted for multi-directional bending
+   30/2047  . . . {Membrane type}
+   30/2048  . . . . {having non-planar shape}
+   30/206   . . {using only longitudinal or thickness
+displacement, e.g. d33 or d31 type devices}
+   30/208   . . {using shear or torsion displacement, e.g. d15 type
+   30/30    . with mechanical input and electrical output, e.g.
+functioning as generators or sensors
+   30/306   . . . {Cantilevers}
+   30/308   . . {Membrane type}
+   30/40    . with electrical input and electrical output, e.g.
+   30/50    . having a stacked or multilayer structure
+   30/501   . . {with non-rectangular cross-section in stacking
+direction, e.g. polygonal, trapezoidal}
+   30/503   . . {with non-rectangular cross-section orthogonal to
+the stacking direction, e.g. polygonal, circular}
+   30/505   . . . {Annular cross-section}
+   30/506   . . {of cylindrical shape with stacking in radial
+direction, e.g. coaxial or spiral type rolls}
+   30/508   . . {adapted for alleviating internal stress, e.g.
+   30/60    . having a coaxial cable structure
+   30/80    . Constructional details
+Group H10N 30/80 is impacted by
+reclassification into group H10N 35/80.
+Groups H10N 30/80 and H10N 35/80 should
+be considered in order to perform a complete
+   30/802   . . {Drive or control circuitry or methods for
+piezoelectric or electrostrictive devices not
+   30/804   . . . {for piezoelectric transformers (conversion
+of DC or AC power H02M; for operating
+   30/85    . . Piezoelectric or electrostrictive active materials
+Group H10N 30/85 is impacted by
+reclassification into group H10N 35/85.
+Groups H10N 30/85 and H10N 35/85 should
+be considered in order to perform a complete
+   30/852   . . . {Composite materials, e.g. having 1-3 or 2-2
+   30/853   . . . Ceramic compositions
+   30/8536  . . . . {Alkaline earth metal based oxides, e.g.
+   30/8542  . . . . {Alkali metal based oxides, e.g. lithium,
+2Piezoelectric, electrostrictive or magnetostrictive devices
+   30/8548  . . . . {Lead based oxides}
+   30/8554  . . . . . {Lead zirconium titanate based}
+   30/8561  . . . . {Bismuth based oxides}
+   30/857   . . . Macromolecular compositions
+   30/87    . . Electrodes or interconnections, e.g. leads or
+   30/871   . . . {Single-layered electrodes of multilayer
+piezoelectric or electrostrictive devices, e.g.
+   30/872   . . . {Connection electrodes of multilayer
+piezoelectric or electrostrictive devices, e.g.
+   30/874   . . . . {embedded within piezoelectric or
+electrostrictive material, e.g. via
+   30/875   . . . {Further connection or lead arrangements, e.g.
+flexible wiring boards, terminal pins}
+   30/877   . . . {Conductive materials (in general H01B 1/00)}
+   30/878   . . . . {the principal material being non-metallic,
+   30/88    . . Mounts; Supports; Enclosures; Casings
+   30/883   . . . {Further insulation means against electrical,
+physical or chemical damage, e.g. protective
+   30/886   . . . {Mechanical prestressing means, e.g. springs
+(springs in general F16F 1/00)}
+   35/00    Magnetostrictive devices (integrated devices or
+assemblies of multiple devices H10N 39/00)
+Group H10N 35/00 is incomplete pending
+reclassification of documents from group
+Groups H10N 30/00 and H10N 35/00 should be
+considered in order to perform a complete search.
+   35/01    . Manufacture or treatment
+   35/101   . {with mechanical input and electrical output, e.g.
+   35/80    . Constructional details
+Group H10N 35/80 is incomplete pending
+reclassification of documents from group
+Groups H10N 30/80 and H10N 35/80 should
+be considered in order to perform a complete
+   35/85    . . Magnetostrictive active materials
+Group H10N 35/85 is incomplete pending
+reclassification of documents from group
+Groups H10N 30/85 and H10N 35/85 should
+be considered in order to perform a complete
+   39/00    Integrated devices, or assemblies of multiple
+devices, comprising at least one piezoelectric,
+electrostrictive or magnetostrictive element
+covered by groups H10N 30/00 – H10N 35/00
+Group H10N 39/00 is incomplete pending
+reclassification of documents from groups
+H01L 25/16, H01L 25/162, H01L 25/165,
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+Galvanomagnetic or similar magnetic-effect devices
+   50/00    Galvanomagnetic devices (Hall-effect devices
+H10N 52/00; integrated devices or assemblies of
+Group H10N 50/00 is impacted by reclassification
+Groups H10N 50/00 and H10N 50/20 should be
+considered in order to perform a complete search.
+   50/01    . Manufacture or treatment
+   50/10    . Magnetoresistive devices
+   50/20    . Spin-polarised current-controlled devices
+(magnetoresistive devices H10N 50/10)
+Group H10N 50/20 is incomplete pending
+reclassification of documents from group
+Groups H10N 50/00 and H10N 50/20 should
+be considered in order to perform a complete
+   50/80    . Constructional details
+   50/85    . . Magnetic active materials
+Group H10N 50/85 is impacted by
+reclassification into group H10N 52/85.
+Groups H10N 50/85 and H10N 52/85 should
+be considered in order to perform a complete
+   52/00    Hall-effect devices (integrated devices or assemblies
+of multiple devices H10N 59/00)
+   52/01    . Manufacture or treatment
+   52/101   . {Semiconductor Hall-effect devices}
+   52/80    . Constructional details
+   52/85    . . Magnetic active materials
+Group H10N 52/85 is incomplete pending
+reclassification of documents from group
+Groups H10N 50/85 and H10N 52/85 should
+be considered in order to perform a complete
+3Galvanomagnetic or similar magnetic-effect devices
+   59/00    Integrated devices, or assemblies of multiple
+devices, comprising at least one galvanomagnetic
+or Hall-effect element covered by groups
+H10N 50/00 - H10N 52/00 (MRAM devices
+Group H10N 59/00 is incomplete pending
+reclassification of documents from groups
+H01L 25/16, H01L 25/162, H01L 25/165,
+Group H10N 59/00 is also impacted by
+reclassification into group H10B 61/00.
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   60/00    Superconducting devices (integrated devices or
+assemblies of multiple devices H10N 69/00)
+   60/01    . Manufacture or treatment
+   60/0128  . . {of composite superconductor filaments
+(comprising copper oxide H10N 60/0268)}
+   60/0156  . . {of devices comprising Nb or an alloy of Nb with
+one or more of the elements of group 4, e.g. Ti,
+   60/0184  . . {of devices comprising intermetallic compounds
+   60/0212  . . {of devices comprising molybdenum
+   60/0241  . . {of devices comprising nitrides or carbonitrides}
+   60/0268  . . {of devices comprising copper oxide}
+   60/0296  . . . {Processes for depositing or forming
+   60/0324  . . . . {from a solution}
+   60/0352  . . . . {from a suspension or slurry, e.g. screen
+printing; doctor blade casting}
+   60/0381  . . . . {by evaporation independent of heat source,
+   60/0408  . . . . {by sputtering}
+   60/0436  . . . . {by chemical vapour deposition [CVD]}
+   60/0464  . . . . . {by metalloorganic chemical vapour
+   60/0492  . . . . {by thermal spraying, e.g. plasma
+   60/0521  . . . . {by pulsed laser deposition, e.g. laser
+   60/0548  . . . . {by precursor deposition followed by after-
+   60/0576  . . . . {characterised by the substrate}
+   60/0604  . . . . . {Monocrystalline substrates, e.g. epitaxial
+   60/0632  . . . . . {Intermediate layers, e.g. for growth
+   60/0661  . . . {After-treatment, e.g. patterning}
+   60/0716  . . . . {Passivation}
+   60/0744  . . . {Manufacture or deposition of contacts or
+   60/0772  . . . {Processes including the use of precursors}
+   60/0801  . . . {Processes peculiar to the manufacture or
+treatment of filaments or composite wires}
+   60/0828  . . . {Introducing flux pinning centres}
+   60/0856  . . {of devices comprising metal borides, e.g. MgB2}
+   60/0884  . . {Treatment of superconductor layers by
+irradiation, e.g. ion-beam, electron-beam, laser
+beam, X-rays (irradiation devices G21K, H01J)}
+   60/0912  . . {of Josephson-effect devices}
+   60/0941  . . . {comprising high-Tc ceramic materials}
+   60/10    . Junction-based devices
+   60/11    . . {Single electron tunnelling devices}
+   60/12    . . Josephson-effect devices
+   60/124   . . . {comprising high-Tc ceramic materials}
+   60/126   . . . {comprising metal borides, e.g. MgB2}
+   60/128   . . {having three or more electrodes, e.g. transistor-
+   60/20    . Permanent superconducting devices
+   60/202   . . {comprising metal borides, e.g. MgB2}
+   60/203   . . {comprising high-Tc ceramic materials}
+   60/205   . . {having three or more electrodes, e.g. transistor-
+like structures  (H10N 60/128 takes precedence)}
+   60/207   . . . {Field effect devices}
+   60/208   . . {based on Abrikosov vortices}
+   60/30    . Devices switchable between superconducting and
+   60/355   . . . Power cryotrons
+   60/80    . Constructional details
+   60/805   . . {for Josephson-effect devices}
+   60/81    . . Containers; Mountings
+   60/815   . . . {for Josephson-effect devices}
+   60/84    . . Switching means for devices switchable between
+superconducting and normal states
+   60/85    . . Superconducting active materials
+   60/851   . . . {Organic materials}
+   60/853   . . . . {Fullerene superconductors, e.g. soccerball-
+shaped allotrope of carbon, e.g. C60, C94 
+(fullerenes in general C07C 13/00)}
+   60/855   . . . {Ceramic materials}
+   60/857   . . . . {comprising copper oxide}
+   60/858   . . . . . {Multi-layered structures, e.g.
+   60/99    . {Alleged superconductivity}
+   69/00    Integrated devices, or assemblies of multiple
+devices, comprising at least one superconducting
+element covered by group H10N 60/00
+Group H10N 69/00 is incomplete pending
+reclassification of documents from groups
+H01L 25/16, H01L 25/162, H01L 25/165,
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+Other electric solid-state devices
+   70/00    Solid-state devices without a potential-jump
+barrier or surface barrier, and specially adapted
+for rectifying, amplifying, oscillating or switching
+(integrated devices or assemblies of multiple devices
+   70/011   . {Manufacture or treatment of multistable switching
+4Other electric solid-state devices
+   70/021   . . {Formation of the switching material, e.g. layer
+   70/023   . . . {by chemical vapor deposition, e.g. MOCVD,
+   70/026   . . . {by physical vapor deposition, e.g. sputtering}
+   70/028   . . . {by conversion of electrode material, e.g.
+   70/041   . . {Modification of the switching material, e.g. post-
+   70/043   . . . {by implantation}
+   70/046   . . . {by diffusion, e.g. photo-dissolution}
+   70/061   . . {Patterning of the switching material}
+   70/063   . . . {by etching of pre-deposited switching material
+   70/066   . . . {by filling of openings, e.g. damascene
+   70/068   . . . {by processes specially adapted for achieving
+sub-lithographic dimensions, e.g. using
+   70/10    . Solid-state travelling-wave devices
+   70/151   . {Charge density wave transport devices}
+   70/20    . Multistable switching devices, e.g. memristors
+   70/231   . . {based on solid-state phase change, e.g. between
+amorphous and crystalline phases, Ovshinsky
+   70/235   . . . {between different crystalline phases, e.g. cubic
+   70/24    . . {based on migration or redistribution of ionic
+species, e.g. anions, vacancies}
+   70/245   . . . {the species being metal cations, e.g.
+programmable metallization cells}
+   70/25    . . {based on bulk electronic defects, e.g. trapping of
+   70/253   . . {having three or more terminals, e.g. transistor-
+   70/257   . . {based on radiation or particle beam assisted
+switching, e.g. optically controlled devices}
+   70/801   . {Constructional details of multistable switching
+   70/821   . . {Device geometry}
+   70/823   . . . {adapted for essentially horizontal current flow,
+   70/826   . . . {adapted for essentially vertical current flow,
+e.g. sandwich or pillar type devices}
+   70/8265  . . . . {on sidewalls of dielectric structures, e.g.
+   70/828   . . . {Current flow limiting means within the
+switching material region, e.g. constrictions}
+   70/8413  . . . {adapted for resistive heating}
+   70/8416  . . . {adapted for supplying ionic species}
+   70/8418  . . . {adapted for focusing electric field or current,
+   70/861   . . {Thermal details}
+   70/8613  . . . {Heating or cooling means other than resistive
+heating electrodes, e.g. heater in parallel}
+   70/8616  . . . {Thermal insulation means}
+   70/881   . . {Switching materials}
+   70/882   . . . {Compounds of sulfur, selenium or tellurium,
+   70/8822  . . . . {Sulfides, e.g. CuS}
+   70/8825  . . . . {Selenides, e.g. GeSe}
+   70/8828  . . . . {Tellurides, e.g. GeSbTe}
+   70/883   . . . {Oxides or nitrides}
+   70/8833  . . . . {Binary metal oxides, e.g. TaOx}
+   70/8836  . . . . {Complex metal oxides, e.g. perovskites,
+   70/884   . . . {Other compounds of groups 13-15, e.g.
+elemental or compound semiconductors}
+   70/8845  . . . . {Carbon or carbides}
+   79/00    Integrated devices, or assemblies of multiple
+devices, comprising at least one solid-state element
+covered by group H10N 70/00 (ReRAM devices
+H10B 63/00; PCRAM devices H10B 63/10)
+Group H10N 79/00 is incomplete pending
+reclassification of documents from groups
+H01L 25/16, H01L 25/162, H01L 25/165,
+H01L 25/167, H01L 25/18 and H10B 63/00.
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   80/00    Bulk negative-resistance effect devices (integrated
+devices or assemblies of multiple devices
+   80/01    . {Manufacture or treatment}
+   80/10    . Gunn-effect devices
+   80/103   . . {controlled by electromagnetic radiation}
+   89/00    Integrated devices, or assemblies of multiple
+devices, comprising at least one bulk negative
+resistance effect element covered by group
+Group H10N 89/00 is incomplete pending
+reclassification of documents from groups
+H01L 25/16, H01L 25/162, H01L 25/165,
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   89/02    . {Gunn-effect devices}
+   97/00    Electric solid-state thin-film or thick-film devices,
+   99/00    Subject matter not provided for in other groups of
+   99/03    . {Devices using Mott metal-insulator transition, e.g.
+   99/05    . {Quantum devices, e.g. quantum interference
+devices, metal single electron transistors}

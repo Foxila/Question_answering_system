@@ -1,0 +1,1818 @@
+COOPERATIVE PATENT CLASSIFICATION
+GENERATION; CONVERSION OR DISTRIBUTION OF ELECTRIC POWER
+CIRCUIT ARRANGEMENTS OR SYSTEMS FOR SUPPLYING OR DISTRIBUTING
+ELECTRIC POWER; SYSTEMS FOR STORING ELECTRIC ENERGY
+• ac or dc mains or distribution networks;
+• circuit arrangements for battery supplies, including charging or control thereof, or coordinated supply from two or more
+• circuit arrangements or systems for wireless supply or distribution of electric power.
+2. This subclass does not cover:
+• control of a single motor, generator or dynamo-electric converter, of the types covered by subclass H01F or H02K, which
+• control of a single motor or generator, of the types covered by subclass H02N, which is covered by that subclass.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Circuit arrangements for dc mains or dc
+Group H02J 1/00 is incomplete pending
+reclassification of documents from group
+Group H02J 1/00 is also impacted by
+reclassification into group H02J 1/001.
+Groups  H02J 13/0003,  H02J 1/00, and
+H02J 1/001 should be considered in order to
+    1/001   . {Hot plugging or unplugging of load or power
+modules to or from power distribution networks}
+Group H02J 1/001 is incomplete pending
+reclassification of documents from groups
+Groups H02J 1/00, H02J 13/0003, and
+H02J 1/001 should be considered in order to
+    1/002   . {Intermediate AC, e.g. DC supply with
+Group H02J 1/002 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0003 and  H02J 1/002 should
+be considered in order to perform a complete
+    1/02    . Arrangements for reducing harmonics or ripples
+Group H02J 1/02 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0003 and  H02J 1/02 should
+be considered in order to perform a complete
+    1/04    . Constant-current supply systems
+Group H02J 1/04 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0003 and H02J 1/04 should
+be considered in order to perform a complete
+Group H02J 1/06 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0003 and  H02J 1/06 should
+be considered in order to perform a complete
+    1/08    . Three-wire systems; Systems having more than
+Group H02J 1/08 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0003 and  H02J 1/08 should
+be considered in order to perform a complete
+    1/082   . . {Plural DC voltage, e.g. DC supply voltage with
+at least two different DC voltage levels}
+Group H02J 1/082 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0003 and  H02J 1/082 should
+be considered in order to perform a complete
+    1/084   . . {for selectively connecting the load or loads to
+one or several among a plurality of power lines or
+Group H02J 1/084 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0003 and H02J 1/084 should
+be considered in order to perform a complete
+    1/086   . . . {for providing alternative feeding paths
+between load or loads and source or sources
+Group H02J 1/086 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0003 and H02J 1/086
+should be considered in order to perform a
+    1/10    . Parallel operation of dc sources
+Group H02J 1/10 is incomplete pending
+reclassification of documents from groups
+H02J 2001/104 and H02J 13/0003.
+Groups H02J 2001/104, H02J 13/0003, and
+H02J 1/10 should be considered in order to
+    1/102   . . {being switching converters (H02J 1/108,
+Group H02J 1/102 is incomplete pending
+reclassification of documents from groups
+H02J 2001/104 and H02J 13/0003.
+Groups  H02J 2001/104,  H02J 13/0003, and
+H02J 1/102 should be considered in order to
+Group H02J 2001/104 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 1/10,
+H02J 1/102,  H02J 1/106,  H02J 1/108,
+H02J 1/109,  H02J 1/12, and H02J 1/122.
+Groups H02J 2001/104,  H02J 1/10,
+H02J 1/102,  H02J 1/106,  H02J 1/108,
+H02J 1/109,  H02J 1/12, and H02J 1/122
+should be considered in order to perform a
+    1/106   . . {for load balancing, symmetrisation, or sharing}
+Group H02J 1/106 is incomplete pending
+reclassification of documents from groups
+H02J 2001/104 and H02J 13/0003.
+Groups H02J 2001/104,  H02J 13/0003, and
+H02J 1/106 should be considered in order to
+    1/108   . . {using diodes blocking reverse current flow
+Group H02J 1/108 is incomplete pending
+reclassification of documents from groups
+H02J 2001/104 and H02J 13/0003.
+Groups H02J 2001/104,  H02J 13/0003, and
+H02J 1/108 should be considered in order to
+    1/109   . . {Scheduling or re-scheduling the operation of the
+DC sources in a particular order, e.g. connecting
+or disconnecting the sources in sequential,
+alternating or in subsets, to meet a given demand}
+Group H02J 1/109 is incomplete pending
+reclassification of documents from groups
+H02J 2001/104 and H02J 13/0003.
+Groups  H02J 2001/104,  H02J 13/0003, and
+H02J 1/109 should be considered in order to
+    1/12    . . Parallel operation of dc generators with
+converters, e.g. with mercury-arc rectifier
+Group H02J 1/12 is incomplete pending
+reclassification of documents from groups
+H02J 2001/104 and H02J 13/0003.
+Groups H02J 2001/104,  H02J 13/0003, and
+H02J 1/12 should be considered in order to
+    1/122   . . {Provisions for temporary connection of DC
+sources of essentially the same voltage, e.g.
+Group H02J 1/122 is incomplete pending
+reclassification of documents from groups
+H02J 2001/104 and H02J 13/0003.
+Groups H02J 2001/104,  H02J 13/0003, and
+H02J 1/122 should be considered in order to
+    1/14    . Balancing the load in a network
+Group H02J 1/14 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0003 and H02J 1/14 should
+be considered in order to perform a complete
+    1/16    . . using dynamo-electric machines coupled to
+Group H02J 1/16 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0003 and H02J 1/16 should
+be considered in order to perform a complete
+    3/00    Circuit arrangements for ac mains or ac
+Group H02J 3/00 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/00 should be
+considered in order to perform a complete search.
+    3/001   . {Methods to deal with contingencies, e.g.
+abnormalities, faults or failures}
+Group H02J 3/001 is impacted by reclassification
+into groups H02J 3/0012 and  H02J 3/00125.
+Groups H02J 3/001,  H02J 3/0012, and
+H02J 3/00125 should be considered in order to
+    3/0012  . . {Contingency detection}
+Group H02J 3/0012 is incomplete pending
+reclassification of documents from groups
+Groups H02J 3/001,  H02J 13/0006, and
+H02J 3/0012 should be considered in order to
+    3/00125 . . {Transmission line or load transient problems,
+e.g. overvoltage, resonance or self-excitation of
+inductive loads (H02J 3/01 takes precedence)}
+Group H02J 3/00125 is incomplete pending
+reclassification of documents from groups
+Groups H02J 3/001,  H02J 13/0006, and
+H02J 3/00125 should be considered in order to
+    3/002   . {Flicker reduction, e.g. compensation of flicker
+Group H02J 3/002 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/002 should
+be considered in order to perform a complete
+    3/003   . {Load forecast, e.g. methods or systems for
+forecasting future load demand}
+Group H02J 3/003 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/003 should
+be considered in order to perform a complete
+    3/004   . {Generation forecast, e.g. methods or systems for
+forecasting future energy generation}
+Group H02J 3/004 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/004 should
+be considered in order to perform a complete
+. {Arrangements for selectively connecting the load
+to one among a plurality of power lines or power
+sources (for providing uninterruptable power supply
+Group H02J 3/005 is no longer used for
+the classification of documents as of
+The content of this group is being reclassified
+into groups H02J 3/007 and H02J 3/0075.
+Groups H02J 3/005,  H02J 3/007, and
+H02J 3/0075 should be considered in order to
+    3/007   . {Arrangements for selectively connecting the
+load or loads to one or several among a plurality
+of power lines or power sources (for providing
+uninterruptable power supply H02J 9/00)}
+Group H02J 3/007 is incomplete pending
+reclassification of documents from groups
+Groups H02J 3/005,  H02J 13/0006, and
+H02J 3/007 should be considered in order to
+    3/0073  . . {for providing alternative feeding paths between
+load and source when the main path fails, e.g.
+Group H02J 3/0073 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/0073 should
+be considered in order to perform a complete
+    3/0075  . . {for providing alternative feeding paths between
+load and source according to economic or
+energy efficiency considerations, e.g. economic
+Group H02J 3/0075 is incomplete pending
+reclassification of documents from groups
+Groups H02J 3/005,  H02J 13/0006, and
+H02J 3/0075 should be considered in order to
+    3/008   . {involving trading of energy or energy transmission
+Group H02J 3/008 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/008 should
+be considered in order to perform a complete
+    3/01    . Arrangements for reducing harmonics or ripples
+Group H02J 3/01 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/01 should
+be considered in order to perform a complete
+    3/02    . using a single network for simultaneous distribution
+of power at different frequencies; using a single
+network for simultaneous distribution of ac power
+Group H02J 3/02 is incomplete pending
+reclassification of documents from
+groups H02J 13/0006, H02J 13/0093, and
+Groups H02J 3/02, H02J 13/0006,
+H02J 13/0093, and H02J 13/0096 should be
+considered in order to perform a complete
+    3/04    . for connecting networks of the same frequency but
+supplied from different sources
+Group H02J 3/04 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/04 should
+be considered in order to perform a complete
+    3/06    . . Controlling transfer of power between connected
+networks; Controlling sharing of load between
+Group H02J 3/06 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/06 should
+be considered in order to perform a complete
+    3/08    . . Synchronising of networks
+Group H02J 3/08 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/08 should
+be considered in order to perform a complete
+    3/10    . Constant-current supply systems
+Group H02J 3/10 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/10 should
+be considered in order to perform a complete
+    3/12    . for adjusting voltage in ac networks by changing a
+characteristic of the network load
+Group H02J 3/12 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/12 should
+be considered in order to perform a complete
+    3/14    . . by switching loads on to, or off from, network,
+e.g. progressively balanced loading
+Group H02J 3/14 is incomplete pending
+reclassification of documents from group
+Group H02J 3/14 is also impacted by
+reclassification into group H02J 3/144.
+Groups  H02J 13/0006,  H02J 3/14, and
+H02J 3/144 should be considered in order to
+    3/144   . . . {Demand-response operation of the power
+transmission or distribution network}
+Group H02J 3/144 is incomplete pending
+reclassification of documents from groups
+Groups H02J 3/14, H02J 13/0006, and
+H02J 3/144 should be considered in order to
+    3/16    . . by adjustment of reactive power
+Group H02J 3/16 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/16 should
+be considered in order to perform a complete
+    3/18    . Arrangements for adjusting, eliminating or
+compensating reactive power in networks (for
+adjustment of voltage H02J 3/16)
+Group H02J 3/18 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/18 should
+be considered in order to perform a complete
+    3/1807  . . {using series compensators}
+Group H02J 3/1807 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/1807 should
+be considered in order to perform a complete
+    3/1814  . . . {wherein al least one reactive element is
+actively controlled by a bridge converter, e.g.
+unified power flow controllers [UPFC]}
+Group H02J 3/1814 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/1814
+should be considered in order to perform a
+    3/1821  . . {using shunt compensators (H02J 3/1807,
+Group H02J 3/1821 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/1821 should
+be considered in order to perform a complete
+    3/1828  . . . {with stepwise control, the possibility of
+switching in or out the entire compensating
+arrangement not being considered as stepwise
+Group H02J 3/1828 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/1828
+should be considered in order to perform a
+    3/1835  . . . {with stepless control}
+Group H02J 3/1835 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/1835
+should be considered in order to perform a
+    3/1842  . . . . {wherein at least one reactive element is
+actively controlled by a bridge converter, e.g.
+Group H02J 3/1842 is incomplete
+pending reclassification of documents
+Groups H02J 13/0006 and H02J 3/1842
+should be considered in order to perform
+    3/185   . . . . . {wherein such reactive element is purely
+inductive, e.g. superconductive magnetic
+pending reclassification of documents
+Groups H02J 13/0006 and H02J 3/185
+should be considered in order to
+    3/1857  . . . . . {wherein such bridge converter is a
+Group H02J 3/1857 is incomplete
+pending reclassification of documents
+Groups H02J 13/0006 and H02J 3/1857
+should be considered in order to
+    3/1864  . . . . {wherein the stepless control of reactive
+power is obtained by at least one reactive
+element connected in series with a
+Group H02J 3/1864 is incomplete
+pending reclassification of documents
+Groups H02J 13/0006 and H02J 3/1864
+should be considered in order to perform
+    3/1871  . . . {Methods for planning installation of shunt
+Group H02J 3/1871 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/1871
+should be considered in order to perform a
+    3/1878  . . {using tap changing or phase shifting
+Group H02J 3/1878 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/1878 should
+be considered in order to perform a complete
+    3/1885  . . {using rotating means, e.g. synchronous
+Group H02J 3/1885 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/1885 should
+be considered in order to perform a complete
+    3/1892  . . {the arrangements being an integral part of the
+load, e.g. a motor, or of its control circuit}
+Group H02J 3/1892 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/1892 should
+be considered in order to perform a complete
+    3/20    . . in long overhead lines
+Group H02J 3/20 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/20 should
+be considered in order to perform a complete
+Group H02J 3/22 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/22 should
+be considered in order to perform a complete
+    3/24    . Arrangements for preventing or reducing
+oscillations of power in networks (by control
+effected upon a single generator H02P 9/00)
+Group H02J 3/24 is incomplete pending
+reclassification of documents from group
+Group H02J 3/24 is also impacted by
+reclassification into groups H02J 3/241 and
+Groups H02J 3/24, H02J 13/0006, H02J 3/241
+and H02J 3/242 should be considered in order to
+    3/241   . . {The oscillation concerning frequency}
+Group H02J 3/241 is incomplete pending
+reclassification of documents from groups
+Groups H02J 3/24,  H02J 13/0006, and
+H02J 3/241 should be considered in order to
+    3/242   . . {using phasor measuring units [PMU] }
+Group H02J 3/242 is incomplete pending
+reclassification of documents from groups
+Groups H02J 3/24,  H02J 13/0006, and
+H02J 3/242 should be considered in order to
+    3/26    . Arrangements for eliminating or reducing
+asymmetry in polyphase networks
+Group H02J 3/26 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/26 should
+be considered in order to perform a complete
+    3/28    . Arrangements for balancing of the load in a network
+Group H02J 3/28 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/28 should
+be considered in order to perform a complete
+    3/30    . . using dynamo-electric machines coupled to
+Group H02J 3/30 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/30 should
+be considered in order to perform a complete
+    3/32    . . using batteries with converting means
+Group H02J 3/32 is incomplete pending
+reclassification of documents from group
+Group H02J 3/32 is also impacted by
+reclassification into group H02J 3/322.
+Groups  H02J 13/0006,  H02J 3/32, and
+H02J 3/322 should be considered in order to
+    3/322   . . . {the battery being on-board an electric
+or hybrid vehicle, e.g. vehicle to grid
+arrangements [V2G], power aggregation, use
+of the battery for network load balancing,
+coordinated or cooperative battery charging}
+Group H02J 3/322 is incomplete pending
+reclassification of documents from
+groups H02J 3/32,  H02J 7/0027, and
+H02J 7/0027, and  H02J 13/0006 should be
+considered in order to perform a complete
+    3/34    . Arrangements for transfer of electric power between
+networks of substantially different frequency
+Group H02J 3/34 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/34 should
+be considered in order to perform a complete
+    3/36    . Arrangements for transfer of electric power between
+ac networks via a high-tension dc link
+Group H02J 3/36 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/36 should
+be considered in order to perform a complete
+ 2003/365   . . {Reducing harmonics or oscillations in HVDC}
+    3/38    . Arrangements for parallely feeding a single
+network by two or more generators, converters or
+Group H02J 3/38 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/38 should
+be considered in order to perform a complete
+    3/381   . . {Dispersed generators}
+Group H02J 3/381 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 3/381 should
+be considered in order to perform a complete
+. . . {the generators exploiting renewable energy}
+Group H02J 3/382 is no longer used for
+the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 2300/20,
+H02J 2300/22, H02J 3/388, H02J 3/40,
+H02J 3/42, H02J 3/44, H02J 3/46,
+H02J 3/466, H02J 3/472, H02J 3/48, and
+Groups H02J 3/382, H02J 2300/20,
+H02J 2300/22, H02J 3/388, H02J 3/40,
+H02J 3/42, H02J 3/44, H02J 3/46,
+H02J 3/466, H02J 3/472, H02J 3/48, and
+H02J 3/50 should be considered in order to
+. . . . {Solar energy, e.g. photovoltaic energy
+(generation of electric power by conversion
+Group H02J 3/383 is no longer used for
+the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 2300/24,
+H02J 3/388, H02J 3/40, H02J 3/42,
+H02J 3/44, H02J 3/46, H02J 3/466,
+H02J 3/472, H02J 3/48, and H02J 3/50.
+Groups H02J 3/383, H02J 2300/24,
+H02J 3/388, H02J 3/40, H02J 3/42,
+H02J 3/44, H02J 3/46, H02J 3/466,
+H02J 3/472, H02J 3/48, and H02J 3/50
+should be considered in order to perform
+. . . . . {Maximum power point tracking control
+Group H02J 3/385 is no longer used for
+the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 2300/26,
+H02J 3/388, H02J 3/40, H02J 3/42,
+H02J 3/44, H02J 3/46, H02J 3/466,
+H02J 3/472, H02J 3/48, and H02J 3/50.
+Groups H02J 3/385, H02J 2300/26,
+H02J 3/388, H02J 3/40, H02J 3/42,
+H02J 3/44, H02J 3/46, H02J 3/466,
+H02J 3/472, H02J 3/48, and H02J 3/50
+should be considered in order to
+. . . . {Wind energy (wind motors F03D)}
+Group H02J 3/386 is no longer used for
+the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 2300/28,
+H02J 3/388, H02J 3/40, H02J 3/42,
+H02J 3/44, H02J 3/46, H02J 3/466,
+H02J 3/472, H02J 3/48, and H02J 3/50.
+Groups H02J 3/386, H02J 2300/28,
+H02J 3/388, H02J 3/40, H02J 3/42,
+H02J 3/44, H02J 3/46, H02J 3/466,
+H02J 3/472, H02J 3/48, and H02J 3/50
+should be considered in order to perform
+. . . {using fuel cells (fuel cells per se H01M 8/00)}
+Group H02J 3/387 is no longer used for
+the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 2300/30,
+H02J 3/388, H02J 3/40, H02J 3/42,
+H02J 3/44, H02J 3/46, H02J 3/466,
+H02J 3/472, H02J 3/48, and H02J 3/50.
+Groups H02J 3/387, H02J 2300/30,
+H02J 3/388, H02J 3/40, H02J 3/42,
+H02J 3/44, H02J 3/46, H02J 3/466,
+H02J 3/472, H02J 3/48, and H02J 3/50
+should be considered in order to perform a
+    3/388   . . {Islanding, i.e. disconnection of local power
+Group H02J 3/388 is incomplete pending
+reclassification of documents from groups
+H02J 3/382, H02J 3/383, H02J 3/385,
+H02J 3/386, H02J 3/387, and H02J 13/0006.
+Groups H02J 3/388, H02J 3/382, H02J 3/383,
+H02J 3/385, H02J 3/386, H02J 3/387, and
+H02J 13/0006 should be considered in order to
+    3/40    . . Synchronising a generator for connection to a
+network or to another generator
+Group H02J 3/40 is incomplete pending
+reclassification of documents from groups
+H02J 3/382, H02J 3/383, H02J 3/385,
+H02J 3/386, H02J 3/387, and H02J 13/0006.
+Groups H02J 3/40, H02J 3/382, H02J 3/383,
+H02J 3/385, H02J 3/386, H02J 3/387, and
+H02J 13/0006 should be considered in order to
+    3/42    . . . with automatic parallel connection when
+Group H02J 3/42 is incomplete pending
+reclassification of documents from groups
+H02J 3/382, H02J 3/383, H02J 3/385,
+H02J 3/386, H02J 3/387, and H02J 13/0006.
+Groups H02J 3/42, H02J 3/382, H02J 3/383,
+H02J 3/385, H02J 3/386, H02J 3/387, and
+H02J 13/0006 should be considered in order
+    3/44    . . . with means for ensuring correct phase sequence
+Group H02J 3/44 is incomplete pending
+reclassification of documents from groups
+H02J 3/382, H02J 3/383, H02J 3/385,
+H02J 3/386, H02J 3/387, and H02J 13/0006.
+Groups H02J 3/44, H02J 3/382, H02J 3/383,
+H02J 3/385, H02J 3/386, H02J 3/387, and
+H02J 13/0006 should be considered in order
+    3/46    . . Controlling of the sharing of output between the
+generators, converters, or transformers
+Group H02J 3/46 is incomplete pending
+reclassification of documents from groups
+H02J 3/382, H02J 3/383, H02J 3/385,
+H02J 3/386, H02J 3/387, and H02J 13/0006.
+Group H02J 3/46 is also impacted by
+reclassification into groups H02J 3/466 and
+Groups H02J 3/46, H02J 3/382, H02J 3/383,
+H02J 3/385, H02J 3/386, H02J 3/387,
+H02J 13/0006, H02J 3/466 and H02J 3/472
+should be considered in order to perform a
+    3/466   . . . {Scheduling the operation of the generators,
+e.g. connecting or disconnecting generators to
+Group H02J 3/466 is incomplete pending
+reclassification of documents from groups
+H02J 3/382, H02J 3/383, H02J 3/385,
+H02J 3/386, H02J 3/387, and H02J 3/46.
+H02J 3/383, H02J 3/385, H02J 3/386,
+H02J 3/387, and H02J 3/46 should be
+considered in order to perform a complete
+    3/472   . . . . {For selectively connecting the AC sources
+in a particular order, e.g. sequential,
+alternating or subsets of sources}
+Group H02J 3/472 is incomplete pending
+reclassification of documents from groups
+H02J 3/382, H02J 3/383, H02J 3/385,
+H02J 3/386, H02J 3/387, H02J 3/46, and
+Groups  H02J 3/472, H02J 3/382,
+H02J 3/383, H02J 3/385, H02J 3/386,
+H02J 13/0006 should be considered in
+order to perform a complete search.
+    3/48    . . . Controlling the sharing of the in-phase
+Group H02J 3/48 is incomplete pending
+reclassification of documents from groups
+H02J 3/382, H02J 3/383, H02J 3/385,
+H02J 3/386, H02J 3/387, and H02J 13/0006.
+Groups H02J 3/48, H02J 3/382, H02J 3/383,
+H02J 3/385, H02J 3/386, H02J 3/387, and
+H02J 13/0006 should be considered in order
+    3/50    . . . Controlling the sharing of the out-of-phase
+Group H02J 3/50 is incomplete pending
+reclassification of documents from groups
+H02J 3/382, H02J 3/383, H02J 3/385,
+H02J 3/386, H02J 3/387, and H02J 13/0006.
+Groups H02J 3/50, H02J 3/382, H02J 3/383,
+H02J 3/385, H02J 3/386, H02J 3/387, and
+H02J 13/0006 should be considered in order
+    4/00    Circuit arrangements for mains or distribution
+networks not specified as ac or dc
+Group H02J 4/00 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0096 and H02J 4/00 should be
+considered in order to perform a complete search.
+    5/00    Circuit arrangements for transfer of electric power
+between ac networks and dc networks (H02J 3/36
+Group H02J 5/00 is incomplete pending
+reclassification of documents from group
+Groups H02J 5/005 and H02J 5/00 should be
+considered in order to perform a complete search.
+. {with inductive power transfer (for charging
+Group H02J 5/005 is no longer used for
+the classification of documents as of
+The content of this group is being reclassified
+into groups H02J 5/00, H02J 50/001,
+H02J 50/005, H02J 50/10, H02J 50/12,
+H02J 50/30, H02J 50/40, H02J 50/402,
+H02J 50/50, H02J 50/502, H02J 50/60,
+H02J 50/70, H02J 50/80, and H02J 50/90.
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/00    Circuit arrangements for charging or depolarising
+batteries or for supplying loads from batteries
+Group H02J 7/00 is incomplete pending
+reclassification of documents from groups
+H02J 7/0077, H02J 7/0085, H02J 7/0088, and
+Groups H02J 7/00, H02J 7/0077, H02J 7/0085,
+H02J 7/0088, and H02J 7/025 should be
+considered in order to perform a complete search.
+. {with provision for charging different types of
+Group H02J 7/0003 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups H02J 7/00032, H02J 7/00034,
+H02J 7/00045, and H02J 7/00047.
+Groups H02J 7/0003, H02J 7/00032,
+H02J 7/00034, H02J 7/00045, and H02J 7/00047
+should be considered in order to perform a
+    7/00032 . {characterised by data exchange}
+Group H02J 7/00032 is incomplete pending
+reclassification of documents from group
+Groups H02J 7/0003 and H02J 7/00032 should
+be considered in order to perform a complete
+    7/00034 . . {Charger exchanging data with an electronic
+device, i.e. telephone, whose internal battery is
+Group H02J 7/00034 is incomplete pending
+reclassification of documents from group
+Groups H02J 7/0003 and H02J 7/00034 should
+be considered in order to perform a complete
+    7/00036 . . {Charger exchanging data with battery}
+    7/00038 . . {using passive battery identification means,
+e.g. resistors or capacitors (identification by
+mechanical connections H02J 7/0045)}
+    7/00041 . . . {in response to measured battery parameters,
+e.g. voltage, current or temperature profile}
+    7/00043 . . . {using switches, contacts or markings, e.g.
+    7/00045 . . {Authentication, i.e. circuits for checking
+compatibility between one component, e.g.
+a battery or a battery charger, and another
+component, e.g. a power source}
+Group H02J 7/00045 is incomplete pending
+reclassification of documents from group
+Groups H02J 7/0003 and H02J 7/00045 should
+be considered in order to perform a complete
+    7/00047 . {with provisions for charging different types of
+Group H02J 7/00047 is incomplete pending
+reclassification of documents from group
+Groups H02J 7/0003 and H02J 7/00047 should
+be considered in order to perform a complete
+    7/0013  . {acting upon several batteries simultaneously or
+sequentially (H02J 7/1423 takes precedence)}
+Group H02J 7/0013 is incomplete pending
+reclassification of documents from groups
+H02J 7/0021, H02J 7/0022, and H02J 7/0027.
+Groups H02J 7/0013, H02J 7/0021,
+H02J 7/0022, and H02J 7/0027 should be
+considered in order to perform a complete
+    7/0014  . . {Circuits for equalisation of charge between
+Group H02J 7/0014 is incomplete pending
+reclassification of documents from groups
+H02J 7/0021, H02J 7/0022, and H02J 7/0027.
+Groups H02J 7/0014, H02J 7/0021,
+H02J 7/0022, and H02J 7/0027 should be
+considered in order to perform a complete
+    7/0016  . . . {using shunting, discharge or bypass circuits}
+Group H02J 7/0016 is incomplete pending
+reclassification of documents from
+groups H02J 7/0021, H02J 7/0022, and
+Groups H02J 7/0016, H02J 7/0021,
+H02J 7/0022, and H02J 7/0027 should be
+considered in order to perform a complete
+    7/0018  . . . {using separate charge circuits}
+Group H02J 7/0018 is incomplete pending
+reclassification of documents from
+groups H02J 7/0021, H02J 7/0022, and
+Groups H02J 7/0018, H02J 7/0021,
+H02J 7/0022, and H02J 7/0027 should be
+considered in order to perform a complete
+    7/0019  . . . {using switched or multiplexed charge circuits}
+Group H02J 7/0019 is incomplete pending
+reclassification of documents from
+groups H02J 7/0021, H02J 7/0022, and
+Groups H02J 7/0019, H02J 7/0021,
+H02J 7/0022, and H02J 7/0027 should be
+considered in order to perform a complete
+. . {Monitoring or indicating circuits (H02J 7/0026
+Group H02J 7/0021 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups H02J 7/0047, H02J 7/0048,
+H02J 7/0049, H02J 7/005, H02J 7/0013,
+H02J 7/0014, H02J 7/0016, H02J 7/0018,
+H02J 7/0019, H02J 7/0024, and H02J 7/0025.
+All groups listed in this Warning should be
+considered in order to perform a complete
+. . {Management of charging with batteries
+permanently connected to charge circuit
+(H02J 7/0014 takes precedence)}
+Group H02J 7/0022 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups H02J 7/0013, H02J 7/0014,
+H02J 7/0016, H02J 7/0018, H02J 7/0019,
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/0024  . . {Parallel/serial switching of connection of
+batteries to charge or load circuit}
+Group H02J 7/0024 is incomplete pending
+reclassification of documents from groups
+H02J 7/0021, H02J 7/0022, and H02J 7/0027.
+Groups H02J 7/0024, H02J 7/0021,
+H02J 7/0022, and H02J 7/0027 should be
+considered in order to perform a complete
+    7/0025  . . {Sequential battery discharge in systems with a
+Group H02J 7/0025 is incomplete pending
+reclassification of documents from groups
+H02J 7/0021, H02J 7/0022, H02J 7/0027,
+H02J 7/0063, and H02J 2007/0067.
+Groups  H02J 7/0025, H02J 7/0021,
+H02J 7/0022, H02J 7/0027, H02J 7/0063, and
+H02J 2007/0067 should be considered in order
+. . {using safety or protection circuits, e.g.
+overcharge/discharge disconnection}
+Group H02J 7/0026 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups H02J 7/0029, H02J 7/00302,
+H02J 7/00304, H02J 7/00306, H02J 7/00308,
+Groups H02J 7/0026, H02J 7/0029,
+H02J 7/00302, H02J 7/00304, H02J 7/00306,
+H02J 7/00308, and H02J 7/00309 should be
+considered in order to perform a complete
+. . {Stations for charging mobile units, e.g.
+of electric vehicles, of mobile telephones
+(H02J 7/0021, H02J 7/0026 take precedence)}
+Group H02J 7/0027 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups H02J 3/322, H02J 7/0013,
+H02J 7/0014, H02J 7/0016, H02J 7/0018,
+H02J 7/0019, H02J 7/0024, H02J 7/0025,
+H02J 7/0042, H02J 7/0044, H02J 7/0045,
+H02J 2310/22, H02J 2310/40, H02J 2310/42,
+H02J 2310/44,  H02J 2310/46, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/0029  . {with safety or protection devices or circuits}
+Group H02J 7/0029 is incomplete pending
+reclassification of documents from groups
+H02J 7/0026, H02J 7/027, H02J 7/1461, and
+Group H02J 7/0029 is also impacted by
+reclassification into groups H02J 7/00302,
+H02J 7/00304, H02J 7/00306, H02J 7/00308,
+Groups H02J 7/0029, H02J 7/0026, H02J 7/027,
+H02J 7/1461, and H02J 7/166, H02J 7/00302,
+H02J 7/00304, H02J 7/00306, H02J 7/00308,
+and H02J 7/00309 should be considered in order
+    7/00302 . . {Overcharge protection}
+Group H02J 7/00302 is incomplete pending
+reclassification of documents from groups
+H02J 7/0026, H02J 7/0029, H02J 7/027,
+Groups  H02J 7/00302, H02J 7/0026,
+H02J 7/0029, H02J 7/027, H02J 7/1461, and
+H02J 7/166 should be considered in order to
+    7/00304 . . {Overcurrent protection}
+Group H02J 7/00304 is incomplete pending
+reclassification of documents from groups
+H02J 7/0026, H02J 7/0029, H02J 7/027,
+Groups  H02J 7/00304, H02J 7/0026,
+H02J 7/0029, H02J 7/027, H02J 7/1461, and
+H02J 7/166 should be considered in order to
+    7/00306 . . {Overdischarge protection}
+Group H02J 7/00306 is incomplete pending
+reclassification of documents from groups
+H02J 7/0026, H02J 7/0029, H02J 7/027,
+Groups  H02J 7/00306, H02J 7/0026,
+H02J 7/0029, H02J 7/027, H02J 7/1461, and
+H02J 7/166 should be considered in order to
+    7/00308 . . {Overvoltage protection}
+Group H02J 7/00308 is incomplete pending
+reclassification of documents from groups
+H02J 7/0026, H02J 7/0029, H02J 7/027,
+Groups  H02J 7/00308, H02J 7/0026,
+H02J 7/0029, H02J 7/027, H02J 7/1461, and
+H02J 7/166 should be considered in order to
+    7/00309 . . {Overheat or overtemperature protection}
+Group H02J 7/00309 is incomplete pending
+reclassification of documents from groups
+H02J 7/0026, H02J 7/0029, H02J 7/027,
+Groups  H02J 7/00309, H02J 7/0026,
+H02J 7/0029, H02J 7/027, H02J 7/1461, and
+H02J 7/166 should be considered in order to
+    7/0031  . . {using battery or load disconnect circuits
+    7/0032  . . . {disconnection of loads if battery is not under
+charge, e.g. in vehicle if engine is not running}
+    7/0034  . . {using reverse polarity correcting or protecting
+circuits (mechanical means of polarity protection
+    7/0036  . . {using connection detecting circuits (H02J 7/0034
+    7/0042  . {characterised by the mechanical construction}
+Group H02J 7/0042 is incomplete pending
+reclassification of documents from groups
+Groups H02J 7/0027, H02J 7/025, and
+H02J 7/0042 should be considered in order to
+    7/0044  . . {specially adapted for holding portable devices
+containing batteries (H02J 7/0045 takes
+Group H02J 7/0044 is incomplete pending
+reclassification of documents from groups
+Groups H02J 7/0027, H02J 7/025, and
+H02J 7/0044 should be considered in order to
+    7/0045  . . {concerning the insertion or the connection of the
+Group H02J 7/0045 is incomplete pending
+reclassification of documents from groups
+Groups H02J 7/0027, H02J 7/025, and
+H02J 7/0045 should be considered in order to
+    7/0047  . {with monitoring or indicating devices or circuits}
+Group H02J 7/0047 is incomplete pending
+reclassification of documents from groups
+H02J 7/0021, H02J 7/027, H02J 7/1461, and
+Group H02J 7/0047 is also impacted by
+reclassification into groups H02J 7/0048 and
+Groups H02J 7/0047, H02J 7/0021, H02J 7/027,
+H02J 7/1461, and H02J 7/166 should be
+considered in order to perform a complete
+    7/0048  . . {Detection of remaining charge capacity or state
+Group H02J 7/0048 is incomplete pending
+reclassification of documents from groups
+H02J 7/0021, H02J 7/0047, H02J 7/027,
+Groups  H02J 7/0048, H02J 7/0021,
+H02J 7/0047, H02J 7/027, H02J 7/1461, and
+H02J 7/166 should be considered in order to
+    7/0049  . . . {Detection of fully charged condition}
+Group H02J 7/0049 is incomplete pending
+reclassification of documents from groups
+H02J 7/0021, H02J 7/027, H02J 7/1461, and
+Groups H02J 7/0049, H02J 7/0021,
+H02J 7/027, H02J 7/1461, and H02J 7/166
+should be considered in order to perform a
+    7/005   . . {Detection of state of health [SOH]}
+Group H02J 7/005 is incomplete pending
+reclassification of documents from groups
+H02J 7/0021, H02J 7/0047, H02J 7/027,
+Groups H02J 7/005, H02J 7/0021,
+H02J 7/0047, H02J 7/027, H02J 7/1461, and
+H02J 7/166 should be considered in order to
+    7/0063  . {with circuits adapted for supplying loads from the
+Group H02J 7/0063 is impacted by
+reclassification into groups H02J 7/0025,
+H02J 7/007, H02J 7/0071, H02J 7/00711,
+H02J 7/00712, H02J 7/00714, H02J 7/00716,
+H02J 7/00718, H02J 7/007182, H02J 7/007184,
+H02J 7/007186, H02J 7/007188, H02J 7/00719,
+H02J 7/007192, and H02J 7/007194.
+All groups listed in this Warning should be
+considered in order to perform a complete
+. . {Discharge management, i.e. discharge current
+reduction at low state of charge, sequential
+battery discharge in systems with a plurality of
+Group H02J 2007/0067 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups H02J 7/0025, H02J 7/007,
+H02J 7/0071, H02J 7/00711, H02J 7/00712,
+H02J 7/00714, H02J 7/00716, H02J 7/00718,
+H02J 7/00719,  H02J 7/007192, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/0068  . {Battery or charger load switching, e.g. concurrent
+charging and load supply (H02J 7/0013 takes
+    7/0069  . {Charging or discharging for charge maintenance,
+battery initiation or rejuvenation}
+    7/007   . {Regulation of charging or discharging current or
+Group H02J 7/007 is incomplete pending
+reclassification of documents from groups
+H02J 7/0063, H02J 2007/0067, H02J 7/042,
+Group H02J 7/007 is also impacted by
+reclassification into groups H02J 7/00712 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/0071  . . {with a programmable schedule}
+Group H02J 7/0071 is incomplete pending
+reclassification of documents from groups
+H02J 7/0063, H02J 2007/0067, H02J 7/0072,
+H02J 7/042, H02J 2007/10, and H02J 7/125.
+Groups H02J 7/0071, H02J 7/0063,
+H02J 2007/0067, H02J 7/0072, H02J 7/042,
+H02J 2007/10, and H02J 7/125 should be
+considered in order to perform a complete
+    7/00711 . . {with introduction of pulses during the charging
+Group H02J 7/00711 is incomplete pending
+reclassification of documents from groups
+H02J 7/0063, H02J 2007/0067, H02J 7/0072,
+H02J 7/042, H02J 2007/10, and H02J 7/125.
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/00712 . . {the cycle being controlled or terminated in
+response to electric parameters}
+Group H02J 7/00712 is incomplete pending
+reclassification of documents from groups
+H02J 7/0063, H02J 2007/0067, H02J 7/007,
+H02J 7/0077, H02J 7/008, H02J 7/042,
+H02J 7/085, H02J 2007/10, and H02J 7/125.
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/00714 . . . {in response to battery charging or discharging
+Group H02J 7/00714 is incomplete
+pending reclassification of documents from
+groups H02J 7/0063, H02J 2007/0067,
+H02J 7/0072, H02J 7/0078, H02J 7/008,
+H02J 7/042, H02J 7/045, H02J 7/085,
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/00716 . . . . {in response to integrated charge or
+Group H02J 7/00716 is incomplete
+documents from groups H02J 7/0063,
+H02J 7/0078, H02J 7/008, H02J 7/042,
+All groups listed in this Warning should
+be considered in order to perform a
+    7/00718 . . . . {in response to charge current gradient}
+Group H02J 7/00718 is incomplete
+pending reclassification of documents
+H02J 7/0078, H02J 7/008, H02J 7/042,
+H02J 7/045, H02J 7/085, H02J 2007/10,
+All groups listed in this Warning should
+be considered in order to perform a
+    7/007182 . . . {in response to battery voltage}
+Group H02J 7/007182 is incomplete
+pending reclassification of documents from
+groups  H02J 7/0063,  H02J 2007/0067,
+H02J 7/0072, H02J 7/008, H02J 7/0086,
+H02J 7/042, H02J 7/045, H02J 7/085,
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/007184 . . . . {in response to battery voltage gradient}
+Group H02J 7/007184 is incomplete
+documents from groups H02J 7/0063,
+H02J 7/008, H02J 7/0086, H02J 7/042,
+H02J 7/045, H02J 7/085, H02J 2007/10,
+All groups listed in this Warning should
+be considered in order to perform a
+    7/007186 . . . . {obtained with the battery disconnected from
+the charge or discharge circuit}
+Group H02J 7/007186 is incomplete
+documents from groups H02J 7/0063,
+H02J 7/0085, H02J 7/042, H02J 7/045,
+All groups listed in this Warning should
+be considered in order to perform a
+    7/007188 . . {the charge cycle being controlled or terminated
+in response to non-electric parameters}
+Group H02J 7/007188 is incomplete pending
+reclassification of documents from groups
+H02J 7/0063, H02J 2007/0067, H02J 7/007,
+H02J 7/0072, H02J 7/0088, H02J 7/042,
+H02J 7/087, H02J 2007/10, and H02J 7/125.
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/00719 . . . {in response to degree of gas development in
+Group H02J 7/00719 is incomplete
+pending reclassification of documents from
+groups H02J 7/0063, H02J 2007/0067,
+H02J 7/0072, H02J 7/042, H02J 7/087,
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/007192 . . . {in response to temperature}
+Group H02J 7/007192 is incomplete
+pending reclassification of documents from
+groups H02J 7/0063, H02J 2007/0067,
+H02J 7/0072, H02J 7/0091, H02J 7/042,
+H02J 7/087, H02J 2007/10, and H02J 7/125.
+Group H02J 7/007192 is also impacted by
+reclassification into group H02J 7/007194.
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/007194 . . . . {of the battery}
+Group H02J 7/007194 is incomplete
+documents from groups H02J 7/0063,
+H02J 7/0072, H02J 7/0091, H02J 7/042,
+All groups listed in this Warning should
+be considered in order to perform a
+. . {using semiconductor devices only}
+Group H02J 7/0072 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups H02J 7/0071, H02J 7/00711,
+H02J 7/00714, H02J 7/00716, H02J 7/00718,
+H02J 7/00719, H02J 7/007192, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+. . . {the charge cycle being terminated in response
+to electric parameters (H02J7/0093 takes
+Group H02J 7/0077 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 7/00 and
+Groups H02J 7/0077, H02J 7/00, and
+H02J 7/00712 should be considered in order
+. . . . {in response to discharge current, e.g. using a
+Group H02J 7/0078 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 7/00714,
+H02J 7/00716, and H02J 7/00718.
+Groups H02J 7/0078, H02J 7/00714,
+H02J 7/00716, and H02J 7/00718 should
+be considered in order to perform a
+. . . . {with the battery connected to the charge
+Group H02J 7/008 is no longer used for
+the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 7/00712,
+H02J 7/00718, H02J 7/007182, and
+All groups listed in this Warning should
+be considered in order to perform a
+. . . . {with the battery disconnected from the
+Group H02J 7/0085 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 7/00 and
+Groups H02J 7/0085, H02J 7/00, and
+H02J 7/007186 should be considered in
+order to perform a complete search.
+. . . . . {and in response to battery voltage}
+Group H02J 7/0086 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 7/007182
+Groups H02J 7/0086, H02J 7/007182,
+considered in order to perform a
+. . . {the charge cycle being terminated in response
+to non-electric parameters (H02J7/0093 takes
+Group H02J 7/0088 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 7/00 and
+Groups H02J 7/0088, H02J 7/00, and
+H02J 7/007188 should be considered in
+order to perform a complete search.
+. . . . {in response to temperature of the battery}
+Group H02J 7/0091 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 7/007192
+Groups H02J 7/0091, H02J 7/007192, and
+H02J 7/007194 should be considered in
+order to perform a complete search.
+    7/02    . for charging batteries from ac mains by converters
+Group H02J 7/02 is incomplete pending
+reclassification of documents from group
+Groups H02J 7/022 and H02J 7/02 should
+be considered in order to perform a complete
+. . {characterised by the type of converter}
+Group H02J 7/022 is no longer used for
+the classification of documents as of
+The content of this group is being reclassified
+into groups H02J 7/02 and H02J 2207/20.
+Groups H02J 7/022, H02J 7/02, and
+H02J 2207/20 should be considered in order to
+. . . {using non-contact coupling, e.g. inductive,
+Group H02J 7/025 is no longer used for
+the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 50/001,
+H02J 50/005, H02J 50/10, H02J 50/12,
+H02J 50/30, H02J 50/40, H02J 50/402,
+H02J 50/50, H02J 50/502, H02J 50/60,
+H02J 50/70, H02J 50/80, H02J 50/90,
+H02J 7/00,  H02J 7/0042,  H02J 7/0044, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+. . {with safety or indicating device}
+Group H02J 7/027 is no longer used for
+the classification of documents as of
+The content of this group is being reclassified
+into groups H02J 7/0029, H02J 7/00302,
+H02J 7/00304, H02J 7/00306, H02J 7/00308,
+H02J 7/00309, H02J 7/0047, H02J 7/0048,
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/04    . . Regulation of charging current or voltage
+. . . {the charge cycle being controlled in response
+Group H02J 7/042 is no longer used for
+the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 7/007,
+H02J 7/0071, H02J 7/00711, H02J 7/00712,
+H02J 7/007192, and H02J 7/007194.
+All groups listed in this Warning should be
+considered in order to perform a complete
+. . . . {in response to voltage or current}
+Group H02J 7/045 is no longer used for
+the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 7/00714,
+H02J 7/007184, and H02J 7/007186.
+All groups listed in this Warning should
+be considered in order to perform a
+    7/06    . . . using discharge tubes or semiconductor devices
+    7/08    . . . . using discharge tubes only
+. . . . . {the charge cycle being terminated in
+response to electric parameters}
+Group H02J 7/085 is no longer used for
+the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 7/00712,
+H02J 7/007184, and H02J 7/007186.
+All groups listed in this Warning should
+be considered in order to perform a
+. . . . . {the charge cycle being terminated in
+response to non-electric parameters}
+Group H02J 7/087 is no longer used for
+the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 7/007188,
+H02J 7/00719, H02J 7/007192, and
+All groups listed in this Warning should
+be considered in order to perform a
+. . . . {using semiconductor devices only}
+Group H02J 2007/10 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 7/007,
+H02J 7/00719,  H02J 7/007192, and
+All groups listed in this Warning should
+be considered in order to perform a
+    7/12    . . . using magnetic devices having controllable
+degree of saturation, i.e. transductors
+. . . . {in combination with discharge tubes or
+Group H02J 7/125 is no longer used for
+the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 7/007,
+H02J 7/00719,  H02J 7/007192, and
+All groups listed in this Warning should
+be considered in order to perform a
+    7/14    . for charging batteries from dynamo-electric
+generators driven at varying speed, e.g. on vehicle
+    7/1407  . . {on vehicles not being driven by a motor, e.g.
+    7/1415  . . {with a generator driven by a prime mover other
+    7/1423  . . {with multiple batteries}
+    7/143   . . {with multiple generators}
+    7/1438  . . {in combination with power supplies for loads
+    7/1446  . . {in response to parameters of a vehicle}
+. . {with safety or indicationg devices}
+Group H02J 7/1461 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups H02J 7/0029, H02J 7/00302,
+H02J 7/00304, H02J 7/00306, H02J 7/00308,
+H02J 7/00309, H02J 7/0047, H02J 7/0048,
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/1469  . . {Regulation of the charging current or voltage
+otherwise than by variation of field}
+    7/1476  . . . {by mechanical action on the generator}
+    7/1484  . . . {by commutation of the output windings of the
+    7/1492  . . . {by means of controlling devices between the
+generator output and the battery}
+    7/16    . . Regulation of the charging current or voltage by
+    7/163   . . . {with special means for initiating or limiting
+. . . {with safety or indicating devices}
+Group H02J 7/166 is no longer used for
+the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 7/0029,
+H02J 7/00309, H02J 7/0047, H02J 7/0048,
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/18    . . . due to variation of ohmic resistance in field
+circuit, using resistance switching in or out of
+    7/20    . . . due to variation of continuously variable ohmic
+    7/22    . . . due to variation of make-to-break ratio of
+intermittently-operating contacts, e.g. using
+    7/225   . . . . {characterised by the mechanical
+    7/24    . . . using discharge tubes or semiconductor devices
+    7/243   . . . . {with on/off action}
+    7/2434  . . . . {with pulse modulation}
+    7/2437  . . . . {using thyristors or triacs as final control
+    7/26    . . . using magnetic devices with controllable
+    7/28    . . . using magnetic devices with controllable
+degree of saturation in combination with
+controlled discharge tube or controlled
+    7/30    . . . using armature-reaction-excited machines
+    7/32    . for charging batteries from a charging set
+comprising a non-electric prime mover {rotating at
+    7/34    . Parallel operation in networks using both storage
+and other dc sources, e.g. providing buffering
+    7/342   . . {The other DC source being a battery actively
+interacting with the first one, i.e. battery to battery
+charging (with circuits for polarity protection
+    7/345   . . {using capacitors as storage or buffering devices}
+    7/35    . . with light sensitive cells
+    7/36    . Arrangements using end-cell switching
+    9/00    Circuit arrangements for emergency or stand-by
+power supply, e.g. for emergency lighting
+    9/002   . {in which a reserve is maintained in an energy
+source by disconnecting non-critical loads, e.g.
+maintaining a reserve of charge in a vehicle battery
+    9/005   . {using a power saving mode (for copiers
+    9/007   . . {Detection of the absence of a load}
+    9/02    . in which an auxiliary distribution system and its
+associated lamps are brought into service
+    9/04    . in which the distribution system is disconnected
+from the normal source and connected to a standby
+    9/06    . . with automatic change-over {, e.g. UPS systems}
+    9/061   . . . {for DC powered loads}
+    9/062   . . . {for AC powered loads}
+    9/063   . . . . {Common neutral, e.g. AC input neutral line
+connected to AC output neutral line and DC
+    9/065   . . . . {for lighting purposes}
+    9/066   . . . {characterised by the use of dynamo-electric
+machines (H02J 9/08 takes precedence)}
+    9/067   . . . {using multi-primary transformers, e.g.
+transformer having one primary for each AC
+energy source and a secondary for the loads}
+    9/068   . . . {Electronic means for switching from one
+power supply to another power supply, e.g. to
+    9/08    . . . requiring starting of a prime-mover
+   11/00    Circuit arrangements for providing service supply
+to auxiliaries of stations in which electric power is
+generated, distributed or converted
+   13/00    Circuit arrangements for providing remote
+indication of network conditions, e.g. an
+instantaneous record of the open or closed
+condition of each circuitbreaker in the network;
+Circuit arrangements for providing remote
+control of switching means in a power distribution
+network, e.g. switching in and out of current
+consumers by using a pulse code signal carried by
+Group H02J 13/00 is incomplete pending
+reclassification of documents from groups
+H02J 13/0003, H02J 13/0006, H02J 13/0013,
+H02J 13/0079, and H02J 13/0086.
+Groups  H02J 13/00, H02J 13/0003,
+H02J 13/0006, H02J 13/0013, H02J 13/0079, and
+H02J 13/0086 should be considered in order to
+   13/00001 . {characterised by the display of information or by
+user interaction, e.g. supervisory control and data
+acquisition systems [SCADA] or graphical user
+Group H02J 13/00001 is incomplete
+pending reclassification of documents from
+groups  H02J 13/0003, H02J 13/0006,
+H02J 13/0079, H02J 13/0086, H02J 13/0093,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/00002 . {characterised by monitoring}
+Group H02J 13/00002 is incomplete
+pending reclassification of documents from
+groups  H02J 13/0003, H02J 13/0006,
+H02J 13/0079, H02J 13/0086, H02J 13/0093,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/00004 . {characterised by the power network being locally
+Group H02J 13/00004 is incomplete
+pending reclassification of documents from
+groups  H02J 13/0003, H02J 13/0006,
+H02J 13/0079, H02J 13/0086, H02J 13/0093,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/00006 . {characterised by information or instructions
+transport means between the monitoring, controlling
+or managing units and monitored, controlled or
+operated power network element or electrical
+Group H02J 13/00006 is incomplete pending
+reclassification of documents from groups
+H02J 13/0003, H02J 13/0006, H02J 13/0013,
+H02J 13/0079, H02J 13/0086, H02J 13/0093,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/00007 . . {using the power network as support for the
+Group H02J 13/00007 is incomplete
+pending reclassification of documents from
+groups  H02J 13/0003, H02J 13/0006,
+H02J 13/0017, H02J 13/0079, H02J 13/0082,
+H02J 13/0086, H02J 13/0089, H02J 13/0093,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/00009 . . . {using pulsed signals}
+Group H02J 13/00009 is incomplete
+pending reclassification of documents
+from groups H02J 13/0003, H02J 13/0006,
+H02J 13/0089, H02J 13/0093, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/0001  . . . {using modification of a parameter of the
+Group H02J 13/0001 is incomplete
+pending reclassification of documents from
+groups  H02J 13/0003, H02J 13/0006,
+H02J 13/0089, H02J 13/0093, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/00012 . . {using an auxiliary transmission line}
+Group H02J 13/00012 is incomplete pending
+reclassification of documents from groups
+H02J 13/0003, H02J 13/0006, H02J 13/0017,
+H02J 13/0079, H02J 13/0086, H02J 13/0093,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/00014 . . . {carrying signals having the network frequency
+Group H02J 13/00014 is incomplete
+pending reclassification of documents from
+groups  H02J 13/0003, H02J 13/0006,
+H02J 13/0086, H02J 13/0093, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/00016 . . {using a wired telecommunication network or a
+Group H02J 13/00016 is incomplete pending
+reclassification of documents from groups
+H02J 13/0003, H02J 13/0006, H02J 13/0017,
+H02J 13/0062, H02J 13/0079, H02J 13/0086,
+H02J 13/0093, and H02J 13/0096.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/00017 . . . {using optical fiber}
+Group H02J 13/00017 is incomplete
+pending reclassification of documents from
+groups  H02J 13/0003, H02J 13/0006,
+H02J 13/0093, and H02J 13/0096.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/00018 . . . {using phone lines}
+Group H02J 13/00018 is incomplete
+pending reclassification of documents from
+groups  H02J 13/0003, H02J 13/0006,
+H02J 13/0086, H02J 13/0093, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/00019 . . {using optical means}
+Group H02J 13/00019 is incomplete pending
+reclassification of documents from groups
+H02J 13/0003, H02J 13/0006, H02J 13/0017,
+H02J 13/0079, H02J 13/0086, H02J 13/0093,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/0002  . . {using ultrasonic means}
+Group H02J 13/0002 is incomplete pending
+reclassification of documents from groups
+H02J 13/0003, H02J 13/0006, H02J 13/0017,
+H02J 13/0079, H02J 13/0086, H02J 13/0093,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/00022 . . {using wireless data transmission}
+Group H02J 13/00022 is incomplete pending
+reclassification of documents from groups
+H02J 13/0003, H02J 13/0006,  H02J 13/0017,
+H02J 13/0075, H02J 13/0079, H02J 13/0086,
+H02J 13/0093, and H02J 13/0096.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/00024 . . . {by means of mobile telephony}
+Group H02J 13/00024 is incomplete
+pending reclassification of documents from
+groups  H02J 13/0003, H02J 13/0006,
+H02J 13/0093, and H02J 13/0096.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/00026 . . . {involving a local wireless network, e.g. Wi-Fi,
+Group H02J 13/00026 is incomplete
+pending reclassification of documents from
+groups  H02J 13/0003, H02J 13/0006,
+H02J 13/0093, and H02J 13/0096.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/00028 . . {involving the use of Internet protocols}
+Group H02J 13/00028 is incomplete pending
+reclassification of documents from groups
+H02J 13/0003, H02J 13/0006, H02J 13/0017,
+H02J 13/0079, H02J 13/0086, H02J 13/0093,
+All groups listed in this Warning should be
+considered in order to perform a complete
+Group H02J 13/0003 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups H02J 1/00, H02J 1/001, H02J 1/002,
+H02J 1/02, H02J 1/04, H02J 1/06, H02J 1/08,
+H02J 1/082, H02J 1/084, H02J 1/086,
+H02J 1/10, H02J 1/102, H02J 1/106, H02J 1/108,
+H02J 1/109, H02J 1/12, H02J 1/122, H02J 1/14,
+H02J 1/16, H02J 13/00, H02J 13/00001,
+H02J 13/00002, H02J 13/00004, H02J 13/00006,
+H02J 13/00007, H02J 13/00009, H02J 13/0001,
+H02J 13/00012, H02J 13/00014, H02J 13/00016,
+H02J 13/00017, H02J 13/00018, H02J 13/00019,
+H02J 13/0002, H02J 13/00022, H02J 13/00024,
+H02J 13/00026, H02J 13/00028, H02J 13/00032,
+H02J 13/00034, H02J 13/00036, H02J 13/0004,
+H02J 13/0005, and H02J 2213/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/00032 . {Systems characterised by the controlled or
+operated power network elements or equipment,
+the power network elements or equipment not
+otherwise provided for (circuits specially adapted
+for remote switching of lighting via the power line
+Group H02J 13/00032 is incomplete pending
+reclassification of documents from groups
+H02J 13/0003, H02J 13/0006, H02J 13/0017,
+H02J 13/0079, H02J 13/0086, H02J 13/0093,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/00034 . . {the elements or equipment being or involving an
+Group H02J 13/00034 is incomplete pending
+reclassification of documents from groups
+H02J 13/0003, H02J 13/0006, H02J 13/0017,
+H02J 13/0079, H02J 13/0086, H02J 13/0093,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/00036 . . {the elements or equipment being or involving
+switches, relays or circuit breakers (circuits for
+indication of single switches H01H 9/167)}
+Group H02J 13/00036 is incomplete pending
+reclassification of documents from groups
+H02J 13/0003, H02J 13/0006, H02J 13/0017,
+H02J 13/0079, H02J 13/0086, H02J 13/0093,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/0004  . . . {involved in a protection system}
+Group H02J 13/0004 is incomplete
+pending reclassification of documents
+from groups H02J 13/0003, H02J 13/0006,
+H02J 13/0086, H02J 13/0093, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   13/0005  . . {the elements or equipment being or involving
+Group H02J 13/0005 is incomplete pending
+reclassification of documents from groups
+H02J 13/0003, H02J 13/0006, H02J 13/0017,
+H02J 13/0079, H02J 13/0086, H02J 13/0093,
+All groups listed in this Warning should be
+considered in order to perform a complete
+. {for single frequency AC networks}
+Group H02J 13/0006 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups H02J 3/00, H02J 3/0012,
+H02J 3/00125, H02J 3/002, H02J 3/003,
+H02J 3/004, H02J 2203/10, H02J 2203/20,
+H02J 3/007, H02J 3/0073, H02J 3/0075,
+H02J 3/008, H02J 3/01, H02J 3/02, H02J 3/04,
+H02J 3/06, H02J 3/08, H02J 3/10, H02J 3/12,
+H02J 3/14, H02J 3/144, H02J 3/16, H02J 3/18,
+H02J 3/1807, H02J 3/1814, H02J 3/1821,
+H02J 3/1828, H02J 3/1835, H02J 3/1842,
+H02J 3/185, H02J 3/1857, H02J 3/1864,
+H02J 3/1871, H02J 3/1878, H02J 3/1885,
+H02J 3/1892, H02J 3/20, H02J 3/22,
+H02J 3/24, H02J 3/241, H02J 3/242, H02J 3/26,
+H02J 3/28, H02J 3/30, H02J 3/32, H02J 3/322,
+H02J 3/34, H02J 3/36, H02J 3/38, H02J 3/381,
+H02J 3/472, H02J 3/388, H02J 3/40, H02J 3/42,
+H02J 3/44, H02J 3/46, H02J 3/48, H02J 3/50,
+H02J 13/00, H02J 13/00001, H02J 13/00002,
+H02J 13/00004, H02J 13/00006, H02J 13/00007,
+H02J 13/00009, H02J 13/0001, H02J 13/00012,
+H02J 13/00014, H02J 13/00016, H02J 13/00017,
+H02J 13/00018, H02J 13/00019, H02J 13/0002,
+H02J 13/00022, H02J 13/00024, H02J 13/00026,
+H02J 13/00028, H02J 13/00032, H02J 13/00034,
+H02J 13/00036, H02J 13/0004,  H02J 13/0005,
+All groups listed in this Warning should be
+considered in order to perform a complete
+. . {characterised by transmission structure between
+the control or monitoring unit and the controlled
+Group H02J 13/0013 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups H02J 13/00 and H02J 13/00006.
+Groups H02J 13/0013,  H02J 13/00, and
+H02J 13/00006 should be considered in order
+. . . {with direct transmission between the control
+or monitoring unit and the controlled or
+Group H02J 13/0017 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 13/00007,
+H02J 13/0004, H02J 13/0005, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+. . . . {using a data transmission bus}
+Group H02J 13/0062 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 13/00016
+Groups H02J 13/0062, H02J 13/00016,
+and H02J 13/00017 should be considered
+in order to perform a complete search.
+Group H02J 13/0075 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 13/00022,
+H02J 13/00024, and H02J 13/00026.
+Groups H02J 13/0075, H02J 13/00022,
+H02J 13/00024, and H02J 13/00026
+should be considered in order to perform
+. . . {with transmission using an intermediate
+treatment level between the control or
+monitoring unit and the controlled or monitored
+Group H02J 13/0079 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 13/00,
+H02J 13/0005, and H02J 2213/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+. . . . {using the power network as transmission
+Group H02J 13/0082 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 2213/10,
+H02J 13/00007, H02J 13/00009, and
+Groups H02J 13/0082, H02J 2213/10,
+H02J 13/00007, H02J 13/00009, and
+H02J 13/0001 should be considered in
+order to perform a complete search.
+. . . {with transmission using plurality of
+intermediate treatment level between the
+control or monitoring unit and the controlled or
+Group H02J 13/0086 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 13/00,
+H02J 13/0005, and H02J 2213/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+. . . . {using the power network as transmission
+Group H02J 13/0089 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups H02J 2213/10,
+H02J 13/00007, H02J 13/00009, and
+Groups H02J 13/0089, H02J 2213/10,
+H02J 13/00007, H02J 13/00009, and
+H02J 13/0001 should be considered in
+order to perform a complete search.
+. {for AC networks with plurality frequencies}
+Group H02J 13/0093 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups H02J 3/02, H02J 13/00001,
+H02J 13/00002, H02J 13/00004, H02J 13/00006,
+H02J 13/00007, H02J 13/00009, H02J 13/0001,
+H02J 13/00012, H02J 13/00014, H02J 13/00016,
+H02J 13/00017, H02J 13/00018, H02J 13/00019,
+H02J 13/0002, H02J 13/00022, H02J 13/00024,
+H02J 13/00026, H02J 13/00028, H02J 13/00032,
+H02J 13/00034, H02J 13/00036,  H02J 13/0004,
+H02J 13/0005, and H02J 2213/10.
+All groups listed in this Warning should be
+considered in order to perform a complete
+. {for networks combining AC and DC power}
+Group H02J 13/0096 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups H02J 3/02, H02J 4/00,
+H02J 13/00001, H02J 13/00002, H02J 13/00004,
+H02J 13/00006, H02J 13/00007, H02J 13/00009,
+H02J 13/0001, H02J 13/00012, H02J 13/00014,
+H02J 13/00016, H02J 13/00017, H02J 13/00018,
+H02J 13/00019, H02J 13/0002, H02J 13/00022,
+H02J 13/00024, H02J 13/00026, H02J 13/00028,
+H02J 13/00032, H02J 13/00034, H02J 13/00036,
+H02J 13/0004, H02J 13/0005, and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   15/00    Systems for storing electric energy (mechanical
+systems therefor F01-F04; in chemical form H01M)
+Group H02J 15/00 is impacted by reclassification
+into groups H02J 15/007 and H02J 15/008.
+Groups H02J 15/00, H02J 15/007, and
+H02J 15/008 should be considered in order to
+   15/003   . {in the form of hydraulic energy}
+   15/006   . {in the form of pneumatic energy, e.g. compressed
+air energy storage [CAES] (accumulators for
+supplying fluid under pressure F15B 1/04)}
+   15/007   . {involving storage in the form of mechanical
+Group H02J 15/007 is incomplete pending
+reclassification of documents from group
+Groups H02J 15/00 and H02J 15/007 should
+be considered in order to perform a complete
+   15/008   . {using hydrogen as energy vector}
+Group H02J 15/008 is incomplete pending
+reclassification of documents from group
+Groups H02J 15/00 and H02J 15/008 should
+be considered in order to perform a complete
+   50/00    Circuit arrangements or systems for wireless
+supply or distribution of electric power
+In this main group, the specific types of wireless
+technology used for the power transmission
+are covered in groups H02J 50/05-H02J 50/30,
+while aspects relevant to the circuit arrangements
+or systems thereof are covered in groups
+Group H02J 50/00 is impacted by reclassification
+into groups H02J 50/001 and H02J 50/005.
+Groups H02J 50/00, H02J 50/001, and
+H02J 50/005 should be considered in order to
+   50/001   . {Energy harvesting or scavenging}
+Group H02J 50/001 is incomplete pending
+reclassification of documents from groups
+H02J 5/005, H02J 7/025, and H02J 50/00.
+Groups H02J 50/001, H02J 5/005, H02J 7/025,
+and H02J 50/00 should be considered in order to
+   50/005   . {Mechanical details of housing or structure aiming
+to accommodate the power transfer means, e.g.
+mechanical integration of coils, antennas or
+transducers into emitting or receiving devices}
+Group H02J 50/005 is incomplete pending
+reclassification of documents from groups
+H02J 5/005, H02J 7/025, and H02J 50/00.
+Groups H02J 50/005, H02J 5/005, H02J 7/025,
+and H02J 50/00 should be considered in order to
+   50/05    . using capacitive coupling
+   50/10    . using inductive coupling
+Group H02J 50/10 is incomplete pending
+reclassification of documents from groups
+Groups H02J 5/005, H02J 7/025, and H02J 50/10
+should be considered in order to perform a
+   50/12    . . of the resonant type
+Group H02J 50/12 is incomplete pending
+reclassification of documents from groups
+Groups H02J 5/005, H02J 7/025, and
+H02J 50/12 should be considered in order to
+   50/15    . using ultrasonic waves
+   50/20    . using microwaves or radio frequency waves
+   50/23    . . characterised by the type of transmitting antennas,
+e.g. directional array antennas or Yagi antennas
+   50/27    . . characterised by the type of receiving antennas,
+   50/30    . using light, e.g. lasers
+Group H02J 50/30 is incomplete pending
+reclassification of documents from groups
+Groups H02J 5/005, H02J 7/025, and H02J 50/30
+should be considered in order to perform a
+   50/40    . using two or more transmitting or receiving devices
+Group H02J 50/40 is incomplete pending
+reclassification of documents from groups
+Group H02J 50/40 is also impacted by
+reclassification into group H02J 50/402.
+Groups H02J 50/40, H02J 5/005 and H02J 7/025
+and H02J 50/402 should be considered in order
+   50/402   . . {the two or more transmitting or the two or
+more receiving devices being integrated in the
+same unit, e.g. power mats with several coils or
+antennas with several sub-antennas}
+Group H02J 50/402 is incomplete pending
+reclassification of documents from groups
+H02J 5/005, H02J 7/025, and H02J 50/40.
+Groups H02J 50/402, H02J 5/005, H02J 7/025,
+and H02J 50/40 should be considered in order
+   50/50    . using additional energy repeaters between
+transmitting devices and receiving devices
+Group H02J 50/50 is incomplete pending
+reclassification of documents from groups
+Group H02J 50/50 is also impacted by
+reclassification into group H02J 50/502.
+Groups H02J 50/50, H02J 5/005 and H02J 7/025
+should be considered in order to perform a
+   50/502   . . {the energy repeater being integrated together
+with the emitter or the receiver}
+Group H02J 50/502 is incomplete pending
+reclassification of documents from groups
+H02J 5/005, H02J 7/025, and H02J 50/50.
+Groups H02J 50/502, H02J 5/005, H02J 7/025,
+and H02J 50/50 should be considered in order
+   50/60    . responsive to the presence of foreign objects, e.g.
+Group H02J 50/60 is incomplete pending
+reclassification of documents from groups
+Groups H02J 5/005, H02J 7/025, and H02J 50/60
+should be considered in order to perform a
+   50/70    . involving the reduction of electric, magnetic or
+Group H02J 50/70 is incomplete pending
+reclassification of documents from groups
+Groups H02J 5/005, H02J 7/025, and H02J 50/70
+should be considered in order to perform a
+   50/80    . involving the exchange of data, concerning
+supply or distribution of electric power, between
+transmitting devices and receiving devices
+Group H02J 50/80 is incomplete pending
+reclassification of documents from groups
+Groups H02J 5/005, H02J 7/025, and H02J 50/80
+should be considered in order to perform a
+   50/90    . involving detection or optimisation of position, e.g.
+Group H02J 50/90 is incomplete pending
+reclassification of documents from groups
+Groups H02J 5/005, H02J 7/025, and H02J 50/90
+should be considered in order to perform a
+ 2203/00    Indexing scheme relating to details of circuit
+arrangements for AC mains or AC distribution
+ 2203/10    . Power transmission or distribution systems
+management focussing at grid-level, e.g. load
+flow analysis, node profile computation, meshed
+network optimisation, active network management
+Group H02J 2203/10 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 2203/10 should
+be considered in order to perform a complete
+ 2203/20    . Simulating, e g planning, reliability check,
+modelling or computer assisted design [CAD]
+Group H02J 2203/20 is incomplete pending
+reclassification of documents from group
+Groups H02J 13/0006 and H02J 2203/20 should
+be considered in order to perform a complete
+ 2207/00    Indexing scheme relating to details of circuit
+arrangements for charging or depolarising
+batteries or for supplying loads from batteries
+ 2207/10    . Control circuit supply, e.g. means for supplying
+ 2207/20    . Charging or discharging characterised by the power
+Group H02J 2207/20 is incomplete pending
+reclassification of documents from group
+Groups H02J 7/022 and H02J 2207/20 should
+be considered in order to perform a complete
+ 2207/30    . Charge provided using DC bus or data bus of a
+ 2207/40    . adapted for charging from various sources, e.g. AC,
+ 2207/50    . Charging of capacitors, supercapacitors, ultra-
+capacitors or double layer capacitors (using
+capacitors as storage or buffering device in
+cooperation with batteries H02J 7/345)
+ 2213/00    Indexing scheme relating to details of circuit
+arrangements for providing remote indication of
+network conditions of for circuit arrangements for
+providing remote control of switching means in a
+ 2213/10    . using simultaneously two or more different
+Group H02J 2213/10 is incomplete
+pending reclassification of documents from
+groups  H02J 13/0003, H02J 13/0006,
+H02J 13/0017, H02J 13/0079, H02J 13/0082,
+H02J 13/0086, H02J 13/0089, H02J 13/0093,
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2300/00    Systems for supplying or distributing electric
+power characterised by decentralized, dispersed,
+ 2300/10    . The dispersed energy generation being of fossil
+ 2300/20    . The dispersed energy generation being of renewable
+Group H02J 2300/20 is incomplete pending
+reclassification of documents from group
+Groups H02J 3/382 and H02J 2300/20 should
+be considered in order to perform a complete
+ 2300/22    . . The renewable source being solar energy
+Group H02J 2300/22 is incomplete pending
+reclassification of documents from group
+Groups H02J 3/382 and H02J 2300/22 should
+be considered in order to perform a complete
+ 2300/24    . . . of photovoltaic origin
+Group H02J 2300/24 is incomplete pending
+reclassification of documents from group
+Groups H02J 3/383 and H02J 2300/24
+should be considered in order to perform a
+ 2300/26    . . . . involving maximum power point tracking
+control for photovoltaic sources (maximum
+power point systems in particular G05F 1/67)
+Group H02J 2300/26 is incomplete
+pending reclassification of documents
+Groups H02J 3/385 and H02J 2300/26
+should be considered in order to perform
+ 2300/28    . . The renewable source being wind energy (wind
+Group H02J 2300/28 is incomplete pending
+reclassification of documents from group
+Groups H02J 3/386 and H02J 2300/28 should
+be considered in order to perform a complete
+ 2300/30    . The power source being a fuel cell
+Group H02J 2300/30 is incomplete pending
+reclassification of documents from group
+Groups H02J 3/387 and H02J 2300/30 should
+be considered in order to perform a complete
+ 2300/40    . wherein a plurality of decentralised, dispersed or
+local energy generation technologies are operated
+ 2310/00    The network for supplying or distributing electric
+power characterised by its spatial reach or by the
+ 2310/10    . The network having a local or delimited stationary
+ 2310/12    . . The local stationary network supplying a
+ 2310/14    . . . The load or loads being home appliances
+ 2310/16    . . . The load or loads being an Information and
+Communication Technology [ICT] facility
+ 2310/18    . . The network being internal to a power source or
+ 2310/20    . . The network being internal to a load
+ 2310/22    . . . The load being a portable electronic device
+Group H02J 2310/22 is incomplete pending
+reclassification of documents from group
+Groups H02J 7/0027 and H02J 2310/22
+should be considered in order to perform a
+ 2310/23    . . . The load being a medical device, a medical
+implant, or a life supporting device
+ 2310/40    . The network being an on-board power network, i.e.
+Group H02J 2310/40 is incomplete pending
+reclassification of documents from group
+Groups H02J 7/0027 and H02J 2310/40 should
+be considered in order to perform a complete
+ 2310/42    . . for ships or vessels
+Group H02J 2310/42 is incomplete pending
+reclassification of documents from group
+Groups H02J 7/0027 and H02J 2310/42 should
+be considered in order to perform a complete
+Group H02J 2310/44 is incomplete pending
+reclassification of documents from group
+Groups H02J 7/0027 and H02J 2310/44 should
+be considered in order to perform a complete
+ 2310/46    . . for ICE-powered road vehicles
+Group H02J 2310/46 is incomplete pending
+reclassification of documents from group
+Groups H02J 7/0027 and H02J 2310/46 should
+be considered in order to perform a complete
+ 2310/48    . . for electric vehicles [EV] or hybrid vehicles
+Group H02J 2310/48 is incomplete pending
+reclassification of documents from group
+Groups H02J 7/0027 and H02J 2310/48 should
+be considered in order to perform a complete
+ 2310/50    . for selectively controlling the operation of the loads
+ 2310/52    . . The controlling of the operation of the load not
+being the total disconnection of the load, i.e.
+entering a degraded mode or in current limitation
+ 2310/54    . . according to a pre-established time schedule
+ 2310/56    . . characterised by the condition upon which the
+ 2310/58    . . . The condition being electrical
+ 2310/60    . . . . Limiting power consumption in the network
+or in one section of the network, e.g. load
+ 2310/62    . . . The condition being non-electrical, e.g.
+ 2310/64    . . . . The condition being economic, e.g. tariff
+ 2310/66    . . one of the loads acting as master and the other or
+ 2310/70    . Load identification

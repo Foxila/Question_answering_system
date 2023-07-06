@@ -1,0 +1,270 @@
+COOPERATIVE PATENT CLASSIFICATION
+1. In this subclass, the term "adjustable" means mechanically adjustable.
+2. Variable resistors, the value of which is changed non-mechanically, e.g. by voltage or temperature, are classified in group
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/01    . Mounting; Supporting
+    1/012   . . the base extending along and imparting rigidity
+or reinforcement to the resistive element
+(H01C 1/016 takes precedence; the resistive
+element being formed in two or more coils or
+loops as a spiral, helical or toroidal winding
+H01C 3/18, H01C 3/20; the resistive element
+being formed as one or more layers or coatings on
+    1/014   . . the resistor being suspended between and
+being supported by two supporting sections
+    1/016   . . with compensation for resistor expansion or
+    1/02    . Housing; Enclosing; Embedding; Filling the
+    1/022   . . the housing or enclosure being openable or
+separable from the resistive element
+    1/024   . . the housing or enclosure being hermetically
+sealed (H01C 1/028, H01C 1/032, H01C 1/034
+    1/026   . . . with gaseous or vacuum spacing between the
+resistive element and the housing or casing
+    1/028   . . the resistive element being embedded in
+insulation with outer enclosing sheath
+    1/03    . . . with powdered insulation
+    1/032   . . plural layers surrounding the resistive element
+    1/034   . . the housing or enclosure being formed as coating
+or mould without outer sheath (H01C 1/032 takes
+    1/036   . . . on wound resistive element
+    1/04    . Arrangements of distinguishing marks, e.g. colour
+    1/06    . Electrostatic or electromagnetic shielding
+    1/08    . Cooling, heating or ventilating arrangements
+    1/082   . . using forced fluid flow
+    1/084   . . using self-cooling, e.g. fins, heat sinks
+    1/12    . Arrangements of current collectors
+    1/125   . . of fluid contacts
+    1/14    . Terminals or tapping points {or electrodes}
+specially adapted for resistors (in general H01R);
+Arrangements of terminals or tapping points {or
+    1/1406  . . {Terminals or electrodes formed on resistive
+elements having positive temperature coefficient}
+    1/1413  . . {Terminals or electrodes formed on resistive
+elements having negative temperature
+    1/142   . . the terminals or tapping points being coated on
+    1/144   . . the terminals or tapping points being welded or
+    1/146   . . the resistive element surrounding the terminal
+    1/148   . . the terminals embracing or surrounding the
+resistive element (H01C 1/142 takes precedence)
+    1/16    . Resistor networks not otherwise provided for
+    3/00    Non-adjustable metal resistors made of wire or
+ribbon, e.g. coiled, woven or formed as grids
+    3/005   . {Metallic glasses therefor}
+    3/02    . arranged or constructed for reducing self-induction,
+capacitance or variation with frequency
+    3/04    . Iron-filament ballast resistors; Other resistors
+having variable temperature coefficient
+    3/06    . Flexible or folding resistors, whereby such a resistor
+can be looped or collapsed upon itself
+    3/08    . Dimension or characteristic of resistive element
+changing gradually or in discrete steps from one
+    3/10    . the resistive element having zig-zag or sinusoidal
+    3/12    . . lying in one plane
+    3/14    . the resistive element being formed in two or more
+coils or loops continuously wound as a spiral,
+helical or toroidal winding (H01C 3/02 - H01C 3/12
+    3/16    . . including two or more distinct wound elements or
+    3/18    . . wound on a flat or ribbon base (H01C 3/16 takes
+    3/20    . . wound on cylindrical or prismatic base
+    7/00    Non-adjustable resistors formed as one or more
+layers or coatings; Non-adjustable resistors made
+from powdered conducting material or powdered
+semi-conducting material with or without
+insulating material (consisting of loose powdered
+or granular material H01C 8/00 {; measuring
+deformation in a solid state using the change in
+resistance formed by printed-circuit technique
+G01B 7/20; insulating materials H01B 3/00; passive
+thin-film or thick-film semiconductor or solid
+state devices H01L 27/00; resistors without a
+potential-jump or surface barrier specially adapted
+for integrated circuits, details thereof, multistep
+manufacturing processes therefor H01L 28/20};
+resistors with a potential-jump barrier or surface
+barrier, e.g. field effect resistors H01L 29/00;
+semiconductor devices sensitive to electromagnetic or
+corpuscular radiation, e.g. photoresistors, H01L 31/00
+{; ohmic resistance heating H05B 3/00; printed
+circuits H05K}; devices using galvanomagnetic
+or similar magnetic effects, e.g. magnetic-field-
+controlled resistors, H10N 50/00; devices using
+superconductivity H10N 60/00; solid state devices
+for rectifying, amplifying, oscillating or switching
+without a potential-jump barrier or surface barrier
+H10N 70/00; bulk negative resistance effect devices
+    7/003   . {Thick film resistors}
+    7/005   . . {Polymer thick films}
+    7/006   . {Thin film resistors}
+    7/008   . {Thermistors (H01C 7/02 - H01C 7/06 take
+    7/02    . having positive temperature coefficient {(ceramics
+    7/021   . . {formed as one or more layers or coatings}
+    7/022   . . {mainly consisting of non-metallic substances
+    7/023   . . . {containing oxides or oxidic compounds, e.g.
+    7/025   . . . . {Perovskites, e.g. titanates}
+    7/026   . . . . {Vanadium oxides or oxidic compounds, e.g.
+    7/027   . . {consisting of conducting or semi-conducting
+material dispersed in a non-conductive organic
+    7/028   . . {consisting of organic substances}
+    7/04    . having negative temperature coefficient
+{(thermometers using resistive elements
+{In groups H01C 7/043 - H01C 7/049, the
+last place priority rule is applied, i.e. at each
+hierarchical level, in the absence of an indication
+to the contrary, classification is made in the last
+    7/041   . . {formed as one or more layers or coatings}
+    7/042   . . {mainly consisting of inorganic non-metallic
+substances (H01C 7/041 takes precedence)}
+    7/043   . . . {Oxides or oxidic compounds}
+    7/044   . . . . {Zinc or cadmium oxide}
+    7/045   . . . . {Perovskites, e.g. titanates}
+    7/046   . . . . {Iron oxides or ferrites}
+    7/047   . . . . {Vanadium oxides or oxidic compounds, e.g.
+    7/048   . . . {Carbon or carbides}
+    7/049   . . {mainly consisting of organic or organo-metal
+substances (H01C 7/041 takes precedence)}
+    7/06    . including means to minimise changes in resistance
+    7/10    . voltage responsive, i.e. varistors
+    7/1006  . . {Thick film varistors}
+    7/1013  . . {Thin film varistors}
+    7/102   . . Varistor boundary, e.g. surface layers (H01C 7/12
+    7/105   . . Varistor cores (H01C 7/12 takes precedence)
+    7/115   . . . . Titanium dioxide- or titanate type
+    7/118   . . . Carbide, e.g. SiC type
+    7/12    . . Overvoltage protection resistors {(series
+resistors structurally associated with spark gaps
+    7/123   . . . {Arrangements for improving potential
+    7/126   . . . {Means for protecting against excessive
+pressure or for disconnecting in case of failure}
+    7/13    . current responsive
+Groups H01C 7/02 - H01C 7/13 take precedence
+over groups H01C 7/18 - H01C 7/22.
+    7/18    . comprising a plurality of layers stacked between
+    7/20    . the resistive layer or coating being tapered
+    7/22    . Elongated resistive element being bent or curved,
+    8/00    Non-adjustable resistors consisting of loose
+powdered or granular conducting, or powdered or
+granular semi-conducting material
+    8/02    . Coherers or like imperfect resistors for detecting
+    8/04    . Overvoltage protection resistors; Arresters
+   10/00    Adjustable resistors
+   10/005   . {Surface mountable, e.g. chip trimmer
+   10/025   . . {Electrochemical variable resistors (trimming
+resistors by electrolytic treatment H01C 17/2412,
+   10/04    . with specified mathematical relationship between
+movement of resistor actuating means and value
+of resistance, other than direct proportional
+   10/06    . adjustable by short-circuiting different amounts of
+   10/08    . . with intervening conducting structure between the
+resistive element and the short-circuiting means,
+   10/10    . adjustable by mechanical pressure or force
+   10/103   . . {by using means responding to magnetic or
+electric fields, e.g. by addition of magnetisable or
+piezoelectric particles to the resistive material, or
+by an electromagnetic actuator}
+   10/106   . . {on resistive material dispersed in an elastic
+material (H01C 10/103 and H01C 10/12 take
+precedence; for electric switches H01H 1/029)}
+   10/12    . . by changing surface pressure between resistive
+masses or resistive and conductive masses, e.g.
+   10/14    . adjustable by auxiliary driving means
+   10/16    . including plural resistive elements
+   10/18    . . including coarse and fine resistive elements
+   10/20    . . Contact structure or movable resistive elements
+   10/22    . resistive element dimensions changing gradually
+in one direction, e.g. tapered resistive element
+   10/23    . resistive element dimensions changing in a series of
+   10/24    . the contact moving along turns of a helical resistive
+   10/26    . resistive element moving (H01C 10/16, H01C 10/24
+   10/28    . the contact rocking or rolling along resistive
+   10/30    . the contact sliding along resistive element
+   10/301   . . {consisting of a wire wound resistor}
+   10/303   . . . {the resistor being coated, e.g. lubricated,
+conductive plastic coated, i.e. hybrid
+   10/305   . . {consisting of a thick film}
+   10/306   . . . {Polymer thick film, i.e. PTF}
+   10/308   . . {consisting of a thin film}
+   10/32    . . the contact moving in an arcuate path
+   10/34    . . . the contact or the associated conducting
+structure riding on collector formed as a ring or
+   10/345   . . . . {the collector and resistive track being
+   10/36    . . . structurally combined with switching
+   10/363   . . . . {by axial movement of the spindle, e.g.
+pull-push switch (H01C 10/366 takes
+   10/366   . . . . {using an electromagnetic actuator}
+   10/38    . . the contact moving along a straight path
+   10/40    . . . screw operated
+   10/42    . . . . the contact bridging and sliding along
+resistive element and parallel conducting bar
+   10/44    . . . the contact bridging and sliding along resistive
+element and parallel conducting bar or collector
+   10/46    . Arrangements of fixed resistors with intervening
+connectors, e.g. taps (H01C 10/28, H01C 10/30 take
+   10/48    . . including contact movable in an arcuate path
+   10/50    . structurally combined with switching arrangements
+   11/00    Non-adjustable liquid resistors
+   13/00    Resistors not provided for elsewhere
+   13/02    . Structural combinations of resistors (impedance
+   17/00    Apparatus or processes specially adapted for
+manufacturing resistors (providing fillings
+for housings or enclosures H01C 1/02; reducing
+insulation surrounding a resistor to powder
+H01C 1/03; manufacture of thermally variable
+resistors H01C 7/02, H01C 7/04)
+   17/003   . {using lithography, e.g. photolithography
+(lithographic compositions and processing in
+   17/006   . {adapted for manufacturing resistor chips}
+   17/02    . adapted for manufacturing resistors with envelope
+   17/04    . adapted for winding the resistive element
+   17/06    . adapted for coating resistive material on a base
+   17/065   . . by thick film techniques, e.g. serigraphy
+   17/06506 . . . {Precursor compositions therefor, e.g. pastes,
+   17/06513 . . . . {characterised by the resistive component}
+   17/0652  . . . . . {containing carbon or carbides}
+   17/06526 . . . . . {composed of metals}
+   17/06533 . . . . . {composed of oxides}
+   17/0654  . . . . . . {Oxides of the platinum group}
+   17/06546 . . . . . . {Oxides of zinc or cadmium}
+   17/06553 . . . . . {composed of a combination of metals and
+   17/0656  . . . . . {composed of silicides (H01C 17/0652
+   17/06566 . . . . . {composed of borides (H01C 17/0652
+   17/06573 . . . . {characterised by the permanent binder}
+   17/0658  . . . . . {composed of inorganic material}
+   17/06586 . . . . . {composed of organic material}
+   17/06593 . . . . {characterised by the temporary binder}
+   17/07    . . by resistor foil bonding, e.g. cladding
+   17/075   . . by thin film techniques {(H01C 17/20 takes
+   17/08    . . . by vapour deposition
+   17/10    . . . by flame spraying
+   17/12    . . . by sputtering
+   17/14    . . . by chemical deposition
+   17/16    . . . . using electric current
+   17/18    . . . . without using electric current
+   17/20    . . by pyrolytic processes
+   17/22    . adapted for trimming
+   17/23    . . by opening or closing resistor geometric tracks of
+predetermined resistive values, {e.g. snapistors}
+   17/232   . . Adjusting the temperature coefficient; Adjusting
+value of resistance by adjusting temperature
+   17/235   . . Initial adjustment of potentiometer parts for
+   17/24    . . by removing or adding resistive material
+(H01C 17/23, H01C 17/232, H01C 17/235 take
+   17/2404  . . . {by charged particle impact, e.g. by electron or
+ion beam milling, sputtering, plasma etching}
+   17/2408  . . . {by pulsed voltage erosion, e.g. spark erosion}
+   17/2412  . . . {by electrolytic treatment, e.g. electroplating
+(for anodic oxydation H01C 17/262)}
+   17/2416  . . . {by chemical etching}
+   17/242   . . . by laser {(trimming by laser in general
+   17/245   . . . by mechanical means, e.g. sand blasting,
+   17/26    . . by converting resistive material
+   17/262   . . . {by electrolytic treatment, e.g. anodic
+   17/265   . . . {by chemical or thermal treatment, e.g.
+oxydation, reduction, annealing (etching
+   17/267   . . . . {by passage of voltage pulses or electric
+   17/28    . adapted for applying terminals
+   17/281   . . {by thick film techniques}
+   17/283   . . . {Precursor compositions therefor, e.g. pastes,
+   17/285   . . . . {applied to zinc or cadmium oxide resistors}
+   17/286   . . . . {applied to TiO2 or titanate resistors}
+   17/288   . . {by thin film techniques}
+   17/30    . adapted for baking

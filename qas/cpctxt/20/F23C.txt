@@ -1,0 +1,232 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+COMBUSTION APPARATUS; COMBUSTION PROCESSES
+METHODS OR APPARATUS FOR COMBUSTION USING FLUID FUEL OR SOLID
+FUEL SUSPENDED IN  {A CARRIER GAS OR} AIR  (burners F23D)
+In this subclass, methods are classified in the groups that cover the apparatus used.
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Combustion apparatus specially adapted
+for combustion of two or more kinds of fuel
+simultaneously or alternately, at least one kind
+of fuel being either a fluid fuel or a solid fuel
+suspended in {a carrier gas or} air (combustion
+apparatus characterized by the combination of two or
+more combustion chambers F23C 6/00; pilot flame
+    1/02    . lump and liquid fuel
+    1/04    . lump and gaseous fuel
+    1/06    . lump and pulverulent fuel
+    1/08    . liquid and gaseous fuel
+    1/10    . liquid and pulverulent fuel
+    1/12    . gaseous and pulverulent fuel
+    3/00    Combustion apparatus characterised by the shape
+    3/002   . {the chamber having an elongated tubular form, e.g.
+    3/004   . {the chamber being arranged for submerged
+combustion (F23C 3/002 takes precedence)}
+    3/006   . {the chamber being arranged for cyclonic
+combustion (for waste F23G 5/32)}
+    3/008   . . {for pulverulent fuel}
+    5/00    Disposition of burners with respect to the
+combustion chamber or to one another; Mounting
+of burners in combustion apparatus (F23C 1/00,
+    5/02    . Structural details of mounting
+    5/06    . . Provision for adjustment of burner position
+    5/08    . Disposition of burners
+    5/10    . . {to obtain a flame ring}
+    5/12    . . . {for pulverulent fuel}
+    5/14    . . to obtain a single flame of concentrated or
+substantially planar form, e.g. pencil or sheet
+flame (F23C 5/32 takes precedence)
+    5/24    . . to obtain a loop flame
+    5/28    . . to obtain flames in opposing directions, e.g.
+    5/32    . . to obtain rotating flames, i.e. flames moving
+    6/00    Combustion apparatus characterised by the
+combination of two or more combustion chambers
+{or combustion zones, e.g. for staged combustion}
+    6/02    . in parallel arrangement
+    6/04    . in series connection (consuming smoke or fumes in
+separate combustion apparatus F23G 7/06)
+    6/042   . . {with fuel supply in stages (for staged
+    6/045   . . {with staged combustion in a single enclosure}
+    6/047   . . . {with fuel supply in stages}
+    7/00    Combustion apparatus characterised by
+arrangements for air supply (inlets for fluidisation
+air F23C 10/20; baffles or shields with air supply
+    7/002   . {the air being submitted to a rotary or spinning
+motion (cyclonic combustion chamber
+    7/008   . {Flow control devices (F23C 7/006 takes
+    7/02    . Disposition of air supply not passing through burner
+(to obtain a cyclonic tapering flame when burning
+    7/04    . . to obtain maximum heat transfer to wall of
+    7/06    . . for heating the incoming air (arrangements of
+regenerators and recuperators F23L 15/00)
+    7/08    . . . indirectly by a secondary fluid other than the
+    9/00    Combustion apparatus characterised by
+arrangements for returning combustion products
+or flue gases to the combustion chamber
+(fluidised bed combustion apparatus with means
+for recirculation of particles entrained from the bed
+F23C 10/02; fluidised bed combustion apparatus
+with devices for removal and partial reintroduction of
+material from the bed F23C 10/26)
+    9/003   . {for pulverulent fuel (for fluidized bed
+    9/006   . {the recirculation taking place in the combustion
+    9/06    . for completing combustion
+    9/08    . for reducing temperature in combustion chamber,
+e.g. for protecting walls of combustion chamber
+   10/00    Fluidised bed combustion apparatus
+   10/002   . {for pulverulent solid fuel
+(F23C 10/005 - F23C 10/32 take precedence)}
+   10/005   . {comprising two or more beds}
+   10/007   . {comprising a rotating bed}
+   10/01    . in a fluidised bed of catalytic particles
+   10/02    . with means specially adapted for achieving or
+promoting a circulating movement of particles
+within the bed or for a recirculation of particles
+   10/04    . . the particles being circulated to a section, e.g. a
+heat-exchange section or a return duct, at least
+partially shielded from the combustion zone,
+before being reintroduced into the combustion
+   10/06    . . . the circulating movement being promoted by
+inducing differing degrees of fluidisation in
+   10/08    . . . characterised by the arrangement of separation
+apparatus, e.g. cyclones, for separating particles
+   10/10    . . . . the separation apparatus being located
+   10/12    . . the particles being circulated exclusively within
+   10/14    . . . the circulating movement being promoted by
+inducing differing degrees of fluidisation in
+   10/16    . specially adapted for operation at superatmospheric
+pressures, e.g. by the arrangement of the
+combustion chamber and its auxiliary systems
+   10/18    . Details; Accessories
+   10/20    . . Inlets for fluidisation air, e.g. grids; Bottoms
+   10/22    . . Fuel feeders specially adapted for fluidised
+bed combustion apparatus (F23C 10/26 takes
+   10/24    . . Devices for removal of material from the bed
+(devices for controlling the level of the bed or the
+amount of material in the bed F23C 10/30)
+   10/26    . . . combined with devices for partial
+reintroduction of material into the bed, e.g.
+after separation of agglomerated parts
+   10/28    . . Control devices specially adapted for fluidised
+   10/30    . . . for controlling the level of the bed or the
+   10/32    . . . . by controlling the rate of recirculation of
+particles separated from the flue gases
+   13/00    Apparatus in which combustion takes place in the
+presence of catalytic material (in a fluidised bed of
+catalytic particles F23C 10/01; radiant gas burners
+using catalysis for flameless combustion F23D 14/18)
+   13/02    . characterised by arrangements for starting the
+operation, e.g. for heating the catalytic material to
+   13/04    . characterised by arrangements of two or more
+catalytic elements in series connection
+   13/06    . in which non-catalytic combustion takes place in
+addition to catalytic combustion, e.g. downstream of
+   13/08    . characterised by the catalytic material
+   15/00    Apparatus in which combustion takes place in
+pulses influenced by acoustic resonance in a gas
+mass {(for generating combustion products of high
+pressure or high velocity F23R 7/00; starting devices
+   99/00    Subject-matter not provided for in other groups of
+   99/001   . {Applying electric means or magnetism to
+combustion (for combustion engines F02B 51/04,
+   99/003   . {Combustion process using sound or vibrations
+(for combustion engines F02B 51/06, F02M 27/08;
+liquid fuel burners using ultrasonic means for
+   99/005   . {Suspension-type burning, i.e. fuel particles carried
+along with a gas flow while burning (fluidized-bed
+combustion apparatus F23C 10/00)}
+   99/006   . {Flameless combustion stabilised within a bed of
+porous heat-resistant material (F23C 13/00 takes
+precedence; gas burners with radiant combustion on
+   99/008   . {Combustion methods wherein flame cooling
+techniques other than fuel or air staging or fume
+ 2200/00    Combustion techniques for fluent fuel
+ 2201/101   . . in vertical direction, e.g. alternating lean and rich
+ 2201/102   . . in horizontal direction
+ 2201/30    . Staged fuel supply
+ 2201/301   . . with different fuels in stages
+ 2201/40    . Intermediate treatments between stages
+ 2202/00    Fluegas recirculation
+ 2202/10    . Premixing fluegas with fuel and combustion air
+ 2202/20    . Premixing fluegas with fuel
+ 2202/30    . Premixing fluegas with combustion air
+ 2202/40    . Inducing local whirls around flame
+ 2202/50    . Control of recirculation rate
+ 2203/00    Flame cooling methods otherwise than by staging
+ 2203/10    . using heat exchanger
+ 2203/20    . using heat absorbing device in flame (F23C 2203/10
+ 2203/30    . Injection of tempering fluids
+ 2205/00    Pulsating combustion
+ 2205/10    . with pulsating fuel supply
+ 2205/20    . with pulsating oxidant supply
+ 2206/00    Fluidised bed combustion
+ 2206/10    . Circulating fluidised bed
+ 2206/101   . . Entrained or fast fluidised bed
+ 2206/102   . . Control of recirculation rate
+ 2206/103   . . Cooling recirculating particles
+ 2700/00    Special arrangements for combustion apparatus
+ 2700/02    . Combustion apparatus using liquid fuel
+ 2700/023   . . without pre-vaporising means
+ 2700/026   . . with pre-vaporising means
+ 2700/04    . Combustion apparatus using gaseous fuel
+ 2700/043   . . for surface combustion
+ 2700/046   . . generating heat by heating radiant bodies
+ 2700/06    . Combustion apparatus using pulverized fuel
+ 2700/063   . . Arrangements for igniting, flame-guiding, air
+ 2700/066   . . Other special arrangements
+ 2900/00    Special features of, or arrangements for
+combustion apparatus using fluid fuels or solid
+fuels suspended in air; Combustion processes
+ 2900/01001 . Co-combustion of biomass with coal
+ 2900/03001 . Miniaturized combustion devices using fluid fuels
+ 2900/03002 . Combustion apparatus adapted for incorporating a
+ 2900/03003 . Annular combustion chambers (for gas turbines
+ 2900/03004 . Tubular combustion chambers with swirling fuel/air
+ 2900/03005 . Burners with an internal combustion chamber, e.g.
+for obtaining an increased heat release, a high speed
+jet flame or being used for starting the combustion
+ 2900/03006 . Reverse flow combustion chambers
+ 2900/03007 . Sealed combustion chambers with balanced flue
+ 2900/03008 . Spherical or bulb-shaped combustion chambers
+ 2900/03009 . Elongated tube-shaped combustion chambers
+ 2900/05081 . Disposition of burners relative to each other creating
+ 2900/05082 . Disposition of radial jet burners in relation to an
+impingement surface, e.g. a heat transfer surface, to
+obtain flame re-attachment combustion
+ 2900/06041 . Staged supply of oxidant
+ 2900/06042 . Annular arrangement of burners in a furnace, e.g. in
+a gas turbine, operated in alternate lean-rich mode
+ 2900/06043 . Burner staging, i.e. radially stratified flame core
+ 2900/07001 . Air swirling vanes incorporating fuel injectors
+ 2900/07002 . Premix burners with air inlet slots obtained between
+offset curved wall surfaces, e.g. double cone burners
+ 2900/07021 . Details of lances
+ 2900/07022 . Delaying secondary air introduction into the flame
+by using a shield or gas curtain
+ 2900/09001 . Cooling flue gas before returning them to flame or
+ 2900/09002 . Specific devices inducing or forcing flue gas
+ 2900/10001 . Use of special materials for the fluidized bed
+ 2900/10002 . Treatment devices for the fluidizing gas, e.g.
+ 2900/10003 . Fluidized beds with expanding freeboard, i.e. cross-
+ 2900/10004 . Adding inert bed material to maintain proper
+ 2900/10005 . Arrangement comprising two or more beds in
+ 2900/10006 . Pressurized fluidized bed combustors
+ 2900/10007 . Spouted fluidized bed combustors
+ 2900/10008 . Special arrangements of return flow seal valve in
+ 2900/13001 . Details of catalytic combustors
+ 2900/13002 . Catalytic combustion followed by a homogeneous
+combustion phase or stabilizing a homogeneous
+ 2900/99001 . Cold flame combustion or flameless oxidation
+ 2900/99003 . Combustion techniques using laser or light beams
+as ignition, stabilization or combustion enhancing
+ 2900/99004 . Combustion process using petroleum coke or any
+other fuel with a very low content in volatile matters
+ 2900/99005 . Combustion techniques using plasma gas
+ 2900/99006 . Arrangements for starting combustion
+ 2900/99008 . Unmixed combustion, i.e. without direct mixing of
+oxygen gas and fuel, but using the oxygen from a
+ 2900/99009 . Combustion process using vegetable derived fuels,
+ 2900/9901  . Combustion process using hydrogen, hydrogen
+peroxide water or brown gas as fuel
+ 2900/99011 . Combustion process using synthetic gas as a fuel,

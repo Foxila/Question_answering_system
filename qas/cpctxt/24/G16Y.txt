@@ -1,0 +1,43 @@
+COOPERATIVE PATENT CLASSIFICATION
+INFORMATION AND COMMUNICATION TECHNOLOGY [ICT] SPECIALLY
+ADAPTED FOR SPECIFIC APPLICATION FIELDS
+INFORMATION AND COMMUNICATION TECHNOLOGY SPECIALLY ADAPTED
+FOR THE INTERNET OF THINGS [IoT]
+1. This subclass covers inter-networking of physical objects ("things") that embed technology enabling the things to sense and
+collect information from their internal state or their external environment, wherein the information is processed by the things
+or by other devices, e.g. servers, to be output to the things, to other things or to other devices, and enabling these things to be
+connected to the Internet either directly or indirectly.
+• "Directly connected to Internet" means that a thing possesses a network address of the Internet address space, which is
+used to communicate over the Internet.
+• "Indirectly connected to Internet" means that a thing is connected to a proxy device, which possesses a network address of
+the Internet address space and which communicates over the Internet on behalf of the thing.
+• A network address of the Internet address space is an address uniquely identifying a device in the Internet.
+2. This subclass does not cover:
+• Mere monitoring, e.g. security cameras, or mere controlling, e.g. remote control arrangements.
+• Generic computing and communicating devices, e.g. computers or telephones
+3. This subclass is intended to enable a complementary search of subject matter related to IoT by combination of classification
+symbols of this subclass with classification symbols from other subclasses. Therefore this subclass covers aspects of IoT (e.g.
+detection or navigation) that might also be entirely or partially covered elsewhere in the IPC.
+4. This subclass is for obligatory supplementary classification of subject matter already classified as such in other classification
+places, when the subject matter contains an aspect of IoT.
+5. The classification symbols of this subclass are not listed first when assigned to patent documents.
+6. No systematic reclassification was done when this subclass was introduced. When searching using the symbols of this
+subclass it should be noted that many documents published before 2020 are not classified in subclass G16Y.
+   10/35    . Utilities, e.g. electricity, gas or water
+   10/50    . Finance; Insurance
+   10/60    . Healthcare; Welfare
+   10/65    . Entertainment or amusement; Sports
+   10/75    . Information technology; Communication
+   20/00    Information sensed or collected by the things
+   20/10    . relating to the environment, e.g. temperature;
+   20/20    . relating to the thing itself
+   20/30    . relating to resources, e.g. consumed power
+   20/40    . relating to personal data, e.g. biometric data, records
+   40/00    IoT characterised by the purpose of the
+   40/10    . Detection; Monitoring
+   40/20    . Analytics; Diagnosis
+   40/35    . . Management of things, i.e. controlling in
+accordance with a policy or in order to achieve
+   40/40    . Maintenance of things
+   40/50    . Safety; Security of things, users, data or systems
+   40/60    . Positioning; Navigation

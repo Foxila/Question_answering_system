@@ -1,0 +1,384 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+MACHINES OR ENGINES IN GENERAL; ENGINE PLANTS IN GENERAL; STEAM
+NON-POSITIVE DISPLACEMENT MACHINES OR ENGINES, e.g. STEAM
+TURBINES (machines or engines for liquids F03; non-positive displacement pumps F04D)
+• non-positive-displacement engines for elastic fluids, e.g. steam turbines;
+• non-positive-displacement engines for liquids and elastic fluids;
+• non-positive-displacement machines for elastic fluids;
+• non-positive-displacement machines for liquids and elastic fluids.
+2. Attention is drawn to the Notes preceding class F01, especially as regards the definitions of "reaction type", e.g. with airfoil-
+like blades, and "impulse type", e.g. bucket turbines.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Non-positive-displacement machines or engines,
+e.g. steam turbines (wit working-fluid flows in
+opposite axial directions for balancing axial thrust
+F01D 3/02; with other than pure rotation F01D 23/00;
+turbines characterised by their use in special steam
+systems, cycles, or processes, regulating devices
+    1/02    . with stationary working-fluid guiding means and
+bladed or like rotor, {e.g. multi-bladed impulse
+steam turbines}(F01D 1/24 takes precedence;
+without stationary working-fluid guiding means
+    1/023   . . {the working-fluid being divided into several
+separate flows (F01D 3/02 takes precedence);
+several separate fluid flows being united in
+a single flow; the machine or engine having
+provision for two or more different possible fluid
+    1/026   . . {Impact turbines with buckets, i.e. impulse
+turbines, e.g. Pelton turbines (F01D 1/16,
+    1/04    . . traversed by the working-fluid substantially
+    1/06    . . traversed by the working-fluid substantially
+    1/08    . . . having inward flow
+    1/10    . . having two or more stages subjected to working-
+fluid flow without essential intermediate pressure
+change, i.e. with velocity stages (F01D 1/12 takes
+    1/12    . . with repeated action on same blade ring
+    1/14    . . . traversed by the working-fluid substantially
+    1/16    . . characterised by having both reaction stages and
+    1/18    . without stationary working-fluid guiding
+means; (F01D 1/24, F01D 1/32, F01D 1/34 take
+precedence; {with pressure-velocity transformation
+exclusively in rotor F01D 1/32})
+    1/20    . . traversed by the working-fluid substantially
+    1/22    . . traversed by the working-fluid substantially
+    1/24    . characterised by counter-rotating rotors subjected
+to same working fluid stream without intermediate
+    1/26    . . traversed by the working-fluid substantially
+    1/28    . . traversed by the working-fluid substantially
+    1/30    . characterised by having a single rotor operable
+in either direction of rotation, e.g. by reversing
+of blades (combinations of machines or engines
+    1/32    . with pressure velocity transformation exclusively
+in rotor, e.g. the rotor rotating under the influence
+of jets issuing from the rotor, {e.g. Heron turbines
+(the working fluid being a combustion products
+F02C 3/165; jet propulsion plants per se F02K)}
+    1/34    . characterised by non-bladed rotor, e.g. with
+drilled holes (F01D 1/32 takes precedence; sirens
+G10K 7/00 {; impact turbines with buckets
+F01D 1/026; hand-held tools with a non-bladed
+    1/36    . . using fluid friction
+    1/38    . . of the screw type
+    3/00    Machines or engines with axial-thrust balancing
+    3/02    . characterised by having one fluid flow in one axial
+direction and another fluid flow in the opposite
+    3/025   . . {with a centrally disposed radial stage}
+    3/04    . axial thrust being compensated by thrust-balancing
+    5/00    Blades; Blade-carrying members (nozzle boxes
+F01D 9/02); Heating, heat-insulating, cooling or
+antivibration means on the blades or the members
+{(special arrangements in rotors dealing with breaking
+off of part thereof F01D 21/045)}
+    5/005   . {Repairing methods or devices}
+    5/02    . Blade-carrying members, e.g. rotors (rotors of
+non-bladed type F01D 1/34; stators F01D 9/00 {;
+selecting particular materials F01D 5/28})
+    5/021   . . {for flow machines or engines with only one axial
+stage (for more than one stage F01D 5/06)}
+    5/022   . . {with concentric rows of axial blades}
+    5/023   . . {of the screw type}
+    5/025   . . {Fixing blade carrying members on shafts
+(attachment of a member on a shaft in general
+F16D 1/06; for non-positive displacement pumps
+    5/026   . . {Shaft to shaft connections}
+    5/027   . . {Arrangements for balancing (for balancing
+rotating bodies in general F16F 15/32; for
+compensating unbalance G01M 1/36)}
+    5/028   . . {the rotor disc being formed of sheet laminae
+(rotor blade aggregates of unitary construction
+    5/03    . . Annular blade-carrying members having blades
+on the inner periphery of the annulus and
+extending inwardly radially, i.e. inverted rotors
+    5/04    . . for radial-flow machines or engines
+    5/041   . . . {of the Ljungström type}
+    5/043   . . . {of the axial inlet- radial outlet, or vice versa,
+    5/045   . . . . {the wheel comprising two adjacent bladed
+wheel portions, e.g. with interengaging
+    5/046   . . . . {Heating, heat insulation or cooling means}
+    5/048   . . . . {Form or construction}
+    5/06    . . Rotors for more than one axial stage, e.g. of drum
+or multiple disc type; Details thereof, e.g. shafts,
+shaft connections {(F01D 5/022, F01D 5/023 take
+    5/063   . . . {Welded rotors (welding per se B23K)}
+    5/066   . . . {Connecting means for joining rotor-discs or
+rotor-elements together, e.g. by a central bolt,
+    5/08    . . Heating, heat-insulating or cooling means
+{(specially adapted for radial flow machines or
+    5/081   . . . {Cooling fluid being directed on the side of
+the rotor disc or at the roots of the blades
+    5/082   . . . . {on the side of the rotor disc}
+    5/084   . . . . {the fluid circulating at the periphery of a
+multistage rotor, e.g. of drum type}
+    5/085   . . . {cooling fluid circulating inside the rotor}
+    5/087   . . . . {in the radial passages of the rotor disc}
+    5/088   . . . . {in a closed cavity}
+    5/10    . . Anti- vibration means {(specially adapted for
+radial flow machines or engines F01D 5/04)}
+    5/12    . Blades ({specially adapted for radial flow machines
+or engines F01D 5/04}; blade roots F01D 5/30;
+rotors with blades adjustable in operation
+F01D 7/00; stator blades F01D 9/02)
+    5/14    . . Form or construction (selecting particular
+materials, measures against erosion or corrosion
+    5/141   . . . {Shape, i.e. outer, aerodynamic form
+(F01D 5/148 - F01D 5/20 take precedence;
+blade construction F01D 5/147)}
+    5/142   . . . . {of the blades of successive rotor or stator
+    5/143   . . . . . {Contour of the outer or inner working
+fluid flow path wall, i.e. shroud or hub
+    5/145   . . . . {Means for influencing boundary layers
+or secondary circulations (for compressors
+    5/146   . . . . {of blades with tandem configuration, split
+    5/147   . . . {Construction, i.e. structural features, e.g. of
+weight-saving hollow blades (F01D 5/148,
+F01D 5/16 and F01D 5/20 take precedence;
+blade shape F01D 5/141; blades with cooling
+or heating channels or cavities F01D 5/18;
+heating, heat-insulating or cooling means on
+    5/148   . . . {Blades with variable camber, e.g. by ejection
+    5/16    . . . for counteracting blade vibration
+    5/18    . . . Hollow blades, {i.e. blades with cooling
+or heating channels or cavities (structure
+of hollow blades in general F01D 5/147)};
+Heating, heat-insulating or cooling means on
+    5/181   . . . . {Blades having a closed internal cavity
+containing a cooling medium, e.g. sodium}
+    5/182   . . . . {Transpiration cooling}
+    5/183   . . . . . {Blade walls being porous}
+    5/184   . . . . . {Blade walls being made of perforated
+    5/185   . . . . {Liquid cooling (F01D 5/181 takes
+    5/186   . . . . {Film cooling (F01D 5/187 takes
+    5/187   . . . . {Convection cooling}
+    5/188   . . . . . {with an insert in the blade cavity to guide
+the cooling fluid, e.g. forming a separation
+    5/189   . . . . . . {the insert having a tubular cross-
+    5/20    . . . Specially-shaped blade tips to seal space
+between tips and stator {(F01D 5/225 takes
+    5/22    . . Blade-to-blade connections, {e.g. for damping
+    5/225   . . . {by shrouding}
+    5/24    . . . using wire or the like
+    5/26    . . Antivibration means not restricted to blade form
+or construction or to blade-to-blade connections
+{or to the use of particular materials}
+    5/28    . . Selecting particular materials; {Particular
+measures relating thereto;} Measures against
+    5/282   . . . {Selecting composite materials, e.g. blades
+    5/284   . . . {Selection of ceramic materials}
+    5/286   . . . {Particular treatment of blades, e.g. to increase
+durability or resistance against corrosion or
+erosion (F01D 5/288 takes precedence)}
+    5/288   . . . {Protective coatings for blades}
+    5/30    . Fixing blades to rotors; Blade roots {; Blade
+    5/3007  . . {of axial insertion type}
+    5/3015  . . . {with side plates}
+    5/3023  . . {of radial insertion type, e.g. in individual
+    5/303   . . . {in a circumferential slot}
+    5/3038  . . . . {the slot having inwardly directed abutment
+    5/3046  . . . {the rotor having ribs around the
+    5/3053  . . {by means of pins}
+    5/3061  . . {by welding, brazing}
+    5/3069  . . {between two discs or rings}
+    5/3076  . . {Sheet metal discs}
+    5/3084  . . {the blades being made of ceramics}
+    5/3092  . . {Protective layers between blade root and rotor
+disc surfaces, e.g. anti-friction layers (F01D 5/288
+    5/32    . . Locking, e.g. by final locking blades or keys
+    5/323   . . . {Locking of axial insertion type blades by
+means of a key or the like parallel to the axis of
+    5/326   . . . {Locking of axial insertion type blades by other
+    5/34    . Rotor-blade aggregates of unitary construction
+{, e.g. formed of sheet laminae; (discs formed
+of sheet laminae F01D 5/028; ceramic materials
+F01D 5/284, composite materials F01D 5/282)}
+    7/00    Rotors with blades adjustable in operation;
+Control thereof (for reversing F01D 1/30)
+    7/02    . having adjustment responsive to speed
+    9/00    Stators (non-fluid guiding aspects of casings,
+regulating, controlling, or safety aspects, see the
+    9/02    . Nozzles; Nozzle boxes; Stator blades; Guide
+conduits {, e.g. individual nozzles (nozzle boxes
+    9/023   . . {Transition ducts between combustor cans and
+first stage of the turbine in gas-turbine engines;
+    9/026   . . {Scrolls for radial machines or engines}
+    9/04    . . forming ring or sector
+    9/041   . . . {using blades (F01D 5/148 takes precedence)}
+    9/042   . . . {fixing blades to stators (fixing stator-rings in
+the casing or to each other F01D 25/246)}
+    9/044   . . . . {permanently, e.g. by welding, brazing,
+    9/045   . . . {for radial flow machines or engines}
+    9/047   . . . {Nozzle boxes}
+    9/048   . . . {for radial admission}
+    9/06    . Fluid supply conduits to nozzles or the like
+    9/065   . . {Fluid supply or removal conduits traversing
+the working fluid flow, e.g. for lubrication-,
+cooling-, or sealing fluids (see also F01D 25/16,
+   11/00    Preventing or minimising internal leakage of
+working-fluid, e.g. between stages (sealings in
+general F16J {; sealing arrangements for transition
+ducts of combustor cans F01D 9/023})
+   11/001   . {for sealing space between stator blade and rotor}
+   11/003   . {by packing rings; Mechanical seals}
+   11/005   . {Sealing means between non relatively rotating
+   11/006   . . {Sealing the gap between rotor blades or blades
+   11/008   . . . {by spacer elements between the blades, e.g.
+independent interblade platforms}
+   11/02    . by non-contact sealings, e.g. of labyrinth type (for
+sealing space between rotor blade tips and stator
+   11/025   . . {Seal clearance control; Floating assembly;
+Adaptation means to differential thermal
+   11/04    . . using sealing fluid, e.g. steam
+   11/06    . . . Control thereof
+   11/08    . for sealing space between rotor blade tips and stator
+(specially-shaped blade tips therefor F01D 5/20)
+   11/10    . . using sealing fluid, e.g. steam
+   11/12    . . using a rubstrip, e.g. erodible. deformable or
+   11/122   . . . {with erodable or abradable material (blades
+having cutting or grinding tips F01D 5/20)}
+   11/125   . . . . {with a reinforcing structure}
+   11/127   . . . {with a deformable or crushable structure, e.g.
+   11/14    . . Adjusting or regulating tip-clearance, i.e. distance
+between rotor-blade tips and stator casing (rotors
+with blades adjustable in operation F01D 7/00)
+   11/16    . . . by self-adjusting means (F01D 11/12 takes
+   11/18    . . . . using stator or rotor components with
+predetermined thermal response, e.g.
+selective insulation, thermal inertia,
+   11/20    . . . Actively adjusting tip-clearance
+   11/22    . . . . by mechanically actuating the stator or rotor
+components, e.g. moving shroud sections
+   11/24    . . . . by selectively cooling-heating stator or rotor
+   13/00    Combinations of two or more machines or
+engines (F01D 15/00 takes precedence; regulating or
+controlling, see the relevant groups; combinations of
+two or more pumps F04; fluid gearing F16H)
+   13/003   . {with at least two independent shafts, i.e. cross-
+   13/006   . {one being a reverse turbine}
+   13/02    . Working-fluid interconnection of machines or
+   15/00    Adaptations of machines or engines for special
+use; Combinations of engines with devices driven
+thereby (regulating or controlling see the relevant
+groups; aspects predominantly concerning driven
+devices, see the relevant classes for the devices)
+   15/005   . {Adaptations for refrigeration plants}
+   15/02    . Adaptations for driving vehicles, e.g. locomotives
+(arrangement in vehicles, see the relevant vehicle
+   15/04    . . the vehicles being waterborne vessels
+   15/045   . . . {Control thereof}
+   15/06    . Adaptations for driving, or combinations with,
+hand-held tools or the like {control thereof}
+   15/062   . . {Controlling means specially adapted therefor}
+   15/065   . . {with pressure-velocity transformation
+   15/067   . . {characterised by non-bladed rotor}
+   15/08    . Adaptations for driving, or combinations with,
+   15/10    . Adaptations for driving, or combinations with,
+   15/12    . Combinations with mechanical gearing (driven by
+   17/00    Regulating or controlling by varying flow (for
+reversing F01D 1/30; by varying rotor-blade position
+F01D 7/00; specially for starting F01D 19/00;
+shutting-down F01D 21/00; regulating or controlling
+in general G05 {; specially adapted for hand-held
+   17/02    . Arrangement of sensing elements (sensing elements
+per se: see the relevant subclasses)
+   17/04    . . responsive to load
+   17/06    . . responsive to speed
+   17/08    . . responsive to condition of working-fluid, e.g.
+   17/085   . . . {to temperature}
+   17/10    . Final actuators (valves in general F16K {; blades
+with variable camber F01D 5/148})
+   17/105   . . {by passing part of the fluid}
+   17/12    . . arranged in stator parts
+   17/14    . . . varying effective cross-sectional area of
+   17/141   . . . . {by means of shiftable members or valves
+obturating part of the flow path}
+   17/143   . . . . . {the shiftable member being a wall, or part
+   17/145   . . . . . {by means of valves, e.g. for steam
+turbines (valves in general F16K)}
+   17/146   . . . . {by throttling the volute inlet of radial
+   17/148   . . . . {by means of rotatable members, e.g.
+   17/16    . . . . by means of nozzle vanes
+   17/162   . . . . . {for axial flow, i.e. the vanes turning
+around axes which are essentially
+perpendicular to the rotor centre line
+(F01D 17/167 takes precedence)}
+   17/165   . . . . . {for radial flow, i.e. the vanes turning
+around axes which are essentially parallel
+to the rotor centre line (F01D 17/167 takes
+   17/167   . . . . . {of vanes moving in translation}
+   17/18    . . . varying effective number of nozzles or guide
+conduits {, e.g. sequentially operable valves for
+   17/20    . Devices dealing with sensing elements or final
+actuators or transmitting means between them, e.g.
+power-assisted (sensing elements alone F01D 17/02;
+final actuators alone F01D 17/10)
+   17/205   . . {Centrifugal governers directly linked to valves}
+   17/22    . . the operation or power assistance being
+   17/26    . . . fluid, e.g. hydraulic
+   19/00    Starting of machines or engines; Regulating,
+controlling, or safety means in connection
+therewith (warming-up before starting F01D 25/10;
+turning or inching gear F01D 25/34)
+   19/02    . dependent on temperature of component parts, e.g.
+   21/00    Shutting-down of machines or engines, e.g. in
+emergency; Regulating, controlling, or safety
+means not otherwise provided for
+   21/003   . {Arrangements for testing or measuring (for
+   21/006   . {Arrangements of brakes (brakes per se F16D)}
+   21/02    . Shutting-down responsive to overspeed
+   21/04    . responsive to undesired position of rotor relative to
+stator {or to breaking-off of a part of the rotor}, e.g.
+   21/045   . . {special arrangements in stators or in rotors
+dealing with breaking-off of part of rotor}
+   21/08    . . Restoring position
+   21/10    . responsive to unwanted deposits on blades, in
+working-fluid conduits or the like
+   21/12    . responsive to temperature
+   21/14    . responsive to other specific conditions
+   21/18    . . involving hydraulic means
+   21/20    . Checking operation of shut-down devices
+   23/00    Non-positive-displacement machines or engines
+with movement other than pure rotation, e.g. of
+   25/00    Component parts, details, or accessories, not
+provided for in, or of interest apart from, other
+   25/002   . {Cleaning of turbomachines}
+   25/005   . {Selecting particular materials}
+   25/007   . {Preventing corrosion}
+   25/02    . De-icing means for engines having icing
+   25/04    . Antivibration arrangements
+   25/06    . . for preventing blade vibration (means on blade-
+carrying members or blades F01D 5/00)
+   25/08    . Cooling (of machines or engines in general F01P);
+Heating; Heat-insulation (of blade-carrying
+   25/10    . . Heating, e.g. warming-up before starting
+   25/125   . . . {of bearings}
+   25/14    . . Casings modified therefor (double casings
+   25/145   . . . {Thermally insulated casings}
+   25/16    . Arrangement of bearings; Supporting or mounting
+bearings in casings (bearings per se F16C)
+   25/162   . . {Bearing supports}
+   25/164   . . . {Flexible supports; Vibration damping means
+   25/166   . . {Sliding contact bearing (gas bearings
+   25/168   . . . {for axial load mainly}
+   25/18    . Lubricating arrangements (of machines or engines
+   25/183   . . {Sealing means}
+   25/186   . . . {for sliding contact bearing}
+   25/20    . . using lubrication pumps
+   25/22    . . using working-fluid or other gaseous fluid as
+   25/24    . Casings (modified for heating or cooling
+F01D 25/14); Casing parts, e.g. diaphragms,
+casing fastenings (casings for rotary machines or
+engines in general F16M {; special arrangements
+in stators dealing with breaking-off of part of rotor
+   25/243   . . {Flange connections; Bolting arrangements
+(F01D 25/265 takes precedence)}
+   25/246   . . {Fastening of diaphragms or stator-rings}
+   25/26    . . Double casings; Measures against temperature
+   25/265   . . . {Vertically split casings; Clamping
+   25/28    . Supporting or mounting arrangements, e.g. for
+   25/285   . . {Temporary support structures, e.g. for testing,
+assembling, installing, repairing; Assembly
+   25/30    . Exhaust heads, chambers, or the like
+   25/305   . . {with fluid, e.g. liquid injection}
+   25/32    . Collecting of condensation water; Drainage
+   25/34    . Turning or inching gear
+   25/36    . . using electric motors

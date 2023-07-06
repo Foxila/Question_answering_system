@@ -1,0 +1,82 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+STORING OR DISTRIBUTING GASES OR LIQUIDS
+PIPE-LINE SYSTEMS; PIPE-LINES (pumps or compressors F04; fluid dynamics F15D;
+valves or the like F16K; pipes, laying pipes, supports, joints, branches, repairing, work on
+the entire line, accessories F16L; steam traps or the like F16T; fluid-pressure electric cables
+In this subclass, pipe-line systems are interpreted as systems described in flow sheets as well as arrangements of co-operating
+elements, the elements per se being covered in the relevant subclasses.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Pipe-line systems (conveying articles or materials
+through a pipe- line by means of a fluid carrier
+B65G 51/00, B65G 53/00; liquids B67D; special
+devices for transferring liquids from bulk storage
+containers into vehicles or boats or vice versa, e.g.
+loading or unloading vehicles or portable containers
+B67D 7/00; conveying material which has been
+excavated by a dredger or soil shifter through a pipe-
+line E02F 7/10; sewer pipe-line systems E03F 3/00;
+thermal insulation of pipe-lines F16L 59/00; central
+    1/005   . {for a two-phase gas-liquid flow}
+    1/02    . for gases or vapours
+    1/04    . . for distribution of gas
+    1/05    . . . Preventing freezing (by heating F16L 53/30)
+    1/065   . . Arrangements for producing propulsion of gases
+    1/07    . . . by compression
+    1/075   . . . by mere expansion from an initial pressure
+level, e.g. by arrangement of a flow-control
+    1/08    . for liquids or viscous products (water-main or
+service pipe systems E03B 7/04; domestic hot-water
+    1/082   . . {for cold fluids, e.g. liquefied gas (F17D 1/086
+    1/084   . . {for hot fluids (F17D 1/086 takes precedence)}
+    1/086   . . {for explosives}
+    1/088   . . {for solids or suspensions of solids in liquids, e.g.
+slurries (F17D 1/086 takes precedence)}
+    1/12    . . Conveying liquids or viscous products by
+    1/13    . . Conveying liquids or viscous products by gravity
+    1/14    . . Conveying liquids or viscous products by
+    1/16    . . Facilitating the conveyance of liquids or
+effecting the conveyance of viscous products by
+modification of their viscosity {(changing the
+flow or the viscosity by adding a chemical agent
+    1/17    . . . by mixing with another liquid {, i.e. diluting}
+    1/20    . Arrangements or systems of devices for influencing
+or altering dynamic characteristics of the systems,
+e.g. for damping pulsations caused by opening or
+closing of valves (fluid dynamics F15D; damping
+pulsations in fluids in pipes in general F16L 55/04)
+    3/00    Arrangements for supervising or controlling
+    3/01    . for controlling, signalling, or supervising the
+    3/03    . for controlling, signalling, or supervising the
+conveyance of several different products following
+one another in the same conduit, e.g. for switching
+from one receiving tank to another
+    3/05    . . the different products not being separated
+(separation of contaminants by distillation
+    3/08    . . the different products being separated by "go-
+devils", e.g. spheres (cleaning devices moved
+along inside a pipe-lines by fluid pressure
+B08B 9/04; {pigs or moles per se, their launching
+    3/10    . for taking out the product in the line (sampling
+in general, examining the physical or chemical
+    3/12    . for injecting a composition into the line
+    3/14    . for eliminating water (separation of liquids B01D,
+e.g. B01D 17/00; separation of gases or vapours
+    3/145   . . {in gas pipelines}
+    3/16    . for eliminating particles in suspension (from liquids
+by sedimentation B01D 21/00; separation by
+filtration or otherwise B01D 24/00 - B01D 51/00;
+    3/18    . for measuring the quantity of conveyed product
+(measuring volume or volume flow, in general
+    5/00    Protection or supervision of installations
+(arrangements for protecting foundations E02D 31/00;
+protecting pipes from damage or internal or external
+wear F16L 57/00, against corrosion and scale
+F16L 58/00; investigation of the fluid-tightness of
+    5/005   . {of gas pipelines, e.g. alarm}
+    5/02    . Preventing, monitoring, or locating loss
+    5/04    . . by means of a signalling fluid enclosed in a
+    5/06    . . using electric or acoustic means
+    5/08    . Protection of installations or persons from the
+effects of high voltage induced in the pipe-line
+(emergency protective circuit arrangements H02H)

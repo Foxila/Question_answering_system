@@ -1,0 +1,559 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+METHODS OF STEAM GENERATION; STEAM BOILERS (steam engine plants where
+engine aspects predominate F01K; domestic central-heating systems using steam F24D; heat
+exchange or heat transfer in general F28; generation of vapour in the cores of nuclear reactors
+This subclass covers only methods of, or apparatus for, the generation of steam under pressure for heating or power purposes
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+General aspects of, or methods for, steam generation
+    1/00    Methods of steam generation characterised by
+form of heating method (solar heating F24S; jackets
+or other cooling means in which steam is generated
+and which serve for cooling other apparatus, see the
+    1/003   . {using combustion of hydrogen with oxygen
+(power plants using steam created by combustion of
+hydrogen with oxygen F01K 25/005)}
+    1/006   . {using solar heat (solar heat collectors per se F24S;
+devices for producing mechanical power from solar
+    1/02    . by exploitation of the heat content of hot heat
+    1/021   . . {with heating tubes in which flows a non-
+specified heating fluid (for nuclear reactors
+F22B 1/023, for hot gas F22B 1/1884)}
+    1/023   . . {with heating tubes, for nuclear reactors as far as
+they are not classified, according to a specified
+heating fluid, in another group}
+    1/025   . . . {with vertical U shaped tubes carried on a
+    1/026   . . . {with vertical tubes between to horizontal tube
+    1/028   . . {Steam generation using heat accumulators
+    1/04    . . the heat carrier being hot slag, hot residues, or
+heated blocks, e.g. iron blocks
+    1/06    . . the heat carrier being molten; Use of molten
+metal, e.g. zinc, as heat transfer medium
+    1/063   . . . {for metal cooled nuclear reactors (heat-
+exchangers having a liquid metal as heat
+    1/066   . . . . {with double-wall tubes having a third fluid
+between these walls, e.g. helium for leak
+detection (heat-exchangers with double-wall
+tubes F28D 7/10; double-wall pipes per se
+    1/08    . . the heat carrier being steam
+    1/10    . . . released from heat accumulators
+    1/12    . . . produced by an indirect cyclic process
+    1/123   . . . . {Steam generators downstream of a nuclear
+    1/126   . . . . {Steam generators of the Schmidt-Hartmann
+    1/14    . . . coming in direct contact with water in bulk or
+    1/143   . . . . {in combination with a nuclear installation}
+    1/146   . . . . {Loffler boilers}
+    1/16    . . the heat carrier being hot liquid or hot vapour,
+e.g. waste liquid, waste vapour
+    1/162   . . . {in combination with a nuclear installation}
+    1/165   . . . {using heat pipes (heat pipes per se
+    1/167   . . . {using an organic fluid}
+    1/18    . . the heat carrier being a hot gas, e.g. waste gas
+such as exhaust gas of internal-combustion
+engines (use of waste heat of combustion engines,
+    1/1807  . . . {using the exhaust gases of combustion
+    1/1815  . . . . {using the exhaust gases of gas-turbines}
+    1/1823  . . . {for gas-cooled nuclear reactors}
+    1/183   . . . {in combination with metallurgical converter
+    1/1838  . . . {the hot gas being under a high pressure, e.g. in
+    1/1846  . . . . {the hot gas being loaded with particles, e.g.
+waste heat boilers after a coal gasification
+1General aspects of, or methods for, steam generation
+    1/1853  . . . {coming in direct contact with water in bulk or
+    1/1861  . . . {Waste heat boilers with supplementary firing}
+    1/1869  . . . {Hot gas water tube boilers not provided for in
+    1/1876  . . . . {the hot gas being loaded with particles,
+e.g. dust (with the hot gas being under high
+    1/1884  . . . {Hot gas heating tube boilers with one or more
+    1/1892  . . . {Systems therefor not provided for in
+    1/20    . using heat evolved in a solution absorbing steam;
+    1/22    . using combustion under pressure substantially
+    1/24    . . Pressure-fired steam boilers, e.g. using turbo-air
+compressors actuated by hot gases from boiler
+    1/26    . . Steam boilers of submerged-flame type, i.e. the
+flame being surrounded by, or impinging on, the
+water to be vaporised {, e.g. water in sprays}
+    1/265   . . . {the water being in bulk}
+    1/28    . in boilers heated electrically {(superheating using an
+electrical heat source independent from heat supply
+of the steam boiler F22G 1/165)}
+    1/281   . . {other than by electrical resistances or electrodes}
+    1/282   . . {with water or steam circulating in tubes or
+    1/284   . . {with water in reservoirs}
+    1/285   . . . {the water being fed by a pump to the
+    1/287   . . {with water in sprays or in films}
+    1/288   . . {Instantaneous electrical steam generators built-
+up from heat-exchange elements arranged within
+a confined chamber having heat-retaining walls}
+    1/30    . . Electrode boilers
+    1/303   . . . {with means for injecting or spraying water
+against electrodes or with means for water
+    1/306   . . . . {with at least one electrode permanently
+    3/00    Other methods of steam generation; Steam boilers
+not provided for in other groups of this subclass
+    3/02    . involving the use of working media other than water
+    3/04    . by drop in pressure of high-pressure hot water
+within pressure- reducing chambers, e.g. in
+accumulators (steam accumulators per se
+    3/045   . . {the drop in pressure being achieved by
+compressors, e.g. with steam jet pumps}
+    3/06    . by transformation of mechanical, e.g. kinetic,
+    3/08    . at critical or supercritical pressure values
+    5/00    Steam boilers of drum type, i.e. without internal
+furnace or fire tubes, the boiler body being
+contacted externally by flue gas
+    5/005   . {with rotating drums}
+    5/02    . with auxiliary water tubes outside the boiler body
+    5/04    . Component parts thereof; Accessories therefor
+(covers or similar closure members F16J 13/00)
+    7/00    Steam boilers of furnace-tube type, i.e. the
+combustion of fuel being performed inside one or
+more furnace tubes built-in in the boiler body
+    7/02    . without auxiliary water tubes
+    7/04    . with auxiliary water tubes
+    7/06    . . inside the furnace tube in transverse arrangements
+    7/08    . . inside the furnace tube in longitudinal
+    7/10    . . outside the boiler body
+    7/12    . with auxiliary fire tubes; Arrangement of header
+boxes providing for return diversion of flue gas flow
+    7/14    . with both auxiliary water tubes and auxiliary fire
+    7/16    . Component parts thereof; Accessories therefor, e.g.
+    7/18    . . Walling of flues; Flue gas header boxes
+    9/00    Steam boilers of fire-tube type, i.e. the flue gas
+from a combustion chamber outside the boiler
+body flowing through tubes built-in in the boiler
+    9/02    . the boiler body being disposed upright, e.g. above
+    9/04    . . the fire tubes being in upright arrangement
+    9/06    . . . Arrangement of header boxes providing for
+return diversion of flue gas flow
+    9/08    . . the fire tubes being in horizontal arrangement
+    9/10    . the boiler body being disposed substantially
+horizontally, e.g. at the side of the combustion
+    9/12    . . the fire tubes being in substantially horizontal
+    9/14    . . . Arrangement of header boxes providing for
+return diversion of flue gas flow
+    9/16    . the boiler body containing fire tubes disposed
+crosswise in inclined upward arrangement
+    9/18    . Component parts thereof; Accessories therefor, e.g.
+   11/00    Steam boilers of combined fire-tube type and
+water-tube type, i.e. steam boilers of fire-tube type
+   11/02    . the fire tubes being in upright arrangement
+   11/04    . the fire tubes being in horizontal arrangement
+   13/00    Steam boilers of fire-box type, i.e. the combustion
+of fuel being performed in a chamber or fire-
+box with subsequent flue(s) or fire tube(s), both
+chamber or fire-box and flues or fire tubes being
+   13/005   . {with flues, other than fire tubes}
+   13/02    . mounted in fixed position with the boiler body
+   13/023   . . {with auxiliary water tubes inside the fire-
+box, e.g. vertical tubes (F22B 13/10 takes
+   13/026   . . . {the tubes being in substantially horizontal
+   13/04    . mounted in fixed position with the boiler body
+disposed substantially horizontally
+   13/06    . Locomobile, traction-engine, steam-roller, or
+   13/065   . . {Combination of low and high pressure
+   13/08    . . without auxiliary water tubes inside the fire-box
+   13/10    . . with auxiliary water tubes inside the fire-box
+   13/12    . . . the auxiliary water tubes lining the fire-box
+   13/14    . Component parts thereof; Accessories therefor
+   13/145   . . {Firebox thermosiphons}
+   13/16    . . Stay-bolt connections, e.g. rigid connections
+   13/18    . . . Flexible connections, e.g. of ball-and-socket
+   15/00    Water-tube boilers of horizontal type, i.e. the
+water-tube sets being arranged horizontally
+   17/00    Water-tube boilers of horizontally-inclined type,
+e.g. the water-tube sets being inclined slightly with
+respect to the horizontal plane
+   17/02    . built-up from water-tube sets in abutting connection
+with two header boxes in common for all sets, e.g.
+   17/025   . . {with combined inlet and outlet header boxes, e.g.
+connected by U-tubes or Field tubes}
+   17/04    . . the water-tube sets being inclined in opposite
+   17/06    . . the water-tube sets being bent angularly
+   17/08    . . the water-tube sets being curved
+   17/10    . built-up from water-tube sets in abutting connection
+with two sectional headers each for every set, i.e.
+with headers in a number of sections across the
+   17/105   . . {with tubes in series flow arrangement}
+   17/12    . . the sectional headers being in vertical or
+substantially vertical arrangement
+   17/14    . . the sectional headers being in horizontal or
+substantially horizontal arrangement
+   17/16    . Component parts thereof; Accessories therefor
+   17/18    . . Header boxes; Sectional headers
+   19/00    Water-tube boilers of combined horizontally-
+inclined type and vertical type, i.e. water-
+tube boilers of horizontally-inclined type
+having auxiliary water-tube sets in vertical or
+substantially vertical arrangement
+   21/00    Water-tube boilers of vertical or steeply-inclined
+type, i.e. the water-tube sets being arranged
+vertically or substantially vertically
+   21/002   . {involving a single upper drum (F22B 21/36 takes
+   21/005   . {involving a central vertical drum, header or
+   21/007   . {specially adapted for locomotives}
+   21/02    . built-up from substantially straight water tubes
+   21/04    . . involving a single upper drum and a single lower
+drum, e.g. the drums being arranged transversely
+   21/06    . . . the water tubes being arranged annularly in
+sets, e.g. in abutting connection with drums of
+   21/065   . . . . {involving an upper and lower drum of
+   21/08    . . . the water tubes being arranged sectionally in
+groups or in banks, e.g. bent over at their ends
+   21/081   . . . . {involving a combustion chamber, placed at
+the side and built-up from water tubes}
+   21/083   . . . . {involving an upper drum and a lower drum
+and a fire-place between the two drums}
+   21/085   . . . . {the tubes being placed in layers}
+   21/086   . . . . {Frames built-up from water tubes}
+   21/088   . . . . {involving an upper drum and a lower drum
+   21/10    . . . the water tubes being arranged in staggered
+   21/12    . . involving two or more upper drums and two or
+more lower drums, e.g. with crosswise-arranged
+water-tube sets in abutting connections with
+   21/123   . . . {involving crossed water tubes}
+   21/126   . . . {involving more than two lower or upper
+   21/14    . . involving a single upper drum and two or more
+   21/16    . . . the lower drums being interconnected by
+   21/18    . . involving two or more upper drums and a single
+   21/185   . . . {involving more than two upper drums and a
+   21/20    . . involving sectional or subdivided headers in
+separate arrangement for each water-tube set
+   21/22    . built-up from water tubes of form other than straight
+   21/24    . . bent in serpentine or sinuous form
+   21/26    . . bent helically, i.e. coiled
+   21/30    . . bent in U-loop form
+   21/32    . . . disposed horizontally in abutting connection
+with upright headers or rising water mains
+   21/34    . built-up from water tubes grouped in panel form
+surrounding the combustion chamber, i.e. radiation
+   21/341   . . {Vertical radiation boilers with combustion in the
+   21/343   . . . {the vertical radiation combustion chamber
+being connected at its upper part to a sidewards
+   21/345   . . . . {with a tube bundle between an upper and a
+lower drum in the convection pass}
+   21/346   . . {Horizontal radiation boilers}
+   21/348   . . {Radiation boilers with a burner at the top}
+   21/36    . . involving an upper drum or headers mounted at
+the top of the combustion chamber
+   21/363   . . . {involving a horizontal drum mounted in an
+   21/366   . . . {involving a horizontal drum mounted in the
+   21/38    . . Component parts thereof, e.g. prefabricated
+   21/40    . built-up from water tubes arranged in a
+comparatively long vertical shaft, i.e. tower boilers
+   23/00    Water-tube boilers built-up from sets of spaced
+double-walled water tubes of return type in
+unilateral abutting connection with a boiler drum
+or with a header box, i.e. built-up from Field water
+tubes comprising an inner tube arranged within an
+   23/02    . the water-tube, i.e. Field-tube, sets being horizontal
+   23/04    . the water-tube, i.e. Field-tube, sets being vertical or
+   23/06    . Component parts thereof, e.g. Field water tubes
+(heat-exchange tubes in general F28F)
+   25/00    Water-tube boilers built-up from sets of water
+tubes with internally-arranged flue tubes, or fire
+tubes, extending through the water tubes
+   27/00    Instantaneous or flash steam boilers
+   27/02    . built-up from fire tubes
+   27/04    . built-up from water tubes
+(F22B 27/12 - F22B 27/16 take precedence)
+   27/06    . . bent in serpentine or sinuous form
+   27/08    . . bent helically, i.e. coiled
+   27/12    . built-up from rotary heat-exchange elements, e.g.
+   27/14    . built-up from heat-exchange elements arranged
+within a confined chamber having heat-retaining
+walls {(F22B 1/288 takes precedence)}
+   27/16    . involving spray nozzles for sprinkling or injecting
+water particles on to or into hot heat-exchange
+elements, e.g. into tubes {(F22B 1/287 takes
+   27/165   . . {with film flow of water on heated surfaces}
+   29/00    Steam boilers of forced-flow type
+   29/02    . of forced-circulation type {(F22B 29/06 takes
+   29/023   . . {without drums, i.e. without hot water storage in
+   29/026   . . . {operating at critical or supercritical pressure}
+   29/04    . of combined-circulation type, i.e. in which
+convection circulation due to the difference in
+specific gravity between cold and hot water is
+promoted by additional measures, e.g. by injecting
+   29/06    . of once-through type, i.e. built-up from tubes
+receiving water at one end and delivering
+superheated steam at the other end of the tubes
+   29/061   . . {Construction of tube walls}
+   29/062   . . . {involving vertically-disposed water tubes}
+   29/064   . . . {involving horizontally- or helically-disposed
+   29/065   . . . {involving upper vertically disposed water
+tubes and lower horizontally- or helically
+   29/067   . . {operating at critical or supercritical pressure
+(with recirculation during normal operation
+   29/068   . . {operating with superimposed recirculation
+during normal operation (F22B 29/12 takes
+   29/08    . . operating with fixed point of final state
+of complete evaporation {(evaporation or
+evaporation apparatus for physical or chemical
+purposes, e.g. evaporation of liquids for gas phase
+   29/10    . . operating with sliding point of final state
+of complete evaporation {(evaporation or
+evaporation apparatus for physical or chemical
+purposes, e.g. evaporation of liquids for gas phase
+   29/12    . . operating with superimposed recirculation during
+starting and low-load periods, e.g. composite
+   31/00    Modifications of boiler construction, or of tube
+systems, dependent on installation of combustion
+apparatus; Arrangements of dispositions
+of combustion apparatus (steam generation
+characterised by heating method F22B 1/00;
+combustion apparatus per se F23)
+   31/0007  . {with combustion in a fluidized bed (fluidized
+bed apparatus per se B01J 8/00; fluidized bed
+   31/0015  . . {for boilers of the water tube type}
+   31/0023  . . . {with tubes in the bed (F22B 31/003 takes
+   31/003   . . . {with tubes surrounding the bed or with water
+   31/0038  . . . . {with tubes in the bed}
+   31/0046  . . {for boilers of the shell type, e.g. with furnace
+   31/0053  . . . {with auxiliary water tubes}
+   31/0061  . . {Constructional features of bed cooling}
+   31/0069  . . {Systems therefor}
+   31/0076  . . {Controlling processes for fluidized bed boilers
+not related to a particular type}
+   31/0084  . . {with recirculation of separated solids or
+with cooling of the bed particles outside the
+   31/0092  . . . {with a fluidized heat exchange bed and a
+fluidized combustion bed separated by a
+partition, the bed particles circulating around or
+   31/02    . Installation of water-tube boilers in chimneys, e.g.
+   31/04    . Heat supply by installation of two or more
+combustion apparatus, e.g. of separate combustion
+apparatus for the boiler and the superheater
+   31/045   . . {Steam generators specially adapted for burning
+   31/06    . . Installation of emergency heat supply
+   31/08    . Installation of heat-exchange apparatus or of means
+in boilers for heating air supplied for combustion
+Steam-generation plants; Control systems
+   33/00    Steam-generation plants, e.g. comprising steam
+boilers of different types in mutual association
+(arrangements or dispositions of steam-generation
+plants in marine vessels B63H 21/00)
+   33/02    . Combinations of boilers having a single combustion
+   33/04    . . of boilers of furnace-tube type with boilers of
+   33/06    . . of boilers of furnace-tube type with boilers of
+   33/08    . . of boilers of water tube type with boilers of fire-
+   33/10    . . of two or more superposed boilers with separate
+water volumes and operating with two or more
+   33/12    . Self-contained steam boilers, i.e. comprising as a
+unit the steam boiler, the combustion apparatus, the
+fuel storage, accessory machines and equipment
+4Steam-generation plants; Control systems
+   33/14    . Combinations of low and high pressure boilers
+   33/16    . . of forced-flow type
+   33/18    . Combinations of steam boilers with other apparatus
+   33/185   . . {in combination with a steam accumulator}
+   35/00    Control systems for steam boilers ({for fluidized
+bed boilers F22B 31/0076;} regulation or control
+of steam power plants F01K 7/00; for regulating
+feed-water supply F22D; for controlling superheat
+temperature F22G 5/00; control of combustion F23N;
+regulating or controlling in general G05)
+   35/001   . {Controlling by flue gas dampers (for superheaters
+   35/002   . {Control by recirculating flue gases (for
+   35/004   . {Control systems for steam generators of nuclear
+   35/005   . {Control systems for instantaneous steam boilers}
+   35/007   . {Control systems for waste heat boilers}
+   35/008   . {Control systems for two or more steam generators
+   35/02    . for steam boilers with natural convection circulation
+   35/04    . . during starting-up periods, i.e. during the periods
+between the lighting of the furnaces and the
+attainment of the normal operating temperature of
+   35/06    . for steam boilers of forced-flow type
+   35/08    . . of forced-circulation type
+   35/083   . . . {without drum, i.e. without hot water storage in
+   35/086   . . . . {operating at critical or supercritical
+   35/10    . . of once-through type
+   35/101   . . . {operating with superimposed recirculation
+during starting or low load periods, e.g.
+composite boilers (F22B 35/125 takes
+   35/102   . . . {operating with fixed point of final state of
+complete evaporation, e.g. in a steam-water
+   35/104   . . . {Control systems by injecting water (for
+   35/105   . . . {operating at sliding pressure}
+   35/107   . . . {Control systems with auxiliary heating
+   35/108   . . . {Control systems for steam generators having
+   35/12    . . . operating at critical or supercritical pressure
+   35/125   . . . . {operating with superimposed recirculation
+during starting or low load periods, e.g.
+   35/14    . . during the starting-up periods, i.e. during the
+periods between the lighting of the furnaces
+and the attainment of the normal operating
+temperature of the steam boilers
+   35/16    . . responsive to the percentage of steam in the
+   35/18    . Applications of computers to steam boiler control
+   37/00    Component parts or details of steam boilers
+(venting devices F16K 24/00; steam traps or like
+   37/001   . {Steam generators built-up from pre-fabricated
+   37/002   . {specially adapted for nuclear steam generators, e.g.
+maintenance, repairing or inspecting equipment not
+   37/003   . . {Maintenance, repairing or inspecting equipment
+positioned in or via the headers}
+   37/005   . . . {Positioning apparatus specially adapted
+therefor (F22B 37/64 takes precedence)}
+   37/006   . . {Walking equipment, e.g. walking platforms
+suspended at the tube sheet (walking mechanism
+   37/007   . . {Installation or removal of nuclear steam
+   37/008   . {Adaptations for flue gas purification in steam
+generators, (flue gas purification in general F23J;
+gas purification in general B01D)}
+   37/02    . applicable to more than one kind or type of steam
+   37/025   . . {Devices and methods for diminishing corrosion,
+e.g. by preventing cooling beneath the dew point}
+   37/04    . . and characterised by material, e.g. use of special
+   37/06    . . Flue or fire tubes; Accessories therefor, e.g. fire-
+   37/08    . . . Fittings preventing burning-off of the tube
+   37/10    . . Water tubes; Accessories therefor (working
+of metal tubes B21D; pipes in general F16L;
+repairing leaks in water tubes F16L 55/16;
+F28F 11/00; baffles, screens, or deflectors formed
+of water tubes F23M 9/10; cleaning internal or
+external surfaces of water tubes F28G)
+   37/101   . . . {Tubes having fins or ribs}
+   37/102   . . . . {Walls built-up from finned tubes}
+   37/103   . . . . {Internally ribbed tubes}
+   37/104   . . . {Connection of tubes one with the other or with
+collectors, drums or distributors (in general
+   37/105   . . . {Penetrations of tubes through a wall and their
+sealing (in general F16L 5/00)}
+   37/106   . . . {Studding of tubes}
+   37/107   . . . {Protection of water tubes (in general
+   37/108   . . . . {Protection of water tube walls}
+   37/12    . . . Forms of water tubes, e.g. of varying cross-
+   37/125   . . . . {Bifurcates}
+   37/14    . . . Supply mains, e.g. rising mains, down-comers,
+   37/141   . . . . {involving vertically-disposed water tubes,
+e.g. walls built-up from vertical tubes}
+   37/142   . . . . {involving horizontally-or helically-
+disposed water tubes, e.g. walls built-up from
+   37/143   . . . . {Panel shaped heating surfaces built up from
+tubes (F22B 37/145 takes precedence)}
+   37/145   . . . . {Flag-shaped panels built-up from tubes, e.g.
+   37/146   . . . . {Tube arrangements for ash hoppers and
+grates and for combustion chambers of the
+cyclone or similar type out of the flues}
+   37/147   . . . . {Tube arrangements for cooling orifices,
+   37/148   . . . . {Tube arrangements for the roofs}
+5Steam-generation plants; Control systems
+   37/165   . . . . {Closures for access openings in return
+bends (boiler plugs for drums or headers
+   37/18    . . . Inserts, e.g. for receiving deposits from water
+   37/20    . . . Supporting arrangements, e.g. for securing
+water-tube sets (construction of tube walls of
+furnaces including boiler furnaces F23M 5/08)
+   37/201   . . . . {Suspension and securing arrangements for
+   37/202   . . . . {Suspension and securing arrangements for
+   37/203   . . . . . {Horizontal tubes supported only away
+from their ends on vertical support tubes}
+   37/204   . . . . {Supporting arrangements for individual
+tubes, e.g. for securing tubes to a refractory
+   37/205   . . . . {Supporting and spacing arrangements for
+   37/206   . . . . . {Anti-vibration supports for the bends of
+   37/207   . . . . {Supporting arrangements for drums and
+   37/208   . . . . {Backstay arrangements}
+   37/22    . . Drums; Headers; Accessories therefor (making
+boilers from sheet metal B21D 51/24; pressure
+vessels in general F16J 12/00; covers or similar
+   37/221   . . . {Covers for drums, collectors, manholes or the
+   37/222   . . . . {Nozzle dams introduced through a smaller
+   37/223   . . . . {Boiler plugs, e.g. for handholes (closures
+for access openings in return bends
+   37/225   . . . {Arrangements on drums or collectors for
+fixing tubes or for connecting collectors to each
+   37/226   . . . {Protection of drums against combustion}
+   37/227   . . . {Drums and collectors for mixing}
+   37/228   . . . {Headers for distributing feedwater into steam
+generator vessels; Accessories therefor}
+   37/24    . . Supporting, suspending, or setting arrangements,
+e.g. heat shielding (frames, engine beds F16M)
+   37/242   . . . {for bottom supported water-tube steam
+   37/244   . . . {for water-tube steam generators suspended
+   37/246   . . . {for steam generators of the reservoir type, e.g.
+   37/248   . . . . {with a vertical cylindrical wall}
+   37/26    . . Steam-separating arrangements (vapour-liquid
+separators, e.g. for drying steam, B01D; B04)
+   37/261   . . . {specially adapted for boiler drums}
+   37/263   . . . {Valves with water separators}
+   37/265   . . . {Apparatus for washing and purifying steam}
+   37/266   . . . {Separator reheaters}
+   37/268   . . . {specially adapted for steam generators of
+   37/28    . . . involving reversal of direction of flow
+   37/283   . . . . {specially adapted for boiler drums}
+   37/286   . . . . {specially adapted for steam generators of
+   37/30    . . . using impingement against baffle separators
+   37/303   . . . . {specially adapted for boiler drums}
+   37/306   . . . . {specially adapted for steam generators of
+   37/32    . . . using centrifugal force
+   37/322   . . . . {specially adapted for boiler drums}
+   37/325   . . . . {using a revolving element}
+   37/327   . . . . {specially adapted for steam generators of
+   37/34    . . Adaptations of boilers for promoting water
+circulation ({F22B 13/145 takes precedence };
+auxiliary devices for promoting water circulation
+   37/36    . . Arrangements for sheathing or casing boilers
+   37/365   . . . {Casings of metal sheets, e.g. expansion plates,
+   37/38    . . Determining or indicating operating conditions
+in steam boilers, e.g. monitoring direction or rate
+of water flow through water tubes (measuring or
+indicating instruments in general G01)
+   37/40    . . Arrangements of partition walls in flues of steam
+boilers, e.g. built-up from baffles (in flues or
+   37/42    . . Applications, arrangements, or dispositions of
+alarm or automatic safety devices (for feed-
+water heaters F22D 1/14 {; emergency feed-
+water supply F22D 11/003}; alarms responsive to
+undesired or abnormal conditions G08B)
+   37/421   . . . {Arrangements for detecting leaks}
+   37/423   . . . {Valves for testing steam generators}
+   37/425   . . . {Feed-water supply alarm devices using floats}
+   37/426   . . . {Feed-water supply alarm devices using
+   37/428   . . . {Feed-water supply alarm devices using
+dilatation of solids or liquids}
+   37/44    . . . of safety valves (safety valves per se F16K)
+   37/443   . . . . {Safety devices extinguishing the fire}
+   37/446   . . . . {Safety devices responsive to overpressure}
+   37/46    . . . responsive to low or high water level, e.g.
+for checking, suppressing, extinguishing
+combustion in boilers (fire-fighting, fire
+   37/47    . . . responsive to abnormal temperature, e.g.
+actuated by fusible plugs (such alarms or
+   37/475   . . . . {Safety devices with fusible plugs}
+   37/48    . . Devices for removing water, salt, or sludge from
+boilers (cleaning internal or external surfaces of
+water tubes F28G); Arrangements of cleaning
+apparatus in boilers (cleaning external surfaces
+of tubes by soot blowers F23J); Combinations
+   37/483   . . . {specially adapted for nuclear steam
+   37/486   . . . {Devices for removing water, salt, or sludge
+from boilers (F22B 37/483, F22B 37/50,
+F22B 37/52 and F22B 37/54 take precedence)}
+   37/50    . . . for draining or expelling water
+   37/52    . . . Washing-out devices
+   37/54    . . . De-sludging or blow-down devices
+{(F22B 37/565 takes precedence)}
+   37/545   . . . . {Valves specially adapted therefor (valves in
+   37/56    . . Boiler cleaning control devices, e.g. for
+ascertaining proper duration of boiler blow-down
+6Steam-generation plants; Control systems
+   37/565   . . . {Blow-down control, e.g. for ascertaining
+proper duration of boiler blow-down}
+   37/58    . . Removing tubes from headers or drums;
+   37/60    . specially adapted for steam boilers of instantaneous
+   37/62    . specially adapted for steam boilers of forced-flow
+   37/64    . . Mounting of, or supporting arrangements for,
+tube units (construction of tube walls of furnaces,
+e.g. boiler furnaces F23M 5/08)
+   37/645   . . . {involving upper vertically-disposed water
+tubes and lower horizontally- or helically
+   37/66    . . . involving vertically-disposed water tubes
+   37/68    . . . involving horizontally-disposed water tubes
+   37/70    . . Arrangements for distributing water into water
+   37/72    . . . involving injection devices
+   37/74    . . . Throttling arrangements for tubes or sets of
+   37/76    . Adaptations or mounting of devices for observing
+existence or direction of fluid flow (devices per se
+   37/78    . Adaptations or mounting of level indicators (level

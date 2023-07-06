@@ -1,0 +1,80 @@
+COOPERATIVE PATENT CLASSIFICATION
+ELECTRIC COMMUNICATION TECHNIQUE
+1. In this subclass, the following term is used with the meaning indicated:
+• "stereophonic systems" covers quadraphonic or similar systems
+2. In this subclass, it is desirable to add the indexing codes of H04S 2400/00 and  H04S 2420/00.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Two-channel systems (H04S 5/00, H04S 7/00 take
+    1/002   . {Non-adaptive circuits, e.g. manually adjustable
+or static, for enhancing the sound image or the
+spatial distribution (control circuits for electronic
+adaptation of the sound field H04S 7/30)}
+    1/005   . . {For headphones}
+    1/007   . {in which the audio signals are in digital form (data
+reduction aspects thereof based on psychoacoustics
+    3/00    Systems employing more than two channels,
+e.g. quadraphonic (H04S 5/00, H04S 7/00 take
+    3/002   . {Non-adaptive circuits, e.g. manually adjustable
+or static, for enhancing the sound image or the
+spatial distribution (control circuits for electronic
+adaptation of the sound field H04S 7/30)}
+    3/004   . . {For headphones}
+    3/006   . {in which a plurality of audio signals are
+transformed in a combination of audio signals and
+modulated signals, e.g. CD-4 systems}
+    3/008   . {in which the audio signals are in digital form,
+i.e. employing more than two discrete digital
+channels (data reduction aspects thereof based on
+    3/02    . of the matrix type, i.e. in which input signals are
+combined algebraically, e.g. after having been phase
+shifted with respect to each other
+    5/00    Pseudo-stereo systems, e.g. in which additional
+channel signals are derived from monophonic
+signals by means of phase shifting, time delay or
+    5/005   . {of the pseudo five- or more-channel type, e.g.
+    5/02    . of the pseudo four-channel type, e.g. in which rear
+channel signals are derived from two-channel stereo
+    7/00    Indicating arrangements; Control arrangements,
+    7/30    . {Control circuits for electronic adaptation of the
+    7/301   . . {Automatic calibration of stereophonic sound
+system, e.g. with test microphone}
+    7/302   . . {Electronic adaptation of stereophonic sound
+system to listener position or orientation
+    7/303   . . . {Tracking of listener position or orientation}
+    7/304   . . . . {For headphones}
+    7/305   . . {Electronic adaptation of stereophonic audio
+signals to reverberation of the listening space
+    7/306   . . . {For headphones}
+    7/307   . . {Frequency adjustment, e.g. tone control
+    7/308   . . {Electronic adaptation dependent on speaker or
+    7/40    . {Visual indication of stereophonic sound image}
+ 2400/00    Details of stereophonic systems covered by H04S
+but not provided for in its groups
+ 2400/01    . Multi-channel, i.e. more than two input channels,
+sound reproduction with two speakers wherein the
+multi-channel information is substantially preserved
+ 2400/03    . Aspects of down-mixing multi-channel audio to
+configurations with lower numbers of playback
+channels, e.g. 7.1 -> 5.1 (H04S 2400/01 takes
+ 2400/05    . Generation or adaptation of centre channel in multi-
+ 2400/07    . Generation or adaptation of the Low Frequency
+Effect [LFE] channel, e.g. distribution or signal
+ 2400/09    . Electronic reduction of distortion of stereophonic
+ 2400/11    . Positioning of individual sound objects, e.g. moving
+airplane, within a sound field (H04S 2420/13 takes
+ 2400/13    . Aspects of volume control, not necessarily
+automatic, in stereophonic sound systems
+ 2400/15    . Aspects of sound capture and related signal
+processing for recording or reproduction
+ 2420/00    Techniques used stereophonic systems covered by
+H04S but not provided for in its groups
+ 2420/01    . Enhancing the perception of the sound image or of
+the spatial distribution using head related transfer
+functions [HRTF's] or equivalents thereof, e.g.
+interaural time difference [ITD] or interaural level
+ 2420/03    . Application of parametric coding in stereophonic
+ 2420/05    . Application of the precedence or Haas effect, i.e. the
+effect of first wavefront, in order to improve sound-
+ 2420/07    . Synergistic effects of band splitting and sub-band
+ 2420/11    . Application of ambisonics in stereophonic audio
+ 2420/13    . Application of wave-field synthesis in stereophonic

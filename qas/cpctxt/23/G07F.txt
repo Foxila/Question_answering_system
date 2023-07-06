@@ -1,0 +1,387 @@
+COOPERATIVE PATENT CLASSIFICATION
+COIN-FREED OR LIKE APPARATUS (coin sorting G07D 3/00; coin testing G07D 5/00;
+{handling coins or paper currencies apart from payment activated apparatus G07D; payment
+architectures, schemes or protocols G06Q 20/00})
+This subclass does not cover constructions or details of apparatus which includes, or is combined with, coin-actuated
+mechanisms but is not specially adapted or modified for use therewith. Such constructions or details are covered by the
+relevant subclass for the particular apparatus.
+2. In this subclass, the following term are used with the meaning indicated:
+• {"coin-freed" means "payment activated"}
+• "coins" covers also tokens or the like.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Coin inlet arrangements; Coins specially adapted
+to operate coin-freed mechanisms
+    1/041   . . {with means, other than for testing currency,
+for dealing with inserted foreign matter, e.g.
+"stuffing", "stringing" or "salting"}
+    1/042   . . . {the foreign matter being a long flexible
+    1/043   . . . . {Cutting or trapping of the flexible member
+    1/044   . . . . {Automatic detection of the flexible
+    1/045   . . . {the foreign matter being in the form of
+    1/046   . . {with means for dealing with jamming, e.g. by
+    1/047   . . {with means for temporarily storing coins}
+    1/048   . . {with means for damping coin motion}
+    1/06    . Coins specially adapted to operate coin-freed
+    5/00    Coin-actuated mechanisms; Interlocks
+    5/02    . actuated mechanically by coins, e.g. by a single coin
+    5/04    . . wherein two or more coins of the same
+denomination are required for each transaction
+    5/06    . . wherein two or more coins of different
+denominations are required for each transaction
+    5/08    . . wherein the use of two or more coins or an
+equivalent single coin is optional for each
+transaction; wherein the use of two or more coins
+or an alternative equivalent combination of coins
+is optional for each transaction
+    5/10    . actuated electrically by the coin, e.g. by a single
+    5/12    . . wherein two or more coins of the same
+denomination are required for each transaction
+    5/14    . . wherein two or more coins of different
+denominations are required for each transaction
+    5/16    . . wherein the use of two or more coins or an
+equivalent single coin is optional for each
+transaction; wherein the use of two or more coins
+or an alternative equivalent combination of coins
+is optional for each transaction
+    5/18    . specially adapted for controlling several coin-freed
+    5/20    . specially adapted for registering coins as credit, e.g.
+    5/22    . . electrically actuated
+    5/24    . with change-giving
+    5/26    . Interlocks, e.g. for locking the doors of
+compartments other than that to be used
+    7/00    Mechanisms actuated by objects other than coins
+to free or to actuate vending, hiring, coin or paper
+currency dispensing or refunding apparatus
+    7/005   . {Details or accessories}
+    7/02    . by keys or other credit registering devices
+    7/025   . . {by means, e.g. cards, providing billing
+information at the time of purchase, e.g.
+identification of seller or purchaser, quantity of
+goods delivered or to be delivered}
+    7/04    . by paper currency
+    7/06    . by returnable containers {, i.e. reverse vending
+systems in which a user is rewarded for returning
+a container that serves as a token of value}, e.g.
+    7/0609  . . {by fluid containers, e.g. bottles, cups, gas
+    7/0627  . . . {in which the trolleys or carts are kept fixed or
+    7/0636  . . . {in which the trolleys or carts are kept in a
+restricted zone such as a coral-like enclosure,
+or are passing a gate before use is possible}
+    7/0645  . . . . {in which the trolleys or carts are kept in
+a box or container designed to transport or
+store a row of trolleys or carts as a whole}
+    7/0654  . . . {in which the lock functions according to a
+"pinching of the token" principle, i.e. the token
+    7/0663  . . . {Constructional details of the housing of the
+coin or token activated lock, or of mounting of
+the coin-lock on the trolley or cart}
+    7/0672  . . . {Special lock-activating tokens, serving as
+replacement of a payment or of a coin}
+    7/0681  . . . . {in which a card, pay-card or card-like object
+is used as the special token required to get
+permission or activate the lock to use the
+    7/069   . . {by box-like containers, e.g. videocassettes,
+    7/08    . by coded identity card or credit card {or other
+personal identification means (without personal
+    7/0806  . . {Details of the card (record carriers per se
+    7/0813  . . . {Specific details related to card security}
+    7/082   . . . . {Features insuring the integrity of the data on
+    7/0826  . . . . {Embedded security module}
+    7/0833  . . . {Card having specific functional components}
+    7/084   . . . . {Additional components relating to data
+transfer and storing, e.g. error detection, self-
+    7/0846  . . . {On-card display means}
+    7/0853  . . . {On-card keyboard means}
+    7/086   . . {by passive credit-cards adapted therefor,
+e.g. constructive particularities to avoid
+counterfeiting, e.g. by inclusion of a physical or
+chemical security-layer (for security documents
+G07D 7/00; for the reading of record-carriers
+in general G06K 7/00; for the design of coded
+    7/0866  . . {by active credit-cards adapted therefor
+(G07F 7/1008 takes precedence)}
+1. Attention is drawn to the note after group
+2. The cards referred to in this group are
+transferable like regular cash money. They
+contain a monetary value represented by a
+coded number in a protected memory, to be
+loaded by cash payment or from account
+    7/0873  . . {Details of the card reader}
+    7/088   . . . {the card reader being part of the point of
+sale [POS] terminal or electronic cash register
+    7/0886  . . . . {the card reader being portable for
+interacting with a POS or ECR in realizing a
+    7/0893  . . . {the card reader reading the card in a
+    7/10    . . together with a coded signal {, e.g. in the form of
+personal identification information, like personal
+identification number [PIN] or biometric data}
+    7/1008  . . . {Active credit-cards provided with means
+to personalise their use, e.g. with PIN-
+introduction/comparison system}
+In this group, the term "active credit card"
+embraces any portable, self-contained
+device, provided with circuits enabling it
+to exchange data with a partner in order to
+    7/1016  . . . {Devices or methods for securing the PIN
+and other transaction-data, e.g. by encryption
+(arrangements for secret communication, see
+    7/1025  . . . {Identification of user by a PIN code}
+    7/1033  . . . . {Details of the PIN pad}
+    7/1041  . . . . . {PIN input keyboard gets new key
+    7/105   . . . . {Only a part of the PIN is required to be
+    7/1058  . . . . {PIN is checked locally}
+    7/1066  . . . . . {PIN data being compared to data on card}
+    7/1075  . . . . {PIN is checked remotely}
+    7/1083  . . . . {Counting of PIN attempts}
+    7/1091  . . . . {Use of an encrypted form of the PIN}
+    7/12    . . Card verification
+    7/122   . . . {Online card verification}
+    7/125   . . . {Offline card verification}
+    7/127   . . . {in which both online and offline card
+    9/00    Details other than those peculiar to special kinds
+or types of apparatus (coin inlet arrangements
+G07F 1/00; coin-actuated mechanisms, interlocks
+    9/001   . {Interfacing with vending machines using mobile or
+    9/002   . {Vending machines being part of a centrally
+controlled network of vending machines}
+    9/003   . {displaying the inserted coins}
+    9/006   . {Details of the software used for the vending
+    9/009   . {User recognition or proximity detection}
+    9/02    . Devices for alarm or indication, e.g. when
+empty; Advertising arrangements in coin-freed
+apparatus (alarms or warning devices indicating the
+interruption of flow to be metered G07F 15/10)
+    9/023   . . {Arrangements for display, data presentation or
+    9/0235  . . . {the arrangements being full-front
+    9/026   . . {for alarm, monitoring and auditing in vending
+machines or means for indication, e.g. when
+    9/04    . Means for returning surplus or unused coins
+    9/08    . Counting total of coins inserted
+    9/10    . Casings {or parts thereof}, e.g. with means for
+    9/105   . . {Heating or cooling means, for temperature
+and humidity control, for the conditioning of
+articles and their storage (dispensers for food
+articles requiring a processing by temperature
+treatment or conditioning before they are ready
+   11/00    Coin-freed apparatus for dispensing, or the like,
+   11/004   . {Restocking arrangements therefor}
+   11/005   . {Special arrangements for insuring that only one
+single article may be dispensed at a time}
+   11/007   . {wherein the storage and dispensing mechanism
+are configurable in relation to the physical or
+geometrical properties of the articles to be stored or
+   11/02    . from non-movable magazines
+   11/04    . . in which magazines the articles are stored one
+   11/045   . . . {for sheet shaped or pliable articles}
+   11/06    . . . supported individually on pivotally-mounted
+   11/08    . . . arranged in two columns in staggered
+   11/10    . . . two or more magazines having a common
+   11/12    . . . with means for automatically changing to
+   11/14    . . . with means for raising the stack of articles to
+   11/16    . . . Delivery means
+   11/163   . . . . {characterised by blocking access to the
+   11/165   . . . . {using xyz-picker or multi-dimensional
+   11/1653  . . . . . {the picking arrangements being collecting
+   11/1657  . . . . . {the picking arrangements using suction}
+   11/18    . . . . Recessed drawers
+   11/20    . . . . Pushers actuated directly by hand
+   11/22    . . . . Pushers actuated indirectly by hand, e.g.
+   11/24    . . . . Rotary or oscillatory members
+   11/26    . . . . Endless bands
+   11/28    . . in which the magazines are inclined
+   11/30    . . . two or more magazines having independent
+   11/32    . . . two or magazines having a common delivery
+   11/34    . . in which the magazines are of zig-zag form
+   11/36    . . in which the magazines are of helical or spiral
+   11/38    . . in which the magazines are horizontal
+   11/40    . . . the articles being delivered by hand-operated
+   11/42    . . . the articles being delivered by motor-driven
+   11/44    . . in which magazines the articles are stored in bulk
+   11/46    . from movable storage containers or supports
+   11/48    . . the storage containers or supports, e.g. magazine,
+   11/50    . . the storage containers or supports being rotatably
+   11/52    . . . about horizontal axes
+   11/54    . . . about vertical axes
+   11/56    . . . . the storage containers or supports both
+   11/58    . . the articles being supported on or by endless belts
+   11/60    . . the storage containers or supports being
+   11/62    . in which the articles are stored in compartments in
+   11/64    . in which the articles are individually suspended
+   11/66    . in which the articles are dispensed by cutting from a
+   11/68    . in which the articles are torn or severed from strips
+   11/70    . in which the articles are formed in the apparatus
+from components, blanks, or material constituents
+   11/72    . Auxiliary equipment, e.g. for lighting cigars,
+   13/00    Coin-freed apparatus for controlling dispensing
+or fluids, semiliquids or granular material from
+   13/025   . . {wherein the volume is determined during
+   13/06    . with selective dispensing of different fluids or
+   13/065   . . {for drink preparation}
+   13/08    . in the form of a spray
+   13/10    . with associated dispensing of containers, e.g. cups
+   15/00    Coin-freed apparatus with meter-controlled
+dispensing of liquid, gas or electricity
+   15/003   . {for electricity}
+   15/005   . . {dispensed for the electrical charging of vehicles
+(electrical charging as such, B60L 50/00)}
+   15/006   . . {dispensed for the electrical charging of other
+   15/008   . . {Rewarding for providing delivery of electricity
+   15/02    . in which the quantity mechanism is set forward by
+   15/04    . in which the quantity mechanism is set forward
+automatically by the insertion of a coin
+   15/06    . with means for prepaying basic charges, e.g. rent for
+   15/08    . with means for varying the tariff or changing the
+   15/10    . with alarm or warning devices, e.g. indicating the
+   15/12    . in which metering is on a time basis
+   17/00    Coin-freed apparatus for hiring articles; Coin-
+   17/0007  . {for clockworks, e.g. alarm clocks, saving clocks}
+   17/0014  . {for vending, access and use of specific services
+not covered anywhere else in G07F 17/00 (meter-
+controlled dispensing of liquid, gas or electricity
+   17/0021  . . {Access to services on a time-basis}
+   17/0028  . . . {Use of a wired telephone or public
+communication device (charging and metering
+the use of the telecommunication network
+   17/0035  . . {Participation in a loyalty or discount scheme
+(data processing for shopping and discounts
+   17/0042  . {for hiring of objects}
+   17/005   . . {for the hiring of content carriers, e.g. of DVDs
+or CDs (reverse vending for box-like objects such
+   17/0057  . . {for the hiring or rent of vehicles, e.g. cars,
+bicycles or wheelchairs (car rental G07B 15/00)}
+   17/0064  . {for processing of food articles (cooking vessels
+   17/0071  . . {Food articles which need to be processed for
+dispensing in a cold condition, e.g. ice and ice
+   17/0078  . . {Food articles which need to be processed for
+dispensing in a hot or cooked condition, e.g.
+   17/0085  . . . {Food articles which for processing need
+cooking in a liquid, e.g. oil, water}
+   17/0092  . {for assembling and dispensing of pharmaceutical
+articles (medical dispensers for private use,
+   17/02    . for optical devices, e.g. telescopes
+   17/04    . for anthropometrical measurements, such as weight,
+   17/045   . . {for weighing persons (weighing apparatus in
+   17/06    . for inflating-pumps
+   17/08    . for seats or footstools
+   17/10    . for means for safe-keeping of property, left
+temporarily, e.g. by fastening the property
+   17/105   . . {for money boxes (for saving clocks
+   17/12    . . comprising lockable containers, e.g. for accepting
+   17/13    . . . {the containers being a postal pick-up locker}
+   17/14    . for fastenings for doors (of containers for safe
+keeping G07F 17/12); for turnstiles
+   17/145   . . {for revolving doors or turnstiles}
+   17/16    . for devices exhibiting advertisements,
+announcements, pictures or the like
+   17/163   . . {for film projection apparatus}
+   17/166   . . {for calendars}
+   17/18    . for washing or drying persons
+   17/20    . for washing or drying articles, e.g. clothes, motor
+   17/22    . for cleaning and polishing boots or shoes
+   17/24    . for parking meters
+   17/242   . . {provided with token dispensing devices}
+   17/244   . . {provided with means for retaining a vehicle}
+   17/246   . . {provided with vehicle proximity-detectors
+(detecting hidden masses, e.g. metal detectors,
+G01V, e.g. G01V 3/00; proximity switches per se
+H03K 17/00; traffic control systems G08G 1/00)}
+   17/248   . . {Housing construction (casings for coin-freed
+   17/26    . for printing, stamping, franking, typing or
+teleprinting apparatus (ticket printing or the like
+   17/263   . . {for weighing devices (for personal weighing
+   17/266   . . {for the use of a photocopier or printing device
+   17/28    . for radio apparatus
+   17/30    . for musical instruments
+   17/305   . . {for record players}
+   17/32    . for games, toys, sports, or amusements
+   17/3202  . . {Hardware aspects of a gaming system, e.g.
+components, construction, architecture thereof}
+   17/3204  . . . {Player-machine interfaces}
+   17/3206  . . . . {Player sensing means, e.g. presence
+   17/3209  . . . . {Input means, e.g. buttons, touch screen}
+   17/3211  . . . . {Display means}
+   17/3213  . . . . . {Details of moving display elements, e.g.
+spinning reels, tumbling members}
+   17/3216  . . . {Construction aspects of a gaming system, e.g.
+housing, seats, ergonomic aspects}
+   17/3218  . . . . {wherein at least part of the system is
+   17/322   . . . . {Casino tables, e.g. tables having integrated
+   17/3223  . . . {Architectural aspects of a gaming system, e.g.
+internal configuration, master/slave, wireless
+   17/3225  . . {Data transfer within a gaming system, e.g. data
+sent between gaming machines and users}
+   17/3227  . . . {Configuring a gaming machine, e.g.
+downloading personal settings, selecting
+   17/323   . . . {wherein the player is informed, e.g.
+advertisements, odds, instructions}
+   17/3232  . . . {wherein the operator is informed}
+   17/3234  . . . . {about the performance of a gaming system,
+e.g. revenue, diagnosis of the gaming
+   17/3237  . . . . {about the players, e.g. profiling, responsible
+gaming, strategy/behavior of players,
+   17/3239  . . . . . {Tracking of individual players}
+   17/3241  . . {Security aspects of a gaming system, e.g.
+detecting cheating, device integrity, surveillance
+(computer security G06F 21/00)}
+   17/3244  . . {Payment aspects of a gaming system, e.g.
+payment schemes, setting payout ratio, bonus or
+   17/3246  . . . {involving coins and/or banknotes}
+   17/3248  . . . {involving non-monetary media of fixed value,
+e.g. casino chips of fixed value}
+   17/3251  . . . {involving media of variable value, e.g.
+programmable cards, programmable tokens}
+   17/3253  . . . {involving articles, e.g. paying in bottles,
+   17/3255  . . . {Incentive, loyalty and/or promotion schemes,
+e.g. comps, gaming associated with a purchase,
+gaming funded by advertisements}
+   17/3258  . . . {Cumulative reward schemes, e.g. jackpots}
+   17/326   . . {Game play aspects of gaming systems}
+   17/3262  . . . {Player actions which determine the course
+of the game, e.g. selecting a prize to be won,
+outcome to be achieved, game to be played}
+   17/3265  . . . . {Influencing the position of stopped moving
+members to achieve a winning arrangement,
+e.g. nudging, shuffling, holding}
+   17/3267  . . . {Game outcomes which determine the course
+of the subsequent game, e.g. double or quits,
+free games, higher payouts, different new
+   17/3269  . . . {Timing aspects of game play, e.g. blocking/
+halting the operation of a gaming machine}
+   17/3272  . . . {Games involving multiple players}
+   17/3274  . . . . {wherein the players cooperate, e.g. team-
+   17/3276  . . . . {wherein the players compete, e.g.
+   17/3279  . . . . . {wherein the competition is one-to-one,
+   17/3281  . . . . {wherein game attributes are transferred
+between players, e.g. points, weapons,
+   17/3283  . . . . {wherein the number of active machines is
+   17/3286  . . {Type of games}
+   17/3288  . . . {Betting, e.g. on live events, bookmaking}
+   17/329   . . . {Regular and instant lottery, e.g. electronic
+   17/3293  . . . {Card games, e.g. poker, canasta, black jack}
+   17/3295  . . . {Games involving skill, e.g. dexterity, memory,
+   17/3297  . . . {Fairground games, e.g. Tivoli, coin pusher
+   17/34    . . depending on the stopping of moving members
+{in a mechanical slot machine}, e.g. "fruit"
+   17/36    . . Age, character or fortune telling apparatus
+   17/38    . . Ball games; Shooting apparatus
+   17/40    . for devices for accepting orders, advertisements, or
+   17/42    . for ticket printing or like apparatus {, e.g. apparatus
+for dispensing of printed paper tickets or payment
+   19/00    Complete banking systems; Coded card-freed
+arrangements adapted for dispensing or receiving
+monies or the like and posting such transactions
+to existing accounts, e.g. automatic teller machines
+(data processing equipment for bank accounting
+   19/20    . {Automatic teller machines [ATMs]}
+   19/201   . . {Accessories of ATMs}
+   19/202   . . {Depositing operations within ATMs (depositing
+   19/203   . . {Dispensing operations within ATMs (dispensing
+   19/204   . . {Loading of a stored value token using an ATM}
+   19/205   . . {Housing aspects of ATMs}
+   19/2055  . . . {Anti-skimming aspects at ATMs}
+   19/206   . . {Software aspects at ATMs}
+   19/207   . . {Surveillance aspects at ATMs}
+   19/208   . . {Use of an ATM as a switch or hub}
+   19/209   . . {Monitoring, auditing or diagnose of functioning
+   19/21    . . {Retaining of the payment card by ATMs}
+   19/211   . . {Software architecture within ATMs or in relation

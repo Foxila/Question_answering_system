@@ -1,0 +1,34 @@
+COOPERATIVE PATENT CLASSIFICATION
+METEOROLOGY (influencing weather conditions A01G 15/00; dispersing fog E01H 13/00;
+instruments for measuring single variable in general, see the appropriate subclass of G01, e.g.
+G01K, G01L; obtaining meteorological information by radar G01S 13/95)
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+ 2001/003   . {Clear air turbulence detection or forecasting, e.g.
+ 2001/006   . {Main server receiving weather information from
+    1/02    . Instruments for indicating weather conditions by
+measuring two or more variables, e.g. humidity,
+pressure, temperature, cloud cover or wind speed
+    1/04    . . giving only separate indications of the variables
+    1/06    . . giving a combined indication of weather
+conditions (catathermometers for measuring
+"cooling value" related either to weather
+conditions or to comfort of other human
+environment G01W 1/17; computers per se G06)
+    1/08    . Adaptations of balloons, missiles, or aircraft for
+meteorological purposes; Radiosondes (transmission
+of measurements G01D; transmitting circuits H04B;
+{balloons in general B64B; aeroplanes in general
+B64D; missiles in general F42B 15/00})
+    1/10    . Devices for predicting weather conditions
+(computers per se G06; display devices G09)
+    1/11    . Weather houses or other ornaments for indicating
+    1/12    . Sunshine duration recorders (measuring intensity of
+    1/14    . Rainfall or precipitation gauges (measuring volume
+    1/16    . Measuring atmospheric potential differences, e.g.
+due to electrical charges in clouds (measuring
+    1/17    . Catathermometers for measuring "cooling value"
+related either to weather conditions or to comfort of
+    1/18    . Testing or calibrating meteorological apparatus
+ 2201/00    Weather detection, monitoring or forecasting for
+establishing the amount of global warming
+ 2203/00    Real-time site-specific personalized weather

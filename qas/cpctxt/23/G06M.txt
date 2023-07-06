@@ -1,0 +1,118 @@
+COOPERATIVE PATENT CLASSIFICATION
+COMPUTING; CALCULATING OR COUNTING
+COUNTING MECHANISMS; COUNTING OF OBJECTS NOT OTHERWISE
+PROVIDED FOR (counting by measuring volume or weight of articles to be counted G01F,
+G01G; computers G06C - G06J; counting electric pulses H03K; counting characters, words or
+messages in switching networks for transmission of digital information H04L 12/08)
+• stepping or continuously-moving mechanical counters operated through one or more inputs applied to the lowest order
+• counting systems involving applications of either mechanical, electrical, or electronic counters.
+{In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Design features of general application
+    1/02    . Housing (for measuring instruments in general
+    1/026   . . {Connecting or supporting parts}
+    1/028   . . {Arbors, drum fixing and adjusting means (arbor-
+    1/04    . for driving the stage of lowest order (with variable
+    1/041   . . {for drum-type indicating means}
+    1/042   . . . {with click devices (electromagnetic driving
+    1/044   . . . {with escapements (electromagnetic driving
+    1/045   . . {for dial, pointer, or similar type indicating
+    1/047   . . {for arithmetical operations}
+    1/048   . . {with switching means between two or more
+    1/06    . . producing continuous revolution of the stage, e.g.
+    1/062   . . . {for drum type indicating means}
+    1/064   . . . {for dial, pointer, or similar type indicating
+    1/066   . . . {for arithmetical operations}
+    1/068   . . . {with switching means between two or more
+    1/08    . for actuating the drive
+    1/083   . . {by mechanical means (counting of stacked
+    1/086   . . . {including barriers (counting of conveyed
+    1/10    . . by electric or magnetic means
+    1/101   . . . {by electro-optical means}
+    1/102   . . . {by magnetic or electromagnetic means}
+    1/104   . . . . {electromagnets, clicks}
+    1/105   . . . . . {electronic circuits for actuating the
+    1/107   . . . . {electromotors}
+    1/108   . . . {by electronic means}
+    1/123   . . . {by pneumatic means}
+    1/126   . . . {by hydraulic means}
+    1/14    . for transferring a condition from one stage to
+a higher stage (with variable ratio of transfer
+    1/146   . . {with dials, pointers, or similar type indicating
+    1/16    . . self-operating, e.g. by Geneva mechanism
+    1/166   . . . {with dials, pointers or similar type indicating
+    1/18    . . requiring external operation, e.g. by
+    1/186   . . . {with dials, pointers, or similar type indicating
+    1/20    . . specially adapted for denominations with unequal
+numbers in each stage, e.g. degrees and minutes
+    1/22    . for visual indication of the result of count on
+counting mechanisms, e.g. by window with
+    1/24    . . Drums; Dials; Pointers (for measuring
+instruments in general G01D; {for time
+measuring instruments G04B 19/00, including
+drums G04B 19/21, G04C 19/04; date indicating
+    1/243   . . . . {Drums with presetting means}
+    1/245   . . . {Dials; Pointers}
+    1/246   . . . {Bands; Sheets}
+    1/27    . for representing the result of count in the form of
+electric signals, e.g. by sensing markings on the
+    1/272   . . using photoelectric means
+    1/274   . . using magnetic means; using Hall-effect devices
+    1/276   . . using mechanically-actuated contacts
+    1/28    . for zeroising or setting to a particular value
+    1/286   . . {with dials, pointers, or similar type indicating
+    1/30    . . using heart-shaped or similar cams; using levers
+    1/306   . . . {with dials, pointers, or similar type indicating
+    1/32    . . . Actuating means, e.g. magnet, spring, weight
+    1/323   . . . . {with drums}
+    1/326   . . . . {with dials, pointers, or similar type
+    1/34    . . using reset shafts
+    1/346   . . . {with dials, pointers, or similar type indicating
+    1/36    . . . Actuating means, e.g. magnet, spring, weight
+    1/363   . . . . {with drums}
+    1/366   . . . . {with dials, pointers, or similar type
+    1/38    . for varying ratio of drive or transfer mechanism, e.g.
+by using alternative counting trains
+    1/385   . . {differentials}
+    3/00    Counters with additional facilities (generating
+electric pulses at random intervals H03K 3/84)
+    3/02    . for performing an operation at a predetermined
+value of the count, e.g. arresting a machine
+    3/021   . . {with drums type indicating means}
+    3/022   . . . {by subtracting}
+    3/025   . . {with dial, pointer, or similar type indicating
+    3/027   . . . {by subtracting}
+    3/04    . . with an additional counter train operating in the
+    3/046   . . . {with dials, pointers, or similar type indicating
+    3/06    . for printing or separately displaying result of count
+    3/067   . . . {with dials, pointers, or similar type indicating
+    3/08    . for counting the input from several sources; for
+counting inputs of different amounts
+    3/10    . for counting denominations with unequal numbers
+in each stage, e.g. degrees and minutes of angle
+(transfer mechanism therefor G06M 1/20)
+    3/12    . for preventing incorrect actuation, e.g. for
+    3/14    . for registering difference of positive and negative
+Counting of objects (in machines for shaping metal without
+removing material B21C 51/00; in printing machines or presses
+B41F 33/02; in office copying machines B41L 39/02; of axles of rail
+vehicles B61L 1/16; in packaging machines B65B 65/08; of objects
+conveyed through a pipe or tube B65G 51/36; entry or exit registers
+    7/00    Counting of objects carried by a conveyor
+    7/02    . wherein objects ahead of the sensing element
+are separated to produce a distinct gap between
+    7/04    . . Counting of piece goods, e.g. of boxes
+    7/06    . . Counting of flat articles, e.g. of sheets of paper
+    7/08    . wherein the direction of movement of the objects is
+changed at the station where they are sensed
+    7/10    . . Counting of flat overlapped articles, e.g. of cards
+    9/00    Counting of objects in a stack thereof
+    9/02    . by using a rotating separator incorporating
+    9/025   . . {the rotation axis being substantially parallel to
+   11/00    Counting of objects distributed at random, e.g. on
+   11/02    . using an electron beam scanning a surface line by
+line, e.g. of blood cells on a substrate
+   11/04    . . with provision for distinguishing between
+different sizes of objects (investigating particle
+   15/00    Counting of objects, not otherwise provided for
+ 2207/00    Indexing scheme relating to counting of objects
+ 2207/02    . Counting of generally flat and overlapped articles,

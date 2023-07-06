@@ -1,0 +1,337 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+INDEXING SCHEME RELATING TO ASPECTS CROSS-CUTTING VEHICLE
+ 2200/11    . . Passenger cars; Automobiles
+ 2200/112   . . . City movers, small sized city motor vehicles
+ 2200/114   . . . Racing vehicles, e.g. Formula one, Karts
+ 2200/12    . . Motorcycles, Trikes; Quads; Scooters
+ 2200/124   . . . Buggies, Quads
+ 2200/13    . . Bicycles; Tricycles
+ 2200/132   . . . All terrain bikes
+ 2200/14    . . Trucks; Load vehicles, Busses
+ 2200/142   . . . Heavy duty trucks
+ 2200/1422  . . . . Multi-axle trucks
+ 2200/1432  . . . . Low floor busses
+ 2200/144   . . . Garbage trucks, e.g. refuse trucks
+ 2200/145   . . . Haulage vehicles, trailing trucks
+ 2200/146   . . . Silo or fluid transporting vehicles
+ 2200/147   . . . Trailers, e.g. full trailers or caravans
+ 2200/148   . . . Semi-trailers, articulated vehicles
+ 2200/15    . . Fork lift trucks, Industrial trucks
+ 2200/16    . . Vehicles with lowerable bed or chassis, e.g. to
+ 2200/20    . Off-Road Vehicles
+ 2200/22    . . Agricultural vehicles
+ 2200/223   . . . Ridable lawn mowers
+ 2200/224   . . . Boom carrying vehicles, e.g. for irrigation
+ 2200/225   . . . Walk behind vehicles, e.g. motorized wheel
+ 2200/23    . . Ridable golf cars
+ 2200/24    . . Military vehicles
+ 2200/33    . . Rail cars; Waggons
+ 2200/37    . . Roller coasters
+ 2200/39    . . having track following mechanism for lateral
+ 2200/41    . . Construction vehicles, e.g. graders, excavators
+ 2200/411   . . . Bulldozers, Graders
+ 2200/415   . . . Wheel loaders
+ 2200/417   . . . Articulated frame vehicles
+ 2200/42    . . Amphibious vehicles
+ 2200/43    . . Variable track or wheelbase vehicles
+ 2200/44    . . Multi-axle long vehicles, with independently
+ 2200/45    . . Vehicles having steerable wheels mounted on a
+ 2200/46    . . Arctic-/Extraterrestric explorers
+ 2200/47    . . Climbing vehicles, e.g. facade climbing devices
+ 2200/48    . . . Stair-climbing vehicles
+ 2200/49    . . Movable platforms, Load ramps, e.g. working
+ 2200/50    . Aeroplanes, Helicopters
+ 2200/60    . Industrial applications, e.g. pipe inspection vehicles
+ 2200/62    . . Conveyors, floor conveyors
+ 2200/66    . . Containers; Pallets; Skids
+ 2200/80    . Other vehicles not covered by groups
+ 2200/83    . . Perambulators; Buggies; Strollers
+ 2200/86    . . Carts; Golf carts
+ 2200/90    . Vehicles comprising electric prime movers
+ 2200/91    . . Electric vehicles
+ 2200/912   . . . Electric vehicles with power supply external to
+vehicle, e.g. trolley buses or trams
+ 2200/92    . . Hybrid vehicles
+ 2300/00    Purposes or special features of road vehicle drive
+control systems (for systems using conjoint control
+of multiple vehicle sub-units B60W 30/00)
+ 2300/02    . Control of vehicle driving stability
+ 2300/022   . . Stability in turns or during cornering
+ 2300/0223  . . . related to over-steering
+ 2300/0227  . . . related to under-steering
+ 2300/045   . . Improving turning performance, e.g. agility of a
+ 2300/0453  . . . about the pitch axis
+ 2300/0457  . . . about the roll axis
+ 2300/06    . Automatic manoeuvring for parking
+ 2300/08    . Predicting or avoiding probable or impending
+ 2300/085   . . Taking automatic action to adjust vehicle
+attitude or components thereof in preparation for
+collision, e.g. adjusting bumpers or wheels or
+ 2300/09    . . Taking automatic action to avoid collision, e.g.
+ 2300/095   . . Predicting travel path or likelihood of collision
+ 2300/0952  . . . the prediction being responsive to vehicle
+ 2300/0954  . . . the prediction being responsive to traffic or
+ 2300/097   . . Vehicle operation after collision
+ 2300/146   . . . Speed limiting
+ 2300/16    . . Control of distance between vehicles, e.g. keeping
+a distance to preceding vehicle
+ 2300/162   . . . Speed limiting therefor
+ 2300/165   . . . Automatically following the path of a
+preceding lead vehicle, e.g. "electronic tow-
+ 2300/17    . . . with provision for special action when the
+preceding vehicle comes to a halt, e.g. stop-
+ 2300/18    . Propelling the vehicle
+ 2300/18008 . . related to particular drive situations
+ 2300/18016 . . . Start-stop drive, e.g. in a traffic jam
+ 2300/18025 . . . Drive off, accelerating from standstill
+ 2300/18041 . . . . Rocking, i.e. fast change between forward
+ 2300/1805  . . . at stand still, e.g. engine in idling state
+ 2300/18075 . . . . with torque flow from driveshaft to engine,
+i.e. engine being driven by vehicle
+ 2300/18083 . . . . without torque flow between driveshaft
+and engine, e.g. with clutch disengaged or
+ 2300/18091 . . . Preparing for stopping
+ 2300/181   . . . Hill climbing or descending
+ 2300/18116 . . . . Hill holding
+ 2300/18125 . . . . Regenerative braking
+ 2300/18133 . . . . Engine braking
+ 2300/18141 . . . . Braking for parking
+ 2300/18158 . . . Approaching intersection
+ 2300/18166 . . . Overtaking, changing lanes
+ 2300/18175 . . Preventing, or responsive to skidding of wheels
+ 2300/18183 . . Propulsion control with common controlling
+ 2300/18191 . . Propulsion control with control means using
+analogue circuits, relays or mechanical links
+ 2300/182   . . Selecting between different operative modes, e.g.
+ 2300/184   . . Preventing damage resulting from overload or
+excessive wear of the driveline
+ 2300/1845  . . . Preventing of breakage of drive line
+components, e.g. parts of the gearing
+ 2300/186   . . . Excessive wear or burn out of friction
+ 2300/1865  . . . . Overheating of driveline components
+ 2300/188   . . Controlling power parameters of the driveline,
+e.g. determining the required power
+ 2300/1882  . . . characterised by the working point of the
+engine, e.g. by using engine output chart
+ 2300/1884  . . . Avoiding stall or over-speed of the engine
+ 2300/1886  . . . Controlling power supply to auxiliary devices
+ 2300/1888  . . . . Control of power take off [PTO]
+ 2300/19    . . Improvement of gear change, e.g. synchronisation
+ 2300/192   . . Power-up or power-down of the driveline, e.g.
+ 2300/194   . . . related to low temperature conditions, e.g. high
+ 2300/20    . . Reducing vibrations in the driveline
+ 2300/202   . . . related or induced by the clutch
+ 2300/205   . . . related or induced by the engine
+ 2300/207   . . . related to drive shaft torsion, e.g. driveline
+ 2300/22    . . Reducing road induced vibrations, suppressing
+ 2300/24    . . Adaptation to external conditions, e.g. road
+ 2300/244   . . . Adaptation to traffic conditions
+ 2300/26    . . Dangerous conditions
+ 2300/28    . related to towing or towed situations
+ 2300/30    . related to stationary vehicle situations, e.g. parked
+ 2300/301   . . Kneeling, e.g. for letting passengers on or off
+ 2300/303   . . Lowering or adjusting the floor for loading or
+ 2300/305   . . . Adjusting floor height to loading ramp level
+ 2300/306   . . . Mechanism to lock the height
+ 2300/308   . . Jacking-up for changing tyre or for vehicle
+ 2300/42    . Control of clutches
+ 2300/421   . . Control of lock-up type clutches, e.g. in a torque
+ 2300/423   . . Control of power take-off clutches
+ 2300/424   . . Control of freewheel clutches
+ 2300/425   . . Control of clutches to regulate engine speed or
+ 2300/426   . . Reducing engagement shocks in main clutch
+ 2300/427   . . Control of clutch touch point, e.g. kiss point
+ 2300/428   . . Reducing clutch wear
+ 2300/429   . . Control of secondary clutches in drivelines
+ 2300/43    . Control of engines
+ 2300/431   . . Control of engine air-fuel ratio
+ 2300/432   . . Control of engine fuel injection
+ 2300/433   . . Control of engine throttle
+ 2300/434   . . Control of engine inlet air duct by secondary
+ 2300/435   . . Control of engine cylinder cut-off
+ 2300/436   . . Control of engine ignition
+ 2300/437   . . Control of engine valves
+ 2300/44    . Control of engine at idle speed
+ 2300/45    . Engine shutdown at standstill
+ 2300/46    . Engine injection cut at coasting
+ 2300/472   . . Catalyst reactivation
+ 2300/474   . . Catalyst warm up
+ 2300/476   . . Regeneration of particle filters
+ 2300/48    . Engine direct start by injecting fuel and fire
+ 2300/49    . Engine push start or restart by use of vehicle kinetic
+ 2300/50    . Engine start by use of flywheel kinetic energy
+ 2300/51    . Driving or powering of engine accessories
+ 2300/52    . Engine fuel consumption
+ 2300/525   . . by reducing drag torque, e.g. by closing valves to
+ 2300/53    . Engine over-speed
+ 2300/54    . Engine overload, high loads on engine
+ 2300/55    . Engine low load mode
+ 2300/56    . Engine stall prevention
+ 2300/57    . Engine torque resume after shifting
+ 2300/58    . Engine torque vibration dampers, e.g. flywheels,
+ 2300/60    . Control of electric machines, e.g. problems related
+to electric motors or generators
+ 2300/61    . . Inductive lock-up
+ 2300/62    . . Mechanical lock-up, e.g. using brake to
+ 2300/63    . . Starter motor mode
+ 2300/64    . . Drag run or drag torque compensation, e.g. motor
+to drive engine with drag torque or engine speed
+is brought to start speed before injection and
+ 2300/65    . . Reduce shocks on mode change, e.g. during
+ 2300/66    . . Control for gear shift synchronisation
+ 2300/67    . . High load on electric machines, e.g. overheating
+ 2300/68    . . Over-speed of electric machines
+ 2300/69    . . Motor boost, e.g. short time overpower
+ 2300/70    . Control of gearings
+ 2300/71    . . Limiting transmission input torque
+ 2300/72    . . Facilitate disengaging of gears, e.g. by inducing a
+ 2300/73    . . Synchronisation of shaft speeds
+ 2300/74    . . Reducing shift shocks
+ 2300/75    . . Dither torque, e.g. to remove tooth butting
+ 2300/77    . . Torque reversal, e.g. avoid clunks when changing
+ 2300/785   . . . Geared neutral
+ 2300/80    . Control of differentials
+ 2300/82    . . Torque vectoring
+ 2300/84    . . Differential locking
+ 2300/88    . Reducing brake wear
+ 2300/89    . Repartition of braking force, e.g. friction braking
+ 2300/90    . Releasing parking brake at start
+ 2300/92    . Battery protection from overload or overcharge
+ 2302/00    Responses or measures related to driver conditions
+(for propulsion units B60K 28/02, related to driving
+ 2302/01    . Preventing starting of the vehicle
+ 2302/03    . Actuating a signal or alarm device
+ 2302/05    . Leading to automatic stopping of the vehicle
+ 2302/07    . Disabling particular vehicle functions, e.g. to affect
+ 2302/09    . Reducing the workload of driver
+ 2304/00    Optimising design; Manufacturing; Testing
+ 2304/01    . Minimizing space with more compact designs or
+ 2304/05    . Reducing production costs, e.g. by redesign
+ 2304/07    . Facilitating assembling or mounting
+ 2304/072   . . by preassembled subunits
+ 2304/074   . . by improved accessibility
+ 2304/076   . . by add-on parts, e.g. retrofit
+ 2304/078   . . by interchangeable parts, e.g. new part adapting
+ 2304/09    . Testing or calibrating during manufacturing
+ 2306/00    Other features of vehicle sub-units
+ 2306/01    . Reducing damages in case of crash, e.g. by
+ 2306/07    . Heating of passenger cabins
+ 2306/11    . Noise generation, e.g. drive noise to warn
+pedestrians that an electric vehicle is approaching
+ 2306/13    . Failsafe arrangements
+ 2306/15    . Failure diagnostics
+ 2400/00    Special features of vehicle units
+ 2400/10    . Energy storage devices
+ 2400/102   . . for hydrogen fuel
+ 2400/104   . . for liquid petrol gas
+ 2400/11    . Electric energy storages
+ 2400/114   . . Super-capacities
+ 2400/14    . Hydraulic energy storages, e.g. hydraulic
+ 2400/15    . Pneumatic energy storages, e.g. pressure air tanks
+ 2400/16    . Mechanic energy storages
+ 2400/20    . Energy converters
+ 2400/204   . . Generator sets, engine and generator as one unit
+ 2400/206   . . Thermo-electric generators
+ 2400/208   . . Peltier or Thomson elements for cooling or
+ 2400/209   . . Piezo-electric elements
+ 2400/21    . External power supplies
+ 2400/212   . . by power from overhead cables using trolleys
+ 2400/214   . . by power from domestic supply, e.g. plug in
+ 2400/216   . . by solar panels
+ 2400/301   . . for position or displacement
+ 2400/3012  . . . using Hall effect
+ 2400/3015  . . . Optical cameras
+ 2400/3019  . . Fluid level sensors
+ 2400/302   . . Temperature sensors
+ 2400/3032  . . . Wheel speed sensors
+ 2400/304   . . Acceleration sensors
+ 2400/3042  . . . Collision sensors
+ 2400/3044  . . . Vibration sensors
+ 2400/306   . . Pressure sensors
+ 2400/308   . . Electric sensors
+ 2400/3084  . . . Electric currents sensors
+ 2400/3086  . . . Electric voltages sensors
+ 2400/40    . Actuators for moving a controlled member
+ 2400/402   . . Manual actuators, i.e. input levers or linkages
+ 2400/4024  . . . with adjustable positions
+ 2400/4026  . . . providing feel, e.g. with feedback force
+ 2400/404   . . Electro-magnetic actuators, e.g. with an
+electromagnet not rotating for moving a clutching
+ 2400/4045  . . . Electro-magnetic valves, i.e. solenoids
+ 2400/405   . . Electric motors actuators
+ 2400/406   . . Hydraulic actuators
+ 2400/408   . . Pneumatic actuators
+ 2400/41    . . Mechanical transmissions for actuators
+ 2400/411   . . . Bowden cables or linkages
+ 2400/4115  . . . . Lost motion linkages
+ 2400/4117  . . . . Slack adjustments
+ 2400/412   . . . Screw-nut mechanisms
+ 2400/414   . . . Ramp or cam mechanisms
+ 2400/416   . . . Centrifugal actuators
+ 2400/418   . . Power assistance, e.g. servo-motors
+ 2400/4185  . . . Mechanical assistance, i.e. using springs or
+accumulators without feedback control
+ 2400/4187  . . . Servo-motors, e.g. electric or fluidic with
+ 2400/42    . Clutches or brakes
+ 2400/421   . . Dog type clutches or brakes
+ 2400/422   . . Synchromesh type clutches or brakes
+ 2400/423   . . Electromagnetic clutches, e.g. powder type
+ 2400/424   . . Friction clutches
+ 2400/4244  . . . of wet type, e.g. using multiple lamellae
+ 2400/425   . . Viscous couplings
+ 2400/426   . . Hydrodynamic couplings, e.g. torque converters
+ 2400/427   . . One-way clutches
+ 2400/428   . . Double clutch arrangements; Dual clutches
+ 2400/431   . . Gas turbine engines
+ 2400/433   . . Gas Engines, e.g. using LPG, natural gas or
+ 2400/434   . . Hydrogen fuel engines
+ 2400/435   . . Supercharger or turbochargers
+ 2400/436   . . Electromagnetic engines valves
+ 2400/44    . . Exhaust turbines driving generators
+ 2400/442   . . Exhaust gas recirculation [EGR]
+ 2400/446   . . Exhaust gas reformers, e.g. treated by fuel cells
+ 2400/46    . Engine start hydraulic or electric motors
+ 2400/47    . Starter generator drive systems
+ 2400/48    . Vibration dampers, e.g. dual mass flywheels
+ 2400/60    . Electric Machines, e.g. motors or generators
+ 2400/604   . . AC Machines, e.g. asynchronous motors
+ 2400/607   . . Axial flux machines
+ 2400/608   . . Clutch motors, i.e. having rotating stators
+ 2400/61    . Arrangements of controllers for electric machines,
+ 2400/71    . . Manual or semi-automatic, e.g. automated manual
+ 2400/72    . . Continous variable transmissions [CVT]
+ 2400/73    . . Planetary gearings
+ 2400/732   . . . with intermeshing planetary gears, e.g.
+ 2400/74    . . Shaft brakes, e.g. input shaft brakes
+ 2400/75    . . Power shifting, e.g. without interruption of drive
+ 2400/76    . . Automatic gearshift to neutral
+ 2400/77    . . Gearshift position determination, e.g. check of
+ 2400/78    . . Pumps, e.g. jet type
+ 2400/79    . . Drive shafts, output shafts or propeller shafts
+ 2400/795   . . . Power take off
+ 2400/802   . . Differential locking systems
+ 2400/804   . . Torque vectoring arrangements
+ 2400/82    . Four wheel drive systems
+ 2400/83    . Steering input members
+ 2400/84    . Rear wheel steering; All wheel steerings
+ 2400/85    . Skid-steer systems, e.g. for tracked vehicles
+ 2400/86    . Suspension systems
+ 2400/88    . . Air conditioners, e.g. compressor drives
+ 2400/89    . . Cooling systems, e.g. fan drives
+ 2400/902   . . giving haptic or tactile signals
+ 2410/00    Constructional features of vehicle sub-units
+ 2410/102   . Shaft arrangements; Shaft supports, e.g. bearings
+ 2410/1022  . . Concentric shaft arrangements
+ 2410/105   . Valve bodies; Mounting of hydraulic controllers
+ 2410/111   . Aggregate identification or specification, e.g. using
+ 2410/113   . Mount clips, snap-fit, e.g. quick fit with elastic
+ 2410/114   . Shields, e.g. for heat protection
+ 2410/115   . Electric wiring; Electric connectors
+ 2410/12    . Production or manufacturing of vehicle parts
+ 2410/121   . . Metal parts manufactured by moulding
+ 2410/122   . . Plastic parts manufactured by moulding
+ 2410/123   . . Over-moulded parts
+ 2410/13    . Materials or fluids with special properties
+ 2410/132   . . Magnetic, e.g. permanent magnets
+ 2410/134   . . Rheological, magneto- or electro- fluids

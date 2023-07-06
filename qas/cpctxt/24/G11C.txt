@@ -1,0 +1,1060 @@
+COOPERATIVE PATENT CLASSIFICATION
+STATIC STORES (semiconductor memory devices H10B)
+1. This subclass covers devices or arrangements for storage of digital or analogue information:
+• in which no relative movement takes place between an information storage element and a transducer;
+• which incorporate a selecting-device for writing-in or reading-out the information into or from the store.
+2. This subclass does not cover elements not adapted for storage and not provided with such means as referred to in Note (3)
+below, which elements are classified in the appropriate subclass, e.g. of H01, H03K.
+3. In this subclass, the following terms are used with the meaning indicated:
+• "storage element" is an element which can hold at least one item of information and is provided with means for writing-in
+or reading-out this information;
+• "memory" is a device, including storage elements, which can hold information to be extracted when desired.
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    5/00    Details of stores covered by group G11C 11/00
+    5/005   . {Circuit means for protection against loss of
+information of semiconductor storage devices}
+    5/02    . Disposition of storage elements, e.g. in the form of a
+    5/025   . . {Geometric lay-out considerations of storage-
+and peripheral-blocks in a semiconductor storage
+device (geometrical lay-out of the components in
+integrated circuits, H01L 27/0207)}
+    5/04    . . Supports for storage elements {, e.g. memory
+modules}; Mounting or fixing of storage elements
+    5/05    . . . Supporting of cores in matrix
+    5/06    . Arrangements for interconnecting storage elements
+    5/063   . . {Voltage and signal distribution in integrated
+semi-conductor memory access lines, e.g. word-
+line, bit-line, cross-over resistance, propagation
+    5/066   . . {Means for reducing external access-lines for a
+semiconductor memory clip, e.g. by multiplexing
+at least address and data signals}
+    5/08    . . for interconnecting magnetic elements, e.g.
+    5/10    . . for interconnecting capacitors
+    5/12    . Apparatus or processes for interconnecting storage
+elements, e.g. for threading magnetic cores
+    5/14    . Power supply arrangements {, e.g. power down,
+chip selection or deselection, layout of wirings or
+power grids, or multiple supply levels}
+    5/141   . . {Battery and back-up supplies}
+    5/142   . . {Contactless power supplies, e.g. RF, induction,
+    5/143   . . {Detection of memory cassette insertion
+or removal; Continuity checks of supply or
+ground lines; Detection of supply variations,
+interruptions or levels (G11C 5/148 takes
+precedence); Switching between alternative
+supplies (G11C 5/141 takes precedence)}
+    5/144   . . . {Detection of predetermined disconnection or
+reduction of power supply, e.g. power down or
+    5/145   . . {Applications of charge pumps; Boosted voltage
+circuits; Clamp circuits therefor (G11C 5/141
+    5/146   . . . {Substrate bias generators (G11C 5/141 takes
+    5/147   . . {Voltage reference generators, voltage or current
+regulators; Internally lowered supply levels;
+Compensation for voltage drops (G11C 5/141
+    5/148   . . {Details of power up or power down circuits,
+standby circuits or recovery circuits}
+    7/00    Arrangements for writing information into, or
+reading information out from, a digital store
+(G11C 5/00 takes precedence; auxiliary circuits for
+stores using semiconductor devices G11C 11/4063,
+    7/005   . {with combined beam-and individual cell access}
+    7/02    . with means for avoiding parasitic signals
+    7/04    . with means for avoiding disturbances due to
+    7/06    . Sense amplifiers; Associated circuits {, e.g. timing
+    7/062   . . {Differential amplifiers of non-latching type, e.g.
+comparators, long-tailed pairs}
+    7/065   . . {Differential amplifiers of latching type}
+    7/067   . . {Single-ended amplifiers}
+    7/08    . . Control thereof
+    7/10    . Input/output [I/O] data interface arrangements, e.g.
+I/O data control circuits, I/O data buffers
+    7/1003  . . {Interface circuits for daisy chain or ring bus
+    7/1006  . . {Data managing, e.g. manipulating data before
+writing or reading out, data bus switches or
+    7/1009  . . . {Data masking during input/output}
+    7/1012  . . . {Data reordering during input/output, e.g.
+crossbars, layers of multiplexers, shifting or
+    7/1015  . . {Read-write modes for single port memories, i.e.
+having either a random port or a serial port}
+    7/1018  . . . {Serial bit line access mode, e.g. using bit line
+address shift registers, bit line address counters,
+    7/1021  . . . . {Page serial bit line access mode, i.e. using
+an enabled row address stroke pulse with its
+associated word line address and a sequence
+of enabled column address stroke pulses each
+with its associated bit line address}
+    7/1024  . . . . . {Extended data output [EDO] mode, i.e.
+keeping output buffer enabled during an
+    7/1027  . . . . {Static column decode serial bit line access
+mode, i.e. using an enabled row address
+stroke pulse with its associated word line
+address and a sequence of enabled bit line
+    7/103   . . . {using serially addressed read-write data
+registers (G11C 7/1036 takes precedence)}
+    7/1033  . . . . {using data registers of which only one stage
+is addressed for sequentially outputting data
+from a predetermined number of stages, e.g.
+    7/1036  . . . {using data shift registers}
+    7/1039  . . . {using pipelining techniques, i.e. using latches
+between functional memory parts, e.g. row/
+column decoders, I/O buffers, sense amplifiers}
+    7/1042  . . . {using interleaving techniques, i.e. read-write
+of one part of the memory while preparing
+    7/1045  . . . {Read-write mode select circuits}
+    7/1048  . . {Data bus control circuits, e.g. precharging,
+    7/1051  . . {Data output circuits, e.g. read-out amplifiers,
+data output buffers, data output registers, data
+output level conversion circuits}
+    7/1054  . . . {Optical output buffers}
+    7/1057  . . . {Data output buffers, e.g. comprising level
+conversion circuits, circuits for adapting load}
+    7/106   . . . {Data output latches}
+    7/1063  . . . {Control signal output circuits, e.g. status or
+busy flags, feedback command signals}
+    7/1066  . . . {Output synchronization}
+    7/1069  . . . {I/O lines read out arrangements}
+    7/1072  . . {for memories with random access ports
+synchronised on clock signal pulse trains, e.g.
+synchronous memories, self timed memories}
+    7/1075  . . {for multiport memories each having random
+access ports and serial ports, e.g. video RAM}
+    7/1078  . . {Data input circuits, e.g. write amplifiers, data
+input buffers, data input registers, data input level
+    7/1081  . . . {Optical input buffers}
+    7/1084  . . . {Data input buffers, e.g. comprising level
+conversion circuits, circuits for adapting load}
+    7/1087  . . . {Data input latches}
+    7/109   . . . {Control signal input circuits}
+    7/1093  . . . {Input synchronization}
+    7/1096  . . . {Write circuits, e.g. I/O line write drivers}
+    7/12    . Bit line control circuits, e.g. drivers, boosters, pull-
+up circuits, pull-down circuits, precharging circuits,
+equalising circuits, for bit lines
+    7/14    . Dummy cell management; Sense reference voltage
+    7/16    . Storage of analogue signals in digital stores using
+an arrangement comprising analogue/digital [A/D]
+converters, digital memories and digital/analogue
+    7/18    . Bit line organisation; Bit line lay-out
+    7/20    . Memory cell initialisation circuits, e.g. when
+powering up or down, memory clear, latent image
+    7/22    . Read-write [R-W] timing or clocking circuits;
+Read-write [R-W] control signal generators or
+    7/222   . . {Clock generating, synchronizing or distributing
+    7/225   . . {Clock input buffers}
+    7/227   . . {Timing of memory operations based on dummy
+memory elements or replica circuits}
+    7/24    . Memory cell safety or protection circuits, e.g.
+arrangements for preventing inadvertent reading or
+writing; Status cells; Test cells
+    8/00    Arrangements for selecting an address in a digital
+store (for stores using transistors G11C 11/407,
+    8/005   . {with travelling wave access}
+    8/04    . using a sequential addressing device, e.g. shift
+    8/06    . Address interface arrangements, e.g. address buffers
+    8/08    . Word line control circuits, e.g. drivers, boosters,
+pull-up circuits, pull-down circuits, precharging
+    8/12    . Group selection circuits, e.g. for memory block
+selection, chip selection, array selection
+    8/14    . Word line organisation; Word line lay-out
+    8/16    . Multiple access memory array, e.g. addressing
+one storage element via at least two independent
+    8/18    . Address timing or clocking circuits; Address control
+signal generation or management, e.g. for row
+address strobe [RAS] or column address strobe
+    8/20    . Address safety or protection circuits, i.e.
+arrangements for preventing unauthorized or
+   11/00    Digital stores characterised by the use of
+particular electric or magnetic storage
+elements; Storage elements therefor
+(G11C 14/00 - G11C 21/00 take precedence)
+Group G11C 11/56 takes precedence over groups
+{This Note corresponds to IPC Note (1) relating to
+   11/005   . {comprising combined but independently operative
+RAM-ROM, RAM-PROM, RAM-EPROM cells}
+   11/02    . using magnetic elements
+   11/04    . . using storage elements having cylindrical form,
+e.g. rod, wire (G11C 11/12, G11C 11/14 take
+   11/06    . . using single-aperture storage elements, e.g. ring
+core; using multi-aperture plates in which each
+individual aperture forms a storage element
+   11/06007 . . . {using a single aperture or single magnetic
+Provisionally contains the following details;
+control write -, read -, address circuitry
+(pulse generators in general H03K 5/00,
+H03K 17/00 ); arrangements for temperature
+compensation; checking of the correct
+functioning and repair arrangements
+(checking methods in general G06F 11/00,
+G06F 11/28; testing magnetic elements
+per se G01R 33/00 ); magnetic properties,
+choice of materials or the like (materials per
+   11/06014 . . . . {using one such element per bit}
+   11/06021 . . . . . {with destructive read-out}
+   11/06028 . . . . . . {Matrixes}
+   11/06035 . . . . . . . {Bit core selection for writing or
+reading, by at least two coincident
+partial currents, e.g. "bit"- organised,
+   11/06042 . . . . . . . {"word"-organised, e.g. 2D
+organisation or linear selection, i.e.
+full current selection through all the
+bit-cores of a word during reading}
+   11/0605  . . . . . {with non-destructive read-out}
+   11/06057 . . . . . . {Matrixes}
+   11/06064 . . . . . . . {"bit"-organised (2 1/2D, 3D or
+   11/06071 . . . . . . . {"word"-organised (2D organisation
+   11/06078 . . . . {using two or more such elements per bit}
+   11/06085 . . . {Multi-aperture structures or multi-magnetic
+closed circuits, each aperture storing a "bit",
+realised by rods, plates, grids, waffle-irons,(i.e.
+grooved plates) or similar devices}
+   11/06092 . . . {Multi-aperture structures or multi-magnetic
+closed circuits using two or more apertures per
+   11/061   . . . using elements with single aperture or magnetic
+loop for storage, one element per bit, and for
+destructive read-out {(contains no documents,
+see G11C 11/06007, G11C 11/06014,
+   11/063   . . . . bit organised, such as 2 1/2D, 3D
+organisation, i.e. for selection of an
+element by means of at least two coincident
+partial currents both for reading and for
+writing {(contains no documents; see
+   11/065   . . . . word organised, such as 2D organisation, or
+linear selection, i.e. for selection of all the
+elements of a word by means of a single full
+current for reading {(contains no documents;
+   11/067   . . . using elements with single aperture or
+magnetic loop for storage, one element
+per bit, and for non-destructive read-
+out {(contains no documents, see
+   11/08    . . using multi-aperture storage elements, e.g.
+using transfluxors; using plates incorporating
+several individual multi-aperture storage elements
+   11/10    . . using multi-axial storage elements
+   11/12    . . using tensors; using twistors, i.e. elements in
+which one axis of magnetisation is twisted
+   11/14    . . using thin-film elements
+   11/15    . . . using multiple magnetic layers (G11C 11/155
+   11/155   . . . with cylindrical configuration
+   11/16    . . using elements in which the storage effect is
+   11/161   . . . {details concerning the memory cell structure,
+e.g. the layers of the ferromagnetic memory
+   11/165   . . . {Auxiliary circuits}
+   11/1653  . . . . {Address circuits or decoders}
+   11/1655  . . . . . {Bit-line or column circuits}
+   11/1657  . . . . . {Word-line or row circuits}
+   11/1659  . . . . {Cell access}
+   11/1673  . . . . {Reading or sensing circuits or methods}
+   11/1675  . . . . {Writing or programming circuits or
+   11/1677  . . . . {Verifying circuits or methods}
+   11/1693  . . . . {Timing circuits or methods}
+   11/1695  . . . . {Protection circuits or methods}
+   11/1697  . . . . {Power supply circuits}
+   11/18    . using Hall-effect devices
+   11/19    . using non-linear reactive devices in resonant circuits
+   11/20    . . using parametrons
+   11/21    . using electric elements
+   11/22    . . using ferroelectric elements
+   11/221   . . . {using ferroelectric capacitors}
+   11/223   . . . {using MOS with ferroelectric gate insulating
+   11/225   . . . {Auxiliary circuits}
+   11/2253  . . . . {Address circuits or decoders}
+   11/2255  . . . . . {Bit-line or column circuits}
+   11/2257  . . . . . {Word-line or row circuits}
+   11/2259  . . . . {Cell access}
+   11/2273  . . . . {Reading or sensing circuits or methods}
+   11/2275  . . . . {Writing or programming circuits or
+   11/2277  . . . . {Verifying circuits or methods}
+   11/2293  . . . . {Timing circuits or methods}
+   11/2295  . . . . {Protection circuits or methods}
+   11/2297  . . . . {Power supply circuits}
+   11/23    . . using electrostatic storage on a common
+layer, e.g. Forrester-Haeff tubes {or William
+tubes}(G11C 11/22 takes precedence)
+   11/24    . . using capacitors (G11C 11/22 takes precedence;
+using a combination of semiconductor devices
+and capacitors G11C 11/34, e.g. G11C 11/40)
+   11/26    . . using discharge tubes
+   11/265   . . . {counting tubes, e.g. decatrons or trochotrons}
+   11/28    . . . using gas-filled tubes
+   11/30    . . . using vacuum tubes (G11C 11/23 takes
+   11/34    . . using semiconductor devices
+   11/35    . . . with charge storage in a depletion layer, e.g.
+   11/36    . . . using diodes, e.g. as threshold elements
+{, i.e. diodes assuming a stable ON-stage
+when driven above their threshold (S- or N-
+   11/38    . . . . using tunnel diodes
+   11/39    . . . using thyristors {or the avalanche or negative
+resistance type, e.g. PNPN, SCR, SCS, UJT}
+   11/40    . . . using transistors
+   11/401   . . . . forming cells needing refreshing or charge
+regeneration, i.e. dynamic cells
+   11/402   . . . . . with charge regeneration individual to
+each memory cell, i.e. internal refresh
+   11/4023  . . . . . . {using field effect transistors}
+   11/4026  . . . . . . {using bipolar transistors}
+   11/403   . . . . . with charge regeneration common to a
+multiplicity of memory cells, i.e. external
+   11/404   . . . . . . with one charge-transfer gate, e.g. MOS
+   11/4045  . . . . . . . {using a plurality of serially
+connected access transistors, each
+   11/405   . . . . . . with three charge-transfer gates, e.g.
+   11/406   . . . . . Management or control of the refreshing
+   11/40603 . . . . . . {Arbitration, priority and concurrent
+access to memory cells for read/write or
+   11/40607 . . . . . . {Refresh operations in memory devices
+with an internal cache or data buffer}
+   11/40611 . . . . . . {External triggering or timing of
+internal or partially internal refresh
+operations, e.g. auto-refresh or CAS-
+   11/40615 . . . . . . {Internal triggering or timing of refresh,
+e.g. hidden refresh, self refresh, pseudo-
+   11/40618 . . . . . . {Refresh operations over multiple banks
+   11/40622 . . . . . . {Partial refresh of memory arrays}
+   11/40626 . . . . . . {Temperature related aspects of refresh
+   11/4063  . . . . . Auxiliary circuits, e.g. for addressing,
+decoding, driving, writing, sensing or
+   11/4067  . . . . . . for memory cells of the bipolar type
+   11/407   . . . . . . for memory cells of the field-effect type
+   11/4072  . . . . . . . Circuits for initialization, powering
+   11/4074  . . . . . . . Power supply or voltage generation
+circuits, e.g. bias voltage generators,
+substrate voltage generators, back-up
+   11/4076  . . . . . . . Timing circuits (for regeneration
+   11/4078  . . . . . . . Safety or protection circuits, e.g.
+unauthorised reading or writing;
+Status cells; Test cells (protection of
+memory contents during checking or
+   11/408   . . . . . . . Address circuits
+   11/4082  . . . . . . . . {Address Buffers; level conversion
+   11/4085  . . . . . . . . {Word line control circuits, e.g.
+word line drivers, - boosters, - pull-
+   11/4087  . . . . . . . . {Address decoders, e.g. bit - or
+word line decoders; Multiple line
+   11/409   . . . . . . . Read-write [R-W] circuits 
+   11/4091  . . . . . . . . Sense or sense/refresh amplifiers,
+or associated sense circuitry, e.g.
+for coupled bit-line precharging,
+   11/4093  . . . . . . . . Input/output [I/O] data interface
+arrangements, e.g. data buffers
+   11/4094  . . . . . . . . Bit-line management or control
+   11/4096  . . . . . . . . Input/output [I/O] data management
+or control circuits, e.g. reading or
+writing circuits, I/O drivers or bit-
+   11/4097  . . . . . . . . Bit-line organisation, e.g. bit-line
+   11/4099  . . . . . . . . Dummy cell treatment; Reference
+   11/41    . . . . forming {static} cells with positive feedback,
+i.e. cells not needing refreshing or charge
+regeneration, e.g. bistable multivibrator or
+   11/411   . . . . . using bipolar transistors only
+   11/4113  . . . . . . {with at least one cell access to base
+or collector of at least one of said
+transistors, e.g. via access diodes, access
+   11/4116  . . . . . . {with at least one cell access via
+separately connected emittors of said
+transistors or via multiple emittors, e.g.
+   11/412   . . . . . using field-effect transistors only
+   11/4125  . . . . . . {Cells incorporating circuit means for
+protecting against loss of information}
+   11/413   . . . . . Auxiliary circuits, e.g. for addressing,
+decoding, driving, writing, sensing, timing
+   11/414   . . . . . . for memory cells of the bipolar type
+   11/415   . . . . . . . Address circuits
+   11/416   . . . . . . . Read-write [R-W] circuits 
+   11/417   . . . . . . for memory cells of the field-effect type
+   11/418   . . . . . . . Address circuits
+   11/419   . . . . . . . Read-write [R-W] circuits
+   11/42    . . using opto-electronic devices, i.e. light-emitting
+and photoelectric devices electrically- or
+optically- coupled {or feedback-coupled}
+   11/44    . . using super-conductive elements, e.g. cryotron
+   11/46    . using thermoplastic elements
+   11/48    . using displaceable coupling elements, e.g.
+ferromagnetic cores, to produce change between
+different states of mutual or self-inductance
+{(contains no documents; see G11C 17/00 and
+   11/50    . using actuation of electric contacts to store the
+   11/52    . . using electromagnetic relays
+   11/54    . using elements simulating biological cells, e.g.
+   11/56    . using storage elements with more than two stable
+states represented by steps, e.g. of voltage, current,
+   11/5607  . . {using magnetic storage elements}
+   11/5614  . . {using conductive bridging RAM [CBRAM] or
+programming metallization cells [PMC]}
+   11/5621  . . {using charge storage in a floating gate}
+   11/5628  . . . {Programming or writing circuits; Data input
+   11/5635  . . . . {Erasing circuits}
+   11/5642  . . . {Sensing or reading circuits; Data output
+   11/565   . . {using capacitive charge storage elements}
+   11/5657  . . {using ferroelectric storage elements}
+   11/5664  . . {using organic memory material storage
+   11/5671  . . {using charge trapping in an insulator}
+   11/5678  . . {using amorphous/crystalline phase transition
+   11/5685  . . {using storage elements comprising metal oxide
+memory material, e.g. perovskites}
+   11/5692  . . {read-only digital stores using storage elements
+with more than two stable states}
+   13/00    Digital stores characterised by the use of storage
+elements not covered by groups G11C 11/00,
+   13/0002  . {using resistive RAM [RRAM] elements}
+   13/0004  . . {comprising amorphous/crystalline phase
+   13/0007  . . {comprising metal oxide memory material, e.g.
+   13/0009  . . {RRAM elements whose operation depends upon
+   13/0011  . . . {comprising conductive bridging RAM
+[CBRAM] or programming metallization cells
+   13/0014  . . . {comprising cells based on organic memory
+   13/0016  . . . . {comprising polymers}
+   13/0019  . . . . {comprising bio-molecules}
+   13/0021  . . {Auxiliary circuits}
+   13/0023  . . . {Address circuits or decoders}
+   13/0026  . . . . {Bit-line or column circuits}
+   13/0028  . . . . {Word-line or row circuits}
+   13/003   . . . {Cell access}
+   13/0033  . . . {Disturbance prevention or evaluation;
+Refreshing of disturbed memory data}
+   13/0035  . . . {Evaluating degradation, retention or wearout,
+e.g. by counting writing cycles}
+   13/0038  . . . {Power supply circuits}
+   13/004   . . . {Reading or sensing circuits or methods}
+ 2013/0042  . . . . {Read using differential sensing, e.g. bit line
+ 2013/0045  . . . . {Read using current through the cell}
+ 2013/0047  . . . . {Read destroying or disturbing the data}
+ 2013/005   . . . . {Read using potential difference applied
+ 2013/0052  . . . . {Read process characterized by the shape,
+e.g. form, length, amplitude of the read
+ 2013/0054  . . . . {Read is performed on a reference element,
+e.g. cell, and the reference sensed value is
+used to compare the sensed value of the
+ 2013/0057  . . . . {Read done in two steps, e.g. wherein the
+cell is read twice and one of the two read
+values serving as a reference value}
+   13/0059  . . . {Security or protection circuits or methods}
+   13/0061  . . . {Timing circuits or methods}
+   13/0064  . . . {Verifying circuits or methods}
+ 2013/0066  . . . . {Verify correct writing whilst writing is in
+progress, e.g. by detecting onset or cessation
+of current flow in cell and using the detector
+   13/0069  . . . {Writing or programming circuits or methods}
+ 2013/0071  . . . . {Write using write potential applied to access
+ 2013/0073  . . . . {Write using bi-directional cell biasing}
+ 2013/0076  . . . . {Write operation performed depending on
+ 2013/0078  . . . . {Write using current through the cell}
+ 2013/008   . . . . {Write by generating heat in the
+surroundings of the memory material, e.g.
+ 2013/0083  . . . . {Write to perform initialising, forming
+process, electro forming or conditioning}
+ 2013/0085  . . . . {Write a page or sector of information
+simultaneously, e.g. a complete row or word
+ 2013/0088  . . . . {Write with the simultaneous writing of a
+ 2013/009   . . . . {Write using potential difference applied
+ 2013/0092  . . . . {Write characterized by the shape, e.g. form,
+length, amplitude of the write pulse}
+ 2013/0095  . . . . {Write using strain induced by, e.g.
+piezoelectric, thermal effects}
+   13/0097  . . . {Erasing, e.g. resetting, circuits or methods}
+   13/02    . using elements whose operation depends
+upon chemical change {(G11C 13/0009 takes
+   13/025   . . {using fullerenes, e.g. C60, or nanotubes, e.g.
+   13/04    . using optical elements {; using other beam accessed
+elements, e.g. electron or ion beam}
+   13/041   . . {using photochromic storage elements
+(G11C 13/042 takes precedence)}
+   13/042   . . {using information stored in the form of
+   13/043   . . . {using magnetic-optical storage elements}
+   13/044   . . . {using electro-optical elements}
+   13/045   . . . {using photochromic storage elements}
+   13/046   . . . {using other storage elements storing
+information in the form of an interference
+   13/047   . . {using electro-optical elements (G11C 13/042
+   13/048   . . {using other optical storage elements}
+   13/06    . . using magneto-optical elements {(G11C 13/042
+   14/00    Digital stores characterised by arrangements
+of cells having volatile and non-volatile storage
+properties for back-up when the power is down
+   14/0009  . {in which the volatile element is a DRAM cell}
+   14/0018  . . {whereby the nonvolatile element is an EEPROM
+element, e.g. a floating gate or metal-nitride-
+oxide-silicon [MNOS] transistor}
+   14/0027  . . {and the nonvolatile element is a ferroelectric
+   14/0036  . . {and the nonvolatile element is a magnetic RAM
+[MRAM] element or ferromagnetic cell}
+   14/0045  . . {and the nonvolatile element is a resistive RAM
+element, i.e. programmable resistors, e.g. formed
+of phase change or chalcogenide material}
+   14/0054  . {in which the volatile element is a SRAM cell}
+   14/0063  . . {and the nonvolatile element is an EEPROM
+element, e.g. a floating gate or MNOS transistor}
+   14/0072  . . {and the nonvolatile element is a ferroelectric
+   14/0081  . . {and the nonvolatile element is a magnetic RAM
+[MRAM] element or ferromagnetic cell}
+   14/009   . . {and the nonvolatile element is a resistive RAM
+element, i.e. programmable resistors, e.g. formed
+of phase change or chalcogenide material}
+   15/00    Digital stores in which information comprising
+one or more characteristic parts is written into
+the store and in which information is read-out by
+searching for one or more of these characteristic
+parts, i.e. associative or content-addressed stores
+   15/02    . using magnetic elements
+   15/04    . using semiconductor elements
+   15/043   . . {using capacitive charge storage elements}
+   15/046   . . {using non-volatile storage elements}
+   15/06    . using cryogenic elements
+   16/00    Erasable programmable read-only memories
+   16/02    . electrically programmable
+   16/04    . . using variable threshold transistors, e.g. FAMOS
+   16/0408  . . . {comprising cells containing floating gate
+transistors (G11C 16/0483, G11C 16/0491 take
+   16/0416  . . . . {comprising cells containing a single floating
+gate transistor and no select transistor, e.g.
+   16/0425  . . . . {comprising cells containing a merged
+floating gate and select transistor}
+   16/0433  . . . . {comprising cells containing a single floating
+gate transistor and one or more separate
+   16/0441  . . . . {comprising cells containing multiple
+floating gate devices, e.g. separate read-and-
+write FAMOS transistors with connected
+   16/045   . . . . . {Floating gate memory cells with both P
+and N channel memory transistors, usually
+sharing a common floating gate}
+   16/0458  . . . . . {comprising two or more independent
+floating gates which store independent
+   16/0466  . . . {comprising cells with charge storage in an
+insulating layer, e.g. metal-nitride-oxide-silicon
+[MNOS], silicon-oxide-nitride-oxide-silicon
+[SONOS] (G11C 16/0483, G11C 16/0491 take
+   16/0475  . . . . {comprising two or more independent
+storage sites which store independent data}
+   16/0483  . . . {comprising cells having several storage
+transistors connected in series}
+   16/0491  . . . {Virtual ground arrays}
+   16/06    . . Auxiliary circuits, e.g. for writing into memory
+   16/08    . . . Address circuits; Decoders; Word-line control
+   16/10    . . . Programming or data input circuits
+   16/102   . . . . {External programming circuits, e.g.
+programming or reprogramming; EPROM
+   16/105   . . . . . {Circuits or methods for updating contents
+of nonvolatile memory, especially with
+'security' features to ensure reliable
+replacement, i.e. preventing that old data is
+lost before new data is reliably written}
+   16/107   . . . . {Programming all cells in an array, sector or
+block to the same state prior to flash erasing}
+   16/12    . . . . Programming voltage switching circuits
+   16/14    . . . . Circuits for erasing electrically, e.g. erase
+   16/16    . . . . . for erasing blocks, e.g. arrays, words,
+   16/18    . . . . Circuits for erasing optically
+   16/20    . . . . Initialising; Data preset; Chip identification
+   16/22    . . . Safety or protection circuits preventing
+unauthorised or accidental access to memory
+   16/225   . . . . {Preventing erasure, programming or reading
+when power supply voltages are outside the
+   16/24    . . . Bit-line control circuits
+   16/26    . . . Sensing or reading circuits; Data output circuits
+   16/28    . . . . using differential sensing or reference cells,
+   16/30    . . . Power supply circuits
+   16/32    . . . Timing circuits
+   16/34    . . . Determination of programming status, e.g.
+threshold voltage, overprogramming or
+   16/3404  . . . . {Convergence or correction of memory cell
+threshold voltages; Repair or recovery of
+overerased or overprogrammed cells}
+   16/3409  . . . . . {Circuits or methods to recover overerased
+nonvolatile memory cells detected during
+erase verification, usually by means of a
+   16/3413  . . . . . {Circuits or methods to recover
+overprogrammed nonvolatile memory
+cells detected during program verification,
+usually by means of a "soft" erasing step}
+   16/3418  . . . . {Disturbance prevention or evaluation;
+Refreshing of disturbed memory data}
+   16/3422  . . . . . {Circuits or methods to evaluate read or
+write disturbance in nonvolatile memory,
+without steps to mitigate the problem}
+   16/3427  . . . . . {Circuits or methods to prevent or reduce
+disturbance of the state of a memory
+cell when neighbouring cells are read or
+   16/3431  . . . . . {Circuits or methods to detect disturbed
+nonvolatile memory cells, e.g. which still
+read as programmed but with threshold
+less than the program verify threshold or
+read as erased but with threshold greater
+than the erase verify threshold, and to
+reverse the disturbance via a refreshing
+   16/3436  . . . . {Arrangements for verifying correct
+   16/344   . . . . . {Arrangements for verifying correct
+erasure or for detecting overerased cells}
+   16/3445  . . . . . . {Circuits or methods to verify correct
+erasure of nonvolatile memory cells}
+   16/345   . . . . . . {Circuits or methods to detect
+overerased nonvolatile memory cells,
+usually during erasure verification}
+   16/3454  . . . . . {Arrangements for verifying correct
+   16/3459  . . . . . . {Circuits or methods to verify correct
+programming of nonvolatile memory
+   16/3463  . . . . . . {Circuits or methods to detect
+overprogrammed nonvolatile memory
+   16/3468  . . . . . {Prevention of overerasure or
+overprogramming, e.g. by verifying whilst
+   16/3472  . . . . . . {Circuits or methods to verify correct
+erasure of nonvolatile memory cells
+whilst erasing is in progress, e.g. by
+detecting onset or cessation of current
+flow in cells and using the detector
+   16/3477  . . . . . . {Circuits or methods to prevent
+overerasing of nonvolatile memory
+cells, e.g. by detecting onset or cessation
+of current flow in cells and using the
+detector output to terminate erasing}
+   16/3481  . . . . . . {Circuits or methods to verify correct
+programming of nonvolatile memory
+cells whilst programming is in progress,
+e.g. by detecting onset or cessation
+of current flow in cells and using
+the detector output to terminate
+   16/3486  . . . . . . {Circuits or methods to prevent
+memory cells, e.g. by detecting onset
+or cessation of current flow in cells and
+using the detector output to terminate
+   16/349   . . . . {Arrangements for evaluating degradation,
+retention or wearout, e.g. by counting erase
+   16/3495  . . . . . {Circuits or methods to detect or delay
+wearout of nonvolatile EPROM or
+counting numbers of erase or reprogram
+cycles, by using multiple memory areas
+   17/00    Read-only memories programmable only once;
+Semi-permanent stores, e.g. manually-replaceable
+   17/005   . {with a storage element common to a large
+number of data, e.g. perforated card (G11C 17/02,
+   17/02    . using magnetic or inductive elements (G11C 17/14
+   17/04    . using capacitive elements (G11C 17/06,
+   17/06    . using diode elements (G11C 17/14 takes
+   17/08    . using semiconductor devices, e.g. bipolar elements
+(G11C 17/06, G11C 17/14 take precedence)
+   17/10    . . in which contents are determined during
+manufacturing by a predetermined arrangement
+of coupling elements, e.g. mask-programmable
+   17/12    . . . using field-effect devices
+   17/123   . . . . {comprising cells having several storage
+transistors connected in series}
+   17/126   . . . . {Virtual ground arrays}
+   17/14    . in which contents are determined by selectively
+establishing, breaking or modifying connecting
+links by permanently altering the state of coupling
+   17/143   . . {using laser-fusible links}
+   17/146   . . {Write once memory, i.e. allowing changing of
+memory content by writing additional bits}
+   17/16    . . using electrically-fusible links
+   17/165   . . . {Memory cells which are electrically
+programmed to cause a change in resistance,
+e.g. to permit multiple resistance steps to be
+programmed rather than conduct to or from
+non-conduct change of fuses and antifuses
+(digital stores using resistance random access
+   17/18    . . Auxiliary circuits, e.g. for writing into memory
+   19/00    Digital stores in which the information is moved
+   19/005   . {with ferro-electric elements (condensers)}
+   19/02    . using magnetic elements (G11C 19/14 takes
+   19/04    . . using cores with one aperture or magnetic loop
+   19/06    . . using structures with a number of apertures or
+magnetic loops, e.g. transfluxors {laddic}
+   19/08    . . using thin films in plane structure
+   19/0808  . . . {using magnetic domain propagation}
+   19/0816  . . . . {using a rotating or alternating coplanar
+   19/0825  . . . . {using a variable perpendicular magnetic
+   19/0833  . . . . {using magnetic domain interaction}
+   19/0841  . . . . {using electric current}
+   19/085   . . . {Generating magnetic fields therefor, e.g.
+uniform magnetic field for magnetic domain
+   19/0858  . . . {Generating, replicating or annihilating
+magnetic domains (also comprising different
+types of magnetic domains, e.g. "Hard
+Bubbles") (G11C 19/0866 takes precedence)}
+   19/0866  . . . {Detecting magnetic domains}
+   19/0875  . . . {Organisation of a plurality of magnetic shift
+   19/0883  . . . . {Means for switching magnetic domains
+from one path into another path, i.e. transfer
+switches, swap gates or decoders}
+   19/0891  . . . . . {using hybrid structure, e.g. ion doped
+   19/10    . . using thin films on rods; with twistors
+   19/12    . using non-linear reactive devices in resonant circuits
+{, e.g. parametrons; magnetic amplifiers with
+   19/14    . using magnetic elements in combination with active
+elements, e.g. discharge tubes, semiconductor
+elements {(contains no documents, see provisionally
+   19/18    . using capacitors as main elements of the stages {(if
+capacitors are used as auxiliary stage in between
+main stages with other elements, the latter take
+precedence; G11C 19/005 takes precedence)}
+   19/182   . . {in combination with semiconductor elements,
+e.g. bipolar transistors, diodes}
+   19/184   . . . {with field-effect transistors, e.g. MOS-FET}
+   19/186   . . . . {using only one transistor per capacitor, e.g.
+   19/188   . . . {Organisation of a multiplicity of shift
+registers, e.g. regeneration, timing or input-
+   19/20    . using discharge tubes (G11C 19/14 takes
+   19/202   . . {with vacuum tubes (G11C 19/207 takes
+   19/205   . . {with gas-filled tubes (G11C 19/207 takes
+   19/207   . . {with counting tubes}
+   19/28    . using semiconductor elements (G11C 19/14,
+   19/282   . . {with charge storage in a depletion layer, i.e.
+   19/285   . . . {Peripheral circuits, e.g. for writing into the
+first stage; for reading-out of the last stage}
+   19/287   . . {Organisation of a multiplicity of shift registers}
+   19/30    . using opto-electronic devices, i.e. light-emitting
+and photoelectric devices electrically- or optically-
+   19/32    . using super-conductive elements
+   19/34    . using storage elements with more than two stable
+states represented by steps, e.g. of voltage, current,
+   19/36    . . using {multistable} semiconductor elements
+   19/38    . two-dimensional, e.g. horizontal and vertical shift
+   21/00    Digital stores in which the information circulates
+{continuously}(stepwise G11C 19/00)
+   21/005   . {using electrical delay lines}
+   21/02    . using electromechanical delay lines, e.g. using a
+   21/023   . . {using piezo-electric transducers, e.g. mercury
+   21/026   . . {using magnetostriction transducers, e.g. nickel
+   23/00    Digital stores characterised by movement of
+mechanical parts to effect storage, e.g. using balls;
+   25/00    Digital stores characterised by the use of flowing
+media; Storage elements therefor
+   27/00    Electric analogue stores, e.g. for storing
+   27/005   . {with non-volatile charge storage, e.g. on floating
+   27/02    . Sample-and-hold arrangements (G11C 27/04 takes
+   27/022   . . {using a magnetic memory element}
+   27/024   . . {using a capacitive memory element (G11C 27/04
+   27/026   . . . {associated with an amplifier (G11C 27/028
+   27/028   . . . {Current mode circuits, e.g. switched current
+   29/00    Checking stores for correct operation {;
+Subsequent repair}; Testing stores during standby
+   29/003   . {in serial memories}
+   29/006   . {at wafer scale level, i.e. wafer scale integration
+   29/02    . Detection or location of defective auxiliary circuits,
+e.g. defective refresh counters
+   29/021   . . {in voltage or current generators}
+   29/022   . . {in I/O circuitry}
+   29/023   . . {in clock generator or timing circuitry}
+   29/025   . . {in signal lines}
+   29/026   . . {in sense amplifiers}
+   29/028   . . {with adaption or trimming of parameters}
+   29/04    . Detection or location of defective memory elements
+{, e.g. cell constructio details, timing of test signals}
+ 2029/0401  . . {in embedded memories}
+ 2029/0403  . . {during or with feedback to manufacture}
+ 2029/0405  . . {comprising complete test loop}
+ 2029/0411  . . {Online error correction}
+   29/06    . . Acceleration testing
+   29/08    . . Functional testing, e.g. testing during refresh,
+power-on self testing [POST] or distributed
+   29/10    . . . Test algorithms, e.g. memory scan [MScan]
+algorithms; Test patterns, e.g. checkerboard
+   29/12    . . . Built-in arrangements for testing, e.g. built-in
+self testing [BIST] {or interconnection details}
+   29/12005 . . . . {comprising voltage or current generators}
+   29/1201  . . . . {comprising I/O circuitry}
+   29/12015 . . . . {comprising clock generation or timing
+ 2029/1202  . . . . {Word line control}
+ 2029/1204  . . . . {Bit line control}
+ 2029/1206  . . . . {Location of test circuitry on chip or wafer}
+ 2029/1208  . . . . {Error catch memory}
+   29/14    . . . . Implementation of control logic, e.g. test
+   29/16    . . . . . using microprogrammed units, e.g. state
+   29/18    . . . . Address generation devices; Devices
+for accessing memories, e.g. details of
+ 2029/1802  . . . . . {Address decoder}
+ 2029/1804  . . . . . {Manipulation of word size}
+ 2029/1806  . . . . . {Address conversion or mapping, i.e.
+   29/20    . . . . . using counters or linear-feedback shift
+   29/22    . . . . . Accessing serial memories
+   29/24    . . . . . Accessing extra cells, e.g. dummy cells or
+   29/26    . . . . . Accessing multiple arrays (G11C 29/24
+ 2029/2602  . . . . . . {Concurrent test}
+   29/28    . . . . . . Dependent multiple arrays, e.g. multi-bit
+   29/30    . . . . . Accessing single arrays
+   29/32    . . . . . . Serial access; Scan testing
+ 2029/3202  . . . . . . {Scan chain}
+   29/34    . . . . . . Accessing multiple bits simultaneously
+   29/36    . . . . Data generation devices, e.g. data inverters
+ 2029/3602  . . . . . {Pattern generator}
+   29/38    . . . . Response verification devices
+   29/40    . . . . . using compression techniques
+ 2029/4002  . . . . . . {Comparison of products, i.e. test results
+   29/42    . . . . . using error correcting codes [ECC] or
+   29/44    . . . . Indication or identification of errors, e.g. for
+   29/4401  . . . . . {for self repair}
+ 2029/4402  . . . . {Internal storage of test result, quality data,
+chip identification, repair information}
+   29/46    . . . . Test trigger logic
+   29/48    . . . Arrangements in static stores specially adapted
+for testing by means external to the store, e.g.
+using direct memory access [DMA] or using
+   29/50    . . Marginal testing, e.g. race, voltage or current
+   29/50004 . . . {of threshold voltage}
+   29/50008 . . . {of impedance}
+   29/50016 . . . {of retention}
+ 2029/5002  . . . {Characteristic}
+   29/52    . Protection of memory contents; Detection of errors
+   29/54    . Arrangements for designing test circuits, e.g. design
+   29/56    . External testing equipment for static stores, e.g.
+automatic test equipment [ATE]; Interfaces therefor
+   29/56004 . . {Pattern generation}
+   29/56008 . . {Error analysis, representation of errors}
+   29/56012 . . {Timing aspects, clock generation,
+   29/56016 . . {Apparatus features}
+ 2029/5602  . . {Interface to device under test}
+ 2029/5604  . . {Display of error information}
+ 2029/5606  . . {Error catch memory}
+   29/70    . {Masking faults in memories by using spares or by
+   29/702   . . {by replacing auxiliary circuits, e.g. spare voltage
+generators, decoders or sense amplifiers, to be
+used instead of defective ones}
+   29/72    . . {with optimized replacement algorithms}
+   29/74    . . {using duplex memories, i.e. using dual copies}
+   29/76    . . {using address translation or modifications}
+   29/765   . . . {in solid state disks}
+   29/78    . . {using programmable devices}
+   29/781   . . . {combined in a redundant decoder}
+   29/783   . . . {with refresh of replacement cells, e.g. in
+   29/785   . . . {with redundancy programming schemes}
+   29/787   . . . . {using a fuse hierarchy}
+   29/789   . . . . {using non-volatile cells or latches}
+   29/80    . . . {with improved layout}
+   29/802   . . . . {by encoding redundancy signals}
+   29/804   . . . . {to prevent clustered faults}
+   29/806   . . . . {by reducing size of decoders}
+   29/808   . . . . {using a flexible replacement scheme}
+   29/81    . . . . {using a hierarchical redundancy scheme}
+   29/812   . . . . {using a reduced amount of fuses}
+   29/814   . . . . {for optimized yield}
+   29/816   . . . . {for an application-specific layout}
+   29/818   . . . . . {for dual-port memories}
+   29/82    . . . . . {for EEPROMs}
+   29/822   . . . . . {for read only memories}
+   29/824   . . . . . {for synchronous memories}
+   29/83    . . . {with reduced power consumption}
+   29/832   . . . . {with disconnection of faulty elements}
+   29/835   . . . {with roll call arrangements for redundant
+   29/838   . . . {with substitution of defective spares}
+   29/84    . . . {with improved access time or stability}
+   29/842   . . . . {by introducing a delay in a signal path}
+   29/844   . . . . {by splitting the decoders in stages}
+   29/846   . . . . {by choosing redundant lines at an output
+   29/848   . . . . {by adjacent switching}
+   29/86    . . {in serial access memories, e.g. shift registers,
+   29/88    . . {with partially good memories}
+   29/883   . . . {using a single defective memory device with
+reduced capacity, e.g. half capacity}
+   29/886   . . . {combining plural defective memory devices
+to provide a contiguous address range, e.g.
+one device supplies working blocks to replace
+defective blocks in another device}
+   99/00    Subject matter not provided for in other groups of
+ 2207/00    Indexing scheme relating to arrangements for
+writing information into, or reading information
+ 2207/002   . Isolation gates, i.e. gates coupling bit lines to the
+ 2207/005   . Transfer gates, i.e. gates coupling the sense
+amplifier output to data lines, I/O lines or global bit
+ 2207/06    . Sense amplifier related aspects
+ 2207/061   . . Sense amplifier enabled by a address transition
+detection related control signal
+ 2207/063   . . Current sense amplifiers
+ 2207/065   . . Sense amplifier drivers
+ 2207/066   . . Frequency reading type sense amplifier
+ 2207/068   . . Integrator type sense amplifier
+ 2207/10    . Aspects relating to interfaces of memory device to
+ 2207/101   . . Analog or multilevel bus
+ 2207/102   . . Compression or decompression of data before
+ 2207/104   . . Embedded memory devices, e.g. memories with
+a processing device on the same die or ASIC
+ 2207/105   . . Aspects related to pads, pins or terminals
+ 2207/107   . . Serial-parallel conversion of data or prefetch
+ 2207/108   . . Wide data ports
+ 2207/12    . Equalization of bit lines
+ 2207/16    . Solid state audio (deprecated, only for historical
+ 2207/22    . Control and timing of internal memory operations
+ 2207/2209  . . Concurrent read and write (for multi-port memory
+ 2207/2227  . . Standby or low power modes
+ 2207/2245  . . Memory devices with an internal cache buffer
+ 2207/2263  . . Write conditionally, e.g. only if new data and old
+ 2207/2272  . . Latency related aspects
+ 2207/2281  . . Timing of a read operation (sense amplifier
+ 2207/229   . . Timing of a write operation (sense amplifier
+ 2211/00    Indexing scheme relating to digital stores
+characterized by the use of particular electric
+or magnetic storage elements; Storage elements
+ 2211/401   . Indexing scheme relating to cells needing refreshing
+or charge regeneration, i.e. dynamic cells
+ 2211/4013  . . Memory devices with multiple cells per bit, e.g.
+ 2211/4016  . . Memory devices with silicon-on-insulator cells
+ 2211/406   . . Refreshing of dynamic cells
+ 2211/4061  . . . Calibration or ate or cycle tuning
+ 2211/4062  . . . Parity or ECC in refresh operations
+ 2211/4063  . . . Interleaved refresh operations
+ 2211/4065  . . . Low level details of refresh operations
+ 2211/4067  . . . Refresh in standby or low power modes
+ 2211/4068  . . . Voltage or leakage in refresh operations
+ 2211/56    . Indexing scheme relating to G11C 11/56 and sub-
+groups for features not covered by these groups
+ 2211/561   . . Multilevel memory cell aspects
+ 2211/5611  . . . Multilevel memory cell with more than one
+ 2211/5612  . . . Multilevel memory cell with more than one
+ 2211/5613  . . . Multilevel memory cell with additional gates,
+not being floating or control gates
+ 2211/5614  . . . Multilevel memory cell comprising negative
+resistance, quantum tunneling or resonance
+ 2211/5615  . . . Multilevel magnetic memory cell using non-
+magnetic non-conducting interlayer, e.g. MTJ
+ 2211/5616  . . . Multilevel magnetic memory cell using non-
+magnetic conducting interlayer, e.g. GMR, SV,
+ 2211/5617  . . . Multilevel ROM cell programmed by source,
+ 2211/562   . . Multilevel memory programming aspects
+ 2211/5621  . . . Multilevel programming verification
+ 2211/5622  . . . Concurrent multilevel programming of more
+ 2211/5623  . . . Concurrent multilevel programming and
+ 2211/5624  . . . Concurrent multilevel programming and
+ 2211/5625  . . . Self-converging multilevel programming
+ 2211/563   . . Multilevel memory reading aspects
+ 2211/5631  . . . Concurrent multilevel reading of more than one
+ 2211/5632  . . . Multilevel reading using successive
+ 2211/5633  . . . Mixed concurrent serial multilevel reading
+ 2211/5634  . . . Reference cells
+ 2211/564   . . Miscellaneous aspects
+ 2211/5641  . . . Multilevel memory having cells with different
+ 2211/5642  . . . Multilevel memory with buffers, latches,
+ 2211/5643  . . . Multilevel memory comprising cache storage
+ 2211/5644  . . . Multilevel memory comprising counting
+ 2211/5645  . . . Multilevel memory with current-mirror
+ 2211/5646  . . . Multilevel memory with flag bits, e.g. for
+showing that a "first page" of a word line is
+programmed but not a "second page"
+ 2211/5647  . . . Multilevel memory with bit inversion
+ 2211/5648  . . . Multilevel memory programming, reading
+or erasing operations wherein the order or
+sequence of the operations is relevant
+ 2211/5649  . . . Multilevel memory with plate line or layer, e.g.
+in order to lower programming voltages
+ 2211/565   . . . Multilevel memory comprising elements in
+ 2213/00    Indexing scheme relating to G11C 13/00 for
+features not covered by this group
+ 2213/10    . Resistive cells; Technology aspects
+ 2213/11    . . Metal ion trapping, i.e. using memory material
+including cavities, pores or spaces in form of
+tunnels or channels wherein metal ions can be
+trapped but do not react and form an electro-
+deposit creating filaments or dendrites
+ 2213/12    . . Non-metal ion trapping, i.e. using memory
+material trapping non-metal ions given by
+the electrode or another layer during a write
+operation, e.g. trapping, doping
+ 2213/13    . . Dissociation, i.e. using memory material
+including molecules which, during a write
+operation, are dissociated in ions which migrate
+ 2213/14    . . Use of different molecule structures as storage
+states, e.g. part of molecule being rotated
+ 2213/15    . . Current-voltage curve
+ 2213/16    . . Memory cell being a nanotube, e.g. suspended
+ 2213/17    . . Memory cell being a nanowire transistor
+ 2213/18    . . Memory cell being a nanowire having RADIAL
+ 2213/19    . . Memory cell comprising at least a nanowire and
+ 2213/30    . Resistive cell, memory material aspects
+ 2213/31    . . Material having complex metal oxide, e.g.
+ 2213/32    . . Material having simple binary metal oxide
+ 2213/33    . . Material including silicon
+ 2213/34    . . Material includes an oxide or a nitride
+ 2213/35    . . Material including carbon, e.g. graphite,
+ 2213/50    . Resistive cell structure aspects
+ 2213/51    . . Structure including a barrier layer preventing or
+limiting migration, diffusion of ions or charges or
+formation of electrolytes near an electrode
+ 2213/52    . . Structure characterized by the electrode material,
+ 2213/53    . . Structure wherein the resistive material being in a
+ 2213/54    . . Structure including a tunneling barrier layer,
+the memory effect implying the modification of
+ 2213/55    . . Structure including two electrodes, a memory
+active layer and at least two other layers which
+can be a passive or source or reservoir layer or a
+ 2213/56    . . Structure including two electrodes, a memory
+active layer and a so called passive or source
+or reservoir layer which is NOT an electrode,
+wherein the passive or source or reservoir layer is
+a source of ions which migrate afterwards in the
+memory active layer to be only trapped there, to
+form conductive filaments there or to react with
+the material of the memory active layer in redox
+ 2213/70    . Resistive array aspects
+ 2213/71    . . Three dimensional array
+ 2213/72    . . Array wherein the access device being a diode
+ 2213/73    . . Array where access device function, e.g. diode
+function, being merged with memorizing function
+ 2213/74    . . Array wherein each memory cell has more than
+ 2213/75    . . Array having a NAND structure comprising,
+for example, memory cells in series or memory
+elements in series, a memory element being a
+memory cell in parallel with an access transistor
+ 2213/76    . . Array using an access device for each cell which
+being not a transistor and not a diode
+ 2213/77    . . Array wherein the memory element being directly
+connected to the bit lines and word lines without
+ 2213/78    . . Array wherein the memory cells of a group share
+an access device, all the memory cells of the
+group having a common electrode and the access
+device being not part of a word line or a bit line
+ 2213/79    . . Array wherein the access device being a transistor
+ 2213/80    . . Array wherein the substrate, the cell, the
+conductors and the access device are all made up
+ 2213/81    . . Array wherein the array conductors, e.g. word
+lines, bit lines, are made of nanowires
+ 2213/82    . . Array having, for accessing a cell, a word line,
+a bit line and a plate or source line receiving
+ 2216/00    Indexing scheme relating to G11C 16/00 and
+subgroups, for features not directly covered by
+ 2216/02    . Structural aspects of erasable programmable read-
+ 2216/04    . . Nonvolatile memory cell provided with a separate
+control gate for erasing the cells, i.e. erase gate,
+independent of the normal read control gate
+ 2216/06    . . Floating gate cells in which the floating gate
+consists of multiple isolated silicon islands, e.g.
+ 2216/08    . . Nonvolatile memory wherein data storage is
+accomplished by storing relatively few electrons
+in the storage layer, i.e. single electron memory
+ 2216/10    . . Floating gate memory cells with a single
+ 2216/12    . Reading and writing aspects of erasable
+programmable read-only memories
+ 2216/14    . . Circuits or methods to write a page or sector of
+information simultaneously into a nonvolatile
+memory, typically a complete row or word line in
+ 2216/16    . . Flash programming of all the cells in an array,
+ 2216/18    . . Flash erasure of all the cells in an array, sector or
+ 2216/20    . . Suspension of programming or erasing cells in an
+array in order to read other cells in it
+ 2216/22    . . Nonvolatile memory in which reading can be
+carried out from one memory bank or array whilst
+a word or sector in another bank or array is being
+erased or programmed simultaneously
+ 2216/24    . . Nonvolatile memory in which programming can
+be carried out in one memory bank or array whilst
+a word or sector in another bank or array is being
+ 2216/26    . . Floating gate memory which is adapted to be
+one-time programmable [OTP], e.g. containing
+multiple OTP blocks permitting limited update
+ 2216/28    . . Floating gate memory programmed by reverse
+programming, e.g. programmed with negative
+gate voltage and erased with positive gate voltage
+or programmed with high source or drain voltage
+and erased with high gate voltage
+ 2216/30    . . Reduction of number of input/output pins by
+using a serial interface to transmit or receive
+addresses or data, i.e. serial access memory
+ 2229/00    Indexing scheme relating to checking stores for
+correct operation, subsequent repair or testing
+stores during standby or offline operation
+ 2229/70    . Indexing scheme relating to G11C 29/70, for
+implementation aspects of redundancy repair
+ 2229/72    . . Location of redundancy information
+ 2229/723   . . . Redundancy information stored in a part of the
+ 2229/726   . . . Redundancy information loaded from the
+ 2229/74    . . Time at which the repair is done
+ 2229/743   . . . After packaging
+ 2229/746   . . . Before packaging
+ 2229/76    . . Storage technology used for the repair
+ 2229/763   . . . E-fuses, e.g. electric fuses or antifuses, floating

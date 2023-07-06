@@ -1,0 +1,1045 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+MACHINE TOOLS; METAL-WORKING NOT OTHERWISE PROVIDED FOR
+DETAILS, COMPONENTS, OR ACCESSORIES FOR MACHINE TOOLS, e.g.
+ARRANGEMENTS FOR COPYING OR CONTROLLING (tools of the kind used in lathes
+or boring machines B23B 27/00); MACHINE TOOLS IN GENERAL CHARACTERISED
+BY THE CONSTRUCTION OF PARTICULAR DETAILS OR COMPONENTS;
+COMBINATIONS OR ASSOCIATIONS OF METAL-WORKING MACHINES, NOT
+DIRECTED TO A PARTICULAR RESULT
+1. In this subclass, groups designating parts of machine tools cover machine tools characterised by constructional features of
+2. In this subclass, the following terms or expressions are used with the meanings indicated:
+• "controlling" means influencing a variable in any way,  e.g. changing its direction or its value (including changing it to or
+from zero), maintaining it constant, limiting its range of variation;
+• "regulation" means maintaining a variable automatically at a desired value or within a desired range of values. The desired
+value or range may be fixed, or manually varied, or may vary with time according to a predetermined "programme" or
+according to variation of another variable.  Regulation is a form of control;
+• "automatic control" is often used in the art as a synonym for regulation.
+• "Machine tool" means a mechanical working machine that removes material from a workpiece with a mechanical cutting
+edge to perform a shaping operation, essentially through drilling, milling,  turning or cutting, e.g. sawing. The workpiece is
+generally made of metal, wood or plastic and is not a human body, food or clothes.
+3. Attention is drawn to the Notes following the title of class B23.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Members which are comprised in the general
+build-up of a form of machine, particularly
+relatively large fixed members (B23Q 37/00
+takes precedence {; positioning supports for
+measuring arrangements G01B 5/0004; motorised
+alignment for optical elements G02B 7/005; handling
+of mask or wafer G03F 7/70691; adjusting or
+compensating devices for optical apparatuses
+G12B 5/00; piezoelectric or electrostrictive
+    1/0009  . {Energy-transferring means or control lines for
+movable machine parts; Control panels or boxes;
+Control parts (control handles for driving or feeding
+    1/0018  . . {comprising hydraulic means}
+    1/0027  . . . {between moving parts between which an
+uninterrupted energy-transfer connection is
+    1/0036  . . . . {one of those parts being a tool}
+    1/0045  . . {Control panels or boxes}
+    1/0054  . {Means for adjusting the position of a machine tool
+with respect to its supporting surface (B23Q 1/262
+    1/0063  . {Connecting non-slidable parts of machine tools to
+    1/0072  . . {using a clamping opening for receiving an
+    1/0081  . . {using an expanding clamping member insertable
+    1/009   . . . {the receiving hole being cylindrical or
+    1/01    . Frames, beds, pillars or like members; Arrangement
+    1/015   . . {Frames, beds, pillars}
+    1/017   . . {Arrangements of ways}
+    1/03    . Stationary work or tool supports (B23Q 1/70 takes
+precedence; auxiliary tables B23Q 1/74; tailstocks
+    1/032   . . {characterised by properties of the support
+    1/035   . . {with an array of longitudinally movable rods
+defining a reconfigurable support surface}
+    1/037   . . {comprising series of support elements whose
+relative distance is adjustable}
+    1/25    . Movable or adjustable work or tool supports
+    1/26    . . characterised by constructional features relating
+to the co-operation of relatively movable
+members; Means for preventing relative
+movement of such members {(bearings for
+linearly moving parts F16C 29/00)}
+    1/262   . . . {with means to adjust the distance between the
+relatively slidable members (if the adjusting
+means depends on the position of the slidable
+    1/265   . . . . {between rotating members}
+    1/267   . . . {with means to prevent skewness between the
+    1/28    . . . Means for securing sliding members in any
+    1/282   . . . . {co-operating with means to adjust the
+distance between the relatively slidable
+    1/285   . . . . {for securing two or more members
+    1/287   . . . . {using a hydraulically controlled membrane
+acting directly upon a sliding member}
+    1/30    . . . controlled in conjunction with the feed
+    1/32    . . . Relative movement obtained by co-operating
+spherical surfaces, e.g. ball-and-socket joints
+    1/34    . . . Relative movement obtained by use of
+deformable elements, e.g. piezo-electric,
+magnetostrictive, elastic or thermally-
+dilatable elements (sensitive elements capable
+of producing movement or displacement
+for purposes not limited to measurement
+    1/38    . . . using fluid bearings or fluid cushion supports
+    1/385   . . . . {in which the thickness of the fluid-layer is
+    1/40    . . . using ball, roller or wheel arrangements
+    1/42    . . . using T-, V-, dovetail-section or like guides
+    1/44    . . using particular mechanisms (B23Q 1/26 takes
+1. In this group, the following expressions are
+used with the meaning indicated:
+• "sliding pair" means a pair consisting of
+two elements operating in such a way that
+only straight line movement between both
+• "rotating pair" means a pair consisting
+of two elements operating in such a way
+that only rotary movement between both
+• "screw pair" means a pair consisting of
+two elements operating in such a way as
+to produce simultaneous rotation and axial
+translation between both elements.
+2. In this group, where more than one pair of
+elements is provided on the same axis for
+the same kind of movement, the pairs are
+regarded as a single pair for the purposes of
+    1/445   . . . {using a first carriage for a smaller workspace
+mounted on a second carriage for a larger
+workspace, both carriages moving on the same
+    1/46    . . . with screw pairs
+    1/48    . . . with sliding pairs and rotating pairs (B23Q 1/46
+    1/4804  . . . . {a single rotating pair followed
+perpendicularly by a single sliding pair}
+    1/4809  . . . . . {followed perpendicularly by a single
+    1/4814  . . . . . {followed parallelly by a single rotating
+    1/4819  . . . . . {followed perpendicularly by a single
+    1/4823  . . . . . {followed parallelly by a single sliding
+    1/4828  . . . . {a single rotating pair followed parallelly by
+    1/4833  . . . . . {followed perpendicularly by a single
+    1/4838  . . . . . {followed parallelly by a single rotating
+    1/4842  . . . . . {followed perpendicularly by a single
+    1/4847  . . . . . {followed parallelly by a single sliding
+    1/4852  . . . . {a single sliding pair followed
+perpendicularly by a single rotating pair}
+    1/4857  . . . . . {followed perpendicularly by a single
+    1/4861  . . . . . {followed parallelly by a single rotating
+    1/4866  . . . . . {followed perpendicularly by a single
+    1/4871  . . . . . {followed parallelly by a single sliding
+    1/4876  . . . . {a single sliding pair followed parallelly by a
+    1/488   . . . . . {followed perpendicularly by a single
+    1/4885  . . . . . {followed parallelly by a single rotating
+    1/489   . . . . . {followed perpendicularly by a single
+    1/4895  . . . . . {followed parallelly by a single sliding
+    1/50    . . . with rotating pairs only {, the rotating pairs
+being the first two elements of the mechanism}
+    1/52    . . . . a single rotating pair
+    1/522   . . . . . {which is perpendicular to the working
+    1/525   . . . . . {which is parallel to the working surface}
+    1/527   . . . . . {with a ring or tube in which a workpiece
+is fixed coaxially to the degree of
+    1/54    . . . . two rotating pairs only
+    1/5406  . . . . . {a single rotating pair followed
+perpendicularly by a single rotating pair
+    1/5412  . . . . . . {followed perpendicularly by a single
+    1/5418  . . . . . . {followed parallelly by a single rotating
+    1/5425  . . . . . . {followed perpendicularly by a single
+    1/5431  . . . . . . {followed parallelly by a single sliding
+    1/5437  . . . . . . {and in which the degree of freedom,
+which belongs to the working surface, is
+    1/5443  . . . . . . {and in which the degree of freedom,
+which belongs to the working surface, is
+    1/545   . . . . . {comprising spherical surfaces}
+    1/5456  . . . . . . {with one supplementary rotating pair}
+    1/5462  . . . . . . {with one supplementary sliding pair}
+    1/5468  . . . . . {a single rotating pair followed parallelly
+    1/5475  . . . . . . {followed perpendicularly by a single
+    1/5481  . . . . . . {followed parallelly by a single rotating
+    1/5487  . . . . . . {followed perpendicularly by a single
+    1/5493  . . . . . . {followed parallelly by a single sliding
+    1/56    . . . with sliding pairs only {, the sliding pairs being
+the first two elements of the mechanism}
+    1/58    . . . . a single sliding pair
+    1/585   . . . . . {perpendicular to the working surface}
+    1/60    . . . . two sliding pairs only {, the sliding
+pairs being the first two elements of the
+    1/601   . . . . . {a single sliding pair followed parallelly
+    1/603   . . . . . . {followed perpendicularly by a single
+    1/605   . . . . . . {followed parallelly by a single rotating
+    1/606   . . . . . . {followed perpendicularly by a single
+    1/608   . . . . . . {followed parallelly by a single sliding
+    1/62    . . . . . with perpendicular axes, e.g. cross-slides
+    1/621   . . . . . . {a single sliding pair followed
+perpendicularly by a single sliding pair}
+    1/623   . . . . . . . {followed perpendicularly by a single
+    1/625   . . . . . . . {followed parallelly by a single
+    1/626   . . . . . . . {followed perpendicularly by a single
+    1/628   . . . . . . . {followed parallelly by a single
+    1/64    . . characterised by the purpose of the movement
+(indexing equipment B23Q 16/02)
+    1/66    . . . Worktables interchangeably movable into
+    1/68    . . . for withdrawing tool or work during reverse
+    1/70    . Stationary or movable members for carrying
+working-spindles for attachment of tools or
+work {(B23Q 1/01 takes precedence; designed
+to be moved by using particular mechanisms
+    1/703   . . {Spindle extensions}
+    1/706   . . {Movable members, e.g. swinging arms}
+    1/72    . Auxiliary arrangements; Interconnections between
+auxiliary tables and movable machine elements
+{(independent of machine tool B23Q 3/105)}
+    1/74    . . Auxiliary tables
+    1/76    . . Steadies; Rests {(B23B 13/126 takes precedence;
+steadies combined with cutting tool holders
+    1/763   . . . {Rotating steadies or rests}
+    1/766   . . . {Steadies or rests moving together with the tool
+    3/00    Devices holding, supporting, or positioning work
+or tools, of a kind normally removable from the
+machine (work-tables or other parts, e.g. faceplates,
+normally not incorporating means for securing work
+B23Q 1/00; automatic position control B23Q 15/00
+{; food cutting boards A47J 47/00; workpiece support
+for dies B21D 37/02}; rotary tool heads for turning-
+machines B23B 3/24, B23B 3/26; non-driven tool
+holders B23B 29/00; general features of turrets
+B23B 29/24 {; drawbars in spindles B23B 31/261;
+for electrical discharge machining B23H 11/003; for
+welding B23K 37/04; means for securing grinding
+wheels B24B 45/00; mountings for abrasive wheels
+B24D 5/16}; tools or bench devices for fastening,
+connecting, disengaging or holding B25B {; chucks
+for percussive tools B25D 17/084; work benches
+for manual work B25H 1/00; devices for securing
+circular saw blades B27B 5/32; for assembling or
+manufacturing aircrafts B64F 5/10; for holding
+semiconductors or wafers H01L 21/67; devices for
+holding circuit boards H05K 13/0061})
+    3/002   . {Means to press a workpiece against a guide}
+    3/005   . {Guides for workpieces}
+    3/007   . . {provided with measuring means allowing the
+    3/02    . for mounting on a work-table, tool-slide, or
+analogous part (B23Q 3/15 takes precedence)
+    3/04    . . adjustable in inclination
+    3/06    . . Work-clamping means
+    3/061   . . . {adapted for holding a plurality of workpieces}
+    3/062   . . . {adapted for holding workpieces having a
+special form or being made from a special
+    3/063   . . . . {for holding turbine blades}
+    3/064   . . . . {for holding elongated workpieces, e.g.
+    3/065   . . . . {for holding workpieces being specially
+deformable, e.g. made from thin-walled or
+    3/066   . . . {Bench vices}
+    3/067   . . . {Blocks with collet chucks}
+    3/068   . . . . {fluid-operated}
+    3/069   . . . {for pressing workpieces against a work-table}
+    3/08    . . . other than mechanically-actuated
+{(B23Q 3/061, B23Q 3/066, and B23Q 3/067
+    3/082   . . . . {hydraulically actuated}
+    3/084   . . . . {using adhesive means}
+    3/086   . . . . {using a solidifying liquid, e.g. with freezing,
+    3/088   . . . . {using vacuum means}
+    3/10    . . Auxiliary devices, e.g. bolsters, extension
+members {(devices for holding usually
+unilaterally-held tools at a second side, devices
+supporting a workpiece against cutting forces
+    3/101   . . . {for supporting a workpiece during its transport
+    3/102   . . . {for fixing elements in slots}
+    3/103   . . . {Constructional elements used for constructing
+    3/105   . . . {Auxiliary supporting devices independent of
+    3/106   . . . {extendable members, e.g. extension members}
+    3/107   . . . . {with positive adjustment means}
+    3/108   . . . . {with non-positive adjustment means}
+    3/12    . for securing to a spindle in general (B23Q 3/152
+takes precedence; chucks B23B 31/02)
+    3/14    . . Mandrels in general (expansion mandrels
+    3/15    . Devices for holding work using magnetic or electric
+force acting directly on the work
+    3/154   . . Stationary devices
+    3/1543  . . . {using electromagnets}
+    3/1546  . . . {using permanent magnets}
+    3/155   . Arrangements for automatic insertion or removal
+of tools {, e.g. combined with manual handling
+    3/15503 . . {Processes characterized by special sequencing
+of operations or the like, e.g. for optimizing tool
+changing time or capacity in tool storage}
+    3/15506 . . {the tool being inserted in a tool holder directly
+from a storage device (without transfer device)}
+    3/15513 . . {the tool being taken from a storage device and
+transferred to a tool holder by means of transfer
+    3/1552  . . {parts of devices for automatically inserting or
+    3/15526 . . . {Storage devices; Drive mechanisms therefor}
+{When classifying in this group or one of
+its subgroups the usage of indexing codes
+B23Q 2003/15527 – B23Q 2003/15532,
+B23Q 2003/15537 is obligatory.}
+ 2003/15527 . . . . {the storage device including means to latch
+ 2003/15528 . . . . {the storage device including means to
+project tools therefrom, e.g. for transferring
+ 2003/1553  . . . . . {by rectilinear projection}
+ 2003/15531 . . . . . {by pivoting projection movement}
+ 2003/15532 . . . . {the storage device including tool pots,
+    3/15533 . . . . {combined with manual tool transfers}
+    3/15534 . . . . {Magazines mounted on the spindle}
+    3/15536 . . . . {Non-rotary fixed racks}
+ 2003/15537 . . . . {Linearly moving storage devices}
+    3/15539 . . . . {Plural magazines, e.g. involving
+tool transfer from one magazine to
+another (involving manual operation
+    3/1554  . . . {Transfer mechanisms, e.g. tool gripping arms;
+{When classifying in this group the usage
+of indexing codes B23Q 2003/155404 –
+B23Q 2003/155456 is obligatory.}
+ 2003/155404 . . . . {the transfer mechanism comprising a single
+ 2003/155407 . . . . . {linearly movable}
+ 2003/155411 . . . . . {pivotable}
+ 2003/155414 . . . . {the transfer mechanism comprising two or
+ 2003/155418 . . . . . {the grippers moving together}
+ 2003/155421 . . . . . {the grippers moving independently from
+ 2003/155425 . . . . . {pivotable}
+ 2003/155428 . . . . . . {about a common axis}
+ 2003/155432 . . . . . . {about different axes}
+ 2003/155435 . . . . . . {and linearly movable}
+ 2003/155439 . . . . . . . {along the pivoting axis}
+ 2003/155442 . . . . . . . {radially to the pivoting axis}
+ 2003/155446 . . . . . . . {with translation of the pivoting axis}
+ 2003/155449 . . . . . {linearly movable only}
+ 2003/155453 . . . . . {including different gripper configurations
+for holding differently-configured tools}
+ 2003/155456 . . . . {using separate transfer mechanisms for each
+    3/15546 . . . {Devices for recognizing tools in a storage
+    3/15553 . . . {Tensioning devices or tool holders, e.g.
+grippers (driving working-spindles and
+adjusting or stopping them in a predetermined
+angular position B23Q 5/20; securing milling
+cutters to the driving spindle in a given angular
+    3/1556  . . {of non-rotary tools (in combination with rotary
+tools: B23Q 3/15506, B23Q 3/15513)}
+    3/15566 . . . {the tool being inserted in a tool holder directly
+from a storage device, i.e. without using
+    3/15573 . . . {the tool being taken from a storage device and
+transferred to a tool holder by means of transfer
+ 2003/1558  . . {involving insertion or removal of other machine
+components together with the removal or
+insertion of tools or tool holders}
+ 2003/15586 . . {of tools in turrets}
+    3/157   . . of rotary tools {(in combination with non-rotary
+tools B23Q 3/15506, B23Q 3/15513)}
+    3/15706 . . . {a single tool being inserted in a spindle
+directly from a storage device, i.e. without
+using transfer devices (B23Q 3/15786 takes
+    3/15713 . . . {a transfer device taking a single tool from
+a storage device and inserting it in a spindle
+(B23Q 3/15793 takes precedence)}
+    3/1572  . . . . {the storage device comprising rotating or
+    3/15722 . . . . . {Rotary discs or drums}
+    3/15724 . . . . . {Chains or belts}
+    3/15726 . . . . . {the storage means rotating or circulating
+in a plane parallel to the axis of the
+    3/15733 . . . . . . {the axis of the stored tools being
+arranged in the rotating or circulating
+    3/1574  . . . . . . {the axis of the stored tools being
+arranged perpendicularly to the rotating
+or circulating plane of the storage
+    3/15746 . . . . . . . {the storage means comprising
+pivotable tool storage elements}
+    3/15753 . . . . . {the storage means rotating or circulating
+in a plane perpendicular to the axis of the
+    3/1576  . . . . . . {the axis of the stored tools being
+arranged in the rotating or circulating
+    3/15766 . . . . . . {the axis of the stored tools being
+arranged perpendicularly to the rotating
+or circulating plane of the storage
+    3/15773 . . . {a transfer device taking the tool from a storage
+device and passing it on to other transfer
+devices, which insert it in a spindle}
+    3/1578  . . . {for tool transfer in a machine tool with a
+horizontal and a vertical spindle; for tool
+transfer in a machine tool with a spindle having
+    3/15786 . . . {a plurality of tools being inserted
+simultaneously in a plurality of spindles
+directly from a storage device, i.e. without
+    3/15793 . . . {a transfer device simultaneously taking
+a plurality of tools and inserting them
+simultaneously in a plurality of spindles}
+    3/16    . controlled in conjunction with the operation of the
+    3/18    . for positioning only
+    3/183   . . {Centering devices}
+    3/186   . . {Aligning devices}
+    5/00    Driving or feeding mechanisms; Control
+arrangements therefor (automatic control
+B23Q 15/00; copying B23Q 33/00, B23Q 35/00;
+specially adapted for boring or drilling machines
+B23B 39/10, B23B 47/00; {numerical programme-
+control of machine tools G05B 19/18})
+ 2005/005   . {Driving or feeding mechanisms with a low and a
+    5/02    . Driving main working members
+    5/027   . . reciprocating members
+    5/033   . . . driven essentially by fluid pressure
+    5/04    . . rotary shafts, e.g. working-spindles
+    5/041   . . . {Spindle-reversing devices}
+    5/043   . . . {Accessories for spindle drives}
+    5/045   . . . . {Angle drives}
+    5/046   . . . . {Offset spindle drives}
+    5/048   . . . . {Speed-changing devices}
+    5/06    . . . driven essentially by fluid pressure or
+    5/08    . . . . electrically controlled
+    5/10    . . . driven essentially by electrical means
+    5/12    . . . Mechanical drives with means for varying the
+    5/14    . . . . step-by-step
+    5/142   . . . . . {mechanically-operated}
+    5/145   . . . . . {fluid-operated}
+    5/147   . . . . . {electrically-operated}
+    5/16    . . . . infinitely-variable
+    5/162   . . . . . {mechanically-operated}
+    5/165   . . . . . {fluid-operated}
+    5/167   . . . . . {electrically-operated}
+    5/18    . . . . Devices for preselecting speed of working-
+    5/20    . . . Adjusting or stopping working-spindles in a
+    5/22    . Feeding members carrying tools or work
+    5/225   . . {not mechanically connected to the main drive,
+e.g. with separate motors (connected to main
+drive through servomotors B23Q 5/36)}
+    5/26    . . Fluid-pressure drives
+    5/261   . . . {for spindles}
+    5/263   . . . . {with means to control the feed rate by
+    5/265   . . . . . {this regulation depending upon the
+    5/266   . . . {with means to control the feed rate by
+    5/268   . . . . {depending upon the position of the tool or
+    5/28    . . Electric drives
+    5/32    . . Feeding working-spindles (feeding working-
+    5/323   . . . {cam-operated}
+    5/326   . . . {screw-operated}
+    5/34    . . Feeding other members supporting tools or work,
+e.g. saddles, tool-slides, through mechanical
+    5/341   . . . {cam-operated}
+    5/342   . . . . {Cam followers (see also B23Q 35/26)}
+    5/344   . . . . {Cams (see also B23Q 35/42)}
+    5/345   . . . . {Cam assembly (see also B23Q 35/46)}
+    5/347   . . . . {controlled in conjunction with tool or work
+    5/348   . . . {by means of clutches}
+    5/36    . . . in which a servomotor forms an essential
+    5/38    . . . feeding continuously
+    5/385   . . . . {using a gear and rack mechanism or a
+friction wheel co-operating with a rail}
+    5/40    . . . . by feed shaft, e.g. lead screw
+    5/402   . . . . . {in which screw or nut can both be driven}
+    5/404   . . . . . {Screw bearings therefor}
+    5/406   . . . . . {with means for meshing screw and nut}
+    5/408   . . . . . {Nut bearings therefor}
+    5/42    . . . . . Mechanism associated with headstock
+    5/44    . . . . . Mechanism associated with the moving
+    5/46    . . . . with variable speed ratio
+    5/48    . . . . . by use of toothed gears
+    5/50    . . . feeding step-by-step
+    5/52    . . Limiting feed movement {(B23Q 11/04 takes
+    5/54    . Arrangements or details not restricted to group
+B23Q 5/02 or group B23Q 5/22 respectively {, e.g.
+    5/56    . . Preventing backlash
+    5/58    . . Safety devices {(protecting the operator
+    5/585   . . . {Preventing the misuse of accessories, e.g.
+    7/00    Arrangements for handling work specially
+combined with or arranged in, or specially
+adapted for use in connection with, machine
+tools, e.g. for conveying, loading, positioning,
+discharging, sorting (incorporated in working-
+    7/001   . {Lateral transport of long workpieces}
+    7/002   . {Screw or rotary spiral conveyors (B23Q 7/1426
+    7/003   . {Cyclically moving conveyors (B23Q 7/1426 takes
+    7/005   . {Lifting devices}
+    7/007   . {Flying working devices}
+    7/008   . {Catching devices (B23Q 7/12 takes precedence)}
+    7/02    . by means of drums or rotating tables or discs
+    7/03    . by means of endless chain conveyors
+({B23Q 7/1447,} B23Q 7/16 take precedence)
+    7/035   . . {on which work holders are fixed}
+    7/04    . by means of grippers {(B23Q 7/1494 takes
+    7/042   . . . {for the axial transport of long workpieces
+(B23B 13/022 takes precedence)}
+    7/043   . . {Construction of the grippers (B23Q 7/048 takes
+    7/045   . . {using a tool holder as a work-transporting
+    7/046   . . {Handling workpieces or tools}
+    7/047   . . {the gripper supporting the workpiece during
+    7/048   . . {Multiple gripper units}
+    7/05    . by means of roller-ways ({B23Q 7/1468,}
+    7/055   . . {some of the rollers being driven}
+    7/06    . by means of pushers {(B23Q 7/1457, B23Q 7/1489,
+B23B 13/02, B23B 13/12 take precedence)}
+    7/08    . by means of slides or chutes
+    7/10    . by means of magazines
+    7/103   . . {for flat material}
+    7/106   . . {with means to deliver a certain quantity
+    7/12    . Sorting arrangements
+    7/14    . co-ordinated in production lines
+    7/1405  . . {with a series disposition of similar working
+    7/141   . . {with a series disposition of different working
+devices and with the axial transport for long
+workpieces of which a plurality of final products
+    7/1415  . . {with a series disposition of working devices not
+corresponding with the sequence of the working}
+    7/1421  . . {with a parallel disposition of working devices}
+    7/1426  . . {with work holders not rigidly fixed to the
+transport devices (B23Q 7/005, B23Q 7/035 take
+    7/1431  . . . {Work holder changers (B23Q 7/1442 takes
+    7/1436  . . . {using self-propelled work holders}
+    7/1442  . . . {using carts carrying work holders}
+    7/1447  . . . {using endless conveyors}
+    7/1452  . . . . {comprising load-supporting surfaces}
+    7/1457  . . . . {comprising an impeller or a series of
+    7/1463  . . . {using rotary driving means}
+    7/1468  . . . . {comprising rollers or cogwheels, or pinions
+    7/1473  . . . . {comprising screw conveyors}
+    7/1478  . . . {using a conveyor comprising cyclically-
+    7/1484  . . . . {with carrier means}
+    7/1489  . . . . {with impeller means}
+    7/1494  . . . {using grippers}
+    7/16    . Loading work on to conveyors; Arranging work on
+conveyors, e.g. varying spacing between individual
+    7/165   . . {Turning devices}
+    7/18    . . Orienting work on conveyors
+    9/00    Arrangements for supporting or guiding portable
+metal-working machines or apparatus ({turning
+machine for reconditioning wheel sets without
+removing same from vehicle B23B 5/32;} for tapping
+pipes {B23B 41/00, F16L 41/04}; specially designed
+for drilling {B23B 45/00, B25H 1/0021})
+    9/0007  . {Portable machines comprising means for their
+guidance or support directly on the workpiece}
+    9/0014  . {Portable machines provided with or cooperating
+with guide means supported directly by the
+    9/0021  . . {the tool being guided in a circular path}
+    9/0028  . . {the guide means being fixed only on the
+    9/0035  . . . {and being capable of guiding the tool in a
+    9/0042  . . {the guide means being fixed only on the
+    9/005   . . . {angularly adjustable}
+    9/0057  . . . {and being capable of guiding the tool in a
+    9/0064  . {Portable machines cooperating with guide means
+not supported by the workpiece during working}
+    9/0071  . . {the guide means being fixed to the machine}
+    9/0078  . . {the guide means being fixed to a support}
+    9/0085  . . . {Angularly adjustable}
+    9/0092  . . . {Workpieces angularly adjustable relative to
+    9/02    . for securing machines or apparatus to workpieces,
+or other parts, of particular shape, e.g. to beams of
+   11/00    Accessories fitted to machine tools for keeping
+tools or parts of the machine in good working
+condition or for cooling work {(accessories specially
+designed for sawing machines or sawing devices
+B23D 59/00)}; Safety devices specially combined
+with or arranged in, or specially adapted for use in
+connection with, machine tools (in respect of boring
+or drilling machines B23B 47/32 takes precedence;
+safety devices in general F16P)
+   11/0003  . {Arrangements for preventing undesired
+thermal effects on tools or parts of the machine
+(B23Q 11/10, B23Q 11/12 and B23Q 11/14 take
+   11/0007  . . {by compensating occurring thermal dilations
+   11/001   . {Arrangements compensating weight or flexion on
+parts of the machine (adjustment of the fluid layer
+in fluid bearings or cushions depending upon the
+position of a weight B23Q 1/385)}
+   11/0014  . . {using static reinforcing elements, e.g. pre-
+   11/0017  . . {compensating the weight of vertically moving
+elements, e.g. by balancing liftable machine parts
+   11/0021  . . . {the elements being rotating or pivoting}
+   11/0025  . . . {using resilient means, e.g. springs, hydraulic
+   11/0028  . . {by actively reacting to a change of the
+configuration of the machine (B23Q 15/00 takes
+   11/0032  . {Arrangements for preventing or isolating
+vibrations in parts of the machine (B23B 29/022,
+B23D 47/005 take precedence; means for damping
+or suppressing vibrations, in general F16F)}
+   11/0035  . . {by adding or adjusting a mass, e.g.
+   11/0039  . . {by changing the natural frequency of the system
+or by continuously changing the frequency of the
+force which causes the vibration}
+   11/0042  . {Devices for removing chips (B23Q 11/02,
+   11/0053  . . {using the gravity force}
+   11/0057  . . {outside the working area}
+   11/006   . . {by sucking and blowing simultaneously}
+   11/0064  . . {by using a magnetic or electric field}
+   11/0067  . . {chip containers located under a machine or
+   11/0071  . . {dust collectors for hand tools}
+   11/0075  . . {for removing chips or coolant from the
+   11/0078  . {Safety devices protecting the operator, e.g. against
+accident or noise (protecting the machine tool
+B23Q 5/58; protecting people, in general F16P 1/00,
+   11/0082  . . {by determining whether the operator is in
+a dangerous position (B23Q 17/2438 takes
+   11/0085  . . {by determining whether the machine tool is in a
+   11/0089  . . {actuating operator protecting means, e.g. closing
+a cover element, producing an alarm signal}
+   11/0092  . . {actuating braking or stopping means}
+   11/0096  . . {protecting against noise}
+   11/02    . Devices for removing scrap from the cutting teeth of
+circular {or non-circular} cutters
+   11/04    . Arrangements preventing overload of tools, e.g.
+   11/06    . Safety devices for circular cutters
+   11/08    . Protective coverings for parts of machine tools;
+ 2011/0808  . . {Means for maintaining identical distances
+between relatively movable cover parts}
+   11/0816  . . {Foldable coverings, e.g. bellows}
+   11/0825  . . {Relatively slidable coverings, e.g. telescopic}
+   11/0833  . . . {with a non-rectilinear shifting}
+   11/0841  . . . {with spirally wound coverings}
+   11/085   . . {Flexible coverings, e.g. coiled-up belts}
+   11/0858  . . {using a liquid bath or a liquid curtain}
+   11/0866  . . {using covering means adaptable to the
+workpieces, e.g. curtains or bristles}
+   11/0875  . . {Wipers for clearing foreign matter from
+slideways or slidable coverings}
+   11/0883  . . {for spindles, e.g. for their bearings or casings}
+   11/0891  . . {arranged between the working area and the
+   11/10    . Arrangements for cooling or lubricating tools
+or work (incorporated in tools, see the relevant
+subclass for the tool {, e.g. B23B 27/10,
+B23B 51/06, B23C 5/28, B23D 77/006; for circular
+saw blades B23D 59/02, for cooling grinding
+   11/1007  . . {by submerging the tools or work partially or
+   11/1015  . . {by supplying a cutting liquid through the
+   11/1023  . . . {Tool holders, or tools in general specially
+adapted for receiving the cutting liquid from
+   11/103   . . . {Rotary joints specially adapted for feeding the
+   11/1038  . . {using cutting liquids with special characteristics,
+   11/1046  . . . {using a minimal quantity of lubricant
+(spraying apparatus using a carrying fluid
+   11/1053  . . . {using the cutting liquid at specially selected
+temperatures (controlling the temperature of the
+cutting liquid for maintaining machine parts at
+a constant temperature B23Q 11/146)}
+   11/1061  . . . {using cutting liquids with specially selected
+composition or state of aggregation}
+   11/1069  . . {Filtration systems specially adapted
+for cutting liquids (filtration in general
+   11/1076  . . {with a cutting liquid nozzle specially adaptable
+to different kinds of machining operations}
+   11/1084  . . {specially adapted for being fitted to different
+   11/1092  . . {specially adapted for portable power-driven
+   11/12    . Arrangements for cooling or lubricating parts of the
+machine (B23Q 11/14 takes precedence {; movable
+work or tool supports using fluid bearings or fluid
+cushion supports B23Q 1/38; cooling or lubricating
+means used in the working area B23Q 11/10})
+   11/121   . . {with lubricating effect for reducing friction
+(F16C 33/66 and F16H 57/04 take precedence)}
+   11/122   . . . {Lubricant supply devices (F16N 7/00 takes
+   11/123   . . . {for lubricating spindle bearings (F16C 33/66
+   11/124   . . . {for lubricating linear guiding systems
+(F16C 29/005 takes precedence)}
+   11/125   . . . {for lubricating ball screw systems}
+   11/126   . . {for cooling only}
+   11/127   . . . {for cooling motors or spindles}
+   11/128   . . . {for cooling frame parts}
+   11/14    . Methods or arrangements for maintaining a constant
+temperature in parts of machine tools
+   11/141   . . {using a closed fluid circuit for cooling or
+   11/143   . . {comprising heating means}
+   11/145   . . {using a jet of gas or cutting liquid}
+   11/146   . . {by controlling the temperature of a cutting
+   11/148   . . {by controlling the air temperature}
+   13/00    Equipment for use with tools or cutters when
+not in operation, e.g. protectors for storage
+{(B26B 29/00 takes precedence)}
+Measuring; Indicating; Controlling
+   15/00    Automatic control or regulation of feed movement,
+cutting velocity or position of tool or work
+(programme-control G05B 19/00, e.g. numerical
+   15/007   . while the tool acts upon the workpiece
+   15/0075  . . {Controlling reciprocating movement, e.g. for
+   15/013   . . Control or regulation of feed movement
+   15/02    . . . according to the instantaneous size and the
+required size of the workpiece acted upon
+   15/04    . . . according to the final size of the previously-
+machined workpiece (B23Q 15/06 takes
+   15/06    . . . according to measuring results produced by
+two or more gauging methods using different
+measuring principles, e.g. by both optical and
+   15/08    . . Control or regulation of cutting velocity
+   15/10    . . . to maintain constant cutting velocity between
+   15/12    . . Adaptive control, i.e. adjusting itself to have a
+performance which is optimum according to a
+   15/14    . . Control or regulation of the orientation of the tool
+   15/16    . . Compensation for wear of the tool
+   15/18    . . Compensation of tool-deflection due to
+   15/20    . before or after the tool acts upon the workpiece
+   15/22    . . Control or regulation of position of tool or
+   15/225   . . . {in feed control, i.e. approaching of tool or
+work in successive decreasing velocity steps}
+   15/24    . . . of linear position
+   15/26    . . . of angular position
+   15/28    . . with compensation for tool wear
+   16/00    Equipment for precise positioning of tool or work
+into particular locations not otherwise provided
+for (automatic control or regulation of position of tool
+or work B23Q 15/22; arrangements for indicating or
+measuring existing or desired position of tool or work
+   16/001   . {Stops, cams, or holders therefor}
+   16/002   . . {Stops for use in a hollow spindle}
+   16/003   . {with means to return a tool back, after its
+withdrawal movement, to the previous working
+   16/004   . {positioning by combining gauges of different
+dimensions from a set of two or more gauges}
+   16/005   . {Equipment for measuring the contacting force
+or the distance before contacting between two
+members during the positioning operation}
+   16/006   . {positioning by bringing a stop into contact with
+one of two or more stops, fitted on a common
+   16/007   . {Positioning by sine tables}
+   16/008   . {Cushioning the abutting movement}
+   16/02    . Indexing equipment (specially adapted for gear-
+   16/021   . . {in which only the positioning elements are
+of importance (B23Q 16/04, B23Q 16/08 take
+   16/022   . . {in which only the indexing movement is of
+   16/023   . . . {by converting a reciprocating or oscillating
+movement into or linear indexing movement}
+   16/024   . . . {and by converting a continuous movement
+into a linear indexing movement}
+   16/025   . . . {by converting a continuous movement into a
+   16/026   . . . {by converting a reciprocating or oscillating
+movement into a rotary indexing movement}
+   16/027   . . {with means for adjusting the distance between
+two successive indexing-points}
+   16/028   . . {with positioning means between two successive
+   16/04    . . having intermediate members, e.g. pawls, for
+locking the relatively movable parts in the
+   16/043   . . . {with a reciprocating or oscillating drive
+   16/046   . . . {with a continuous drive (B23Q 16/06 takes
+   16/06    . . . Rotary indexing
+   16/065   . . . . {with a continuous drive}
+   16/08    . . having means for clamping the relatively movable
+parts together in the indexed position
+   16/083   . . . {with a reciprocating or oscillating drive
+   16/086   . . . {with a continuous drive (B23Q 16/10 takes
+   16/10    . . . Rotary indexing
+   16/102   . . . . {with a continuous drive}
+   16/105   . . . . {clamping with a disc brake}
+   16/107   . . . . {clamping with a drum brake}
+   17/00    Arrangements for {observing,} indicating or
+measuring on machine tools (for automatic control
+or regulation of feed movement, cutting velocity or
+position of tool or work B23Q 15/00)
+ 2017/001   . {Measurement or correction of run-out or
+   17/002   . {for indicating or measuring the holding action of
+work or tool holders (B23Q 3/16 takes precedence)}
+   17/003   . . {by measuring a position}
+   17/005   . . {by measuring a force, a pressure or a
+   17/006   . {for indicating the presence of a work or tool
+in its holder (B23Q 17/002, B23Q 17/09 take
+8Measuring; Indicating; Controlling
+   17/007   . {for managing machine functions not concerning
+   17/008   . . {Life management for parts of the machine (tool
+   17/09    . for indicating or measuring cutting pressure
+or {for determining} cutting-tool condition,
+e.g. cutting ability, load on tool (arrangements
+preventing overload of tools B23Q 11/04; devices
+for indicating failure of drills during boring
+   17/0904  . . {before or after machining}
+   17/0909  . . . {Detection of broken tools}
+   17/0914  . . . {Arrangements for measuring or adjusting
+cutting-tool geometry machine tools}
+   17/0919  . . . {Arrangements for measuring or adjusting
+cutting-tool geometry in presetting devices}
+   17/0923  . . . . {Tool length}
+   17/0928  . . . . {Cutting angles of lathe tools}
+   17/0933  . . . . {Cutting angles of milling cutters}
+   17/0938  . . . . {Cutting angles of drills}
+   17/0942  . . . . {Cutting angles of saws}
+   17/0947  . . . . {Monitoring devices for measuring cutting
+   17/0952  . . {during machining}
+   17/0957  . . . {Detection of tool breakage (detecting failure
+   17/0961  . . . {by measuring power, current or torque of a
+   17/0966  . . . {by measuring a force on parts of the machine
+   17/0971  . . . {by measuring mechanical vibrations of parts
+of the machine (arrangements for measuring
+   17/0976  . . . . {Detection or control of chatter (B23Q 15/12
+   17/098   . . . {by measuring noise}
+   17/0985  . . . {by measuring temperature}
+   17/099   . . . {by measuring features of the machined
+workpiece (arrangements for measuring
+workpiece characteristics B23Q 17/20)}
+   17/0995  . . {Tool life management}
+   17/10    . for indicating or measuring cutting speed or number
+   17/12    . for indicating or measuring vibration
+   17/20    . for indicating or measuring workpiece
+characteristics, e.g. contour, dimension, hardness
+   17/22    . for indicating or measuring existing or desired
+position of tool or work {(B23Q 16/005 takes
+   17/2208  . . {Detection or prevention of collisions}
+   17/2216  . . {for adjusting the tool into its holder
+(B23Q 17/0923 - B23Q 17/0942 takes
+   17/2225  . . . {with the toolholder as reference-element}
+   17/2233  . . {for adjusting the tool relative to the workpiece}
+   17/2241  . . . {Detection of contact between tool and
+   17/225   . . . {of a workpiece relative to the tool-axis}
+   17/2258  . . . . {the workpiece rotating during the
+adjustment relative to the tool axis}
+   17/2266  . . . {of a tool relative to a workpiece-axis}
+   17/2275  . . . {of a tool-axis relative to a workpiece-axis}
+   17/2283  . . {for adjusting the distance between coaxially
+   17/2291  . . {for adjusting the workpiece relative to the holder
+   17/24    . using optics {or electromagnetic waves}
+   17/2404  . . {Arrangements for improving direct observation
+of the working space, e.g. using mirrors or lamps
+(structural combinations of lighting devices
+with other articles, not otherwise provided for,
+   17/2409  . . {Arrangements for indirect observation of the
+working space using image recording means, e.g.
+   17/2414  . . {for indicating desired positions guiding the
+positioning of tools or workpieces (B25H 1/0092
+   17/2419  . . . {by projecting a single light beam}
+   17/2423  . . . {by projecting crossing light beams}
+   17/2428  . . {for measuring existing positions of tools or
+   17/2433  . . {Detection of presence or absence}
+   17/2438  . . . {of an operator or a part thereof}
+   17/2447  . . . {of a workpiece}
+   17/2452  . . {for measuring features or for detecting a
+condition of machine parts, tools or workpieces
+(B23Q 17/2428, B23Q 17/2433 take precedence)}
+   17/2471  . . . {of workpieces}
+   17/2476  . . . {of clamping devices, e.g. work or tool
+   17/248   . . {using special electromagnetic means or
+   17/2485  . . . {using interruptions of light beams}
+   17/249   . . . {using image analysis, e.g. for radar, infrared
+   17/2495  . . . {using interferometers}
+   23/00    Arrangements for compensating for irregularities
+or wear, e.g. of ways, of setting mechanisms
+   27/00    Geometrical mechanisms for the production of
+work of particular shapes, not fully provided for in
+   27/003   . {of conical non-circular section manufactured by
+an apparatus with a first rotational cutting vector
+and a second linear feed vector, intersecting the first
+   27/006   . {by rolling without slippage two bodies of particular
+In groups B23Q 33/00 or B23Q 35/00, the following term is used
+• "copying" covers the derivation of a required shape from
+a pattern, of the same or a different shape or scale, by a
+mechanism or equivalent means controlled by a member
+following the pattern. The pattern may be a model or drawing,
+or an element such as a cam incorporated in the operating
+mechanism of a machine. This term does not cover the
+derivation of a required shape from simple geometrical shapes,
+e.g. generating a cycloid by a rolling circle, which in general is
+provided for in group B23Q 27/00
+   33/00    Methods for copying
+   35/00    Control systems or devices for copying directly
+from a pattern or a master model; Devices for use
+in copying manually {(copy milling classified also in
+   35/005   . {Copying by a curve composed of arcs of circles}
+   35/02    . Copying discrete points from the pattern, e.g. for
+determining the position of holes to be drilled
+   35/04    . using a feeler or the like travelling along the outline
+of the pattern, model or drawing; Feelers, patterns,
+   35/06    . . specially adapted for controlling successive
+operations, e.g. separate cuts, on a workpiece
+   35/08    . . Means for transforming movement of the feeler or
+the like into feed movement of tool or work
+   35/10    . . . mechanically only
+   35/101   . . . . {with a pattern composed of one or more
+lines used simultaneously for one tool}
+   35/102   . . . . . {of one line}
+   35/103   . . . . . . {which turns continuously}
+   35/104   . . . . . . {with coaxial tool and feeler}
+   35/105   . . . . . {of two lines}
+   35/106   . . . . . . {with a single tool and two feelers
+   35/107   . . . . . . . {tool and feelers being coaxial}
+   35/108   . . . . . {of three or more lines}
+   35/109   . . . . {with a continuously turning pattern
+(B23Q 35/101 takes precedence)}
+   35/12    . . . involving electrical means (programme
+recording for copying purposes in a separate
+   35/121   . . . . using mechanical sensing
+   35/122   . . . . . the feeler opening or closing electrical
+   35/123   . . . . . the feeler varying the impedance in a
+   35/124   . . . . . . varying resistance
+   35/125   . . . . . . varying capacitance
+   35/126   . . . . . . varying inductance
+   35/127   . . . . using non-mechanical sensing
+   35/128   . . . . . Sensing by using optical means
+   35/129   . . . . . Sensing by means of electric discharges
+   35/13    . . . . . Sensing by using magnetic means
+   35/14    . . . . controlling one or more electromotors
+   35/16    . . . . controlling fluid motors
+   35/18    . . . involving fluid means (B23Q 35/16 takes
+   35/181   . . . . {with a pattern composed of one or more
+   35/183   . . . . . {of one line}
+   35/185   . . . . . . {turning continuously}
+   35/186   . . . . . {of two lines}
+   35/188   . . . . {with a continuously turning pattern
+(B23Q 35/181 takes precedence)}
+   35/20    . . . with special means for varying the ratio of
+   35/22    . . . specially adapted for compensating for wear of
+   35/24    . . Feelers; Feeler units
+   35/26    . . . designed for a physical contact with a pattern
+   35/28    . . . . for control of a mechanical copying system
+   35/30    . . . . for control of an electrical or electro-
+   35/32    . . . . . in which the feeler makes and breaks an
+electrical contact or contacts, e.g. with
+   35/34    . . . . . in which the feeler varies an electrical
+characteristic in a circuit, e.g. capacity,
+   35/36    . . . . for control of a hydraulic or pneumatic
+   35/38    . . . designed for sensing the pattern, model, or
+drawing without physical contact (sensing by
+means of a fluid jet B23Q 35/36)
+   35/40    . . . . involving optical or photoelectrical systems
+   35/42    . . Patterns; Masters models
+   35/44    . . . provided with means for adjusting the contact
+face, e.g. comprising flexible bands held by set-
+   35/46    . . . Supporting devices therefor
+   35/48    . using a feeler or the like travelling to-and-fro
+between opposite parts of the outline of the pattern,
+Metal-working machines comprising units or sub-assemblies;
+Associations of metal-working machines or units
+   37/00    Metal-working machines, or constructional
+combinations thereof, built-up from units designed
+so that at least some of the units can form parts of
+different machines or combinations; Units therefor
+in so far as the feature of interchangeability is
+important (features relating to particular metal-
+working operations, see the relevant subclass, e.g.
+   37/002   . {Convertible machines, e.g. from horizontally
+working into vertically working (B27B 5/165:
+   37/005   . {Modular base frames}
+   37/007   . {Modular machining stations designed to be linked
+   39/00    Metal-working machines incorporating a plurality
+of sub-assemblies, each capable of performing a
+metal-working operation (B23Q 33/00, B23P 23/00
+take precedence; if the operations are similar and the
+kind of operation is essential, see the relevant subclass
+ 2039/002   . {Machines with twin spindles}
+ 2039/004   . {Machines with tool turrets}
+ 2039/006   . {Machines with multi-spindles}
+ 2039/008   . {Machines of the lathe type}
+   39/02    . the sub-assemblies being capable of being brought
+to act at a single operating station
+   39/021   . . {with a plurality of toolheads per workholder,
+whereby the toolhead is a main spindle, a
+multispindle, a revolver or the like}
+   39/022   . . . {with same working direction of toolheads on
+   39/023   . . . . {simultaneous working of toolheads}
+   39/024   . . . . {consecutive working of toolheads}
+   39/025   . . . {with different working directions of toolheads
+10Metal-working machines comprising units or sub-assemblies; Associations of metal-working machines or
+   39/026   . . . . {simultaneous working of toolheads}
+   39/027   . . . . {consecutive working of toolheads}
+   39/028   . . {with a plurality of workholder per toolhead in
+operating position (with only one workholder in
+   39/029   . . . {with a twin table for alternatively working on
+   39/04    . the sub-assemblies being arranged to operate
+simultaneously at different stations, e.g. with an
+annular work-table moved in steps (associations
+of machines connected only by work-transferring
+   39/042   . . {with circular arrangement of the sub-assemblies}
+   39/044   . . . {having at least one tool station cooperating
+with each work holder, e.g. multi-spindle
+   39/046   . . . {including a loading and/or unloading station}
+   39/048   . . {the work holder of a work station transfers
+directly its workpiece to the work holder of a
+   41/00    Combinations or associations of metal-working
+machines not directed to a particular result
+according to classes B21, B23, or B24 (B23Q 37/00,
+B23Q 39/00 take precedence; features relating to
+operations performed, if the different metal-working
+operations are of the same kind,  see the subclass for
+the kind of operation, e.g. punching B21D, welding
+B23K, grinding B24B; features relating to technically
+specified combinations of different metal-working
+   41/02    . Features relating to transfer of work between
+machines (arrangements for handling work for
+machine tools coordinated in production lines
+   41/04    . Features relating to relative arrangements of
+   41/06    . Features relating to organisation of working of
+   41/08    . Features relating to maintenance of efficient
+ 2210/00    Machine tools incorporating a specific component
+ 2210/006   . Curved guiding rails
+ 2210/008   . Flexible guiding rails
+ 2220/00    Machine tool components
+ 2220/008   . Rotatable tool holders coupled in parallel to a non
+ 2230/00    Special operations in a machine tool
+ 2230/002   . Using the spindle for performing a non machining
+or non measuring operation, e.g. cleaning, actuating
+ 2230/004   . Using a cutting tool reciprocating at high speeds,
+ 2230/006   . Machining both ends of a workpiece consecutively
+ 2230/008   . Machining the middle part and the ends of a
+ 2240/00    Machine tools specially suited for a specific kind of
+ 2240/005   . Flexible, deformable workpieces
+ 2240/007   . Elongated workpieces
+ 2701/00    Members which are comprised in the general
+build-up of a form of the machine
+ 2701/01    . Frames or slideways for lathes; Frames for boring
+ 2701/02    . Movable or adjustable work or tool supports for
+milling machines, their drive, control or guiding
+ 2701/025   . . Work-tables rotating around an axis vertical to the
+surface of the table; this kind of table comprising
+a divider, indexer or positioning means
+ 2701/04    . Support braces for a milling machine
+ 2701/06    . Tailstock for the spindle of a milling machine
+ 2703/02    . Work clamping means
+ 2703/04    . . using fluid means or a vacuum
+ 2703/06    . . Mandrels with non rotatable claws; Mandrels
+with internal clamping; Clamping elements
+ 2703/08    . . Devices for clamping a plurality of workpieces
+ 2703/10    . . Devices for clamping workpieces of a particular
+form or made from a particular material
+ 2703/105   . . . for clamping a crankshaft
+ 2703/12    . Accessories for attaching
+ 2705/00    Driving working spindles or feeding members
+ 2705/005   . General aspects of driving arrangements in a lathe,
+e.g. indexing the spindle, devices for keeping the
+cutting speed constant, braking or reversing devices
+ 2705/02    . Driving working spindles
+ 2705/023   . . General aspects of driving a boring spindle
+ 2705/026   . . Main drive for the spindles of milling machines
+ 2705/04    . . by fluid pressure
+ 2705/046   . . . for broaching machines
+ 2705/06    . . Mechanical drives with means for varying the
+ 2705/064   . . . . mechanically controlled
+ 2705/066   . . . . fluid pressure controlled
+ 2705/068   . . . . electrically controlled
+ 2705/08    . . Devices for preselecting speed in gear boxes of
+ 2705/10    . Feeding members carrying tools or work
+ 2705/104   . . for milling machines
+ 2705/106   . . for planing machines
+ 2705/108   . . for slotting or mortising machines
+ 2705/12    . . Fluid-pressure drives
+ 2705/122   . . . for milling machines
+ 2705/125   . . . for planing machines
+ 2705/127   . . . for slotting or mortising machines
+ 2705/14    . . Electric drives
+ 2705/145   . . . for milling machines
+ 2705/16    . . Feeding working spindles
+ 2705/165   . . . General aspects of feeding a boring spindle
+ 2705/18    . . Feeding other members supporting tools also
+feeding working spindles supports
+ 2705/187   . . . . . Automatic clutches
+ 2705/20    . . . Gear boxes for thread cutting lathes with a lead
+ 2705/22    . Limiting feed movement of a boring spindle
+ 2705/24    . General aspects of limiting the carriage movement
+ 2705/26    . Stopping the feed in case of overload or a break in a
+ 2707/00    Automatic supply or removal of metal workpieces
+ 2707/006   . for thread cutting, e.g. bolts or crews
+ 2707/025   . . Driving by vibration, shaking or jotting
+ 2707/04    . by means of grippers also magnetic or pneumatic
+ 2707/05    . by means of roller ways
+ 2707/06    . by means of magazines for plates
+ 2707/16    . Devices for organising or spreading out workpieces
+on a conveyor; Devices for placing the pieces at
+predetermined intervals or devices for forming a
+ 2709/00    Portable machines or devices for the cylindrical
+ 2716/00    Equipment for precise positioning of tool or work
+ 2716/02    . Devices for the axial positioning of the turret in a
+lathe; Devices for rotating and blocking the turret
+ 2716/04    . Indexing devices for boring machines
+ 2716/06    . Headstock dividers or devices for dividing in
+ 2716/08    . Holders for tools or work comprising a divider or
+ 2717/00    Arrangements for indicating or measuring
+ 2717/006   . in milling machines
+ 2727/00    Lathes or mechanisms for making work with a
+non-circular section without a model or a shaped
+ 2735/00    Control systems or devices for copying from a
+ 2735/002   . in a milling machine
+ 2735/004   . . the workpiece being immobile during milling
+ 2735/006   . . the workpiece rotating during milling
+ 2735/008   . in a planing machine
+ 2735/02    . Means for transforming movement of the feeler into
+ 2735/04    . . mechanically only
+ 2735/045   . . . in a milling machine
+ 2735/06    . . involving electrical means
+ 2735/065   . . . in a milling machine
+ 2735/067   . . . . with rotation of the workpiece during milling
+ 2735/08    . . involving fluid means
+ 2735/085   . . . in a milling machine
+ 2735/087   . . . . with rotation of the workpiece during milling

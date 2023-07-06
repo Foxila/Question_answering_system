@@ -1,0 +1,782 @@
+COOPERATIVE PATENT CLASSIFICATION
+EDUCATION; CRYPTOGRAPHY; DISPLAY; ADVERTISING; SEALS
+ARRANGEMENTS OR CIRCUITS FOR CONTROL OF INDICATING DEVICES
+USING STATIC MEANS TO PRESENT VARIABLE INFORMATION (lighting in
+general F21; arrangements for displaying electric variables or waveforms G01R 3/00; devices
+or arrangements for the control of light beams G02F 1/00; indicating of time by visual
+means G04B 19/00, G04C 17/00, G04G 9/00; arrangements for transferring data between
+computers and peripheral equipment G06F 3/00; visible signalling arrangements or devices
+G08B 5/00; traffic control systems G08G; display, advertising, signs G09F, e.g. static indicating
+arrangements comprising an association of a number of separate sources or light control cells
+G09F 9/00; static indicating arrangements comprising integral associations of a number of light
+sources H01J, H01K, H01L, H05B 33/12; circuits in pulse counters for indicating the result
+H03K 21/18; coding, decoding or code conversion, in general H03M; reproducing a picture or
+pattern using electric signals representing parts thereof and produced by scanning an original
+1. This subclass covers indicator consoles, i.e. arrangements or circuits for processing control signals to achieve the display, e.g.
+for the calling up, reception, storage, regeneration, coding, decoding, addressing of control signals.
+2. This subclass does not cover the structural details of the indicating devices, such as panels or tubes per se, or assemblies of
+individual light sources, which are covered by the relevant subclasses, e.g. H01J, H01K, H01L, H10K, G02F, G09F, H05B.
+3. Contrary to subclass H04N, in which are classified display devices capable of representing continuous brightness value scales,
+this subclass is limited to devices using only a discrete number of brightness values, e.g. visible/non-visible.
+4. The visual effect may be produced by a luminescent screen scanned by an electron beam, directly by controlled light sources,
+by projection of light, from controlled light sources onto characters, symbols, or elements thereof drawn on a support, or by
+electric, magnetic, or acoustic control of the parameters of light rays from an independent source.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Control arrangements or circuits, of interest only
+in connection with cathode-ray tube indicators;
+{General aspects or details, e.g. selection emphasis
+on particular characters, dashed line or dotted
+line generation; Preprocessing of data}(cathode-
+ray oscilloscopes G01R 13/20; {radar display
+arrangements G01S 7/04; display of digital non-
+picture data in television systems H04N 7/0255})
+    1/002   . {Intensity circuits (G09G 1/06 - G09G 1/28 take
+    1/005   . {Power supply circuits}
+    1/007   . {Circuits for displaying split screens}
+    1/02    . Storage circuits (G09G 1/06 - G09G 1/28 take
+    1/04    . Deflection circuits {Constructional details
+not otherwise provided for (electron-optical
+arrangements H01J 29/46, H01J 37/04,
+    1/06    . using single beam tubes (G09G 1/26, G09G 1/28
+take precedence), {e.g. three-dimensional or
+perspective representation, rotation or translation of
+display pattern, hidden lines, shadows (G09G 1/28
+takes precedence; stereoscopic TV-systems,
+details thereof H04N 13/00; oscilloscopes for
+three-dimensional representation G01R 13/206;
+    1/07    . . with combined raster scan and calligraphic
+    1/08    . . the beam directly tracing characters, the
+information to be displayed controlling the
+deflection {and the intensity} as a function of
+time in two spatial co-ordinates, e.g. according to
+    1/10    . . . the deflection signals being produced by
+essentially digital means, e.g. incrementally
+    1/12    . . . the deflection signals being produced by
+    1/14    . . the beam tracing a pattern independent of
+the information to be displayed, this latter
+determining the parts of the pattern rendered
+respectively visible and invisible
+    1/143   . . . {Circuits for displaying horizontal and vertical
+    1/146   . . . {Flicker reduction circuits}
+    1/16    . . . the pattern of rectangular co-ordinates
+extending over the whole area of the screen, i.e.
+    1/162   . . . . {for displaying digital inputs as analog
+magnitudes, e.g. curves, bar graphs,
+coordinate axes, singly or in combination
+with alpha-numeric characters (cathode-ray
+oscilloscopes for displaying analog inputs,
+singly or in combination with alpha-numeric
+characters G01R 13/20; television receiver
+circuitry for displaying supplementary, e.g.
+alpha-numeric, information H04N 5/445)}
+    1/165   . . . . {Details of a display terminal using a CRT,
+the details relating to the control arrangement
+of the display terminal and to the interfaces
+thereto (details suitable for both CRT and flat
+panel G09G 5/003; specific for a flat panel
+    1/167   . . . . . {Details of the interface to the display
+terminal specific for a CRT (details
+suitable for both CRT and flat panel
+G09G 5/006, specific for a flat panel
+    1/18    . . . a small local pattern covering only a single
+character, and stepping to a position for the
+following character, e.g. in rectangular or polar
+co-ordinates, or in the form of a framed star
+    1/20    . using multi-beam tubes (G09G 1/26, G09G 1/28
+    1/22    . using tubes permitting selection of a complete
+character from a number of characters {(tubes
+    1/24    . using tubes permitting selection of individual
+elements forming in combination a character {(see
+    1/26    . using storage tubes {(tubes therefor H01J 31/58)}
+    1/28    . using colour tubes {(tubes therefor H01J 31/20)}
+    1/285   . . {Interfacing with colour displays, e.g. TV
+    3/00    Control arrangements or circuits, of interest only
+in connection with visual indicators other than
+    3/001   . {using specific devices not provided for in
+groups G09G 3/02 - G09G 3/36, e.g. using an
+intermediate record carrier such as a film slide;
+Projection systems; Display of non-alphanumerical
+information, solely or in combination with
+alphanumerical information, e.g. digital display
+on projected diapositive as background (slide
+projectors per se G03B 23/00 = 42 HP)}
+    3/002   . . {to project the image of a two-dimensional
+display, such as an array of light emitting or
+    3/003   . . {to produce spatial visual effects}
+    3/004   . {to give the appearance of moving signs}
+    3/005   . {forming an image using a quickly moving array
+of imaging elements, causing the human eye to
+perceive an image which has a larger resolution than
+the array, e.g. an image on a cylinder formed by a
+rotating line of LEDs parallel to the axis of rotation}
+    3/006   . {Electronic inspection or testing of displays and
+display drivers, e.g. of LED or LCD displays
+(testing individual LED's G01R 31/2635; testing
+lamps G01R 31/44; testing of optical features of
+    3/007   . {Use of pixel shift techniques, e.g. by mechanical
+shift of the physical pixels or by optical shift of the
+    3/008   . {forming an image on an image carrier by relative
+movement of a writing unit to the image carrier,
+e.g. on a photoconductive rotating belt, or on an
+    3/02    . by tracing or scanning a light beam on a screen
+    3/025   . . {with scanning or deflecting the beams in two
+    3/03    . {specially adapted for displays having non-planar
+surfaces, e.g. curved displays}
+    3/035   . . {for flexible display surfaces}
+    3/04    . for presentation of a single character by selection
+from a plurality of characters, or by composing the
+character by combination of individual elements,
+e.g. segments {using a combination of such display
+devices for composing words, rows or the like, in a
+frame with fixed character positions}
+    3/045   . . {Selecting complete characters}
+    3/06    . . using controlled light sources
+    3/08    . . . using incandescent filaments
+    3/10    . . . using gas tubes
+    3/12    . . . using electroluminescent elements
+    3/14    . . . . Semiconductor devices, e.g. diodes
+    3/16    . . by control of light from an independent source
+    3/18    . . . using liquid crystals
+    3/19    . . . using electrochromic devices
+    3/20    . for presentation of an assembly of a number of
+characters, e.g. a page, by composing the assembly
+by combination of individual elements arranged
+in a matrix {no fixed position being assigned to or
+needed to be assigned to the individual characters or
+    3/2003  . . {Display of colours (specific for liquid crystal
+    3/2007  . . {Display of intermediate tones}
+    3/2011  . . . {by amplitude modulation}
+    3/2014  . . . {by modulation of the duration of a single pulse
+during which the logic level remains constant}
+    3/2018  . . . {by time modulation using two or more time
+    3/2022  . . . . {using sub-frames}
+    3/2025  . . . . . {the sub-frames having all the same time
+    3/2029  . . . . . {the sub-frames having non-binary
+    3/2033  . . . . . {with splitting one or more sub-frames
+corresponding to the most significant bits
+    3/2037  . . . . . {with specific control of sub-frames
+corresponding to the least significant bits}
+    3/204   . . . . . {the sub-frames being organized in
+    3/2044  . . . {using dithering}
+    3/2048  . . . . {with addition of random noise to an image
+signal or to a gradation threshold}
+    3/2051  . . . . {with use of a spatial dither pattern}
+    3/2055  . . . . . {the pattern being varied in time}
+    3/2059  . . . {using error diffusion}
+    3/2062  . . . . {using error diffusion in time}
+    3/2066  . . . . . {with error diffusion in both space and
+    3/207   . . . {by domain size control (G09G 3/3637 takes
+    3/2074  . . . {using sub-pixels}
+    3/2077  . . . {by a combination of two or more gradation
+    3/2081  . . . . {with combination of amplitude modulation
+and time modulation (space and time error
+    3/2085  . . {Special arrangements for addressing the
+individual elements of the matrix, other than
+by driving respective rows and columns in
+    3/2088  . . . {with use of a plurality of processors, each
+processor controlling a number of individual
+    3/2092  . . {Details of a display terminals using a flat panel,
+the details relating to the control arrangement
+of the display terminal and to the interfaces
+thereto (suitable for both CRT and flat panel
+G09G 5/003; specific for a CRT G09G 1/165)}
+    3/2096  . . . {Details of the interface to the display terminal
+specific for a flat panel (suitable for both CRT
+and flat panel G09G 5/006; specific for a CRT
+    3/22    . . using controlled light sources
+    3/24    . . . using incandescent filaments
+    3/26    . . . . to give the appearance of moving signs
+    3/28    . . . using luminous gas-discharge panels, e.g.
+    3/2803  . . . . {Display of gradations (G09G 3/288 takes
+    3/2807  . . . . with discharge activated by high-frequency
+signals specially adapted therefor
+    3/2813  . . . . using alternating current [AC] - direct
+current [DC] hybrid-type panels
+    3/282   . . . . using DC panels
+    3/285   . . . . . using self-scanning
+    3/288   . . . . using AC panels
+    3/29    . . . . . using self-shift panels {with sequential
+transfer of the discharges from an input
+position to a further display position}
+    3/291   . . . . . controlling the gas discharge to control a
+cell condition, e.g. by means of specific
+    3/292   . . . . . . for reset discharge, priming discharge
+or erase discharge occurring in a phase
+    3/2922  . . . . . . . {Details of erasing}
+    3/2925  . . . . . . . {Details of priming}
+    3/2927  . . . . . . . {Details of initialising}
+    3/293   . . . . . . for address discharge
+    3/2932  . . . . . . . {Addressed by writing selected cells
+    3/2935  . . . . . . . {Addressed by erasing selected cells
+    3/2937  . . . . . . . {being addressed only once per
+    3/294   . . . . . . for lighting or sustain discharge
+    3/2942  . . . . . . . {with special waveforms to increase
+    3/2944  . . . . . . . {by varying the frequency of sustain
+pulses or the number of sustain pulses
+proportionally in each subfield of the
+    3/2946  . . . . . . . {by introducing variations of the
+frequency of sustain pulses within a
+frame or non-proportional variations
+of the number of sustain pulses in
+    3/2948  . . . . . . . {by increasing the total sustaining
+time with respect to other times in the
+    3/296   . . . . . Driving circuits for producing the
+waveforms applied to the driving
+    3/2965  . . . . . . {using inductors for energy recovery}
+    3/297   . . . . . using opposed discharge type panels
+    3/298   . . . . . using surface discharge panels
+    3/2983  . . . . . . {using non-standard pixel electrode
+    3/2986  . . . . . . . {with more than 3 electrodes involved
+    3/299   . . . . . . using alternate lighting of surface-type
+    3/30    . . . using electroluminescent panels
+    3/32    . . . . semiconductive, e.g. using light-emitting
+    3/3208  . . . . . organic, e.g. using organic light-emitting
+    3/3216  . . . . . . using a passive matrix
+    3/3225  . . . . . . using an active matrix
+    3/3233  . . . . . . . with pixel circuitry controlling the
+current through the light-emitting
+    3/3241  . . . . . . . . the current through the light-
+emitting element being set using
+data driver, e.g. by using a two-
+    3/325   . . . . . . . . . the data current flowing through
+the driving transistor during a
+switch for connecting the driving
+    3/3258  . . . . . . . with pixel circuitry controlling the
+voltage across the light-emitting
+    3/3266  . . . . . . Details of drivers for scan electrodes
+    3/3275  . . . . . . Details of drivers for data electrodes
+    3/3283  . . . . . . . in which the data driver supplies a
+variable data current for setting the
+current through, or the voltage across,
+    3/3291  . . . . . . . in which the data driver supplies a
+variable data voltage for setting the
+current through, or the voltage across,
+    3/34    . . by control of light from an independent source
+    3/3406  . . . {Control of illumination source (illumination
+devices structurally associated with liquid
+    3/3413  . . . . {Details of control of colour illumination
+    3/342   . . . . {using several illumination sources
+separately controlled corresponding to
+different display panel areas, e.g. along one
+    3/3426  . . . . . {the different display panel areas being
+distributed in two dimensions, e.g. matrix}
+    3/3433  . . . {using light modulating elements actuated by
+an electric field and being other than liquid
+crystal devices and electrochromic devices
+(using liquid crystal devices G09G 3/36; using
+electrochromic devices G09G 3/38)}
+    3/344   . . . . {based on particles moving in a fluid
+or in a gas, e.g. electrophoretic devices
+(electrophoretic devices per se G02F 1/167)}
+    3/3446  . . . . . {with more than two electrodes controlling
+    3/3453  . . . . {based on rotating particles or
+    3/346   . . . . {based on modulation of the reflection angle,
+e.g. micromirrors (micromirrors devices per
+    3/3466  . . . . {based on interferometric effect}
+    3/3473  . . . . {based on light coupled out of a light guide,
+e.g. due to scattering, by contracting the light
+    3/348   . . . . {based on the deformation of a fluid drop,
+    3/3486  . . . {using light modulating elements actuated by a
+    3/3493  . . . {using light modulating elements actuated by a
+    3/36    . . . using liquid crystals
+    3/3603  . . . . {with thermally addressed liquid crystals}
+    3/3607  . . . . {for displaying colours or for displaying
+grey scales with a specific pixel layout,
+e.g. using sub-pixels (display of colours in
+flat matrix panels other than liquid crystal
+displays G09G 3/2003; grey scales specific
+    3/3611  . . . . {Control of matrices with row and column
+    3/3614  . . . . . {Control of polarity reversal in general}
+    3/3618  . . . . . {with automatic refresh of the display
+panel using sense/write circuits}
+    3/3622  . . . . . {using a passive matrix
+(G09G 3/3674 - G09G 3/3696 take
+    3/3625  . . . . . . {using active addressing}
+    3/3629  . . . . . . {using liquid crystals having memory
+effects, e.g. ferroelectric liquid crystals}
+    3/3633  . . . . . . . {with transmission/voltage
+characteristic comprising multiple
+loops, e.g. antiferroelectric liquid
+    3/3637  . . . . . . . {with intermediate tones displayed
+by domain size control (domain size
+control in flat matrix panels other than
+liquid crystal displays having memory
+    3/364   . . . . . . . {with use of subpixels}
+    3/3644  . . . . . . {with the matrix divided into sections}
+    3/3648  . . . . . {using an active matrix
+    3/3651  . . . . . . {using multistable liquid crystals, e.g.
+    3/3655  . . . . . . {Details of drivers for counter
+electrodes, e.g. common electrodes
+for pixel capacitors or supplementary
+    3/3659  . . . . . . {the addressing of the pixel involving
+the control of two or more scan
+electrodes, e.g. pixel voltage dependant
+on signal of two data electrodes}
+    3/3662  . . . . . . {using plasma-addressed liquid crystal
+    3/3666  . . . . . . {with the matrix divided into sections}
+    3/367   . . . . . {with a nonlinear element in series with
+the liquid crystal cell, e.g. a diode, or
+    3/3674  . . . . . {Details of drivers for scan electrodes}
+    3/3677  . . . . . . {suitable for active matrices only}
+    3/3681  . . . . . . {suitable for passive matrices only}
+    3/3685  . . . . . {Details of drivers for data electrodes}
+    3/3688  . . . . . . {suitable for active matrices only}
+    3/3692  . . . . . . {suitable for passive matrices only}
+    3/3696  . . . . . {Generation of voltages supplied to
+    3/38    . . . using electrochromic devices
+    5/00    Control arrangements or circuits for visual
+indicators common to cathode-ray tube indicators
+and other visual indicators (image data processing
+or generation, in general G06T)
+    5/001   . {Arbitration of resources in a display system, e.g.
+control of access to frame buffer by video controller
+    5/003   . {Details of a display terminal, the details relating
+to the control arrangement of the display terminal
+and to the interfaces thereto (specific for a CRT
+G09G 1/165; for a flat panel G09G 3/2092)}
+    5/005   . . {Adapting incoming signals to the display format
+    5/006   . . {Details of the interface to the display terminal
+(specific for a display terminal using a CRT
+G09G 1/167; using a flat panel G09G 3/2096;
+circuits for interfacing with colour displays
+    5/008   . . . {Clock recovery}
+    5/02    . characterised by the way in which colour is
+displayed {(details of colour display specific for
+CRTs G09G 1/28; specific for flat matrix panels
+other than liquid crystal displays G09G 3/2003;
+specific for liquid crystal displays G09G 3/3607)}
+    5/022   . . {using memory planes}
+    5/024   . . {using colour registers, e.g. to control
+background, foreground, surface filling
+    5/026   . . {Control of mixing and/or overlay of colours
+in general (G09G 5/022 and G09G 5/024 take
+    5/028   . . {Circuits for converting colour display signals
+into monochrome display signals}
+    5/04    . . using circuits for interfacing with colour displays
+    5/06    . . using colour palettes, e.g. look-up tables
+    5/10    . Intensity circuits
+    5/12    . Synchronisation between the display unit and other
+units, e.g. other display units, video-disc players
+    5/14    . Display of multiple viewports
+    5/16    . Display of right-to-left language
+    5/18    . Timing circuits for raster scan displays (specially
+adapted for television H04N {; synchronisation
+between the display unit and other display units,
+    5/20    . Function-generator circuits, e.g. circle generators
+{line or curve smoothing circuits}
+    5/22    . characterised by the display of characters or indicia
+using display control signals derived from coded
+signals representing the characters or indicia, e.g.
+    5/222   . . {Control of the character-code memory}
+    5/225   . . . {comprising a loadable character generator
+(character generators per se G09G 5/24)}
+    5/227   . . . {Resolution modifying circuits, e.g. variable
+screen formats, resolution change between
+memory contents and display screen}
+    5/24    . . Generation of individual character patterns
+    5/243   . . . {Circuits for displaying proportional spaced
+    5/246   . . . {of ideographic or arabic-like characters}
+    5/26    . . . for modifying the character dimensions, e.g.
+    5/28    . . . for enhancement of character form, e.g.
+    5/30    . . Control of display attribute
+    5/32    . . with means for controlling the display position
+{(see provisionally G09G 5/42)}
+    5/34    . for rolling or scrolling
+    5/343   . . {for systems having a character code-mapped
+    5/346   . . {for systems having a bit-mapped display
+    5/36    . characterised by the display of a graphic pattern,
+e.g. using an all-points-addressable [APA] memory
+    5/363   . . {Graphics controllers}
+    5/366   . . . {with conversion of CRT control signals to flat
+panel control signals, e.g. adapting the palette
+    5/37    . . Details of the operation on graphic patterns
+    5/373   . . . for modifying the size of the graphic pattern
+    5/377   . . . for mixing or overlaying two or more graphic
+patterns (G09G 5/02, G09G 5/397 take
+    5/38    . . with means for controlling the display position
+    5/39    . . Control of the bit-mapped memory
+    5/391   . . . Resolution modifying circuits, e.g. variable
+    5/393   . . . Arrangements for updating the contents of the
+    5/395   . . . Arrangements specially adapted for transferring
+the contents of the bit-mapped memory to the
+screen (G09G 5/399 takes precedence)
+    5/397   . . . . Arrangements specially adapted for
+transferring the contents of two or more
+bit-mapped memories to the screen
+simultaneously, e.g. for mixing or overlay
+Not complete. See also G09G 5/395,
+    5/399   . . . using two or more bit-mapped memories, the
+operations of which are switched in time, e.g.
+    5/40    . characterised by the way in which both a pattern
+determined by character code and another pattern
+are displayed simultaneously, or either pattern
+is displayed selectively, e.g. with character code
+memory and APA, i.e. all-points-addressable,
+    5/42    . characterised by the display of patterns using
+a display memory without fixed position
+correspondence between the display memory
+contents and the display position on the screen
+ 2230/00    Details of flat display driving waveforms
+ 2290/00    Indexing scheme relating to details of a display
+ 2300/00    Aspects of the constitution of display devices
+ 2300/02    . Composition of display devices
+ 2300/023   . . Display panel composed of stacked panels
+ 2300/026   . . Video wall, i.e. juxtaposition of a plurality of
+screens to create a display screen of bigger
+ 2300/04    . Structural and physical details of display devices
+ 2300/0404  . . Matrix technologies
+ 2300/0408  . . . Integration of the drivers onto the display
+ 2300/0413  . . . Details of dummy pixels or dummy lines in flat
+ 2300/0417  . . . Special arrangements specific to the use of low
+ 2300/0421  . . Structural details of the set of electrodes
+ 2300/0426  . . . Layout of electrodes and connections
+ 2300/043   . . . Compensation electrodes or other additional
+electrodes in matrix displays related to
+distortions or compensation signals, e.g. for
+modifying TFT threshold voltage in column
+ 2300/0434  . . . Flat panel display in which a field is applied
+ 2300/0439  . . Pixel structures
+ 2300/0443  . . . with several sub-pixels for the same colour
+in a pixel, not specifically used to display
+gradations (G09G 3/364 takes precedence)
+ 2300/0447  . . . . for multi-domain technique to improve the
+viewing angle in a liquid crystal display,
+such as multi-vertical alignment [MVA]
+ 2300/0452  . . . Details of colour pixel setup, e.g. pixel
+composed of a red, a blue and two green
+ 2300/0456  . . . with a reflective area and a transmissive area
+combined in one pixel, such as in transflectance
+ 2300/046   . . . with an emissive area and a light-modulating
+ 2300/0465  . . . Improved aperture ratio, e.g. by size reduction
+of the pixel circuit, e.g. for improving the pixel
+density or the maximum displayable luminance
+ 2300/0469  . . Details of the physics of pixel operation
+ 2300/0473  . . . Use of light emitting or modulating elements
+having two or more stable states when no
+ 2300/0478  . . . related to liquid crystal pixels
+ 2300/0482  . . . . Use of memory effects in nematic liquid
+ 2300/0486  . . . . . Cholesteric liquid crystals, including
+chiral-nematic liquid crystals, with
+transitions between focal conic, planar,
+ 2300/0491  . . . . Use of a bi-refringent liquid crystal, optically
+controlled bi-refringence [OCB] with bend
+and splay states, or electrically controlled bi-
+refringence [ECB] for controlling the color
+ 2300/0495  . . . . Use of transitions between isotropic and
+anisotropic phases in liquid crystals, by
+voltage controlled deformation of the liquid
+crystal molecules, as opposed to merely
+changing the orientation of the molecules
+as in, e.g. twisted-nematic [TN], vertical-
+aligned [VA], cholesteric, in-plane, or bi-
+ 2300/06    . Passive matrix structure, i.e. with direct application
+of both column and row voltages to the light
+emitting or modulating elements, other than LCD or
+ 2300/08    . Active matrix structure, i.e. with use of active
+elements, inclusive of non-linear two terminal
+elements, in the pixels together with light emitting
+ 2300/0804  . . Sub-multiplexed active matrix panel, i.e. wherein
+one active driving circuit is used at pixel level for
+multiple image producing elements
+ 2300/0809  . . Several active elements per pixel in active matrix
+ 2300/0814  . . . used for selection purposes, e.g. logical AND
+ 2300/0819  . . . used for counteracting undesired variations,
+ 2300/0823  . . . used to establish symmetry in driving, e.g. with
+ 2300/0828  . . . forming a digital to analog [D/A] conversion
+ 2300/0833  . . . forming a linear amplifier or follower
+ 2300/0838  . . . . with level shifting
+ 2300/0842  . . . forming a memory circuit, e.g. a dynamic
+ 2300/0847  . . . . being a dynamic memory without any
+storage capacitor, i.e. with use of parasitic
+capacitances as storage elements
+ 2300/0852  . . . . being a dynamic memory with more than one
+ 2300/0857  . . . . Static memory circuit, e.g. flip-flop
+ 2300/0861  . . . . with additional control of the display period
+without amending the charge stored in a
+pixel memory, e.g. by means of additional
+ 2300/0866  . . . . . by means of changes in the pixel supply
+ 2300/0871  . . . with level shifting
+ 2300/0876  . . Supplementary capacities in pixels having special
+driving circuits and electrodes instead of being
+connected to common electrode or ground; Use
+of additional capacitively coupled compensation
+ 2300/088   . . using a non-linear two-terminal element
+ 2300/0885  . . . Pixel comprising a non-linear two-terminal
+element alone in series with each display pixel
+ 2300/089   . . . Pixel comprising a non-linear two-terminal
+element in series with each display pixel
+element, the series comprising also other
+ 2300/0895  . . . having more than one selection line for a two-
+terminal active matrix LCD, e.g. Lechner and
+ 2310/00    Command of the display device
+ 2310/02    . Addressing, scanning or driving the display screen
+or processing steps related thereto
+ 2310/0202  . . Addressing of scan or signal lines
+ 2310/0205  . . . Simultaneous scanning of several lines in flat
+ 2310/0208  . . . . using active addressing
+ 2310/021   . . . . Double addressing, i.e. scanning two or more
+lines, e.g. lines 2 and 3; 4 and 5, at a time
+in a first field, followed by scanning two or
+more lines in another combination, e.g. lines
+1 and 2; 3 and 4, in a second field
+ 2310/0213  . . . controlling the sequence of the scanning lines
+with respect to the patterns to be displayed, e.g.
+ 2310/0216  . . . Interleaved control phases for different scan
+lines in the same sub-field, e.g. initialization,
+addressing and sustaining in plasma displays
+that are not simultaneous for all scan lines
+ 2310/0218  . . . with collection of electrodes in groups for n-
+ 2310/0221  . . . with use of split matrices (G09G 3/3644 and
+ 2310/0224  . . Details of interlacing
+ 2310/0227  . . . related to multiple interlacing, i.e. involving
+more fields than just one odd field and one
+ 2310/0232  . . Special driving of display border areas
+ 2310/0235  . . Field-sequential colour display
+ 2310/0237  . . Switching ON and OFF the backlight within one
+ 2310/024   . . Scrolling of light from the illumination source
+over the display in combination with the scanning
+ 2310/0243  . . Details of the generation of driving signals
+ 2310/0245  . . . Clearing or presetting the whole screen
+independently of waveforms, e.g. on power-on
+(G09G 2310/063 takes precedence)
+ 2310/0248  . . . Precharge or discharge of column electrodes
+before or after applying exact column voltages
+ 2310/0251  . . . Precharge or discharge of pixel before applying
+ 2310/0254  . . . Control of polarity reversal in general, other
+than for liquid crystal displays
+ 2310/0256  . . . . with the purpose of reversing the voltage
+across a light emitting or modulating element
+ 2310/0259  . . . with use of an analog or digital ramp generator
+in the column driver or in the pixel circuit
+ 2310/0262  . . The addressing of the pixel, in a display other
+than an active matrix LCD, involving the control
+of two or more scan electrodes or two or more
+data electrodes, e.g. pixel voltage dependent on
+ 2310/0264  . . Details of driving circuits
+ 2310/0267  . . . Details of drivers for scan electrodes, other
+than drivers for liquid crystal, plasma or OLED
+ 2310/027   . . . Details of drivers for data electrodes, the
+drivers handling digital grey scale data, e.g. use
+ 2310/0272  . . . Details of drivers for data electrodes, the
+drivers communicating data to the pixels by
+ 2310/0275  . . . Details of drivers for data electrodes, other
+than drivers for liquid crystal, plasma or OLED
+displays, not related to handling digital grey
+scale data or to communication of data to the
+ 2310/0278  . . . Details of driving circuits arranged to drive
+ 2310/0281  . . . Arrangement of scan or data electrode driver
+circuits at the periphery of a panel not inherent
+ 2310/0283  . . . Arrangement of drivers for different directions
+ 2310/0286  . . . Details of a shift registers arranged for use in a
+ 2310/0289  . . . Details of voltage level shifters arranged for
+ 2310/0291  . . . Details of output amplifiers or buffers arranged
+ 2310/0294  . . . Details of sampling or holding circuits arranged
+for use in a driver for data electrodes
+ 2310/0297  . . . Special arrangements with multiplexing or
+demultiplexing of display data in the drivers
+for data electrodes, in a pre-processing circuitry
+delivering display data to said drivers or in
+the matrix panel, e.g. multiplexing plural data
+signals to one D/A converter or demultiplexing
+the D/A converter output to multiple columns
+ 2310/04    . Partial updating of the display screen
+ 2310/06    . Details of flat display driving waveforms
+ 2310/061   . . for resetting or blanking
+ 2310/062   . . . Waveforms for resetting a plurality of scan
+ 2310/063   . . . Waveforms for resetting the whole screen at
+ 2310/065   . . Waveforms comprising zero voltage phase or
+ 2310/066   . . Waveforms comprising a gently increasing or
+ 2310/067   . . Special waveforms for scanning, where no circuit
+details of the gate driver are given
+ 2310/068   . . Application of pulses of alternating polarity prior
+to the drive pulse in electrophoretic displays
+ 2310/08    . Details of timing specific for flat panels, other than
+ 2320/00    Control of display operating conditions
+ 2320/02    . Improving the quality of display appearance
+ 2320/0204  . . Compensation of DC component across the pixels
+ 2320/0209  . . Crosstalk reduction, i.e. to reduce direct or
+indirect influences of signals directed to a certain
+pixel of the displayed image on other pixels of
+said image, inclusive of influences affecting
+pixels in different frames or fields or sub-images
+which constitute a same image, e.g. left and right
+images of a stereoscopic display
+ 2320/0214  . . . with crosstalk due to leakage current of pixel
+ 2320/0219  . . Reducing feedthrough effects in active matrix
+panels, i.e. voltage changes on the scan electrode
+influencing the pixel voltage due to capacitive
+ 2320/0223  . . Compensation for problems related to R-C delay
+and attenuation in electrodes of matrix panels,
+e.g. in gate electrodes or on-substrate video signal
+ 2320/0228  . . Increasing the driving margin in plasma displays
+ 2320/0233  . . Improving the luminance or brightness uniformity
+ 2320/0238  . . Improving the black level
+ 2320/0242  . . Compensation of deficiencies in the appearance
+ 2320/0247  . . Flicker reduction other than flicker reduction
+circuits used for single beam cathode-ray tubes
+ 2320/0252  . . Improving the response speed
+ 2320/0257  . . Reduction of after-image effects
+ 2320/0261  . . in the context of movement of objects on the
+screen or movement of the observer relative to the
+ 2320/0266  . . Reduction of sub-frame artefacts
+ 2320/0271  . . Adjustment of the gradation levels within the
+range of the gradation scale, e.g. by redistribution
+ 2320/0276  . . . for the purpose of adaptation to the
+characteristics of a display device, i.e. gamma
+ 2320/028   . . by changing the viewing angle properties, e.g.
+widening the viewing angle, adapting the viewing
+ 2320/0285  . . using tables for spatial correction of display data
+ 2320/029   . . by monitoring one or more pixels in the display
+panel, e.g. by monitoring a fixed reference pixel
+ 2320/0295  . . . by monitoring each display pixel
+ 2320/04    . Maintaining the quality of display appearance
+ 2320/041   . . Temperature compensation
+ 2320/043   . . Preventing or counteracting the effects of ageing
+ 2320/045   . . . Compensation of drifts in the characteristics of
+light emitting or modulating elements
+ 2320/046   . . . Dealing with screen burn-in prevention or
+compensation of the effects thereof
+ 2320/048   . . . using evaluation of the usage time
+ 2320/06    . Adjustment of display parameters
+ 2320/0606  . . Manual adjustment
+ 2320/0613  . . The adjustment depending on the type of the
+ 2320/062   . . . Adjustment of illumination source parameters
+ 2320/0626  . . for control of overall brightness
+ 2320/0633  . . . by amplitude modulation of the brightness of
+ 2320/064   . . . by time modulation of the brightness of the
+ 2320/0646  . . . Modulation of illumination source brightness
+and image signal correlated to each other
+ 2320/0653  . . . Controlling or limiting the speed of brightness
+adjustment of the illumination source
+ 2320/066   . . for control of contrast
+ 2320/0666  . . for control of colour parameters, e.g. colour
+ 2320/0673  . . for control of gamma adjustment, e.g. selecting
+ 2320/068   . . for control of viewing angle adjustment
+ 2320/0686  . . with two or more screen areas displaying
+information with different brightness or colours
+ 2320/0693  . . Calibration of display systems
+ 2320/08    . Arrangements within a display terminal for setting,
+manually or automatically, display parameters of the
+ 2320/10    . Special adaptations of display systems for operation
+ 2320/103   . . Detection of image changes, e.g. determination of
+an index representative of the image change
+ 2320/106   . . Determination of movement vectors or equivalent
+ 2330/00    Aspects of power supply; Aspects of display
+protection and defect management
+ 2330/02    . Details of power systems and of start or stop of
+ 2330/021   . . Power management, e.g. power saving
+ 2330/022   . . . in absence of operation, e.g. no data being
+entered during a predetermined time
+ 2330/023   . . . using energy recovery or conservation
+ 2330/024   . . . . with inductors, other than in the electrode
+driving circuitry of plasma displays
+ 2330/025   . . Reduction of instantaneous peaks of current
+ 2330/026   . . Arrangements or methods related to booting a
+ 2330/027   . . Arrangements or methods related to powering off
+ 2330/028   . . Generation of voltages supplied to electrode
+drivers in a matrix display other than LCD
+ 2330/04    . Display protection
+ 2330/045   . . Protection against panel overheating
+ 2330/06    . Handling electromagnetic interferences
+[EMI], covering emitted as well as received
+ 2330/08    . Fault-tolerant or redundant circuits, or circuits in
+which repair of defects is prepared
+ 2330/10    . Dealing with defective pixels
+ 2330/12    . Test circuits or failure detection circuits included in
+a display system, as permanent part thereof
+ 2340/00    Aspects of display data processing
+ 2340/02    . Handling of images in compressed format, e.g.
+ 2340/04    . Changes in size, position or resolution of an image
+ 2340/0407  . . Resolution change, inclusive of the use of
+different resolutions for different screen areas
+ 2340/0414  . . . Vertical resolution change
+ 2340/0421  . . . Horizontal resolution change
+ 2340/0428  . . . Gradation resolution change
+ 2340/0435  . . . Change or adaptation of the frame rate of the
+ 2340/0442  . . Handling or displaying different aspect ratios, or
+ 2340/045   . . Zooming at least part of an image, i.e. enlarging it
+ 2340/0457  . . Improvement of perceived resolution by subpixel
+ 2340/0471  . . . Vertical positioning
+ 2340/0478  . . . Horizontal positioning
+ 2340/0485  . . . Centering horizontally or vertically
+ 2340/0492  . . Change of orientation of the displayed image, e.g.
+ 2340/06    . Colour space transformation
+ 2340/08    . Monochrome to colour transformation
+ 2340/10    . Mixing of images, i.e. displayed pixel being
+the result of an operation, e.g. adding, on the
+ 2340/12    . Overlay of images, i.e. displayed pixel being the
+result of switching between the corresponding input
+ 2340/125   . . wherein one of the images is motion video
+ 2340/14    . Solving problems related to the presentation of
+ 2340/145   . . related to small screens
+ 2340/16    . Determination of a pixel data signal depending on
+the signal applied in the previous frame
+ 2350/00    Solving problems of bandwidth in display systems
+ 2352/00    Parallel handling of streams of display data
+ 2354/00    Aspects of interface with display user
+ 2356/00    Detection of the display position w.r.t. other
+ 2358/00    Arrangements for display data security
+ 2360/00    Aspects of the architecture of display systems
+ 2360/02    . Graphics controller able to handle multiple formats,
+ 2360/04    . Display device controller operating with a plurality
+ 2360/06    . Use of more than one graphics processor to process
+data before displaying to one or more screens
+ 2360/08    . Power processing, i.e. workload management for
+processors involved in display operations, such as
+ 2360/10    . Display system comprising arrangements, such as a
+coprocessor, specific for motion video images
+ 2360/12    . Frame memory handling
+ 2360/121   . . using a cache memory
+ 2360/123   . . using interleaving
+ 2360/125   . . using unified memory architecture [UMA]
+ 2360/126   . . The frame memory having additional data ports,
+not inclusive of standard details of the output
+ 2360/127   . . Updating a frame memory using a transfer of data
+from a source area to a destination area
+ 2360/128   . . Frame memory using a Synchronous Dynamic
+ 2360/14    . Detecting light within display terminals, e.g. using a
+single or a plurality of photosensors
+ 2360/141   . . the light conveying information used for selecting
+or modulating the light emitting or modulating
+ 2360/142   . . . the light being detected by light detection
+ 2360/144   . . the light being ambient light
+ 2360/145   . . the light originating from the display screen
+ 2360/147   . . . the originated light output being determined for
+ 2360/148   . . . . the light being detected by light detection
+ 2360/16    . Calculation or use of calculated indices related to
+luminance levels in display data
+ 2360/18    . Use of a frame buffer in a display terminal,
+ 2370/00    Aspects of data communication
+ 2370/02    . Networking aspects
+ 2370/022   . . Centralised management of display operation, e.g.
+ 2370/025   . . LAN communication management
+ 2370/027   . . Arrangements and methods specific for the
+ 2370/04    . Exchange of auxiliary data, i.e. other than image
+data, between monitor and graphics controller
+ 2370/042   . . for monitor identification
+ 2370/045   . . using multiple communication channels, e.g.
+ 2370/047   . . . using display data channel standard [DDC]
+ 2370/06    . Consumer Electronics Control, i.e. control of
+another device by a display or vice versa
+ 2370/08    . Details of image data interface between the display
+device controller and the data line driver circuit
+ 2370/10    . Use of a protocol of communication by packets in
+interfaces along the display data pipeline
+ 2370/12    . Use of DVI or HDMI protocol in interfaces along
+ 2370/14    . Use of low voltage differential signaling [LVDS]
+ 2370/16    . Use of wireless transmission of display information
+ 2370/18    . Use of optical transmission of display information
+ 2370/20    . Details of the management of multiple sources of
+ 2370/22    . Detection of presence or absence of input display
+information or of connection or disconnection of a
+corresponding information source
+ 2370/24    . Keyboard-Video-Mouse [KVM] switch
+ 2380/00    Specific applications
+ 2380/02    . Flexible displays
+ 2380/04    . Electronic labels
+ 2380/06    . Remotely controlled electronic signs other than
+ 2380/08    . Biomedical applications
+ 2380/10    . Automotive applications
+ 2380/12    . Avionics applications
+ 2380/14    . Electronic books and readers
+ 2380/16    . Digital picture frames

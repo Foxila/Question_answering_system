@@ -1,0 +1,1410 @@
+COOPERATIVE PATENT CLASSIFICATION
+ELECTRIC COMMUNICATION TECHNIQUE
+This subclass covers the transmission of information-carrying signals, the transmission being independent of the nature of the
+information, and includes monitoring and testing arrangements and the suppression and limitation of noise and interference.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Details of transmission systems, not covered by
+a single one of groups H04B 3/00 - H04B 13/00;
+Details of transmission systems not characterised
+by the medium used for transmission
+In this group, group H04B 1/0003 takes
+precedence over groups H04B 1/005 - H04B 1/76
+    1/0003  . {Software-defined radio [SDR] systems, i.e.
+systems wherein components typically implemented
+in hardware, e.g. filters or modulators/demodulators,
+are implented using software, e.g. by involving an
+AD or DA conversion stage such that at least part
+of the signal processing is performed in the digital
+domain (digital baseband systems H04L 25/00;
+digital modulation/demodulation H04L 27/00;
+CDMA H04B 1/707; TDMA H04B 7/2643; image
+    1/0007  . . {wherein the AD/DA conversion occurs at
+radiofrequency or intermediate frequency stage}
+    1/001   . . . {Channel filtering, i.e. selecting a frequency
+channel within the SDR system (multiplexing
+of multicarrier modulation signals being
+represented by different frequencies
+H04L 5/06; multiplexing of multicarrier
+modulation signals H04L 5/023)}
+    1/0014  . . . {using DSP [Digital Signal Processor]
+quadrature modulation and demodulation}
+    1/0017  . . . {Digital filtering (H04B 1/001 takes
+precedence; digital filters per se H03H 17/00)}
+    1/0021  . . . {Decimation, i.e. data rate reduction techniques
+(H04B 1/0025 takes precedence)}
+    1/0025  . . . {using a sampling rate lower than twice the
+highest frequency component of the sampled
+signal (for demodulation of angle-modulated
+    1/0028  . . {wherein the AD/DA conversion occurs at
+    1/0032  . . . {with analogue quadrature frequency
+conversion to and from the baseband
+(quadrature modulators and demodulators per
+    1/0035  . . . {Channel filtering, i.e. selecting a frequency
+channel within a software radio system
+(multiplexing of multicarrier modulation
+signals being represented by different
+frequencies H04L 5/06; multiplexing of
+multicarrier modulation signals H04L 5/023)}
+    1/0039  . . . {using DSP [Digital Signal Processor]
+quadrature modulation and demodulation}
+    1/0042  . . . {Digital filtering (H04B 1/0035 takes
+precedence; digital filters per se H03H 17/00)}
+    1/0046  . . . {Decimation, i.e. data rate reduction
+    1/005   . {adapting radio receivers, transmitters
+andtransceivers for operation on two or more bands,
+    1/0053  . . {with common antenna for more than one band}
+    1/0057  . . . {using diplexing or multiplexing filters for
+    1/006   . . . {using switches for selecting the desired band
+(H04B 1/0057 takes precedence)}
+    1/0064  . . {with separate antennas for the more than one
+band (H04B 1/0053 takes precedence)}
+    1/0067  . . {with one or more circuit blocks in common for
+    1/0071  . . . {using a common intermediate frequency
+for more than one band (H04B 1/0075 takes
+    1/0075  . . . {using different intermediate frequencied for
+    1/0078  . . . . {with a common intermediate frequency
+amplifier for the different intermediate
+frequencies, e.g. when using switched
+intermediate frequency filters}
+    1/0082  . . . {with a common local oscillator for more than
+    1/0085  . . . . {where one band is the image frequency
+band of the other and the band selection is
+    1/0089  . . . . {using a first intermediate frequency higher
+that the highest of any band received}
+    1/0092  . . . . . {using a wideband front end}
+    1/0096  . . {where a full band is frequency converted into
+    1/03    . . Constructional details, e.g. casings, housings
+    1/034   . . . Portable transmitters
+    1/0343  . . . . {to be carried on the body}
+    1/0346  . . . . {Hand-held transmitters}
+    1/036   . . . Cooling arrangements
+ 2001/0408  . . . {with power amplifiers}
+ 2001/0416  . . . . {having gain or transmission power control}
+ 2001/0425  . . . . {with linearisation using predistortion}
+ 2001/0433  . . . . {with linearisation using feedback}
+ 2001/0441  . . . . {with linearisation using feed-forward}
+ 2001/045   . . . . {with means for improving efficiency}
+    1/0458  . . . {Arrangements for matching and coupling
+between power amplifier and antenna or
+between amplifying stages (matching circuits in
+    1/0466  . . . {Fault detection or indication (H04B 1/0483
+    1/0475  . . . {with means for limiting noise, interference or
+distortion (H04B 1/0483 takes precedence)}
+    1/0483  . . . {Transmitters with multiple parallel paths}
+ 2001/0491  . . . {with frequency synthesizers, frequency
+    1/08    . . Constructional details, e.g. cabinet
+    1/082   . . . {to be used in vehicles (H04B 1/086 takes
+precedence; holding or mounting accessories
+ 2001/084   . . . . {with removable front panel}
+    1/086   . . . {Portable receivers}
+    1/088   . . . . {with parts of the receiver detachable or
+    1/10    . . Means associated with receiver for limiting or
+suppressing noise or interference
+    1/1009  . . . {Placing the antenna at a place where the noise
+level is low and using a noise-free transmission
+line between the antenna and the receivers
+(screened aerials H01Q 7/04; feeders for aerials
+    1/1018  . . . {noise filters connected between the power
+supply and the receiver (suppression or
+limitation of noise from electric apparatus
+H04B 15/00; demodulation H03D; ripple filters
+H02M 1/14; filters in general 95G, H03H;
+    1/1027  . . . {assessing signal quality or detecting noise/
+interference for the received signal}
+    1/1036  . . . . {with automatic suppression of narrow band
+noise or interference, e.g. by using tuneable
+notch filters (H04B 1/123 takes precedence;
+ 2001/1045  . . . . {Adjacent-channel interference}
+ 2001/1054  . . . . {by changing bandwidth}
+ 2001/1063  . . . . {using a notch filter}
+ 2001/1072  . . . . {by tuning the receiver frequency}
+    1/1081  . . . {Reduction of multipath noise (by equalising
+    1/109   . . . {by improving strong signal performance of
+the receiver when strong unwanted signals are
+    1/12    . . . Neutralising, balancing, or compensation
+    1/123   . . . . {using adaptive balancing or compensation
+means (adaptive filter circuits and algorithms
+    1/126   . . . . . {having multiple inputs, e.g. auxiliary
+antenna for receiving interfering signal
+    1/14    . . . Automatic detuning arrangements
+    1/1607  . . . {Supply circuits (converters H02M; filters
+therefor H02M 1/14; voltage stabilisers
+    1/1615  . . . . {Switching on; Switching off, e.g. remotely
+(battery saving circuits associated with
+selective call operation H04W 52/00; details
+of power consumption reduction in a PLL,
+H03L 7/0802, H03L 7/14, H03L 2207/08,
+H03L 2207/18; muting amplifiers by gain
+    1/1623  . . . . {using tubes}
+    1/163   . . . {Special arrangements for the reduction of
+the damping of resonant circuits of receivers
+(amplifiers H03F; negative impedance
+networks for line transmission systems
+    1/1638  . . . {Special circuits to enhance selectivity of
+receivers not otherwise provided for (resonant
+    1/1646  . . . {adapted for the reception of stereophonic
+    1/1653  . . . . {Detection of the presence of stereo signals
+    1/1661  . . . . {Reduction of noise by manipulation of the
+baseband composite stereophonic signal or
+the decoded left and right channels}
+    1/1669  . . . . . {of the demodulated composite stereo
+    1/1676  . . . . . . {of the sum or difference signal}
+    1/1684  . . . . . . {of the decoded left or right stereo
+    1/1692  . . . . {using companding of the stereo difference
+signal, e.g. FMX (volume compression or
+expansion in amplifiers H03G 7/00)}
+    1/18    . . . Input circuits, e.g. for coupling to an antenna or
+a transmission line (coupling networks between
+antennas or lines and receivers independent of
+the nature of the receiver H03H)
+    1/20    . . . for coupling gramophone pick-up, recorder
+output, or microphone to receiver
+    1/202   . . . . {by remote control}
+    1/205   . . . . {with control bus for exchanging commands
+    1/207   . . . . {with an audio or audio/video bus for signal
+distribution (H04B 1/205 takes precedence)}
+    1/22    . . . for receivers in which no local oscillation is
+    1/24    . . . . the receiver comprising at least one
+semiconductor device having three or more
+    1/26    . . . for superheterodyne receivers (multiple
+    1/28    . . . . the receiver comprising at least one
+semiconductor device having three or more
+    1/30    . . . for homodyne or synchrodyne receivers
+(demodulator circuits H03D 1/22)
+    1/302   . . . . {for single sideband receivers (demodulator
+ 2001/305   . . . . {using dc offset compensation techniques}
+ 2001/307   . . . . {using n-port mixer}
+    1/38    . Transceivers, i.e. devices in which transmitter and
+receiver form a structural unit and in which at least
+one part is used for functions of transmitting and
+    1/3805  . . with built-in auxiliary receivers
+ 2001/3811  . . . {Split configuration of transmission devices}
+    1/3816  . . Mechanical arrangements for accommodating
+identification devices, e.g. cards or chips; with
+connectors for programming identification
+    1/3818  . . . Arrangements for facilitating insertion or
+removal of identification devices
+    1/3822  . . specially adapted for use in vehicles
+    1/3827  . . Portable transceivers
+    1/3833  . . . {Hand-held transceivers}
+    1/3838  . . . . {Arrangements for reducing RF exposure to
+the user, e.g. by changing the shape of the
+ 2001/3844  . . . . . {with means to alert the user that a certain
+    1/385   . . . {Transceivers carried on the body, e.g. in
+ 2001/3855  . . . . {carried in a belt or harness}
+ 2001/3861  . . . . {carried in a hand or on fingers}
+ 2001/3866  . . . . {carried on the head}
+ 2001/3872  . . . . {with extendable microphones or earphones}
+    1/3877  . . . Arrangements for enabling portable
+transceivers to be used in a fixed position, e.g.
+    1/3883  . . . Arrangements for mounting batteries or battery
+    1/3888  . . . Arrangements for carrying or protecting
+ 2001/3894  . . {Waterproofing of transmission device}
+    1/401   . . . for selecting or indicating operating mode
+    1/403   . . . using the same oscillator for generating both
+the transmitter frequency and the receiver local
+    1/405   . . . . with multiple discrete channels
+    1/406   . . . . {with more than one transmission mode, e.g.
+    1/408   . . . . the transmitter oscillator frequency being
+identical to the receiver local oscillator
+    1/44    . . . Transmit/receive switching
+    1/46    . . . . by voice-frequency signals; by pilot signals
+    1/48    . . . . in circuits for connecting transmitter and
+receiver to a common transmission path, e.g.
+by energy of transmitter {(H04B 1/46 takes
+ 2001/485   . . . . . {inhibiting unwanted transmission}
+    1/50    . . . using different frequencies for the two
+    1/52    . . . . Hybrid arrangements, i.e. arrangements for
+transition from single-path two-direction
+transmission to single-direction transmission
+on each of two paths or vice versa
+    1/525   . . . . . with means for reducing leakage of
+transmitter signal into the receiver
+    1/54    . . . using the same frequency for two directions of
+communication (H04B 1/44 takes precedence)
+    1/56    . . . . with provision for simultaneous
+communication in two directions
+    1/58    . . . . Hybrid arrangements, i.e. arrangements for
+transition from single-path two-direction
+transmission to single-direction transmission
+on each of two paths or vice versa
+    1/581   . . . . . {using a transformer}
+    1/582   . . . . . . {with automatic balancing}
+    1/583   . . . . . {using a bridge network}
+    1/585   . . . . . . {with automatic balancing}
+    1/586   . . . . . {using an electronic circuit}
+    1/587   . . . . . {using opto-couplers (light transmission
+    1/588   . . . . . {using sampling gates}
+    1/59    . Responders; Transponders
+    1/60    . Supervising unattended repeaters
+    1/62    . for providing a predistortion of the signal in the
+transmitter and corresponding correction in the
+receiver, e.g. for improving the signal/noise ratio
+    1/64    . . Volume compression or expansion arrangements
+    1/66    . for reducing bandwidth of signals; for improving
+efficiency of transmission (H04B 1/68 takes
+    1/662   . . {using a time/frequency relationship, e.g. time
+    1/665   . . {using psychoacoustic properties of the ear, e.g.
+    1/667   . . {using a division in frequency subbands (for TV
+    1/68    . for wholly or partially suppressing the carrier or one
+    1/69    . Spread spectrum techniques
+ 2001/6904  . . {using code hopping}
+ 2001/6908  . . {using time hopping}
+ 2001/6916  . . {Related theory}
+    1/692   . . Hybrid techniques using combinations of two or
+more spread spectrum techniques
+    1/707   . . using direct sequence modulation
+ 2001/70706 . . . {using a code tracking loop, e.g. a delay locked
+    1/70712 . . . {with demodulation by means of convolvers,
+e.g. of the SAW type (SAW convolvers in
+    1/70718 . . . {with asynchronous demodulation, i.e. not
+requiring code synchronisation}
+ 2001/70724 . . . {featuring pilot assisted reception}
+    1/7073  . . . Synchronisation aspects
+    1/70735 . . . . {Code identification (H04B 1/7083 takes
+    1/7075  . . . . with code phase acquisition
+    1/70751 . . . . . {using partial detection (H04B 1/70758
+    1/70752 . . . . . . {Partial correlation}
+    1/70753 . . . . . . {Partial phase search}
+    1/70754 . . . . . {Setting of search window, i.e. range of
+code offsets to be searched (H04B 1/70758
+    1/70755 . . . . . {Setting of lock conditions, e.g. threshold}
+    1/70756 . . . . . {Jumping within the code, i.e. masking
+    1/70757 . . . . . {with increased resolution, i.e. higher
+than half a chip (H04B 1/70758 takes
+    1/70758 . . . . . {Multimode search, i.e. using multiple
+    1/7077  . . . . . Multi-step acquisition, e.g. multi-dwell,
+    1/70775 . . . . . . {Multi-dwell schemes, i.e. multiple
+    1/708   . . . . . Parallel implementation
+    1/7083  . . . . Cell search, e.g. using a three-step approach
+    1/7085  . . . . using a code tracking loop, e.g. a delay-
+ 2001/70855 . . . . . {Dithering}
+    1/7087  . . . . Carrier synchronisation aspects
+    1/709   . . . Correlator structure
+    1/7093  . . . . Matched filter type
+ 2001/70935 . . . . . {using a bank of matched fileters, e.g. Fast
+    1/7095  . . . . Sliding correlator type
+    1/7097  . . . Interference-related aspects
+    1/71    . . . . the interference being narrowband
+    1/7101  . . . . . {with estimation filters}
+    1/7102  . . . . . {with transform to frequency domain}
+    1/7103  . . . . the interference being multiple access
+    1/7105  . . . . . Joint detection techniques, e.g. linear
+    1/71052 . . . . . . {using decorrelation matrix}
+    1/71055 . . . . . . {using minimum mean squared error
+    1/71057 . . . . . . {using maximum-likelihood sequence
+    1/7107  . . . . . Subtractive interference cancellation
+    1/71072 . . . . . . {Successive interference cancellation}
+    1/71075 . . . . . . {Parallel interference cancellation}
+ 2001/71077 . . . . . . {Partial interference cancellation}
+    1/711   . . . . the interference being multi-path interference
+    1/7113  . . . . . Determination of path profile
+    1/7115  . . . . . Constructive combining of multi-path
+    1/7117  . . . . . . Selection, re-selection, allocation or re-
+allocation of paths to fingers, e.g. timing
+offset control of allocated fingers
+    1/712   . . . . . . Weighting of fingers for combining,
+e.g. amplitude control or phase rotation
+    1/713   . . using frequency hopping
+    1/7136  . . . Arrangements for generation of hop
+frequencies, e.g. using a bank of frequency
+sources, using continuous tuning or using a
+ 2001/71362 . . . . {using a bank of frequency sources}
+ 2001/71365 . . . . {using continuous tuning of a single
+ 2001/71367 . . . . {using a transform}
+    1/7143  . . . Arrangements for generation of hop patterns
+    1/715   . . . Interference-related aspects
+ 2001/7152  . . . . {with means for suppressing interference}
+ 2001/7154  . . . . {with means for preventing interference}
+    1/7156  . . . Arrangements for sequence synchronisation
+ 2001/71563 . . . . {Acquisition}
+    1/7163  . . using impulse radio
+    1/71632 . . . {Signal aspects (H04B 1/7172 and
+    1/71635 . . . {Transmitter aspects (H04B 1/7174 takes
+    1/71637 . . . {Receiver aspects (H04B 1/7183 takes
+    1/717   . . . Pulse-related aspects
+    1/7172  . . . . {Pulse shape (in general H04L 25/03834)}
+    1/7174  . . . . {Pulse generation (in general
+    1/7176  . . . Data mapping, e.g. modulation
+    1/7183  . . . Synchronisation
+    1/719   . . . Interference-related aspects
+    1/72    . Circuits or components for simulating antennas, e.g.
+    1/74    . for increasing reliability, e.g. using redundant or
+spare channels or apparatus {(replacing by standby
+devices for amplifiers H03F 1/52, H03F 1/542)}
+    1/745   . . {using by-passing or self-healing methods}
+    1/76    . Pilot transmitters or receivers for control of
+    3/00    Line transmission systems (combined with near-
+field transmission systems H04B 5/00)
+    3/03    . . Hybrid circuits (for transceivers H04B 1/52,
+    3/04    . . Control of transmission; Equalising
+    3/06    . . . by the transmitted signal
+    3/08    . . . . in negative-feedback path of line amplifier
+    3/10    . . . by pilot signal
+    3/11    . . . . using pilot wire (H04B 3/12 takes
+    3/12    . . . . in negative-feedback path of line amplifier
+    3/14    . . . characterised by the equalising network used
+    3/141   . . . . {using multiequalisers, e.g. bump, cosine,
+    3/142   . . . . {using echo-equalisers, e.g. transversal}
+    3/143   . . . . {using amplitude-frequency equalisers}
+    3/144   . . . . . {fixed equalizers}
+    3/145   . . . . . {variable equalisers}
+    3/146   . . . . {using phase-frequency equalisers}
+    3/147   . . . . . {fixed equalisers}
+    3/148   . . . . . {variable equalisers}
+    3/16    . . . characterised by the negative-impedance
+    3/18    . . . . wherein the network comprises
+    3/20    . . Reducing echo effects or singing; Opening or
+closing transmitting path; Conditioning for
+transmission in one direction or the other
+    3/21    . . . using a set of bandfilters
+    3/23    . . . using a replica of transmitted signal in the time
+    3/231   . . . . {Echo cancellers using readout of a memory
+    3/232   . . . . {using phase shift, phase roll or frequency
+    3/234   . . . . {using double talk detection}
+    3/235   . . . . {combined with adaptive equaliser}
+    3/237   . . . . {using two adaptive filters, e.g. for near end
+    3/238   . . . . {using initial training sequence}
+    3/26    . . Improving frequency characteristic by the use of
+    3/28    . . Reducing interference caused by currents induced
+in cable sheathing or armouring
+    3/30    . . Reducing interference caused by unbalance
+current in a normally balanced line
+    3/32    . . Reducing cross-talk, e.g. by compensating
+    3/34    . . . by systematic interconnection of lengths of
+cable during laying; by addition of balancing
+components to cable during laying
+    3/36    . . Repeater circuits (H04B 3/58 takes precedence)
+    3/38    . . . for signals in two different frequency ranges
+transmitted in opposite directions over the same
+    3/40    . . Artificial lines; Networks simulating a line of
+    3/42    . . Circuits for by-passing of ringing signals
+    3/44    . . Arrangements for feeding power to a repeater
+    3/46    . . Monitoring; Testing
+    3/462   . . . Testing group delay or phase shift, e.g. timing
+    3/466   . . . . Testing attenuation in combination with at
+least one of group delay and phase shift
+    3/48    . . . Testing attenuation (H04B 3/466 takes
+    3/487   . . . Testing crosstalk effects
+    3/493   . . . Testing echo effects or singing
+    3/50    . Systems for transmission between fixed stations via
+two-conductor transmission lines (H04B 3/54 takes
+    3/52    . Systems for transmission between fixed stations via
+    3/54    . Systems for transmission via power distribution
+    3/542   . . {the information being in digital form}
+    3/544   . . {Setting up communications; Call and signalling
+    3/546   . . {Combination of signalling, telemetering,
+protection (circuits for remote indication
+of supply or distribution network condition
+    3/548   . . {the power on the line being DC (arrangements
+for feeding power H04L 12/10; extracting feeding
+power from signals H04L 25/02)}
+    3/56    . . Circuits for coupling, blocking, or by-passing of
+    3/58    . . Repeater circuits
+    3/60    . Systems for communication between relatively
+movable stations, e.g. for communication with lift
+    5/00    Near-field transmission systems, e.g. inductive loop
+    5/0006  . {using a receiver structurally associated with a
+    5/0012  . {using capacitive coupling}
+    5/0018  . {using leaky or radiating cables, e.g. leaky coaxial
+cables or power lines for inductive transmission
+(leaky cables per se H01Q 13/20; for railways
+    5/0025  . {Near field system adaptations}
+    5/0031  . . {for data transfer}
+    5/0037  . . {for power transfer}
+    5/0043  . . {for taking measurements, e.g. using sensor coils}
+    5/005   . . {for isolation purposes}
+    5/0056  . {for use in interrogation, identification or read/write
+systems (record carriers G06K 7/00, G06K 19/00;
+    5/0062  . . {in RFID [Radio Frequency Identification]
+    5/0068  . . {in transponders}
+    5/0075  . {using inductive coupling (transformers or
+inductances adapted for inductive coupling
+    5/0081  . . {with antenna coils (loop aerials H01Q 7/00)}
+    5/0087  . . {with multiple coils at either side}
+    5/0093  . . {with one coil at each side, e.g. with primary and
+    5/02    . using transceiver
+    5/04    . Calling systems, e.g. paging system
+    5/06    . using a portable transmitter associated with a
+    7/00    Radio transmission systems, i.e. using radiation
+field (H04B 10/00, H04B 15/00 take precedence)
+    7/002   . {Reducing depolarization effects}
+    7/005   . Control of transmission; Equalising
+    7/01    . Reducing phase shift
+    7/015   . Reducing echo effects
+    7/02    . Diversity systems; Multi-antenna system, i.e.
+transmission or reception using multiple antennas
+    7/022   . . Site diversity; Macro-diversity (using two or
+more spaced independent antennas H04B 7/04)
+    7/024   . . . Co-operative use of antennas of several sites,
+e.g. in co-ordinated multipoint or co-operative
+multiple-input multiple-output [MIMO]
+    7/026   . . . Co-operative diversity, e.g. using fixed or
+    7/028   . . {Spatial transmit diversity using a single antenna
+    7/04    . . using two or more spaced independent antennas
+reclassification into groups H04B 7/04013 and
+Groups H04B 7/04, H04B 7/04013 and
+H04B 7/04026 should be considered in order
+    7/04013 . . . {Intelligent reflective surfaces}
+Groups H04B 7/04013 and H04B 7/04026
+are incomplete pending reclassification of
+documents from group H04B 7/04.
+Groups H04B 7/04, H04B 7/04013 and
+H04B 7/04026 should be considered in
+order to perform a complete search.
+    7/04026 . . . . {with codebook-based beamforming}
+    7/0404  . . . the mobile station comprising multiple
+antennas, e.g. to provide uplink diversity
+    7/0408  . . . using two or more beams, i.e. beam diversity
+    7/0417  . . . . Feedback systems
+    7/0421  . . . . . {utilizing implicit feedback, e.g. steered
+    7/0426  . . . . Power distribution
+    7/043   . . . . . {using best eigenmode, e.g. beam forming
+    7/0434  . . . . . {using multiple eigenmodes}
+    7/0439  . . . . . . {utilizing channel inversion}
+    7/0443  . . . . . . {utilizing "waterfilling" technique}
+    7/0447  . . . . . . {utilizing uniform distribution}
+    7/0452  . . . . Multi-user MIMO systems
+    7/0456  . . . . Selection of precoding matrices or
+codebooks, e.g. using matrices antenna
+    7/046   . . . . . {taking physical layer constraints into
+    7/0465  . . . . . . {taking power constraints at power
+amplifier or emission constraints, e.g.
+constant modulus, into account}
+    7/0469  . . . . . . {taking special antenna structures, e.g.
+cross polarized antennas into account}
+    7/0473  . . . . . . {taking constraints in layer or codeword
+to antenna mapping into account}
+    7/0478  . . . . . {Special codebook structures directed to
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+    7/0479  . . . . . . {for multi-dimensional arrays, e.g.
+horizontal or vertical pre-distortion
+Group H04B 7/0479 is incomplete
+documents from group H04B 7/0478.
+H04B 7/0479 should be considered
+    7/048   . . . . . . {using three or more PMIs}
+documents from group H04B 7/0478.
+H04B 7/048 should be considered in
+order to perform a complete search.
+    7/0481  . . . . . . {using subset selection of codebooks}
+Group H04B 7/0481 is incomplete
+documents from group H04B 7/0478.
+H04B 7/0481 should be considered
+    7/0482  . . . . . {Adaptive codebooks}
+    7/0486  . . . . . {taking channel rank into account}
+Groups H04B 7/0486 and H04B 7/0487
+should be considered in order to
+    7/0487  . . . . . . {Codebooks having a nested structure}
+Group H04B 7/0487 is incomplete
+documents from group H04B 7/0486.
+H04B 7/0487 should be considered
+    7/0491  . . . using two or more sectors, i.e. sector diversity
+    7/0495  . . . . using overlapping sectors in the same base
+station to implement MIMO for antennas
+    7/06    . . . at the transmitting station
+    7/0602  . . . . {using antenna switching (H04B 7/0686
+takes precedence; antenna beam directivity
+    7/0604  . . . . . {with predefined switching scheme}
+    7/0606  . . . . . . {Random or pseudo-random switching
+    7/0608  . . . . . {Antenna selection according to
+    7/061   . . . . . . {using feedback from receiving side}
+    7/0613  . . . . {using simultaneous transmission
+(H04B 7/0686 takes precedence)}
+    7/0615  . . . . . {of weighted versions of same signal}
+    7/0617  . . . . . . {for beam forming}
+    7/0619  . . . . . . {using feedback from receiving side
+(feedback signaling for adaptive
+modulation/coding H04L 1/0001)}
+    7/0621  . . . . . . . {Feedback content}
+    7/0623  . . . . . . . . {Auxiliary parameters, e.g. power
+control [PCB] or not acknowledged
+    7/0626  . . . . . . . . {Channel coefficients, e.g. channel
+    7/0628  . . . . . . . . {Diversity capabilities}
+    7/063   . . . . . . . . {Parameters other than
+H04B 7/0623 - H04B 7/0634, e.g.
+channel matrix rank or transmit
+    7/0632  . . . . . . . . {Channel quality parameters, e.g.
+channel quality indicator [CQI]}
+    7/0634  . . . . . . . . {Antenna weights or vector/matrix
+    7/0636  . . . . . . . {Feedback format}
+    7/0639  . . . . . . . . {Using selective indices, e.g. of a
+codebook, e.g. pre-distortion matrix
+index [PMI] or for beam selection}
+    7/0641  . . . . . . . . {Differential feedback}
+    7/0643  . . . . . . . . {Feedback on request}
+    7/0645  . . . . . . . . {Variable feedback}
+    7/0647  . . . . . . . . . {Variable feedback rate}
+    7/065   . . . . . . . . . {Variable contents, e.g. long-
+    7/0652  . . . . . . . {Feedback error handling}
+    7/0654  . . . . . . . . {at the receiver, e.g. antenna
+verification at mobile station}
+    7/0656  . . . . . . . . {at the transmitter, e.g. error
+    7/0658  . . . . . . . {Feedback reduction}
+    7/066   . . . . . . . . {Combined feedback for a number
+frequency division multiplexing
+    7/0663  . . . . . . . . {using vector or matrix
+    7/0665  . . . . . . {Feed forward of transmit weights to the
+    7/0667  . . . . . {of delayed versions of same signal (using
+space-time coding H04L 1/0618)}
+    7/0669  . . . . . . {using different channel coding
+between antennas (space-time coding
+    7/0671  . . . . . . {using different delays between
+    7/0673  . . . . . . {using feedback from receiving side}
+    7/0676  . . . . . . {using random or pseudo-random
+    7/0678  . . . . . {using different spreading codes between
+antennas (code allocation H04J 13/16)}
+    7/068   . . . . . {using space frequency diversity (space-
+    7/0682  . . . . . {using phase diversity (e.g. phase
+    7/0684  . . . . . {using different training sequences per
+    7/0686  . . . . {Hybrid systems, i.e. switching and
+    7/0689  . . . . . {using different transmission schemes,
+at least one of them being a diversity
+    7/0691  . . . . . {using subgroups of transmit antennas}
+    7/0693  . . . . . . {switching off a diversity branch, e.g. to
+    7/0695  . . . . . {using beam selection}
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+    7/06952 . . . . . . {Selecting one or more beams from a
+plurality of beams, e.g. beam training,
+reclassification of documents from
+All groups listed in this Warning
+should be considered in order to
+    7/06954 . . . . . . . {Sidelink beam training with support
+from third instance, e.g. the third
+    7/06956 . . . . . . . {using a selection of antenna panels}
+    7/06958 . . . . . . . {Multistage beam selection, e.g. beam
+    7/0696  . . . . . . . {Determining beam pairs}
+    7/06962 . . . . . . . . {Simultaneous selection of transmit
+    7/06964 . . . . . . . {Re-selection of one or more beams
+    7/06966 . . . . . . . {using beam correspondence; using
+channel reciprocity, e.g. downlink
+sounding reference signal [SRS]}
+    7/06968 . . . . . . . {using quasi-colocation [QCL]
+    7/0697  . . . . {using spatial multiplexing}
+    7/08    . . . at the receiving station
+    7/0802  . . . . {using antenna selection (H04B 7/0868
+takes precedence; antenna beam directivity
+    7/0805  . . . . . {with single receiver and antenna
+    7/0808  . . . . . . {comparing all antennas before
+    7/0811  . . . . . . . {during preamble or gap period}
+    7/0814  . . . . . . {based on current reception conditions,
+e.g. switching to different antenna when
+signal level is below threshold}
+    7/0817  . . . . . {with multiple receivers and antenna path
+    7/082   . . . . . . {selecting best antenna path}
+    7/0822  . . . . . {according to predefined selection
+    7/0825  . . . . . {with main and with auxiliary or diversity
+    7/0828  . . . . . {with delay elements in antenna paths}
+    7/0831  . . . . . {Compensation of the diversity switching
+process for non-uniform properties or
+faulty operations of the switches used in
+the diversity switching process}
+    7/0834  . . . . . {based on external parameters, e.g.
+    7/0837  . . . . {using pre-detection combining
+(H04B 7/0868 takes precedence)}
+    7/084   . . . . . {Equal gain combining, only phase
+adjustments (antenna beam scanning or
+forming by phase or amplitude control
+H01Q 3/26, e.g. phased arrays)}
+    7/0842  . . . . . {Weighted combining}
+    7/0845  . . . . . . {per branch equalization, e.g. by
+an FIR-filter or RAKE receiver per
+antenna branch (rake receivers as such
+    7/0848  . . . . . . {Joint weighting}
+    7/0851  . . . . . . . {using training sequences or error
+signal (minimizing error signal
+    7/0854  . . . . . . . {using error minimizing algorithms,
+e.g. minimum mean squared error
+    7/0857  . . . . . . . {using maximum ratio combining
+techniques, e.g. signal-to- interference
+ratio [SIR], received signal strenght
+    7/086   . . . . . . {using weights depending on external
+parameters, e.g. direction of arrival
+[DOA], predetermined weights or
+    7/0862  . . . . . . {receiver computing weights based on
+information from the transmitter}
+    7/0865  . . . . . . {Independent weighting, i.e. weights
+    7/0868  . . . . {Hybrid systems, i.e. switching and
+    7/0871  . . . . . {using different reception schemes, at least
+one of them being a diversity reception
+    7/0874  . . . . . {using subgroups of receive antennas}
+    7/0877  . . . . . . {switching off a diversity branch, e.g. to
+    7/088   . . . . . {using beam selection}
+    7/0882  . . . . {using post-detection diversity}
+    7/0885  . . . . . {with combination}
+    7/0888  . . . . . {with selection}
+    7/0891  . . . . {Space-time diversity (rake receivers
+H04B 1/7115; space-time decoding
+    7/0894  . . . . . {using different delays between antennas}
+    7/0897  . . . . . {using beamforming per multi-path, e.g.
+to cope with different directions of arrival
+[DOA] at different multi-paths}
+    7/10    . . Polarisation diversity; Directional diversity
+    7/12    . . Frequency diversity
+    7/145   . . Passive relay systems
+    7/15    . . Active relay systems
+    7/155   . . . Ground-based stations (H04B 7/204 takes
+    7/15507 . . . . {Relay station based processing for cell
+extension or control of coverage area,
+(network planning with network coordinated
+processing with regard to cell extension
+H04W 16/26; network topologies using
+dedicated repeater stations H04W 84/047;
+terminal devices adapted for relaying to or
+from an other terminal H04W 88/04)}
+    7/15514 . . . . . {for shadowing compensation (for
+satellite mobile telephony service systems
+    7/15521 . . . . {combining by calculations packets received
+from different stations before transmitting
+the combined packets as part of network
+coding (network coding aspects for detection
+or prevention of errors in the information
+received H04L 1/0076; network traffic
+management with optimizing of information
+sizing, e.g. header compression, by using
+assembly and disassembly of packets
+    7/15528 . . . . {Control of operation parameters of a relay
+station to exploit the physical medium}
+    7/15535 . . . . . {Control of relay amplifier gain (amplifier
+gain control in general H03G 3/00; gain
+control reducing self - or loop interference
+    7/15542 . . . . . {Selecting at relay station its transmit
+and receive resources (selection of
+wireless resources by user or terminal
+H04W 72/02; arrangements affording
+multiple use of the transmission path by
+two-dimensional division of the resources
+H04L 5/0003, or by allocating sub-
+    7/1555  . . . . . {Selecting relay station antenna mode, e.g.
+selecting omnidirectional -, directional
+beams, selecting polarizations}
+    7/15557 . . . . {Selecting relay station operation mode, e.g.
+between amplify and forward mode, decode
+and forward mode or FDD - and TDD mode}
+    7/15564 . . . . {Relay station antennae loop interference
+    7/15571 . . . . . {by signal isolation, e.g. isolation by
+frequency or by antenna pattern, or by
+    7/15578 . . . . . {by gain adjustment}
+    7/15585 . . . . . {by interference cancellation}
+    7/15592 . . . . {Adapting at the relay station
+communication parameters for supporting
+cooperative relaying, i.e. transmission of
+the same data via direct - and relayed path
+(cooperative diversity H04B 7/024)}
+    7/165   . . . . employing angle modulation
+    7/17    . . . . employing pulse modulation, e.g. pulse code
+    7/185   . . . Space-based or airborne stations; {Stations
+for satellite systems}(H04B 7/204 takes
+    7/18502 . . . . {Airborne stations}
+    7/18504 . . . . . {Aircraft used as relay or high altitude
+    7/18506 . . . . . {Communications with or from aircraft,
+i.e. aeronautical mobile service}
+    7/18508 . . . . . . {with satellite system used as relay, i.e.
+aeronautical mobile satellite service}
+    7/1851  . . . . {Systems using a satellite or space-based
+relay (H04B 7/18508, H04B 7/18521 take
+precedence; providing specific services
+    7/18513 . . . . . {Transmission in a satellite or space-based
+    7/18515 . . . . . {Transmission equipment in satellites or
+    7/18517 . . . . . {Transmission equipment in earth
+    7/18519 . . . . . {Operations control, administration or
+    7/18521 . . . . {Systems of inter linked satellites, i.e. inter
+satellite service (for optical links between
+    7/18523 . . . . {Satellite systems for providing broadcast
+service to terrestrial stations, i.e. broadcast
+satellite service (arrangements specially
+adapted for satellite broadcast receiving
+H04H 40/90; picture transmission via
+satellite H04N 1/00103; television
+transmission via satellite H04N 7/20)}
+    7/18526 . . . . . {Arrangements for data linking,
+networking or transporting, or for
+controlling an end to end session (data
+switching networks H04L 12/00)}
+    7/18528 . . . . {Satellite systems for providing two-way
+communications service to a network of
+fixed stations, i.e. fixed satellite service
+or very small aperture terminal [VSAT]
+    7/1853  . . . . {Satellite systems for providing telephony
+service to a mobile station, i.e. mobile
+satellite service (for selecting H04W)}
+    7/18532 . . . . . {Arrangements for managing transmission,
+i.e. for transporting data or a signalling
+    7/18534 . . . . . . {for enhancing link reliablility, e.g.
+    7/18536 . . . . . . {Shadowing compensation therefor, e.g.
+by using an additional terrestrial relay}
+    7/18539 . . . . . {Arrangements for managing radio,
+resources, i.e. for establishing or releasing
+    7/18541 . . . . . . {for handover of resources}
+    7/18543 . . . . . . {for adaptation of transmission
+parameters, e.g. power control (for
+detecting or preventing errors in the
+information received H04L 1/00)}
+    7/18545 . . . . . {Arrangements for managing station
+mobility, i.e. for station registration or
+    7/18547 . . . . . . {for geolocalisation of a station
+(position fixing by direction or distance
+    7/1855  . . . . . . . {using a telephonic control signal, e.g.
+propagation delay variation, Doppler
+frequency variation, power variation,
+    7/18552 . . . . . . . . {using a telephonic control signal
+(determining absolute distances
+from a plurality of spaced points of
+    7/18554 . . . . . . . {using the position provided by an
+existing geolocalisation system}
+    7/18556 . . . . . . {using a location database}
+    7/18558 . . . . . {Arrangements for managing
+communications, i.e. for setting up,
+maintaining or releasing a call between
+    7/1856  . . . . . . {for call routing}
+    7/18563 . . . . . {Arrangements for interconnecting
+multiple systems (data switching networks
+    7/18565 . . . . . {Arrangements for preventing
+unauthorised access or for providing user
+protection (arrangements for secret or
+secure communication H04L 9/00)}
+    7/18567 . . . . . {Arrangements for providing additional
+services to the basic mobile satellite
+    7/18569 . . . . . {Arrangements for system physical
+construction operations control,
+    7/18571 . . . . . . {for satellites; for fixed or mobile
+    7/18573 . . . . . . {for operations control, administration
+    7/18576 . . . . {Satellite systems for providing narrowband
+data service to fixed or mobile stations, e.g.
+using a minisatellite, a microsatellite (for
+    7/18578 . . . . {Satellite systems for providing broadband
+data service to individual earth stations (for
+selecting H04W; provisions for broadband
+    7/1858  . . . . . {Arrangements for data transmission
+on the physical system, i.e. for data
+bit transmission between network
+    7/18582 . . . . . {Arrangements for data linking, i.e. for
+data framing, for error recovery, for
+    7/18584 . . . . . {Arrangements for data networking, i.e.
+for data packet routing, for congestion
+control (data switching networks
+    7/18586 . . . . . {Arrangements for data transporting, e.g.
+for an end to end data transport or check}
+    7/18589 . . . . . {Arrangements for controlling an end
+to end session, i.e. for initialising,
+synchronising or terminating an end to end
+    7/18591 . . . . . {Arrangements for interconnecting
+multiple systems (data switching networks
+    7/18593 . . . . . {Arrangements for preventing
+unauthorised access or for providing user
+protection (arrangements for secret or
+secure communication H04L 9/00)}
+    7/18595 . . . . . {Arrangements for adapting broadband
+applications to satellite systems}
+    7/18597 . . . . . {Arrangements for system physical
+construction, operations control,
+    7/19    . . . . Earth-synchronous stations
+    7/195   . . . . Non-synchronous stations
+    7/204   . . . Multiple access
+    7/2041  . . . . {Spot beam multiple access}
+    7/2043  . . . . {Mixed mode, TDM and FDM systems}
+    7/2045  . . . . {SS-FDMA, FDMA satellite switching}
+    7/2046  . . . . {SS-TDMA, TDMA satellite switching}
+    7/2048  . . . . . {Frame structure, synchronisation or frame
+acquisition in SS-TDMA systems}
+    7/208   . . . . Frequency-division multiple access
+    7/212   . . . . Time-division multiple access {[TDMA]}
+    7/2121  . . . . . {Channels assignment to the different
+    7/2123  . . . . . . {Variable assignment, e.g. demand
+    7/2125  . . . . . {Synchronisation}
+    7/2126  . . . . . . {using a reference station}
+    7/2128  . . . . . . . {Changing of the reference station}
+    7/216   . . . . Code division or spread-spectrum multiple
+    7/22    . Scatter propagation systems {, e.g. ionospheric,
+tropospheric or meteor scatter}
+    7/24    . for communication between two or more posts
+(wireless communication networks H04W)
+    7/26    . . at least one of which is mobile
+    7/2603  . . . {Arrangements for wireless physical layer
+control (H04B 7/2612 takes precedence)}
+    7/2606  . . . . {Arrangements for base station coverage
+control, e.g. by using relays in tunnels}
+    7/2609  . . . . {Arrangements for range control, e.g. by
+    7/2612  . . . {Arrangements for wireless medium
+access control, e.g. by allocating
+physical layer transmission capacity
+(H04B 7/2615 - H04B 7/2643 take precedence;
+provision for broadband connection
+    7/2615  . . . {using hybrid frequency-time division multiple
+    7/2618  . . . {using hybrid code-time division multiple
+    7/2621  . . . {using frequency division multiple access
+[FDMA] (H04B 7/2615 takes precedence)}
+    7/2625  . . . {using common wave}
+    7/2628  . . . {using code-division multiple access [CDMA]
+or spread spectrum multiple access [SSMA]
+(H04B 7/2618 takes precedence)}
+    7/2631  . . . . {for broadband transmission}
+    7/2634  . . . . {for channel frequency control}
+    7/2637  . . . . {for logical channel control}
+    7/264   . . . . {for data rate control}
+    7/2643  . . . {using time-division multiple access [TDMA]
+(H04B 7/2615, H04B 7/2618 take precedence)}
+    7/2646  . . . . {for broadband transmission}
+    7/265   . . . . {for channel frequency control}
+    7/2653  . . . . {for logical channel control}
+    7/2656  . . . . {for structure of frame, burst}
+    7/2659  . . . . {for data rate control}
+    7/2662  . . . {Arrangements for Wireless System
+    7/2665  . . . . {Arrangements for Wireless Frequency
+Division Multiple Access [FDMA] System
+    7/2668  . . . . {Arrangements for Wireless Code-
+Division Multiple Access [CDMA]
+System Synchronisation, (for code
+acquisition H04B 1/7075, for code tracking
+    7/2671  . . . . {Arrangements for Wireless Time-
+Division Multiple Access [TDMA] System
+    7/2675  . . . . . {Frequency synchronisation}
+    7/2678  . . . . . {Time synchronisation}
+    7/2681  . . . . . . {Synchronisation of a mobile station
+    7/2684  . . . . . . {Synchronisation of a mobile station
+with more than one base station}
+    7/2687  . . . . . . {Inter base stations synchronisation}
+    7/269   . . . . . . . {Master/slave synchronisation}
+    7/2693  . . . . . . . {Centralised synchronisation,
+i.e. using external universal time
+reference, e.g. by using a global
+distributing time reference over the
+    7/2696  . . . . . . . {Over the air autonomous
+synchronisation, e.g. by monitoring
+network activity (H04B 7/2693 takes
+   10/00    Transmission systems employing electromagnetic
+waves other than radio-waves, e.g. infrared, visible
+or ultraviolet light, or employing corpuscular
+radiation, e.g. quantum communication
+In this group, non-optical transmission systems are
+classified in group H04B 10/90.
+   10/03    . Arrangements for fault recovery
+   10/032   . . using working and protection systems
+{(H04J 14/0287 takes precedence)}
+   10/035   . . using loopbacks
+   10/07    . Arrangements for monitoring or testing transmission
+systems; Arrangements for fault measurement of
+   10/071   . . using a reflected signal, e.g. using optical time
+   10/073   . . using an out-of-service signal (H04B 10/071
+   10/0731  . . . {Testing or characterisation of optical devices,
+   10/075   . . using an in-service signal (H04B 10/071 takes
+   10/077   . . . using a supervisory or additional signal
+   10/0771  . . . . {Fault location on the transmission path}
+   10/0773  . . . . {Network aspects, e.g. central monitoring of
+   10/0775  . . . . {Performance monitoring and measurement
+   10/0777  . . . . {Monitoring line amplifier or line repeater
+   10/0779  . . . . {Monitoring line transmitter or line receiver
+   10/079   . . . using measurements of the data signal
+   10/0791  . . . . {Fault location on the transmission path}
+   10/0793  . . . . {Network aspects, e.g. central monitoring of
+   10/0795  . . . . {Performance monitoring; Measurement of
+   10/07951 . . . . . {Monitoring or measuring chromatic
+   10/07953 . . . . . {Monitoring or measuring OSNR, BER or
+   10/07955 . . . . . {Monitoring or measuring power}
+   10/07957 . . . . . {Monitoring or measuring wavelength}
+   10/0797  . . . . {Monitoring line amplifier or line repeater
+   10/0799  . . . . {Monitoring line transmitter or line receiver
+   10/11    . Arrangements specific to free-space transmission,
+i.e. transmission through air or vacuum
+   10/112   . . Line-of-sight transmission over an extended range
+   10/1121  . . . {One-way transmission}
+   10/1123  . . . {Bidirectional transmission}
+   10/1125  . . . . {using a single common optical path}
+   10/1127  . . . . {using two distinct parallel optical paths}
+   10/1129  . . . {Arrangements for outdoor wireless
+   10/114   . . Indoor or close-range type systems
+   10/1141  . . . {One-way transmission}
+   10/1143  . . . {Bidirectional transmission}
+   10/1149  . . . {Arrangements for indoor wireless networking
+   10/116   . . . Visible light communication
+   10/118   . . specially adapted for satellite communication
+   10/25    . Arrangements specific to fibre transmission
+   10/2507  . . for the reduction or elimination of distortion or
+   10/25073 . . . {using spectral equalisation, e.g. spectral
+   10/25077 . . . {using soliton propagation}
+   10/2513  . . . due to chromatic dispersion
+   10/25133 . . . . {including a lumped electrical or optical
+dispersion compensator (H04B 10/2519,
+H04B 10/2525 takes precedence)}
+   10/25137 . . . . {using pulse shaping at the transmitter,
+e.g. pre-chirping or dispersion supported
+   10/2519  . . . . using Bragg gratings
+   10/2525  . . . . using dispersion-compensating fibres
+   10/25253 . . . . . {with dispersion management, i.e. using a
+combination of different kind of fibres in
+   10/2531  . . . . using spectral inversion
+   10/2537  . . . due to scattering processes, e.g. Raman or
+   10/2543  . . . due to fibre non-linearities, e.g. Kerr effect
+   10/255   . . . . Self-phase modulation [SPM]
+   10/2557  . . . . Cross-phase modulation [XPM]
+   10/2563  . . . . Four-wave mixing [FWM]
+   10/2569  . . . due to polarisation mode dispersion [PMD]
+   10/2572  . . . {due to forms of polarisation-dependent
+   10/2575  . . Radio-over-fibre, e.g. radio frequency signal
+modulated onto an optical carrier
+   10/25751 . . . {Optical arrangements for CATV or video
+distribution (adaptations of television systems
+for optical transmission H04N 7/22)}
+   10/25752 . . . {Optical arrangements for wireless networks}
+   10/25753 . . . . {Distribution optical network, e.g. between a
+base station and a plurality of remote units}
+   10/25754 . . . . . {Star network topology}
+   10/25755 . . . . . {Ring network topology}
+   10/25756 . . . . . {Bus network topology}
+   10/25758 . . . . {between a central unit and a single remote
+unit by means of an optical fibre}
+   10/25759 . . . . . {Details of the reception of RF signal or
+the optical conversion before the optical
+   10/2581  . . Multimode transmission
+   10/2587  . . using a single light source for multiple stations
+   10/2589  . . {Bidirectional transmission}
+   10/25891 . . . {Transmission components (H04B 10/40 takes
+   10/27    . Arrangements for networking
+   10/271   . . {Combination of different networks, e.g. star and
+ring configuration in the same network or two
+   10/272   . . Star-type networks {or tree-type networks}
+   10/2725  . . . {Star-type networks without a headend}
+   10/275   . . Ring-type networks
+   10/2755  . . . {Ring-type networks with a headend}
+   10/278   . . Bus-type networks
+   10/291   . . in which processing or amplification is carried
+out without conversion of the main signal from
+   10/2912  . . . {characterised by the medium used for
+   10/2914  . . . . {using lumped semiconductor optical
+   10/2916  . . . . {using Raman or Brillouin amplifiers}
+   10/293   . . . Signal power control
+   10/2931  . . . . {using AGC (H04B 10/294 takes
+   10/2933  . . . . {considering the whole optical path}
+   10/2935  . . . . . {with a cascade of amplifiers}
+   10/2937  . . . . . {Systems with a repeater placed only at
+the beginning or the end of the system,
+i.e. repeaterless systems, e.g. systems with
+only post and pre-amplification}
+   10/2939  . . . . . {Network aspects}
+   10/294   . . . . in a multiwavelength system, e.g. gain
+   10/2941  . . . . . {using an equalising unit, e.g. a filter
+(H04B 10/296 takes precedence)}
+   10/2942  . . . . . {using automatic gain control [AGC]
+(H04B 10/296 takes precedence)}
+   10/296   . . . . . Transient power control, e.g. due to
+channel add/drop or rapid fluctuations in
+   10/297   . . . Bidirectional amplification
+   10/2971  . . . . {A single amplifier for both directions}
+   10/2972  . . . . {Each direction being amplified separately}
+   10/298   . . . {Two-way repeaters, i.e. repeaters amplifying
+separate upward and downward lines}
+   10/299   . . . Signal waveform processing, e.g. reshaping or
+   10/43    . . using a single component as both light source
+and receiver, e.g. using a photoemitter as a
+   10/501   . . {Structural aspects}
+   10/502   . . . {LED transmitters}
+   10/503   . . . {Laser transmitters}
+   10/504   . . . . {using direct modulation}
+   10/505   . . . . {using external modulation}
+   10/5051  . . . . . {using a series, i.e. cascade, combination
+   10/5053  . . . . . {using a parallel, i.e. shunt, combination of
+   10/5055  . . . . . {using a pre-coder}
+   10/5057  . . . . . {using a feedback signal generated by
+   10/50572 . . . . . . {to control the modulating signal
+   10/50575 . . . . . . {to control the modulator DC bias}
+   10/50577 . . . . . . {to control the phase of the modulating
+   10/5059  . . . . . {using a feed-forward signal generated by
+analysing the optical or electrical input}
+   10/50593 . . . . . . {to control the modulating signal
+   10/50595 . . . . . . {to control the modulator DC bias}
+   10/50597 . . . . . . {to control the phase of the modulating
+   10/506   . . . {Multiwavelength transmitters}
+   10/508   . . Pulse generation, e.g. generation of solitons
+   10/516   . . Details of coding or modulation
+   10/5161  . . . {Combination of different modulation
+   10/5162  . . . {Return-to-zero modulation schemes}
+   10/5165  . . . {Carrier suppressed; Single sideband; Double
+   10/5167  . . . {Duo-binary; Alternative mark inversion;
+Phase shaped binary transmission}
+   10/524   . . . Pulse modulation
+   10/532   . . . Polarisation modulation
+   10/54    . . . Intensity modulation
+   10/541   . . . . {Digital intensity or amplitude modulation}
+   10/548   . . . Phase or frequency modulation
+   10/556   . . . . Digital modulation, e.g. differential phase
+shift keying [DPSK] or frequency shift
+   10/5561  . . . . . {Digital phase modulation}
+   10/5563  . . . . . {Digital frequency modulation}
+   10/572   . . Wavelength control
+   10/58    . . Compensation for non-linear transmitter output
+   10/588   . . . in external modulation systems
+   10/61    . . Coherent receivers
+   10/612   . . . {for optical signals modulated with a format
+different from binary or higher-order PSK [X-
+PSK], e.g. QAM, DPSK, FSK, MSK, ASK}
+   10/613   . . . {including phase diversity, e.g., having in-
+phase and quadrature branches, as in QPSK
+   10/614   . . . {comprising one or more polarization beam
+splitters, e.g. polarization multiplexed
+[PolMux] X-PSK coherent receivers,
+polarization diversity heterodyne coherent
+receivers (H04J 14/06 takes precedence)}
+   10/615   . . . {Arrangements affecting the optical part of the
+   10/6151  . . . . {comprising a polarization controller at the
+   10/616   . . . {Details of the electronic signal processing in
+   10/6161  . . . . {Compensation of chromatic dispersion}
+   10/6162  . . . . {Compensation of polarization related
+   10/6163  . . . . {Compensation of non-linear effects in the
+fiber optic link, e.g. self-phase modulation
+[SPM], cross-phase modulation [XPM], four
+   10/6164  . . . . {Estimation or correction of the frequency
+offset between the received optical signal
+and the optical local oscillator}
+   10/6165  . . . . {Estimation of the phase of the received
+optical signal, phase error estimation or
+   10/6166  . . . . {Polarisation demultiplexing, tracking
+or alignment of orthogonal polarisation
+   10/63    . . . Homodyne {, i.e. coherent receivers where
+the local oscillator is locked in frequency and
+   10/64    . . . Heterodyne {, i.e. coherent receivers where,
+after the opto-electronic conversion, an
+electrical signal at an intermediate frequency
+   10/65    . . . {Intradyne, i.e. coherent receivers with a free
+running local oscillator having a frequency
+close but not phase-locked to the carrier signal}
+   10/66    . . Non-coherent receivers, e.g. using direct
+   10/67    . . . Optical arrangements in the receiver
+   10/671   . . . . {for controlling the input optical signal}
+   10/672   . . . . . {for controlling the power of the input
+   10/673   . . . . . . {using an optical preamplifier}
+   10/674   . . . . . . {using a variable optical attenuator}
+   10/675   . . . . . {for controlling the optical bandwidth of
+the input signal, e.g. spectral filtering}
+   10/676   . . . . {for all-optical demodulation of the input
+   10/677   . . . . . {for differentially modulated signal, e.g.
+   10/69    . . . Electrical arrangements in the receiver
+   10/691   . . . . {Arrangements for optimizing the
+   10/6911  . . . . . {Photodiode bias control, e.g. for
+compensating temperature variations}
+   10/693   . . . . {Arrangements for optimizing the
+   10/6931  . . . . . {Automatic gain control of the
+   10/6932  . . . . . {Bandwidth control of bit rate adaptation}
+   10/6933  . . . . . {Offset control of the differential
+   10/695   . . . . {Arrangements for optimizing the decision
+element in the receiver, e.g. by using
+   10/697   . . . . {Arrangements for reducing noise and
+   10/6971  . . . . . {using equalisation}
+   10/6972  . . . . . {using passive filtering}
+   10/6973  . . . . . {using noise matching networks}
+   10/70    . Photonic quantum communication
+   10/80    . Optical aspects relating to the use of optical
+transmission for specific applications, not provided
+for in groups H04B 10/03 - H04B 10/70, e.g. optical
+power feeding or optical transmission through water
+   10/801   . . {using optical interconnects, e.g. light coupled
+isolators, circuit board interconnections}
+   10/802   . . . {for isolation, e.g. using optocouplers}
+   10/803   . . . {Free space interconnects, e.g. between circuit
+   10/806   . . {Arrangements for feeding power}
+   10/807   . . . {Optical power feeding, i.e. transmitting power
+   10/808   . . . {Electrical power feeding of an optical
+   10/85    . . Protection from unauthorised access, e.g.
+   10/90    . Non-optical transmission systems, e.g. transmission
+systems employing non-photonic corpuscular
+   11/00    Transmission systems employing sonic, ultrasonic
+   13/00    Transmission systems characterised by the
+medium used for transmission, not provided for in
+   13/005   . {Transmission systems in which the medium
+   13/02    . Transmission systems in which the medium consists
+of the earth or a large mass of water thereon, e.g.
+   14/00    Transmission systems not characterised by the
+medium used for transmission (details thereof
+   14/002   . {characterised by the use of a carrier modulation
+(using subcarrier modulation H04B 14/08)}
+   14/004   . . {Amplitude modulation}
+   14/006   . . {Angle modulation}
+   14/008   . . {Polarisation modulation}
+   14/02    . characterised by the use of pulse modulation (in
+radio transmission relays H04B 7/17)
+   14/023   . . {using pulse amplitude modulation}
+   14/026   . . {using pulse time characteristics modulation, e.g.
+   14/04    . . using pulse code modulation
+   14/042   . . . {Special circuits, e.g. comparators}
+   14/044   . . . {Sample and hold circuits (in general
+   14/046   . . . {Systems or methods for reducing noise or
+   14/048   . . . . {Non linear compression or expansion}
+   14/06    . . using differential modulation, e.g. delta
+   14/062   . . . {using delta modulation or one-bit differential
+   14/064   . . . . {with adaptive feedback}
+   14/066   . . . {using differential modulation with several bits
+   14/068   . . . . {with adaptive feedback}
+   14/08    . characterised by the use of a sub-carrier
+   15/00    Suppression or limitation of noise or interference
+(by means associated with receiver H04B 1/10)
+   15/005   . {Reducing noise, e.g. humm, from the supply}
+   15/02    . Reducing interference from electric apparatus by
+means located at or near the interfering apparatus
+   15/025   . . {Reducing interference from ignition apparatus of
+fuel engines (cables with high resistance H01B)}
+   15/04    . . the interference being caused by substantially
+sinusoidal oscillations, e.g. in a receiver or in a
+   15/06    . . . by local oscillators of receivers
+   17/00    Monitoring; Testing (of line transmission systems
+H04B 3/46; arrangements for monitoring or testing
+transmission systems employing electromagnetic
+waves other than radio waves H04B 10/07)
+   17/0082  . {using service channels; using auxiliary channels}
+   17/0085  . . {using test signal generators}
+   17/0087  . . {using auxiliary channels or channel simulators}
+   17/101   . . {for measurement of specific parameters of the
+transmitter or components thereof}
+   17/102   . . . {Power radiated at antenna}
+   17/103   . . . {Reflected power, e.g. return loss}
+   17/104   . . . {of other parameters, e.g. DC offset, delay or
+   17/11    . . for calibration
+   17/12    . . . of transmit antennas, e.g. of the amplitude or
+   17/13    . . . of power amplifiers, e.g. gain or non-linearity
+   17/14    . . . of the whole transmission and reception path,
+   17/15    . . Performance testing
+Group H04B 17/15 is impacted by
+reclassification into group H04B 17/191.
+Groups H04B 17/15 and H04B 17/191 should
+be considered in order to perform a complete
+   17/16    . . . Test equipment located at the transmitter
+   17/17    . . . Detection of non-compliance or faulty
+performance, e.g. response deviations
+   17/18    . . . Monitoring during normal operation
+   17/19    . . . Self-testing arrangements
+   17/191   . . . {Over-the-air testing}
+Group H04B 17/191 is incomplete pending
+reclassification of documents from group
+Groups H04B 17/15 and H04B 17/191
+should be considered in order to perform a
+Group H04B 17/20 is impacted by
+reclassification into groups H04B 17/201,
+H04B 17/202, H04B 17/203, H04B 17/204,
+H04B 17/22, H04B 17/221, H04B 17/25,
+H04B 17/252, H04B 17/253, H04B 17/254 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   17/201   . . {for measurement of specific parameters of the
+receiver or components thereof}
+Groups H04B 17/201, H04B 17/202,
+H04B 17/203 and H04B 17/204 are
+incomplete pending reclassification of
+documents from group H04B 17/20.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   17/202   . . . {Power received at the antenna}
+   17/203   . . . {Receiver sensitivity}
+   17/204   . . . {of interfering signals, e.g. passive
+   17/21    . . for calibration; for correcting measurements
+Group H04B 17/21 is impacted by
+reclassification into groups H04B 17/22 and
+Groups H04B 17/21, H04B 17/22 and
+H04B 17/221 should be considered in order to
+   17/22    . . . {for calibration of the receiver components}
+Groups H04B 17/22 and H04B 17/221
+are incomplete pending reclassification of
+documents from groups H04B 17/20 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   17/221   . . . . {of receiver antennas, e.g. as to amplitude or
+   17/23    . . Indication means, e.g. displays, alarms, audible
+   17/24    . . with feedback of measurements to the transmitter
+   17/25    . . {taking multiple measurements}
+Groups H04B 17/25, H04B 17/252,
+H04B 17/253, H04B 17/254 and H04B 17/255
+are incomplete pending reclassification of
+documents from group H04B 17/20.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   17/252   . . . {measuring signals from different transmission
+points or directions of arrival, e.g. in multi
+   17/253   . . . {measuring at different locations or reception
+   17/254   . . . {measuring at different reception times}
+   17/255   . . . {measuring at different states of transmission,
+e.g. active or idle; measuring at different
+measurement rates; measuring with different
+   17/26    . . using historical data, averaging values or statistics
+   17/27    . . for locating or positioning the transmitter
+   17/29    . . Performance testing
+Group H04B 17/29 is impacted by
+reclassification into groups H04B 17/294,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   17/294   . . . {with test equipment located at the receiver}
+Group H04B 17/294 is incomplete pending
+reclassification of documents from group
+Groups H04B 17/29 and H04B 17/294
+should be considered in order to perform a
+   17/295   . . . {Detection of non-compliance or faulty
+performance, e.g. response deviations
+(monitoring during normal operations
+Group H04B 17/295 is incomplete pending
+reclassification of documents from group
+Groups H04B 17/29 and H04B 17/295
+should be considered in order to perform a
+   17/296   . . . {Monitoring performance during normal
+Group H04B 17/296 is incomplete pending
+reclassification of documents from group
+Groups H04B 17/29 and H04B 17/296
+should be considered in order to perform a
+   17/297   . . . {Self-testing arrangements}
+Group H04B 17/297 is incomplete pending
+reclassification of documents from group
+Groups H04B 17/29 and H04B 17/297
+should be considered in order to perform a
+   17/30    . of propagation channels
+   17/309   . . Measuring or estimating channel quality
+Group H04B 17/309 is impacted by
+reclassification into groups H04B 17/346 and
+Groups H04B 17/309, H04B 17/346 and
+H04B 17/347 should be considered in order to
+   17/318   . . . Received signal strength
+Group H04B 17/318 is impacted by
+reclassification into group H04B 17/328.
+Groups H04B 17/318 and H04B 17/328
+should be considered in order to perform a
+   17/327   . . . . Received signal code power [RSCP]
+   17/328   . . . . {Reference signal received power [RSRP];
+Reference signal received quality [RSRQ]}
+Group H04B 17/328 is incomplete
+pending reclassification of documents
+Groups H04B 17/318 and H04B 17/328
+should be considered in order to perform
+   17/336   . . . Signal-to-interference ratio [SIR] or carrier-to-
+   17/345   . . . Interference values ({signal-to-interference
+ratio [SIR] or carrier-to-interference ratio
+   17/346   . . . {Noise values (signal-to-interference ratio
+[SIR] or carrier-to-interference ratio [CIR]
+Group H04B 17/346 is incomplete pending
+reclassification of documents from group
+Groups H04B 17/309 and H04B 17/346
+should be considered in order to perform a
+Group H04B 17/347 is incomplete pending
+reclassification of documents from group
+Groups H04B 17/309 and H04B 17/347
+should be considered in order to perform a
+   17/354   . . . Adjacent channel leakage power
+   17/364   . . . Delay profiles
+   17/373   . . Predicting channel quality {or other radio
+   17/382   . . for resource allocation, admission control or
+   17/391   . . Modelling the propagation channel
+   17/3911  . . . {Fading models or fading generators}
+   17/3912  . . . {Simulation models, e.g. distribution of
+spectral power density or received signal
+strength indicator [RSSI] for a given
+   17/3913  . . . {Predictive models, e.g. based on neural
+   17/401   . . {with selective localization}
+   17/402   . . . {using different frequencies}
+   17/403   . . . . {generated by local oscillators}
+   17/404   . . . . {selected by local filters}
+   17/405   . . . . {generated by local multipliers, dividers,
+   17/406   . . . {using coded addresses}
+   17/407   . . {without selective localization}
+   17/408   . . . {using successive loop-backs}
+   17/409   . . . {by means of resistance, voltage or current
+ 2201/00    Indexing scheme relating to details of transmission
+systems not covered by a single group of
+ 2201/69    . Orthogonal indexing scheme relating to spread
+ 2201/692   . . Cognitive radio
+ 2201/696   . . relating to Dowlink
+ 2201/698   . . relating to Uplink
+ 2201/707   . . relating to direct sequence modulation
+ 2201/70701 . . . featuring pilot assisted reception
+ 2201/70702 . . . Intercell-related aspects
+ 2201/70703 . . . using multiple or variable rates
+ 2201/70705 . . . . Rate detection
+ 2201/70706 . . . with means for reducing the peak-to-average
+ 2201/70707 . . . Efficiency-related aspects
+ 2201/70709 . . . . with discontinuous detection
+ 2201/7071  . . . . with dynamic control of receiver resources
+ 2201/70711 . . . . . with modular structure
+ 2201/70713 . . . . Reducing computational requirements
+ 2201/70714 . . . . Reducing hardware requirements
+ 2201/70715 . . . with application-specific features
+ 2201/70718 . . . Particular systems or standards
+ 2201/70722 . . . . HSDPA/HSUPA
+ 2201/70723 . . . . . Multi-carrier HSPA
+ 2201/70726 . . . . Asynchronous CDMA
+ 2201/70727 . . . using fast Fourier transform
+ 2201/70728 . . . Frequency aspects
+ 2201/7073  . . . Direct sequence modulation synchronisation
+ 2201/7097  . . . Direct sequence modulation interference
+ 2201/709709 . . . . Methods of preventing interference
+ 2201/709718 . . . . Determine interference
+ 2201/709727 . . . . GRAKE type RAKE receivers
+ 2201/709736 . . . . Hybrid interference mitigation schemes
+ 2201/709745 . . . . Iterative interference mitigation schemes
+ 2201/709754 . . . . Blind joint detection
+ 2201/709763 . . . . Joint detection using feedback
+ 2201/709772 . . . . Joint detection using feedforward
+ 2201/709781 . . . . Linear detectors for joint detection
+ 2201/70979 . . . . Fat finger issues in RAKE receivers
+ 2201/713   . . Frequency hopping
+ 2201/71307 . . . Partial band interference
+ 2201/71315 . . . Wide band interference
+ 2201/71323 . . . Adaptive systems
+ 2201/7133  . . . Asymmetric systems
+ 2201/71338 . . . Asynchronous systems
+ 2201/71353 . . . Fast frequency hopping
+ 2201/71361 . . . Slow frequency hopping
+ 2201/71384 . . . Look-up tables
+ 2201/7163  . . Orthogonal indexing scheme relating to impulse
+ 2201/71634 . . . Applied to ranging
+ 2201/71636 . . . Transmitted reference
+ 2201/71638 . . . Spectrum issues
+ 2203/00    Indexing scheme relating to line transmission
+ 2203/54    . Aspects of powerline communications not already
+covered by H04B 3/54 and its subgroups
+ 2203/5404  . . Methods of transmitting or receiving signals via
+ 2203/5408  . . . using protocols
+ 2203/5412  . . . by modofying wave form of the power source
+ 2203/5416  . . . by adding signals to the wave form of the
+ 2203/542   . . . using zero crossing information
+ 2203/5425  . . . improving S/N by matching impedance, noise
+ 2203/5429  . . Applications for powerline communications
+ 2203/5433  . . . Remote metering
+ 2203/5437  . . . Wired telephone
+ 2203/5441  . . . Wireless systems or telephone
+ 2203/5445  . . . Local network
+ 2203/545   . . . Audio/video application, e.g. interphone
+ 2203/5454  . . . Adapter and plugs
+ 2203/5458  . . . Monitor sensor; Alarm systems
+ 2203/5462  . . Systems for power line communications
+ 2203/5466  . . . using three phases conductors
+ 2203/547   . . . via DC power distribution
+ 2203/5475  . . . adapted for drill or well combined with data
+ 2203/5479  . . . using repeaters
+ 2203/5483  . . . using coupling circuits
+ 2203/5491  . . . using filtering and bypassing
+ 2203/5495  . . . having measurements and testing channel
+ 2210/00    Indexing scheme relating to optical transmission
+ 2210/003   . Devices including multiple stages, e.g., multi-stage
+optical amplifiers or dispersion compensators
+ 2210/006   . Devices for generating or processing an RF signal
+ 2210/07    . Monitoring an optical transmission system using a
+supervisory signal (OAM for WDM transmission
+ 2210/072   . . using an overhead signal
+ 2210/074   . . using a superposed, over-modulated signal
+ 2210/075   . . using a pilot tone
+ 2210/077   . . using a separate fibre
+ 2210/078   . . using a separate wavelength
+ 2210/08    . Shut-down or eye-safety
+ 2210/25    . Distortion or dispersion compensation
+ 2210/252   . . after the transmission line, i.e. post-compensation
+ 2210/254   . . before the transmission line, i.e. pre-
+ 2210/256   . . at the repeater, i.e. repeater compensation
+ 2210/258   . . treating each wavelength or wavelength band
+ 2210/516   . Optical conversion of optical modulation formats,
+e.g., from optical ASK to optical PSK
+ 2210/517   . Optical NRZ to RZ conversion, or vice versa
+ 2215/00    Reducing interference at the transmission system
+ 2215/061   . Reduction of burst noise, e.g. in TDMA systems
+ 2215/062   . . by inhibiting burst transmission
+ 2215/063   . . by smoothing the transmission power envelope
+ 2215/064   . Reduction of clock or synthesizer reference
+ 2215/065   . . by changing the frequency of clock or reference
+ 2215/066   . . by stopping a clock generator
+ 2215/067   . . by modulation dispersion
+ 2215/068   . . by avoiding a reception frequency range
+ 2215/069   . Reduction of switch mode power supply ripple

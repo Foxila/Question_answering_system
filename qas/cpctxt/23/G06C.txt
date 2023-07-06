@@ -1,0 +1,96 @@
+COOPERATIVE PATENT CLASSIFICATION
+COMPUTING; CALCULATING OR COUNTING
+DIGITAL COMPUTERS IN WHICH ALL THE COMPUTATION IS EFFECTED
+MECHANICALLY (score computers for card games A63F 1/18)
+This subclass does not cover details of mechanisms covered by main groups G06C 9/00, G06C 11/00 or G06C 15/00, which
+are applicable to mechanical counters driven only through the lowest denomination. Such details are covered by subclass
+    1/00    Computing aids in which the computing members
+form at least part of the displayed result and are
+manipulated directly by hand, e.g. abacuses or
+    3/00    Arrangements for table look-up, e.g. menstruation
+    5/00    Non-functional elements
+    5/02    . Housings; Frameworks
+    7/04    . . Interlocking devices, e.g. between keys
+    7/06    . . with one set of keys for each denomination
+    7/08    . . with one set of keys for all denominations, e.g.
+    7/09    . Transfer of data from record carrier to computing
+    7/10    . Transfer mechanisms, e.g. transfer of a figure from
+a ten-key keyboard into the pin carriage
+    7/12    . Resetting devices, e.g. for the keyboard
+    9/00    Transfer mechanisms, e.g. for transmitting figures
+from the input mechanism into the computing
+mechanism (G06C 7/10, G06C 11/00, G06C 15/00
+    9/02    . Back-transfer arrangements, e.g. to transfer a value
+accumulated in a register back into the selection
+   11/02    . with visual indication, e.g. counter drum
+   11/04    . with printing mechanisms, e.g. for character-at-a-
+time or line-at-a-time printing
+   11/06    . . having type hammers
+   11/08    . with punching mechanism
+   11/10    . Arrangements for feeding single sheets or
+continuous web or tape, e.g. ejection device; Line-
+   11/12    . . for feeding tape
+   13/00    Storage mechanisms (mechanical counters with
+input only to the lowest order G06M 1/04)
+   13/02    . Operand stores, e.g. pin carriage (input mechanisms
+   13/04    . Print buffer stores
+   15/00    Computing mechanisms; Actuating devices
+   15/02    . operating on the binary scale
+Group G06C 15/02 takes precedence over groups
+   15/04    . Adding or subtracting devices (G06C 15/08 takes
+   15/06    . . having balance totalising; Obtaining sub-total
+   15/08    . Multiplying or dividing devices; Devices for
+   15/10    . . having more than one denominational set of keys
+operating directly on computing mechanism
+   15/12    . . having pin carriage
+   15/14    . . having pin wheel, e.g. Odhner type
+   15/16    . . having stepped-toothed actuating drums, e.g.
+   15/18    . . having multiplication table for forming partial
+   15/20    . . adapted for short-cut multiplication or division
+   15/22    . Arrangements for two or more computing devices;
+Arrangements for subdivision into two or more
+computing mechanisms, e.g. splitting
+   15/24    . Devices for counting the cycles of operation in
+   15/26    . Devices for transfer between orders, e.g. tens
+   15/28    . . where transfer is effected in one step
+   15/30    . . where transfer is effected in two steps
+   15/32    . . . with provision for simultaneous transfer
+   15/34    . . where transfer is effected by planet gear, i.e.
+   15/36    . . . with aligning means
+   15/38    . . for pin-wheel computing mechanisms
+   15/40    . . for stepped-toothed-drum computing mechanism
+   15/42    . Devices for resetting to zero or other datum
+   15/44    . Devices for comparing numerical values, e.g. zero
+   15/46    . Arrangements for rounding-off
+   15/48    . Arrangements for selection of one out of several
+counting registers (item-counting devices
+   17/00    Mechanisms for converting from one notational
+system to another, i.e. radix conversion
+   19/00    Decimal-point mechanisms; Analogous
+mechanisms for non-decimal notations
+   19/02    . Devices for indicating the point
+   19/04    . Devices for printing the point
+   21/00    Programming-mechanisms for determining the
+steps to be performed by the computing machine,
+e.g. when a key or certain keys are depressed
+(mechanisms merely for producing multiplication by
+   21/02    . in which the operation of the mechanism is
+determined by the position of the carriage
+   21/04    . Conditional arrangements for controlling
+subsequent operating functions, e.g. control
+arrangement triggered by a function key and
+depending on the condition of the register
+(arrangements for selection of one out of several
+   23/00    Driving mechanisms for functional elements
+Group G06C 23/08 takes precedence over groups
+   23/04    . of pin carriage, e.g. for step-by-step movement
+   23/06    . of tabulation devices, e.g. of carriage skip
+   23/08    . Hydraulic or pneumatic actuation
+   25/00    Auxiliary functional arrangements, e.g. interlocks
+(interlocks in keyboards G06C 7/04)
+   25/02    . Item-counting devices (devices for counting the
+cycles of operation in division or multiplication
+   27/00    Computing machines characterised by the
+structural interrelation of their functional units,
+   29/00    Combinations of computing machines with other
+machines, e.g. with typewriter, with money-

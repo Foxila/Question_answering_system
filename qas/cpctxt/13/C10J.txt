@@ -1,0 +1,193 @@
+COOPERATIVE PATENT CLASSIFICATION
+PETROLEUM, GAS OR COKE INDUSTRIES; TECHNICAL GASES CONTAINING
+CARBON MONOXIDE; FUELS; LUBRICANTS; PEAT
+PRODUCTION OF PRODUCER GAS, WATER-GAS, SYNTHESIS GAS FROM SOLID
+CARBONACEOUS MATERIAL, OR MIXTURES CONTAINING THESE GASES
+(synthesis gas from liquid or gaseous hydrocarbons C01B; underground gasification of minerals
+E21B 43/295); CARBURETTING AIR OR OTHER GASES
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Production of fuel gases by carburetting air
+or other gases without pyrolysis (for internal-
+    1/04    . . Controlling supply of air
+    1/06    . . with materials which are liquid at ordinary
+    1/08    . . . by passage of air through or over the surface of
+    1/10    . . . . with the liquid absorbed on carriers
+    1/12    . . . by atomisation of the liquid
+    1/14    . . . Controlling the supply of liquid in accordance
+    1/16    . . with solid hydrocarbons
+    1/18    . . in rotary carburettors
+    1/20    . Carburetting gases other than air
+    1/207   . Carburetting by pyrolysis of solid carbonaceous
+material in a fuel bed (C10J 3/66 takes precedence)
+    1/213   . Carburetting by pyrolysis of solid carbonaceous
+    1/22    . Adding materials to prevent vapour deposition
+    1/24    . Controlling humidity of the air or gas to be
+    1/26    . using raised temperatures or pressures
+    1/28    . Odorising air gas
+    3/00    Production of combustible gases containing
+carbon monoxide from solid carbonaceous fuels
+(destructive distillation processes C10B)
+    3/002   . {Horizontal gasifiers, e.g. belt-type gasifiers}
+    3/005   . {Rotary drum or kiln gasifiers}
+    3/007   . {Screw type gasifiers}
+    3/02    . Fixed-bed gasification of lump fuel
+    3/04    . . Cyclic processes, e.g. alternate blast and run
+    3/06    . . Continuous processes
+    3/08    . . . with ash-removal in liquid state
+    3/10    . . . using external heating
+    3/12    . . . using solid heat-carriers
+    3/14    . . . using gaseous heat-carriers
+    3/16    . . . simultaneously reacting oxygen and water with
+    3/18    . . . using electricity
+    3/20    . . Apparatus; Plants
+    3/22    . . . Arrangements or dispositions of valves or flues
+    3/24    . . . . to permit flow of gases or vapours other than
+    3/26    . . . . . downwardly
+    3/28    . . . . fully automatic
+    3/30    . . . Fuel charging devices
+    3/32    . . . Devices for distributing fuel evenly over the
+bed or for stirring up the fuel bed
+    3/34    . . . Grates; Mechanical ash-removing devices
+    3/36    . . . . Fixed grates
+    3/38    . . . . . with stirring beams
+    3/40    . . . . Movable grates
+    3/42    . . . . . Rotary grates
+    3/44    . . . adapted for use on vehicles
+    3/46    . Gasification of granular or pulverulent flues in
+    3/463   . . {in stationary fluidised beds}
+    3/466   . . {Entrained flow processes}
+    3/48    . . Apparatus; Plants
+    3/482   . . . {Gasifiers with stationary fluidised bed}
+    3/485   . . . {Entrained flow gasifiers}
+    3/487   . . . . {Swirling or cyclonic gasifiers}
+    3/50    . . . Fuel charging devices
+    3/503   . . . . {for gasifiers with stationary fluidised bed}
+    3/506   . . . . {for entrained flow gasifiers}
+    3/52    . . . Ash-removing devices
+    3/523   . . . . {for gasifiers with stationary fluidised bed}
+    3/526   . . . . {for entrained flow gasifiers}
+    3/54    . . Gasification of granular or pulverulent fuels by
+the Winkler technique, i.e. by fluidisation
+    3/56    . . . Apparatus; Plants
+    3/57    . Gasification using molten salts or metals
+(C10J 3/02, C10J 3/46 take precedence)
+    3/58    . combined with pre-distillation of the fuel
+    3/62    . . . with separate withdrawal of the distillation
+    3/64    . . . with decomposition of the distillation products
+    3/66    . . . . by introducing them into the gasification
+    3/721   . . {Multistage gasification, e.g. plural parallel or
+    3/723   . . {Controlling or regulating the gasification
+    3/725   . . {Redox processes}
+    3/74    . . Construction of shells or jackets
+    3/76    . . . Water jackets; Steam boiler-jackets
+    3/78    . . High-pressure apparatus
+    3/80    . . with arrangements for preheating the blast or the
+    3/82    . . Gas withdrawal means
+    3/84    . . . with means for removing dust or tar from the
+    3/845   . . . . {Quench rings}
+    3/86    . . combined with waste-heat boilers
+ 2200/00    Details of gasification apparatus
+ 2200/06    . Catalysts as integral part of gasifiers (catalysts
+added to the feed C10J 2300/0986)
+ 2200/09    . Mechanical details of gasifiers not otherwise
+provided for, e.g. sealing means
+ 2200/12    . Electrodes present in the gasifier
+ 2200/15    . Details of feeding means
+ 2200/152   . . Nozzles or lances for introducing gas, liquids or
+ 2200/154   . . Pushing devices, e.g. pistons
+ 2200/156   . . Sluices, e.g. mechanical sluices for preventing
+escape of gas through the feed inlet
+ 2200/31    . Mobile gasifiers, e.g. for use in cars, ships or
+ 2200/33    . Laboratory scale gasifiers
+ 2200/36    . Moving parts inside the gasification reactor not
+otherwise provided for (devices for distributing fuel
+evenly over a fixed bed C10J 3/32)
+ 2200/39    . Gasifiers designed as centrifuge
+ 2300/00    Details of gasification processes
+ 2300/06    . Modeling or simulation of processes
+ 2300/09    . Details of the feed, e.g. feeding of spent catalyst,
+ 2300/0903  . . Feed preparation
+ 2300/0906  . . . Physical processes, e.g. shredding,
+ 2300/0913  . . Carbonaceous raw material
+ 2300/092   . . . . Wood, cellulose
+ 2300/0923  . . . . Sludge, e.g. from water treatment plant
+ 2300/0926  . . . Slurries comprising bio-oil or bio-coke, i.e.
+charcoal, obtained, e.g. by fast pyrolysis of
+ 2300/0933  . . . . Coal fines for producing water gas
+ 2300/0936  . . . . Coal fines for producing producer gas
+ 2300/0946  . . . Waste, e.g. MSW, tires, glass, tar sand, peat,
+ 2300/095   . . . Exhaust gas from an external process for
+ 2300/0953  . . Gasifying agents
+ 2300/0956  . . . Air or oxygen enriched air
+ 2300/0969  . . . Carbon dioxide
+ 2300/0979  . . . . as supercritical steam
+ 2300/0989  . . . Hydrocarbons as additives to gasifying agents
+ 2300/0993  . . . Inert particles, e.g. as heat exchange medium in
+a fluidized or moving bed, heat carriers, sand
+ 2300/0996  . . . Calcium-containing inorganic materials, e.g.
+ 2300/12    . Heating the gasifier
+ 2300/1207  . . using pyrolysis gas as fuel
+ 2300/1215  . . using synthesis gas as fuel
+ 2300/123   . . by electromagnetic waves, e.g. microwaves
+ 2300/1246  . . by external or indirect heating
+ 2300/1253  . . by injecting hot gas
+ 2300/1261  . . by pulse burners
+ 2300/1269  . . by radiating device, e.g. radiant tubes
+ 2300/1276  . . . by electricity, e.g. resistor heating
+ 2300/1284  . . by renewable energy, e.g. solar energy,
+ 2300/1292  . . . mSolar energy
+ 2300/16    . Integration of gasification processes with another
+plant or parts within the plant
+ 2300/1603  . . with gas treatment (gas cleaning C10K 1/00)
+ 2300/1606  . . . Combustion processes
+ 2300/1609  . . . Post-reduction, e.g. on a red-white-hot coke or
+ 2300/1612  . . . CO2-separation and sequestration, i.e. long time
+ 2300/1618  . . . Modification of synthesis gas composition, e.g.
+ 2300/1621  . . . Compression of synthesis gas
+ 2300/1625  . . with solids treatment
+ 2300/1628  . . . Ash post-treatment
+ 2300/1631  . . . . Ash recycling
+ 2300/1634  . . . . Ash vitrification
+ 2300/1637  . . . Char combustion
+ 2300/164   . . with conversion of synthesis gas
+ 2300/1643  . . . Conversion of synthesis gas to energy
+ 2300/1646  . . . . integrated with a fuel cell (gasification of
+solids in fuel cells H01M 8/0643)
+ 2300/165   . . . . integrated with a gas turbine or gas motor
+(gas turbine plants provided with a gas
+producer F02C 3/28; engines using solid
+ 2300/1653  . . . . integrated in a gasification combined cycle
+[IGCC] (engines driven by heat coming from
+a gasification or pyrolysis unit F01K 23/067)
+ 2300/1656  . . . Conversion of synthesis gas to chemicals
+ 2300/1659  . . . . to liquid hydrocarbons (Fischer-Tropsch
+ 2300/1662  . . . . to methane (SNG) (production of synthetic
+ 2300/1665  . . . . to alcohols, e.g. methanol or ethanol
+(preparation of alcohols in general
+ 2300/1668  . . . . to urea (preparation of urea C07C 273/00);
+to ammonia (preparation of ammonia
+ 2300/1671  . . with the production of electricity
+ 2300/1675  . . . making use of a steam turbine
+ 2300/1678  . . with air separation (separating gases using
+rectification of air F25J 3/04521)
+ 2300/1681  . . with biological plants, e.g. involving bacteria,
+ 2300/1684  . . with electrolysis of water
+ 2300/1687  . . with steam generation
+ 2300/169   . . with water treatments (treatment of water in
+general or water purification C02F)
+ 2300/1693  . . with storage facilities for intermediate, feed and/
+ 2300/1696  . . with phase separation, e.g. after condensation
+ 2300/18    . Details of the gasification process, e.g. loops,
+ 2300/1807  . . Recycle loops, e.g. gas, solids, heating medium,
+ 2300/1815  . . . for carbon dioxide
+ 2300/1823  . . . for synthesis gas
+ 2300/183   . . Non-continuous or semi-continuous processes
+(cyclic processes in fixed bed gasification
+ 2300/1838  . . Autothermal gasification by injection of oxygen
+ 2300/1846  . . Partial oxidation, i.e. injection of air or oxygen
+ 2300/1853  . . Steam reforming, i.e. injection of steam only
+ 2300/1861  . . Heat exchange between at least two process
+ 2300/1869  . . . with one stream being air, oxygen or ozone
+ 2300/1876  . . . with one stream being combustion gas
+ 2300/1884  . . . with one stream being synthesis gas
+ 2300/1892  . . . with one stream being water/steam

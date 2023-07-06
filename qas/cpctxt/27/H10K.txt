@@ -1,0 +1,1078 @@
+COOPERATIVE PATENT CLASSIFICATION
+SEMICONDUCTOR DEVICES; ELECTRIC SOLID-STATE DEVICES NOT
+ORGANIC ELECTRIC SOLID-STATE DEVICES
+• individual organic electric solid-state devices, i.e. electric solid-state devices comprising organic material in the active part;
+• integrated devices, or assemblies of multiple devices, comprising such elements.
+2. This subclass does not cover:
+• organic electronic memory devices, which are covered by subclass H10B;
+• organic thermoelectric, piezoelectric, electrostrictive or magnetostrictive devices, which are covered by subclass H10N;
+• organic resistors without a potential-jump barrier or surface barrier and not specially adapted for integrated devices, which
+• organic capacitors without a potential-jump barrier or surface barrier and not specially adapted for integrated devices,
+which are covered by subclass H01G.
+3. In this subclass, it is desirable to add the indexing codes of groups H10K 2101/00 - H10K 2102/00.
+Organic devices specially adapted for rectifying, amplifying,
+   10/00    Organic devices specially adapted for rectifying,
+amplifying, oscillating or switching; Organic
+capacitors or resistors having a potential-jump
+barrier or a surface barrier (integrated devices or
+assemblies of multiple devices H10K 19/00)
+Group H10K 10/00 is impacted by reclassification
+into groups H10K 10/10, H10K 10/40 and
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   10/10    . Organic capacitors or resistors comprising a
+potential-jump barrier or surface barrier
+Group H10K 10/10 is incomplete pending
+reclassification of documents from group
+Groups H10K 10/00 and H10K 10/10 should
+be considered in order to perform a complete
+   10/23    . . Schottky diodes
+   10/26    . . Diodes comprising organic-organic junctions
+   10/29    . . Diodes comprising organic-inorganic
+   10/40    . Organic transistors
+Groups H10K 10/40 and H10K 10/43 are
+incomplete pending reclassification of
+documents from group H10K 10/00.
+Groups H10K 10/00, H10K 10/40 and
+H10K 10/43 should be considered in order to
+   10/43    . . Bipolar transistors, e.g. organic bipolar junction
+   10/46    . . Field-effect transistors, e.g. organic thin-
+film transistors [OTFT] (H10K 10/43 takes
+   10/462   . . . {Insulated gate field-effect transistors
+   10/464   . . . . {Lateral top-gate IGFETs comprising only a
+   10/466   . . . . {Lateral bottom-gate IGFETs comprising
+   10/468   . . . . {characterised by the gate dielectrics}
+   10/471   . . . . . {the gate dielectric comprising only
+   10/472   . . . . . {the gate dielectric comprising only
+   10/474   . . . . . {the gate dielectric comprising a
+   10/476   . . . . . . {comprising at least one organic layer
+and at least one inorganic layer}
+   10/478   . . . . . {the gate dielectric comprising a layer
+of composite material comprising
+interpenetrating or embedded materials,
+e.g. TiO2 particles in a polymer matrix}
+   10/481   . . . . {characterised by the gate conductors}
+   10/482   . . . . . {the IGFET comprising multiple
+separately-addressable gate electrodes}
+   10/484   . . . . {characterised by the channel regions}
+1Organic devices specially adapted for rectifying, amplifying, oscillating or switching
+   10/486   . . . . . {the channel region comprising two
+or more active layers, e.g. forming pn
+   10/488   . . . . . {the channel region comprising a layer of
+composite material having interpenetrating
+or embedded materials, e.g. a mixture of
+donor and acceptor moieties, that form a
+   10/491   . . . . {Vertical transistors, e.g. vertical carbon
+nanotube field effect transistors [CNT-
+   10/50    . Bistable switching devices
+   10/701   . {Organic molecular electronic devices}
+   10/80    . Constructional details
+Group H10K 10/80 is impacted by
+reclassification into group H10K 77/00.
+Groups H10K 10/80 and H10K 77/00 should
+be considered in order to perform a complete
+Group H10K 10/82 is impacted by
+reclassification into group H10K 10/86.
+Groups H10K 10/82 and H10K 10/86 should
+be considered in order to perform a complete
+   10/84    . . . Ohmic electrodes, e.g. source or drain
+   10/86    . . . Schottky electrodes
+Group H10K 10/86 is incomplete pending
+reclassification of documents from group
+Groups H10K 10/82 and H10K 10/86
+should be considered in order to perform a
+   10/88    . . Passivation; Containers; Encapsulations
+   19/00    Integrated devices, or assemblies of multiple
+devices, comprising at least one organic element
+specially adapted for rectifying, amplifying,
+oscillating or switching, covered by group
+Group H10K 19/00 is incomplete pending
+reclassification of documents from groups
+Group H10K 19/00 is also impacted by
+reclassification into group H10K 19/80.
+Groups H10K 19/00 and H10K 19/80 should be
+considered in order to perform a complete search.
+   19/10    . comprising field-effect transistors
+   19/20    . comprising components having an active region that
+includes an inorganic semiconductor
+   19/201   . {Integrated devices having a three-dimensional
+Group H10K 19/201 is impacted by
+reclassification into groups H10K 39/401 and
+Groups H10K 19/201, H10K 39/401 and
+H10K 59/751 should be considered in order to
+   19/202   . {Integrated devices comprising a common active
+Group H10K 19/202 is impacted by
+reclassification into groups H10K 39/501 and
+Groups H10K 19/202, H10K 39/501 and
+H10K 59/771 should be considered in order to
+   19/80    . Interconnections, e.g. terminals
+Group H10K 19/80 is incomplete pending
+reclassification of documents from group
+Groups H10K 19/00 and H10K 19/80 should
+be considered in order to perform a complete
+   19/901   . {Assemblies of multiple devices comprising at least
+one organic element specially adapted for rectifying,
+amplifying, oscillating or switching}
+Organic radiation-sensitive devices
+   30/00    Organic devices sensitive to infrared radiation,
+light, electromagnetic radiation of shorter
+wavelength or corpuscular radiation (integrated
+devices or assemblies of multiple devices
+H10K 39/00, H10K 65/00; electrolytic light-sensitive
+This group covers organic semiconductor devices
+sensitive to radiation insofar as these devices are
+• the conversion of the radiation energy into
+• the control of electrical energy by such
+Group H10K 30/00 is impacted by reclassification
+into groups H10K 30/50, H10K 30/53 and
+Groups H10K 30/00, H10K 30/50, H10K 30/53
+and H10K 30/60 should be considered in order to
+2Organic radiation-sensitive devices
+   30/10    . comprising heterojunctions between organic
+semiconductors and inorganic semiconductors
+Group H10K 30/10 is impacted by
+reclassification into groups H10K 30/50 and
+Groups H10K 30/10, H10K 30/50 and
+H10K 30/53 should be considered in order to
+   30/15    . . Sensitised wide-bandgap semiconductor devices,
+e.g. dye-sensitised TiO2 (photo-electrochemical
+devices comprising a liquid electrolyte or a solid
+Group H10K 30/15 is impacted by
+reclassification into groups H10K 30/50 and
+Groups H10K 30/15, H10K 30/50 and
+H10K 30/53 should be considered in order to
+   30/151   . . . {the wide bandgap semiconductor comprising
+Group H10K 30/151 is impacted by
+reclassification into groups H10K 30/50 and
+Groups H10K 30/151, H10K 30/50 and
+H10K 30/53 should be considered in order
+   30/152   . . . {the wide bandgap semiconductor comprising
+Group H10K 30/152 is impacted by
+reclassification into groups H10K 30/50 and
+Groups H10K 30/152, H10K 30/50 and
+H10K 30/53 should be considered in order
+   30/20    . comprising organic-organic junctions, e.g. donor-
+Group H10K 30/20 is impacted by
+reclassification into groups H10K 30/50 and
+Groups H10K 30/20, H10K 30/50 and
+H10K 30/53 should be considered in order to
+   30/211   . . {comprising multiple junctions, e.g. double
+Group H10K 30/211 is impacted by
+reclassification into groups H10K 30/50 and
+Groups H10K 30/211, H10K 30/50 and
+H10K 30/53 should be considered in order to
+   30/30    . comprising bulk heterojunctions, e.g.
+interpenetrating networks of donor and acceptor
+Group H10K 30/30 is impacted by
+reclassification into groups H10K 30/50 and
+Groups H10K 30/30, H10K 30/50 and
+H10K 30/53 should be considered in order to
+   30/35    . . comprising inorganic nanostructures, e.g. CdSe
+Group H10K 30/35 is impacted by
+reclassification into groups H10K 30/50 and
+Groups H10K 30/35, H10K 30/50 and
+H10K 30/53 should be considered in order to
+   30/352   . . . {the inorganic nanostructures being nanotubes
+or nanowires, e.g. CdTe nanotubes in P3HT
+Group H10K 30/352 is impacted by
+reclassification into groups H10K 30/50 and
+Groups H10K 30/352, H10K 30/50 and
+H10K 30/53 should be considered in order
+   30/353   . . {comprising blocking layers, e.g. exciton
+Group H10K 30/353 is impacted by
+reclassification into groups H10K 30/50 and
+Groups H10K 30/353, H10K 30/50 and
+H10K 30/53 should be considered in order to
+3Organic radiation-sensitive devices
+   30/354   . {comprising a metal-insulator-semiconductor [m-i-
+Group H10K 30/354 is impacted by
+reclassification into groups H10K 30/50 and
+Groups H10K 30/354, H10K 30/50 and
+H10K 30/53 should be considered in order to
+   30/40    . comprising a p-i-n structure, e.g. having a
+perovskite absorber between p-type and n-type
+Group H10K 30/40 is impacted by
+reclassification into groups H10K 30/50 and
+Groups H10K 30/40, H10K 30/50 and
+H10K 30/53 should be considered in order to
+   30/451   . {comprising a metal-semiconductor-metal [m-s-m]
+Group H10K 30/451 is impacted by
+reclassification into groups H10K 30/50 and
+Groups H10K 30/451, H10K 30/50 and
+H10K 30/53 should be considered in order to
+   30/50    . Photovoltaic [PV] devices
+Groups H10K 30/50 and H10K 30/53
+are incomplete pending reclassification
+of documents from groups H10K 30/00,
+H10K 30/10, H10K 30/15, H10K 30/151,
+H10K 30/152, H10K 30/20, H10K 30/211,
+H10K 30/30, H10K 30/35, H10K 30/352,
+H10K 30/353, H10K 30/354, H10K 30/40 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/53    . . in the form of fibres or tubes, e.g. photovoltaic
+   30/57    . . comprising multiple junctions, e.g. tandem PV
+   30/60    . in which radiation controls flow of current through
+the devices, e.g. photoresistors
+Group H10K 30/60 is incomplete pending
+reclassification of documents from group
+Groups H10K 30/00 and H10K 30/60 should
+be considered in order to perform a complete
+   30/65    . . Light-sensitive field-effect devices, e.g.
+   30/671   . {Organic radiation-sensitive molecular electronic
+Group H10K 30/671 is impacted by
+reclassification into group H10K 50/401.
+Groups H10K 30/671 and H10K 50/401 should
+be considered in order to perform a complete
+   30/80    . Constructional details
+by reclassification into groups
+H10K 30/84 - H10K 30/86, H10K 30/89 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/82    . . . Transparent electrodes, e.g. indium tin oxide
+   30/821   . . . . {comprising carbon nanotubes}
+   30/83    . . . . comprising arrangements for extracting the
+current from the cell, e.g. metal finger grid
+systems to reduce the serial resistance of
+   30/84    . . Layers having high charge carrier mobility
+Groups H10K 30/84 - H10K 30/86 are
+incomplete pending reclassification of
+documents from group H10K 30/80.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   30/85    . . . Layers having high electron mobility, e.g.
+electron-transporting layers or hole-blocking
+   30/86    . . . Layers having high hole mobility, e.g. hole-
+transporting layers or electron-blocking layers
+   30/865   . . {Intermediate layers comprising a mixture of
+materials of the adjoining active layers}
+   30/87    . . Light-trapping means
+   30/88    . . Passivation; Containers; Encapsulations
+   30/89    . . Terminals, e.g. bond pads
+Group H10K 30/89 is incomplete pending
+reclassification of documents from group
+Groups H10K 30/80 and H10K 30/89 should
+be considered in order to perform a complete
+   39/00    Integrated devices, or assemblies of multiple
+devices, comprising at least one organic radiation-
+sensitive element covered by group H10K 30/00
+This group only covers devices that are sensitive to
+infrared radiation, light, electromagnetic radiation
+of shorter wavelength or corpuscular radiation.
+4Organic radiation-sensitive devices
+   39/10    . Organic photovoltaic [PV] modules; Arrays of
+Group H10K 39/10 is incomplete pending
+reclassification of documents from groups
+H01L 25/04, H01L 25/16, H01L 25/162,
+H01L 25/165, H01L 25/167 and H01L 25/18.
+Group H10K 39/10 is also impacted by
+reclassification into groups H10K 39/12,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   39/12    . . Electrical configurations of PV cells, e.g. series
+connections or parallel connections
+Group H10K 39/12 is incomplete pending
+reclassification of documents from group
+Groups H10K 39/10 and H10K 39/12 should
+be considered in order to perform a complete
+   39/15    . . comprising both organic PV cells and inorganic
+Group H10K 39/15 is incomplete pending
+reclassification of documents from group
+Groups H10K 39/10 and H10K 39/15 should
+be considered in order to perform a complete
+   39/18    . . Interconnections, e.g. terminals
+Group H10K 39/18 is incomplete pending
+reclassification of documents from group
+Groups H10K 39/10 and H10K 39/18 should
+be considered in order to perform a complete
+   39/30    . Devices controlled by radiation
+Group H10K 39/30 is impacted by
+reclassification into group H10K 39/38.
+Groups H10K 39/30 and H10K 39/38 should
+be considered in order to perform a complete
+   39/32    . . Organic image sensors
+   39/34    . . . integrated with organic light-emitting diodes
+Group H10K 39/34 is incomplete pending
+reclassification of documents from group
+Groups H10K 59/65 and H10K 39/34
+should be considered in order to perform a
+   39/36    . . Devices specially adapted for detecting X-ray
+   39/38    . . Interconnections, e.g. terminals
+Group H10K 39/38 is incomplete pending
+reclassification of documents from group
+Groups H10K 39/30 and H10K 39/38 should
+be considered in order to perform a complete
+   39/401   . {Integrated devices having a three-dimensional
+Group H10K 39/401 is incomplete pending
+reclassification of documents from group
+Groups H10K 19/201 and H10K 39/401 should
+be considered in order to perform a complete
+   39/501   . {Integrated devices comprising a common active
+Group H10K 39/501 is incomplete pending
+reclassification of documents from group
+Groups H10K 19/202 and H10K 39/501 should
+be considered in order to perform a complete
+   39/601   . {Assemblies of multiple devices comprising at least
+one organic radiation-sensitive element}
+Group H10K 39/601 is impacted by
+reclassification into group H10K 39/621.
+Groups H10K 39/601 and H10K 39/621 should
+be considered in order to perform a complete
+   39/621   . . {comprising only organic radiation-sensitive
+Group H10K 39/621 is incomplete pending
+reclassification of documents from group
+Groups H10K 39/601 and H10K 39/621
+should be considered in order to perform a
+5Organic light-emitting devices
+   50/00    Organic light-emitting devices (integrated devices
+or assemblies of multiple devices H10K 59/00,
+H10K 65/00; organic semiconductor lasers
+Group H10K 50/00 is impacted by reclassification
+Groups H10K 50/00 and H10K 50/10 should be
+considered in order to perform a complete search.
+   50/10    . OLEDs or polymer light-emitting diodes [PLED]
+Group H10K 50/10 is incomplete pending
+reclassification of documents from group
+Groups H10K 50/00 and H10K 50/10 should
+be considered in order to perform a complete
+   50/11    . . characterised by the electroluminescent [EL]
+   50/115   . . . comprising active inorganic nanostructures, e.g.
+   50/12    . . . comprising dopants
+   50/121   . . . . {for assisting energy transfer, e.g.
+   50/125   . . . specially adapted for multicolour light
+emission, e.g. for emitting white light
+   50/13    . . . . comprising stacked EL layers within one EL
+   50/131   . . . . . {with spacer layers between the
+   50/135   . . . comprising mobile ions
+   50/14    . . Carrier transporting layers
+   50/15    . . . Hole transporting layers
+   50/155   . . . . comprising dopants
+   50/156   . . . . {comprising a multilayered structure}
+   50/157   . . . . {between the light-emitting layer and the
+   50/16    . . . Electron transporting layers
+   50/165   . . . . comprising dopants
+   50/166   . . . . {comprising a multilayered structure}
+   50/167   . . . . {between the light-emitting layer and the
+   50/17    . . Carrier injection layers
+Group H10K 50/17 is impacted by
+reclassification into group H10K 50/171.
+Groups H10K 50/17 and H10K 50/171 should
+be considered in order to perform a complete
+   50/171   . . . {Electron injection layers}
+Group H10K 50/171 is incomplete pending
+reclassification of documents from group
+Groups H10K 50/17 and H10K 50/171
+should be considered in order to perform a
+   50/18    . . Carrier blocking layers
+Group H10K 50/18 is impacted by
+reclassification into group H10K 50/181.
+Groups H10K 50/18 and H10K 50/181 should
+be considered in order to perform a complete
+   50/181   . . . {Electron blocking layers}
+Group H10K 50/181 is incomplete pending
+reclassification of documents from group
+Groups H10K 50/18 and H10K 50/181
+should be considered in order to perform a
+   50/182   . . {OLED comprising a fiber structure}
+   50/30    . Organic light-emitting transistors
+   50/401   . {Organic light-emitting molecular electronic
+Group H10K 50/401 is incomplete pending
+reclassification of documents from group
+Groups H10K 30/671 and H10K 50/401 should
+be considered in order to perform a complete
+   50/80    . Constructional details
+Group H10K 50/80 is impacted by
+reclassification into groups H10K 50/88,
+All groups listed in this Warning should be
+considered in order to perform a complete
+Group H10K 50/805 is impacted by
+reclassification into group H10K 59/805.
+Groups H10K 50/805 and H10K 59/805
+should be considered in order to perform a
+6Organic light-emitting devices
+Group H10K 50/81 is impacted by
+reclassification into groups H10K 50/816
+Groups H10K 50/81, H10K 50/816 and
+H10K 59/8051 should be considered in
+order to perform a complete search.
+   50/813   . . . . characterised by their shape
+H10K 59/80515 should be considered in
+order to perform a complete search.
+   50/814   . . . . combined with auxiliary electrodes, e.g. ITO
+layer combined with metal lines
+H10K 59/80516 should be considered in
+order to perform a complete search.
+   50/816   . . . . Multilayers, e.g. transparent multilayers
+Group H10K 50/816 is incomplete
+pending reclassification of documents
+Group H10K 50/816 is also impacted
+Groups H10K 50/81, H10K 50/816 and
+H10K 59/80517 should be considered in
+order to perform a complete search.
+   50/818   . . . . Reflective anodes, e.g. ITO combined with
+H10K 59/80518 should be considered in
+order to perform a complete search.
+Group H10K 50/82 is impacted by
+reclassification into group H10K 50/826 and
+Groups H10K 50/82, H10K 50/826 and
+H10K 59/8052 should be considered in
+order to perform a complete search.
+   50/822   . . . . characterised by their shape
+H10K 59/80521 should be considered in
+order to perform a complete search.
+   50/824   . . . . combined with auxiliary electrodes
+H10K 59/80522 should be considered in
+order to perform a complete search.
+   50/826   . . . . Multilayers, e.g. opaque multilayers
+Group H10K 50/826 is incomplete
+pending reclassification of documents
+Group H10K 50/826 is also impacted
+Groups H10K 50/82, H10K 50/826 and
+H10K 59/80523 should be considered in
+order to perform a complete search.
+   50/828   . . . . Transparent cathodes, e.g. comprising thin
+H10K 59/80524 should be considered in
+order to perform a complete search.
+   50/84    . . Passivation; Containers; Encapsulations
+Group H10K 50/84 is impacted by
+reclassification into group H10K 59/87.
+Groups H10K 50/84 and H10K 59/87 should
+be considered in order to perform a complete
+   50/841   . . . {Self-supporting sealing arrangements}
+Group H10K 50/841 is impacted by
+reclassification into groups H10K 50/842,
+All groups listed in this Warning should be
+considered in order to perform a complete
+7Organic light-emitting devices
+Group H10K 50/842 is incomplete pending
+reclassification of documents from group
+Groups H10K 50/841 and H10K 50/842
+should be considered in order to perform a
+   50/8423  . . . . {Metallic sealing arrangements}
+Group H10K 50/8423 is impacted by
+reclassification into group H10K 59/8721.
+H10K 59/8721 should be considered in
+order to perform a complete search.
+   50/8426  . . . . {Peripheral sealing arrangements, e.g.
+Group H10K 50/8426 is impacted by
+reclassification into group H10K 59/8722.
+H10K 59/8722 should be considered in
+order to perform a complete search.
+   50/8428  . . . . {Vertical spacers, e.g. arranged between the
+sealing arrangement and the OLED}
+Group H10K 50/8428 is impacted by
+reclassification into group H10K 59/8723.
+H10K 59/8723 should be considered in
+order to perform a complete search.
+   50/844   . . . Encapsulations
+Group H10K 50/844 is impacted by
+reclassification into group H10K 59/873.
+Groups H10K 50/844 and H10K 59/873
+should be considered in order to perform a
+   50/8445  . . . . {multilayered coatings having a repetitive
+structure, e.g. having multiple organic-
+Group H10K 50/8445 is impacted by
+reclassification into group H10K 59/8731.
+H10K 59/8731 should be considered in
+order to perform a complete search.
+   50/846   . . . {comprising getter material or desiccants}
+Group H10K 50/846 is impacted by
+reclassification into group H10K 59/874.
+Groups H10K 50/846 and H10K 59/874
+should be considered in order to perform a
+   50/85    . . Arrangements for extracting light from the
+Group H10K 50/85 is impacted by
+reclassification into group H10K 59/875.
+Groups H10K 50/85 and H10K 59/875 should
+be considered in order to perform a complete
+   50/852   . . . comprising a resonant cavity structure, e.g.
+Group H10K 50/852 is impacted by
+reclassification into group H10K 59/876.
+Groups H10K 50/852 and H10K 59/876
+should be considered in order to perform a
+   50/854   . . . comprising scattering means
+Group H10K 50/854 is impacted by
+reclassification into group H10K 59/877.
+Groups H10K 50/854 and H10K 59/877
+should be considered in order to perform a
+   50/856   . . . comprising reflective means
+Group H10K 50/856 is impacted by
+reclassification into group H10K 59/878.
+Groups H10K 50/856 and H10K 59/878
+should be considered in order to perform a
+   50/858   . . . comprising refractive means, e.g. lenses
+Group H10K 50/858 is impacted by
+reclassification into group H10K 59/879.
+Groups H10K 50/858 and H10K 59/879
+should be considered in order to perform a
+   50/86    . . Arrangements for improving contrast, e.g.
+preventing reflection of ambient light
+Group H10K 50/86 is impacted by
+reclassification into group H10K 59/8791.
+Groups H10K 50/86 and H10K 59/8791
+should be considered in order to perform a
+   50/865   . . . {comprising light absorbing layers, e.g. light-
+Group H10K 50/865 is impacted by
+reclassification into group H10K 59/8792.
+Groups H10K 50/865 and H10K 59/8792
+should be considered in order to perform a
+8Organic light-emitting devices
+   50/868   . . {Arrangements for polarized light emission
+Group H10K 50/868 is impacted by
+reclassification into group H10K 59/8793.
+Groups H10K 50/868 and H10K 59/8793
+should be considered in order to perform a
+   50/87    . . Arrangements for heating or cooling
+Group H10K 50/87 is impacted by
+reclassification into group H10K 59/8794.
+Groups H10K 50/87 and H10K 59/8794
+should be considered in order to perform a
+   50/88    . . Terminals, e.g. bond pads
+Group H10K 50/88 is incomplete pending
+reclassification of documents from group
+Groups H10K 50/80 and H10K 50/88 should
+be considered in order to perform a complete
+   59/00    Integrated devices, or assemblies of multiple
+devices, comprising at least one organic light-
+emitting element covered by group H10K 50/00
+Group H10K 59/00 is impacted by
+reclassification into groups H10K 59/70 and
+Groups H10K 59/00, H10K 59/70 and
+H10K 59/80 - H10K 59/88 should be considered in
+order to perform a complete search.
+Group H10K 59/10 is impacted by
+reclassification into group H10K 59/19.
+Groups H10K 59/10 and H10K 59/19 should
+be considered in order to perform a complete
+   59/12    . . Active-matrix OLED [AMOLED] displays
+Group H10K 59/12 is impacted by
+reclassification into groups H10K 59/131 and
+Groups H10K 59/12, H10K 59/131 and
+H10K 59/1315 should be considered in order
+   59/1201  . . . {Manufacture or treatment}
+   59/121   . . . characterised by the geometry or disposition of
+   59/1213  . . . . {the pixel elements being TFTs}
+   59/1216  . . . . {the pixel elements being capacitors}
+   59/122   . . . Pixel-defining structures or layers, e.g. banks
+   59/123   . . . Connection of the pixel electrodes to the thin
+   59/124   . . . Insulating layers formed between TFT elements
+   59/125   . . . including organic TFTs [OTFT]
+   59/126   . . . Shielding, e.g. light-blocking means over the
+   59/127   . . . comprising two substrates, e.g. display
+comprising OLED array and TFT driving
+circuitry on different substrates
+   59/1275  . . . . {Electrical connections of the two
+   59/128   . . . comprising two independent displays, e.g. for
+emitting information from two major sides of
+   59/13    . . . comprising photosensors that control
+   59/131   . . . Interconnections, e.g. wiring lines or terminals
+Group H10K 59/131 is incomplete pending
+reclassification of documents from group
+Groups H10K 59/12 and H10K 59/131
+should be considered in order to perform a
+   59/1315  . . . . {comprising structures specially adapted for
+Group H10K 59/1315 is incomplete
+pending reclassification of documents
+Groups H10K 59/12 and H10K 59/1315
+should be considered in order to perform
+   59/17    . . Passive-matrix OLED displays
+Group H10K 59/17 is impacted by
+reclassification into groups H10K 59/179 and
+Groups H10K 59/17, H10K 59/179 and
+H10K 59/1795 should be considered in order
+   59/173   . . . comprising banks or shadow masks
+   59/176   . . . comprising two independent displays, e.g. for
+emitting information from two major sides of
+   59/179   . . . Interconnections, e.g. wiring lines or terminals
+Group H10K 59/179 is incomplete pending
+reclassification of documents from group
+Groups H10K 59/17 and H10K 59/179
+should be considered in order to perform a
+9Organic light-emitting devices
+   59/1795  . . . . {comprising structures specially adapted for
+Group H10K 59/1795 is incomplete
+pending reclassification of documents
+Groups H10K 59/17 and H10K 59/1795
+should be considered in order to perform
+   59/19    . . Segment displays
+Group H10K 59/19 is incomplete pending
+reclassification of documents from group
+Groups H10K 59/10 and H10K 59/19 should
+be considered in order to perform a complete
+   59/221   . . {Static displays, e.g. displaying permanent logos}
+   59/30    . Devices specially adapted for multicolour light
+   59/32    . . Stacked devices having two or more layers, each
+emitting at different wavelengths
+   59/35    . . comprising red-green-blue [RGB] subpixels
+   59/351   . . . {comprising more than three subpixels, e.g.
+   59/352   . . . {the areas of the RGB subpixels being
+   59/353   . . . {characterised by the geometrical arrangement
+   59/38    . . comprising colour filters or colour changing
+   59/40    . OLEDs integrated with touch screens
+   59/50    . OLEDs integrated with light modulating elements,
+e.g. with electrochromic elements, photochromic
+elements or liquid crystal elements
+   59/60    . OLEDs integrated with inorganic light-sensitive
+elements, e.g. with inorganic solar cells or inorganic
+   59/65    . . OLEDs integrated with inorganic image sensors
+Group H10K 59/65 is impacted by
+reclassification into group H10K 39/34.
+Groups H10K 59/65 and H10K 39/34 should
+be considered in order to perform a complete
+   59/70    . OLEDs integrated with inorganic light-emitting
+elements, e.g. with inorganic electroluminescent
+Group H10K 59/70 is incomplete pending
+reclassification of documents from group
+Groups H10K 59/00 and H10K 59/70 should
+be considered in order to perform a complete
+   59/751   . {Integrated devices having a three-dimensional
+Group H10K 59/751 is incomplete pending
+reclassification of documents from group
+Groups H10K 19/201 and H10K 59/751 should
+be considered in order to perform a complete
+   59/771   . {Integrated devices comprising a common active
+Group H10K 59/771 is incomplete pending
+reclassification of documents from group
+Groups H10K 19/202 and H10K 59/771 should
+be considered in order to perform a complete
+   59/80    . Constructional details
+Group H10K 59/80 is incomplete pending
+reclassification of documents from groups
+Groups H10K 50/80, H10K 59/00 and
+H10K 59/80 should be considered in order to
+Group H10K 59/805 is incomplete pending
+reclassification of documents from groups
+Groups H10K 50/805, H10K 59/00 and
+H10K 59/805 should be considered in order to
+Group H10K 59/8051 is incomplete pending
+reclassification of documents from groups
+Groups H10K 50/81, H10K 59/00 and
+H10K 59/8051 should be considered in
+order to perform a complete search.
+   59/80515 . . . . {characterised by their shape}
+Group H10K 59/80515 is incomplete
+pending reclassification of documents
+Groups H10K 50/813, H10K 59/00 and
+H10K 59/80515 should be considered in
+order to perform a complete search.
+10Organic light-emitting devices
+   59/80516 . . . . {combined with auxiliary electrodes, e.g.
+ITO layer combined with metal lines}
+Group H10K 59/80516 is incomplete
+pending reclassification of documents
+Groups H10K 50/814, H10K 59/00 and
+H10K 59/80516 should be considered in
+order to perform a complete search.
+   59/80517 . . . . {Multilayers, e.g. transparent multilayers}
+Group H10K 59/80517 is incomplete
+pending reclassification of documents
+Groups H10K 50/816, H10K 59/00 and
+H10K 59/80517 should be considered in
+order to perform a complete search.
+   59/80518 . . . . {Reflective anodes, e.g. ITO combined with
+Group H10K 59/80518 is incomplete
+pending reclassification of documents
+Groups H10K 50/818, H10K 59/00 and
+H10K 59/80518 should be considered in
+order to perform a complete search.
+Group H10K 59/8052 is incomplete pending
+reclassification of documents from groups
+Groups H10K 50/82, H10K 59/00 and
+H10K 59/8052 should be considered in
+order to perform a complete search.
+   59/80521 . . . . {characterised by their shape}
+Group H10K 59/80521 is incomplete
+pending reclassification of documents
+Groups H10K 50/822, H10K 59/00 and
+H10K 59/80521 should be considered in
+order to perform a complete search.
+   59/80522 . . . . {combined with auxiliary electrodes}
+Group H10K 59/80522 is incomplete
+pending reclassification of documents
+Groups H10K 50/824, H10K 59/00 and
+H10K 59/80522 should be considered in
+order to perform a complete search.
+   59/80523 . . . . {Multilayers, e.g. opaque multilayers}
+Group H10K 59/80523 is incomplete
+pending reclassification of documents
+Groups H10K 50/826, H10K 59/00 and
+H10K 59/80523 should be considered in
+order to perform a complete search.
+   59/80524 . . . . {Transparent cathodes, e.g. comprising thin
+Group H10K 59/80524 is incomplete
+pending reclassification of documents
+Groups H10K 50/828, H10K 59/00 and
+H10K 59/80524 should be considered in
+order to perform a complete search.
+   59/82    . . Interconnections, e.g. terminals (H10K 59/131,
+Group H10K 59/82 is incomplete pending
+reclassification of documents from group
+Groups H10K 59/00 and H10K 59/82 should
+be considered in order to perform a complete
+   59/84    . . Parallel electrical configurations of multiple
+Group H10K 59/84 is incomplete pending
+reclassification of documents from group
+Groups H10K 59/00 and H10K 59/84 should
+be considered in order to perform a complete
+   59/86    . . Series electrical configurations of multiple
+Group H10K 59/86 is incomplete pending
+reclassification of documents from group
+Groups H10K 59/00 and H10K 59/86 should
+be considered in order to perform a complete
+   59/87    . . {Passivation; Containers; Encapsulations}
+Group H10K 59/87 is incomplete pending
+reclassification of documents from groups
+Groups H10K 50/84, H10K 59/00 and
+H10K 59/87 should be considered in order to
+11Organic light-emitting devices
+   59/871   . . . {Self-supporting sealing arrangements}
+Groups H10K 59/871 and H10K 59/872
+are incomplete pending reclassification of
+documents from groups H10K 50/841 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   59/872   . . . . {Containers}
+   59/8721  . . . . {Metallic sealing arrangements}
+Group H10K 59/8721 is incomplete
+pending reclassification of documents
+Groups H10K 50/8423, H10K 59/00 and
+H10K 59/8721 should be considered in
+order to perform a complete search.
+   59/8722  . . . . {Peripheral sealing arrangements, e.g.
+Group H10K 59/8722 is incomplete
+pending reclassification of documents
+Groups H10K 50/8426, H10K 59/00 and
+H10K 59/8722 should be considered in
+order to perform a complete search.
+   59/8723  . . . . {Vertical spacers, e.g. arranged between the
+sealing arrangement and the OLED}
+Group H10K 59/8723 is incomplete
+pending reclassification of documents
+Groups H10K 50/8428, H10K 59/00 and
+H10K 59/8723 should be considered in
+order to perform a complete search.
+   59/873   . . . {Encapsulations}
+Group H10K 59/873 is incomplete pending
+reclassification of documents from groups
+Groups H10K 50/844, H10K 59/00 and
+H10K 59/873 should be considered in order
+   59/8731  . . . . {multilayered coatings having a repetitive
+structure, e.g. having multiple organic-
+Group H10K 59/8731 is incomplete
+pending reclassification of documents
+Groups H10K 50/8445, H10K 59/00 and
+H10K 59/8731 should be considered in
+order to perform a complete search.
+   59/874   . . . {including getter material or desiccant}
+Group H10K 59/874 is incomplete pending
+reclassification of documents from groups
+Groups H10K 50/846, H10K 59/00 and
+H10K 59/874 should be considered in order
+   59/875   . . {Arrangements for extracting light from the
+Group H10K 59/875 is incomplete pending
+reclassification of documents from groups
+Groups H10K 50/85, H10K 59/00 and
+H10K 59/875 should be considered in order to
+   59/876   . . . {comprising a resonant cavity structure, e.g.
+Group H10K 59/876 is incomplete pending
+reclassification of documents from groups
+Groups H10K 50/852, H10K 59/00 and
+H10K 59/876 should be considered in order
+   59/877   . . . {comprising scattering means}
+Group H10K 59/877 is incomplete pending
+reclassification of documents from groups
+Groups H10K 50/854, H10K 59/00 and
+H10K 59/877 should be considered in order
+   59/878   . . . {comprising reflective means}
+Group H10K 59/878 is incomplete pending
+reclassification of documents from groups
+Groups H10K 50/856, H10K 59/00 and
+H10K 59/878 should be considered in order
+12Organic light-emitting devices
+   59/879   . . . {comprising refractive means, e.g. lenses}
+Group H10K 59/879 is incomplete pending
+reclassification of documents from groups
+Groups H10K 50/858, H10K 59/00 and
+H10K 59/879 should be considered in order
+   59/8791  . . {Arrangements for improving contrast, e.g.
+preventing reflection of ambient light}
+Group H10K 59/8791 is incomplete pending
+reclassification of documents from groups
+Groups H10K 50/86, H10K 59/00 and
+H10K 59/8791 should be considered in order
+   59/8792  . . . {comprising light absorbing layers, e.g. black
+Group H10K 59/8792 is incomplete pending
+reclassification of documents from groups
+Groups H10K 50/865, H10K 59/00 and
+H10K 59/8792 should be considered in
+order to perform a complete search.
+   59/8793  . . {Arrangements for polarized light emission
+(H10K 59/8791 takes precedence)}
+Group H10K 59/8793 is incomplete pending
+reclassification of documents from groups
+Groups H10K 50/868, H10K 59/00 and
+H10K 59/8793 should be considered in order
+   59/8794  . . {Arrangements for heating and cooling}
+Group H10K 59/8794 is incomplete pending
+reclassification of documents from groups
+Groups H10K 50/87, H10K 59/00 and
+H10K 59/8794 should be considered in order
+   59/88    . . Dummy elements, i.e. elements having non-
+Group H10K 59/88 is incomplete pending
+reclassification of documents from group
+Groups H10K 59/00 and H10K 59/88 should
+be considered in order to perform a complete
+   59/90    . Assemblies of multiple devices comprising at least
+one organic light-emitting element
+Group H10K 59/90 is incomplete pending
+reclassification of documents from groups
+H01L 25/04, H01L 25/16, H01L 25/162,
+H01L 25/165, H01L 25/167 and H01L 25/18.
+Group H10K 59/90 is also impacted by
+reclassification into group H10K 59/95.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   59/95    . . comprising only organic light-emitting elements
+Group H10K 59/95 is incomplete pending
+reclassification of documents from groups
+H01L 25/04, H01L 25/16, H01L 25/162,
+H01L 25/165, H01L 25/167, H01L 25/18 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   65/00    Integrated devices, or assemblies of multiple
+devices, comprising at least one organic light-
+emitting element and at least one organic
+radiation-sensitive element, e.g. organic opto-
+couplers (organic image sensors integrated with
+organic light-emitting devices H10K 39/34; OLED
+displays integrated with photosensors H10K 59/13)
+Group H10K 65/00 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+Manufacture or treatment; Constructional details
+   71/00    Manufacture or treatment specially adapted for
+the organic devices covered by this subclass
+Group H10K 71/00 is impacted by reclassification
+into groups H10K 71/40, H10K 71/421 and
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   71/10    . Deposition of organic active material
+   71/12    . . using liquid deposition, e.g. spin coating
+   71/125   . . . {using electrolytic deposition e.g. in-situ
+   71/13    . . . using printing techniques, e.g. ink-jet printing
+   71/135   . . . . {using ink-jet printing}
+   71/15    . . . characterised by the solvent used
+   71/16    . . using physical vapour deposition [PVD], e.g.
+vacuum deposition or sputtering
+   71/162   . . . {using laser ablation}
+   71/164   . . . {using vacuum deposition}
+   71/166   . . . {using selective deposition, e.g. using a mask}
+13Manufacture or treatment; Constructional details
+   71/18    . . using non-liquid printing techniques, e.g. thermal
+transfer printing from a donor sheet
+   71/191   . . {characterised by provisions for the orientation or
+alignment of the layer to be deposited}
+   71/20    . Changing the shape of the active layer in the
+   71/211   . . {by selective transformation of an existing layer}
+   71/221   . . {by lift-off techniques}
+   71/231   . . {by etching of existing layers}
+   71/233   . . . {by photolithographic etching}
+   71/236   . . . {using printing techniques, e.g. applying the
+etch liquid using an ink jet printer}
+   71/30    . Doping active layers, e.g. electron transporting
+   71/311   . {Purifying organic semiconductor materials}
+   71/40    . Thermal treatment, e.g. annealing in the presence of
+Groups H10K 71/40, H10K 71/421 and
+H10K 71/441 are incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete
+   71/421   . . {using coherent electromagnetic radiation, e.g.
+   71/441   . . {in the presence of solvent vapors, e.g. solvent
+   71/50    . Forming devices by joining two substrates together,
+   71/60    . Forming conductive regions or layers, e.g.
+   71/611   . . {using printing deposition, e.g. ink jet printing}
+   71/621   . {Providing a shape to conductive layers, e.g.
+patterning or selective deposition}
+   71/70    . Testing, e.g. accelerated lifetime tests
+   71/80    . using temporary substrates
+   71/811   . {Controlling the atmosphere during processing
+   71/821   . {Patterning of a layer by embossing, e.g. stamping
+to form trenches in an insulating layer}
+   71/841   . {Applying alternating current [AC] during
+   71/851   . {Division of substrate}
+   77/00    Constructional details of devices covered by this
+subclass and not covered by groups H10K 10/80,
+H10K 30/80, H10K 50/80 or H10K 59/80
+Group H10K 77/00 is incomplete pending
+reclassification of documents from groups
+H10K 10/80, H10K 30/80, H10K 50/80 and
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   77/10    . Substrates, e.g. flexible substrates
+   77/111   . . {Flexible substrates}
+   85/00    Organic materials used in the body or electrodes of
+devices covered by this subclass
+This group only covers organic materials for their
+electrical or other properties, insofar as they are
+specially adapted for the devices covered by this
+Group H10K 85/00 is impacted by reclassification
+Groups H10K 85/00 and H10K 85/50 should be
+considered in order to perform a complete search.
+   85/10    . Organic polymers or oligomers
+   85/111   . . {comprising aromatic, heteroaromatic, or aryl
+chains, e.g. polyaniline, polyphenylene or
+   85/113   . . . {Heteroaromatic compounds comprising sulfur
+   85/1135  . . . . {Polyethylene dioxythiophene [PEDOT];
+   85/114   . . . {Poly-phenylenevinylene; Derivatives thereof}
+   85/115   . . . {Polyfluorene; Derivatives thereof}
+   85/141   . . {comprising aliphatic or olefinic chains, e.g. poly
+   85/143   . . . {Polyacetylene; Derivatives thereof}
+   85/146   . . . {poly N-vinylcarbazol; Derivatives thereof}
+   85/154   . . {Ladder-type polymers}
+   85/20    . Carbon compounds, e.g. carbon nanotubes or
+   85/211   . . {Fullerenes, e.g. C60}
+   85/215   . . . {comprising substituents, e.g. PCBM}
+   85/221   . . {Carbon nanotubes}
+   85/225   . . . {comprising substituents}
+   85/30    . Coordination compounds
+   85/311   . . {Phthalocyanine}
+   85/321   . . {Metal complexes comprising a group IIIA
+element, e.g. Tris (8-hydroxyquinoline) gallium
+   85/322   . . . {comprising boron}
+Group H10K 85/322 is impacted by
+reclassification into group H10K 85/658.
+Groups H10K 85/322 and H10K 85/658
+should be considered in order to perform a
+   85/324   . . . {comprising aluminium, e.g. Alq3}
+   85/326   . . . {comprising gallium}
+   85/331   . . {Metal complexes comprising an iron-series
+   85/341   . . {Transition metal complexes, e.g.
+Ru(II)polypyridine complexes (H10K 85/331
+   85/342   . . . {comprising iridium}
+   85/344   . . . {comprising ruthenium}
+   85/346   . . . {comprising platinum}
+   85/348   . . . {comprising osmium}
+   85/351   . . {Metal complexes comprising lanthanides or
+actinides, e.g. comprising europium}
+14Manufacture or treatment; Constructional details
+   85/361   . . {Polynuclear complexes, i.e. complexes
+comprising two or more metal centers}
+   85/371   . . {Metal complexes comprising a group IB metal
+element, e.g. comprising copper, gold or silver}
+   85/381   . . {Metal complexes comprising a group IIB metal
+element, e.g. comprising cadmium, mercury or
+   85/40    . Organosilicon compounds, e.g. TIPS pentacene
+   85/50    . Organic perovskites; Hybrid organic-inorganic
+perovskites [HOIP], e.g. CH3NH3PbI3
+Group H10K 85/50 is incomplete pending
+reclassification of documents from group
+Groups H10K 85/00 and H10K 85/50 should
+be considered in order to perform a complete
+   85/60    . Organic compounds having low molecular weight
+(H10K 85/10 - H10K 85/50 take precedence)
+   85/611   . . {Charge transfer complexes}
+   85/615   . . {Polycyclic condensed aromatic hydrocarbons,
+   85/621   . . . {Aromatic anhydride or imide compounds,
+e.g. perylene tetra-carboxylic dianhydride or
+perylene tetracarboxylic di-imide}
+   85/622   . . . {containing four rings, e.g. pyrene}
+   85/623   . . . {containing five rings, e.g. pentacene}
+   85/624   . . . {containing six or more rings}
+   85/625   . . . {containing at least one aromatic ring having 7
+or more carbon atoms, e.g. azulene}
+   85/626   . . . {containing more than one polycyclic
+condensed aromatic rings, e.g. bis-anthracene}
+   85/631   . . {Amine compounds having at least two aryl
+rest on at least one amine-nitrogen atom, e.g.
+   85/633   . . . {comprising polycyclic condensed aromatic
+hydrocarbons as substituents on the nitrogen
+   85/636   . . . {comprising heteroaromatic hydrocarbons as
+substituents on the nitrogen atom}
+   85/649   . . {Aromatic compounds comprising a hetero atom}
+   85/652   . . . {Cyanine dyes}
+   85/653   . . . {comprising only oxygen as heteroatom}
+   85/654   . . . {comprising only nitrogen as heteroatom
+(H10K 85/652 takes precedence)}
+   85/655   . . . {comprising only sulfur as heteroatom}
+   85/656   . . . {comprising two or more different heteroatoms
+per ring (H10K 85/652 takes precedence)}
+   85/6565  . . . . {Oxadiazole compounds}
+   85/657   . . . {Polycyclic condensed heteroaromatic
+   85/6572  . . . . {comprising only nitrogen in the
+heteroaromatic polycondensed ring system,
+e.g. phenanthroline or carbazole}
+   85/6574  . . . . {comprising only oxygen in the
+heteroaromatic polycondensed ring system,
+   85/6576  . . . . {comprising only sulfur in the
+heteroaromatic polycondensed ring system,
+   85/658   . . {Organoboranes}
+Group H10K 85/658 is incomplete pending
+reclassification of documents from group
+Groups H10K 85/322 and H10K 85/658
+should be considered in order to perform a
+   85/701   . {Langmuir Blodgett films}
+   85/731   . {Liquid crystalline materials}
+   85/761   . {Biomolecules or bio-macromolecules, e.g.
+proteins, chlorophyl, lipids or enzymes}
+   85/791   . {Starburst compounds}
+   99/00    Subject matter not provided for in other groups of
+Group H10K 99/00 is impacted by reclassification
+Groups H10K 99/00 and H10K 77/00 should be
+considered in order to perform a complete search.
+Indexing scheme associated with group H10K 85/00, relating to
+properties of organic materials
+ 2101/00    Properties of the organic materials covered by
+by reclassification into groups
+H10K 2101/20 - H10K 2101/25, H10K 2101/60,
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+ 2101/20    . Delayed fluorescence emission
+Groups H10K 2101/20 and H10K 2101/25
+are incomplete pending reclassification of
+documents from group H10K 2101/00.
+Groups H10K 2101/00, H10K 2101/20 and
+H10K 2101/25 should be considered in order to
+ 2101/27    . {Combination of fluorescent and phosphorescent
+ 2101/30    . Highest occupied molecular orbital [HOMO],
+lowest unoccupied molecular orbital [LUMO] or
+ 2101/40    . Interrelation of parameters between multiple
+constituent active layers or sublayers, e.g. HOMO
+ 2101/50    . Oxidation-reduction potentials, e.g. excited state
+15Indexing scheme associated with group H10K85/00, relating to properties of organic materials
+ 2101/60    . Up-conversion, e.g. by triplet-triplet annihilation
+Group H10K 2101/60 is incomplete pending
+reclassification of documents from group
+Groups H10K 2101/00 and H10K 2101/60
+should be considered in order to perform a
+ 2101/70    . Down-conversion, e.g. by singlet fission
+Group H10K 2101/70 is incomplete pending
+reclassification of documents from group
+Groups H10K 2101/00 and H10K 2101/70
+should be considered in order to perform a
+ 2101/80    . {Composition varying spatially, e.g. having a spatial
+ 2101/90    . {Multiple hosts in the emissive layer}
+Indexing scheme associated with groups H10K 10/80,
+H10K 30/80, H10K 50/80, H10K 59/80 and H10K 77/00, relating
+ 2102/00    Constructional details relating to the organic
+devices covered by this subclass
+Group H10K 2102/00 is incomplete pending
+reclassification of documents from group
+Groups H10K 2101/00 and H10K 2102/00 should
+be considered in order to perform a complete
+ 2102/10    . Transparent electrodes, e.g. using graphene
+ 2102/101   . . {comprising transparent conductive oxides
+ 2102/102   . . . {comprising tin oxides, e.g. fluorine-doped
+ 2102/103   . . . {comprising indium oxides, e.g. ITO}
+ 2102/20    . Metallic electrodes, e.g. using a stack of layers
+ 2102/301   . {Details of OLEDs}
+ 2102/302   . . {of OLED structures}
+ 2102/3023  . . . {Direction of light emission}
+ 2102/3026  . . . . {Top emission}
+ 2102/3031  . . . . {Two-side emission, e.g. transparent OLEDs
+ 2102/3035  . . . . {Edge emission}
+ 2102/311   . . {Flexible OLED}
+ 2102/321   . . {Inverted OLED, i.e. having cathode between
+ 2102/331   . . {Nanoparticles used in non-emissive layers, e.g.
+ 2102/341   . . {Short-circuit prevention}

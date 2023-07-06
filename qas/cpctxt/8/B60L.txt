@@ -1,0 +1,438 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+PROPULSION OF ELECTRICALLY-PROPELLED VEHICLES (arrangements or
+mounting of electrical propulsion units or of plural diverse prime-movers for mutual or
+common propulsion in vehicles B60K 1/00, B60K 6/20; arrangements or mounting of electrical
+gearing in vehicles B60K 17/12, B60K 17/14; preventing wheel slip by reducing power in
+rail vehicles B61C 15/08; dynamo-electric machines H02K; control or regulation of electric
+motors H02P); SUPPLYING ELECTRIC POWER FOR AUXILIARY EQUIPMENT
+OF ELECTRICALLY-PROPELLED VEHICLES (electric coupling devices combined
+with mechanical couplings of vehicles B60D 1/64; electric heating for vehicles B60H 1/00);
+ELECTRODYNAMIC BRAKE SYSTEMS FOR VEHICLES IN GENERAL (control
+or regulation of electric motors H02P); MAGNETIC SUSPENSION OR LEVITATION
+FOR VEHICLES; MONITORING OPERATING VARIABLES OF ELECTRICALLY-
+PROPELLED VEHICLES; ELECTRIC SAFETY DEVICES FOR ELECTRICALLY-
+1. This subclass, subject to the above references, covers:
+• feeding of power to auxiliary circuits;
+• current collectors; arrangements thereof on rail or road vehicles or on vehicles in general
+• electrodynamic brake systems;
+• electric propulsion of vehicles; control and regulation therefor
+2. In this subclass it is desirable to classify any "additional information" which is of interest for search.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Supplying electric power to auxiliary equipment of
+vehicles (circuit arrangements for charging batteries
+    1/003   . {to auxiliary motors, e.g. for pumps, compressors}
+    1/006   . {to power outlets}
+    1/02    . to electric heating circuits
+    1/04    . . fed by the power supply line
+    1/06    . . . using only one supply
+    1/08    . . . . Methods and devices for control or
+    1/10    . . . with provision for using different supplies
+    1/12    . . . . Methods and devices for control or
+    1/14    . to electric lighting circuits
+    1/16    . . fed by the power supply line
+    1/20    . {Energy regeneration from auxiliary equipment}
+    3/00    Electric devices on electrically-propelled vehicles
+for safety purposes; Monitoring operating
+variables, e.g. speed, deceleration or energy
+consumption (methods or circuit arrangements
+for monitoring or controlling batteries or fuel cells
+    3/0007  . {Measures or means for preventing or attenuating
+    3/0015  . . {Prevention of collisions}
+    3/0023  . {Detecting, eliminating, remedying or compensating
+for drive train abnormalities, e.g. failures within the
+    3/003   . . {relating to inverters}
+    3/0038  . . {relating to sensors}
+    3/0046  . . {relating to electric energy storage systems, e.g.
+    3/0053  . . {relating to fuel cells}
+    3/0061  . . {relating to electrical machines}
+    3/0069  . . {relating to the isolation, e.g. ground fault or leak
+    3/0076  . . {relating to braking}
+    3/0084  . . {relating to control modules}
+    3/0092  . {with use of redundant elements for safety
+    3/02    . Dead-man's devices
+    3/04    . Cutting off the power supply under fault conditions
+(protective devices and circuit arrangements in
+    3/06    . Limiting the traction current under mechanical
+    3/08    . Means for preventing excessive speed of the vehicle
+    3/10    . Indicating wheel slip {; Correction of wheel slip}
+    3/102   . . {of individual wheels}
+    3/104   . . {by indirect measurement of vehicle speed}
+    3/106   . . {for maintaining or recovering the adhesion of the
+    3/108   . . . {whilst braking, i.e. ABS}
+    3/12    . Recording operating variables {; Monitoring of
+    5/00    Current collectors for power supply lines of
+electrically-propelled vehicles (current collectors in
+    5/005   . {without mechanical contact between the collector
+    5/02    . with ice-removing device
+    5/04    . using rollers or sliding shoes in contact with trolley
+wire (B60L 5/40 takes precedence)
+    5/045   . . {with trolley wire finders}
+    5/06    . . Structure of the rollers or their carrying means
+    5/08    . . Structure of the sliding shoes or their carrying
+    5/085   . . . {with carbon contact members}
+    5/10    . . Devices preventing the collector from jumping
+    5/12    . . Structural features of poles or their bases
+    5/14    . . . Devices for automatic lowering of a jumped-off
+    5/16    . . . Devices for lifting and resetting the collector
+    5/18    . using bow-type collectors in contact with trolley
+    5/19    . . using arrangements for effecting collector
+movement transverse to the direction of vehicle
+    5/20    . . Details of contact bow
+    5/205   . . . {with carbon contact members}
+    5/22    . . Supporting means for the contact bow
+    5/26    . . . Half pantographs, e.g. using counter rocking
+    5/28    . . . Devices for lifting and resetting the collector
+    5/30    . . . . using springs
+    5/32    . . . . using fluid pressure
+    5/34    . with devices to enable one vehicle to pass another
+one using the same power supply line
+    5/36    . with means for collecting current simultaneously
+from more than one conductor, e.g. from more than
+    5/38    . for collecting current from conductor rails
+    5/39    . . from third rail
+    5/40    . for collecting current from lines in slotted conduits
+    5/42    . for collecting current from individual contact pieces
+connected to the power supply line
+    7/00    Electrodynamic brake systems for vehicles in
+    7/003   . {Dynamic electric braking by short circuiting the
+    7/006   . {Dynamic electric braking by reversing current, i.e.
+    7/02    . Dynamic electric resistor braking (B60L 7/22 takes
+    7/04    . . for vehicles propelled by dc motors
+    7/06    . . for vehicles propelled by ac motors
+    7/08    . . Controlling the braking effect (B60L 7/04,
+    7/10    . Dynamic electric regenerative braking (B60L 7/22
+    7/12    . . for vehicles propelled by dc motors
+    7/14    . . for vehicles propelled by ac motors
+    7/16    . . for vehicles comprising converters between the
+    7/18    . . Controlling the braking effect (B60L 7/12,
+B60L 7/14, B60L 7/16 take precedence)
+    7/20    . Braking by supplying regenerated power to the
+prime mover of vehicles comprising engine-driven
+    7/22    . Dynamic electric resistor braking, combined with
+dynamic electric regenerative braking
+    7/24    . with additional mechanical or electromagnetic
+    7/26    . . Controlling the braking effect
+    7/28    . Eddy-current braking
+    8/00    Electric propulsion with power supply from forces
+    8/003   . {Converting light into electric energy, e.g. by using
+    8/006   . {Converting flow of air into electric energy, e.g. by
+    9/00    Electric propulsion with power supply external to
+the vehicle (electric propulsion for monorail vehicles,
+suspension vehicles or rack railways B60L 13/00;
+in combination with batteries or fuel cells within the
+    9/005   . {Interference suppression}
+    9/04    . . fed from dc supply lines
+    9/06    . . . with conversion by metadyne
+    9/08    . . fed from ac supply lines
+    9/10    . . . with rotary converters
+    9/12    . . . with static converters
+    9/14    . . fed from different kinds of power-supply lines
+    9/16    . using ac induction motors
+    9/18    . . fed from dc supply lines
+    9/20    . . . single-phase motors
+    9/22    . . . polyphase motors
+    9/24    . . fed from ac supply lines
+    9/26    . . . single-phase motors
+    9/28    . . . polyphase motors
+    9/30    . . fed from different kinds of power-supply lines
+    9/32    . using ac brush displacement motors
+   13/00    Electric propulsion for monorail vehicles,
+suspension vehicles or rack railways; Magnetic
+suspension or levitation for vehicles ({tracks for
+Maglev-type trains E01B 25/30;} electromagnets per
+se H01F 7/06; linear motors per se H02K 41/00)
+   13/003   . {Crossings; Points}
+   13/006   . {Electric propulsion adapted for monorail vehicles,
+suspension vehicles or rack railways (B60L 13/03
+   13/03    . Electric propulsion by linear motors
+   13/035   . . {Suspension of the vehicle-borne motorparts}
+   13/04    . Magnetic suspension or levitation for vehicles
+   13/06    . . Means to sense or control vehicle position or
+attitude with respect to railway
+   13/08    . . . for the lateral position
+   13/10    . Combination of electric propulsion and magnetic
+   15/00    Methods, circuits, or devices for controlling the
+traction-motor speed of electrically-propelled
+   15/002   . {for control of propulsion for monorail vehicles,
+suspension vehicles or rack railways; for control of
+magnetic suspension or levitation for vehicles for
+   15/005   . . {for control of propulsion for vehicles propelled
+   15/007   . {Physical arrangements or structures of drive train
+converters specially adapted for the propulsion
+   15/02    . characterised by the form of the current used in the
+   15/025   . . {using field orientation; Vector control; Direct
+   15/06    . . using substantially sinusoidal ac
+   15/10    . for automatic control superimposed on human
+control to limit the acceleration of the vehicle, e.g.
+to prevent excessive motor current (electric devices
+   15/12    . . with circuits controlled by relays or contactors
+   15/14    . . with main controller driven by a servomotor
+   15/16    . . with main controller driven through a ratchet
+mechanism (B60L 15/18 takes precedence)
+   15/18    . . without contact making and breaking, e.g. using a
+   15/20    . for control of the vehicle or its driving motor to
+achieve a desired performance, e.g. speed, torque,
+   15/2018  . . . {for braking on a slope}
+   15/2027  . . . . {whilst maintaining constant speed}
+   15/2036  . . {Electric differentials, e.g. for supporting steering
+   15/2045  . . {for optimising the use of energy}
+   15/2054  . . {by controlling transmissions or clutches}
+   15/2072  . . {for drive off}
+   15/2081  . . . {for drive off on a slope}
+   15/209   . . {for overtaking}
+   15/22    . . with sequential operation of interdependent
+switches, e.g. relays, contactors, programme drum
+   15/24    . . with main controller driven by a servomotor
+   15/26    . . with main controller driven through a ratchet
+mechanism (B60L 15/28 takes precedence)
+   15/28    . . without contact making and breaking, e.g. using a
+   15/30    . . with means to change over to human control
+   15/32    . Control or regulation of multiple-unit electrically-
+   15/34    . . with human control of a setting device
+   15/36    . . . with automatic control superimposed, e.g. to
+prevent excessive motor current
+   15/38    . . with automatic control
+   15/40    . Adaptation of control equipment on vehicle for
+remote actuation from a stationary place (devices
+along the route for controlling devices on rail
+vehicles B61L 3/00; central rail-traffic control
+   15/42    . Adaptation of control equipment on vehicle for
+actuation from alternative parts of the vehicle or
+from alternative vehicles of the same vehicle train
+   50/00    Electric propulsion with power supplied within
+the vehicle (with power supply from force of nature,
+e.g. sun or wind, B60L 8/00; for monorail vehicles,
+suspension vehicles or rack railways B60L 13/00)
+   50/10    . using propulsion power supplied by engine-driven
+generators, e.g. generators driven by combustion
+   50/11    . . using DC generators and DC motors
+   50/12    . . using AC generators and DC motors
+   50/13    . . using AC generators and AC motors
+   50/14    . . using DC generators and AC motors
+   50/15    . . with additional electric power supply (with
+capacitors charged by engine-driven generators
+B60L 50/40; with batteries charged by engine-
+   50/16    . . with provision for separate direct mechanical
+   50/20    . using propulsion power generated by humans or
+   50/30    . using propulsion power stored mechanically, e.g. in
+   50/40    . using propulsion power supplied by capacitors
+   50/50    . using propulsion power supplied by batteries or fuel
+   50/51    . . characterised by AC-motors
+   50/52    . . characterised by DC-motors
+   50/53    . . in combination with an external power supply,
+e.g. from overhead contact lines
+   50/60    . . using power supplied by batteries (in combination
+   50/61    . . . by batteries charged by engine-driven
+generators, e.g. series hybrid electric vehicles
+   50/62    . . . . charged by low-power generators primarily
+intended to support the batteries, e.g. range
+   50/64    . . . Constructional details of batteries specially
+This group covers adaptation of battery
+structures of electric vehicles, e.g.
+integration into control or safety systems,
+crash-resistant casings or vibration-damping
+Group B60L 50/64 is incomplete pending
+reclassification of documents from group
+Groups H01M 50/20 and B60L 50/64
+should be considered in order to perform a
+   50/66    . . . {Arrangements of batteries}
+   50/70    . . using power supplied by fuel cells (in
+combination with batteries B60L 50/75)
+   50/71    . . . Arrangement of fuel cells within vehicles
+specially adapted for electric vehicles
+   50/72    . . . Constructional details of fuel cells specially
+This group covers adaptation of fuel
+cell structures of electric vehicles, e.g.
+integration into control or safety systems,
+crash-resistant casings or vibration-damping
+   50/75    . . using propulsion power supplied by both fuel
+   50/90    . using propulsion power supplied by specific means
+not covered by groups B60L 50/10 - B60L 50/50,
+e.g. by direct conversion of thermal nuclear energy
+   53/00    Methods of charging batteries, specially adapted
+for electric vehicles; Charging stations or on-board
+charging equipment therefor; Exchange of energy
+storage elements in electric vehicles
+   53/10    . characterised by the energy transfer between the
+charging station and the vehicle
+   53/11    . . {DC charging controlled by the charging station,
+   53/12    . . Inductive energy transfer
+   53/122   . . . Circuits or methods for driving the primary
+coil, e.g. supplying electric power to the coil
+   53/124   . . . Detection or removal of foreign bodies
+   53/126   . . . Methods for pairing a vehicle and a charging
+station, e.g. establishing a one-to-one relation
+between a wireless power transmitter and a
+   53/14    . . Conductive energy transfer
+   53/16    . . . Connectors, e.g. plugs or sockets, specially
+adapted for charging electric vehicles
+   53/18    . . . Cables specially adapted for charging electric
+   53/20    . characterised by converters located in the vehicle
+   53/22    . . Constructional details or arrangements of
+charging converters specially adapted for
+   53/24    . . Using the vehicle's propulsion converter for
+   53/30    . Constructional details of charging stations
+   53/302   . . Cooling of charging equipment
+   53/305   . . {Communication interfaces}
+   53/31    . . Charging columns specially adapted for electric
+   53/32    . . {by charging in short intervals along the itinerary,
+   53/34    . . Plug-like or socket-like devices specially adapted
+for contactless inductive charging of electric
+vehicles (positioning means for charging devices
+using inductive energy transfer B60L 53/38)
+   53/35    . . Means for automatic or assisted adjustment of the
+relative position of charging devices and vehicles
+   53/36    . . . by positioning the vehicle
+   53/37    . . . using optical position determination, e.g. using
+   53/38    . . . specially adapted for charging by inductive
+   53/39    . . . . with position-responsive activation of
+   53/50    . Charging stations characterised by energy-storage or
+   53/51    . . Photovoltaic means
+   53/52    . . Wind-driven generators
+   53/56    . . Mechanical storage means, e.g. fly wheels
+   53/57    . . Charging stations without connection to power
+   53/60    . Monitoring or controlling charging stations
+   53/62    . . in response to charging parameters, e.g. current,
+   53/63    . . in response to network capacity
+   53/64    . . Optimising energy costs, e.g. responding to
+   53/65    . . involving identification of vehicles or their
+   53/66    . . Data transfer between charging stations and
+   53/665   . . . {Methods related to measuring, billing or
+   53/67    . . Controlling two or more charging stations
+   53/68    . . Off-site monitoring or control, e.g. remote control
+   53/80    . Exchanging energy storage elements, e.g.
+   55/00    Arrangements for supplying energy stored within
+a vehicle to a power network, i.e. vehicle-to-grid
+   58/00    Methods or circuit arrangements for monitoring
+or controlling batteries or fuel cells, specially
+This group covers the monitoring of the operating
+state of batteries or fuel cells in combination
+with controlling the propulsion in response to the
+detected variables of the state.
+   58/10    . for monitoring or controlling batteries
+   58/12    . . responding to state of charge [SoC]
+   58/13    . . . Maintaining the SoC within a determined range
+   58/14    . . . Preventing excessive discharging
+   58/15    . . . Preventing overcharging
+   58/16    . . responding to battery ageing, e.g. to the number
+of charging cycles or the state of health [SoH]
+   58/18    . . of two or more battery modules
+   58/19    . . . Switching between serial connection and
+parallel connection of battery modules
+   58/20    . . . having different nominal voltages
+   58/21    . . . having the same nominal voltage
+   58/22    . . . Balancing the charge of battery modules
+   58/24    . . for controlling the temperature of batteries
+   58/25    . . . by controlling the electric load
+   58/30    . for monitoring or controlling fuel cells
+   58/31    . . for starting of fuel cells
+   58/32    . . for controlling the temperature of fuel cells, e.g.
+by controlling the electric load
+   58/40    . for controlling a combination of batteries and fuel
+ 2200/14    . Vehicles with one wheel only
+ 2200/16    . Single-axle vehicles
+ 2200/20    . Vehicles specially adapted for children, e.g. toy
+ 2200/22    . Microcars, e.g. golf cars
+ 2200/24    . Personal mobility vehicles
+ 2200/32    . Waterborne vessels
+ 2200/36    . Vehicles designed to transport cargo, e.g. trucks
+ 2200/42    . . Fork lift trucks
+ 2200/44    . . Industrial trucks or floor conveyors
+ 2200/46    . Vehicles with auxiliary ad-on propulsions, e.g. add-
+on electric motor kits for bicycles
+ 2210/10    . DC to DC converters
+ 2210/12    . . Buck converters
+ 2210/14    . . Boost converters
+ 2210/20    . AC to AC converters
+ 2210/22    . . without intermediate conversion to DC
+ 2210/30    . AC to DC converters
+ 2210/40    . DC to AC converters
+ 2210/42    . . Voltage source inverters
+ 2210/44    . . Current source inverters
+ 2210/46    . . with more than three phases
+ 2220/00    Electrical machine types; Structures or
+ 2220/10    . Electrical machine types
+ 2220/12    . . Induction machines
+ 2220/14    . . Synchronous machines
+ 2220/16    . . DC brushless machines
+ 2220/18    . . Reluctance machines
+ 2220/20    . . DC electrical machines
+ 2220/30    . . Universal machines
+ 2220/40    . Electrical machine applications
+ 2220/42    . . with use of more than one motor
+ 2220/44    . . Wheel Hub motors, i.e. integrated in the wheel
+ 2220/46    . . Wheel motors, i.e. motor connected to only one
+ 2220/50    . Structural details of electrical machines
+ 2220/54    . . Windings for different functions
+ 2220/56    . . with switched windings
+ 2220/58    . . with more than three phases
+ 2240/00    Control parameters of input or output; Target
+ 2240/10    . Vehicle control parameters
+ 2240/30    . . Parking brake position
+ 2240/32    . . Driving direction
+ 2240/34    . . Cabin temperature
+ 2240/36    . . Temperature of vehicle components or parts
+ 2240/40    . Drive Train control parameters
+ 2240/42    . . related to electric machines
+ 2240/44    . . related to combustion engines
+ 2240/46    . . related to wheels
+ 2240/48    . . related to transmissions
+ 2240/486   . . . Operating parameters
+ 2240/50    . . related to clutches
+ 2240/507   . . . Operating parameters
+ 2240/52    . . related to converters
+ 2240/525   . . . Temperature of converter or components
+ 2240/526   . . . Operating parameters
+ 2240/54    . . related to batteries
+ 2240/62    . . Vehicle position
+ 2240/622   . . . by satellite navigation
+ 2240/64    . . Road conditions
+ 2240/642   . . . Slope of road
+ 2240/647   . . . Surface situation of road, e.g. type of paving
+ 2240/66    . . Ambient conditions
+ 2240/665   . . . Light intensity
+ 2240/667   . . . Precipitation
+ 2240/70    . Interactions with external data bases, e.g. traffic
+ 2240/72    . . Charging station selection relying on external
+ 2250/00    Driver interactions
+ 2250/12    . by confirmation, e.g. of the input
+ 2250/14    . by input of vehicle departure time
+ 2250/18    . by enquiring driving style
+ 2250/20    . by driver identification
+ 2250/22    . by presence detection
+ 2250/24    . by lever actuation
+ 2250/26    . by pedal actuation
+ 2250/28    . . Accelerator pedal thresholds
+ 2260/10    . Temporary overload
+ 2260/12    . . of combustion engines
+ 2260/14    . . of transmissions
+ 2260/16    . . of electrical drive trains
+ 2260/162   . . . of electrical cells or capacitors
+ 2260/165   . . . of converters
+ 2260/167   . . . of motors or generators
+ 2260/20    . Drive modes; Transition between modes
+ 2260/22    . . Standstill, e.g. zero speed
+ 2260/26    . . Transition between different drive modes
+ 2260/28    . . Four wheel or all wheel drive
+ 2260/30    . . Engine braking emulation
+ 2260/32    . . Auto pilot mode
+ 2260/34    . . Stabilising upright position of vehicles, e.g. of
+ 2260/42    . . by adaptive correction
+ 2260/44    . . by parameter estimation
+ 2260/46    . . by self learning
+ 2260/50    . . by future state prediction
+ 2260/52    . . . drive range estimation, e.g. of estimation of
+ 2260/54    . . . Energy consumption estimation
+ 2260/56    . . . Temperature prediction, e.g. for pre-cooling
+ 2260/58    . . . Departure time prediction
+ 2270/00    Problem solutions or means not otherwise
+ 2270/10    . Emission reduction
+ 2270/145   . . . Structure borne vibrations
+ 2270/147   . . . electro magnetic [EMI]
+ 2270/20    . Inrush current reduction, i.e. avoiding high currents
+ 2270/30    . Preventing theft during charging
+ 2270/40    . related to technical updates when adding new parts
+ 2270/42    . Means to improve acoustic vehicle detection by
+ 2270/44    . Heat storages, e.g. for cabin heating
+ 2270/46    . Heat pumps, e.g. for cabin heating

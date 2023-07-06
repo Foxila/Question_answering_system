@@ -1,0 +1,737 @@
+COOPERATIVE PATENT CLASSIFICATION
+MEASUREMENT OF INTENSITY, VELOCITY, SPECTRAL CONTENT,
+POLARISATION, PHASE OR PULSE CHARACTERISTICS OF INFRA-RED, VISIBLE
+OR ULTRA-VIOLET LIGHT; COLORIMETRY; RADIATION PYROMETRY (light
+sources F21, H01J, H01K, H05B; investigating properties of materials by optical means G01N)
+1. This subclass covers the detection of the presence or absence of infra-red, visible, or ultra-violet light, not otherwise provided
+2. Attention is drawn to the Notes following the title of class G01.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Photometry, e.g. photographic exposure meter
+(spectrophotometry G01J 3/00; specially adapted for
+radiation pyrometry G01J 5/00 {; exposure meters
+    1/0204  . . {Compact construction}
+    1/0214  . . {Constructional arrangements for removing stray
+    1/0219  . . {Electrical interface; User interface}
+    1/0223  . . {Sample holders for photometry}
+    1/0228  . . {Control of working procedures; Failure
+detection; Spectral bandwidth calculation}
+    1/0238  . . {making use of sensor-related data, e.g. for
+identification of sensor or optical parts}
+    1/0242  . . {Control or determination of height or
+angle information of sensors or receivers;
+    1/0247  . . {using a charging unit}
+    1/0252  . . {Constructional arrangements for compensating
+for fluctuations caused by, e.g. temperature, or
+using cooling or temperature stabilization of parts
+of the device; Controlling the atmosphere inside
+a photometer; Purge systems, cleaning devices
+(protection against electromagnetic interferences
+ 2001/0261  . . . {Pocket size; Card size}
+    1/0266  . . {Field-of-view determination; Aiming or pointing
+of a photometer; Adjusting alignment; Encoding
+angular position; Size of the measurement area;
+Position tracking; Photodetection involving
+different fields of view for a single detector}
+    1/0271  . . {Housings; Attachments or accessories for
+ 2001/028   . . . {against liquid}
+ 2001/0285  . . . {against laser damage}
+    1/029   . . {Multi-channel photometry}
+    1/0295  . . {Constructional arrangements for removing
+other types of optical noise or for performing
+    1/04    . . Optical or mechanical part {supplementary
+    1/0403  . . . {Mechanical elements; Supports for optical
+elements; Scanning arrangements}
+    1/0407  . . . {Optical elements not provided otherwise, e.g.
+manifolds, windows, holograms, gratings}
+    1/0411  . . . . {using focussing or collimating elements, i.e.
+lenses or mirrors; Aberration correction}
+    1/0414  . . . . {using plane or convex mirrors, parallel
+phase plates, or plane beam-splitters}
+    1/0418  . . . . {using attenuators}
+    1/0422  . . . . {using light concentrators, collectors or
+    1/0425  . . . . {using optical fibers}
+    1/0429  . . . . {using polarisation elements}
+    1/0433  . . . . {using notch filters}
+    1/0437  . . . . {using masks, aperture plates, spatial light
+modulators, spatial filters, e.g. reflective
+    1/044   . . . . {using shutters}
+    1/0444  . . . . {using means for replacing an element by
+another, e.g. for replacing a filter or grating}
+    1/0448  . . . . {Adjustable, e.g. focussing}
+    1/0451  . . . . {using means for illuminating a slit
+efficiently, e.g. entrance slit of a photometer
+    1/0455  . . . . {having a throughhole enabling the optical
+element to fulfil an additional optical
+function, e.g. a mirror or grating having a
+through-hole for a light collecting or light
+    1/0459  . . . . {using an optical amplifier of light or
+coatings to improve optical coupling}
+    1/0462  . . . . {Slit arrangements}
+    1/0466  . . . . {with a sighting port}
+    1/047   . . . . {using extension/expansion of solids or
+fluids, change of resonant frequency or
+    1/0474  . . . . {Diffusers (cavities G01J 2001/0481)}
+    1/0477  . . . . {Prisms, wedges}
+ 2001/0481  . . . {Preset integrating sphere or cavity}
+ 2001/0485  . . . {Cosinus correcting or purposely modifying the
+angular response of a light sensor}
+    1/0488  . . . {with spectral filtering}
+    1/0492  . . . . {using at least two different filters}
+ 2001/0496  . . . . {using fiber Bragg gratings}
+    1/06    . . . Restricting the angle of incident light
+ 2001/062   . . . . {by fibre-optic packed bundle}
+ 2001/063   . . . . {with selectable field of view}
+ 2001/065   . . . . . {by changing elements}
+ 2001/066   . . . . . {with an aiming optical device}
+ 2001/067   . . . . {for angle scan}
+ 2001/068   . . . . . {by diaphragm or the like}
+    1/08    . . Arrangements of light sources specially adapted
+for photometry {standard sources, also using
+luminescent or radioactive material}
+ 2001/083   . . . {Testing response of detector}
+ 2001/086   . . . {Calibrating drift correction}
+    1/10    . by comparison with reference light or electric value
+    1/12    . . using wholly visual means (G01J 1/20 takes
+    1/122   . . . {Visual exposure meters for determining the
+exposure time in photographical recording or
+    1/124   . . . . {based on the comparison of the intensity of
+measured light with a comparison source or
+comparison illuminated surface}
+    1/126   . . . . . {for enlarging apparatus}
+    1/128   . . . . . {for copy- or printing apparatus}
+    1/14    . . . using comparison with a surface of graded
+brightness, {(e.g. for view taking; for analytical
+    1/16    . . using electric radiation detectors (G01J 1/20 takes
+ 2001/1605  . . . {Null method}
+ 2001/161   . . . {Ratio method, i.e. Im/Ir}
+ 2001/1615  . . . . {Computing a difference/sum ratio, i.e. (Im -
+ 2001/1621  . . . . {Comparing a duty ratio of pulses}
+    1/1626  . . . {Arrangements with two photodetectors, the
+ 2001/1631  . . . . {Bridge circuit}
+ 2001/1636  . . . . {one detector directly monitoring the source,
+e.g. also impulse time controlling}
+ 2001/1642  . . . . . {and acting on the detecting circuit}
+ 2001/1647  . . . . {one signal maintained constant}
+ 2001/1652  . . . . {one detector being transparent before the
+ 2001/1657  . . . . {one signal being spectrally modified, e.g.
+ 2001/1663  . . . . {two detectors of different sensitivity}
+ 2001/1668  . . . {the measuring signal itself varying in time,
+e.g. periodic, for example blood pulsation}
+ 2001/1673  . . . {using a reference sample}
+ 2001/1678  . . . {Comparing time separated signals, i.e.
+ 2001/1684  . . . . {and selecting also a DC level from the
+ 2001/1689  . . . . {one separated signal being processed
+ 2001/1694  . . . . {with a signal from on/off switched light
+    1/18    . . . using comparison with a reference electric
+ 2001/182   . . . . {with SH sample and hold circuits}
+ 2001/184   . . . . . {on a succession of signals}
+ 2001/186   . . . . {Comparison or correction from an electric
+source within the processing circuit}
+ 2001/188   . . . . . {on pulse train}
+    1/20    . . intensity of the measured or reference value being
+varied to equalise their effects at the detectors,
+e.g. by varying incidence angle
+    1/22    . . . using a variable element in the light-path,
+e.g. filter, polarising means (G01J 1/34 takes
+    1/24    . . . . using electric radiation detectors
+ 2001/242   . . . . . {Filter wheel, i.e. absorption filter series
+ 2001/245   . . . . . {with two or more separate attenuated
+ 2001/247   . . . . . {of spectral wedge type}
+    1/26    . . . . . adapted for automatic variation of the
+measured or reference value (regulation of
+    1/28    . . . using variation of intensity or distance of
+source (G01J 1/34 takes precedence)
+    1/30    . . . . using electric radiation detectors
+    1/32    . . . . . adapted for automatic variation of the
+measured or reference value (regulation of
+    1/34    . . . using separate light paths used alternately or
+    1/36    . . . . using electric radiation detectors
+ 2001/363   . . . . . {Chopper stabilisation}
+ 2001/366   . . . . . {Balancing two paths}
+    1/38    . using wholly visual means (G01J 1/10 takes
+    1/40    . . using limit or visibility or extinction effect
+    1/42    . using electric radiation detectors (optical or
+mechanical part G01J 1/04; by comparison with a
+reference light or electric value G01J 1/10)
+    1/4204  . . {with determination of ambient light (solar light
+    1/4209  . . {Photoelectric exposure meters for determining
+the exposure time in recording or reproducing}
+    1/4214  . . . {specially adapted for view-taking apparatus}
+    1/4219  . . . {specially adapted for enlargers}
+    1/4223  . . . {specially adapted for copy - or printing
+    1/4228  . . {arrangements with two or more detectors, e.g.
+ 2001/4233  . . . {with selection of detector}
+ 2001/4242  . . {Modulated light, e.g. for synchronizing source
+ 2001/4247  . . {for testing lamps or other light sources}
+ 2001/4252  . . . {for testing LED's}
+    1/4257  . . {applied to monitoring the characteristics
+of a beam, e.g. laser beam, headlamp beam
+(monitoring arrangements for lasers in general
+ 2001/4261  . . . {Scan through beam in order to obtain a cross-
+ 2001/4266  . . {for measuring solar light}
+ 2001/4271  . . . {Pyrrheliometer}
+ 2001/4276  . . . {Solar energy integrator over time}
+ 2001/428   . . . {for sunlight scattered by atmosphere}
+ 2001/4285  . . . {Pyranometer, i.e. integrating over space}
+    1/429   . . {applied to measurement of ultraviolet light
+ 2001/4295  . . {using a physical effect not covered by other
+    1/44    . . Electric circuits {(for command of an exposure
+ 2001/4406  . . . {Plural ranges in circuit, e.g. switchable ranges;
+Adjusting sensitivity selecting gain values}
+ 2001/442   . . . . {Single-photon detection or photon
+ 2001/4426  . . . . {with intensity to frequency or voltage to
+frequency conversion [IFC or VFC]}
+ 2001/4433  . . . . {Peak sensing}
+ 2001/444   . . . {Compensating; Calibrating, e.g. dark current,
+temperature drift, noise reduction or baseline
+ 2001/4446  . . . {Type of detector}
+ 2001/446   . . . . {Photodiode}
+ 2001/4466  . . . . . {Avalanche}
+ 2001/4473  . . . . {Phototransistor}
+ 2001/448   . . . . {Array [CCD]}
+ 2001/4486  . . . . {Streak tube}
+ 2001/4493  . . . . {with image intensifyer tube [IIT]}
+    1/46    . . . using a capacitor
+    1/48    . using chemical effects
+    1/50    . . using change in colour of an indicator, e.g.
+    1/52    . . using photographic effects
+    1/54    . . by observing photo-reactions between gases
+    1/56    . using radiation pressure or radiometer effect
+    1/58    . using luminescence generated by light
+    1/60    . by measuring the pupil of the eye
+    3/00    Spectrometry; Spectrophotometry;
+Monochromators; Measuring colours
+ 2003/003   . {Comparing spectra of two light sources}
+ 2003/006   . {Fundamentals or review articles}
+    3/0202  . . {Mechanical elements; Supports for optical
+    3/0205  . . {Optical elements not provided otherwise, e.g.
+optical manifolds, diffusers, windows}
+    3/0208  . . . {using focussing or collimating elements,
+e.g. lenses or mirrors; performing aberration
+    3/021   . . . {using plane or convex mirrors, parallel phase
+plates, or particular reflectors}
+    3/0213  . . . {using attenuators}
+    3/0216  . . . {using light concentrators or collectors or
+    3/0218  . . . {using optical fibers}
+    3/0221  . . . . {the fibers defining an entry slit}
+    3/0224  . . . {using polarising or depolarising elements}
+    3/0227  . . . {using notch filters}
+    3/0229  . . . {using masks, aperture plates, spatial light
+modulators or spatial filters, e.g. reflective
+    3/0232  . . . {using shutters}
+    3/0235  . . . {using means for replacing an element by
+another, for replacing a filter or a grating}
+    3/0237  . . . {Adjustable, e.g. focussing}
+    3/024   . . . {using means for illuminating a slit efficiently
+(e.g. entrance slit of a spectrometer or entrance
+    3/0243  . . . {having a through-hole enabling the optical
+element to fulfil an additional optical function,
+e.g. a mirror or grating having a throughhole
+for a light collecting or light injecting optical
+    3/0245  . . . {using an optical amplifier of light, e.g. doped
+    3/0248  . . . {using a sighting port, e.g. camera or human
+    3/0251  . . . {Colorimeters making use of an integrating
+    3/0254  . . . {Spectrometers, other than colorimeters,
+making use of an integrating sphere}
+    3/0256  . . {Compact construction}
+    3/0262  . . {Constructional arrangements for removing stray
+    3/0264  . . {Electrical interface; User interface}
+    3/0267  . . {Sample holders for colorimetry}
+    3/027   . . {Control of working procedures of a
+spectrometer; Failure detection; Bandwidth
+    3/0275  . . {making use of sensor-related data, e.g. for
+identification of sensor parts or optical elements}
+    3/0278  . . {Control or determination of height or angle
+information for sensors or receivers}
+    3/0283  . . {using a charging unit}
+    3/0286  . . {Constructional arrangements for compensating
+for fluctuations caused by temperature, humidity
+or pressure, or using cooling or temperature
+stabilization of parts of the device; Controlling
+the atmosphere inside a spectrometer, e.g.
+    3/0289  . . {Field-of-view determination; Aiming or pointing
+of a spectrometer; Adjusting alignment; Encoding
+angular position; Size of measurement area;
+    3/0291  . . {Housings; Spectrometer accessories; Spatial
+arrangement of elements, e.g. folded path
+    3/0294  . . {Multi-channel spectroscopy}
+    3/0297  . . {Constructional arrangements for removing
+other types of optical noise or for performing
+    3/04    . . Slit arrangements {slit adjustment}
+ 2003/045   . . . {Sequential slits; Multiple slits}
+ 2003/047   . . . {Configuration of two or more entry or exit
+slits for predetermined delta-lambda}
+    3/06    . . Scanning arrangements {arrangements for order-
+ 2003/061   . . . {Mechanisms, e.g. sine bar}
+ 2003/062   . . . {motor-driven}
+ 2003/063   . . . . {Step motor}
+ 2003/064   . . . {Use of other elements for scan, e.g. mirror,
+ 2003/065   . . . . {Use of fibre scan for spectral scan}
+ 2003/066   . . . {Microprocessor control of functions, e.g. slit,
+ 2003/067   . . . {Use of plane parallel plate, e.g. small scan,
+ 2003/068   . . . {tuned to preselected wavelengths}
+ 2003/069   . . . {Complex motion, e.g. rotation of grating and
+    3/08    . . Beam switching arrangements
+    3/10    . . Arrangements of light sources specially adapted
+for spectrometry or colorimetry
+ 2003/102   . . . {Plural sources}
+ 2003/104   . . . . {Monochromatic plural sources}
+ 2003/106   . . . . {the two sources being alternating
+or selectable, e.g. in two ranges or
+    3/108   . . . {for measurement in the infra-red range}
+    3/12    . Generating the spectrum; Monochromators
+ 2003/1204  . . {Grating and filter}
+ 2003/1208  . . {Prism and grating}
+ 2003/1213  . . {Filters in general, e.g. dichroic, band}
+ 2003/1217  . . . {Indexed discrete filters or choppers}
+ 2003/1221  . . . {Mounting; Adjustment}
+ 2003/1226  . . {Interference filters}
+ 2003/123   . . . {Indexed discrete filters}
+ 2003/1234  . . . {Continuously variable IF [CVIF]; Wedge
+ 2003/1239  . . . {and separate detectors}
+ 2003/1243  . . . {Pivoting IF or other position variation}
+ 2003/1252  . . . {Using "resonance cell", e.g. Na vapor}
+    3/1256  . . {using acousto-optic tunable filter; (acousto-optic
+elements or systems G02F 1/11, G02F 1/33)}
+ 2003/126   . . {Focal isolation type}
+ 2003/1265  . . {the wavelengths being separated in time, e.g.
+ 2003/1269  . . {Electrooptic filter}
+ 2003/1273  . . {Order selection}
+ 2003/1278  . . {Mask with spectral selection}
+ 2003/1282  . . {Spectrum tailoring}
+ 2003/1286  . . {Polychromator in general}
+ 2003/1291  . . {polarised, birefringent}
+ 2003/1295  . . {Plural entry slits, e.g. for different incidences}
+    3/14    . . using refracting elements, e.g. prisms (G01J 3/18,
+G01J 3/26 take precedence {prisms per se
+ 2003/145   . . . {Prism systems for straight view}
+    3/16    . . . with autocollimation
+    3/18    . . using diffraction elements, e.g. grating (gratings
+    3/1804  . . . {Plane gratings}
+    3/1809  . . . {Echelle gratings}
+ 2003/1814  . . . {Double monochromator}
+ 2003/1819  . . . . {Double pass monochromator}
+ 2003/1823  . . . . {substractive}
+ 2003/1828  . . . {with order sorter or prefilter}
+    3/1833  . . . {Grazing incidence}
+    3/1838  . . . {Holographic gratings}
+ 2003/1842  . . . {Types of grating}
+ 2003/1847  . . . . {Variable spacing}
+ 2003/1852  . . . . {Cylindric surface}
+ 2003/1857  . . . . {Toroid surface}
+ 2003/1861  . . . . {Transmission gratings}
+ 2003/1866  . . . {Monochromator for three or more
+ 2003/1871  . . . . {Duochromator}
+ 2003/1876  . . . . {Polychromator}
+ 2003/188   . . . {Constant deviation}
+ 2003/1885  . . . {Holder for interchangeable gratings, e.g. at
+different ranges of wavelengths}
+    3/189   . . . {using at least one grating in an off-plane
+    3/1895  . . . {using fiber Bragg gratings or gratings
+    3/20    . . . Rowland circle spectrometers
+    3/22    . . . Littrow mirror spectrometers
+    3/24    . . . using gratings profiled to favour a specific
+    3/26    . . using multiple reflection, e.g. Fabry-Perot
+interferometer, variable interference filters
+ 2003/262   . . . {Double pass; Multiple pass}
+ 2003/265   . . . {Read out, e.g. polychromator}
+ 2003/267   . . . {of the SISAM type}
+    3/28    . Investigating the spectrum (using colour filters
+    3/2803  . . {using photoelectric array detector}
+ 2003/2806  . . . {Array and filter array}
+ 2003/2809  . . . . {Array and correcting filter}
+ 2003/2816  . . . {Semiconductor laminate layer}
+ 2003/282   . . . {Modified CCD or like}
+    3/2823  . . {Imaging spectrometer}
+ 2003/2826  . . . {Multispectral imaging, e.g. filter imaging}
+ 2003/283   . . {computer-interfaced}
+ 2003/2833  . . . {and memorised spectra collection}
+ 2003/2836  . . . {Programming unit, i.e. source and date
+ 2003/284   . . . {Spectral construction}
+ 2003/2843  . . . {Processing for eliminating interfering spectra}
+    3/2846  . . {using modulation grid; Grid spectrometers}
+ 2003/285   . . . {Hadamard transformation}
+ 2003/2853  . . {Averaging successive scans or readings}
+ 2003/2856  . . . {and calculation of standard deviation}
+ 2003/2859  . . {Peak detecting in spectrum}
+ 2003/2863  . . . {and calculating peak area}
+ 2003/2866  . . {Markers; Calibrating of scan}
+ 2003/2869  . . . {Background correcting}
+ 2003/2873  . . . {Storing reference spectrum}
+ 2003/2876  . . . {Correcting linearity of signal}
+ 2003/2879  . . . {Calibrating scan, e.g. Fabry Perot
+ 2003/2883  . . . {Correcting overlapping}
+ 2003/2886  . . {Investigating periodic spectrum}
+    3/2889  . . {Rapid scan spectrometers; Time resolved
+ 2003/2893  . . . {with rotating grating}
+ 2003/2896  . . {Vidicon, image intensifier tube}
+    3/30    . . Measuring the intensity of spectral lines directly
+on the spectrum itself (G01J 3/42, G01J 3/44 take
+    3/32    . . . Investigating bands of a spectrum in sequence
+ 2003/323   . . . . {Comparing line:background}
+ 2003/326   . . . . {Scanning mask, plate, chopper, e.g. small
+    3/36    . . . Investigating two or more bands of a spectrum
+    3/40    . . Measuring the intensity of spectral lines by
+determining density of a photograph of the
+spectrum; Spectrography (G01J 3/42, G01J 3/44
+    3/42    . . Absorption spectrometry; Double beam
+spectrometry; Flicker spectrometry; Reflection
+spectrometry (beam switching arrangements
+ 2003/421   . . . {Single beam}
+ 2003/423   . . . {Spectral arrangements using lasers, e.g.
+ 2003/425   . . . {Reflectance}
+    3/427   . . . Dual wavelengths spectrometry
+ 2003/4275  . . . . {Polarised dual wavelength spectrometry}
+    3/433   . . . Modulation spectrometry; Derivative
+ 2003/4332  . . . . {frequency-modulated}
+ 2003/4334  . . . . {by modulation of source, e.g. current
+ 2003/4336  . . . . {by magnetic modulation, e.g. Zeeman
+    3/4338  . . . . {Frequency modulated spectrometry}
+    3/44    . . Raman spectrometry; Scattering spectrometry {;
+    3/4406  . . . {Fluorescence spectrometry}
+    3/4412  . . . {Scattering spectrometry (particle sizing
+by light scattering G01N 15/0205; optical
+velocimetry of particles G01P 5/20,
+ 2003/4418  . . . . {Power spectrum}
+ 2003/4424  . . . {Fluorescence correction for Raman
+    3/443   . . Emission spectrometry
+ 2003/4435  . . . {Measuring ratio of two lines, e.g. internal
+    3/447   . . Polarisation spectrometry
+    3/45    . . Interferometric spectrometry
+ 2003/451   . . . {Dispersive interferometric spectrometry}
+ 2003/452   . . . {with recording of image of spectral
+    3/453   . . . by correlation of the amplitudes
+    3/4531  . . . . {Devices without moving parts}
+    3/4532  . . . . {Devices of compact or symmetric
+construction (G01J 3/4531 takes
+ 2003/4534  . . . . {Interferometer on illuminating side}
+    3/4535  . . . . {Devices with moving mirror (G01J 3/4532
+    3/4537  . . . . {Devices with refractive scan}
+ 2003/4538  . . . . {Special processing}
+    3/457   . . Correlation spectrometry, e.g. of the intensity
+    3/46    . Measurement of colour; Colour measuring devices,
+e.g. colorimeters (measuring colour temperature
+    3/461   . . {with colour spinners}
+    3/462   . . {Computing operations in or between colour
+spaces; Colour management systems}
+    3/463   . . {Colour matching}
+    3/465   . . {taking into account the colour perception of the
+eye; using tristimulus detection}
+ 2003/466   . . {Coded colour; Recognition of predetermined
+colour; Determining proximity to predetermined
+ 2003/467   . . {Colour computing}
+ 2003/468   . . {of objects containing fluorescent agent}
+    3/50    . . using electric radiation detectors
+    3/501   . . . {Colorimeters using spectrally-selective light
+    3/502   . . . {using a dispersive element, e.g. grating,
+ 2003/503   . . . {Densitometric colour measurements}
+    3/504   . . . {Goniometric colour measurements, for
+example measurements of metallic or flake
+    3/505   . . . {measuring the colour produced by lighting
+fixtures other than screens, monitors, displays
+    3/506   . . . {measuring the colour produced by screens,
+ 2003/507   . . . {the detectors being physically selective}
+    3/508   . . . {measuring the colour of teeth}
+    3/51    . . . using colour filters
+    3/513   . . . . {having fixed filter-detector pairs}
+ 2003/516   . . . . . {with several stacked filters or stacked
+    3/52    . . using colour charts
+    3/522   . . . {circular colour charts}
+    3/524   . . . {Calibration of colorimeters}
+    3/526   . . . {for choosing a combination of different
+colours, e.g. to produce a pleasing effect for an
+    3/528   . . . . {using colour harmony theory}
+    4/00    Measuring polarisation of light
+    4/02    . Polarimeters of separated-field type; Polarimeters of
+    4/04    . Polarimeters using electric detection means
+    5/00    Radiation pyrometry, e.g. infrared or optical
+Group G01J 5/00 is impacted by reclassification
+Groups G01J 5/00 and G01J 5/90 should be
+considered in order to perform a complete search.
+    5/0003  . {for sensing the radiant heat transfer of samples,
+    5/0007  . . {of wafers or semiconductor substrates, e.g. using
+    5/0011  . . {Ear thermometers (G01J 5/021 and G01J 5/049
+    5/0014  . {for sensing the radiation from gases, flames}
+    5/0018  . . {Flames, plasma or welding}
+    5/0022  . {for sensing the radiation of moving bodies}
+    5/0025  . . {Living bodies (ear thermometers G01J 5/0011;
+detecting, measuring or recording for diagnostic
+    5/0037  . {for sensing the heat emitted by liquids}
+    5/004   . . {by molten metals}
+    5/0044  . {Furnaces, ovens, kilns (G01J 5/0007, G01J 5/004
+    5/0066  . {for hot spots detection}
+    5/007   . {for earth observation}
+ 2005/0074  . {having separate detection of emissivity}
+ 2005/0092  . {Temperature by averaging, e.g. by scan
+    5/0096  . {for measuring wires, electrical contacts or
+    5/02    . Constructional details
+Group G01J 5/02 is impacted by reclassification
+Groups G01J 5/02 and G01J 5/05 should be
+considered in order to perform a complete
+    5/0205  . . {Mechanical elements; Supports for optical
+    5/021   . . {Probe covers for thermometers, e.g. tympanic
+thermometers; Containers for probe covers;
+    5/0215  . . {Compact construction}
+    5/0225  . . {Shape of the cavity itself or of elements
+contained in or suspended over the cavity}
+    5/023   . . . {Particular leg structure or construction or
+    5/0235  . . . {Spacers, e.g. for avoidance of stiction}
+    5/024   . . . {Special manufacturing steps or sacrificial
+    5/0245  . . . {for performing thermal shunt}
+    5/025   . . {Interfacing a pyrometer to an external device or
+    5/0255  . . {Sample holders for pyrometry; Cleaning of
+sample (using a gas purge G01J 5/051)}
+    5/026   . . {Control of working procedures of a pyrometer,
+other than calibration; Bandwidth calculation;
+Group G01J 5/026 is impacted by
+reclassification into group G01J 5/90.
+Groups G01J 5/026 and G01J 5/90 should
+be considered in order to perform a complete
+    5/0265  . . {Handheld, portable (ear thermometers
+    5/027   . . {making use of sensor-related data, e.g. for
+identification of sensor parts or optical elements}
+    5/0275  . . {Control or determination of height or distance or
+angle information for sensors or receivers}
+    5/028   . . {using a charging unit or battery}
+    5/0295  . . {Nulling devices or absolute detection}
+    5/03    . . Arrangements for indicating or recording
+specially adapted for radiation pyrometers
+    5/041   . . . {Mountings in enclosures or in a particular
+    5/042   . . . . {High-temperature environment
+(G01J 5/0007, G01J 5/0044, G01J 5/0088
+and G01J 5/004 take precedence)}
+    5/044   . . . . {Environment with strong vibrations or
+    5/045   . . . . {Sealings; Vacuum enclosures; Encapsulated
+packages; Wafer bonding structures; Getter
+arrangements (getter arrangements per se
+    5/046   . . . {Materials; Selection of thermal materials}
+    5/047   . . . {Mobile mounting; Scanning arrangements}
+    5/048   . . . {Protective parts}
+    5/049   . . . {Casings for tympanic thermometers}
+    5/05    . . Means for preventing contamination of the
+components of the optical system; Means for
+preventing obstruction of the radiation path
+Group G01J 5/05 is incomplete pending
+reclassification of documents from group
+Groups G01J 5/02 and G01J 5/05 should be
+considered in order to perform a complete
+    5/051   . . . {using a gas purge}
+    5/06    . . Arrangements for eliminating effects of
+disturbing radiation; Arrangements for
+compensating changes in sensitivity (for adjusting
+of solid angle of collected radiation G01J 5/07;
+means for wavelength selection G01J 5/0801)
+    5/061   . . . by controlling the temperature of the apparatus
+or parts thereof, e.g. using cooling means or
+ 2005/063   . . . . {Heating; Thermostating}
+    5/064   . . . {Ambient temperature sensor; Housing
+temperature sensor; Constructional details
+Group G01J 5/064 is impacted by
+reclassification into group G01J 5/70.
+Groups G01J 5/064 and G01J 5/70 should
+be considered in order to perform a
+ 2005/065   . . . {by shielding}
+ 2005/066   . . . {Differential arrangement, i.e. sensitive/not
+    5/068   . . . by controlling parameters other than
+    5/07    . . Arrangements for adjusting the solid angle of
+collected radiation, e.g. adjusting or orienting
+field of view, tracking position or encoding
+angular position (optical collimating elements
+    5/08    . . Optical arrangements
+reclassification into groups G01J 5/0801 and
+Groups G01J 5/08, G01J 5/0801, and
+G01J 5/0803 should be considered in order to
+    5/0801  . . . Means for wavelength selection or
+Group G01J 5/0801 is incomplete pending
+reclassification of documents from groups
+Groups G01J 5/08, G01J 5/0803, and
+G01J 5/0801 should be considered in order
+    5/0802  . . . . Optical filters
+    5/08021 . . . . . {Notch filters}
+    5/0803  . . . Arrangements for time-dependent attenuation
+Group G01J 5/0803 is incomplete pending
+reclassification of documents from groups
+Group G01J 5/0803 is also impacted by
+reclassification into groups G01J 5/0801 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+Group G01J 5/0804 is impacted by
+reclassification into group G01J 5/0805.
+Groups G01J 5/0804 and G01J 5/0805
+should be considered in order to perform
+    5/0805  . . . . Means for chopping radiation
+Group G01J 5/0805 is incomplete
+pending reclassification of documents
+Groups G01J 5/0804 and G01J 5/0805
+should be considered in order to perform
+    5/0806  . . . Focusing or collimating elements, e.g. lenses or
+    5/0808  . . . Convex mirrors
+Group G01J 5/0808 is impacted by
+reclassification into groups G01J 5/0813 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+    5/0813  . . . Planar mirrors; Parallel phase plates
+Group G01J 5/0813 is incomplete pending
+reclassification of documents from group
+Groups G01J 5/0808 and G01J 5/0813
+should be considered in order to perform a
+    5/0814  . . . {Particular reflectors, e.g. faceted or dichroic
+Group G01J 5/0814 is incomplete pending
+reclassification of documents from group
+Groups G01J 5/0808 and G01J 5/0814
+should be considered in order to perform a
+    5/0815  . . . {Light concentrators, collectors or condensers}
+    5/0816  . . . {using attenuators}
+Group G01J 5/0816 is impacted by
+reclassification into group G01J 5/0803.
+Groups G01J 5/0816 and G01J 5/0803
+should be considered in order to perform a
+    5/0821  . . . . Optical fibres
+    5/0831  . . . Masks; Aperture plates; Spatial light
+    5/0837  . . . {Microantennas, e.g. bow-tie}
+    5/084   . . . {Adjustable or slidable}
+    5/0843  . . . . {Manually adjustable}
+    5/0846  . . . {having multiple detectors for performing
+different types of detection, e.g. using
+radiometry and reflectometry channels}
+    5/085   . . . {having a through-hole enabling the optical
+elements to fulfil an additional optical function,
+e.g. mirrors or gratings having a through-hole
+for a light collecting or light injecting optical
+    5/0853  . . . {having infrared absorbers other than the usual
+absorber layers deposited on infrared detectors
+like bolometers, wherein the heat propagation
+between the absorber and the detecting element
+    5/0856  . . . {Slit arrangements}
+    5/0859  . . . {Sighting arrangements, e.g. cameras}
+    5/0865  . . . {having means for replacing an element of the
+arrangement by another of the same type, e.g.
+    5/0868  . . . {Means for illuminating a slit or a surface
+efficiently, e.g. entrance slit of a pyrometer or
+    5/0871  . . . {Beam switching arrangements; Photodetection
+involving different fields of view for a single
+    5/0875  . . . Windows; Arrangements for fastening thereof
+    5/0879  . . . {Optical elements not provided otherwise,
+e.g. optical manifolds, holograms, cubic
+beamsplitters, non-dispersive prisms or
+Group G01J 5/0879 is incomplete pending
+reclassification of documents from group
+Groups G01J 5/0803 and G01J 5/0879
+should be considered in order to perform a
+    5/0881  . . . {Compact construction}
+    5/0884  . . . . {Monolithic}
+    5/0887  . . . {Integrating cavities mimicking black bodies,
+wherein the heat propagation between the
+black body and the measuring element does
+not occur within a solid; Use of bodies placed
+inside the fluid stream for measurement
+of the temperature of gases; Use of the
+reemission from a surface, e.g. reflective
+surface; Emissivity enhancement by multiple
+    5/0893  . . . {Arrangements to attach devices to a
+pyrometer, i.e. attaching an optical interface;
+Spatial relative arrangement of optical
+elements, e.g. folded beam path (G01J 5/049
+    5/0896  . . . {using a light source, e.g. for illuminating a
+    5/10    . using electric radiation detectors
+ 2005/103   . . {Absorbing heated plate or film and temperature
+    5/12    . . using thermoelectric elements, e.g. thermocouples
+ 2005/123   . . . {Thermoelectric array}
+ 2005/126   . . . {Thermoelectric black plate and thermocouple}
+    5/14    . . . Electrical features thereof
+    5/16    . . . . Arrangements with respect to the cold
+junction; Compensating influence of ambient
+    5/20    . . using resistors, thermistors or semiconductors
+sensitive to radiation, e.g. photoconductive
+ 2005/204   . . . . {prepared by semiconductor processing, e.g.
+ 2005/208   . . . {superconductive}
+    5/22    . . . Electrical features thereof
+    5/24    . . . . Use of specially adapted circuits, e.g. bridge
+    5/28    . . using photoemissive or photovoltaic cells
+ 2005/286   . . . . {Arrangement of conductor therefor}
+    5/30    . . . Electrical features thereof
+    5/34    . . using capacitors, e.g. pyroelectric capacitors
+reclassification into group G01J 5/35.
+Groups G01J 5/34 and G01J 5/35 should be
+considered in order to perform a complete
+    5/35    . . . Electrical features thereof
+Group G01J 5/35 is incomplete pending
+reclassification of documents from group
+Groups G01J 5/34  and G01J 5/35 should be
+considered in order to perform a complete
+    5/36    . . using ionisation of gases
+    5/38    . using extension or expansion of solids or fluids
+    5/40    . . using bimaterial elements
+    5/42    . . using Golay cells
+    5/44    . . using change of resonant frequency, e.g. of piezo-
+    5/46    . using radiation pressure or radiometer effect
+    5/48    . Thermography; Techniques using wholly visual
+    5/485   . . {Temperature profile}
+    5/52    . using comparison with reference sources, e.g.
+disappearing-filament pyrometer
+ 2005/526   . . {Periodic insertion of emissive surface}
+ 2005/528   . . {Periodic comparison}
+    5/53    . . Reference sources, e.g. standard lamps; Black
+    5/532   . . . {using a reference heater of the emissive
+surface type, e.g. for selectively absorbing
+    5/54    . . Optical arrangements
+    5/56    . . Electrical features thereof
+    5/58    . using absorption; using extinction effect
+ 2005/583   . . {Interferences, i.e. fringe variation with
+    5/59    . using polarisation; Details thereof
+    5/60    . using determination of colour temperature
+    5/601   . . {using spectral scanning}
+    5/602   . . {using selective, monochromatic or bandpass
+ 2005/604   . . . {bandpass filtered}
+    5/605   . . {using visual determination}
+ 2005/607   . . {on two separate detectors}
+ 2005/608   . . {Colour temperature of light sources}
+    5/70    . Passive compensation of pyrometer measurements,
+e.g. using ambient temperature sensing or sensing of
+Group G01J 5/70 is incomplete pending
+reclassification of documents from group
+Groups G01J 5/064 and G01J 5/70 should
+be considered in order to perform a complete
+    5/80    . Calibration (using comparison with reference
+    5/802   . . {by correcting for emissivity}
+    5/804   . . {using atmospheric correction}
+    5/806   . . {by correcting for reflection of the emitter
+    5/808   . . {using linearising circuits}
+    5/90    . Testing, inspecting or checking operation of
+Group G01J 5/90 is incomplete pending
+reclassification of documents from group
+Groups G01J 5/00 and G01J 5/90 should be
+considered in order to perform a complete
+    7/00    Measuring velocity of light
+    9/00    Measuring optical phase difference (devices or
+arrangements for controlling the phase of light beams
+G02F 1/01); Determining degree of coherence;
+Measuring optical wavelength (spectrometry
+ 2009/002   . {Wavefront phase distribution}
+ 2009/006   . {using pulses for physical measurements}
+ 2009/008   . . {using decay time in cavity}
+    9/02    . by interferometric methods (using interferometers
+for measuring optically the linear dimensions of
+ 2009/0203  . . {Phased array of beams}
+ 2009/0207  . . {Double frequency, e.g. Zeeman}
+ 2009/0211  . . {for measuring coherence}
+    9/0215  . . {by shearing interferometric methods}
+ 2009/0219  . . . {using two or more gratings}
+ 2009/0223  . . {Common path interferometry; Point diffraction
+ 2009/023   . . . {of the integrated optical type}
+ 2009/0234  . . {Measurement of the fringe pattern}
+ 2009/0238  . . . {the pattern being processed optically, e.g. by
+    9/0246  . . {Measuring optical wavelength}
+ 2009/0249  . . {with modulation}
+ 2009/0253  . . . {of wavelength}
+ 2009/0257  . . {multiple, e.g. Fabry Perot interferometer}
+ 2009/0265  . . . {with phase modulation}
+ 2009/0269  . . {Microscope type}
+ 2009/0273  . . {Ring interferometer}
+ 2009/0276  . . {Stellar interferometer, e.g. Sagnac}
+ 2009/0288  . . . {Machzehnder}
+ 2009/0292  . . . {Fizeau; Wedge}
+    9/04    . by beating two waves of a same source but of
+different frequency and measuring the phase shift of
+   11/00    Measuring the characteristics of individual optical
+pulses or of optical pulse trains

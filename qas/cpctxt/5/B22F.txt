@@ -1,0 +1,786 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+WORKING METALLIC POWDER; MANUFACTURE OF ARTICLES FROM
+METALLIC POWDER; MAKING METALLIC POWDER (making alloys by powder
+metallurgy C22C); APPARATUS OR DEVICES SPECIALLY ADAPTED FOR
+1. This subclass covers the making of metallic powder only insofar as powder with specific physical characteristics is made.
+2. In this subclass, the term "powder" includes somewhat larger particles which are worked, obtained or behave in a manner
+similar to powder, e.g. fibres.
+3. In this subclass, the expression "metallic powder" covers:
+• powders consisting of metal particles;
+• powders consisting of coated metal particles;
+• powders consisting of metal-coated non-metallic particles;
+• mixtures of powders of the kinds mentioned above;
+• powders of the kinds mentioned above as the main component mixed with or containing non-metallic material, e.g.
+lubricating or binding agents or organic material.
+4. {In this subclass, combination sets (C-Sets) are used. Detailed information about C-Sets construction and the associated
+syntax rules is found in the definitions for B22F.}
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Metallic powder; Treatment of metallic powder,
+e.g. to facilitate working or to improve properties
+Group B22F 1/00 is incomplete pending
+reclassification of documents from group
+Group B22F 1/00 is also impacted by
+reclassification into groups B22F 1/08 and
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+. {Metallic powders per se; Mixtures of metallic
+powders; Metallic powders mixed with a lubricating
+or binding agent (making ferrous alloys using a
+mixture of prealloyed powders C22C 33/0207)}
+Group B22F 1/0003 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups B22F 1/00, B22F 1/08, B22F 1/09
+All groups listed in this Warning should be
+considered in order to perform a complete
+. . {Metallic powder characterised by its shape or
+structure, e.g. fibre structure}
+Group B22F 1/0007 is no longer used
+for the classification of documents as of
+The content of this group is being reclassified
+into groups B22F 1/06, B22F 1/07 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+    1/05    . Metallic powder characterised by the size or surface
+Group B22F 1/05 is impacted by reclassification
+Groups B22F 1/05 and B22F 1/08 should be
+considered in order to perform a complete
+    1/052   . . characterised by a mixture of particles of different
+sizes or by the particle size distribution
+Group B22F 1/052 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/052 and B22F 1/08 should
+be considered in order to perform a complete
+    1/054   . . Nanosized particles
+Group B22F 1/054 is impacted by
+reclassification into groups B22F 1/056 and
+Groups B22F 1/054, B22F 1/056 and
+B22F 1/08 should be considered in order to
+    1/0545  . . . Dispersions or suspensions of nanosized
+Group B22F 1/0545 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/0545 and B22F 1/08
+should be considered in order to perform a
+    1/0547  . . . {Nanofibres or nanotubes}
+Group B22F 1/0547 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/0547 and B22F 1/08
+should be considered in order to perform a
+    1/0549  . . . {Hollow particles, including tubes and shells}
+Group B22F 1/0549 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/0549 and B22F 1/08
+should be considered in order to perform a
+    1/0551  . . . {Flake form nanoparticles}
+Group B22F 1/0551 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/0551 and B22F 1/08
+should be considered in order to perform a
+    1/0553  . . . {Complex form nanoparticles, e.g. prism,
+Group B22F 1/0553 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/0553 and B22F 1/08
+should be considered in order to perform a
+    1/056   . . . {Submicron particles having a size above 100
+Group B22F 1/056 is incomplete pending
+reclassification of documents from group
+Groups B22F 1/054 and B22F 1/056
+should be considered in order to perform a
+    1/06    . Metallic powder characterised by the shape of the
+particles (nanosized particles B22F 1/054)
+Group B22F 1/06 is incomplete pending
+reclassification of documents from group
+Groups B22F 1/0007 and B22F 1/06 should
+be considered in order to perform a complete
+    1/062   . . Fibrous particles
+Group B22F 1/062 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/062 and B22F 1/08 should
+be considered in order to perform a complete
+    1/065   . . Spherical particles
+Group B22F 1/065 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/065 and B22F 1/08 should
+be considered in order to perform a complete
+    1/0655  . . . Hollow particles
+Group B22F 1/0655 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/0655 and B22F 1/08
+should be considered in order to perform a
+    1/068   . . Flake-like particles
+Group B22F 1/068 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/068 and B22F 1/08 should
+be considered in order to perform a complete
+    1/07    . Metallic powder characterised by particles having
+a nanoscale microstructure (nanosized particles
+Group B22F 1/07 is incomplete pending
+reclassification of documents from group
+Groups B22F 1/0007 and B22F 1/07 should
+be considered in order to perform a complete
+    1/08    . Metallic powder characterised by particles having
+Group B22F 1/08 is incomplete pending
+reclassification of documents from groups
+B22F 1/00, B22F 1/0003, B22F 1/0007,
+B22F 1/05, B22F 1/052, B22F 1/054,
+B22F 1/0545, B22F 1/0547, B22F 1/0549,
+B22F 1/0551, B22F 1/0553, B22F 1/062,
+B22F 1/065, B22F 1/0655, B22F 1/068,
+B22F 1/10, B22F 1/102, B22F 1/103,
+B22F 1/105, B22F 1/107, B22F 1/108,
+B22F 1/14, B22F 1/142, B22F 1/145,
+B22F 1/147, B22F 1/148, B22F 1/16 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+    1/09    . {Mixtures of metallic powders}
+Group B22F 1/09 is incomplete pending
+reclassification of documents from group
+Groups B22F 1/0003 and B22F 1/09 should
+be considered in order to perform a complete
+    1/10    . Metallic powder containing lubricating or binding
+agents; Metallic powder containing organic material
+Group B22F 1/10 is impacted by reclassification
+Groups B22F 1/10 and B22F 1/08 should be
+considered in order to perform a complete
+    1/102   . . Metallic powder coated with organic material
+Group B22F 1/102 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/102 and B22F 1/08 should
+be considered in order to perform a complete
+    1/103   . . containing an organic binding agent comprising
+a mixture of, or obtained by reaction of, two
+or more components other than a solvent or a
+Group B22F 1/103 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/103 and B22F 1/08 should
+be considered in order to perform a complete
+    1/105   . . containing inorganic lubricating or binding
+Group B22F 1/105 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/105 and B22F 1/08 should
+be considered in order to perform a complete
+    1/107   . . containing organic material comprising solvents,
+Group B22F 1/107 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/107 and B22F 1/08 should
+be considered in order to perform a complete
+    1/108   . . {Mixtures obtained by warm mixing}
+Group B22F 1/108 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/108 and B22F 1/08 should
+be considered in order to perform a complete
+    1/12    . Metallic powder containing non-metallic particles
+(containing lubricating or binding agents or organic
+Group B22F 1/12 is incomplete pending
+reclassification of documents from groups
+Groups B22F 1/00, B22F 1/0003 and B22F 1/12
+should be considered in order to perform a
+    1/14    . Treatment of metallic powder (mixing with
+lubricating or binding agents or with organic
+Group B22F 1/14 is impacted by reclassification
+Groups B22F 1/14 and B22F 1/08 should be
+considered in order to perform a complete
+    1/142   . . Thermal or thermo-mechanical treatment
+Group B22F 1/142 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/142 and B22F 1/08 should
+be considered in order to perform a complete
+    1/145   . . Chemical treatment, e.g. passivation or
+Group B22F 1/145 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/145 and B22F 1/08 should
+be considered in order to perform a complete
+    1/147   . . . {Making a dispersion}
+Group B22F 1/147 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/147 and B22F 1/08
+should be considered in order to perform a
+Group B22F 1/148 is impacted by
+reclassification into group B22F 1/08.
+Groups B22F 1/148 and B22F 1/08 should
+be considered in order to perform a complete
+    1/16    . Metallic particles coated with a non-metal (coated
+with lubricating or binding agents or with organic
+Group B22F 1/16 is impacted by reclassification
+into groups B22F 1/08 and B22F 1/18.
+Groups B22F 1/16, B22F 1/08 and B22F 1/18
+should be considered in order to perform a
+    1/17    . Metallic particles coated with metal
+Group B22F 1/17 is impacted by reclassification
+into groups B22F 1/08 and B22F 1/18.
+Groups B22F 1/17, B22F 1/08 and B22F 1/18
+should be considered in order to perform a
+    1/18    . Non-metallic particles coated with metal
+Group B22F 1/18 is incomplete pending
+reclassification of documents from groups
+Groups B22F 1/16, B22F 1/17 and B22F 1/18
+should be considered in order to perform a
+    3/00    Manufacture of workpieces or articles from
+metallic powder characterised by the manner
+of compacting or sintering; Apparatus specially
+adapted therefor {; Presses and furnaces}
+Group B22F 3/00 is impacted by reclassification
+into groups B22F 10/00 - B22F 12/90.
+Groups B22F 3/00 and B22F 10/00 - B22F 12/90
+should be considered in order to perform a
+    3/001   . {Starting from powder comprising reducible metal
+compounds (making ferrous alloys starting from
+    3/002   . {Manufacture of articles essentially made from
+    3/003   . {Apparatus, e.g. furnaces (in general F27B)}
+    3/004   . {Filling molds with powder (feeding material to
+presses in general B30B 15/302)}
+    3/005   . {Loading or unloading powder metal objects
+    3/006   . {Amorphous articles}
+    3/007   . . {by diffusion starting from non-amorphous
+articles prepared by powder metallurgy}
+ 2003/023   . . {Lubricant mixed with the metal powder}
+ 2003/026   . . {Mold wall lubrication or article surface
+    3/03    . . Press-moulding apparatus therefor
+ 2003/031   . . . {with punches moving in different directions in
+ 2003/033   . . . {with multiple punches working in the same
+    3/04    . . by applying fluid pressure {, e.g. by cold isostatic
+    3/045   . . . {Semi-isostatic pressure}
+    3/06    . . by centrifugal forces
+    3/08    . . by explosive forces {(generating shock waves in
+    3/087   . . using high energy impulses, e.g. magnetic field
+    3/093   . . using vibrations {or friction}
+    3/1003  . . {Use of special medium during sintering, e.g.
+    3/1007  . . . {Atmosphere (B22F 3/1021 takes precedence)}
+    3/101   . . . . {Changing atmosphere}
+    3/1017  . . {Multiple heating or additional steps (B22F 3/101
+    3/1021  . . . {Removal of binder or filler (removal of binder
+    3/1025  . . . . {not by heating only}
+    3/1028  . . . {Controlled cooling}
+ 2003/1032  . . {comprising a grain growth inhibitor}
+    3/1035  . . {Liquid phase sintering}
+    3/1039  . . {by reaction (B22F 3/001, B22F 3/23 take
+ 2003/1042  . . {with support for articles to be sintered}
+ 2003/1046  . . . {with separating means for articles to be
+    3/105   . . by using electric current {other than for infra-
+red radiant energy}, laser radiation or plasma
+(B22F 3/11 takes precedence){; by ultrasonic
+bonding (B22F 3/115 takes precedence)}
+ 2003/1051  . . . {by electric discharge}
+ 2003/1052  . . . {assisted by energy absorption enhanced by the
+ 2003/1053  . . . {by induction}
+ 2003/1054  . . . {by microwave}
+    3/11    . . Making porous workpieces or articles
+    3/1103  . . . {with particular physical characteristics}
+ 2003/1106  . . . . {Product comprising closed porosity}
+    3/1109  . . . . {Inhomogenous pore distribution (composite
+layers of porous nature B22F 7/002)}
+    3/1112  . . . . {comprising hollow spheres or hollow
+    3/1115  . . . . {comprising complex forms, e.g.
+    3/1118  . . . . {comprising internal reinforcements}
+    3/1121  . . . {by using decomposable, meltable or
+    3/1125  . . . . {involving a foaming process}
+ 2003/1128  . . . . . {Foaming by expansion of dissolved gas,
+ 2003/1131  . . . . . {Foaming in a liquid suspension and
+    3/1134  . . . . {Inorganic fillers (carbonaceous or paper
+    3/1137  . . . . {by coating porous removable preforms}
+    3/114   . . . {the porous products being formed by
+impregnation (B22F 3/1137, B22F 3/26 take
+    3/1143  . . . {involving an oxidation, reduction or reaction
+    3/1146  . . . {After-treatment maintaining the porosity
+    3/115   . by spraying molten metal, i.e. spray sintering, spray
+    3/12    . Both compacting and sintering (by forging
+    3/1208  . . {Containers or coating used therefor}
+    3/1216  . . . {Container composition}
+    3/1233  . . . . {Organic material}
+    3/125   . . . {Initially porous container}
+    3/1258  . . . {Container manufacturing}
+    3/1266  . . . . {by coating or sealing the surface of the
+preformed article, e.g. by melting}
+    3/1275  . . . . {by coating a model and eliminating the
+    3/1283  . . . . {Container formed as an undeformable
+model eliminated after consolidation}
+    3/1291  . . . . {Solid insert eliminated after consolidation}
+ 2003/145   . . . {by warm compacting, below debindering
+    3/15    . . . Hot isostatic pressing
+ 2003/153   . . . . {apparatus specific to HIP}
+    3/156   . . . . {by a pressure medium in liquid or powder
+    3/16    . . in successive or repeated steps
+    3/162   . . . {Machining, working after consolidation}
+    3/164   . . . {Partial deformation or calibration}
+ 2003/166   . . . . {Surface calibration, blasting, burnishing,
+    3/168   . . . . {Local deformation}
+    3/172   . . {Continuous compaction, e.g. rotary hammering
+(with axial pressure and without reduction of
+ 2003/175   . . {by hot forging, below sintering temperature}
+    3/177   . . {Rocking die forging}
+    3/18    . by using pressure rollers
+ 2003/185   . . {by hot rolling, below sintering temperature}
+ 2003/202   . . {with back pressure}
+    3/204   . . {Continuous compaction with axial pressure and
+ 2003/206   . . {Hydrostatic or hydraulic extrusion}
+ 2003/208   . . {Warm or hot extruding}
+    3/22    . for producing castings from a slip
+    3/222   . . {by freeze-casting or in a supercritical fluid}
+    3/225   . . {by injection molding}
+    3/227   . . {by organic binder assisted extrusion}
+    3/23    . involving a self-propagating high-temperature
+synthesis or reaction sintering step {(making
+cermets by reaction sintering C22C 1/051)}
+    3/24    . After-treatment of workpieces or articles
+{(B22F 3/1146 takes precedence)}
+ 2003/241   . . {Chemical after-treatment on the surface}
+ 2003/245   . . {Making recesses, grooves etc on the surface by
+ 2003/247   . . {Removing material: carving, cleaning, grinding,
+hobbing, honing, lapping, polishing, milling,
+shaving, skiving, turning the surface}
+ 2003/248   . . {Thermal after-treatment}
+    3/26    . . Impregnating {(making ferrous alloys by
+    5/00    Manufacture of workpieces or articles from
+metallic powder characterised by the special shape
+ 2005/001   . {Cutting tools, earth boring or grinding tool other
+ 2005/002   . {Tools other than cutting tools}
+    5/003   . {Articles made for being fractured or separated into
+ 2005/004   . {Article comprising helical form elements
+ 2005/005   . {Article surface comprising protrusions}
+    5/006   . {of flat products, e.g. sheets (B22F 3/1103 takes
+precedence; by using pressure rollers only see
+    5/008   . {of engine cylinder parts or of piston parts other
+than piston rings (of piston rings B22F 5/02)}
+    5/009   . {of turbine components other than turbine blades (of
+    5/04    . of turbine blades
+    5/06    . of threaded articles, e.g. nuts
+    5/08    . of toothed articles, e.g. gear wheels; of cam discs
+    5/085   . . {with helical contours}
+    5/10    . of articles with cavities or holes, not otherwise
+provided for in the preceding subgroups
+ 2005/103   . . {Cavity made by removal of insert}
+    5/106   . . {Tube or ring forms}
+    5/12    . of wires {(of tubes B22F 5/10)}
+    7/00    Manufacture of composite layers, workpieces, or
+articles, comprising metallic powder, by sintering
+the powder, with or without compacting {wherein
+at least one part is obtained by sintering or
+compression (application of coating layers by use of
+    7/002   . {of porous nature}
+    7/004   . . {comprising at least one non-porous part}
+    7/006   . . . {the porous part being obtained by foaming}
+    7/008   . {characterised by the composition}
+    7/02    . of composite layers {(B22F 7/002 takes
+    7/04    . . with one or more layers not made from powder,
+ 2007/042   . . . {characterised by the layer forming method}
+ 2007/045   . . . . {accompanied by fusion or impregnation}
+ 2007/047   . . . . {non-pressurised baking of the paste or
+slurry containing metal powder}
+    7/06    . of composite workpieces or articles from parts,
+e.g. to form tipped tools {(B22F 7/002 takes
+    7/062   . . {involving the connection or repairing of
+    7/064   . . . {using an intermediate powder layer}
+ 2007/066   . . . {using impregnation}
+ 2007/068   . . . {repairing articles}
+    7/08    . . with one or more parts not made from powder
+{(B22F 7/062 takes precedence)}
+    8/00    Manufacture of articles from scrap or waste metal
+    9/00    Making metallic powder or suspensions thereof
+ 2009/001   . {from scrap particles}
+    9/002   . {amorphous or microcrystalline}
+    9/004   . . {by diffusion, e.g. solid state reaction}
+    9/005   . . . {Transformation into amorphous state by
+    9/007   . . {Transformation of amorphous into
+    9/008   . . {Rapid solidification processing}
+    9/02    . using physical processes
+    9/023   . . {Hydrogen absorption}
+    9/026   . . {Spray drying of solutions or suspensions}
+    9/04    . . starting from solid material, e.g. by crushing,
+grinding or milling ({C22C 1/1084 takes
+precedence}; crushing, grinding or milling, in
+general, see the relevant subclasses, e.g. B02C)
+ 2009/041   . . . {by mechanical alloying, e.g. blending,
+ 2009/042   . . . {using a particular milling fluid}
+ 2009/043   . . . {by ball milling}
+ 2009/044   . . . {by jet milling}
+ 2009/045   . . . {by other means than ball or jet milling}
+ 2009/046   . . . . {by cutting}
+ 2009/047   . . . . {by rolling}
+ 2009/048   . . . {by pulverising a quenched ribbon}
+ 2009/049   . . . {by pulverising at particular temperature}
+    9/06    . . starting from liquid material
+ 2009/065   . . . {Melting inside a liquid, e.g. making spherical
+    9/08    . . . by casting, e.g. through sieves or in water, by
+atomising or spraying (using electric discharge
+ 2009/0804  . . . . {Dispersion in or on liquid, other than with
+ 2009/0808  . . . . . {Mechanical dispersion of melt, e.g. by
+ 2009/0812  . . . . . {Pulverisation with a moving liquid
+coolant stream, by centrifugally rotating
+ 2009/0816  . . . . {by casting with pressure or pulsating
+    9/082   . . . . {atomising using a fluid (using centrifugal
+ 2009/0824  . . . . . {with a specific atomising fluid}
+ 2009/0828  . . . . . . {with water}
+ 2009/0832  . . . . . {Handling of atomising fluid, e.g. heating,
+cooling, cleaning, recirculating}
+ 2009/0836  . . . . . {with electric or magnetic field or
+ 2009/084   . . . . . {combination of methods}
+ 2009/0844  . . . . . {in controlled atmosphere}
+ 2009/0848  . . . . . {Melting process before atomisation}
+ 2009/0852  . . . . . . {Electroslag melting}
+ 2009/0856  . . . . . . {Skull melting}
+ 2009/086   . . . . . {Cooling after atomisation}
+ 2009/0864  . . . . . . {by oil, other non-aqueous fluid or
+ 2009/0868  . . . . . . {by injection of solid particles in the
+ 2009/0872  . . . . . . {by water}
+ 2009/0876  . . . . . . {by gas}
+ 2009/088   . . . . . {Fluid nozzles, e.g. angle, distance}
+ 2009/0884  . . . . . {Spiral fluid}
+ 2009/0888  . . . . . {casting construction of the melt process,
+apparatus, intermediate reservoir, e.g.
+tundish, devices for temperature control}
+ 2009/0892  . . . . . {casting nozzle; controlling metal stream
+in or after the casting nozzle}
+ 2009/0896  . . . . . {particle transport, separation: process and
+    9/10    . . . . using centrifugal force
+    9/12    . . starting from gaseous material
+    9/14    . . using electric discharge
+    9/16    . using chemical processes
+ 2009/165   . . {Chemical reaction in an Ionic Liquid [IL]
+(B22F 2009/245 takes precedence)}
+    9/18    . . with reduction of metal compounds
+    9/20    . . . starting from solid metal compounds
+    9/22    . . . . using gaseous reductors
+    9/24    . . . starting from liquid metal compounds, e.g.
+ 2009/245   . . . . {Reduction reaction in an Ionic Liquid [IL]}
+    9/26    . . . . using gaseous reductors
+    9/28    . . . starting from gaseous metal compounds
+    9/30    . . with decomposition of metal compounds, e.g. by
+    9/305   . . . {of metal carbonyls}
+   10/00    Additive manufacturing of workpieces or articles
+from metallic powder (apparatus or devices therefor
+Group B22F 10/00 is incomplete pending
+reclassification of documents from group
+Groups B22F 3/00 and B22F 10/00 should be
+considered in order to perform a complete search.
+   10/10    . Formation of a green body
+Group B22F 10/10 is incomplete pending
+reclassification of documents from group
+Group B22F 10/10 is also impacted
+by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/12    . . by photopolymerisation, e.g. stereolithography
+[SLA] or digital light processing [DLP]
+Group B22F 10/12 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/14    . . by jetting of binder onto a bed of metal powder
+Group B22F 10/14 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/16    . . by embedding the binder within the powder bed
+Group B22F 10/16 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/18    . . by mixing binder with metal in filament form, e.g.
+fused filament fabrication [FFF]
+Group B22F 10/18 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/20    . Direct sintering or melting
+Group B22F 10/20 is incomplete pending
+reclassification of documents from group
+Group B22F 10/20 is also impacted
+by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/22    . . Direct deposition of molten metal
+Group B22F 10/22 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/25    . . Direct deposition of metal particles, e.g. direct
+metal deposition [DMD] or laser engineered net
+Group B22F 10/25 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/28    . . Powder bed fusion, e.g. selective laser melting
+[SLM] or electron beam melting [EBM]
+Group B22F 10/28 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+Group B22F 10/30 is incomplete pending
+reclassification of documents from group
+Group B22F 10/30 is also impacted
+by reclassification into groups
+B22F 10/31 - B22F 10/39, B22F 10/80 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/31    . . Calibration of process steps or apparatus settings,
+e.g. before or during manufacturing
+Group B22F 10/31 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/32    . . of the atmosphere, e.g. composition or pressure in
+Groups B22F 10/32 and B22F 10/322 are
+incomplete pending reclassification of
+documents from groups B22F 3/00 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/322   . . . of the gas flow, e.g. rate or direction
+   10/34    . . of powder characteristics, e.g. density, oxidation
+Group B22F 10/34 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/36    . . of energy beam parameters
+Groups B22F 10/36, B22F 10/362,
+B22F 10/364, B22F 10/366 and B22F 10/368
+are incomplete pending reclassification of
+documents from groups B22F 3/00 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/362   . . . for preheating
+   10/364   . . . for post-heating, e.g. remelting
+   10/366   . . . Scanning parameters, e.g. hatch distance or
+   10/368   . . . Temperature or temperature gradient, e.g.
+   10/37    . . of powder bed aspects, e.g. density
+Group B22F 10/37 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/38    . . to achieve specific product aspects, e.g. surface
+smoothness, density, porosity or hollow structures
+Groups B22F 10/38 and B22F 10/385 are
+incomplete pending reclassification of
+documents from groups B22F 3/00 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/385   . . . {Overhang structures}
+   10/39    . . Traceability, e.g. incorporating identifier into a
+Group B22F 10/39 is incomplete pending
+reclassification of documents from groups
+Groups B22F 3/00, B22F 10/30 and
+B22F 10/39 should be considered in order to
+   10/40    . Structures for supporting workpieces or articles
+during manufacture and removed afterwards
+Group B22F 10/40 is incomplete pending
+reclassification of documents from group
+Group B22F 10/40 is also impacted by
+reclassification into groups B22F 10/43 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/43    . . characterised by material
+Group B22F 10/43 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/47    . . characterised by structural features
+Group B22F 10/47 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/50    . Treatment of workpieces or articles during build-up,
+e.g. treatments applied to fused layers during build-
+Group B22F 10/50 is incomplete pending
+reclassification of documents from group
+Groups B22F 3/00 and B22F 10/50 should
+be considered in order to perform a complete
+   10/60    . Treatment of workpieces or articles after build-up
+Groups B22F 10/60, B22F 10/62, B22F 10/64
+and B22F 10/66 are incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/62    . . by chemical means
+   10/64    . . by thermal means (control of energy beam
+parameters for post heating B22F 10/364)
+   10/66    . . by mechanical means
+   10/68    . . Cleaning or washing
+Group B22F 10/68 is incomplete pending to
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+Group B22F 10/70 is incomplete pending
+to reclassification of documents from group
+Group B22F 10/70 is also impacted by
+reclassification into groups B22F 10/68,
+All groups listed in this Warning should be
+considered in order to perform a complete
+Group B22F 10/73 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+Group B22F 10/77 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/80    . Data acquisition or data processing
+Groups B22F 10/80 and B22F 10/85 are
+incomplete pending reclassification of
+documents from groups B22F 3/00 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/85    . . for controlling or regulating additive
+   12/00    Apparatus or devices specially adapted for
+additive manufacturing; Auxiliary means for
+additive manufacturing; Combinations of additive
+manufacturing apparatus or devices with other
+processing apparatus or devices
+Group B22F 12/00 is incomplete pending
+to reclassification of documents from group
+Group B22F 12/00 is also impacted
+by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   12/10    . Auxiliary heating means
+Groups B22F 12/10, B22F 12/13 and
+B22F 12/17 are incomplete pending to
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   12/13    . . to preheat the material
+   12/17    . . to heat the build chamber or platform
+Group B22F 12/20 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+Groups B22F 12/22 - B22F 12/226 are
+incomplete pending reclassification of
+documents from groups B22F 3/00 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   12/222   . . {for motion along a direction orthogonal to the
+   12/224   . . {for motion along a direction within the plane of
+   12/226   . . {for rotary motion}
+   12/30    . Platforms or substrates
+Groups B22F 12/30 - B22F 12/37 are incomplete
+pending reclassification of documents from
+groups B22F 3/00 and B22F 12/00.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   12/33    . . translatory in the deposition plane
+   12/38    . {Housings, e.g. machine housings}
+Group B22F 12/38 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+Groups B22F 12/40 - B22F 12/49 are incomplete
+pending reclassification of documents from
+groups B22F 3/00 and B22F 12/00.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   12/41    . . characterised by the type, e.g. laser or electron
+   12/42    . . . Light-emitting diodes [LED]
+   12/43    . . . pulsed; frequency modulated
+   12/44    . . characterised by the configuration of the radiation
+   12/46    . . with translatory movement
+   12/47    . . . parallel to the deposition plane
+   12/48    . . . in height, e.g. perpendicular to the deposition
+   12/50    . Means for feeding of material, e.g. heads
+Groups B22F 12/50 - B22F 12/58 are incomplete
+pending reclassification of documents from
+groups B22F 3/00 and B22F 12/00.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   12/55    . . Two or more means for feeding material
+   12/58    . . for changing the material composition, e.g. by
+   12/60    . Planarisation devices; Compression devices
+Groups B22F 12/60, B22F 12/63 and
+B22F 12/67 are incomplete pending to
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+Group B22F 12/70 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+   12/80    . Plants, production lines or modules
+Groups B22F 12/80 - B22F 12/88 are incomplete
+pending to reclassification of documents from
+groups B22F 3/00 and B22F 12/00.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   12/82    . . Combination of additive manufacturing apparatus
+or devices with other processing apparatus or
+   12/84    . . . Parallel processing within single device
+   12/86    . . . Serial processing with multiple devices
+   12/88    . . Handling of additively manufactured products,
+   12/90    . Means for process control, e.g. cameras or sensors
+Group B22F 12/90 is incomplete pending
+reclassification of documents from groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2201/00    Treatment under specific atmosphere
+ 2201/01    . Reducing atmosphere
+ 2201/05    . Water or water vapour
+ 2201/30    . Carburising atmosphere
+ 2201/32    . Decarburising atmosphere
+ 2202/00    Treatment under specific physical conditions
+ 2202/01    . Use of vibrations
+ 2202/03    . Treatment under cryogenic or supercritical
+ 2202/05    . Use of magnetic field
+ 2202/06    . Use of electric fields
+ 2202/09    . Use of non-gravitational conditions
+ 2202/11    . Use of irradiation
+ 2202/15    . Use of fluidised beds
+ 2202/17    . use of centrifugal or vortex forces
+ 2203/01    . To-be-deleted with administrative transfer to
+ 2203/05    . thermal expansion
+ 2203/11    . temperature, temperature profile
+ 2207/00    Aspects of the compositions, gradients
+ 2207/01    . Composition gradients
+ 2207/03    . . of the metallic binder phase in cermets
+ 2207/07    . . Particles with core-rim gradient
+ 2207/11    . Gradients other than composition gradients, e.g. size
+ 2207/15    . . Temperature gradients
+ 2207/17    . . density or porosity gradients
+ 2207/20    . Cooperating components
+ 2301/00    Metallic composition of the powder or its coating
+ 2301/054   . . Alkali metals, i.e. Li, Na, K, Rb, Cs, Fr
+ 2301/056   . . Alkaline metals, i.e. Ca, Sr, Ba, Ra
+ 2301/155   . . Rare Earth - Co or -Ni intermetallic alloys
+ 2301/20    . Refractory metals
+ 2301/205   . . Titanium, zirconium or hafnium
+ 2301/25    . Noble metals, i.e. Ag Au, Ir, Os, Pd, Pt, Rh, Ru
+ 2301/30    . Low melting point metals, i.e. Zn, Pb, Sn, Cd, In,
+ 2301/355   . . Rare Earth - Fe intermetallic alloys
+ 2301/40    . Intermetallics other than rare earth-Co or -Ni or -Fe
+ 2301/45    . Rare earth metals, i.e. Sc, Y, Lanthanides (57-71)
+ 2302/00    Metal Compound, non-Metallic compound or non-
+metal composition of the powder or its coating
+ 2302/105   . . Silicium carbide (SiC)
+ 2302/205   . Cubic boron nitride
+ 2302/253   . . Aluminum oxide (Al2O3)
+ 2302/256   . . Silicium oxide (SiO2)
+ 2302/35    . Complex boride, carbide, carbonitride, nitride, oxide
+ 2302/403   . . Carbon nanotube
+ 2302/45    . Others, including non-metals
+ 2303/00    Functional details of metal or compound in the
+ 2303/05    . Compulsory alloy component
+ 2303/10    . Optional alloy component
+ 2303/20    . Coating by means of particles
+ 2303/25    . Coating by means of fibres
+ 2303/35    . Molten metal infiltrating a metal preform
+ 2303/40    . Layer in a composite stack of layers, workpiece or
+ 2303/45    . Part of a final mixture to be processed further
+ 2304/00    Physical aspects of the powder
+ 2304/05    . Submicron size particles
+ 2304/052   . . Particle size below 1nm
+ 2304/054   . . Particle size between 1 and 100 nm
+ 2304/056   . . Particle size above 100 nm up to 300 nm
+ 2304/058   . . Particle size above 300 nm up to 1 micrometer
+ 2304/10    . Micron size particles, i.e. above 1 micrometer up to
+ 2304/15    . Millimeter size particles, i.e. above 500 micrometer
+ 2998/00    Supplementary information concerning processes
+or compositions relating to powder metallurgy
+In this group, C-Sets are used. Detailed
+information about C-Sets construction and the
+associated syntax rules is found in the Definitions.
+ 2998/10    . Processes characterised by the sequence of their
+In this group, C-Sets are used. Detailed
+information about C-Sets construction and
+the associated syntax rules is found in the
+ 2999/00    Aspects linked to processes or compositions used in
+In this group, C-Sets are used. Detailed
+information about C-Sets construction and the
+associated syntax rules is found in the Definitions.

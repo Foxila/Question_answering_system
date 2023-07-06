@@ -1,0 +1,692 @@
+COOPERATIVE PATENT CLASSIFICATION
+ELECTRIC COMMUNICATION TECHNIQUE
+SELECTING (switches, relays, selectors H01H; wireless communication networks H04W)
+• methods, circuits, or apparatus for stablishing selectively  a connect ion between a desired number of stations (normally
+two), or between a main station and a desired number of  substations (normally one) for the purpose of transferring
+information via this connection after it has been established;
+• selective calling arrangements over connections already  established.
+In either case, the connection may be made by means of electric conductors or electromagnetic waves.
+2. In this subclass, the following terms or expressions are used with the meanings indicated:
+• "subscriber" is a general term for terminal equipment, e.g. telephone for public use;
+• "substation" means a subscriber or monitoring equipment which may connect a single subscriber to a line without choice as
+• "satellite" is a kind of exchange the operation of which depends upon control signals received from a supervisory
+• "switching centres" includes exchanges and satellites.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Details of selecting apparatus or arrangements
+    1/02    . Constructional details
+    1/021   . . {using pivoting mechanisms for accessing the
+    1/023   . . {using sliding mechanisms for accessing the
+    1/026   . . . {characterized by door details}
+    1/028   . . {Subscriber network interface devices}
+    1/03    . . {Power distribution arrangements}
+    1/032   . . . {power failure protection}
+    1/035   . . {Cooling of active equipments, e.g. air ducts}
+    1/04    . . Frames or mounting racks for selector switches;
+Accessories therefor, e.g. frame cover
+    1/06    . . Cable ducts or mountings specially adapted for
+    1/062   . . . {vertical management arrangements}
+    1/064   . . . {horizontal management arrangements}
+    1/066   . . . {arranged on the front side}
+    1/068   . . . {arranged on the rear side}
+    1/08    . . Frames or mounting racks for relays; Accessories
+    1/09    . . {Frames or mounting racks not otherwise
+    1/10    . . Exchange station construction
+    1/11    . . {Protection against environment}
+    1/112   . . . {mechanical protection, e.g. resistance to
+    1/114   . . . {flooding protection, e.g. using water proof
+    1/116   . . . {lightning or EMI protection, e.g. shielding or
+    1/118   . . . {heat or sun protection}
+    1/12    . . Arrangements of multiple bars with or without
+    1/13    . . {Patch panels for monitoring, interconnecting or
+testing circuits, e.g. patch bay, patch field or jack
+    1/131   . . . {being pivotable}
+    1/133   . . . {being slidable}
+    1/135   . . . {characterized by patch cord details}
+    1/136   . . . . {having patch field management or physical
+    1/138   . . . . . {using RFID}
+    1/14    . . Distribution frames
+    1/141   . . . {Details of connexions between cable and
+    1/142   . . . {Terminal blocks for distribution frames}
+    1/143   . . . {with contacts on circular surface}
+    1/144   . . . {Plugs used in distribution frames}
+    1/145   . . . {with switches arranged in a matrix
+    1/146   . . . {with line protection means}
+    1/147   . . . {using robots for distributing}
+    1/148   . . . {Identification strips for distribution frames}
+    1/149   . . . {Wireguides in connector blocks}
+    1/15    . . {Backplane arrangements}
+    1/155   . . . {characterised by connection features}
+    1/16    . . Wiring arrangements for selector switches or
+    1/18    . Electrical details
+    1/20    . . Testing circuits or apparatus; Circuits or
+apparatus for detecting, indicating, or signalling
+    1/22    . . . Automatic arrangements
+    1/24    . . . . for connection devices
+    1/245   . . . . . {in time-division multiplex systems}
+    1/26    . . . . for signalling trouble in unoccupied sub-
+    1/28    . . Current-supply circuits or arrangements for
+selection equipment at exchanges
+    1/30    . . Signalling arrangements; Manipulation of
+signalling currents (multiplex systems providing
+for calling or supervisory signals H04J 1/14,
+    1/32    . . . using trains of dc pulses (H04Q 1/39 takes
+    1/34    . . . . Impulse regenerators with mechanical or
+other non-electrical marking arrangements
+    1/36    . . . . Pulse-correcting arrangements, e.g. for
+reducing effects due to interference
+    1/38    . . . using combinations of direct currents of
+different amplitudes or polarities over line
+conductors or combination of line conductors
+    1/39    . . . using coded pulse groups
+    1/40    . . . whereby duration of pulse or interval between
+    1/42    . . . . involving the position of a pulse in a cycle
+    1/44    . . . using alternate current (H04Q 1/50 takes
+    1/442   . . . . with out-of-voice band signalling frequencies
+    1/4423  . . . . . {using one signalling frequency}
+    1/4426  . . . . . {using two or more signalling
+frequencies, transmitted in succession or
+    1/444   . . . . with voice-band signalling frequencies
+    1/446   . . . . . using one signalling frequency
+    1/4465  . . . . . . {the same frequency being used for all
+signalling information, e.g. A.C. nr.9
+    1/448   . . . . . . with conversion of a single frequency
+    1/4485  . . . . . . . {which is transmitted in digital form}
+    1/45    . . . . . using multi-frequency signalling
+    1/453   . . . . . . in which m-out-of-n signalling
+    1/4535  . . . . . . . {with an additional signal transmitted
+    1/457   . . . . . . with conversion of multifrequency
+    1/4575  . . . . . . . {which are transmitted in digital
+    1/46    . . . . . comprising means for distinguishing
+between a signalling current of
+predetermined frequency and a complex
+current containing that frequency, e.g.
+    1/48    . . . Induced-current signalling arrangements
+    1/50    . . . Conversion between different kinds of signals
+    1/54    . . Amplifier switched-on automatically in
+dependence on automatically-selected lines
+    1/56    . . Balancing circuitry switched-on automatically in
+dependence on automatically-selected lines
+    3/00    Selecting arrangements (H04Q 5/00 - H04Q 11/00
+    3/0004  . {using crossbar selectors in the switching stages}
+    3/0008  . {using relay selectors in the switching stages}
+    3/0012  . . {in which the relays are arranged in a matrix
+    3/0016  . {Arrangements providing connection between
+    3/0025  . . {Provisions for signalling}
+    3/0029  . . {Provisions for intelligent networking}
+    3/0033  . . . {customer-controlled}
+    3/0037  . . . {involving call modelling techniques, e.g.
+modifications to the basic call state model
+    3/0041  . . . {involving techniques for avoiding interaction
+    3/0045  . . . {involving hybrid, i.e. a mixture of public and
+private, or multi-vendor systems}
+    3/005   . . . {Personal communication services, e.g.
+provisions for portability of subscriber
+    3/0054  . . . {Service creation techniques}
+    3/0058  . . . . {using service-independent building blocks
+    3/0062  . . {Provisions for network management}
+    3/0066  . . . {Bandwidth allocation or management}
+    3/007   . . . {customer-controlled}
+    3/0075  . . . {Fault management techniques}
+    3/0079  . . . . {involving restoration of networks, e.g.
+disaster recovery, self-healing networks}
+    3/0083  . . . {Network planning or design; Modelling of
+    3/0087  . . . {Network testing or monitoring arrangements}
+    3/0091  . . . {Congestion or overload control}
+    3/0095  . . . {Specification, development or application of
+network management software, e.g. software
+    3/02    . Circuit arrangements for selectors responsive to a
+    3/04    . Circuit arrangements for receivers of routing digits
+    3/06    . . for group or trunk group selectors
+    3/08    . . for local or long-distance selectors
+    3/10    . . for PBX selectors, i.e. private branch exchange
+    3/12    . . for line selectors providing transfer of routing
+    3/14    . . for two-way operation selectors
+    3/16    . . for marking-switches
+    3/18    . Circuit arrangements for first stage of hunting
+    3/20    . . for preselectors
+    3/22    . . . comprising common calling and disconnecting
+    3/24    . . for line finders
+    3/26    . . . comprising common calling and disconnecting
+    3/28    . . . comprising main groups and subgroups
+    3/30    . . Selector finders, i.e. allotters
+    3/32    . Circuit arrangements for second or subsequent
+    3/34    . . for the second preselection stage
+    3/36    . . for the second line-finder stage
+    3/38    . . for stages after the group selector stage
+    3/40    . . for stages after the line selector, e.g. for extension
+    3/42    . Circuit arrangements for indirect selecting
+controlled by common circuits, e.g. register
+    3/44    . . using revertive control
+    3/46    . . using signals other than revertive impulses
+    3/47    . . using translators
+    3/49    . . . for end-to-end marking
+    3/495   . . . for routing connecting paths
+    3/52    . . using static devices in switching stages, e.g.
+electronic switching arrangements
+    3/521   . . . {using semiconductors in the switching stages}
+    3/525   . . . {using tubes in the switching stages}
+    3/526   . . . {Optical switching systems}
+    3/54    . . in which the logic circuitry controlling the
+    3/542   . . . {Logic circuits or arrangements therefor}
+    3/545   . . . using a stored programme
+    3/54508 . . . . {Configuration, initialisation}
+    3/54516 . . . . . {Initialization, software or data
+    3/54525 . . . . . {Features introduction}
+    3/54533 . . . . . {Configuration data, translation,
+    3/54541 . . . . {using multi-processor systems}
+    3/5455  . . . . . {Multi-processor, parallelism, distributed
+    3/54558 . . . . . {Redundancy, stand-by}
+    3/54566 . . . . . {Intelligent peripherals, adjunct
+    3/54575 . . . . {Software application}
+    3/54583 . . . . . {Software development, e.g. procedural,
+object oriented, software generation,
+    3/54591 . . . . . {Supervision, e.g. fault localisation, traffic
+measurements, avoiding errors, failure
+recovery, monitoring, statistical analysis}
+    3/55    . . . using wired logic circuitry
+    3/552   . . . . {Wired circuits or arrangements therefor}
+    3/555   . . . . being comprised by electro-magnetic devices
+    3/56    . . in which the control signals are multiplexed
+    3/58    . Arrangements providing connection between main
+exchange and sub-exchange or satellite
+    3/60    . . for connecting to satellites or concentrators which
+connect one or more exchange lines with a group
+    3/602   . . . {Circuit arrangements therefor}
+    3/605   . . . {Arrangements in the satellite or concentrator}
+    3/62    . . for connecting to private branch exchanges
+    3/622   . . . {Circuit arrangements therefor}
+    3/625   . . . {Arrangements in the private branch exchange}
+    3/64    . Distributing or queueing
+    3/645   . . {Circuit arrangements therefor}
+    3/66    . . Traffic distributors
+    3/665   . . . {Circuit arrangements therefor}
+    3/68    . . Grouping or interlacing selector groups or stages
+    3/685   . . . {Circuit arrangements therefor}
+    3/70    . Identification of class of calling subscriber
+    3/72    . Finding out and indicating number of calling
+    3/74    . . Identification of subscriber calling from a party-
+    3/76    . Translation from the called subscriber's number to
+the outgoing or incoming control information
+    3/78    . Temporary storage of information of calling or
+called subscriber (intermediate storage means for
+telegraphic communication H04L 13/08)
+    5/00    Selecting arrangements wherein two or more
+subscriber stations are connected by the same line
+    5/02    . with direct connection for all subscribers, i.e. party-
+line systems (H04Q 5/24 takes precedence)
+    5/04    . . Signalling by currents in one or other or both line
+    5/06    . . Signalling by amplitude or polarity of dc
+    5/08    . . Signalling by continuous ac
+    5/10    . . . using single frequencies for different
+    5/12    . . . using combinations of frequencies
+    5/14    . . Signalling by pulses
+    5/16    . . . by predetermined number of pulses
+    5/18    . with indirect connection, i.e. through subordinate
+    5/20    . . the subordinate centre permitting interconnection
+of subscribers connected thereto
+    5/22    . . the subordinate centre not permitting
+interconnection of subscribers connected thereto
+    5/24    . for two-party-line systems
+    5/245   . . {Circuit arrangements in which for one subscriber
+low frequency speech and/or signalling signals
+proceed on the line, while for the other subscriber
+the low frequency speech and/or signalling
+signals are modulated upon a high frequency
+    9/00    Arrangements in telecontrol or telemetry systems
+for selectively calling a substation from a main
+station, in which substation desired apparatus is
+selected for applying a control signal thereto or for
+obtaining measured values therefrom
+    9/02    . Automatically-operated arrangements
+    9/04    . Arrangements for synchronous operation
+    9/06    . Calling by using amplitude or polarity of dc
+    9/08    . Calling by using continuous ac
+    9/10    . . using single different frequencies
+    9/12    . . using combinations of frequencies
+    9/14    . Calling by using pulses
+    9/16    . . by predetermined number of pulses
+   11/00    Selecting arrangements for multiplex systems
+   11/0001  . {using optical switching}
+   11/0005  . . {Switch and router aspects}
+ 2011/0007  . . . {Construction}
+ 2011/0009  . . . . {using wavelength filters}
+ 2011/0011  . . . . {using wavelength conversion}
+ 2011/0013  . . . . {using gating amplifiers}
+ 2011/0015  . . . . {using splitting combining}
+ 2011/0016  . . . . {using wavelength multiplexing or
+ 2011/0018  . . . . {using tunable transmitters or receivers}
+ 2011/002   . . . . {using optical delay lines or optical buffers
+ 2011/0022  . . . . {using fibre gratings}
+ 2011/0024  . . . . {using space switching}
+ 2011/0026  . . . . {using free space propagation (e.g. lenses,
+ 2011/0028  . . . . . {using holograms}
+ 2011/003   . . . . . {using switches based on microelectro-
+ 2011/0032  . . . . {using static wavelength routers (e.g. arrayed
+waveguide grating router [AWGR] )}
+ 2011/0033  . . . . {using time division switching}
+ 2011/0035  . . . . {using miscellaneous components, e.g.
+circulator, polarisation, acousto/thermo
+ 2011/0039  . . . . {Electrical control}
+ 2011/0041  . . . . {Optical control}
+ 2011/0043  . . . . {Fault tolerance}
+ 2011/0045  . . . . {Synchronisation}
+ 2011/0047  . . . . {Broadcast; Multicast}
+ 2011/0049  . . . . {Crosstalk reduction; Noise; Power budget}
+ 2011/005   . . . . {Arbitration and scheduling}
+ 2011/0052  . . . {Interconnection of switches}
+ 2011/0054  . . . . {Distribute-route}
+ 2011/0058  . . . . {Crossbar; Matrix}
+ 2011/006   . . . . {Full mesh}
+   11/0062  . . {Network aspects}
+ 2011/0064  . . . {Arbitration, scheduling or medium access
+   11/0066  . . . {Provisions for optical burst or packet
+   11/0067  . . . {Provisions for optical access or distribution
+networks, e.g. Gigabit Ethernet Passive Optical
+Network (GE-PON), ATM-based Passive
+Optical Network (A-PON), PON-Ring}
+ 2011/0069  . . . {using dedicated optical channels}
+   11/0071  . . . {Provisions for the electrical-optical layer
+ 2011/0073  . . . {Provisions for forwarding or routing, e.g.
+ 2011/0075  . . . {Wavelength grouping or hierarchical aspects}
+ 2011/0077  . . . {Labelling aspects, e.g. multiprotocol label
+switching [MPLS], G-MPLS, MPAS}
+ 2011/0079  . . . {Operation or maintenance aspects}
+ 2011/0081  . . . . {Fault tolerance; Redundancy; Recovery;
+ 2011/0083  . . . . {Testing; Monitoring}
+ 2011/0084  . . . {Quality of service aspects}
+ 2011/0086  . . . {Network resource allocation, dimensioning or
+ 2011/0088  . . . {Signalling aspects}
+ 2011/009   . . . {Topology aspects}
+   11/02    . for frequency-division multiplexing
+{(H04Q 11/0001 takes precedence)}
+   11/023   . . {using a stored programme control}
+   11/04    . for time-division multiplexing {(H04Q 11/0001
+   11/0407  . . {using a stored programme control}
+   11/0421  . . {Circuit arrangements therefor}
+   11/0428  . . {Integrated services digital network, i.e. systems
+for transmission of different types of digitised
+signals, e.g. speech, data, telecentral, television
+   11/0442  . . . . {Exchange access circuits}
+   11/045   . . . . {Selection or connection testing
+   11/0457  . . . . {Connection protocols}
+   11/0464  . . . . {Primary rate access circuits}
+   11/0471  . . . . {Terminal access circuits}
+   11/0478  . . . {Provisions for broadband connections}
+   11/0485  . . . . {Circuit arrangements therefor}
+   11/0492  . . . . . {Details}
+   11/06    . . Time-space-time switching
+   11/08    . . Time only switching
+ 2201/00    Constructional details of selecting arrangements
+ 2201/02    . Details of frames
+ 2201/04    . Modular construction
+ 2201/06    . Cooling arrangements
+ 2201/14    . Screening, grounding or crosstalk reduction details
+ 2201/16    . Coaxial cable connectors
+ 2201/80    . in specific systems
+ 2201/802   . . in data transmission systems
+ 2201/804   . . in optical transmission systems
+ 2201/806   . . in PBX or KTS systems
+ 2201/808   . . in wireless transmission systems
+ 2209/00    Arrangements in telecontrol or telemetry systems
+ 2209/10    . using a centralized architecture
+ 2209/20    . using a distributed architecture
+ 2209/25    . . using a mesh network, e.g. a public urban
+network such as public lighting, bus stops or
+ 2209/30    . using a wired architecture
+ 2209/40    . using a wireless architecture
+ 2209/43    . . using wireless personal area networks [WPAN],
+e.g. 802.15, 802.15.1, 802.15.4, Bluetooth or
+ 2209/47    . . using RFID associated with sensors
+ 2209/50    . using a mobile data collecting device, e.g. walk by
+ 2209/60    . for transmitting utility meters data, i.e. transmission
+of data from the reader of the utility meter
+ 2209/70    . Arrangements in the main station, i.e. central
+ 2209/75    . . by polling or interrogating the sub-stations
+ 2209/753   . . . where the polling of the sub-stations is
+ 2209/756   . . . where the polling of the sub-stations is cyclic,
+ 2209/80    . Arrangements in the sub-station, i.e. sensing device
+ 2209/82    . . where the sensing device takes the initiative of
+ 2209/823   . . . where the data is sent when the measured
+values exceed a threshold, e.g. sending an
+ 2209/826   . . . where the data is sent periodically
+ 2209/84    . . Measuring functions
+ 2209/845   . . . where the measuring is synchronized between
+ 2209/86    . . Performing a diagnostic of the sensing device
+ 2209/88    . . Providing power supply at the sub-station
+ 2209/883   . . . where the sensing device enters an active or
+ 2209/886   . . . using energy harvesting, e.g. solar, wind or
+ 2213/00    Indexing scheme relating to selecting
+arrangements in general and for multiplex systems
+ 2213/002   . Graphical representation
+ 2213/003   . Constructional details
+ 2213/011   . Periodic optical structures, e.g. gratings, holograms
+ 2213/012   . Tunable opticalo systems
+ 2213/013   . Optical shutters, e.g. LCD arrays
+ 2213/014   . Optical storage, not delay lines
+ 2213/015   . 3D-optical arrangement
+ 2213/016   . Optical subcarrier modulation
+ 2213/017   . Optical polarisation
+ 2213/033   . Other modulation methods
+ 2213/034   . Codec; PCM compression
+ 2213/036   . Series parallel conversion; Parallel bit transmission
+ 2213/037   . Resonant transfer; Sample and hold
+ 2213/038   . Optical modulation
+ 2213/04    . Coordinate switches; Crossbar switches
+ 2213/042   . Elements placed in matrix relation, not serving as
+ 2213/046   . Binary switch (Beta element)
+ 2213/054   . Expert systems, e.g. neural networks
+ 2213/056   . Software routines, e.g. finite state machines
+ 2213/061   . Preselector; Second line switch
+ 2213/062   . Finder switch (e.g. line finder, call finder)
+ 2213/063   . Strowger-switch as finder switch
+ 2213/064   . Cascaded finder or preselector switches
+ 2213/066   . Switch with two or more wipersets
+ 2213/067   . Finder switch serving as final selector
+ 2213/07    . Call distribution; Call detection; Call signalling by
+ 2213/072   . Sequence circuits
+ 2213/076   . Distributing frame; Cross connect
+ 2213/09    . Subscriber related equipment; Analog terminal
+ 2213/091   . Indication of kind/number of subscriber
+ 2213/092   . Scanning of (subscriber) lines, registers, translators
+ 2213/093   . Personal computer
+ 2213/095   . User access; PIN code
+ 2213/096   . Digital subscriber terminal
+ 2213/098   . Mobile subscriber
+ 2213/099   . Loop multiplexer (not ISDN BRI/PRI; not 381), e.g.
+ 2213/101   . Discriminating selectors
+ 2213/102   . Common translator
+ 2213/104   . Central control; Computer control
+ 2213/106   . Microcomputer; Microprocessor
+ 2213/107   . Control equipment for part of the connection
+ 2213/109   . Initialising; Downloading of parameters or program
+ 2213/11    . Sequence switches
+ 2213/12    . Call indicator, e.g. number indicator
+ 2213/124   . Pulse distributor
+ 2213/13001 . Step by step switches
+ 2213/13003 . Constructional details of switching devices
+ 2213/1301  . Optical transmission, optical switches
+ 2213/13012 . Hybrid fiber coax, HFC
+ 2213/13016 . Optical subcarrier modulation
+ 2213/1303  . Pulse amplitude modulation, PAM
+ 2213/13031 . Pulse code modulation, PCM
+ 2213/13034 . A/D conversion, code compression/expansion
+ 2213/13036 . Serial/parallel conversion, parallel bit transmission
+ 2213/13038 . Optical modulation
+ 2213/13039 . Asymmetrical two-way transmission, e.g. ADSL,
+ 2213/1304  . Coordinate switches, crossbar, 4/2 with relays,
+ 2213/13046 . Binary switch, β-element
+ 2213/13051 . Software generation
+ 2213/13056 . Routines, finite state machines
+ 2213/13057 . Object-oriented software
+ 2213/13058 . Interrupt request
+ 2213/13072 . Sequence circuits for call signaling, ACD systems
+ 2213/13076 . Distributing frame, MDF, cross-connect switch
+ 2213/13082 . Power supply via phantom line
+ 2213/1309  . Apparatus individually associated with a subscriber
+ 2213/13091 . CLI, identification of calling line
+ 2213/13092 . Scanning of subscriber lines, monitoring
+ 2213/13093 . Personal computer, PC
+ 2213/13095 . PIN / Access code, authentication
+ 2213/13096 . Digital apparatus individually associated with a
+subscriber line, digital line circuits
+ 2213/13097 . Numbering, addressing
+ 2213/13098 . Mobile subscriber
+ 2213/13102 . Common translator
+ 2213/13104 . Central control, computer control
+ 2213/13106 . Microprocessor, CPU
+ 2213/13107 . Control equipment for a part of the connection,
+distributed control, co-processing
+ 2213/13109 . Initializing, personal profile
+ 2213/13124 . Pulse distributor
+ 2213/1313  . Metering, billing
+ 2213/13134 . Coin boxes, payphone, prepaid
+ 2213/13136 . Collect call (information service H04Q 2213/13376)
+ 2213/13138 . Least cost routing, LCR
+ 2213/13139 . Fraud detection/prevention
+ 2213/13141 . Hunting for free outlet, circuit or channel
+ 2213/13144 . Searching path through number of switching stages
+or nodes, e.g. revertive blocking
+ 2213/13145 . Rerouting upon failure
+ 2213/13146 . Rerouting upon blocking/overload, rearrangement
+ 2213/13148 . Maximum profit routing
+ 2213/13149 . Change of provider, e.g. network or service
+ 2213/13156 . Automatic digit redialling, automatic call retry
+ 2213/1316  . Service observation, testing
+ 2213/13162 . Fault indication and localisation
+ 2213/13164 . Traffic (registration, measurement,...)
+ 2213/13167 . Redundant apparatus
+ 2213/13172 . Supervisory signals
+ 2213/13174 . Data transmission, file transfer
+ 2213/13175 . Graphical user interface [GUI], WWW interface,
+ 2213/13176 . Common channel signaling, CCS7
+ 2213/13179 . Fax, still picture
+ 2213/1319  . Amplifier, attenuation circuit, echo suppressor
+ 2213/13194 . Four wire connection, transmission
+ 2213/13196 . Connection circuit/link/trunk/junction, bridge,
+ 2213/13199 . Modem, modulation
+ 2213/132   . Multiple-zone-metering
+ 2213/13201 . Change-over of service during connection
+ 2213/13202 . Network termination [NT]
+ 2213/13203 . Exchange termination [ET]
+ 2213/13205 . Primary rate access, PRI
+ 2213/13206 . User-to-user signaling, UUS
+ 2213/13208 . Inverse multiplexing, channel bonding, e.g. TSSI
+ 2213/13213 . Counting, timing circuits
+ 2213/13215 . Code checking, CRC
+ 2213/13216 . Code signals, frame structure
+ 2213/13217 . Cranckback in routing, trombone connection,
+ 2213/13222 . PBX circuits in public exchange, centrex
+ 2213/13224 . Off-net subscriber, dial in to/out from network,
+ 2213/13242 . Broadcast, diffusion, multicast, point-to-multipoint
+ 2213/13246 . Instant speaker's algorithm [ISA]
+ 2213/13251 . Restricted service, class of service
+ 2213/1326  . Consultation call, broker's call, call hold, toggling
+ 2213/1327  . Release and resetting of connection
+ 2213/13272 . Premature release
+ 2213/13274 . Call rejection, call barring
+ 2213/1328  . Call transfer, e.g. in PBX
+ 2213/13281 . Call transfer/forward at night
+ 2213/13282 . Call forward, follow-me, call diversion
+ 2213/13286 . Direct in-dialling in PBX, DDI
+ 2213/13287 . Wake-up call service
+ 2213/13288 . Closed user groups, CUG
+ 2213/1329  . Asynchronous transfer mode, ATM
+ 2213/13291 . Frequency division multiplexing, FDM
+ 2213/13292 . Time division multiplexing, TDM
+ 2213/13293 . TASI, irregular time division, burst switching
+ 2213/13294 . CDMA, code division multiplexing, i.e.
+combinations of H04Q 2213/13291 and/or
+H04Q 2213/13292 with space division
+ 2213/13295 . Wavelength multiplexing, WDM
+ 2213/13296 . Packet switching, X.25, frame relay
+ 2213/13297 . Coupling different rates in TDM systems, data rate
+ 2213/13298 . Local loop systems, access network
+ 2213/133   . Multiple-time-metering
+ 2213/13302 . Magnetic elements
+ 2213/13305 . Transistors, semiconductors in general
+ 2213/13306 . Ferro-electric elements
+ 2213/1331  . Delay elements, shift registers
+ 2213/13322 . Integrated circuits
+ 2213/13331 . Abbreviated dialling
+ 2213/13332 . Broadband, CATV, dynamic bandwidth allocation
+ 2213/13334 . Key telephone systems
+ 2213/13335 . Simulation, emulation
+ 2213/13336 . Store & forward, messaging systems (email
+ 2213/13337 . Picturephone, videotelephony
+ 2213/13339 . Ciphering, encryption, security
+ 2213/1334  . Configuration within the switch
+ 2213/13341 . Connections within the switch
+ 2213/13342 . Arrangement of switches in the network
+ 2213/13345 . Intelligent networks, SCP
+ 2213/13348 . Channel/line reservation
+ 2213/13349 . Network management
+ 2213/13352 . Self-routing networks, real-time routing
+ 2213/13353 . Routing table, map memory
+ 2213/13361 . Synchronous systems
+ 2213/13362 . Asynchronous systems
+ 2213/13363 . Pulse stuffing, bit stuffing
+ 2213/13367 . Hierarchical multiplexing, add-drop multiplexing
+ 2213/1337  . Operator, emergency services
+ 2213/13372 . Intercepting operator
+ 2213/13376 . Information service, downloading of information,
+ 2213/13377 . Recorded announcement
+ 2213/13378 . Speech recognition, speech analysis
+ 2213/1338  . Inter-exchange connection
+ 2213/13381 . Pair-gain system, digital loop carriers
+ 2213/13383 . Hierarchy of switches, main and subexchange, e.g.
+ 2213/13384 . Inter-PBX traffic, PBX networks, e.g. corporate
+ 2213/13385 . Off-net subscriber
+ 2213/13386 . Line concentrator
+ 2213/13388 . Saturation signaling systems
+ 2213/1339  . Fixed association of channels
+ 2213/13391 . Channel assigned to connections
+ 2213/13392 . Channels assigned according to rules
+ 2213/13393 . Time slot switching, T-stage, time slot
+ 2213/13395 . Permanent channel, leased line
+ 2213/13396 . Signaling in general, in-band signalling
+ 2213/13399 . Virtual channel/circuits
+ 2213/13402 . Data transmission out of voice frequency band
+ 2213/13405 . Dual frequency signaling, DTMF
+ 2213/13407 . Detection of data transmission mode
+ 2213/13501 . Feature interactions
+ 2213/13502 . primitives - inc. service-independent building
+ 2213/13503 . object-oriented systems
+ 2213/13504 . client/server architectures
+ 2213/13505 . management information base [MIB]
+ 2213/13513 . UPT - personal as opposed to terminal mobility, inc.
+ 2213/13514 . quality of service - inc. grade of service
+ 2213/13515 . authentication, authorisation - fraud prevention
+ 2213/13516 . agents or brokers - user, terminal etc., also OSI
+ 2213/13517 . SLEE - service logic execution
+ 2213/13522 . traffic management
+ 2213/13523 . bandwidth management, e.g. capacity management
+ 2213/13524 . cost management (least cost H04Q 2213/13138)
+ 2213/13525 . GUI - graphical user interface, inc. for service
+ 2213/13526 . resource management
+ 2213/13527 . protocols - X.25, TCAP etc.
+ 2213/13531 . virtual networks - inc. PVN
+ 2213/13533 . multivendor and hybrid, e.g. public/private,
+ 2213/13534 . Internet - WWW, HTML, browsers etc.
+ 2213/13535 . distributed systems - also domains in service
+ 2213/13542 . numbering plans, e.g. number re-allocation
+ 2213/13543 . network planning, configuration management, e.g.
+ 2213/13544 . modeling or simulation, particularly of networks
+ 2213/13545 . monitoring of signaling messages, intelligent
+ 2213/13546 . Intelligent Peripheral
+ 2213/13547 . subscriber, e.g. profile, database, database access
+ 2213/13548 . call modeling, e.g. Basic Call State Model
+ 2213/13561 . congestion - inc. overflow
+ 2213/13563 . call gapping, e.g. to prevent congestion
+ 2213/13565 . restoration, e.g. disaster recovery, self-healing
+ 2213/13567 . negotiation, management policy, goals
+ 2213/136   . Collect call, e.g. 800 service
+ 2213/138   . Least cost routing
+ 2213/14    . Busy test, e.g. marking busy
+ 2213/141   . Hunting for free outlet, circuit, channel
+ 2213/144   . Searching a free path through cascaded switching
+ 2213/145   . Rerouting, e.g. on failure
+ 2213/152   . Automatic call retry
+ 2213/156   . Automatic redialling
+ 2213/16    . Service observation; Fault circuit; Testing
+ 2213/161   . Blocking or cutoff of faulty apparatus, e.g. timed
+ 2213/162   . Fault indication, e.g. localisation
+ 2213/164   . Traffic registration; Adaptation of traffic
+ 2213/166   . Prevention of faults
+ 2213/171   . Number indicating signals (no dial signals)
+ 2213/172   . Supervisory signals
+ 2213/174   . Data transmission
+ 2213/176   . Common channel signalling
+ 2213/177   . Number sending signals, e.g. dialling tone, proceed
+ 2213/178   . Control signals, e.g. also service connection
+ 2213/179   . Facsimile; Fax, e.g. still picture
+ 2213/19    . Echo-cancelling; Hybrid; Amplifier; Attenuator
+ 2213/192   . Common amplifier for bidirectional traffic
+ 2213/194   . Four-wire connection or transmission
+ 2213/196   . Connection-circuit; Trunk; Junction circuit
+ 2213/197   . Ping-pong transmission
+ 2213/198   . Temporary associated devices; Pooled adapters
+ 2213/201   . Change-over service
+ 2213/202   . Network termination [NT]
+ 2213/203   . Exchange termination [ET]
+ 2213/204   . ISDN protocol; ISO 7
+ 2213/205   . Primary rate access
+ 2213/206   . User-to-user signalling
+ 2213/208   . Inverse multiplexing; Time slot sequence integrity
+ 2213/21    . Impulse transmission
+ 2213/211   . Impulse correction or reshaping
+ 2213/212   . Absorbing of digits
+ 2213/214   . Phase shifted impulses; Clock signals; Timing
+ 2213/216   . Code signals; Framing (not synchronizing)
+ 2213/217   . Setting of switch by means of pulses
+ 2213/218   . Bistable relays, e.g. Ferreed
+ 2213/222   . PBX circuits in public exchange (Centrex)
+ 2213/24    . Conference circuit
+ 2213/242   . Broadcast and multicast (1:N)
+ 2213/243   . Con-cast, e.g. multipoint-point (N:1)
+ 2213/246   . Instant speaker's algorithm [ISA]
+ 2213/25    . Preferential service
+ 2213/251   . Restricted service
+ 2213/252   . Breaking-in on existing connection
+ 2213/272   . Premature release
+ 2213/281   . Prepared call transfer, e.g. night service,
+ 2213/286   . Direct inward dialling [PBX]
+ 2213/287   . Call service, e.g. morning call service
+ 2213/291   . Frequency division multiplex
+ 2213/292   . Time (de)multiplexing
+ 2213/293   . Irregular time switching, e.g. TASI; Burst switching
+ 2213/294   . Other multiplexing systems, e.g. codemultiplex,
+TDM, FDM, FDM and Space division, TDM and
+ 2213/295   . Wavelength division multiplex
+ 2213/297   . Coupling circuits between different (rate) TDM
+ 2213/298   . Loop or ring system
+ 2213/301   . Tubes and other non-linear elements with 2
+ 2213/302   . Magnetic elements
+ 2213/303   . Tubes and other non-linear elements with more than
+ 2213/304   . Superconductors; Thermistors; Varistors
+ 2213/306   . Ferro-electric elements
+ 2213/308   . Photo conductors; Photo elements
+ 2213/31    . Delay devices; Circuits, e.g. shift memories
+ 2213/322   . Integrated circuit
+ 2213/33    . Special systems; Special service
+ 2213/331   . Abbreviated dialing
+ 2213/333   . Systems with earth-satellites
+ 2213/334   . Key telephone system
+ 2213/336   . Store and forward, e.g. message switching
+ 2213/339   . Ciphering/encryption
+ 2213/34    . General scheme; Position of components in an
+ 2213/341   . Contactbank connections
+ 2213/342   . General scheme; Position of exchanges
+ 2213/345   . Intelligent network
+ 2213/346   . Switch with inverted grouping
+ 2213/348   . Reservation of lines/channels
+ 2213/349   . Network management; Expert system
+ 2213/35    . Separate control and speech paths, e.g. route-
+ 2213/352   . Self-routing switch
+ 2213/361   . Synchronous system
+ 2213/362   . Asynchronous system
+ 2213/363   . Bit or pulse stuffing
+ 2213/366   . Integrated systems, e.g. transparency
+ 2213/367   . Multiple multiplexing; Hierarchical multiplexing
+ 2213/372   . Intervention by operator; Intercepting operator
+ 2213/376   . Information service
+ 2213/377   . Recorded announcement
+ 2213/378   . Speech recognition; Speech analysis
+ 2213/38    . Interexchange connections, e.g. connections of
+ 2213/382   . Provisions for interexchange traffic in the local
+ 2213/383   . Main and subexchange, e.g. satellite exchanges
+ 2213/384   . Inter-PBX traffic; PBX networks
+ 2213/385   . Traffic in PBX to and from public exchange
+ 2213/386   . Line concentrator
+ 2213/388   . Saturation signalling system
+ 2213/39    . Channels assigned to subscribers
+ 2213/391   . Channel allocation to connections
+ 2213/392   . Channel allocation - special rules
+ 2213/393   . Channel interchanging, e.g. time slot switching
+ 2213/394   . Channel assignment without time slot switching
+ 2213/395   . (Semi)permanent channels, e.g. leased lines
+ 2213/396   . Signalling in general; Special register channel
+ 2213/399   . Virtual channel allocation
+ 2213/401   . DC and voltages of different kinds or values
+ 2213/402   . AC outside voice band
+ 2213/405   . Voice frequency current used for digit selection
+ 2213/407   . Push-button dialling (not H04Q 2213/405)

@@ -1,0 +1,3143 @@
+COOPERATIVE PATENT CLASSIFICATION
+INFORMATION STORAGE BASED ON RELATIVE MOVEMENT BETWEEN
+RECORD CARRIER AND TRANSDUCER (recording measured values in a way that does
+not require playback through a transducer G01D 9/00; recording or playback apparatus using
+mechanically marked tape, e.g. punched paper tape, or using unit records, e.g. punched or
+magnetically marked cards G06K; transferring data from one type of record carrier to another
+G06K 1/18; circuits for coupling output of reproducer to radio receiver H04B 1/20; gramophone
+pick-ups or like acoustic electromechanical transducers or circuits therefor H04R)
+• recording or playback of information by relative movement between a record track and  a transducer, the transducer
+directly producing, or being directly actuated by,  modulation in the track being recorded or played-back, and the extent of
+modulation  corresponding to the signal being recorded or played-back;
+• apparatus and machines for recording or playback, and parts thereof such as heads;
+• record carriers for use with such apparatus and machines;
+• associated working of other apparatus with such apparatus and machines;
+• {relative positioning or movement of transducers and record carriers before, during or after transducing operation, e.g.
+for accessing record carriers or parts thereof, or for track change, selection or acquisition or for track following or for
+• {driving or moving of heads or record carriers or both heads and record carriers for increasing, maintaining or decreasing
+the relative speed before, during or after transducing operation}
+2. In this subclass, the following terms or expressions are used with the meanings indicated :
+• "head" includes any means for converting sinusoidal or non-sinusoidal electric  wave-forms into variations of the physical
+condition of at least the adjacent surface  of the record carrier, or vice versa;
+• "record carrier" means a body, such as a cylinder, disc, card, tape, or wire, capable  of permanently holding information,
+which can be read-off by a sensing element  movable relatively to the record carrier.
+3. Documents concerning relative positioning or movement of transducers and record carriers are classified in groups
+G11B 3/00 - G11B 7/00 and G11B 21/00 when only the transducer is controlled and in groups G11B 15/00, G11B 17/00 and
+G11B 19/00 when only the record carrier is controlled. When both record carrier and head are controlled, the documents are
+classified in G11B 15/1808, G11B 15/1816, G11B 19/00 and G11B 27/002.
+When a plurality of record carriers are controlled, the documents are classified in G11B 15/68, G11B 17/08, G11B 17/22 and
+4. By "access" is meant an operation including a relative movement for positioning between record carrier and head before,
+during or after transducing; this operation including "seek", "select", "change", "acquire" and "follow" functions for at least
+a part of a track on at least one record carrier. By "programmed access" is meant a sequence of access operations the result
+of the sequence being to acquire a wanted sequence of parts of tracks or a wanted sequence of tracks. Relative movement
+between head and record carrier also covers the movement of a coupling beam such as a light beam between the head and a
+5. "Movement of the head" also covers any virtual movement or any physical movement such as obtained by switching between
+successive transducing parts of the head or by moving the transducing zone of the head, i.e. by "scanning". If different
+transducing parts of the head are switchable, the number of transducing parts should be much smaller than the number of
+individual storage areas of the record carrier.
+6. Attention is drawn to the notes of subclass G11C.
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+G11B 5/66 and  G11B 5/672 - G11B 5/678
+G11B 5/73,  G11B 5/733, G11B 5/7334 and
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    3/00    Recording by mechanical cutting, deforming or
+pressing, e.g. of grooves or pits; Reproducing by
+mechanical sensing; Record carriers therefor
+(G11B 11/00, {G11B 13/00} take precedence)
+    3/001   . {with vibrating mechanical coupling means between
+pick-up element and sound producing element}
+    3/002   . . {element with stationary record carriers}
+    3/003   . {Devices for transmitting, directing, amplifying
+    3/005   . . {through hollow arms}
+    3/007   . {Devices for controlling sound, e.g. using acoustical
+    3/008   . {for digital information}
+    3/02    . Arrangements of heads
+    3/04    . . Multiple, convertible, or alternative transducing
+    3/06    . . Determining or indicating positions of head
+    3/08    . . Raising, lowering, traversing otherwise than
+for transducing, arresting, or holding-up
+heads against record carriers {(for transducing
+    3/085   . . . using automatic means (G11B 3/095 takes
+precedence {; if particularly adapted for record-
+changers see G11B 17/16 and subgroups})
+    3/08503 . . . . {Control of drive of the head}
+    3/08506 . . . . . {for pivoting pick-up arms}
+    3/08509 . . . . . . {using mechanical detecting means}
+    3/08512 . . . . . . {using optical detecting means}
+    3/08516 . . . . . . {using magnetic detecting means}
+    3/08519 . . . . . {for pick-up arms moving parallel to
+    3/08522 . . . . . . {using mechanical detecting means}
+    3/08525 . . . . . . {using optical detecting means}
+    3/08529 . . . . . . {using magnetic or electric detecting
+    3/08532 . . . . . {for fixed arms carrying a movable head}
+    3/08535 . . . . {Driving the head}
+    3/08538 . . . . . {the head being driven by the same means
+    3/08541 . . . . . . {for pivoting pick-up arms}
+    3/08545 . . . . . . . {driven by cams}
+    3/08548 . . . . . . . . {using friction coupling}
+    3/08551 . . . . . . . . . {for the horizontal movement
+    3/08554 . . . . . . {for pick-up arms moving parallel to
+    3/08558 . . . . . . . {driven by belt or analogous element}
+    3/08561 . . . . . . . {driven by non-skip driving means,
+    3/08564 . . . . . {the head being driven by means
+independent of the record carrier driving
+    3/08567 . . . . . . {for pivoting pick-up arms}
+    3/0857  . . . . . . . {driven by means which support the
+    3/08574 . . . . . . . . {the supporting element being
+different from the rotation-axes}
+    3/08577 . . . . . . . . . {for the vertical movement only}
+    3/0858  . . . . . . . . . . {using mechanical means}
+    3/08583 . . . . . . . . . . {using electrical/magnetic
+    3/08587 . . . . . . {for pick-up arm moving parallel to
+    3/0859  . . . . . . . {driven by belt or analogous element}
+    3/08593 . . . . . . . {driven by non-skip driving means,
+    3/08596 . . . . . . {for fixed arms carrying a movable
+    3/09    . . . using manual means only (G11B 3/095 takes
+    3/091   . . . . {using magnetic means (G11B 3/093 takes
+    3/092   . . . . {using mechanical means (G11B 3/093 takes
+    3/093   . . . . {Means coupled to the cover}
+    3/095   . . . for repeating a part of the record; for beginning
+or stopping at a desired point of the record
+    3/0952  . . . . {using automatic means}
+    3/0955  . . . . . {using mechanical means for detecting the
+    3/0957  . . . . . {using optical means for detecting the
+end of the recording or the desired point
+    3/10    . . Arranging, supporting, or driving of heads or of
+transducers relatively to record carriers {(guiding
+record carriers G11B 17/00, driving record
+    3/12    . . . Supporting in balanced, counterbalanced or
+loaded operative position {during transducing},
+e.g. loading in direction of traverse
+    3/121   . . . . {By using mechanical means not provided
+for in G11B 3/14, G11B 3/20, e.g. using
+    3/122   . . . . . {Providing horizontal force, e.g. anti-
+skating (G11B 3/124 takes precedence)}
+    3/124   . . . . . {Damping means therefor}
+    3/125   . . . . {by using electric or magnetic means}
+    3/127   . . . . . {Providing horizontal force, e.g. anti-
+skating force (G11B 3/128 takes
+    3/128   . . . . . {Damping means therefor}
+    3/14    . . . . by using effects of gravity or inertia, e.g.
+counterweight (G11B 3/28 takes precedence)
+    3/145   . . . . . {Providing horizontal force, e.g.
+anti-skating force (G11B 3/18 takes
+    3/16    . . . . . adjustable
+    3/18    . . . . . Damping by using viscosity effect
+    3/20    . . . . by elastic means, e.g. spring (G11B 3/28
+    3/22    . . . . . adjustable
+    3/24    . . . . . acting to decrease pressure on record
+    3/26    . . . . . acting to increase pressure on record
+    3/28    . . . . providing transverse bias parallel to record
+see provisionally also G11B 3/14,
+    3/30    . . . Supporting in an inoperative position
+    3/31    . . . . Construction of arms {(for transmitting,
+directing or amplifying sound G11B 3/003)}
+    3/32    . . . . Construction or arrangement of support
+    3/34    . . . Driving or guiding during transducing
+    3/36    . . . . Automatic-feed mechanisms producing
+progressive transducing traverse across
+record carriers otherwise than by grooves,
+    3/38    . . . . Guiding, e.g. constructions or arrangements
+providing linear or other special tracking
+    3/40    . . . . Driving of heads relatively to stationary
+record carriers for transducing
+    3/42    . . . with provision for adaptation or interchange of
+    3/44    . Styli, e.g. sapphire, diamond
+    3/445   . . {Styli particularly adapted for sensing video
+    3/46    . . Constructions or forms {Disposition or
+mounting}, e.g. attachment of point to shank
+{(attachment of stylus directly to transducer
+    3/50    . . Anvils or other supports opposing stylus forces
+    3/52    . . Arrangements permitting styli to yield under
+    3/54    . . Storing; Manipulating, e.g. feeding styli to and
+    3/56    . . Sharpening (grinding B24B 3/00, B24B 19/00)
+    3/58    . Cleaning record carriers or styli, e.g. removing
+shavings or dust {or electrostatic charges}
+    3/5809  . . {during transducing operation}
+    3/5818  . . . {for record carriers}
+    3/5827  . . . . {using means contacting the record carrier}
+    3/5836  . . . . . {means connected to the pick-up arm or
+    3/5845  . . . . . {means connected to a separate arm}
+    3/5854  . . . . {using means not contacting the record
+    3/5863  . . . . . {connected to the pick-up arm or head}
+    3/5872  . . . . . {connected to a separate arm}
+    3/5881  . . . {for styli or needles only}
+    3/589   . . {before or after transducing operation}
+    3/60    . Turntables for record carriers
+contains no documents, see G11B 19/2009
+    3/61    . . Damping of vibrations of record carriers on
+see provisionally also G11B 3/60, G11B 3/589
+and G11B 17/02; contains no documents, see
+    3/64    . Re-recording, i.e. transcribing information from one
+grooved record carrier on to one or more similar or
+dissimilar record carriers {(by varying the order of
+the information G11B 27/029, G11B 27/036)}
+    3/66    . Erasing information, e.g. for reuse of record carrier
+    3/682   . . {comprising protective coatings, e.g. anti static,
+    3/685   . . {Intermediate mediums}
+    3/687   . . {Testing thereof (investigating chemical or
+physical properties of materials G01N)}
+    3/70    . . characterised by the selection of material or
+structure; Processes or apparatus specially
+adapted for manufacturing record carriers
+    3/702   . . . {for video discs with grooves (G11B 3/705
+    3/705   . . . {characterised by the selection of the material
+    3/707   . . . . {for video discs with grooves}
+    3/72    . . Groove formations, e.g. run-in groove, run-out
+    3/74    . . . Multiple output tracks, e.g. binaural
+    3/76    . . . forming part of cinematograph films
+    3/78    . . Multiple-track arrangements
+    3/80    . . incorporating subsidiary guide means for heads,
+other than modulated grooves; Part-formed
+unmodulated grooves for conversion into
+    3/90    . . with means indicating prior or unauthorised use
+    5/00    Recording by magnetisation or demagnetisation
+of a record carrier; Reproducing by magnetic
+means; Record carriers therefor (G11B 11/00 {and
+Subgroups G11B 5/02 - G11B 5/86
+ 2005/0002  . {Special dispositions or recording techniques}
+ 2005/0005  . . {Arrangements, methods or circuits}
+ 2005/0008  . . . {Magnetic conditionning of heads, e.g.
+ 2005/001   . . . {Controlling recording characteristics of
+record carriers or transducing characteristics
+of transducers by means not being part of their
+ 2005/0013  . . . . {of transducers, e.g. linearisation,
+ 2005/0016  . . . . . {of magnetoresistive transducers}
+ 2005/0018  . . . . . . {by current biasing control or
+ 2005/0021  . . . {Thermally assisted recording using
+an auxiliary energy source for heating
+the recording layer locally to assist the
+ 2005/0024  . . . {Microwave assisted recording}
+ 2005/0026  . . {Pulse recording}
+ 2005/0029  . . . {using magnetisation components of
+the recording layer disposed mainly
+perpendicularly to the record carrier surface}
+ 2005/0032  . . {Transducing means or record carriers
+including or interacting with each other through
+interposition of, a physically controllable
+magnetic flux masking or focusing element}
+ 2005/0034  . . . {switchable at least locally between two
+different physical states, e.g. magnetic and non-
+ 2005/0037  . . . . {using superconductive elements}
+    5/004   . Recording on, or reproducing or erasing from,
+magnetic drums (G11B 19/00 takes precedence)
+    5/008   . Recording on, or reproducing or erasing from,
+magnetic tapes, {sheets, e.g. cards,} or wires
+(G11B 15/00 {G11B 19/00} take precedence; {bulk
+transferring of information magnetisation for re-
+recording G11B 5/865; marking record carriers in
+    5/00804 . . {magnetic sheets (rotating sheets G11B 5/012)}
+    5/00808 . . . {magnetic cards}
+    5/00813 . . {magnetic tapes}
+    5/00817 . . . {on longitudinal tracks only, e.g. for serpentine
+    5/00821 . . . . {using stationary heads}
+    5/00826 . . . . . {comprising a plurality of single poles
+or gaps or groups thereof operative at the
+    5/0083  . . . . . . {for parallel information processing, e.g.
+    5/00834 . . . . . {using virtual scanning heads}
+    5/00839 . . . . {using cyclically driven heads providing
+ 2005/00843 . . . . {allowing digital compact cassette [DCC]
+    5/00847 . . . {on transverse tracks (G11B 5/00878 takes
+    5/00852 . . . . {using stationary heads}
+    5/00856 . . . . . {comprising a plurality of single poles or
+gaps or groups thereof operative in time
+    5/0086  . . . . {using cyclically driven heads providing
+    5/00865 . . . . . {for transducing on more than one
+    5/00869 . . . . . . {the segments being disposed in
+different lateral zones of the tape}
+    5/00873 . . . . . . {the segments being disposed in
+different longitudinal zones of the tape}
+    5/00878 . . . {transducing different track configurations or
+    5/00882 . . . . {configurations only, e.g. longitudinal and
+    5/00886 . . . . . {simultaneously}
+    5/00891 . . . . {formats only, e.g. analog and digital}
+    5/00895 . . . . . {simultaneously}
+    5/012   . Recording on, or reproducing or erasing from,
+magnetic disks (G11B 17/00, G11B 19/00 take
+    5/016   . . using magnetic foils
+    5/02    . Recording, reproducing, or erasing methods; Read,
+write or erase circuits therefor
+    5/022   . . {H-Bridge head driver circuit, the "H"
+configuration allowing to inverse the current
+    5/0245  . . . {Bulk erasing}
+    5/027   . . Analogue recording
+    5/0275  . . . {Boundary displacement recording}
+    5/09    . . Digital recording
+    5/10    . Structure or manufacture of housings or shields for
+    5/102   . . {Manufacture of housing}
+    5/105   . . Mounting of head within housing {or assembling
+of head and housing (G11B 5/3103 takes
+    5/11    . . Shielding of head against electric or magnetic
+    5/112   . . . {Manufacture of shielding device}
+    5/115   . . . Shielding devices arranged between heads or
+windings ({G11B 5/265} , G11B 5/29 take
+    5/127   . Structure or manufacture of heads, e.g. inductive
+    5/1272  . . {Assembling or shaping of elements
+(G11B 5/1278 takes precedence)}
+    5/1274  . . {with "composite" cores, i.e. cores composed
+in some parts of magnetic particles and in some
+other parts of magnetic metal layers}
+    5/1276  . . . {including at least one magnetic thin film}
+    5/1278  . . {specially adapted for magnetisations
+perpendicular to the surface of the record carrier}
+    5/133   . . with cores composed of particles, e.g. with dust
+cores, with ferrite cores {with cores composed
+of isolated magnetic particles (in thin films
+    5/1335  . . . {Assembling or shaping of elements}
+    5/147   . . with cores being composed of metal sheets,
+i.e. laminated cores {with cores composed of
+isolated magnetic layers, e.g. sheets (in thin films
+    5/1475  . . . {Assembling or shaping of elements
+    5/153   . . . with tape-wound cores
+    5/17    . . Construction or disposition of windings
+    5/187   . . Structure or manufacture of the surface of the
+head in physical contact with, or immediately
+adjacent to the recording medium; Pole pieces;
+Gap features (G11B 5/265, {G11B 5/29} ,
+    5/1871  . . . {Shaping or contouring of the transducing or
+    5/1872  . . . . {for improving the form of the electrical
+signal transduced, e.g. compensation of
+    5/1874  . . . . . {specially adapted for composite pole
+pieces, e.g. for avoiding "pseudo-gap"}
+    5/1875  . . . {"Composite" pole pieces, i.e. poles composed
+in some parts of magnetic particles and in some
+other parts of magnetic metal layers}
+    5/1877  . . . . {including at least one magnetic thin film}
+    5/1878  . . . . . {disposed immediately adjacent to the
+transducing gap, e.g. "Metal-In-Gap"
+    5/193   . . . the pole pieces being ferrite {or other magnetic
+particles (G11B 5/1871 takes precedence; in
+    5/21    . . . the pole pieces being of ferrous sheet metal
+{or other magnetic layers (G11B 5/1871 takes
+precedence; in thin film G11B 5/31)}
+    5/23    . . . Gap features {(G11B 5/1871, G11B 5/1875,
+G11B 5/265, G11B 5/29, G11B 5/488 and
+subgroups, G11B 5/4907 and subgroups,
+G11B 5/4969 and subgroups take precedence)}
+    5/232   . . . . {Manufacture of gap}
+    5/235   . . . . Selection of material for gap filler
+{(G11B 5/232 takes precedence)}
+    5/245   . . . comprising means for controlling the reluctance
+of the magnetic circuit {in a head with
+single gap, for co-operation with one track}
+    5/2452  . . . . {where the dimensions of the effective gap
+    5/2455  . . . . . {the magnetic circuit including at least
+one magnetic thin film of controllable
+properties (for scanning G11B 5/4938)}
+    5/2457  . . . . . . {disposed immediately adjacent to
+the gap ("composite" pole pieces
+    5/255   . . . comprising means for protection against wear
+{(in thin film structures G11B 5/3106)}
+    5/265   . . Structure or manufacture of a head with
+more than one gap for erasing, recording or
+reproducing on the same track (G11B 5/33 takes
+precedence {in thin film structures G11B 5/31})
+    5/2651  . . . {Manufacture}
+    5/2652  . . . {with more than one gap simultaneously
+operative (with controlled single gap
+    5/2654  . . . . {for recording or erasing}
+    5/2655  . . . . . {with all the gaps disposed within the
+track or "guard band" between tracks, e.g.
+with erase gaps operative on track edges,
+with wide erase gap followed by narrow
+    5/2657  . . . . . . {all the gaps having the same dimension
+in the direction transverse to the track
+    5/2658  . . . . . . . {for recording with premagnetization
+or biasing of record carrier or head}
+    5/29    . . Structure or manufacture of unitary devices
+formed of plural heads for more than one track
+{(G11B 5/33, G11B 5/49 and subgroups take
+precedence; in thin film structure G11B 5/31)}
+    5/295   . . . {Manufacture}
+    5/31    . . using thin films {(G11B 5/1274, G11B 5/1278,
+G11B 5/1874, G11B 5/1875, G11B 5/33,
+G11B 5/49 take precedence; magnetic thin film
+    5/3103  . . . {Structure or manufacture of integrated
+heads or heads mechanically assembled and
+electrically connected to a support or housing}
+    5/3106  . . . . {where the integrated or assembled
+structure comprises means for conditioning
+against physical detrimental influence, e.g.
+wear, contamination (G11B 5/3133 takes
+    5/3109  . . . {Details (G11B 5/3103 takes precedence)}
+    5/3113  . . . . {for improving the magnetic domain
+structure or avoiding the formation or
+displacement of undesirable magnetic
+    5/3116  . . . . {Shaping of layers, poles or gaps for
+improving the form of the electrical signal
+transduced, e.g. for shielding, contour effect,
+equalizing, side flux fringing, cross talk
+reduction between heads or between heads
+and information tracks (G11B 5/3113,
+    5/312   . . . . {for reducing flux leakage between the
+electrical coil layers and the magnetic cores
+or poles or between the magnetic cores or
+    5/3123  . . . . . {by using special coil configurations or
+    5/3126  . . . . . . {using superconductors}
+    5/313   . . . . {Disposition of layers}
+    5/3133  . . . . . {including layers not usually being a part
+of the electromagnetic transducer structure
+and providing additional features, e.g.
+for improving heat radiation, reduction
+of power dissipation, adaptations for
+measurement or indication of gap depth
+or other properties of the structure
+(G11B 5/3106 takes precedence)}
+    5/3136  . . . . . . {for reducing the pole-tip-protrusion at
+the head transducing surface, e.g. caused
+by thermal expansion of dissimilar
+    5/314   . . . . . . {where the layers are extra layers
+transducing structure, e.g. optical layers
+(G11B 5/3196 takes precedence)}
+    5/3143  . . . . . {including additional layers for improving
+the electromagnetic transducing
+properties of the basic structure, e.g.
+for flux coupling, guiding or shielding
+    5/3146  . . . . . . {magnetic layers}
+    5/315   . . . . . . . {Shield layers on both sides of the
+main pole, e.g. in perpendicular
+    5/3153  . . . . . . . {including at least one magnetic thin
+film coupled by interfacing to the
+basic magnetic thin film structure}
+    5/3156  . . . . . . . . {providing interaction by induced
+    5/3159  . . . . . . {superconductive layers}
+    5/3163  . . . {Fabrication methods or processes specially
+adapted for a particular head structure, e.g.
+using base layers for electroplating, using
+functional layers for masking, using energy
+or particle beams for shaping the structure or
+modifying the properties of the basic layers}
+    5/3166  . . . . {Testing or indicating in relation thereto, e.g.
+before the fabrication is completed}
+    5/3169  . . . . {Working or finishing the interfacing surface
+of heads, e.g. lapping of heads}
+    5/3173  . . . . {Batch fabrication, i.e. producing a plurality
+of head structures in one batch}
+    5/3176  . . . {Structure of heads comprising at least in
+the transducing gap regions two magnetic
+thin films disposed respectively at both sides
+of the gaps (G11B 5/2455, G11B 5/265
+take precedence; composite magnetic head
+structures, e.g. "Metal-In-Gap" heads are
+classified in G11B 5/127 or G11B 5/187 and
+    5/3179  . . . . {the films being mainly disposed in parallel
+    5/3183  . . . . . {intersecting the gap plane, e.g.
+    5/3186  . . . . . {parallel to the gap plane, e.g. "vertical
+    5/3193  . . . . {of films or layers, e.g. continuity test}
+    5/3196  . . . . . {of thin magnetic films, e.g. functional
+testing of the transducing properties
+    5/325   . . Erasing heads using permanent magnets (general
+details therefor G11B 5/133 - G11B 5/255)
+    5/33    . . Structure or manufacture of flux-sensitive heads,
+{i.e. for reproduction only; Combination of
+such heads with means for recording or erasing
+only}({Single head using magnetic domains
+for scanning G11B 5/4946; multiple head for
+scanning G11B 5/4907 and subgroups } ; general
+details therefor G11B 5/133 - G11B 5/255)
+    5/332   . . . {using thin films (G11B 5/372, G11B 5/3903
+    5/335   . . . with saturated jig, e.g. for detecting second
+    5/35    . . . having vibrating elements
+    5/37    . . . using galvano-magnetic devices, e.g.
+Hall-effect devices (G11B 5/39 takes
+precedence){using Hall or Hall-related effect,
+e.g. planar-Hall effect or pseudo-Hall effect}
+    5/372   . . . . {in magnetic thin films}
+    5/374   . . . . . {Integrated structures}
+    5/376   . . . . {in semi-conductors (G11B 5/372 takes
+    5/378   . . . . . {Integrated structures}
+    5/39    . . . using magneto-resistive devices {or effects}
+    5/3903  . . . . {using magnetic thin film layers or their
+effects, the films being part of integrated
+    5/3906  . . . . . {Details related to the use of magnetic thin
+film layers or to their effects}
+    5/3909  . . . . . . {Arrangements using a magnetic tunnel
+    5/3912  . . . . . . {Arrangements in which the active
+read-out elements are transducing in
+association with active magnetic shields,
+e.g. magnetically coupled shields
+(G11B 5/3916 takes precedence)}
+    5/3916  . . . . . . {Arrangements in which the active
+read-out elements are coupled to the
+magnetic flux of the track by at least one
+    5/3919  . . . . . . . {the guide being interposed in the flux
+    5/3922  . . . . . . . . {the read-out elements being
+disposed in magnetic shunt relative
+to at least two parts of the flux
+    5/3925  . . . . . . . . . {the two parts being thin films}
+    5/3929  . . . . . . {Disposition of magnetic thin films not
+used for directly coupling magnetic flux
+from the track to the MR film or for
+    5/3932  . . . . . . . {Magnetic biasing films}
+    5/3935  . . . . . . . {Flux closure films not being part of
+    5/3938  . . . . . . . . {the flux closure films being
+    5/3941  . . . . . . . . {the flux closure films being used
+for providing a closed magnetic
+    5/3945  . . . . . . {Heads comprising more than one
+    5/3948  . . . . . . . {the sensitive elements being active
+    5/3951  . . . . . . . . {the active elements being arranged
+    5/3954  . . . . . . . . . {the active elements transducing
+    5/3958  . . . . . . . . {the active elements being arranged
+in a single plane, e.g. "matrix"
+    5/3961  . . . . . . . . . {disposed at an angle to the
+direction of the track or relative
+    5/3964  . . . . . . . . . . {for transducing on a single
+    5/3967  . . . . . {Composite structural arrangements
+of transducers, e.g. inductive write and
+magnetoresistive read (G11B 5/3906 takes
+    5/397   . . . . . . {with a plurality of independent
+magnetoresistive active read-out
+elements for respectively transducing
+    5/3974  . . . . . . . {from the same information track, e.g.
+    5/3977  . . . . . . . {from different information tracks}
+    5/398   . . . . . {Specially shaped layers}
+    5/3983  . . . . . . {with current confined paths in the
+    5/3987  . . . . . . {with provision for closing the magnetic
+    5/399   . . . . . {with intrinsic biasing, e.g. provided by
+    5/3993  . . . . . {in semi-conductors}
+ 2005/3996  . . . . {large or giant magnetoresistive effects
+[GMR], e.g. as generated in spin-valve [SV]
+    5/40    . Protective measures on heads, e.g. against excessive
+temperature (G11B 5/31 takes precedence;
+protection against wear G11B 5/255 {protective
+structure of the head: see under structures, e.g.
+    5/41    . Cleaning of heads {(of record carriers
+    5/455   . Arrangements for functional testing of heads;
+Measuring arrangements for heads
+    5/4555  . . {by using a spin-stand, i.e. a spinning disc or
+    5/465   . Arrangements for demagnetisation of heads
+    5/48    . Disposition or mounting of heads {or head
+supports} relative to record carriers {(mounting of
+head within housing G11B 5/105); arrangements
+of heads, e.g. for scanning the record carrier to
+increase the relative speed (driving of both record
+carriers and head G11B 15/18; guiding record
+carriers G11B 15/60; head selecting circuits
+    5/4806  . . {specially adapted for disk drive assemblies,
+e.g. assembly prior to operation, hard or flexible
+disk drives (G11B 5/488 - G11B 5/54 take
+    5/4813  . . . {Mounting or aligning of arm assemblies, e.g.
+actuator arm supported by bearings, multiple
+arm assemblies, arm stacks or multiple heads
+on single arm (G11B 5/484 takes precedence)}
+    5/4826  . . . {Mounting, aligning or attachment of the
+transducer head relative to the arm assembly,
+e.g. slider holding members, gimbals, adhesive
+(G11B 5/484 takes precedence; details of head
+housings or structures G11B 5/10, G11B 5/127;
+adjustment relative to the record carrier
+    5/483   . . . . {Piezo-electric devices between head and
+    5/4833  . . . {Structure of the arm assembly, e.g. load
+beams, flexures, parts of the arm adapted
+for controlling vertical force on the head
+    5/484   . . . {Integrated arm assemblies, e.g. formed by
+material deposition or by etching from single
+piece of metal or by lamination of materials
+forming a single arm/suspension/head unit}
+    5/4846  . . . {Constructional details of the electrical
+connection between arm and support}
+    5/4853  . . . {Constructional details of the electrical
+connection between head and arm}
+    5/486   . . . {with provision for mounting or arranging
+electrical conducting means or circuits on or
+    5/4866  . . . {the arm comprising an optical waveguide, e.g.
+for thermally-assisted recording}
+    5/4873  . . . {the arm comprising piezoelectric or other
+actuators for adjustment of the arm}
+    5/488   . . {Disposition of heads (G11B 5/49, G11B 5/52
+    5/4886  . . . {relative to rotating disc}
+    5/4893  . . . {relative to moving tape}
+    5/49    . . Fixed mounting {or arrangements, e.g. one head
+    5/4907  . . . {Details for scanning (G11B 5/4969 takes
+    5/4915  . . . . {Structure of specially adapted heads
+(G11B 5/3906 takes precedence)}
+    5/4923  . . . . . {in which zones of the transducing part are
+    5/493   . . . . . . {Control of magnetic properties, e.g.
+    5/4938  . . . . . . . {of thin magnetic films}
+    5/4946  . . . . . . . . {for formation or displacement
+of magnetic domains, e.g. walls,
+    5/4953  . . . . . {part of the structure being mechanically
+or magnetically coupled to or decoupled
+    5/4969  . . . {Details for track selection or addressing}
+    5/4976  . . . . {Disposition of heads, e.g. matrix
+    5/4984  . . . . {Structure of specially adapted switching
+heads (G11B 5/3958 takes precedence)}
+    5/50    . . Interchangeable mountings, e.g. for replacement
+    5/52    . . with simultaneous movement of head and record
+carrier, e.g. rotation of head (G11B 5/588 takes
+    5/53    . . . Disposition or mounting of heads on rotating
+    5/531   . . . . {Disposition of more than one recording
+or reproducing head on support rotating
+    5/532   . . . . . {Parallel to the direction of movement of
+the tape, e.g. for transversal scanning}
+    5/534   . . . . . {inclined relative to the direction of
+movement of the tape, e.g. for helicoidal
+    5/535   . . . . . {perpendicular to the direction of
+movement of the tape, e.g. for longitudinal
+    5/537   . . . . . . {with all the heads disposed in a plane
+substantially parallel to the plane of the
+tape, e.g. for circular scanning}
+    5/538   . . . . {Disposition or mounting of pole pieces on
+rotating support (magnetic switching of fixed
+    5/54    . . with provision for moving the head into or out of
+its operative position or across tracks
+    5/55    . . . Track change, selection or acquisition by
+    5/5504  . . . . {across tape tracks}
+    5/5508  . . . . . {Control circuits therefor (G11B 5/5513
+    5/5513  . . . . {Specially adapted for transducing in both
+    5/5517  . . . . . {Controlled by automatic tape drive
+reversing arrangement (reversing tape
+drive arrangements G11B 15/444)}
+    5/5521  . . . . {across disk tracks (spiral track following
+For groups G11B 5/5526 - G11B 5/5582,
+see provisionally G11B 5/5521 and
+    5/5526  . . . . . {Control therefor; circuits, track
+configurations or relative disposition of
+servo-information transducers and servo-
+information tracks for control thereof
+    5/553   . . . . . . {Details}
+    5/5534  . . . . . . . {Initialisation, calibration, e.g.
+    5/5539  . . . . . . . . {Skew adjustment, e.g. adjustment
+of the position of the first sector in
+each track with respect to the other
+tracks, for improving, e.g. access
+    5/5543  . . . . . . . . {servo-format therefor}
+    5/5547  . . . . . . . {"Seek" control and circuits therefor
+(G11B 5/5556 takes precedence)}
+    5/5552  . . . . . {using fine positioning means for track
+acquisition separate from the coarse (e.g.
+track changing) positioning means}
+    5/5556  . . . . . . {with track following after a "seek"}
+    5/556   . . . . . . . {control circuits therefor}
+    5/5565  . . . . . {system adaptation for compensation of
+variations of physical parameters, e.g.
+    5/5569  . . . . . {details of specially adapted mobile parts,
+e.g. electromechanical control devices
+    5/5573  . . . . . . {Details of the magnetic circuit, e.g. of
+    5/5578  . . . . . . {Multiple actuators addressing the same
+disk, e.g. to improve data rate or access
+    5/5582  . . . . . {system adaptation for working during
+or after external perturbation, e.g. in
+the presence of a mechanical oscillation
+    5/5586  . . . . . {Minimising seek noise, e.g. actuator
+    5/5591  . . . . {across drum tracks}
+    5/5595  . . . . . {Control circuits therefor}
+    5/56    . . with provision for moving the head {support}
+for the purpose of adjusting the position of the
+head relative to the record carrier, e.g. manual
+adjustment for azimuth correction or track
+centering ({G11B 5/52,} G11B 5/54, G11B 5/58
+    5/58    . . with provision for moving the head for the
+purpose of maintaining alignment of the
+head relative to the record carrier during
+transducing operation, e.g. to compensate for
+surface irregularities of the latter or for track
+following {(spacing means incorporated in
+the head structure G11B 5/187, G11B 5/255,
+    5/581   . . . {maintaining desired contact or spacing by
+direct interaction of forces generated between
+heads or supports thereof and record carriers
+or supports thereof, e.g. attraction-repulsion
+    5/582   . . . . {interactions in a magnetic field}
+    5/583   . . . . . {using repulsion generated by
+superconductors in a magnetic field, e.g.
+    5/584   . . . for track following on tapes
+    5/588   . . . . by controlling the position of the rotating
+heads (by controlling the speed of the record
+carrier G11B 15/467; by controlling speed
+of the heads G11B 15/473; {by moving the
+transducing part of the head relative to the
+headwheel, in the direction of the scanning
+    5/592   . . . . . using bimorph elements supporting the
+heads {(see provisional also G11B 5/588)}
+    5/5921  . . . . . . {using auxiliary signals, e.g. pilot
+    5/5922  . . . . . . . {superimposed on the main signal}
+    5/5923  . . . . . . . {recorded in horizontal suppression
+    5/5925  . . . . . . . {recorded in vertical suppression
+    5/5926  . . . . . . . {recorded in separate tracks, e.g.
+    5/5927  . . . . . . . . {Helicoidal tracks}
+    5/5928  . . . . . . . . {Longitudinal tracks}
+    5/596   . . . for track following on disks {(G11B 5/5526,
+G11B 5/5552, G11B 5/5565, G11B 5/5582 take
+For groups G11B 5/59605 - G11B 5/59633,
+see provisionally G11B 5/5521 and
+    5/59605 . . . . {Circuits (G11B 5/59627 - G11B 5/59688
+    5/59611 . . . . . {Detection or processing of peak/envelop
+    5/59616 . . . . . {Synchronisation; Clocking
+(G11B 5/59622 takes precedence)}
+    5/59622 . . . . . {Gain control; Filters}
+    5/59627 . . . . {Aligning for runout, eccentricity or offset
+compensation (G11B 5/5534, G11B 5/59677,
+    5/59633 . . . . {Servo formatting (G11B 5/59627,
+    5/59638 . . . . . {Servo formatting apparatuses, e.g. servo-
+    5/59644 . . . . . {Acquisition or selection of servo format
+from a system reference (after track seek
+    5/5965  . . . . . {Embedded servo format (G11B 5/59655
+    5/59655 . . . . . {Sector, sample or burst servo format}
+    5/59661 . . . . . {Spiral servo format}
+    5/59666 . . . . . {Self servo writing}
+    5/59672 . . . . . {Servo re-writing, e.g. for the correction of
+offsets or 'fading' of servo marks}
+    5/59677 . . . . {with optical servo tracking}
+    5/59683 . . . . {for magnetoresistive heads}
+    5/59688 . . . . {Servo signal format patterns or signal
+processing thereof, e.g. dual, tri, quad, burst
+    5/59694 . . . . {System adaptation for working during
+or after external perturbation, e.g. in the
+presence of a mechanical oscillation caused
+    5/60    . . . Fluid-dynamic spacing of heads from record-
+    5/6005  . . . . {Specially adapted for spacing from a
+rotating disc using a fluid cushion}
+    5/6011  . . . . . {Control of flying height}
+    5/6017  . . . . . . {using capacitive measurement}
+    5/6023  . . . . . . {using inductive measurement}
+    5/6029  . . . . . . {Measurement using values derived
+from the data signal read from the disk}
+    5/6035  . . . . . . {using electrostatic forces}
+    5/6041  . . . . . . {using magnetic forces}
+    5/6047  . . . . . . {using magnetostrictive means}
+    5/6052  . . . . . . {using optical means}
+    5/6058  . . . . . . {using piezoelectric means}
+    5/6064  . . . . . . {using air pressure}
+    5/607   . . . . . . {using thermal means}
+    5/6076  . . . . . . {Detecting head-disk contact}
+    5/6082  . . . . . {Design of the air bearing surface}
+    5/6088  . . . . . {Optical waveguide in or on flying head}
+    5/6094  . . . . . {Preventing or discharging electrostatic
+charge build-up on the flying head}
+    5/62    . Record carriers characterised by the selection of the
+This group does not cover compositions,
+materials or processes, per se, which are covered
+by the relevant subclasses of section B or C.
+    5/627   . . of leaders for magnetic tapes, e.g. non-magnetic
+strips on the tapes or for connection
+    5/633   . . of cinematographic films or slides with integral
+    5/64    . . comprising only the magnetic material without
+by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+    5/642   . . . {self supporting magnetic material, e.g.
+    5/65    . . . characterised by its composition (G11B 5/66
+by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+    5/653   . . . . {containing Fe or Ni (containing Co
+G11B 5/656; containing inorganic,
+non-oxide compounds of Si, N, P, B, H
+or C G11B 5/657; containing oxygen
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+    5/656   . . . . {containing Co (containing inorganic,
+non-oxide compounds of Si, N, P, B, H
+or C G11B 5/657; containing oxygen
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+    5/657   . . . . {containing inorganic, non-oxide compound
+of Si, N, P, B, H or C, e.g. in metal alloy or
+compound (containing oxygen G11B 5/658)}
+Group G11B 5/657 is incomplete pending
+reclassification of documents from groups
+G11B 5/64 and G11B 5/65 - G11B 5/656.
+All groups listed in this Warning should
+be considered in order to perform a
+    5/658   . . . . {containing oxygen, e.g. molecular oxygen
+Group G11B 5/658 is incomplete pending
+reclassification of documents from groups
+G11B 5/64 and G11B 5/65 - G11B 5/656.
+All groups listed in this Warning should
+be considered in order to perform a
+    5/66    . . . the record carriers consisting of several layers
+by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+    5/667   . . . . including a soft magnetic layer
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+    5/672   . . . . {having different compositions in a plurality
+of magnetic layers, e.g. layer compositions
+having differing elemental components or
+differing proportions of elements}
+Group G11B 5/672 is incomplete pending
+reclassification of documents from groups
+G11B 5/64 and G11B 5/66 - G11B 5/667.
+All groups listed in this Warning should
+be considered in order to perform a
+    5/674   . . . . {having differing macroscopic or
+microscopic structures, e.g. differing
+crystalline lattices, varying atomic structures
+Group G11B 5/674 is incomplete pending
+reclassification of documents from groups
+G11B 5/64 and G11B 5/66 - G11B 5/667.
+All groups listed in this Warning should
+be considered in order to perform a
+    5/676   . . . . {having magnetic layers separated by a
+nonmagnetic layer, e.g. antiferromagnetic
+layer, Cu layer or coupling layer}
+Group G11B 5/676 is incomplete pending
+reclassification of documents from groups
+G11B 5/64 and G11B 5/66 - G11B 5/667.
+All groups listed in this Warning should
+be considered in order to perform a
+    5/678   . . . . . {having three or more magnetic layers}
+pending reclassification of documents
+All groups listed in this Warning should
+be considered in order to perform a
+    5/68    . . comprising one or more layers of magnetisable
+material homogeneously mixed with a bonding
+    5/70    . . . on a base layer
+    5/7013  . . . . {characterised by the dispersing agent}
+    5/702   . . . . characterised by the bonding agent
+    5/7021  . . . . . {containing a polyurethane or a
+    5/7022  . . . . . . {containing mixtures of polyurethanes
+or polyisocyanates with other polymers}
+    5/7023  . . . . . {containing polyesters, polyethers,
+silicones, polyvinyl resins, polyacrylresins
+or epoxy resins (G11B 5/7022 takes
+    5/7025  . . . . . {containing cellulosic derivates
+(G11B 5/7022 takes precedence)}
+    5/7026  . . . . . {Radiation curable polymers}
+    5/7027  . . . . . {Graft polymers}
+    5/7028  . . . . . {Additives, e.g. crosslinking agents}
+    5/706   . . . . characterised by the composition of the
+    5/70605 . . . . . {metals or alloys}
+    5/7061  . . . . . . {with a non-magnetic core}
+    5/70615 . . . . . . {containing Fe metal or alloys
+(G11B 5/70621 takes precedence)}
+    5/70621 . . . . . . {containing Co metal or alloys}
+    5/70626 . . . . . {containing non-metallic substances}
+    5/70631 . . . . . . {with a non-magnetic core}
+    5/70642 . . . . . . {iron oxides}
+    5/70647 . . . . . . . {with a skin (G11B 5/70657 takes
+    5/70652 . . . . . . . {gamma - Fe2 O3}
+    5/70657 . . . . . . . . {with a skin}
+    5/70663 . . . . . . . . {Preparation processes specially
+stabilising agents (G11B 5/70668
+    5/70668 . . . . . . . . {containing a dopant}
+    5/70673 . . . . . . . . . {containing Co}
+    5/70678 . . . . . . . {Ferrites}
+    5/70684 . . . . . . . . {Ferro-ferrioxydes}
+    5/70689 . . . . . . . . . {Magnetite}
+    5/70694 . . . . . . . . . {Non-stoechiometric ferro-
+    5/708   . . . . characterised by addition of non-magnetic
+    5/7085  . . . . . {non-magnetic abrasive particles}
+    5/71    . . . . characterised by the lubricant
+    5/712   . . . . characterised by the surface treatment or
+    5/714   . . . . characterised by the dimension of the
+    5/716   . . . . characterised by two or more magnetic layers
+    5/718   . . . . . at least one on each side of the base layer
+    5/72    . . Protective coatings, e.g. anti-static {or
+    5/722   . . . {containing an anticorrosive material}
+    5/725   . . . containing a lubricant {, e.g. organic
+compounds (inorganic carbon protective
+    5/7253  . . . . {Fluorocarbon lubricant}
+    5/7257  . . . . . {Perfluoropolyether lubricant}
+    5/726   . . . {Two or more protective coatings (inorganic
+carbon protective coating G11B 5/727)}
+    5/7262  . . . . {Inorganic protective coating}
+    5/7264  . . . . . {Inorganic carbon protective coating, e.g.
+graphite, diamond like carbon or doped
+    5/7266  . . . . . . {comprising a lubricant over the
+    5/7268  . . . . . . {comprising elemental nitrogen in the
+    5/727   . . . {Inorganic carbon protective coating, e.g.
+graphite, diamond like carbon or doped
+    5/728   . . . {containing a bonding agent in the protective
+    5/73    . . Base layers {, i.e. all non-magnetic layers
+lying under a lowermost magnetic recording
+layer, e.g. including any non-magnetic layer in
+between a first magnetic recording layer and
+either an underlying substrate or a soft magnetic
+    5/733   . . . characterised by the addition of non-magnetic
+particles {(base layers having a non-magnetic
+layer under a soft magnetic layer G11B 5/736;
+magnetic recording media substrates
+1. {This subgroup covers:  non-magnetic base
+layer structures characterised by the addition
+2. {This subgroup does not cover:  magnetic
+layer structures comprising one or
+more layers of magnetisable material
+homogeneously mixed with a bonding
+agent (even when also containing non-
+magnetic particles), which are covered by
+G11B 5/68 (in particular, G11B 5/708 and
+    5/7334  . . . . {Base layer characterised by composition or
+    5/735   . . . characterised by the back layer {(magnetic
+recording media substrates G11B 5/739)}
+    5/7353  . . . . {for a thin film medium where the magnetic
+recording layer structure has no bonding
+    5/7356  . . . . {comprising non-magnetic particles in the
+back layer, e.g. particles of TiO2, ZnO or
+    5/7358  . . . . . {specially adapted for achieving a specific
+property, e.g. average roughness [Ra]}
+    5/736   . . . {Non-magnetic layer under a soft magnetic
+layer, e.g. between a substrate and a soft
+magnetic underlayer [SUL] or a keeper
+layer (magnetic recording media substrates
+    5/7361  . . . . {Two or more non-magnetic layers}
+    5/7362  . . . . . {Physical structure of underlayer, e.g.
+    5/7363  . . . . {Non-magnetic single underlayer comprising
+    5/7364  . . . . {Non-magnetic single underlayer comprising
+    5/7365  . . . . {Non-magnetic single underlayer comprising
+a polymeric structure, e.g. polymeric
+adhesion layer or plasma-polymerized
+    5/7366  . . . . {for heat-assisted or thermally-assisted
+magnetic recording [HAMR, TAMR]}
+    5/7367  . . . . {Physical structure of underlayer, e.g.
+    5/7368  . . . {Non-polymeric layer under the lowermost
+magnetic recording layer (base layers having
+a non-magnetic layer under a soft magnetic
+layer G11B 5/736; magnetic recording media
+    5/7369  . . . . {Two or more non-magnetic underlayers,
+e.g. seed layers or barrier layers}
+    5/737   . . . . . {Physical structure of underlayer, e.g.
+    5/7371  . . . . {Non-magnetic single underlayer comprising
+    5/7373  . . . . {Non-magnetic single underlayer comprising
+    5/7375  . . . . {for heat-assisted or thermally-assisted
+magnetic recording [HAMR, TAMR]}
+    5/7377  . . . . {Physical structure of underlayer, e.g.
+    5/7379  . . . . {Seed layer, e.g. at least one non-magnetic
+layer is specifically adapted as a seed or
+    5/739   . . . {Magnetic recording media substrates}
+    5/73911 . . . . {Inorganic substrates}
+    5/73913 . . . . . {Composites or coated substrates}
+    5/73915 . . . . . . {Silicon compound based coating}
+    5/73917 . . . . . {Metallic substrates, i.e. elemental metal
+    5/73919 . . . . . . {Aluminium or titanium elemental or
+    5/73921 . . . . . {Glass or ceramic substrates}
+    5/73923 . . . . {Organic polymer substrates}
+    5/73925 . . . . . {Composite or coated non-esterified
+    5/73927 . . . . . {Polyester substrates, e.g. polyethylene
+    5/73929 . . . . . . {comprising naphthalene ring
+    5/73931 . . . . . . {Two or more layers, at least one layer
+    5/73933 . . . . . . {Surface treated layers, e.g. treated by
+    5/73935 . . . . . . {characterised by roughness or surface
+features, e.g. by added particles}
+    5/73937 . . . . . {Substrates having an organic polymer
+    5/74    . Record carriers characterised by the form, e.g. sheet
+    5/743   . . {Patterned record carriers, wherein the magnetic
+recording layer is patterned into magnetic isolated
+data islands, e.g. discrete tracks}
+    5/746   . . . {Bit Patterned record carriers, wherein each
+magnetic isolated data island corresponds to a
+    5/825   . . . {flexible discs}
+    5/84    . Processes or apparatus specially adapted for
+    5/8404  . . {manufacturing base layers}
+    5/8408  . . {protecting the magnetic layer}
+    5/8412  . . {treatment by ultrasonics}
+    5/8416  . . {coating a support with a magnetic layer by
+    5/842   . . Coating a support with a liquid magnetic
+    5/845   . . . in a magnetic field
+    5/848   . . Coating a support with a magnetic layer by
+    5/85    . . Coating a support with a magnetic layer by
+    5/851   . . Coating a support with a magnetic layer by
+    5/852   . . Orientation in a magnetic field (G11B 5/845 takes
+    5/855   . . Coating only part of a support with a magnetic
+    5/858   . . Producing a magnetic layer by electro-plating or
+    5/86    . Re-recording, i.e. transcribing information from
+one magnetisable record carrier on to one or
+more similar or dissimilar record carriers {(by
+varying the order of the information G11B 27/029,
+    5/865   . . {by contact "printing"}
+    7/00    Recording or reproducing by optical means,
+e.g. recording using a thermal beam of optical
+radiation {by modifying optical properties or
+the physical structure}, reproducing using an
+optical beam at lower power {by sensing optical
+properties}; Record carriers therefor (G11B 11/00,
+ 2007/0003  . {Recording, reproducing or erasing systems
+characterised by the structure or type of the carrier}
+ 2007/0006  . . {adapted for scanning different types of carrier,
+ 2007/0009  . . {for carriers having data stored in three
+dimensions, e.g. volume storage}
+ 2007/0013  . . . {for carriers having multiple discrete layers}
+ 2007/0016  . . {for carriers adapted to have label information
+written on the non-data side by the optical
+head used for data recording, e.g. lightscribe,
+    7/002   . Recording, reproducing or erasing systems
+characterised by the shape {or form} of the carrier
+    7/0025  . . with cylinders or cylinder-like carriers {or
+cylindrical sections or flat carriers loaded onto a
+cylindrical surface}, e.g. truncated cones
+    7/003   . . with webs {, filaments or wires}, e.g. belts,
+spooled tapes or films of quasi-infinite extent
+    7/0031  . . . {using a rotating head, e.g. helicoidal
+    7/0032  . . . {for moving-picture soundtracks, i.e. cinema
+(cameras or projectors with sound recording or
+    7/0033  . . with cards {or other card-like flat carriers, e.g.
+    7/00375 . . . {arrangements for detection of physical defects,
+    7/004   . Recording, reproducing or erasing methods; Read,
+write or erase circuits therefor {(magneto-optical
+    7/0045  . . Recording (G11B 7/006, G11B 7/0065 take
+    7/00451 . . . {involving ablation of the recording layer}
+    7/00452 . . . {involving bubble or bump forming}
+    7/00453 . . . {involving spectral or photochemical hole
+    7/00454 . . . {involving phase-change effects}
+    7/00455 . . . {involving reflectivity, absorption or colour
+    7/00456 . . . {Recording strategies, e.g. pulse sequences
+(G11B 7/0062 takes precedence)}
+ 2007/00457 . . . {Two photon recording}
+    7/00458 . . . {Verification, i.e. checking data during or after
+    7/005   . . Reproducing (G11B 7/0065 takes precedence)
+    7/0051  . . . {involving phase depth effects}
+    7/0052  . . . {involving reflectivity, absorption or colour
+    7/0053  . . . {Reproducing non-user data, e.g. wobbled
+    7/0055  . . Erasing (G11B 7/006, G11B 7/0065 take
+    7/00552 . . . {involving colour change media}
+    7/00555 . . . {involving liquid crystal media}
+    7/00557 . . . {involving phase-change media}
+    7/006   . . Overwriting (G11B 7/0065 takes precedence)
+    7/0062  . . . {Overwriting strategies, e.g. recording pulse
+sequences with erasing level used for phase-
+    7/0065  . . Recording, reproducing or erasing by using
+optical interference patterns, e.g. holograms
+ 2007/00653 . . . {Collinear holography}
+ 2007/00656 . . . {Counterpropagating holography}
+    7/007   . Arrangement of the information on the record
+carrier, e.g. form of tracks {, actual track shape, e.g.
+wobbled, or cross-section, e.g. v-shaped; Sequential
+information structures, e.g. sectoring or header
+ 2007/00709 . . {Dimensions of grooves or tracks, e.g. groove
+    7/00718 . . {Groove and land recording, i.e. user data
+recorded both in the grooves and on the lands}
+ 2007/00727 . . {where the information is modified to form a
+visible pattern, e.g. forming a label by modifying
+    7/00736 . . {Auxiliary data, e.g. lead-in, lead-out, Power
+Calibration Area [PCA], Burst Cutting Area
+[BCA], control information (sector headers or
+adresses in prepits G11B 7/00745; address data in
+    7/00745 . . {Sectoring or header formats within a track
+(formats in general G11B 20/12)}
+ 2007/00754 . . {Track shape, e.g. address or synchronisation
+information in wobbled track or sidewall}
+ 2007/00763 . . {Track cross-section, e.g. V-shaped, trapezoidal}
+    7/00772 . . {on record carriers storing information in
+the form of optical interference patterns, e.g.
+    7/00781 . . . {Auxiliary information, e.g. index marks,
+address marks, pre-pits, gray codes}
+    7/0079  . . {Zoned data area, e.g. having different data
+structures or formats for the user data within data
+layer, Zone Constant Linear Velocity [ZCLV],
+Zone Constant Angular Velocity [ZCAV],
+carriers with RAM and ROM areas}
+    7/013   . . for discrete information, i.e. where each
+information unit is stored in a distinct discrete
+location {, e.g. digital information formats within
+ 2007/0133  . . . {Details of discrete information structures, e.g.
+shape or dimensions of pits, prepits}
+ 2007/0136  . . . {where each location can have more than two
+values ('multivalue'), for data or prepits}
+    7/08    . Disposition or mounting of heads or light sources
+    7/081   . . {for time base error correction by moving the
+    7/082   . . {Aligning the head or the light source relative
+to the record carrier otherwise than during
+transducing, e.g. adjusting tilt set screw during
+    7/083   . . {relative to record carriers storing information
+in the form of optical interference patterns, e.g.
+    7/085   . . with provision for moving the light beam into,
+or out of, its operative position {or across tracks,
+otherwise than during the transducing operation,
+e.g. for adjustment or preliminary positioning or
+    7/08505 . . . {Methods for track change, selection or
+preliminary positioning by moving the head}
+    7/08511 . . . . {with focus pull-in only}
+    7/08517 . . . . {with tracking pull-in only}
+    7/08523 . . . . {with both tracking and focusing pull-in}
+    7/08529 . . . . {Methods and circuits to control the velocity
+of the head as it traverses the tracks}
+    7/08535 . . . . . {to maintain constant velocity during the
+    7/08541 . . . . {involving track counting to determine
+    7/08547 . . . {Arrangements for positioning the light beam
+only without moving the head, e.g. using static
+    7/08552 . . . . {using electro-optical elements}
+    7/08558 . . . . {using acousto-optical elements}
+    7/08564 . . . . {using galvanomirrors}
+    7/0857  . . . {Arrangements for mechanically moving the
+    7/08576 . . . . {Swinging-arm positioners}
+    7/08582 . . . . {Sled-type positioners}
+    7/08588 . . . . . {with position sensing by means of an
+auxiliary system using an external scale}
+    7/08594 . . . . {to access both sides of the disc with the
+    7/09    . . with provision for moving the light beam or focus
+plane for the purpose of maintaining alignment
+of the light beam relative to the record carrier
+during transducing operation, e.g. to compensate
+for surface irregularities of the latter or for track
+    7/0901  . . . {for track following only (G11B 7/0925,
+G11B 7/094, G11B 7/0941, G11B 7/0943,
+G11B 7/0945, G11B 7/0946, G11B 7/0948 take
+    7/0903  . . . . {Multi-beam tracking systems}
+    7/0904  . . . . {Dithered tracking systems}
+    7/0906  . . . . {Differential phase difference systems}
+    7/0908  . . . {for focusing only (G11B 7/0925, G11B 7/094,
+G11B 7/0941, G11B 7/0943, G11B 7/0945,
+G11B 7/0946, G11B 7/0948 take precedence)}
+    7/0909  . . . . {by astigmatic methods}
+    7/0911  . . . . {by far-field method}
+    7/0912  . . . . {by push-pull method}
+    7/0914  . . . . {by non-optical methods, e.g. capacitive}
+    7/0916  . . . . {Foucault or knife-edge methods}
+    7/0917  . . . . {Focus-error methods other than those
+covered by G11B 7/0909 - G11B 7/0916}
+ 2007/0919  . . . . . {Critical angle methods}
+ 2007/092   . . . . . {Dither methods}
+ 2007/0922  . . . . . {Far-field methods}
+ 2007/0924  . . . . . {Skewed beams methods (using an angled
+beam, i.e. a beam which is reflected from
+the disc at an angle different from 90°)}
+    7/0925  . . . {Electromechanical actuators for lens
+positioning (G11B 7/0857 takes precedence)}
+    7/0927  . . . . {for focusing only (G11B 7/0937 takes
+    7/0929  . . . . {for tracking only (G11B 7/0937 takes
+    7/093   . . . . {for focusing and tracking
+(G11B 7/0932 - G11B 7/0937 take
+    7/0932  . . . . {Details of sprung supports}
+    7/0933  . . . . {Details of stationary parts}
+    7/0935  . . . . {Details of the moving parts}
+    7/0937  . . . . {Piezo-electric actuators}
+    7/0938  . . . {servo format, e.g. guide tracks, pilot signals}
+    7/094   . . . {Methods and circuits for servo offset
+    7/0941  . . . {Methods and circuits for servo gain or phase
+compensation during operation (for initialising
+    7/0943  . . . {Methods and circuits for performing
+mathematical operations on individual detector
+    7/0945  . . . {Methods for initialising servos, start-up
+    7/0946  . . . {specially adapted for operation during external
+perturbations not related to the carrier or servo
+    7/0948  . . . {specially adapted for detection and avoidance
+or compensation of imperfections on
+the carrier, e.g. dust, scratches, dropouts
+    7/095   . . . specially adapted for discs, e.g. for
+compensation of eccentricity or wobble
+    7/0953  . . . . {to compensate for eccentricity of the disc or
+    7/0956  . . . . {to compensate for tilt, skew, warp or
+inclination of the disc, i.e. maintain the
+optical axis at right angles to the disc}
+    7/10    . . Interchangeable mountings, e.g. for replacement
+of head without readjustment {including
+interchangeable electrical adjuster boards}
+    7/12    . Heads, e.g. forming of the optical beam spot or
+modulation of the optical beam (disposition or
+mounting of head elements within housing or
+with provision for moving of light source, optical
+beam or detector, irrelevant to the transducing
+method G11B 7/08 {; modulating lasers H01S 3/10;
+controlling the intensity, colour, phase, polarisation
+or direction of light beams arriving from an
+independent light source, e.g. switching gating or
+    7/121   . . Protecting the head, e.g. against dust or impact
+    7/122   . . Flying-type heads, e.g. analogous to Winchester
+    7/123   . . Integrated head arrangements, e.g. with source
+and detectors mounted on the same substrate
+    7/124   . . . the integrated head arrangements including
+    7/1245  . . . . the waveguides including means for electro-
+optical or acousto-optical deflection
+    7/125   . . Optical beam sources therefor, e.g. laser control
+circuitry specially adapted for optical storage
+devices; Modulators, e.g. means for controlling
+the size or intensity of optical spots or optical
+    7/126   . . . Circuits, methods or arrangements for laser
+    7/1263  . . . . Power control during transducing, e.g. by
+    7/1267  . . . . Power calibration
+    7/127   . . . Lasers; Multiple laser arrays {(lasers per se
+    7/1275  . . . . Two or more lasers having different
+    7/128   . . . Modulators (G11B 7/1245 takes precedence)
+    7/13    . . Optical detectors therefor
+    7/131   . . . Arrangement of detectors in a multiple array
+    7/133   . . . Shape of individual detector elements
+    7/135   . . Means for guiding the beam from the source to
+the record carrier or from the record carrier to the
+    7/1353  . . . Diffractive elements, e.g. holograms or gratings
+{(diffraction gratings per se G02B 5/18;
+holograms per se G02B 5/32; grating systems
+    7/1356  . . . Double or multiple prisms, i.e. having two or
+    7/1359  . . . Single prisms
+    7/1365  . . . Separate or integrated refractive elements, e.g.
+In this group, integrated combinations
+of a refractive element, such as a coating
+element or phase plate, with another
+element, such as a lens, are classified in this
+group and in other appropriate groups for
+    7/1367  . . . . Stepped phase plates
+    7/1369  . . . . Active plates, e.g. liquid crystal panels or
+ 2007/13722 . . . . {Fresnel lenses}
+ 2007/13725 . . . . {Catadioptric lenses, i.e. having at least one
+ 2007/13727 . . . . {Compound lenses, i.e. two or more lenses
+co-operating to perform a function, e.g.
+compound objective lens including a solid
+immersion lens, positive and negative lenses
+either bonded together or with adjustable
+    7/1374  . . . . Objective lenses {(optical objectives per se
+    7/1376  . . . . Collimator lenses {(collimators per se
+    7/1378  . . . . Separate aberration correction lenses;
+Cylindrical lenses to generate astigmatism;
+    7/1381  . . . Non-lens elements for altering the properties of
+the beam, e.g. knife edges, slits, filters or stops
+(G11B 7/1353 - G11B 7/1369 take precedence)
+    7/1387  . . . using the near-field effect
+    7/139   . . . Numerical aperture control means
+    7/1392  . . . Means for controlling the beam wavefront, e.g.
+for correction of aberration {(optical systems
+for aberration correction per se G02B 27/00)}
+    7/13925 . . . . {active, e.g. controlled by electrical or
+    7/13927 . . . . . {during transducing, e.g. to correct for
+variation of the spherical aberration due to
+disc tilt or irregularities in the cover layer
+    7/1395  . . . Beam splitters or combiners (G11B 7/1353,
+G11B 7/1356 take precedence {; beam splitting
+or combining per se G02B 27/10})
+    7/1398  . . . Means for shaping the cross-section of the
+beam, e.g. into circular or elliptical cross-
+    7/14    . . specially adapted to record on, or to reproduce
+from, more than one track simultaneously
+    7/22    . . Apparatus or processes for the manufacture of
+    7/24    . Record carriers characterised by shape, structure
+or physical properties, or by the selection of the
+material (characterised by the arrangement of
+information on the carrier G11B 7/007)
+ 2007/240004 . . {characterised by the form of the carrier}
+ 2007/240012 . . . . {intended for rotation}
+ 2007/240025 . . {for storing optical interference patterns, e.g.
+    7/24003 . . Shapes of record carriers other than disc shape
+    7/24006 . . . Cylindrical or shaft-shaped
+    7/24009 . . . Tapes, long films or long sheets
+    7/24012 . . . Optical cards
+    7/24015 . . Air-sandwiched discs
+When classifying in this group, classification
+is also made in group G11B 7/2403 if the
+subject matter disclosed in the context of
+an air-sandwiched disc is of more general
+    7/24018 . . Laminated discs (G11B 7/24015 takes
+When classifying in this group, classification
+is also made in group G11B 7/2403 if the
+subject matter disclosed in the context of a
+laminated disc is of more general application
+    7/24021 . . . provided with a special shape or structure
+for centering or eccentricity prevention, e.g.
+    7/24024 . . . Adhesion or bonding, e.g. specific adhesive
+    7/24027 . . . Layers; Shape, structure or physical properties
+thereof (G11B 7/24021, G11B 7/24024 take
+    7/2403  . . Layers; Shape, structure or physical properties
+    7/24033 . . . Electrode layers
+    7/24035 . . . Recording layers (substrates also used as
+    7/24038 . . . . Multiple laminated recording layers
+    7/24041 . . . . . with different recording characteristics
+    7/24044 . . . . for storing optical interference patterns,
+e.g. holograms; for storing data in
+three dimensions, e.g. volume storage
+(G11B 7/24038 takes precedence)
+    7/2405  . . . . being also used as track layers of
+pre-formatted layers (tracks or pits
+    7/24053 . . . Protective topcoat layers lying opposite to the
+light entrance side, e.g. layers for preventing
+    7/24056 . . . Light transmission layers lying on the light
+entrance side and being thinner than the
+substrate, e.g. specially adapted for Blu-ray®
+    7/24059 . . . . specially adapted for near-field recording or
+    7/24062 . . . Reflective layers
+    7/24065 . . . Layers assisting in recording or reproduction
+below the optical diffraction limit, e.g. non-
+linear optical layers or structures (cover layers
+for near-field media G11B 7/24059)
+    7/24067 . . . Combinations of two or more layers with
+    7/2407  . . Tracks or pits; Shape, structure or physical
+properties thereof (layout of tracks or pits used as
+the identification information G11B 7/007)
+    7/24076 . . . . Cross sectional shape in the radial direction
+of a disc, e.g. asymmetrical cross sectional
+    7/24079 . . . . Width or depth (G11B 7/24076 takes
+    7/24088 . . . . for storing more than two values, i.e. multi-
+valued recording for data or prepits
+    7/24091 . . . Combinations of pits and tracks with specific
+    7/24094 . . Indication parts or information parts for
+    7/24097 . . Structures for detection, control, recording
+operation or replay operation; Special shapes or
+structures for centering or eccentricity prevention
+(within laminated discs G11B 7/24021);
+Arrangements for testing, inspecting or
+evaluating; Containers, cartridges or cassettes
+When classifying in this group, classification
+is also made in group G11B 23/00 if the
+subject matter disclosed in the context of
+an optical record carrier is of more general
+    7/241   . . characterised by the selection of the material
+    7/242   . . . of recording layers
+    7/243   . . . . comprising inorganic materials only, e.g.
+ 2007/24302 . . . . . {Metals or metalloids}
+ 2007/24304 . . . . . . {group 2 or 12 elements (e.g. Be, Ca,
+ 2007/24306 . . . . . . {transition metal elements of groups
+ 2007/24308 . . . . . . {transition metal elements of group 11
+ 2007/2431  . . . . . . {group 13 elements (B, Al, Ga, In)}
+ 2007/24312 . . . . . . {group 14 elements (e.g. Si, Ge, Sn)}
+ 2007/24314 . . . . . . {group 15 elements (e.g. Sb, Bi)}
+ 2007/24316 . . . . . . {group 16 elements (i.e. chalcogenides,
+ 2007/24318 . . . . . {Non-metallic elements}
+ 2007/2432  . . . . . . {Oxygen}
+ 2007/24322 . . . . . . {Nitrogen}
+ 2007/24324 . . . . . . {Sulfur}
+ 2007/24326 . . . . . . {Halides (F, CI, Br...)}
+ 2007/24328 . . . . . . {Carbon}
+    7/2433  . . . . . Metals or elements of groups 13, 14, 15 or
+16 of the Periodic System, e.g. B, Si, Ge,
+    7/2437  . . . . . Non-metallic elements
+    7/244   . . . . comprising organic materials only
+ 2007/2445  . . . . . {containing an azulene compound}
+    7/245   . . . . . containing a polymeric component
+    7/246   . . . . . containing dyes
+ 2007/24606 . . . . . . {Azo- dyes}
+ 2007/24612 . . . . . . {two or more dyes in one layer}
+ 2007/24618 . . . . . . {two or more dyes in two or more
+different layers, e.g. one dye absorbing
+at 405 nm in layer one and a different
+dye absorbing at 650 nm in layer two}
+ 2007/24624 . . . . . . {fluorescent dyes}
+    7/2463  . . . . . . azulene
+    7/2467  . . . . . . azo-dyes
+    7/247   . . . . . . methine or polymethine dyes
+ 2007/24705 . . . . . . . {Cyanine}
+ 2007/2471  . . . . . . . {Merocyanine}
+ 2007/24715 . . . . . . . {Oxonol}
+    7/2472  . . . . . . . cyanine
+    7/2475  . . . . . . . merocyanine
+    7/2478  . . . . . . . oxonol
+    7/248   . . . . . . porphines; azaporphines, e.g.
+    7/249   . . . . . containing organometallic compounds
+ 2007/24905 . . . . . . {neutral}
+ 2007/2491  . . . . . . {as anion}
+ 2007/24915 . . . . . . {as cation}
+    7/2492  . . . . . . neutral compounds
+    7/2495  . . . . . . as anions
+    7/2498  . . . . . . as cations
+    7/25    . . . . . containing liquid crystals
+    7/251   . . . . comprising inorganic materials dispersed in
+    7/252   . . . of layers other than recording layers
+    7/253   . . . . of substrates
+ 2007/25301 . . . . . {comprising glass}
+ 2007/25302 . . . . . {comprising metals}
+ 2007/25303 . . . . . {comprising resins}
+ 2007/25304 . . . . . . {Polycarbonate [PC]}
+ 2007/25305 . . . . . . {Polyester, e.g. PET, PETG, PEN}
+ 2007/25306 . . . . . . {Polystyrene [PS]}
+ 2007/25307 . . . . . . {Polycycloolefines [COCs]}
+ 2007/25308 . . . . . . {Biodegradable polymers, cellulose
+    7/2531  . . . . . comprising glass
+    7/2532  . . . . . comprising metals
+    7/2533  . . . . . comprising resins
+    7/2534  . . . . . . polycarbonates [PC]
+    7/2535  . . . . . . polyesters, e.g. PET, PETG or PEN
+    7/2536  . . . . . . polystyrene [PS]
+    7/2537  . . . . . . epoxy resins
+    7/2538  . . . . . . polycycloolefins [PCO]
+    7/2539  . . . . . . biodegradable polymers, e.g. cellulose
+    7/254   . . . . of protective topcoat layers
+ 2007/25402 . . . . . {consisting essentially of organic resins}
+ 2007/25405 . . . . . . {comprising inorganic filler, e.g.
+ 2007/25408 . . . . . {consisting essentially of inorganic
+ 2007/25411 . . . . . . {containing transition metal elements
+ 2007/25414 . . . . . . {containing Group 13 elements (B, Al,
+ 2007/25417 . . . . . . {containing Group 14 elements (C, Si,
+    7/2542  . . . . . consisting essentially of organic resins
+    7/2545  . . . . . . containing inorganic fillers, e.g.
+    7/2548  . . . . . consisting essentially of inorganic
+    7/256   . . . . of layers improving adhesion between layers
+    7/257   . . . . of layers having properties involved in
+recording or reproduction, e.g. optical
+interference layers or sensitising layers or
+dielectric layers, which are protecting the
+ 2007/25701 . . . . . {consisting essentially of organic
+ 2007/25703 . . . . . . {Resins}
+ 2007/25705 . . . . . {consisting essentially of inorganic
+ 2007/25706 . . . . . . {containing transition metal elements
+ 2007/25708 . . . . . . {containing group 13 elements (B, Al,
+ 2007/2571  . . . . . . {containing group 14 elements except
+ 2007/25711 . . . . . . {containing carbon}
+ 2007/25713 . . . . . . {containing nitrogen}
+ 2007/25715 . . . . . . {containing oxygen}
+ 2007/25716 . . . . . . {containing sulfur}
+ 2007/25718 . . . . . . {containing halides (F, Cl, Br, l)}
+    7/2572  . . . . . consisting essentially of organic materials
+    7/2578  . . . . . consisting essentially of inorganic
+    7/258   . . . . of reflective layers
+ 2007/2581  . . . . . {based on aluminium}
+ 2007/2582  . . . . . {based on silver}
+ 2007/2583  . . . . . {based on gold}
+    7/2585  . . . . . based on aluminium
+    7/259   . . . . . based on silver
+    7/2595  . . . . . based on gold
+    7/26    . . Apparatus or processes specially adapted for the
+    7/261   . . . {Preparing a master, e.g. exposing photoresist,
+    7/263   . . . {Preparing and using a stamper, e.g. pressing
+or injection molding substrates (production
+of optical record carriers, e.g. optical discs
+    7/265   . . . {Apparatus for the mass production of optical
+record carriers, e.g. complete production
+    7/266   . . . {Sputtering or spin-coating layers (sputtering
+in general C23C 14/24; spin-coating in general
+    7/268   . . . {Post-production operations, e.g. initialising
+phase-change recording layers, checking for
+defects (investigating the presence of flaws or
+contamination in optical discs G01N 21/9506)}
+    7/28    . Re-recording, i.e. transcribing information from one
+optical record carrier on to one or more similar or
+    9/00    Recording or reproducing using a method
+not covered by one of the main groups
+G11B 3/00 - G11B 7/00; Record carriers therefor
+(G11B 11/00 takes precedence {driving or moving of
+    9/02    . using ferroelectric record carriers; Record carriers
+    9/04    . using record carriers having variable electric
+resistance; Record carriers therefor
+    9/06    . using record carriers having variable electrical
+capacitance; Record carriers therefor (G11B 9/02
+    9/061   . . {Record carriers characterised by their structure
+or form or by the selection of the material;
+Apparatus or processes specially adapted for
+the manufacture of record carriers (processes
+involving a single technical art and for which
+provision exists elsewhere, see the relevant class,
+    9/062   . . . {characterised by the form, e.g. comprising
+mechanical protection elements}
+    9/063   . . . {characterised by the selection of the material}
+    9/065   . . . . {Additional layers for lubrication, wear
+protection or elimination of electrostatic
+charges of the interface between record
+carrier and head (G11B 9/066, G11B 9/067
+and G11B 9/068 take precedence)}
+    9/066   . . . . {Electrically conductive layers (G11B 9/068
+    9/067   . . . . {Dielectric layers; Processes for providing
+electrical conductivity to them (G11B 9/068
+    9/068   . . . . {Moulding resin compositions}
+    9/07    . . Heads for reproducing capacitive information
+    9/075   . . . {using mechanical contact with record carrier,
+    9/08    . using electrostatic charge injection; Record carriers
+    9/10    . using electron beam; Record carriers therefor
+(G11B 9/08 takes precedence {see provisional also
+    9/12    . using near-field interactions; Record carriers
+    9/14    . . using microscopic probe means {, i.e. recording
+or reproducing by means directly associated
+with the tip of a microscopic electrical probe
+as used in Scanning Tunneling Microscopy
+[STM] or Atomic Force Microscopy [AFM]
+for inducing physical or electrical perturbations
+in a recording medium; Record carriers or
+media specially adapted for such transducing of
+information (marking using electrical current
+B41M 5/20; measuring roughness or irregularity
+of surfaces G01B 7/34; details of scanning-probe
+    9/1418  . . . {Disposition or mounting of heads or record
+carriers (G11B 17/00 and G11B 19/00 take
+    9/1427  . . . . {with provision for moving the heads or
+record carriers relatively to each other or for
+access to indexed parts without effectively
+    9/1436  . . . . . {with provision for moving the heads or
+record carriers relatively to each other}
+    9/1445  . . . . . . {switching at least one head in operating
+function; Controlling the relative
+spacing to keep the head operative, e.g.
+for allowing a tunnel current flow}
+    9/1454  . . . . . . {Positioning the head or record carrier
+into or out of operative position or
+across information tracks; Alignment
+of the head relative to the surface of
+the record carrier (G11B 9/1445 takes
+    9/1463  . . . {Record carriers for recording or reproduction
+involving the use of microscopic probe means}
+    9/1472  . . . . {characterised by the form}
+    9/1481  . . . . . {Auxiliary features, e.g. reference or
+    9/149   . . . . {characterised by the memorising material or
+   11/00    Recording on or reproducing from the same
+record carrier wherein for these two operations
+the methods are covered by different main groups
+of groups G11B 3/00 - G11B 7/00 or by different
+subgroups of group G11B 9/00; Record carriers
+therefor {(driving or moving of heads G11B 3/02,
+G11B 5/48, G11B 7/08, G11B 21/02)}
+1. Groups G11B 11/00 - G11B 11/14  mainly cover:
+• combined systems or apparatus comprising
+both recording and reproducing using different
+2. Reading only or recording only using mechanical,
+magnetic, optical or other methods is covered by
+   11/002   . {using recording by perturbation of the physical or
+   11/005   . . {with reproducing by using non-optical beam
+of radiation or particles, e.g. electrons, directly
+interacting with the memorised information
+(G11B 11/007 takes precedence)}
+   11/007   . . {with reproducing by means directly associated
+with the tip of a microscopic electrical probe
+as defined in G11B 9/14 (details of heads
+G11B 9/1409; disposition or mounting of heads
+   11/03    . using recording by deforming with non-
+mechanical means, e.g. laser, beam of particles
+{(G11B 11/002 takes precedence; see proviosional
+   11/05    . . with reproducing by capacitive means
+   11/06    . . with reproducing by mechanical sensing
+   11/08    . using recording by electric charge or by variation of
+electric resistance or capacitance {(G11B 11/002,
+   11/10    . using recording by magnetic means {or other means
+for magnetisation or demagnetisation of a record
+carrier, e.g. light induced spin magnetisation;
+Demagnetisation by thermal or stress means in the
+presence or not of an orienting magnetic field}
+   11/105   . . using a beam of light or a magnetic field for
+recording {by change of magnetisation} and a
+beam of light for reproducing, {i.e. magneto-
+optical,} e.g. light-induced thermomagnetic
+recording, {spin magnetisation recording,} Kerr
+{or Faraday} effect reproducing
+   11/10502 . . . {characterised by the transducing operation to
+   11/10504 . . . . {Recording (for shaping of magnetic
+domains G11B 11/10528, for compensation
+   11/10506 . . . . . {by modulating only the light beam of the
+   11/10508 . . . . . {by modulating only the magnetic field at
+   11/1051  . . . . . {by modulating both the magnetic field
+and the light beam at the transducers}
+   11/10513 . . . . . . {one of the light beam or the magnetic
+field being modulated by data and the
+other by a clock or frequency generator}
+   11/10515 . . . . {Reproducing (compensating pit shift
+   11/10517 . . . . {Overwriting or erasing (G11B 11/10526
+   11/10519 . . . . . {Direct overwriting, i.e. performing
+erasing and recording using the same
+   11/10521 . . . . . . {using a single light spot}
+   11/10523 . . . . {Initialising}
+   11/10526 . . . . {Bulk initialisation or erasing, e.g. at least
+one whole information track with a single
+   11/10528 . . . . {Shaping of magnetic domains, e.g. form,
+   11/1053  . . . . {to compensate for the magnetic domain drift
+   11/10534 . . . . {for recording by magnetising,
+demagnetising or transfer of magnetisation,
+by radiation, e.g. for thermomagnetic
+   11/10536 . . . . . {using thermic beams, e.g. lasers}
+   11/10539 . . . . . {using electromagnetic beams, e.g.
+   11/10541 . . . . {for reproducing}
+   11/10543 . . . . . {using optical beam of radiation}
+   11/10545 . . . . . . {interacting directly with the
+magnetisation on the record carrier}
+   11/10547 . . . . . . {interacting with the magnetisation of
+an intermediate transfer element, e.g.
+magnetic film, included in the head}
+   11/1055  . . . {Disposition or mounting of transducers
+   11/10552 . . . . {Arrangements of transducers relative to
+each other, e.g. coupled heads, optical and
+magnetic head on the same base (for relative
+movement of transducers G11B 11/10573)}
+   11/10554 . . . . . {the transducers being disposed on the
+same side of the carrier (flying heads
+   11/10556 . . . . {with provision for moving or switching or
+masking the transducers in or out of their
+   11/10558 . . . . . {in view of the loading or unloading of the
+   11/1056  . . . . . {Switching or mechanically reversing the
+   11/10563 . . . . . {Access of indexed parts}
+   11/10565 . . . . . . {Marks for track change, e.g. prepits,
+   11/10567 . . . . . {Mechanically moving the transducers}
+   11/10569 . . . . . . {Swing arm positioners}
+   11/10571 . . . . . . {Sled type positioners}
+   11/10573 . . . . . {Control of relative positioning of the
+magnetic and optical transducers, e.g. to
+   11/10576 . . . . {with provision for moving the transducers
+for maintaining alignment or spacing relative
+   11/10578 . . . . . {Servo format, e.g. prepits, guide tracks,
+   11/1058  . . . . {Flying heads}
+   11/10582 . . . {Record carriers characterised by the selection
+of the material or by the structure or form}
+   11/10584 . . . . {characterised by the form, e.g. comprising
+mechanical protection elements}
+   11/10586 . . . . {characterised by the selection of the
+   11/10589 . . . . . {Details}
+   11/10591 . . . . . . {for improving write-in properties, e.g.
+   11/10593 . . . . . . {for improving read-out properties, e.g.
+   11/10595 . . . {Control of operating function}
+   11/10597 . . . . {Adaptations for transducing various formats
+on the same or different carriers}
+   11/11    . . using a beam, {e.g. of electrons or X-rays} other
+than a beam of light {or a magnetic field} for
+   11/115   . . {using a beam,}{e.g. of electrons or X-rays}
+other than a beam of light for reproducing
+   11/12    . using recording by optical means (G11B 11/03 takes
+precedence {G11B 11/10 takes precedence})
+   11/14    . . with reproducing by magnetic means
+   11/16    . using recording by mechanical cutting, deforming or
+pressing {(G11B 11/002 takes precedence)}
+   11/18    . . with reproducing by optical means
+   11/20    . . with reproducing by magnetic means
+   11/22    . . with reproducing by capacitive means
+see provisionally G11B 9/06, G11B 9/07;
+   11/24    . using recording by near-field interactions
+   11/26    . . using microscopic probe means {, i.e. recording
+by means directly associated with the tip
+of a microscopic electrical probe as used in
+scanning tunneling microscopy [STM] or
+atomic force microscopy [AFM] for inducing
+physical or electrical perturbations in a recording
+medium (marking using electrical current
+B41M 5/20; measuring roughness or irregularity
+of surfaces G01B 7/34; details of scanning-probe
+   13/00    Recording simultaneously or selectively by
+methods covered by different main groups {among
+G11B 3/00, G11B 5/00, G11B 7/00 and G11B 9/00};
+Record carriers therefor {not otherwise provided
+for}; Reproducing therefrom {not otherwise
+provided for (G11B 9/14, G11B 11/002 take
+precedence; driving or moving of heads G11B 3/02,
+G11B 5/48, G11B 7/08, G11B 21/02)}
+This group is limited to the combination of
+recording and reproducing on the same record
+carrier by more than one of the different method
+covered by groups G11B 3/00, G11B 5/00,
+   13/02    . magnetically and by styli
+   13/04    . magnetically {or by magnetisation} and optically
+{or by radiation, for changing or sensing optical
+   13/045   . . {combined recording by magnetic and optic
+   13/06    . optically and by styli
+   13/08    . using near-field interactions or transducing
+means and at least one other method or means for
+   15/00    Driving, starting or stopping record carriers
+of filamentary or web form; Driving both such
+record carriers and heads; Guiding such record
+carriers or containers therefor; Control thereof;
+Control of operating function (driving or guiding
+heads G11B 3/00 - G11B 7/00, G11B 21/00)
+   15/005   . {Programmed access in sequence to indexed
+parts of tracks of operating tapes, by driving or
+guiding the tape (access by driving of both record
+carrier and head G11B 15/1816; see prov. also
+   15/02    . Control of operating function, e.g. switching from
+   15/023   . . {remotely controlled}
+   15/026   . . {by using processor, e.g. microcomputer}
+see provisional also G11B 15/005
+   15/03    . . by using counters
+see prov. also G11B 15/00, G11B 27/00
+   15/04    . . Preventing, inhibiting, or warning against
+accidental erasing or double recording
+   15/05    . . by sensing features present on or derived from
+record carrier or container (G11B 15/16 takes
+see provisional also G11B 15/02
+   15/06    . . . by sensing auxiliary features on record carriers
+or containers, e.g. to stop machine near the end
+   15/07    . . . . on containers
+see provisional also G11B 15/06
+   15/08    . . . . by photoelectric sensing (G11B 15/07 takes
+   15/087   . . . by sensing recorded signals
+see provisional also G11B 15/06,
+   15/093   . . . by sensing driving condition of record carrier,
+see provisional also G11B 15/16,
+   15/10    . . Manually-operated control; Solenoid-operated
+control {(G11B 15/44 takes precedence)}
+   15/103   . . . {electrically operated}
+   15/106   . . . {mechanically operated}
+   15/12    . . Masking of heads; {circuits for} Selecting
+or switching of heads between operative and
+inoperative functions {or between different
+operative functions or for selection between
+operative heads}; Masking of beams, e.g. of light
+beams {(track selection by moving the magnetic
+   15/125   . . . {conditioned by the operating function of the
+   15/14    . . . Masking or switching periodically, e.g. of
+   15/16    . . by sensing presence, absence or position of record
+   15/18    . Driving; Starting; Stopping; Arrangements for
+control or regulation thereof {(G11B 15/56 takes
+   15/1808  . . {Driving of both record carrier and head
+(G11B 15/467 takes precedence; mounting of
+   15/1816  . . . {Programmed access in sequence to
+indexed parts of operating tapes cooperating
+with rotating heads (see provisional also
+   15/1825  . . . {driving or moving the head in a direction
+which cuts across the direction of travel of the
+tape, e.g. for helicoïdal scanning}
+   15/1833  . . . . {with head driven in a plane, cyclically
+around an axis, e.g. on headwheel
+(construction of headwheel G11B 5/53,
+G11B 21/16; disposition of heads on
+headwheel G11B 5/531, G11B 21/02)}
+   15/1841  . . . . . {with provision for information tracking
+by moving the transducing part of the
+head relative to the headwheel, in the
+direction of the scanning movement,
+e.g. for skew or time base correction (in
+the direction which cuts across tracks,
+i.e. for track following G11B 3/38,
+G11B 5/588, G11B 7/085, G11B 21/08,
+G11B 21/10; by controlling headwheel
+rotation G11B 15/4733, by guiding the
+   15/185   . . . . . . {using signals recorded in tracks
+disposed in parallel with the scanning
+   15/1858  . . . . . . . {using auxiliary signals, i.e. pilot
+   15/1866  . . . . . . . . {superimposed on the main signal
+   15/1875  . . . {adaptations for special effects or editing
+(signal processing or indexing therefor
+   15/1883  . . {for record carriers inside containers}
+   15/1891  . . . {the record carrier being endless}
+   15/20    . . Moving record carrier backwards or forwards by
+finite amounts, i.e. backspacing, forward spacing
+   15/22    . . Stopping means ({G11B 15/06 takes
+precedence;} slowing-down preparatory to
+stopping or speed-changing G11B 15/48; speed-
+controlling by mechanical linkage G11B 15/50 {;
+   15/24    . . Drive disengaging means
+   15/26    . . Driving record carriers by members acting
+directly or indirectly thereon {(G11B 15/44 takes
+precedence; driving features inside container, see
+   15/28    . . . through rollers driving by frictional contact
+with the record carrier, e.g. capstan; Multiple
+arrangements of capstans or drums coupled
+to means for controlling the speed of the
+drive; Multiple capstan systems alternately
+engageable with record carrier to provide
+   15/285   . . . . {through pneumatic means}
+   15/29    . . . . through pinch-rollers {or tape
+rolls}(G11B 15/295 takes precedence)
+   15/295   . . . . with single capstan or drum simultaneously
+driving the record carrier at two separate
+points of an isolated part thereof, e.g. the
+capstan acting directly on the tape rollers
+   15/30    . . . through the means for supporting the record
+carrier, e.g. mandrel, turntable
+   15/32    . . . through the reels or cores on to which the
+   15/34    . . . through non-slip drive means, e.g. sprocket
+   15/38    . . Driving record carriers by pneumatic means
+{(pneumatic control for capstans driving
+the record carrier by frictional contact
+   15/385   . . . {directly, e.g. by rotating drum (guiding record
+carrier on rotating drum G11B 15/61)}
+   15/40    . . Driving record carriers otherwise than by electric
+   15/43    . . Control or regulation of mechanical tension of
+record carrier, e.g. tape tension
+   15/44    . . Speed-changing arrangements; Reversing
+arrangements; Drive transfer means therefor
+   15/442   . . . {Control thereof}
+   15/444   . . . {reversing arrangements (G11B 15/442 takes
+   15/446   . . . . {by driving the reels only}
+   15/448   . . . . . {automatic reverse drive transfer therefor}
+   15/46    . . Controlling, regulating, or indicating speed
+{(dependent on position of tape in reserve, loop
+   15/463   . . . {by using pilot tracking tones embedded in
+binary coded signals, e.g. using DSV/CDS
+   15/467   . . . in arrangements for recording or reproducing
+wherein both record carriers and heads are
+driven {(see provisional also G11B 15/1808)}
+   15/4671  . . . . {by controlling simultaneously the speed of
+the tape and the speed of the rotating head}
+   15/4672  . . . . . {with provision for information tracking}
+   15/4673  . . . . {by controlling the speed of the tape while
+   15/4675  . . . . . {with provision for information tracking}
+   15/4676  . . . . . . {using signals recorded in tracks
+disposed in parallel with the scanning
+   15/4677  . . . . . . . {using auxiliary signals, i.e. pilot
+   15/4678  . . . . . . . . {superimposed on the main signal
+   15/473   . . . . by controlling the speed of the heads
+   15/4731  . . . . . {control of headwheel rotation (disposition
+or construction of headwheel motor
+   15/4733  . . . . . . {with provision for information
+tracking, e.g. for time base correction}
+   15/4735  . . . . . . . {using signals recorded in tracks
+disposed parallel with the scanning
+   15/4736  . . . . . . . . {using auxiliary signals, i.e. pilot
+   15/4738  . . . . . . . . . {superimposed on the main
+   15/48    . . . Starting; Accelerating; Decelerating;
+Arrangements preventing malfunction during
+   15/50    . . . by mechanical linkage, e.g. clutch
+   15/52    . . . by using signals recorded on, or derived from,
+   15/54    . . . by stroboscope; by tachometer
+   15/56    . the record carrier having reserve loop, e.g. to
+minimise inertia during acceleration {measuring or
+control in connection therewith}
+   15/58    . . with vacuum column
+   15/60    . Guiding record carrier (guiding devices structurally
+associated with magazines or cassettes G11B 23/04)
+   15/602   . . {for track selection, acquisition or following}
+   15/605   . . {without displacing the guiding means}
+   15/607   . . . {Pneumatic guiding}
+   15/61    . . on drum, e.g. drum containing rotating heads
+{(G11B 15/66 takes precedence)}
+   15/615   . . . {inside container}
+   15/62    . . Maintaining desired spacing between record
+   15/64    . . . by fluid-dynamic spacing
+   15/66    . . Threading; Loading; Automatic self-loading
+   15/662   . . . {Positioning or locking of spool or reel}
+   15/665   . . . by extracting loop of record carrier from
+   15/6651  . . . . {to pull the record carrier against non
+   15/6653  . . . . {to pull the record carrier against drum}
+   15/6655  . . . . . {using one loading ring, i.e. "C-type"
+(G11B 15/6658 takes precedence)}
+   15/6656  . . . . . {using two-sided extraction, i.e. "M-type"}
+   15/6658  . . . . . . {with two loading rings rotating in
+   15/67    . . . by extracting end of record carrier from
+   15/671   . . . . {using pneumatic means}
+   15/672   . . . . {Extracting end of record carrier from
+container or single reel (G11B 15/671 takes
+   15/673   . . . . {Threading end of record carrier externally
+to single reel (G11B 15/671 takes
+   15/674   . . . . {Threading or attaching end of record carrier
+on or to single reel (G11B 15/671 takes
+   15/675   . Guiding containers {, e.g. loading, ejecting
+   15/67505 . . . {Servo control}
+   15/67507 . . . {Ejection damping means}
+   15/6751  . . {with movement of the cassette parallel to its
+main side, i.e. front loading (G11B 15/67544
+   15/67513 . . . {and movement of driving elements
+   15/67515 . . . . {with servo control}
+   15/67518 . . . . {with ejection damping means}
+   15/67521 . . . {of cassette with internal belt drive}
+   15/67523 . . . . {with servo control}
+   15/67526 . . . . {with ejection damping means}
+   15/67528 . . . {of endless tape cassette}
+   15/67531 . . . . {with servo control}
+   15/67534 . . . . {with ejection damping means}
+   15/67536 . . . {of cassette inside drawer}
+   15/67539 . . . . {with servo control}
+   15/67542 . . . . {with ejection damping means}
+   15/67544 . . {with movement of the cassette parallel to
+its main side and subsequent movement
+perpendicular thereto, i.e. front loading}
+   15/67547 . . . {the two movements being made by the
+   15/67549 . . . . {with servo control}
+   15/67552 . . . . {with ejection damping means}
+   15/67555 . . . {the second movement only being made by the
+   15/67557 . . . . {with servo control}
+   15/6756  . . . . {with ejection damping means}
+   15/67563 . . {with movement of the cassette perpendicular to
+its main side, i.e. top loading}
+   15/67565 . . . {of the cassette with holder}
+   15/67568 . . . . {with servo control}
+   15/67571 . . . . {with ejection damping means}
+   15/67573 . . . {of the cassette without holder}
+   15/67576 . . . . {with servo control}
+   15/67578 . . . . {with ejection damping means}
+   15/67581 . . {with pivoting movement of the cassette holder}
+   15/67584 . . . {outside the apparatus}
+   15/67586 . . . . {with servo control}
+   15/67589 . . . . {with ejection damping means}
+   15/67592 . . . {inside the apparatus}
+   15/67594 . . . . {with servo control}
+   15/67597 . . . . {with ejection damping means}
+   15/68    . . Automatic cassette changing arrangements;
+{automatic tape changing arrangements}
+   15/6805  . . . {with linearly moving rectangular box shaped
+   15/681   . . . . {in vertical direction}
+   15/6815  . . . . {in horizontal direction}
+   15/682   . . . {with fixed magazines having fixed cassette
+   15/6825  . . . . {Details of magazines, e.g. removable,
+adapted for cassettes of different sizes}
+   15/683   . . . . {wherein the recorder or player is moved
+according to the location of a selected
+cassette (G11B 15/684 takes precedence)}
+   15/6835  . . . . {the cassettes being transferred to a fixed
+recorder or player using a moving carriage}
+   15/684   . . . . {the cassettes having a storage position
+inside the magazine and a slightly shifted
+active position, e.g. by solenoid}
+   15/6845  . . . {with rotatable magazine}
+   15/685   . . . . {the cassettes being arranged in a single
+   15/6855  . . . . . {wherein the recorder or player is
+moved towards a selected cassette in the
+   15/686   . . . . . {with a fixed recorder or player in the
+centre or at the periphery of the magazine}
+   15/6865  . . . . . {with a fixed recorder or player under the
+   15/687   . . . . {the cassettes being arranged in multiple
+   15/6875  . . . . . {wherein the recorder or player is
+moved towards a selected cassette in the
+   15/688   . . . . . {the cassettes being transferred to a
+fixed recorder or player using a moving
+   15/6885  . . . {the cassettes being conveyed within a cassette
+storage location, e.g. within a storage bin or
+   15/689   . . . {Control of the cassette changing arrangement}
+   15/6895  . . . {Automatic tape changing arrangements}
+   15/70    . the record carrier being an endless loop record
+carrier {(inside container G11B 15/1891)}
+   17/00    Guiding record carriers not specifically of
+filamentary or web form, or of supports therefor
+(guiding cards or sheets G06K 13/00)
+   17/005   . {Programmed access to indexed parts of tracks of
+operating discs, by guiding the disc}
+   17/021   . . {Selecting or spacing of record carriers for
+   17/022   . . Positioning or locking of single discs
+   17/025   . . . of discs which are stationary during
+   17/0255  . . . . {flexible discs}
+   17/028   . . . of discs rotating during transducing operation
+   17/0281  . . . . {by an adapter enabling the centre-pin to
+receive carriers with large centre hole}
+   17/0282  . . . . {by means provided on the turntable}
+   17/0283  . . . . . {Two or more turntables}
+   17/0284  . . . . {by clampers}
+   17/0285  . . . . . {mounted on a bridge}
+   17/0286  . . . . . {mounted on a pivotal lever}
+   17/0287  . . . . {by permanent connections, e.g. screws,
+   17/0288  . . . . {by means for moving the turntable or the
+   17/03    . . . . in containers or trays {(G11B 17/032,
+   17/032   . . . . Positioning by moving the door or the cover
+{(G11B 17/035 takes precedence)}
+   17/035   . . . . Positioning by moving the loading station
+   17/038   . . Centering or locking of a plurality of discs in a
+   17/04    . . Feeding or guiding single record carrier to or
+from transducer unit {(guiding during transducing
+   17/0402  . . . . {Servo control}
+   17/0404  . . . . . {with parallel drive rollers}
+   17/0405  . . . . {Closing mechanism, e.g. door}
+   17/0407  . . . . . {controlling the loading of the record
+   17/0408  . . . {of non-disc record carrier, e.g. card}
+   17/041   . . . specially adapted for discs contained within
+   17/043   . . . . Direct insertion, i.e. without external loading
+   17/0432  . . . . . {adapted for discs of different sizes}
+   17/0434  . . . . . {with mechanism for subsequent vertical
+movement of the disc (G11B 17/0438
+   17/0436  . . . . . {with opening mechanism of the cartridge
+shutter (G11B 17/0438 takes precedence)}
+   17/0438  . . . . . {with mechanism for subsequent vertical
+movement of the disc and opening
+mechanism of the cartridge shutter}
+   17/044   . . . . Indirect insertion, i.e. with external loading
+   17/046   . . . . . with pivoting loading means
+   17/0463  . . . . . . {adapted for discs of different sizes}
+   17/0466  . . . . . . {with opening mechanism of the
+   17/047   . . . . . with sliding loading means
+   17/0473  . . . . . . {adapted for discs of different sizes}
+   17/0476  . . . . . . {with opening mechanism of the
+   17/049   . . . . Insertion of discs having to be extracted
+from the cartridge prior to recording or
+   17/05    . . . specially adapted for discs not contained within
+   17/051   . . . . Direct insertion, i.e. without external loading
+   17/0515  . . . . . {adapted for discs of different sizes}
+   17/053   . . . . Indirect insertion, i.e. with external loading
+   17/054   . . . . . with pivoting loading means
+   17/0545  . . . . . . {adapted for discs of different sizes}
+   17/056   . . . . . with sliding loading means
+   17/0565  . . . . . . {adapted for discs of different sizes}
+   17/057   . . . specially adapted for handling both discs
+contained within cartridges and discs not
+   17/08    . from consecutive-access magazine of disc records
+   17/10    . . with horizontal transfer to the turntable from a
+stack arranged with a vertical axis
+   17/12    . . with axial transfer to the turntable from a stack
+   17/14    . . . by mechanism in rotating centre post, e.g.
+permitting the playing of both sides of a record
+   17/16    . . . by mechanism in stationary centre post, e.g.
+with stepped post, using fingers on post
+   17/162   . . . . {with means for detecting the diameter of the
+   17/165   . . . . . {with mechanical detecting means}
+   17/167   . . . . . {with optical detecting means}
+   17/18    . . . by mechanism operating on the edge of the disc
+   17/20    . . with transfer away from stack on turntable after
+   17/22    . from random access magazine of disc records
+   17/221   . . {with movable magazine
+(G11B 17/24 - G11B 17/28 take precedence)}
+   17/223   . . . {in a vertical direction}
+   17/225   . . {wherein the disks are transferred from a fixed
+magazine to a fixed playing unit using a moving
+   17/226   . . {the magazine consisting of a single rotatable tray
+   17/228   . . {Control systems for magazines (G11B 17/225
+   17/24    . . the magazine having a toroidal or part-toroidal
+Group G11B 17/30 takes precedence over
+groups G11B 17/24 - G11B 17/28.
+   17/26    . . the magazine having a cylindrical shape with
+   17/28    . . the magazine having a cylindrical shape with
+   17/30    . . wherein the playing unit is moved according to
+the location of the selected record
+   17/32    . Maintaining desired spacing between record carrier
+and head, e.g. by fluid-dynamic spacing {(damping
+of vibrations of record carriers on turntables by
+fluid-dynamic means G11B 19/2018)}
+   17/34    . Guiding record carriers during transducing
+operation, e.g. for track following (G11B 17/32
+   19/00    Driving, starting, stopping record carriers not
+specifically of filamentary or web form, or of
+supports therefor; Control thereof; Control of
+operating function {; Driving both disc and head}
+   19/02    . Control of operating function, e.g. switching from
+   19/022   . . {Control panels}
+   19/025   . . . {'Virtual' control panels, e.g. Graphical User
+   19/027   . . {Remotely controlled (remote control systems in
+   19/04    . . Arrangements for preventing, inhibiting, or
+warning against double recording on the same
+blank or against other recording or reproducing
+   19/041   . . . {Detection or prevention of read or write
+   19/042   . . . . {due to external shock or vibration}
+   19/043   . . . . {by detecting a free-fall condition}
+   19/044   . . . . {by using a data buffer}
+   19/045   . . . . {by detecting mistracking}
+   19/046   . . . {Detection or prevention or problems due to
+   19/047   . . . {Recovery from power failure}
+   19/048   . . . {Testing of disk drives, e.g. to detect defects or
+   19/06    . . by counting or timing of machine operations
+   19/08    . . by using devices external to the driving
+mechanisms, e.g. coin-freed switch (coin actuated
+   19/10    . . by sensing presence or absence of record in
+accessible stored position or on turntable
+   19/12    . . by sensing distinguishing features of {or on}
+records, e.g. diameter {end mark}
+ 2019/121   . . . {by photo-electric sensing}
+   19/122   . . . {involving the detection of an identification or
+authentication mark (record carriers indicating
+unauthorised or prior use G11B 23/28)}
+   19/124   . . . {involving the detection of diameter of disks
+(feeding or guiding of a single record carrier
+   19/125   . . . {involving the detection of carrier data format}
+   19/127   . . . {involving detection of the number of sides,
+e.g. single or double, or layers, e.g. for multiple
+recording or reproducing layers}
+   19/128   . . . {involving the detection of track pitch or
+   19/14    . . by sensing movement or position of head, e.g.
+means moving in correspondence with head
+   19/165   . . . {by closing the cover}
+   19/18    . . . Manual action on one element producing
+control effect indirectly by consequent action
+   19/20    . Driving; Starting; Stopping; Control thereof
+   19/2009  . . {Turntables, hubs and motors for disk drives;
+Mounting of motors in the drive (means for
+clamping of disk to turntable G11B 17/022 and
+   19/2018  . . . {Incorporating means for passive damping
+of vibration, either in the turntable, motor or
+   19/2027  . . . {Turntables or rotors incorporating balancing
+means; Means for detecting imbalance}
+   19/2036  . . . {Motors characterized by fluid-dynamic
+   19/2054  . . {Spindle motor power-up sequences}
+   19/2063  . . {Spindle motor power-down sequences}
+   19/2072  . . . {for the reduction of power consumption
+   19/2081  . . . {emergency power-down}
+   19/209   . . {in multiple disk arrays, e.g. spindle
+synchronisation in RAID systems}
+   19/22    . . Brakes other than speed-regulating brakes
+   19/24    . . Arrangements for providing constant relative
+speed between record carrier and head
+   19/247   . . . using electrical means
+   19/253   . . . using mechanical means
+   19/26    . . Speed-changing arrangements; Reversing
+arrangements; Drive-transfer means therefor
+   19/265   . . . Friction wheel drive
+   19/275   . . . Gear wheel drive
+   19/28    . . Speed controlling, regulating, or indicating
+   20/00    Signal processing not specific to the method of
+recording or reproducing; Circuits therefor
+   20/00007 . {Time or data compression or expansion (audio
+compression based on psychoacoustics G10L 19/00;
+data processing for reproducing audio data at
+different playback speeds G10L 21/04; video
+compression H04N 19/00; data compression per se
+ 2020/00014 . . {the compressed signal being an audio signal}
+ 2020/00021 . . . {lossless audio compression}
+ 2020/00028 . . . {Advanced audio coding [AAC]}
+ 2020/00036 . . . {AC-3, i.e. ATSC digital audio compression
+ 2020/00043 . . . {Adaptive transform acoustic coding
+ 2020/0005  . . . {DTS audio codecs}
+ 2020/00057 . . . {MPEG-1 or MPEG-2 audio layer III [MP3]}
+ 2020/00065 . . . {Sigma-delta audio encoding}
+ 2020/00072 . . {the compressed signal including a video signal}
+ 2020/00079 . . {the compression ratio or quality level being
+adapted to circumstances, e.g. to the available
+   20/00086 . {Circuits for prevention of unauthorised
+reproduction or copying, e.g. piracy (indicating
+unauthorised use of record carriers in general
+G11B 23/28; scrambling for television signal
+recording H04N 5/913; network architectures or
+network protocols for network security H04L 63/00;
+cryptographic mechanisms or cryptographic
+arrangements for secret or secure communication
+   20/00094 . . {involving measures which result in a restriction
+   20/00101 . . . {the original record carrier having a larger
+recording capacity than the potential target
+   20/00108 . . . {wherein original, non-rewritable record
+carriers are recognised by trying to erase
+   20/00115 . . . {wherein the record carrier stores a unique
+   20/00123 . . . {the record carrier being identified by
+recognising some of its unique characteristics,
+e.g. a unique defect pattern serving as a
+physical signature of the record carrier}
+   20/0013  . . . {wherein the measure concerns not the entire
+record carrier, but a specific physical or logical
+area of one or more record carriers}
+   20/00137 . . {involving measures which result in a restriction
+to contents recorded on or reproduced from a
+record carrier to authorised users}
+   20/00144 . . . {involving a user identifier, e.g. a unique
+   20/00152 . . . {involving a password}
+   20/00159 . . . {Parental control systems}
+   20/00166 . . {involving measures which result in a restriction
+to authorised contents recorded on or reproduced
+from a record carrier, e.g. music or software}
+   20/00173 . . . {wherein the origin of the content is checked,
+e.g. determining whether the content has
+originally been retrieved from a legal disc copy
+   20/00181 . . . {using a content identifier, e.g. an international
+standard recording code [ISRC] or a digital
+   20/00188 . . {involving measures which result in a restriction
+to authorised devices recording or reproducing
+contents to/from a record carrier}
+   20/00195 . . . {using a device identifier associated with
+the player or recorder, e.g. serial numbers of
+playback apparatuses or MAC addresses}
+   20/00202 . . . {wherein the copy protection scheme builds on
+multi-session recording, e.g. defective table of
+contents [TOC] in the 2nd session}
+   20/0021  . . {involving encryption or decryption of contents
+recorded on or reproduced from a record carrier}
+   20/00217 . . . {the cryptographic key used for encryption
+and/or decryption of contents recorded on or
+reproduced from the record carrier being read
+from a specific source (key distribution or
+   20/00224 . . . . {wherein the key is obtained from a remote
+   20/00231 . . . . {wherein the key is obtained from a local
+   20/00239 . . . . {wherein the key is provided by a software
+application accessing the medium}
+   20/00246 . . . . {wherein the key is obtained from a local
+device, e.g. device key initially stored by the
+   20/00253 . . . . {wherein the key is stored on the record
+   20/0026  . . . . . {the key being stored as a barcode}
+   20/00268 . . . . . . {said barcode being recorded in a burst
+   20/00275 . . . . . {the key being stored on a chip attached to
+   20/00282 . . . . . {the key being stored in the content
+area, e.g. program area, data area or user
+area (key stored in a management area
+   20/00289 . . . . . . {wherein the key is stored as a
+   20/00297 . . . . . {the key being stored in a management
+area, e.g. the video manager [VMG] of a
+   20/00304 . . . . . . {the key being stored in the lead-in area
+   20/00311 . . . . . . {the key being stored in the lead-out
+   20/00318 . . . . . . {the key being stored in the TOC}
+   20/00326 . . . . . {the key being embossed on the record
+   20/00333 . . . . . {the key being stored in header data, e.g.
+   20/0034  . . . . . {the key being stored as a hologram}
+   20/00347 . . . . . {wherein the medium identifier is used as
+   20/00355 . . . . . {the record carrier having a label that
+   20/00362 . . . . . {the key being obtained from a media key
+   20/00369 . . . . . {wherein a first key, which is usually
+stored on a hidden channel, e.g. in the
+lead-in of a BD-R, unlocks a key locker
+   20/00376 . . . . . {the key being stored by varying the pit
+format, e.g. depth, width, length or edge
+   20/00384 . . . . . {the key being derived from a physical
+signature of the record carrier, e.g. unique
+   20/00391 . . . . . {the key being stored in subcodes, e.g. in
+   20/00398 . . . . . {the key being stored in sync patterns}
+   20/00405 . . . . . {the key being stored by varying
+characteristics of the recording track,
+e.g. by altering the track pitch or by
+   20/00413 . . . . {wherein the key is input by a user}
+   20/0042  . . . {the copy protection scheme being related to a
+specific access protection standard}
+   20/00427 . . . . {advanced access content system [AACS]}
+   20/00434 . . . . {content protection for pre-recorded media
+   20/00442 . . . . {content protection for recordable media
+   20/00449 . . . . {content scrambling system [CSS]}
+   20/00456 . . . . {digital transmission content protection
+   20/00463 . . . . {high-bandwidth digital content protection
+   20/00471 . . . . {video content protection system [VCPS]}
+   20/00478 . . . {wherein contents are decrypted and re-
+encrypted with a different key when being
+copied from/to a record carrier}
+   20/00485 . . . {characterised by a specific kind of data which
+is encrypted and recorded on and/or reproduced
+   20/00492 . . . . {wherein content or user data is encrypted}
+   20/005   . . . . . {wherein only some specific parts of the
+content are encrypted, e.g. encryption
+   20/00507 . . . . . {wherein consecutive physical data units
+of the record carrier are encrypted with
+separate encryption keys, e.g. the key
+changes on a cluster or sector basis}
+   20/00514 . . . . . {wherein the entire content is encrypted
+with the same key, e.g. disc key or master
+   20/00521 . . . . . {wherein each session of a multisession
+recording medium is encrypted with a
+   20/00528 . . . . . {wherein each title is encrypted with a
+separate encryption key for each title, e.g.
+title key for movie, song or data file}
+   20/00536 . . . . . {wherein encrypted content data is
+subjected to a further, iterated encryption,
+   20/00543 . . . . {wherein external data is encrypted, e.g.
+for secure communication with an external
+device or for encrypting content on a
+   20/0055  . . . . {wherein license data is encrypted}
+   20/00557 . . . . {wherein further management data is
+encrypted, e.g. sector headers, TOC or the
+   20/00565 . . . . {wherein parity data is encrypted}
+   20/00572 . . {involving measures which change the format of
+   20/00579 . . . {said format change concerning the data
+encoding, e.g., modulation schemes violating
+run-length constraints, causing excessive DC
+content, or involving uncommon codewords or
+   20/00586 . . . {said format change concerning the physical
+format of the recording medium}
+   20/00594 . . . . {wherein the shape of recording marks is
+altered, e.g. the depth, width, or length of
+   20/00601 . . . . {wherein properties of tracks are altered,
+e.g., by changing the wobble pattern or the
+track pitch, or by adding interruptions or
+   20/00608 . . . . {wherein the material that the record carrier
+is made of is altered, e.g. adding reactive
+dyes that alter the optical properties of a disc
+after prolonged exposure to light or air}
+   20/00615 . . . {said format change concerning the logical
+format of the recording medium, e.g. the
+structure of sectors, blocks, or frames}
+   20/00623 . . . . {wherein the modification to the logical
+format directly concerns user data}
+   20/0063  . . . . {wherein the modification to the logical
+format mainly concerns management data,
+e.g., by changing the format of the TOC or
+   20/00637 . . . . . {said management data being address
+   20/00644 . . . . . . {the address data format being such that
+there are overlapping address ranges}
+   20/00652 . . . . . . {the address data being scrambled so
+that ascending address values do not
+reflect the physical order of data blocks}
+   20/00659 . . {involving a control step which is implemented as
+an executable file stored on the record carrier}
+   20/00666 . . {involving a step of erasing or nullifying data,
+e.g. data being overwritten with a random string}
+   20/00673 . . . {wherein the erased or nullified data include a
+   20/00681 . . {involving measures which prevent a specific
+   20/00688 . . . {said measures preventing that a usable copy of
+recorded data can be made on another medium}
+   20/00695 . . . {said measures preventing that data are read
+   20/00702 . . . {said measures preventing that data are
+recorded on the recording medium}
+   20/0071  . . {involving a purchase action}
+   20/00717 . . . {wherein accounting and payment are
+postponed, e.g. until the player can establish a
+network connection to the service provider}
+   20/00724 . . . {wherein a prepaid credit balance is registered
+   20/00731 . . {involving a digital rights management system for
+   20/00739 . . . {wherein the usage restriction is associated
+with a specific geographical region}
+   20/00746 . . . {wherein the usage restriction can be expressed
+   20/00753 . . . . {wherein the usage restriction limits the
+number of copies that can be made, e.g.
+   20/0076  . . . . . {wherein the copy frequency, i.e. the
+number of copies in a given time period, is
+   20/00768 . . . . . {wherein copy control information is used,
+e.g. for indicating whether a content may
+be copied freely, no more, once, or never,
+by setting CGMS, SCMS, or CCI flags}
+   20/00775 . . . . . . {wherein said copy control information
+is encoded in an encryption mode
+   20/00782 . . . . {wherein the usage restriction limits the
+number of times a program can be installed}
+   20/00789 . . . . {wherein the usage restriction limits the
+number of functional copies, which can be
+accessed at a time, e.g. electronic bookshelf
+concept, virtual library, video rentals or
+   20/00797 . . . . {wherein the usage restriction limits
+the number of times a content can be
+reproduced, e.g. using playback counters}
+   20/00804 . . . . {wherein the usage restriction limits the
+number of users or devices that are allowed
+   20/00811 . . . . {wherein said number is encoded as a
+   20/00818 . . . {wherein the usage restriction limits the signal
+quality, e.g. by low-pass filtering of audio
+signals or by reducing the resolution of video
+   20/00826 . . . . {wherein a spoiler signal is added to degrade
+   20/00833 . . . {wherein the usage restriction limits the data
+access speed, e.g. by defining a maximum bit
+   20/0084  . . . {wherein the usage restriction can be expressed
+   20/00847 . . . {wherein the usage restriction is defined by a
+   20/00855 . . {involving a step of exchanging information with
+   20/00862 . . . {wherein the remote server can grant the
+   20/00869 . . . {wherein the remote server can deliver the
+   20/00876 . . {wherein physical copy protection means are
+attached to the medium, e.g. holograms, sensors,
+or additional semiconductor circuitry}
+   20/00884 . . {involving a watermark, i.e. a barely perceptible
+transformation of the original data which can
+nevertheless be recognised by an algorithm}
+   20/00891 . . . {embedded in audio data}
+   20/00898 . . . {based on a hash function}
+   20/00905 . . . {multiple watermarks used in combination}
+   20/00913 . . . {based on a spread spectrum technique}
+   20/0092  . . {involving measures which are linked to media
+   20/00927 . . . {wherein said defects or errors are generated on
+purpose, e.g. intended scratches}
+   20/00934 . . . . {said intentional errors occurring because of
+   20/00942 . . . . {said intentional errors occurring due to an
+invalid playback path or program chain}
+   20/00949 . . . . {said intentional errors occurring due to bad
+sectors, which are either physically destroyed
+or which are declared defective in the defect
+   20/00956 . . . . {said intentional errors occurring due to an
+   20/00963 . . . {wherein said defects or errors are not
+generated on purpose, e.g. random defect
+patterns occurring during the normal
+   20/00971 . . {involving measures for monitoring the industrial
+media production and distribution channels, e.g.
+for controlling content providers or the official
+manufacturers or replicators of recording media}
+   20/00978 . . {wherein the record carrier stores a trial version
+   20/00985 . . . {the trial version being of lower quality than
+   20/00992 . {Circuits for stereophonic or quadraphonic
+   20/02    . Analogue recording or reproducing
+   20/025   . . {Error detection or correction}
+   20/04    . . Direct recording or reproducing
+   20/06    . . Angle-modulation recording or reproducing
+   20/08    . . Pulse-modulation recording or reproducing
+(pulse-code-modulation recording G11B 20/10)
+   20/10    . Digital recording or reproducing
+   20/10009 . . {Improvement or modification of read or write
+   20/10018 . . . {analog processing for digital
+(G11B 20/10037 - G11B 20/10481 take
+   20/10027 . . . . {adjusting the signal strength during
+recording or reproduction, e.g. variable
+gain amplifiers (optimum power control for
+   20/10037 . . . {A/D conversion, D/A conversion, sampling,
+slicing and digital quantisation or adjusting
+   20/10046 . . . {filtering or equalising, e.g. setting the tap
+   20/10055 . . . . {using partial response filtering when
+writing the signal to the medium or reading it
+   20/10064 . . . . . {EEPR4 or E2PR4, i.e. extended
+partial response class 4, polynomial (1-
+   20/10074 . . . . . {EPR4, i.e. extended partial response class
+   20/10083 . . . . . {PR1 or PR(1,1,), i.e. partial response
+   20/10092 . . . . . {partial response PR(1,1,1,1)}
+   20/10101 . . . . . {PR2 or PR(1,2,1), i.e. partial response
+class 2, polynomial (1+D)2=1+2D+D2}
+   20/10111 . . . . . {partial response PR(1,2,2,1)}
+   20/1012  . . . . . {partial response PR(1,2,2,2,1)}
+   20/10129 . . . . . {partial response PR(1,2,3,3,2,1)}
+   20/10138 . . . . . {partial response PR (2,3,3,2)}
+   20/10148 . . . . . {partial response PR(1,3,3,1)}
+   20/10157 . . . . . {PR3 or PR(2,1,-1), i.e. partial response
+class 3, polynomial (1+D)(2-D)=2+D-D2}
+   20/10166 . . . . . {partial response PR(3,4,4,3)}
+   20/10175 . . . . . {PR4, PR(1,0,-1), i.e. partial response
+class 4, polynomial (1+D)(1-D)=(1-D2)}
+   20/10185 . . . . . {PR5 or PR(-1,0,2,0,-1), i.e. partial
+response class 5, polynomial -((1+D)2)
+   20/10194 . . . . {using predistortion during writing
+(G11B 20/10055 takes precedence)}
+   20/10203 . . . . {baseline correction (DC correction by
+choosing codewords of the modulation code
+   20/10212 . . . . {compensation for data shift, e.g. pulse-
+   20/10222 . . . {clock-related aspects, e.g. phase or frequency
+adjustment or bit synchronisation (dedicated
+sync patterns in the modulation code
+   20/10231 . . . . {wherein an asynchronous, free-running
+clock is used; Interpolation of sampled
+   20/1024  . . . . {wherein a phase-locked loop [PLL] is used}
+   20/1025  . . . . . {the PLL being discrete time or digital
+   20/10259 . . . . {simultaneous timing recovery for multiple
+   20/10268 . . . {bit detection or demodulation methods}
+   20/10277 . . . . {the demodulation process being specifically
+adapted to partial response channels, e.g.
+   20/10287 . . . . {using probabilistic methods, e.g. maximum
+likelihood detectors (G11B 20/10277 takes
+   20/10296 . . . . . {using the Viterbi algorithm}
+   20/10305 . . . {signal quality assessment}
+   20/10314 . . . . {amplitude of the recorded or reproduced
+   20/10324 . . . . {asymmetry of the recorded or reproduced
+   20/10333 . . . . . {wherein the asymmetry is linked to
+   20/10342 . . . . {sub-information or auxiliary signals
+different from the normal recording marks,
+e.g. signals reproduced from wobble tracks}
+   20/10351 . . . . {baseline shift, DC content, bias}
+   20/10361 . . . . {digital demodulation process}
+   20/1037  . . . . . {based on hard decisions, e.g. by
+evaluating bit error rates before or after
+   20/10379 . . . . . {based on soft decisions, e.g. confidence
+values, probability estimates, likelihoods
+values or path metrics of a statistical
+   20/10388 . . . . {control of the read or write heads, e.g.
+tracking errors, defocus or tilt compensation}
+   20/10398 . . . . {jitter, timing deviations or phase and
+   20/10407 . . . . . {by verifying the timing of signal
+transitions, e.g. rising or falling edges, or
+   20/10416 . . . . . {by verifying the timing of peak values}
+   20/10425 . . . . . {by counting out-of-lock events of a PLL}
+   20/10435 . . . . . {by verifying the timing of predetermined
+signal patterns, e.g. sync patterns}
+   20/10444 . . . . . {by verifying the timing of zero crossings}
+   20/10453 . . . . {physical shape of recording marks, e.g. their
+length, width, depth or contour}
+   20/10462 . . . . {consistency with a reference waveform
+in a given time period, e.g. by calculating
+correlations or mean square errors}
+   20/10472 . . . . {derived from statistics of other quality
+measures, e.g. their mean, variance or skew}
+   20/10481 . . . {optimisation methods}
+   20/1049  . . . . {using closed-form solutions}
+   20/105   . . . . {selecting parameter values from a plurality
+   20/10509 . . . . {iterative methods, e.g. trial-and-error,
+interval search, gradient descent or feedback
+loops (G11B 20/10518 takes precedence)}
+   20/10518 . . . . {using neural networks}
+   20/10527 . . {Audio or video recording; Data buffering
+arrangements (G11B 20/12 - G11B 20/18 take
+ 2020/10537 . . . {Audio or video recording}
+ 2020/10546 . . . . {specifically adapted for audio data}
+ 2020/10555 . . . . . {wherein the frequency, the amplitude, or
+other characteristics of the audio signal is
+ 2020/10564 . . . . . . {frequency}
+ 2020/10574 . . . . . . {volume or amplitude}
+ 2020/10583 . . . . . . {parameters controlling audio
+ 2020/10592 . . . . {specifically adapted for recording or
+reproducing multichannel signals}
+ 2020/10601 . . . . . {surround sound signal}
+ 2020/10611 . . . . . {3D video data}
+ 2020/1062  . . . {Data buffering arrangements, e.g. recording or
+ 2020/10629 . . . . {the buffer having a specific structure}
+ 2020/10638 . . . . . {First-in-first-out memories [FIFO]
+ 2020/10648 . . . . . {First-in-last-out memories [LIFO]
+ 2020/10657 . . . . . {Cache memories for random data access,
+e.g. buffers wherein the data output is
+controlled by a priority parameter other
+ 2020/10666 . . . . . {Ring buffers, e.g. buffers wherein an
+iteratively progressing read or write
+pointer moves back to the beginning of the
+buffer when reaching the last storage cell}
+ 2020/10675 . . . . {aspects of buffer control}
+ 2020/10685 . . . . . {input interface, i.e. the way data enter the
+buffer, e.g. by informing the sender that
+ 2020/10694 . . . . . {output interface, i.e. the way data leave
+the buffer, e.g. by adjusting the clock rate}
+ 2020/10703 . . . . . {processing rate of the buffer, e.g. by
+ 2020/10712 . . . . . {buffer capacity, e.g. when the buffer
+capacity is exhausted, buffered data
+are overwritten with more recent data,
+accepting that the old data are lost}
+ 2020/10722 . . . . . {wherein the size of the buffer is variable,
+e.g. by adding additional memory cells for
+coping with input streams that have high
+ 2020/10731 . . . . . {wherein the buffer I/O can be temporarily
+suspended, e.g. by refusing to accept
+ 2020/1074  . . . . . {involving a specific threshold value}
+ 2020/1075  . . . . {the usage of the buffer being restricted to a
+ 2020/10759 . . . . . {content data}
+ 2020/10768 . . . . . . {by pre-caching the initial portion of
+songs or other recorded or downloaded
+data for starting playback instantly}
+ 2020/10777 . . . . . {instructions or commands}
+ 2020/10787 . . . . . {parameters, e.g. for decoding or
+ 2020/10796 . . . . . {address data}
+ 2020/10805 . . . . {involving specific measures to prevent a
+ 2020/10814 . . . . {involving specific measures to prevent a
+ 2020/10824 . . . . {the buffer being used to prevent vibrations
+ 2020/10833 . . {Copying or moving data from one record carrier
+ 2020/10842 . . . {wherein not all recorded data are copied or
+ 2020/10851 . . {Erasing data on the record carrier}
+ 2020/10861 . . {Finalising a record carrier after a recording
+operation, e.g. to ensure compatibility with a
+ 2020/1087  . . {wherein a selection is made among at least two
+alternative ways of processing}
+ 2020/10879 . . . {the kind of record carrier being the selection
+ 2020/10888 . . . {the kind of data being the selection criterion}
+ 2020/10898 . . {Overwriting or replacing recorded data}
+ 2020/10907 . . . {using pseudo-overwriting, i.e. virtually or
+logically overwriting data on WORM media by
+remapping recorded blocks to alternate areas}
+ 2020/10916 . . {Seeking data on the record carrier for preparing
+an access to a specific address}
+ 2020/10925 . . . {involving an inter-layer jump, i.e. changing
+from one recording layer to another}
+ 2020/10935 . . {wherein a time constraint must be met}
+ 2020/10944 . . . {Real-time recording or reproducing, e.g. for
+ensuring seamless playback of AV data}
+ 2020/10953 . . . {Concurrent recording or playback of different
+ 2020/10962 . . . . {wherein both recording and playback take
+ 2020/10972 . . . {Management of interruptions, e.g. due to
+ 2020/10981 . . . {Recording or reproducing data when the data
+rate or the relative speed between record carrier
+ 2020/1099  . . . . {wherein a disc is spun at a variable speed}
+   20/12    . . Formatting, e.g. arrangement of data block
+or words on the record carriers {(within
+interface between computers and data recorders
+   20/1202  . . . . {with longitudinal tracks only}
+   20/1204  . . . . . {for continuous data, e.g. digitised analog
+information signals, pulse code modulated
+   20/1205  . . . . . {for discontinuous data, e.g. digital
+information signals, computer programme
+   20/1207  . . . . {with transverse tracks only}
+   20/1208  . . . . . {for continuous data, e.g. digitised analog
+information signals, pulse code modulated
+   20/1209  . . . . . {for discontinuous data, e.g. digital
+information signals, computer programme
+   20/1211  . . . . {with different data track configurations
+(longitudinal control tracks with transverse
+user data tracks G11B 20/1207)}
+   20/1212  . . . . . {for continuous data, e.g. digitised analog
+information signals, pulse code modulated
+   20/1214  . . . . . {for discontinuous data, e.g. digital
+information signals, computer programme
+   20/1215  . . . {on cards (optical aspect of optical cards
+ 2020/1218  . . . . {wherein the formatting concerns a specific
+ 2020/122   . . . . . {Burst cutting area [BCA]}
+ 2020/1221  . . . . . {cluster, i.e. a data structure which
+consists of a fixed number of sectors or
+ 2020/1222  . . . . . {ECC block, i.e. a block of error
+correction encoded symbols which
+includes all parity data needed for
+decoding (pure error correction aspects
+ 2020/1224  . . . . . {extent, i.e. a set of sectors which numbers
+form a continuous ascending sequence}
+ 2020/1225  . . . . . {frame, i.e. a subunit of a sector containing
+ 2020/1227  . . . . . {one layer of multilayer disc}
+ 2020/1228  . . . . . {middle zone or outer guard area of a
+ 2020/1229  . . . . . {lead-in area}
+ 2020/1231  . . . . . {lead-out area}
+ 2020/1232  . . . . . {sector, i.e. the minimal addressable
+ 2020/1234  . . . . . . {wherein the sector is a headerless
+sector, i.e. it does not comprise an ID
+ 2020/1235  . . . . . {session, i.e. a contiguous area having its
+own lead-in area, program area and lead-
+ 2020/1237  . . . . . {recording side of a single layer medium}
+ 2020/1238  . . . . . {track, i.e. the entire a spirally or
+concentrically arranged path on which the
+ 2020/1239  . . . . . . {the track being a pregroove, e.g. the
+wobbled track of a recordable optical
+ 2020/1241  . . . . . {user area, i.e. the area of a disc where
+ 2020/1242  . . . . . {the area forming one or more zones,
+wherein each zone is shaped like an
+ 2020/1244  . . . . . . {CAV zone, in which a constant angular
+ 2020/1245  . . . . . . {CLV zone, in which a constant linear
+ 2020/1247  . . . . . . {rewritable zone, e.g. a RAM zone of
+a hybrid disc having ROM and RAM
+ 2020/1248  . . . . . . {ROM zone, i.e. an unrewritable zone}
+ 2020/1249  . . . . {wherein the bits are arranged on a two-
+   20/1251  . . . . {for continuous data, e.g. digitised analog
+information signals, pulse code modulated
+   20/1252  . . . . {for discontinuous data, e.g. digital
+information signals, computer programme
+   20/1254  . . . . {for mixed data, i.e. continuous and
+ 2020/1255  . . . . {Fixed Block Architecture [FBA] format}
+ 2020/1257  . . . . {Count Key Data [CKD] format}
+   20/1258  . . . . {where blocks are arranged within multiple
+radial zones, e.g. Zone Bit Recording or
+Constant Density Recording discs, MCAV
+ 2020/1259  . . . . {with ROM/RAM areas}
+   20/1261  . . . {on films, e.g. for optical moving-picture
+soundtracks (optical aspect G11B 7/0032)}
+   20/1262  . . . {with more than one format/standard, e.g.
+conversion from CD-audio format to R-DAT
+ 2020/1264  . . . {wherein the formatting concerns a specific
+ 2020/1265  . . . . {Control data, system data or management
+information, i.e. data used to access or
+ 2020/1267  . . . . . {Address data}
+ 2020/1268  . . . . . . {Address in pregroove [ADIP]
+ 2020/1269  . . . . . . {Absolute time in pregroove [ATIP]
+ 2020/1271  . . . . . . {the address data being stored in a
+subcode, e.g. in the Q channel of a CD}
+ 2020/1272  . . . . . . . {Burst indicator subcode [BIS]}
+ 2020/1274  . . . . . . {stored in pre-pits, i.e. in embossed pits,
+ 2020/1275  . . . . . {Calibration data, e.g. specific training
+patterns for adjusting equalizer settings or
+other recording or playback parameters}
+ 2020/1277  . . . . . {for managing gaps between two
+recordings, e.g. control data in linking
+areas, run-in or run-out fields, guard or
+ 2020/1278  . . . . . {Physical format specifications of the
+record carrier, e.g. compliance with a
+specific standard, recording density,
+number of layers, start of data zone or
+ 2020/1279  . . . . . . {Permanent information and control
+data stored in the PIC zone of a Blu-Ray
+ 2020/1281  . . . . . {Servo information}
+ 2020/1282  . . . . . . {in embedded servo fields}
+ 2020/1284  . . . . . . {in servo fields which split data fields}
+ 2020/1285  . . . . . {Status of the record carrier, e.g. space bit
+maps, flags indicating a formatting status
+ 2020/1287  . . . . . {Synchronisation pattern, e.g. VCO fields
+(specific bit sequences of sync patterns
+G11B 20/1403; A/V synchronisation
+ 2020/1288  . . . . {Formatting by padding empty spaces with
+dummy data, e.g. writing zeroes or random
+data when de-icing optical discs}
+ 2020/1289  . . . . {Formatting of user data}
+ 2020/1291  . . . {wherein the formatting serves a specific
+ 2020/1292  . . . . {Enhancement of the total storage capacity}
+ 2020/1294  . . . . {Increase of the access speed}
+ 2020/1295  . . . . . {wherein the focus is on the read access
+ 2020/1297  . . . . . {wherein the focus is on the write access
+ 2020/1298  . . . . {Enhancement of the signal quality}
+   20/14    . . using self-clocking codes
+   20/1403  . . . {characterised by the use of two levels}
+   20/1407  . . . . {code representation depending on a single
+bit, i.e. where a one is always represented by
+a first code symbol while a zero is always
+represented by a second code symbol}
+   20/1411  . . . . . {conversion to or from pulse width
+   20/1415  . . . . . {conversion to or from pulse frequency
+   20/1419  . . . . . {to or from biphase level coding, i.e. to
+or from codes where a one is coded as
+a transition from a high to a low level
+during the middle of a bit cell and a zero
+is encoded as a transition from a low to
+a high level during the middle of a bit
+cell or vice versa, e.g. split phase code,
+Manchester code conversion to or from
+biphase space or mark coding, i.e. to or
+from codes where there is a transition at
+the beginning of every bit cell and a one
+has no second transition and a zero has a
+second transition one half of a bit period
+later or vice versa, e.g. double frequency
+   20/1423  . . . . {Code representation depending on
+subsequent bits, e.g. delay modulation,
+double density code, Miller code}
+   20/1426  . . . . . {conversion to or from block codes or
+ 2020/143   . . . . . . {4 to 6 modulation}
+ 2020/1434  . . . . . . {8 to 9 modulation}
+ 2020/1438  . . . . . . {8 to 10 modulation}
+ 2020/1442  . . . . . . {8 to 12 modulation}
+ 2020/1446  . . . . . . {16 to 17 modulation}
+ 2020/1449  . . . . . . {24 to 25 modulation}
+ 2020/1453  . . . . . . {17PP modulation, i.e. the parity
+preserving RLL(1,7) code with rate 2/3
+ 2020/1457  . . . . . . {wherein DC control is performed by
+calculating a digital sum value [DSV]}
+ 2020/1461  . . . . . . {8 to 14 modulation, e.g. the EFM code
+ 2020/1465  . . . . . . {8 to 16 modulation, e.g. the EFM+
+ 2020/1469  . . . . . . {modulation code with one or more
+merging bits between consecutive
+ 2020/1473  . . . . . . {modulation code without any merging
+ 2020/1476  . . . . {Synchronisation patterns; Coping with
+ 2020/148   . . . . . {using error detecting or error correcting
+ 2020/1484  . . . . {Codewords used in servo patterns}
+   20/1488  . . . {characterised by the use of three levels}
+   20/1492  . . . . {two levels are symmetric, in respect of the
+sign to the third level which is "zero"}
+   20/1496  . . . {characterised by the use of more than three
+   20/16    . . using non self-clocking codes, i.e. the clock
+signals are either recorded in a separate clocking
+track or in a combination of several information
+   20/18    . . Error detection or correction; Testing {, e.g. of
+   20/1803  . . . {by redundancy in data representation}
+   20/1806  . . . {Pulse code modulation systems for audio
+signals (G11B 20/1803 takes precedence)}
+   20/1809  . . . . {by interleaving}
+   20/1813  . . . . {by adding special bits or symbols to the
+coded information (G11B 20/1809 takes
+   20/182   . . . . {using test patterns}
+ 2020/1823  . . . . {wherein a flag is set when errors are
+ 2020/1826  . . . . {wherein a defect list or error map is
+ 2020/183   . . . . {wherein at least one additional attempt is
+made to read or write the data when a first
+   20/1833  . . . {by adding special lists or symbols to the coded
+information (G11B 20/1806, G11B 20/1866
+ 2020/1836  . . . . {using a Reed Solomon [RS] code}
+ 2020/184   . . . . . {using a cross-interleaved Reed Solomon
+ 2020/1843  . . . . {using a cyclic redundancy check [CRC]}
+ 2020/1846  . . . . {using a picket code, i.e. a code in which a
+long distance code [LDC] is arranged as an
+array and columns containing burst indicator
+subcode [BIS] are multiplexed for erasure
+ 2020/185   . . . . {using an low density parity check [LDPC]
+ 2020/1853  . . . . {using a product code which has inner and
+ 2020/1856  . . . . {using a turbo code}
+ 2020/1859  . . . . {wherein a trellis is used for decoding the
+ 2020/1863  . . . . {wherein the Viterbi algorithm is used for
+decoding the error correcting code}
+   20/1866  . . . {by interleaving (G11B 20/1809 takes
+ 2020/1869  . . . {Preventing ageing phenomena from causing
+data loss, e.g. by monitoring the age of record
+carriers or by recognising wear, and by copying
+information elsewhere when a record carrier
+ 2020/1873  . . . {Temporary defect structures for write-once
+discs, e.g. TDDS, TDMA or TDFL}
+   20/1876  . . . {Interpolating methods}
+   20/1879  . . . {Direct read-after-write methods}
+   20/1883  . . . {Methods for assignment of alternate areas for
+   20/1886  . . . . {with tapes}
+   20/1889  . . . . {with discs}
+ 2020/1893  . . . . {using linear replacement to relocate data
+from a defective block to a non-contiguous
+spare area, e.g. with a secondary defect list
+ 2020/1896  . . . . {using skip or slip replacement to relocate
+data from a defective block to the next usable
+block, e.g. with a primary defect list [PDL]}
+   20/20    . for correction of skew for multitrack recording
+   20/22    . for reducing distortions
+   20/225   . . {for reducing wow or flutter (by controlling
+the speed of the record carrier G11B 15/46,
+   20/24    . for reducing noise {(control of amplification in
+general, e.g. dependent upon noise level H03G)}
+   21/00    Head arrangements not specific to the method of
+   21/003   . {Disposition of fixed heads, e.g. for scanning,
+selecting or following of tracks}
+   21/006   . . {for track following}
+   21/02    . Driving or moving of heads
+   21/022   . . {Programmed access in sequence to indexed parts
+   21/025   . . . {of rotating discs}
+   21/03    . . for correcting time base error {during transducing
+operation, by driving or moving the head in a
+direction more or less parallel to the direction of
+travel of the recording medium, e.g. tangential
+direction on a rotating disc (by driving or moving
+the head in a direction which cuts across the
+direction of travel of the recording medium
+   21/04    . . Automatic feed mechanism producing a
+{progressive} transducing traverse of the head
+in a direction which cuts across the direction of
+travel of the recording medium, e.g. helical scan
+{, e.g. by lead-screw (G11B 19/20, G11B 21/08
+and G11B 21/10 take precedence)}
+   21/043   . . . {for stationary discs}
+   21/046   . . . {details of the feed mechanism}
+   21/06    . . . the record carrier having {mechanical} means
+to ensure traverse movement of the head {, e.g.
+   21/08    . . Track changing or selecting (G11B 21/12 takes
+precedence){during transducing operation}
+   21/081   . . . {Access to indexed tracks or parts of
+   21/085   . . . . . {with track following of accessed part}
+   21/088   . . . . . {with track following of accessed part}
+   21/10    . . Track finding or aligning by moving the head
+{Provisions for maintaining alignment of the head
+relative to the track during transducing operation,
+i.e. track following (characterised by the track
+   21/12    . . Raising and lowering; Back-spacing or forward-
+spacing along track; Returning to starting position
+{otherwise than during transducing operation}
+   21/16    . Supporting the heads; Supporting the sockets for
+   21/18    . . while the head is moving
+   21/20    . . while the head is in operative position but
+stationary or permitting minor movements to
+follow irregularities in surface of record carrier
+   21/21    . . . with provision for maintaining desired spacing
+of head from record carrier, e.g. fluid-dynamic
+   21/22    . . while the head is out of operative position
+   21/24    . . Head support adjustments
+   21/26    . . Means for interchange or replacement of head or
+   23/00    Record carriers not specific to the method of
+recording or reproducing; Accessories, e.g.
+containers, specially adapted for co-operation
+with the recording or reproducing apparatus
+{Intermediate mediums; Apparatus or processes
+specially adapted for their manufacture (processes
+involving a single technical art and for which
+provision exists elsewhere, see the relevant class, e.g.
+In group G11B 23/00, recording or reproducing
+apparatus does not include the record carriers.
+   23/0007  . {Circuits or methods for reducing noise, for
+correction of distortion, or for changing density
+of recorded information, (volume compression or
+expansion circuits per se H03G 7/00)}
+This group is closed down and will in due course
+be transferred to G11B 20/22 and G11B 20/24
+   23/0014  . {record carriers not specifically of filamentary or
+web form (G11B 23/0057 takes precedence)}
+   23/0035  . . . . {means incorporated in the disc, e.g. hub,
+to enable its guiding, loading or driving
+(means for driving the head G11B 21/06;
+guiding the disc for centering or locking
+G11B 17/022; turntables or spindles for
+   23/0042  . . . . . {with provision for auxiliary features
+(sensing such features G11B 17/00,
+   23/005   . . . {flexible discs (G11B 23/0035 takes
+   23/0057  . {Intermediate mediums, i.e. mediums provided
+with an information structure not specific to the
+method of reproducing or duplication such as
+matrixes for mechanical pressing of an information
+structure (for record carriers with directly readable
+mechanical information G11B 3/685); record
+carriers having a relief information structure
+provided with or included in layers not specific for
+a single reproducing method; apparatus or processes
+specially adapted for their manufacture}
+   23/0064  . . {mediums or carriers characterised by the
+   23/0071  . . . {additional layers for lubrication or wear
+protection (lubricating means not integrated in
+the record carrier structure G11B 23/50)}
+   23/0078  . . . {information structure layers using metallic or
+   23/0085  . . . {intermediate mediums using a photosensitive
+   23/0092  . . . {molding resin compositions}
+   23/02    . Containers; Storing means {both adapted to
+cooperate with the recording or reproducing means}
+   23/021   . . {comprising means for reducing influence
+of physical parameters, e.g. temperature
+change, moisture (combined with means for
+reconditioning or cleaning G11B 23/507)}
+   23/023   . . Containers for magazines or cassettes
+   23/0233  . . . {Containers for a single cassette}
+   23/0236  . . . {Containers for several cassettes}
+   23/027   . . Containers for single reels or spools
+   23/03    . . Containers for flat record carriers
+   23/0302  . . . . {Auxiliary features}
+   23/0303  . . . . . {Write protect features with a sliding part}
+   23/0305  . . . . . {Semiconductor memories}
+   23/0306  . . . . {Means for locking the record carriers}
+   23/0307  . . . . {Positioning or centering features}
+   23/0308  . . . . {Shutters (G11B 23/0317 takes precedence)}
+   23/031   . . . . {Indicating means, e.g. sticker, bar code}
+   23/0311  . . . . {Wrong insertion preventing means}
+   23/0312  . . . . {Driving features}
+   23/0313  . . . . {Container cases}
+   23/0315  . . . . . {Materials}
+   23/0316  . . . . . {Constructional details, e.g. shape}
+   23/0317  . . . . {Containers with interchangeable record
+   23/0318  . . . . {Containers with incorporated transducing
+   23/032   . . . {for rigid discs}
+   23/0321  . . . . {rigid cartridges for single discs}
+   23/0322  . . . . . {comprising latching or movable handling
+devices (G11B 17/032 takes precedence)}
+   23/0323  . . . . {for disc-packs}
+   23/0325  . . . . . {comprising latching or movable handling
+devices (G11B 17/038 takes precedence)}
+   23/0326  . . . {Assembling of containers}
+   23/0327  . . . {for special applications not otherwise
+   23/0328  . . . {the disc having to be extracted from the
+cartridge for recording reproducing, e.g.
+cooperating with an extractable tray}
+   23/033   . . . for flexible discs
+   23/0332  . . . . {for single discs, e.g. envelopes}
+   23/0335  . . . . {for disc packs}
+   23/0337  . . . . . {comprising latching or movable handling
+devices (G11B 23/0325 and G11B 17/038
+   23/037   . . Single reels or spools
+   23/04    . . Magazines; Cassettes {for webs or
+filaments}(G11B 23/12 takes precedence
+{; cassettes with sealing or locking means
+G11B 23/28; dummy cassettes for locking in the
+   23/042   . . . . {Auxiliary features (sensing such features
+   23/043   . . . . {Brakes for tapes or tape reels}
+   23/044   . . . . {Reels or cores; positioning of the reels in
+   23/046   . . . . {Indicating means, e.g. quantity of tape}
+   23/047   . . . . {Guiding means}
+   23/048   . . . . {Driving features}
+   23/049   . . . {Cassettes for special applications not
+   23/06    . . . for housing endless webs or filaments
+   23/07    . . . . using a single reel or core
+   23/08    . . . for housing webs or filaments having two
+   23/087   . . . . using two different reels or cores
+   23/08707 . . . . . {Details}
+   23/08714 . . . . . . {Auxiliary features (sensing such
+   23/08721 . . . . . . {Brakes for tapes or tape reels
+(G11B 23/08707 takes precedence)}
+   23/08728 . . . . . . {Reels or cores; positioning of the reels
+   23/08735 . . . . . . {Covers}
+   23/08742 . . . . . . . {in combination with brake means}
+   23/0875  . . . . . . {Indicating means, e.g. quantity of tape}
+   23/08757 . . . . . . {Guiding means}
+   23/08764 . . . . . . . {Liner sheets}
+   23/08771 . . . . . . . {Pressure pads}
+   23/08778 . . . . . . {Driving features, e.g. belt}
+   23/08785 . . . . . . {Envelopes}
+   23/08792 . . . . . . {Shielding devices}
+   23/093   . . . . . the reels or cores being coaxial
+   23/107   . . . . using one reel or core, one end of the record
+carrier coming out of the magazine or
+   23/113   . . Apparatus or processes specially adapted for the
+manufacture of magazines or cassettes {, e.g.
+initial loading into container (processes involving
+a single technical art and for which provision
+exists elsewhere, see the relevant class, e.g. B21,
+   23/12    . . Bins for random storage of webs or filaments
+   23/14    . providing ability to repeat location, e.g. using
+   23/16    . Record carriers with single-track for recording
+at spaced intervals along the track thereof, e.g.
+for speech or language training {contains no
+   23/18    . Record carriers with multiple tracks, e.g. with
+complementary and partial tracks such as paired
+"stereo" tracks {contains no documents}
+   23/20    . with provision for splicing to provide permanent or
+   23/22    . . of endless belts; of tapes forming Moebius loops
+   23/24    . . of tapes having multiple tracks parallel to edge of
+record carrier by offset splicing to form endless
+loop with one or more helical tracks
+   23/26    . . of leaders for loading or threading, e.g. to form a
+   23/28    . Indicating {or preventing} prior or unauthorised
+use, {e.g. cassettes with sealing or locking means,
+write-protect devices for discs (write-protect devices
+for tapes G11B 23/042, G11B 23/08714; dummy
+cassettes for locking in the drive G11B 33/005)}
+   23/281   . . {by changing the physical properties of the record
+   23/282   . . . {Limited play}
+   23/283   . . {Security features, e.g. digital codes}
+   23/284   . . . {on the record carrier}
+   23/285   . . . {on the container or cartridge}
+   23/286   . . {Antitheft arrangements, e.g. Electronic Article
+   23/287   . . {by mechanical lock}
+   23/288   . . {Protecting disks from being written or
+   23/30    . with provision for auxiliary signals
+   23/32    . . Electrical or mechanical contacting means; Tape
+   23/34    . . Signal means additional to the main recording
+track, e.g. photoelectric sensing of sprocket holes
+   23/36    . . Signals on record carriers or on containers
+and recorded by the same method as the main
+   23/38    . Visual features other than those contained in record
+tracks or represented by sprocket holes {the visual
+signals being auxiliary signals}
+   23/40    . . Identifying or analogous means applied to
+or incorporated in the record carrier and not
+intended for visual display simultaneously with
+the playing-back of the record carrier, e.g. label,
+   23/42    . . Marks for indexing, speed-controlling,
+   23/44    . . Information for display simultaneously with
+playback of the record, e.g. photographic matter
+(associated working of cameras or projectors
+with sound recording or reproducing means
+   23/50    . Reconditioning of record carriers; Cleaning
+of record carriers {; Carrying-off electrostatic
+charges}(G11B 3/58 takes precedence)
+   23/502   . . {of tape carriers}
+   23/505   . . {of disk carriers}
+   23/507   . . . {combined with means for reducing influence
+of physical parameters, e.g. temperature
+   25/00    Apparatus characterised by the shape of record
+carrier employed but not specific to the method
+of recording or reproducing {, e.g. dictating
+apparatus; Combinations of such apparatus}
+   25/02    . using cylindrical record carriers
+   25/04    . using flat record carriers, e.g. disc, card
+   25/043   . . {using rotating discs}
+   25/046   . . {using stationary discs, or cards provided
+with a circular recording area (driving heads
+relatively to stationary record carriers for
+mechanical transducing G11B 3/40; automatic
+feed mechanism producing a transducing
+traverse of the head across stationary disk tracks
+   25/06    . using web-form record carriers, e.g. tape
+   25/063   . . {using tape inside container}
+   25/066   . . {adapted for use with containers of different sizes
+or configurations; adaptor devices therefor}
+   25/08    . using filamentary record carriers, e.g. wire
+   25/10    . Apparatus capable of using record carriers
+defined in more than one of the sub-groups
+G11B 25/02 - G11B 25/08; {Adaptor devices
+   27/00    Editing; Indexing; Addressing; Timing or
+synchronising; Monitoring; Measuring tape travel
+   27/002   . {Programmed access in sequence to a plurality of
+record carriers or indexed parts, e.g. tracks, thereof,
+e.g. for editing; (transfer of record carriers from
+magazine G11B 15/68, G11B 17/10; G11B 17/22)}
+   27/005   . {Reproducing at a different information rate from
+the information rate of recording (for television
+   27/007   . . {reproducing continuously a part of the
+   27/02    . Editing, e.g. varying the order of information
+signals recorded on, or reproduced from, record
+   27/022   . . Electronic editing of analogue information
+signals, e.g. audio or video signals
+   27/024   . . . on tapes (G11B 27/028, G11B 27/029 take
+   27/026   . . . on discs (G11B 27/028, G11B 27/029 take
+   27/028   . . . with computer assistance
+   27/029   . . . Insert-editing
+   27/031   . . Electronic editing of digitised analogue
+information signals, e.g. audio or video signals
+   27/032   . . . on tapes (G11B 27/036, G11B 27/038 take
+   27/034   . . . on discs (G11B 27/036, G11B 27/038 take
+   27/036   . . . Insert-editing
+   27/038   . . . Cross-faders therefor
+   27/04    . . using differential drive of record carrier and head
+{(transferred to G11B 15/1875)}
+   27/06    . . Cutting and rejoining; Notching, or perforating
+record carriers otherwise than by recording
+styli (record carriers with provision for splicing
+   27/10    . Indexing; Addressing; Timing or synchronising;
+   27/102   . . {Programmed access in sequence to addressed
+parts of tracks of operating record carriers (access
+by moving the head G11B 3/08, G11B 5/54,
+G11B 7/085, G11B 21/022; by moving the record
+carrier G11B 15/005, G11B 17/005, by driving of
+both record carrier and head G11B 15/1816)}
+   27/105   . . . {of operating discs}
+   27/107   . . . {of operating tapes}
+   27/11    . . by using information not detectable on the record
+   27/13    . . . the information being derived from movement
+of the record carrier, e.g. using tachometer
+   27/15    . . . . using mechanical sensing means {(see
+provisionally also G11B 27/13)}
+   27/17    . . . . using electrical sensing means {(see
+provisionally also G11B 27/13)}
+   27/19    . . by using information detectable on the record
+   27/22    . . . Means responsive to presence or absence of
+   27/24    . . . by sensing features on the record carrier other
+than the transducing track {; sensing signals
+or marks recorded by another method than the
+   27/26    . . . . by photoelectric detection, e.g. of sprocket
+   27/28    . . . by using information signals recorded by
+the same method as the main recording
+{(G11B 27/22 takes precedence)}
+   27/30    . . . . on the same track as the main recording
+   27/3009  . . . . . {used signal is a pilot signal inside the
+frequency band of the recorded main
+   27/3018  . . . . . {used signal is a pilot signal outside the
+frequency band of the recorded main
+   27/3027  . . . . . {used signal is digitally coded}
+   27/3036  . . . . . . {Time code signal}
+   27/3045  . . . . . . . {superimposed on the recorded main
+signal, e.g. burn-in-time code}
+   27/3054  . . . . . . . {Vertical Interval Time code [VITC]}
+   27/3063  . . . . . . {Subcodes}
+   27/3072  . . . . . . {Coded signal uses a correlation
+   27/3081  . . . . . {used signal is a video-frame or a video-
+   27/309   . . . . . {Table of contents}
+   27/32    . . . . on separate auxiliary tracks of the same or an
+   27/321   . . . . . {used signal consists of two 180-
+degr. phase shifted signals of the same
+   27/322   . . . . . {used signal is digitally coded}
+   27/323   . . . . . . {Time code signal, e.g. on a cue track as
+   27/324   . . . . . . {Duty cycle modulation of control
+pulses, e.g. VHS-CTL-coding systems,
+RAPID-time code, VASS- or VISS-cue
+   27/325   . . . . . . {Subcodes}
+   27/326   . . . . . {used signal is a video-frame or a video-
+   27/327   . . . . . {Table of contents}
+   27/328   . . . . . . {on a tape [TTOC]}
+   27/329   . . . . . . {on a disc [VTOC]}
+   27/34    . . Indicating arrangements (indicating measured
+values in general G01D {indicating means
+incorporated in magazine or cassette
+   27/36    . Monitoring, i.e. supervising the progress of
+recording or reproducing {(for digital recording
+G11B 20/00 and s.gr.; for monitoring, testing or
+measuring of TV recorders of the type covered by
+H04N 5/76 and subgroups, see H04N 17/06)}
+   31/00    Arrangements for the associated working of
+recording or reproducing apparatus with related
+apparatus (with cameras or projectors G03B 31/00
+{; recording/reproducing of music for electrophonic
+musical instruments G10H 1/0033; automatic
+arrangements for answering calls or for recording
+messages for absent subscribers H04M 1/64;
+telephonic communication systems adapted for
+combination with dictation recording and playback
+systems H04M 11/10; connection of TV recorder with
+other related apparatus, e.g. TV camera or receiver,
+in which the TV signal is significantly involved
+H04N, e.g. H04N 23/00, H04N 5/765; combination of
+radio or TV with other apparatus, e.g. with vehicles
+   31/003   . {with radio receiver}
+   31/006   . {with video camera or receiver}
+   31/02    . with automatic musical instruments
+   33/00    Constructional parts, details or accessories not
+provided for in the other groups of this subclass
+   33/005   . {Means for locking the disc or cassette receiving
+slot, e.g. dummy cassettes locked in the slot}
+   33/02    . Cabinets; Cases; Stands; Disposition of apparatus
+   33/025   . . . {Portable cases}
+   33/027   . . {Covers (G11B 33/022 takes precedence;
+with means for guiding the record carrier
+   33/04    . . modified to store record carriers {(containers,
+storing means adapted for cooperation with the
+recording or reproducing apparatus G11B 23/02)}
+   33/0405  . . . {for storing discs (anti-theft cases with locking
+   33/0411  . . . . {Single disc boxes (G11B 33/0461 takes
+   33/0416  . . . . . {for disc cartridges}
+   33/0422  . . . . . {for discs without cartridge}
+   33/0427  . . . . . . {comprising centre hole locking means}
+   33/0433  . . . . {Multiple disc containers (G11B 33/0461
+   33/0438  . . . . . {for disc cartridges}
+   33/0444  . . . . . {for discs without cartridge}
+   33/045   . . . . . . {comprising centre hole locking means}
+   33/0455  . . . . . {for single disc boxes}
+   33/0461  . . . . {Disc storage racks}
+   33/0466  . . . . . {for disc cartridges}
+   33/0472  . . . . . {for discs without cartridge}
+   33/0477  . . . . . . {comprising centre hole locking means}
+   33/0483  . . . . . {for single disc boxes}
+   33/0488  . . . . {in boxes or containers comprising
+additional sound reproducing or activating
+   33/0494  . . . . {packages made by folding}
+   33/06    . . combined with other apparatus having a different
+   33/08    . . Insulation or absorption of undesired vibrations or
+   33/10    . Indicating arrangements; Warning arrangements
+{(G11B 15/04, G11B 19/04, G11B 27/34,
+   33/12    . Disposition of constructional parts in the apparatus,
+e.g. of power supply, of modules
+   33/121   . . {the apparatus comprising a single recording/
+   33/122   . . . {Arrangements for providing electrical
+connections, e.g. connectors, cables, switches}
+   33/123   . . . {Mounting arrangements of constructional
+   33/124   . . . . {of the single recording/reproducing device,
+e.g. disk drive, onto a chassis}
+   33/125   . . {the apparatus comprising a plurality of
+recording/reproducing devices, e.g. modular
+arrangements, arrays of disc drives}
+   33/126   . . . {Arrangements for providing electrical
+connections, e.g. connectors, cables, switches}
+   33/127   . . . {Mounting arrangements of constructional
+   33/128   . . . . {of the plurality of recording/reproducing
+devices, e.g. disk drives, onto a chassis}
+   33/14    . Reducing influence of physical parameters, e.g.
+temperature change, moisture, dust
+   33/1406  . . {Reducing the influence of the temperature}
+   33/1413  . . . {by fluid cooling}
+   33/142   . . . . {by air cooling}
+   33/1426  . . . {by cooling plates, e.g. fins}
+   33/1433  . . . {by reducing the effects of the thermal
+   33/144   . . . {by detection, control, regulation of the
+   33/1446  . . {Reducing contamination, e.g. by dust, debris}
+   33/1453  . . . {by moisture}
+   33/146   . . . {constructional details of filters}
+   33/1466  . . . {sealing gaskets, (gasket in general F16J)}
+   33/1473  . . . {of/from bearings}
+   33/148   . . {Reducing friction, adhesion, drag}
+   33/1486  . . {Control/regulation of the pressure, e.g. the
+pressure inside the housing of a drive}
+   33/1493  . . {Electro-Magnetic Interference [EMI] or
+Radio Frequency Interference [RFI] shielding;
+ 2209/00    Recording or reproducing using a method not
+covered elsewhere in this subclass
+ 2209/02    . transducing on or investigating record carriers or
+information recording transducers or systems by
+ 2220/00    Record carriers by type
+ 2220/17    . Card-like record carriers
+ 2220/20    . Disc-shaped record carriers
+ 2220/21    . . characterised in that the disc is of read-only,
+ 2220/211   . . . Discs having both read-only and rewritable or
+recordable areas containing application data;
+ 2220/213   . . . Read-only discs
+ 2220/215   . . . Recordable discs
+ 2220/216   . . . . Rewritable discs
+ 2220/218   . . . . Write-once discs
+ 2220/23    . . characterised in that the disc has a specific layer
+ 2220/232   . . . Double-sided discs, i.e. two recording layers
+ 2220/235   . . . Multilayer discs, i.e. multiple recording layers
+ 2220/237   . . . . having exactly two recording layers
+ 2220/25    . . characterised in that the disc is based on a specific
+ 2220/2504  . . . Holographic discs; Holographic digital data
+ 2220/2508  . . . Magnetic discs
+ 2220/2512  . . . . Floppy disks
+ 2220/252   . . . . Patterned or quantised magnetic media, i.e.
+bits are stored in predefined single domain
+ 2220/2525  . . . Magneto-optical [MO] discs
+ 2220/2533  . . . . MO disc using magnetic super resolution,
+i.e., the magnetic mark is smaller than the
+ 2220/2537  . . . Optical discs
+ 2220/2541  . . . . Blu-ray discs; Blue laser DVR discs
+ 2220/255   . . . . . CD-I, i.e. CD-interactive
+ 2220/2554  . . . . . CD-V [CD-Video], CDV, or CD+V, as
+ 2220/2558  . . . . . CD-XA format, i.e. eXtended architecture
+extension of the CD-ROM standard
+ 2220/2562  . . . . DVDs [digital versatile discs]; Digital video
+ 2220/2566  . . . . . DVDs belonging to the minus family, i.e. -
+ 2220/257   . . . . . DVDs belonging to the plus family, i.e.
+ 2220/2579  . . . . HD-DVDs [high definition DVDs]; AODs
+ 2220/2583  . . . . wherein two standards are used on a single
+disc, e.g. one DVD section and one CD
+ 2220/2587  . . . . Laser Discs; Optical disc using analog
+ 2220/2591  . . . . SFFO discs, i.e. small form factor optical
+ 2220/2595  . . . . Super-resolution optical discs, i.e. optical
+discs wherein the size of marks is below the
+ 2220/40    . Combinations of multiple record carriers
+ 2220/41    . . Flat as opposed to hierarchical combination, e.g.
+library of tapes or discs, CD changer, or groups of
+record carriers that together store one title
+ 2220/412   . . . Distributed storage methods, i.e. the system
+may autonomously determine for a storage
+device that provides enough storage capacity
+ 2220/415   . . . Redundant array of inexpensive disks [RAID]
+ 2220/417   . . . Redundant array of inexpensive tapes [RAIT]
+ 2220/45    . . Hierarchical combination of record carriers, e.g.
+HDD for fast access, optical discs for long term
+ 2220/455   . . . said record carriers being in one device and
+being used as primary and secondary/backup
+media, e.g. HDD-DVD combo device, or as
+source and target media, e.g. PC and portable
+ 2220/60    . Solid state media (details of solid state memory
+ 2220/61    . . wherein solid state memory is used for storing A/
+V content (storing computer data in solid state
+ 2220/63    . . wherein solid state memory is used as a
+supplementary storage medium to store auxiliary
+data for detecting or correcting errors on a main
+ 2220/65    . . wherein solid state memory is used for storing
+indexing information or metadata
+ 2220/652   . . . said memory being attached to the recording
+ 2220/655   . . . . Memory in cassette [MIC]
+ 2220/657   . . . . Memory in disc [MID]
+ 2220/80    . Indexing information stored in optical or magnetic
+or other strip attached to cassette or disc, e.g.
+barcodes attached to a recording medium
+ 2220/90    . Tape-like record carriers
+ 2220/91    . . Helical scan format, wherein tracks are slightly
+tilted with respect to tape direction, e.g. VHS,
+ 2220/913   . . . Digital audio tape [DAT] format
+ 2220/916   . . . Digital data storage [DDS] format
+ 2220/93    . . Longitudinal format, wherein tracks are in the
+direction of the tape, read with a static head, e.g.
+ 2220/95    . . Serpentine format, wherein a single track or
+group of tracks traverses the tape plural times
+ 2220/953   . . . Digital linear tape [DLT] format
+ 2220/956   . . . Linear tape open [LTO] format

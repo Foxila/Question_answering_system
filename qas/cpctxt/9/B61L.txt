@@ -1,0 +1,391 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+GUIDING RAILWAY TRAFFIC; ENSURING THE SAFETY OF RAILWAY TRAFFIC
+(power supply lines for electrically-propelled vehicles B60M; vehicle signalling in general
+B60Q; brakes or auxiliary equipment B61H, B61K; point or crossing construction E01B;
+insulated rail joints E01B 11/54; optical devices in general G02; controlling in general G05;
+electric communication technique H04)
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Devices along the route controlled by
+interaction with the vehicle or vehicle train, {e.g.
+pedals}(detonators B61L 5/20; operation of points
+or signals by passage of the vehicle B61L 11/00,
+B61L 13/00; central traffic control systems controlled
+by train B61L 27/04; operation of gates, or gates and
+signals, by approaching vehicle B61L 29/18)
+    1/02    . Electric devices associated with track {, e.g. rail
+    1/025   . . {actuated by variation of resistance or by piezo-
+    1/04    . . mechanically actuated by a part of the vehicle
+    1/045   . . . {actuated by fluid-pressure}
+    1/06    . . actuated by deformation of rail; actuated by
+    1/08    . . magnetically actuated; electrostatically actuated
+    1/10    . . actuated by electromagnetic radiation; actuated by
+    1/12    . Electric devices associated with overhead trolley
+    1/14    . Devices for indicating the passing of the end of the
+    1/16    . Devices for counting axles; Devices for counting
+vehicles (counting moving objects in general
+    1/161   . . {characterised by the counting methods}
+    1/162   . . {characterised by the error correction}
+    1/163   . . {Detection devices}
+    1/167   . . {Circuit details}
+    1/168   . . {Specific transmission details}
+    1/18    . Railway track circuits (automatically-operated
+track circuits specially adapted for section blocking
+for controlling traffic B61L 23/00; rail joints
+    1/182   . . . {Use of current of indifferent sort or a
+combination of different current types}
+    1/183   . . . . {Use of means on the vehicle for improving
+short circuit, e.g. in vehicles with rubber
+    1/184   . . . . {Use of additional conductors for examining
+    1/185   . . . {Use of direct current}
+    1/186   . . . {Use of rectified alternating current}
+    1/187   . . . {Use of alternating current}
+    1/188   . . . {Use of coded current}
+    1/20    . Safety arrangements for preventing or indicating
+malfunction of the device, e.g. by leakage current,
+by lightning {(remote indicating means for
+abnormal operations conditions G08B 21/00,
+G08B 23/00; detectors for indicating the
+overheating of axle bearings B61K 9/00)}
+    3/00    Devices along the route for controlling devices on
+the vehicle or vehicle train, e.g. to release brake, to
+    3/002   . {Recorders on the vehicle}
+    3/004   . {Memory means reproducing during the running of
+the vehicle or vehicle train, e.g. smart cards}
+    3/006   . {On-board optimisation of vehicle or vehicle train
+operation (track-side optimisation of operation
+    3/008   . {On-board target speed calculation or supervision
+(track-side control of safe travel B61L 27/20;
+speed control circuitry B60L 3/08; speed control of
+    3/02    . at selected places along the route, e.g. intermittent
+control {simultaneous mechanical and electrical
+    3/04    . . controlling mechanically {(arrangements
+of making elements acting directly on tread
+    3/06    . . controlling by electromagnetic or particle
+radiation, e.g. by light beam (using radio waves
+    3/065   . . . {controlling optically}
+    3/08    . . controlling electrically
+    3/10    . . . using current passing between devices along
+the route and devices on the vehicle train
+    3/103   . . . . {Details of current transmitting conductors
+    3/106   . . . . {with mechanically controlled electrical
+    3/12    . . . using magnetic or electrostatic induction; using
+    3/121   . . . . {using magnetic induction}
+ 2003/122   . . . . . {German standard for inductive
+train protection, called "Induktive
+ 2003/123   . . . . . {French standard for inductive train
+protection, called "Contrôle de vitesse par
+    3/125   . . . . {using short-range radio transmission (long-
+range radio transmission B61L 15/0027,
+    3/126   . . . . {Constructional details}
+    3/127   . . . . {for remote control of locomotives (remote
+control of locomotives within a train consist
+    3/128   . . . . {for control of tilting trains by external
+control devices, e.g. by Eurobalise (tilting
+    3/14    . . to cut-off the power supply to traction motors of
+electrically-propelled vehicles
+    3/16    . Continuous control along the route
+    3/18    . . using electric current passing between devices
+along the route and devices on the vehicle or
+    3/185   . . . {using separate conductors}
+    3/20    . . . employing different frequencies or coded pulse
+groups {, e.g. using currents carried by traction
+current (operating and signalling systems using
+network power supply H02J 13/00)}
+    3/22    . . using magnetic or electrostatic induction; using
+    3/221   . . . {using track circuits}
+    3/222   . . . . {Arrangements on the track only}
+ 2003/223   . . . . {French cab signaling system, called
+"Transmission Voie-Machine" [TVM]}
+    3/225   . . . {using separate conductors along the route}
+ 2003/226   . . . . {German inductive continuous train control,
+called 'Linienzugbeeinflussung' [LZB]}
+    3/227   . . . {using electromagnetic radiation}
+ 2003/228   . . . {Constructional details}
+    3/24    . . . employing different frequencies or coded
+pulse groups {, e.g. in combination with track
+    3/243   . . . . {using alternating current}
+    3/246   . . . . {using coded current}
+    5/00    Local operating mechanisms for points or track-
+mounted scotch-blocks (track-mounted scotch-
+blocks per se B61K); Visible or audible signals;
+Local operating mechanisms for visible or audible
+signals (B61L 11/00 takes precedence)
+    5/02    . Mechanical devices for operating points or scotch-
+blocks {, e.g. local manual control}
+    5/023   . . {using funicular driving means}
+    5/026   . . {fixing switch-rails to the driving means}
+    5/04    . Fluid-pressure devices for operating points or
+    5/045   . . {using electrically controlled fluid-pressure
+    5/06    . Electric devices for operating points or scotch-
+blocks {, e.g. using electromotive driving means}
+    5/062   . . {Wiring diagrams}
+    5/065   . . {Construction of driving mechanism}
+    5/067   . . {using electromagnetic driving means}
+    5/08    . Underground actuating arrangements, e.g. for
+    5/10    . Locking mechanisms for points; Means for
+indicating the setting of points
+    5/102   . . {Controlling electrically}
+    5/105   . . {Controlling funicularly}
+    5/107   . . {electrical control of points position}
+    5/12    . Visible signals {(signalling means on the vehicle
+B61L 15/00; signalling means for classification
+yards, or the like, with multiple indicating means
+B61L 17/023; signalling means for road crossings
+B61L 29/24; lighting in general F21; visible
+signalling arrangements in general G08B 5/00)}
+    5/125   . . {Fixed signals, beacons, or the like}
+    5/14    . . Form signals, e.g. semaphore arms {(illumination
+for points, form signals B61L 9/00)}
+    5/16    . . . Local operating mechanisms for form signals
+    5/161   . . . . {using electromotive driving means}
+    5/162   . . . . . {Wiring diagrams}
+    5/163   . . . . . {Driving mechanisms}
+    5/165   . . . . {using electromagnetic driving means}
+    5/166   . . . . {using electrically controlled gravity
+    5/167   . . . . {using electrically controlled fluid-pressure
+    5/168   . . . . {using funicular driving means}
+    5/18    . . Light signals; Mechanisms associated therewith,
+    5/1809  . . . {Daylight signals}
+    5/1818  . . . . {using mobile coloured screen}
+    5/1827  . . . . {using light sources of different colours and
+    5/1836  . . . . {using light sources of different colours and
+    5/1845  . . . . {Optical systems, lenses}
+    5/1854  . . . . {Mounting and focussing of the light source
+    5/1863  . . . . {Lamp mountings on a mast}
+    5/1872  . . . . {Mobile mounting arrangements on a mast;
+Arrangements for hoisting of the lamp along
+    5/1881  . . . . {Wiring diagrams for power supply, control
+    5/189   . . . {using flashing light sources (visible signalling
+in general using flashing light sources
+G08B 5/38; thermal switches operating
+intermittently H01H 61/06, H01H 61/08)}
+    5/20    . Audible signals, e.g. detonator {audible signalling}
+    5/203   . . {Detonators; Track mounting means;
+Composition of the detonative product}
+    5/206   . . {Signalling means for special purposes}
+    5/22    . . Devices for initiating the release of detonators in
+    5/24    . . Replacement of detonators
+    7/00    Remote control of local operating means for
+points, signals, or trackmounted scotch-blocks
+(B61L 11/00 takes precedence; interlocking
+arrangements B61L 19/00; transmission per se, see
+    7/02    . using mechanical transmission; e.g. wire, lever
+    7/021   . . {Driving wheels or supports for traction wires}
+    7/022   . . {Guiding means or supporting foundations in
+    7/024   . . {Coupling for wires or traction bars}
+    7/025   . . {Bracing or compensating arrangements}
+    7/027   . . {Control levers}
+    7/028   . . {Indicating or fixing arrangements in the event
+of breaking or tension difference of transmission
+wires for points, signals or similar}
+    7/04    . using fluid-pressure transmission
+    7/06    . using electrical transmission
+    7/061   . . {using electromotive driving means}
+    7/062   . . . {Wiring diagrams}
+    7/063   . . . {Construction of driving mechanism}
+    7/065   . . {using electromagnetic driving means}
+    7/066   . . {using electrically controlled fluid-pressure
+    7/067   . . {Supply for electric safety arrangements}
+    7/068   . . {Protection against eddy-currents, short-circuits,
+or the like, for electric safety arrangements}
+    7/081   . . . {Direct line wire control}
+    7/083   . . . {Common line wire control using currents of
+different amplitudes, polarities, frequencies, or
+    7/085   . . . {Common line wire control using synchronous
+    7/086   . . . {Common line wire control using relay
+    7/088   . . . {Common line wire control using series of
+    7/10    . . . for light signals, e.g. for supervision, back-
+    7/103   . . . . {Electric control of the setting of signals}
+    7/106   . . . . . {for form signals}
+    9/00    Illumination specially adapted for points, form
+signals, or gates (lighting in general F21)
+   11/00    Operation of points from the vehicle or by the
+   11/02    . using mechanical interaction between vehicle and
+   11/04    . . Trailable point locks
+   11/06    . . with fluid-pressure transmission
+   11/08    . using electrical or magnetic interaction between
+   11/083   . . {Magnetic control}
+ 2011/086   . . {German radio based operations, called
+   13/00    Operation of signals from the vehicle or by the
+   13/002   . {actuated by the passage of the vehicle}
+   13/005   . {optically actuated}
+   13/007   . {acoustically actuated}
+   13/02    . using mechanical interaction between vehicle and
+   13/04    . using electrical or magnetic interaction between
+vehicle and track {, e.g. by conductor circuits using
+special means or special conductors}
+   13/042   . . {using isolated rail sections}
+   13/045   . . {using separated rail contacts, pedals or similar
+   13/047   . . {controlling inductively or magnetically}
+   15/00    Indicators provided on the vehicle or vehicle train
+for signalling purposes {; On-board control or
+   15/0009  . {wiring diagrams for start- or stop-signals on
+vehicles having one or more carriages and having
+electrical communication lines between the
+   15/0018  . {Communication with or on the vehicle or vehicle
+train (line transmission systems H04B 3/00)}
+   15/0027  . . {Radio-based, e.g. using GSM-R}
+   15/0036  . . {Conductor-based, e.g. using CAN-Bus, train-line
+   15/0045  . {Destination indicators, identification panels or
+distinguishing signs on the vehicles (displaying in
+   15/0054  . {Train integrity supervision, e.g. end-of-train [EOT]
+   15/0063  . {Multiple on-board control systems, e.g. "2 out
+of 3"-systems (trackside multiple control systems
+   15/0072  . {On-board train data handling (trackside train data
+   15/0081  . {On-board diagnosis or maintenance (trackside
+diagnosis or maintenance B61L 27/50)}
+   15/009   . {On-board display devices}
+   15/02    . Head or tail indicators, e.g. light
+   17/00    Switching systems for classification yards (rail
+   17/02    . Details, e.g. indicating degree of track filling
+   17/023   . . {Signalling; Signals with multiple indicating
+   17/026   . . {Brake devices}
+   19/00    Arrangements for interlocking between points and
+signals by means of a single interlocking device
+{, e.g. central control (remote control B61L 7/00;
+station block arrangements B61L 21/00)}
+   19/02    . Interlocking devices having mechanical or fluid-
+   19/023   . . {purely mechanical (control levers B61L 7/027)}
+   19/026   . . {using fluid-pressure operated points or signals}
+   19/04    . . Detail- e.g. hand lever, back-signalling device
+   19/06    . Interlocking devices having electrical operation
+ 2019/065   . . {with electronic means}
+   19/08    . . Special arrangements for power supply for
+   19/10    . . with mechanical locks
+   19/14    . . with electrical locks
+   21/00    Station blocking between signal boxes in one yard
+(interlocking between points and signals by means of
+a single interlocking device B61L 19/00)
+   21/02    . Mechanical locking and release of the route; Repeat
+   21/04    . Electrical locking and release of the route; Electrical
+repeat locks {(central interlocking B61L 19/00)}
+   21/06    . Vehicle-on-line indication; Monitoring locking and
+   21/065   . . {for signals, including signals actuated by the
+   21/08    . Order transmission and reception arrangements for
+giving or withholding permission
+   21/10    . Arrangements for trains which are closely following
+one another (automatic central traffic control
+   23/00    Control, warning, or like safety means along the
+route or between vehicles or vehicle trains
+   23/002   . {Control or safety means for heart-points and
+crossings of aerial railways, funicular rack-railway
+(points or safety systems for model railways A63H;
+points, crossings or hearts for aerial railway,
+funicular rack railway E01B 25/12)}
+   23/005   . . {Automatic control or safety means for points for
+operator-less railway, e.g. transportation systems}
+   23/007   . {Safety arrangements on railway crossings}
+   23/02    . for indicating along the route the failure of brakes
+   23/04    . for monitoring the mechanical state of the route
+   23/041   . . {Obstacle detection}
+   23/042   . . {Track changes detection}
+   23/044   . . . {Broken rails}
+   23/047   . . . {Track or rail movements}
+   23/048   . . . {Road bed changes, e.g. road bed erosion}
+   23/06    . for warning men working on the route
+   23/08    . for controlling traffic in one direction only (station
+blocking between signal boxes in one yard
+   23/10    . . manually operated {, e.g. block arrangements}
+   23/12    . . partly operated by train
+   23/14    . . automatically operated
+   23/16    . . . Track circuits specially adapted for section
+   23/161   . . . . {using current of indifferent sorte or a
+combination of different current types}
+   23/163   . . . . {using direct current}
+   23/165   . . . . {using rectified alternating current}
+   23/166   . . . . {using alternating current}
+   23/168   . . . . {using coded current}
+   23/18    . . . specially adapted for changing lengths of track
+sections in dependence upon speed and traffic
+   23/20    . . . with transmission of instructions to stations
+   23/22    . for controlling traffic in two directions over the
+same pair of rails (station blocking between signal
+   23/24    . . using token systems, e.g. train staffs, tablets
+   23/26    . . with means for actuating signals from the vehicle
+   23/28    . . using non-automatic blocking from a place along
+   23/30    . . using automatic section blocking
+   23/32    . . . with provision for the blocking or passing
+   23/34    . Control, warnings or like safety means indicating
+the distance between vehicles or vehicle trains by
+the transmission of signals therebetween
+   25/00    Recording or indicating positions or identities
+of vehicles or vehicle trains or setting of track
+   25/02    . Indicating or recording positions or identities of
+   25/021   . . {Measuring and recording of train speed}
+   25/023   . . {Determination of driving direction of vehicle or
+   25/025   . . {Absolute localisation, e.g. providing geodetic
+   25/026   . . {Relative localisation, e.g. using odometer}
+   25/028   . . {Determination of vehicle position and
+orientation within a train consist, e.g.
+   25/04    . . Indicating or recording train identities
+   25/041   . . . {using reflecting tags}
+   25/043   . . . {using inductive tags}
+   25/045   . . . {using reradiating tags}
+   25/046   . . . {using magnetic tags}
+   25/048   . . . {using programmable tags}
+   25/06    . Indicating or recording the setting of track
+apparatus, e.g. of points, of signals
+   25/065   . . {for signalling systems on the vehicle using
+   25/08    . . Diagrammatic displays
+   27/00    Central railway traffic control systems; Trackside
+control; Communication systems specially adapted
+   27/04    . Automatic systems, e.g. controlled by train;
+   27/10    . Operations, e.g. scheduling or time tables
+   27/12    . . Preparing schedules
+   27/14    . . Following schedules
+   27/16    . . Trackside optimisation of vehicle or vehicle train
+   27/18    . . Crew rosters; Itineraries
+   27/20    . Trackside control of safe travel of vehicle or vehicle
+train, e.g. braking curve calculation
+ 2027/202   . . {using European Train Control System [ETCS]}
+ 2027/204   . . {using Communication-based Train Control
+   27/30    . Trackside multiple control systems, e.g. switch-over
+   27/33    . . Backup systems, e.g. switching when failures
+   27/37    . . Migration, e.g. parallel installations running
+   27/40    . Handling position reports or trackside vehicle data
+   27/50    . Trackside diagnosis or maintenance, e.g. software
+   27/53    . . for trackside elements or systems, e.g. trackside
+supervision of trackside control system conditions
+   27/57    . . for vehicles or vehicle trains, e.g. trackside
+supervision of train conditions
+   27/60    . Testing or simulation
+   27/70    . Details of trackside communication
+   29/00    Safety means for rail/road crossing traffic
+   29/02    . Guards or obstacles for preventing access to the
+route (cattle guards connected to the permanent way
+   29/023   . . {Special gates}
+   29/026   . . . {Preventing access by means of obstacles
+   29/04    . Gates for level crossings
+   29/06    . . yielding to vehicles in one direction but operated
+   29/08    . Operation of gates; Combined operation of gates
+   29/10    . . Means for securing gates in their desired position
+   29/12    . . Manual operation
+   29/18    . . Operation by approaching rail vehicle or rail
+   29/222   . . . . {using conductor circuits with separate
+   29/224   . . . . . {using rail contacts}
+   29/226   . . . . {using track-circuits, closed or short-
+circuited by train or using isolated rail-
+   29/228   . . . . {using optical means}
+   29/24    . Means for warning road traffic that a gate is closed
+or closing, or that rail traffic is approaching, e.g. for
+   29/243   . . {Transmission mechanism or acoustical signals
+   29/246   . . {Signals or brake- or lighting devices mounted on
+the road vehicle and controlled from the vehicle
+   29/26    . . mechanically operated
+   29/28    . . electrically operated
+   29/282   . . . {magnetic or inductive control by the vehicle}
+   29/284   . . . {using rail-contacts, rail microphones, or the
+like, controlled by the vehicle}
+   29/286   . . . {using conductor circuits controlled by the
+   29/288   . . . {Wiring diagram of the signal control circuits}
+   29/30    . . . Supervision, e.g. monitoring arrangements
+   29/32    . . . Timing, e.g. advance warning of approaching
+   99/00    Subject matter not provided for in other groups of
+ 2205/00    Communication or navigation systems for railway
+ 2205/02    . Global system for mobile communication - railways
+ 2205/04    . Satellite based navigation systems, e.g. GPS
+ 2207/00    Features of light signals
+ 2207/02    . using light-emitting diodes (LEDs)
+ 2210/02    . Single autonomous vehicles
+ 2210/04    . Magnetic elevation vehicles (maglev)

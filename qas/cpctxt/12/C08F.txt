@@ -1,0 +1,2166 @@
+COOPERATIVE PATENT CLASSIFICATION
+ORGANIC MACROMOLECULAR COMPOUNDS; THEIR PREPARATION OR
+CHEMICAL WORKING-UP; COMPOSITIONS BASED THEREON
+MACROMOLECULAR COMPOUNDS OBTAINED BY REACTIONS ONLY
+INVOLVING CARBON-TO-CARBON UNSATURATED BONDS
+1. In this subclass, boron or silicon are considered as metals.
+2. In this subclass, the following expression is used with the meaning indicated:
+• "aliphatic radical" means an acyclic or a non-aromatic carbocyclic carbon skeleton which is considered to be terminated by
+a. an element other than carbon;
+b. a carbon atom having a double bond to one atom other than carbon;
+c. an aromatic carbocyclic ring or a heterocyclic ring.
+a. CH2 =CH—O—CH2—CH2—NH—COO—CH2-CH2 —OH are classified in group C08F 16/28;
+b. CH2=CH-C(=O)-CH=CH2 are classified in group  C08F 16/36
+c. para-C6H4Cl(CH=CH2) are classified in group  C08F 12/18.
+3. Therapeutic activity of compounds is further classified in subclass A61P.
+4. In this subclass, in the absence of an indication to the contrary in the scheme or definitions, classification is made in the last
+a. macromolecular compounds and their preparation are classified in the groups for the type of compound prepared. General
+processes for the preparation of macromolecular compounds according to more than one main group are classified in
+groups C08F 2/00-C08F 8/00 for the processes employed. Processes for the preparation of macromolecular compounds are
+also classified in the groups for the types of reactions employed, if of interest;
+b. subject matter relating to both homopolymers and copolymers is classified in groups C08F 10/00-C08F 38/00;
+c. subject matter limited to homopolymers is classified only in groups C08F 110/00-C08F 138/00;
+d. subject matter limited to copolymers is classified only in groups C08F 210/00-C08F 246/00;
+e. in groups C08F 210/00-C08F 238/00, in the absence of an indication to the contrary, a copolymer is classified according to
+6. This subclass covers  also compositions based on monomers which form macromolecular compounds classifiable in this
+a. if the monomers are defined, classification is made according to the polymer to be formed:
+• in groups C08F 10/00-C08F 246/00 if no preformed polymer is present;
+• in groups C08F 251/00 - C08F 291/00 if a preformed polymer is present, considering {or not} the reaction to take place
+as a graft or cross-linking reaction;
+b. if the presence of compounding ingredients is of interest, classification is made in group C08F 2/44
+c. if the compounding ingredients are of interest  per se , classification is also made in subclass  C08K.
+7. {In this subclass, combination sets [C-Sets] are used. The detailed information about the C-Sets construction and the
+associated syntax rules are found in the Definitions}
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    2/00    Processes of polymerisation
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+    2/001   . {Multistage polymerisation processes
+characterised by a change in reactor conditions
+without deactivating the intermediate polymer
+(C08F 295/00, C08F 297/00 take precedence)}
+    2/002   . {Scale prevention in a polymerisation reactor or its
+    2/004   . . {by a prior coating on the reactor walls}
+    2/005   . . {by addition of a scale inhibitor to the
+    2/007   . . {Scale prevention in the auxiliary parts}
+    2/008   . {cleaning reaction vessels using chemicals
+(mechanical methods B08B 9/08)}
+    2/01    . characterised by special features of the
+    2/02    . Polymerisation in bulk
+    2/04    . Polymerisation in solution (C08F 2/32 takes
+    2/06    . . Organic solvent
+    2/08    . . . with the aid of dispersing agents for the
+    2/10    . . Aqueous solvent
+    2/12    . Polymerisation in non-solvents (C08F 2/32 takes
+    2/18    . . . Suspension polymerisation
+    2/20    . . . with the aid of macromolecular dispersing
+    2/22    . . . Emulsion polymerisation
+    2/24    . . . . with the aid of emulsifying agents
+    2/30    . . . . . non-ionic
+    2/32    . Polymerisation in water-in-oil emulsions
+    2/34    . Polymerisation in gaseous state
+    2/36    . Polymerisation in solid state
+    2/38    . Polymerisation using regulators, e.g. chain
+terminating agents {, e.g. telomerisation}
+    2/40    . . using retarding agents
+    2/42    . . using short-stopping agents
+    2/44    . Polymerisation in the presence of compounding
+ingredients, e.g. plasticisers, dyestuffs, fillers
+    2/46    . Polymerisation initiated by wave energy or particle
+    2/48    . . by ultra-violet or visible light
+    2/50    . . . with sensitising agents
+    2/52    . . by electric discharge, e.g. voltolisation
+    2/54    . . by X-rays or electrons
+    2/56    . . by ultrasonic vibrations
+    2/58    . Polymerisation initiated by direct application
+of electric current (electrolytic processes, e.g.
+    2/60    . Polymerisation by the diene synthesis
+    4/00    Polymerisation catalysts
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+    4/005   . {Friedel-Crafts catalysts in general}
+Where a carrier is considered of particular
+interest a further classification may be made in
+    4/02    . Carriers therefor
+    4/022   . . {Magnesium halide as support anhydrous or
+hydrated or complexed by means of a Lewis base
+    4/06    . Metallic compounds other than hydrides and other
+than metallo-organic compounds; Boron halide
+or aluminium halide complexes with organic
+    4/08    . . of alkali metals
+    4/083   . . . {an alkali metal bound to oxygen}
+    4/086   . . . {an alkali metal bound to nitrogen, e.g.
+    4/10    . . of alkaline earth metals, zinc, cadmium, mercury,
+    4/12    . . of boron, aluminium, gallium, indium, thallium or
+    4/14    . . . Boron halides or aluminium halides;
+Complexes thereof with organic compounds
+    4/16    . . of silicon, germanium, tin, lead, titanium,
+    4/20    . . of antimony, bismuth, vanadium, niobium or
+    4/22    . . of chromium, molybdenum or tungsten
+    4/26    . . of manganese, iron group metals or platinum
+    4/28    . Oxygen or compounds releasing free oxygen (redox
+    4/30    . . Inorganic compounds
+    4/32    . . Organic compounds
+    4/34    . . . Per-compounds with one peroxy-radical
+    4/36    . . . Per-compounds with more than one peroxy
+    4/38    . . . Mixtures of peroxy-compounds
+    4/42    . Metals; Metal hydrides; Metallo-organic
+compounds; Use thereof as catalyst precursors
+    4/44    . . selected from light metals, zinc, cadmium,
+mercury, copper, silver, gold, boron, gallium,
+indium, thallium, rare earths or actinides
+    4/46    . . . selected from alkali metals
+    4/461   . . . . {Catalysts containing at least two different
+components covered by the same or by
+different subgroups of group C08F 4/46, e.g.
+    4/463   . . . . {selected from sodium or potassium
+    4/465   . . . . . {Metalic sodium or potassium}
+    4/466   . . . . . {an alkali metal bound to a cyclic carbon}
+    4/468   . . . . . {at least two metal atoms in the same
+    4/48    . . . . selected from lithium, rubidium, caesium or
+francium {(C08F 4/461 takes precedence)}
+    4/482   . . . . . {Metallic lithium, rubidium, caesium or
+    4/484   . . . . . {an alkali metal bound to a cyclic carbon}
+    4/486   . . . . . {at least two metal atoms in the same
+    4/488   . . . . . . {at least two lithium atoms in the same
+    4/50    . . . selected from alkaline earth metals, zinc,
+cadmium, mercury, copper or silver
+    4/52    . . . selected from boron, aluminium, gallium,
+indium, thallium or rare earths (C08F 4/14
+    4/54    . . . together with other compounds thereof
+    4/545   . . . . {rare earths being present, e.g.
+triethylaluminium + neodymium octanoate}
+    4/56    . . . . Alkali metals being the only metals present,
+    4/565   . . . . . {Lithium being present, e.g. butyllithium +
+    4/58    . . . together with silicon, germanium, tin, lead,
+antimony, bismuth or compounds thereof
+    4/60    . . . together with refractory metals, iron group
+metals, platinum group metals, manganese,
+rhenium {technetium} or compounds thereof
+    4/60003 . . . . {the metallic compound containing a
+multidentate ligand, i.e. a ligand capable of
+donating two or more pairs of electrons to
+form a coordinate or ionic bond}
+charge is on the last mentioned atom; for
+dianionic compounds, the charge is on the
+first and the last mentioned atoms except
+for compounds marked with * where the
+    4/60006 . . . . . {Bidentate ligand}
+    4/6001  . . . . . . {Neutral ligand}
+    4/60041 . . . . . . {Monoanionic ligand}
+    4/60068 . . . . . . {Dianionic ligand}
+    4/60082 . . . . . {Tridentate ligand}
+    4/60086 . . . . . . {Neutral ligand}
+    4/60089 . . . . . . . {NNN}
+    4/60093 . . . . . . . {NNO}
+    4/60096 . . . . . . . {NNS}
+    4/60099 . . . . . . . {NSN}
+    4/60103 . . . . . . . {PNN}
+    4/60106 . . . . . . . {PNP}
+    4/6011  . . . . . . {Monoanionic ligand}
+    4/60113 . . . . . . . {NNN}
+    4/60117 . . . . . . . {NNO}
+    4/6012  . . . . . . . {ONN}
+    4/60124 . . . . . . . {ONO}
+    4/60127 . . . . . . . {ON*O}
+    4/60131 . . . . . . . {PNO}
+    4/60134 . . . . . . . {SNN}
+    4/60137 . . . . . . . {SNO}
+    4/60141 . . . . . . {Dianionic ligand}
+    4/60144 . . . . . . . {NN(R)C}
+    4/60148 . . . . . . . {NN(R)N}
+    4/60151 . . . . . . . {NNO}
+    4/60155 . . . . . . . {ON(R)C}
+    4/60158 . . . . . . . {ONO}
+    4/60162 . . . . . . . {O*O*P}
+    4/60165 . . . . . . . {OSO}
+    4/60168 . . . . . {Tetra- or multi-dentate ligand}
+    4/60172 . . . . . . {Neutral ligand}
+    4/60175 . . . . . . . {ONNO}
+    4/60179 . . . . . . . {PNNN}
+    4/60182 . . . . . . {Monoanionic ligand}
+    4/60186 . . . . . . {Dianionic ligand}
+    4/60189 . . . . . . . {ONNO}
+    4/60193 . . . . . . . {OOOO}
+    4/60196 . . . . . . . {OSSO}
+    4/602   . . . . Component covered by group C08F 4/60
+with an organo-aluminium compound
+{(C08F 4/60003 - C08F 4/60196 take
+    4/6022  . . . . . {Component of C08F 4/60 containing at
+    4/6024  . . . . . . {containing magnesium}
+    4/6026  . . . . . . {containing aluminium}
+    4/6028  . . . . . {with an alumoxane, i.e. a compound
+    4/603   . . . . Component covered by group C08F 4/60
+with a metal or compound covered by group
+C08F 4/44 other than an organo-aluminium
+compound {(C08F 4/60003 - C08F 4/60196
+    4/6032  . . . . . {Component of C08F 4/60 containing at
+    4/6035  . . . . . . {containing magnesium}
+    4/6037  . . . . . . {containing aluminium}
+    4/605   . . . . Component covered by group C08F 4/60
+with a metal or compound covered by group
+C08F 4/44, not provided for in a single
+group of groups C08F 4/602 or C08F 4/603
+{(C08F 4/60003 - C08F 4/60196 take
+    4/6052  . . . . . {Component of C08F 4/60 containing at
+    4/6055  . . . . . . {containing magnesium}
+    4/6057  . . . . . . {containing aluminium}
+    4/606   . . . . Catalysts comprising at least two
+different metals, in metallic form or as
+compounds thereof, in addition to the
+component covered by groups C08F 4/60
+{(C08F 4/60003 - C08F 4/60196 take
+    4/6065  . . . . . {containing silicium}
+    4/607   . . . . Catalysts containing a specific
+non-metal or metal-free compound
+{(C08F 4/60003 - C08F 4/60196 take
+    4/608   . . . . . inorganic
+    4/6091  . . . . . . {hydrocarbon}
+    4/6092  . . . . . . . {containing aliphatic unsaturation}
+    4/6093  . . . . . . {containing halogen}
+    4/6094  . . . . . . {containing oxygen}
+    4/6095  . . . . . . {containing nitrogen}
+    4/6096  . . . . . . {containing sulfur}
+    4/6097  . . . . . . {containing phosphorus}
+    4/6098  . . . . . . {containing another heteroatom}
+    4/61    . . . . Pretreating the metal or compound
+covered by group C08F 4/60 before
+the final contacting with the metal or
+compound covered by group C08F 4/44
+{(C08F 4/60003 - C08F 4/60196 take
+    4/611   . . . . . Pretreating with non-metals or metal-free
+    4/612   . . . . . Pretreating with metals or metal-
+    4/613   . . . . . . with metals covered by group
+    4/614   . . . . . . with magnesium or compounds thereof
+    4/6141  . . . . . . . {and metals of C08F 4/60 or
+    4/6143  . . . . . . . {halides of magnesium}
+    4/6145  . . . . . . . . {and metals of group C08F 4/60 or
+    4/6146  . . . . . . . {organo-magnesium compounds}
+    4/6148  . . . . . . . {magnesium or compounds thereof
+not provided for in C08F 4/6143 or
+    4/615   . . . . . . with aluminium or compounds thereof
+    4/6152  . . . . . . . {and metals of C08F 4/60 or
+    4/6155  . . . . . . . {and magnesium or compounds
+    4/6157  . . . . . . . . {and metals of C08F 4/60 or
+    4/616   . . . . . . with silicon or compounds thereof
+    4/6162  . . . . . . . {and metals of C08F 4/60 or
+    4/6165  . . . . . . . {and magnesium or compounds
+    4/6167  . . . . . . . {and aluminium or compounds
+    4/617   . . . . . . with metals or metal-containing
+compounds, not provided for in groups
+    4/6172  . . . . . . . {and metals of C08F 4/60 or
+    4/6174  . . . . . . . {and magnesium or compounds
+    4/6176  . . . . . . . {and aluminium or compounds
+    4/6178  . . . . . . . {and silicon or compounds thereof}
+    4/618   . . . . . . with metals or metal-containing
+compounds, provided for in at least two
+of the groups C08F 4/613 - C08F 4/617
+    4/6181  . . . . . . . {and metals of C08F 4/60 or
+    4/6183  . . . . . . . {and magnesium or compounds
+    4/6185  . . . . . . . {and aluminium or compounds
+    4/6186  . . . . . . . {and silicon or compounds thereof}
+    4/6188  . . . . . . . {and metals or metal-containing
+    4/619   . . . . Component covered by group C08F 4/60
+containing a transition metal-carbon bond
+{(C08F 4/60003 - C08F 4/60196 take
+    4/61904 . . . . . {in combination with another component
+    4/61908 . . . . . {in combination with an ionising
+compound other than alumoxane, e.g.
+    4/61912 . . . . . {in combination with an organoaluminium
+    4/61916 . . . . . {supported on a carrier, e.g. silica, MgCl2,
+    4/6192  . . . . . containing at least one cyclopentadienyl
+ring, condensed or not, e.g. an indenyl or a
+    4/61922 . . . . . . {containing at least two
+cyclopentadienyl rings, fused or not}
+    4/61925 . . . . . . . {two cyclopentadienyl rings being
+    4/61927 . . . . . . . {two cyclopentadienyl rings being
+    4/62    . . . . Refractory metals or compounds thereof
+    4/62003 . . . . . {the metallic compound containing a
+multidentate ligand, i.e. a ligand capable of
+donating two or more pairs of electrons to
+form a coordinate or ionic bond}
+charge is on the last mentioned atom;
+for dianionic compounds, the charge
+is on the first and the last mentioned
+atoms except for compounds marked
+with * where the charge is on the
+    4/62006 . . . . . . {Bidentate ligand}
+    4/6201  . . . . . . . {Neutral ligand}
+    4/62013 . . . . . . . . {NN}
+    4/62017 . . . . . . . . {NO}
+    4/6202  . . . . . . . . {NS}
+    4/62024 . . . . . . . . {OS}
+    4/62027 . . . . . . . . {PN}
+    4/62031 . . . . . . . . {PO}
+    4/62034 . . . . . . . . {PP}
+    4/62037 . . . . . . . . {PS}
+    4/62041 . . . . . . . {Monoanionic ligand}
+    4/62044 . . . . . . . . {NN}
+    4/62048 . . . . . . . . {NO}
+    4/62051 . . . . . . . . {NS}
+    4/62055 . . . . . . . . {ON}
+    4/62058 . . . . . . . . {OO}
+    4/62062 . . . . . . . . {PN}
+    4/62065 . . . . . . . . {PO}
+    4/62068 . . . . . . . {Dianionic ligand}
+    4/62072 . . . . . . . . {NN}
+    4/62075 . . . . . . . . {NO}
+    4/62079 . . . . . . . . {OO}
+    4/62082 . . . . . . {Tridentate ligand}
+    4/62086 . . . . . . . {Neutral ligand}
+    4/62089 . . . . . . . . {NNN}
+    4/62093 . . . . . . . . {NNO}
+    4/62096 . . . . . . . . {NNS}
+    4/62099 . . . . . . . . {NSN}
+    4/62103 . . . . . . . . {PNN}
+    4/62106 . . . . . . . . {PNP}
+    4/6211  . . . . . . . {Monoanionic ligand}
+    4/62113 . . . . . . . . {NNN}
+    4/62117 . . . . . . . . {NNO}
+    4/6212  . . . . . . . . {ONN}
+    4/62124 . . . . . . . . {ONO}
+    4/62127 . . . . . . . . {ON*O}
+    4/62131 . . . . . . . . {PNO}
+    4/62134 . . . . . . . . {SNN}
+    4/62137 . . . . . . . . {SNO}
+    4/62141 . . . . . . . {Dianionic ligand}
+    4/62144 . . . . . . . . {NN(R)C}
+    4/62148 . . . . . . . . {NN(R)N}
+    4/62151 . . . . . . . . {NNO}
+    4/62155 . . . . . . . . {ON(R)C}
+    4/62158 . . . . . . . . {ONO}
+    4/62162 . . . . . . . . {O*O*P}
+    4/62165 . . . . . . . . {OSO}
+    4/62168 . . . . . . {Tetra- or multi-dentate ligand}
+    4/62172 . . . . . . . {Neutral ligand}
+    4/62175 . . . . . . . . {ONNO}
+    4/62179 . . . . . . . . {PNNN}
+    4/62182 . . . . . . . {Monoanionic ligand}
+    4/62186 . . . . . . . {Dianionic ligand}
+    4/62189 . . . . . . . . {ONNO}
+    4/62193 . . . . . . . . {OOOO}
+    4/62196 . . . . . . . . {OSSO}
+    4/622   . . . . . Component covered by group C08F 4/62
+with an organo-aluminium compound
+{(C08F 4/62003 - C08F 4/62196 take
+    4/6222  . . . . . . {Component of C08F 4/62 containing at
+    4/6224  . . . . . . . {containing magnesium}
+    4/6226  . . . . . . . {containing aluminium}
+    4/6228  . . . . . . {with an aluminoxane, i.e. a compound
+    4/623   . . . . . Component covered by group C08F 4/62
+with a metal or compound covered
+{(C08F 4/62003 - C08F 4/62196 take
+    4/6232  . . . . . . {Component of C08F 4/62 containing at
+    4/6235  . . . . . . . {containing magnesium}
+    4/6237  . . . . . . . {containing aluminium}
+    4/625   . . . . . Component covered by group
+C08F 4/62 with a metal or compound
+covered by group C08F 4/44, not
+provided for in a single group of
+groups C08F 4/622 or C08F 4/623
+{(C08F 4/62003 - C08F 4/62196 take
+    4/6252  . . . . . . {Component of C08F 4/62 containing at
+    4/6255  . . . . . . . {containing magnesium}
+    4/6257  . . . . . . . {containing aluminium}
+    4/626   . . . . . Catalysts comprising at least two
+different metals, in metallic form or as
+compounds thereof, in addition to the
+component covered by group C08F 4/62
+{(C08F 4/62003 - C08F 4/62196 take
+    4/6265  . . . . . . {containing silicium}
+    4/627   . . . . . Catalysts containing a specific
+non-metal or metal-free compound
+{(C08F 4/62003 - C08F 4/62196 take
+    4/628   . . . . . . inorganic
+    4/629   . . . . . . organic
+    4/6291  . . . . . . . {hydrocarbon}
+    4/6292  . . . . . . . . {containing aliphatic unsaturation}
+    4/6293  . . . . . . . {containing halogen}
+    4/6294  . . . . . . . {containing oxygen}
+    4/6295  . . . . . . . {containing nitrogen}
+    4/6296  . . . . . . . {containing sulfur}
+    4/6297  . . . . . . . {containing phosphorus}
+    4/6298  . . . . . . . {containing another heteroatom}
+    4/63    . . . . . Pretreating the metal or compound
+covered by group C08F 4/62 before
+the final contacting with the metal or
+compound covered by group C08F 4/44
+{(C08F 4/62003 - C08F 4/62196 take
+    4/631   . . . . . . Pretreating with non-metals or metal-
+    4/632   . . . . . . Pretreating with metals or metal-
+    4/633   . . . . . . . with metals covered by group
+    4/634   . . . . . . . with magnesium or compounds
+    4/6341  . . . . . . . . {and metals of C08F 4/62 or
+    4/6343  . . . . . . . . {halides of magnesium}
+    4/6345  . . . . . . . . . {and metals of C08F 4/62 or
+    4/6346  . . . . . . . . {organo-magnesium compounds}
+    4/6348  . . . . . . . . {magnesium or compounds thereof
+not provided for in C08F 4/6345 or
+    4/635   . . . . . . . with aluminium or compounds thereof
+    4/6352  . . . . . . . . {and metals of C08F 4/62 or
+    4/6355  . . . . . . . . {and magnesium or compounds
+    4/6357  . . . . . . . . . {and metals of C08F 4/62 or
+    4/636   . . . . . . . with silicon or compounds thereof
+    4/6362  . . . . . . . . {and metals of C08F 4/62 or
+    4/6365  . . . . . . . . {and magnesium or compounds
+    4/6367  . . . . . . . . {and aluminium or compounds
+    4/637   . . . . . . . with metals or metal-containing
+    4/6372  . . . . . . . . {and metals of C08F 4/62 or
+    4/6374  . . . . . . . . {and magnesium or compounds
+    4/6376  . . . . . . . . {and aluminium or compounds
+    4/6378  . . . . . . . . {and silicon or compounds thereof}
+    4/638   . . . . . . . with metals or metal-containing
+    4/6381  . . . . . . . . {and metals or metal-containing
+    4/6383  . . . . . . . . {and magnesium or compounds
+    4/6385  . . . . . . . . {and aluminium or compounds
+    4/6386  . . . . . . . . {and silicon or compounds thereof}
+    4/6388  . . . . . . . . {and metals or metal-containing
+    4/639   . . . . . Component covered by group C08F 4/62
+containing a transition metal-carbon bond
+{(C08F 4/62003 - C08F 4/62196 take
+    4/63904 . . . . . . {in combination with another
+    4/63908 . . . . . . {in combination with an ionising
+compound other than alumoxane, e.g.
+    4/63912 . . . . . . {in combination with an
+    4/63916 . . . . . . {supported on a carrier, e.g. silica,
+    4/6392  . . . . . . containing at least one cyclopentadienyl
+ring, condensed or not, e.g. an indenyl
+    4/63922 . . . . . . . {containing at least two
+cyclopentadienyl rings, fused or not}
+    4/63925 . . . . . . . . {two cyclopentadienyl rings being
+    4/63927 . . . . . . . . {two cyclopentadienyl rings being
+    4/64    . . . . . Titanium, zirconium, hafnium or
+Group C08F 4/64003 takes precedence
+over groups C08F 4/642 - C08F 4/659
+    4/64003 . . . . . . {the metallic compound containing
+a multidentate ligand, i.e. a ligand
+capable of donating two or more pairs of
+electrons to form a coordinate or ionic
+charge is on the last mentioned atom;
+for dianionic compounds, the charge
+is on the first and the last mentioned
+atoms except for compounds marked
+with * where the charge is on the
+    4/64006 . . . . . . . {Bidentate ligand}
+    4/6401  . . . . . . . . {Neutral ligand}
+    4/64013 . . . . . . . . . {NN}
+    4/64017 . . . . . . . . . {NO}
+    4/6402  . . . . . . . . . {NS}
+    4/64024 . . . . . . . . . {OS}
+    4/64027 . . . . . . . . . {PN}
+    4/64031 . . . . . . . . . {PO}
+    4/64034 . . . . . . . . . {PP}
+    4/64037 . . . . . . . . . {PS}
+    4/64041 . . . . . . . . {Monoanionic ligand}
+    4/64044 . . . . . . . . . {NN}
+    4/64048 . . . . . . . . . {NO}
+    4/64051 . . . . . . . . . {NS}
+    4/64055 . . . . . . . . . {ON}
+    4/64058 . . . . . . . . . {OO}
+    4/64062 . . . . . . . . . {PN}
+    4/64065 . . . . . . . . . {PO}
+    4/64068 . . . . . . . . {Dianionic ligand}
+    4/64072 . . . . . . . . . {NN}
+    4/64075 . . . . . . . . . {NO}
+    4/64079 . . . . . . . . . {OO}
+    4/64082 . . . . . . . {Tridentate ligand}
+    4/64086 . . . . . . . . {Neutral ligand}
+    4/64089 . . . . . . . . . {NNN}
+    4/64093 . . . . . . . . . {NNO}
+    4/64096 . . . . . . . . . {NNS}
+    4/64099 . . . . . . . . . {NSN}
+    4/64103 . . . . . . . . . {PNN}
+    4/64106 . . . . . . . . . {PNP}
+    4/6411  . . . . . . . . {Monoanionic ligand}
+    4/64113 . . . . . . . . . {NNN}
+    4/64117 . . . . . . . . . {NNO}
+    4/6412  . . . . . . . . . {ONN}
+    4/64124 . . . . . . . . . {ONO}
+    4/64127 . . . . . . . . . {ON*O}
+    4/64131 . . . . . . . . . {PNO}
+    4/64134 . . . . . . . . . {SNN}
+    4/64137 . . . . . . . . . {SNO}
+    4/64141 . . . . . . . . {Dianionic ligand}
+    4/64144 . . . . . . . . . {NN(R)C}
+    4/64148 . . . . . . . . . {NN(R)N}
+    4/64151 . . . . . . . . . {NNO}
+    4/64155 . . . . . . . . . {ON(R)C}
+    4/64158 . . . . . . . . . {ONO}
+    4/64162 . . . . . . . . . {O*O*P}
+    4/64165 . . . . . . . . . {OSO}
+    4/64168 . . . . . . . {Tetra- or multi-dentate ligand}
+    4/64172 . . . . . . . . {Neutral ligand}
+    4/64175 . . . . . . . . . {ONNO}
+    4/64179 . . . . . . . . . {PNNN}
+    4/64182 . . . . . . . . {Monoanionic ligand}
+    4/64186 . . . . . . . . {Dianionic ligand}
+    4/64189 . . . . . . . . . {ONNO}
+    4/64193 . . . . . . . . . {OOOO}
+    4/64196 . . . . . . . . . {OSSO}
+    4/642   . . . . . . Component covered by
+{(C08F 4/64003 - C08F 4/64196 take
+    4/6421  . . . . . . . {Titanium tetrahalides with organo-
+    4/6423  . . . . . . . {Component of C08F 4/64 containing
+    4/6425  . . . . . . . . {containing magnesium}
+    4/6426  . . . . . . . . {containing aluminium}
+    4/6428  . . . . . . . {with an aluminoxane, i.e. a
+compound containing an Al-O-Al-
+    4/643   . . . . . . Component covered by group
+C08F 4/64 with a metal or compound
+covered by group C08F 4/44 other
+than an organo-aluminium compound
+{(C08F 4/64003 - C08F 4/64196 take
+    4/6432  . . . . . . . {Component of C08F 4/64 containing
+    4/6435  . . . . . . . . {containing magnesium}
+    4/6437  . . . . . . . . {containing aluminium}
+    4/645   . . . . . . Component covered by group
+C08F 4/64 with a metal or compound
+covered by group C08F 4/44, not
+provided for in a single group of
+{(C08F 4/60003 - C08F 4/60196 take
+    4/6452  . . . . . . . {Component of C08F 4/64 containing
+    4/6455  . . . . . . . . {containing magnesium}
+    4/6457  . . . . . . . . {containing aluminium}
+    4/646   . . . . . . Catalysts comprising at least two
+different metals, in metallic form or as
+compounds thereof, in addition to the
+component covered by group C08F 4/64
+{(C08F 4/64003 - C08F 4/64196 take
+    4/6465  . . . . . . . {containing silicium}
+    4/647   . . . . . . Catalysts containing a specific
+non-metal or metal-free compound
+{(C08F 4/64003 - C08F 4/64196 take
+    4/648   . . . . . . . inorganic
+    4/649   . . . . . . . organic
+    4/6491  . . . . . . . . {hydrocarbon}
+    4/6492  . . . . . . . . . {containing aliphatic
+    4/6493  . . . . . . . . {containing halogen}
+    4/6494  . . . . . . . . {containing oxygen}
+    4/6495  . . . . . . . . {containing nitrogen}
+    4/6496  . . . . . . . . {containing sulfur}
+    4/6497  . . . . . . . . {containing phosphorus}
+    4/6498  . . . . . . . . {containing another heteroatom}
+    4/65    . . . . . . Pretreating the metal or compound
+covered by group C08F 4/64 before
+the final contacting with the metal or
+compound covered by group C08F 4/44
+{(C08F 4/64003 - C08F 4/64196 take
+    4/651   . . . . . . . Pretreating with non-metals or metal-
+    4/652   . . . . . . . Pretreating with metals or metal-
+    4/653   . . . . . . . . with metals of C08F 4/64 or
+    4/654   . . . . . . . . with magnesium or compounds
+    4/6541  . . . . . . . . . {and metals of C08F 4/64 or
+    4/6543  . . . . . . . . . {halides of magnesium}
+    4/6545  . . . . . . . . . . {and metals of C08F 4/64 or
+    4/6546  . . . . . . . . . {organo-magnesium compounds}
+    4/6548  . . . . . . . . . {magnesium or compounds
+    4/655   . . . . . . . . with aluminium or compounds
+    4/6552  . . . . . . . . . {and metals of C08F 4/64 or
+    4/6555  . . . . . . . . . {and magnesium or compounds
+    4/6557  . . . . . . . . . . {and metals of C08F 4/64 or
+    4/656   . . . . . . . . with silicon or compounds thereof
+    4/6562  . . . . . . . . . {and metals of C08F 4/64 or
+    4/6565  . . . . . . . . . {and magnesium or compounds
+    4/6567  . . . . . . . . . {and aluminium or compounds
+    4/657   . . . . . . . . with metals or metal-containing
+    4/6572  . . . . . . . . . {and metals of C08F 4/64 or
+    4/6574  . . . . . . . . . {and magnesium or compounds
+    4/6576  . . . . . . . . . {and aluminium or compounds
+    4/6578  . . . . . . . . . {and silicon or compounds
+    4/658   . . . . . . . . with metals or metal-containing
+    4/6581  . . . . . . . . . {and metals of C08F 4/64 or
+    4/6583  . . . . . . . . . {and magnesium or compounds
+    4/6585  . . . . . . . . . {and aluminium or compounds
+    4/6586  . . . . . . . . . {and silicon or compounds
+    4/6588  . . . . . . . . . {and metals or metal-containing
+    4/659   . . . . . . Component covered by group
+{(C08F 4/64003 - C08F 4/64196 take
+    4/65904 . . . . . . . {in combination with another
+    4/65908 . . . . . . . {in combination with an ionising
+compound other than alumoxane, e.g.
+    4/65912 . . . . . . . {in combination with an
+    4/65916 . . . . . . . {supported on a carrier, e.g. silica,
+    4/6592  . . . . . . . containing at least one
+cyclopentadienyl ring, condensed or
+not, e.g. an indenyl or a fluorenyl ring
+    4/65922 . . . . . . . . {containing at least two
+cyclopentadienyl rings, fused or
+    4/65925 . . . . . . . . . {two cyclopentadienyl rings
+    4/65927 . . . . . . . . . {two cyclopentadienyl rings
+    4/68    . . . . . Vanadium, niobium, tantalum or
+    4/68008 . . . . . . {the metallic compound containing
+a multidentate ligand, i.e. a ligand
+capable of donating two or more pairs of
+electrons to form a coordinate or ionic
+charge is on the last mentioned atom;
+for dianionic compounds, the charge
+is on the first and the last mentioned
+atoms except for compounds marked
+with * where the charge is on the
+    4/68017 . . . . . . . {Bidentate ligand}
+    4/68025 . . . . . . . . {Neutral ligand}
+    4/68034 . . . . . . . . . {NN}
+    4/68043 . . . . . . . . . {NO}
+    4/68051 . . . . . . . . . {NS}
+    4/6806  . . . . . . . . . {OS}
+    4/68068 . . . . . . . . . {PN}
+    4/68077 . . . . . . . . . {PO}
+    4/68086 . . . . . . . . . {PP}
+    4/68094 . . . . . . . . . {PS}
+    4/68103 . . . . . . . . {Monoanionic ligand}
+    4/68112 . . . . . . . . . {NN}
+    4/6812  . . . . . . . . . {NO}
+    4/68129 . . . . . . . . . {NS}
+    4/68137 . . . . . . . . . {ON}
+    4/68146 . . . . . . . . . {OO}
+    4/68155 . . . . . . . . . {PN}
+    4/68163 . . . . . . . . . {PO}
+    4/68172 . . . . . . . . {Dianionic ligand}
+    4/68181 . . . . . . . . . {NN}
+    4/68189 . . . . . . . . . {NO}
+    4/68198 . . . . . . . . . {OO}
+    4/68206 . . . . . . . {Tridentate ligand}
+    4/68215 . . . . . . . . {Neutral ligand}
+    4/68224 . . . . . . . . . {NNN}
+    4/68232 . . . . . . . . . {NNO}
+    4/68241 . . . . . . . . . {NNS}
+    4/6825  . . . . . . . . . {NSN}
+    4/68258 . . . . . . . . . {PNN}
+    4/68267 . . . . . . . . . {PNP}
+    4/68275 . . . . . . . . {Monoanionic ligand}
+    4/68284 . . . . . . . . . {NNN}
+    4/68293 . . . . . . . . . {NNO}
+    4/68301 . . . . . . . . . {ONN}
+    4/6831  . . . . . . . . . {ONO}
+    4/68318 . . . . . . . . . {ON*O}
+    4/68327 . . . . . . . . . {PNO}
+    4/68336 . . . . . . . . . {SNN}
+    4/68344 . . . . . . . . . {SNO}
+    4/68353 . . . . . . . . {Dianionic ligand}
+    4/68362 . . . . . . . . . {NN(R)C}
+    4/6837  . . . . . . . . . {NN(R)N}
+    4/68379 . . . . . . . . . {NNO}
+    4/68387 . . . . . . . . . {ON(R)C}
+    4/68396 . . . . . . . . . {ONO}
+    4/68405 . . . . . . . . . {O*O*P}
+    4/68413 . . . . . . . . . {OSO}
+    4/68422 . . . . . . . {Tetra- or multi-dentate ligand}
+    4/68431 . . . . . . . . {Neutral ligand}
+    4/68439 . . . . . . . . . {ONNO}
+    4/68448 . . . . . . . . . {PNNN}
+    4/68456 . . . . . . . . {Monoanionic ligand}
+    4/68465 . . . . . . . . {Dianionic ligand}
+    4/68474 . . . . . . . . . {ONNO}
+    4/68482 . . . . . . . . . {OOOO}
+    4/68491 . . . . . . . . . {OSSO}
+    4/685   . . . . . . Vanadium or compounds thereof
+in combination with titanium or
+    4/69    . . . . . Chromium, molybdenum, tungsten or
+    4/69008 . . . . . . {the metallic compound containing
+a multidentate ligand, i.e. a ligand
+capable of donating two or more pairs of
+electrons to form a coordinate or ionic
+charge is on the last mentioned atom;
+for dianionic compounds, the charge
+is on the first and the last mentioned
+atoms except for compounds marked
+with * where the charge is on the
+    4/69017 . . . . . . . {Bidentate ligand}
+    4/69025 . . . . . . . . {Neutral ligand}
+    4/69034 . . . . . . . . . {NN}
+    4/69043 . . . . . . . . . {NO}
+    4/69051 . . . . . . . . . {NS}
+    4/6906  . . . . . . . . . {OS}
+    4/69068 . . . . . . . . . {PN}
+    4/69077 . . . . . . . . . {PO}
+    4/69086 . . . . . . . . . {PP}
+    4/69094 . . . . . . . . . {PS}
+    4/69103 . . . . . . . . {Monoanionic ligand}
+    4/69112 . . . . . . . . . {NN}
+    4/6912  . . . . . . . . . {NO}
+    4/69129 . . . . . . . . . {NS}
+    4/69137 . . . . . . . . . {ON}
+    4/69146 . . . . . . . . . {OO}
+    4/69155 . . . . . . . . . {PN}
+    4/69163 . . . . . . . . . {PO}
+    4/69172 . . . . . . . . {Dianionic ligand}
+    4/69181 . . . . . . . . . {NN}
+    4/69189 . . . . . . . . . {NO}
+    4/69198 . . . . . . . . . {OO}
+    4/69206 . . . . . . . {Tridentate ligand}
+    4/69215 . . . . . . . . {Neutral ligand}
+    4/69224 . . . . . . . . . {NNN}
+    4/69232 . . . . . . . . . {NNO}
+    4/69241 . . . . . . . . . {NNS}
+    4/6925  . . . . . . . . . {NSN}
+    4/69258 . . . . . . . . . {PNN}
+    4/69267 . . . . . . . . . {PNP}
+    4/69275 . . . . . . . . {Monoanionic ligand}
+    4/69284 . . . . . . . . . {NNN}
+    4/69293 . . . . . . . . . {NNO}
+    4/69301 . . . . . . . . . {ONN}
+    4/6931  . . . . . . . . . {ONO}
+    4/69318 . . . . . . . . . {ON*O}
+    4/69327 . . . . . . . . . {PNO}
+    4/69336 . . . . . . . . . {SNN}
+    4/69344 . . . . . . . . . {SNO}
+    4/69353 . . . . . . . . {Dianionic ligand}
+    4/69362 . . . . . . . . . {NN(R)C}
+    4/6937  . . . . . . . . . {NN(R)N}
+    4/69379 . . . . . . . . . {NNO}
+    4/69387 . . . . . . . . . {ON(R)C}
+    4/69396 . . . . . . . . . {ONO}
+    4/69405 . . . . . . . . . {O*O*P}
+    4/69413 . . . . . . . . . {OSO}
+    4/69422 . . . . . . . {Tetra- or multi-dentate ligand}
+    4/69431 . . . . . . . . {Neutral ligand}
+    4/69439 . . . . . . . . . {ONNO}
+    4/69448 . . . . . . . . . {PNNN}
+    4/69456 . . . . . . . . {Monoanionic ligand}
+    4/69465 . . . . . . . . {Dianionic ligand}
+    4/69474 . . . . . . . . . {ONNO}
+    4/69482 . . . . . . . . . {OOOO}
+    4/69491 . . . . . . . . . {OSSO}
+    4/695   . . . . Manganese, technetium, rhenium or
+    4/70    . . . . Iron group metals, platinum group metals or
+    4/7001  . . . . . {the metallic compound containing a
+multidentate ligand, i.e. a ligand capable of
+donating two or more pairs of electrons to
+form a coordinate or ionic bond}
+charge is on the last mentioned atom;
+for dianionic compounds, the charge
+is on the first and the last mentioned
+atoms except for compounds marked
+with * where the charge is on the
+    4/7003  . . . . . . {Bidentate ligand}
+    4/7004  . . . . . . . {Neutral ligand}
+    4/7006  . . . . . . . . {NN}
+    4/7008  . . . . . . . . {NO}
+    4/7009  . . . . . . . . {NS}
+    4/7011  . . . . . . . . {OS}
+    4/7013  . . . . . . . . {PN}
+    4/7014  . . . . . . . . {PO}
+    4/7016  . . . . . . . . {PP}
+    4/7018  . . . . . . . . {PS}
+    4/7019  . . . . . . . {Monoanionic ligand}
+    4/7021  . . . . . . . . {NN}
+    4/7022  . . . . . . . . {NO}
+    4/7024  . . . . . . . . {NS}
+    4/7026  . . . . . . . . {ON}
+    4/7027  . . . . . . . . {OO}
+    4/7029  . . . . . . . . {PN}
+    4/7031  . . . . . . . . {PO}
+    4/7032  . . . . . . . {Dianionic ligand}
+    4/7034  . . . . . . . . {NN}
+    4/7036  . . . . . . . . {NO}
+    4/7037  . . . . . . . . {OO}
+    4/7039  . . . . . . {Tridentate ligand}
+    4/704   . . . . . . . {Neutral ligand}
+    4/7042  . . . . . . . . {NNN}
+    4/7044  . . . . . . . . {NNO}
+    4/7045  . . . . . . . . {NNS}
+    4/7047  . . . . . . . . {NSN}
+    4/7049  . . . . . . . . {PNN}
+    4/705   . . . . . . . . {PNP}
+    4/7052  . . . . . . . {Monoanionic ligand}
+    4/7054  . . . . . . . . {NNN}
+    4/7055  . . . . . . . . {NNO}
+    4/7057  . . . . . . . . {ONN}
+    4/7059  . . . . . . . . {ONO}
+    4/706   . . . . . . . . {ON*O}
+    4/7062  . . . . . . . . {PNO}
+    4/7063  . . . . . . . . {SNN}
+    4/7065  . . . . . . . . {SNO}
+    4/7067  . . . . . . . {Dianionic ligand}
+    4/7068  . . . . . . . . {NN(R)C}
+    4/707   . . . . . . . . {NN(R)N}
+    4/7072  . . . . . . . . {NNO}
+    4/7073  . . . . . . . . {ON(R)C}
+    4/7075  . . . . . . . . {ONO}
+    4/7077  . . . . . . . . {O*O*P}
+    4/7078  . . . . . . . . {OSO}
+    4/708   . . . . . . {Tetra- or multi-dentate ligand}
+    4/7081  . . . . . . . {Neutral ligand}
+    4/7083  . . . . . . . . {ONNO}
+    4/7085  . . . . . . . . {PNNN}
+    4/7086  . . . . . . . {Monoanionic ligand}
+    4/7088  . . . . . . . {Dianionic ligand}
+    4/709   . . . . . . . . {ONNO}
+    4/7091  . . . . . . . . {OOOO}
+    4/7093  . . . . . . . . {OSSO}
+    4/7095  . . . . . {Cobalt, nickel or compounds thereof
+(C08F 4/7001 - C08F 4/7093 take
+    4/7096  . . . . . . {Cobalt or compounds thereof}
+    4/7098  . . . . . . {Nickel or compounds thereof}
+    4/72    . . selected from metals not provided for in group
+C08F 4/44 (C08F 4/54 - C08F 4/70 take
+    4/74    . . . selected from refractory metals
+    4/76    . . . . selected from titanium, zirconium, hafnium,
+    4/78    . . . . selected from chromium, molybdenum or
+    4/80    . . . selected from iron group metals or platinum
+    4/82    . . . . pi-Allyl complexes
+    6/00    Post-polymerisation treatments (C08F 8/00 takes
+precedence; of conjugated diene rubbers C08C)
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+    6/001   . {Removal of residual monomers by physical
+    6/003   . . {from polymer solutions, suspensions, dispersions
+or emulsions without recovery of the polymer
+    6/005   . . {from solid polymers}
+    6/006   . {Removal of residual monomers by chemical
+    6/008   . {Treatment of solid polymer wetted by water or
+organic solvents, e.g. coagulum, filter cakes}
+    6/02    . Neutralisation of the polymerisation mass, e.g.
+killing the catalyst (short-stopping C08F 2/42 ){also
+    6/06    . Treatment of polymer solutions {(C08F 6/001,
+C08F 6/006, C08F 6/008, C08F 6/02, C08F 6/04
+    6/08    . . Removal of catalyst residues {(not used, see
+    6/10    . . Removal of volatile materials, e.g. solvents
+{(C08F 6/001, C08F 6/003, C08F 6/005,
+C08F 6/006, C08F 6/008, C08F 6/02, C08F 6/04
+    6/12    . . Separation of polymers from solutions
+    6/14    . Treatment of polymer emulsions {(C08F 6/001,
+C08F 6/006, C08F 6/008, C08F 6/02, C08F 6/04
+    6/18    . . Increasing the size of the dispersed particles
+    6/24    . Treatment of polymer suspensions {(C08F 6/001,
+C08F 6/006, C08F 6/008, C08F 6/02, C08F 6/04
+    6/26    . Treatment of polymers prepared in bulk {also
+solid polymers or polymer melts, (C08F 6/001,
+C08F 6/006, C08F 6/008, C08F 6/02, C08F 6/04
+    8/00    Chemical modification by after-treatment
+(graft polymers, block polymers, crosslinking
+with unsaturated monomers or with polymers
+C08F 251/00 - C08F 299/00; of conjugated diene
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+    8/04    . Reduction, e.g. hydrogenation
+    8/18    . Introducing halogen atoms or halogen-containing
+    8/22    . . . by reaction with free halogens
+    8/26    . Removing halogen atoms or halogen-containing
+    8/28    . Condensation with aldehydes or ketones
+    8/30    . Introducing nitrogen atoms or nitrogen-containing
+    8/32    . . by reaction with amines
+    8/34    . Introducing sulfur atoms or sulfur-containing groups
+    8/36    . . Sulfonation; Sulfation
+    8/38    . . Sulfohalogenation
+    8/40    . Introducing phosphorus atoms or phosphorus-
+    8/42    . Introducing metal atoms or metal-containing groups
+    8/44    . Preparation of metal salts or ammonium salts
+    8/46    . Reaction with unsaturated dicarboxylic acids or
+anhydrides thereof, e.g. maleinisation
+    8/48    . Isomerisation; Cyclisation
+When the cyclisation is an epoxidation,
+C08F 8/08 takes precedence. When the
+cyclisation is a lactonisation, C08F 8/16 takes
+    8/50    . Partial depolymerisation
+   10/00    Homopolymers and copolymers of unsaturated
+aliphatic hydrocarbons having only one carbon-to-
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+   10/04    . Monomers containing three or four carbon atoms
+   10/14    . Monomers containing five or more carbon atoms
+   12/00    Homopolymers and copolymers of compounds
+having one or more unsaturated aliphatic radicals,
+each having only one carbon-to-carbon double
+bond, and at least one being terminated by an
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+   12/02    . Monomers containing only one unsaturated aliphatic
+   12/04    . . containing one ring
+   12/12    . . . . Monomers containing a branched
+unsaturated aliphatic radical or a ring
+substituted by an alkyl radical
+   12/14    . . . substituted by hetero atoms or groups
+   12/21    . . . . . {Bromine}
+   12/24    . . . . . Phenols or alcohols
+   12/32    . . containing two or more rings
+   12/34    . Monomers containing two or more unsaturated
+   14/00    Homopolymers and copolymers of compounds
+having one or more unsaturated aliphatic radicals,
+each having only one carbon-to-carbon double
+bond, and at least one being terminated by a
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+   14/02    . Monomers containing chlorine
+   14/04    . . Monomers containing two carbon atoms
+   14/06    . . . Vinyl chloride
+   14/08    . . . Vinylidene chloride
+   14/12    . . . 1,2- Dichloroethene
+   14/14    . . Monomers containing three or more carbon atoms
+   14/16    . Monomers containing bromine or iodine
+   14/18    . Monomers containing fluorine
+   14/185   . . {Monomers containing fluorine not covered by
+the groups C08F 14/20 - C08F 14/28}
+   14/22    . . Vinylidene fluoride
+   14/24    . . Trifluorochloroethene
+   14/26    . . Tetrafluoroethene
+   14/28    . . Hexafluoropropene
+   16/00    Homopolymers and copolymers of compounds
+having one or more unsaturated aliphatic radicals,
+each having only one carbon-to-carbon double
+bond, and at least one being terminated by an
+alcohol, ether, aldehydo, ketonic, acetal or ketal
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+   16/02    . by an alcohol radical
+   16/04    . . Acyclic compounds
+   16/06    . . . Polyvinyl alcohol {; Vinyl alcohol}
+   16/08    . . . Allyl alcohol
+   16/10    . . Carbocyclic compounds
+   16/12    . by an ether radical
+   16/14    . . Monomers containing only one unsaturated
+   16/16    . . . Monomers containing no hetero atoms other
+   16/18    . . . . Acyclic compounds
+   16/20    . . . . . Monomers containing three or more
+carbon atoms in the unsaturated aliphatic
+   16/22    . . . . Carbocyclic compounds
+   16/24    . . . Monomers containing halogen
+   16/26    . . . Monomers containing oxygen atoms in addition
+   16/28    . . . Monomers containing nitrogen
+   16/30    . . . Monomers containing sulfur
+   16/32    . . Monomers containing two or more unsaturated
+   16/34    . by an aldehydo radical
+   16/36    . by a ketonic radical
+   16/38    . by an acetal or ketal radical
+   18/00    Homopolymers and copolymers of compounds
+having one or more unsaturated aliphatic radicals,
+each having only one carbon-to-carbon double
+bond, and at least one being terminated by an
+acyloxy radical of a saturated carboxylic acid, of
+carbonic acid or of a haloformic acid
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+   18/02    . Esters of monocarboxylic acids
+   18/06    . . . Vinyl formate
+   18/08    . . . Vinyl acetate
+   18/10    . . . of monocarboxylic acids containing three or
+   18/12    . . with unsaturated alcohols containing three or
+   18/14    . Esters of polycarboxylic acids
+   18/16    . . with alcohols containing three or more carbon
+   18/18    . . . Diallyl phthalate
+   18/20    . Esters containing halogen
+   18/22    . Esters containing nitrogen
+   18/24    . Esters of carbonic or haloformic acids
+   20/00    Homopolymers and copolymers of compounds
+having one or more unsaturated aliphatic radicals,
+each having only one carbon-to-carbon double
+bond, and only one being terminated by only one
+carboxyl radical or a salt, anhydride, ester, amide,
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+   20/02    . Monocarboxylic acids having less than ten carbon
+   20/04    . . Acids, Metal salts or ammonium salts thereof
+   20/06    . . . Acrylic acid; Methacrylic acid; Metal salts or
+   20/12    . . . of monohydric alcohols or phenols
+   20/14    . . . . Methyl esters {, e.g. methyl (meth)acrylate}
+   20/16    . . . . of phenols or of alcohols containing two or
+   20/18    . . . . . with acrylic or methacrylic acids
+   20/20    . . . of polyhydric alcohols or {polyhydric} phenols
+{, e.g. 2-hydroxyethyl (meth)acrylate or
+   20/22    . . . Esters containing halogen
+   20/24    . . . . containing perhaloalkyl radicals
+   20/26    . . . Esters containing oxygen in addition to the
+   20/28    . . . . containing no aromatic rings in the alcohol
+   20/30    . . . . containing aromatic rings in the alcohol
+   20/32    . . . . containing epoxy radicals
+   20/34    . . . Esters containing nitrogen {, e.g. N,N-
+dimethylaminoethyl (meth)acrylate}
+   20/36    . . . . containing oxygen in addition to the
+carboxy oxygen {, e.g. 2-N-morpholinoethyl
+(meth)acrylate or 2-isocyanatoethyl
+   20/38    . . . Esters containing sulfur
+   20/40    . . . Esters of unsaturated alcohols {, e.g. allyl
+   20/44    . . . Acrylonitrile
+   20/50    . . . containing four or more carbon atoms
+   20/52    . . Amides or imides
+   20/54    . . . Amides {, e.g. N,N-dimethylacrylamide or N-
+   20/56    . . . . Acrylamide; Methacrylamide
+   20/58    . . . . containing oxygen in addition to
+the carbonamido oxygen {, e.g. N-
+methylolacrylamide, N-acryloylmorpholine}
+   20/60    . . . . containing nitrogen in addition to the
+   20/62    . Monocarboxylic acids having ten or more carbon
+   20/64    . . Acids; Metal salts or ammonium salts thereof
+   20/70    . . Nitriles; Amides; Imides
+   22/00    Homopolymers and copolymers of compounds
+having one or more unsaturated aliphatic radicals
+each having only one carbon-to-carbon double
+bond, and at least one being terminated by a
+carboxyl radical and containing at least one other
+carboxyl radical in the molecule; Salts, anhydrides,
+esters, amides, imides or nitriles thereof
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+   22/02    . Acids; Metal salts or ammonium salts thereof {, e.g.
+   22/04    . Anhydrides, e.g. cyclic anhydrides
+   22/06    . . Maleic anhydride
+   22/1006  . . {of polyhydric alcohols or polyhydric phenols,
+e.g. ethylene glycol dimethacrylate}
+   22/12    . . of phenols or saturated alcohols {(C08F 22/1006
+   22/14    . . . Esters having no free carboxylic acid groups
+   22/16    . . . Esters having free carboxylic acid groups
+   22/18    . . . Esters containing halogen
+   22/20    . . . Esters containing oxygen in addition to the
+   22/22    . . . Esters containing nitrogen
+   22/24    . . . Esters containing sulfur
+   22/26    . . of unsaturated alcohols {(C08F 22/1006 takes
+   22/28    . . . Diallyl maleate
+   22/32    . . Alpha-cyano-acrylic acid; Esters thereof
+   22/34    . . Vinylidene cyanide
+   22/385   . . . {Monomers containing two or more
+(meth)acrylamide groups, e.g. N,N'-
+   22/40    . . Imides, e.g. cyclic imides
+   24/00    Homopolymers and copolymers of compounds
+having one or more unsaturated aliphatic radicals,
+each having only one carbon-to-carbon double
+bond, and at least one being terminated by a
+heterocyclic ring containing oxygen (cyclic esters of
+polyfunctional acids C08F 18/00; cyclic anhydrides of
+unsaturated acids C08F 20/00, C08F 22/00)
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+   26/00    Homopolymers and copolymers of compounds
+having one or more unsaturated aliphatic radicals,
+each having only one carbon-to-carbon double
+bond, and at least one being terminated by a single
+or double bond to nitrogen or by a heterocyclic
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+   26/02    . by a single or double bond to nitrogen
+   26/06    . by a heterocyclic ring containing nitrogen
+   26/08    . . N-Vinyl-pyrrolidine
+   26/10    . . N-Vinyl-pyrrolidone
+   26/12    . . N-Vinyl-carbazole
+   28/00    Homopolymers and copolymers of compounds
+having one or more unsaturated aliphatic radicals,
+each having only one carbon-to-carbon double
+bond, and at least one being terminated by a bond
+to sulfur or by a heterocyclic ring containing sulfur
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+   28/02    . by a bond to sulfur
+   28/06    . by a heterocyclic ring containing sulfur
+   30/00    Homopolymers and copolymers of compounds
+having one or more unsaturated aliphatic radicals,
+each having only one carbon-to-carbon double
+bond, and containing phosphorus, selenium,
+tellurium or a metal (metal salts, e.g. phenolates or
+alcoholates, see the parent compounds)
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+   30/02    . containing phosphorus
+   30/04    . containing a metal
+   30/06    . . containing boron
+   30/08    . . containing silicon
+   30/10    . . containing germanium
+   32/00    Homopolymers and copolymers of cyclic
+compounds having no unsaturated aliphatic
+radicals in a side chain, and having one or more
+carbon-to-carbon double bonds in a carbocyclic
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+   32/02    . having no condensed rings
+   32/04    . . having one carbon-to-carbon double bond
+   32/06    . . having two or more carbon-to-carbon double
+   32/08    . having two condensed rings (coumarone-indene
+   34/00    Homopolymers and copolymers of cyclic
+compounds having no unsaturated aliphatic
+radicals in a side chain and having one or
+more carbon-to-carbon double bonds in a
+heterocyclic ring (cyclic esters of polyfunctional
+acids C08F 18/00; cyclic anhydrides or imides
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+   34/02    . in a ring containing oxygen (coumarone-indene
+   34/04    . in a ring containing sulfur
+   36/00    Homopolymers and copolymers of compounds
+having one or more unsaturated aliphatic radicals,
+at least one having two or more carbon-to-carbon
+double bonds (C08F 32/00 takes precedence)
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+   36/02    . the radical having only two carbon-to-carbon double
+   36/045   . . . {conjugated hydrocarbons other than butadiene
+   36/14    . . . containing elements other than carbon and
+   36/16    . . . . containing halogen
+   36/18    . . . . . containing chlorine
+   36/22    . the radical having three or more carbon-to-carbon
+   38/00    Homopolymers and copolymers of compounds
+having one or more carbon-to-carbon triple bonds
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  110/00    Homopolymers of unsaturated aliphatic
+hydrocarbons having only one carbon-to-carbon
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  110/04    . Monomers containing three or four carbon atoms
+  110/14    . Monomers containing five or more carbon atoms
+  112/00    Homopolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by an aromatic carbocyclic
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  112/02    . Monomers containing only one unsaturated aliphatic
+  112/04    . . containing one ring
+  112/12    . . . . Monomers containing a branched
+unsaturated aliphatic radical or a ring
+substituted by an alkyl radical
+  112/14    . . . substituted by hetero atoms or groups
+  112/18    . . . . . {Chlorine}
+  112/20    . . . . . {Fluorine}
+  112/21    . . . . . {Bromine}
+  112/24    . . . . . {Phenols or alcohols}
+  112/32    . . containing two or more rings
+  112/34    . Monomers containing two or more unsaturated
+  114/00    Homopolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a halogen
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  114/02    . Monomers containing chlorine
+  114/04    . . Monomers containing two carbon atoms
+  114/06    . . . Vinyl chloride
+  114/08    . . . Vinylidene chloride
+  114/12    . . . 1,2- Dichloroethene
+  114/14    . . Monomers containing three or more carbon atoms
+  114/16    . Monomers containing bromine or iodine
+  114/18    . Monomers containing fluorine
+  114/185   . . {Monomers containing fluorine not covered by
+the groups C08F 114/20 - C08F 114/28}
+  114/22    . . Vinylidene fluoride
+  114/24    . . Trifluorochloroethene
+  114/26    . . Tetrafluoroethene
+  114/28    . . Hexafluoropropene
+  116/00    Homopolymers of compounds having one or
+more unsaturated aliphatic radicals, each having
+only one carbon-to-carbon double bond, and at
+least one being terminated by an alcohol, ether,
+aldehydo, ketonic, acetal or ketal radical
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  116/02    . by an alcohol radical
+  116/04    . . Acyclic compounds
+  116/06    . . . Polyvinyl alcohol {; Vinyl alcohol}
+  116/08    . . . Allyl alcohol
+  116/10    . . Carbocyclic compounds
+  116/12    . by an ether radical
+  116/14    . . Monomers containing only one unsaturated
+  116/16    . . . Monomers containing no hetero atoms other
+  116/18    . . . . Acyclic compounds
+  116/20    . . . . . Monomers containing three or more
+carbon atoms in the unsaturated aliphatic
+  116/34    . by an aldehydo radical
+  116/36    . by a ketonic radical
+  116/38    . by a acetal or ketal radical
+  118/00    Homopolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by an acyloxy radical of a
+saturated carboxylic acid, of carbonic acid or of a
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  118/02    . Esters of monocarboxylic acids
+  118/06    . . . Vinyl formate
+  118/08    . . . Vinyl acetate
+  118/10    . . . of monocarboxylic acids containing three or
+  118/12    . . with unsaturated alcohols containing three or
+  118/14    . Esters of polycarboxylic acids
+  118/16    . . with alcohols containing three or more carbon
+  118/18    . . . Diallyl phthalate
+  120/00    Homopolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and only one
+being terminated by only one carboxyl radical or
+a salt, anhydride, ester, amide, imide or nitrile
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  120/02    . Monocarboxylic acids having less than ten carbon
+  120/04    . . Acids; Metal salts or ammonium salts thereof
+  120/06    . . . Acrylic acid; Methacrylic acid; Metal salts or
+  120/12    . . . of monohydric alcohols or phenols
+  120/14    . . . . Methyl esters {, e.g. methyl (meth)acrylate}
+  120/16    . . . . of phenols or of alcohols containing two or
+  120/18    . . . . . with acrylic or methacrylic acids
+  120/20    . . . of polyhydric alcohols or {polyhydric} phenols
+{, e.g. 2-hydroxyethyl (meth)acrylate or
+  120/22    . . . Esters containing halogen
+  120/24    . . . . containing perhaloalkyl radicals
+  120/26    . . . Esters containing oxygen in addition to the
+  120/28    . . . . containing no aromatic rings in the alcohol
+  120/30    . . . . containing aromatic rings in the alcohol
+  120/32    . . . . containing epoxy radicals
+  120/34    . . . Esters containing nitrogen {, e.g. N,N-
+dimethylaminoethyl (meth)acrylate}
+  120/36    . . . . containing oxygen in addition to the
+carboxy oxygen {, e.g. 2-N-morpholinoethyl
+(meth)acrylate or 2-isocyanatoethyl
+  120/38    . . . Esters containing sulfur
+  120/40    . . . Esters of unsaturated alcohols {, e.g. allyl
+  120/44    . . . Acrylonitrile
+  120/50    . . . containing four or more carbon atoms
+  120/52    . . Amides or imides
+  120/54    . . . Amides {, e.g. N,N-dimethylacrylamide or N-
+  120/56    . . . . Acrylamide; Methacrylamide
+  120/58    . . . . containing oxygen in addition to
+the carbonamido oxygen {, e.g. N-
+methylolacrylamide, N-acryloyl morpholine}
+  120/60    . . . . containing nitrogen in addition to the
+  120/62    . Monocarboxylic acids having ten or more carbon
+  120/64    . . Acids; Metal salts or ammonium salts thereof
+  120/70    . . Nitriles; Amides; Imides
+  122/00    Homopolymers of compounds having one or more
+unsaturated aliphatic radicals each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a carboxyl radical and
+containing at least one other carboxyl radical in
+the molecule; Salts, anhydrides, esters, amides,
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  122/02    . Acids; Metal salts or ammonium salts thereof {, e.g.
+  122/04    . Anhydrides, e.g. cyclic anhydrides
+  122/06    . . Maleic anhydride
+  122/1006  . . {of polyhydric alcohols or polyhydric phenols,
+e.g. ethylene glycol dimethacrylate}
+  122/12    . . of phenols or saturated alcohols {(C08F 122/1006
+  122/14    . . . Esters having no free carboxylic acid groups
+  122/16    . . . Esters having free carboxylic acid groups
+  122/18    . . . Esters containing halogen
+  122/20    . . . Esters containing oxygen in addition to the
+  122/22    . . . Esters containing nitrogen
+  122/24    . . . Esters containing sulfur
+  122/26    . . of unsaturated alcohols {(C08F 122/1006 takes
+  122/28    . . . Diallyl maleate
+  122/32    . . Alpha-cyano-acrylic acid; Esters thereof
+  122/34    . . Vinylidene cyanide
+  122/385   . . . {Monomers containing two or more
+(meth)acrylamide groups, e.g. N,N'-
+  122/40    . . Imides, e.g. cyclic imides
+  124/00    Homopolymers of compounds having one or
+more unsaturated aliphatic radicals, each having
+only one carbon-to-carbon double bond, and at
+least one being terminated by a heterocyclic ring
+containing oxygen (cyclic esters of polyfunctional
+acids C08F 118/00; cyclic anhydrides of unsaturated
+acids C08F 120/00, C08F 122/00)
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  126/00    Homopolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a single or double bond
+to nitrogen or by a heterocyclic ring containing
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  126/02    . by a single or double bond to nitrogen
+  126/06    . by a heterocyclic ring containing nitrogen
+  126/08    . . N-Vinyl-pyrrolidine
+  126/10    . . N-Vinyl-pyrrolidone
+  126/12    . . N-Vinyl-carbazole
+  128/00    Homopolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a bond to sulfur or by a
+heterocyclic ring containing sulfur
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  128/02    . by a bond to sulfur
+  128/06    . by a heterocyclic ring containing sulfur
+  130/00    Homopolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and containing
+phosphorus, selenium, tellurium or a metal (metal
+salts, e.g. phenolates or alcoholates, see the parent
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  130/02    . containing phosphorus
+  130/04    . containing a metal
+  130/06    . . containing boron
+  130/08    . . containing silicon
+  130/10    . . containing germanium
+  132/00    Homopolymers of cyclic compounds containing
+no unsaturated aliphatic radicals in a side chain,
+and having one or more carbon-to-carbon double
+bonds in a carbocyclic ring system
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  132/02    . having no condensed rings
+  132/04    . . having one carbon-to-carbon double bond
+  132/06    . . having two or more carbon-to-carbon double
+  132/08    . having condensed rings
+  134/00    Homopolymers of cyclic compounds having no
+unsaturated aliphatic radicals in a side chain and
+having one or more carbon-to-carbon double
+bonds in a heterocyclic ring (cyclic esters of
+polyfunctional acids C08F 118/00; cyclic anhydrides
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  134/02    . in a ring containing oxygen
+  134/04    . in a ring containing sulfur
+  136/00    Homopolymers of compounds having one or more
+unsaturated aliphatic radicals, at least one having
+two or more carbon-to-carbon double bonds
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  136/02    . the radical having only two carbon-to-carbon double
+  136/045   . . . {conjugated hydrocarbons other than butadiene
+  136/14    . . . containing elements other than carbon and
+  136/16    . . . . containing halogen
+  136/18    . . . . . containing chlorine
+  136/22    . the radical having three or more carbon-to-carbon
+  138/00    Homopolymers of compounds having one or more
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  210/00    Copolymers of unsaturated aliphatic hydrocarbons
+having only one carbon-to-carbon double bond
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  210/04    . Monomers containing three or four carbon atoms
+  210/12    . . . . with conjugated diolefins, e.g. butyl rubber
+  210/14    . Monomers containing five or more carbon atoms
+  210/16    . Copolymers of ethene with alpha-alkenes, e.g. EP
+  210/18    . . with non-conjugated dienes, e.g. EPT rubbers
+  212/00    Copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by an aromatic carbocyclic
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  212/02    . Monomers containing only one unsaturated aliphatic
+  212/04    . . containing one ring
+  212/10    . . . . . with nitriles
+  212/12    . . . . Monomers containing a branched
+unsaturated aliphatic radical or a ring
+substituted by an alkyl radical
+  212/14    . . . substituted by heteroatoms or groups
+  212/18    . . . . . {Chlorine}
+  212/20    . . . . . {Fluorine}
+  212/21    . . . . . {Bromine}
+  212/24    . . . . . {Phenols or alcohols}
+  212/32    . . containing two or more rings
+  212/34    . Monomers containing two or more unsaturated
+  214/00    Copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a halogen
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  214/02    . Monomers containing chlorine
+  214/04    . . Monomers containing two carbon atoms
+  214/06    . . . Vinyl chloride
+  214/08    . . . Vinylidene chloride
+  214/10    . . . . with nitriles
+  214/12    . . . 1,2-Dichloroethene
+  214/14    . . Monomers containing three or more carbon atoms
+  214/16    . Monomers containing bromine or iodine
+  214/18    . Monomers containing fluorine
+  214/182   . . {Monomers containing fluorine not covered by
+the groups C08F 214/20 - C08F 214/28}
+  214/184   . . {with fluorinated vinyl ethers}
+  214/186   . . {with non-fluorinated comonomers}
+  214/188   . . . {with non-fluorinated vinyl ethers}
+  214/202   . . . {with fluorinated vinyl ethers}
+  214/205   . . . {with non-fluorinated comonomers}
+  214/207   . . . . {with non-fluorinated vinyl ethers}
+  214/22    . . Vinylidene fluoride
+  214/222   . . . {with fluorinated vinyl ethers}
+  214/225   . . . {with non-fluorinated comonomers}
+  214/227   . . . . {with non-fluorinated vinyl ethers}
+  214/24    . . Trifluorochloroethene
+  214/242   . . . {with fluorinated vinyl ethers}
+  214/245   . . . {with non-fluorinated comonomers}
+  214/247   . . . . {with non-fluorinated vinyl ethers}
+  214/26    . . Tetrafluoroethene
+  214/262   . . . {with fluorinated vinyl ethers}
+  214/265   . . . {with non-fluorinated comonomers}
+  214/267   . . . . {with non-fluorinated vinyl ethers}
+  214/28    . . Hexyfluoropropene
+  214/282   . . . {with fluorinated vinyl ethers}
+  214/285   . . . {with non-fluorinated comonomers}
+  214/287   . . . . {with non-fluorinated vinyl ethers}
+  216/00    Copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having
+only one carbon-to-carbon double bond, and at
+least one being terminated by an alcohol, ether,
+aldehydo, ketonic, acetal or ketal radical
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  216/02    . by an alcohol radical
+  216/04    . . Acyclic compounds
+  216/06    . . . Polyvinyl alcohol {; Vinyl alcohol}
+  216/08    . . . Allyl alcohol
+  216/085   . . . . {Allyl alcohol alkoxylate}
+  216/10    . . Carbocyclic compounds
+  216/12    . by an ether radical
+  216/125   . . {Monomers containing two or more unsaturated
+aliphatic radicals, e.g. trimethylolpropane triallyl
+ether or pentaerythritol triallyl ether}
+  216/14    . . Monomers containing only one unsaturated
+  216/1408  . . . {Monomers containing halogen}
+  216/1416  . . . {Monomers containing oxygen in addition to
+the ether oxygen, e.g. allyl glycidyl ether}
+  216/1425  . . . . {Monomers containing side chains of
+  216/1433  . . . . . {Monomers containing side chains of
+  216/1441  . . . . . {Monomers containing side chains of
+  216/145   . . . . . {Monomers containing side chains of
+polyethylene-co-propylene oxide groups}
+  216/1458  . . . {Monomers containing nitrogen}
+  216/1466  . . . {Monomers containing sulfur}
+  216/1475  . . . . {Monomers containing sulfur and oxygen}
+  216/1483  . . . . {Monomers containing sulfur and nitrogen}
+  216/1491  . . . . {Monomers containing sulfur, oxygen and
+  216/16    . . . Monomers containing no hetero atoms other
+  216/165   . . . . {Carbocyclic compounds}
+  216/18    . . . . Acyclic compounds
+  216/20    . . . . . Monomers containing three or more
+carbon atoms in the unsaturated aliphatic
+  216/34    . by an aldehydo radical
+  216/36    . by a ketonic radical
+  216/38    . by an acetal or ketal radical
+  218/00    Copolymers {of compounds} having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by an acyloxy radical of a
+saturated carboxylic acid, of carbonic acid or of a
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  218/02    . Esters of monocarboxylic acids
+  218/06    . . . Vinyl formate
+  218/08    . . . Vinyl acetate
+  218/10    . . . of monocarboxylic acids containing three or
+  218/12    . . with unsaturated alcohols containing three or
+  218/14    . Esters of polycarboxylic acids
+  218/16    . . with alcohols containing three or more carbon
+  218/18    . . . Diallyl phthalate
+  218/20    . {Esters containing halogen}
+  218/22    . {Esters containing nitrogen}
+  218/24    . {Esters of carbonic or haloformic acids, e.g. allyl
+  220/00    Copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and only one
+being terminated by only one carboxyl radical
+or a salt, anhydride ester, amide, imide or nitrile
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  220/02    . Monocarboxylic acids having less than ten carbon
+  220/04    . . Acids; Metal salts or ammonium salts thereof
+  220/06    . . . Acrylic acid; Methacrylic acid; Metal salts or
+  220/12    . . . of monohydric alcohols or phenols
+  220/14    . . . . Methyl esters {, e.g. methyl (meth)acrylate}
+  220/16    . . . . of phenols or of alcohols containing two or
+  220/18    . . . . . with acrylic or methacrylic acids
+  220/1802  . . . . . . {C2-(meth)acrylate, e.g. ethyl
+  220/1803  . . . . . . {C3-(meth)acrylate, e.g. (iso)propyl
+  220/1804  . . . . . . {C4-(meth)acrylate, e.g. butyl
+(meth)acrylate, isobutyl (meth)acrylate
+  220/1805  . . . . . . {C5-(meth)acrylate, e.g. pentyl
+  220/1806  . . . . . . {C6-(meth)acrylate, e.g. (cyclo)hexyl
+  220/1807  . . . . . . {C7-(meth)acrylate, e.g. heptyl
+  220/1808  . . . . . . {C8-(meth)acrylate, e.g. isooctyl
+  220/1809  . . . . . . {C9-(meth)acrylate}
+  220/1811  . . . . . . {C10or C11-(Meth)acrylate, e.g. isodecyl
+(meth)acrylate, isobornyl (meth)acrylate
+  220/1812  . . . . . . {C12-(meth)acrylate, e.g. lauryl
+  220/1818  . . . . . . {C13or longer chain (meth)acrylate, e.g.
+  220/20    . . . of polyhydric alcohols or phenols {, e.g. 2-
+hydroxyethyl (meth)acrylate or glycerol mono-
+  220/22    . . . Esters containing halogen
+  220/24    . . . . containing perhaloalkyl radicals
+  220/26    . . . Esters containing oxygen in addition to the
+  220/28    . . . . containing no aromatic rings in the alcohol
+  220/281   . . . . . {and containing only one oxygen, e.g.
+furfuryl (meth)acrylate or 2-methoxyethyl
+  220/282   . . . . . {and containing two or more oxygen
+  220/283   . . . . . {and containing one or more
+carboxylic moiety in the chain, e.g.
+acetoacetoxyethyl(meth)acrylate}
+  220/285   . . . . . {and containing a polyether chain in the
+  220/286   . . . . . . {and containing polyethylene oxide
+in the alcohol moiety, e.g. methoxy
+polyethylene glycol (meth)acrylate}
+  220/287   . . . . . . {and containing polypropylene oxide in
+  220/288   . . . . . . {and containing polypropylene-co-
+ethylene oxide in the alcohol moiety}
+  220/30    . . . . containing aromatic rings in the alcohol
+  220/301   . . . . . {and one oxygen in the alcohol moiety}
+  220/302   . . . . . {and two or more oxygen atoms in the
+  220/303   . . . . . {and one or more carboxylic moieties in
+  220/305   . . . . . {and containing a polyether chain in the
+  220/306   . . . . . . {and polyethylene oxide chain in the
+  220/307   . . . . . . {and polypropylene oxide chain in the
+  220/308   . . . . . . {and polyethylene-co-propylene oxide
+  220/32    . . . . containing epoxy radicals
+  220/325   . . . . . {containing glycidyl radical, e.g. glycidyl
+  220/34    . . . Esters containing nitrogen {, e.g. N,N-
+dimethylaminoethyl (meth)acrylate}
+  220/343   . . . . {in the form of urethane links}
+  220/346   . . . . . {and further oxygen}
+  220/36    . . . . containing oxygen in addition to the
+carboxy oxygen {, e.g. 2-N-morpholinoethyl
+(meth)acrylate or 2-isocyanatoethyl
+  220/365   . . . . . {containing further carboxylic moieties}
+  220/38    . . . Esters containing sulfur
+  220/382   . . . . {and containing oxygen, e.g. 2-sulfoethyl
+  220/385   . . . . {and containing nitrogen}
+  220/387   . . . . {and containing nitrogen and oxygen}
+  220/40    . . . Esters of unsaturated alcohols {, e.g. allyl
+  220/44    . . . Acrylonitrile
+  220/46    . . . . with carboxylic acids, sulfonic acids or salts
+  220/48    . . . . with nitrogen-containing monomers
+  220/50    . . . containing four or more carbon atoms
+  220/52    . . Amides or imides
+  220/54    . . . Amides {, e.g. N,N-dimethylacrylamide or N-
+  220/56    . . . . Acrylamide; Methacrylamide
+  220/58    . . . . containing oxygen in addition
+  220/585   . . . . . {and containing other heteroatoms, e.g. 2-
+acrylamido-2-methylpropane sulfonic acid
+  220/60    . . . . containing nitrogen in addition to the
+  220/603   . . . . . {and containing oxygen in addition to the
+carbonamido oxygen and nitrogen}
+  220/606   . . . . . {and containing other heteroatoms}
+  220/62    . Monocarboxylic acids having ten or more carbon
+atoms; Derivatives thereof (copolymers of drying
+  220/64    . . Acids; Metal salts or ammonium salts thereof
+  220/70    . . Nitriles; Amides; Imides
+  222/00    Copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a carboxyl radical and
+containing at least one other carboxyl radical in
+the molecule; Salts, anhydrides, esters, amides,
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  222/02    . Acids; Metal salts or ammonium salts thereof {, e.g.
+  222/04    . Anhydrides, e.g. cyclic anhydrides
+  222/06    . . Maleic anhydride
+  222/08    . . . with vinyl aromatic monomers
+  222/1006  . . {of polyhydric alcohols or polyhydric phenols}
+  222/102   . . . {of dialcohols, e.g. ethylene glycol
+di(meth)acrylate or 1,4-butanediol
+  222/1025  . . . . {of aromatic dialcohols}
+  222/103   . . . {of trialcohols, e.g. trimethylolpropane
+  222/1035  . . . . {of aromatic trialcohols}
+  222/104   . . . {of tetraalcohols, e.g. pentaerythritol
+  222/1045  . . . . {of aromatic tetraalcohols}
+  222/105   . . . {of pentaalcohols}
+  222/1055  . . . . {of aromatic pentaalcohols}
+  222/106   . . . {Esters of polycondensation macromers}
+  222/1061  . . . . {of alcohol terminated polyesters
+or polycarbonates, e.g. polyester
+  222/1063  . . . . {of alcohol terminated polyethers}
+  222/1065  . . . . {of alcohol terminated (poly)urethanes, e.g.
+  222/1067  . . . . {of alcohol terminated epoxy functional
+polymers, e.g. epoxy(meth)acrylates}
+  222/12    . . of phenols or saturated alcohols {(C08F 222/1006
+  222/14    . . . Esters having no free carboxylic acid groups {,
+e.g. dialkyl maleates or fumarates}
+  222/145   . . . . {the ester chains containing seven or more
+  222/16    . . . Esters having free carboxylic acid groups {,
+e.g. monoalkyl maleates or fumarates}
+  222/165   . . . . {the ester chains containing seven or more
+  222/18    . . . Esters containing halogen
+  222/185   . . . . {the ester chains containing seven or more
+  222/20    . . . Esters containing oxygen in addition to the
+  222/205   . . . . {the ester chains containing seven or more
+  222/22    . . . Esters containing nitrogen
+  222/225   . . . . {the ester chains containing seven or more
+  222/24    . . . Esters containing sulfur
+  222/245   . . . . {the ester chains containing seven or more
+  222/26    . . of unsaturated alcohols {(C08F 222/1006 takes
+  222/28    . . . Diallyl maleate
+  222/32    . . Alpha-cyano-acrylic acid; Esters thereof
+  222/321   . . . {Alpha-cyano-acrylic acid methyl ester}
+  222/322   . . . {Alpha-cyano-acrylic acid ethyl ester, e.g.
+  222/323   . . . {Alpha-cyano-acrylic acid propyl ester}
+  222/324   . . . {Alpha-cyano-acrylic acid butyl ester}
+  222/325   . . . {Alpha-cyano-acrylic acid pentyl ester}
+  222/326   . . . {Alpha-cyano-acrylic acid longer chain ester}
+  222/327   . . . {Alpha-cyano-acrylic acid alkoxy ester}
+  222/328   . . . {Alpha-cyano-acrylic acid with more than one
+  222/34    . . Vinylidene cyanide
+  222/385   . . . {Monomers containing two or more
+(meth)acrylamide groups, e.g. N,N'-
+  222/40    . . Imides, e.g. cyclic imides
+  222/402   . . . {Alkyl substituted imides}
+  222/404   . . . {substituted imides comprising oxygen other
+  222/406   . . . {substituted imides comprising nitrogen other
+  222/408   . . . {substituted imides comprising other
+  224/00    Copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a heterocyclic ring
+containing oxygen (cyclic esters of polyfunctional
+acids C08F 218/00; cyclic anhydrides of unsaturated
+acids C08F 220/00, C08F 222/00)
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  226/00    Copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a single or double bond
+to nitrogen or by a heterocyclic ring containing
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  226/02    . by a single or double bond to nitrogen
+  226/06    . by a heterocyclic ring containing nitrogen
+  226/08    . . N-Vinyl-pyrrolidine
+  226/10    . . N-Vinyl-pyrrolidone
+  226/12    . . N-Vinylcarbazole
+  228/00    Copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and at least
+one being terminated by a bond to sulfur or by a
+heterocyclic ring containing sulfur
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  228/02    . by a bond to sulfur
+  228/06    . by a heterocyclic ring containing sulfur
+  230/00    Copolymers of compounds having one or more
+unsaturated aliphatic radicals, each having only
+one carbon-to-carbon double bond, and containing
+phosphorus, selenium, tellurium or a metal (metal
+salts, e.g. phenolates or alcoholates, see the parent
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  230/02    . containing phosphorus
+  230/04    . containing a metal
+  230/06    . . containing boron
+  230/065   . . . {the monomer being a polymerisable borane,
+  230/08    . . containing silicon
+  230/085   . . . {the monomer being a polymerisable silane,
+e.g. (meth)acryloyloxy trialkoxy silanes or
+  230/10    . . containing germanium
+  232/00    Copolymers of cyclic compounds containing no
+unsaturated aliphatic radicals in a side chain,
+and having one or more carbon-to-carbon double
+bonds in a carbocyclic ring system
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  232/02    . having no condensed rings
+  232/04    . . having one carbon-to-carbon double bond
+  232/06    . . having two or more carbon-to-carbon double
+  232/08    . having condensed rings (coumarone-indene
+  234/00    Copolymers of cyclic compounds having no
+unsaturated aliphatic radicals in a side chain and
+having one or more carbon-to-carbon double
+bonds in a heterocyclic ring (cyclic esters of
+polyfunctional acids C08F 218/00; cyclic anhydrides
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  234/02    . in a ring containing oxygen (coumarone-indene
+  234/04    . in a ring containing sulfur
+  236/00    Copolymers of compounds having one or more
+unsaturated aliphatic radicals, at least one having
+two or more carbon-to-carbon double bonds
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  236/02    . the radical having only two carbon-to-carbon double
+  236/045   . . . {conjugated hydrocarbons other than butadiene
+  236/10    . . . with vinyl-aromatic monomers
+  236/12    . . . with nitriles
+  236/14    . . . containing elements other than carbon and
+  236/16    . . . . containing halogen
+  236/18    . . . . . containing chlorine
+  236/22    . the radical having three or more carbon-to-carbon
+  238/00    Copolymers of compounds having one or more
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  240/00    Copolymers of hydrocarbons and mineral oils, e.g.
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  242/00    Copolymers of drying oils with other monomers
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  244/00    Coumarone-indene copolymers
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  246/00    Copolymers in which the nature of only the
+monomers in minority is defined
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+Graft polymers; Polymers crosslinked with unsaturated
+  251/00    Macromolecular compounds obtained by
+polymerising monomers on to polysaccharides or
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  251/02    . on to cellulose or derivatives thereof
+  253/00    Macromolecular compounds obtained by
+polymerising monomers on to natural rubbers or
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  255/00    Macromolecular compounds obtained by
+polymerising monomers on to polymers of
+hydrocarbons as defined in group C08F 10/00
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  255/02    . on to polymers of olefins having two or three carbon
+  255/023   . . {On to modified polymers, e.g. chlorinated
+  255/026   . . {on to ethylene-vinylester copolymers}
+  255/04    . . on to ethene-propene copolymers
+{(C08F 255/023 takes precedence)}
+  255/06    . . on to ethene-propene-diene terpolymers
+{(C08F 255/023 takes precedence)}
+  255/08    . on to polymers of olefins having four or more
+  255/10    . . on to butene polymers
+21Graft polymers; Polymers crosslinked with unsaturated monomers
+  257/00    Macromolecular compounds obtained by
+polymerising monomers on to polymers of
+aromatic monomers as defined in group
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  257/02    . on to polymers of styrene or alkyl-substituted
+  259/00    Macromolecular compounds obtained by
+polymerising monomers on to polymers of
+halogen containing monomers as defined in group
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  259/02    . on to polymers containing chlorine
+  259/04    . . on to polymers of vinyl chloride
+  259/06    . . on to polymers of vinylidene chloride
+  259/08    . on to polymers containing fluorine
+  261/00    Macromolecular compounds obtained by
+polymerising monomers on to polymers of
+oxygen-containing monomers as defined in group
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  261/02    . on to polymers of unsaturated alcohols
+  261/04    . . on to polymers of vinyl alcohol
+  261/06    . on to polymers of unsaturated ethers
+  261/08    . on to polymers of unsaturated aldehydes
+  261/10    . on to polymers of unsaturated ketones
+  261/12    . on to polymers of unsaturated acetals or ketals
+  263/00    Macromolecular compounds obtained by
+polymerising monomers on to polymers of esters
+of unsaturated alcohols with saturated acids as
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  263/02    . on to polymers of vinyl esters with monocarboxylic
+  263/04    . . on to polymers of vinyl acetate
+  263/06    . on to polymers of esters with polycarboxylic acids
+  263/08    . . Polymerisation of diallyl phthalate prepolymers
+  265/00    Macromolecular compounds obtained by
+polymerising monomers on to polymers of
+unsaturated monocarboxylic acids or derivatives
+thereof as defined in group C08F 20/00
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  265/02    . on to polymers of acids, salts or anhydrides
+  265/04    . on to polymers of esters
+  265/06    . . Polymerisation of acrylate or methacrylate esters
+  265/08    . on to polymers of nitriles
+  265/10    . on to polymers of amides or imides
+  267/00    Macromolecular compounds obtained by
+polymerising monomers on to polymers of
+unsaturated polycarboxylic acids or derivatives
+thereof as defined in group C08F 22/00
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  267/02    . on to polymers of acids or salts
+  267/04    . on to polymers of anhydrides
+  267/06    . on to polymers of esters
+  267/08    . on to polymers of nitriles
+  267/10    . on to polymers of amides or imides
+  269/00    Macromolecular compounds obtained by
+polymerising monomers on to polymers of
+heterocyclic oxygen-containing monomers as
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  271/00    Macromolecular compounds obtained by
+polymerising monomers on to polymers of
+nitrogen-containing monomers as defined in group
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  271/02    . on to polymers of monomers containing
+  273/00    Macromolecular compounds obtained by
+polymerising monomers on to polymers of
+sulfur-containing monomers as defined in group
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+22Graft polymers; Polymers crosslinked with unsaturated monomers
+associated syntax rules is present in the Definitions
+  275/00    Macromolecular compounds obtained by
+polymerising monomers on to polymers of
+monomers containing phosphorus, selenium,
+tellurium or a metal as defined in group
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  277/00    Macromolecular compounds obtained by
+polymerising monomers on to polymers of
+carbocyclic or heterocyclic monomers as defined
+respectively in group C08F 32/00 or in group
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  279/00    Macromolecular compounds obtained by
+polymerising monomers on to polymers of
+monomers having two or more carbon-to-carbon
+double bonds as defined in group C08F 36/00
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  279/02    . on to polymers of conjugated dienes
+  279/04    . . Vinyl aromatic monomers and nitriles as the only
+  279/06    . . Vinyl aromatic monomers and methacrylates as
+  281/00    Macromolecular compounds obtained by
+polymerising monomers on to polymers of
+monomers having carbon-to-carbon triple bonds
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  283/00    Macromolecular compounds obtained by
+polymerising monomers on to polymers provided
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  283/002   . {on to polymers modified by after-treatment}
+  283/004   . . {modified by incorporation of silicium atoms}
+  283/006   . {on to polymers provided for in C08G 18/00
+(C08F 283/004 takes precedence)}
+  283/008   . . {on to unsaturated polymers}
+  283/01    . on to unsaturated polyesters {(C08F 283/004 takes
+  283/02    . on to polycarbonates or saturated polyesters
+{(C08F 283/004 takes precedence)}
+  283/04    . on to polycarbonamides, polyesteramides or
+polyimides {(C08F 283/004 takes precedence)}
+  283/045   . . {on to unsaturated polycarbonamides,
+  283/06    . on to polyethers, polyoxymethylenes or polyacetals
+{(C08F 283/004 takes precedence)}
+  283/065   . . {on to unsaturated polyethers, polyoxymethylenes
+  283/08    . . on to polyphenylene oxides
+  283/085   . . . {on to unsaturated polyphenylene oxides}
+  283/10    . on to polymers containing more than one epoxy
+radical per molecule {(C08F 283/004 takes
+  283/105   . . {on to unsaturated polymers containing more than
+one epoxy radical per molecule}
+  283/12    . on to polysiloxanes
+  283/122   . . {on to saturated polysiloxanes containing
+hydrolysable groups, e.g. alkoxy-, thio-,
+  283/124   . . {on to polysiloxanes having carbon-to-carbon
+  283/126   . . {on to polysiloxanes being the result of
+polycondensation and radical polymerisation
+  283/128   . . {on to reaction products of polysiloxanes having
+at least one Si-H bond and compounds having
+  283/14    . on to polymers obtained by ring-opening
+polymerisation of carbocyclic compounds having
+one or more carbon-to-carbon double bonds
+in the carbocyclic ring, i.e. polyalkeneamers
+{(C08F 283/004 takes precedence)}
+  285/00    Macromolecular compounds obtained by
+polymerising monomers on to preformed graft
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  287/00    Macromolecular compounds obtained by
+polymerising monomers on to block polymers
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  289/00    Macromolecular compounds obtained by
+polymerising monomers on to macromolecular
+compounds not provided for in groups
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+23Graft polymers; Polymers crosslinked with unsaturated monomers
+associated syntax rules is present in the Definitions
+  290/00    Macromolecular compounds obtained by
+polymerising monomers on to polymers modified
+by introduction of aliphatic unsaturated end or
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  290/02    . on to polymers modified by introduction of
+  290/04    . . Polymers provided for in subclasses C08C or
+  290/042   . . . {Polymers of hydrocarbons as defined in group
+  290/044   . . . {Polymers of aromatic monomers as defined in
+  290/046   . . . {Polymers of unsaturated carboxylic acids or
+  290/048   . . . {Polymers of monomers having two or more
+carbon-to-carbon double bonds as defined in
+  290/06    . . Polymers provided for in subclass C08G
+  290/061   . . . {Polyesters; Polycarbonates}
+  290/064   . . . {Polymers containing more than one epoxy
+  290/065   . . . {Polyamides; Polyesteramides; Polyimides}
+  290/067   . . . {Polyurethanes; Polyureas}
+  290/068   . . . {Polysiloxanes}
+  290/08    . on to polymers modified by introduction of
+  290/10    . . Polymers provided for in subclass C08B
+  290/12    . . Polymers provided for in subclasses C08C or
+  290/122   . . . {Polymers of hydrocarbons as defined in group
+  290/124   . . . {Polymers of aromatic monomers as defined in
+  290/126   . . . {Polymers of unsaturated carboxylic acids or
+  290/128   . . . {Polymers of monomers having two or more
+carbon-to-carbon double bonds as defined in
+  290/14    . . Polymers provided for in subclass C08G
+  290/141   . . . {Polyesters; Polycarbonates}
+  290/144   . . . {Polymers containing more than one epoxy
+  290/145   . . . {Polyamides; Polyesteramides; Polyimides}
+  290/147   . . . {Polyurethanes; Polyureas}
+  290/148   . . . {Polysiloxanes}
+  291/00    Macromolecular compounds obtained by
+polymerising monomers on to macromolecular
+compounds according to more than one of the
+groups C08F 251/00 - C08F 289/00
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  291/04    . on to halogen-containing macromolecules
+  291/06    . on to oxygen-containing macromolecules
+  291/08    . . on to macromolecules containing hydroxy
+  291/10    . . on to macromolecules containing epoxy radicals
+  291/12    . on to nitrogen-containing macromolecules
+  291/14    . on to sulfur-containing macromolecules
+  291/16    . on to macromolecules containing more than two
+  291/18    . on to irradiated or oxidised macromolecules
+  291/185   . . {The monomer(s) not being present during
+the irradiation or the oxidation of the
+  292/00    Macromolecular compounds obtained by
+polymerising monomers on to inorganic materials
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  293/00    Macromolecular compounds obtained by
+polymerisation on to a macromolecule having
+groups capable of inducing the formation of new
+polymer chains bound exclusively at one or both
+ends of the starting macromolecule (on to polymers
+modified by introduction of unsaturated end groups
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  293/005   . {using free radical "living" or "controlled"
+polymerisation, e.g. using a complexing agent}
+  295/00    Macromolecular compounds obtained by
+polymerisation using successively different catalyst
+types without deactivating the intermediate
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  297/00    Macromolecular compounds obtained by
+successively polymerising different monomer
+systems using a catalyst of the ionic or
+coordination type without deactivating the
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  297/02    . using a catalyst of the anionic type
+  297/023   . . {using a coupling agent}
+  297/026   . . {polymerising acrylic acid, methacrylic acid or
+  297/04    . . polymerising vinyl aromatic monomers and
+  297/042   . . . {using a polyfunctional initiator}
+  297/044   . . . {using a coupling agent}
+  297/046   . . . {polymerising vinyl aromatic monomers and
+isoprene, optionally with other conjugated
+  297/048   . . . {polymerising vinyl aromatic monomers,
+conjugated dienes and polar monomers}
+  297/06    . using a catalyst of the coordination type
+  297/08    . . polymerising mono-olefins
+  297/083   . . . {the monomers being ethylene or propylene}
+  297/086   . . . . {the block polymer contains at least three
+  299/00    Macromolecular compounds obtained by
+interreacting polymers involving only carbon-to-
+carbon unsaturated bond reactions, in the absence
+{In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+  299/02    . from unsaturated polycondensates
+  299/022   . . {from polycondensates with side or terminal
+  299/024   . . . {the unsaturation being in acrylic or
+  299/026   . . {from the reaction products of polyepoxides
+and unsaturated monocarboxylic acids, their
+anhydrides, halogenides or esters with low
+  299/028   . . . {photopolymerisable compositions}
+  299/04    . . from polyesters
+  299/0407  . . . {Processes of polymerisation}
+  299/0414  . . . . {Suspension or emulsion polymerisation}
+  299/0421  . . . . {Polymerisation initiated by wave energy or
+  299/0428  . . . . . {by ultra-violet or visible light}
+  299/0435  . . . . . . {with sensitising agents}
+  299/045   . . . . {Peroxy-compounds}
+  299/0457  . . . . {Nitrogen containing compounds}
+  299/0464  . . . . {Metals or metal containing compounds}
+  299/0471  . . . . {Other compounds}
+  299/0478  . . . {Copolymers from unsaturated polyesters and
+low molecular monomers characterised by the
+  299/0485  . . . {from polyesters with side or terminal
+  299/0492  . . . . {the unsaturation being in acrylic or
+  299/06    . . from polyurethanes
+  299/065   . . . {from polyurethanes with side or terminal
+  299/08    . . from polysiloxanes
+  301/00    Macromolecular compounds not provided for in
+groups C08F 10/00 - C08F 299/00
+ 2400/00    Characteristics for processes of polymerization
+ 2400/02    . Control or adjustment of polymerization parameters
+ 2400/04    . High pressure, i.e. P > 50 MPa, 500 bars or 7250 psi
+ 2410/00    Features related to the catalyst preparation, the
+catalyst use or to the deactivation of the catalyst
+ 2410/01    . Additive used together with the catalyst, excluding
+ 2410/02    . Anti-static agent incorporated into the catalyst
+ 2410/03    . Multinuclear procatalyst, i.e. containing two or
+more metals, being different or not
+ 2410/04    . Dual catalyst, i.e. use of two different catalysts,
+where none of the catalysts is a metallocene
+ 2410/05    . Transitioning, i.e. transition from one catalyst to
+another with use of a deactivating agent
+ 2410/06    . Catalyst characterized by its size
+ 2410/07    . Catalyst support treated by an anion, e.g. Cl-, F-,
+ 2410/08    . Presence of a deactivator
+ 2420/00    Metallocene catalysts
+ 2420/01    . Cp or analog bridged to a non-Cp X neutral donor
+ 2420/02    . Cp or analog bridged to a non-Cp X anionic donor
+ 2420/03    . Cp or analog not bridged to a non-Cp X ancillary
+ 2420/04    . Cp or analog not bridged to a non-Cp X ancillary
+ 2420/05    . Cp or analog where at least one of the carbon atoms
+of the coordinating ring is replaced by a heteroatom
+ 2420/06    . Cp analog where at least one of the carbon atoms of
+the non-coordinating part of the condensed ring is
+ 2420/07    . Heteroatom-substituted Cp, i.e. Cp or analog where
+at least one of the substituent of the Cp or analog
+ring is or contains a heteroatom
+ 2420/08    . Heteroatom bridge, i.e. Cp or analog where the
+bridging atom linking the two Cps or analogs is a
+ 2420/09    . Cyclic bridge, i.e. Cp or analog where the bridging
+unit linking the two Cps or analogs is part of a
+ 2420/10    . Heteroatom-substituted bridge, i.e. Cp or analog
+where the bridge linking the two Cps or analogs
+is substituted by at least one group that contains a
+ 2420/11    . Non-aromatic cycle-substituted bridge, i.e. Cp or
+analog where the bridge linking the two Cps or
+analogs is substituted by a non-aromatic cycle
+ 2420/12    . Long bridge, i.e. Cp or analog where the bridging
+unit linking the two Cps or analogs is composed of
+at least two atoms which are not part of a cycle and
+which are not an ethylene bridge
+ 2438/00    Living radical polymerisation
+ 2438/01    . Atom Transfer Radical Polymerization [ATRP] or
+ 2438/02    . Stable Free Radical Polymerisation [SFRP];
+Nitroxide Mediated Polymerisation [NMP] for,
+e.g. using 2,2,6,6-tetramethylpiperidine-1-oxyl
+ 2438/03    . Use of a di- or tri-thiocarbonylthio compound, e.g.
+di- or tri-thioester, di- or tri-thiocarbamate, or a
+xanthate as chain transfer agent, e.g . Reversible
+Addition Fragmentation chain Transfer [RAFT]
+or Macromolecular Design via Interchange of
+ 2500/00    Characteristics or properties of obtained
+C08F 2500/01 - C08F 2500/39 groups only are
+used in C-Sets as subsequent symbol(s) and are
+not allocated as single symbol(s). The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+ 2500/01    . High molecular weight, e.g. >800,000 Da.
+ 2500/02    . Low molecular weight, e.g. <100,000 Da.
+ 2500/03    . Narrow molecular weight distribution, i.e. Mw/Mn
+ 2500/04    . Broad molecular weight distribution, i.e. Mw/Mn >
+ 2500/05    . Bimodal or multimodal molecular weight
+ 2500/055   . Monomodal/unimodal molecular weight distribution
+ 2500/06    . Comonomer distribution, e.g. normal, reverse or
+ 2500/07    . High density, i.e. > 0.95 g/cm3
+ 2500/08    . Low density, i.e. < 0.91 g/cm3
+ 2500/09    . Long chain branches
+ 2500/10    . Short chain branches
+ 2500/11    . Melt tension or melt strength
+ 2500/12    . Melt flow index or melt flow ratio
+ 2500/13    . Environmental stress cracking resistance
+ 2500/14    . Die swell or die swell ratio or swell ratio
+ 2500/19    . Shear ratio or shear ratio index
+ 2500/20    . Activation energy or enthalpy
+ 2500/21    . Rubbery or elastomeric properties
+ 2500/24    . Polymer with special particle form or size
+ 2500/26    . Use as polymer for film forming
+ 2500/27    . Amount of comonomer in wt% or mol%
+ 2500/28    . Internal unsaturations
+ 2500/29    . Terminal unsaturations, e.g. vinyl or vinylidene
+ 2500/30    . Flexural modulus; Elasticity modulus
+ 2500/31    . Impact strength or impact resistance, e.g. Izod,
+ 2500/32    . Glass transition temperature [Tg]
+ 2500/33    . Crystallisation temperature [Tc]
+ 2500/34    . Melting point [Tm]
+ 2500/35    . Crystallinity, e.g. soluble or insoluble content as
+determined by the extraction of the polymer with a
+ 2500/36    . Terpolymer with exactly three olefinic monomers
+ 2500/37    . Elution or crystallisation fractionation, e.g. as
+ 2500/38    . Branching index [gvis], i.e. ratio of the intrinsic
+viscosity of the branched polymer to the intrinsic
+viscosity of a linear polymer of equal molecular
+ 2500/39    . Tensile storage modulus E'; Shear storage modulus
+G'; Tensile loss modulus E''; Shear loss modulus
+G''; Tensile complex modulus E*; Shear complex
+ 2800/00    Copolymer characterised by the proportions of the
+ 2800/10    . as molar percentages
+ 2800/20    . as weight or mass percentages
+ 2810/00    Chemical modification of a polymer
+ 2810/10    . including a reactive processing step which leads,
+inter alia, to morphological and/or rheological
+modifications, e.g. visbreaking
+ 2810/20    . leading to a crosslinking, either explicitly or
+ 2810/30    . leading to the formation or introduction of aliphatic
+or alicyclic unsaturated groups
+ 2810/40    . taking place solely at one end or both ends of the
+polymer backbone, i.e. not in the side or lateral
+ 2810/50    . wherein the polymer is a copolymer and the
+modification is taking place only on one or more of
+the monomers present in minority

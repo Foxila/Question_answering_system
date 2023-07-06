@@ -1,0 +1,1897 @@
+COOPERATIVE PATENT CLASSIFICATION
+MEASURING ELECTRIC VARIABLES; MEASURING MAGNETIC VARIABLES
+(indicating correct tuning of resonant circuits H03J 3/12)
+• measuring all kinds of electric or magnetic variables directly or by derivation from other electric or magnetic variables;
+• measuring all kinds of electric or magnetic properties of materials;
+• testing electric or magnetic devices, apparatus or networks, (e.g. discharge tubes, amplifiers) or measuring their
+• indicating presence or sign of current or voltage;
+• NMR, EPR or other spin-effect apparatus, not specially adapted for a particular application;
+• equipment for generating signals to be used for carrying out such tests and measurements.
+2. In this subclass, the following terms or expressions are used with the meanings indicated :
+• "measuring" includes investigating;
+• "instruments" or "measuring instruments" means electro-mechanical measuring mechanisms;
+• "arrangements for measuring" means apparatus, circuits, or methods for measuring;
+3. Attention is drawn to the Notes following the title of class G01.
+4. In this subclass, instruments or arrangements for measuring electric variables are classified in the following way:
+• Electromechanical instruments where the measured electric variables directly  effect the indication of the measured value,
+including combined effects of two or more values, are classified in groups G01R 5/00 - G01R 11/00.
+• Details common to different types of the instruments covered by groups G01R 5/00 - G01R 11/00 are classified in group
+• Arrangements involving circuitry to obtain an indication of a measured value by deriving, calculating or otherwise
+processing electric variables, e.g. by comparison with another value, are classified in groups G01R 17/00 - G01R 29/00.
+• Details common to different types of arrangements covered by groups G01R 17/00 - G01R 29/00 are classified in group
+5. In this subclass, group G01R 17/00 takes precedence over groups G01R 19/00 - G01R 31/00.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Details of instruments or arrangements of the
+types included in groups G01R 5/00 - G01R 13/00
+and G01R 31/00 (constructional details particular to
+{electromechanical} arrangements for measuring the
+electric consumption G01R 11/02)
+    1/02    . General constructional details
+    1/025   . . {concerning dedicated user interfaces, e.g. GUI,
+or dedicated keyboards (G01R 31/31912 takes
+    1/04    . . Housings; Supporting members; Arrangements of
+    1/0408  . . . {Test fixtures or contact fields; Connectors
+or connecting adaptors; Test clips; Test
+sockets (G01R 1/067 takes precedence; mass
+production testing systems G01R 31/59; testing
+of connections G01R 31/66; for testing printed
+    1/0416  . . . . {Connectors, terminals (G01R 1/0425
+and G01R 1/0433 take precedence; with
+measurement function for battery poles
+    1/0425  . . . . {Test clips, e.g. for IC's}
+    1/0433  . . . . {Sockets for IC's or transistors}
+    1/0441  . . . . . {Details}
+    1/045   . . . . . . {Sockets or component fixtures for RF
+    1/0458  . . . . . . {related to environmental aspects, e.g.
+    1/0466  . . . . . . {concerning contact pieces or
+mechanical details, e.g. hinges or cams;
+    1/0475  . . . . . {for TAB IC's}
+    1/0483  . . . . . {Sockets for un-leaded IC's having matrix
+type contact fields, e.g. BGA or PGA
+devices; Sockets for unpackaged, naked
+chips (for IC's with connecting points
+around the edges only G01R 1/0433)}
+    1/0491  . . . . {for testing integrated circuits on wafers, e.g.
+    1/06    . . Measuring leads; Measuring probes
+(G01R 19/145, G01R 19/165 take precedence)
+    1/067   . . . Measuring probes
+    1/06705 . . . . {Apparatus for holding or moving single
+probes (for moving multiple probe heads or
+    1/06711 . . . . {Probe needles; Cantilever beams; "Bump"
+contacts; Replaceable probe pins}
+    1/06716 . . . . . {Elastic}
+    1/06722 . . . . . . {Spring-loaded}
+    1/06727 . . . . . . {Cantilever beams}
+This group is not complete pending
+a reorganisation; see also other
+    1/06733 . . . . . {Geometry aspects (G01R 1/06727 takes
+    1/06738 . . . . . . {related to tip portion}
+    1/06744 . . . . . . {Microprobes, i.e. having dimensions as
+    1/0675  . . . . . . {Needle-like}
+    1/06755 . . . . . {Material aspects}
+    1/06761 . . . . . . {related to layers}
+    1/06766 . . . . {Input circuits therefor}
+    1/06772 . . . . {High frequency probes}
+    1/06777 . . . . {High voltage probes}
+    1/06783 . . . . {containing liquids}
+    1/06788 . . . . {Hand-held or hand-manipulated probes,
+e.g. for oscilloscopes or for portable test
+instruments (end pieces terminating in a
+    1/06794 . . . . {Devices for sensing when probes are
+in contact, or in position to contact, with
+    1/07    . . . . Non contact-making probes
+    1/071   . . . . . {containing electro-optic elements}
+    1/072   . . . . . {containing ionised gas}
+    1/073   . . . . Multiple probes
+    1/07307 . . . . . {with individual probe elements, e.g.
+needles, cantilever beams or bump
+contacts, fixed in relation to each other,
+e.g. bed of nails fixture or probe card}
+    1/07314 . . . . . . {the body of the probe being
+perpendicular to test object, e.g. bed of
+nails or probe with bump contacts on a
+rigid support (on an elastic support, e.g.
+    1/07321 . . . . . . . {the probes being of different
+    1/07328 . . . . . . . {for testing printed circuit boards}
+    1/07335 . . . . . . . . {for double-sided contacting or
+for testing boards with surface-
+    1/07342 . . . . . . {the body of the probe being at an angle
+other than perpendicular to test object,
+    1/0735  . . . . . . {arranged on a flexible frame or film}
+    1/07357 . . . . . . {with flexible bodies, e.g. buckling
+    1/07364 . . . . . . {with provisions for altering position,
+number or connection of probe tips;
+Adapting to differences in pitch}
+    1/07371 . . . . . . . {using an intermediate card or back
+card with apertures through which the
+    1/07378 . . . . . . . {using an intermediate adapter, e.g.
+space transformers (G01R 1/07371
+    1/07385 . . . . . . . {using switching of signals between
+probe tips and test bed, i.e. the
+standard contact matrix which in its
+    1/07392 . . . . . {manipulating each probe element or tip
+    1/08    . . Pointers; Scales; Scale illumination
+    1/10    . . Arrangements of bearings
+    1/12    . . . of strip or wire bearings
+    1/14    . . Braking arrangements; Damping arrangements
+    1/18    . . Screening arrangements against electric or
+magnetic fields, e.g. against earth's field
+    1/20    . Modifications of basic electric elements for use
+in electric measuring instruments; Structural
+combinations of such elements with such
+    1/203   . . {Resistors used for electric measuring, e.g.
+decade resistors standards, resistors for
+comparators, series resistors, shunts (resistors
+in general H01C; microwave or radiowave
+terminations H01P 1/26; coupling devices
+    1/206   . . {Switches for connection of measuring
+instruments or electric motors to measuring loads
+    1/22    . . Tong testers acting as secondary windings of
+    1/24    . . Transmission-line, e.g. waveguide, measuring
+    1/26    . . . with linear movement of probe
+    1/28    . Provision in measuring instruments for reference
+values, e.g. standard voltage, standard waveform
+    1/30    . Structural combination of electric measuring
+instruments with basic electronic circuits, e.g. with
+    1/36    . Overload-protection arrangements or circuits for
+    1/38    . Arrangements for altering the indicating
+characteristic, e.g. by modifying the air gap
+    1/40    . Modifications of instruments to indicate the
+maximum or the minimum value reached in a time
+interval, e.g. by maximum indicator pointer
+    1/42    . . thermally operated
+    1/44    . Modifications of instruments for temperature
+    3/00    Apparatus or processes specially adapted for
+the manufacture {or maintenance} of measuring
+instruments {, e.g. of probe tips}
+    5/00    Instruments for converting a single current or a
+single voltage into a mechanical displacement
+    5/02    . Moving-coil instruments
+    5/04    . . with magnet external to the coil
+    5/06    . . with core magnet
+    5/08    . . specially adapted for wide angle deflection; with
+eccentrically-pivoted moving coil
+    5/10    . String galvanometers
+    5/12    . Loop galvanometers
+    5/14    . Moving-iron instruments
+    5/16    . . with pivoting magnet
+    5/18    . . with pivoting soft iron, e.g. needle galvanometer
+    5/20    . Induction instruments, e.g. Ferraris instruments
+    5/22    . Thermoelectric instruments
+    5/24    . . operated by elongation of a strip or wire or by
+    5/26    . . operated by deformation of a bimetallic element
+    5/28    . Electrostatic instruments
+    5/30    . . Leaf electrometers
+    5/32    . . Wire electrometers; Needle electrometers
+    5/34    . . Quadrant electrometers
+    7/00    Instruments capable of converting two or more
+currents or voltages into a single mechanical
+displacement (G01R 9/00 takes precedence)
+    7/02    . for forming a sum or a difference
+    7/04    . for forming a quotient (for measuring resistance
+    7/06    . . moving-iron type
+This group covers all crossed-coil meters, i.e.
+logometers having a magnetic rotor
+    7/08    . . moving-coil type, e.g. crossed-coil type
+    7/10    . . . having more than two moving coils
+    7/12    . for forming product
+    7/14    . . moving-iron type
+    7/16    . . having both fixed and moving coils, i.e.
+    7/18    . . . with iron core magnetically coupling fixed and
+    9/00    Instruments employing mechanical resonance
+    9/02    . Vibration galvanometers, e.g. for measuring current
+    9/04    . using vibrating reeds, e.g. for measuring frequency
+    9/06    . . magnetically driven
+    9/08    . . piezo-electrically driven
+   11/00    Electromechanical arrangements for measuring
+time integral of electric power or current, e.g. of
+consumption (monitoring electric consumption of
+electrically-propelled vehicles B60L 3/00)
+1. Groups G01R 11/48 - G01R 11/56 take precedence
+over groups G01R 11/30 - G01R 11/46.
+{This Note corresponds to IPC Note (1) relating to
+2. For the definition of "arrangement" see Note (2)
+   11/02    . Constructional details
+   11/04    . . Housings; Supporting racks; Arrangements of
+   11/06    . . Magnetic circuits of induction meters
+   11/067   . . . Coils therefor
+   11/073   . . . Armatures therefor
+   11/09    . . . . Disc armatures
+   11/10    . . Braking magnets; Damping arrangements
+   11/12    . . Arrangements of bearings
+   11/14    . . . with magnetic relief
+   11/16    . . Adaptations of counters to electricity meters
+   11/17    . . Compensating for errors; Adjusting or regulating
+   11/18    . . . Compensating for variations in ambient
+   11/185   . . . . Temperature compensation
+   11/19    . . . Compensating for errors caused by disturbing
+torque, e.g. rotating-field errors of polyphase
+   11/20    . . . Compensating for phase errors in induction
+   11/21    . . . Compensating for errors caused by damping
+effects of the current, e.g. adjustment in the
+   11/22    . . . Adjusting torque, e.g. adjusting starting torque,
+adjusting of polyphase meters for obtaining
+   11/23    . . . Compensating for errors caused by friction, e.g.
+adjustment in the light load range
+   11/24    . . Arrangements for avoiding or indicating
+   11/25    . . Arrangements for indicating or signalling faults
+   11/30    . Dynamo-electric motor meters
+   11/32    . . Watt-hour meters
+   11/34    . . Ampere-hour meters
+   11/36    . Induction meters, e.g. Ferraris meters
+   11/38    . . for single-phase operation
+   11/40    . . for polyphase operation
+   11/42    . . . Circuitry therefor
+   11/46    . Electrically-operated clockwork meters; Oscillatory
+   11/465   . . {Oscillatory meters}
+   11/48    . Meters specially adapted for measuring real or
+reactive components; Meters specially adapted for
+   11/50    . . for measuring real component
+   11/52    . . for measuring reactive component
+   11/54    . . for measuring simultaneously at least two of
+the following three variables: real component,
+reactive component, apparent energy
+   11/56    . Special tariff meters
+   11/57    . . Multi-rate meters (G01R 11/63 takes precedence)
+   11/58    . . . Tariff-switching devices therefor
+   11/60    . . Subtraction meters; Meters measuring maximum
+   11/63    . . Over-consumption meters, e.g. measuring
+consumption while a predetermined level of
+   11/64    . . Maximum meters, e.g. tariff for a period is based
+on maximum demand within that period
+   13/00    Arrangements for displaying electric variables or
+   13/02    . for displaying measured electric variables in digital
+   13/0209  . . {in numerical form}
+   13/0218  . . {Circuits therefor}
+   13/0227  . . . {Controlling the intensity or colour of the
+   13/0236  . . . {for presentation of more than one variable}
+   13/0245  . . . {for inserting reference markers}
+   13/0254  . . . {for triggering, synchronisation}
+   13/0263  . . . . {for non-recurrent functions, e.g. transients}
+   13/0272  . . . {for sampling}
+   13/0281  . . {using electro-optic elements}
+   13/029   . . {Software therefor}
+   13/04    . for producing permanent records
+   13/06    . . Modifications for recording transient
+disturbances, e.g. by starting or accelerating a
+   13/08    . . Electromechanical recording systems using a
+mechanical direct-writing method
+   13/10    . . . with intermittent recording by representing
+the variable by the length of a stroke or by the
+   13/12    . . Chemical recording, e.g. clydonographs
+   13/14    . . Recording on a light-sensitive material
+   13/16    . . Recording on a magnetic medium
+   13/18    . . . using boundary displacement
+   13/20    . Cathode-ray oscilloscopes
+   13/202   . . {Non-electric appliances, e.g. scales, masks
+(luminescent screens for CRT provided with
+permanent marks or references H01J 29/34;
+optical or photographic arrangements combined
+   13/204   . . {Using means for generating permanent
+registrations, e.g. photographs (optical or
+photographic arrangements combined with CRT
+   13/206   . . {Arrangements for obtaining a 3- dimensional
+representation (stereoscopic T.V. H04N 13/00)}
+   13/208   . . {Arrangements for measuring with C.R.
+oscilloscopes, e.g. vectorscope}
+   13/22    . . Circuits therefor
+   13/225   . . . {particularly adapted for storage oscilloscopes}
+   13/24    . . . Time-base deflection circuits
+   13/245   . . . . {for generating more than one, not
+overlapping time-intervals on the screen}
+   13/26    . . . Circuits for controlling the intensity of the
+electron beam {or the colour of the display}
+   13/28    . . . Circuits for simultaneous or sequential
+presentation of more than one variable
+   13/30    . . . Circuits for inserting reference markers, e.g. for
+timing, for calibrating, for frequency marking
+   13/305   . . . . {for time marking}
+   13/32    . . . Circuits for displaying non-recurrent functions
+such as transients; Circuits for triggering;
+Circuits for synchronisation; Circuits for time-
+   13/325   . . . . {for displaying non-recurrent functions such
+   13/34    . . . Circuits for representing a single waveform by
+sampling, e.g. for very high frequencies
+   13/342   . . . . {for displaying periodic H.F. signals
+(G01R 13/345 takes precedence)}
+   13/345   . . . . {for displaying sampled signals by using
+digital processors by intermediate A.D. and
+D.A. convertors (control circuits for CRT
+   13/347   . . . . {using electro-optic elements}
+   13/36    . using length of glow discharge, e.g. glowlight
+   13/38    . using the steady or oscillatory displacement of a
+light beam by an electromechanical measuring
+   13/40    . using modulation of a light beam otherwise than
+by mechanical displacement, e.g. by Kerr effect
+{(visual indication of correct tuning H03J 3/14)}
+   13/401   . . {for continuous analogue, or simulated analogue,
+   13/402   . . . {using active, i.e. light-emitting display
+devices, e.g. electroluminescent display
+(G01R 13/36 and G01R 13/42 take
+   13/403   . . . {using passive display devices, e.g. liquid
+crystal display or Kerr effect display devices}
+   13/404   . . {for discontinuous display, i.e. display of discrete
+values (analogue/digital conversion H03M 1/00)}
+   13/405   . . . {using a plurality of active, i.e. light emitting,
+e.g. electro-luminescent elements, i.e. bar
+   13/406   . . . . {representing measured value by a dot or a
+single line (G01R 13/408 takes precedence)}
+   13/407   . . . {using a plurality of passive display elements,
+e.g. liquid crystal or Kerr-effect display
+elements (G01R 13/408 takes precedence)}
+   13/408   . . . {Two or three dimensional representation of
+   13/42    . Instruments using length of spark discharge, e.g.
+by measuring maximum separation of electrodes to
+   15/00    Details of measuring arrangements of the types
+provided for in groups G01R 17/00 - G01R 29/00,
+G01R 33/00 - G01R 33/26 or G01R 35/00
+   15/002   . {Switches for altering the measuring range or for
+   15/005   . {Circuits for altering the indicating characteristic,
+   15/007   . . {by zero-suppression}
+   15/06    . . having reactive components, e.g. capacitive
+   15/08    . Circuits for altering the measuring range
+   15/09    . . Autoranging circuits
+   15/12    . Circuits for multi-testers {, i.e. multimeters}, e.g.
+for measuring voltage, current, or impedance at will
+   15/125   . . {for digital multimeters}
+   15/14    . Adaptations providing voltage or current isolation,
+e.g. for high-voltage or high-current networks
+   15/142   . . {Arrangements for simultaneous measurements of
+several parameters employing techniques covered
+by groups G01R 15/14 - G01R 15/26}
+   15/144   . . {Measuring arrangements for voltage not covered
+by other subgroups of G01R 15/14}
+   15/146   . . {Measuring arrangements for current not
+covered by other subgroups of G01R 15/14, e.g.
+using current dividers, shunts, or measuring a
+voltage drop (if no voltage isolation is involved
+   15/148   . . . {involving the measuring of a magnetic field
+or electric field (G01R 15/18, G01R 15/20,
+G01R 15/24, G01R 15/26 take precedence)}
+   15/16    . . using capacitive devices
+   15/165   . . . {measuring electrostatic potential, e.g. with
+electrostatic voltmeters or electrometers,
+when the design of the sensor is essential
+(electrometers with passively moving
+electrodes G01R 5/28; measuring electrostatic
+fields G01R 29/12; measuring charge
+G01R 29/24; measuring in circuits with high
+internal resistance G01R 19/0023)}
+   15/18    . . using inductive devices, e.g. transformers
+   15/181   . . . {using coils without a magnetic core, e.g.
+   15/183   . . . {using transformers with a magnetic core}
+   15/185   . . . . {with compensation or feedback windings or
+interacting coils, e.g. 0-flux sensors (using
+galvano-magnetic field sensors G01R 15/20;
+conversion of DC into AC using transductors
+   15/186   . . . {using current transformers with a core
+consisting of two or more parts, e.g. clamp-
+on type (G01R 15/142 - G01R 15/16 take
+precedence; tong testers G01R 1/22)}
+   15/188   . . . {comprising rotatable parts, e.g. moving coils
+(galvanometers G01R 5/02, G01R 5/14)}
+   15/20    . . using galvano-magnetic devices, e.g. Hall-
+effect devices {, i.e. measuring a magnetic
+field via the interaction between a current and
+a magnetic field, e.g. magneto resistive or Hall
+   15/202   . . . {using Hall-effect devices (Hall elements in
+arrangements for measuring electrical power
+   15/205   . . . {using magneto-resistance devices, e.g. field
+   15/207   . . . {Constructional details independent of the type
+   15/22    . . using light-emitting devices, e.g. LED,
+optocouplers {(G01R 31/31901 takes
+   15/24    . . using light-modulating devices
+   15/241   . . . {using electro-optical modulators, e.g. electro-
+absorption (probes containing electro-optic
+   15/242   . . . . {based on the Pockels effect, i.e. linear
+   15/243   . . . . {based on the Kerr effect, i.e. quadratic
+   15/245   . . . {using magneto-optical modulators, e.g. based
+on the Faraday or Cotton-Mouton effect}
+   15/246   . . . . {based on the Faraday, i.e. linear magneto-
+   15/247   . . . {Details of the circuitry or
+construction of devices covered by
+   15/248   . . . {using a constant light source and electro-
+mechanically driven deflectors}
+   15/26    . . using modulation of waves other than light, e.g.
+   17/00    Measuring arrangements involving comparison
+with a reference value, e.g. bridge
+   17/02    . Arrangements in which the value to be measured is
+automatically compared with a reference value
+   17/04    . . in which the reference value is continuously or
+periodically swept over the range of values to be
+   17/06    . . Automatic balancing arrangements
+   17/08    . . . in which a force or torque representing the
+measured value is balanced by a force or torque
+representing the reference value
+   17/10    . AC or DC measuring bridges
+   17/105   . . {for measuring impedance or resistance}
+   17/12    . . using comparison of currents, e.g. bridges with
+   17/14    . . with indication of measured value by calibrated
+null indicator, e.g. percent bridge, tolerance
+bridge (G01R 17/12, G01R 17/16 take
+   17/16    . . with discharge tubes or semiconductor devices
+in one or more arms of the bridge, e.g. voltmeter
+   17/18    . . with more than four branches
+   17/20    . AC or DC potentiometric measuring arrangements
+   17/22    . . with indication of measured value by calibrated
+   19/00    Arrangements for measuring currents or
+voltages or for indicating presence or sign thereof
+(G01R 5/00 takes precedence; for measuring
+bioelectric currents or voltages A61B 5/24)
+Within groups G01R 19/02 - G01R 19/32,
+group G01R 19/28 takes precedence. Groups
+G01R 19/18 - G01R 19/257 take precedence
+over groups G01R 19/02 - G01R 19/17 and
+   19/0007  . {Frequency selective voltage or current level
+measuring (measuring frequency G01R 23/00;
+testing attenuation in line transmission systems
+H04B 3/48; monitoring testing in transmission
+   19/0015  . . {separating AC and DC}
+   19/0023  . {Measuring currents or voltages from sources with
+high internal resistance by means of measuring
+circuits with high input impedance, e.g. OP-
+amplifiers (electrostatic instruments G01R 5/28;
+measuring electrostatic potential G01R 15/165;
+measuring electrostatic fields G01R 29/12;
+   19/003   . {Measuring mean values of current or voltage
+   19/0038  . {Circuits for comparing several input signals and
+for indicating the result of this comparison, e.g.
+equal, different, greater, smaller (comparing pulses
+or pulse trains according to amplitude)}
+   19/0046  . {characterised by a specific application or detail not
+covered by any other subgroup of G01R 19/00}
+   19/0053  . . {Noise discrimination; Analog sampling;
+Measuring transients (measuring characteristics
+of individual pulses G01R 29/02; digital
+sampling G01R 19/2509; measuring noise figure
+   19/0061  . . {Measuring currents of particle-beams, currents
+from electron multipliers, photocurrents, ion
+currents; Measuring in plasmas}
+   19/0069  . . {measuring voltage or current standards}
+   19/0076  . . {using thermionic valves}
+   19/0084  . {measuring voltage only (all subgroups of
+   19/0092  . {measuring current only (all subgroups of
+   19/02    . Measuring effective values, i.e. root-mean-square
+   19/03    . . using thermoconverters
+   19/04    . Measuring peak values {or amplitude or envelope}
+   19/06    . Measuring real component; Measuring reactive
+   19/08    . Measuring current density
+   19/10    . Measuring sum, difference or ratio
+   19/12    . Measuring rate of change
+   19/14    . Indicating direction of current; Indicating polarity of
+   19/145   . Indicating the presence of current or voltage
+   19/15    . . Indicating the presence of current
+   19/155   . . Indicating the presence of voltage
+   19/165   . Indicating that current or voltage is either above or
+below a predetermined value or within or outside a
+   19/16504 . . {characterised by the components employed}
+   19/16509 . . . {using electromagnetic relays, e.g. reed relay
+(magnetically driven reeds G01R 9/06)}
+   19/16514 . . . {using electronic tubes}
+   19/16519 . . . {using FET's}
+   19/16523 . . . {using diodes, e.g. Zener diodes}
+   19/16528 . . {using digital techniques or performing arithmetic
+operations (using digital techniques to measure a
+voltage or a current, see G01R 19/25)}
+   19/16533 . . {characterised by the application}
+   19/16538 . . . {in AC or DC supplies (G01R 19/16519 and
+G01R 19/16528 take precedence)}
+   19/16542 . . . . {for batteries (charge condition monitoring
+   19/16547 . . . . {voltage or current in AC supplies (switching
+for protection H02H; circuits for emergency
+   19/16552 . . . . {in I.C. power supplies}
+   19/16557 . . . {Logic probes, i.e. circuits indicating logic
+state (high, low, O); (modifications of
+electronic switches or gates for indicating state
+   19/16561 . . . {in hand-held circuit testers (see also
+   19/16566 . . {Circuits and arrangements for comparing
+voltage or current with one or several thresholds
+and for indicating the result not covered by
+subgroups G01R 19/16504, G01R 19/16528,
+   19/16571 . . . {comparing AC or DC current with one
+threshold, e.g. load current, over-current,
+surge current or fault current (G01R 19/16514,
+G01R 19/16533, G01R 19/1659 take
+precedence; measuring currents by using
+elements sensitive to the magnetic field
+generated G01R 15/14; measuring earth
+resistance G01R 27/18; testing for leakage
+or short circuits in electrical apparatus
+   19/16576 . . . {comparing DC or AC voltage with one
+threshold (G01R 19/16514, G01R 19/16519,
+G01R 19/16528, G01R 19/16533 and
+   19/1658  . . . . {AC voltage or recurrent signals}
+   19/16585 . . . {for individual pulses, ripple or noise and other
+applications where timing or duration is of
+importance (G01R 19/16519, G01R 19/16538
+and G01R 19/16595 take precedence; for pulse
+duration and rise time, see G01R 29/02 and
+   19/1659  . . . {to indicate that the value is within or
+outside a predetermined range of values
+(window) (G01R 19/16514, G01R 19/16519,
+G01R 19/16528 and G01R 19/16533 take
+   19/16595 . . . . {with multi level indication (G01R 19/16519
+and G01R 19/16533 take precedence)}
+   19/17    . . giving an indication of the number of times this
+occurs {, i.e. multi-channel analysers}
+   19/175   . Indicating the instants of passage of current or
+voltage through a given value, e.g. passage through
+   19/18    . using conversion of DC into AC, e.g. with choppers
+   19/20    . . using transductors {, i.e. a magnetic core
+transducer the saturation of which is cyclically
+reversed by an AC source on the secondary side}
+   19/22    . using conversion of ac into dc
+   19/225   . . {by means of thermocouples or other heat
+ 2019/24    . . {using thermocouples}
+   19/25    . using digital measurement techniques
+   19/2503  . . {for measuring voltage only, e.g. digital volt
+meters (DVM's) (G01R 19/2506 - G01R 19/257
+   19/2506  . . {Arrangements for conditioning or analysing
+measured signals, e.g. for indicating peak
+values (G01R 19/003 takes precedence); Details
+concerning sampling, digitizing or waveform
+capturing (displaying waveforms G01R 13/00;
+   19/2509  . . . {Details concerning sampling, digitizing or
+   19/2513  . . {Arrangements for monitoring electric power
+systems, e.g. power lines or loads; Logging}
+   19/2516  . . {Modular arrangements for computer based
+systems; using personal computers (PC's), e.g.
+   19/252   . . using analogue/digital converters of the type with
+conversion of voltage or current into frequency
+and measuring of this frequency
+   19/255   . . using analogue/digital converters of the type
+with counting of pulses during a period of time
+proportional to voltage or current, delivered by a
+pulse generator with fixed frequency
+   19/257   . . using analogue/digital converters of the type with
+comparison of different reference values with the
+value of voltage or current, e.g. using step-by-step
+   19/28    . adapted for measuring in circuits having distributed
+   19/30    . Measuring the maximum or the minimum value
+of current or voltage reached in a time interval
+   19/32    . Compensating for temperature change
+   21/00    Arrangements for measuring electric power or
+power factor (G01R 7/12 takes precedence)
+   21/001   . {Measuring real or reactive component; Measuring
+apparent energy (G01R 21/01, G01R 21/02,
+G01R 21/08, G01R 21/10 and G01R 21/127 take
+   21/002   . . {Measuring real component}
+   21/003   . . {Measuring reactive component}
+   21/005   . . {Measuring apparent power}
+   21/006   . {Measuring power factor}
+   21/007   . {Adapted for special tariff measuring (G01R 21/01,
+G01R 21/02, G01R 21/08, G01R 21/10,
+G01R 21/1278 and G01R 21/1333 take
+   21/008   . . {Measuring maximum demand}
+   21/01    . in circuits having distributed constants
+(G01R 21/04, G01R 21/07, G01R 21/09,
+   21/02    . by thermal methods {, e.g. calorimetric}
+   21/04    . . in circuits having distributed constants
+   21/06    . by measuring current and voltage
+(G01R 21/08 - G01R 21/133 take precedence)
+   21/07    . . in circuits having distributed constants
+   21/08    . by using galvanomagnetic-effect devices, e.g. Hall-
+   21/09    . . in circuits having distributed constants
+   21/10    . by using square-law characteristics of circuit
+elements, e.g. diodes, to measure power absorbed
+by loads of known impedance (G01R 21/02 takes
+   21/12    . . in circuits having distributed constants
+   21/127   . by using pulse modulation (G01R 21/133 takes
+   21/1271  . . {Measuring real or reactive component,
+   21/1273  . . . {Measuring real component}
+   21/1275  . . . {Measuring reactive component}
+   21/1276  . . . {Measuring apparent energy}
+   21/1278  . . {Adapted for special tariff measuring}
+   21/133   . by using digital technique
+   21/1331  . . {Measuring real or reactive component,
+   21/1333  . . {adapted for special tariff measuring}
+   21/1335  . . . {Tariff switching circuits}
+   21/1336  . . . {Measuring overconsumption}
+   21/1338  . . . {Measuring maximum demand}
+   21/14    . Compensating for temperature change
+   22/00    Arrangements for measuring time integral of
+electric power or current, e.g. electricity meters
+An arrangement for measuring time integral of
+electric power is classified in group G01R 21/00
+if the essential characteristic is the measuring of
+   22/02    . by electrolytic methods
+   22/04    . by calorimetric methods
+   22/06    . by electronic methods
+   22/061   . . {Details of electronic electricity meters}
+   22/063   . . . {related to remote communication}
+   22/065   . . . {related to mechanical aspects}
+   22/066   . . . {Arrangements for avoiding or indicating
+   22/068   . . . {Arrangements for indicating or signaling
+   22/08    . . using analogue techniques
+   22/10    . . using digital techniques
+   23/00    Arrangements for measuring frequencies;
+Arrangements for analysing frequency spectra
+   23/005   . {Circuits for comparing several input signals and
+for indicating the result of this comparison, e.g.
+equal, different, greater, smaller (comparing phase
+or frequency of 2 mutually independent oscillations
+   23/02    . Arrangements for measuring frequency, e.g. pulse
+repetition rate; Arrangements for measuring period
+   23/04    . . adapted for measuring in circuits having
+   23/06    . . by converting frequency into an amplitude of
+   23/07    . . . using response of circuits tuned on resonance,
+   23/08    . . . using response of circuits tuned off resonance
+   23/09    . . . using analogue integrators, e.g. capacitors
+establishing a mean value by balance of
+input signals and defined discharge signals or
+   23/10    . . by converting frequency into a train of pulses,
+which are then counted {, i.e. converting the
+   23/12    . . by converting frequency into phase shift
+   23/14    . . by heterodyning; by beat-frequency comparison
+   23/145   . . . {by heterodyning or by beat-frequency
+comparison with the harmonic of an oscillator}
+   23/15    . . Indicating that frequency of pulses is either
+above or below a predetermined value or within
+or outside a predetermined range of values, by
+making use of non-linear or digital elements
+{(indicating that pulse width is above or below a
+   23/155   . . . {giving an indication of the number of times
+this occurs, i.e. multi-channel analysers (for
+   23/16    . Spectrum analysis; Fourier analysis
+   23/163   . . adapted for measuring in circuits having
+   23/167   . . . with digital filters
+   23/17    . . with optical {or acoustical} auxiliary devices
+   23/173   . . Wobbulating devices similar to swept panoramic
+   23/175   . . by delay means, e.g. tapped delay lines
+   23/177   . . Analysis of very low frequencies
+   23/18    . . with provision for recording frequency spectrum
+   23/20    . . Measurement of non-linear distortion
+   25/00    Arrangements for measuring phase angle between
+a voltage and a current or between voltages or
+   25/005   . {Circuits for comparing several input signals and
+for indicating the result of this comparison, e.g.
+equal, different, greater, smaller, or for passing one
+of the input signals as output signal}
+   25/02    . in circuits having distributed constants
+   25/04    . involving adjustment of a phase shifter to produce a
+predetermined phase difference, e.g. zero difference
+   25/06    . employing quotient instrument
+   25/08    . by counting of standard pulses
+   27/00    Arrangements for measuring resistance, reactance,
+impedance, or electric characteristics derived
+   27/02    . Measuring real or complex resistance, reactance,
+impedance, or other two-pole characteristics derived
+therefrom, e.g. time constant (by measuring phase
+Groups G01R 27/02 - G01R 27/22 cover
+variables that directly or indirectly can be
+measured over two poles of a component or
+a Thevenin two-pole equivalent. Subgroup
+G01R 27/26 also covers other techniques,
+e.g. using electro magnetic waves or network
+   27/025   . . {Measuring very high resistances, e.g. isolation
+resistances, i.e. megohm-meters}
+   27/04    . . in circuits having distributed constants {, e.g.
+having very long conductors or involving high
+   27/06    . . . Measuring reflection coefficients; Measuring
+   27/08    . . Measuring resistance by measuring both voltage
+   27/10    . . . using two-coil or crossed-coil instruments
+   27/12    . . . . using hand generators, e.g. meggers
+   27/14    . . Measuring resistance by measuring current
+or voltage obtained from a reference source
+(G01R 27/16, G01R 27/20, G01R 27/22 take
+   27/16    . . Measuring impedance of element or network
+through which a current is passing from another
+   27/18    . . . Measuring resistance to earth {, i.e. line to
+   27/20    . . Measuring earth resistance; Measuring contact
+resistance, {e.g.} of earth connections, e.g. plates
+   27/205   . . . {Measuring contact resistance of connections,
+   27/22    . . Measuring resistance of fluids
+   27/26    . . Measuring inductance or capacitance; Measuring
+quality factor, e.g. by using the resonance
+method; Measuring loss factor; Measuring
+dielectric constants {; Measuring impedance or
+   27/2605  . . . {Measuring capacitance (capacitive sensors
+   27/2611  . . . {Measuring inductance}
+   27/2617  . . . {Measuring dielectric properties, e.g. constants
+(testing dielectric strength G01R 31/12;
+detecting insulation faults G01R 31/52;
+G01R 27/2688 takes precedence)}
+   27/2623  . . . . {Measuring-systems or electronic circuits
+(G01R 27/2635, G01R 27/2682 take
+   27/2629  . . . . . {Bridge circuits (bridges for measuring
+   27/2635  . . . . {Sample holders, electrodes or excitation
+arrangements, e.g. sensors or measuring
+   27/2641  . . . . . {of plate type, i.e. with the sample
+   27/2647  . . . . . {of coaxial or concentric type, e.g. with
+   27/2652  . . . . . . {open-ended type, e.g. abutting against
+   27/2658  . . . . . {Cavities, resonators, free space
+arrangements, reflexion or interference
+takes precedence; optical methods
+   27/2664  . . . . . . {Transmission line, wave guide (closed
+or open-ended) or strip - or microstrip
+   27/267   . . . . . {Coils or antennae arrangements, e.g. coils
+surrounding the sample or transmitter/
+   27/2682  . . . . {using optical methods or electron beams}
+   27/2688  . . . {Measuring quality factor or dielectric loss,
+e.g. loss angle, or power factor (power factor
+related to power measurements G01R 21/006;
+testing capacitors G01R 31/016)}
+   27/2694  . . . . {Measuring dielectric loss, e.g. loss angle,
+   27/28    . Measuring attenuation, gain, phase shift or derived
+characteristics of electric four pole networks, i.e.
+two-port networks; Measuring transient response (in
+line transmission systems H04B 3/46)
+   27/30    . . with provision for recording characteristics, e.g.
+   27/32    . . in circuits having distributed constants {, e.g.
+having very long conductors or involving high
+   29/00    Arrangements for measuring or indicating
+electric quantities not covered by groups
+   29/02    . Measuring characteristics of individual pulses, e.g.
+deviation from pulse flatness, rise time or duration
+   29/023   . . {Measuring pulse width}
+   29/027   . . Indicating that a pulse characteristic is either
+above or below a predetermined value or within
+or beyond a predetermined range of values
+   29/0273  . . . {the pulse characteristic being duration, i.e.
+width (indicating that frequency of pulses is
+above or below a certain limit)}
+   29/0276  . . . {the pulse characteristic being rise time
+(measuring rate of change G01R 19/12)}
+   29/033   . . . giving an indication of the number of times
+this occurs {, i.e. multi-channel analysers (the
+characteristic being frequency)}
+   29/04    . Measuring form factor, i.e. quotient of root-mean-
+square value and arithmetic mean of instantaneous
+value; Measuring peak factor, i.e. quotient of
+maximum value and root-mean-square value
+   29/06    . Measuring depth of modulation
+   29/08    . Measuring electromagnetic field characteristics
+   29/0807  . . {characterised by the application}
+   29/0814  . . . {Field measurements related to measuring
+influence on or from apparatus, components
+or humans (EMC, EMI and similar testing
+in general G01R 31/001), e.g. in ESD, EMI,
+EMC, EMP testing, measuring radiation
+leakage; detecting presence of micro- or
+radiowave emitters; dosimetry; testing
+shielding; measurements related to lightning}
+   29/0821  . . . . {rooms and test sites therefor, e.g. anechoic
+chambers, open field sites or TEM cells (for
+   29/0828  . . . . . {TEM-cells}
+   29/0835  . . . . {Testing shielding, e.g. for efficiency}
+   29/0842  . . . . {Measurements related to lightning, e.g.
+measuring electric disturbances, warning
+   29/085   . . . . {for detecting presence or location of electric
+lines or cables (fault detection G01R 31/50;
+   29/0857  . . . . {Dosimetry, i.e. measuring the time integral
+of radiation intensity; Level warning devices
+for personal safety use (nuclear radiation
+   29/0864  . . {characterised by constructional or functional
+   29/0871  . . . {Complete apparatus or systems; circuits,
+e.g. receivers or amplifiers (G01R 29/0878,
+G01R 29/0892 take precedence; dosimeters,
+   29/0878  . . . {Sensors; antennas; probes; detectors (wave
+guide measuring sections G01R 1/24)}
+   29/0885  . . . . {using optical probes, e.g. electro-optical,
+luminiscent, glow discharge, or optical
+   29/0892  . . . {Details related to signal analysis or treatment;
+presenting results, e.g. displays; measuring
+specific signal features other than field
+strength, e.g. polarisation, field modes, phase,
+   29/10    . . Radiation diagrams of antennas
+   29/105   . . . {using anechoic chambers; Chambers or
+open field sites used therefor (test sites used
+for measuring on other objects than aerials
+G01R 29/0828; wave absorbing devices
+   29/12    . Measuring electrostatic fields {or voltage-potential}
+   29/14    . . Measuring field distribution
+   29/16    . Measuring asymmetry of polyphase networks
+   29/18    . Indicating phase sequence; Indicating synchronism
+   29/20    . Measuring number of turns; Measuring
+transformation ratio or coupling factor of windings
+   29/22    . Measuring piezo-electric properties
+   29/24    . Arrangements for measuring quantities of charge
+   29/26    . Measuring noise figure; Measuring signal-to-noise
+   31/00    Arrangements for testing electric properties;
+Arrangements for locating electric faults;
+Arrangements for electrical testing characterised
+by what is being tested not provided for
+elsewhere ({measuring superconductive properties
+G01R 33/1238;} testing or measuring semiconductors
+or solid state devices during manufacture
+{H01L 22/00}; testing line transmission systems
+Groups G01R 31/08, G01R 31/12, G01R 31/327,
+G01R 31/24, G01R 31/26, G01R 31/34,
+G01R 31/36, G01R 31/40, G01R 31/44 take
+precedence over group G01R 31/50.
+   31/001   . {Measuring interference from external sources
+to, or emission from, the device under test, e.g.
+EMC, EMI, EMP or ESD testing (measuring
+electromagnetic fields G01R 29/08; circuits for
+generating HV pulses in dielectric strength testing
+   31/002   . . {where the device under test is an electronic
+   31/003   . {Environmental or reliability tests (of individual
+semiconductors G01R 31/2642; of PCB's
+G01R 31/2817; of IC's G01R 31/2855; of other
+   31/005   . {Testing of electric installations on transport
+   31/006   . . {on road vehicles, e.g. automobiles or trucks
+(testing of ignition installations peculiar to
+internal combustion engines F02P 17/00)}
+   31/007   . . . {using microprocessors or computers}
+   31/008   . . {on air- or spacecraft, railway rolling stock or
+   31/01    . Subjecting similar articles in turn to test, e.g. "go/
+no-go" tests in mass production; Testing objects
+at points as they pass through a testing station
+(testing of cables continuously passing the testing
+apparatus G01R 31/59; testing dielectric strength or
+   31/013   . . {Testing passive components (testing relays
+G01R 31/3278; testing electrical windings, e.g.
+   31/016   . . . {Testing of capacitors (measuring capacitance
+   31/08    . Locating faults in cables, transmission lines, or
+   31/081   . . {according to type of conductors}
+   31/083   . . . {in cables, e.g. underground}
+   31/085   . . . {in power transmission or distribution lines,
+   31/086   . . . {in power transmission or distribution
+networks, i.e. with interconnected conductors}
+   31/088   . . {Aspects of digital computing}
+   31/10    . . by increasing destruction at fault, e.g. burning-
+in by using a pulse generator operating a special
+   31/11    . . using pulse reflection methods
+   31/12    . Testing dielectric strength or breakdown voltage
+{; Testing or monitoring effectiveness or level of
+insulation, e.g. of a cable or of an apparatus, for
+example using partial discharge measurements;
+Electrostatic testing (G01R 31/08, G01R 31/327 and
+G01R 31/72 take precedence; measuring in plasmas
+G01R 19/0061; measuring dielectric constants
+G01R 27/2617; ESD, EMC or EMP testing of
+   31/1209  . . {using acoustic measurements (acoustic
+   31/1218  . . {using optical methods; using charged particle,
+e.g. electron, beams or X-rays}
+   31/1227  . . {of components, parts or materials
+(G01R 31/1209, G01R 31/1218, G01R 31/18 take
+precedence; circuits therefor G01R 31/14; testing
+vessels of electrodes G01R 31/16)}
+   31/1236  . . . {of surge arresters (monitoring overvoltage
+diverters or arresters H02H 3/048)}
+   31/1245  . . . {of line insulators or spacers, e.g. ceramic
+overhead line cap insulators; of insulators in
+   31/1254  . . . {of gas-insulated power appliances or vacuum
+gaps (testing switches G01R 31/327; detecting
+electrical or mechanical defects in encased
+   31/1263  . . . {of solid or fluid materials, e.g. insulation
+films, bulk material; of semiconductors or LV
+electronic components or parts; of cable, line or
+   31/1272  . . . . {of cable, line or wire insulation, e.g. using
+partial discharge measurements (locating
+   31/1281  . . . . {of liquids or gases}
+   31/129   . . . . {of components or parts made of
+semiconducting materials; of LV
+components or parts (G01R 31/18 takes
+   31/14    . . Circuits therefor {, e.g. for generating
+test voltages, sensing circuits
+(G01R 31/1209 - G01R 31/1227 take precedence;
+for testing switches G01R 31/327)}
+   31/16    . . Construction of testing vessels; Electrodes
+   31/18    . . Subjecting similar articles in turn to test, e.g. go/
+   31/20    . . Preparation of articles or specimens to facilitate
+   31/24    . Testing of discharge tubes (during manufacture
+   31/245   . . {Testing of gas discharge tubes}
+   31/25    . . Testing of vacuum tubes
+   31/252   . . . {Testing of electron multipliers, e.g. photo-
+   31/255   . . . {Testing of transit-time tubes, e.g. klystrons,
+   31/257   . . . {Testing of beam-tubes, e.g. cathode-ray
+tubes, image pick-up tubes (of channel image
+intensifier arrays G01R 31/252; of transit time
+   31/26    . Testing of individual semiconductor devices (testing
+or measuring during manufacture or treatment
+{H01L 22/00}; testing of photovoltaic devices
+   31/2601  . . {Apparatus or methods therefor (G01R 31/2607,
+   31/2603  . . . {for curve tracing of semiconductor
+characteristics, e.g. on oscilloscope}
+   31/2607  . . {Circuits therefor (G01R 31/2642 takes
+   31/2608  . . . {for testing bipolar transistors}
+   31/261   . . . . {for measuring break-down voltage or punch
+   31/2612  . . . . {for measuring frequency response
+characteristics, e.g. cut-off frequency
+   31/2614  . . . . {for measuring gain factor thereof}
+   31/2616  . . . . {for measuring noise (measuring noise factor
+   31/2617  . . . . {for measuring switching properties thereof}
+   31/2619  . . . . {for measuring thermal properties thereof}
+   31/2621  . . . {for testing field effect transistors, i.e. FET's}
+   31/2623  . . . . {for measuring break-down voltage therefor}
+   31/2625  . . . . {for measuring gain factor thereof}
+   31/2626  . . . . {for measuring noise (measuring noise factor
+   31/2628  . . . . {for measuring thermal properties thereof}
+   31/263   . . . {for testing thyristors}
+   31/2632  . . . {for testing diodes}
+   31/2633  . . . . {for measuring switching properties thereof}
+   31/2635  . . . . {Testing light-emitting diodes, laser diodes
+   31/2637  . . . {for testing other individual devices
+(G01R 31/2608 - G01R 31/2632, G01R 31/27
+   31/2639  . . . . {for testing field-effect devices, e.g. of
+MOS-capacitors (G01R 31/2621 takes
+   31/2641  . . . {for testing charge coupled devices}
+   31/2642  . . {Testing semiconductor operation lifetime or
+reliability, e.g. by accelerated life tests}
+   31/2644  . . {Adaptations of individual semiconductor devices
+to facilitate the testing thereof}
+   31/2646  . . {for measuring noise (G01R 31/2616,
+   31/2648  . . {Characterising semiconductor materials
+(testing of materials or semi-finished products
+G01R 31/2831; testing during manufacture
+   31/265   . . Contactless testing {(of circuits, also in wafer-
+   31/2653  . . . {using electron beams}
+   31/2656  . . . {using non-ionising electromagnetic radiation,
+   31/27    . . Testing of devices without physical removal
+from the circuit of which they form part, e.g.
+compensating for effects surrounding elements
+{(testing printed circuit boards G01R 31/2801)}
+   31/275   . . . {for testing individual semiconductor
+components within integrated circuits}
+   31/28    . Testing of electronic circuits, e.g. by signal tracer
+({EMC, EMP or similar testing of electronic
+circuits G01R 31/002;} testing for short-circuits,
+discontinuities, leakage or incorrect line connection
+G01R 31/50; checking computers {or computer
+components} G06F 11/00; checking static stores for
+correct operation G11C 29/00 {; testing receivers or
+transmitters of transmission systems H04B 17/00})
+   31/2801  . . {Testing of printed circuits, backplanes,
+motherboards, hybrid circuits or carriers for
+multichip packages [MCP] (G01R 31/318508
+takes precedence; contactless testing
+G01R 31/302; testing contacts or connections
+   31/2803  . . . {by means of functional tests, e.g. logic-circuit-
+simulation or algorithms therefor (testing
+electronic digital computers G06F 11/00)}
+   31/2805  . . . {Bare printed circuit boards}
+   31/2806  . . . {Apparatus therefor, e.g. test stations,
+drivers, analysers, conveyors (G01R 31/2805,
+   31/2808  . . . . {Holding, conveying or contacting
+devices, e.g. test adapters, edge connectors,
+extender boards (probe, multiprobe, probe
+manipulator or probe fixture G01R 1/067)}
+   31/281   . . . {Specific types of tests or tests for a specific
+type of fault, e.g. thermal mapping, shorts
+testing (G01R 31/2818 takes precedence)}
+   31/2812  . . . . {Checking for open circuits or shorts,
+e.g. solder bridges; Testing conductivity,
+resistivity or impedance (of connections
+   31/2813  . . . . {Checking the presence, location, orientation
+or value, e.g. resistance, of components or
+conductors (orientation of the DUT with
+respect to the test fixture G01R 1/06705,
+   31/2815  . . . . {Functional tests, e.g. boundary scans, using
+the normal I/O contacts (contacting devices
+G01R 31/2808; testing digital circuits
+   31/2817  . . . . {Environmental-, stress-, or burn-in tests
+(of IC's G01R 31/2855; of individual
+semiconductors G01R 31/2642; of other
+   31/2818  . . . {using test structures on, or modifications
+of, the card under test, made for the purpose
+of testing, e.g. additional components or
+connectors (G01R 31/2805 takes precedence;
+printed circuits having, e.g. symbols, test
+patterns or visualisation means H05K 1/0266)}
+   31/282   . . {Testing of electronic circuits specially adapted
+for particular applications not provided for
+elsewhere (G01R 31/2801 and G01R 31/2851
+References listed below indicate CPC places
+which could also be of interest when carrying
+out a search in respect of the subject matter
+covered by the preceding group:
+• testing of individual LEDs G01R 31/2635
+• testing of displays and display drivers, e.g.
+• testing of ADCs or DACs H03M 1/1071
+   31/2822  . . . {of microwave or radiofrequency circuits (of
+attenuation, gain, e.g. using network analyzers
+   31/2824  . . . . {testing of oscillators or resonators}
+   31/2825  . . . {in household appliances or professional audio/
+video equipment (testing LAN's H04L 43/50;
+testing TV systems H04N 17/00; testing
+   31/2827  . . . {Testing of electronic protection circuits
+(testing switches G01R 31/327; checking alarm
+systems G08B 29/00; self test of summation
+current transformers H02H 3/335)}
+   31/2829  . . . {Testing of circuits in sensor or actuator
+systems (testing of apparatus for measuring
+electric or magnetic variables G01R 35/00;
+testing of indicating or recording apparatus
+G01D; in airbag systems B60R 21/0173;
+checking gas analysers G01N 33/007;
+monitoring or fail-safe circuits for
+   31/2831  . . . {Testing of materials or semi-finished products,
+e.g. semiconductor wafers or substrates
+(G01R 31/318511 takes precedence; testing
+during manufacture H01L 22/00)}
+   31/2832  . . {Specific tests of electronic circuits not provided
+for elsewhere (G01R 31/2801, G01R 31/316 take
+   31/2834  . . . {Automated test systems [ATE]; using
+microprocessors or computers (G01R 31/317
+takes precedence; ATE for detection of
+defective computer hardware G06F 11/2736)}
+   31/2836  . . . {Fault-finding or characterising
+(G01R 31/2822 - G01R 31/2831 take
+   31/2837  . . . . {Characterising or performance testing, e.g.
+of frequency response (transient response
+   31/2839  . . . . {using signal generators, power supplies
+or circuit analysers (G01R 31/2879 takes
+precedence; multimeters G01R 15/12,
+   31/2841  . . . . . {Signal generators}
+   31/2843  . . . . {In-circuit-testing}
+   31/2844  . . . . {using test interfaces, e.g. adapters, test
+boxes, switches, PIN drivers (G01R 31/2889
+   31/2846  . . . . {using hard- or software simulation or
+using knowledge-based systems, e.g. expert
+systems, artificial intelligence or interactive
+   31/2848  . . . . . {using simulation}
+   31/2849  . . . . {Environmental or reliability testing, e.g.
+burn-in or validation tests (of individual
+semiconductors G01R 31/2642; of printed
+circuits boards G01R 31/2817; of IC's
+   31/2851  . . {Testing of integrated circuits [IC] (G01R 31/317
+takes precedence; testing individual devices
+G01R 31/26; testing printed circuits
+   31/2853  . . . {Electrical testing of internal connections
+or -isolation, e.g. latch-up or chip-to-lead
+connections (G01R 31/31717 takes precedence;
+test of chip-to-PCB or lead-to-PCB connections
+   31/2855  . . . {Environmental, reliability or burn-in testing}
+   31/2856  . . . . {Internal circuit aspects, e.g. built-in test
+features; Test chips; Measuring material
+aspects, e.g. electro migration [EM]}
+   31/2858  . . . . . {Measuring of material aspects, e.g.
+electro-migration [EM], hot carrier
+   31/286   . . . . {External aspects, e.g. related to chambers,
+contacting devices or handlers}
+   31/2862  . . . . . {Chambers or ovens; Tanks}
+   31/2863  . . . . . {Contacting devices, e.g. sockets, burn-
+in boards or mounting fixtures (in general
+   31/2865  . . . . . {Holding devices, e.g. chucks; Handlers
+or transport devices (having contacts
+   31/2867  . . . . . . {Handlers or transport devices, e.g.
+   31/2868  . . . . . {Complete testing stations; systems;
+   31/287   . . . . . . {Procedures; Software aspects}
+   31/2872  . . . . {related to electrical or environmental
+aspects, e.g. temperature, humidity,
+   31/2874  . . . . . {related to temperature}
+   31/2875  . . . . . . {related to heating}
+   31/2877  . . . . . . {related to cooling}
+   31/2879  . . . . . {related to electrical aspects, e.g. to
+voltage or current supply or stimuli or to
+   31/2881  . . . . . {related to environmental aspects other
+than temperature, e.g. humidity or
+   31/2882  . . . {Testing timing characteristics}
+   31/2884  . . . {using dedicated test connectors, test
+elements or test circuits on the IC under test
+(G01R 31/2855 takes precedence)}
+   31/2886  . . . {Features relating to contacting the IC under
+test, e.g. probe heads; chucks (G01R 31/2865
+takes precedence, test connections, e.g. test
+sockets, or probes per se, G01R 1/04 or
+   31/2887  . . . . {involving moving the probe head or the IC
+under test; docking stations (moving single
+probes G01R 1/06705; moving individual
+probes in multiple probes G01R 1/07392)}
+   31/2889  . . . . {Interfaces, e.g. between probe and tester
+(G01R 31/31905 and G01R 1/07364 take
+   31/2891  . . . . {related to sensing or controlling of force,
+position, temperature (G01R 31/2874
+takes precedence; sensing of force G01L;
+sensing of position G01B, G01D; sensing
+of temperature G01K; controlling in general
+   31/2893  . . . {Handling, conveying or loading, e.g. belts,
+boats, vacuum fingers (G01R 31/2867 takes
+precedence; handling semiconductor devices
+or wafers during manufacture or treatment
+   31/2894  . . . {Aspects of quality control [QC]
+(G01R 31/31718 takes precedence; program
+   31/2896  . . . {Testing of IC packages; Test features related
+to IC packages (containers per se H01L 23/02,
+encapsulations per se H01L 23/28)}
+   31/2898  . . . {Sample preparation, e.g. removing
+encapsulation, etching (sample preparation in
+   31/30    . . Marginal testing, e.g. by varying supply voltage
+(testing computers during standby operation or
+   31/3004  . . . {Current or voltage test}
+   31/3008  . . . . {Quiescent current [IDDQ] test or leakage
+   31/3012  . . . . {Built-In-Current test [BIC]}
+   31/3016  . . . {Delay or race condition test, e.g. race hazard
+   31/302   . . Contactless testing {(G01R 31/66 takes
+   31/3025  . . . {Wireless interface with the DUT}
+   31/303   . . . of integrated circuits
+(G01R 31/305 - G01R 31/315 take precedence)
+   31/304   . . . of printed or hybrid circuits
+(G01R 31/305 - G01R 31/315 take precedence)
+   31/305   . . . using electron beams {(investigating or
+analysing materials by measuring photoelectric
+   31/306   . . . . of printed or hybrid circuits
+   31/307   . . . . of integrated circuits
+   31/308   . . . using non-ionising electromagnetic radiation,
+e.g. optical radiation {(investigating or
+analysing materials by the use of optical means
+G01N 21/00; image analysis G06T 7/00)}
+   31/309   . . . . of printed or hybrid circuits {or circuit
+   31/311   . . . . of integrated circuits {(G01R 31/31728 takes
+   31/312   . . . by capacitive methods
+   31/315   . . . by inductive methods
+   31/316   . . Testing of analog circuits {(G01R 31/2851 takes
+   31/3161  . . . Marginal testing
+   31/3163  . . . Functional testing
+   31/3167  . . Testing of combined analog and digital circuits
+   31/317   . . Testing of digital circuits
+The following subgroups of G01R 31/317
+are not complete due to an ongoing
+reorganisation : G01R 31/31702,
+G01R 31/31728, G01R 31/31901. See also
+G01R 31/317 and its other subgroups
+   31/31701 . . . {Arrangements for setting the Unit Under Test
+   31/31702 . . . {Testing digital circuits including elements
+other than semiconductor transistors, e.g.
+biochips, nanofabrics, mems, chips with
+   31/31703 . . . {Comparison aspects, e.g. signature
+analysis, comparators (concerning scan
+tests G01R 31/318566; concerning testers
+   31/31704 . . . {Design for test; Design verification
+(concerning scan tests G01R 31/318583;
+computer-aided design G06F 30/00)}
+   31/31705 . . . {Debugging aspects, e.g. using test circuits
+for debugging, using dedicated debugging test
+circuits (generation of test sequences therefor
+G01R 31/31835, using scan test therefor
+   31/31706 . . . {involving differential digital signals, e.g.
+testing differential signal circuits, using
+differential signals for testing}
+   31/31707 . . . {Test strategies (methods for generation of test
+   31/31708 . . . {Analysis of signal quality (G01R 31/31901
+takes precedence; measuring frequencies
+or analysing frequency spectra per se
+G01R 23/00; measuring non-linear distortion
+   31/31709 . . . . {Jitter measurements; Jitter generators
+(measuring jitter, noise figure or signal-to-
+noise ratio per se G01R 29/26; analysis of
+   31/3171  . . . . {BER [Bit Error Rate] test}
+   31/31711 . . . . {Evaluation methods, e.g. shmoo plots}
+   31/31712 . . . {Input or output aspects}
+   31/31713 . . . . {Input or output interfaces for test,
+e.g. test pins, buffers (for scan test
+   31/31715 . . . . {Testing of input or output circuits; test
+of circuitry between the I/C pins and the
+functional core, e.g. testing of input or output
+   31/31716 . . . . {Testing of input or output with loop-back}
+   31/31717 . . . . {Interconnect testing (by scan techniques see
+   31/31718 . . . {Logistic aspects, e.g. binning, selection,
+sorting of devices under test, tester/handler
+interaction networks, Test management
+software, e.g. software for test statistics or test
+evaluation, yield analysis (mechanical aspects
+   31/31719 . . . {Security aspects, e.g. preventing unauthorised
+   31/3172  . . . {Optimisation aspects, e.g. using functional pin
+   31/31721 . . . {Power aspects, e.g. power supplies for test
+circuits, power saving during test (for scan test
+   31/31722 . . . {Addressing or selecting of test units, e.g.
+transmission protocols for selecting test units
+(for scan test G01R 31/318558)}
+   31/31723 . . . {Hardware for routing the test signal within
+the device under test to the circuits to be
+tested, e.g. multiplexer for multiple core
+testing, accessing internal nodes (routing the
+test signal to or from the device under test
+   31/31724 . . . {Test controller, e.g. BIST state machine (for
+   31/31725 . . . {Timing aspects, e.g. clock distribution,
+skew, propagation delay (for tester hardware
+   31/31726 . . . . {Synchronization, e.g. of test, clock or strobe
+signals; Signals in different clock domains;
+Generation of Vernier signals; Comparison
+   31/31727 . . . {Clock circuits aspects, e.g. test clock circuit
+details, timing aspects for signal generation,
+circuits for testing clocks (G01R 31/31725
+takes precedence; concerning scan test
+G01R 31/318552, for tester hardware
+   31/31728 . . . {Optical aspects, e.g. opto-electronics used for
+testing, optical signal transmission for testing
+electronic circuits, electro-optic components
+to be tested in combination with electronic
+circuits, measuring light emission of digital
+circuits (probes having electro-optic elements
+G01R 1/071; electro-optic sampling for
+oscilloscopes G01R 13/347; contactless testing
+of individual semiconductor devices by optical
+   31/3173  . . . Marginal testing
+   31/3177  . . . Testing of logic operation, e.g. by logic
+   31/3181  . . . Functional testing (G01R 31/3177 takes
+   31/31813 . . . . {Test pattern generators}
+   31/31816 . . . . {Soft error testing; Soft error rate evaluation;
+   31/3183  . . . . Generation of test inputs, e.g. test vectors,
+   31/318307 . . . . . {computer-aided, e.g. automatic test
+program generator [ATPG], program
+translations, test program debugging}
+   31/318314 . . . . . {Tools, e.g. program interfaces, test
+suite, test bench, simulation hardware,
+test compiler, test program languages
+(simulation software G01R 31/318357;
+   31/318321 . . . . . {for combinational circuits}
+   31/318328 . . . . . {for delay tests}
+   31/318335 . . . . . {Test pattern compression or
+   31/318342 . . . . . {by preliminary fault modelling, e.g.
+   31/31835 . . . . . . {Analysis of test coverage or failure
+   31/318357 . . . . . . {Simulation (computer simulation of
+digital circuits G06F 30/3308)}
+   31/318364 . . . . . {as a result of hardware simulation, e.g.
+in an HDL environment (computer-aided
+simulation of circuits G06F 30/3308)}
+   31/318371 . . . . . {Methodologies therefor, e.g. algorithms,
+   31/318378 . . . . . {of patterns for devices arranged in a
+   31/318385 . . . . . {Random or pseudo-random test pattern}
+   31/318392 . . . . . {for sequential circuits (G01R 31/318544
+   31/3185  . . . . Reconfiguring for testing, e.g. LSSD,
+   31/318502 . . . . . {Test of Combinational circuits}
+   31/318505 . . . . . {Test of Modular systems, e.g. Wafers,
+   31/318508 . . . . . . {Board Level Test, e.g. P1500 Standard
+(features related to boundary scan
+   31/318511 . . . . . . {Wafer Test}
+   31/318513 . . . . . . {Test of Multi-Chip-Moduls}
+   31/318516 . . . . . {Test of programmable logic devices
+   31/318519 . . . . . . {Test of field programmable gate arrays
+   31/318522 . . . . . {Test of Sequential circuits (test of
+microprocessors G06F 11/2236, test of
+   31/318525 . . . . . . {Test of flip-flops or latches}
+   31/318527 . . . . . . {Test of counters}
+   31/31853 . . . . . . {Test of registers}
+   31/318533 . . . . . {using scanning techniques, e.g. LSSD,
+   31/318536 . . . . . . {Scan chain arrangements, e.g.
+connections, test bus, analog signals}
+   31/318538 . . . . . . . {Topological or mechanical aspects}
+   31/318541 . . . . . . {Scan latches or cell details}
+   31/318544 . . . . . . {Scanning methods, algorithms
+and patterns (G01R 31/3183 takes
+   31/318547 . . . . . . . {Data generators or compressors}
+   31/31855 . . . . . . . {Interconnection testing, e.g.
+   31/318552 . . . . . . {Clock circuits details}
+   31/318555 . . . . . . {Control logic}
+   31/318558 . . . . . . {Addressing or selecting of subparts of
+   31/318561 . . . . . . . {Identification of the subpart}
+   31/318563 . . . . . . . {Multiple simultaneous testing of
+   31/318566 . . . . . . {Comparators; Diagnosing the device
+   31/318569 . . . . . . {Error indication, logging circuits}
+   31/318572 . . . . . . {Input/Output interfaces}
+   31/318575 . . . . . . {Power distribution; Power saving}
+   31/318577 . . . . . . {AC testing, e.g. current testing, burn-
+   31/31858 . . . . . . . {Delay testing}
+   31/318583 . . . . . . {Design for test}
+   31/318586 . . . . . . . {with partial scan or non-scannable
+   31/318588 . . . . . . . {Security aspects}
+   31/318591 . . . . . . . {Tools}
+   31/318594 . . . . . . {Timing aspects (clock circuits
+   31/318597 . . . . . . {JTAG or boundary scan test of memory
+devices (other scan testing of memories
+   31/3187  . . . . Built-in tests
+   31/319   . . . . Tester hardware, i.e. output processing
+   31/31901 . . . . . {Analysis of tester Performance; Tester
+   31/31903 . . . . . {tester configuration}
+   31/31905 . . . . . . {Interface with the device under test
+[DUT], e.g. arrangements between the
+test head and the DUT, mechanical
+   31/31907 . . . . . . {Modular tester, e.g. controlling and
+coordinating instruments in a bus based
+   31/31908 . . . . . . {Tester set-up, e.g. configuring the
+tester to the device under test [DUT],
+   31/3191  . . . . . . . {Calibration}
+   31/31912 . . . . . . {Tester/user interface}
+   31/31914 . . . . . . {Portable Testers}
+   31/31915 . . . . . . {In-circuit Testers}
+   31/31917 . . . . . {Stimuli generation or application of test
+patterns to the device under test [DUT]}
+   31/31919 . . . . . . {Storing and outputting test patterns
+(G01R 31/31924 takes precedence;
+arithmetic and random test patterns
+   31/31921 . . . . . . . {using compression techniques, e.g.
+   31/31922 . . . . . . {Timing generation or clock distribution
+(G01R 31/3191 takes precedence)}
+   31/31924 . . . . . . {Voltage or current aspects, e.g. driver,
+   31/31926 . . . . . . {Routing signals to or from the device
+under test [DUT], e.g. switch matrix, pin
+   31/31928 . . . . . . {Formatter (driver, receiver details
+   31/3193  . . . . . with comparison between actual response
+and known fault free response {(receiver
+   31/31932 . . . . . . {Comparators}
+   31/31935 . . . . . . {Storing data, e.g. failure memory}
+   31/31937 . . . . . . {Timing aspects, e.g. measuring
+propagation delay (G01R 31/3191
+and G01R 31/31922 take precedence;
+   31/327   . Testing of circuit interrupters, switches or circuit-
+   31/3271  . . {of high voltage or medium voltage devices
+(G01R 31/333 takes precedence)}
+   31/3272  . . . {Apparatus, systems or circuits therefor
+(G01R 31/3275 takes precedence)}
+   31/3274  . . . . {Details related to measuring, e.g. sensing,
+displaying or computing; Measuring of
+variables related to the contact pieces, e.g.
+wear, position or resistance (measuring
+contact resistance G01R 27/205)}
+   31/3275  . . . {Fault detection or status indication}
+   31/3277  . . {of low voltage devices, e.g. domestic or
+industrial devices, such as motor protections,
+   31/3278  . . . {of relays, solenoids or reed switches
+(measuring contact resistance G01R 27/205;
+high voltage magnetic switches G01R 31/3271,
+G01R 31/333; testing electric windings
+G01R 31/72; monitoring of fail safe circuits
+   31/333   . . Testing of the switching capacity of high-voltage
+circuit-breakers {; Testing of breaking capacity or
+related variables, e.g. post arc current or transient
+   31/3333  . . . {Apparatus, systems or circuits therefor}
+   31/3336  . . . . {Synthetic testing, i.e. with separate current
+and voltage generators simulating distance
+   31/34    . Testing dynamo-electric machines
+   31/346   . . {Testing of armature or field windings}
+   31/36    . Arrangements for testing, measuring or monitoring
+the electrical condition of accumulators or electric
+batteries, e.g. capacity or state of charge [SoC]
+{This group covers arrangements for measuring,
+testing or indicating electrical conditions or
+variables of accumulators or electric batteries.
+Arrangements for monitoring, measuring, testing
+or indicating condition structurally associated
+with the battery are covered by H01M, e.g. by
+   31/364   . . Battery terminal connectors with integrated
+   31/3644  . . {Constructional arrangements}
+   31/3646  . . . {for indicating electrical conditions or
+variables, e.g. visual or audible indicators}
+   31/3647  . . . {for determining the ability of a battery to
+perform a critical function, e.g. cranking}
+   31/3648  . . . {comprising digital calculation means, e.g. for
+   31/367   . . Software therefor, e.g. for battery testing using
+   31/371   . . with remote indication, e.g. on external chargers
+   31/374   . . with means for correcting the measurement for
+   31/378   . . specially adapted for the type of battery or
+   31/379   . . . for lead-acid batteries
+   31/38    . . . {Primary cells, i.e. not rechargeable}
+   31/382   . . Arrangements for monitoring battery or
+accumulator variables, e.g. SoC
+   31/3828  . . . using current integration
+   31/3832  . . . . without measurement of battery voltage
+   31/3833  . . . . . {using analog integrators, e.g. coulomb-
+   31/3835  . . . involving only voltage measurements
+   31/3842  . . . combining voltage and current measurements
+   31/385   . . Arrangements for measuring battery or
+accumulator variables (for monitoring
+   31/386   . . . {using test-loads}
+   31/3865  . . . {related to manufacture, e.g. testing after
+   31/387   . . . Determining ampere-hour charge capacity or
+   31/388   . . . . involving voltage measurements
+   31/389   . . Measuring internal impedance, internal
+conductance or related variables
+   31/392   . . Determining battery ageing or deterioration, e.g.
+   31/396   . . Acquisition or processing of data for testing or
+for monitoring individual cells or groups of cells
+   31/40    . Testing power supplies (testing photovoltaic devices
+   31/42    . . AC power supplies
+   31/50    . Testing of electric apparatus, lines, cables or
+components for short-circuits, continuity, leakage
+current or incorrect line connections (testing of
+   31/52    . . Testing for short-circuits, leakage current or
+   31/54    . . Testing for continuity
+   31/55    . . Testing for incorrect line connections
+   31/56    . . Testing of electric apparatus (testing of
+transformers G01R 31/62; testing of connections
+   31/58    . . Testing of lines, cables or conductors (testing of
+   31/59    . . . while the cable continuously passes the testing
+apparatus, e.g. during manufacture
+   31/60    . . . Identification of wires in a multicore cable
+   31/62    . . Testing of transformers
+   31/64    . . Testing of capacitors
+   31/66    . . Testing of connections, e.g. of plugs or non-
+disconnectable joints (testing for incorrect line
+   31/67    . . . Testing the correctness of wire connections in
+   31/68    . . . Testing of releasable connections, e.g. of
+terminals mounted on a printed circuit board
+   31/69    . . . . of terminals at the end of a cable or a wire
+harness; of plugs; of sockets, e.g. wall
+sockets or power sockets in appliances
+   31/70    . . . Testing of connections between components
+and printed circuit boards (G01R 31/68 takes
+   31/71    . . . . Testing of solder joints
+   31/72    . . Testing of electric windings (testing of
+   31/74    . . Testing of fuses
+   33/00    Arrangements or instruments for measuring
+   33/0005  . {Geometrical arrangement of magnetic sensor
+elements; Apparatus combining different magnetic
+sensor types (G01R 33/0206 takes precedence)}
+   33/0011  . {comprising means, e.g. flux concentrators, flux
+guides, for guiding or concentrating the magnetic
+flux, e.g. to the magnetic sensor}
+   33/0017  . {Means for compensating offset magnetic fields
+or the magnetic flux to be measured; Means for
+generating calibration magnetic fields}
+   33/0023  . {Electronic aspects, e.g. circuits for stimulation,
+evaluation, control; Treating the measured signals;
+calibration (G01R 33/0017 takes precedence)}
+   33/0029  . . {Treating the measured signals, e.g. removing
+   33/0035  . . {Calibration of single magnetic sensors, e.g.
+   33/0041  . . {using feed-back or modulation techniques}
+   33/0047  . {Housings or packaging of magnetic sensors
+(packaging of semiconductor devices H01L 23/00);
+   33/0052  . {Manufacturing aspects; Manufacturing of single
+devices, i.e. of semiconductor magnetic sensor chips
+(devices based on galvano-magnetic effect or the
+   33/0058  . {using bistable elements, e.g. Reed switches}
+   33/0064  . {comprising means for performing simulations, e.g.
+of the magnetic variable to be measured}
+   33/007   . {Environmental aspects, e.g. temperature variations,
+radiation, stray fields (G01R 33/025 takes
+   33/0076  . . {Protection, e.g. with housings against stray
+   33/0082  . . {Compensation, e.g. compensating for
+   33/0088  . {use of bistable or switching devices, e.g. Reed-
+   33/02    . Measuring direction or magnitude of magnetic
+fields or magnetic flux (G01R 33/20 takes
+   33/0206  . . {Three-component magnetometers}
+   33/0213  . . {using deviation of charged particles by the
+   33/022   . . Measuring gradient
+   33/025   . . Compensating stray fields {(G01R 33/0017 takes
+   33/028   . . Electrodynamic magnetometers
+   33/0283  . . . {in which a current or voltage is generated
+due to relative movement of conductor and
+   33/0286  . . . {comprising microelectromechanical systems
+[MEMS] (MEMS devices in general B81B)}
+   33/032   . . using magneto-optic devices, e.g. Faraday {or
+   33/0322  . . . {using the Faraday or Voigt effect}
+   33/0325  . . . {using the Kerr effect}
+   33/0327  . . . {with application of magnetostriction}
+   33/035   . . using superconductive devices
+   33/0352  . . . {Superconductive magneto-resistances}
+   33/0356  . . . . {with flux feedback}
+   33/0358  . . . . {coupling the flux to the SQUID
+(gradiometer coils G01R 33/022; coils with
+superconductive winding H01F 6/06)}
+   33/038   . . using permanent magnets, e.g. balances, torsion
+   33/0385  . . . {in relation with magnetic force measurements
+(magnetic force microscopes G01Q 60/50)}
+   33/04    . . using the flux-gate principle
+   33/045   . . . {in single-, or multi-aperture elements}
+   33/05    . . . in thin-film element
+   33/06    . . using galvano-magnetic devices
+   33/063   . . . {Magneto-impedance sensors; Nanocristallin
+   33/066   . . . {field-effect magnetic sensors, e.g. magnetic
+   33/07    . . . Hall effect devices
+   33/072   . . . . {Constructional adaptation of the sensor to
+   33/075   . . . . . {Hall devices configured for spinning
+   33/077   . . . . {Vertical Hall-effect devices}
+   33/09    . . . Magnetoresistive devices
+   33/091   . . . . {Constructional adaptation of the sensor to
+   33/093   . . . . {using multilayer structures, e.g. giant
+magnetoresistance sensors (thin magnetic
+   33/095   . . . . {extraordinary magnetoresistance sensors}
+   33/096   . . . . {anisotropic magnetoresistance sensors}
+   33/098   . . . . {comprising tunnel junctions, e.g. tunnel
+   33/10    . . Plotting field distribution {; Measuring field
+   33/12    . Measuring magnetic properties of articles or
+specimens of solids or fluids (involving magnetic
+   33/1207  . . {Testing individual magnetic storage devices,
+e.g. records carriers or digital storage elements
+(functional testing G06F 11/00, G06F 11/28)}
+   33/1215  . . {Measuring magnetisation; Particular
+magnetometers therefor (G01R 33/14 takes
+precedence; electrodynamic magnetometers
+   33/1223  . . {Measuring permeability, i.e. permeameters
+   33/123   . . {Measuring loss due to hysteresis (G01R 33/14
+   33/1238  . . {Measuring superconductive properties}
+   33/1246  . . . {Measuring critical current}
+   33/1253  . . {Measuring galvano-magnetic properties}
+   33/1261  . . {using levitation techniques}
+   33/1269  . . {of molecules labeled with magnetic
+beads (magnetic particles for bio assay
+   33/1276  . . {of magnetic particles, e.g. imaging of magnetic
+nanoparticles (G01R 33/1269 takes precedence)}
+   33/1284  . . {Spin resolved measurements; Influencing
+spins during measurements, e.g. in spintronics
+devices (G01R 33/093 takes precedence;
+semiconductor devices using spin polarized
+   33/1292  . . {Measuring domain wall position or domain wall
+   33/14    . . Measuring or plotting hysteresis curves
+{(G01R 33/1207 takes precedence)}
+   33/16    . . Measuring susceptibility {(G01R 33/1238 takes
+   33/18    . . Measuring magnetostrictive properties
+   33/20    . involving magnetic resonance (medical aspects
+A61B 5/055; magnetic resonance gyrometers
+   33/24    . . for measuring direction or magnitude of magnetic
+   33/243   . . . {Spatial mapping of the polarizing magnetic
+   33/246   . . . {Spatial mapping of the RF magnetic field B1}
+   33/26    . . . using optical pumping
+   33/28    . . Details of apparatus provided for in groups
+   33/281   . . . {Means for the use of in vitro contrast agents
+(G01R 33/282 takes precedence; involving
+use of a contrast agent in MR imaging
+G01R 33/5601; in vivo contrast agents
+   33/282   . . . {Means specially adapted for hyperpolarisation
+or for hyperpolarised contrast agents, e.g.
+for the generation of hyperpolarised gases
+using optical pumping cells, for storing
+hyperpolarised contrast agents or for the
+determination of the polarisation of a
+   33/283   . . . {Intercom or optical viewing arrangements,
+structurally associated with NMR apparatus}
+   33/285   . . . {Invasive instruments, e.g. catheters or biopsy
+needles, specially adapted for tracking, guiding
+   33/286   . . . . {involving passive visualization of
+interventional instruments, i.e. making the
+instrument visible as part of the normal MR
+   33/287   . . . . {involving active visualization of
+interventional instruments, e.g. using active
+tracking RF coils or coils for intentionally
+creating magnetic field inhomogeneities}
+   33/288   . . . {Provisions within MR facilities for enhancing
+safety during MR, e.g. reduction of the
+specific absorption rate [SAR], detection of
+ferromagnetic objects in the scanner room}
+   33/30    . . . Sample handling arrangements, e.g. sample
+   33/302   . . . . {Miniaturized sample handling arrangements
+for sampling small quantities, e.g. flow-
+through microfluidic NMR chips}
+   33/305   . . . . {specially adapted for high-pressure
+   33/307   . . . . {specially adapted for moving the
+sample relative to the MR system, e.g.
+spinning mechanisms, flow cells or
+means for positioning the sample inside a
+   33/31    . . . . Temperature control thereof
+   33/32    . . . Excitation or detection systems, e.g. using radio
+   33/323   . . . . {Detection of MR without the use of RF
+or microwaves, e.g. force-detected MR,
+thermally detected MR, MR detection via
+electrical conductivity, optically detected
+   33/326   . . . . . {involving a SQUID}
+   33/34    . . . . Constructional details, e.g. resonators {,
+   33/34007 . . . . . {Manufacture of RF coils, e.g. using
+printed circuit board technology;
+additional hardware for providing
+mechanical support to the RF coil
+assembly or to part thereof, e.g. a support
+for moving the coil assembly relative to
+the remainder of the MR system}
+   33/34015 . . . . . {Temperature-controlled RF coils}
+   33/34023 . . . . . . {Superconducting RF coils}
+   33/3403  . . . . . . {Means for cooling of the RF coils,
+e.g. a refrigerator or a cooling vessel
+specially adapted for housing an RF
+   33/34038 . . . . . {Loopless coils, i.e. linear wire antennas}
+   33/34046 . . . . . {Volume type coils, e.g. bird-cage coils;
+Quadrature bird-cage coils; Circularly
+   33/34053 . . . . . . {Solenoid coils; Toroidal coils}
+   33/34061 . . . . . . {Helmholtz coils}
+   33/34069 . . . . . . {Saddle coils}
+   33/34076 . . . . . . {Birdcage coils}
+   33/34084 . . . . . {implantable coils or coils being
+geometrically adaptable to the sample, e.g.
+flexible coils or coils comprising mutually
+   33/34092 . . . . . {RF coils specially adapted for NMR
+   33/341   . . . . . comprising surface coils
+   33/3415  . . . . . . comprising arrays of sub-coils {, i.e.
+phased-array coils with flexible receiver
+   33/343   . . . . . of slotted-tube or loop-gap type
+   33/345   . . . . . of waveguide type (G01R 33/343 takes
+   33/3453  . . . . . . {Transverse electromagnetic [TEM]
+   33/3456  . . . . . . . {Stripline resonators}
+   33/36    . . . . Electrical details, e.g. matching or coupling
+   33/3607  . . . . . {RF waveform generators, e.g. frequency
+generators, amplitude-, frequency- or
+phase modulators or shifters, pulse
+programmers, digital to analog converters
+for the RF signal, means for filtering or
+   33/3614  . . . . . {RF power amplifiers}
+   33/3621  . . . . . {NMR receivers or demodulators, e.g.
+preamplifiers, means for frequency
+modulation of the MR signal using a
+digital down converter, means for analog
+to digital conversion [ADC] or for filtering
+or processing of the MR signal such as
+bandpass filtering, resampling, decimation
+   33/3628  . . . . . {Tuning/matching of the transmit/receive
+   33/3635  . . . . . . {Multi-frequency operation}
+   33/3642  . . . . . {Mutual coupling or decoupling of
+multiple coils, e.g. decoupling of a receive
+coil from a transmission coil, or intentional
+coupling of RF coils, e.g. for RF magnetic
+   33/365   . . . . . . {Decoupling of multiple RF coils
+wherein the multiple RF coils have the
+same function in MR, e.g. decoupling
+of a receive coil from another receive
+coil in a receive coil array, decoupling
+of a transmission coil from another
+transmission coil in a transmission coil
+   33/3657  . . . . . . {Decoupling of multiple RF coils
+wherein the multiple RF coils do not
+have the same function in MR, e.g.
+decoupling of a transmission coil from a
+   33/3664  . . . . . {Switching for purposes other than coil
+coupling or decoupling, e.g. switching
+between a phased array mode and a
+quadrature mode, switching between
+surface coil modes of different geometrical
+shapes, switching from a whole body
+reception coil to a local reception coil
+or switching for automatic coil selection
+in moving table MR or for changing
+the field-of-view (G01R 33/3671 takes
+   33/3671  . . . . . {involving modulation of the quality
+factor of the RF coil (G01R 33/3642 takes
+   33/3678  . . . . . {involving quadrature drive or detection,
+e.g. a circularly polarized RF magnetic
+   33/3685  . . . . . {Means for reducing sheath currents, e.g.
+   33/3692  . . . . . {involving signal transmission without
+using electrically conductive connections,
+e.g. wireless communication or optical
+communication of the MR signal or an
+auxiliary signal other than the MR signal}
+   33/38    . . . Systems for generation, homogenisation or
+stabilisation of the main or gradient magnetic
+   33/3802  . . . . {Manufacture or installation of magnet
+assemblies; Additional hardware for
+transportation or installation of the magnet
+assembly or for providing mechanical
+support to components of the magnet
+   33/3804  . . . . {Additional hardware for cooling or heating
+of the magnet assembly, for housing a cooled
+or heated part of the magnet assembly or for
+temperature control of the magnet assembly}
+   33/3806  . . . . {Open magnet assemblies for improved
+access to the sample, e.g. C-type or U-type
+   33/3808  . . . . {Magnet assemblies for single-sided MR
+wherein the magnet assembly is located
+on one side of a subject only; Magnet
+assemblies for inside-out MR, e.g. for MR
+in a borehole or in a blood vessel, or magnet
+assemblies for fringe-field MR}
+   33/381   . . . . using electromagnets
+   33/3815  . . . . . with superconducting coils, e.g. power
+   33/383   . . . . using permanent magnets
+   33/385   . . . . using gradient magnetic field coils
+   33/3852  . . . . . {Gradient amplifiers; means for
+controlling the application of a gradient
+magnetic field to the sample, e.g. a
+   33/3854  . . . . . {means for active and/or passive vibration
+damping or acoustical noise suppression in
+   33/3856  . . . . . {Means for cooling the gradient coils or
+thermal shielding of the gradient coils}
+   33/3858  . . . . . {Manufacture and installation of gradient
+coils, means for providing mechanical
+support to parts of the gradient-coil
+assembly (manufacture of inductances or
+   33/387   . . . . Compensation of inhomogeneities
+   33/3873  . . . . . using ferromagnetic bodies {; Passive
+   33/3875  . . . . . using correction coil assemblies, e.g.
+   33/389   . . . . Field stabilisation {, e.g. by field
+measurements and control means or
+indirectly by current stabilisation}
+   33/421   . . . . of main or gradient magnetic field
+   33/4215  . . . . . {of the gradient magnetic field, e.g. using
+passive or active shielding of the gradient
+   33/422   . . . . of the radio frequency field
+   33/44    . . using nuclear magnetic resonance [NMR]
+(G01R 33/24, G01R 33/62 take precedence)
+   33/441   . . . {Nuclear Quadrupole Resonance [NQR]
+   33/443   . . . {Assessment of an electric or a magnetic field,
+e.g. spatial mapping, determination of a B0
+   33/445   . . . {MR involving a non-standard magnetic field
+B0, e.g. of low magnitude as in the earth's
+magnetic field or in nanoTesla spectroscopy,
+comprising a polarizing magnetic field for pre-
+polarisation, B0 with a temporal variation of
+its magnitude or direction such as field cycling
+of B0 or rotation of the direction of B0, or
+spatially inhomogeneous B0 like in fringe-field
+   33/446   . . . {Multifrequency selective RF pulses, e.g.
+multinuclear acquisition mode (spatially
+selective RF pulses G01R 33/4833)}
+   33/448   . . . {Relaxometry, i.e. quantification of relaxation
+times or spin density (G01R 33/50 takes
+   33/46    . . . NMR spectroscopy
+   33/4608  . . . . {RF excitation sequences for enhanced
+detection, e.g. NOE, polarisation transfer,
+selection of a coherence transfer pathway}
+   33/4616  . . . . {using specific RF pulses or specific
+modulation schemes, e.g. stochastic
+excitation, adiabatic RF pulses, composite
+pulses, binomial pulses, Shinnar-le-Roux
+pulses, spectrally selective pulses not being
+   33/4625  . . . . {Processing of acquired signals, e.g.
+elimination of phase errors, baseline fitting,
+   33/4633  . . . . {Sequences for multi-dimensional NMR}
+   33/4641  . . . . {Sequences for NMR spectroscopy of
+samples with ultrashort relaxation times such
+   33/465   . . . . applied to biological material, e.g. in vitro
+   33/48    . . . NMR imaging systems
+   33/4802  . . . . {Travelling-wave MR}
+   33/4804  . . . . {Spatially selective measurement of
+   33/4806  . . . . {Functional imaging of brain activation}
+   33/4808  . . . . {Multimodal MR, e.g. MR combined with
+positron emission tomography [PET], MR
+combined with ultrasound or MR combined
+   33/481   . . . . . {MR combined with positron emission
+tomography [PET] or single photon
+emission computed tomography [SPECT]}
+   33/4812  . . . . . {MR combined with X-ray or computed
+   33/4814  . . . . . {MR combined with ultrasound}
+   33/4816  . . . . {NMR imaging of samples with ultrashort
+relaxation times such as solid samples, e.g.
+MRI using ultrashort TE [UTE], single point
+imaging, constant time imaging}
+   33/4818  . . . . {MR characterised by data acquisition
+along a specific k-space trajectory or by the
+temporal order of k-space coverage, e.g.
+centric or segmented coverage of k-space}
+   33/482   . . . . . {using a Cartesian trajectory}
+   33/4822  . . . . . . {in three dimensions}
+   33/4824  . . . . . {using a non-Cartesian trajectory}
+   33/4826  . . . . . . {in three dimensions}
+   33/4828  . . . . {Resolving the MR signals of different
+chemical species, e.g. water-fat imaging}
+   33/483   . . . . with selection of signals or spectra from
+particular regions of the volume, e.g. in vivo
+   33/4831  . . . . . {using B1 gradients, e.g. rotating frame
+techniques, use of surface coils}
+   33/4833  . . . . . {using spatially selective excitation of
+the volume of interest, e.g. selecting non-
+   33/4835  . . . . . . {of multiple slices}
+   33/4836  . . . . . . {using an RF pulse being spatially
+selective in more than one spatial
+dimension, e.g. a 2D pencil-beam
+   33/4838  . . . . . {using spatially selective suppression or
+   33/485   . . . . . based on chemical shift information
+{[CSI] or spectroscopic imaging, e.g.
+to acquire the spatial distributions of
+   33/50    . . . . based on the determination of relaxation
+times {, e.g. T1 measurement by IR
+sequences; T2 measurement by multiple-
+   33/54    . . . . Signal processing systems, e.g. using pulse
+sequences {; Generation or control of pulse
+   33/543   . . . . . {Control of the operation of the MR
+system, e.g. setting of acquisition
+parameters prior to or during MR data
+acquisition, dynamic shimming, use
+of one or more scout images for scan
+plane prescription (G01R 33/546 takes
+   33/546   . . . . . {Interface between the MR system and the
+user, e.g. for controlling the operation of
+the MR system or for the design of pulse
+   33/56    . . . . . Image enhancement or correction, e.g.
+subtraction or averaging techniques {, e.g.
+improvement of signal-to-noise ratio and
+   33/5601  . . . . . . {involving use of a contrast agent
+for contrast manipulation, e.g. a
+paramagnetic, super-paramagnetic,
+ferromagnetic or hyperpolarised contrast
+   33/5602  . . . . . . {by filtering or weighting based on
+different relaxation times within the
+sample, e.g. T1 weighting using an
+   33/5604  . . . . . . {Microscopy; Zooming}
+   33/5605  . . . . . . {by transferring coherence or
+polarization from a spin species to
+another, e.g. creating magnetization
+transfer contrast [MTC], polarization
+transfer using nuclear Overhauser
+   33/5607  . . . . . . {by reducing the NMR signal of
+a particular spin species, e.g. of a
+chemical species for fat suppression, or
+of a moving spin species for black-blood
+   33/5608  . . . . . . {Data processing and visualization
+specially adapted for MR, e.g. for
+feature analysis and pattern recognition
+on the basis of measured MR data,
+segmentation of measured MR data,
+edge contour detection on the basis
+of measured MR data, for enhancing
+measured MR data in terms of signal-to-
+noise ratio by means of noise filtering
+or apodization, for enhancing measured
+MR data in terms of resolution by
+means for deblurring, windowing, zero
+filling, or generation of gray-scaled
+images, colour-coded images or images
+displaying vectors instead of pixels
+(image data processing or generation, in
+   33/561   . . . . . . by reduction of the scanning time, i.e.
+fast acquiring systems, e.g. using echo-
+   33/5611  . . . . . . . {Parallel magnetic resonance
+imaging, e.g. sensitivity encoding
+[SENSE], simultaneous acquisition
+unaliasing by Fourier encoding of
+the overlaps using the temporal
+use linear acquisition speed-up
+technique [k-t-BLAST], k-t-SENSE
+(structural details of arrays of sub-
+   33/5612  . . . . . . . . {Parallel RF transmission, i.e. RF
+pulse transmission using a plurality
+   33/5613  . . . . . . . {Generating steady state signals, e.g.
+low flip angle sequences [FLASH]}
+   33/5614  . . . . . . . . {using a fully balanced steady-
+state free precession [bSSFP] pulse
+   33/5615  . . . . . . . {Echo train techniques involving
+acquiring plural, differently encoded,
+echo signals after one RF excitation,
+e.g. using gradient refocusing in echo
+planar imaging [EPI], RF refocusing
+in rapid acquisition with relaxation
+both RF and gradient refocusing
+in gradient and spin echo imaging
+   33/5616  . . . . . . . . {using gradient refocusing, e.g.
+   33/5617  . . . . . . . . {using RF refocusing, e.g. RARE}
+   33/5618  . . . . . . . . {using both RF and gradient
+   33/5619  . . . . . . . {by temporal sharing of data, e.g.
+keyhole, block regional interpolation
+   33/563   . . . . . . of moving material, e.g. flow contrast
+   33/56308 . . . . . . . {Characterization of motion or flow;
+   33/56316 . . . . . . . . {involving phase contrast
+   33/56325 . . . . . . . . {Cine imaging}
+   33/56333 . . . . . . . . {Involving spatial modulation
+   33/56341 . . . . . . . {Diffusion imaging}
+   33/5635  . . . . . . . {Angiography, e.g. contrast-enhanced
+angiography [CE-MRA] or time-of-
+   33/56358 . . . . . . . {Elastography}
+   33/56366 . . . . . . . {Perfusion imaging}
+   33/56375 . . . . . . . {Intentional motion of the sample
+   33/56383 . . . . . . . . {involving motion of the sample
+as a whole, e.g. multistation MR or
+MR with continuous table motion}
+   33/56391 . . . . . . . . {involving motion of a part of the
+sample with respect to another part
+of the sample, e.g. MRI of active
+   33/565   . . . . . . Correction of image distortions, e.g. due
+to magnetic field inhomogeneities
+   33/56509 . . . . . . . {due to motion, displacement or
+flow, e.g. gradient moment nulling
+(G01R 33/567 takes precedence)}
+   33/56518 . . . . . . . {due to eddy currents, e.g. caused by
+switching of the gradient magnetic
+This group only covers correction
+of artifacts caused by gradient-
+   33/56527 . . . . . . . {due to chemical shift effects}
+   33/56536 . . . . . . . {due to magnetic susceptibility
+   33/56545 . . . . . . . {caused by finite or discrete sampling,
+artefacts, phase aliasing artefacts}
+   33/56554 . . . . . . . {caused by acquiring plural,
+differently encoded echo signals after
+one RF excitation, e.g. correction
+for readout gradients of alternating
+   33/56563 . . . . . . . {caused by a distortion of the
+temporal variation of the magnitude
+G01R 33/56536 take precedence)}
+   33/56572 . . . . . . . {caused by a distortion of a gradient
+magnetic field, e.g. non-linearity
+G01R 33/56536 take precedence)}
+   33/56581 . . . . . . . . {due to Maxwell fields, i.e.
+   33/5659  . . . . . . . {caused by a distortion of the
+RF magnetic field, e.g. spatial
+G01R 33/56518, G01R 33/56536 take
+   33/567   . . . . . . gated by physiological signals {, i.e.
+synchronization of acquired MR data
+with periodical motion of an object of
+interest, e.g. monitoring or triggering
+system for cardiac or respiratory gating}
+   33/5673  . . . . . . . {Gating or triggering based on a
+physiological signal other than an MR
+signal, e.g. ECG gating or motion
+monitoring using optical systems for
+monitoring the motion of a fiducial
+   33/5676  . . . . . . . {Gating or triggering based on an
+MR signal, e.g. involving one or
+more navigator echoes for motion
+   33/58    . . . . Calibration of imaging systems, e.g. using
+test probes {, Phantoms; Calibration objects
+or fiducial markers such as active or passive
+RF coils surrounding an MR active material}
+   33/583   . . . . . {Calibration of signal excitation or
+detection systems, e.g. for optimal
+RF excitation power or frequency
+(G01R 33/246 takes precedence)}
+   33/586   . . . . . . {for optimal flip angle of RF pulses}
+   33/60    . . using electron paramagnetic resonance
+(G01R 33/24, G01R 33/62 take precedence)
+   33/62    . . using double resonance (G01R 33/24 takes
+   33/64    . . using cyclotron resonance (G01R 33/24 takes
+   35/00    Testing or calibrating of apparatus covered by the
+   35/002   . {of cathode ray oscilloscopes}
+   35/005   . {Calibrating; Standards or reference devices, e.g.
+voltage or resistance standards, "golden" references
+(G01R 33/0035, G01R 35/002 take precedence)}
+   35/007   . . {Standards or reference devices, e.g. voltage or
+resistance standards, "golden references"}
+   35/02    . of auxiliary devices, e.g. of instrument transformers
+according to prescribed transformation ratio, phase
+   35/04    . of instruments for measuring time integral of power
+   35/06    . . by stroboscopic methods

@@ -1,0 +1,227 @@
+COOPERATIVE PATENT CLASSIFICATION
+SEMICONDUCTOR DEVICES; ELECTRIC SOLID-STATE DEVICES NOT
+   10/00    Static random access memory [SRAM] devices
+   10/10    . SRAM devices comprising bipolar components
+Group H10B 10/10 is incomplete pending
+reclassification of documents from groups
+H01L 27/1027, H01L 27/1028 and H10B 99/00.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   10/12    . {comprising a MOSFET load element}
+   10/125   . . {the MOSFET being a thin film transistor [TFT]}
+   10/15    . {comprising a resistor load element}
+   10/18    . {Peripheral circuit regions}
+   12/00    Dynamic random access memory [DRAM] devices
+   12/01    . {Manufacture or treatment}
+   12/02    . . {for one transistor one-capacitor [1T-1C] memory
+   12/03    . . . {Making the capacitor or connections thereto}
+   12/033   . . . . {the capacitor extending over the transistor}
+   12/0335  . . . . . {Making a connection between the
+transistor and the capacitor, e.g. plug}
+   12/036   . . . . {the capacitor extending under the transistor}
+   12/038   . . . . {the capacitor being in a trench in the
+   12/0383  . . . . . {wherein the transistor is vertical}
+   12/0385  . . . . . {Making a connection between the
+transistor and the capacitor, e.g. buried
+   12/0387  . . . . . {Making the trench}
+   12/05    . . . {Making the transistor}
+   12/053   . . . . {the transistor being at least partially in a
+trench in the substrate (vertical transistor in
+combination with a capacitor formed in a
+substrate trench H10B 12/0383)}
+   12/056   . . . . {the transistor being a FinFET}
+   12/09    . . {with simultaneous manufacture of the peripheral
+circuit region and memory cells}
+   12/10    . DRAM devices comprising bipolar components
+Group H10B 12/10 is incomplete pending
+reclassification of documents from groups
+H01L 27/1027, H01L 27/1028 and H10B 99/00.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   12/20    . {DRAM devices comprising floating-body
+transistors, e.g. floating-body cells}
+   12/30    . {DRAM devices comprising one-transistor - one-
+capacitor [1T-1C] memory cells}
+   12/31    . . {having a storage electrode stacked over the
+   12/312   . . . {with a bit line higher than the capacitor}
+   12/315   . . . {with the capacitor higher than a bit line}
+   12/318   . . . {the storage electrode having multiple
+   12/33    . . {the capacitor extending under the transistor}
+   12/34    . . {the transistor being at least partially in a trench
+   12/36    . . {the transistor being a FinFET}
+   12/37    . . {the capacitor being at least partially in a trench
+   12/373   . . . {the capacitor extending under or around the
+   12/377   . . . {having a storage electrode extension located
+   12/39    . . {the capacitor and the transistor being in a same
+   12/395   . . . {the transistor being vertical}
+   12/48    . . {Data lines or contacts therefor}
+   12/485   . . . {Bit line contacts}
+   12/50    . {Peripheral circuit region structures}
+   20/00    Read-only memory [ROM] devices
+   20/10    . ROM devices comprising bipolar components
+Group H10B 20/10 is incomplete pending
+reclassification of documents from groups
+H01L 27/1027, H01L 27/1028 and H10B 99/00.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   20/20    . Programmable ROM [PROM] devices comprising
+field-effect components (H10B 20/10 takes
+Group H10B 20/20 is impacted by
+reclassification into group H10B 20/25.
+Groups H10B 20/20 and H10B 20/25 should
+be considered in order to perform a complete
+   20/25    . . One-time programmable ROM [OTPROM]
+devices, e.g. using electrically-fusible links
+Group H10B 20/25 is incomplete pending
+reclassification of documents from group
+Groups H10B 20/20 and H10B 20/25 should
+be considered in order to perform a complete
+   20/30    . . {having the source region and the drain region on
+the same level, e.g. lateral transistors}
+   20/34    . . . {Source electrode or drain electrode
+   20/36    . . . {Gate programmed, e.g. different gate material
+   20/363   . . . . {Gate conductor programmed}
+   20/367   . . . . {Gate dielectric programmed, e.g. different
+   20/38    . . . {Doping programmed, e.g. mask ROM}
+   20/383   . . . . {Channel doping programmed}
+   20/387   . . . . {Source region or drain region doping
+   20/40    . . {having the source region and drain region on
+different levels, e.g. vertical channel}
+   20/50    . . {having transistors on different levels, e.g. 3D
+   20/60    . {Peripheral circuit regions}
+   20/65    . . {of memory structures of the ROM only type}
+   41/00    Electrically erasable-and-programmable ROM
+[EEPROM] devices comprising floating gates
+   41/10    . characterised by the top-view layout
+   41/20    . characterised by three-dimensional arrangements,
+e.g. with cells on different height levels
+   41/23    . . with source and drain on different levels, e.g. with
+   41/27    . . . the channels comprising vertical portions, e.g.
+   41/30    . characterised by the memory core region
+   41/35    . . with a cell select transistor, e.g. NAND
+   41/40    . characterised by the peripheral circuit region
+   41/41    . . of a memory region comprising a cell select
+   41/42    . . Simultaneous manufacture of periphery and
+   41/43    . . . comprising only one type of peripheral
+   41/44    . . . . with a control gate layer also being used as
+part of the peripheral transistor
+   41/46    . . . . with an inter-gate dielectric layer also being
+used as part of the peripheral transistor
+   41/47    . . . . with a floating-gate layer also being used as
+part of the peripheral transistor
+   41/48    . . . . with a tunnel dielectric layer also being used
+as part of the peripheral transistor
+   41/49    . . . comprising different types of peripheral
+   41/50    . characterised by the boundary region between the
+core region and the peripheral circuit region
+   41/60    . the control gate being a doped region, e.g. single-
+   41/70    . the floating gate being an electrode shared by two or
+   43/00    EEPROM devices comprising charge-trapping
+   43/10    . characterised by the top-view layout
+   43/20    . characterised by three-dimensional arrangements,
+e.g. with cells on different height levels
+   43/23    . . with source and drain on different levels, e.g. with
+   43/27    . . . the channels comprising vertical portions, e.g.
+   43/30    . characterised by the memory core region
+   43/35    . . with cell select transistors, e.g. NAND
+   43/40    . characterised by the peripheral circuit region
+   43/50    . characterised by the boundary region between the
+core and peripheral circuit regions
+   51/00    Ferroelectric RAM [FeRAM] devices comprising
+ferroelectric memory transistors
+   51/10    . characterised by the top-view layout
+   51/20    . characterised by the three-dimensional
+arrangements, e.g. with cells on different height
+   51/30    . characterised by the memory core region
+   51/40    . characterised by the peripheral circuit region
+   51/50    . characterised by the boundary region between the
+core and peripheral circuit regions
+   53/00    Ferroelectric RAM [FeRAM] devices comprising
+ferroelectric memory capacitors
+   53/10    . characterised by the top-view layout
+   53/20    . characterised by the three-dimensional
+arrangements, e.g. with cells on different height
+   53/30    . characterised by the memory core region
+   53/40    . characterised by the peripheral circuit region
+   53/50    . characterised by the boundary region between the
+core and peripheral circuit regions
+   61/00    Magnetic memory devices, e.g. magnetoresistive
+Group H10B 61/00 is incomplete pending
+reclassification of documents from group
+Groups H10N 59/00 and H10B 61/00 should be
+considered in order to perform a complete search.
+   61/10    . {comprising components having two electrodes, e.g.
+   61/20    . {comprising components having three or more
+   61/22    . . {of the field-effect transistor [FET] type}
+   63/00    Resistance change memory devices, e.g. resistive
+Group H10B 63/00 is impacted by reclassification
+into groups H10B 63/10 and H10N 79/00.
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   63/10    . Phase change RAM [PCRAM, PRAM] devices
+Group H10B 63/10 is incomplete pending
+reclassification of documents from group
+Groups H10B 63/00 and H10B 63/10 should
+be considered in order to perform a complete
+   63/20    . {comprising selection components having two
+   63/22    . . {of the metal-insulator-metal type}
+   63/24    . . {of the Ovonic threshold switching type}
+   63/30    . {comprising selection components having three or
+more electrodes, e.g. transistors}
+   63/32    . . {of the bipolar type}
+   63/34    . . {of the vertical channel field-effect transistor
+   63/80    . {Arrangements comprising multiple bistable or
+multi-stable switching components of the same type
+on a plane parallel to the substrate, e.g. cross-point
+   63/82    . . {the switching components having a common
+   63/84    . . {arranged in a direction perpendicular to the
+substrate, e.g. 3D cell arrays}
+   63/845   . . . {the switching components being connected to
+   69/00    Erasable-and-programmable ROM
+[EPROM] devices not provided for in groups
+H10B 41/00 - H10B 63/00, e.g. ultraviolet erasable-
+and-programmable ROM [UVEPROM] devices
+Group H10B 69/00 is incomplete pending
+reclassification of documents from groups
+Groups H01L 27/1027, H01L 27/1028 and
+H10B 69/00 should be considered in order to
+   80/00    Assemblies of multiple devices comprising at least
+one memory device covered by this subclass
+Group H10B 80/00 is incomplete pending
+reclassification of documents from groups
+H01L 25/065, H01L 25/0652, H01L 25/0655,
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   99/00    Subject matter not provided for in other groups of
+Group H10B 99/00 is incomplete pending
+reclassification of documents from groups
+Group H10B 99/00 is also impacted by
+reclassification into groups H10B 10/10,
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   99/10    . {Memory cells having a cross-point geometry}
+Group H10B 99/10 is incomplete pending
+reclassification of documents from group
+Groups H01L 27/10 and H10B 99/10 should
+be considered in order to perform a complete
+   99/14    . {comprising memory cells that only have passive
+resistors or passive capacitors}
+Group H10B 99/14 is incomplete pending
+reclassification of documents from group
+Groups H01L 27/101 and H10B 99/14 should
+be considered in order to perform a complete
+   99/16    . {comprising memory cells having diodes}
+Group H10B 99/16 is incomplete pending
+reclassification of documents from group
+Groups H01L 27/1021 and H10B 99/16 should
+be considered in order to perform a complete
+   99/20    . {comprising memory cells having thyristors}
+Group H10B 99/20 is incomplete pending
+reclassification of documents from groups
+Groups H01L 27/1027, H01L 27/1028 and
+H10B 99/20 should be considered in order to
+   99/22    . {including field-effect components}
+Group H10B 99/22 is incomplete pending
+reclassification of documents from group
+Groups H01L 27/105 and H10B 99/22 should
+be considered in order to perform a complete

@@ -1,0 +1,193 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+MACHINE TOOLS; METAL-WORKING NOT OTHERWISE PROVIDED FOR
+METAL-WORKING NOT OTHERWISE PROVIDED FOR; COMBINED
+OPERATIONS; UNIVERSAL MACHINE TOOLS (arrangements for copying or controlling
+• combinations of work-modifying operations covered by different subclasses of classes B21 - B24;
+• combinations of metal-working operations with non-mechanical treatments of metal not provided for elsewhere, for
+example in C21D, C22C, C22F or C23.
+2. This subclass does not cover
+• non-mechanical operations on non-metallic materials unless such operations are specially mentioned in this subclass;
+• subsidiary operations performed in conjunction with main operations covered by a single subclass, e.g. assembling of parts
+as an essential feature of a following metal-working operation, since they are not regarded as operations per se.
+3. Attention is drawn to the Notes following the title of class B23.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    5/00    Setting gems or the like on metal parts, e.g.
+    6/00    Restoring or reconditioning objects (straightening
+or restoring form of sheet metal, metal rods, metal
+tubes, metal profiles, or specific articles made
+therefrom B21D 1/00, B21D 3/00; repairing
+defective or damaged objects by casting techniques
+B22D 19/10; procedures or apparatus covered by a
+single other subclass, see the relevant subclass)
+    6/002   . {Repairing turbine components, e.g. moving
+or stationary blades, rotors, (B23P 6/045 takes
+    6/005   . . {using only replacement pieces of a particular
+    6/007   . . {using only additive methods, e.g. build-up
+    6/02    . Pistons or cylinders
+    6/04    . Repairing fractures or cracked metal parts or
+    6/045   . . {of turbine components, e.g. moving or stationary
+    9/00    Treating or finishing surfaces mechanically, with
+or without calibrating, primarily to resist wear
+or impact, e.g. smoothing or roughening turbine
+blades or bearings (treatment covered by a single
+other subclass, see the relevant subclass, e.g. B24C,
+C21D 7/00, C22F 1/00); Features of such surfaces
+not otherwise provided for, their treatment being
+    9/02    . Treating or finishing by applying pressure, e.g.
+knurling (B23P 9/04 takes precedence)
+    9/025   . . {to inner walls of holes by using axially moving
+    9/04    . Treating or finishing by hammering or applying
+   11/00    Connecting or disconnecting metal parts or
+objects by metal-working techniques not otherwise
+provided for  (connecting sheet metal or metal tubes,
+rods or profiles B21D 39/00; riveting B21J; soldering,
+unsoldering, welding B23K; hand tools for connecting
+wire or strip B25B 25/00; connecting metal parts by
+   11/005   . {by expanding or crimping}
+   11/02    . by first expanding and then shrinking or vice versa,
+e.g. by using pressure fluids; by making force fits
+   11/022   . . {by using pressure fluids}
+   11/025   . . {by using heat or cold}
+   11/027   . . . {for mounting tools in tool holders}
+   13/00    Making metal objects by operations essentially
+involving machining but not covered by a single
+other subclass (making specific objects B23P 15/00)
+   13/02    . in which only the machining operations are
+   13/04    . involving slicing of profiled material
+   15/00    Making specific metal objects by operations not
+covered by a single other subclass or a group in
+   15/001   . {valves or valve housings (welding B23K; valve
+   15/002   . . {poppet valves}
+   15/003   . {bearings (see also F16C 33/00)}
+   15/005   . {keys (making keys without essentially removing
+material, e.g. by punching B21D 53/42; milling
+   15/007   . {injection moulding tools}
+   15/008   . {Rocket engine parts, e.g. nozzles, combustion
+   15/02    . turbine or like blades from one piece
+   15/04    . turbine or like blades from several pieces
+   15/06    . piston rings from one piece
+   15/065   . . {from metal strip}
+   15/08    . piston rings from several pieces
+   15/105   . . {Enlarging pistons}
+   15/12    . gratings {(making gratings by methods covered by
+   15/14    . gear parts, e.g. gear wheels
+   15/16    . plates with holes of very small diameter, e.g. for
+   15/20    . railroad requirements, e.g. buffers
+   15/22    . cartridges or like shells
+   15/24    . dies (B21C 3/18, B21C 25/10, B21D 37/20 take
+   15/243   . . {Honeycomb dies}
+   15/246   . . {Laminated dies}
+   15/26    . heat exchangers {or the like (making heat
+exchangers by methods covered by other subclasses
+   15/28    . cutting tools (sawing tools B23D 63/00,
+B23D 65/00; files or rasps B23D 73/00)
+   15/30    . . lathes or like tools
+   15/34    . . milling cutters
+   15/36    . . . for thread-cutting
+   15/38    . . planing or slotting tools (B23P 15/30 takes
+   15/403   . . . {razor blades}
+   15/406   . . . {rotary or plane die cutters}
+   15/42    . . broaching tools
+   15/44    . . scraping or shaving tools
+   15/48    . . threading tools (milling cutters for thread-cutting
+   17/00    Metal-working operations, not covered by a single
+other subclass or another group in this subclass
+   17/02    . Single metal-working processes; Machines or
+   17/04    . characterised by the nature of the material involved
+or the kind of product independently of its shape
+   17/06    . . Making steel wool or the like
+   19/00    Machines for simply fitting together or separating
+metal parts or objects, or metal and non-metal
+parts, whether or not involving some deformation
+{(connecting metal parts or objects by metal-working
+procedures B21J, B23K)}; Tools or devices therefor
+so far as not provided for in other classes (hand
+   19/001   . {Article feeders for assembling machines (screws
+or nuts being carried by a disposable strip or disc
+   19/002   . . {orientating the articles}
+   19/003   . . {Escapement mechanisms used therewith}
+   19/004   . . {Feeding the articles from hoppers to machines or
+   19/005   . . . {by using flowing gases}
+   19/006   . . {Holding or positioning the article in front of the
+   19/007   . . {Picking-up and placing mechanisms}
+   19/008   . {the parts being continuously transported through
+the machine during assembling or disassembling}
+   19/02    . for connecting objects by press fit or for detaching
+same (B23P 19/10 takes precedence)
+   19/021   . . {Railroad wheels on axles}
+   19/022   . . {Extracting or inserting relatively long parts}
+   19/024   . . . {tube bundles}
+   19/025   . . {For detaching only}
+   19/027   . . using hydraulic or pneumatic means
+   19/033   . . using vibration
+   19/04    . for assembling or disassembling parts
+   19/041   . . {for disassembling pallets}
+   19/042   . . {specially adapted for combustion engines
+(shape of casings adapted to facilitate fitting
+or dismantling of engine parts for combustion
+   19/043   . . . {for inserting piston-connecting rods
+   19/045   . . . {for assembling valve cotters and retainers of
+   19/046   . . {Disassembling lids from drums, e.g. by
+unfolding, for reconditioning or recovery}
+   19/047   . . {for flexible profiles, e.g. sealing or decorating
+strips in grooves or on other profiles by devices
+moving along the flexible profile (hand tools
+   19/06    . . Screw or nut setting or loosening machines
+   19/061   . . . {for pipes or pipe-couplings}
+   19/062   . . . {Pierce nut setting machines}
+   19/063   . . . . {Deforming the nut only}
+   19/064   . . . . {Deforming the support material only, e.g.
+   19/065   . . . {Arrangements for torque limiters or torque
+indicators in screw or nut setting machines (for
+   19/066   . . . . {by electrical means}
+   19/067   . . . {Bolt tensioners (for hand tools B25B 29/02)}
+   19/068   . . . . {by using heating means}
+   19/069   . . . {Multi-spindle machines}
+   19/08    . . Machines for placing washers, circlips, or the like
+   19/082   . . . {for placing washers on nuts}
+   19/084   . . . {for placing resilient or flexible rings, e.g. O-
+   19/086   . . . . {Non-metallic protective bellows}
+   19/088   . . . . {Piston rings in piston grooves}
+   19/10    . Aligning parts to be fitted together
+   19/102   . . {using remote centre compliance devices}
+   19/105   . . . {using sensing means}
+   19/107   . . {using oscillating, rotating or vibrating
+   19/12    . . Alignment of parts for insertion into bores
+   21/00    Machines for assembling a multiplicity of different
+parts to compose units, with or without preceding
+or subsequent working of such parts, e.g. with
+   21/002   . {the units stationary whilst being composed}
+   21/004   . {the units passing two or more work-stations whilst
+   21/006   . . {the conveying means comprising a rotating
+   21/008   . {the assembling machines or tools moving
+synchronously with the units while these are being
+   23/00    Machines or arrangements of machines for
+performing specified combinations of different
+metal-working operations not covered by a single
+other subclass (if the particular kinds of operation
+are not essential B23Q 37/00 - B23Q 41/00; {working
+by laser beam combined with other working of metal
+   23/02    . Machine tools for performing different machining
+operations (lathes, e.g. capstan lathes, B23B;
+combined horizontal boring and milling machines
+   23/04    . for both machining and other metal-working
+   23/06    . Metal-working plant comprising a number of
+associated machines or apparatus
+   25/00    Auxiliary treatment of workpieces, before or
+during machining operations, to facilitate the
+action of the tool or the attainment of a desired
+final condition of the work, e.g. relief of internal
+   25/003   . {immediately preceding a cutting tool}
+   25/006   . . {Heating the workpiece by laser during
+ 2700/00    Indexing scheme relating to the articles being
+treated, e.g. manufactured, repaired, assembled,
+connected or other operations covered in the
+ 2700/03    . Catalysts or parts thereof
+ 2700/06    . Cooling passages of turbine components, e.g.
+unblocking or preventing blocking of cooling
+ 2700/08    . Fittings for doors and windows of buildings
+ 2700/11    . Joints, e.g. ball joints, universal joints
+ 2700/13    . Parts of turbine combustion chambers
+ 2700/14    . Suspension elements of automobile vehicles
+ 2700/50    . Other automobile vehicle parts, i.e. manufactured in

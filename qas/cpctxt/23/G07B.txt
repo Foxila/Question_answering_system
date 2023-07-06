@@ -1,0 +1,242 @@
+COOPERATIVE PATENT CLASSIFICATION
+TICKET-ISSUING APPARATUS; FARE-REGISTERING APPARATUS; FRANKING
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Machines for printing and issuing tickets (printing
+mechanisms per se B41; output mechanisms of digital
+    1/02    . employing selectable printing plates
+    1/04    . . wherein the plates are inserted
+    1/06    . without selectable printing plates
+    3/00    Machines for issuing preprinted tickets
+    3/02    . from stock in wound strip form
+    5/00    Details of, or auxiliary devices for, ticket-issuing
+machines (for validating inserted tickets G07B 11/02)
+    5/02    . for cutting-off or separating tickets
+    5/04    . for recording or registering tickets issued
+    5/06    . for preventing fraudulent operation
+    5/08    . for avoiding incorrect action of the machine
+    5/10    . . indicating when ticket supply is exhausted
+    5/12    . allowing manual writing on the tickets
+    7/00    Holders providing direct manual access to the
+    9/00    Ticket punches (perforating pliers B26F 1/36;
+marking record carriers in digital fashion by punching
+    9/02    . Toy ticket-punches
+   11/00    Apparatus for validating or cancelling issued
+   11/02    . for validating inserted tickets
+   11/07    . . by separating part of ticket
+   11/09    . . . combined with receptacle for separated part of
+ticket (refuse receptacles in general B65F 1/00)
+   11/11    . for cancelling tickets
+   13/00    Taximeters (measuring distance travelled G01C;
+   13/005   . {operating mechanically}
+   13/02    . Details; Accessories
+   13/04    . . for indicating fare or state of hire
+   13/045   . . . {with indicating means on the outside of the
+   13/06    . . Driving arrangements
+   13/08    . . Tariff-changing arrangements
+   13/10    . . . automatically actuated
+   15/00    Arrangements or apparatus for collecting fares,
+tolls or entrance fees at one or more control points
+(handling coins or valuable papers, e.g. banknotes,
+G07D; apparatus for vending or hiring articles
+or services activated by coins, credit cards, paper
+currency or the like G07F 7/00, G07F 17/00)
+1. Data processing aspects of payment systems or
+protocols relating to toll, entrance fee or fare
+collection, e.g. in road pricing or congestion
+charging, are also classified in G06Q 20/00.
+systems for reserving and using access
+tickets, e.g. check-in systems }
+   15/02    . taking into account a variable factor such as
+distance or time, e.g. for passenger transport,
+parking systems or car rental systems (G07B 15/06
+takes precedence; taximeters G07B 13/00; parking
+meters per se G07F 17/24; {car rental systems per
+   15/04    . . comprising devices to free a barrier, turnstile,
+or the like {(turnstiles with registering means
+G07C 9/10; coin-freed aspects G07F 17/00)}
+   15/06    . Arrangements for road pricing or congestion
+charging of vehicles or vehicle users, e.g. automatic
+This group covers the identification or tracking
+of vehicles or vehicle users for the purpose of
+road pricing or congestion charging, which
+means that vehicles or vehicle users are not
+necessarily channelled through fixed control
+points, e.g. toll booths or overhead gantries, but
+may be detected at a number of places when
+they travel in normal fashion in a pre-defined
+locality, e.g. a defined area in a city centre or
+an expressway, and where the information so
+generated is then used to determine a charge to
+   15/063   . . {using wireless information transmission between
+the vehicle and a fixed station (identification of
+   15/066   . . {being coin-operated}
+   17/00    Franking apparatus (printing aspects B41)
+   17/00008 . {operated by portable carriers, e.g. for inputting
+   17/00016 . {Relations between apparatus, e.g. franking
+machine at customer or apparatus at post office, in a
+   17/00024 . . {Physical or organizational aspects of franking
+ 2017/00032 . . . {Determining the location of apparatus}
+ 2017/0004  . . . {Determining the location of mailpieces
+ 2017/00048 . . . {Software architecture}
+ 2017/00056 . . . . {Client-server}
+ 2017/00064 . . . . . {Virtual meter, online stamp; PSD
+functions or indicia creation not at user's
+ 2017/00072 . . . {Hybrid mail, i.e. mail delivered using different
+physical means along the mail delivery path,
+   17/0008  . . {Communication details outside or between
+apparatus (coin-freed apparatus for franking per
+ 2017/00088 . . . {via landlines}
+ 2017/00096 . . . . {via phone lines}
+ 2017/00104 . . . . {via TV cable}
+ 2017/0012  . . . . {in a mobile phone system}
+ 2017/00129 . . . . {Satellite communication}
+ 2017/00145 . . . {via the Internet}
+ 2017/00153 . . . {for sending information}
+ 2017/00161 . . . . {from a central, non-user location, e.g. for
+updating rates or software, or for refilling
+ 2017/00169 . . . . {from a franking apparatus, e.g. for verifying
+ 2017/00177 . . . . {from a portable device, e.g. a card or a
+   17/00185 . {Details internally of apparatus in a franking
+system, e.g. franking machine at customer or
+apparatus at post office (digital data processing
+G06F; coin-freed apparatus for franking per se
+   17/00193 . . {Constructional details of apparatus in a franking
+ 2017/00201 . . . {Open franking system, i.e. the printer is not
+dedicated to franking only, e.g. PC (Personal
+ 2017/00209 . . . {Mailbox, i.e. container for outgoing mail}
+ 2017/00217 . . . {Portable franking apparatus, i.e. the whole
+franking apparatus, not parts alone}
+ 2017/00225 . . . {Vending machine or POS (Point Of Sale)
+ 2017/00233 . . . {Housing, e.g. lock or hardened casing}
+ 2017/00241 . . . {Modular design}
+ 2017/0025  . . . {Storage of, e.g. ribbon}
+ 2017/00258 . . . {Electronic hardware aspects, e.g. type of
+ 2017/00266 . . . {Man-machine interface on the apparatus}
+ 2017/00274 . . . . {Mechanical, e.g. keyboard}
+ 2017/00282 . . . . . {Touch screen}
+ 2017/0029  . . . . . {Soft buttons; buttons that can change
+ 2017/00298 . . . . {Visual, e.g. screens and their layouts}
+ 2017/00306 . . . . {Acoustic, e.g. voice control or speech
+   17/00314 . . {Communication within apparatus, personal
+computer [PC] system, or server, e.g. between
+printhead and central unit in a franking machine}
+ 2017/00322 . . . {Communication between components/
+modules/parts, e.g. printer, printhead,
+keyboard, conveyor or central unit}
+ 2017/0033  . . . {Communication with software component,
+ 2017/00338 . . . {Error detection or handling}
+ 2017/00346 . . . {Power handling, e.g. power-down routine}
+ 2017/00354 . . . {Setting of date}
+   17/00362 . . {Calculation or computing within apparatus, e.g.
+ 2017/0037  . . . {Calculation of postage value}
+ 2017/00379 . . . {Calculation of different sending options for a
+ 2017/00387 . . . {Currency calculation, e.g. from DEM to EUR}
+ 2017/00395 . . . {Memory organization}
+ 2017/00403 . . . . {Memory zones protected from unauthorized
+ 2017/00411 . . . . {Redundant storage, e.g. back-up of
+ 2017/00419 . . . {Software organization, e.g. separation into
+ 2017/00427 . . . {Special accounting procedures, e.g. storing
+   17/00435 . . {Details specific to central, non-customer
+apparatus, e.g. servers at post office or vendor}
+ 2017/00443 . . . {Verification of mailpieces, e.g. by checking
+ 2017/00451 . . . {Address hygiene, i.e. checking and correcting
+addresses to be printed on mail pieces using
+   17/00459 . {Details relating to mailpieces in a franking system}
+   17/00467 . . {Transporting mailpieces (postal sorting B07C)}
+ 2017/00475 . . . {Sorting mailpieces}
+ 2017/00483 . . . {Batch processing of mailpieces}
+ 2017/00491 . . . {Mail/envelope/insert handling system}
+ 2017/005   . . . {Measures for preventing or handling
+   17/00508 . . {Printing or attaching on mailpieces (printing
+mechanisms B41J; security printing B41M 3/14;
+marking methods B41M 5/00; inks C09D 11/00;
+record carriers with at least a part designed to
+carry digital markings G06K 19/00)}
+ 2017/00516 . . . {Details of printing apparatus}
+ 2017/00524 . . . . {Printheads}
+ 2017/0054  . . . . . {Thermal printhead}
+ 2017/00548 . . . . . {Mechanical printhead}
+ 2017/00556 . . . . {Ensuring quality of print}
+ 2017/00564 . . . . . {Ensuring correct position of print on
+ 2017/00572 . . . {Details of printed item}
+ 2017/0058  . . . . {Printing of code}
+ 2017/00588 . . . . . {Barcode}
+ 2017/00596 . . . . {Printing of address}
+ 2017/00604 . . . . {Printing of advert or logo}
+ 2017/00612 . . . {Attaching item on mailpiece}
+ 2017/00629 . . . . {Circuit, e.g. transponder}
+ 2017/00637 . . . {Special printing techniques, e.g. interlacing}
+ 2017/00645 . . . . {Separating print into fixed and variable
+ 2017/00653 . . . {Special inks, e.g. fluorescent}
+   17/00661 . . {Sensing or measuring mailpieces (weighing
+ 2017/00669 . . . {Sensing the position of mailpieces}
+ 2017/00677 . . . . {Keeping track of mailpieces inside
+ 2017/00685 . . . {Measuring the dimensions of mailpieces}
+ 2017/00693 . . . {Measuring the speed of mailpieces inside
+ 2017/00701 . . . {Measuring the weight of mailpieces}
+ 2017/00709 . . . {Scanning mailpieces}
+ 2017/00717 . . . . {Reading barcodes}
+ 2017/00725 . . . . {Reading symbols, e.g. OCR}
+   17/00733 . {Cryptography or similar special procedures in a
+References listed below indicate CPC places
+which could also be of interest when carrying out
+a search in respect of the subject matter covered
+• secret or secure communication H04L 9/00
+• mechanisms actuated by objects other
+thancoins to free or to actuate vending,
+hiring, coin or paper currency dispensing or
+refunding apparatus for cashless transactions
+• access-control involving the use of a pass in
+combination with an identity-check of the
+pass- holder by means of personal physical
+data, e.g. characteristic facial curves, hand
+geometry, voice spectrum, fingerprints
+• recognising characters or patterns in general
+• random or pseudo-random generators
+• circuits generating pulses having a
+predetermined statistical distribution
+• multiple service credit cards with protecting
+• security arrangements for protecting
+computers or computer systems against
+unauthorised activity G06F 21/00
+• record carriers with conductive marks and
+special arrangements for circuits, e.g. for
+protecting identification code in memory
+• error detection and error correction
+• coding, decoding or code conversion,
+for error detection or error correction
+ 2017/00741 . . {using specific cryptographic algorithms or
+ 2017/0075  . . . {Symmetric, secret-key algorithms, e.g. DES,
+RC2, RC4, IDEA, Skipjack, CAST, AES}
+ 2017/00758 . . . {Asymmetric, public-key algorithms, e.g. RSA,
+ 2017/00766 . . . . {Digital signature, e.g. DSA, DSS, ECDSA,
+ 2017/00774 . . . {MAC (Message Authentication Code), e.g.
+ 2017/00782 . . . {Hash function, e.g. MD5, MD2, SHA}
+ 2017/0079  . . {Time-dependency}
+ 2017/00798 . . . {using timestamps, i.e. recording time in
+ 2017/00806 . . . {Limited validity time}
+ 2017/00814 . . . {Continuous communication, e.g. answer
+ 2017/00822 . . {including unique details}
+ 2017/0083  . . . {Postal data, e.g. postage, address, sender,
+ 2017/00838 . . . {Personal data, i.e. biometrics}
+ 2017/00846 . . {Key management}
+ 2017/00854 . . . {Key generation}
+ 2017/00862 . . . {Key storage, e.g. escrowing by trusted third
+ 2017/0087  . . . {Key distribution}
+ 2017/00879 . . . . {using session key}
+ 2017/00887 . . . . {using look-up tables, also called master
+ 2017/00895 . . . {Key verification, e.g. by using trusted party}
+ 2017/00903 . . . {Key destruction or retirement}
+ 2017/00911 . . {Trusted party}
+ 2017/00919 . . {Random number generator}
+ 2017/00927 . . {Certificates, e.g. X.509}
+ 2017/00943 . . {Compression techniques}
+ 2017/00951 . . {Error handling, e.g. EDC (Error Detection
+ 2017/00959 . . {Cryptographic modules, e.g. a PC encryption
+ 2017/00967 . . . {PSD [Postal Security Device] as defined by
+   17/00975 . {using mechanical accounting means}
+   17/00983 . {with means for resetting the monetary value of the
+   17/00991 . . {from a central point, e.g. post office}
+   17/02    . with means for computing or counting
+{(G07B 17/00975 takes precedence)}
+   17/04    . with means for avoiding misuse

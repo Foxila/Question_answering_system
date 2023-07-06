@@ -1,0 +1,537 @@
+COOPERATIVE PATENT CLASSIFICATION
+MEASURING VOLUME, VOLUME FLOW, MASS FLOW OR LIQUID LEVEL;
+Attention is drawn to the Notes following the title of class G01.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Measuring the volume flow or mass flow of fluid
+or fluent solid material wherein the fluid passes
+through a meter in a continuous flow (measuring a
+proportion of the volume flow G01F 5/00)
+{Groups G01F 1/704 - G01F 1/76 take precedence
+over groups G01F 1/05 - G01F 1/68.}
+    1/002   . wherein the flow is in an open channel
+    1/007   . {by measuring the level variations of storage tanks
+    1/05    . by using mechanical effects
+    1/053   . . {using rotating vanes with tangential and axial
+    1/056   . . {Orbital ball flowmeters}
+    1/06    . . using rotating vanes with tangential admission
+    1/065   . . . {with radiation as transfer means to the
+indicating device, e.g. light transmission}
+    1/07    . . . with mechanical coupling to the indicating
+    1/075   . . . with magnetic or electromagnetic coupling to
+    1/0755  . . . . {with magnetic coupling only in a
+    1/08    . . . Adjusting, correcting or compensating means
+    1/10    . . using rotating vanes with axial admission
+    1/103   . . . {with radiation as transfer means to the
+indicating device, e.g. light transmission}
+    1/106   . . . {with electrostatic coupling to the indicating
+    1/11    . . . with mechanical coupling to the indicating
+    1/115   . . . with magnetic or electromagnetic coupling to
+    1/1155  . . . . {with magnetic coupling only in a
+    1/12    . . . Adjusting, correcting, or compensating means
+    1/125   . . . . {with electric, electro-mechanical or
+    1/20    . . by detection of dynamic effects of the flow
+    1/203   . . . {Jet stream flowmeters}
+    1/206   . . . {Measuring pressure, force or momentum
+of a fluid flow which is forced to change its
+    1/22    . . . by variable-area meters {, e.g. rotameters}
+    1/24    . . . . with magnetic or electric coupling to the
+    1/26    . . . . of the valve type
+    1/28    . . . by drag-force, e.g. vane type or impact
+    1/30    . . . . for fluent solid material
+    1/32    . . . using swirl flowmeters
+    1/3209  . . . . {using Karman vortices}
+    1/3218  . . . . . {bluff body design}
+    1/3227  . . . . {using fluidic oscillators (fluidic oscillators
+    1/3236  . . . . {using guide vanes as swirling means}
+    1/325   . . . . Means for detecting quantities used as proxy
+    1/3259  . . . . . {for detecting fluid pressure oscillations}
+    1/3266  . . . . . . {by sensing mechanical vibrations}
+    1/3273  . . . . . {for detecting fluid speed oscillations by
+    1/3282  . . . . . {for detecting variations in infrasonic,
+sonic or ultrasonic waves, due to
+modulation by passing through the
+    1/3287  . . . . . {circuits therefor}
+    1/34    . . by measuring pressure or differential pressure
+    1/36    . . . the pressure or differential pressure being
+created by the use of flow constriction
+    1/363   . . . . {with electrical or electro-mechanical
+indication (G01F 1/37 and G01F 1/38 take
+    1/366   . . . . {with mechanical or fluidic indication
+    1/37    . . . . the pressure or differential pressure being
+measured by means of communicating tubes
+or reservoirs with movable fluid levels, e.g.
+    1/372   . . . . . {with electrical or electro-mechanical
+    1/375   . . . . . {with mechanical or fluidic indication}
+    1/377   . . . . . {using a ring-balance as indicating
+    1/38    . . . . the pressure or differential pressure being
+measured by means of a movable element,
+e.g. diaphragm, piston, Bourdon tube or
+    1/383   . . . . . {with electrical or electro-mechanical
+    1/386   . . . . . {with mechanical or fluidic indication}
+    1/40    . . . . Details of construction of the flow
+    1/42    . . . . . Orifices or nozzles
+    1/44    . . . . . Venturi tubes
+    1/46    . . . . . Pitot tubes
+    1/48    . . . the pressure or differential pressure being
+    1/50    . . . Correcting or compensating means
+    1/52    . . by measuring the height of the fluid level due to
+the lifting power of the fluid flow
+    1/54    . . by means of chains, flexible bands or wires
+introduced into and moved by, the flow
+    1/56    . by using electric or magnetic effects (G01F 1/66
+    1/58    . . by electromagnetic flowmeters
+    1/582   . . . {without electrodes}
+    1/584   . . . {constructions of electrodes, accessories
+    1/586   . . . {constructions of coils, magnetic circuits,
+accessories therefor (G01F 1/582 takes
+precedence; magnet; inductances; transformers;
+selection of materials for their magnetic
+    1/588   . . . {combined constructions of electrodes, coils or
+magnetic circuits, accessories therefor}
+    1/60    . . . Circuits therefor
+    1/64    . . by measuring electrical currents passing
+through the fluid flow; measuring electrical
+potential generated by the fluid flow, e.g. by
+electrochemical, contact or friction effects
+    1/66    . by measuring frequency, phase shift or propagation
+time of electromagnetic or other waves, e.g. using
+    1/662   . . {Constructional details}
+    1/663   . . by measuring Doppler frequency shift
+    1/665   . . {of the drag-type}
+    1/666   . . {by detecting noise and sounds generated by the
+    1/667   . . Arrangements of transducers for ultrasonic
+flowmeters; Circuits for operating ultrasonic
+    1/668   . . . {Compensating or correcting for variations in
+    1/68    . by using thermal effects
+    1/684   . . Structural arrangements; Mounting of elements,
+    1/6842  . . . {with means for influencing the fluid flow}
+    1/6845  . . . {Micromachined devices}
+    1/6847  . . . {where sensing or heating elements are
+not disturbing the fluid flow, e.g. elements
+    1/688   . . . using a particular type of heating, cooling
+or sensing element {(G01F 1/6847 takes
+    1/6882  . . . . {making use of temperature dependence of
+acoustic properties, e.g. propagation speed of
+    1/6884  . . . . {making use of temperature dependence of
+    1/6886  . . . . {Pyroelectric elements}
+    1/6888  . . . . {Thermoelectric elements, e.g.
+    1/69    . . . . of resistive type
+    1/692   . . . . . Thin-film arrangements
+    1/696   . . Circuits therefor, e.g. constant-current flow
+    1/6965  . . . {comprising means to store calibration data for
+flow signal calculation or correction}
+    1/698   . . . Feedback or rebalancing circuits, e.g. self
+heated constant temperature flowmeters
+    1/6983  . . . . {adapted for burning-off deposits}
+    1/6986  . . . . {with pulsed heating, e.g. dynamic methods}
+    1/699   . . . . by control of a separate heating or cooling
+    1/704   . using marked regions or existing inhomogeneities
+within the fluid stream, e.g. statistically occurring
+variations in a fluid parameter (G01F 1/76,
+    1/7042  . . {using radioactive tracers}
+    1/7044  . . {using thermal tracers}
+    1/7046  . . {using electrical loaded particles as tracer, e.g.
+    1/7048  . . . {the concentration of electrical loaded particles
+giving an indication of the flow}
+    1/708   . . Measuring the time taken to traverse a fixed
+    1/7082  . . . using acoustic detecting arrangements
+    1/7084  . . . using thermal detecting arrangements
+    1/7086  . . . using optical detecting arrangements
+    1/7088  . . . using electrically charged particles as tracers
+    1/712   . . . using auto-correlation or cross-correlation
+    1/716   . . . using electron paramagnetic resonance [EPR]
+or nuclear magnetic resonance [NMR]
+    1/72    . Devices for measuring pulsing fluid flows
+    1/74    . Devices for measuring flow of a fluid or flow of a
+fluent solid material in suspension in another fluid
+    1/76    . Devices for measuring mass flow of a fluid or a
+    1/78    . . Direct mass flowmeters
+    1/785   . . . {using fluidic bridge circuits}
+    1/80    . . . operating by measuring pressure, force,
+momentum, or frequency of a fluid flow
+to which a rotational movement has been
+    1/82    . . . . using a driven wheel as impeller and
+one or more other wheels or moving
+elements which are angularly restrained by a
+resilient member, e.g. spring member as the
+    1/84    . . . . Coriolis or gyroscopic mass flowmeters
+    1/8404  . . . . . {details of flowmeter manufacturing
+    1/8409  . . . . . {constructional details}
+    1/8413  . . . . . . {means for influencing the flowmeter's
+motional or vibrational behaviour, e.g.,
+conduit support or fixing means, or
+    1/8418  . . . . . . . {motion or vibration balancing
+    1/8422  . . . . . . {exciters}
+    1/8427  . . . . . . {detectors}
+    1/8431  . . . . . . {electronic circuits}
+    1/8436  . . . . . . {signal processing}
+    1/844   . . . . . . {microfluidic or miniaturised
+    1/8445  . . . . . . . {micromachined flowmeters}
+    1/845   . . . . . {arrangements of measuring means, e.g.,
+    1/8454  . . . . . . {rotating or rotatingly suspended
+    1/8459  . . . . . . {vibrating means being located inside
+    1/8463  . . . . . . {the measuring conduits' cross-section
+being deformed during measurement,
+e.g. by periodically deflecting a portion
+    1/8468  . . . . . . {vibrating measuring conduits}
+    1/8472  . . . . . . . {having curved measuring conduits,
+i.e. whereby the measuring conduits'
+curved center line lies within a plane
+(G01F 1/8481 takes precedence)}
+    1/8477  . . . . . . . . {with multiple measuring conduits}
+    1/8481  . . . . . . . {having loop-shaped measuring
+conduits, e.g. the measuring conduits
+form a loop with a crossing point}
+    1/8486  . . . . . . . . {with multiple measuring conduits}
+    1/849   . . . . . . . {having straight measuring conduits}
+    1/8495  . . . . . . . . {with multiple measuring conduits}
+    1/86    . . Indirect mass flowmeters, e.g. measuring volume
+flow and density, temperature or pressure
+    1/88    . . . with differential-pressure measurement to
+    1/90    . . . with positive-displacement meter or turbine
+meter to determine the volume flow
+    3/00    Measuring the volume flow of fluids or fluent
+solid material wherein the fluid passes through
+the meter in successive and more or less isolated
+quantities, the meter being driven by the flow
+(measuring a proportion of the volume flow
+    3/02    . with measuring chambers which expand or contract
+    3/04    . . having rigid movable walls
+    3/06    . . . comprising members rotating in a fluid-tight or
+substantially fluid-tight manner in a housing
+    3/065   . . . . {sliding-vane meters}
+    3/08    . . . . Rotary-piston or ring-piston meters
+    3/10    . . . . Geared or lobed impeller meters
+    3/12    . . . . Meters with nutating members, e.g. discs
+    3/14    . . . comprising reciprocating pistons, e.g.
+reciprocating in a rotating body
+    3/16    . . . . in stationary cylinders
+    3/18    . . . . . involving two or more cylinders
+    3/20    . . having flexible movable walls, e.g. diaphragms,
+    3/221   . . . . {Valves therefor (valves for flowmeters in
+    3/222   . . . . {characterised by drive mechanism for
+valves or membrane index mechanism}
+    3/223   . . . . . {with adjustment of stroke or timing;
+    3/224   . . . . . {with means for pressure or temperature
+    3/225   . . . . {characterised by constructional features
+of membranes or by means for improving
+proper functioning of membranes
+(diaphragms for flowmeters in general
+    3/226   . . . . {characterised by features of meter body or
+    3/227   . . . . {characterised by the means for transfer
+of membrane movement information to
+    3/228   . . . . . {using mechanical transmission means}
+    3/24    . with measuring chambers moved during operation
+    3/26    . . Tilting-trap meters
+    3/28    . . on carriers rotated by the weight of the liquid in
+    3/32    . . comprising partitioned drums rotating or nutating
+    3/34    . . comprising bells reciprocating in a liquid
+    3/36    . with stationary measuring chambers having constant
+volume during measurement (with measuring
+chambers which expand or contract during
+    3/38    . . having only one measuring chamber
+    5/00    Measuring a proportion of the volume flow
+    5/005   . {by measuring pressure or differential pressure,
+created by the use of flow constriction}
+    7/00    Volume-flow measuring devices with two or more
+measuring ranges; Compound meters
+    7/005   . {by measuring pressure or differential pressure,
+created by the use of flow constriction}
+    9/00    Measuring volume flow relative to another
+variable, e.g. of liquid fuel for an engine
+    9/001   . {with electric, electro-mechanic or electronic means
+(G01F 9/008 and G01F 9/02 take precedence)}
+    9/003   . . {by measuring the weight}
+    9/005   . . {by using calibrated reservoirs}
+    9/006   . {with mechanic means (G01F 9/008 and G01F 9/02
+    9/008   . {where the other variable is the flight or running
+    9/02    . wherein the other variable is the speed of a vehicle
+    9/023   . . {with electric, electro-mechanic or electronic
+    9/026   . . {with mechanic means}
+   11/00    Apparatus requiring external operation adapted at
+each repeated and identical operation to measure
+and separate a predetermined volume of fluid or
+fluent solid material from a supply or container,
+without regard to weight, and to deliver it
+   11/003   . {for fluent solid material}
+   11/006   . {Details or accessories (general details
+   11/02    . with measuring chambers which expand or contract
+   11/021   . . {of the piston type (G01F 11/04 takes
+   11/022   . . . {of the gun type and actuated by fluid pressure
+or by a motor (air-operated grease guns
+F16N 5/02; devices to fill holes or cracks
+   11/023   . . . {with provision for varying the stroke of the
+   11/024   . . . {the pistons reciprocating in rotatable cylinders
+(dough-dividing machines with division boxes
+in a revolving body with radially-working
+   11/025   . . . {with manually operated pistons (G01F 19/005
+   11/026   . . . . {of the gun type (hand operated grease guns
+   11/027   . . . . {of the syringe type}
+   11/028   . . . . {the dosing device being provided with a
+dip tube and fitted to a container, e.g. to a
+   11/029   . . . {provided with electric controlling means
+(G01F 11/022 and G01F 11/024 take
+   11/04    . . of the free-piston type
+   11/06    . . . with provision for varying the stroke of the
+   11/08    . . of the diaphragm or bellows type
+   11/082   . . . {of the squeeze container type (using squeeze
+bottles or the like for soap A47K 5/122)}
+   11/084   . . . {using a bulb to pressurise the fluid to be
+   11/086   . . . {using an auxiliary pressure to cooperate with
+   11/088   . . . {using a deformable conduit-like element}
+   11/10    . with measuring chambers moved during operation
+   11/12    . . of the valve type, i.e. the separating being
+effected by fluid-tight or powder-tight movements
+(involving the tilting or inverting of the supply
+   11/125   . . . {of the peristaltic pump type (peristaltic pumps
+   11/14    . . . wherein the measuring chamber reciprocates
+   11/16    . . . . for liquid or semiliquid
+   11/18    . . . . for fluent solid material
+   11/20    . . . wherein the measuring chamber rotates or
+   11/22    . . . . for liquid or semiliquid
+   11/24    . . . . for fluent solid material
+   11/26    . . wherein the measuring chamber is filled and
+emptied by tilting or inverting the supply vessel,
+   11/261   . . . {for fluent solid material}
+   11/262   . . . {for liquid or semi-liquid}
+   11/263   . . . . {with valves}
+   11/265   . . . . . {of the ball type}
+   11/266   . . . . {using the syphonic effect}
+   11/267   . . . {with counters for counting the numbers of
+   11/268   . . . {with provision for varying the volume to be
+   11/28    . with stationary measuring chambers having constant
+   11/282   . . {for fluent solid material not provided for in
+G01F 11/34, G01F 11/40, G01F 11/46}
+   11/284   . . {combined with electric level detecting means
+(G01F 11/282, G01F 11/30 - G01F 11/46 take
+   11/286   . . {where filling of the measuring chamber is
+effected by squeezing a supply container that
+is in fluid connection with the measuring
+chamber and excess fluid is sucked back from
+the measuring chamber during relaxation of the
+   11/288   . . {squeezing of the supply vessel causing filling of
+the measuring chamber and backflow from the
+measuring chamber to the supply vessel being
+prevented by a check valve (G01F 11/46 take
+   11/30    . . with supply and discharge valves of the lift or
+   11/32    . . . for liquid or semiliquid
+   11/34    . . . for fluent solid material
+   11/36    . . with supply or discharge valves of the
+   11/38    . . . for liquid or semiliquid
+   11/40    . . . for fluent solid material
+   11/42    . . with supply or discharge valves of the rotary or
+   11/44    . . . for liquid or semiliquid
+   11/46    . . . for fluent solid material
+   13/00    Apparatus for measuring by volume and
+delivering fluids or fluent solid materials, not
+provided for in the preceding groups
+   13/001   . {for fluent solid material}
+   13/003   . . {comprising a conveyor belt}
+   13/005   . . {comprising a screw conveyor}
+   13/006   . {measuring volume in function of time}
+   13/008   . {taps comprising counting- and recording means
+(counting devices, counting of objects in general
+   15/00    Details of, or accessories for, apparatus of groups
+G01F 1/00 - G01F 13/00 insofar as such details or
+appliances are not adapted to particular types of
+   15/001   . {Means for regulating or setting the meter for a
+   15/003   . . {using electromagnetic, electric or electronic
+means (G01F 15/002, G01F 15/02 take
+   15/005   . {Valves (valves in general F16K)}
+   15/006   . {characterised by the use of a particular material,
+e.g. anti-corrosive material (G01F 15/14 takes
+   15/007   . {comprising means to prevent fraud}
+   15/008   . {comprising lubricating means}
+   15/02    . Compensating or correcting for variations in
+pressure, density or temperature
+   15/022   . . {using electrical means}
+   15/024   . . . {involving digital counting}
+   15/026   . . {using means to maintain zero differential
+pressure across the motor (G01F 1/08 and
+   15/028   . . {for low flow rates}
+   15/04    . . of gases to be measured
+   15/043   . . . {using electrical means}
+   15/046   . . . . {involving digital counting}
+   15/06    . Indicating or recording devices
+   15/061   . . for remote indication
+   15/063   . . . using electrical means
+   15/065   . . {with transmission devices, e.g. mechanical}
+   15/066   . . . {involving magnetic transmission devices}
+   15/068   . . {with electrical means (G01F 15/063 takes
+   15/07    . Integration to give total flow, e.g. using
+mechanically-operated integrating mechanism
+   15/075   . . using electrically-operated integrating means
+   15/0755  . . . {involving digital counting}
+   15/08    . Air or gas separators in combination with liquid
+meters; Liquid separators in combination with gas-
+   15/10    . Preventing damage by freezing or excess pressure or
+   15/105   . . {Preventing damage by hydraulic shocks}
+   15/12    . Cleaning arrangements; Filters
+   15/14    . Casings, e.g. of special material
+   15/16    . Diaphragms; Bellows; Mountings therefor
+   15/18    . Supports or connecting means for meters
+   15/185   . . {Connecting means, e.g. bypass conduits}
+   17/00    Methods or apparatus for determining the
+capacity of containers or cavities, or the volume
+of solid bodies (measuring linear dimensions to
+   19/00    Calibrated capacity measures for fluids or fluent
+solid material, e.g. measuring cups
+   19/002   . {Measuring spoons or scoops}
+   19/005   . {for semi-liquid, e.g. fat}
+   19/007   . {for non fluent solid material, e.g. filamentary}
+   22/00    Methods or apparatus for measuring volume
+of fluids or fluent solid material, not otherwise
+   22/02    . involving measurement of pressure
+   23/00    Indicating or measuring liquid level or level of
+fluent solid material, e.g. indicating in terms of
+volume or indicating by means of an alarm
+   23/0007  . {for discrete indicating and measuring
+(G01F 23/02 - G01F 23/28 take precedence)}
+   23/0015  . . {with a whistle or other sonorous signal}
+   23/0023  . {with a probe suspended by a wire or thread (with
+   23/003   . {with a probe suspended by rotatable arms (with
+   23/0038  . {using buoyant probes (with floats
+   23/0046  . {with a stationary probe, where a liquid specimen
+is separated from the mean mass and measured (by
+   23/0053  . {with over-flow pipes}
+   23/02    . by gauge glasses or other apparatus involving a
+window or transparent tube for directly observing
+the level to be measured or the level of a liquid
+column in free communication with the main body
+   23/04    . by dip members, e.g. dip-sticks
+   23/045   . . {cleaning means therefor (e.g. dip-stick wipers)}
+   23/14    . by measurement of pressure
+   23/16    . . Indicating, recording, or alarm devices being
+actuated by mechanical or fluid means, e.g. using
+gas, mercury, or a diaphragm as transmitting
+element, or by a column of liquid
+   23/161   . . . {for discrete levels
+(G01F 23/162 - G01F 23/165 take
+   23/162   . . . {by a liquid column}
+   23/164   . . . {using a diaphragm, bellow as transmitting
+   23/165   . . . {of bubbler type}
+   23/167   . . . . {with mechanic or fluid indicating or
+   23/168   . . . . {with electric indicating or recording}
+   23/18    . . Indicating, recording or alarm devices actuated
+   23/185   . . . {for discrete levels}
+   23/20    . by measurement of weight, e.g. to determine the
+   23/205   . . {for discrete levels}
+   23/22    . by measuring physical variables, other than linear
+dimensions, pressure or weight, dependent on the
+level to be measured, e.g. by difference of heat
+transfer of steam or water (involving the use of
+   23/223   . . {using a melting or dissolving material as a part
+   23/226   . . {measuring the braking of a rotatable element}
+   23/24    . . by measuring variations of resistance of resistors
+due to contact with conductor fluid
+   23/241   . . . {for discrete levels}
+   23/242   . . . . {Mounting arrangements for electrodes}
+   23/243   . . . . {Schematic arrangements of probes
+combined with measuring circuits}
+   23/244   . . . . . {comprising oscillating circuits}
+   23/245   . . . {with a probe moved by an auxiliary power,
+e.g. meter, to follow automatically the level}
+   23/246   . . . {thermal devices}
+   23/247   . . . . {for discrete levels}
+   23/248   . . . . . {Constructional details; Mounting of
+   23/26    . . by measuring variations of capacity or inductance
+of capacitors or inductors arising from the
+presence of liquid or fluent solid material in the
+electric or electromagnetic fields
+   23/261   . . . {for discrete levels}
+   23/263   . . . by measuring variations in capacitance of
+   23/265   . . . . {for discrete levels}
+   23/266   . . . . {measuring circuits therefor}
+   23/268   . . . . {mounting arrangements of probes}
+   23/28    . . by measuring the variations of parameters of
+electromagnetic or acoustic waves applied
+directly to the liquid or fluent solid material
+   23/282   . . . {for discrete levels (G01F 23/284,
+   23/284   . . . Electromagnetic waves
+   23/2845  . . . . {for discrete levels (G01F 23/288,
+   23/288   . . . . X-rays; Gamma rays {or other forms of
+   23/2885  . . . . . {for discrete levels}
+   23/292   . . . . Light {, e.g. infra-red or ultra-violet}
+   23/2921  . . . . . {for discrete levels}
+   23/2922  . . . . . . {with light-conducting sensing
+   23/2924  . . . . . . . {for several discrete levels, e.g.
+with more than one light-conducting
+sensing element (G01F 23/2927 takes
+   23/2925  . . . . . . . {using electrical detecting means}
+   23/2927  . . . . . . . . {for several discrete levels,
+   23/2928  . . . . . . {using light reflected on the material
+   23/296   . . . Acoustic waves
+   23/2961  . . . . {for discrete levels
+(G01F 23/2962 - G01F 23/2968 take
+   23/2962  . . . . Measuring transit time of reflected waves
+   23/2963  . . . . . {magnetostrictive}
+   23/2965  . . . . Measuring attenuation of transmitted waves
+   23/2966  . . . . {making use of acoustical resonance or
+   23/2967  . . . . . {for discrete levels}
+   23/2968  . . . . {Transducers specially adapted for acoustic
+   23/303   . . {characterised by means to prevent fault-level
+readings due to turbulence of the fluid, e.g.
+   23/306   . . {using radioactive radiation}
+   23/32    . . using rotatable arms or other pivotable
+   23/34    . . . using mechanically actuated indicating means
+{(G01F 23/38 takes precedence)}
+   23/345   . . . . {using pneumatically or hydraulically
+   23/36    . . . using electrically actuated indicating means
+{(G01F 23/38 takes precedence)}
+   23/363   . . . . {using electromechanically actuated
+   23/366   . . . . {using optoelectrically actuated indicating
+   23/38    . . . using magnetically actuated indicating means
+   23/40    . . using bands or wires as transmission elements
+   23/42    . . . using mechanically actuated indicating means
+   23/425   . . . . {using pneumatically or hydraulically
+   23/44    . . . using electrically actuated indicating means
+   23/443   . . . . {using electromechanically actuated
+   23/446   . . . . {using opto-electrically actuated indicating
+   23/46    . . . using magnetically actuated indicating means
+   23/48    . . using twisted spindles as transmission elements
+   23/50    . . . using mechanically actuated indicating means
+   23/505   . . . . {using hydraulically or pneumatically
+   23/52    . . . using electrically actuated indicating means
+   23/523   . . . . {using electromechanically actuated
+   23/526   . . . . {using opto-electrically actuated indicating
+   23/54    . . . using magnetically actuated indicating means
+   23/543   . . . . {using magnets only as coupling means in a
+   23/546   . . . . {using magnets only for directly actuating of
+   23/56    . . using elements rigidly fixed to, and rectilinearly
+moving with, the floats as transmission elements
+   23/58    . . . using mechanically actuated indicating means
+   23/585   . . . . {using pneumatically or hydraulically
+   23/60    . . . using electrically actuated indicating means
+   23/603   . . . . {using electromechanically actuated
+   23/606   . . . . {using opto-electrically actuated indicating
+   23/62    . . . using magnetically actuated indicating means
+   23/64    . . of the free float type {without mechanical
+   23/66    . . . using mechanically actuated indicating means
+   23/665   . . . . {using pneumatically or hydraulically
+   23/68    . . . using electrically actuated indicating means
+   23/683   . . . . {using electromechanically actuated
+   23/686   . . . . {using opto-electrically actuated indicating
+   23/70    . . . . for sensing changes in level only at discrete
+   23/703   . . . . . {using electromechanically actuated
+   23/706   . . . . . {using opto-electrically actuated indicating
+   23/72    . . . using magnetically actuated indicating means
+   23/74    . . . . for sensing changes in level only at discrete
+   23/76    . . characterised by the construction of the float
+   23/80    . Arrangements for signal processing
+   23/802   . . {Particular electronic circuits for digital
+   23/804   . . . {containing circuits handling parameters other
+   23/806   . . {Particular electronic circuits for handling non-
+   23/808   . . . {containing circuits handling parameters other
+   25/00    Testing or calibration of apparatus for measuring
+volume, volume flow or liquid level or for metering
+   25/0084  . {for measuring volume}
+   25/0092  . {for metering by volume}
+   25/11    . . {using a seal ball or piston in a test loop}
+   25/13    . . {using a reference counter}
+   25/14    . . {using a weighing apparatus}
+   25/15    . . {specially adapted for gas meters
+(G01F 25/11 - G01F 25/14, G01F 25/17 take
+   25/17    . . using calibrated reservoirs
+   25/20    . of apparatus for measuring liquid level
+   25/22    . . {Checking proper indicating of discrete level by
+   25/24    . . {Testing proper functioning of electronic circuits}

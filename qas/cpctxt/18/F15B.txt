@@ -1,0 +1,813 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+FLUID-PRESSURE ACTUATORS; HYDRAULICS OR PNEUMATICS IN GENERAL
+SYSTEMS ACTING BY MEANS OF FLUIDS IN GENERAL; FLUID-PRESSURE
+ACTUATORS, e.g. SERVOMOTORS; DETAILS OF FLUID-PRESSURE SYSTEMS,
+In this subclass, the following terms are used with the meaning stated:
+• "Telemotor" means a system or device in which a substantially constant amount of fluid is trapped between an input
+member  and an output member to act as a fluid link;
+• "Servomotor" means a fluid-pressure actuator, e.g. a piston and cylinder, directly controlled by a valve or other device
+which is responsive to operation of an initial controlling member; "Servomotor" does not cover a telemotor. The initial
+controlling member may be adjacent to the servomotor or at a distance, and may be, for example a hand lever.
+    1/00    Installations or systems with accumulators; Supply
+    1/02    . Installations or systems with accumulators
+    1/021   . . {used for damping}
+    1/022   . . {used as an emergency power source, e.g. in case
+    1/024   . . {used as a supplementary power source, e.g.
+to store energy in idle periods to balance pump
+    1/025   . . {used for thermal compensation, e.g. to collect
+expanded fluid and to return it to the system as
+    1/027   . . having accumulator charging devices
+    1/0275  . . . {with two or more pilot valves, e.g. for
+independent setting of the cut-in and cut-out
+    1/033   . . . with electrical control means
+    1/045   . . . {Dead weight accumulators}
+    1/08    . . . using a gas cushion; Gas charging devices;
+    1/083   . . . . {the accumulator having a fusible plug}
+    1/086   . . . . {the gas cushion being entirely enclosed by
+the separating means, e.g. foam or gas-filled
+    1/10    . . . . with flexible separating means
+    1/103   . . . . . {the separating means being bellows}
+    1/106   . . . . . {characterised by the way housing
+    1/12    . . . . . attached at their periphery (flexible
+separating means in the form of a tube
+    1/125   . . . . . . {characterised by the attachment means
+    1/14    . . . . . . by means of a rigid annular supporting
+    1/16    . . . . . in the form of a tube
+    1/165   . . . . . . {in the form of a bladder}
+    1/18    . . . . . Anti-extrusion means
+    1/20    . . . . . . fixed to the separating means
+    1/22    . . . . Liquid port constructions
+    1/24    . . . . with rigid separating means, e.g. pistons
+    1/26    . Supply reservoir or sump assemblies
+    1/265   . . {with pressurised main reservoir}
+    3/00    Intensifiers or fluid-pressure converters, e.g.
+pressure exchangers; Conveying pressure from
+one fluid system to another, without contact
+between the fluids {(fluid-driven pumps F04B 9/08)}
+    5/00    Transducers converting variations of physical
+quantities, e.g. expressed by variations in positions
+of members, into fluid-pressure variations or
+vice versa; Varying fluid pressure as a function
+of variations of a plurality of fluid pressures or
+variations of other quantities (F15B 9/00 takes
+    5/003   . {characterised by variation of the pressure in a
+nozzle or the like, e.g. nozzle-flapper system}
+    5/006   . {with electrical means, e.g. electropneumatic
+transducer (F15B 5/003 takes precedence)}
+Fluid-pressure actuator systems (systems peculiar to the control of
+a particular machine or apparatus covered in a single other class, see
+the class for such machine or apparatus)
+This heading relates to moving members into one or more definite
+positions by means of fluid pressure. Pump, motor and control
+features so far as not peculiar to this purpose are classified in the
+    7/00    Systems in which the movement produced is
+definitely related to the output of a volumetric
+    7/001   . {With multiple inputs, e.g. for dual control}
+    7/003   . {with multiple outputs}
+    7/005   . {With rotary or crank input}
+    7/006   . . {Rotary pump input}
+    7/008   . {with rotary output}
+1Fluid-pressure actuator systems
+    7/02    . Systems with continuously-operating input and
+    7/04    . In which the ratio between pump stroke and motor
+stroke varies with the resistance against the motor
+    7/06    . Details (F15B 15/00 takes precedence)
+    7/08    . . Input units; Master units
+    7/10    . . Compensation of the liquid content in a system
+    9/00    Servomotors with follow-up action, {e.g. obtained
+by feed-back control,} i.e. in which the position of
+the actuated member conforms with that of the
+    9/02    . with servomotors of the reciprocatable or
+    9/03    . . with electrical control means {(F15B 9/07,
+F15B 9/09, F15B 9/17 take precedence)}
+    9/04    . . controlled by varying the output of a pump with
+    9/06    . . controlled by means using a fluid jet
+    9/07    . . . with electrical control means
+    9/08    . . controlled by valves affecting the fluid feed or the
+fluid outlet of the servomotor (F15B 9/06 takes
+    9/09    . . . with electrical control means
+    9/10    . . . in which the controlling element and the
+servomotor each controls a separate member,
+these members influencing different fluid
+    9/12    . . . in which both the controlling element and
+the servomotor control the same member
+influencing a fluid passage and are connected
+to that member by means of a differential
+    9/14    . with rotary servomotors
+    9/16    . Systems essentially having two or more interacting
+servomotors {, e.g. multi-stage (F15B 18/00,
+    9/17    . . with electrical control means
+   11/00    Servomotor systems without provision for follow-
+up action; {Circuits therefor}(F15B 3/00 takes
+   11/003   . {Systems with load-holding valves}
+   11/006   . {Hydraulic "Wheatstone bridge" circuits, i.e. with
+four nodes, P-A-T-B, and on-off or proportional
+   11/02    . Systems essentially incorporating special features
+for controlling the speed or actuating force of an
+   11/022   . . {in which a rapid approach stroke is followed
+by a slower, high-force working stroke
+(F15B 11/0325 takes precedence)}
+   11/024   . . by means of differential connection of the
+servomotor lines, e.g. regenerative circuits
+ 2011/0243  . . . {the regenerative circuit being activated or
+ 2011/0246  . . . {with variable regeneration flow}
+   11/028   . . for controlling the actuating force (F15B 11/024
+   11/032   . . . by means of fluid-pressure converters
+   11/0325  . . . . {the fluid-pressure converter increasing the
+working force after an approach stroke}
+   11/036   . . . by means of servomotors having a plurality of
+   11/0365  . . . . {Tandem constructions}
+   11/04    . . for controlling the speed (F15B 11/024 takes
+   11/0406  . . . {during starting or stopping (F15B 11/048
+   11/0413  . . . {in one direction only, with no control in the
+reverse direction, e.g. check valve in parallel
+   11/042   . . . by means in the feed line {, i.e. "meter
+in"}(F15B 11/046, F15B 11/05 take
+   11/0423  . . . . {by controlling pump output or bypass, other
+than to maintain constant speed}
+   11/0426  . . . . {by controlling the number of pumps or
+   11/044   . . . by means in the return line {, i.e. "meter
+out"}(F15B 11/046, F15B 11/05 take
+   11/0445  . . . . {with counterbalance valves, e.g. to prevent
+   11/046   . . . depending on the position of the working
+   11/048   . . . . with deceleration control
+   11/05    . . . specially adapted to maintain constant speed,
+e.g. pressure-compensated, load-responsive
+{(F15B 11/161 takes precedence)}
+   11/055   . . . . {by adjusting the pump output or bypass}
+   11/06    . involving features specific to the use of a
+compressible medium, e.g. air, steam
+   11/064   . . with devices for saving the compressible medium
+   11/068   . . with valves for gradually putting pneumatic
+   11/072   . . Combined pneumatic-hydraulic systems
+   11/0725  . . . {with the driving energy being derived from
+a pneumatic system, a subsequent hydraulic
+system displacing or controlling the output
+   11/076   . . . with pneumatic drive or displacement and
+speed control or stopping by hydraulic braking
+   11/08    . with only one servomotor
+   11/10    . . in which the servomotor position is a function of
+the pressure {also pressure regulators as operating
+means for such systems, the device itself may be
+   11/12    . . providing distinct intermediate positions; with
+   11/121   . . . {providing distinct intermediate positions
+   11/122   . . . . {by means of actuators with multiple stops}
+   11/123   . . . . {by means of actuators with fluid-operated
+   11/125   . . . . {by means of digital actuators, i.e. actuators
+in which the total stroke is the sum of
+   11/126   . . . . {by means of actuators of the standard
+type with special circuit controlling means
+(F15B 11/125 takes precedence)}
+   11/127   . . . {with step-by-step action}
+   11/128   . . . . {by means of actuators of the standard type
+with special circuit controlling means}
+   11/13    . . . using {separate dosing} chambers of
+   11/15    . . with special provision for automatic return
+   11/16    . with two or more servomotors
+   11/161   . . {with sensing of servomotor demand or load}
+   11/162   . . . {for giving priority to particular servomotors or
+   11/163   . . . {for sharing the pump output equally amongst
+users or groups of users, e.g. using anti-
+saturation, pressure compensation}
+   11/165   . . . {for adjusting the pump output or bypass in
+   11/166   . . . {Controlling a pilot pressure in response to the
+load, i.e. supply to at least one user is regulated
+by adjusting either the system pilot pressure or
+one or more of the individual pilot command
+   11/167   . . . {using pilot pressure to sense the demand}
+   11/168   . . . {with an isolator valve (duplicating valve), i.e.
+at least one load sense [LS] pressure is derived
+from a work port load sense pressure but is not
+   11/17    . . using two or more pumps
+   11/18    . . used in combination for obtaining stepwise
+operation of a single controlled member
+   11/183   . . . {Linear stepwise operation}
+   11/186   . . . {Rotary stepwise operation}
+   11/20    . . controlling several interacting or sequentially-
+   11/205   . . . {the position of the actuator controlling the
+fluid flow to the subsequent actuator}
+   11/22    . . Synchronisation of the movement of two or more
+   13/00    Details of servomotor systems ({F15B 1/04,
+F15B 1/26, F15B 3/00, F15B 7/08, F15B 11/02,
+F15B 11/10,} F15B 15/00 take precedence){; Valves
+ 2013/002   . {Modular valves, i.e. consisting of an assembly of
+ 2013/004   . . {Cartridge valves}
+ 2013/006   . . {Modular components with multiple uses, e.g.
+kits for either normally-open or normally-closed
+valves, interchangeable or reprogrammable
+ 2013/008   . {Throttling member profiles}
+   13/01    . Locking-valves or other detent {i.e. load-holding}
+   13/015   . . {using an enclosed pilot flow valve}
+   13/02    . Fluid distribution or supply devices characterised by
+their adaptation to the control of servomotors
+   13/021   . . {Valves for interconnecting the fluid chambers of
+   13/022   . . {Flow-dividers; Priority valves}
+   13/023   . . {Excess flow valves, e.g. for locking cylinders in
+   13/024   . . {Pressure relief valves}
+   13/025   . . {Pressure reducing valves}
+   13/026   . . {Pressure compensating valves}
+   13/028   . . {Shuttle valves}
+   13/029   . . {Counterbalance valves}
+   13/04    . . for use with a single servomotor
+   13/0401  . . . {Valve members; Fluid interconnections
+   13/0402  . . . . {for linearly sliding valves, e.g. spool
+   13/0403  . . . . . {a secondary valve member sliding within
+the main spool, e.g. for regeneration flow
+(F15B 13/0418 takes precedence)}
+   13/0405  . . . . {for seat valves, i.e. poppet valves}
+   13/0406  . . . . {for rotary valves}
+   13/0407  . . . . {Means for damping the valve member
+ 2013/0409  . . . . {Position sensing or feedback of the valve
+ 2013/041   . . . . {with two positions}
+ 2013/0412  . . . . {with three positions}
+ 2013/0413  . . . . {with four or more positions}
+ 2013/0414  . . . . {Dosing devices}
+   13/0416  . . . {with means or adapted for load sensing}
+   13/0417  . . . . {Load sensing elements; Internal fluid
+connections therefor; Anti-saturation or
+   13/0418  . . . . . {Load sensing elements sliding within a
+   13/042   . . . operated by fluid pressure {(F15B 13/0401,
+   13/0422  . . . . {with manually-operated pilot valves, e.g.
+   13/0424  . . . . . {the joysticks being provided with
+electrical switches or sensors}
+   13/0426  . . . . {with fluid-operated pilot valves, i.e.
+ 2013/0428  . . . . {with switchable internal or external pilot
+   13/043   . . . . with electrically-controlled pilot valves
+   13/0431  . . . . . {the electrical control resulting in an on-
+   13/0433  . . . . . {the pilot valves being pressure control
+valves (F15B 13/0435, F15B 13/0436,
+   13/0435  . . . . . {the pilot valves being sliding valves}
+   13/0436  . . . . . {the pilot valves being of the steerable jet
+   13/0438  . . . . . {the pilot valves being of the nozzle-
+   13/044   . . . operated by electrically-controlled means, e.g.
+   13/0442  . . . . {with proportional solenoid allowing stable
+   13/0444  . . . . {with rotary electric motor}
+   13/0446  . . . . {with moving coil, e.g. voice coil}
+ 2013/0448  . . . . {Actuation by solenoid and permanent
+   13/06    . . for use with two or more servomotors
+   13/07    . . . in distinct sequence
+   13/08    . . . Assemblies of units, each for the control of a
+   13/0803  . . . . {Modular units}
+   13/0807  . . . . . {Manifolds}
+   13/081   . . . . . . {Laminated constructions}
+   13/0814  . . . . . . {Monoblock manifolds}
+   13/0817  . . . . . . {Multiblock manifolds}
+   13/0821  . . . . . {Attachment or sealing of modular units to
+   13/0825  . . . . . . {the modular elements being mounted
+on a common member, e.g. on a rail}
+   13/0828  . . . . . {characterised by sealing means of the
+   13/0832  . . . . . {Modular valves}
+   13/0835  . . . . . . {Cartridge type valves}
+   13/0839  . . . . . . {Stacked plate type valves}
+   13/0842  . . . . . . {Monoblock type valves, e.g. with
+multiple valve spools in a common
+   13/0846  . . . . . {Electrical details}
+   13/085   . . . . . . {Electrical controllers}
+   13/0853  . . . . . . {Electric circuit boards}
+   13/0857  . . . . . . {Electrical connecting means, e.g. plugs,
+   13/086   . . . . . . {Sensing means, e.g. pressure sensors}
+   13/0864  . . . . . . {Signalling means, e.g. LEDs}
+   13/0867  . . . . . . {Data bus systems}
+   13/0871  . . . . . {Channels for fluid}
+   13/0875  . . . . . {Channels for electrical components, e.g.
+   13/0878  . . . . . {Assembly of modular units}
+   13/0882  . . . . . . {using identical modular elements}
+   13/0885  . . . . . . {using valves combined with other
+   13/0889  . . . . . . . {Valves combined with electrical
+   13/0892  . . . . . . . {Valves combined with fluid
+   13/0896  . . . . . . {using different types or sizes of valves}
+   13/10    . Special arrangements for operating the actuated
+device {with or} without using fluid pressure, e.g.
+   13/12    . Special measures for increasing the sensitivity of the
+   13/14    . Special measures for giving the operating person a
+"feeling" of the response of the actuated device
+   13/16    . Special measures for feedback {, e.g. by a follow-up
+   15/00    Fluid-actuated devices for displacing a member
+from one position to another; Gearing associated
+   15/02    . Mechanical layout characterised by the means for
+converting the movement of the fluid-actuated
+element into movement of the finally-operated
+   15/04    . . with oscillating cylinder
+   15/06    . . for mechanically converting rectilinear movement
+   15/061   . . . {by unidirectional means}
+   15/063   . . . {Actuator having both linear and rotary output,
+   15/065   . . . {the motor being of the rack-and-pinion type}
+   15/066   . . . {the motor being of the scotch yoke type}
+   15/068   . . . {the motor being of the helical type}
+   15/08    . Characterised by the construction of the motor unit
+   15/082   . . {the motor being of the slotted cylinder type}
+   15/084   . . {the motor being of the rodless piston type, e.g.
+   15/086   . . . {with magnetic coupling}
+   15/088   . . {the motor using combined actuation, e.g. electric
+   15/10    . . the motor being of diaphragm type
+   15/103   . . . {using inflatable bodies that contract when
+fluid pressure is applied, e.g. pneumatic
+artificial muscles or McKibben-type actuators}
+   15/106   . . . {the motor being of the pinching-roller type}
+   15/12    . . of the oscillating-vane or curved-cylinder type
+   15/125   . . . {of the curved-cylinder type}
+   15/14    . . of the straight-cylinder type
+   15/1404  . . . {in clusters, e.g. multiple cylinders in one
+   15/1409  . . . {with two or more independently movable
+   15/1414  . . . {with non-rotatable piston}
+   15/1419  . . . . {of non-circular cross-section}
+   15/1423  . . . {Component parts; Constructional details}
+   15/1428  . . . . {Cylinders (F15B 15/1438 takes
+   15/1433  . . . . {End caps (F15B 15/1438 takes
+   15/1438  . . . . {Cylinder to end cap assemblies}
+   15/1442  . . . . . {End cap sealings}
+   15/1447  . . . . {Pistons; Piston to piston rod assemblies}
+   15/1452  . . . . . {Piston sealings}
+   15/1457  . . . . {Piston rods (F15B 15/1447 takes
+   15/1461  . . . . . {Piston rod sealings}
+   15/1466  . . . . {Hollow piston sliding over a stationary rod
+   15/1471  . . . . {Guiding means other than in the end cap
+(F15B 15/1466 takes precedence)}
+   15/1476  . . . . {Special return means}
+   15/148   . . . . {Lost-motion means between the piston and
+   15/1485  . . . . {Special measures for cooling or heating}
+   15/149   . . . {Fluid interconnections, e.g. fluid connectors,
+ 2015/1495  . . . {with screw mechanism attached to the piston}
+   15/16    . . . of the telescopic type
+   15/165   . . . . {with synchronisation of sections}
+   15/17    . . . of differential-piston type
+   15/18    . Combined units comprising both motor and pump
+   15/19    . Pyrotechnical actuators
+   15/20    . Other details {, e.g. assembly with regulating
+   15/202   . . {Externally-operated valves mounted in or on the
+   15/204   . . {Control means for piston speed or actuating
+force without external control, e.g. control valve
+inside the piston (F15B 11/02, F15B 15/22 take
+ 2015/206   . . {Combined actuation, e.g. electric and fluid
+ 2015/208   . . {Special fluid pressurisation means, e.g. thermal
+   15/22    . . for accelerating or decelerating the stroke
+   15/221   . . . {for accelerating the stroke, e.g. by area
+   15/222   . . . {having a piston with a piston extension or
+piston recess which throttles the main fluid
+outlet as the piston approaches its end position}
+   15/223   . . . {having a piston with a piston extension or
+piston recess which completely seals the main
+fluid outlet as the piston approaches its end
+   15/224   . . . {having a piston which closes off fluid outlets
+in the cylinder bore by its own movement}
+   15/225   . . . {with valve stems operated by contact with the
+piston end face or with the cylinder wall}
+   15/226   . . . {having elastic elements, e.g. springs, rubber
+   15/227   . . . {having an auxiliary cushioning piston within
+the main piston or the cylinder end face}
+   15/228   . . . {having shock absorbers mounted outside the
+   15/24    . . for restricting the stroke
+   15/26    . . Locking mechanisms
+   15/261   . . . {using positive interengagement, e.g. balls and
+grooves, for locking in the end positions}
+   15/262   . . . {using friction, e.g. brake pads}
+   15/264   . . . . {Screw mechanisms attached to the piston}
+   15/265   . . . {specially adapted for rodless pistons or slotted
+ 2015/267   . . . {Manual locking or release}
+ 2015/268   . . . {Fluid supply for locking or release
+independent of actuator pressurisation}
+   15/28    . . Means for indicating the position, e.g. end of
+   15/2807  . . . {Position switches, i.e. means for sensing of
+discrete positions only, e.g. limit switches}
+   15/2815  . . . {Position sensing, i.e. means for continuous
+measurement of position, e.g. LVDT}
+   15/2823  . . . . {by a screw mechanism attached to the
+   15/283   . . . . {using a cable wrapped on a drum and
+   15/2838  . . . . {with out using position sensors, e.g. by
+volume flow measurement or pump speed}
+   15/2846  . . . . {using detection of markings, e.g. markings
+   15/2853  . . . . {using potentiometers}
+   15/2861  . . . . {using magnetic means}
+   15/2869  . . . . {using electromagnetic radiation, e.g. radar
+   15/2876  . . . . . {using optical means, e.g. laser}
+   15/2884  . . . . {using sound, e.g. ultrasound}
+   15/2892  . . . {characterised by the attachment means}
+   17/00    Combinations of telemotor and servomotor
+   17/02    . in which a telemotor operates the control member of
+   18/00    Parallel arrangements of independent servomotor
+   19/00    Testing; {Calibrating; Fault detection or
+monitoring; Simulation or modelling of} fluid-
+pressure systems or apparatus not otherwise
+   19/005   . {Fault detection or monitoring}
+   19/007   . {Simulation or modelling}
+   20/00    Safety arrangements for fluid actuator systems;
+Applications of safety devices in fluid actuator
+systems; Emergency measures for fluid actuator
+   20/001   . {Double valve requiring the use of both hands
+   20/002   . {Electrical failure}
+   20/004   . {Fluid pressure supply failure}
+   20/005   . {Leakage; Spillage; Hose burst}
+   21/00    Common features of fluid actuator systems; Fluid-
+pressure actuator systems or details thereof, not
+covered by any other group of this subclass
+   21/001   . {Servomotor systems with fluidic control}
+   21/003   . {Systems with different interchangeable
+components, e.g. using preassembled kits}
+   21/005   . {Filling or draining of fluid systems}
+   21/006   . {Compensation or avoidance of ambient pressure
+   21/008   . {Reduction of noise or vibration}
+   21/02    . Servomotor systems with programme control
+derived from a store or timing device; Control
+   21/04    . Special measures taken in connection with the
+   21/041   . . Removal or measurement of solid or liquid
+   21/042   . . Controlling the temperature of the fluid
+   21/044   . . Removal or measurement of undissolved gas, e.g.
+de-aeration, venting or bleeding
+   21/045   . . Compensating for variations in viscosity or
+   21/047   . . Preventing foaming, churning or cavitation
+   21/048   . . Arrangements for compressed air preparation,
+e.g. comprising air driers, air condensers, filters,
+lubricators or pressure regulators
+   21/06    . Use of special fluids, e.g. liquid metal; Special
+adaptations of fluid-pressure systems, or control of
+elements therefor, to the use of such fluids
+   21/065   . . {Use of electro- or magnetosensitive fluids, e.g.
+   21/08    . Servomotor systems incorporating electrically
+operated control means (F15B 21/02,
+   21/082   . . {with different modes}
+   21/085   . . {using a data bus, e.g. "CANBUS"}
+   21/087   . . {Control strategy, e.g. with block diagram}
+   21/10    . Delay devices or arrangements
+   21/12    . Fluid oscillators or pulse generators
+   21/125   . . {by means of a rotating valve}
+   21/14    . Energy-recuperation means
+ 2201/20    . Accumulator cushioning means
+ 2201/22    . . using elastic housings
+ 2201/30    . Accumulator separating means
+ 2201/305   . . without separating means
+ 2201/31    . . having rigid separating means, e.g. pistons
+ 2201/312   . . . Sealings therefor, e.g. piston rings
+ 2201/315   . . having flexible separating means
+ 2201/3151  . . . the flexible separating means being diaphragms
+ 2201/3152  . . . the flexible separating means being bladders
+ 2201/3153  . . . the flexible separating means being bellows
+ 2201/3154  . . . the flexible separating means being completely
+enclosed, e.g. using gas-filled balls or foam
+ 2201/3155  . . . characterised by the material of the flexible
+ 2201/3156  . . . characterised by their attachment
+ 2201/3157  . . . Sealings for the flexible separating means
+ 2201/3158  . . . Guides for the flexible separating means, e.g.
+ 2201/32    . . having multiple separating means, e.g. with an
+auxiliary piston sliding within a main piston,
+multiple membranes or combinations thereof
+ 2201/40    . Constructional details of accumulators not otherwise
+ 2201/4053  . . . characterised by the material
+ 2201/4056  . . . characterised by the attachment of housing
+ 2201/411   . . . having valve means
+ 2201/413   . . . having multiple liquid ports
+ 2201/4155  . . . having valve means
+ 2201/42    . . Heat recuperators for isothermal compression and
+ 2201/43    . . Anti-extrusion means
+ 2201/435   . . . being fixed to the separating means
+ 2201/50    . Monitoring, detection and testing means for
+ 2201/505   . . Testing of accumulators, e.g. for testing tightness
+ 2201/51    . . Pressure detection
+ 2201/515   . . Position detection for separating means
+ 2201/60    . Assembling or methods for making accumulators
+ 2201/605   . . Assembling or methods for making housings
+ 2201/61    . . Assembling or methods for making separating
+ 2201/615   . . Assembling or methods for making ports therefor
+ 2211/00    Circuits for servomotor systems
+ 2211/20    . Fluid pressure source, e.g. accumulator or variable
+ 2211/205   . . Systems with pumps
+ 2211/20507 . . . Type of prime mover
+ 2211/20515 . . . . Electric motor
+ 2211/20523 . . . . Internal combustion engine
+ 2211/20538 . . . . constant capacity
+ 2211/20546 . . . . variable capacity
+ 2211/20553 . . . . . with pilot circuit, e.g. for controlling a
+ 2211/20569 . . . . capable of working as pump and motor
+ 2211/20576 . . . with multiple pumps
+ 2211/20584 . . . . Combinations of pumps with high and low
+ 2211/20592 . . . . Combinations of pumps for supplying high
+ 2211/21    . . Systems with pressure sources other than pumps,
+e.g. with a pyrotechnical charge
+ 2211/212   . . . the pressure sources being accumulators
+ 2211/214   . . . the pressure sources being hydrotransformers
+ 2211/216   . . . the pressure sources being pneumatic-to-
+ 2211/218   . . . the pressure sources being pyrotechnical
+ 2211/25    . . Pressure control functions
+ 2211/251   . . . High pressure control
+ 2211/252   . . . Low pressure control
+ 2211/253   . . . Pressure margin control, e.g. pump pressure in
+ 2211/255   . . Flow control functions
+ 2211/26    . . Power control functions
+ 2211/265   . . Control of multiple pressure sources
+ 2211/2652  . . . without priority
+ 2211/2654  . . . one or more pressure sources having priority
+ 2211/2656  . . . by control of the pumps
+ 2211/2658  . . . by control of the prime movers
+ 2211/27    . . Directional control by means of the pressure
+ 2211/275   . . Control of the prime mover, e.g. hydraulic control
+ 2211/30    . Directional control
+ 2211/305   . . characterised by the type of valves
+ 2211/30505 . . . Non-return valves, i.e. check valves
+ 2211/3051  . . . . Cross-check valves
+ 2211/30515 . . . . Load holding valves
+ 2211/3052  . . . Shuttle valves
+ 2211/30525 . . . Directional control valves, e.g. 4/3-directional
+ 2211/3053  . . . . In combination with a pressure compensating
+ 2211/30535 . . . . . the pressure compensating valve is
+arranged between pressure source and
+ 2211/3054  . . . . . the pressure compensating valve is
+arranged between directional control valve
+ 2211/30545 . . . . . the pressure compensating valve is
+arranged between output member and
+ 2211/3055  . . . . . the pressure compensating valve is
+arranged between directional control valve
+ 2211/30555 . . . . . Inlet and outlet of the pressure
+compensating valve being connected to the
+ 2211/3056  . . . Assemblies of multiple valves
+ 2211/30565 . . . . having multiple valves for a single output
+member, e.g. for creating higher valve
+function by use of multiple valves like two
+2/2-valves replacing a 5/3-valve
+ 2211/3057  . . . . . having two valves, one for each port of a
+ 2211/30575 . . . . . in a Wheatstone Bridge arrangement (also
+ 2211/3058  . . . . . having additional valves for
+interconnecting the fluid chambers
+of a double-acting actuator, e.g. for
+regeneration mode or for floating mode
+(directional control valves having a
+regenerative position F15B 2211/3133;
+directional control valves having a floating
+ 2211/30585 . . . . having a single valve for multiple output
+ 2211/3059  . . . . having multiple valves for multiple output
+ 2211/30595 . . . . . with additional valves between the groups
+of valves for multiple output members
+ 2211/31    . . characterised by the positions of the valve
+ 2211/3105  . . . Neutral or centre positions
+ 2211/3111  . . . . the pump port being closed in the centre
+position, e.g. so-called closed centre
+ 2211/3116  . . . . the pump port being open in the centre
+position, e.g. so-called open centre
+ 2211/3122  . . . Special positions other than the pump port
+being connected to working ports or the
+working ports being connected to the return
+ 2211/3127  . . . . Floating position connecting the working
+ 2211/3133  . . . . Regenerative position connecting the
+working ports or connecting the working
+ports to the pump, e.g. for high-speed
+ 2211/3138  . . . the positions being discrete
+ 2211/3144  . . . the positions being continuously variable, e.g.
+as realised by proportional valves
+ 2211/315   . . characterised by the connections of the valve or
+ 2211/31505 . . . being connected to a pressure source and a
+ 2211/31511 . . . . having a single pressure source
+ 2211/31517 . . . . having multiple pressure sources
+ 2211/31523 . . . being connected to a pressure source and an
+ 2211/31529 . . . . having a single pressure source and a single
+ 2211/31535 . . . . having multiple pressure sources and a single
+ 2211/31541 . . . . having a single pressure source and multiple
+ 2211/31547 . . . . having multiple pressure sources and
+ 2211/31552 . . . being connected to an output member and a
+ 2211/31558 . . . . having a single output member
+ 2211/31564 . . . . having multiple output members
+ 2211/3157  . . . being connected to a pressure source, an output
+ 2211/31576 . . . . having a single pressure source and a single
+ 2211/31582 . . . . having multiple pressure sources and a single
+ 2211/31588 . . . . having a single pressure source and multiple
+ 2211/31594 . . . . having multiple pressure sources and
+ 2211/32    . . characterised by the type of actuation
+ 2211/322   . . . . actuated by biasing means, e.g. spring-
+ 2211/323   . . . . . the biasing means being adjustable
+ 2211/324   . . . . manually, e.g. by using a lever or pedal
+ 2211/325   . . . . actuated by an output member of the circuit
+ 2211/326   . . . . . with follow-up action
+ 2211/327   . . . electrically or electronically
+ 2211/328   . . . . with signal modulation, e.g. pulse width
+ 2211/329   . . . actuated by fluid pressure
+ 2211/35    . . Directional control combined with flow control
+ 2211/351   . . . Flow control by regulating means in feed line,
+ 2211/353   . . . Flow control by regulating means in return line,
+ 2211/355   . . Pilot pressure control
+ 2211/36    . . Pilot pressure sensing
+ 2211/365   . . Directional control combined with flow control
+ 2211/405   . . characterised by the type of flow control means or
+ 2211/40507 . . . with constant throttles or orifices
+ 2211/40515 . . . with variable throttles or orifices
+ 2211/40523 . . . with flow dividers
+ 2211/4053  . . . . using valves
+ 2211/40538 . . . . using volumetric pumps or motors
+ 2211/40546 . . . with flow combiners
+ 2211/40553 . . . with pressure compensating valves
+ 2211/40561 . . . . the pressure compensating valve arranged
+upstream of the flow control means
+ 2211/40569 . . . . the pressure compensating valve arranged
+downstream of the flow control means
+ 2211/40576 . . . Assemblies of multiple valves
+ 2211/40584 . . . . the flow control means arranged in parallel
+ 2211/40592 . . . . with multiple valves in parallel flow paths,
+ 2211/41    . . characterised by the positions of the valve
+ 2211/411   . . . the positions being discrete
+ 2211/413   . . . the positions being continuously variable, e.g.
+as realised by proportional valves
+ 2211/415   . . characterised by the connections of the flow
+ 2211/41509 . . . being connected to a pressure source and a
+ 2211/41518 . . . . being connected to multiple pressure sources
+ 2211/41527 . . . being connected to an output member and a
+ 2211/41536 . . . . being connected to multiple ports of an
+ 2211/41545 . . . . being connected to multiple output members
+ 2211/41554 . . . being connected to a return line and a
+ 2211/41563 . . . being connected to a pressure source and a
+ 2211/41572 . . . being connected to a pressure source and an
+ 2211/41581 . . . being connected to an output member and a
+ 2211/4159  . . . being connected to a pressure source, an output
+ 2211/42    . . characterised by the type of actuation
+ 2211/422   . . . . actuated by biasing means, e.g. spring-
+ 2211/423   . . . . manually, e.g. by using a lever or pedal
+ 2211/424   . . . . actuated by an output member of the circuit
+ 2211/425   . . . . . with follow-up action
+ 2211/426   . . . electrically or electronically
+ 2211/427   . . . . with signal modulation, e.g. using pulse
+ 2211/428   . . . actuated by fluid pressure
+ 2211/45    . . Control of bleed-off flow, e.g. control of bypass
+ 2211/455   . . Control of flow in the feed line, i.e. meter-in
+ 2211/46    . . Control of flow in the return line, i.e. meter-out
+ 2211/465   . . Flow control with pressure compensation
+ 2211/47    . . Flow control in one direction only
+ 2211/473   . . . without restriction in the reverse direction
+ 2211/476   . . . the flow in the reverse direction being blocked
+ 2211/505   . . characterised by the type of pressure control
+ 2211/50509 . . . the pressure control means controlling a
+pressure upstream of the pressure control
+ 2211/50518 . . . . using pressure relief valves
+ 2211/50527 . . . . . using cross-pressure relief valves
+ 2211/50536 . . . . using unloading valves controlling the supply
+pressure by diverting fluid to the return line
+ 2211/50545 . . . . using braking valves to maintain a back
+ 2211/50554 . . . the pressure control means controlling a
+pressure downstream of the pressure control
+means, e.g. pressure reducing valve
+ 2211/50563 . . . the pressure control means controlling a
+ 2211/50572 . . . . using a pressure compensating valve for
+controlling the pressure difference across a
+ 2211/50581 . . . . using counterbalance valves
+ 2211/5059  . . . . . using double counterbalance valves
+ 2211/51    . . characterised by the positions of the valve
+ 2211/511   . . . the positions being discrete
+ 2211/513   . . . the positions being continuously variable, e.g.
+as realised by proportional valves
+ 2211/515   . . characterised by the connections of the pressure
+ 2211/5151  . . . being connected to a pressure source and a
+ 2211/5152  . . . . being connected to multiple pressure sources
+ 2211/5153  . . . being connected to an output member and a
+ 2211/5154  . . . . being connected to multiple ports of an
+ 2211/5155  . . . . being connected to multiple output members
+ 2211/5156  . . . being connected to a return line and a
+ 2211/5157  . . . being connected to a pressure source and a
+ 2211/5158  . . . being connected to a pressure source and an
+ 2211/5159  . . . being connected to an output member and a
+ 2211/52    . . characterised by the type of actuation
+ 2211/522   . . . . actuated by biasing means, e.g. spring-
+ 2211/523   . . . . manually, e.g. by using a lever or pedal
+ 2211/524   . . . . actuated by an output member of the circuit
+ 2211/525   . . . . . with follow-up action
+ 2211/526   . . . electrically or electronically
+ 2211/527   . . . . with signal modulation, e.g. pulse width
+ 2211/528   . . . actuated by fluid pressure
+ 2211/55    . . for limiting a pressure up to a maximum pressure,
+e.g. by using a pressure relief valve
+ 2211/555   . . for assuring a minimum pressure, e.g. by using a
+ 2211/56    . . Control of an upstream pressure
+ 2211/565   . . Control of a downstream pressure
+ 2211/57    . . Control of a differential pressure
+ 2211/575   . . Pilot pressure control
+ 2211/5753  . . . for closing a valve
+ 2211/5756  . . . for opening a valve
+ 2211/60    . Circuit components or control therefor
+ 2211/605   . . Load sensing circuits
+ 2211/6051  . . . having valve means between output member
+ 2211/6052  . . . . using check valves
+ 2211/6054  . . . . using shuttle valves
+ 2211/6055  . . . . using pressure relief valves
+ 2211/6057  . . . . using directional control valves
+ 2211/6058  . . . with isolator valves
+ 2211/61    . . Secondary circuits
+ 2211/611   . . . Diverting circuits, e.g. for cooling or filtering
+ 2211/613   . . . Feeding circuits
+ 2211/615   . . Filtering means
+ 2211/62    . . Cooling or heating means
+ 2211/63    . . Electronic controllers
+ 2211/6303  . . . using input signals
+ 2211/6306  . . . . representing a pressure
+ 2211/6309  . . . . . the pressure being a pressure source
+ 2211/6313  . . . . . the pressure being a load pressure
+ 2211/6316  . . . . . the pressure being a pilot pressure
+ 2211/632   . . . . representing a flow rate
+ 2211/6323  . . . . . the flow rate being a pressure source flow
+ 2211/6326  . . . . . the flow rate being an output member flow
+ 2211/633   . . . . representing a state of the prime mover, e.g.
+ 2211/6333  . . . . representing a state of the pressure source,
+ 2211/6336  . . . . representing a state of the output member,
+e.g. position, speed or acceleration
+ 2211/634   . . . . representing a state of a valve
+ 2211/6343  . . . . representing a temperature
+ 2211/6346  . . . . representing a state of input means, e.g.
+ 2211/635   . . Circuits providing pilot pressure to pilot pressure-
+controlled fluid circuit elements
+ 2211/6355  . . . having valve means
+ 2211/65    . . Methods of control of the load sensing pressure
+ 2211/651   . . . characterised by the way the load pressure is
+communicated to the load sensing circuit
+ 2211/652   . . . the load sensing pressure being different from
+ 2211/653   . . . the load sensing pressure being higher than the
+ 2211/654   . . . the load sensing pressure being lower than the
+ 2211/655   . . Methods of contamination control, i.e. methods of
+control of the cleanliness of circuit components or
+ 2211/66    . . Temperature control methods
+ 2211/665   . . Methods of control using electronic components
+ 2211/6651  . . . Control of the prime mover, e.g. control of the
+output torque or rotational speed
+ 2211/6652  . . . Control of the pressure source, e.g. control of
+ 2211/6653  . . . Pressure control
+ 2211/6654  . . . Flow rate control
+ 2211/6655  . . . Power control, e.g. combined pressure and flow
+ 2211/6656  . . . Closed loop control, i.e. control using feedback
+ 2211/6657  . . . Open loop control, i.e. control without
+ 2211/6658  . . . Control using different modes, e.g. four-
+quadrant-operation, working mode and
+ 2211/67    . . Methods for controlling pilot pressure
+ 2211/70    . Output members, e.g. hydraulic motors or cylinders
+ 2211/705   . . characterised by the type of output members or
+ 2211/7051  . . . Linear output members
+ 2211/7052  . . . . Single-acting output members
+ 2211/7053  . . . . Double-acting output members
+ 2211/7054  . . . . . Having equal piston areas
+ 2211/7055  . . . . having more than two chambers
+ 2211/7056  . . . . . Tandem cylinders
+ 2211/7057  . . . . being of the telescopic type
+ 2211/7058  . . . Rotary output members
+ 2211/71    . . Multiple output members, e.g. multiple hydraulic
+ 2211/7107  . . . the output members being mechanically linked
+ 2211/7114  . . . with direct connection between the chambers of
+ 2211/7121  . . . . the chambers being connected in series
+ 2211/7128  . . . . the chambers being connected in parallel
+ 2211/7135  . . . Combinations of output members of different
+types, e.g. single-acting cylinders with rotary
+ 2211/7142  . . . the output members being arranged in multiple
+ 2211/715   . . having braking means
+ 2211/72    . . having locking means
+ 2211/75    . . Control of speed of the output member
+ 2211/755   . . Control of acceleration or deceleration of the
+ 2211/76    . . Control of force or torque of the output member
+ 2211/761   . . . Control of a negative load, i.e. of a load
+ 2211/763   . . . Control of torque of the output member by
+means of a variable capacity motor, i.e. by a
+ 2211/765   . . Control of position or angle of the output member
+ 2211/7653  . . . at distinct positions, e.g. at the end position
+ 2211/7656  . . . with continuous position control
+ 2211/77    . . Control of direction of movement of the output
+ 2211/7708  . . . in one direction only
+ 2211/7716  . . . with automatic return
+ 2211/7725  . . . with automatic reciprocation
+ 2211/7733  . . . providing vibrating movement, e.g. dither
+ 2211/7741  . . . with floating mode, e.g. using a direct
+connection between both lines of a double-
+ 2211/775   . . Combined control, e.g. control of speed and force
+for providing a high speed approach stroke with
+low force followed by a low speed working stroke
+with high force, e.g. for a hydraulic press
+ 2211/78    . . Control of multiple output members
+ 2211/781   . . . one or more output members having priority
+ 2211/782   . . . Concurrent control, e.g. synchronisation of two
+ 2211/783   . . . Sequential control
+ 2211/785   . . Compensation of the difference in flow rate in
+closed fluid circuits using differential actuators
+ 2211/80    . Other types of control related to particular problems
+ 2211/85    . . Control during special operating conditions
+ 2211/851   . . . during starting
+ 2211/853   . . . during stopping
+ 2211/855   . . Testing of fluid pressure systems
+ 2211/857   . . Monitoring of fluid pressure systems
+ 2211/86    . . Control during or prevention of abnormal
+ 2211/8603  . . . the abnormal condition being an obstacle
+ 2211/8606  . . . the abnormal condition being a shock
+ 2211/8609  . . . the abnormal condition being cavitation
+ 2211/8613  . . . the abnormal condition being oscillations
+ 2211/8616  . . . the abnormal condition being noise or vibration
+ 2211/862   . . . the abnormal condition being electric or
+ 2211/8623  . . . . Electric supply failure
+ 2211/8626  . . . . Electronic controller failure, e.g. software,
+EMV, electromagnetic interference
+ 2211/863   . . . the abnormal condition being a hydraulic or
+ 2211/8633  . . . . Pressure source supply failure
+ 2211/8636  . . . . Circuit failure, e.g. valve or hose failure
+ 2211/864   . . . . Failure of an output member, e.g. actuator or
+ 2211/8643  . . . the abnormal condition being a human failure
+ 2211/8646  . . . the abnormal condition being hysteresis
+ 2211/865   . . Prevention of failures
+ 2211/87    . . Detection of failures
+ 2211/875   . . Control measures for coping with failures
+ 2211/8752  . . . Emergency operation mode, e.g. fail-safe
+ 2211/8755  . . . Emergency shut-down
+ 2211/8757  . . . using redundant components or assemblies
+ 2211/88    . . Control measures for saving energy
+ 2211/885   . . Control specific to the type of fluid, e.g. specific
+ 2211/8855  . . . Compressible fluids, e.g. specific to pneumatics
+ 2211/89    . . Control specific for achieving vacuum or
+ 2211/895   . . Manual override
+ 2215/00    Fluid-actuated devices for displacing a member
+ 2215/30    . Constructional details thereof
+ 2215/305   . . characterised by the use of special materials

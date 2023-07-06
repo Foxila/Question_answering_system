@@ -1,0 +1,101 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+MACHINES, APPARATUS OR TOOLS FOR ARTISTIC WORK, e.g. FOR
+SCULPTURING, GUILLOCHING, CARVING, BRANDING, INLAYING (processes for
+producing decorative effects B44C; embossing leather C14B)
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Artist's machines or apparatus equipped with tools
+or work holders moving or able to be controlled
+three-dimensionally for making single sculptures
+or models (copying devices for machine tool use
+    1/003   . {having several cutting tools}
+    1/006   . {using computer control means}
+    1/02    . wherein three-dimensional copies are made
+    1/04    . . having devices for changing, e.g. proportionally
+enlarging or reducing, the shape from an original
+    3/00    Artist's machines or apparatus equipped with tools
+or work holders moving or able to be controlled
+substantially two- dimensionally for carving,
+engraving, or guilloching shallow ornamenting
+or markings (marking or engraving metal by the
+action of a high concentration of electric current
+B23H 9/06; forme engraving B41C, B41D; engraving
+by photomechanical reproduction G03F)
+    3/002   . . {using a pantograph}
+    3/003   . . {using a pendulum}
+    3/004   . . {using a tool controlled by a photoelectric
+    3/005   . {characterised by the power drive}
+    3/006   . {carving or engraving devices having several
+    3/007   . {in layered material}
+    3/008   . {characterised by multi-step processes}
+    3/009   . {using a computer control means}
+    3/02    . wherein plane surfaces are worked
+    3/04    . wherein non-plane surfaces are worked
+    3/06    . Accessories, e.g. tool or work holders
+    3/066   . . {Master copy holders}
+    3/068   . . {Tracer heads (B44B 3/004 takes precedence)}
+    5/00    Machines or apparatus for embossing decorations
+or marks, e.g. embossing coins (corrugating sheet
+metal or metal tubes, embossing combined with
+sheet-metal working operations B21D; embossing
+plastics or substances in a plastic state, in general
+B29C 59/00; embossing of paper or cardboard in
+general B31F 1/07; forme embossing B41C 1/08;
+embossing combined with application of ink, type
+marking presses, selective embossing mechanisms
+B41F, B41J, B41K, B41M; embossing leather C14B)
+    5/0004  . {characterised by the movement of the embossing
+tool(s), or the movement of the work, during the
+    5/0009  . . {Rotating embossing tools}
+    5/0014  . . . {and rotating workpieces}
+    5/0019  . . {Rectilinearly moving embossing tools}
+    5/0023  . . . {actuated by a lever}
+    5/0028  . . . {cooperating with rotating workpieces}
+    5/0033  . . {Oscillating embossing tools}
+    5/0038  . . . {actuated by a lever}
+    5/0042  . . . {performing a rolling-off motion with respect
+    5/0047  . {by rolling (B44B 5/0061 takes precedence)}
+    5/0052  . {by pressing (B44B 5/0061 and B44B 5/0076 take
+    5/0057  . . {using more than one die assembly
+    5/0061  . {characterised by the power drive}
+    5/0066  . . {producing a vibratory motion}
+    5/0071  . {which simultaneously apply a decorative material}
+    5/0076  . {having a series of embossing tools each of which
+can be brought into working position}
+    5/008   . {in layered material; connecting a plurality of layers
+    5/0085  . {Portable apparatus for manual operation}
+    5/009   . {by multi-step processes}
+    5/0095  . {using computer control means}
+    5/02    . Dies; Accessories
+    5/022   . . {Devices for holding or supporting work}
+    5/024   . . {Work piece loading or discharging
+    5/026   . . {Dies (B44B 5/028 takes precedence)}
+    7/00    Machines, apparatus or hand tools for branding,
+{e.g. using radiant energy such as laser
+beams}(burning or charring wood stock B27M 1/06)
+    7/002   . {in layered material}
+    7/005   . {by multi-step processes}
+    7/007   . {using a computer control means}
+    9/00    Machines or apparatus for inlaying with
+ornamental structures, e.g. tarsia or mosaic
+work (uniting ornamental elements, on a support
+B44C 1/28, to structures B44C 3/12; imitation of
+mosaic or tarsia work patterns B44F 11/04)
+   11/00    Artists' hand tools for sculpturing, kneading,
+carving, engraving, guilloching or embossing;
+   11/02    . for substantially two-dimensional carving,
+ 2700/00    Machines, apparatus, tools or accessories for
+ 2700/02    . Artist's machines or apparatus equipped with tools
+or work holders moving or able to be controlled
+substantially two-dimensionally for carving,
+engraving, or guilloching shallow ornamenting or
+ 2700/023   . . for engraving parallel lines of flat surfaces
+ 2700/025   . . for engraving a surface of revolution
+ 2700/026   . . for guilloching
+ 2700/028   . . Electrical engraving machines
+ 2700/04    . Machines or tools for carving
+ 2700/045   . . Electrical engraving machines
+ 2700/06    . Machines, apparatus or tools for stippling
+ 2700/08    . Machines, apparatus or hand tools for branding
+ 2700/09    . Machines or apparatus for making models
+ 2700/12    . Accessories; Tool or work holders

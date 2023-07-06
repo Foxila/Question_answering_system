@@ -1,0 +1,99 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+RAILWAY SYSTEMS; EQUIPMENT THEREFOR NOT OTHERWISE PROVIDED
+FOR (lifts or hoists, elevators, escalators, moving walkways B66B)
+In this subclass, the following terms are used with the meanings indicated:
+• "rope railways" covers railways using cables or chains as traction or suspension means;
+• "ropes", "cables", or "chains" are equivalent unless specifically mentioned
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    General arrangement of stations, platforms,
+or sidings; Railway networks; Rail vehicle
+marshalling systems (shunting humps and shunting
+devices B61J; construction of platforms E01F 1/00;
+    1/005   . {Rail vehicle marshalling systems; Rail freight
+terminals (transferring or trans-shipping at
+storage areas or railway yards; marshalling yard
+    1/02    . General arrangement of stations and platforms
+including protection devices for the passengers
+{(B61B 1/005 takes precedence)}
+    3/00    Elevated railway systems with suspended vehicles
+(with suspended flexible tracks B61B 7/00; saddle
+or like balanced type with monorail B61B 13/06;
+with propelling cables and for transporting materials
+B65G; tracks therefor E01B 25/00)
+    3/02    . with self-propelled vehicles
+    5/00    Elevated railway systems without suspended
+vehicles (with monorail B61B 13/04; tracks therefor
+    5/02    . with two or more rails
+    5/025   . . {Sub-floor conveyor systems, e.g. where the
+vehicle is above the ground and where the
+running gear and the propulsion device are
+located underground or in a tube. (tunnel systems:
+B61B 13/10; funiculas systems B61B 9/00)}
+Rope railways (shunting devices with cable traction B61J); Power
+    7/00    Rope railway systems with suspended flexible
+    7/02    . with separate haulage cables
+    7/04    . with suspended tracks serving as haulage cables
+    7/045   . . {having in each direction more than one track
+    7/06    . with self-propelled vehicles
+    9/00    Tramway or funicular systems with rigid track
+and cable traction (haulage clips B61B 12/12)
+   10/00    Power and free systems (ski lifts, sleigh lift or like
+trackless systems with guided towing cables only
+   10/001   . {Arrangements for routing vehicles}
+   10/002   . . {according to destination marks}
+   10/004   . . . {Mechanical destination marks}
+   10/005   . . . {Magnetic, electric or electronic destination
+   10/007   . . . {Pneumatic destination marks}
+   10/008   . . {according to destination signals stored in
+   10/02    . with suspended vehicles
+   10/022   . . {Vehicles; trolleys}
+   10/025   . . {Coupling and uncoupling means between power
+   10/027   . . {loading or unloading vehicles}
+   10/04    . with vehicles rolling trackless on the ground
+   10/043   . . {Fraction elements}
+   11/00    Ski lift, sleigh lift or like trackless systems with
+   11/002   . {able to be dismantled or removed}
+   11/004   . {Means connecting load and cable}
+   11/006   . . {the load being a cycle}
+   11/008   . . {the load being a sleigh}
+   12/00    Component parts, details or accessories not
+provided for in groups B61B 7/00 - B61B 11/00
+(railway brakes B61H; turntables B61J 1/06)
+   12/002   . {Cabins; Ski-lift seats (B61B 12/028 takes
+1Rope railways ; Power and free systems
+   12/005   . {Rescue devices for passengers (safety devices for
+preventing accidents to passengers when entering or
+leaving railway vehicles B61K 13/04; emergency
+escape closures in vehicle bottom in general
+   12/007   . {Cable tensioning devices}
+   12/02    . Suspension of the load; Guiding means, e.g. wheels;
+   12/022   . . {Vehicle receiving and dispatching devices
+(acceleration or deceleration devices
+B61B 12/105; cable grippers B61B 12/12)}
+   12/024   . . . {Docking devices}
+   12/026   . . {Guiding means for deflecting the direction of the
+   12/028   . . {Cabin or seat suspension means (comprising
+   12/04    . Devices for damping vibrations
+   12/06    . Safety devices or measures against cable fracture
+   12/08    . Cable lubrication
+   12/10    . Cable traction drives
+   12/105   . . {Acceleration devices or deceleration devices
+   12/12    . Cable grippers; Haulage clips
+   12/122   . . {for aerial ropeways (B61B 12/127 takes
+   12/125   . . {for non aerial ropeways, e.g. on or under the
+   12/127   . . {for ski lift, sleigh lift or like trackless systems}
+Other railway systems; Combinations of systems
+   13/00    Other railway systems
+   13/06    . . Saddle or like balanced type
+   13/08    . Sliding or levitation systems (vehicles with air
+cushions between rails and vehicles B60V 3/04)
+   13/10    . Tunnel systems (pneumatic tubes conveyors B65G
+{; B61C 15/045 takes precedence})
+   13/12    . Systems with propulsion devices between or
+alongside the rails, e.g. pneumatic systems (cable
+traction B61B 9/00; car shunting devices B61J)
+   13/122   . . {Pneumatic systems}
+   13/125   . . {the propulsion device being a rotating shaft or
+   13/127   . . {the propulsion device consisting of stationary
+   15/00    Combinations of railway systems

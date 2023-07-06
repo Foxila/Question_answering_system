@@ -1,0 +1,535 @@
+COOPERATIVE PATENT CLASSIFICATION
+MEDICAL OR VETERINARY SCIENCE; HYGIENE
+ELECTROTHERAPY; MAGNETOTHERAPY; RADIATION THERAPY;
+ULTRASOUND THERAPY (measurement of bioelectric currents A61B; surgical instruments,
+devices or methods for transferring non-mechanical forms of energy to or from the body
+A61B 18/00; anaesthetic apparatus in general A61M; incandescent lamps H01K; infra-red
+In this subclass, the following term is used with the meaning indicated: In this subclass, the following term is used with the
+• "therapy" implies that the treatment, when it aims at destroying sick or abnormal cells, is performed within the limits of
+healthy cell life, the destruction thereof being undesired, contrary to that which takes place with instruments, devices or
+methods covered by group A61B 18/00.
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. {In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Electrotherapy; Circuits therefor (A61N 2/00 takes
+precedence; irradiation apparatus A61N 5/00)
+    1/025   . . {Digital circuitry features of electrotherapy
+devices, e.g. memory, clocks, processors}
+    1/04    . . Electrodes {(electrosurgical electrodes
+    1/0404  . . . {for external use (A61N 1/06 takes
+    1/0408  . . . . {Use-related aspects}
+    1/0412  . . . . . {Specially adapted for transcutaneous
+electroporation, e.g. including drug
+    1/0416  . . . . . . {Anode and cathode}
+    1/042   . . . . . . . {Material of the electrode}
+    1/0424  . . . . . . . {Shape of the electrode}
+    1/0428  . . . . . {Specially adapted for iontophoresis, e.g.
+AC, DC or including drug reservoirs}
+    1/0432  . . . . . . {Anode and cathode}
+    1/0436  . . . . . . . {Material of the electrode}
+    1/044   . . . . . . . {Shape of the electrode}
+    1/0444  . . . . . . {Membrane}
+    1/0448  . . . . . . {Drug reservoir}
+    1/0452  . . . . . {Specially adapted for transcutaneous
+    1/0456  . . . . . {Specially adapted for transcutaneous
+electrical nerve stimulation [TENS]}
+    1/046   . . . . . {Specially adapted for shock therapy, e.g.
+    1/0464  . . . . . {Specially adapted for promoting tissue
+    1/0468  . . . . . {Specially adapted for promoting wound
+    1/0472  . . . . {Structure-related aspects}
+    1/0476  . . . . . {Array electrodes (including any electrode
+arrangement with more than one electrode
+for at least one of the polarities)}
+    1/048   . . . . . {Electrodes characterised by a specific
+connection between lead and electrode}
+    1/0484  . . . . . {Garment electrodes worn by the patient}
+    1/0488  . . . . . {Details about the lead}
+    1/0492  . . . . . {Patch electrodes (A61N 1/0412,
+    1/0496  . . . . . . {characterised by using specific
+chemical compositions, e.g. hydrogel
+    1/05    . . . for implantation or insertion into the body, e.g.
+heart electrode (A61N 1/06 takes precedence)
+    1/0502  . . . . {Skin piercing electrodes}
+    1/0504  . . . . {Subcutaneous electrodes}
+    1/0507  . . . . {Electrodes for the digestive system}
+    1/0509  . . . . . {Stomach and intestinal electrodes}
+    1/0512  . . . . . {Anal electrodes}
+    1/0514  . . . . . {Electrodes for the urinary tract}
+    1/0517  . . . . {Esophageal electrodes}
+    1/0519  . . . . {Endotracheal electrodes}
+    1/0521  . . . . {Genital electrodes}
+    1/0524  . . . . . {Vaginal electrodes}
+    1/0526  . . . . {Head electrodes (A61N 1/0551 takes
+    1/0529  . . . . . {Electrodes for brain stimulation}
+    1/0531  . . . . . . {Brain cortex electrodes}
+    1/0534  . . . . . . {Electrodes for deep brain stimulation}
+    1/0536  . . . . . . {Preventing neurodegenerative response
+    1/0539  . . . . . . {Anchoring of brain electrode systems,
+    1/0541  . . . . . {Cochlear electrodes}
+    1/0543  . . . . . {Retinal electrodes}
+    1/0546  . . . . . {Nasal electrodes}
+    1/0548  . . . . . {Oral electrodes}
+    1/0551  . . . . {Spinal or peripheral nerve electrodes}
+    1/0553  . . . . . {Paddle shaped electrodes, e.g. for
+    1/0556  . . . . . {Cuff electrodes}
+    1/0558  . . . . . {Anchoring or fixation means therefor}
+    1/056   . . . . {Transvascular endocardial electrode
+    1/0563  . . . . . {specially adapted for defibrillation or
+    1/0565  . . . . . {Electrode heads}
+    1/0568  . . . . . . {with drug delivery}
+    1/057   . . . . . {Anchoring means; Means for fixing the
+    1/0573  . . . . . . {chacterised by means penetrating the
+heart tissue, e.g. helix needle or hook}
+    1/0575  . . . . . . . {with drug delivery}
+ 2001/0578  . . . . . . {having means for removal or
+ 2001/058   . . . . . . {Fixing tools}
+ 2001/0582  . . . . . . {Suture sleeves}
+ 2001/0585  . . . . . {Coronary sinus electrodes}
+    1/0587  . . . . {Epicardial electrode systems; Endocardial
+electrodes piercing the pericardium}
+    1/059   . . . . . {Anchoring means}
+    1/0592  . . . . . {Introducing the lead through the
+    1/0595  . . . . . {Temporary leads}
+    1/0597  . . . . . {Surface area electrodes, e.g. cardiac
+    1/06    . . . for high-frequency therapy
+    1/08    . . Arrangements or circuits for monitoring,
+protecting, controlling or indicating {(for external
+stimulators A61N 1/3603; for implantable
+neurostimulators A61N 1/36128; for heart
+stimulators A61N 1/37; for defibrillators
+ 2001/083   . . . {Monitoring integrity of contacts, e.g. by
+    1/086   . . . {Magnetic resonance imaging [MRI]
+    1/10    . Applying static electricity (applying ionised gases
+    1/14    . Leading-off electric charges, e.g. by earthing
+{(carrying-off electrostatic charges, in general
+    1/16    . Screening or neutralising undesirable influences
+from {or using,} atmospheric or terrestrial radiation
+or fields {(using atmospheric electricity or earth
+    1/18    . Applying electric currents by contact electrodes
+    1/20    . . continuous direct currents
+    1/205   . . . {for promoting a biological process}
+    1/22    . . . Electromedical belts {, e.g. neck chains,
+    1/24    . . . . with built-in power source
+    1/26    . . . Electromedical brushes; Electromedical
+massage devices {(massage devices in general
+    1/28    . . . Apparatus for applying thermoelectric currents
+    1/30    . . . Apparatus for iontophoresis, {i.e. transfer of
+media in ionic state by an electromotoric force
+into the body}, or cataphoresis
+    1/303   . . . . {Constructional details (electrodes for
+    1/306   . . . . . {Arrangements where at least part of the
+apparatus is introduced into the body}
+    1/32    . . alternating or intermittent currents {(applying
+electric fields by inductive or capacitive coupling
+A61N 1/40; microwave apparatus A61N 5/02)}
+    1/321   . . . {Electromedical belts}
+    1/322   . . . {Electromedical brushes, combs, massage
+    1/323   . . . {Interference currents, i.e. treatment by several
+    1/325   . . . {for iontophoresis, i.e. transfer of media
+in ionic state by an electromotoric force
+into the body (electrodes for external use
+    1/326   . . . {for promoting growth of cells, e.g. bone cells}
+    1/327   . . . {for enhancing the absorption properties of
+tissue, e.g. by electroporation}
+    1/328   . . . {for improving the appearance of the skin, e.g.
+facial toning or wrinkle treatment}
+    1/36    . . . for stimulation
+    1/36002 . . . . {Cancer treatment, e.g. tumour}
+    1/36003 . . . . {of motor muscles, e.g. for walking
+    1/36007 . . . . {of urogenital or gastrointestinal organs, e.g.
+    1/3601  . . . . {of respiratory organs}
+    1/36014 . . . . {External stimulators, e.g. with patch
+electrodes (external pacemakers
+    1/36017 . . . . . {with leads or electrodes penetrating the
+    1/36021 . . . . . {for treatment of pain}
+    1/36025 . . . . . {for treating a mental or cerebral
+    1/36028 . . . . . . {for aversion therapy}
+    1/3603  . . . . . {Control systems}
+    1/36031 . . . . . . {using physiological parameters for
+    1/36034 . . . . . . {specified by the stimulation
+    1/36036 . . . . {of the outer, middle or inner ear}
+    1/36038 . . . . . {Cochlear stimulation}
+    1/36039 . . . . . . {fitting procedures}
+    1/3604  . . . . {for correcting spinal deformities, e.g.
+    1/36042 . . . . {of grafted tissue, e.g. skeletal muscle}
+    1/36046 . . . . {of the eye}
+    1/3605  . . . . {Implantable neurostimulators for
+stimulating central or peripheral nerve
+    1/36053 . . . . . {adapted for vagal stimulation
+(A61N 1/36114 takes precedence)}
+    1/36057 . . . . . {adapted for stimulating afferent nerves}
+    1/3606  . . . . . {adapted for a particular treatment}
+    1/36062 . . . . . . {Spinal stimulation}
+    1/36064 . . . . . . {Epilepsy}
+    1/36067 . . . . . . {Movement disorders, e.g. tremor or
+Parkinson disease (stimulating motor
+    1/36075 . . . . . . . {Headache or migraine}
+    1/36078 . . . . . . {Inducing or controlling sleep or
+relaxation (non-implantable stimulator
+    1/36082 . . . . . . {Cognitive or psychiatric applications,
+e.g. dementia or Alzheimer's disease}
+    1/36085 . . . . . . . {Eating disorders or obesity}
+    1/36089 . . . . . . . {Addiction or withdrawal from
+substance abuse such as alcohol or
+    1/36092 . . . . . . . {Mental training}
+    1/36096 . . . . . . . {Mood disorders, e.g. depression,
+    1/361   . . . . . . {Phantom sensations, e.g. tinnitus}
+    1/36103 . . . . . . {Neuro-rehabilitation; Repair or
+reorganisation of neural tissue, e.g. after
+    1/36107 . . . . . . {Sexual dysfunction (stimulating genital
+    1/3611  . . . . . . {Respiration control (stimulating
+respiratory organs A61N 1/3601)}
+    1/36114 . . . . . . {Cardiac control, e.g. by vagal
+stimulation (stimulating the heart
+    1/36117 . . . . . . . {for treating hypertension}
+    1/36121 . . . . . . {Production of neurotransmitters;
+Modulation of genes expression}
+    1/36125 . . . . . {Details of circuitry or electric
+    1/36128 . . . . . {Control systems}
+    1/36132 . . . . . . {using patient feedback}
+    1/36135 . . . . . . {using physiological parameters}
+    1/36139 . . . . . . . {with automatic adjustment}
+    1/3614  . . . . . . . {based on impedance measurement}
+    1/36142 . . . . . . {for improving safety}
+    1/36146 . . . . . . {specified by the stimulation
+    1/3615  . . . . . . . {Intensity}
+    1/36153 . . . . . . . . {Voltage (A61N 1/3616 takes
+    1/36157 . . . . . . . . {Current (A61N 1/3616 takes
+    1/3616  . . . . . . . . {Voltage density or current
+    1/36164 . . . . . . . . {Sub-threshold or non-excitatory
+signals (non-excitatory signals to
+    1/36167 . . . . . . . {Timing, e.g. stimulation onset}
+    1/36171 . . . . . . . . {Frequency}
+    1/36175 . . . . . . . . {Pulse width or duty cycle}
+    1/36178 . . . . . . . . {Burst or pulse train parameters}
+    1/36182 . . . . . . . {Direction of the electrical field,
+e.g. with sleeve around stimulating
+    1/36185 . . . . . . . . {Selection of the electrode
+    1/36189 . . . . . . {using modulation techniques}
+    1/36192 . . . . . . . {Amplitude modulation}
+    1/36196 . . . . . . . {Frequency modulation}
+    1/362   . . . . Heart stimulators (heart defibrillators
+    1/3621  . . . . . {for treating or preventing abnormally
+    1/3622  . . . . . . {comprising two or more electrodes co-
+operating with different heart regions}
+    1/3624  . . . . . . {occurring in the atrium, i.e. atrial
+    1/3625  . . . . . {External stimulators}
+    1/3627  . . . . . {for treating a mechanical deficiency of
+the heart, e.g. congestive heart failure or
+    1/3628  . . . . . {using sub-threshold or non-excitatory
+    1/3629  . . . . . {in combination with non-electric therapy}
+    1/365   . . . . . controlled by a physiological parameter,
+e.g. heart potential {(evoked response
+    1/36507 . . . . . . {controlled by gradient or slope of the
+    1/36514 . . . . . . {controlled by a physiological quantity
+other than heart potential, e.g. blood
+pressure (controlled by two or more
+physical parameters A61N 1/36585)}
+    1/36521 . . . . . . . {the parameter being derived
+from measurement of an electrical
+    1/36528 . . . . . . . {the parameter being measured by
+    1/36535 . . . . . . . {controlled by body position or
+    1/36542 . . . . . . . {controlled by body motion, e.g.
+    1/3655  . . . . . . . {controlled by body or blood
+    1/36557 . . . . . . . {controlled by chemical substances in
+    1/36564 . . . . . . . {controlled by blood pressure}
+    1/36571 . . . . . . . {controlled by blood flow rate, e.g.
+blood velocity or cardiac output}
+    1/36578 . . . . . . . {controlled by mechanical motion of
+the heart wall, e.g. measured by an
+    1/36585 . . . . . . {controlled by two or more physical
+    1/36592 . . . . . . {controlled by the heart rate variability}
+    1/368   . . . . . . comprising more than one electrode co-
+operating with different heart regions
+{(A61N 1/3622, A61N 1/3627 take
+    1/3682  . . . . . . . {with a variable atrioventricular
+    1/3684  . . . . . . . {for stimulating the heart at multiple
+sites of the ventricle or the atrium}
+    1/36842 . . . . . . . . {Multi-site stimulation in the same
+    1/36843 . . . . . . . . {Bi-ventricular stimulation}
+    1/3686  . . . . . . . {configured for selecting the electrode
+configuration on a lead (A61N 1/3688
+    1/3688  . . . . . . . {configured for switching the pacing
+    1/37    . . . . . Monitoring; Protecting
+    1/3702  . . . . . . {Physiological parameters (A61N 1/365
+takes precedence; evoked response
+    1/3704  . . . . . . . {Circuits specially adapted therefor,
+    1/3706  . . . . . . {Pacemaker parameters (stimulation
+    1/3708  . . . . . . . {for power depletion}
+    1/371   . . . . . . {Capture, i.e. successful stimulation}
+    1/3712  . . . . . . . {Auto-capture, i.e. automatic
+    1/3714  . . . . . . . . {Atrial capture}
+    1/3716  . . . . . . . {with reduction of residual
+    1/3718  . . . . . . {Monitoring of or protection against
+external electromagnetic fields or
+    1/372   . . . . Arrangements in connection with the
+    1/37205 . . . . . {Microstimulators, e.g. implantable
+    1/37211 . . . . . {Means for communicating with
+    1/37217 . . . . . . {characterised by the communication
+link, e.g. acoustic or tactile}
+    1/37223 . . . . . . . {Circuits for electromagnetic
+    1/37229 . . . . . . . . {Shape or location of the implanted
+    1/37235 . . . . . . {Aspects of the external programmer}
+    1/37241 . . . . . . . {providing test stimulations}
+    1/37247 . . . . . . . {User interfaces, e.g. input or
+    1/37252 . . . . . . {Details of algorithms or data aspects
+handshaking, transmitting specific data
+    1/37254 . . . . . . . {Pacemaker or defibrillator security,
+e.g. to prevent or inhibit programming
+alterations by hackers or unauthorised
+    1/37258 . . . . . . . {Alerting the patient}
+    1/37264 . . . . . . . {Changing the program; Upgrading
+    1/3727  . . . . . . . {characterised by the modulation
+    1/37276 . . . . . . . {characterised by means for reducing
+power consumption during telemetry}
+    1/37282 . . . . . . . {characterised by communication
+with experts in remote locations using
+    1/37288 . . . . . . . {Communication to several
+implantable medical devices within
+ 2001/37294 . . . . . {Means for testing medical devices within
+the package prior to implantation}
+    1/375   . . . . . Constructional arrangements, e.g. casings
+    1/37512 . . . . . . {Pacemakers}
+    1/37514 . . . . . . {Brain implants}
+    1/37516 . . . . . . {Intravascular implants}
+    1/37518 . . . . . . {Anchoring of the implants, e.g.
+    1/3752  . . . . . . {Details of casing-lead connections}
+    1/3754  . . . . . . . {Feedthroughs}
+    1/3756  . . . . . . {Casings with electrodes thereon, e.g.
+    1/3758  . . . . . . {Packaging of the components within
+    1/378   . . . . . Electrical supply
+    1/3782  . . . . . . {producing a voltage above the power
+    1/3785  . . . . . . {generated by biological activity or
+    1/3787  . . . . . . {from an external energy source}
+    1/38    . . . for producing shock effects
+    1/385   . . . . {Devices for inducing an abnormal cardiac
+    1/39    . . . . Heart defibrillators
+    1/3904  . . . . . {External heart defibrillators [EHD]}
+    1/39044 . . . . . . {in combination with cardiopulmonary
+    1/39046 . . . . . . {User protection from shock}
+    1/3906  . . . . . {characterised by the form of the
+    1/3912  . . . . . . {Output circuitry therefor, e.g.
+    1/3918  . . . . . {characterised by shock pathway, e.g. by
+    1/3925  . . . . . {Monitoring; Protecting}
+    1/3931  . . . . . . {Protecting, e.g. back-up systems}
+    1/3937  . . . . . . {Monitoring output parameters}
+    1/3943  . . . . . . . {for threshold determination}
+    1/395   . . . . . {for treating atrial fibrillation}
+    1/3956  . . . . . {Implantable devices for applying electric
+shocks to the heart, e.g. for cardioversion}
+    1/3962  . . . . . . {in combination with another heart
+    1/39622 . . . . . . . {Pacing therapy}
+    1/39624 . . . . . . . {Pain reduction therapy}
+    1/3968  . . . . . {Constructional arrangements, e.g. casings
+    1/3975  . . . . . {Power supply (A61N 1/378 takes
+    1/3981  . . . . . . {High voltage charging circuitry}
+    1/3987  . . . . . {characterised by the timing or triggering
+    1/3993  . . . . . {User interfaces for automatic external
+    1/40    . Applying electric fields by inductive or capacitive
+coupling (microwave apparatus A61N 5/00);
+{Applying radio-frequency signals}
+    1/403   . . {for thermotherapy, e.g. hyperthermia}
+    1/406   . . . {using implantable thermoseeds or injected
+particles for localized hyperthermia
+(preparations of seeds and particles
+    1/44    . Applying ionised fluids {(ion generators
+    1/445   . . {Hydro-electric baths}
+    2/002   . {in combination with another treatment}
+    2/004   . {specially adapted for a specific therapy}
+    2/006   . . {for magnetic stimulation of nerve tissue}
+    2/008   . . {for pain treatment or analgesia}
+    2/02    . using magnetic fields produced by coils, including
+single turn loops or electromagnets (A61N 2/12
+    2/06    . using magnetic fields produced by permanent
+magnets (A61N 2/12 takes precedence)
+    2/12    . using variable magnetic fields obtained by
+    5/00    Radiation therapy (ultrasound therapy A61N 7/00;
+devices or apparatus applicable to both therapy and
+ 2005/002   . {Cooling systems}
+ 2005/005   . . {for cooling the radiator}
+ 2005/007   . . {for cooling the patient}
+    5/01    . Devices for producing movement of radiation
+source during therapy {(A61N 5/1077 takes
+    5/022   . . {Apparatus adapted for a specific treatment}
+    5/025   . . . {Warming the body, e.g. hyperthermia
+ 2005/027   . . {using a phased array}
+    5/04    . . Radiators for near-field treatment
+    5/045   . . . {specially adapted for treatment inside the
+    5/0601  . . {Apparatus for use inside the body}
+ 2005/0602  . . . {for treatment of blood vessels}
+    5/0603  . . . {for treatment of body cavities}
+ 2005/0604  . . . . {Lungs and/or airways}
+ 2005/0609  . . . . {Stomach and/or esophagus}
+ 2005/061   . . . . {Bladder and/or urethra}
+ 2005/0612  . . . {using probes penetrating tissue; interstitial
+    5/0613  . . {Apparatus adapted for a specific treatment}
+ 2005/0615  . . . . {using UV light sources having a specific
+    5/0616  . . . {Skin treatment other than tanning}
+    5/0617  . . . . {Hair treatment}
+    5/0618  . . . {Psychological treatment}
+    5/0619  . . . {Acupuncture}
+    5/062   . . . {Photodynamic therapy, i.e. excitation of an
+    5/0621  . . . {Hyperbilirubinemia, jaundice treatment}
+    5/0622  . . . {Optical stimulation for exciting neural tissue}
+    5/0624  . . . {for eliminating microbes, germs, bacteria on
+    5/0625  . . . {Warming the body, e.g. hyperthermia
+ 2005/0626  . . {Monitoring, verifying, controlling systems and
+ 2005/0627  . . . {Dose monitoring systems and methods}
+ 2005/0628  . . . . {including a radiation sensor}
+ 2005/0629  . . . {Sequential activation of light sources}
+ 2005/063   . . {comprising light transmitting means, e.g. optical
+ 2005/0631  . . . {using crystals}
+ 2005/0632  . . {Constructional aspects of the apparatus}
+ 2005/0633  . . . {Arrangements for lifting or hinging the frame
+which supports the light sources}
+ 2005/0634  . . . {Mechanisms that allow a space saving storage
+ 2005/0635  . . {characterised by the body area to be irradiated}
+ 2005/0636  . . . {Irradiating the whole body}
+ 2005/0637  . . . . {in a horizontal position}
+ 2005/0638  . . . . . {with a specially adapted support surface}
+ 2005/0639  . . . . . {with additional sources directed at, e.g.
+ 2005/064   . . . . {in a vertical position}
+ 2005/0641  . . . . . {with rotation of the patient}
+ 2005/0642  . . . {Irradiating part of the body at a certain
+ 2005/0643  . . . {Applicators, probes irradiating specific body
+ 2005/0644  . . . . {Handheld applicators}
+ 2005/0645  . . . . {Applicators worn by the patient}
+ 2005/0647  . . . . . {the applicator adapted to be worn on the
+ 2005/0648  . . . . . . {the light being directed to the eyes}
+ 2005/0649  . . . . {using suction to fix the applicator to the
+ 2005/065   . . {Light sources therefor}
+ 2005/0652  . . . . {Arrays of diodes}
+ 2005/0653  . . . . {Organic light emitting diodes}
+ 2005/0656  . . . {Chemical light sources}
+ 2005/0657  . . . {Natural light sources, e.g. captured sunlight}
+ 2005/0658  . . {characterised by the wavelength of light used}
+ 2005/066   . . . . {far infrared}
+ 2005/0661  . . . {ultra-violet}
+ 2005/0662  . . . {Visible light}
+ 2005/0663  . . . . {Coloured light}
+ 2005/0666  . . . . {for redirecting light to the treatment area}
+ 2005/0668  . . . {Apparatus adapted for operation in a moist
+environment, e.g. bath or shower}
+    5/067   . . using laser light
+ 2005/073   . . {using polarised light}
+    5/10    . X-ray therapy; Gamma-ray therapy; Particle-
+irradiation therapy (A61N 5/01 takes precedence)
+    5/1001  . . {using radiation sources introduced into or
+applied onto the body; brachytherapy}
+    5/1002  . . . {Intraluminal radiation therapy}
+ 2005/1003  . . . . {having means for centering a radioactive
+source within the lumen, e.g. balloons}
+ 2005/1004  . . . . {having expandable radiation sources}
+ 2005/1005  . . . . {with asymmetrical radiation pattern}
+    5/1007  . . . {Arrangements or means for the introduction of
+ 2005/1008  . . . . {Apparatus for temporary insertion of
+ 2005/1009  . . . . {Apparatus for loading seeds into magazines
+ 2005/101   . . . . {Magazines or cartridges for seeds}
+ 2005/1011  . . . . {Apparatus for permanent insertion of
+ 2005/1012  . . . . {Templates or grids for guiding the
+    5/1014  . . . {Intracavitary radiation therapy}
+    5/1015  . . . . {Treatment of resected cavities created by
+    5/1016  . . . . {Gynaecological radiation therapy}
+    5/1017  . . . . {Treatment of the eye, e.g. for "macular
+ 2005/1018  . . . . {with multiple channels for guiding
+ 2005/1019  . . . {Sources therefor}
+ 2005/1021  . . . . {Radioactive fluid}
+ 2005/1022  . . . . {Generators, e.g. X-ray tubes}
+ 2005/1023  . . . . {Means for creating a row of seeds, e.g.
+    5/1027  . . . {Interstitial radiation therapy}
+    5/1028  . . . {using radiation sources applied onto the body}
+    5/1029  . . . . {Radioactive dressings}
+    5/103   . . {Treatment planning systems}
+    5/1031  . . . {using a specific method of dose optimization}
+ 2005/1032  . . . . {Genetic optimization methods}
+ 2005/1034  . . . . {Monte Carlo type methods; particle
+ 2005/1035  . . . . {Simulated annealing}
+    5/1036  . . . {Leaf sequencing algorithms}
+    5/1037  . . . {taking into account the movement of the
+target, e.g. 4D-image based planning}
+    5/1038  . . . {taking into account previously administered
+plans applied to the same patient, i.e. adaptive
+    5/1039  . . . {using functional images, e.g. PET or MRI}
+ 2005/1041  . . . {using a library of previously administered
+radiation treatment applied to other patients}
+    5/1042  . . {with spatial modulation of the radiation beam
+    5/1043  . . . {Scanning the radiation beam, e.g. spot
+    5/1044  . . . . {with multiple repetitions of the scanning
+    5/1045  . . . {using a multi-leaf collimator, e.g. for intensity
+modulated radiation therapy or IMRT}
+    5/1047  . . . . {with movement of the radiation head during
+application of radiation, e.g. for intensity
+    5/1048  . . {Monitoring, verifying, controlling systems and
+    5/1049  . . . {for verifying the position of the patient with
+ 2005/105   . . . . {using a laser alignment system}
+ 2005/1051  . . . . {using an active marker (markers in general
+ 2005/1052  . . . . {using positron emission tomography
+[PET] single photon emission computer
+ 2005/1054  . . . . {using a portal imaging system}
+ 2005/1055  . . . . {using magnetic resonance imaging [MRI]}
+ 2005/1056  . . . . {by projecting a visible image of the
+ 2005/1057  . . . . {monitoring flexing of the patient support or
+the radiation treatment apparatus}
+ 2005/1058  . . . . {using ultrasound imaging}
+ 2005/1059  . . . . {using cameras imaging the patient}
+ 2005/1061  . . . . {using an x-ray imaging system having a
+ 2005/1062  . . . . . {using virtual X-ray images, e.g. digitally
+reconstructed radiographs [DRR]}
+ 2005/1063  . . . . {maintaining the position when the patient is
+moved from an imaging to a therapy system}
+    5/1064  . . . {for adjusting radiation treatment in response to
+    5/1065  . . . . {Beam adjustment}
+    5/1067  . . . . . {in real time, i.e. during treatment}
+    5/1068  . . . . {Gating the beam as a function of a
+    5/1069  . . . . {Target adjustment, e.g. moving the patient
+    5/107   . . . . . {in real time, i.e. during treatment}
+    5/1071  . . . {for verifying the dose delivered by the
+ 2005/1072  . . . . {taking into account movement of the target}
+ 2005/1074  . . . {Details of the control system, e.g. user
+    5/1075  . . . {for testing, calibrating, or quality assurance of
+the radiation treatment apparatus}
+ 2005/1076  . . . . {using a dummy object placed in the
+    5/1077  . . {Beam delivery systems}
+    5/1078  . . . {Fixed beam systems}
+    5/1079  . . . {Sharing a beam by multiple treatment
+    5/1081  . . . {Rotating beam systems with a specific
+mechanical construction, e.g. gantries}
+    5/1082  . . . . {having multiple beam rotation axes}
+    5/1083  . . . {Robot arm beam systems}
+    5/1084  . . . {for delivering multiple intersecting beams at
+the same time, e.g. gamma knives}
+ 2005/1085  . . {characterised by the type of particles applied to
+ 2005/1087  . . . {Ions; Protons}
+ 2005/1088  . . . . {generated by laser radiation}
+ 2005/1091  . . . {Kilovoltage or orthovoltage range photons}
+ 2005/1094  . . . {Shielding, protecting against radiation}
+ 2005/1095  . . . {Elements inserted into the radiation path
+within the system, e.g. filters or wedges}
+ 2005/1096  . . . {Elements inserted into the radiation path
+placed on the patient, e.g. bags, bolus,
+ 2005/1097  . . . {Means for immobilizing the patient}
+ 2005/1098  . . . {Enhancing the effect of the particle by an
+injected agent or implanted device}
+    7/00    Ultrasound therapy (lithotripsy A61B 17/22,
+A61B 17/225; massage using supersonic vibration
+A61H 23/00 {; using ultrasound for introducing
+media into the body A61M 37/0092})
+ 2007/0004  . {Applications of ultrasound therapy}
+ 2007/0008  . . {Destruction of fat cells}
+ 2007/0013  . . {Fracture healing}
+ 2007/0017  . . {Wound healing}
+ 2007/0021  . . {Neural system treatment}
+ 2007/0026  . . . {Stimulation of nerve tissue}
+ 2007/003   . . . {Destruction of nerve tissue}
+ 2007/0034  . . {Skin treatment}
+ 2007/0039  . {using microbubbles}
+ 2007/0052  . {using the same transducer for therapy and
+ 2007/0056  . {Beam shaping elements}
+ 2007/0065  . . {Concave transducers}
+ 2007/0073  . {using multiple frequencies}
+ 2007/0078  . {with multiple treatment transducers}
+ 2007/0082  . {Scanning transducers}
+ 2007/0091  . . {with moving parts, e.g. transducers, lenses,
+ 2007/0095  . . {by modifying an excitation signal}
+    7/02    . Localised ultrasound hyperthermia {(hyperthermia
+    7/022   . . {intracavitary}
+ 2007/027   . . {with multiple foci created simultaneously}

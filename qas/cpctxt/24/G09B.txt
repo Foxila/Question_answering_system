@@ -1,0 +1,353 @@
+COOPERATIVE PATENT CLASSIFICATION
+EDUCATION; CRYPTOGRAPHY; DISPLAY; ADVERTISING; SEALS
+EDUCATIONAL OR DEMONSTRATION APPLIANCES; APPLIANCES FOR
+TEACHING, OR COMMUNICATING WITH, THE BLIND, DEAF OR MUTE;
+MODELS; PLANETARIA; GLOBES; MAPS; DIAGRAMS (devices for psychotechnics
+or for testing reaction times A61B 5/16; games, sports, amusements A63; projectors, projector
+• simulators regarded as teaching or training devices, which  is the case if they give perceptible sensations having a  likeness
+to the sensations a student would experience in  reality in response to actions taken by him;
+• models of buildings, installations, or the like.
+2. This subclass does not cover:
+• simulators which demonstrate, by means involving computing,  the function of apparatus or of a system, which are covered
+by class G06, if no provision exists elsewhere
+• components of simulators, if identical with real devices or  machines, which are covered by the relevant subclasses for
+these devices or machines (and not by class G09).
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Manually or mechanically operated educational
+appliances using elements forming, or bearing,
+symbols, signs, pictures, or the like which are
+arranged or adapted to be arranged in one or
+more particular ways (puzzle-games A63F 9/00;
+advertising or displaying in general G09F)
+    1/02    . and having a support carrying or adapted to carry
+    1/04    . . the elements each bearing a single symbol or a
+    1/06    . . . and being attachable to, or mounted on, the
+    1/08    . . . . by means of magnets
+    1/10    . . . . by means of pins and holes
+    1/12    . . . . by means of ring-like securing elements
+(sheets temporarily attached together by
+rings or coils B42F 3/00, G09B 5/00)
+    1/14    . . . . the elements being slidably mounted on the
+    1/16    . . the elements each bearing a plurality of different
+symbols, signs, or combinations of symbols and
+signs, only one symbol, sign, or combination
+thereof, of each element to be used at a time
+    1/18    . . . the elements being rotatable
+    1/20    . . . . and bearing the symbols on a surface parallel
+    1/22    . . . . and bearing the symbols on a surface
+perpendicular to the axis of rotation
+    1/24    . . . the elements being in flexible strip form, e.g.
+    1/26    . . . the elements being arranged in fan form
+    1/28    . . . the elements being slidable
+    1/30    . . wherein the elements are adapted to be arranged
+in co-operation with the support to form symbols
+(without special support G09B 1/40)
+    1/32    . comprising elements to be used without a special
+    1/325   . . {the elements comprising interacting electronic
+    1/34    . . the elements to be placed loosely in adjacent
+    1/36    . . the elements being connectible by corresponding
+    1/38    . . the elements being connectible magnetically
+    1/40    . . to form symbols or signs by appropriate
+    3/00    Manually or mechanically operated teaching
+appliances working with questions and answers
+(electrically-operated G09B 7/00; {e.g. G09B 7/063}
+advertising or displaying in general G09F)
+    3/02    . of the type wherein the student is expected to
+construct an answer to the question which is
+presented or wherein the machine gives an answer
+to the question presented by a student
+    3/04    . . of chart form (masks G09B 17/02)
+    3/045   . . . {with invisibly printed correct answer; the
+answer being rendered visible by special
+optical means, e.g. filters; mirrors}
+    3/06    . of the multiple-choice answer type, i.e. where a
+given question is provided with a series of answers
+    3/08    . . of chart form (having one set of answers common
+to a plurality of questions G09B 3/12)
+    3/085   . . . {with invisibly printed correct answer; the
+answer being rendered visible by special
+optical means, e.g. filters; mirrors}
+    3/10    . . wherein one set of answers is common to a
+    3/12    . . . of chart form
+    5/00    Electrically-operated educational appliances
+(working with questions and answers G09B 7/00;
+simulators G09B 9/00; advertising or displaying in
+Group G09B 5/08 takes precedence over groups
+    5/02    . with visual presentation of the material to be
+    5/04    . with audible presentation of the material to be
+studied (sound recording or reproducing G11B)
+    5/06    . with both visual and audible presentation of the
+    5/062   . . {Combinations of audio and printed
+presentations, e.g. magnetically striped cards,
+talking books, magnetic tapes with printed texts
+    5/065   . . {Combinations of audio and video presentations,
+e.g. videotapes, videodiscs, television systems}
+    5/067   . . {Combinations of audio and projected visual
+presentation, e.g. film, slides}
+    5/08    . providing for individual presentation of information
+to a plurality of student stations
+    5/10    . . all student stations being capable of presenting
+the same information simultaneously (G09B 5/14
+    5/12    . . different stations being capable of presenting
+different information simultaneously (G09B 5/14
+    5/125   . . . {the stations being mobile}
+    5/14    . . with provision for individual teacher-student
+    7/00    Electrically-operated teaching apparatus or
+devices working with questions and answers
+(mechanically operated G09B 3/00; computing
+    7/02    . of the type wherein the student is expected to
+construct an answer to the question which is
+presented or wherein the machine gives an answer
+to the question presented by a student
+    7/04    . . characterised by modifying the teaching
+programme in response to a wrong answer,
+e.g. repeating the question, supplying a further
+    7/06    . of the multiple-choice answer-type, i.e. where a
+given question is provided with a series of answers
+and a choice has to be made from the answers
+    7/063   . . {with hand-placed probe or plug}
+    7/066   . . {with answer indicating cards, blocks}
+    7/07    . . providing for individual presentation of questions
+to a plurality of student stations
+    7/073   . . . all student stations being capable of presenting
+the same questions simultaneously
+    7/077   . . . different stations being capable of presenting
+different questions simultaneously
+    7/08    . . characterised by modifying the teaching
+programme in response to a wrong answer,
+e.g. repeating the question, supplying further
+    7/10    . . wherein a set of answers is common to a plurality
+    7/12    . . . characterised by modifying the teaching
+programme in response to a wrong answer,
+e.g. repeating the question, supplying further
+    9/00    Simulators for teaching or training purposes (for
+the use of weapons F41; computing aspects G06;
+{protocols for games, networked simulations or
+    9/003   . {for military purposes and tactics}
+    9/006   . {for locating or ranging of objects}
+    9/02    . for teaching control of vehicles or other craft
+    9/04    . . for teaching control of land vehicles
+    9/042   . . . providing simulation in a real vehicle
+(G09B 9/052, G09B 9/058 take precedence)
+    9/048   . . . a model being viewed and manoeuvred from a
+remote point (G09B 9/052, G09B 9/058 take
+    9/05    . . . the view from a vehicle being simulated
+(G09B 9/052, G09B 9/058 take precedence)
+    9/052   . . . characterised by provision for recording or
+measuring trainee's performance (devices
+for psychotechnics, e.g. for vehicle drivers
+    9/058   . . . for teaching control of cycles or motorcycles
+    9/06    . . for teaching control of ships, boats, or other
+    9/063   . . . {by using visual displays}
+    9/066   . . . {Sailing; Surfing}
+    9/08    . . for teaching control of aircraft, e.g. Link trainer
+    9/085   . . . {Special purpose teaching, e.g. alighting on
+    9/10    . . . with simulated flight- or engine-generated force
+being applied to aircraft occupant (G09B 9/28
+    9/12    . . . Motion systems for aircraft simulators
+    9/14    . . . . controlled by fluid actuated piston or
+    9/16    . . . Ambient or aircraft conditions simulated or
+indicated by instrument or alarm
+    9/165   . . . . {Condition of cabin, cockpit or pilot's
+    9/18    . . . . Condition of engine or fuel supply
+    9/20    . . . . Simulation or indication of aircraft attitude
+    9/203   . . . . . {for taking-off or landing condition}
+    9/206   . . . . . {for in-flight condition}
+    9/22    . . . including aircraft sound simulation
+    9/24    . . . including display or recording of simulated
+    9/245   . . . . {Simulation of compasses, gyroscopes}
+    9/26    . . . Simulation of radio-navigation
+    9/28    . . . Simulation of stick forces or the like
+    9/30    . . . Simulation of view from aircraft
+When classifying in groups G09B 9/301,
+G09B 9/302, G09B 9/304, G09B 9/305,
+classification is also made in other
+G09B 9/308, G09B 9/32, G09B 9/323,
+G09B 9/326, G09B 9/34, G09B 9/36,
+    9/301   . . . . {by computer-processed or -generated
+    9/302   . . . . . {the image being transformed by computer
+processing, e.g. updating the image to
+correspond to the changing point of view}
+    9/304   . . . . {by using a film}
+    9/305   . . . . {by viewing with a camera a small-scale
+    9/307   . . . . {by helmet-mounted projector or display
+(G09B 9/36 takes precedence; optical parts
+of head-up displays G02B 27/01)}
+    9/308   . . . . {by LCD, gas plasma display or
+    9/32    . . . . by projected image ({G09B 9/307,}
+    9/323   . . . . . {the projection screen being made of LCD
+panels (G09B 9/307 takes precedence)}
+    9/326   . . . . . {the image being transformed by optical
+    9/34    . . . . by cathode-ray screen display
+({G09B 9/307,} G09B 9/36 take precedence)
+    9/36    . . . . Simulation of night or reduced visibility
+    9/38    . . . . . Simulation of runway outlining or
+    9/40    . . . Simulation of airborne radar
+    9/42    . . . Aircraft, aircraft simulator or means connected
+thereto, travelling on the ground or water
+during simulated flight training
+    9/44    . . . providing simulation in a real aircraft flying
+through the atmosphere without restriction of
+    9/46    . . . the aircraft being a helicopter
+    9/48    . . . a model being viewed and manoeuvred from a
+    9/50    . . . Automatically directing the course of the
+    9/52    . . for teaching control of an outer space vehicle
+    9/54    . Simulation of radar (G09B 9/40 takes precedence)
+    9/56    . Simulation of sonar
+   11/00    Teaching hand-writing, shorthand, drawing, or
+   11/02    . Finger, hand or arm supporting devices
+   11/04    . Guide sheets or plates; Tracing charts (templets for
+   11/06    . Devices involving the use of transparent or
+translucent tracing material, e.g. copy books
+   11/08    . Teaching shorthand
+   11/10    . Teaching painting
+   13/02    . Dummy practice keyboard apparatus (for teaching
+   13/04    . Devices used in association with a real typewriter,
+   15/00    Teaching music (metronomes G04F 5/02)
+   15/001   . {Boards or like means for providing an indication of
+   15/002   . . {Electrically operated systems}
+   15/003   . . . {with indication of the keys or strings to be
+   15/004   . . {Non-electrically operated systems}
+   15/005   . . . {of the slide type}
+   15/006   . . . . {with indication of the keys or strings to be
+   15/007   . . . {using disc-shaped boards}
+   15/008   . . . . {with indication of the keys or strings to be
+   15/009   . {Transposing devices}
+   15/02    . Boards or like means for providing an indication of
+   15/023   . . {Electrically operated}
+   15/026   . . {Non-electrically operated}
+   15/04    . . with sound emitters
+   15/06    . Devices for exercising or strengthening fingers
+or arms; Devices for holding fingers or arms in a
+proper position for playing (for teaching typing
+G09B 13/00; exercising apparatus for developing
+or strengthening the muscles for physical training
+   15/08    . Practice keyboards (for teaching typing
+   17/00    Teaching reading (teaching lip-reading G09B 21/00)
+   17/003   . {electrically operated apparatus or devices}
+   17/006   . . {with audible presentation of the material to
+be studied (audio and audio-visual teaching
+apparatus in general G09B 5/04, G09B 5/06)}
+   17/02    . Line indicators or other guides or masks
+   17/04    . for increasing the rate of reading; Reading rate
+   19/00    Teaching not covered by other main groups of
+this subclass (teaching or practice apparatus for gun-
+aiming or gun-laying F41G 3/26)
+   19/0023  . {Colour matching, recognition, analysis, mixture or
+   19/003   . {Repetitive work cycles; Sequence of movements}
+   19/0053  . {Computers, e.g. programming}
+   19/0069  . {Engineering, e.g. mechanical, electrical design
+(computer engineering G09B 19/0053)}
+   19/0076  . {Body hygiene; Dressing; Knot tying}
+   19/0084  . . {Dental hygiene}
+   19/02    . Counting; Calculating (abacus G06C 1/00)
+   19/025   . . {with electrically operated apparatus or devices}
+   19/04    . Speaking (with audible presentation of the material
+   19/06    . Foreign languages (with audible presentation of
+material to be studied G09B 5/04)
+   19/08    . . Printed or written appliances, e.g. text books,
+bilingual letter assemblies, charts
+   19/14    . Traffic procedures, e.g. traffic regulations
+   19/16    . Control of vehicles or other craft (simulators
+   19/162   . . {Control of ships, boats, or other waterborne
+   19/165   . . {Control of aircraft}
+   19/167   . . {Control of land vehicles}
+   19/18    . Book-keeping or economics
+   19/22    . Games, e.g. card games
+   19/26    . Dot-and dash telegraphic codes
+   21/00    Teaching, or communicating with, the blind,
+deaf or mute (audible presentation of material
+to be studied G09B 5/04; devices or methods for
+replacing direct visual or auditory perception by
+another kind of perception A61F 9/08, A61F 11/04;
+audible indication of meter readings or of colour
+G01D 7/12; watches for blind persons G04B 25/02;
+speech analysis, speech recognition G10L; sound-
+recording or reproducing, per se G11B)
+   21/001   . {Teaching or communicating with blind persons
+(G09B 21/02 - G09B 21/06 take precedence)}
+   21/002   . . {Writing aids for blind persons (devices for
+   21/003   . . {using tactile presentation of the information, e.g.
+   21/004   . . . {Details of particular tactile cells, e.g. electro-
+mechanical or mechanical layout}
+   21/005   . . . {Details of specially-adapted software to
+access information, e.g. to browse through
+   21/006   . . {using audible presentation of the information}
+   21/007   . . {using both tactile and audible presentation of the
+   21/008   . . {using visual presentation of the information for
+   21/009   . {Teaching or communicating with deaf persons
+(G09B 21/04 takes precedence; deaf and dumb
+   21/02    . Devices for Braille writing (typewriters for Braille
+   21/025   . . {wherein one tactile input is associated to a single
+   21/04    . Devices for conversing with the deaf-blind
+   21/06    . Devices for teaching lip-reading
+   23/00    Models for scientific, medical, or mathematical
+purposes, e.g. full-sized devices for demonstration
+purposes (in the nature of toys A63H)
+   23/02    . for mathematics (for statics or dynamics
+   23/04    . . for geometry, trigonometry, projection or
+perspective (for surveying G09B 25/06)
+   23/08    . . for statics or dynamics
+   23/10    . . . of solid bodies
+   23/12    . . . of liquids or gases
+   23/16    . . for science of heat
+   23/18    . . for electricity or magnetism
+   23/181   . . . {for electric and magnetic fields; for voltages;
+   23/182   . . . {for components}
+   23/183   . . . {for circuits}
+   23/185   . . . . {for building block systems}
+   23/186   . . . . {for digital electronics; for computers, e.g.
+   23/187   . . . {for measuring instruments}
+   23/188   . . . {for motors; for generators; for power supplies;
+   23/20    . . for atomic physics or neucleonics
+   23/26    . for molecular structures; for crystallography
+   23/281   . . {for pregnancy, birth or obstetrics (G09B 23/286
+   23/283   . . {for dentistry or oral hygiene (G09B 23/286 takes
+   23/285   . . {for injections, endoscopy, bronchoscopy,
+sigmoidscopy, insertion of contraceptive devices
+   23/286   . . {for scanning or photography techniques, e.g. X-
+   23/288   . . {for artificial respiration or heart massage}
+   23/30    . . Anatomical models
+{(G09B 23/281 - G09B 23/288 take precedence)}
+   23/303   . . . {specially adapted to simulate circulation of
+   23/306   . . . {comprising real biological tissue}
+   23/32    . . . with moving parts
+   23/34    . . . with removable parts
+   25/00    Models for purposes not provided for
+in G09B 23/00, e.g. full-sized devices for
+demonstration purposes (model vehicles, tracks
+therefor, models in the nature of toys A63H)
+   25/02    . of industrial processes; of machinery
+   25/025   . . {hydraulic; pneumatic}
+   25/06    . for surveying; for geography, e.g. relief models
+(globes G09B 27/00; maps G09B 29/00)
+   25/08    . of scenic effects, e.g. trees, rocks, water surfaces
+   27/02    . Tellurions; Orreries
+   27/08    . Globes (celestial globes G09B 27/06)
+   29/00    Maps; Plans; Charts; Diagrams, e.g. route
+diagram (star maps G09B 27/04; devices for holding
+or supporting maps A47B 97/02; for computing
+purposes G06G 1/14, G09B 1/16; display boards
+   29/001   . {Planning boards}
+   29/002   . . {using magnetic elements}
+   29/004   . . {Map manufacture or repair; Tear or ink or
+water resistant maps; Long-life maps (printing
+processes for maps B41M 3/02; by permanently
+attaching map sections to sheets B42B 7/00)}
+   29/005   . . {Map projections or methods associated
+   29/006   . . {Representation of non-cartographic information
+on maps, e.g. population distribution, wind
+direction, radiation levels, air and sea routes}
+   29/007   . . . {using computer methods}
+   29/008   . . . {Touring maps or guides to public transport
+   29/04    . . the sections being arranged in the form of a
+   29/06    . of belt form, e.g. endless belt
+   29/08    . Hanging maps or the like
+   29/10    . Map spot or coordinate position indicators; Map
+reading aids (optical projection apparatus per se
+   29/102   . . {using electrical means}
+   29/104   . . . {involving the optical projection of slides,
+   29/106   . . {using electronic means}
+   29/108   . . . {involving the optical projection of slides,
+   29/12    . Relief maps (relief models G09B 25/06)
+   29/14    . Local time charts

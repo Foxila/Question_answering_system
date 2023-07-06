@@ -1,0 +1,119 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+MACHINE TOOLS; METAL-WORKING NOT OTHERWISE PROVIDED FOR
+WORKING OF METAL BY THE ACTION OF A HIGH CONCENTRATION OF
+ELECTRIC CURRENT ON A WORKPIECE USING AN ELECTRODE WHICH TAKES
+THE PLACE OF A TOOL; SUCH WORKING COMBINED WITH OTHER FORMS
+OF WORKING OF METAL (processes for the electrolytic or electrophoretic production of
+coatings, electroforming, or apparatus therefor C25D; processes for the electrolytic removal of
+material from objects C25F; manufacturing printed circuits using precipitation techniques to
+apply the conductive material to form the desired conductive pattern H05K 3/18)
+This subclass  covers the working of metal described as "electroerosion"
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Electrical discharge machining, i.e. removing
+metal with a series of rapidly recurring electrical
+discharges between an electrode and a workpiece
+in the presence of a fluid dielectric
+    1/02    . Electric circuits specially adapted therefor, e.g.
+power supply, control, preventing short circuits or
+    1/022   . . {for shaping the discharge pulse train
+    1/024   . . {Detection of, and response to, abnormal gap
+conditions, e.g. short circuits (preventing short
+circuits or other abnormal discharges by altering
+machining parameters using adaptive control
+    1/026   . . {Power supply protection, e.g. detection of power
+    1/028   . . {for multiple gap machining}
+    1/04    . Electrodes specially adapted therefor or their
+manufacture (B23H 9/00 takes precedence)
+    1/06    . . Electrode material
+    1/10    . Supply or regeneration of working media
+    3/00    Electrochemical machining, i.e. removing metal
+by passing current between an electrode and a
+workpiece in the presence of an electrolyte
+    3/02    . Electric circuits specially adapted therefor, e.g.
+power supply, control, preventing short circuits
+    3/04    . Electrodes specially adapted therefor or their
+manufacture (B23H 9/00 takes precedence)
+    3/06    . . Electrode material
+    3/10    . Supply or regeneration of working media
+    5/02    . Electrical discharge machining combined with
+    5/04    . Electrical discharge machining combined with
+    5/06    . Electrochemical machining combined with
+mechanical working, e.g. grinding or honing
+    5/08    . . Electrolytic grinding
+    5/10    . Electrodes specially adapted therefor or their
+manufacture (B23H 1/04, B23H 3/04 take
+    5/14    . Supply or regeneration of working media
+    7/00    Processes or apparatus applicable to both
+electrical discharge machining and electrochemical
+    7/04    . . Apparatus for supplying current to working gap;
+Electric circuits specially adapted therefor
+    7/06    . . Control of the travel curve of the relative
+movement between electrode and workpiece
+    7/065   . . . {Electric circuits specially adapted therefor}
+    7/08    . . Wire electrodes
+    7/10    . . . Supporting, winding or electrical connection of
+    7/101   . . . . {Supply of working media}
+    7/102   . . . . {Automatic wire threading}
+    7/104   . . . . {Wire tension control}
+    7/105   . . . . {Wire guides}
+    7/107   . . . . {Current pickups}
+    7/108   . . . . {Used wire disposal devices}
+    7/12    . Rotating-disc electrodes
+    7/14    . Electric circuits specially adapted therefor, e.g.
+power supply {(B23H 3/02 takes precedence)}
+    7/16    . . for preventing short circuits or other abnormal
+discharges {by altering machining parameters
+    7/18    . . for maintaining or controlling the desired spacing
+between electrode and workpiece
+    7/20    . . for programme-control, e.g. adaptive
+(programme-control systems in general
+    7/22    . Electrodes specially adapted therefor or their
+manufacture (B23H 7/08, B23H 7/12, B23H 9/00
+    7/24    . . Electrode material
+    7/26    . Apparatus for moving or positioning electrode
+relatively to workpiece; Mounting of electrode
+    7/265   . . {Mounting of one or more thin electrodes}
+    7/28    . . Moving electrode in a plane normal to the feed
+    7/30    . . Moving electrode in the feed direction
+    7/32    . . Maintaining desired spacing between electrode
+and workpiece {, e.g. by means of particulate
+    7/36    . Supply or regeneration of working media
+    7/38    . Influencing metal working by using specially
+adapted means not directly involved in the removal
+of metal, e.g. ultrasonic waves, magnetic fields or
+    9/00    Machining specially adapted for treating
+particular metal objects or for obtaining special
+effects or results on metal objects (heat treatment by
+    9/003   . {Making screw-threads or gears}
+    9/005   . {Machining elongated bodies, e.g. rods}
+    9/006   . {Cavity sinking (B23H 9/14 takes precedence)}
+    9/008   . {Surface roughening or texturing}
+    9/02    . Trimming or deburring {(B23H 9/003 takes
+    9/04    . Treating surfaces of rolls
+    9/06    . Marking or engraving
+    9/10    . Working turbine blades or nozzles
+    9/12    . Forming parts of complementary shape, e.g. punch-
+    9/16    . . using an electrolytic jet
+    9/18    . Producing external conical surfaces or spikes
+   11/00    Auxiliary apparatus or details, not otherwise
+   11/003   . {Mounting of workpieces, e.g. working-tables}
+   11/006   . {Electrical contacts or wires (B23H 7/10 takes
+ 2200/00    Specific machining processes or workpieces
+ 2200/10    . for making bearings
+ 2200/20    . for making conical bores
+ 2200/30    . for making honeycomb structures
+ 2300/00    Power source circuits or energization
+ 2300/10    . Pulsed electrochemical machining
+ 2300/12    . . Positive and negative pulsed electrochemical
+ 2300/20    . Relaxation circuit power supplies for supplying
+the machining current, e.g. capacitor or inductance
+ 2300/22    . . Circuits using or taking into account line
+impedance to shape the discharge pulse
+ 2400/00    Moving mechanisms for tool electrodes
+ 2400/10    . for rotating the electrode
+ 2500/00    Holding and positioning of tool electrodes
+ 2500/20    . Methods or devices for detecting wire or workpiece
+ 2600/00    Machining conditions
+ 2600/10    . Switching of machining conditions during
+ 2600/12    . . Switching from rough cutting to finish machining

@@ -1,0 +1,372 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+PHYSICAL OR CHEMICAL PROCESSES OR APPARATUS IN GENERAL
+CHEMICAL OR PHYSICAL LABORATORY APPARATUS FOR GENERAL USE
+This subclass covers only laboratory apparatus which is either applicable solely to laboratory purposes or which, by reason of
+its simple construction and adaptability, is such as would not be suitable for industrial use.
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. {In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Enclosures; Chambers (provided with manipulation
+devices or glove boxes B25J 21/00)
+    1/02    . Air-pressure chambers; Air-locks therefor
+    1/025   . . {Environmental chambers (incubators for
+culturing cells C12M 41/14; test chambers to test
+weather resistance G01N 17/002)}
+    1/04    . Dust-free rooms or enclosures
+    1/50    . {for storing hazardous materials in the laboratory,
+e.g. cupboards, waste containers (sample containers
+    1/52    . {Transportable laboratories; Field kits}
+    3/00    Containers or dishes for laboratory use, e.g.
+Petri dishes for enzymology or microbiology are
+    3/02    . Burettes; Pipettes
+    3/0203  . . {Burettes, i.e. for withdrawing and redistributing
+liquids through different conduits}
+    3/0206  . . . {of the plunger pump type}
+    3/021   . . {Pipettes, i.e. with only one conduit for
+withdrawing and redistributing liquids}
+    3/0213  . . . {Accessories for glass pipettes; Gun-type
+pipettes, e.g. safety devices, pumps}
+    3/0217  . . . {of the plunger pump type (medical syringes
+    3/022   . . . . {Capillary pipettes, i.e. having very small
+bore (B01L 3/0224 - B01L 3/0237 take
+    3/0224  . . . . {having mechanical means to set stroke
+length, e.g. movable stops (B01L 3/0231,
+    3/0227  . . . . {Details of motor drive means
+    3/0231  . . . . {having several coaxial pistons}
+    3/0234  . . . . {Repeating pipettes, i.e. for dispensing
+multiple doses from a single charge}
+    3/0237  . . . . {Details of electronic control, e.g. relating to
+    3/0241  . . {Drop counters; Drop formers (making arrays for
+combinatorial libraries B01J 19/0046; automation
+of dispensing for analysis G01N 35/10)}
+    3/0248  . . . . {Prongs, quill pen type dispenser}
+    3/0251  . . . . {Pin and ring type or pin in tube type
+    3/0255  . . . . {characterized by the form or material of the
+    3/0258  . . . {using stamps}
+    3/0262  . . . {using touch-off at substrate or container}
+    3/0265  . . . {using valves to interrupt or meter fluid flow,
+e.g. using solenoids or metering valves}
+    3/0268  . . . {using pulse dispensing or spraying, eg. inkjet
+type, piezo actuated ejection of droplets from
+    3/0272  . . . {Dropper bottles}
+    3/0275  . . {Interchangeable or disposable dispensing tips}
+    3/0279  . . . {co-operating with positive ejection means}
+    3/0282  . . {mounted within a receptacle (wash bottles
+    3/0286  . . {Ergonomic aspects, e.g. form or arrangement of
+    3/0289  . . {Apparatus for withdrawing or distributing
+predetermined quantities of fluid (B01L 3/02
+takes precedence; sample taking G01N 1/00;
+sample taking within automatic analysers
+G01N 35/00; volume measuring in general
+    3/0293  . . . {for liquids}
+    3/0296  . . . . {from piercable tubing, e.g. in extracorporeal
+    3/06    . Crystallising dishes
+    3/12    . Gas jars or cylinders
+    3/50    . {Containers for the purpose of retaining a material
+to be analysed, e.g. test tubes (devices for taking
+    3/502   . . {with fluid transport, e.g. in multi-compartment
+structures (centrifugal-type cuvettes G01N 21/07;
+analysis by separation into components
+G01N 30/00; automatic analysers G01N 35/00)}
+    3/5021  . . . {Test tubes specially adapted for centrifugation
+purposes (centrifuges B04B 5/04)}
+    3/50215 . . . . {using a float to separate phases}
+    3/5023  . . . {with a sample being transported to, and
+subsequently stored in an absorbent for
+    3/5025  . . . {for parallel transport of multiple samples}
+    3/50255 . . . . {Multi-well filtration}
+    3/5027  . . . {by integrated microfluidic structures, i.e.
+dimensions of channels and chambers are such
+that surface tension forces are important, e.g.
+lab-on-a-chip (B01L 3/5023 takes precedence;
+micromixers B01F 33/30; microreactors for
+synthesis B01J 19/0093; microcapillary devices
+    3/502707 . . . . {characterised by the manufacture of the
+container or its components (manufacture of
+microstructural devices in general B81C; by
+shaping or joining plastic parts B29C 59/00
+B29C 65/00, by laminating B32B 37/00)}
+    3/502715 . . . . {characterised by interfacing components,
+e.g. fluidic, electrical, optical or mechanical
+    3/502723 . . . . {characterised by venting arrangements}
+    3/50273 . . . . {characterised by the means or forces
+applied to move the fluids (micropumps
+F04B 19/006, of the membrane type
+    3/502738 . . . . {characterised by integrated valves
+    3/502746 . . . . {characterised by the means for controlling
+flow resistance, e.g. flow controllers, baffles
+(B01L 3/502738 takes precedence)}
+    3/502753 . . . . {characterised by bulk separation
+arrangements on lab-on-a-chip devices, e.g.
+for filtration or centrifugation (separation in
+general B01D; microapparatus for analysis
+using electrophoresis G01N 27/44791;
+    3/502761 . . . . {specially adapted for handling suspended
+solids or molecules independently from the
+bulk fluid flow, e.g. for trapping or sorting
+beads, for physically stretching molecules
+(investigating characteristics of particles
+    3/502769 . . . . {characterised by multiphase flow
+    3/502776 . . . . . {specially adapted for focusing or
+    3/502784 . . . . . {specially adapted for droplet or plug
+flow, e.g. digital microfluidics (automatic
+analysis using a stream of discrete samples
+    3/502792 . . . . . . {for moving individual droplets on a
+plate, e.g. by locally altering surface
+    3/5029  . . . {using swabs}
+    3/505   . . {flexible containers not provided for above}
+    3/5055  . . . {Hinged, e.g. opposable surfaces}
+    3/508   . . {rigid containers not provided for above}
+    3/5082  . . . {Test tubes per se}
+    3/50825 . . . . {Closing or opening means, corks, bungs
+(closures for containers B65D; means for
+    3/5085  . . . {for multiple samples, e.g. microtitration
+    3/50851 . . . . {specially adapted for heating or cooling
+samples (laboratory heating apparatus
+    3/50853 . . . . {with covers or lids}
+    3/50855 . . . . {using modular assemblies of strips or of
+    3/50857 . . . . {using arrays or bundles of open capillaries
+    3/5088  . . . {confining liquids at a location by surface
+tension, e.g. virtual wells on plates, wires
+(B01L 3/50857 takes precedence)}
+    3/52    . {Containers specially adapted for storing or
+dispensing a reagent (B01L 3/02 takes precedence;
+containers for medical or pharmaceutical purposes
+A61J 1/00; containers in general B65D; storing or
+dispensing test elements G01N 33/4875; automated
+reagent dispensing G01N 35/1002)}
+    3/523   . . {with means for closing or opening}
+    3/527   . . {for a plurality of reagents}
+    3/54    . {Labware with identification means (identification
+of carriers, materials or components in automatic
+    3/545   . . {for laboratory containers}
+    3/5453  . . . {for test tubes}
+    3/5457  . . . {for container closures}
+    3/56    . {Labware specially adapted for transferring fluids}
+    3/561   . . {Tubes; Conduits (in general F16L)}
+    3/563   . . {Joints or fittings (in general F16L); Separable
+fluid transfer means to transfer fluids between at
+least two containers, e.g. connectors}
+    3/5635  . . . {connecting two containers face to face, e.g.
+    3/565   . . {Seals (in general F16L)}
+    3/567   . . {Valves, taps or stop-cocks (in combination with
+burettes B01L 3/0203; in general F16K)}
+    5/00    Gas handling apparatus (gas jars or cylinders
+B01L 3/12; cold traps or cold baffles B01D 8/00)
+    5/02    . Gas collection apparatus, e.g. by bubbling under
+    5/04    . Gas washing apparatus, e.g. by bubbling
+    7/00    Heating or cooling apparatus (autoclaves
+B01J 3/04); Heat insulating devices
+    7/02    . Water baths; Sand baths; Air baths
+    7/04    . Heat insulating devices, e.g. jackets for flasks
+    7/52    . {with provision for submitting samples to a
+predetermined sequence of different temperatures,
+e.g. for treating nucleic acid samples (amplification
+or hybridisation processes per se C12Q 1/68;
+controlling sequential reactions for synthesis
+    7/525   . . {with physical movement of samples between
+    7/5255  . . . {by moving sample containers}
+    7/54    . {using spatial temperature gradients}
+    9/00    Supporting devices; Holding devices
+    9/02    . Laboratory benches or tables; Fittings therefor
+    9/04    . Retort stands; Retort clamps
+    9/06    . Test-tube stands; Test-tube holders
+    9/065   . . {specially adapted for capillary tubes}
+    9/50    . {Clamping means, tongs (in general F16B 2/06)}
+    9/52    . {Supports specially adapted for flat sample carriers,
+e.g. for plates, slides, chips}
+    9/523   . . {for multisample carriers, e.g. used for
+    9/527   . . {for microfluidic devices, e.g. used for lab-on-a-
+    9/54    . {Supports specially adapted for pipettes and burettes
+(automated pipetting stations G01N 35/10)}
+    9/543   . . {for disposable pipette tips, e.g. racks or
+    9/547   . . {for dispensing pins}
+    9/56    . {Means for indicating position of a recipient or
+   13/00    {Cleaning or rinsing apparatus}
+   13/02    . {for receptacle or instruments}
+   99/00    Subject matter not provided for in other groups of
+ 2200/00    Solutions for specific problems relating to chemical
+or physical laboratory apparatus
+ 2200/02    . Adapting objects or devices to another
+ 2200/021   . . Adjust spacings in an array of wells, pipettes
+or holders, format transfer between arrays of
+ 2200/022   . . . Variable spacings
+ 2200/023   . . adapted for different sizes of tubes, tips or
+ 2200/025   . . Align devices or objects to ensure defined
+positions relative to each other
+ 2200/026   . . Fluid interfacing between devices or objects, e.g.
+ 2200/027   . . . for microfluidic devices
+ 2200/028   . . Modular arrangements
+ 2200/04    . Exchange or ejection of cartridges, containers or
+ 2200/06    . Fluid handling related problems
+ 2200/0605  . . Metering of fluids
+ 2200/061   . . Counting droplets
+ 2200/0615  . . Loss of fluid by dripping
+ 2200/0621  . . Control of the sequence of chambers filled or
+ 2200/0626  . . using levitated droplets
+ 2200/0631  . . Purification arrangements, e.g. solid phase
+ 2200/0636  . . Focussing flows, e.g. to laminate flows
+ 2200/0642  . . Filling fluids into wells by specific techniques
+ 2200/0647  . . Handling flowable solids, e.g. microscopic beads,
+ 2200/0652  . . . Sorting or classification of particles or
+ 2200/0657  . . . Pipetting powder
+ 2200/0663  . . . Stretching or orienting elongated molecules or
+ 2200/0668  . . . Trapping microscopic beads
+ 2200/0673  . . Handling of plugs of fluid surrounded by
+ 2200/0678  . . Facilitating or initiating evaporation
+ 2200/0684  . . Venting, avoiding backpressure, avoid gas
+ 2200/0694  . . Creating chemical gradients in a fluid
+ 2200/08    . Ergonomic or safety aspects of handling devices
+ 2200/082   . . Handling hazardous material
+ 2200/085   . . Protection against injuring the user
+ 2200/087   . . Ergonomic aspects
+ 2200/10    . Integrating sample preparation and analysis in
+single entity, e.g. lab-on-a-chip concept
+ 2200/12    . Specific details about manufacturing devices
+ 2200/14    . Process control and prevention of errors
+ 2200/141   . . Preventing contamination, tampering
+ 2200/142   . . Preventing evaporation
+ 2200/143   . . Quality control, feedback systems
+ 2200/145   . . . Detecting door closure
+ 2200/146   . . . Employing pressure sensors
+ 2200/147   . . . Employing temperature sensors
+ 2200/148   . . Specific details about calibrations
+ 2200/16    . Reagents, handling or storing thereof
+ 2200/18    . Transport of container or devices
+ 2200/185   . . Long distance transport, e.g. mailing
+ 2300/00    Additional constructional details
+ 2300/02    . Identification, exchange or storage of information
+ 2300/021   . . Identification, e.g. bar codes
+ 2300/022   . . . Transponder chips
+ 2300/023   . . Sending and receiving of information, e.g. using
+ 2300/024   . . Storing results with means integrated into the
+ 2300/025   . . Displaying results or values with integrated
+ 2300/026   . . . Drum counters
+ 2300/027   . . . Digital display, e.g. LCD, LED
+ 2300/04    . Closures and closing means
+ 2300/041   . . Connecting closures to device or container
+ 2300/043   . . . Hinged closures
+ 2300/044   . . . pierceable, e.g. films, membranes
+ 2300/045   . . . whereby the whole cover is slidable
+ 2300/046   . . Function or devices integrated in the closure
+ 2300/047   . . . Additional chamber, reservoir
+ 2300/048   . . . enabling gas exchange, e.g. vents
+ 2300/049   . . . Valves integrated in closure
+ 2300/06    . Auxiliary integrated devices, integrated components
+ 2300/0609  . . Holders integrated in container to position an
+ 2300/0618  . . . for removable separation walls
+ 2300/0627  . . Sensor or part of a sensor is integrated
+ 2300/0636  . . . Integrated biosensor, microarrays
+ 2300/0654  . . . Lenses; Optical fibres
+ 2300/0663  . . . Whole sensors
+ 2300/0672  . . Integrated piercing tool
+ 2300/069   . . Absorbents; Gels to retain a fluid
+ 2300/08    . Geometry, shape and general structure
+ 2300/0806  . . . Standardised forms, e.g. compact disc [CD]
+ 2300/0809  . . rectangular shaped
+ 2300/0816  . . . Cards, e.g. flat sample carriers usually with
+flow in two horizontal directions
+ 2300/0819  . . . Microarrays; Biochips
+ 2300/0829  . . . Multi-well plates; Microtitration plates
+ 2300/0832  . . cylindrical, tube shaped
+ 2300/0845  . . . Filaments, strings, fibres, i.e. not hollow
+ 2300/0848  . . Specific forms of parts of containers
+ 2300/0861  . . Configuration of multiple channels and/or
+ 2300/0864  . . . comprising only one inlet and multiple
+receiving wells, e.g. for separation, splitting
+ 2300/0867  . . . Multiple inlets and one sample wells, e.g.
+ 2300/087   . . . Multiple sequential chambers
+ 2300/0874  . . . Three dimensional network
+ 2300/0877  . . . Flow chambers
+ 2300/088   . . . Channel loops
+ 2300/0883  . . . Serpentine channels
+ 2300/0887  . . Laminated structure
+ 2300/089   . . Virtual walls for guiding liquids
+ 2300/0893  . . having a very large number of wells,
+ 2300/10    . Means to control humidity and/or other gases
+ 2300/105   . . using desiccants
+ 2300/12    . Specific details about materials
+ 2300/123   . . Flexible; Elastomeric
+ 2300/14    . Means for pressure control
+ 2300/16    . Surface properties and coatings
+ 2300/161   . . Control and use of surface tension forces, e.g.
+ 2300/163   . . . Biocompatibility
+ 2300/165   . . . Specific details about hydrophobic, oleophobic
+ 2300/166   . . . . Suprahydrophobic; Ultraphobic; Lotus-effect
+ 2300/168   . . Specific optical properties, e.g. reflective coatings
+ 2300/18    . Means for temperature control
+ 2300/1805  . . Conductive heating, heat from thermostatted
+solids is conducted to receptacles, e.g. heating
+ 2300/1811  . . . using electromagnetic induction heating
+ 2300/1816  . . . using induction heating
+ 2300/1822  . . . using Peltier elements
+ 2300/1827  . . . using resistive heater
+ 2300/1833  . . using electrical currents in the sample itself
+ 2300/1838  . . using fluid heat transfer medium
+ 2300/185   . . . using a liquid as fluid
+ 2300/1855  . . using phase changes in a medium
+ 2300/1861  . . using radiation
+ 2300/1872  . . . Infrared light
+ 2300/1877  . . using chemical reactions
+ 2300/1883  . . using thermal insulation
+ 2300/1888  . . Pipettes or dispensers with temperature control
+ 2300/1894  . . Cooling means; Cryo cooling
+ 2400/00    Moving or stopping fluids
+ 2400/02    . Drop detachment mechanisms of single droplets
+ 2400/021   . . non contact spotting by inertia, i.e. abrupt
+deceleration of the nozzle or pin
+ 2400/022   . . droplet contacts the surface of the receptacle
+ 2400/024   . . . touch-off at the side wall of the receptacle
+ 2400/025   . . . tapping tip on substrate
+ 2400/027   . . electrostatic forces between substrate and tip
+ 2400/028   . . Pin is moved through a ring which is filled with a
+ 2400/04    . Moving fluids with specific forces or mechanical
+ 2400/0403  . . specific forces
+ 2400/0406  . . . capillary forces
+ 2400/0409  . . . centrifugal forces
+ 2400/0412  . . . . using additionally coriolis forces
+ 2400/0415  . . . electrical forces, e.g. electrokinetic
+ 2400/0418  . . . . electro-osmotic flow [EOF]
+ 2400/0421  . . . . electrophoretic flow
+ 2400/0424  . . . . Dielectrophoretic forces
+ 2400/0427  . . . . Electrowetting
+ 2400/043   . . . magnetic forces
+ 2400/0433  . . . vibrational forces
+ 2400/0436  . . . . acoustic forces, e.g. surface acoustic waves
+ 2400/0439  . . . . ultrasonic vibrations, vibrating piezo
+ 2400/0442  . . . thermal energy, e.g. vaporisation, bubble jet
+ 2400/0445  . . . . Natural or forced convection
+ 2400/0448  . . . . Marangoni flow; Thermocapillary effect
+ 2400/0451  . . . . Thermophoresis; Thermodiffusion; Soret-
+ 2400/0454  . . . radiation pressure, optical tweezers
+ 2400/0457  . . . passive flow or gravitation
+ 2400/046   . . . Chemical or electrochemical formation of
+ 2400/0463  . . . Hydrodynamic forces, venturi nozzles
+ 2400/0466  . . . Evaporation to induce underpressure
+ 2400/0475  . . specific mechanical means and fluid pressure
+ 2400/0481  . . . squeezing of channels or chambers
+ 2400/0487  . . . fluid pressure, pneumatics
+ 2400/0493  . . Specific techniques used
+ 2400/0496  . . . Travelling waves, e.g. in combination with
+ 2400/06    . Valves, specific forms thereof
+ 2400/0611  . . . duck bill valves
+ 2400/0622  . . distribution valves, valves having multiple inlets
+and/or outlets, e.g. metering valves, multi-way
+ 2400/0627  . . Molecular gates forcing or inhibiting diffusion
+ 2400/0633  . . with moving parts
+ 2400/0638  . . . membrane valves, flap valves
+ 2400/0644  . . . rotary valves
+ 2400/065   . . . sliding valves
+ 2400/0661  . . . shape memory polymer valves
+ 2400/0666  . . . Solenoid valves
+ 2400/0672  . . . Swellable plugs
+ 2400/0677  . . phase change valves; Meltable, freezing,
+dissolvable plugs; Destructible barriers
+ 2400/0683  . . . mechanically breaking a wall or membrane
+ 2400/0688  . . surface tension valves, capillary stop, capillary
+ 2400/0694  . . vents used to stop and induce flow, backpressure
+ 2400/08    . Regulating or influencing the flow resistance
+ 2400/082   . . Active control of flow resistance, e.g. flow
+ 2400/084   . . Passive control of flow resistance
+ 2400/086   . . . using baffles or other fixed flow obstructions
+ 2400/088   . . . by specific surface properties

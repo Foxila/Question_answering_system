@@ -1,0 +1,220 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+COMBUSTION APPARATUS; COMBUSTION PROCESSES
+REGULATING OR CONTROLLING COMBUSTION (control devices specially adapted
+for combustion apparatus in which combustion takes place in a fluidised bed of fuel or other
+particles F23C 10/28; condition responsive controls for regulating combustion in domestic stoves
+with open fires for solid fuel F24B 1/187)
+    1/00    Regulating fuel supply
+    1/002   . {using electronic means (F23N 1/04 - F23N 1/10
+    1/005   . {using electrical or electromechanical means
+(F23N 1/04 - F23N 1/10 take precedence)}
+    1/007   . {using mechanical means (F23N 1/04 - F23N 1/10
+    1/02    . conjointly with air supply
+    1/022   . . {using electronic means}
+    1/025   . . {using electrical or electromechanical means}
+    1/027   . . {using mechanical means}
+    1/04    . conjointly with air supply and with draught
+    1/042   . . {using electronic means}
+    1/045   . . {using electrical or electromechanical means}
+    1/047   . . {using mechanical means}
+    1/06    . conjointly with draught
+    1/062   . . {using electronic means}
+    1/065   . . {using electrical or electromechanical means}
+    1/067   . . {using mechanical means}
+    1/08    . conjointly with another medium, e.g. boiler water
+    1/082   . . {using electronic means}
+    1/085   . . {using electrical or electromechanical means}
+    1/087   . . {using mechanical means}
+    1/10    . . and with air supply or draught
+    1/102   . . . {using electronic means}
+    1/105   . . . {using electrical or electromechanical means}
+    1/107   . . . {using mechanical means}
+    3/00    Regulating air supply or draught (conjointly with
+    3/002   . {using electronic means (F23N 3/02 - F23N 3/08
+    3/005   . {using electrical or electromechanical means
+(F23N 3/02 - F23N 3/08 take precedence)}
+    3/007   . {using mechanical means (F23N 3/02 - F23N 3/08
+    3/02    . Regulating draught by direct pressure operation of
+    3/04    . by operation of single valves or dampers by
+    3/042   . . {using electronic means}
+    3/045   . . {using electrical or electromechanical means}
+    3/047   . . {using mechanical means}
+    3/06    . by conjoint operation of two or more valves or
+dampers (by power-assisted systems F23N 3/08)
+    3/065   . . {using mechanical means}
+    3/08    . by power-assisted systems
+    3/082   . . {using electronic means}
+    3/085   . . {using electrical or electromechanical means}
+    3/087   . . {using mechanical means}
+    5/00    Systems for controlling combustion (regulating fuel
+supply F23N 1/00, regulating air supply or draught
+    5/003   . {using detectors sensitive to combustion gas
+properties (F23N 5/02, F23N 5/18 - F23N 5/26 take
+    5/006   . . {the detector being sensitive to oxygen}
+    5/02    . using devices responsive to thermal changes or to
+    5/022   . . {using electronic means (F23N 5/04 - F23N 5/14
+    5/025   . . {using electrical or electromechanical means
+(F23N 5/04 - F23N 5/14 take precedence)}
+    5/027   . . {using mechanical means
+(F23N 5/04 - F23N 5/14 take precedence)}
+    5/04    . . using bimetallic elements
+    5/042   . . . {using electronic means}
+    5/045   . . . {using electrical or electromechanical means}
+    5/047   . . . {using mechanical means}
+    5/06    . . using bellows; using diaphragms
+    5/062   . . . {using electronic means}
+    5/065   . . . {using electrical or electromechanical means}
+    5/067   . . . {using mechanical means}
+    5/08    . . using light-sensitive elements
+    5/082   . . . {using electronic means}
+    5/085   . . . {using electrical or electromechanical means}
+    5/087   . . . {using mechanical means}
+    5/10    . . using thermocouples
+    5/102   . . . {using electronic means}
+    5/105   . . . {using electrical or electromechanical means}
+    5/107   . . . {using mechanical means, e.g. safety valves}
+    5/12    . . using ionisation-sensitive elements, i.e. flame
+    5/123   . . . {using electronic means}
+    5/126   . . . {using electrical or electromechanical means}
+    5/14    . . using thermo-sensitive resistors
+    5/143   . . . {using electronic means}
+    5/146   . . . {using electrical or electromechanical means}
+    5/16    . using noise-sensitive detectors
+ 2005/165   . . {with ultrasonic means}
+    5/18    . using detectors sensitive to rate of flow of air or fuel
+ 2005/181   . . {using detectors sensitive to rate of flow of air}
+ 2005/182   . . . {Air flow switch}
+    5/184   . . {using electronic means}
+ 2005/185   . . {using detectors sensitive to rate of flow of fuel}
+    5/187   . . {using electrical or electromechanical means}
+    5/188   . . {using mechanical means}
+    5/20    . with a time programme acting through electrical
+means, e.g. using time-delay relays
+    5/203   . . {using electronic means}
+    5/206   . . {using electrical or electromechanical means}
+    5/22    . with a time programme acting through mechanical
+    5/24    . Preventing development of abnormal or
+undesired conditions, i.e. safety arrangements
+(F23N 5/02 - F23N 5/18 take precedence)
+    5/242   . . {using electronic means}
+    5/245   . . {using electrical or electromechanical means}
+    5/247   . . {using mechanical means}
+    5/265   . . {using electronic means}
+ 2221/00    Pretreatment or prehandling
+ 2221/02    . using belt conveyors
+ 2221/04    . Preheating liquid fuel
+ 2221/06    . Preheating gaseous fuel
+ 2221/08    . Preheating the air
+ 2221/10    . Analysing fuel properties, e.g. density, calorific
+ 2221/12    . Recycling exhaust gases
+ 2223/00    Signal processing; Details thereof
+ 2223/02    . Multiplex transmission
+ 2223/08    . Microprocessor; Microcomputer
+ 2223/24    . . with bimetallic elements
+ 2223/26    . . with capacitors
+ 2223/28    . . with more than one timing element
+ 2223/34    . with feedforward processing
+ 2223/36    . PID signal processing
+ 2223/42    . Function generator
+ 2223/48    . Learning / Adaptive control
+ 2225/02    . filling height in burners
+ 2225/06    . . for determining flow
+ 2225/10    . . stack temperature
+ 2225/12    . . room temperature
+ 2225/13    . . outdoor temperature
+ 2225/14    . . Ambient temperature around burners
+ 2225/16    . . burner temperature
+ 2225/18    . . feedwater temperature
+ 2225/19    . . outlet temperature water heat-exchanger
+ 2225/20    . . entrant temperature
+ 2225/21    . . outlet temperature
+ 2225/24    . . indicated in an amount of money
+ 2225/30    . . measuring lambda
+ 2227/00    Ignition or checking
+ 2227/02    . Starting or ignition cycles
+ 2227/08    . Hold fire apparatus
+ 2227/10    . Sequential burner running
+ 2227/12    . Burner simulation or checking
+ 2227/14    . . Flame simulation
+ 2227/16    . . Checking components, e.g. electronic
+ 2227/18    . Applying test signals, e.g. periodic
+ 2227/20    . Calibrating devices
+ 2227/24    . . the pilot burner not burning continuously
+ 2227/26    . . comprising two or more distinct pilot burners
+ 2227/28    . Ignition circuits
+ 2227/30    . . for pilot burners
+ 2227/32    . Igniting for a predetermined number of cycles
+ 2227/34    . Continuously applied ignition cycles
+ 2227/36    . Spark ignition, e.g. by means of a high voltage
+ 2227/38    . Electrical resistance ignition
+ 2227/40    . Catalytic ignition
+ 2227/42    . Ceramic glow ignition
+ 2229/02    . Pilot flame sensors
+ 2229/04    . sensitive to the colour of flames
+ 2229/06    . with periodical shutters; Modulation signals
+ 2229/08    . detecting flame flicker
+ 2229/10    . comprising application of periodical fuel flow
+ 2229/12    . with flame rectification current detecting means
+ 2229/14    . using two or more different types of flame sensor
+ 2229/16    . using two or more of the same types of flame sensor
+ 2229/18    . Flame sensor cooling means
+ 2229/22    . the sensor's sensitivity being variable
+ 2231/02    . using electric energy accumulators
+ 2231/04    . for electrical power failures
+ 2231/06    . for flame failures
+ 2231/08    . . for pilot flame failures
+ 2231/10    . for component failures
+ 2231/12    . for ignition failures
+ 2231/16    . using melting materials or shape memory alloys
+ 2231/18    . Detecting fluid leaks
+ 2231/22    . . using warning lamps
+ 2231/26    . for clogging air inlet
+ 2231/28    . preventing flash-back or blow-back
+ 2231/30    . Representation of working time
+ 2233/04    . . with variable speed
+ 2233/06    . at the air intake
+ 2233/08    . . with variable speed
+ 2233/10    . forcing air through heat exchangers
+ 2235/00    Valves, nozzles or pumps
+ 2235/02    . Air or combustion gas valves or dampers
+ 2235/06    . . at the air intake
+ 2235/08    . . used with heat exchanges
+ 2235/10    . . power assisted, e.g. using electric motors
+ 2235/14    . . electromagnetically operated
+ 2235/16    . . variable flow or proportional valves
+ 2235/18    . . Groups of two or more valves
+ 2235/20    . . Membrane valves
+ 2235/22    . . cooperating with magnets
+ 2235/28    . . Spray fuel nozzles
+ 2237/02    . two or more burners
+ 2237/04    . at two or more different localities
+ 2237/06    . two predeterming temperatures, e.g. day-night
+ 2237/08    . two or more different types of fuel simultaneously
+ 2237/12    . catalytic burners
+ 2237/14    . burners with gasification or vaporizer elements
+ 2237/18    . fluidized bed burners
+ 2237/20    . one or more bypass conduits
+ 2237/26    . . oxygen-air ratio
+ 2237/28    . . oxygen as pure oxydant
+ 2241/06    . Space-heating and heating water
+ 2241/08    . Household apparatus
+ 2241/10    . Generating vapour
+ 2241/14    . Vehicle heating, the heat being derived otherwise
+ 2241/16    . Spectrometer burners
+ 2241/18    . Incinerating apparatus
+ 2241/22    . Absorption refrigerator
+ 2900/00    Special features of, or arrangements for
+ 2900/01001 . Micro Electro Mechanical Systems [MEMS] for
+controlling fuel supply to burners
+ 2900/01002 . Electromagnetically operated fuel valves with a
+single solenoid controlling two or more cores
+ 2900/05001 . Measuring CO content in flue gas
+ 2900/05002 . Measuring CO2 content in flue gas
+ 2900/05003 . Measuring NOx content in flue gas
+ 2900/05004 . Details of components, e.g. connecting adaptors
+ 2900/05005 . Mounting arrangements for sensing, detecting or
+ 2900/05006 . Controlling systems using neuronal networks
+ 2900/05101 . Connections between thermocouple and magnetic
+valves, e.g. by plug and socket connectors
+ 2900/05181 . Controlling air to fuel ratio by using a single

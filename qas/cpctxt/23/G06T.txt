@@ -1,0 +1,469 @@
+COOPERATIVE PATENT CLASSIFICATION
+COMPUTING; CALCULATING OR COUNTING
+IMAGE DATA PROCESSING OR GENERATION, IN GENERAL
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    General purpose image data processing
+    1/0007  . {Image acquisition}
+    1/0014  . {Image feed-back for automatic industrial control,
+e.g. robot with camera (robots B25J 19/023)}
+    1/0021  . {Image watermarking}
+    1/0028  . . {Adaptive watermarking, e.g. Human Visual
+System [HVS]-based watermarking}
+    1/0035  . . . {Output size adaptive watermarking}
+    1/0042  . . {Fragile watermarking, e.g. so as to detect
+    1/005   . . {Robust watermarking, e.g. average attack or
+    1/0057  . . . {Compression invariant watermarking}
+    1/0064  . . . {Geometric transfor invariant watermarking,
+e.g. affine transform invariant}
+    1/0071  . . . {using multiple or alternating watermarks}
+    1/0078  . . . {using multiple thresholds}
+    1/0085  . . {Time domain based watermarking, e.g.
+watermarks spread over several images}
+    1/0092  . . {Payload characteristic determination in a
+watermarking scheme, e.g. number of bits to be
+    1/20    . Processor architectures; Processor configuration,
+    1/60    . Memory management
+    3/00    Geometric image transformation in the plane of
+    3/0006  . {Affine transformations (G06T 3/4038,
+    3/0012  . {Context preserving transformation, e.g. by using an
+importance map (G06T 3/0062 takes precedence)}
+    3/0018  . . {Fisheye, wide-angle transformation}
+    3/0025  . . {Detail-in-context presentation (G06T 3/0018
+    3/0031  . {for topological mapping of a higher dimensional
+structure on a lower dimensional surface}
+    3/0037  . . {Reshaping or unfolding a 3D tree structure onto
+    3/0043  . . {Surface of revolution to planar image
+    3/005   . {for projecting an image on a non-planar surface,
+    3/0056  . {the transformation method being selected
+according to the characteristics of the input image}
+    3/0062  . {Panospheric to cylindrical image transformation}
+    3/0068  . {for image registration, e.g. elastic snapping}
+    3/0075  . . {using affine transformations}
+    3/0081  . . {by elastic snapping}
+    3/0087  . {Spatio-temporal transformations, e.g. video
+    3/0093  . {for image warping, i.e. transforming by
+individually repositioning each pixel}
+    3/20    . Linear translation of a whole image or part thereof,
+    3/40    . Scaling the whole image or part thereof
+    3/4007  . . {Interpolation-based scaling, e.g. bilinear
+interpolation (G06T 3/4015, G06T 3/403 take
+    3/4015  . . {Demosaicing, e.g. colour filter array [CFA],
+    3/4023  . . {Decimation- or insertion-based scaling, e.g.
+    3/403   . . {Edge-driven scaling}
+    3/4038  . . {for image mosaicing, i.e. plane images
+    3/4046  . . {using neural networks}
+    3/4053  . . {Super resolution, i.e. output image resolution
+    3/4061  . . . {by injecting details from a different spectral
+    3/4069  . . . {by subpixel displacement}
+    3/4076  . . . {by iteratively correcting the provisional
+high resolution image using the original low-
+    3/4084  . . {Transform-based scaling, e.g. FFT domain
+    3/4092  . . {Image resolution transcoding, e.g. client/server
+    3/60    . Rotation of a whole image or part thereof
+    3/602   . . {Block rotation, e.g. by recursive reversing or
+    3/604   . . {using a CORDIC [COordinate Rotation Digital
+    3/606   . . {Rotation by memory addressing or mapping}
+    3/608   . . {Skewing or deskewing, e.g. by two-pass or
+    5/00    Image enhancement or restoration
+    5/001   . {Image restoration}
+    5/002   . . {Denoising; Smoothing (noise processing or
+correction adapted to be used in an image pickup
+device containing and electronic image sensor
+H04N 23/81, H04N 25/60 - H04N 25/67)}
+    5/003   . . {Deblurring; Sharpening (vibration or motion
+blur correction for cameras comprising an
+electronic image sensor H04N 23/682)}
+    5/004   . . . {Unsharp masking}
+    5/005   . . {Retouching; Inpainting; Scratch removal
+(detecting, correction, reducing or removing
+defects, e.g. non-responsive pixels of solid state
+image sensors H04N 25/68, scratch removal for
+cinematographic films scanned by electronic
+    5/006   . {Geometric correction (correction of chromatic
+aberrations adapted to be used in an image pickup
+device containing an electronic image sensor
+H04N 23/10; detecting, correcting, reducing or
+removing artefacts resulting only from the lens
+unit, e.g. flare, shading, vignetting or "cos4"
+    5/007   . {Dynamic range modification (applied in cameras
+using an electronic image sensor H04N 23/741,
+    5/008   . . {Local, e.g. shadow enhancement}
+    5/009   . . {Global, i.e. based on properties of the image as
+a whole (applied in cameras using an electronic
+image sensor H04N 23/80, H04N 23/70)}
+    5/10    . by non-spatial domain filtering {(applied in cameras
+using an electronic image sensor H04N 23/80,
+H04N 23/70, H04N 5/253, H04N 25/68)}
+    5/20    . by the use of local operators {(applied in cameras
+using an electronic image sensor H04N 23/80,
+H04N 23/70, H04N 5/253, H04N 25/68)}
+    5/30    . . Erosion or dilatation, e.g. thinning
+    5/40    . by the use of histogram techniques {(applied
+in cameras using an electronic image sensor
+    5/50    . by the use of more than one image, e.g. averaging,
+subtraction {(applied in cameras using an electronic
+image sensor H04N 23/80, H04N 23/70)}
+    7/0002  . {Inspection of images, e.g. flaw detection}
+    7/0004  . . {Industrial image inspection}
+    7/0006  . . . {using a design-rule based approach}
+    7/0008  . . . {checking presence/absence}
+    7/001   . . . {using an image reference approach}
+    7/0012  . . {Biomedical image inspection}
+    7/0014  . . . {using an image reference approach}
+    7/0016  . . . . {involving temporal comparison}
+    7/10    . Segmentation; Edge detection (motion-based
+G06T 7/11 - G06T 7/13, classification
+is also made in relevant groups of
+    7/11    . . Region-based segmentation
+    7/12    . . Edge-based segmentation
+    7/136   . . involving thresholding
+    7/143   . . involving probabilistic approaches, e.g. Markov
+    7/149   . . involving deformable models, e.g. active contour
+    7/155   . . involving morphological operators
+    7/162   . . involving graph-based methods
+    7/168   . . involving transform domain methods
+    7/174   . . involving the use of two or more images
+    7/181   . . involving edge growing; involving edge linking
+    7/187   . . involving region growing; involving region
+merging; involving connected component
+    7/194   . . involving foreground-background segmentation
+    7/20    . Analysis of motion (motion estimation for coding,
+decoding, compressing or decompressing digital
+video signals H04N 19/43, H04N 19/51)
+    7/207   . . for motion estimation over a hierarchy of
+resolutions (multi-resolution motion estimation
+or hierarchical motion estimation for coding,
+decoding, compressing or decompressing digital
+    7/215   . . Motion-based segmentation
+    7/223   . . using block-matching
+    7/231   . . . using full search
+    7/238   . . . using non-full search, e.g. three-step search
+    7/246   . . using feature-based methods, e.g. the tracking of
+    7/248   . . . {involving reference images or patches}
+    7/251   . . . {involving models}
+    7/254   . . involving subtraction of images
+    7/262   . . using transform domain methods, e.g. Fourier
+    7/269   . . using gradient-based methods
+    7/277   . . involving stochastic approaches, e.g. using
+    7/285   . . using a sequence of stereo image pairs
+    7/292   . . Multi-camera tracking
+    7/30    . Determination of transform parameters for the
+alignment of images, i.e. image registration
+    7/32    . . using correlation-based methods
+    7/33    . . using feature-based methods
+    7/337   . . . {involving reference images or patches}
+    7/344   . . . {involving models}
+    7/35    . . using statistical methods
+    7/37    . . using transform domain methods
+    7/38    . . Registration of image sequences
+    7/40    . Analysis of texture (depth or shape recovery from
+    7/41    . . based on statistical description of texture
+    7/42    . . . using transform domain methods
+    7/44    . . . using image operators, e.g. filters, edge density
+    7/45    . . . using co-occurrence matrix computation
+    7/46    . . . using random fields
+    7/48    . . . using fractals
+    7/49    . . based on structural texture description, e.g. using
+    7/50    . Depth or shape recovery
+    7/507   . . from shading (G06T 7/586 takes precedence)
+    7/514   . . from specularities
+    7/521   . . from laser ranging, e.g. using interferometry;
+from the projection of structured light
+    7/536   . . from perspective effects, e.g. by using vanishing
+    7/543   . . from line drawings
+    7/55    . . from multiple images
+    7/557   . . . from light fields, e.g. from plenoptic cameras
+    7/564   . . . from contours
+    7/586   . . . from multiple light sources, e.g. photometric
+    7/593   . . . from stereo images
+    7/596   . . . . {from three or more stereo images}
+    7/60    . Analysis of geometric attributes
+    7/62    . . of area, perimeter, diameter or volume
+    7/64    . . of convexity or concavity
+    7/66    . . of image moments or centre of gravity
+    7/70    . Determining position or orientation of objects or
+cameras (camera calibration G06T 7/80)
+    7/73    . . using feature-based methods
+    7/74    . . . {involving reference images or patches}
+    7/75    . . . {involving models}
+    7/77    . . using statistical methods
+    7/80    . Analysis of captured images to determine intrinsic
+or extrinsic camera parameters, i.e. camera
+    7/85    . . {Stereo camera calibration}
+    7/90    . Determination of colour characteristics
+    7/97    . {Determining parameters from multiple pictures
+(depth or shape recovery from multiple images
+G06T 7/55; stereo camera calibration G06T 7/85)}
+    9/00    Image coding (bandwidth or redundancy reduction
+for static pictures H04N 1/41; coding or decoding of
+static colour picture signals H04N 1/64; methods or
+arrangements for coding, decoding, compressing or
+decompressing digital video signals H04N 19/00)
+    9/001   . {Model-based coding, e.g. wire frame}
+    9/002   . {using neural networks}
+    9/004   . {Predictors, e.g. intraframe, interframe coding}
+    9/005   . {Statistical coding, e.g. Huffman, run length
+    9/007   . {Transform coding, e.g. discrete cosine transform}
+    9/008   . {Vector quantisation}
+    9/20    . Contour coding, e.g. using detection of edges
+    9/40    . Tree coding, e.g. quadtree, octree
+   11/00    2D [Two Dimensional] image generation
+   11/001   . {Texturing; Colouring; Generation of texture or
+   11/003   . {Reconstruction from projections, e.g. tomography}
+   11/005   . . {Specific pre-processing for tomographic
+reconstruction, e.g. calibration, source
+positioning, rebinning, scatter correction,
+   11/006   . . {Inverse problem, transformation from
+projection-space into object-space, e.g. transform
+methods, back-projection, algebraic methods}
+   11/008   . . {Specific post-processing after tomographic
+reconstruction, e.g. voxelisation, metal artifact
+   11/20    . Drawing from basic elements, e.g. lines or circles
+   11/203   . . {Drawing of straight lines or curves}
+   11/206   . . {Drawing of charts or graphs}
+   11/40    . Filling a planar surface by adding surface attributes,
+   11/60    . Editing figures and text; Combining figures or text
+   11/80    . Creating or modifying a manually drawn or painted
+image using a manual input device, e.g. mouse, light
+pen, direction keys on keyboard
+   13/20    . 3D [Three Dimensional] animation
+   13/205   . . {driven by audio data}
+   13/40    . . of characters, e.g. humans, animals or virtual
+   13/60    . . of natural phenomena, e.g. rain, snow, water or
+   13/80    . 2D [Two Dimensional] animation, e.g. using sprites
+   15/00    3D [Three Dimensional] image rendering
+   15/005   . {General purpose rendering architectures}
+   15/02    . Non-photorealistic rendering
+   15/10    . Geometric effects
+   15/20    . . Perspective computation
+   15/205   . . . {Image-based rendering}
+   15/40    . . Hidden part removal
+   15/405   . . . {using Z-buffer}
+   15/503   . . {Blending, e.g. for anti-aliasing}
+   15/506   . . {Illumination models}
+   15/60    . . Shadow generation
+   15/83    . . . Phong shading
+   15/87    . . . Gouraud shading
+   17/00    Three dimensional [3D] modelling, e.g. data
+   17/005   . {Tree description, e.g. octree, quadtree}
+   17/05    . Geographic models
+   17/10    . Constructive solid geometry [CSG] using solid
+primitives, e.g. cylinders, cubes
+   17/20    . Finite element generation, e.g. wire-frame surface
+   17/30    . Polynomial surface description
+   19/00    Manipulating 3D models or images for computer
+   19/003   . {Navigation within 3D models or images}
+   19/006   . {Mixed reality (object pose determination, tracking
+or camera calibration for mixed reality G06T 7/00)}
+   19/20    . Editing of 3D images, e.g. changing shapes or
+colours, aligning objects or positioning parts
+ 2200/00    Indexing scheme for image data processing or
+ 2200/04    . involving 3D image data
+ 2200/08    . involving all processing steps from image
+acquisition to 3D model generation
+ 2200/12    . involving antialiasing
+ 2200/16    . involving adaptation to the client's capabilities
+ 2200/21    . involving computational photography
+ 2200/24    . involving graphical user interfaces [GUIs]
+ 2200/28    . involving image processing hardware
+ 2200/32    . involving image mosaicing
+ 2200/36    . Review paper; Tutorial; Survey
+ 2201/00    General purpose image data processing
+ 2201/005   . Image watermarking
+ 2201/0051  . . Embedding of the watermark in the spatial
+ 2201/0052  . . Embedding of the watermark in the frequency
+ 2201/0053  . . Embedding of the watermark in the coding
+stream, possibly without decoding; Embedding of
+the watermark in the compressed domain
+ 2201/0061  . . Embedding of the watermark in each block of the
+image, e.g. segmented watermarking
+ 2201/0062  . . Embedding of the watermark in text images, e.g.
+watermarking text documents using letter skew,
+letter distance or row distance
+ 2201/0063  . . in relation to collusion attacks, e.g. collusion
+ 2201/0064  . . for copy protection or copy management, e.g.
+CGMS, copy only once, one-time copy
+ 2201/0065  . . Extraction of an embedded watermark; Reliable
+ 2201/0081  . . whereby both original and watermarked images
+are required at decoder, e.g. destination-based,
+ 2201/0083  . . whereby only watermarked image required at
+decoder, e.g. source-based, blind, oblivious
+ 2201/0201  . . whereby only tamper or origin are detected and
+ 2201/0202  . . whereby the quality of watermarked images is
+measured; Measuring quality or performance
+of watermarking methods; Balancing between
+ 2201/0203  . . whereby the image with embedded watermark
+is reverted to the original condition before
+embedding, e.g. lossless, distortion-free or
+ 2201/0601  . . whereby calibration information is embedded
+in the watermark, e.g. a grid, a scale, a list of
+ 2207/00    Indexing scheme for image analysis or image
+ 2207/10    . Image acquisition modality
+ 2207/10004 . . Still image; Photographic image
+ 2207/10008 . . . from scanner, fax or copier
+ 2207/10012 . . . Stereo images
+ 2207/10016 . . Video; Image sequence
+ 2207/10021 . . . Stereoscopic video; Stereoscopic image
+ 2207/10028 . . Range image; Depth image; 3D point clouds
+ 2207/10032 . . Satellite or aerial image; Remote sensing
+ 2207/10036 . . . Multispectral image; Hyperspectral image
+ 2207/10041 . . . Panchromatic image
+ 2207/10052 . . Images from lightfield camera
+ 2207/10056 . . Microscopic image
+ 2207/10061 . . . from scanning electron microscope
+ 2207/10064 . . Fluorescence image
+ 2207/10068 . . Endoscopic image
+ 2207/10072 . . Tomographic images
+ 2207/10076 . . . 4D tomography; Time-sequential 3D
+ 2207/10081 . . . Computed x-ray tomography [CT]
+ 2207/10084 . . . Hybrid tomography; Concurrent acquisition
+with multiple different tomographic modalities
+ 2207/10088 . . . Magnetic resonance imaging [MRI]
+ 2207/10092 . . . . Diffusion tensor magnetic resonance imaging
+ 2207/10096 . . . . Dynamic contrast-enhanced magnetic
+ 2207/10101 . . . Optical tomography; Optical coherence
+ 2207/10104 . . . Positron emission tomography [PET]
+ 2207/10108 . . . Single photon emission computed tomography
+ 2207/10112 . . . Digital tomosynthesis [DTS]
+ 2207/10124 . . . Digitally reconstructed radiograph [DRR]
+ 2207/10132 . . Ultrasound image
+ 2207/10136 . . . 3D ultrasound image
+ 2207/10141 . . Special mode during image acquisition
+ 2207/10144 . . . Varying exposure
+ 2207/10148 . . . Varying focus
+ 2207/10152 . . . Varying illumination
+ 2207/20    . Special algorithmic details
+ 2207/20004 . . Adaptive image processing
+ 2207/20008 . . . Globally adaptive
+ 2207/20012 . . . Locally adaptive
+ 2207/20016 . . Hierarchical, coarse-to-fine, multiscale or
+multiresolution image processing; Pyramid
+ 2207/20021 . . Dividing image into blocks, subimages or
+ 2207/20024 . . Filtering details
+ 2207/20028 . . . Bilateral filtering
+ 2207/20032 . . . Median filtering
+ 2207/20036 . . Morphological image processing
+ 2207/20041 . . . Distance transform
+ 2207/20044 . . . Skeletonization; Medial axis transform
+ 2207/20048 . . Transform domain processing
+ 2207/20052 . . . Discrete cosine transform [DCT]
+ 2207/20056 . . . Discrete and fast Fourier transform, [DFT,
+ 2207/20061 . . . Hough transform
+ 2207/20064 . . . Wavelet transform [DWT]
+ 2207/20068 . . Projection on vertical or horizontal image axis
+ 2207/20072 . . Graph-based image processing
+ 2207/20076 . . Probabilistic image processing
+ 2207/20081 . . Training; Learning
+ 2207/20084 . . Artificial neural networks [ANN]
+ 2207/20088 . . Trinocular vision calculations; trifocal tensor
+ 2207/20092 . . Interactive image processing based on input by
+ 2207/20096 . . . Interactive definition of curve of interest
+ 2207/20101 . . . Interactive definition of point of interest,
+ 2207/20104 . . . Interactive definition of region of interest
+ 2207/20108 . . . Interactive selection of 2D slice in a 3D data set
+ 2207/20112 . . Image segmentation details
+ 2207/20116 . . . Active contour; Active surface; Snakes
+ 2207/20121 . . . Active appearance model [AAM]
+ 2207/20124 . . . Active shape model [ASM]
+ 2207/20128 . . . Atlas-based segmentation
+ 2207/20132 . . . Image cropping
+ 2207/20152 . . . Watershed segmentation
+ 2207/20156 . . . Automatic seed setting
+ 2207/20164 . . . Salient point detection; Corner detection
+ 2207/20168 . . . Radial search
+ 2207/20172 . . Image enhancement details
+ 2207/20182 . . . Noise reduction or smoothing in the temporal
+domain; Spatio-temporal filtering
+ 2207/20192 . . . Edge enhancement; Edge preservation
+ 2207/20201 . . . Motion blur correction
+ 2207/20204 . . . Removing film grain; Adding simulated film
+ 2207/20208 . . . High dynamic range [HDR] image processing
+ 2207/20212 . . Image combination
+ 2207/20216 . . . Image averaging
+ 2207/20221 . . . Image fusion; Image merging
+ 2207/20224 . . . Image subtraction
+ 2207/20228 . . Disparity calculation for image-based rendering
+ 2207/30    . Subject of image; Context of image processing
+ 2207/30004 . . Biomedical image processing
+ 2207/30012 . . . . Spine; Backbone
+ 2207/30021 . . . Catheter; Guide wire
+ 2207/30024 . . . Cell structures in vitro; Tissue sections in vitro
+ 2207/30028 . . . Colon; Small intestine
+ 2207/30032 . . . . Colon polyp
+ 2207/30036 . . . Dental; Teeth
+ 2207/30041 . . . Eye; Retina; Ophthalmic
+ 2207/30044 . . . Fetus; Embryo
+ 2207/30048 . . . Heart; Cardiac
+ 2207/30052 . . . Implant; Prosthesis
+ 2207/30056 . . . Liver; Hepatic
+ 2207/30064 . . . . Lung nodule
+ 2207/30068 . . . Mammography; Breast
+ 2207/30072 . . . Microarray; Biochip, DNA array; Well plate
+ 2207/30076 . . . Plethysmography
+ 2207/30084 . . . Kidney; Renal
+ 2207/30092 . . . Stomach; Gastric
+ 2207/30096 . . . Tumor; Lesion
+ 2207/30101 . . . Blood vessel; Artery; Vein; Vascular
+ 2207/30104 . . . . Vascular flow; Blood flow; Perfusion
+ 2207/30108 . . Industrial image inspection
+ 2207/30112 . . . Baggage; Luggage; Suitcase
+ 2207/30121 . . . CRT, LCD or plasma display
+ 2207/30124 . . . Fabrics; Textile; Paper
+ 2207/30128 . . . Food products
+ 2207/30132 . . . Masonry; Concrete
+ 2207/30141 . . . Printed circuit board [PCB]
+ 2207/30144 . . . Printing quality
+ 2207/30148 . . . Semiconductor; IC; Wafer
+ 2207/30156 . . . Vehicle coating
+ 2207/30164 . . . Workpiece; Machine component
+ 2207/30168 . . Image quality inspection
+ 2207/30172 . . Centreline of tubular or elongated structure
+ 2207/30181 . . Earth observation
+ 2207/30184 . . . Infrastructure
+ 2207/30188 . . . Vegetation; Agriculture
+ 2207/30192 . . . Weather; Meteorology
+ 2207/30196 . . Human being; Person
+ 2207/30208 . . . Marker matrix
+ 2207/30221 . . Sports video; Sports image
+ 2207/30228 . . . Playing field
+ 2207/30236 . . Traffic on road, railway or crossing
+ 2207/30242 . . Counting objects in image
+ 2207/30248 . . Vehicle exterior or interior
+ 2207/30252 . . . Vehicle exterior; Vicinity of vehicle
+ 2207/30256 . . . . Lane; Road marking
+ 2207/30268 . . . Vehicle interior
+ 2210/00    Indexing scheme for image generation or computer
+ 2210/04    . Architectural design, interior design
+ 2210/08    . Bandwidth reduction
+ 2210/21    . Collision detection, intersection
+ 2210/32    . Image data format
+ 2210/52    . Parallel processing
+ 2210/56    . Particle system, point based geometry or rendering
+ 2210/61    . Scene description
+ 2210/62    . Semi-transparency
+ 2211/40    . Computed tomography
+ 2211/416   . . Exact reconstruction
+ 2211/421   . . Filtered back projection [FBP]
+ 2213/00    Indexing scheme for animation
+ 2213/04    . Animation description language
+ 2213/08    . Animation software package
+ 2213/12    . Rule based animation
+ 2215/00    Indexing scheme for image rendering
+ 2215/06    . Curved planar reformation of 3D line structures
+ 2215/08    . Gnomonic or central projection
+ 2215/12    . Shadow map, environment map
+ 2215/16    . Using real world measurements to influence
+ 2219/00    Indexing scheme for manipulating 3D models or
+ 2219/004   . Annotating, labelling
+ 2219/008   . Cut plane or projection plane definition
+ 2219/012   . Dimensioning, tolerancing
+ 2219/024   . Multi-user, collaborative environment
+ 2219/028   . Multiple view windows (top-side-front-sagittal-
+ 2219/20    . Indexing scheme for editing of 3D models
+ 2219/2004  . . Aligning objects, relative positioning of parts
+ 2219/2008  . . Assembling, disassembling
+ 2219/2012  . . Colour editing, changing, or manipulating; Use of
+ 2219/2016  . . Rotation, translation, scaling
+ 2219/2021  . . Shape modification
+ 2219/2024  . . Style variation

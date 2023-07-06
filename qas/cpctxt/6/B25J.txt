@@ -1,0 +1,366 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+HAND TOOLS; PORTABLE POWER-DRIVEN TOOLS; MANIPULATORS
+MANIPULATORS; CHAMBERS PROVIDED WITH MANIPULATION DEVICES
+({manipulators specially adapted for use in surgery A61B 34/70; manipulators used in
+cleaning hollow articles B08B 9/04} ; manipulators associated with rolling mills B21B 39/20;
+manipulators associated with forging machines B21J 13/10; {manipulators associated with
+picking-up and placing mechanisms B23P 19/007} ; means for holding wheels or parts thereof
+B60B 30/00; {vehicles with ground-engaging propulsion means, e.g. walking members
+B62D 57/02, B62D 57/032; devices for picking-up and depositing articles or materials
+between conveyors B65G 47/90, B65G 47/91; manipulators with gripping or holding means
+for transferring packages B65H 67/065}; cranes B66C; {manipulators used in the protection
+or supervision of pipe-line installations F17D 5/00; walking equipment adapted for nuclear
+steam-generators F22B 37/006}; manipulators specially adapted for, or associated with,
+nuclear reactors G21C; {apparatus used for handling wafers during manufacture or treatment of
+In this subclass, the following term is used with the meaning indicated :
+• "manipulator" covers handling tools, devices, or machines  having a gripping or work head capable of bodily  movement in
+space and of change of orientation, such bodily  movement and change of orientation being controlled,  at will, by means
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Manipulators positioned in space by hand (of
+master-slave type B25J 3/00; micromanipulators
+    1/02    . articulated or flexible
+    1/04    . rigid, e.g. shelf-reachers {(without grippers
+    1/06    . of the lazy-tongs type
+    1/08    . movably mounted in a wall
+    1/10    . . Sleeve and pivot mountings therefor
+    1/12    . having means for attachment to a support stand
+    3/00    Manipulators of master-slave type, i.e. both
+controlling unit and controlled unit perform
+corresponding spatial movements
+    3/02    . involving a parallelogram coupling of the master
+and slave units (pantographic instruments
+    3/04    . involving servo mechanisms (servo-actuated heads
+    5/00    Manipulators mounted on wheels or on carriages
+(B25J 1/00 takes precedence; programme-controlled
+manipulators B25J 9/00 {; vehicle aspects B60,
+B62, e.g. remote-controlled steering for motor
+vehicles B62D 1/24; control of position of vehicles
+    5/002   . {mounted on an air cushion}
+    5/005   . {mounted on endless tracks or belts}
+    5/007   . {mounted on wheels}
+    5/02    . travelling along a guideway
+    5/04    . . wherein the guideway is also moved, e.g.
+    5/06    . Manipulators combined with a control cab for the
+    7/00    Micromanipulators {(specimen supports for
+investigating or analysing materials G01N 23/2204;
+associated with microscopes G02B 21/32; means for
+supporting or positioning the objects or the material in
+    9/00    Programme-controlled manipulators
+    9/0003  . {Home robots, i.e. small robots for domestic use}
+    9/0006  . {Exoskeletons, i.e. resembling a human figure}
+    9/0009  . {Constructional details, e.g. manipulator supports,
+    9/0012  . . {making use of synthetic construction materials,
+    9/0015  . . {Flexure members, i.e. parts of manipulators
+having a narrowed section allowing articulation
+    9/0018  . . {Bases fixed on ceiling, i.e. upside down
+    9/0021  . . {All motors in base}
+    9/0024  . . {Wrist motors at rear part of the upper arm}
+    9/0027  . . {Means for extending the operation range}
+    9/003   . {having parallel kinematics}
+    9/0033  . . {with kinematics chains having a prismatic joint
+    9/0036  . . . {with kinematics chains of the type prismatic-
+    9/0039  . . . {with kinematics chains of the type prismatic-
+    9/0042  . . . {with kinematics chains of the type prismatic-
+    9/0045  . . {with kinematics chains having a rotary joint at
+    9/0048  . . . {with kinematics chains of the type rotary-
+    9/0051  . . . {with kinematics chains of the type rotary-
+universal-universal or rotary-spherical-
+spherical, e.g. Delta type manipulators}
+    9/0054  . . {with kinematics chains having a spherical joint
+    9/0057  . . . {with kinematics chains of the type spherical-
+    9/006   . . . {with kinematics chains of the type spherical-
+    9/0063  . . {with kinematics chains having an universal joint
+    9/0066  . . . {with kinematics chains of the type universal-
+    9/0069  . . . {with kinematics chains of the type universal-
+    9/0072  . . {of the hybrid type, i.e. having different
+    9/0078  . . {actuated by cables}
+    9/0081  . {with master teach-in means}
+    9/0084  . {comprising a plurality of manipulators}
+    9/0087  . . {Dual arms (double SCARA arms B25J 9/043)}
+    9/009   . . {being mechanically linked with one another at
+    9/0093  . {co-operating with conveyor means}
+    9/0096  . {co-operating with a working support, e.g. work-
+    9/02    . characterised by movement of the arms, e.g.
+cartesian coordinate type (B25J 9/06 takes
+    9/023   . . {Cartesian coordinate type}
+    9/026   . . . {Gantry-type}
+    9/04    . . by rotating at least one arm, excluding the head
+movement itself, e.g. cylindrical coordinate type
+    9/041   . . . {Cylindrical coordinate type}
+    9/042   . . . . {comprising an articulated arm}
+    9/043   . . . . . {double selective compliance articulated
+    9/044   . . . . . {with forearm providing vertical linear
+    9/045   . . . {Polar coordinate type}
+    9/046   . . . {Revolute coordinate type}
+    9/047   . . . . {the pivoting axis of the first arm being
+    9/048   . . . {Pendulum type}
+    9/06    . characterised by multi-articulated arms
+    9/08    . characterised by modular constructions
+    9/10    . characterised by positioning means for manipulator
+    9/1005  . . {comprising adjusting means}
+    9/101   . . . {using limit-switches, -stops}
+    9/1015  . . . {using additional, e.g. microadjustment of the
+    9/102   . . {Gears specially adapted therefor, e.g. reduction
+gears (gearings in general F16H)}
+    9/1025  . . . {Harmonic drives (in general: F16H 49/001)}
+    9/103   . . . {with backlash-preventing means}
+    9/1035  . . . {Pinion and fixed rack drivers, e.g. for rotating
+an upper arm support on the robot base}
+    9/104   . . {with cables, chains or ribbons}
+    9/1045  . . . {comprising tensioning means}
+    9/105   . . {using eccentric means (B25J 9/109 takes
+    9/106   . . {with articulated links}
+    9/1065  . . . {with parallelograms}
+    9/107   . . . . {of the froglegs type}
+    9/1075  . . {with muscles or tendons}
+    9/108   . . {Bearings specially adapted therefor (bearings in
+    9/1085  . . {positioning by means of shape-memory
+materials (shape memory actuators F03G 7/06)}
+    9/109   . . {comprising mechanical programming means,
+    9/1095  . . {chemically actuated}
+    9/123   . . . {Linear actuators}
+    9/126   . . . {Rotary actuators}
+    9/142   . . . {comprising inflatable bodies}
+    9/144   . . . {Linear actuators}
+    9/146   . . . {Rotary actuators}
+    9/148   . . . . {of the oscillating vane-type (in general
+    9/16    . Programme controls (programme controls in general
+G05B 19/00, e.g. numerical pogramme controls
+G05B 19/18; {recording or playback systems
+    9/1602  . . {characterised by the control system, structure,
+    9/1605  . . . {Simulation of manipulator lay-out, design,
+    9/1607  . . . {Calculation of inertia, jacobian matrixes and
+    9/161   . . . {Hardware, e.g. neural networks, fuzzy logic,
+    9/1612  . . {characterised by the hand, wrist, grip control}
+    9/1615  . . {characterised by special kind of manipulator,
+e.g. planar, scara, gantry, cantilever, space, closed
+chain, passive/active joints and tendon driven
+    9/1617  . . . {Cellular, reconfigurable manipulator, e.g.
+    9/162   . . . {Mobile manipulator, movable base with
+    9/1623  . . . {Parallel manipulator, Stewart platform,
+links are attached to a common base and to
+a common platform, plate which is moved
+    9/1625  . . . {Truss-manipulator for snake-like motion}
+    9/1628  . . {characterised by the control loop}
+    9/163   . . . {learning, adaptive, model based, rule based
+    9/1633  . . . {compliant, force, torque control, e.g.
+combined with position control}
+    9/1635  . . . {flexible-arm control}
+    9/1638  . . . {compensation for arm bending/inertia, pay
+    9/1641  . . . {compensation for backlash, friction,
+compliance, elasticity in the joints}
+    9/1643  . . . {redundant control}
+    9/1646  . . . {variable structure system, sliding mode
+    9/1648  . . . {non-linear control combined or not with linear
+    9/1651  . . . {acceleration, rate control}
+    9/1653  . . . {parameters identification, estimation, stiffness,
+    9/1656  . . {characterised by programming, planning systems
+    9/1658  . . . {characterised by programming language}
+    9/1661  . . . {characterised by task planning, object-oriented
+    9/1664  . . . {characterised by motion, path, trajectory
+    9/1666  . . . . {Avoiding collision or forbidden zones}
+    9/1669  . . . {characterised by special application, e.g.
+multi-arm co-operation, assembly, grasping}
+    9/1671  . . . {characterised by simulation, either to verify
+existing program or to create and verify new
+program, CAD/CAM oriented, graphic oriented
+    9/1674  . . {characterised by safety, monitoring, diagnostic}
+    9/1676  . . . {Avoiding collision or forbidden zones}
+    9/1679  . . {characterised by the tasks executed}
+    9/1682  . . . {Dual arm manipulator; Coordination of
+    9/1684  . . . {Tracking a line or surface by means of
+    9/1687  . . . {Assembly, peg and hole, palletising, straight
+line, weaving pattern movement}
+    9/1689  . . . {Teleoperation}
+    9/1692  . . . {Calibration of manipulator}
+    9/1694  . . {characterised by use of sensors other than
+normal servo-feedback from position, speed or
+acceleration sensors, perception control, multi-
+sensor controlled systems, sensor fusion}
+    9/1697  . . . {Vision controlled systems}
+   11/00    Manipulators not otherwise provided for
+   11/0005  . {Manipulators having means for high-level
+communication with users, e.g. speech generator,
+   11/001   . . {with emotions simulating means}
+   11/0015  . . {Face robots, animated artificial faces for
+   11/002   . {Manipulators for defensive or military tasks}
+   11/0025  . . {handling explosives, bombs or hazardous
+   11/003   . {Manipulators for entertainment}
+   11/0035  . . {Dancing, executing a choreography}
+   11/004   . . {Playing a music instrument}
+   11/0045  . {Manipulators used in the food industry}
+   11/005   . {Manipulators for mechanical processing tasks}
+   11/006   . . {Deburring or trimming}
+   11/0065  . . {Polishing or grinding}
+   11/0075  . {Manipulators for painting or coating}
+   11/008   . {Manipulators for service tasks}
+   11/009   . . {Nursing, e.g. carrying sick persons, pushing
+wheelchairs, distributing drugs}
+   11/0095  . {Manipulators transporting wafers}
+   13/00    Controls for manipulators (programme controls
+B25J 9/16; control in general G05)
+   13/003   . {by means of an audio-responsive input (audible
+   13/006   . {by means of a wireless system for controlling one
+   13/02    . Hand grip control means {(handles or pedals for
+crane control B66C 13/56; for measuring the force
+applied to control members G01L 5/22; hand-
+held casings for switching devices, e.g. joy-sticks
+   13/025   . . {comprising haptic means}
+   13/04    . Foot-operated control means
+   13/06    . Control stands, e.g. consoles, switchboards
+   13/065   . . {comprising joy-sticks}
+   13/08    . by means of sensing devices, e.g. viewing or
+   13/081   . . {Touching devices, e.g. pressure-sensitive}
+   13/082   . . . {Grasping-force detectors (in general
+   13/083   . . . . {fitted with slippage detectors}
+   13/084   . . . {Tactile sensors (in general G01L 5/16,
+   13/085   . . {Force or torque sensors (B25J 13/082,
+   13/086   . . {Proximity sensors}
+   13/087   . . {for sensing other physical parameters, e.g.
+electrical or chemical properties}
+   13/088   . . {with position, velocity or acceleration sensors}
+   13/089   . . . {Determining the position of the robot with
+   15/00    Gripping heads {and other end effectors (grippers
+used in machine tools B23Q 7/04; gripping members
+fitted on cranes B66C 1/42, B66C 1/44; gripping
+means used in the manufacture of semiconductors
+H01L 21/68707; gripping means used for mounting
+electrical components H05K 13/04)}
+   15/0004  . {with provision for adjusting the gripped object in
+   15/0009  . {comprising multi-articulated fingers, e.g.
+   15/0014  . {having fork, comb or plate shaped means for
+engaging the lower surface on a object to be
+   15/0019  . {End effectors other than grippers}
+   15/0023  . {Gripper surfaces directly activated by a fluid
+   15/0028  . {with movable, e.g. pivoting gripping jaw surfaces}
+   15/0033  . {with gripping surfaces having special shapes}
+   15/0038  . . {Cylindrical gripping surfaces}
+   15/0042  . . {V-shaped gripping surfaces}
+   15/0047  . {for internally gripping hollow or recessed objects}
+   15/0052  . {multiple gripper units or multiple end effectors}
+   15/0057  . . {mounted on a turret}
+   15/0061  . . {mounted on a modular gripping structure}
+   15/0066  . . {with different types of end effectors, e.g.
+gripper and welding gun (B25J 15/0057 and
+   15/0071  . {with needles engaging into objects to be gripped}
+   15/0076  . {with means, e.g. Pelletier elements, for freezing
+a fluid interface between the gripping head and an
+   15/008   . {with sticking, gluing or adhesive means}
+   15/0085  . {with means for applying an electrostatic force on
+   15/009   . {with pins for accurately positioning the object on
+   15/0095  . {with an external support, i.e. a support which does
+not belong to the manipulator or the object to be
+gripped, e.g. for maintaining the gripping head
+in an accurate position, guiding it or preventing
+   15/0206  . . {comprising articulated grippers}
+   15/0213  . . . {actuated by gears}
+   15/022   . . . {actuated by articulated links}
+   15/0226  . . . {actuated by cams}
+   15/0233  . . . {actuated by chains, cables or ribbons}
+   15/024   . . . {having fingers directly connected to actuator}
+   15/0246  . . {actuated by an electromagnet}
+   15/0253  . . {comprising parallel grippers}
+   15/026   . . . {actuated by gears}
+   15/0266  . . . {actuated by articulated links}
+   15/0273  . . . . {comprising linear guide means}
+   15/028   . . . {actuated by cams}
+   15/0286  . . . {actuated by chains, cables or ribbons}
+   15/0293  . . . {having fingers directly connected to actuator}
+   15/04    . with provision for the remote detachment or
+exchange of the head or parts thereof
+   15/0408  . . {Connections means}
+   15/0416  . . . {having balls}
+   15/0425  . . . {having cams}
+   15/0433  . . . {having gripping members}
+   15/0441  . . . {having vacuum or magnetic means}
+   15/045   . . . {having screw means}
+   15/0458  . . . {having a frustroconical member}
+   15/0466  . . {with means for checking exchange completion}
+   15/0475  . . {Exchangeable fingers}
+   15/0483  . . {with head identification means}
+   15/0491  . . {comprising end-effector racks}
+   15/06    . with vacuum or magnetic holding means
+   15/0608  . . {with magnetic holding means}
+   15/0625  . . . {provided with a valve}
+   15/0633  . . . . {Air-flow-actuated valves}
+   15/0641  . . . . {Object-actuated valves}
+   15/065   . . . {provided with separating means for releasing
+the gripped object after suction}
+   15/0658  . . . . {Pneumatic type, e.g. air blast or
+   15/0666  . . . . {Other types, e.g. pins or springs}
+   15/0675  . . . {of the ejector type}
+   15/0683  . . . {Details of suction cup structure, e.g. grooves
+   15/0691  . . . {Suction pad made out of porous material, e.g.
+   15/08    . having finger members (B25J 15/02, B25J 15/04
+   15/083   . . {with means for locking the fingers in an open or
+   15/086   . . {with means for synchronizing the movements of
+   15/10    . . with three or more finger members
+{(B25J 15/0009 takes precedence)}
+   15/103   . . . {for gripping the object in three contact points}
+   15/106   . . . {moving in parallel relationship}
+   15/12    . . with flexible finger members
+   17/0208  . . {Compliance devices}
+   17/0216  . . . {comprising a stewart mechanism}
+   17/0225  . . . {with axial compliance, i.e. parallel to the
+   17/0233  . . . {with radial compliance, i.e. perpendicular to
+   17/0241  . . {One-dimensional joints}
+   17/025   . . . {mounted in series}
+   17/0258  . . {Two-dimensional joints}
+   17/0266  . . . {comprising more than two actuating or
+   17/0275  . . . {Universal joints, e.g. Hooke, Cardan, ball
+   17/0283  . . {Three-dimensional joints}
+   17/0291  . . . {having axes crossing at an oblique angle, i.e.
+   18/002   . {comprising beam bending compensation means}
+   18/005   . {having a curved shape}
+   18/007   . {the end effector rotating around a fixed point}
+   19/00    Accessories fitted to manipulators, e.g. for
+monitoring, for viewing; Safety devices combined
+with or specially adapted for use in connection
+with manipulators (safety-devices in general F16P;
+protection against radiation in general G21F)
+   19/0004  . {Braking devices (brakes in general F16D)}
+   19/0008  . {Balancing devices}
+   19/0012  . . {using fluidic devices}
+   19/0016  . . {using springs}
+   19/002   . . {using counterweights}
+   19/0025  . {Means for supplying energy to the end effector}
+   19/0029  . . {arranged within the different robot elements}
+   19/0033  . . . {with axial connectors in end effector flange}
+   19/0037  . . . {comprising a light beam pathway, e.g. laser}
+   19/0041  . . . {having rotary connection means}
+   19/0045  . . {Contactless power transmission, e.g. by
+   19/005   . {using batteries, e.g. as a back-up power source}
+   19/0058  . {Means for cleaning manipulators, e.g. dust
+   19/0062  . {Lubrication means}
+   19/0066  . {Means or methods for maintaining or repairing
+   19/007   . {Means or methods for designing or fabricating
+   19/0075  . {Means for protecting the manipulator from its
+   19/0079  . . {using an internal pressure system}
+   19/0083  . . {using gaiters}
+   19/0087  . . {using an antibacterial coating}
+   19/0091  . {Shock absorbers (in general F16F)}
+   19/0095  . {Means or methods for testing manipulators}
+   19/021   . . {Optical sensing devices}
+   19/022   . . . {using lasers}
+   19/023   . . . {including video camera means}
+   19/025   . . . {including optical fibres}
+   19/026   . . {Acoustical sensing devices}
+   19/027   . . {Electromagnetic sensing devices}
+   19/028   . . {Piezoresistive or piezoelectric sensing devices}
+   19/04    . . Viewing devices
+   19/061   . . {with audible signals (audio controls
+   19/063   . . {working only upon contact with an outside
+   19/065   . . . {Mechanical fuse}
+   19/066   . . {Redundant equipment}
+   19/068   . . {Actuating means with variable stiffness}
+   21/00    Chambers provided with manipulation devices
+(constructional features of the mounting of the
+manipulator in the wall B25J 1/08 {; glove-boxes for
+nuclear applications G21F 7/04})
+   21/02    . Glove-boxes, i.e. chambers in which manipulations
+are performed by the human hands in gloves built
+into the chamber walls {(glove- boxes for removal
+of dirt B08B 15/026; glove-boxes shielded against
+radiation G21F 7/04)}; Gloves therefor

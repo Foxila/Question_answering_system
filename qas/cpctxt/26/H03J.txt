@@ -1,0 +1,278 @@
+COOPERATIVE PATENT CLASSIFICATION
+TUNING RESONANT CIRCUITS; SELECTING RESONANT CIRCUITS
+This subclass covers also the control of tuning, including the combined control of tuning and other functions, e.g.
+combinations of tuning control and volume control, combinations of control of local oscillator and of supplementary resonant
+{In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Details of adjusting, driving, indicating, or
+mechanical control arrangements for resonant
+Groups H03J 1/14, H03J 1/16 take precedence
+over groups H03J 1/08 - H03J 1/12.
+{This Note corresponds to IPC Note (1) relating to
+    1/0008  . {using a central processing unit, e.g. a
+microprocessor (digital tuning in general
+    1/0016  . . {Indicating arrangements (digital indication of
+    1/0025  . . {in a remote control unit (remote control tuning in
+    1/0033  . . {for voltage synthesis with a D/A converter}
+    1/0041  . . {for frequency synthesis with counters or
+    1/0058  . . {provided with channel identification means
+(arrangements for monitoring the use made of
+broadcast services H04H 60/31)}
+    1/0066  . . . {with means for analysing the received signal
+strength (H03J 1/0083 takes precedence)}
+    1/0075  . . . . {where the receiving frequencies of the
+stations are stored in a permanent memory,
+    1/0083  . . . {using two or more tuners}
+    1/0091  . . {provided with means for scanning over a band of
+frequencies (H03J 1/0058 takes precedence)}
+    1/02    . Indicating arrangements {(indicating correct tuning
+    1/025   . . {with voiced announcement}
+    1/04    . . with optical indicating means
+    1/041   . . . {Pointers, markers, or the like, for tuning dials;
+    1/042   . . . {Means insuring a precise reading of the dial,
+e.g. special scale, local illumination possibly
+temporary, luminous point moving with the
+    1/044   . . . {Illumination of the tuning dial; On and off
+switching of the illumination; Circuits related
+    1/045   . . . {Indication of the tuning band, the bandwidth,
+tone control, the channel number, the
+    1/047   . . . . {using electronic means, e.g. LED's
+(display of electronic variables in general
+G01R 13/00, for discontinuous display
+    1/048   . . . . . {with digital indication (using a
+    1/06    . Driving or adjusting arrangements; combined with
+other driving or adjusting arrangements, e.g. of gain
+    1/063   . . {Special arrangements taken in correlation with
+the wear; Suppressing backlash; Locking in a
+    1/066   . . {Constructional details regarding potentiometric
+setting of voltage or current variable reactances}
+    1/08    . . Toothed-gear drive; Worm drive
+    1/10    . . Rope drive; Chain drive
+    1/14    . . Special arrangements for fine and coarse tuning
+    1/16    . . Single control means independently performing
+    1/18    . Control by auxiliary power
+    1/182   . . {using a ring of magnets or the like}
+    1/185   . . {the auxiliary power producing an adjustment
+dependent on the current intensity}
+    1/187   . . {the auxiliary power balancing automatically
+a Wheatstone bridge or the like, that has been
+unbalanced by the controlling device}
+    1/20    . . the auxiliary power being switched on as long as
+controlling current is switched on
+    1/22    . . with stepping arrangements actuated by control
+    3/00    Continuous tuning (H03J 7/00, H03J 9/00 take
+precedence; combination of continuous and
+discontinuous tuning other than for bandspreading
+    3/04    . . Arrangements for compensating for variations of
+physical values, e.g. temperature
+    3/06    . . Arrangements for obtaining constant bandwidth
+or gain throughout tuning range or ranges
+    3/08    . . . by varying a second parameter simultaneously
+with the tuning, e.g. coupling bandpass filter
+    3/10    . . Circuit arrangements for fine tuning, e.g.
+    3/12    . . Electrically-operated arrangements for indicating
+    3/14    . . . Visual indication, e.g. magic eye
+    3/16    . . Tuning without displacement of reactive element,
+    3/18    . . . by discharge tube or semiconductor device
+    3/185   . . . . {with varactors, i.e. voltage variable reactive
+    3/20    . of single resonant circuit by varying inductance only
+    3/22    . of single resonant circuit by varying inductance and
+    3/24    . of more than one resonant circuit simultaneously,
+the circuits being tuned to substantially the same
+frequency, e.g. for single-knob tuning
+    3/26    . . the circuits being coupled so as to form a
+    3/28    . of more than one resonant circuit simultaneously,
+the tuning frequencies of the circuits having a
+substantially constant difference throughout the
+    3/30    . . Arrangements for ensuring tracking with variable
+    3/32    . . Arrangements for ensuring tracking with variable
+    5/00    Discontinuous tuning; Selecting predetermined
+frequencies; Selecting frequency bands with
+or without continuous tuning in one or more
+of the bands, e.g. push-button tuning, turret
+tuner (H03J 7/00, H03J 9/00 take precedence; for
+    5/02    . with variable tuning element having a number of
+predetermined settings and adjustable to a desired
+    5/0209  . . {Discontinuous tuning using an electrical variable
+impedance element, e.g. a voltage variable
+reactive diode, by selecting the corresponding
+analogue value between a set of non preset
+    5/0218  . . {Discontinuous tuning using an electrical variable
+impedance element, e.g. a voltage variable
+reactive diode, by selecting the corresponding
+analogue value between a set of preset values}
+    5/0227  . . . {using a counter}
+    5/0236  . . . {with possibility to skip over certain counter
+positions, i.e. channel skipping, or scanning the
+counter position with a variable frequency rate}
+    5/0245  . . {Discontinuous tuning using an electrical variable
+impedance element, e.g. a voltage variable
+reactive diode, in which no corresponding
+analogue value either exists or is preset, i.e. the
+tuning information is only available in a digital
+form (microprocessor tuning H03J 1/0008)}
+    5/0254  . . . {the digital values being transfered to a D/A
+    5/0263  . . . . {the digital values being held in an auxiliary
+    5/0272  . . . {the digital values being used to preset a
+counter or a frequency divider in a phase
+locked loop, e.g. frequency synthesizer}
+    5/0281  . . . . {the digital values being held in an auxiliary
+    5/029   . . . {with channel skipping capability}
+    5/04    . . operated by hand
+    5/06    . . . Settings determined by single indexing means
+    5/08    . . . Settings determined by a number of separately-
+    5/10    . . . Settings determined by a number of positioning
+means mounted on a common support, {e.g.
+turret tuner,} which is adjustable to desired
+positions, a different positioning means being
+    5/12    . . . Settings determined by a number of separately-
+actuated driving means which adjust the tuning
+element directly to desired settings
+    5/14    . . operated by auxiliary power
+    5/143   . . . {Settings determined by a number of
+positioning means mounted on a common
+support, e.g. turret tuner, which is adjustable
+to determined positions, a different positioning
+means being in operation in each position}
+    5/146   . . . {Settings desired by a switch controlled
+together with the tuning member and which
+stops the control as soon as a desired position is
+    5/16    . . . Settings determined by a number of separate
+positioning means actuated by hand
+    5/18    . . . Settings determined by a number of separate
+positioning means actuated by electromagnets
+    5/20    . . . Settings determined by a number of positioning
+means actuated by a second means adjustable
+to different positions by the same or by a
+    5/22    . . . Settings determined by a number of separately
+actuated driving means which adjust the tuning
+element directly to desired settings
+    5/24    . with a number of separate pretuned tuning circuits
+or separate tuning elements selectively brought into
+circuit, e.g. for waveband selection or for television
+    5/242   . . {used exclusively for band selection}
+    5/244   . . . {using electronic means}
+    5/246   . . {using electronic means (H03J 5/244 takes
+    5/248   . . {using electromechanical means}
+    5/26    . . operated by hand
+    5/28    . . . Tuning circuits or elements supported on a
+revolving member with contacts arranged in a
+plane perpendicular to the axis
+    5/30    . . . Tuning circuits or elements supported on a
+revolving member with contacts arranged in
+    5/32    . . . Stationary tuning circuits or elements selected
+    7/00    Automatic frequency control; Automatic scanning
+    7/02    . Automatic frequency control (H03J 7/18 takes
+    7/023   . . {Neutralization of the automatic frequency
+correction during a tuning change}
+    7/026   . . {Means preventing a wrong working of the
+automatic frequency correction in case of fading
+    7/04    . . where the frequency control is accomplished by
+varying the electrical characteristics of a non-
+mechanically adjustable element or where the
+nature of the frequency controlling element is not
+    7/042   . . . {with reactance tube}
+    7/045   . . . {Modification of automatic frequency control
+sensitivity or linearising automatic frequency
+control operation; Modification of the working
+range (H03J 7/10 takes precedence)}
+    7/047   . . . {Automatic frequency control using an
+auxiliary signal, e.g. low frequency scanning
+of the locking range or superimposing a special
+    7/06    . . . using counters or frequency dividers
+    7/065   . . . . {the counter or frequency divider being used
+    7/08    . . . using varactors, i.e. voltage variable reactive
+diodes (H03J 7/06 takes precedence)
+    7/10    . . . . Modification of automatic frequency control
+sensitivity or linearising automatic frequency
+    7/12    . . . . Combination of automatic frequency control
+voltage with stabilised varactor supply
+    7/14    . . . Controlling the magnetic state of inductor cores
+    7/16    . . where the frequency control is accomplished by
+mechanical means, e.g. by a motor
+    7/18    . Automatic scanning over a band of frequencies
+    7/183   . . {combined with selection between different
+stations transmitting the same programm, e.g. by
+analysis of the received signal strength}
+    7/186   . . . {using two or more tuners}
+    7/20    . . where the scanning is accomplished by
+varying the electrical characteristics of a non-
+mechanically adjustable element {(H03J 7/183
+    7/22    . . . in which an automatic frequency control circuit
+is brought into action after the scanning action
+has been stopped (H03J 7/24 takes precedence)
+    7/24    . . . using varactors, i.e. voltage variable reactive
+diodes (H03J 7/28 takes precedence)
+    7/26    . . . . in which an automatic frequency control
+circuit is brought into action after the
+scanning action has been stopped
+    7/28    . . . using counters or frequency dividers
+    7/285   . . . . {the counter or frequency divider being used
+    7/30    . . where the scanning is accomplished by
+mechanical means, e.g. by a motor
+    7/305   . . . {in which an automatic frequency control
+circuit is brought in action after the scanning
+    7/32    . . with simultaneous display of received
+frequencies, e.g. panoramic receivers
+    9/00    Remote-control of tuned circuits; Combined
+remote-control of tuning and other functions,
+e.g. brightness, amplification (mechanical
+remote-control arrangements H03J 1/00 {; using a
+microprocessor H03J 1/0025; constructional details of
+remote control switching devices H01H 9/0235})
+    9/002   . {comprising one or more tuning stages separated
+    9/005   . {using non-electrical means without push-button
+control, e.g. pneumatic, hydraulic or sound wave
+    9/007   . {by voltages or currents with different frequencies
+    9/02    . using radio transmission; using near-field
+    9/04    . using ultrasonic, sonic or infrasonic waves
+    9/06    . using electromagnetic waves other than radio
+ 2200/00    Indexing scheme relating to tuning resonant
+circuits and selecting resonant circuits
+ 2200/01    . Circuitry controlling the selecting or switching
+ 2200/02    . Algorithm used as input for AFC action alignment
+ 2200/03    . Alignment of a receiver during fabrication
+ 2200/04    . Alignment of a transmitter during fabrication
+ 2200/05    . Alignment of transmitter with a receiver, after
+ 2200/06    . Tuning of antenna
+ 2200/07    . Calibration of receivers, using quartz crystal
+ 2200/08    . Calibration of receivers, in particular of a band pass
+ 2200/09    . Calibration of oscillator in receiver, using an
+external carrier frequency as reference
+ 2200/10    . Tuning of a resonator by means of digitally
+ 2200/11    . Cellular receiver, e.g. GSM, combined with a GPS
+ 2200/12    . Radio receiver combined with a GPS receiver
+ 2200/13    . Television receiver combined with a GPS receiver
+ 2200/14    . Tunable filter in receiver contributing to image
+ 2200/15    . Tuning of resonator by means of digitally controlled
+ 2200/16    . Interpolation of control values for varicaps
+ 2200/17    . Elimination of interference caused by harmonics of
+ 2200/18    . Tuning of a master filter in order to tune its slave
+ 2200/19    . Resonator in MEMS technology
+ 2200/20    . Radio receiver with possibility to choose a station
+ 2200/21    . Television receiver with possibility to choose a
+station with a certain program style
+ 2200/22    . Remote control device controlling cursor and/or
+including a cursor detecting device
+ 2200/23    . Remote control device with display showing data to
+be transmitted to the controlled apparatus
+ 2200/24    . Remote control device with display showing
+ 2200/25    . Remote control device with display
+ 2200/26    . . Remote control device with touch screen display
+ 2200/27    . Adjusting the seek sensitivity of a scanning or
+ 2200/28    . Automatic self-alignment of a receiver
+ 2200/29    . Self-calibration of a receiver
+ 2200/30    . Radio receiver with speech synthesis ability, used
+for conveying information that is shown on the
+ 2200/31    . Several sweeping or scanning speeds
+ 2200/32    . Tuning of tracking filter
+ 2200/33    . Tuning of filter by controlling transconductance
+ 2200/34    . Tuning of oscillator by controlling transconductance
+ 2200/35    . Inductance tunable by switching in/out parts of the
+ 2200/36    . Circuit arrangements for, e.g. increasing the
+tuning range, linearizing the voltage-capacitance
+relationship, lowering noise, constant slope in
+ 2200/37    . Control voltage applied to the anode of the varicap
+ 2200/38    . Control voltage applied to the cathode of the varicap
+ 2200/39    . Variable capacitors implemented using
+microelectro-mechanical systems [MEMS]
+ 2200/40    . Conversion to a zero or near-zero intermediate

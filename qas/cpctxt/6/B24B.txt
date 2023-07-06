@@ -1,0 +1,761 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+MACHINES, DEVICES, OR PROCESSES FOR GRINDING OR POLISHING
+(grinding of gear teeth B23F, of screw-threads B23G 1/36; by electro-erosion B23H;
+abrasive or related blasting B24C; tools for grinding, buffing or sharpening B24D; polishing
+compositions C09G 1/00; abrasives C09K 3/14; electrolytic etching or polishing C25F 3/00;
+grinding arrangements for use on assembled railway tracks E01B 31/17); DRESSING
+OR CONDITIONING OF ABRADING SURFACES; FEEDING OF GRINDING,
+1. In this subclass, the following term is used with the meaning indicated:
+"polishing" means the smoothing of a surface, i.e. a surface improvement but no improvement of the dimensional accuracy
+as would occur in a "grinding" operation.
+2. Attention is drawn to Notes (1) and (2) following the title of subclass B23F.
+3. In groups B24B 1/00 - B24B 27/00, in connection with glass the terms "grinding " and "polishing" are treated as being
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Processes of grinding or polishing; Use of auxiliary
+equipment in connection with such processes
+(processes characterised by the use of special
+machines or devices, see the relevant places for those
+    1/002   . {using electric current (B24B 37/046 and
+    1/005   . {using a magnetic polishing agent}
+    1/007   . {abrasive treatment to obtain an aged or worn-out
+    1/04    . subjecting the grinding or polishing tools, the
+abrading or polishing medium or work to vibration,
+e.g. grinding with ultrasonic frequency (polishing
+or abrading surfaces on work by means of tumbling
+apparatus B24B 31/00, involving oscillating or
+vibrating containers B24B 31/06; superfinishing
+surfaces on work, e.g. by means of abrading blocks
+reciprocating with high frequency, B24B 35/00)
+    3/00    Sharpening cutting edges, e.g. of tools; Accessories
+therefor, e.g. for holding the tools (non-abrasive
+sharpening devices for scythes, sickles, or the
+like A01D 3/00; sharpening devices designed
+as components of machines with cutters, see the
+relevant places for the machines, e.g. A01D 75/08,
+{B23F 23/1225, ,} B26D 7/12; sharpening of saw
+teeth B23D 63/12; sharpening of files or rasps
+B23D 73/00; grinding of die-stocks or chasers
+    3/003   . {for skate blades}
+    3/006   . {for edges of skis, snowboards or the like}
+    3/02    . of milling cutters
+    3/021   . . {of milling cutters with helical cutting edges}
+    3/022   . . {relief grinding of milling cutters}
+    3/024   . . {Indexing equipment}
+    3/025   . . {Tooth rests; Supporting means for milling-cutter
+    3/027   . . {of milling cutters with embedded cutters}
+    3/028   . . {of tapered milling cutters}
+    3/04    . . of plain milling cutters
+    3/045   . . . {of milling cutters with helical cutting edges}
+    3/06    . . of face or end milling cutters or cutter heads, e.g.
+    3/065   . . . {end milling cutters with rounded ends}
+    3/08    . . of profile milling cutters, e.g. of disc type
+    3/085   . . . {using a template}
+    3/10    . . of routers or engraving needles
+    3/14    . . of mortise chain cutters
+    3/18    . of taps or reamers
+    3/20    . . Tapering or chamfering taps or reamers
+    3/22    . . Relief cutting of taps or reamers
+    3/24    . of drills (by fluting the shank B24B 19/04)
+    3/242   . . {of step drills}
+    3/245   . . {for simultaneously sharpening several drills;
+    3/247   . . {Supports for drills (B24B 3/245 takes
+    3/26    . . of the point of twist drills
+    3/265   . . . {using devices specially adapted for domestic
+    3/28    . . . by swivelling the drill around an axis angularly
+    3/30    . . . . and rotating the drill about its own axis
+    3/32    . . . for thinning the point
+    3/33    . . of drills for stone
+    3/34    . of turning or planing tools or tool bits, e.g. gear
+cutters (B24B 3/36 takes precedence)
+    3/343   . . {of throw-away cutting bits}
+    3/346   . . {of gear shaper cutter}
+    3/36    . of cutting blades (B24B 3/58 takes precedence)
+    3/361   . . {of reciprocating blades}
+    3/363   . . {of blades mounted on a turning drum}
+    3/365   . . {of rotary mower blades}
+    3/366   . . {of meat mincing or meat grinding machines}
+    3/368   . . {installed as an accessory on another machine
+    3/38    . . for planing wood, e.g. cutter blades
+    3/40    . . Processes or apparatus specially adapted for
+    3/42    . . helically bent, e.g. for lawn mowers
+    3/44    . . of scythes or sickles
+    3/463   . . . {of slicing machine disc blades}
+    3/466   . . . {of cultivator disc blades}
+    3/48    . . of razor blades or razors (by an abrasive block
+    3/485   . . . {for travelling razor blades, in the form of a
+band or fitted on a transfer means}
+    3/50    . . . operated manually
+    3/52    . . of shear blades or scissors
+    3/54    . . of hand or table knives
+    3/543   . . . {using hand or foot driven tools}
+    3/546   . . . {the tool being driven in a non-rotary motion,
+    3/55    . of knife bars for harvesting machines
+    3/56    . of slicing bands (B24B 3/58 takes precedence)
+    3/58    . of tools having scalloped cutting edges
+    3/586   . . {of serrated edges, e.g. triangular shaped
+    3/60    . of tools not covered by the preceding subgroups
+    3/602   . . {of thread cutting tools}
+    3/605   . . {of surgical or dental instruments}
+Grinding surfaces of particular forms
+    5/00    Machines or devices designed for grinding surfaces
+of revolution on work, including those which
+also grind adjacent plane surfaces; Accessories
+therefor (B24B 11/00 - B24B 21/00 take precedence;
+honing machines or devices using abrading blocks
+performing axial and rotary movements superimposed
+    5/01    . for combined grinding of surfaces of revolution and
+of adjacent plane surfaces on work
+    5/02    . involving centres or chucks for holding work
+    5/025   . . {involving indexable work supporting means
+carrying several work pieces to be operated on in
+    5/04    . . for grinding cylindrical surfaces externally
+(grinding combined cylindrical and conical
+    5/042   . . . {for grinding several workpieces at once using
+    5/045   . . . {with the grinding wheel axis perpendicular to
+    5/047   . . . {of workpieces turning about a vertical axis}
+    5/06    . . for grinding cylindrical surfaces internally
+    5/065   . . . {for brake drums}
+    5/08    . . . involving a vertical tool spindle
+    5/10    . . . involving a horizontal tool spindle
+    5/12    . . for grinding cylindrical surfaces both externally
+and internally with several grinding wheels
+    5/14    . . for grinding conical surfaces, e.g. of centres
+    5/16    . . for grinding peculiarly surfaces, e.g. bulged
+    5/162   . . . {controlled by a template (B24B 5/167 takes
+    5/165   . . . {controlled by gearing (B24B 5/167 takes
+    5/167   . . . {for rolls with large curvature radius, e.g. mill
+    5/18    . involving centreless means for supporting,
+guiding, floating or rotating work (centreless
+turning B23B 5/08; centreless grinding of threads
+    5/185   . . {for internal surfaces}
+    5/20    . . involving grooved abrading blocks
+    5/22    . . for grinding cylindrical surfaces, e.g. on bolts
+    5/225   . . . {for mass articles}
+    5/24    . . for grinding conical surfaces
+    5/245   . . . {for mass articles}
+    5/26    . . for grinding peculiarly profiled surfaces, e.g.
+    5/28    . . for grinding outer surfaces concentrically to
+bores, involving additional centering means
+    5/30    . . Regulating-wheels; Equipment therefor
+    5/307   . . Means for supporting work
+    5/313   . involving work-supporting means carrying several
+workpieces to be operated on in succession
+    5/32    . . the work-supporting means being indexable
+    5/355   . . {Feeding means}
+    5/36    . Single-purpose machines or devices
+    5/363   . . {for grinding surfaces of revolution in situ}
+    5/366   . . {for grinding tyres}
+    5/37    . . for grinding rolls, e.g. barrel-shaped rolls
+    5/38    . . for externally grinding travelling elongated stock,
+    5/40    . . for grinding tubes internally
+    5/42    . . for grinding crankshafts or crankpins
+    5/421   . . . {Supports therefor}
+    5/423   . . . {having a grinding wheel turning around the
+    5/426   . . . {Portable devices therefor}
+    5/428   . . . {Balancing means}
+    5/44    . . for grinding rims of vehicle wheels, e.g. for
+2Grinding surfaces of particular forms
+    5/46    . . for grinding railway car wheels
+    5/48    . . for grinding walls of very fine holes, e.g. in
+    5/485   . . . {using grinding wires or ropes}
+    5/50    . characterised by a special design with respect to
+properties of the material of non-metallic articles
+to be ground, e.g. strings (cutting profiles into the
+    7/00    Machines or devices designed for grinding plane
+surfaces on work, including polishing plane
+glass surfaces; Accessories therefor (B24B 21/00
+takes precedence; honing of plane surfaces on work
+    7/005   . {Portal grinding machines}
+    7/02    . involving a reciprocatingly-moved work-table
+(involving a reciprocatingly-moved grinding
+wheel in combination with a stationary work-table
+    7/04    . involving a rotary work-table
+    7/06    . involving conveyor belts, a sequence of travelling
+    7/07    . involving a stationary work-table
+    7/075   . . {using a reciprocating grinding head mounted on
+    7/08    . . having an abrasive wheel built in
+    7/10    . Single-purpose machines or devices (grinding
+tools or machines specially designed for use on
+assembled railway track E01B 31/17)
+    7/12    . . for grinding travelling elongated stock, e.g. strip-
+    7/13    . . . grinding while stock moves from coil to coil
+    7/14    . . for grinding slideways (portable grinding
+machines designed for fastening on workpieces
+    7/16    . . for grinding end-faces, e.g. of gauges, rollers,
+nuts, piston rings (for combined grinding of
+surfaces of revolution and adjacent plane surfaces
+on work B24B 5/01; for grinding edges of bevels
+    7/162   . . . {for mass articles}
+    7/165   . . . {end faces of piston rings}
+    7/167   . . . {end faces coil springs}
+    7/17    . . . for simultaneously grinding opposite and
+parallel end faces, e.g. double disc grinders
+    7/18    . . for grinding floorings, walls, ceilings or the
+like (machines or devices for cleaning floorings
+    7/182   . . . {for walls and ceilings}
+    7/184   . . . . {pole sanders}
+    7/186   . . . {with disc-type tools}
+    7/188   . . . {with cylinder- or belt-type tools}
+    7/19    . . for grinding plane decorative patterns
+    7/20    . characterised by a special design with respect to
+properties of the material of non-metallic articles to
+    7/22    . . for grinding inorganic material, e.g. stone,
+    7/222   . . . {for grinding vertical surfaces (B24B 7/265
+    7/224   . . . {Portal grinding machines; Machines having a
+    7/226   . . . {in which the tool is supported by the
+    7/228   . . . {for grinding thin, brittle parts, e.g.
+semiconductors, wafers (grinding edges of thin,
+    7/24    . . . for grinding or polishing glass
+    7/242   . . . . {for plate glass}
+    7/244   . . . . . {continuous}
+    7/245   . . . . . {discontinuous}
+    7/247   . . . . {using reciprocating grinding tools}
+    7/248   . . . . . {high-frequency reciprocating tools, e.g.
+    7/26    . . . . for simultaneously grinding or polishing
+opposite faces of continuously travelling
+    7/265   . . . . . {of vertical surfaces}
+    7/28    . . for grinding wood
+    7/30    . . for grinding plastics
+    9/00    Machines or devices designed for grinding
+edges or bevels on work or for removing
+burrs; Accessories therefor (B24B 21/00 takes
+precedence; for sharpening cutting edges on tools
+B24B 3/00; removing burrs by loose abrasive material
+    9/002   . {for travelling workpieces}
+    9/005   . {for mass articles}
+    9/007   . {for end faces of tubes (cleaning pipe ends or pipe
+fittings, e.g. before soldering B08B 9/021)}
+    9/02    . characterised by a special design with respect to
+properties of materials specific to articles to be
+    9/04    . . of metal, e.g. skate blades {(B24B 3/003 takes
+    9/06    . . of non-metallic inorganic material, e.g. stone,
+    9/065   . . . {of thin, brittle parts, e.g. semiconductors,
+    9/085   . . . . {for watch glasses}
+    9/10    . . . . of plate glass
+    9/102   . . . . . {for travelling sheets}
+    9/105   . . . . . {using a template}
+    9/107   . . . . . {for glass plates while they are turning}
+    9/12    . . . . of hollow glassware, e.g. drinking glasses,
+preserve jars, television picture tube viewing
+    9/14    . . . . of optical work, e.g. lenses, prisms {(control
+of the position of the tool for bevelling
+    9/142   . . . . . {for contact lenses}
+    9/144   . . . . . {the spectacles being used as a template}
+    9/146   . . . . . {Accessories, e.g. lens mounting devices}
+    9/148   . . . . . {electrically, e.g. numerically, controlled}
+    9/16    . . . of diamonds; of jewels or the like; Diamond
+grinders' dops; Dop holders or tongs (for
+grinding sharp pointed diamonds or sapphires
+    9/161   . . . . {Dops, dop holders}
+    9/162   . . . . {by bruting, i.e. rubbing two precious stones
+    9/163   . . . . {of gem stones or convex surfaces,
+    9/164   . . . . {of diamond tools}
+    9/165   . . . . {for grinding cavities in gem stones}
+3Grinding surfaces of particular forms
+    9/166   . . . . {using heat}
+    9/167   . . . . {with means for turning and positioning the
+    9/168   . . . . {grinding peripheral, e.g. conical or
+    9/169   . . . . . {using templates}
+   11/00    Machines or devices designed for grinding
+spherical surfaces or parts of spherical surfaces
+on work; Accessories therefor (specially designed
+for optical surfaces B24B 13/00, for seat surfaces
+   11/02    . for grinding balls
+   11/04    . . involving grinding wheels
+   11/06    . . . acting by the front faces, e.g. of plane, grooved
+   11/08    . . . acting by the circumference
+   13/00    Machines or devices designed for grinding or
+polishing optical surfaces on lenses or surfaces of
+similar shape on other work; Accessories therefor
+(edging optical work, e.g. lenses, prisms B24B 9/14)
+   13/0006  . {for intraocular lenses}
+   13/0012  . {for multifocal lenses}
+   13/0018  . {for plane optical surfaces}
+   13/0025  . {for contact lenses}
+   13/0031  . {Machines having several working posts; Feeding
+   13/0037  . . {the lenses being worked by different tools, e.g.
+for rough-grinding, fine-grinding, polishing}
+   13/0043  . {the workpieces being deformed during the grinding
+   13/005   . Blocking means, chucks or the like; Alignment
+   13/0052  . . {Lens block moulding devices}
+   13/0055  . . {Positioning of lenses; Marking of lenses}
+   13/0057  . . {Deblocking of lenses}
+   13/01    . Specific tools, e.g. bowl-like; Production, dressing
+   13/012   . . {conformable in shape to the optical surface, e.g.
+by fluid pressure acting on an elastic membrane}
+   13/015   . of television picture tube viewing panels, headlight
+   13/02    . by means of tools with abrading surfaces
+corresponding in shape with the lenses to be made
+   13/023   . . {for grinding several lenses simultaneously}
+   13/026   . . {the contact between tool and workpiece being a
+   13/04    . grinding of lenses involving grinding wheels
+controlled by gearing (B24B 13/06 takes
+   13/043   . . {using cup-type grinding wheels}
+   13/046   . . {using a pointed tool or scraper-like tool
+(B24B 13/015 and B24B 13/065 take
+   13/06    . grinding of lenses, the tool or work being controlled
+by information-carrying means, e.g. patterns,
+   13/065   . . {using a template}
+   15/00    Machines or devices designed for grinding seat
+surfaces; Accessories therefor (for spherical
+surfaces in general B24B 11/00)
+   15/02    . in valve housings
+   15/03    . . using portable or mobile machines
+   15/06    . on openings of bottles; on bottle stoppers or the like
+   15/08    . for grinding co-operating seat surfaces by moving
+   17/00    Special adaptations of machines or devices
+for grinding controlled by patterns, drawings,
+magnetic tapes or the like (machines or devices
+so-controlled for grinding the edges of lenses
+B24B 9/14; for grinding or polishing optical lens
+surfaces B24B 13/06; for grinding non-circular cross-
+sections B24B 19/08; for grinding trochoidal surfaces
+B24B 19/09; for grinding cams B24B 19/12; for
+grinding turbine blades or the like B24B 19/14; such
+control means per se B23Q 33/00, B23Q 35/00, G05);
+   17/02    . involving mechanical transmission means only
+   17/021   . . {using a pantograph}
+   17/023   . . {using two or more templates}
+   17/025   . . {for grinding rotating workpieces (three
+   17/026   . . . {for the periphery of plane workpieces, e.g.
+   17/028   . . {using an abrasive belt}
+   17/04    . involving optical auxiliary means, e.g. optical
+projection form grinding machines
+   17/06    . . combined with electrical transmission means, e.g.
+controlled by photoelectric cells
+   17/08    . involving fluid transmission means only
+   17/10    . involving electrical transmission means only, e.g.
+   19/00    Single-purpose machines or devices for particular
+grinding operations not covered by any other main
+group (tapering, chamfering, or relief cutting of taps
+or reamers B24B 3/20, B24B 3/22, grinding screw
+   19/001   . {for table cutlery}
+   19/002   . . {for knife blades (sharpening table knife blades
+   19/003   . {for the underframes of locomotives}
+   19/004   . {for grinding rails, T, I, H or other similar profiles}
+   19/005   . {for grinding skins or similar sheets}
+   19/006   . {for grinding hollow glassware, bottles}
+   19/007   . {for grinding buttons, nail heads, screw heads,
+   19/008   . {for grinding ceramics, pottery, table ware}
+   19/009   . {for grinding profiled workpieces using a profiled
+   19/02    . for grinding grooves, e.g. on shafts, in casings, in
+tubes, homokinetic joint elements
+   19/022   . . {for helicoidal grooves (B24B 19/04 takes
+   19/024   . . . {on electrical resistances}
+   19/026   . . {for checks for pilger rolls}
+   19/028   . . {for microgrooves or oil spots}
+   19/03    . . for grinding grooves in glass workpieces, e.g.
+   19/04    . . for fluting drill shanks
+4Grinding surfaces of particular forms
+   19/06    . . for grinding races, e.g. roller races
+   19/08    . for grinding non-circular cross-sections, e.g. shafts
+of elliptical or polygonal cross-section
+   19/09    . . for grinding trochoidal surfaces, e.g. in rotor
+   19/095   . . . {using templates}
+   19/10    . . for grinding pistons
+   19/11    . . for grinding the circumferential surface of rings,
+e.g. piston rings (grinding end faces B24B 7/16,
+   19/12    . . for grinding cams or camshafts
+   19/125   . . . {electrically controlled, e.g. numerically
+   19/14    . for grinding turbine blades, propeller blades or the
+like (using grinding belts B24B 21/16)
+   19/16    . for grinding sharp-pointed workpieces, e.g.
+needles, pens, fish hooks, tweezers or record player
+styli (grinding bevels on diamonds or sapphires
+B24B 9/16; polishing of needles B24B 29/08)
+   19/165   . . {Phonograph needles and the like}
+   19/18    . . for grinding carding equipment, e.g. card-
+clothings (devices for sharpening card-clothings
+built in or attachable to carding machines D01G)
+   19/20    . for grinding dies (for grinding walls of very fine
+   19/22    . characterised by a special design with respect to
+properties of the material of non-metallic articles to
+   19/223   . . {of paper or similar sheet material, e.g.
+perforating, cutting by means of a grinding
+   19/226   . . {of the ends of optical fibres}
+   19/24    . . of wood, e.g. furniture
+   19/26    . for grinding workpieces with arcuate surfaces,
+e.g. parts of car bodies, bumpers or magnetic
+recording heads (grinding of spherical surfaces
+in general B24B 11/00, of optical surfaces on
+lenses or surfaces of similar shape on other work
+   19/28    . . for grinding shoes or linings of drum brakes
+(of brake drum hubs B24B 5/06, of brake discs
+   21/00    Machines or devices using grinding or polishing
+belts (for sharpening cutting edges of tools
+B24B 3/00; portable belt-grinding machines
+B24B 23/06); Accessories therefor
+   21/002   . {for grinding edges or bevels}
+   21/004   . {using abrasive rolled strips}
+   21/006   . {for special purposes, e.g. for television tubes, car
+   21/008   . {Machines comprising two or more tools or
+having several working posts (B24B 21/006 takes
+   21/02    . for grinding rotationally symmetrical surfaces
+   21/025   . . {for travelling elongated stock, e.g. wire}
+   21/04    . for grinding plane surfaces
+   21/06    . . involving members with limited contact area
+pressing the belt against the work, e.g. shoes
+sweeping across the whole area to be ground
+   21/08    . . . Pressure shoes; {Pressure members, e.g.}
+   21/10    . . involving a rigid member, e.g. pressure bar, table,
+pressing or supporting the belt over substantially
+   21/12    . . involving a contact wheel or roller pressing the
+   21/14    . . . Contact wheels; Contact rollers; Belt
+   21/16    . for grinding other surfaces of particular shape
+(single purpose machines for grinding cams or
+   21/165   . . {for vanes or blades of turbines, propellers,
+impellers, compressors and the like}
+   21/20    . . for controlling or adjusting the tracking or the
+   21/22    . . for producing a reciprocation of the grinding belt
+normal to its direction of movement
+   23/00    Portable grinding machines, e.g. hand-guided;
+Accessories therefor (B24B 7/18 takes precedence;
+for grinding seat surfaces B24B 15/00; having a
+flexible shaft B24B 27/027; grinders for cutting-off
+B24B 27/08; dust extraction equipment B24B 55/10;
+details or components, e.g. casings, bodies of portable
+power-driven tools not particularly related to the
+   23/005   . {Auxiliary devices used in connection with portable
+grinding machines, e.g. holders}
+   23/02    . with rotating grinding tools; Accessories therefor
+   23/022   . . {Spindle-locking devices, e.g. for mounting or
+   23/024   . . {driven by hands or feet}
+   23/03    . . the tool being driven in a combined movement
+   23/04    . with oscillating grinding tools; Accessories therefor
+   23/043   . . {reciprocatingly driven by a pneumatic or
+   23/046   . . {Clamping or tensioning means for abrasive
+   23/06    . with abrasive belts, e.g. with endless travelling
+   23/08    . Portable grinding machines designed for fastening
+on workpieces or other parts of particular section,
+   25/00    Grinding machines of universal type
+   27/00    Other grinding machines or devices
+   27/0007  . {Movable machines}
+   27/0015  . {Hanging grinding machines}
+   27/0023  . {grinding machines with a plurality of working
+   27/003   . {using a tool turning around the work-piece}
+   27/0038  . {with the grinding tool mounted at the end of a set
+   27/0046  . {Column grinding machines}
+   27/0053  . {Radial grinding machines}
+   27/0061  . {having several tools on a revolving tools box}
+   27/0069  . {with means for feeding the work-pieces to the
+grinding tool, e.g. turntables, transfer means (see
+   27/0076  . {grinding machines comprising  two or more
+5Grinding surfaces of particular forms
+   27/0084  . {the grinding wheel support being angularly
+   27/0092  . {Grinding attachments for lathes or the like}
+   27/027   . having a flexible shaft
+   27/033   . for grinding a surface for cleaning purposes, e.g. for
+descaling or for grinding off flaws in the surface
+   27/04    . . Grinding machines or devices in which the
+grinding tool is supported on a swinging arm
+   27/06    . Grinders for cutting-off
+   27/0608  . . {using a saw movable on slideways}
+   27/0616  . . {using a tool turning around the workpiece}
+   27/0625  . . {whereby the workpieces are radially fed by
+   27/0633  . . {using a cutting wire}
+   27/0641  . . {for grinding holes}
+   27/065   . . {the saw being mounted on a pivoting arm}
+   27/0658  . . {for cutting workpieces while they are turning
+   27/0666  . . {the saw blade being arranged underneath a
+   27/0675  . . {methods therefor}
+   27/0683  . . {Accessories therefor}
+   27/0691  . . . {for controlling the feeding or return movement
+   27/085   . . . {Stands therefor}
+Polishing surfaces (machines or devices for grinding or polishing
+glass B24B 7/24, B24B 9/00, B24B 13/00; for grinding or polishing
+using belts B24B 21/00); Finishing surfaces (B24B 3/00 takes
+   29/00    Machines or devices for polishing surfaces on
+work by means of tools made of soft or flexible
+material with or without the application of solid
+or liquid polishing agents (polishing tools in general
+   29/02    . designed for particular workpieces
+   29/04    . . for rotationally symmetrical workpieces, e.g.
+ball-, cylinder- or cone-shaped workpieces
+   29/06    . . for elongated workpieces having uniform cross-
+   29/08    . . . the cross-section being circular, e.g. tubes,
+   29/10    . . for table cutlery
+   31/00    Machines or devices designed for polishing or
+abrading surfaces on work by means of tumbling
+apparatus or other apparatus in which the work
+and/or the abrasive material is loose; Accessories
+therefor (abrasive blasting machines B24C 3/26)
+   31/003   . {whereby the workpieces are mounted on a holder
+and are immersed in the abrasive material}
+   31/006   . {for grinding the interior surfaces of hollow
+   31/02    . involving rotary barrels
+   31/0206  . . {for descaling wires travelling through the
+   31/0212  . . {the barrels being submitted to a composite rotary
+   31/0218  . . . {the barrels are moving around two parallel
+axes, e.g. gyratory, planetary movement
+(B24B 31/033 takes precedence)}
+   31/0224  . . {the workpieces being fitted on a support}
+   31/023   . . with tiltable axis
+   31/027   . . with additional oscillating movement
+   31/03    . . the workpieces being continuously-travelling
+   31/033   . . having several rotating or tumbling drums with
+   31/037   . . having several rotating or tumbling drums with
+non-parallel axes {(B24B 31/0212, B24B 31/0218
+   31/05    . involving a container formed as a conveyor belt
+   31/06    . involving oscillating or vibrating containers
+   31/062   . . {the workpieces travelling through the containers
+(B24B 31/067, B24B 31/073 take precedence)}
+   31/064   . . {the workpieces being fitted on a support}
+   31/067   . . involving a bowl formed as a straight through
+   31/073   . . involving a bowl being ring- or spiral-shaped
+   31/10    . involving other means for tumbling of work
+   31/102   . . {using an alternating magnetic field}
+   31/104   . . involving a rotating bowl, in which a ring zone of
+abrasive powder is formed by centrifugal force
+   31/108   . . involving a sectioned bowl, one part of which,
+e.g. its wall, is stationary and the other part of
+   31/112   . . using magnetically consolidated grinding powder,
+moved relatively to the workpiece under the
+   31/116   . . using plastically deformable grinding compound,
+moved relatively to the workpiece under the
+   31/12    . Accessories; Protective equipment or safety devices;
+Installations for exhaustion of dust or for sound
+absorption specially adapted for machines covered
+by group B24B 31/00 {(in general B24B 55/00)}
+   31/14    . . Abrading-bodies specially designed for tumbling
+   31/16    . . Means for separating the workpiece from the
+abrasive medium at the end of operation
+   33/00    Honing machines or devices; Accessories therefor
+   33/02    . designed for working internal surfaces of revolution,
+e.g. of cylindrical or conical shapes
+   33/022   . . {Horizontal honing machines}
+   33/025   . . {Internal surface of conical shape}
+   33/027   . . {using an unexpandable tool}
+   33/04    . designed for working external surfaces of revolution
+   33/05    . designed for working grooves, e.g. in gun barrels
+   33/055   . designed for working plane surfaces
+   33/06    . with controlling or gauging equipment (gauging in
+general G01B; controlling in general G05)
+   33/08    . Honing tools {(for manufacturing gear teeth
+   33/081   . . {for external surfaces}
+   33/082   . . {having only one honing stone}
+   33/083   . . {with different sets of honing stones}
+   33/084   . . {having honing stones at the end of bars}
+   33/085   . . {in which the honing element consists of a
+   33/086   . . {Abrading blocks for honing tools}
+   33/087   . . {provided with measuring equipment}
+   33/088   . . {for holes having a shape other than cylindrical}
+   33/089   . . {with a rack-and-pinion mechanism for
+6Polishing surfaces ; Finishing surfaces
+   33/105   . . {Honing spindles; Devices for expanding the
+honing elements (B24B 33/04 takes precedence)}
+   35/00    Machines or devices designed for superfinishing
+surfaces on work, i.e. by means of abrading blocks
+reciprocating with high frequency
+   35/005   . {for making three-dimensional objects (by
+   37/00    Lapping machines or devices; Accessories
+   37/005   . Control means for lapping machines or devices
+   37/0053  . . {detecting loss or breakage of a workpiece during
+   37/0056  . . {taking regard of the pH-value of lapping agents}
+   37/013   . . Devices or means for detecting lapping
+   37/015   . . Temperature control
+   37/02    . designed for working surfaces of revolution
+   37/022   . . {characterised by the movement of the work
+   37/025   . . designed for working spherical surfaces
+   37/04    . designed for working plane surfaces
+   37/042   . . {operating processes therefor}
+   37/044   . . . {characterised by the composition of the
+   37/046   . . {using electric current}
+   37/048   . . {of sliders and magnetic heads of hard disc drives
+   37/07    . . characterised by the movement of the work or
+   37/08    . . . for double side lapping
+   37/10    . . . for single side lapping
+   37/102   . . . . {the workpieces or work carriers being able
+to rotate freely due to a frictional contact
+   37/105   . . . . {the workpieces or work carriers being
+actively moved by a drive, e.g. in a combined
+rotary and translatory movement}
+   37/107   . . . . . {in a rotary movement only, about an axis
+being stationary during lapping}
+   37/12    . . Lapping plates for working plane surfaces
+   37/14    . . . characterised by the composition or properties
+   37/16    . . . characterised by the shape of the lapping plate
+   37/20    . . Lapping pads for working plane surfaces
+   37/205   . . . {provided with a window for inspecting the
+surface of the work being lapped}
+   37/22    . . . characterised by a multi-layered structure
+   37/24    . . . characterised by the composition or properties
+   37/245   . . . . {Pads with fixed abrasives}
+   37/26    . . . characterised by the shape of the lapping pad
+   37/28    . . for double side lapping of plane surfaces
+   37/30    . . for single side lapping of plane surfaces
+   37/32    . . . Retaining rings
+   37/345   . . {Feeding, loading or unloading work specially
+   39/00    Burnishing machines or devices, i.e. requiring
+pressure members for compacting the surface
+zone (modifying the physical properties or structure
+of metal by burnishing C21D 7/08, C22F 1/00);
+   39/003   . {the working tool being composed of a plurality of
+   39/006   . {Peening and tools therefor}
+   39/02    . designed for working internal surfaces of revolution
+   39/023   . . {the working tool being composed of a plurality
+   39/026   . . {Impact burnishing}
+   39/04    . designed for working external surfaces of revolution
+   39/045   . . {the working tool being composed of a plurality
+   39/06    . designed for working plane surfaces
+   39/065   . . {Graining of metal plates, e.g. printing or
+Component parts of grinding machines or devices so far as
+specially adapted to grinding (if applicable to other machine tools,
+B23Q takes precedence; if peculiar to a particular type of machine or
+device, see the relevant group therefor)
+   41/00    Component parts such as frames, beds, carriages,
+   41/005   . {Feeding or manipulating devices specially adapted
+to grinding machines (feeding, loading or unloading
+work specially adapted to lapping machines
+   41/007   . {Weight compensation; Temperature compensation;
+   41/02    . Frames; Beds; Carriages
+   41/04    . Headstocks; Working-spindles; Features relating
+   41/042   . . {Balancing mechanisms}
+   41/044   . . {Grinding spindles with magnetic or
+electromagnetic bearings; Features related
+thereto (electric motors with magnetic bearings
+   41/047   . . Grinding heads for working on plane surfaces
+   41/0475  . . . {equipped with oscillating abrasive blocks, e.g.
+   41/053   . . . for grinding or polishing glass {(B24B 41/0475
+   41/06    . Work supports, e.g. adjustable steadies (B24B 37/27
+   41/061   . . {axially supporting turning workpieces, e.g.
+   41/062   . . . {between centres; Dogs}
+   41/063   . . . . {Lubrication of centres}
+   41/066   . . {adapted for supporting work in the form of tools,
+   41/067   . . {radially supporting workpieces}
+   41/068   . . {Table-like supports for panels, sheets or the
+   45/00    Means for securing grinding wheels on rotary
+arbors (suppression of vibrations in systems
+F16F 15/00; testing static or dynamic balancing of
+   45/003   . {Accessories therefor}
+7Component parts of grinding machines or devices so far as specially adapted to grinding
+   45/006   . {Quick mount and release means for disc-like
+   47/00    Drives or gearings; Equipment therefor
+   47/02    . for performing a reciprocating movement of
+   47/04    . . by mechanical gearing only
+   47/06    . . by liquid or gas pressure only
+   47/08    . . by mechanical gearing combined with fluid
+   47/10    . for rotating or reciprocating working-spindles
+carrying grinding wheels or workpieces
+   47/12    . . by mechanical gearing or electric power
+   47/14    . . by liquid or gas pressure (B24B 47/16 takes
+   47/16    . . performing a reciprocating movement, e.g. during
+which the sense of rotation of the working-spindle
+   47/18    . . for rotating the spindle at a speed adaptable to
+   47/20    . relating to feed movement
+   47/203   . . {driven by hand}
+   47/206   . . {for centreless grinding machines; for machines
+comprising work supports, e.g. steady rests}
+   47/22    . Equipment for exact control of the position of the
+grinding tool or work at the start of the grinding
+   47/225   . . {for bevelling optical work, e.g. lenses}
+   47/25    . for compensating grinding wheel abrasion resulting
+   47/26    . Accessories, e.g. stops
+   47/28    . Equipment for preventing backlash
+Measuring; Indicating; Controlling
+   49/00    Measuring or gauging equipment for controlling
+the feed movement of the grinding tool or work;
+Arrangements of indicating or measuring
+equipment, e.g. for indicating the start of the
+grinding operation (B24B 33/06, B24B 37/005 take
+precedence; if applicable to other machine tools,
+B23Q 15/00 - B23Q 17/00 take precedence)
+   49/003   . {involving acoustic means}
+   49/006   . {taking regard of the speed}
+   49/02    . according to the instantaneous size and required
+size of the workpiece acted upon, the measuring
+or gauging being continuous or intermittent
+   49/03    . . according to the final size of the previously
+   49/04    . . involving measurement of the workpiece at the
+place of grinding during grinding operation
+   49/045   . . . {Specially adapted gauging instruments}
+   49/05    . . . including the measurement of a first workpiece
+already machined and of another workpiece
+being machined and to be matched with the
+   49/06    . . requiring comparison of the workpiece with
+standard gauging plugs, rings or the like
+   49/08    . involving liquid or pneumatic means
+   49/10    . involving electrical means (B24B 49/02,
+   49/105   . . {using eddy currents}
+   49/12    . involving optical means
+   49/14    . taking regard of the temperature during grinding
+   49/16    . taking regard of the load
+   49/165   . . {for grinding tyres}
+   49/18    . taking regard of the presence of dressing tools
+   49/183   . . {Wear compensation without the presence of
+   49/186   . . {taking regard of the wear of the dressing tools}
+   51/00    Arrangements for automatic control of a series
+of individual steps in grinding a workpiece (if
+applicable to other machine tools, G05B takes
+   53/00    Devices or means for dressing or conditioning
+abrasive surfaces (compensation for grinding wheel
+abrasion resulting from dressing B24B 47/25)
+   53/001   . {involving the use of electric current}
+   53/003   . {using at least two conditioning tools}
+   53/005   . {Positioning devices for conditioning tools}
+   53/007   . Cleaning of grinding wheels
+   53/013   . Application of loose grinding agent as auxiliary tool
+   53/017   . Devices or means for dressing, cleaning or
+otherwise conditioning lapping tools
+   53/02    . of plane surfaces on abrasive tools (B24B 53/017
+   53/04    . of cylindrical or conical surfaces on abrasive tools
+or wheels (B24B 53/017 takes precedence)
+   53/047   . . equipped with one or more diamonds
+   53/053   . . using a rotary dressing tool
+   53/06    . of profiled abrasive wheels
+   53/062   . . {using rotary dressing tools (B24B 53/07 takes
+   53/065   . . having other than straight profiles, e.g. crowned
+   53/07    . . by means of forming tools having a shape
+complementary to that to be produced, e.g.
+   53/075   . . for workpieces having a grooved profile, e.g.
+gears, splined shafts, threads, worms (B24B 53/07
+   53/08    . . controlled by information means, e.g. patterns,
+templets, punched tapes or the like
+   53/081   . . . {by means of a template}
+   53/082   . . . . {for tools having a screw-thread profile}
+   53/083   . . . {for tools having a screw-thread profile
+(B24B 53/081 takes precedence)}
+   53/085   . . . for workpieces having a grooved profile,
+e.g. gears, splined shafts, threads, worms
+{(B24B 53/082, B24B 53/083, B24B 53/09
+   53/09    . . . having transfer elements formed as pantograph
+   53/095   . Cooling or lubricating during dressing operation
+(cooling the grinding surfaces B24B 55/02)
+   53/10    . of travelling flexible backings coated with
+abrasives; Cleaning of abrasive belts
+   53/12    . Dressing tools; Holders therefor
+   53/14    . . Dressing tools equipped with rotary rollers or
+8Measuring; Indicating; Controlling
+   55/00    Safety devices for grinding or polishing machines;
+Accessories fitted to grinding or polishing
+machines for keeping tools or parts of the machine
+in good working condition (of general applicability
+for machine tools B23Q 11/00; in general F16P)
+   55/02    . Equipment for cooling the grinding surfaces,
+e.g. devices for feeding coolant (cooling or
+lubricating during dressing operation B24B 53/095;
+incorporated in grinding wheels B24D)
+   55/03    . . designed as a complete equipment for feeding or
+   55/04    . Protective covers for the grinding wheel
+   55/045   . . {with cooling means incorporated}
+   55/05    . . specially designed for portable grinding machines
+   55/052   . . . {with rotating tools}
+   55/055   . . . {with oscillating tools}
+   55/057   . . . {with belt-like tools}
+   55/06    . Dust extraction equipment on grinding or polishing
+machines (B24B 31/12 takes precedence)
+   55/08    . . specially designed for belt grinding machines
+   55/10    . . specially designed for portable grinding
+   55/102   . . . {with rotating tools}
+   55/105   . . . {with oscillating tools}
+   55/107   . . . {with belt-like tools}
+   55/12    . Devices for exhausting mist of oil or coolant;
+Devices for collecting or recovering materials
+resulting from grinding or polishing, e.g. of precious
+metals, precious stones, diamonds or the like
+   57/00    Devices for feeding, applying, grading or
+recovering grinding, polishing or lapping agents
+(for abrasive blasting B24C 1/00, B24C 7/00)
+   57/02    . for feeding of fluid, sprayed, pulverised, or liquefied
+grinding, polishing or lapping agents
+   57/04    . for feeding of solid grinding, polishing or lapping

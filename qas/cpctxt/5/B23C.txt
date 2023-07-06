@@ -1,0 +1,611 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+MACHINE TOOLS; METAL-WORKING NOT OTHERWISE PROVIDED FOR
+MILLING (broaching B23D; broach-milling in making gears B23F; arrangement for copying or
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Milling machines not designed for particular work
+    1/002   . {Gantry-type milling machines}
+    1/005   . {with a tool moving in a closed path around the
+    1/007   . {movable milling machines, e.g. on rails}
+    1/02    . with one horizontal working-spindle
+    1/025   . . with working-spindle movable in a fixed position
+    1/027   . . with working-spindle movable in a vertical
+    1/04    . with a plurality of horizontal working-spindles
+    1/045   . . {Opposed - spindle machines}
+    1/06    . with one vertical working-spindle
+    1/08    . with a plurality of vertical working-spindles
+    1/10    . with both horizontal and vertical working-spindles
+    1/12    . with spindle adjustable to different angles, e.g.
+    1/14    . with rotary work-carrying table (work tables for
+machine tools in general B23Q 1/00)
+    1/16    . specially designed for control by copying devices
+    1/18    . . for milling while revolving the work
+    1/20    . Portable devices or machines (details or
+components, e.g. casings, bodies, of portable power-
+driven tools not particularly related to the operation
+performed B25F 5/00); Hand-driven devices or
+    3/00    Milling particular work; Special milling
+operations; Machines therefor (milling gear-teeth
+B23F, {heat assisted machining B23P 25/00})
+    3/002   . {Milling elongated workpieces}
+    3/007   . {Milling end surfaces of nuts or tubes}
+    3/02    . Milling surfaces of revolution (B23C 3/06,
+    3/023   . . {Milling spherical surfaces}
+    3/026   . . . {Milling balls}
+    3/04    . . while revolving the work
+    3/05    . . Finishing valves or valve seats {(machines for
+grinding seat surfaces, e.g. in valve housings,
+    3/051   . . . {Reconditioning of valve seats}
+    3/053   . . . . {having means for guiding the tool carrying
+    3/055   . . . . . {for engines}
+    3/056   . . . . . {for taps or valves}
+    3/058   . . . {Reconditioning of valves}
+    3/06    . Milling crankshafts
+    3/08    . Milling cams, camshafts, or the like
+    3/10    . Relieving by milling
+    3/12    . Trimming or finishing edges, e.g. deburring welded
+    3/122   . . {of pipes or cylinders}
+    3/126   . . {Portable devices or machines for chamfering
+    3/128   . . {Trimming or finishing edges of doors and
+    3/13    . Surface milling of plates, sheets or strips
+    3/14    . Scrubbing or peeling ingots or similar workpieces
+    3/16    . Working surfaces curved in two directions
+    3/18    . . for shaping screw-propellers, turbine blades, or
+    3/20    . . for shaping dies
+    3/22    . Forming overlapped joints, e.g. of the ends of
+    3/24    . Making square or polygonal ends on workpieces,
+    3/26    . Making square or polygonal holes in workpieces,
+    3/28    . Grooving workpieces (tread-cutting by milling
+    3/30    . . Milling straight grooves, e.g. keyways
+    3/305   . . . {in which more than one milling tool is used
+simultaneously, e.g. for sheet material}
+    3/32    . . Milling helical grooves, e.g. in making twist-drills
+    3/34    . . Milling grooves of other forms, e.g.
+    3/35    . . Milling grooves in keys
+    3/355   . . . {Holders for the template keys}
+    3/36    . Milling milling-cutters (B23C 3/28 takes
+    5/00    Milling-cutters (for cutting gear-teeth B23F 21/12)
+    5/003   . {with vibration suppressing means}
+    5/006   . {Details of the milling cutter body}
+    5/02    . characterised by the shape of the cutter
+    5/04    . . Plain cutters, i.e. having essentially a cylindrical
+or tapered cutting surface of substantial length
+    5/06    . . Face-milling cutters, i.e. having only or primarily
+a substantially flat cutting surface
+    5/08    . . Disc-type cutters
+    5/10    . . Shank-type cutters, i.e. with an integral shaft
+    5/1009  . . . {Ball nose end mills}
+    5/1018  . . . . {with permanently fixed cutting inserts}
+    5/1027  . . . . {with one or more removable cutting inserts}
+    5/1036  . . . . . {having a single cutting insert, the cutting
+edges of which subtend 180 degrees}
+    5/1045  . . . . . {having a cutting insert, the cutting
+edge of which subtends substantially 90
+    5/1054  . . . {T slot cutters}
+    5/1063  . . . . {with permanently fixed cutting inserts}
+    5/1072  . . . . {with removable cutting inserts}
+    5/1081  . . . {with permanently fixed cutting inserts
+  (B23C 5/1018 and B23C 5/1063 take
+    5/109   . . . {with removable cutting inserts}
+    5/12    . . Cutters specially designed for producing
+particular profiles (B23C 5/10 takes precedence)
+    5/14    . . . essentially comprising curves {(B23C 5/1009
+    5/16    . characterised by physical features other than shape
+    5/165   . . {with chipbreaking or chipdividing equipment
+(for turning machines B23B 25/02; turning tools
+B23B 27/00; drilling machines B23B 47/34)}
+    5/18    . . with permanently-fixed cutter-bits or teeth
+    5/20    . . with removable cutter bits or teeth {or cutting
+    5/202   . . . {Plate-like cutting inserts with special form
+(special form related to securing of the insert
+Group B23C 5/202 is impacted by
+reclassification into group B23C 5/205.
+Groups B23C 5/202 and B23C 5/205
+should be considered in order to perform a
+    5/205   . . . . {characterised by chip-breakers of special
+Group B23C 5/205 is incomplete pending
+reclassification of documents from group
+Groups B23C 5/202 and B23C 5/205
+should be considered in order to perform
+    5/22    . . . Securing arrangements for bits or teeth {or
+reclassification into groups B23C 5/2298,
+B23C 5/2301, B23C 5/2304, B23C 5/2306
+All groups listed in this Warning should be
+considered in order to perform a complete
+    5/2204  . . . . {with cutting inserts clamped against the
+walls of the recess in the cutter body by a
+clamping member acting upon the wall of a
+Group B23C 5/2204 is impacted by
+reclassification into group B23C 5/2298.
+Groups B23C 5/2204 and B23C 5/2298
+should be considered in order to perform
+    5/2208  . . . . . {for plate-like cutting inserts 
+Groups B23C 5/2208 and B23C 5/2301
+should be considered in order to
+    5/2213  . . . . . . {having a special shape}
+B23C 5/2304 should be considered in
+order to perform a complete search.
+    5/2226  . . . . . {for plate-like cutting inserts fitted on an
+intermediate carrier, e.g. shank fixed in the
+Groups B23C 5/2226 and B23C 5/2306
+should be considered in order to
+    5/2234  . . . . . {for plate-like cutting inserts fitted on a
+Groups B23C 5/2234 and B23C 5/2309
+should be considered in order to
+    5/2239  . . . . {with cutting inserts clamped by a clamping
+member acting almost perpendicular on the
+Group B23C 5/2239 is impacted by
+reclassification into group B23C 5/2298.
+Groups B23C 5/2239 and B23C 5/2298
+should be considered in order to perform
+    5/2243  . . . . . {for plate-like cutting inserts 
+Groups B23C 5/2243 and B23C 5/2301
+should be considered in order to
+    5/2247  . . . . . . {having a special shape}
+B23C 5/2304 should be considered in
+order to perform a complete search.
+    5/2252  . . . . . {for plate-like cutting inserts fitted on an
+intermediate carrier, e.g. shank fixed in the
+Groups B23C 5/2252 and B23C 5/2306
+should be considered in order to
+    5/226   . . . . . {for plate-like cutting inserts fitted on a
+Groups B23C 5/226 and B23C 5/2309
+should be considered in order to
+    5/2265  . . . . {by means of a wedge}
+Group B23C 5/2265 is impacted by
+reclassification into group B23C 5/2298.
+Groups B23C 5/2265 and B23C 5/2298
+should be considered in order to perform
+    5/2269  . . . . . {for plate-like cutting inserts 
+Groups B23C 5/2269 and B23C 5/2301
+should be considered in order to
+    5/2273  . . . . . . {having a special shape}
+B23C 5/2304 should be considered in
+order to perform a complete search.
+    5/2278  . . . . . {for plate-like cutting inserts fitted on an
+intermediate carrier, e.g. shank fixed in the
+Groups B23C 5/2278 and B23C 5/2306
+should be considered in order to
+    5/2291  . . . . . {for plate-like cutting inserts fitted on a
+Groups B23C 5/2291 and B23C 5/2309
+should be considered in order to
+    5/2295  . . . . {the cutting elements being clamped
+Group B23C 5/2295 is impacted by
+reclassification into group B23C 5/2298.
+Groups B23C 5/2295 and B23C 5/2298
+should be considered in order to perform
+    5/2298  . . . . {secured by resilient/flexible means}
+Group B23C 5/2298 is incomplete
+pending reclassification of documents
+from groups B23C 5/22, B23C 5/2204,
+All groups listed in this Warning should
+be considered in order to perform a
+    5/2301  . . . . . {for plate-like cutting inserts 
+Group B23C 5/2301 is incomplete
+pending reclassification of documents
+from groups B23C 5/22, B23C 5/2208,
+All groups listed in this Warning should
+be considered in order to perform a
+    5/2304  . . . . . . {having a special shape}
+Group B23C 5/2304 is incomplete
+documents from groups B23C 5/22,
+All groups listed in this Warning
+should be considered in order to
+    5/2306  . . . . . {for plate-like cutting inserts fitted on an
+intermediate carrier, e.g. shank fixed in the
+Group B23C 5/2306 is incomplete
+pending reclassification of documents
+from groups B23C 5/22, B23C 5/2226,
+All groups listed in this Warning should
+be considered in order to perform a
+    5/2309  . . . . . {for plate-like cutting inserts fitted on a
+Group B23C 5/2309 is incomplete
+pending reclassification of documents
+from groups B23C 5/22, B23C 5/2234,
+All groups listed in this Warning should
+be considered in order to perform a
+reclassification into groups B23C 5/2462,
+All groups listed in this Warning should
+be considered in order to perform a
+    5/2462  . . . . . {the adjusting means being oblique
+Group B23C 5/2462 is incomplete
+pending reclassification of documents
+Groups B23C 5/24 and B23C 5/2462
+should be considered in order to
+    5/2465  . . . . . {the adjusting means being notches}
+Group B23C 5/2465 is incomplete
+pending reclassification of documents
+Groups B23C 5/24 and B23C 5/2465
+should be considered in order to
+    5/2468  . . . . . {the adjusting means being serrations}
+Group B23C 5/2468 is incomplete
+pending reclassification of documents
+Groups B23C 5/24 and B23C 5/2468
+should be considered in order to
+    5/2472  . . . . . {the adjusting means being screws}
+Group B23C 5/2472 is incomplete
+pending reclassification of documents
+Groups B23C 5/24 and B23C 5/2472
+should be considered in order to
+    5/2475  . . . . . {the adjusting means being distance
+elements, e.g. shims or washers}
+Group B23C 5/2475 is incomplete
+pending reclassification of documents
+Groups B23C 5/24 and B23C 5/2475
+should be considered in order to
+    5/2479  . . . . . {the adjusting means being eccentrics}
+Group B23C 5/2479 is incomplete
+pending reclassification of documents
+Groups B23C 5/24 and B23C 5/2479
+should be considered in order to
+    5/2482  . . . . . {the adjusting means being hydraulic
+Group B23C 5/2482 is incomplete
+pending reclassification of documents
+Groups B23C 5/24 and B23C 5/2482
+should be considered in order to
+    5/2486  . . . . . {where the adjustment is made by
+elastically deforming the toolholders}
+Group B23C 5/2486 is incomplete
+pending reclassification of documents
+Groups B23C 5/24 and B23C 5/2486
+should be considered in order to
+    5/2489  . . . . . {where the adjustment is made by
+changing the inclination of the inserts}
+Group B23C 5/2489 is incomplete
+pending reclassification of documents
+Groups B23C 5/24 and B23C 5/2489
+should be considered in order to
+    5/2493  . . . . . {where the adjustment is made by
+deforming the seating surfaces}
+Group B23C 5/2493 is incomplete
+pending reclassification of documents
+Groups B23C 5/24 and B23C 5/2493
+should be considered in order to
+    5/2496  . . . . . {where the adjusting means are gears and
+Group B23C 5/2496 is incomplete
+pending reclassification of documents
+Groups B23C 5/24 and B23C 5/2496
+should be considered in order to
+    5/26    . Securing milling cutters to the driving spindle
+    5/265   . . {by fluid pressure means}
+    5/28    . Features relating to lubricating or cooling
+Group B23C 5/28 is impacted by reclassification
+into groups B23C 5/281, B23C 5/282,
+B23C 5/283, B23C 5/285, B23C 5/286 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+    5/281   . . {Coolant moving along the outside tool periphery
+Group B23C 5/281 is incomplete pending
+reclassification of documents from group
+Groups B23C 5/28 and B23C 5/281 should
+be considered in order to perform a complete
+    5/282   . . {Coolant channel characterised by its cross-
+Group B23C 5/282 is incomplete pending
+reclassification of documents from group
+Groups B23C 5/28 and B23C 5/282 should
+be considered in order to perform a complete
+    5/283   . . {Cutting inserts with internal coolant channels}
+Group B23C 5/283 is incomplete pending
+reclassification of documents from group
+Groups B23C 5/28 and B23C 5/283 should
+be considered in order to perform a complete
+Group B23C 5/285 is incomplete pending
+reclassification of documents from group
+Groups B23C 5/28 and B23C 5/285 should
+be considered in order to perform a complete
+Groups B23C 5/286 and B23C 5/287 are
+incomplete pending reclassification of
+documents from group B23C 5/28.
+Groups B23C 5/28, B23C 5/286 and
+B23C 5/287 should be considered in order to
+    5/287   . . . {intersecting the rotational axis}
+    7/00    Milling devices able to be attached to a machine
+tool, whether or not replacing an operative portion
+    7/04    . to planing or slotting machines
+    9/00    Details or accessories so far as specially adapted to
+milling machines or cutter (drives, control devices,
+or accessories, in general B23Q)
+ 2200/00    Details of milling cutting inserts
+ 2200/08    . Rake or top surfaces
+ 2200/081   . . with projections (chip breaking projections in
+ 2200/082   . . with an elevated clamping surface
+ 2200/086   . . with one or more grooves
+ 2200/12    . Side or flank surfaces
+ 2200/121   . . with projections
+ 2200/128   . . with one or more grooves
+ 2200/16    . Supporting or bottom surfaces
+ 2200/161   . . with projections
+ 2200/165   . . with one or more grooves
+ 2200/168   . . with features related to indexing (with lines to
+permit indexing of round inserts B23C 2200/363)
+ 2200/20    . Top or side views of the cutting edge
+ 2200/201   . . Details of the nose radius and immediately
+ 2200/203   . . Curved cutting edges
+ 2200/205   . . Discontinuous cutting edges
+ 2200/206   . . Cutting edges having a wave-form
+ 2200/208   . . Wiper, i.e. an auxiliary cutting edge to improve
+ 2200/24    . Cross section of the cutting edge
+ 2200/243   . . bevelled or chamfered
+Group B23C 2200/28 is impacted by
+reclassification into groups B23C 2200/291 and
+Groups B23C 2200/28, B23C 2200/291 and
+B23C 2200/293 should be considered in order to
+ 2200/281   . . Negative rake angles
+Group B23C 2200/281 is incomplete pending
+reclassification of documents from group
+Groups B23C 2200/283 and B23C 2200/281
+should be considered in order to perform a
+Group B23C 2200/283 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups B23C 2200/281 and
+Groups B23C 2200/283, B23C 2200/281 and
+B23C 2200/284 should be considered in order
+ 2200/284   . . Negative clearance angles
+Group B23C 2200/284 is incomplete pending
+reclassification of documents from group
+Groups B23C 2200/283 and B23C 2200/284
+should be considered in order to perform a
+Group B23C 2200/286 is no longer used
+for the classification of documents as of
+The content of this group is being
+reclassified into groups B23C 2200/287 and
+Groups B23C 2200/286, B23C 2200/287 and
+B23C 2200/289 should be considered in order
+ 2200/287   . . Positive rake angles
+Group B23C 2200/287 is incomplete pending
+reclassification of documents from group
+Groups B23C 2200/286 and B23C 2200/287
+should be considered in order to perform a
+ 2200/289   . . Positive clearance angles
+Group B23C 2200/289 is incomplete pending
+reclassification of documents from group
+Groups B23C 2200/286 and B23C 2200/289
+should be considered in order to perform a
+ 2200/291   . . Variable rake angles
+Group B23C 2200/291 is incomplete pending
+reclassification of documents from group
+Groups B23C 2200/28 and B23C 2200/291
+should be considered in order to perform a
+ 2200/293   . . Variable clearance angles
+Group B23C 2200/293 is incomplete pending
+reclassification of documents from group
+Groups B23C 2200/28 and B23C 2200/293
+should be considered in order to perform a
+ 2200/32    . Chip breaking or chip evacuation
+ 2200/323   . . by chip-breaking projections (with projection on
+ 2200/326   . . by chip-breaking grooves
+ 2200/36    . Other features of the milling insert not covered by
+Group B23C 2200/36 is impacted by
+reclassification into groups B23C 2200/364,
+B23C 2200/369 and B23C 2200/3691.
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2200/362   . . . Having two fixation holes
+ 2200/363   . . Lines for indexing round inserts
+ 2200/364   . . Porous inserts, e.g. lattice-shaped constructions
+Group B23C 2200/364 is incomplete pending
+reclassification of documents from group
+Groups B23C 2200/36 and B23C 2200/364
+should be considered in order to perform a
+ 2200/365   . . Lands, i.e. the outer peripheral section of rake
+ 2200/367   . . Mounted tangentially, i.e. where the rake face is
+ 2200/368   . . Roughened surfaces
+ 2200/369   . . Double-sided inserts
+Groups B23C 2200/369 and B23C 2200/3691
+are incomplete pending reclassification of
+documents from group B23C 2200/36.
+Groups B23C 2200/36, B23C 2200/369 and
+B23C 2200/3691 should be considered in
+order to perform a complete search.
+ 2200/3691  . . . Split inserts
+ 2210/00    Details of milling cutters
+ 2210/02    . Connections between the shanks and detachable
+ 2210/03    . Cutting heads comprised of different material
+than the shank irrespective of whether the head is
+ 2210/0428  . . . . axial rake angle
+ 2210/0435  . . . . radial rake angle
+ 2210/045   . . . . axial rake angle
+ 2210/0457  . . . . radial rake angle
+ 2210/0471  . . . . axial rake angle
+ 2210/0478  . . . . radial rake angle
+ 2210/08    . Side or top views of the cutting edge
+ 2210/082   . . Details of the corner region between axial and
+ 2210/084   . . Curved cutting edges
+ 2210/086   . . Discontinuous or interrupted cutting edges
+ 2210/088   . . Cutting edges with a wave form
+ 2210/12    . Cross section of the cutting edge
+ 2210/123   . . Bevelled cutting edges
+ 2210/126   . . Rounded cutting edges
+ 2210/16    . Fixation of inserts or cutting bits in the tool (details
+ 2210/161   . . Elastically deformable clamping members
+ 2210/168   . . Seats for cutting inserts, supports for replacable
+ 2210/20    . Number of cutting edges
+ 2210/24    . Overall form of the milling cutter (angles
+B23C 2210/04; top or side views of cutting edges
+B23C 2210/08; cross sections of cutting edges
+ 2210/241   . . Cross sections of the whole milling cutter
+ 2210/242   . . Form tools, i.e. cutting edges profiles to generate
+ 2210/243   . . Cutting parts at both ends
+ 2210/244   . . Milling cutters comprised of disc-shaped modules
+ 2210/245   . . Milling cutters comprising a disc having a wave
+ 2210/246   . . Milling cutters comprising a hole or hollow in the
+end face or between the cutting edges
+ 2210/247   . . Stepped milling cutters
+ 2210/248   . . . with enlarged cutting heads
+ 2210/28    . Arrangement of teeth
+ 2210/282   . . Unequal angles between the cutting edges,
+i.e. cutting edges unequally spaced in the
+ 2210/285   . . Cutting edges arranged at different diameters
+ 2210/287   . . Cutting edges arranged at different axial positions
+or having different lengths in the axial direction
+ 2210/321   . . Lands, i.e. the area on the rake face in the
+immediate vicinity of the cutting edge
+ 2210/323   . . Separate teeth, i.e. discrete profiled teeth similar
+ 2210/325   . . Different teeth, i.e. one tooth having a different
+configuration to a tooth on the opposite side of
+ 2210/326   . . File like cutting teeth, e.g. the teeth of cutting
+ 2210/328   . . Treated cutting edges
+ 2210/40    . Flutes, i.e. chip conveying grooves
+ 2210/402   . . of variable depth
+ 2210/405   . . . having decreasing depth in the direction of the
+ 2210/407   . . . having increasing depth in the direction of the
+ 2210/44    . Margins, i.e. the part of the peripheral suface
+immediately adacent the cutting edge
+ 2210/483   . . Chip breaking projections
+ 2210/486   . . Chip breaking grooves or depressions
+Group B23C 2210/50 is impacted by
+reclassification into groups B23C 2210/501,
+B23C 2210/502 and B23C 2210/504.
+All groups listed in this Warning should be
+considered in order to perform a complete
+ 2210/501   . . with cutting edges following one or more helices
+Group B23C 2210/501 is incomplete pending
+reclassification of documents from group
+Groups B23C 2210/50 and B23C 2210/501
+should be considered in order to perform a
+ 2210/502   . . with cutting edges following straight flutes or
+Group B23C 2210/502 is incomplete pending
+reclassification of documents from group
+Groups B23C 2210/50 and B23C 2210/502
+should be considered in order to perform a
+ 2210/503   . . mounted internally on the cutter
+ 2210/504   . . arranged in a manner that only extends
+Group B23C 2210/504 is incomplete pending
+reclassification of documents from group
+Groups B23C 2210/50 and B23C 2210/504
+should be considered in order to perform a
+ 2210/506   . . mounted so as to be able to rotate freely
+ 2210/54    . Configuration of the cutting part
+ 2210/56    . Supporting or guiding sections located on the
+ 2210/60    . Axis of the cutter inclined with respect to the axis of
+ 2210/62    . Selectable cutting diameters
+ 2210/64    . End milling cutters having a groove in the end
+cutting face, the groove not being present so as to
+Group B23C 2210/64 is impacted by
+reclassification into group B23C 2210/641.
+Groups B23C 2210/64 and B23C 2210/641
+should be considered in order to perform a
+ 2210/641   . . at least one groove or gash being different than
+Group B23C 2210/641 is incomplete pending
+reclassification of documents from group
+Groups B23C 2210/64 and B23C 2210/641
+should be considered in order to perform a
+ 2210/66    . Markings, i.e. symbols or indicating marks
+ 2210/68    . Reground to nominal diameter by removal of
+material from both the front of the insert and the
+ 2210/72    . Rotatable in both directions
+ 2215/00    Details of workpieces
+ 2215/04    . Aircraft components
+ 2215/08    . Automotive parts (B23C 2215/16, B23C 2215/20
+and B23C 2215/24 take precedence)
+ 2215/12    . Propellers for boats
+ 2215/24    . Components of internal combustion engines
+ 2215/242   . . Combustion chambers
+ 2215/245   . . Connecting rods
+ 2215/247   . . Components of diesel engines
+ 2215/52    . Axial turbine wheels
+ 2215/56    . Radial turbine wheels
+ 2215/60    . Valve guides in combination with the neighbouring
+ 2215/64    . Well pipe windows, i.e. windows in tubings or
+ 2220/00    Details of milling processes
+ 2220/04    . Milling with the axis of the cutter inclined to the
+ 2220/08    . Milling with the axis of the tool perpendicular to the
+ 2220/12    . Cutting off, i.e. producing multiple discrete
+components from a single piece of material
+ 2220/24    . Production of elliptical holes
+ 2220/28    . Finishing (roughing and finishing B23C 2220/605)
+ 2220/36    . Production of grooves
+ 2220/366   . . Turbine blade grooves
+ 2220/40    . Using guiding means
+ 2220/44    . High speed milling
+ 2220/48    . Methods of milling not otherwise provided for
+ 2220/52    . Orbital drilling, i.e. use of a milling cutter moved in
+a spiral path to produce a hole
+ 2220/605   . . Roughing and finishing
+ 2220/64    . Using an endmill, i.e. a shaft milling cutter, to
+generate profile of a crankshaft or camshaft
+ 2222/00    Materials of tools or workpieces composed of
+metals, alloys or metal matrices
+ 2222/28    . Details of hard metal, i.e. cemented carbide
+ 2222/32    . Details of high speed steel (steel B23C 2222/84)
+ 2222/61    . Metal matrices with metallic or non-metallic
+ 2222/84    . Steel (details of high speed steel B23C 2222/32)
+ 2224/00    Materials of tools or workpieces composed of a
+ 2224/14    . Chromium aluminium nitride (CrAlN)
+ 2224/22    . Titanium aluminium carbide nitride (TiAlCN)
+ 2224/24    . Titanium aluminium nitride (TiAlN)
+ 2224/32    . Titanium carbide nitride (TiCN)
+ 2224/56    . Vanadium aluminium nitride (VAlN)
+ 2226/00    Materials of tools or workpieces not comprising a
+ 2226/27    . Composites, e.g. fibre reinforced composites
+ 2226/315   . . polycrystalline [PCD]
+ 2226/33    . Elastomers, e.g. rubber
+ 2226/42    . Gem, i.e. precious stone
+ 2226/45    . Glass (milling glass B28D 1/18)
+ 2226/61    . Plastics not otherwise provided for, e.g. nylon
+ 2226/75    . Stone, rock or concrete (milling stone or like
+ 2228/00    Properties of materials of tools or workpieces,
+materials of tools or workpieces applied in a
+ 2228/04    . applied by chemical vapour deposition [CVD]
+ 2228/08    . applied by physical vapour deposition [PVD]
+ 2228/12    . Cast, i.e. in the form of a casting
+ 2228/24    . Hard, i.e. after being hardened
+ 2230/00    Details of chip evacuation (chip evacuation in
+ 2230/04    . Transport of chips
+ 2230/045   . . to the middle of the cutter or in the middle of a
+ 2235/00    Details of milling keys
+ 2235/04    . Keys with blind holes
+ 2235/12    . Using a database to store details of the key, the
+information in the database being used for the
+generation of the profile of the key
+ 2235/21    . Calibration by electronic detection of position of
+ 2235/24    . Electronic sensors
+ 2235/32    . Measurement systems
+ 2235/44    . Templates for the simulation of keys
+ 2235/48    . Tracers, probes or styli
+ 2240/00    Details of connections of tools or workpieces
+(fixation of the cutting insert or bit in the tool
+ 2240/04    . Bayonet connections
+ 2240/08    . Brazed connections
+ 2240/12    . Connections using captive nuts
+ 2240/16    . Welded connections
+ 2240/21    . Glued connections
+ 2240/24    . Connections using screws
+ 2240/245   . . hollow screws, e.g. for the transmission of
+ 2240/32    . Connections using screw threads
+ 2245/00    Details of adjusting inserts or bits in the milling
+ 2245/04    . Adjustable wedge surfaces
+ 2250/00    Compensating adverse effects during milling
+ 2250/04    . Balancing the cutter (vibration damping
+ 2250/08    . compensating centrifugal force
+ 2250/12    . Cooling and lubrication
+ 2250/16    . Damping vibrations (balancing B23C 2250/04)
+ 2250/21    . compensating wear of parts not designed to be
+ 2255/00    Regulation of depth of cut
+ 2255/08    . Limitation of depth of cut
+ 2260/00    Details of constructional elements
+ 2260/04    . Adjustable elements
+ 2260/28    . Differential screw threads
+ 2260/40    . Harmonic gearboxes, i.e. reduction gearing
+including a wave generator, a flex spline or a
+ 2260/48    . Indication scales
+ 2260/52    . Keys, e.g. spanners or Allen keys, especially for
+assembling or disassembling tooling
+ 2260/56    . Lasers (improving machinability with laser whilst
+ 2265/00    Details of general geometric configurations
+ 2270/00    Details of milling machines, milling processes or
+milling tools not otherwise provided for
+ 2270/02    . Use of a particular power source
+ 2270/04    . Use of centrifugal force (compensation of effect of
+centrifigal force B23C 2250/08)
+ 2270/06    . Use of elastic or plastic deformation
+(B23C 2210/161 takes precedence)
+ 2270/08    . Clamping mechanisms or provision for clamping
+(B23C 2210/16 takes precedence)
+ 2270/10    . Use of ultrasound
+ 2270/12    . Centering of two elements relative to one another
+ 2270/14    . Constructions comprising exactly two similar
+ 2270/16    . Constructions comprising three or more similar
+ 2270/18    . Milling internal areas of components
+ 2270/20    . Milling external areas of components

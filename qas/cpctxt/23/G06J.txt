@@ -1,0 +1,16 @@
+COOPERATIVE PATENT CLASSIFICATION
+COMPUTING; CALCULATING OR COUNTING
+HYBRID COMPUTING ARRANGEMENTS (optical hybrid computing devices G06E 3/00;
+{fuzzy computing G06N 7/02}; neural networks for image data processing G06T; analog/digital
+conversion, in general H03M 1/00)
+In this subclass, the following expression is used with the meaning indicated:
+• "hybrid computing arrangement" is an arrangement in which part of the computation is digital and part is analogue.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Hybrid computing arrangements (digitally-
+programmed analogue computers G06G 7/06)
+    1/005   . {for correlation; for convolution; for Z or Fourier
+    1/02    . Differential analysers {(digital differential
+analysers and other computing arrangements using
+incremental quantity representation G06F 7/64)}
+    3/00    Systems for conjoint operation of complete digital
+and complete analogue computers

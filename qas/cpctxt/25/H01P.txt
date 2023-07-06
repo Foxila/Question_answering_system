@@ -1,0 +1,250 @@
+COOPERATIVE PATENT CLASSIFICATION
+WAVEGUIDES; RESONATORS, LINES, OR OTHER DEVICES OF THE
+WAVEGUIDE TYPE (operating at optical frequencies G02B)
+In this subclass, the following expression is used with the meaning indicated :
+• "waveguide type" as applied to transmission lines includes  only high-frequency coaxial cables or Lecher lines, and as
+applied to resonators, delay lines, or other devices includes  all devices having distributed inductance and capacitance.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Auxiliary devices (coupling devices of the waveguide
+    1/005   . {Diode mounting means}
+    1/02    . Bends; Corners; Twists
+    1/022   . . {in waveguides of polygonal cross-section
+    1/025   . . . {in the E-plane}
+    1/027   . . . {in the H-plane}
+    1/042   . . {Hollow waveguide joints}
+    1/045   . . {Coaxial joints}
+    1/047   . . {Strip line joints}
+    1/06    . Movable joints, e.g. rotating joints
+    1/061   . . {the relative movement being a translation along
+an axis common to at least two rectilinear parts,
+    1/062   . . {the relative movement being a rotation}
+    1/063   . . . {with a limited angle of rotation}
+    1/064   . . . . {the axis of rotation being perpendicular to
+the transmission path, e.g. hinge joint}
+    1/065   . . . . {the axis of rotation being parallel to the
+transmission path, e.g. stepped twist}
+    1/066   . . . {with an unlimited angle of rotation}
+    1/067   . . . . {the energy being transmitted in only one
+line located on the axis of rotation}
+    1/068   . . . . {the energy being transmitted in at least
+one ring-shaped transmission line located
+around the axis of rotation, e.g. "around
+the mast" rotary joint (H01P 1/069 takes
+precedence; coaxial line with solid inner
+    1/069   . . . . {the energy being transmitted in at least one
+ring-shaped transmission line located around
+an axial transmission line; Concentric coaxial
+    1/08    . Dielectric windows
+    1/10    . for switching or interrupting {(in systems using
+reflection or reradiation of radio, acoustic or other
+    1/11    . . by ferromagnetic devices
+    1/12    . . by mechanical chopper
+    1/122   . . . {Waveguide switches}
+    1/125   . . . {Coaxial switches}
+    1/127   . . . {Strip line switches}
+    1/14    . . by electric discharge devices (discharge devices
+    1/15    . . by semiconductor devices
+    1/16    . for mode selection, e.g. mode suppression or mode
+    1/161   . . sustaining two independent orthogonal modes,
+e.g. orthomode transducer {(combining or
+separating polarisations and frequencies
+    1/162   . . absorbing spurious or unwanted modes of
+    1/163   . . specifically adapted for selection or promotion of
+the TE01 circular-electric mode
+    1/165   . for rotating the plane of polarisation
+    1/17    . . for producing a continuously rotating
+polarisation, e.g. circular polarisation
+    1/171   . . . {using a corrugated or ridged waveguide
+    1/172   . . . {using a dielectric element}
+    1/173   . . . {using a conductive element}
+    1/174   . . . {using a magnetic element (H01P 1/175 takes
+    1/175   . . using Faraday rotators
+    1/18    . Phase-shifters (H01P 1/165 takes precedence)
+    1/181   . . {using ferroelectric devices}
+    1/182   . . {Waveguide phase-shifters (H01P 1/181,
+H01P 1/185, H01P 1/19 take precedence)}
+    1/183   . . {Coaxial phase-shifters (H01P 1/181,
+H01P 1/185, H01P 1/19 take precedence)}
+    1/184   . . {Strip line phase-shifters (H01P 1/181,
+H01P 1/185, H01P 1/19 take precedence)}
+    1/185   . . using a diode or a gas filled discharge tube
+    1/19    . . using a ferromagnetic device
+    1/195   . . . having a toroidal shape
+    1/20    . Frequency-selective devices, e.g. filters
+    1/2002  . . {Dielectric waveguide filters (H01P 1/212,
+H01P 1/213, H01P 1/215, H01P 1/219 take
+    1/2005  . . {Electromagnetic photonic bandgaps [EPB], or
+    1/2007  . . {Filtering devices for biasing networks or DC
+    1/201   . . Filters for transverse electromagnetic waves
+(H01P 1/212, H01P 1/213, H01P 1/215,
+    1/2013  . . . {Coplanar line filters}
+    1/2016  . . . {Slot line filters; Fin line filters}
+    1/202   . . . Coaxial filters (cascaded coaxial cavities
+    1/203   . . . Strip line filters
+    1/20309 . . . . {with dielectric resonator}
+    1/20318 . . . . . {with dielectric resonators as non-
+metallised opposite openings in the
+metallised surfaces of a substrate}
+    1/20327 . . . . {Electromagnetic interstage coupling}
+    1/20336 . . . . . {Comb or interdigital filters}
+    1/20345 . . . . . . {Multilayer filters}
+    1/20354 . . . . . {Non-comb or non-interdigital filters}
+    1/20363 . . . . . . {Linear resonators}
+    1/20372 . . . . . . {Hairpin resonators}
+    1/20381 . . . . . . {Special shape resonators}
+    1/2039  . . . . {Galvanic coupling between Input/Output}
+    1/205   . . . Comb or interdigital filters; Cascaded coaxial
+cavities (H01P 1/203 takes precedence)
+    1/2053  . . . . {the coaxial cavity resonators being disposed
+    1/2056  . . . . {Comb filters or interdigital filters with
+metallised resonator holes in a dielectric
+    1/207   . . Hollow waveguide filters (H01P 1/212,
+H01P 1/213, H01P 1/215, H01P 1/219 take
+    1/208   . . . Cascaded cavities; Cascaded resonators inside a
+hollow waveguide structure (H01P 1/205 takes
+    1/2082  . . . . {with multimode resonators (H01P 1/2086
+    1/2084  . . . . {with dielectric resonators}
+    1/2086  . . . . . {multimode}
+    1/2088  . . . . {Integrated in a substrate}
+    1/209   . . . comprising one or more branching arms or
+cavities wholly outside the main waveguide
+    1/211   . . . Waffle-iron filters; Corrugated structures
+    1/212   . . suppressing or attenuating harmonic frequencies
+    1/213   . . combining or separating two or more different
+frequencies (H01P 1/215 takes precedence)
+    1/2131  . . . {with combining or separating polarisations}
+    1/2133  . . . {using coaxial filters (H01P 1/2131,
+    1/2135  . . . {using strip line filters (H01P 1/2131 takes
+    1/2136  . . . {using comb or interdigital filters; using
+cascaded coaxial cavities (H01P 1/2131,
+    1/2138  . . . {using hollow waveguide filters (H01P 1/2131
+    1/215   . . using ferromagnetic material
+    1/217   . . . the ferromagnetic material acting as a tuning
+    1/218   . . . the ferromagnetic material acting as a
+frequency selective coupling element, e.g.
+    1/219   . . Evanescent mode filters
+    1/22    . Attenuating devices (dissipative terminating devices
+    1/222   . . {Waveguide attenuators (H01P 1/23 takes
+    1/225   . . {Coaxial attenuators (H01P 1/23 takes
+    1/227   . . {Strip line attenuators (H01P 1/23 takes
+    1/23    . . using ferromagnetic material
+    1/24    . Terminating devices
+    1/26    . . Dissipative terminations
+    1/262   . . . {the dissipative medium being a liquid or being
+    1/264   . . . {Waveguide terminations (H01P 1/262 takes
+    1/266   . . . {Coaxial terminations (H01P 1/262 takes
+    1/268   . . . {Strip line terminations (H01P 1/262 takes
+    1/28    . . Short-circuiting plungers
+    1/30    . for compensation of, or protection against,
+temperature or moisture effects {; for improving
+power handling capability (H01P 1/04, H01P 1/08
+    1/32    . Non-reciprocal transmission devices
+(H01P 1/02 - H01P 1/30 take precedence)
+    1/362   . . . {Edge-guided mode devices}
+    1/365   . . . Resonance absorption isolators
+    1/37    . . . Field displacement isolators
+    1/375   . . . using Faraday rotators
+    1/383   . . . Junction circulators, e.g. Y-circulators
+    1/387   . . . . Strip line circulators
+    1/39    . . . . Hollow waveguide circulators
+    1/393   . . . using Faraday rotators
+    1/397   . . . using non- reciprocal phase shifters
+    3/00    Waveguides; Transmission lines of the waveguide
+    3/006   . . {Conductor backed coplanar waveguides}
+    3/02    . with two longitudinal conductors
+    3/023   . . {Fin lines; Slot lines}
+    3/026   . . {Coplanar striplines [CPS]}
+    3/04    . . Lines formed as Lecher wire pairs
+This subgroup is only used for documents
+disclosing typical HF-features of coaxial
+cables, e.g. propagation of non-TEM-modes,
+multimoding, oversized coaxial cables,
+particular cross-section adapted for HF-
+    3/08    . . Microstrips; Strip lines
+    3/081   . . . {Microstriplines}
+    3/082   . . . . {Multilayer dielectric}
+    3/084   . . . . {Suspended microstriplines}
+    3/085   . . . {Triplate lines}
+    3/087   . . . . {Suspended triplate lines}
+    3/088   . . . {Stacked transmission lines}
+    3/10    . Wire waveguides, i.e. with a single solid
+    3/12    . Hollow waveguides (H01P 3/20 takes precedence)
+    3/121   . . {integrated in a substrate}
+    3/122   . . {Dielectric loaded (not air)}
+    3/123   . . with a complex or stepped cross-section, e.g.
+ridged or grooved waveguides (H01P 3/14 takes
+    3/127   . . with a circular, elliptic, or parabolic cross-section
+    3/13    . . specially adapted for transmission of the TE01
+circular-electric mode {(selection, promotion
+    3/16    . Dielectric waveguides, i.e. without a longitudinal
+    3/165   . . {Non-radiating dielectric waveguides}
+    3/18    . built-up from several layers to increase operating
+surface, i.e. alternately conductive and dielectric
+    3/20    . Quasi-optical arrangements for guiding a wave, e.g.
+    5/00    Coupling devices of the waveguide type
+    5/02    . with invariable factor of coupling (H01P 5/12 takes
+precedence {choke joints H01P 1/04, H01P 1/06})
+    5/022   . . {Transitions between lines of the same kind and
+shape, but with different dimensions}
+    5/024   . . . {between hollow waveguides}
+    5/026   . . . {between coaxial lines}
+    5/028   . . . {between strip lines}
+    5/04    . with variable factor of coupling
+    5/08    . for linking dissimilar lines or devices (H01P 1/16,
+H01P 5/04 take precedence; linking lines of the
+same kind but with different dimensions H01P 5/02)
+    5/082   . . {Transitions between hollow waveguides of
+different shape, e.g. between a rectangular and a
+    5/085   . . {Coaxial-line/strip-line transitions}
+    5/087   . . {Transitions to a dielectric waveguide}
+    5/10    . . for coupling balanced with unbalanced lines or
+    5/1007  . . . {Microstrip transitions to Slotline or finline}
+    5/1015  . . . {Coplanar line transitions to Slotline or finline}
+    5/1022  . . . {Transitions to dielectric waveguide}
+    5/103   . . . Hollow-waveguide/coaxial-line transitions
+    5/107   . . . Hollow-waveguide/strip-line transitions
+    5/12    . Coupling devices having more than two ports
+    5/16    . . Conjugate devices, i.e. devices having at least one
+port decoupled from one other port
+    5/18    . . . consisting of two coupled guides, e.g.
+    5/181   . . . . {the guides being hollow waveguides}
+    5/182   . . . . . {the waveguides being arranged in
+    5/183   . . . . {at least one of the guides being a coaxial
+    5/184   . . . . {the guides being strip lines or microstrips}
+    5/185   . . . . . {Edge coupled lines}
+    5/186   . . . . . . {Lange couplers}
+    5/187   . . . . . {Broadside coupled lines}
+    5/188   . . . . {the guides being dielectric waveguides}
+    5/19    . . . of the junction type
+    5/20    . . . . Magic-T junctions
+    5/22    . . . . Hybrid ring junctions
+    5/222   . . . . . {180° rat race hybrid rings}
+    5/225   . . . . . {180° reversed phase hybrid rings}
+    5/227   . . . . . {90° branch line couplers}
+    7/00    Resonators of the waveguide type
+    7/005   . {Helical resonators; Spiral resonators}
+    7/02    . Lecher resonators
+    7/04    . Coaxial resonators
+    7/06    . Cavity resonators
+    7/065   . . {integrated in a substrate}
+    7/08    . Strip line resonators
+    7/082   . . {Microstripline resonators (H01P 7/088 takes
+    7/084   . . {Triplate line resonators (H01P 7/088 takes
+    7/086   . . {Coplanar waveguide resonators (H01P 7/088
+    7/088   . . {Tunable resonators}
+    7/10    . Dielectric resonators
+    7/105   . . {Multimode resonators}
+    9/00    Delay lines of the waveguide type
+    9/003   . {Delay equalizers}
+    9/04    . Interdigital lines
+   11/00    Apparatus or processes specially adapted for
+manufacturing waveguides or resonators, lines, or
+other devices of the waveguide type
+   11/001   . {Manufacturing waveguides or transmission lines of
+   11/002   . . {Manufacturing hollow waveguides}
+   11/003   . . {Manufacturing lines with conductors on a
+substrate, e.g. strip lines, slot lines}
+   11/005   . . {Manufacturing coaxial lines}
+   11/006   . . {Manufacturing dielectric waveguides}
+   11/007   . {Manufacturing frequency-selective devices
+   11/008   . {Manufacturing resonators}

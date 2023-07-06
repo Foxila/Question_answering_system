@@ -1,0 +1,196 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+MACHINE TOOLS; METAL-WORKING NOT OTHERWISE PROVIDED FOR
+THREAD CUTTING; WORKING OF SCREWS, BOLT HEADS, OR NUTS, IN
+CONJUNCTION THEREWITH (making helical grooves by turning B23B 5/48, by
+milling B23C 3/32, by forging, pressing, or hammering B21K 1/56, by grinding B24B 19/02;
+arrangements for copying or controlling B23Q; thread-forming by corrugating tubes
+B21D 15/04, by rolling B21H 3/02)
+The term "thread cutting" is to be understood as including the use of tools similar both in form and in manner of use to thread-
+cutting tools, but without removing any material
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Thread cutting; Automatic machines specially
+    1/02    . on an external or internal cylindrical or conical
+surface, e.g. on recesses (B23G 1/16, B23G 1/22,
+B23G 1/32, B23G 1/36 take precedence)
+    1/04    . . Machines with one working-spindle
+    1/06    . . . specially adapted for making conical screws,
+    1/08    . . Machines with a plurality of working spindles
+    1/10    . . . specially adapted for making conical screws,
+    1/12    . . Machines with a toothed cutter in the shape of a
+spur-gear or the like which is rotated to generate
+the thread profile as the work rotates
+    1/14    . . . specially adapted for making conical screws,
+    1/16    . in holes of workpieces by taps (B23G 1/26,
+B23G 1/32, B23G 1/36 take precedence)
+    1/18    . . Machines with one working spindle
+    1/185   . . . {specially adapted for making nuts}
+    1/20    . . Machines with a plurality of working spindles
+    1/205   . . . {specially adapted for making nuts}
+    1/22    . Machines specially designed for operating on pipes
+    1/225   . . {automatically controlled}
+    1/26    . Manually-operated thread-cutting devices (features
+of the threading tool per se B23G 5/00)
+    1/261   . . {Die and tap wrenches (lubricating and cooling
+devices therefor B23G 5/005; B23G 1/265 takes
+    1/262   . . . {Tap wrenches having a V slot (B23G 1/264
+    1/263   . . . {Die wrenches having a cylindrical opening
+    1/264   . . . . {comprising tap wrench features with a V
+    1/265   . . {Die and tap wrenches with a guiding part
+(lubricating and cooling devices therefor
+    1/266   . . . {Tap wrenches having a V slot (B23G 1/268
+    1/267   . . . {Die wrenches having a cylindrical opening
+    1/268   . . . . {comprising tap wrench features with a V
+    1/28    . . with means for adjusting the threading tool
+    1/30    . . without means for adjusting the threading tool,
+e.g. with die-stock (tap wrenches B25B)
+    1/34    . . with a cutting bit moving in a closed path
+arranged eccentrically with respect to the axis of
+    1/38    . . with grinding discs guided along the workpiece in
+accordance with the pitch of the required thread
+    1/40    . . with grinding discs guided radially to the
+    1/42    . Centreless grinding
+    1/44    . Equipment or accessories specially designed for
+machines or devices for thread cutting
+    1/46    . . for holding the threading tools {(B23B 31/083
+    1/465   . . . {comprising arrangements for reversing the
+    1/48    . . for guiding the threading tools
+    1/50    . . for cutting thread by successive operations
+    1/52    . . for operating on pipes or tubes
+    3/00    Arrangements or accessories for enabling machine
+tools not specially designed only for thread cutting
+to be used for this purpose, e.g. arrangements for
+    3/005   . {for enabling presses to be used for thread cutting}
+    3/02    . for withdrawing or resetting the threading tool
+    3/04    . . for repeatedly setting the threading tool in a
+    3/06    . for compensating inaccuracies in the pitch of the
+    3/08    . for advancing or controlling the threading tool or
+the work by templates, cams, or the like
+    3/10    . . for cutting thread of variable pitch
+    3/12    . . for using several adjacently-arranged threading
+tools, e.g. using several chasers
+    3/14    . . for cutting thread of conical shape
+    5/00    Thread-cutting tools; Die-heads
+    5/005   . {with lubrication or cooling devices}
+    5/02    . without means for adjustment
+    5/043   . . . {with guiding means}
+    5/046   . . . {for conical thread}
+    5/06    . . Taps (chucks therefor B23B 31/00)
+    5/062   . . . {with a guiding means part}
+    5/064   . . . {with weakened shank portion}
+    5/068   . . . {with means for removing the broken tap}
+    5/08    . with means for adjustment
+    5/083   . . {Adjustable dies}
+    5/086   . . . {with guiding means}
+    5/103   . . . {with guiding means}
+    5/106   . . . {Collet-type die-heads}
+    5/12    . . . self-releasing
+    5/16    . . . self-releasing
+    5/182   . . {combined with other tools}
+    5/184   . . . {combined with drills (B23G 5/188 takes
+    5/186   . . . {combined with chamfering tools}
+    5/188   . . . . {and with drills}
+    5/20    . combined with other tools, e.g. drills {(B23G 5/182
+takes precedence; screws which drill and tap
+    7/00    Forming thread by means of tools similar both
+in form and in manner of use to thread-cutting
+tools, but without removing any material (features
+of machines or devices not specially adapted to the
+particular mode of forming the thread B23G 1/00)
+    7/02    . Tools for this purpose
+    9/00    Working screws, bolt heads, or nuts in conjunction
+with thread cutting, e.g. slotting screw heads or
+shanks, removing burrs from screw heads or
+shanks; Finishing, e.g. polishing, any screw-thread
+    9/002   . . {Slotting screw heads or shanks}
+    9/003   . . {Deburring screws}
+    9/004   . . {Finishing screws (B23G 9/003 takes
+    9/006   . . {Slotting nuts}
+    9/007   . . {Deburring nuts}
+    9/008   . . {Finishing nuts (B23G 9/007 takes precedence)}
+    9/009   . {Thread cleaning or repairing}
+   11/00    Feeding or discharging mechanisms combined
+with, or arranged in, or specially adapted for use
+in connection with, thread-cutting machines (for
+machines tools in general B23Q)
+ 2200/00    Details of threading tools
+ 2200/02    . Tools in which the shank and the cutting part are
+made from different materials or from separate
+ 2200/04    . Tools with negative cutting angles
+ 2200/06    . Connections between parts of threading tools
+ 2200/062   . . Brazed connections
+ 2200/065   . . Glued connections
+ 2200/067   . . Welded connections
+ 2200/08    . Threading tools with adjustable elements (manually
+operated thread cutting devices with means for
+adjusting the threading tool B23G 1/28)
+ 2200/10    . Threading tools comprising cutting inserts
+ 2200/12    . Threading tools comprising inserts for thread
+ 2200/14    . Multifunctional threading tools
+ 2200/141   . . Tools comprising means for deburring
+ 2200/142   . . Tools comprising means for forming threads by
+ 2200/143   . . Tools comprising means for drilling
+ 2200/144   . . Tools comprising a die
+ 2200/145   . . Tools comprising means for milling features other
+ 2200/146   . . Tools comprising a tap
+ 2200/147   . . Tools comprising means for reaming
+ 2200/148   . . Tools having means for countersinking
+ 2200/16    . Tools with cutting edges spaced unequally around
+ 2200/18    . Tools rotatable in both directions
+ 2200/20    . Tools having a brush
+ 2200/22    . Tools having an end cap, e.g. for the distribution of
+ 2200/26    . Coatings of tools
+ 2200/28    . Threading tools having a conical form
+ 2200/30    . Cutting edges that are rounded in the cross-sectional
+ 2200/32    . Tools having a decreasing diameter in the direction
+ 2200/34    . Tools having an increasing diameter in the direction
+of the shank from the tip (B23G 2200/28 takes
+ 2200/36    . Tools having provision to produce threads of more
+ 2200/38    . Tools with shanks having a working end at each end
+ 2200/40    . Tools with variable or different helix angles
+ 2200/44    . Taps with more than one threading section, the
+threading sections being axially spaced from one
+ 2200/46    . Tools having a section of polygonal form, e.g. for
+ 2200/48    . Spiral grooves, i.e. spiral flutes
+ 2200/50    . Tools in which the pitch of the teeth is a multiple of
+the pitch of the thread being produced
+ 2210/00    Details of threads produced
+ 2210/12    . Threads having a large diameter
+ 2210/16    . Multiple start threads
+ 2210/24    . Threads having a variable pitch
+ 2210/28    . Threads having a rounded profile
+ 2210/36    . Threads having a square profile
+ 2210/41    . Threads having a stepped profile
+ 2210/44    . Threads having a trapezoidal profile
+ 2210/48    . Threads having a special form or profile not
+ 2225/00    Materials of threading tools, workpieces or other
+ 2225/04    . Cubic boron nitride
+ 2225/165   . . Polycrystalline diamond
+ 2225/24    . Elastomers, e.g. rubber
+ 2225/28    . Hard metal, i.e. cemented carbides
+ 2225/36    . Molybdenum disulphide
+ 2225/40    . Plastics not otherwise provided for
+ 2225/48    . Titanium aluminium nitride (TiAlN)
+ 2225/56    . Titanium carbide nitride (TiCN)
+ 2240/00    Details of equipment for threading other than
+threading tools, details of the threading process
+ 2240/04    . Compensation of centrifugal force
+ 2240/08    . Evacuation of chips or fines
+ 2240/12    . Means for cooling or lubrication
+ 2240/16    . Equipment for producing threaded component with
+a rotating disc to hold the components
+ 2240/20    . Guiding devices with a pin affixable in a drilling
+chuck and with free rotation of the threading tool
+ 2240/24    . Guides for threading tools having a V-groove for
+location on cylindrical workpieces
+ 2240/28    . Indication scales
+ 2240/32    . Threading devices designed to be mounted in the
+ 2240/36    . Methods of threading not otherwise provided for
+ 2240/40    . Threading equipment having an integrally
+ 2240/44    . Tap or die wrenches with multiple locations for
+holding threading tools, e.g. for holding threading
+ 2240/48    . Protective sleeves for taps
+ 2240/56    . Producing or refurbishing threads for spark plugs or
+ 2240/60    . Thread whirling, i.e. production of a thread by
+means of an annular tool rotating about an axis
+not coincident with the axis of the thread being

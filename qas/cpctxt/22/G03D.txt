@@ -1,0 +1,99 @@
+COOPERATIVE PATENT CLASSIFICATION
+PHOTOGRAPHY; CINEMATOGRAPHY; ANALOGOUS TECHNIQUES USING
+WAVES OTHER THAN OPTICAL WAVES; ELECTROGRAPHY; HOLOGRAPHY
+APPARATUS FOR PROCESSING EXPOSED PHOTOGRAPHIC MATERIALS
+(apparatus specially adapted for photomechanical production of textured or patterned surfaces
+G03F); ACCESSORIES THEREFOR (photosensitive materials or processes for photographic
+purposes G03C; electrographic, electrophotographic, or magnetographic methods or apparatus
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    3/00    Liquid processing apparatus involving immersion;
+Washing apparatus involving immersion
+(G03D 9/00, G03D 11/00 take precedence)
+    3/02    . Details of liquid circulation
+    3/04    . . Liquid agitators (in general B01F)
+    3/06    . . Liquid supply; Liquid circulation outside tanks
+    3/065   . . . {replenishment or recovery apparatus}
+    3/08    . having progressive mechanical movement of
+    3/10    . . for plates, films, or prints held individually
+    3/12    . . for plates, films or prints spread onto belt
+    3/13    . . for long films or prints in the shape of strips, e.g.
+    3/132   . . . {fed by roller assembly}
+    3/135   . . . {fed between chains or belts, or with a leading
+    3/137   . . . . {provided with transport speed regulation}
+    3/14    . . . with means for taking into account of
+elongation or contraction of films
+    3/16    . Treating exposed material in original holder
+    5/00    Liquid processing apparatus in which no
+immersion is effected; Washing apparatus in
+which no immersion is effected (G11B 9/00,
+G11B 11/00 take precedence; application of liquids in
+    5/003   . {film surface only souching the liquid}
+    5/006   . {Liquid supply by means of a split or a capillarity
+    5/02    . using rupturable ampoules of liquid
+    5/04    . using liquid sprays (liquid sprayers per se B05B)
+    5/06    . Applicator pads, rollers or strips
+    7/00    Gas processing apparatus
+    9/00    Diffusion development apparatus
+    9/003   . {for colour films (G03D 9/02 takes precedence)}
+    9/006   . {using heat (G11B 9/02 takes precedence)}
+    9/02    . using rupturable ampoules of liquid
+    9/025   . . {for colour films}
+   11/00    Reversal processing apparatus
+   13/00    Processing apparatus or accessories therefor, not
+covered by groups G11B 3/00 - G11B 11/00
+   13/001   . {Cassette breaking apparatus}
+   13/002   . {Heat development apparatus, e.g. Kalvar}
+   13/003   . {Film feed or extraction in development apparatus}
+   13/005   . . {Extraction out of a cassette and splicing of the
+film before feeding in a development apparatus}
+   13/006   . {Temperature control of the developer}
+   13/007   . {Processing control, e.g. test strip, timing devices}
+   13/02    . Containers; Holding-devices
+   13/04    . . Trays; Dishes; Tanks {Drums}
+   13/043   . . . {Tanks (G11B 13/06 takes precedence)}
+   13/046   . . . {Drums; Films convolutely fixed on the side of
+   13/06    . . . Light-tight tanks with provision for loading in
+   13/065   . . . . {Loading of filmpacks or chips}
+   13/08    . . Devices for holding exposed material; Devices
+for supporting exposed material
+   13/10    . . . Clips (G03D 13/14 takes precedence)
+   13/12    . . . Frames (G03D 13/14 takes precedence)
+   13/125   . . . . {for several filmstrips or plates}
+   13/14    . . . for holding films in spaced convolutions
+   13/142   . . . . {with a spacing strip}
+   13/145   . . . . {with a film loading guide}
+   13/147   . . . . {for several widths of film or several films}
+   15/00    Apparatus for treating processed material
+   15/001   . {Counting; Classifying; Marking}
+   15/003   . . {Marking, e.g. for re-printing}
+   15/005   . . {Order systems, e.g. printsorter}
+   15/006   . {Retouching apparatus}
+   15/008   . {Application of a magnetisable sound recording
+   15/02    . Drying; Glazing (combined with processing
+apparatus G11B 3/00 - G11B 13/00; drying in
+   15/022   . . {Drying of filmstrips}
+   15/027   . . {Drying of plates or prints}
+   15/04    . Cutting; Splicing
+   15/043   . . {Cutting or splicing of filmstrips}
+   15/046   . . . {Automatic cutting}
+   15/06    . Applying varnish or other coating
+   15/08    . Flattening prints
+   15/10    . Mounting, e.g. of processed material in a
+frame (frames specially adapted for projection
+   17/00    Dark-room arrangements not provided for in the
+preceding groups; Portable dark-rooms
+ 2203/00    Liquid processing apparatus involving immersion;
+washing apparatus involving immersion
+ 2203/02    . Details of liquid circulation
+ 2203/0608  . . . Replenishment or recovery apparatus
+ 2203/0616  . . . . Determining the need of replenishment
+ 2203/0625  . . . . . by measuring the optical density of the
+ 2203/0633  . . . . . . Test film density
+ 2203/0641  . . . . . by measuring the electrical conductivity of
+ 2203/065   . . . . . by measuring the electrical resistance of
+ 2203/0658  . . . . . by sensing the level of the processing
+ 2203/0666  . . . . . by measuring the oxidation/reduction
+potential of the processing liquid, i.e.
+ 2203/0675  . . . . Methods for supplying replenisher
+ 2203/0683  . . . . Recovery or re-use of the processing liquid
+ 2203/0691  . . . . Waste solution treatment

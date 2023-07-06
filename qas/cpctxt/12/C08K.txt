@@ -1,0 +1,332 @@
+COOPERATIVE PATENT CLASSIFICATION
+ORGANIC MACROMOLECULAR COMPOUNDS; THEIR PREPARATION OR
+CHEMICAL WORKING-UP; COMPOSITIONS BASED THEREON
+Use of inorganic or non-macromolecular organic substances as compounding ingredients
+(paints, inks, varnishes, dyes, polishes, adhesives C09)
+1. In this subclass, in the absence of an indication to the contrary, an ingredient is classified in the last appropriate place.
+• a mixture of ingredients is classified in the most indented group covering all the essential ingredients of the mixture, e.g.:
+a mixture of a monohydric and a polyhydric alcohol C08K 5/05
+a mixture of two polyhydric alcohols C08K 5/053
+a mixture of an alcohol and an ether C08K 5/04
+a mixture of an ether and an amine C08K 5/00
+a mixture of an amine and a metal C08K 13/02
+{This note is applied only for mixtures with more than three essential ingredients. Mixtures with two or three
+ingredients are classified in the appropriate groups of C08K, e.g. a mixture of Al2O3, an ether and an amine is
+classified in C08K 3/22, C08K 5/06 and C08K 5/17}
+• ammonium salts are classified in the same way as metal salts
+3. In this subclass, any ingredient of a mixture which is not identified by the classification according to Note (2) above, and the
+use of which is determined to be novel and non-obvious, must also be classified in this subclass according to Note (1). The
+ingredient can be either a single compound or a composition in itself. ".{This IPC Note does not apply in CPC}
+4. Any ingredient of a mixture which is not identified by the classification according to Notes (2) or (3) above, and which
+is considered to represent information of interest for search, may also be classified in this subclass according to Note (1).
+This can, for example, be the case when it is considered of interest to enable searching of mixtures using a combination of
+classification symbols. Such non-obligatory classification should be given as "additional information".{This IPC Note does
+5. {In this subclass, combination sets [C-Sets] are used. The detailed information about the C-Sets construction and the
+associated syntax rules is present in the definitions of C08K}
+6. {In this subclass, organic acid salts, alcoholates, phenolates or mercaptides are classified in the groups or subgroups of the
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    3/00    Use of inorganic substances as compounding
+In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+    3/01    . characterized by their specific function
+    3/011   . . Crosslinking or vulcanising agents, e.g.
+    3/012   . . Additives activating the degradation of the
+    3/013   . . Fillers, pigments or reinforcing additives
+    3/014   . . Stabilisers against oxidation, heat, light or ozone
+    3/015   . . Biocides (macromolecular substances as carriers
+for biocide material A01N 25/10)
+    3/016   . . Flame-proofing or flame-retarding additives
+    3/017   . . Antistatic agents
+    3/041   . . . {Carbon nanotubes}
+    3/042   . . . {Graphene or derivatives, e.g. graphene
+    3/043   . . . {Carbon nanocoils}
+    3/044   . . . {Carbon nanohorns or nanobells}
+    3/046   . . . {Carbon nanorods, nanowires, nanoplatelets or
+ 2003/0818  . . . {Alkali metal}
+ 2003/0825  . . . . {Potassium}
+    3/105   . . Compounds containing metals of Groups 1 to 3 or
+Groups 11 to 13 of the Periodic system
+    3/11    . . Compounds containing metals of Groups 4 to 10
+or Groups 14 to 16 of the Periodic system
+    3/16    . Halogen-containing compounds
+ 2003/162   . . {Calcium, strontium or barium halides, e.g.
+calcium, strontium or barium chloride}
+ 2003/164   . . {Aluminum halide, e.g. aluminium chloride}
+ 2003/166   . . {Magnesium halide, e.g. magnesium chloride}
+    3/18    . Oxygen-containing compounds, e.g. metal
+    3/20    . . Oxides; Hydroxides {(graphene oxides
+ 2003/2203  . . . . {of lithium}
+ 2003/2206  . . . . {of calcium, strontium or barium}
+ 2003/221   . . . . {of rare earth metal}
+ 2003/2213  . . . . . {of cerium}
+ 2003/2217  . . . . {of magnesium}
+ 2003/222   . . . . . {Magnesia, i.e. magnesium oxide}
+ 2003/2224  . . . . . {Magnesium hydroxide}
+ 2003/2227  . . . . {of aluminium}
+ 2003/2237  . . . . {of titanium}
+ 2003/2241  . . . . . {Titanium dioxide}
+ 2003/2244  . . . . {of zirconium}
+ 2003/2248  . . . . {of copper}
+ 2003/2251  . . . . {of chromium}
+ 2003/2255  . . . . {of molybdenum}
+ 2003/2258  . . . . {of tungsten}
+ 2003/2262  . . . . {of manganese}
+ 2003/2268  . . . . . {Ferrous oxide (FeO)}
+ 2003/2272  . . . . . {Ferric oxide (Fe2O3)}
+ 2003/2275  . . . . . {Ferroso-ferric oxide (Fe3O4)}
+    3/2279  . . . . {of antimony}
+ 2003/2282  . . . . . {Antimonates}
+ 2003/2286  . . . . {of silver}
+ 2003/2289  . . . . {of cobalt}
+ 2003/2293  . . . . {of nickel}
+    3/24    . . Acids; Salts thereof {(C08K 3/16 takes
+    3/26    . . . Carbonates; Bicarbonates
+ 2003/262   . . . . {Alkali metal carbonates}
+ 2003/265   . . . . {Calcium, strontium or barium carbonate}
+ 2003/267   . . . . {Magnesium carbonate}
+    3/28    . Nitrogen-containing compounds
+ 2003/282   . . {Binary compounds of nitrogen with aluminium}
+ 2003/285   . . {Ammonium nitrates}
+ 2003/287   . . {Calcium, strontium or barium nitrates}
+    3/30    . Sulfur-, selenium- or tellurium-containing
+ 2003/3018  . . . {of magnesium, calcium, strontium or barium}
+ 2003/3054  . . . {Ammonium sulfates}
+ 2003/3063  . . . {Magnesium sulfate}
+ 2003/3072  . . . {Iron sulfates}
+ 2003/3081  . . . {Aluminum sulfate}
+ 2003/309   . . {Sulfur containing acids}
+    3/32    . Phosphorus-containing compounds
+ 2003/322   . . . {Ammonium phosphate}
+ 2003/323   . . . . {Ammonium polyphosphate}
+ 2003/324   . . . {Alkali metal phosphate}
+ 2003/325   . . . {Calcium, strontium or barium phosphate}
+ 2003/326   . . . {Magnesium phosphate}
+ 2003/327   . . . {Aluminium phosphate}
+ 2003/328   . . . {Phosphates of heavy metals}
+ 2003/329   . . {Phosphorus containing acids}
+    3/34    . Silicon-containing compounds
+ 2003/343   . . {Peroxyhydrates, peroxyacids or salts thereof}
+    3/38    . Boron-containing compounds
+ 2003/385   . . . {Binary compounds of nitrogen with boron}
+    5/00    Use of organic ingredients
+In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+    5/0008  . {Organic ingredients according to more than one of
+the "one dot" groups of C08K 5/01 - C08K 5/59}
+    5/0025  . . {Crosslinking or vulcanising agents; including
+    5/0033  . . {Additives activating the degradation of the
+    5/0041  . . {Optical brightening agents, organic pigments}
+    5/005   . . {Stabilisers against oxidation, heat, light, ozone}
+    5/0058  . . {Biocides; (macromolecular substances as
+carriers for biocide material A01N 25/10)}
+    5/0066  . . {Flame-proofing or flame-retarding additives}
+    5/0083  . . {Nucleating agents promoting the crystallisation
+    5/0091  . {Complexes with metal-heteroatom-bonds}
+    5/01    . Hydrocarbons {(C08K 5/0091 takes precedence)}
+    5/02    . Halogenated hydrocarbons {(C08K 5/0091 takes
+    5/03    . . aromatic {, e.g. C6H5-CH2-Cl}
+    5/04    . Oxygen-containing compounds {(C08K 5/0091
+    5/05    . . Alcohols; Metal alcoholates
+    5/053   . . . Polyhydroxylic alcohols
+    5/057   . . . Metal alcoholates {(metal enolates
+    5/06    . . Ethers; Acetals; Ketals; Ortho-esters
+    5/07    . . Aldehydes; Ketones
+    5/09    . . Carboxylic acids; Metal salts thereof; Anhydrides
+    5/092   . . . Polycarboxylic acids
+    5/095   . . . Carboxylic acids containing halogens
+    5/098   . . . Metal salts of carboxylic acids
+    5/10    . . Esters; Ether-esters
+    5/101   . . . of monocarboxylic acids
+    5/103   . . . . with polyalcohols
+    5/105   . . . . with phenols
+    5/107   . . . . . with polyphenols
+    5/109   . . . of carbonic acid {, e.g. R-O-C(=O)-O-R}
+    5/11    . . . of acyclic polycarboxylic acids
+    5/12    . . . of cyclic polycarboxylic acids
+    5/13    . . Phenols; Phenolates
+    5/132   . . . Phenols containing keto groups {, e.g.
+    5/134   . . . Phenols containing ester groups
+    5/1345  . . . . {Carboxylic esters of phenolcarboxylic
+    5/136   . . . Phenols containing halogens
+    5/15    . . Heterocyclic compounds having oxygen in the
+    5/151   . . . having one oxygen atom in the ring
+    5/1515  . . . . Three-membered rings
+    5/1525  . . . . Four-membered rings
+    5/1535  . . . . Five-membered rings
+    5/1539  . . . . . Cyclic anhydrides
+    5/1545  . . . . Six-membered rings
+    5/156   . . . having two oxygen atoms in the ring
+    5/1565  . . . . Five-membered rings
+    5/1575  . . . . Six-membered rings
+    5/159   . . . having more than two oxygen atoms in the ring
+    5/16    . Nitrogen-containing compounds {(C08K 5/0091
+    5/17    . . Amines; Quaternary ammonium compounds
+    5/175   . . . {containing COOH-groups; Esters or salts
+    5/18    . . . with aromatically bound amino groups
+    5/19    . . . Quaternary ammonium compounds
+    5/20    . . Carboxylic acid amides
+    5/205   . . Compounds containing 
+    5/21    . . Urea; Derivatives thereof, e.g. biuret
+    5/22    . . Compounds containing nitrogen bound to another
+    5/23    . . . Azo-compounds
+    5/235   . . . . {Diazo and polyazo compounds}
+    5/24    . . . Derivatives of hydrazine
+    5/25    . . . . Carboxylic acid hydrazides
+    5/26    . . . . Semicarbazides
+    5/27    . . . Compounds containing a nitrogen atom bound
+to two other nitrogen atoms, e.g. diazoamino-
+    5/29    . . Compounds containing {one or more} carbon-to-
+    5/30    . . . Hydrazones; Semicarbazones
+    5/31    . . . Guanidine; Derivatives thereof
+    5/315   . . Compounds containing carbon-to-nitrogen triple
+    5/3155  . . . {Dicyandiamide}
+    5/32    . . Compounds containing nitrogen bound to oxygen
+    5/34    . . Heterocyclic compounds having nitrogen in the
+    5/3412  . . . having one nitrogen atom in the ring
+    5/3415  . . . . Five-membered rings
+    5/3417  . . . . . condensed with carbocyclic rings
+    5/3432  . . . . Six-membered rings
+    5/3435  . . . . . Piperidines
+    5/3437  . . . . . condensed with carbocyclic rings
+    5/3442  . . . having two nitrogen atoms in the ring
+    5/3445  . . . . Five-membered rings
+    5/3447  . . . . . condensed with carbocyclic rings
+    5/3462  . . . . Six-membered rings
+    5/3465  . . . . . condensed with carbocyclic rings
+    5/3467  . . . having more than two nitrogen atoms in the
+    5/3472  . . . . Five-membered rings
+    5/3475  . . . . . condensed with carbocyclic rings
+    5/3477  . . . . Six-membered rings
+    5/3492  . . . . . Triazines
+    5/34922 . . . . . . {Melamine; Derivatives thereof}
+    5/34924 . . . . . . {containing cyanurate groups;
+    5/34926 . . . . . . {also containing heterocyclic groups
+    5/34928 . . . . . . {Salts}
+    5/3495  . . . . . condensed with carbocyclic rings
+    5/35    . . . having also oxygen in the ring
+    5/353   . . . . Five-membered rings
+    5/357   . . . . Six-membered rings
+    5/36    . Sulfur-, selenium-, or tellurium-containing
+compounds {(C08K 5/0091 takes precedence)}
+    5/372   . . . Sulfides {, e.g. R-(S)x-R'}
+    5/3725  . . . . {containing nitrogen}
+    5/375   . . . containing six-membered aromatic rings
+{(C08K 5/3725 takes precedence)}
+    5/378   . . . containing heterocyclic rings
+    5/38    . . Thiocarbonic acids; Derivatives thereof, e.g.
+xanthates {; i.e. compounds containing -X-
+C(=X)- groups, X being oxygen or sulfur, at least
+    5/39    . . Thiocarbamic acids; Derivatives thereof, e.g.
+    5/40    . . . Thiurams, {i.e. compounds
+    5/405   . . . Thioureas; Derivatives thereof
+    5/41    . . Compounds containing sulfur bound to oxygen
+    5/42    . . . Sulfonic acids; Derivatives thereof
+    5/43    . . Compounds containing sulfur bound to nitrogen
+    5/45    . . Heterocyclic compounds having sulfur in the ring
+    5/46    . . . with oxygen or nitrogen in the ring
+    5/48    . . Selenium- or tellurium-containing compounds
+    5/49    . Phosphorus-containing compounds {(C08K 5/0091
+    5/50    . . Phosphorus bound to carbon only
+    5/51    . . Phosphorus bound to oxygen
+    5/52    . . . Phosphorus bound to oxygen only
+    5/5205  . . . . {Salts of P-acids with N-bases}
+    5/521   . . . . Esters of phosphoric acids, e.g. of H3PO4
+    5/523   . . . . . with hydroxyaryl compounds
+    5/524   . . . . Esters of phosphorous acids, e.g. of H3PO3
+    5/526   . . . . . with hydroxyaryl compounds
+    5/527   . . . . Cyclic esters
+    5/529   . . . . Esters containing heterocyclic rings not
+representing cyclic esters of phosphoric or
+    5/53    . . . bound to oxygen and to carbon only
+    5/5313  . . . . Phosphinic compounds, e.g. R2=P(:O)OR'
+    5/5317  . . . . Phosphonic compounds, e.g. R—P(:O)(OR')2
+    5/5333  . . . . . Esters of phosphonic acids
+    5/5337  . . . . . . containing also halogens
+    5/5353  . . . . . . containing also nitrogen
+    5/5373  . . . . . . containing heterocyclic rings not
+representing cyclic esters of phosphonic
+    5/5377  . . . . Phosphinous compounds, e.g. R2=P—OR'
+    5/5393  . . . . Phosphonous compounds, e.g. R—P(OR')2
+    5/5397  . . . . Phosphine oxides
+    5/5398  . . Phosphorus bound to sulfur
+    5/5399  . . Phosphorus bound to nitrogen
+    5/54    . Silicon-containing compounds {(C08K 5/0091 takes
+    5/5403  . . {containing no other elements than carbon or
+    5/5406  . . {containing elements other than oxygen or
+    5/541   . . containing oxygen
+    5/5415  . . . containing at least one Si—O bond
+    5/5419  . . . . containing at least one Si—C bond
+    5/5425  . . . containing at least one C=C bond
+    5/5435  . . . containing oxygen in a ring
+    5/544   . . containing nitrogen
+    5/5445  . . . containing at least one Si-N bond
+    5/5455  . . . containing at least one 
+    5/5465  . . . containing at least one C=N bond
+    5/5475  . . . containing at least one C≡N bond
+    5/5477  . . . {containing nitrogen in a heterocyclic ring}
+    5/548   . . containing sulfur {(C08K 5/5477 takes
+    5/549   . . containing silicon in a ring
+    5/55    . Boron-containing compounds {(C08K 5/0091 takes
+    5/56    . Organo-metallic compounds, i.e. organic
+compounds containing a metal-to-carbon bond
+    5/57    . . Organo-tin compounds
+    5/58    . . . containing sulfur
+    5/59    . Arsenic- or antimony-containing compounds
+    7/00    Use of ingredients characterised by shape
+In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+    7/02    . Fibres or whiskers
+    7/08    . . . Oxygen-containing compounds
+    7/10    . . . Silicon-containing compounds
+    7/22    . Expanded, porous or hollow particles
+    7/26    . . . Silicon- containing compounds
+    9/00    Use of pretreated ingredients
+In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+    9/02    . Ingredients treated with inorganic substances
+    9/04    . Ingredients treated with organic substances {(treated
+with macromolecular compounds C08K 9/08)}
+    9/06    . . with silicon-containing compounds
+    9/08    . Ingredients agglomerated by treatment with a
+    9/10    . Encapsulated ingredients
+    9/12    . Adsorbed ingredients {, e.g. ingredients on carriers}
+   11/00    Use of ingredients of unknown constitution, e.g.
+In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+   11/005   . {Waste materials, e.g. treated or untreated sewage
+   13/00    Use of mixtures of ingredients not covered by one
+single of the preceding main groups, each of these
+In this group, C-Sets are used. The detailed
+information about the C-Sets construction and the
+associated syntax rules is present in the Definitions
+   13/02    . Organic and inorganic ingredients
+   13/04    . Ingredients characterised by their shape and organic
+   13/06    . Pretreated ingredients and ingredients covered by
+the main groups C08K 3/00 - C08K 7/00
+   13/08    . Ingredients of unknown constitution and ingredients
+covered by the main groups C08K 3/00 - C08K 9/00
+ 2201/00    Specific properties of additives
+ 2201/001   . Conductive additives
+ 2201/002   . Physical properties
+ 2201/003   . . Additives being defined by their diameter
+ 2201/004   . . Additives being defined by their length
+ 2201/005   . . Additives being defined by their particle size in
+ 2201/006   . . Additives being defined by their surface area
+ 2201/007   . Fragrance additive
+ 2201/008   . Additives improving gas barrier properties
+ 2201/009   . Additives being defined by their hardness
+ 2201/01    . Magnetic additives
+ 2201/011   . Nanostructured additives
+ 2201/012   . Additives improving oxygen scavenging properties
+ 2201/013   . Additives applied to the surface of polymers or
+ 2201/014   . Additives containing two or more different additives
+ 2201/015   . Additives for heat shrinkable compositions
+ 2201/016   . Additives defined by their aspect ratio
+ 2201/017   . Additives being an antistatic agent
+ 2201/018   . Additives for biodegradable polymeric composition
+ 2201/019   . the composition being defined by the absence of a

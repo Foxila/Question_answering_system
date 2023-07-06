@@ -1,0 +1,91 @@
+COOPERATIVE PATENT CLASSIFICATION
+INFORMATION AND COMMUNICATION TECHNOLOGY [ICT] SPECIALLY
+ADAPTED FOR SPECIFIC APPLICATION FIELDS
+HEALTHCARE INFORMATICS, i.e. INFORMATION AND COMMUNICATION
+TECHNOLOGY [ICT] SPECIALLY ADAPTED FOR THE HANDLING OR
+PROCESSING OF MEDICAL OR HEALTHCARE DATA
+1. This subclass covers cross-sectional aspects of computer, information or communication science with medical or healthcare
+science, where the focus is clearly placed on digital computing or data processing systems or methods, which are specially
+adapted for medical or healthcare science.
+2. This subclass does not cover:
+a. medical equipment, medical methods, methods of diagnosis, methods of treatment or therapy, clinical care or surgical
+procedures per se, which are covered by the relevant subclasses of A61;
+b. signal processing or signal transmission associated to diagnostic measurements, e.g. signal waveform analysis, which are
+3. In order to determine whether a technical subject relating to medical or healthcare science is classified in this subclass or in
+the relevant subclasses of A61, the following should be observed:
+a. to classify a technical subject in this subclass it is required that the essential technical features of the subject focus onto
+digital computing or data processing systems or methods;
+b. if the technical subject focuses onto aspects of medical science, e.g. physiological signals or medical conditions, or if the
+subject involves a significant interaction with the patient, e.g. details of a diagnostic measurement, then classification shall
+be directed to the appropriate subclasses of class A61;
+c. the mere presence of "a computer" or "a flowchart" in relation to medical devices or procedures is not a key element for
+classifying in this subclass. In this case classification shall rather be directed to the appropriate subclasses covering those
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+   10/00    ICT specially adapted for the handling or
+processing of patient-related medical or healthcare
+data (for medical reports G16H 15/00; for therapies
+or health-improving plans G16H 20/00; for
+the handling or processing of medical images
+   10/20    . for electronic clinical trials or questionnaires
+   10/40    . for data related to laboratory analysis, e.g. patient
+   10/60    . for patient-specific data, e.g. for electronic patient
+   10/65    . . stored on portable record carriers, e.g. on
+   15/00    ICT specially adapted for medical reports, e.g.
+generation or transmission thereof
+   20/00    ICT specially adapted for therapies or health-
+improving plans, e.g. for handling prescriptions,
+for steering therapy or for monitoring patient
+   20/10    . relating to drugs or medications, e.g. for ensuring
+correct administration to patients
+   20/13    . . delivered from dispensers
+   20/17    . . delivered via infusion or injection
+   20/30    . relating to physical therapies or activities, e.g.
+physiotherapy, acupressure or exercising
+   20/40    . relating to mechanical, radiation or invasive
+therapies, e.g. surgery, laser therapy, dialysis or
+   20/60    . relating to nutrition control, e.g. diets
+   20/70    . relating to mental therapies, e.g. psychological
+   20/90    . relating to alternative medicines, e.g. homeopathy or
+   30/00    ICT specially adapted for the handling or
+processing of medical images (computerised
+   30/20    . for handling medical images, e.g. DICOM, HL7 or
+   30/40    . for processing medical images, e.g. editing
+   40/00    ICT specially adapted for the management or
+administration of healthcare resources or facilities;
+ICT specially adapted for the management or
+operation of medical equipment or devices
+   40/20    . for the management or administration of healthcare
+resources or facilities, e.g. managing hospital staff
+   40/40    . for the management of medical equipment or
+devices, e.g. scheduling maintenance or upgrades
+   40/60    . for the operation of medical equipment or devices
+1. This group covers ICT specially adapted for the
+operation of medical equipment or devices, or
+of their interfaces, i.e. aspects of the operation
+where the focus is on the processing of medical
+or healthcare data which results in contextual,
+content-related or structural transformation of
+2. This group does not cover the operation of
+medical equipment or devices, or of their
+interfaces, without contextual, content-related
+or structural transformation of medical or
+healthcare data, which is covered by the relevant
+   40/63    . . for local operation
+   40/67    . . for remote operation
+   50/00    ICT specially adapted for medical diagnosis,
+medical simulation or medical data mining; ICT
+specially adapted for detecting, monitoring or
+modelling epidemics or pandemics
+   50/20    . for computer-aided diagnosis, e.g. based on medical
+   50/30    . for calculating health indices; for individual health
+   50/50    . for simulation or modelling of medical disorders
+   50/70    . for mining of medical data, e.g. analysing previous
+   50/80    . for detecting, monitoring or modelling epidemics or
+   70/00    ICT specially adapted for the handling or
+processing of medical references
+   70/20    . relating to practices or guidelines
+   70/40    . relating to drugs, e.g. their side effects or intended
+   70/60    . relating to pathologies
+   80/00    ICT specially adapted for facilitating
+communication between medical practitioners or
+patients, e.g. for collaborative diagnosis, therapy

@@ -1,0 +1,92 @@
+COOPERATIVE PATENT CLASSIFICATION
+GENERAL TAGGING OF NEW TECHNOLOGICAL DEVELOPMENTS; GENERAL
+TAGGING OF CROSS-SECTIONAL TECHNOLOGIES SPANNING OVER SEVERAL
+SECTIONS OF THE IPC; TECHNICAL SUBJECTS COVERED BY FORMER USPC
+CROSS-REFERENCE ART COLLECTIONS [XRACs] AND DIGESTS
+INFORMATION OR COMMUNICATION TECHNOLOGIES HAVING AN IMPACT
+SYSTEMS INTEGRATING TECHNOLOGIES RELATED TO POWER NETWORK
+OPERATION, COMMUNICATION OR INFORMATION TECHNOLOGIES FOR
+IMPROVING THE ELECTRICAL POWER GENERATION, TRANSMISSION,
+DISTRIBUTION, MANAGEMENT OR USAGE, i.e. SMART GRIDS
+Systems supporting electrical power generation, transmission or
+   10/00    Systems supporting electrical power generation,
+   10/12    . Monitoring or controlling equipment for energy
+generation units, e.g. distributed energy generation
+   10/123   . . the energy generation units being or involving
+   10/126   . . the energy generation units being or involving
+electric vehicles [EV] or hybrid vehicles [HEV],
+i.e. power aggregation of EV or HEV, vehicle to
+   10/14    . Energy storage units
+   10/16    . Electric power substations
+   10/18    . using switches, relays or circuit breakers, e.g.
+intelligent electronic devices [IED]
+   10/20    . using protection elements, arrangements or systems
+   10/22    . Flexible AC transmission systems [FACTS] or
+power factor or reactive power compensating or
+   10/30    . State monitoring, e.g. fault, temperature monitoring,
+insulator monitoring, corona discharge
+   10/40    . Display of information, e.g. of data or controls
+   10/50    . Systems or methods supporting the power network
+operation or management, involving a certain
+degree of interaction with the load-side end user
+   10/52    . . Outage or fault management, e.g. fault detection
+Systems supporting the management or operation of end-
+user stationary applications, including also the last stages of
+power distribution and the control, monitoring or operating
+management systems at local level
+   20/00    Management or operation of end-user stationary
+applications or the last stages of power
+distribution; Controlling, monitoring or operating
+   20/12    . Energy storage units, uninterruptible power supply
+[UPS] systems or standby or emergency generators,
+e.g. in the last power distribution stages
+   20/14    . Protecting elements, switches, relays or circuit
+   20/20    . End-user application control systems
+   20/221   . . General power management systems
+   20/222   . . Demand response systems, e.g. load shedding,
+   20/242   . . Home appliances
+   20/244   . . . the home appliances being or involving heating
+ventilating and air conditioning [HVAC] units
+   20/246   . . . the system involving the remote operation of
+   20/248   . . UPS systems or standby or emergency generators
+   20/30    . Smart metering, e.g. specially adapted for remote
+Systems supporting specific end-user applications in the sector of
+   30/00    Systems supporting specific end-user applications
+in the sector of transportation
+   30/10    . Systems supporting the interoperability of electric
+   30/12    . . Remote or cooperative charging
+   30/14    . . Details associated with the interoperability, e.g.
+vehicle recognition, authentication, identification
+Communication or information technology specific aspects
+supporting electrical power generation, transmission, distribution
+or end-user application management
+   40/00    Systems for electrical power generation,
+transmission, distribution or end-user application
+management characterised by the use of
+communication or information technologies, or
+communication or information technology specific
+   40/12    . characterised by data transport means between
+the monitoring, controlling or managing units
+and monitored, controlled or operated electrical
+   40/121   . . using the power network as support for the
+1Communication or information technology specific aspects supporting electrical power generation,
+   40/124   . . using wired telecommunication networks or data
+   40/126   . . using wireless data transmission
+   40/128   . . involving the use of Internet protocol
+   40/18    . Network protocols supporting networked
+applications, e.g. including control of end-device
+   40/20    . Information technology specific aspects, e.g. CAD,
+simulation, modelling, system security
+Market activities related to the operation of systems integrating
+technologies related to power network operation and
+communication or information technologies
+   50/00    Market activities related to the operation of
+systems integrating technologies related to power
+network operation or related to communication or
+   50/10    . Energy trading, including energy flowing from end-
+   50/12    . Billing, invoicing, buying or selling transactions or
+other related activities, e.g. cost or usage evaluation
+   50/14    . Marketing, i.e. market research and analysis,
+surveying, promotions, advertising, buyer profiling,
+   50/16    . Energy services, e.g. dispersed generation or
+demand or load or energy savings aggregation

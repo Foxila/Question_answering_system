@@ -1,0 +1,598 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+SHIPS OR OTHER WATERBORNE VESSELS; RELATED EQUIPMENT
+MARINE PROPULSION OR STEERING (propulsion of air-cushion vehicles B60V 1/14;
+specially adapted for submarines, other than nuclear propulsion, B63G; specially adapted for
+In this subclass, the indexing codes B63B 2201/00 - B63B 2241/00 are to be used for relevant technical information
+concerning particular or unusual use, materials, design, methods or means
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Propulsive elements directly acting on water (jet
+ 2001/005   . {using Magnus effect}
+    1/04    . . with rotation axis substantially at right angles to
+ 2001/045   . . . {with partially immersed nutating or ondulated
+    1/06    . . . with adjustable vanes or blades
+    1/08    . . . . with cyclic adjustment
+    1/10    . . . . . of Voith Schneider type, i.e. with blades
+extending axially from a disc-shaped
+ 2001/105   . . . . . . {with non-mechanical control of
+individual blades, e.g. electric or
+    1/12    . . with rotation axis substantially in propulsive
+ 2001/122   . . . {Single or multiple threaded helicoidal screws,
+or the like, comprising foils extending over a
+substantial angle; Archimedean screws}
+ 2001/125   . . . . {with helicoidal foils projecting from outside
+surfaces of floating rotatable bodies, e.g.
+ 2001/127   . . . . {with helicoidal foils projecting from inside
+surfaces of rotating shrouds; Archimedean
+    1/14    . . . Propellers (pitch changing B63H 3/00)
+ 2001/145   . . . . {comprising blades of two or more different
+    1/15    . . . . having vibration damping means
+    1/16    . . . . having a shrouding ring attached to blades
+ 2001/165   . . . . . {Hubless propellers, e.g. peripherally
+driven shrouds with blades projecting from
+    1/18    . . . . with means for diminishing cavitation, e.g.
+ 2001/185   . . . . . {Surfacing propellers, i.e. propellers
+specially adapted for operation at the
+water surface, with blades incompletely
+submerged, or piercing the water
+surface from above in the course of each
+    1/20    . . . . Hubs; Blade connections
+    1/22    . . . . . the blades being foldable
+    1/24    . . . . . . automatically foldable or unfoldable
+    1/265   . . . . . {each blade being constituted by a surface
+enclosing an empty space, e.g. forming a
+    1/28    . . . . Other means for improving propeller
+ 2001/283   . . . . . {Propeller hub caps with fins having a
+pitch different from pitch of propeller
+blades, or a helix hand opposed to the
+ 2001/286   . . . . . {Injection of gas into fluid flow to
+propellers, or around propeller blades}
+    1/30    . of non-rotary type
+    1/32    . . Flaps, pistons, or the like, reciprocating in
+    1/34    . . of endless-track type
+ 2001/342   . . . {with tracks substantially parallel to propulsive
+ 2001/344   . . . . {having paddles mounted in fixed relation to
+ 2001/346   . . . . {having paddles movably mounted on the
+track or on track members, e.g. articulated,
+or with means for cyclically controlling the
+paddles' angular position or orientation}
+ 2001/348   . . . {with tracks oriented transverse to propulsive
+    1/36    . . swinging sideways, e.g. fishtail type
+    1/37    . . Moving-wave propellers, i.e. wherein the
+propelling means comprise a flexible undulating
+    1/38    . characterised solely by flotation properties, e.g.
+    3/00    Propeller-blade pitch changing {(aircraft propellers
+B64C 11/30; rotors of turbines F01D 7/00; axial wind
+motors F03D 7/022; axial-flow pumps F04D 29/00)}
+    3/002   . {with individually adjustable blades}
+ 2003/004   . {comprising means for locking blades in position}
+ 2003/006   . {Detecting or transmitting propeller-blade pitch
+    3/008   . {characterised by self-adjusting pitch, e.g. by means
+of springs, centrifugal forces, hydrodynamic forces}
+    3/02    . actuated by control element coaxial with propeller
+shaft, e.g. the control element being rotary
+{(B63H 3/002 takes precedence, fluid actuated
+    3/04    . . the control element being reciprocatable
+    3/06    . characterised by use of non-mechanical actuating
+means, e.g. electrical (B63H 3/002 takes
+    3/081   . . . {actuated by control element coaxial with the
+    3/082   . . . . {the control element being axially
+ 2003/084   . . . . . {with annular cylinder and piston}
+ 2003/085   . . . . . {the control element having means for
+preventing rotation together with the
+ 2003/087   . . . {using gaseous fluids, e.g. steam or air}
+ 2003/088   . . . {characterised by supply of fluid actuating
+medium to control element, e.g. of hydraulic
+fluid to actuator co-rotating with the propeller}
+    3/10    . characterised by having pitch control conjoint with
+    3/12    . the pitch being adjustable only when propeller is
+stationary (B63H 3/002 takes precedence)
+    5/00    Arrangements on vessels of propulsion elements
+ 2005/005   . {Front propulsors, i.e. propellers, paddle wheels, or
+the like substantially arranged ahead of the vessels'
+    5/02    . of paddle wheels, e.g. of stern wheels
+ 2005/025   . . {of Voith Schneider type}
+    5/03    . . movably mounted with respect to the hull,
+e.g. having means to reposition paddle wheel
+assembly, or to retract paddle or to change paddle
+    5/04    . . with stationary water-guiding elements
+    5/07    . of propellers (forming part of outboard units {or Z-
+ 2005/075   . . {using non-azimuthing podded propulsor units,
+i.e. podded units without means for rotation about
+a vertical axis, e.g. rigidly connected to the hull}
+    5/08    . . of more than one propeller
+    5/10    . . . of coaxial type, e.g. of counter-rotative type
+ 2005/103   . . . . {of co-rotative type, i.e. rotating in the same
+direction, e.g. twin propellers}
+ 2005/106   . . . . {with drive shafts of second or further
+propellers co-axially passing through hub of
+first propeller, e.g. counter-rotating tandem
+propellers with co-axial drive shafts}
+    5/125   . . movably mounted with respect to hull,
+e.g. adjustable in direction {, e.g. podded
+azimuthing thrusters}({outboard units or Z-drives
+B63H 20/00; } movably mounted for steering
+purposes only, {rudders carrying propellers}
+    5/1252  . . . {the ability to move being conferred by gearing
+in transmission between prime mover and
+propeller and the propulsion unit being other
+ 2005/1254  . . . {Podded azimuthing thrusters, i.e. podded
+thruster units arranged inboard for rotation
+ 2005/1256  . . . . {with mechanical power transmission to
+ 2005/1258  . . . . {with electric power transmission to
+propellers, i.e. with integrated electric
+    5/14    . . characterised by being mounted in non-rotating
+ducts or rings, e.g. adjustable for steering purpose
+(shrouding ring attached to blades B63H 1/16; jet
+    5/15    . . . Nozzles, e.g. Kort-type
+    5/16    . . characterised by being mounted in recesses; with
+stationary water-guiding elements; Means to
+prevent fouling of the propeller, e.g. guards, cages
+    5/165   . . . {Propeller guards, line cutters or other means
+for protecting propellers or rudders}
+    5/18    . . of emergency propellers, e.g. arranged at the side
+    5/20    . . . movable from a working position to a non-
+working position {(movable arrangements of
+propellers in general B63H 5/125; outboard
+propulsion units in general B63H 20/00;
+steering or dynamic anchoring by propellers
+used therefore only, or by rudders carrying
+    7/00    Propulsion directly actuated on air (jet propulsion
+    8/00    Sail or rigging arrangements specially adapted
+for water sports boards, e.g. for windsurfing or
+    8/10    . Kite-sails; Kite-wings; Control thereof; Safety
+    8/12    . . Kites with inflatable closed compartments
+    8/14    . . Ram-air kites, i.e. kites at least partly inflated by
+air entering their leading edges during use
+    8/16    . . Control arrangements, e.g. control bars or control
+    8/18    . . Arrangements for connecting the user to a kite-
+sail; Kite-safety means, e.g. chicken loops, safety
+leashes or quick release mechanisms
+    8/20    . Rigging arrangements involving masts, e.g. for
+    8/22    . . for connecting wishbones to the mast
+    8/23    . . for tensioning or trimming the clew of the sail,
+    8/24    . . Arrangements for connecting the rigging to a
+    8/25    . . Arrangements for connecting the sail to a mast
+foot, e.g. downhaul tensioners or mast foot
+    8/40    . Arrangements for improving or maintaining the
+aerodynamic profile of sails, e.g. cambers, battens
+    8/50    . Accessories, e.g. repair kits or kite launching aids
+    8/52    . . Handheld cleats, cams or hooks for tensioning the
+downhaul or outhaul of a windsurfing sail
+    8/54    . . Arrangements for connecting the user or the
+harness to the wishbone, e.g. trapeze lines or
+    8/56    . . Devices to distribute the user's load, e.g.
+    8/58    . . . Spreader bars; Hook connection arrangements
+    8/70    . Arrangements for handling, stowing or transport
+    9/00    Marine propulsion provided directly by wind
+power (wind-motors driving underwater propulsive
+    9/02    . using Magnus effect
+    9/04    . using sails or like wind-catching surfaces (sail or
+rigging arrangements specially adapted for water
+sports boards, e.g. for windsurfing or kitesurfing
+    9/06    . . Types of sail; Constructional features of sails;
+Arrangements thereof on vessels
+    9/061   . . . Rigid sails; Aerofoil sails
+    9/0615  . . . . {Inflatable aerofoil sails}
+    9/0621  . . . . {Rigid sails comprising one or more
+    9/0628  . . . . . {the panels being pivotable about
+    9/0635  . . . . . {the panels being pivotable about vertical
+    9/065   . . . Battens (for water sports board sails
+    9/067   . . . Sails characterised by their construction or
+    9/0671  . . . . {Moulded sails}
+    9/0673  . . . . {Flying sails, e.g. spinnakers or gennakers}
+    9/0678  . . . . {Laminated sails}
+    9/068   . . . Sails pivotally mounted at mast tip
+    9/069   . . . Kite-sails for vessels
+    9/071   . . . . for use in combination with other propulsion
+means, e.g. for improved fuel economy
+    9/072   . . . . Control arrangements, e.g. for launching or
+    9/08    . . Connections of sails to masts, spars, or the like
+ 2009/082   . . . {Booms, or the like}
+ 2009/084   . . . {Gooseneck bearings, i.e. bearings for pivotal
+ 2009/086   . . . {by sliders, i.e. by shoes sliding in, or guided
+by channels, tracks or rails; for connecting
+luffs, leeches, battens, or the like to masts,
+ 2009/088   . . . {Means for tensioning sheets, or other running
+rigging, adapted for being guided on rails, or
+the like mounted on deck, e.g. travellers or
+    9/10    . . . Running rigging, e.g. reefing equipment
+    9/1007  . . . . {Trapeze systems (harnesses for windsurfers
+    9/1014  . . . . . {with elastic connection to harnesses}
+    9/1028  . . . . . {by furling around stays}
+    9/1035  . . . . . {by furling around or inside the mast}
+    9/1042  . . . . . {by furling around or inside the boom}
+ 2009/105   . . . . . {using drives for actuating reefing
+mechanism, e.g. roll reefing drives}
+ 2009/1057  . . . . . . {using sheaves being friction driven by
+endless ropes or by ropes having two
+ 2009/1064  . . . . . . {using drums driven by winding or
+unwinding single ropes onto or from the
+    9/1071  . . . . {Spinnaker poles or rigging, e.g. combined
+    9/1078  . . . . {Boom brakes}
+    9/1085  . . . . {Boom vangs}
+    9/1092  . . . . {Means for stowing, or securing sails when
+not in use (B63H 9/1021 takes precedence)}
+   11/00    Marine propulsion by water jets
+ 2011/002   . {using Coanda effect, i.e. the tendency of fluid jets
+to be attracted to nearby surfaces}
+ 2011/004   . {using the eductor or injector pump principle, e.g.
+ 2011/006   . {with propulsive medium supplied from sources
+external to propelled vessel, e.g. water from public
+ 2011/008   . {Arrangements of two or more jet units}
+   11/01    . having means to prevent foreign material from
+   11/02    . the propulsive medium being ambient water
+   11/025   . . {by means of magneto-hydro-dynamic forces}
+   11/04    . . by means of pumps
+ 2011/043   . . . {with means for adjusting or varying pump
+inlets, e.g. means for varying inlet cross section
+ 2011/046   . . . {comprising means for varying pump
+characteristics, e.g. rotary pumps with variable
+pitch impellers, or adjustable stators}
+   11/06    . . . of reciprocating type
+   11/08    . . . of rotary type
+ 2011/081   . . . . {with axial flow, i.e. the axis of rotation
+being parallel to the flow direction}
+ 2011/082   . . . . {with combined or mixed flow, i.e. the
+flow direction being a combination of
+centrifugal flow and non-centrifugal flow,
+e.g. centripetal or axial flow}
+ 2011/084   . . . . {with two or more pump stages}
+ 2011/085   . . . . . {having counter-rotating impellers}
+ 2011/087   . . . . {with radial flow}
+ 2011/088   . . . . {using shear forces, e.g. disc pumps or Tesla
+   11/09    . . . by means of pressure pulses applied to a
+column of liquid, e.g. by ignition of an air/gas
+   11/10    . . having means for deflecting jet or influencing
+   11/101   . . . {having means for deflecting jet into a
+propulsive direction substantially parallel to the
+plane of the pump outlet opening}
+   11/102   . . . . {the inlet opening and the outlet opening of
+the pump being substantially coplanar}
+   11/103   . . . having means to increase efficiency of
+propulsive fluid, e.g. discharge pipe provided
+with means to improve the fluid flow
+   11/107   . . . Direction control of propulsive fluid
+{(B63H 11/101 takes precedence)}
+   11/11    . . . . with bucket or clamshell-type reversing
+   11/113   . . . . Pivoted outlet
+   11/117   . . . . Pivoted vane
+   11/12    . the propulsive medium being steam or other gas
+   11/14    . . the gas being produced by combustion
+   11/16    . . the gas being produced by other chemical
+   13/00    Marine propulsion by wind motors driving water-
+   15/00    Marine propulsion by use of vessel-mounted
+driving mechanisms co-operating with anchored
+   16/00    Marine propulsion by muscle power
+ 2016/005   . {used on vessels dynamically supported, or lifted
+out of the water by hydrofoils}
+   16/02    . Movable thwarts; Footrests
+   16/04    . Oars; Sculls; Paddles; Poles
+ 2016/043   . . {Stop sleeves or collars for positioning oars in
+ 2016/046   . . {Oars for single-oar sculling, i.e. for propelling
+boats by swinging single stern-mounted oars
+from side to side; Use or arrangements thereof on
+   16/06    . Rowlocks; Mountings therefor
+ 2016/063   . . {Rowlocks mounted on movable support
+   16/067   . . Rowlocks mounted on a structure extending
+beyond the gunwale of the vessel
+   16/073   . . having oar shaft restraining means
+   16/08    . Other apparatus for converting muscle power into
+ 2016/085   . . {comprising means for transmitting muscular
+power applied in oscillatory or rotary manner to
+a rotary input shaft of a reversing transmission,
+e.g. alternatively allowing for ahead or astern
+   16/10    . . for bow-facing rowing
+   16/102   . . . {by using an inverting mechanism between
+the handgrip and the blade, e.g. a toothed
+   16/105   . . . . {the mechanism having articulated rods}
+   16/107   . . . {by placing the fulcrum outside the segment
+   16/12    . . {using hand levers, cranks, pedals, or the like, e.g.
+water cycles, boats propelled by boat-mounted
+This group is no longer used for classification
+of new documents as from 01.01.2012.
+The backlog of this group is being
+continuously reclassified to groups
+   16/14    . . . {for propelled drive}
+This group is no longer used for
+classification of new documents as from
+01.01.2012. The backlog of this group is
+being continuously reclassified to groups
+   16/16    . . using reciprocating pull cable, i.e. a strand-
+like member movable alternately backward and
+ 2016/165   . . . {comprising means for transforming oscillating
+movement into rotary movement, e.g. for
+   16/18    . . using sliding {or pivoting} handle or pedal, i.e.
+the motive force being transmitted to a propelling
+means by means of a lever operated by the hand
+ 2016/185   . . . {comprising means for transforming oscillating
+movement into rotary movement, e.g. for
+   16/20    . . using rotary cranking arm
+ 2016/202   . . . {specially adapted or arranged for being
+actuated by the feet of the user, e.g. using
+ 2016/205   . . . . {making use of standard bicycles}
+ 2016/207   . . . . . {without wheels}
+   19/00    Marine propulsion not otherwise provided for
+   19/02    . by using energy derived from movement of ambient
+water, e.g. from rolling or pitching of vessels
+   19/04    . . propelled by water current
+   19/06    . by discharging gas into ambient water
+   19/08    . by direct engagement with water-bed or ground
+   20/00    Outboard propulsion units, e.g. outboard motors
+or Z-drives; Arrangements thereof on vessels
+   20/001   . {Arrangements, apparatus and methods for handling
+fluids used in outboard drives (for handling exhaust
+gas B63H 20/24; for handling cooling-water
+B63H 20/28; cooling outboard marine engines
+F01P 3/202; air intakes for outboard marine engines
+   20/002   . . {for handling lubrication liquids (in engines, e.g.
+outboard marine engines, F01M)}
+ 2020/003   . {Arrangements of two, or more outboard propulsion
+ 2020/005   . {Arrangements of two or more propellers, or the
+like on single outboard propulsion units}
+ 2020/006   . . {of coaxial type, e.g. of counter-rotative type}
+   20/007   . {Trolling propulsion units (trolling plates for
+slowing down B63H 25/50; dynamo-electric
+machines of trolling units H02K)}
+ 2020/008   . {Tools, specially adapted for maintenance,
+mounting, repair, or the like of outboard propulsion
+units, e.g. of outboard motors or Z-drives}
+   20/02    . Mounting of propulsion units (B63H 20/08 takes
+ 2020/025   . . {Sealings specially adapted for mountings of
+outboard drive units; Arrangements thereof, e.g.
+   20/06    . . on an intermediate support
+   20/08    . Means enabling movement of the position of the
+propulsion element, e.g. for trim, tilt or steering;
+Control of trim or tilt (initiating means for steering
+   20/10    . . Means enabling trim or tilt, or lifting of the
+propulsion element when an obstruction is hit;
+ 2020/103   . . . {using a flexible member for enabling or
+controlling tilt or lifting, e.g. a cable}
+   20/106   . . . {Means enabling lifting of the propulsion
+element in a substantially vertical, linearly
+   20/12    . . Means enabling steering
+   20/14    . Transmission between propulsion power unit and
+ 2020/145   . . {comprising means for permitting telescoping
+movement of components of the outboard
+propulsion unit, e.g. telescoping movement of
+   20/16    . . allowing movement of the propulsion element in
+a horizontal plane only, e.g. for steering
+   20/18    . . allowing movement of the propulsion element
+about a longitudinal axis, e.g. the through transom
+shaft (B63H 20/22 takes precedence)
+   20/20    . . with provision for reverse drive
+   20/22    . . allowing movement of the propulsion element
+about at least a horizontal axis without
+disconnection of the drive, e.g. using universal
+   20/24    . {Arrangements, apparatus and methods for handling
+exhaust gas in outboard drives, e.g.} exhaust gas
+outlets {(in engines, e.g. outboard marine engines,
+   20/245   . . {Exhaust gas outlets (B63H 20/26 takes
+   20/26    . . {Exhaust gas outlets} passing through the
+   20/28    . {Arrangements, apparatus and methods for handling
+cooling-water in outboard drives, e.g.} cooling-
+water intakes {(cooling circuits for outboard marine
+   20/285   . . {Cooling-water intakes}
+   20/30    . . {Cooling-water intakes} for flushing {(circuits
+for flushing outboard marine engines
+   20/32    . Housings {(air intakes for outboard engines
+ 2020/326   . . . {having a dividing plane substantially in plane
+with the axes of the transmission shafts}
+   20/34    . . comprising stabilising fins {, foils, anticavitation
+plates, splash plates, or rudders (rudders carrying
+propellers B63H 25/42; rudders carrying jets
+   20/36    . Transporting or testing stands {(hand carts for
+transporting outboard units B62B; measuring
+torque G01L 3/00, measuring thrust of propellers
+G01L 5/133, testing in general G01M); Use of
+outboard propulsion units as pumps}; Protection of
+power legs {, e.g. when not in use}
+   21/00    Use of propulsion power plant or units on vessels
+This group comprises arrangements of propulsion
+power plant or units on vessels and to some extent
+it includes adaptations of such plant or units to
+ 2021/003   . {the power plant using fuel cells for energy supply
+or accumulation, e.g. for buffering photovoltaic
+ 2021/006   . {the vessel being driven by hot gas positive-
+displacement engine plants of closed-cycle type, e.g.
+   21/02    . the vessels being steam-driven (B63H 21/18 takes
+   21/04    . . relating to positive-displacement steam engines
+   21/06    . . relating to steam turbines
+   21/08    . . relating to steam boilers
+   21/10    . . relating to condensers or engine-cooling fluid
+   21/12    . the vessels being motor-driven (B63H 21/175,
+B63H 21/18 take precedence; {cooling circuits with
+liquid-to-liquid heat-exchange relative to marine
+   21/14    . . relating to internal-combustion engines {(of
+   21/16    . . relating to gas turbines
+   21/165   . . by hydraulic fluid motor, i.e. wherein a liquid
+under pressure is utilised to rotate the propelling
+means {(transmission from power plant or unit to
+propeller using fluid gearing per se B63H 23/26)}
+   21/17    . . by electric motor
+ 2021/171   . . . {making use of photovoltaic energy
+conversion, e.g. using solar panels}
+ 2021/173   . . . {making use of superconductivity}
+   21/175   . the vessel being powered by land vehicle supported
+   21/18    . the vessels being powered by nuclear energy
+   21/20    . the vessels being powered by combinations of
+different types of propulsion units
+ 2021/202   . . {of hybrid electric type}
+ 2021/205   . . . {the second power unit being of the internal
+combustion engine type, or the like, e.g. a
+ 2021/207   . . . {the second power unit being a gas turbine}
+   21/21    . Control means for engine or transmission, specially
+adapted for use on marine vessels
+   21/213   . . {Levers or the like for controlling the engine or
+the transmission, e.g. single hand control levers}
+ 2021/216   . . {using electric control means}
+   21/22    . the propulsion power units being controlled from
+exterior of engine room, e.g. from navigation
+bridge; Arrangements of order telegraphs
+   21/24    . {the vessels being small craft, e.g. racing boats}
+   21/30    . Mounting of propulsion plant or unit, e.g. for anti-
+vibration purposes (hull reinforcements therefor
+   21/302   . . {with active vibration damping}
+   21/305   . . {with passive vibration damping}
+ 2021/307   . . {Arrangements, or mountings of propulsion
+power plant elements in modular propulsion
+power units, e.g. using containers}
+   21/32    . Arrangements of propulsion power-unit exhaust
+uptakes; Funnels peculiar to vessels
+   21/34    . . having exhaust-gas deflecting means
+   21/36    . Covers or casing arranged to protect plant or unit
+   21/38    . Apparatus or methods specially adapted for use on
+marine vessels, for handling power plant or unit
+liquids, e.g. lubricants, coolants, fuels or the like
+({in outboard drives B63H 20/001; } lubricating or
+cooling machines or engines in general F01 - F04)
+   21/383   . . {for handling cooling-water (in outboard drives
+B63H 20/28; in machines or engines in general
+   21/386   . . {for handling lubrication liquids (in machines or
+   23/00    Transmitting power from propulsion power
+plant to propulsive elements (adaptation of
+transmission to allow adjustment in direction of
+propellers B63H 5/125; transmission between wind
+motors and propulsive elements B63H 13/00; in
+outboard propulsion units B63H 20/14; adaptation
+of transmission to allow adjustment of location of
+ 2023/005   . {using a drive acting on the periphery of a rotating
+propulsive element, e.g. on a dented circumferential
+ring on a propeller, or a propeller acting as rotor of
+   23/02    . with mechanical gearing
+ 2023/0208  . . {by means of endless flexible members}
+ 2023/0216  . . . {by means of belts, or the like}
+ 2023/0225  . . . . {of grooved belts, i.e. with one or more
+grooves in longitudinal direction of the belt}
+ 2023/0233  . . . . {of belts having a toothed contact surface,
+or regularly spaced bosses, or hollows for
+slip-less or nearly slip-less meshing with
+complementary profiled contact surface of a
+ 2023/0241  . . . . {of V-belts, i.e. belts of tapered cross
+ 2023/025   . . . {by means of chains}
+ 2023/0258  . . {comprising gearings with variable gear ratio,
+other than reversing drives or trolling drives}
+ 2023/0266  . . . {comprising gearings with automatically
+variable gear ratio, other than continuously
+variable transmissions or trolling drives}
+ 2023/0275  . . . {comprising means for conveying rotary
+motion with continuously variable gear ratio,
+e.g. continuously variable transmissions using
+ 2023/0283  . . {using gears having orbital motion}
+ 2023/0291  . . {Trolling gears, i.e. mechanical power
+transmissions comprising controlled slip clutches,
+   23/04    . . the main transmitting element, e.g. shaft, being
+   23/06    . . for transmitting drive from a single propulsion
+ 2023/062   . . . {comprising means for simultaneously driving
+two or more main transmitting elements, e.g.
+ 2023/065   . . . . {having means for differentially varying the
+speed of the main transmitting elements, e.g.
+ 2023/067   . . . . {the elements being formed by two or more
+coaxial shafts, e.g. counter-rotating shafts}
+   23/08    . . with provision for reversing drive
+   23/10    . . for transmitting drive from more than one
+   23/12    . . . allowing combined use of the propulsion power
+   23/14    . . . . with unidirectional drive or where reversal is
+   23/16    . . . . characterised by provision of reverse drive
+   23/18    . . . for alternative use of the propulsion power
+   23/20    . . . . with separate forward and astern propulsion
+   23/22    . with non-mechanical gearing
+   23/24    . . electric {(dynamo-electric machines H02K)}
+ 2023/245   . . . {with two or more electric motors directly
+acting on a single drive shaft, e.g. plurality
+of electric rotors mounted on one common
+shaft, or plurality of electric motors arranged
+coaxially one behind the other with rotor shafts
+   23/28    . with synchronisation of propulsive elements
+   23/30    . characterised by use of clutches
+ 2023/305   . . {using fluid or semifluid as power transmitting
+   23/321   . . {Bearings or seals specially adapted for propeller
+ 2023/322   . . . {Intermediate propeller shaft bearings, e.g. with
+provisions for shaft alignment}
+ 2023/323   . . . {Bearings for coaxial propeller shafts, e.g. for
+driving propellers of the counter-rotative type}
+ 2023/325   . . . {Thrust bearings, i.e. axial bearings for
+   23/326   . . . {Water lubricated bearings}
+ 2023/327   . . . {Sealings specially adapted for propeller shafts
+ 2023/328   . . {Marine transmissions characterised by the use of
+brakes, other than propeller shaft brakes; Brakes
+   23/34    . . Propeller shafts; Paddle-wheel shafts; Attachment
+ 2023/342   . . . {comprising couplings, e.g. resilient couplings;
+ 2023/344   . . . {comprising flexible shafts members}
+ 2023/346   . . . {comprising hollow shaft members}
+ 2023/348   . . . {with turning or inching gear, i.e. with means
+for slowly rotating, or for angularly positioning
+of shafts or propulsive elements mounted
+   23/35    . . . Shaft braking or locking, i.e. means to slow
+or stop the rotation of the propeller shaft or to
+prevent the shaft from initial rotation
+   25/00    Steering; Slowing-down otherwise than by use
+of propulsive elements (using movably-installed
+outboard propulsion units B63H 20/00); Dynamic
+anchoring, i.e. positioning vessels by means of
+main or auxiliary propulsive elements
+ 2025/005   . {Steering specially adapted for towing trains, tug-
+barge systems, or the like; Equipment or accessories
+   25/02    . Initiating means for steering {, for slowing down,
+otherwise than by use of propulsive elements, or for
+ 2025/022   . . {Steering wheels; Posts for steering wheels}
+ 2025/024   . . {Handle-bars; Posts for supporting handle-bars,
+ 2025/026   . . {using multi-axis control levers, or the like,
+e.g. joysticks, wherein at least one degree of
+freedom is employed for steering, slowing down,
+ 2025/028   . . {using remote control means, e.g. wireless
+control; Equipment or accessories therefor}
+   25/04    . . automatic, e.g. reacting to compass
+ 2025/045   . . . {making use of satellite radio beacon
+positioning systems, e.g. the Global Positioning
+   25/06    . Steering by rudders (by rudders carrying propellers
+ 2025/063   . . {Arrangements of rudders forward of the
+propeller position, e.g. of backing rudders;
+Arrangements of rudders on the forebody of the
+ 2025/066   . . {Arrangements of two or more rudders; Steering
+   25/10    . . . with mechanical transmission
+   25/12    . . . with fluid transmission
+   25/14    . . . power assisted; power driven, i.e. using
+   25/16    . . . . with alternative muscle or power operated
+   25/18    . . . . Transmitting of movement of initiating
+   25/20    . . . . . by mechanical means
+   25/22    . . . . . by fluid means
+   25/24    . . . . . by electrical means
+   25/26    . . . . Steering engines
+   25/28    . . . . . of fluid type
+   25/30    . . . . . . hydraulic
+   25/34    . . . . Transmitting of movement of engine to
+rudder, e.g. using quadrants, brakes
+   25/36    . . Rudder-position indicators
+   25/382   . . . {movable otherwise than for steering purposes;
+   25/383   . . . . {with deflecting means able to reverse the
+ 2025/384   . . . . {with means for retracting or lifting}
+ 2025/385   . . . . . {by pivoting}
+ 2025/386   . . . . . {by sliding, e.g. telescopic}
+ 2025/387   . . . {comprising two or more rigidly interconnected
+mutually spaced blades pivotable about a
+common rudder shaft, e.g. parallel twin blades
+mounted on a pivotable supporting frame}
+ 2025/388   . . . {with varying angle of attack over the height of
+the rudder blade, e.g. twisted rudders}
+   25/40    . . . using Magnus effect
+   25/42    . Steering or dynamic anchoring by propulsive
+elements (by jets B63H 25/46); Steering or dynamic
+anchoring by propellers used therefor only;
+Steering or dynamic anchoring by rudders carrying
+ 2025/425   . . {Propulsive elements, other than jets,
+substantially used for steering or dynamic
+anchoring only, with means for retracting, or
+otherwise moving to a rest position outside the
+   25/44    . Steering or slowing-down by extensible flaps or the
+   25/46    . Steering or dynamic anchoring by jets {or by
+rudders carrying jets (steering or dynamic anchoring
+by deflecting or directing main propulsion jets
+ 2025/465   . . {Jets or thrusters substantially used for steering
+or dynamic anchoring only, with means for
+retracting, or otherwise moving to a rest position
+outside the water flow around the hull}
+   25/48    . Steering or slowing-down by deflection of propeller
+slipstream otherwise than by rudder
+   25/50    . Slowing-down means not otherwise provided for
+   25/52    . Parts for steering not otherwise provided for

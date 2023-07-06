@@ -1,0 +1,213 @@
+COOPERATIVE PATENT CLASSIFICATION
+COMPUTING; CALCULATING OR COUNTING
+COMPUTING ARRANGEMENTS BASED ON SPECIFIC COMPUTATIONAL
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    3/00    Computing arrangements based on biological
+    3/002   . {Biomolecular computers, i.e. using biomolecules,
+proteins, cells (using DNA G06N 3/123; using
+    3/004   . Artificial life, i.e. computing arrangements
+    3/006   . . based on simulated virtual individual or collective
+life forms, e.g. social simulations or particle
+    3/008   . . based on physical entities controlled by simulated
+intelligence so as to replicate intelligent life
+forms, e.g. based on robots replicating pets or
+humans in their appearance or behaviour
+    3/04    . . Architecture, e.g. interconnection topology
+reclassification into groups G06N 3/0464,
+All groups listed in this Warning should be
+considered in order to perform a complete
+    3/0409  . . . {Adaptive resonance theory [ART] networks}
+    3/0418  . . . {using chaos or fractal principles}
+    3/042   . . . Knowledge-based neural networks; Logical
+representations of neural networks
+    3/043   . . . based on fuzzy logic, fuzzy membership or
+fuzzy inference, e.g. adaptive neuro-fuzzy
+    3/044   . . . Recurrent networks, e.g. Hopfield networks
+Group G06N 3/044 is impacted by
+reclassification into group G06N 3/0442.
+Groups G06N 3/044 and G06N 3/0442
+should be considered in order to perform a
+    3/0442  . . . . characterised by memory or gating, e.g.
+long short-term memory [LSTM] or gated
+Group G06N 3/0442 is incomplete
+pending reclassification of documents
+Groups G06N 3/044 and G06N 3/0442
+should be considered in order to perform
+    3/045   . . . Combinations of networks
+Group G06N 3/045 is impacted by
+reclassification into group G06N 3/0455.
+Groups G06N 3/045 and G06N 3/0455
+should be considered in order to perform a
+    3/0455  . . . . Auto-encoder networks; Encoder-decoder
+Group G06N 3/0455 is incomplete
+pending reclassification of documents
+Groups G06N 3/045 and G06N 3/0455
+should be considered in order to perform
+    3/0463  . . . {Neocognitrons}
+    3/0464  . . . Convolutional networks [CNN, ConvNet]
+Group G06N 3/0464 is incomplete pending
+reclassification of documents from group
+Groups G06N 3/04 and G06N 3/0464
+should be considered in order to perform a
+    3/047   . . . Probabilistic or stochastic networks
+Group G06N 3/047 is impacted by
+reclassification into group G06N 3/0475.
+Groups G06N 3/047 and G06N 3/0475
+should be considered in order to perform a
+    3/0475  . . . Generative networks
+Group G06N 3/0475 is incomplete pending
+reclassification of documents from groups
+Groups G06N 3/04, G06N 3/047, and
+G06N 3/0475 should be considered in order
+    3/048   . . . Activation functions
+    3/049   . . . Temporal neural networks, e.g. delay elements,
+oscillating neurons or pulsed inputs
+    3/0495  . . . Quantised networks; Sparse networks;
+Group G06N 3/0495 is incomplete pending
+reclassification of documents from group
+Groups G06N 3/04 and G06N 3/0495
+should be considered in order to perform a
+    3/0499  . . . Feedforward networks
+Group G06N 3/0499 is incomplete pending
+reclassification of documents from group
+Groups G06N 3/04 and G06N 3/0499
+should be considered in order to perform a
+    3/06    . . Physical realisation, i.e. hardware implementation
+of neural networks, neurons or parts of neurons
+    3/061   . . . {using biological neurons, e.g. biological
+neurons connected to an integrated circuit}
+    3/063   . . . using electronic means
+    3/065   . . . . Analogue means
+    3/067   . . . using optical means
+    3/0675  . . . . {using electro-optical, acousto-optical or
+    3/08    . . Learning methods
+reclassification into groups G06N 3/0895,
+G06N 3/09, G06N 3/091, G06N 3/092,
+G06N 3/094, G06N 3/096, G06N 3/098 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+    3/082   . . . modifying the architecture, e.g. adding,
+deleting or silencing nodes or connections
+    3/084   . . . Backpropagation, e.g. using gradient descent
+    3/086   . . . using evolutionary algorithms, e.g. genetic
+algorithms or genetic programming
+    3/088   . . . Non-supervised learning, e.g. competitive
+    3/0895  . . . Weakly supervised learning, e.g. semi-
+supervised or self-supervised learning
+Group G06N 3/0895 is incomplete pending
+reclassification of documents from group
+Groups G06N 3/08 and G06N 3/0895
+should be considered in order to perform a
+    3/09    . . . Supervised learning
+Group G06N 3/09 is incomplete pending
+reclassification of documents from group
+Groups G06N 3/08 and G06N 3/09 should
+be considered in order to perform a
+    3/091   . . . Active learning
+Group G06N 3/091 is incomplete pending
+reclassification of documents from group
+Groups G06N 3/08 and G06N 3/091
+should be considered in order to perform a
+    3/092   . . . Reinforcement learning
+Group G06N 3/092 is incomplete pending
+reclassification of documents from group
+Groups G06N 3/08 and G06N 3/092
+should be considered in order to perform a
+    3/094   . . . Adversarial learning
+Group G06N 3/094 is incomplete pending
+reclassification of documents from group
+Groups G06N 3/08 and G06N 3/094
+should be considered in order to perform a
+    3/096   . . . Transfer learning
+Group G06N 3/096 is incomplete pending
+reclassification of documents from group
+Groups G06N 3/08 and G06N 3/096
+should be considered in order to perform a
+    3/098   . . . Distributed learning, e.g. federated learning
+Group G06N 3/098 is incomplete pending
+reclassification of documents from group
+Groups G06N 3/08 and G06N 3/098
+should be considered in order to perform a
+    3/0985  . . . Hyperparameter optimisation; Meta-learning;
+Group G06N 3/0985 is incomplete pending
+reclassification of documents from group
+Groups G06N 3/08 and G06N 3/0985
+should be considered in order to perform a
+    3/10    . . Interfaces, programming languages or software
+development kits, e.g. for simulating neural
+    3/105   . . . {Shells for specifying net layout}
+    3/12    . using genetic models
+    3/126   . . Evolutionary algorithms, e.g. genetic algorithms
+    5/00    Computing arrangements using knowledge-based
+    5/01    . Dynamic search techniques; Heuristics; Dynamic
+    5/013   . . {Automatic theorem proving}
+    5/02    . Knowledge representation; Symbolic representation
+    5/022   . . Knowledge engineering; Knowledge acquisition
+    5/025   . . . Extracting rules from data
+    5/04    . Inference or reasoning models
+    5/042   . . {Backward inferencing}
+    5/043   . . Distributed expert systems; Blackboards
+    5/045   . . Explanation of inference; Explainable artificial
+intelligence [XAI]; Interpretable artificial
+    5/046   . . Forward inferencing; Production systems
+    5/047   . . . Pattern matching networks; Rete networks
+    5/048   . . Fuzzy inferencing
+    7/00    Computing arrangements based on specific
+    7/01    . Probabilistic graphical models, e.g. probabilistic
+    7/02    . using fuzzy logic (computing arrangements based
+on biological models G06N 3/00; computing
+arrangements using knowledge-based models
+    7/023   . . {Learning or tuning the parameters of a fuzzy
+    7/026   . . {Development tools for entering the parameters
+    7/04    . . Physical realisation
+    7/043   . . . {Analogue or partially analogue
+    7/046   . . . {Implementation by means of a neural
+network (neural networks using fuzzy logic
+    7/06    . . Simulation on general purpose computers
+    7/08    . using chaos models or non-linear system models
+   10/00    Quantum computing, i.e. information processing
+based on quantum-mechanical phenomena
+Group G06N 10/00 is impacted by reclassification
+into groups G06N 10/20, G06N 10/40,
+G06N 10/60, G06N 10/70 and G06N 10/80.
+All groups listed in this Warning should be
+considered in order to perform a complete search.
+   10/20    . Models of quantum computing, e.g. quantum
+circuits or universal quantum computers
+Group G06N 10/20 is incomplete pending
+reclassification of documents from group
+Groups G06N 10/00 and G06N 10/20 should
+be considered in order to perform a complete
+   10/40    . Physical realisations or architectures of quantum
+processors or components for manipulating qubits,
+e.g. qubit coupling or qubit control
+Group G06N 10/40 is incomplete pending
+reclassification of documents from group
+Groups G06N 10/00 and G06N 10/40 should
+be considered in order to perform a complete
+   10/60    . Quantum algorithms, e.g. based on quantum
+optimisation, quantum Fourier or Hadamard
+Group G06N 10/60 is incomplete pending
+reclassification of documents from group
+Groups G06N 10/00 and G06N 10/60 should
+be considered in order to perform a complete
+   10/70    . Quantum error correction, detection or prevention,
+e.g. surface codes or magic state distillation
+Group G06N 10/70 is incomplete pending
+reclassification of documents from group
+Groups G06N 10/00 and G06N 10/70 should
+be considered in order to perform a complete
+   10/80    . Quantum programming, e.g. interfaces, languages
+or software-development kits for creating or
+handling programs capable of running on quantum
+computers; Platforms for simulating or accessing
+quantum computers, e.g. cloud-based quantum
+Group G06N 10/80 is incomplete pending
+reclassification of documents from group
+Groups G06N 10/00 and G06N 10/80 should
+be considered in order to perform a complete
+   20/10    . using kernel methods, e.g. support vector machines
+   20/20    . Ensemble learning
+   99/00    Subject matter not provided for in other groups of
+   99/007   . {Molecular computers, i.e. using inorganic
+molecules (using biomolecules G06N 3/002)}

@@ -1,0 +1,118 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+GENERATING OR TRANSMITTING MECHANICAL VIBRATIONS IN GENERAL
+METHODS OR APPARATUS FOR GENERATING OR TRANSMITTING
+MECHANICAL VIBRATIONS OF INFRASONIC, SONIC, OR ULTRASONIC
+FREQUENCY, {e.g.} FOR PERFORMING MECHANICAL WORK IN GENERAL (for
+particular applications, see the relevant subclasses, e.g. B07B 1/40, B23Q 17/12, B24B 31/06;
+measurement of mechanical vibrations G01H; in direction finding, locating, distance or velocity
+measuring G01S; {generating seismic energy G01V 1/02}; control of mechanical vibrations
+in general G05D; sound-producing devices, e.g. bells, sirens, whistles G10K, {e.g. methods or
+devices for transmitting, conducting, or directing sound in general G10K 11/00}; generation of
+electrical oscillations H03B; electromechanical resonators in general H03H; electromechanical
+transducers {for communication techniques, e.g. microphones, speakers} H04R)
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Methods or apparatus for generating mechanical
+vibrations of infrasonic, sonic, or ultrasonic
+    1/02    . making use of electrical energy (B06B 1/18,
+    1/0207  . . {Driving circuits (specially adapted for particular
+applications, see the relevant subclass, e.g.
+G01; circuits for steering transducer arrays
+G10K 11/34; basic circuits H03)}
+    1/0215  . . . {for generating pulses, e.g. bursts of
+    1/0223  . . . {for generating signals continuous in time}
+    1/023   . . . . {and stepped in amplitude, e.g. square wave,
+    1/0238  . . . . {of a single frequency, e.g. a sine-wave}
+    1/0246  . . . . . {with a feedback signal}
+    1/0253  . . . . . . {taken directly from the generator
+    1/0261  . . . . . . {taken from a transducer or electrode
+connected to the driving transducer}
+    1/0269  . . . . {for generating multiple frequencies}
+    1/0276  . . . . . {with simultaneous generation, e.g. with
+    1/0284  . . . . . {with consecutive, i.e. sequential
+generation, e.g. with frequency sweep}
+    1/0292  . . {Electrostatic transducers, e.g. electret-type}
+    1/04    . . operating with electromagnetism (dynamo-
+electric motors with vibrating magnet, armature
+    1/045   . . . {using vibrating magnet, armature or coil
+    1/06    . . operating with piezo-electric effect or with
+electrostriction (piezo-electric or electrostrictive
+    1/0603  . . . {using a piezo-electric bender, e.g. bimorph}
+    1/0607  . . . {using multiple elements (B06B 1/064 and
+    1/0611  . . . . {in a pile}
+    1/0614  . . . . . {for generating several frequencies}
+    1/0618  . . . . . {of piezo- and non-piezo-electric
+    1/0622  . . . . {on one surface}
+    1/0625  . . . . . {Annular array}
+    1/0629  . . . . . {Square array}
+    1/0633  . . . . . {Cylindrical array}
+    1/0637  . . . . . {Spherical array}
+    1/064   . . . . . {with multiple active layers}
+    1/0644  . . . {using a single piezo-electric element
+(B06B 1/0688 takes precedence)}
+    1/0648  . . . . {of rectangular shape}
+    1/0651  . . . . {of circular shape}
+    1/0655  . . . . {of cylindrical shape}
+    1/0659  . . . . {of U-shape}
+    1/0662  . . . . {with an electrode on the sensitive surface}
+    1/0666  . . . . . {used as a diaphragm}
+    1/067   . . . . . {which is used as, or combined with, an
+    1/0674  . . . . . {and a low impedance backing, e.g. air}
+    1/0677  . . . . . {and a high impedance backing}
+    1/0681  . . . . . {and a damping structure}
+    1/0685  . . . . . . {on the back only of piezo-electric
+    1/0688  . . . {with foil-type piezo-electric elements, e.g.
+    1/0692  . . . . {with a continuous electrode on one side and
+a plurality of electrodes on the other side}
+    1/0696  . . . . {with a plurality of electrodes on both sides}
+    1/08    . . operating with magnetostriction (magnetostrictive
+    1/085   . . . {using multiple elements, e.g. arrays}
+    1/10    . making use of mechanical energy (B06B 1/18,
+    1/12    . . operating with systems involving reciprocating
+    1/14    . . . the masses being elastically coupled
+    1/16    . . operating with systems involving rotary
+unbalanced masses {(electrical motors
+using rotary unbalanced masses in general
+    1/161   . . . {Adjustable systems, i.e. where amplitude
+or direction of frequency of vibration can be
+    1/162   . . . . {Making use of masses with adjustable
+    1/163   . . . . . {the amount of eccentricity being only
+adjustable when the system is stationary
+    1/164   . . . . . {the amount of eccentricity being
+automatically variable as a function of the
+running condition, e.g. speed, direction
+    1/165   . . . . . {with fluid masses or the like}
+    1/166   . . . . {Where the phase-angle of masses mounted
+on counter-rotating shafts can be varied, e.g.
+variation of the vibration phase}
+    1/167   . . . {Orbital vibrators having masses being driven
+by planetary gearings, rotating cranks or the
+    1/168   . . . . {Rotary pendulum vibrators}
+    1/18    . wherein the vibrator is actuated by pressure fluid
+    1/183   . . {operating with reciprocating masses}
+    1/186   . . {operating with rotary unbalanced masses}
+    1/20    . making use of a vibrating fluid {(whistles or sirens
+    3/00    Methods or apparatus specially adapted for
+transmitting mechanical vibrations of infrasonic,
+    3/02    . involving a change of amplitude
+    3/04    . involving focusing or reflecting
+ 2201/00    Indexing scheme associated with B06B 1/0207 for
+details covered by B06B 1/0207 but not provided
+ 2201/20    . Application to multi-element transducer
+ 2201/30    . with electronic damping
+ 2201/40    . with testing, calibrating, safety devices, built-in
+protection, construction details
+ 2201/50    . Application to a particular transducer type
+ 2201/51    . . Electrostatic transducer
+ 2201/52    . . Electrodynamic transducer
+ 2201/53    . . . with vibrating magnet or coil
+ 2201/54    . . . Electromagnetic acoustic transducers [EMAT]
+ 2201/55    . . Piezoelectric transducer
+ 2201/56    . . . Foil type, e.g. PVDF
+ 2201/57    . . Electrostrictive transducer
+ 2201/58    . . Magnetostrictive transducer
+ 2201/70    . Specific application
+ 2201/71    . . Cleaning in a tank
+ 2201/72    . . Welding, joining, soldering
+ 2201/75    . . Repelling animals, insects, humans
+ 2201/76    . . Medical, dental

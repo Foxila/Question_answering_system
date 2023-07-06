@@ -1,0 +1,36 @@
+COOPERATIVE PATENT CLASSIFICATION
+COMPUTING; CALCULATING OR COUNTING
+OPTICAL COMPUTING DEVICES; {COMPUTING DEVICES USING OTHER
+RADIATIONS WITH SIMILAR PROPERTIES}(optical logic elements per se G02F 3/00;
+digital storage using optical elements G11C 13/04)
+1. This subclass covers all devices in which at least one computing function is performed by optical means.
+2. If other aspects, for example mechanical, fluid pressure or electrical computing, are of interest, classification is also made in
+the relevant subclass for such aspects.
+    1/00    Devices for processing exclusively digital data
+    1/02    . operating upon the order or content of the data
+    1/04    . . for performing computations using exclusively
+denominational number representation, e.g. using
+binary, ternary, decimal representation
+    1/045   . . . {Matrix or vector computation}
+    1/06    . . for performing computations using a digital
+non-denominational number representation,
+i.e. number representation without radix; using
+combinations of denominational and non-
+denominational number representations
+    1/065   . . . {using residue arithmetic}
+    3/00    Devices not provided for in group G06E 1/00, e.g.
+for processing analogue or hybrid data
+    3/001   . {Analogue devices in which mathematical
+operations are carried out with the aid of optical
+or electro-optical elements (optical elements per
+se G02B; devices consisting of a plurality of
+solid state components, including light sensitive
+semiconductor components, formed in or on a
+common substrate H01L 27/14; electro-, magneto-
+or acousto-optics, non-linear optics G02F 1/00;
+    3/003   . . {forming integrals of products, e.g. Fourier
+integrals, Laplace integrals, correlation integrals;
+for analysis or synthesis of functions using
+    3/005   . . {using electro-optical or opto-electronic means}
+    3/006   . {Interconnection networks, e.g. for shuffling}
+    3/008   . {Matrix or vector computation}

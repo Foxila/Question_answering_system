@@ -1,0 +1,1155 @@
+COOPERATIVE PATENT CLASSIFICATION
+ELECTRIC COMMUNICATION TECHNIQUE
+WIRELESS COMMUNICATION NETWORKS (broadcast communication H04H;
+communication systems using wireless links for non-selective communication, e.g. wireless
+• communication networks for selectively establishing one or a plurality of wireless communication links between a desired
+number of users or between users and network equipment, for the purpose of transferring information via these wireless
+• networks deploying an infrastructure for mobility management of wireless users connected thereto, e.g. cellular networks,
+WLAN [Wireless Local Area Network], wireless access networks, e.g. WLL [Wireless Local Loop] or self-organising
+wireless communication networks, e.g. ad hoc networks;
+• planning or deployment specially adapted for the above-mentioned wireless networks;
+• services or facilities specially adapted for the above-mentioned wireless networks;
+• arrangements or techniques specially adapted for the operation of the above-mentioned wireless networks.
+2. This subclass does not cover :
+• communication systems using wireless extensions, i.e. wireless links without selective communication, e.g. cordless
+telephones, which are covered by group H04M 1/72;
+• broadcast communication, which is covered by subclass H04H.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    4/00    Services specially adapted for wireless
+communication networks; Facilities therefor
+1. This group covers mobile application services or
+application service signalling for communication
+2. This group focuses on application services
+specially adapted for wireless networks or adjusted
+    4/02    . Services making use of location information
+    4/021   . . Services related to particular areas, e.g. point
+of interest [POI] services, venue services or
+    4/022   . . . {with dynamic range variability}
+    4/023   . . {using mutual or relative location information
+between multiple location based services [LBS]
+targets or of distance thresholds}
+    4/024   . . Guidance services
+    4/025   . . {using location based information parameters}
+    4/026   . . . {using orientation information, e.g. compass}
+    4/027   . . . {using movement velocity, acceleration
+    4/029   . . Location-based management or tracking services
+    4/06    . Selective distribution of broadcast services, e.g.
+multimedia broadcast multicast service [MBMS];
+Services to user groups; One-way selective calling
+    4/08    . . User group management
+    4/10    . . Push-to-Talk [PTT] or Push-On-Call services
+    4/12    . Messaging; Mailboxes; Announcements
+    4/14    . . Short messaging services, e.g. short message
+services [SMS] or unstructured supplementary
+    4/16    . Communication-related supplementary services, e.g.
+    4/18    . Information format or content conversion, e.g.
+adaptation by the network of the transmitted or
+received information for the purpose of wireless
+    4/185   . . {by embedding added-value information into
+    4/20    . Services signaling; Auxiliary data signalling, i.e.
+transmitting data via a non-traffic channel
+    4/203   . . {for converged personal network application
+service interworking, e.g. OMA converged
+personal network services [CPNS]}
+    4/21    . . for social networking applications
+    4/23    . . for mobile advertising
+    4/24    . Accounting or billing
+    4/30    . Services specially adapted for particular
+environments, situations or purposes
+    4/33    . . for indoor environments, e.g. buildings
+    4/35    . . for the management of goods or merchandise
+    4/38    . . for collecting sensor information
+    4/40    . . for vehicles, e.g. vehicle-to-pedestrians [V2P]
+    4/42    . . . for mass transport vehicles, e.g. buses, trains or
+    4/44    . . . for communication between vehicles and
+infrastructures, e.g. vehicle-to-cloud [V2C] or
+    4/46    . . . for vehicle-to-vehicle communication [V2V]
+    4/48    . . . for in-vehicle communication
+    4/50    . Service provisioning or reconfiguring
+    4/60    . Subscription-based services using application
+servers or record carriers, e.g. SIM application
+    4/70    . Services for machine-to-machine communication
+[M2M] or machine type communication [MTC]
+    4/80    . Services using short range communication, e.g.
+near-field communication [NFC], radio-frequency
+identification [RFID] or low energy communication
+    4/90    . Services for handling of emergency or hazardous
+situations, e.g. earthquake and tsunami warning
+    8/00    Network data management
+    8/005   . {Discovery of network devices, e.g. terminals}
+    8/02    . Processing of mobility data, e.g. registration
+information at HLR [Home Location Register]
+or VLR [Visitor Location Register]; Transfer of
+mobility data, e.g. between HLR, VLR or external
+    8/04    . . Registration at HLR or HSS [Home Subscriber
+    8/06    . . Registration at serving network Location
+Register, VLR or user mobility server
+    8/065   . . . {involving selection of the user mobility
+    8/08    . . Mobility data transfer
+    8/082   . . . {for traffic bypassing of mobility servers,
+e.g. location registers, home PLMNs or home
+    8/085   . . . {involving hierarchical organized mobility
+servers, e.g. hierarchical mobile IP [HMIP]}
+    8/087   . . . {for preserving data network PoA address
+    8/10    . . . between location register and external networks
+    8/12    . . . between location registers or mobility servers
+    8/14    . . . between corresponding nodes
+    8/16    . . . selectively restricting mobility {data} tracking
+    8/18    . Processing of user or subscriber data, e.g.
+subscribed services, user preferences or user
+profiles; Transfer of user or subscriber data
+    8/183   . . {Processing at user equipment or user record
+    8/186   . . {Processing of subscriber group data}
+    8/20    . . Transfer of user or subscriber data
+    8/205   . . . {Transfer to or from user equipment or user
+    8/22    . Processing or transfer of terminal data, e.g. status or
+    8/24    . . Transfer of terminal data
+    8/245   . . . {from a network towards a terminal}
+    8/26    . Network addressing or numbering for mobility
+    8/265   . . {for initial activation of new user}
+    8/28    . . Number portability {; Network address
+    8/30    . Network data restoration; {Network data reliability;
+   12/00    Security arrangements; Authentication; Protecting
+   12/009   . {specially adapted for networks, e.g. wireless sensor
+networks, ad-hoc networks, RFID networks or cloud
+   12/02    . Protecting privacy or anonymity, e.g. protecting
+personally identifiable information [PII]
+   12/03    . Protecting confidentiality, e.g. by encryption
+   12/033   . . of the user plane, e.g. user's traffic
+   12/037   . . of the control plane, e.g. signalling traffic
+   12/04    . Key management, e.g. using generic bootstrapping
+   12/041   . . Key generation or derivation
+   12/043   . . using a trusted network node as an anchor
+   12/0431  . . . Key distribution or pre-distribution; Key
+   12/0433  . . . Key management protocols
+   12/047   . . without using a trusted network node as an anchor
+   12/062   . . Pre-authentication
+   12/065   . . Continuous authentication
+   12/068   . . {using credential vaults, e.g. password manager
+applications or one time password [OTP]
+   12/069   . . using certificates or pre-shared keys
+   12/082   . . using revocation of authorisation
+   12/084   . . using delegated authorisation, e.g. open
+   12/086   . . using security domains
+   12/088   . . using filters or firewalls
+   12/102   . . Route integrity, e.g. using trusted paths
+   12/104   . . Location integrity, e.g. secure geotagging
+   12/106   . . Packet or message integrity
+   12/108   . . Source integrity
+   12/12    . Detection or prevention of fraud
+   12/121   . . Wireless intrusion detection systems [WIDS];
+Wireless intrusion prevention systems [WIPS]
+   12/122   . . . Counter-measures against attacks; Protection
+   12/125   . . Protection against power exhaustion attacks
+   12/126   . . Anti-theft arrangements, e.g. protection against
+subscriber identity module [SIM] cloning
+   12/128   . . Anti-malware arrangements, e.g. protection
+against SMS fraud or mobile malware
+   12/30    . Security of mobile devices; Security of mobile
+   12/33    . . using wearable devices, e.g. using a smartwatch
+   12/35    . . {Protecting application or service provisioning,
+e.g. securing SIM application provisioning}
+   12/37    . . Managing security policies for mobile devices or
+for controlling mobile applications
+   12/40    . Security arrangements using identity modules
+   12/42    . . using virtual identity modules
+   12/43    . . using shared identity modules, e.g. SIM sharing
+   12/45    . . using multiple identity modules
+   12/47    . . using near field communication [NFC] or radio
+frequency identification [RFID] modules
+   12/48    . . using secure binding, e.g. securely binding
+identity modules to devices, services or
+   12/50    . Secure pairing of devices
+   12/55    . . involving three or more devices, e.g. group
+   12/60    . Context-dependent security
+   12/63    . . Location-dependent; Proximity-dependent
+   12/64    . . . using geofenced areas
+   12/65    . . Environment-dependent, e.g. using captured
+   12/66    . . {Trust-dependent, e.g. using trust scores or trust
+   12/67    . . Risk-dependent, e.g. selecting a security level
+   12/68    . . Gesture-dependent or behaviour-dependent
+   12/69    . . Identity-dependent
+   12/71    . . . Hardware identity
+   12/72    . . . Subscriber identity
+   12/73    . . . Access point logical identity
+   12/75    . . . Temporary identity
+   12/76    . . . Group identity
+   12/77    . . . Graphical identity
+   12/79    . . . Radio fingerprint
+   12/80    . Arrangements enabling lawful interception [LI]
+   16/00    Network planning, e.g. coverage or traffic
+planning tools; Network deployment, e.g. resource
+partitioning or cells structures
+   16/02    . Resource partitioning among network components,
+   16/04    . . Traffic adaptive resource partitioning
+   16/06    . . Hybrid resource partitioning, e.g. channel
+   16/08    . . . Load shedding arrangements
+   16/10    . . Dynamic resource partitioning
+   16/12    . . Fixed resource partitioning
+   16/14    . Spectrum sharing arrangements {between different
+   16/16    . . for PBS [Private Base Station] arrangements
+   16/18    . Network planning tools
+   16/20    . . for indoor coverage or short range network
+   16/22    . Traffic simulation tools or models
+   16/225   . . {for indoor or short range network}
+   16/26    . . Cell enhancers {or enhancement}, e.g. for
+   16/28    . . using beam steering
+   16/30    . . Special cell shapes, e.g. doughnuts or ring cells
+   16/32    . . Hierarchical cell structures
+   24/00    Supervisory, monitoring or testing arrangements
+   24/02    . Arrangements for optimising operational condition
+   24/04    . Arrangements for maintaining operational condition
+   24/06    . Testing, {supervising or monitoring} using
+   24/08    . Testing, {supervising or monitoring} using real
+   24/10    . Scheduling measurement reports {; Arrangements
+   28/00    Network traffic management; Network resource
+   28/02    . Traffic management, e.g. flow control or congestion
+   28/0205  . . {at the air interface (dynamic wireless traffic
+   28/021   . . {in wireless networks with changing topologies,
+e.g. ad-hoc networks (self-organizing networks
+   28/0215  . . {based on user or device properties, e.g. MTC-
+capable devices (services for machine-to-
+machine communication [M2M] or machine
+type communication [MTC] H04W 4/70;
+wireless resource selection or allocation plan
+definition based on terminal or device properties
+   28/0221  . . . {power availability or consumption}
+   28/0226  . . {based on location or mobility (handoff or
+reselection H04W 36/00; mobile application
+services making use of the location of users or
+   28/0231  . . {based on communication conditions (dynamic
+wireless traffic scheduling definition based on
+channel quality criteria H04W 72/54)}
+   28/0236  . . . {radio quality, e.g. interference, losses or
+   28/0242  . . . {Determining whether packet losses are
+due to overload or to deterioration of radio
+   28/0247  . . {based on conditions of the access network or
+the infrastructure network (central resource
+   28/0252  . . {per individual bearer or channel (dynamic
+wireless traffic scheduling H04W 72/12)}
+   28/0257  . . . {the individual bearer or channel having a
+maximum bit rate or a bit rate guarantee}
+   28/0263  . . . {involving mapping traffic to individual
+bearers or channels, e.g. traffic flow template
+   28/0268  . . {using specific QoS parameters for wireless
+networks, e.g. QoS class identifier [QCI] or
+guaranteed bit rate [GBR] (negotiating SLA or
+   28/0273  . . {adapting protocols for flow control or congestion
+control to wireless environment, e.g. adapting
+transmission control protocol [TCP] (wireless
+network protocols or protocol adaptations to
+wireless operation, e.g. wireless application
+   28/0278  . . {using buffer status reports (dynamic wireless
+traffic scheduling definition H04W 72/12)}
+   28/0284  . . {detecting congestion or overload during
+communication (monitoring arrangements
+   28/0289  . . {Congestion control (load shedding arrangements
+in network planning H04W 16/08; performing
+reselection for handling the traffic H04W 36/22;
+wireless traffic scheduling H04W 72/12)}
+Group H04W 28/0289 is impacted by
+reclassification into group H04W 28/084.
+Groups H04W 28/0289 and H04W 28/084
+should be considered in order to perform a
+   28/0294  . . {forcing collision (non-scheduled or contention
+based wireless access channel H04W 74/08)}
+When classifying in this group, classification
+is also made in the appropriate groups under
+   28/06    . . Optimizing {the usage of the radio link}, e.g.
+header compression, information sizing {,
+discarding information (system modifying
+transmission characteristic according to link
+quality by modifying frame length H04L 1/0007;
+dynamic adaptation of the packet size for flow
+control or congestion control H04L 47/365)}
+   28/065   . . . {using assembly or disassembly of packets}
+   28/08    . . Load balancing or load distribution (transferring a
+connection for handling the traffic H04W 36/22;
+wireless traffic scheduling H04W 72/12)
+Group H04W 28/08 is impacted by
+reclassification into groups H04W 28/084,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   28/082   . . . among bearers or channels
+   28/0827  . . . {Triggering entity}
+   28/0831  . . . . {Core entity}
+   28/0835  . . . . {Access entity, e.g. eNB}
+   28/0838  . . . . {User device}
+   28/084   . . . among network function virtualisation [NFV]
+entities; among edge computing entities, e.g.
+Group H04W 28/084 is incomplete pending
+reclassification of documents from groups
+Groups H04W 28/0289, H04W 28/08 and
+H04W 28/084 should be considered in order
+   28/0846  . . . {between network providers, e.g. operators
+(selecting a network or a communication
+   28/0858  . . . {among entities in the uplink}
+   28/086   . . . among access entities
+   28/0861  . . . . {between base stations}
+   28/0862  . . . . . {of same hierarchy level}
+   28/0864  . . . . . {of different hierarchy levels, e.g. Master
+Evolved Node B [MeNB] or Secondary
+   28/0865  . . . . . {of different Radio Access Technologies
+   28/0866  . . . . {between wireless and wire-based access
+points, e.g. via LTE and via DSL connected
+   28/0867  . . . {among entities in the downlink}
+   28/0875  . . . {to or through Device to Device [D2D] links,
+   28/088   . . . among core entities
+   28/0883  . . . {between entities in ad-hoc networks}
+   28/0892  . . . . {between different intermediate nodes}
+   28/09    . . . {Management thereof}
+   28/0908  . . . . {based on time, e.g. for a critical period
+   28/0917  . . . . {based on the energy state of entities}
+   28/0925  . . . . {using policies}
+   28/0933  . . . . . {based on load-splitting ratios}
+   28/0942  . . . . . {based on measured or predicted load of
+   28/095   . . . . . {based on usage history, e.g. usage history
+   28/0958  . . . . {based on metrics or performance
+   28/0967  . . . . . {Quality of Service [QoS] parameters}
+   28/0975  . . . . . . {for reducing delays}
+   28/0983  . . . . . . {for optimizing bandwidth or
+   28/0992  . . . . {based on the type of application}
+   28/10    . . Flow control {between communication
+   28/12    . . . using signalling between network elements
+   28/14    . . . using intermediate storage
+   28/16    . Central resource management; Negotiation of
+resources or communication parameters, e.g.
+negotiating bandwidth or QoS [Quality of Service]
+   28/18    . . Negotiating wireless communication parameters
+   28/20    . . . Negotiating bandwidth
+   28/22    . . . Negotiating communication rate
+   28/24    . . Negotiating SLA [Service Level Agreement];
+Negotiating QoS [Quality of Service]
+   28/26    . . Resource reservation
+   36/00    Hand-off or reselection arrangements
+In this group, local priority rules supersede
+the first-place priority rule (FPPR) applying
+   36/0005  . {Control or signalling for completing the hand-off}
+   36/0007  . . {for multicast or broadcast services, e.g.
+MBMS (multicast or broadcast application
+services H04W 4/06; resource management for
+broadcast services H04W 72/30; connection
+management for selective distribution or
+   36/0009  . . {for a plurality of users or terminals, e.g. group
+communication or moving wireless networks
+(user group management H04W 4/08; processing
+of subscriber group data H04W 8/186)}
+   36/0011  . . {for data sessions of end-to-end connection}
+Group H04W 36/0011 is impacted by
+reclassification into group H04W 36/0019.
+Groups H04W 36/0011 and H04W 36/0019
+should be considered in order to perform a
+   36/0016  . . . {Hand-off preparation specially adapted for
+   36/0019  . . . {adapted for mobile IP [MIP]}
+Group H04W 36/0019 is incomplete
+pending reclassification of documents from
+Groups H04W 36/0011 and H04W 36/0019
+should be considered in order to perform a
+   36/0022  . . . {for transferring data sessions between adjacent
+by reclassification into groups
+H04W 36/00222, H04W 36/00224 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   36/00222 . . . . {between different packet switched [PS]
+network technologies, e.g. transferring data
+sessions between LTE and WLAN or LTE
+Group H04W 36/00222 is incomplete
+pending reclassification of documents
+H04W 36/00222 should be considered in
+order to perform a complete search.
+   36/00224 . . . . {between packet switched [PS] and circuit
+switched [CS] network technologies, e.g.
+circuit switched fallback [CSFB]}
+H04W 36/00226 are incomplete pending
+reclassification of documents from group
+Groups H04W 36/0022, H04W 36/00224
+considered in order to perform a complete
+   36/00226 . . . . . {wherein the core network technologies
+comprise IP multimedia system [IMS],
+e.g. single radio voice call continuity
+   36/0027  . . . {for a plurality of data sessions of end-to-end
+connections, e.g. multi-call or multi-bearer end-
+   36/0033  . . . {with transfer of context information}
+   36/0038  . . . . {of security context information}
+   36/0044  . . . . {of quality context information}
+   36/005   . . {involving radio access media independent
+information, e.g. MIH [Media independent Hand-
+   36/0055  . . {Transmission or use of information for re-
+Group H04W 36/0055 is impacted by
+reclassification into groups H04W 36/0064
+Groups H04W 36/0055, H04W 36/0064 and
+H04W 36/13 should be considered in order to
+   36/0058  . . . {Transmission of hand-off measurement
+information, e.g. measurement reports}
+   36/0061  . . . {of neighbour cell information}
+   36/0064  . . . {of control information between different
+Group H04W 36/0064 is incomplete
+pending reclassification of documents from
+Groups H04W 36/0055 and H04W 36/0064
+should be considered in order to perform a
+   36/0066  . . . {of control information between different types
+of networks in order to establish a new radio
+   36/0069  . . . {in case of dual connectivity, e.g. decoupled
+Group H04W 36/0069 is incomplete
+pending reclassification of documents from
+groups H04W 36/18 and H04W 36/28.
+Group H04W 36/0069 is also impacted
+by reclassification into groups
+H04W 36/00692, H04W 36/00695 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   36/00692 . . . . {using simultaneous multiple data streams,
+e.g. cooperative multipoint [CoMP], carrier
+aggregation [CA] or multiple input multiple
+output [MIMO] (allocation of physical
+resources in CoMP or in CA H04L 5/0035)}
+Group H04W 36/00692 is incomplete
+pending reclassification of documents
+All groups listed in this Warning should
+be considered in order to perform a
+   36/00695 . . . . {using split of the control plane or user
+Group H04W 36/00695 is incomplete
+pending reclassification of documents
+All groups listed in this Warning should
+be considered in order to perform a
+   36/00698 . . . . {using different RATs}
+Group H04W 36/00698 is incomplete
+pending reclassification of documents
+All groups listed in this Warning should
+be considered in order to perform a
+   36/0072  . . . {of resource information of target access point}
+Group H04W 36/0072 is impacted by
+reclassification into groups H04W 36/00725
+Groups H04W 36/0072, H04W 36/00725
+and H04W 36/249 should be considered in
+order to perform a complete search.
+   36/00725 . . . . {Random access channel [RACH]-less
+Group H04W 36/00725 is incomplete
+pending reclassification of documents
+H04W 36/00725 should be considered in
+order to perform a complete search.
+   36/0077  . . . {of access information of target access point}
+   36/0079  . . . {in case of hand-off failure or rejection}
+   36/0083  . . {Determination of parameters used for hand-off,
+e.g. generation or modification of neighbour cell
+Group H04W 36/0083 is impacted by
+reclassification into groups H04W 36/00833
+Groups H04W 36/0083, H04W 36/00833 and
+H04W 36/00838 should be considered in order
+   36/00833 . . . {Handover statistics}
+Group H04W 36/00833 is incomplete
+pending reclassification of documents from
+H04W 36/00833 should be considered in
+order to perform a complete search.
+   36/00835 . . . {Determination of neighbour cell lists}
+Group H04W 36/00835 is impacted
+by reclassification into groups
+H04W 36/008355, H04W 36/008357 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   36/008355 . . . . {Determination of target cell based on user
+equipment [UE] properties, e.g. UE service
+Group H04W 36/008355 is incomplete
+pending reclassification of documents
+H04W 36/008355 should be considered in
+order to perform a complete search.
+   36/008357 . . . . {Determination of target cell based on
+access point [AP] properties, e.g. AP service
+Group H04W 36/008357 is incomplete
+pending reclassification of documents
+H04W 36/008357 should be considered in
+order to perform a complete search.
+   36/00837 . . . {Determination of triggering parameters for
+Group H04W 36/00837 is impacted
+by reclassification into groups
+H04W 36/008375 and H04W 36/00838.
+Groups H04W 36/00837, H04W 36/008375
+and H04W 36/00838 should be considered
+in order to perform a complete search.
+   36/008375 . . . . {based on historical data}
+Group H04W 36/008375 is incomplete
+pending reclassification of documents
+H04W 36/008375 should be considered in
+order to perform a complete search.
+   36/00838 . . . {Resource reservation for handover}
+Group H04W 36/00838 is incomplete
+pending reclassification of documents from
+groups H04W 36/0083, H04W 36/00835
+All groups listed in this Warning should be
+considered in order to perform a complete
+   36/0085  . . . {Hand-off measurements}
+   36/0088  . . . . {Scheduling hand-off measurements}
+   36/0094  . . . . {Definition of hand-off measurement
+   36/02    . Buffering or recovering information during
+reselection {; Modification of the traffic flow during
+   36/023   . . {Buffering or recovering information during
+Group H04W 36/023 is impacted by
+reclassification into group H04W 36/0235.
+Groups H04W 36/023 and H04W 36/0235
+should be considered in order to perform a
+   36/0235  . . . {by transmitting sequence numbers, e.g. SN
+Group H04W 36/0235 is incomplete
+pending reclassification of documents from
+Groups H04W 36/023 and H04W 36/0235
+should be considered in order to perform a
+   36/026   . . {Multicasting of data during hand-off}
+   36/03    . {Reselecting a link using a direct mode connection}
+Group H04W 36/03 is impacted by
+reclassification into groups H04W 36/033,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   36/033   . . {in pre-organised networks}
+Group H04W 36/033 is incomplete pending
+reclassification of documents from group
+Groups H04W 36/03 and H04W 36/033
+should be considered in order to perform a
+   36/035   . . {in self-organising networks}
+Group H04W 36/035 is incomplete pending
+reclassification of documents from group
+Groups H04W 36/03 and H04W 36/035
+should be considered in order to perform a
+   36/037   . . {by reducing handover delay, e.g. latency}
+Group H04W 36/037 is incomplete pending
+reclassification of documents from group
+Groups H04W 36/03 and H04W 36/037
+should be considered in order to perform a
+   36/04    . Reselecting a cell layer in multi-layered cells
+   36/06    . Reselecting a communication resource in the
+   36/08    . Reselecting an access point
+Group H04W 36/08 is impacted by
+reclassification into groups H04W 36/083,
+H04W 36/085, H04W 36/087 and H04W 36/13.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   36/083   . . {wherein at least one of the access points is a
+Group H04W 36/083 is incomplete pending
+reclassification of documents from group
+Groups H04W 36/08 and H04W 36/083
+should be considered in order to perform a
+   36/085   . . {involving beams of access points}
+Group H04W 36/085 is incomplete pending
+reclassification of documents from group
+Groups H04W 36/08 and H04W 36/085
+should be considered in order to perform a
+   36/087   . . {between radio units of access points}
+Group H04W 36/087 is incomplete pending
+reclassification of documents from group
+Groups H04W 36/08 and H04W 36/087
+should be considered in order to perform a
+   36/10    . Reselecting an access point controller
+   36/12    . Reselecting a serving backbone network switching
+   36/125   . . {involving different types of service backbones}
+Group H04W 36/125 is impacted by
+reclassification into group H04W 36/13.
+Groups H04W 36/125 and H04W 36/13
+should be considered in order to perform a
+   36/13    . {Cell handover without a predetermined boundary,
+Group H04W 36/13 is incomplete pending
+reclassification of documents from groups
+H04W 36/0055, H04W 36/08, H04W 36/125 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   36/14    . Reselecting a network or an air interface
+Group H04W 36/14 is impacted by
+reclassification into groups H04W 36/142,
+H04W 36/144, H04W 36/1443, H04W 36/1446
+All groups listed in this Warning should be
+considered in order to perform a complete
+   36/142   . . {over the same radio air interface technology}
+Group H04W 36/142 is incomplete pending
+reclassification of documents from group
+Groups H04W 36/14 and H04W 36/142
+should be considered in order to perform a
+   36/144   . . {over a different radio air interface technology}
+Groups H04W 36/144, H04W 36/1443 and
+H04W 36/1446 are incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should be
+considered in order to perform a complete
+   36/1443  . . . {between licensed networks}
+   36/1446  . . . {wherein at least one of the networks is
+   36/16    . Performing reselection for specific purposes
+   36/165   . . {for reducing network power consumption
+(H04W 36/18 - H04W 36/22 take precedence)}
+Group H04W 36/165 is impacted by
+reclassification into group H04W 36/247.
+Groups H04W 36/165 and H04W 36/247
+should be considered in order to perform a
+   36/18    . . for allowing seamless reselection, e.g. soft
+Group H04W 36/18 is impacted by
+reclassification into groups H04W 36/185,
+H04W 36/00695 and H04W 36/00698.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   36/185   . . . {using make before break}
+Group H04W 36/185 is incomplete pending
+reclassification of documents from group
+Groups H04W 36/18 and H04W 36/185
+should be considered in order to perform a
+   36/20    . . for optimising the interference level
+   36/22    . . for handling the traffic
+Group H04W 36/22 is incomplete pending
+reclassification of documents from group
+Groups H04W 28/08 and H04W 36/22 should
+be considered in order to perform a complete
+   36/24    . Reselection being triggered by specific parameters
+Group H04W 36/24 is impacted by
+reclassification into groups H04W 36/247 and
+Groups H04W 36/24, H04W 36/247 and
+H04W 36/249 should be considered in order to
+   36/247   . . {by using coverage extension}
+Group H04W 36/247 is incomplete pending
+reclassification of documents from groups
+Groups H04W 36/165, H04W 36/24 and
+H04W 36/247 should be considered in order to
+   36/249   . . {according to timing information}
+Group H04W 36/249 is incomplete pending
+reclassification of documents from groups
+Groups H04W 36/0072, H04W 36/24 and
+H04W 36/249 should be considered in order to
+   36/26    . . by agreed or negotiated communication
+   36/28    . . . involving a plurality of connections, e.g. multi-
+call or multi-bearer connections
+Group H04W 36/28 is impacted by
+reclassification into groups H04W 36/0069,
+H04W 36/00692, H04W 36/00695 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+   36/30    . . by measured or perceived connection quality data
+Group H04W 36/30 is impacted by
+reclassification into groups H04W 36/302 and
+Groups H04W 36/30, H04W 36/302 and
+H04W 36/304 should be considered in order to
+   36/302   . . . {due to low signal strength}
+Group H04W 36/302 is incomplete pending
+reclassification of documents from group
+Groups H04W 36/30 and H04W 36/302
+should be considered in order to perform a
+   36/304   . . . {due to measured or perceived resources with
+Group H04W 36/304 is incomplete pending
+reclassification of documents from group
+Groups H04W 36/30 and H04W 36/304
+should be considered in order to perform a
+   36/305   . . . {Handover due to radio link failure (control
+signalling for hand-off failure H04W 36/0079)}
+   36/32    . . by location or mobility data, e.g. speed data
+Group H04W 36/32 is impacted by
+reclassification into groups H04W 36/322,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   36/322   . . . {by location data}
+Group H04W 36/322 is incomplete pending
+reclassification of documents from group
+Groups H04W 36/32 and H04W 36/322
+should be considered in order to perform a
+   36/324   . . . {by mobility data, e.g. speed data}
+Group H04W 36/324 is incomplete pending
+reclassification of documents from group
+Groups H04W 36/32 and H04W 36/324
+should be considered in order to perform a
+   36/326   . . . {by proximity to another entity}
+Group H04W 36/326 is incomplete pending
+reclassification of documents from group
+Groups H04W 36/32 and H04W 36/326
+should be considered in order to perform a
+   36/328   . . . {by altitude}
+Group H04W 36/328 is incomplete pending
+reclassification of documents from group
+Groups H04W 36/32 and H04W 36/328
+should be considered in order to perform a
+   36/34    . Reselection control
+   36/36    . . by user or terminal equipment
+Group H04W 36/36 is impacted by
+reclassification into group H04W 36/362.
+Groups H04W 36/36 and H04W 36/362
+should be considered in order to perform a
+   36/362   . . . {Conditional handover}
+Group H04W 36/362 is incomplete pending
+reclassification of documents from group
+Groups H04W 36/36 and H04W 36/362
+should be considered in order to perform a
+   36/365   . . . {by manual user interaction}
+   36/38    . . by fixed network equipment
+   36/385   . . . {of the core network}
+   40/00    Communication routing or communication path
+   40/005   . {Routing actions in the presence of nodes in sleep
+   40/02    . Communication route or path selection, e.g. power-
+   40/023   . . {Limited or focused flooding to selected areas of
+   40/026   . . {Route selection considering the moving speed of
+   40/04    . . based on wireless node resources
+   40/06    . . . based on characteristics of available antennas
+   40/08    . . . based on transmission power
+   40/10    . . . based on available power or energy
+   40/12    . . based on transmission quality or channel quality
+   40/125   . . . {using a measured number of retransmissions
+   40/14    . . . based on stability
+   40/16    . . . based on interference
+   40/18    . . based on predicted events
+   40/20    . . based on geographic position or location
+   40/205   . . . {using topographical information, e.g. hills,
+   40/22    . . using selective relaying for reaching a BTS [Base
+Transceiver Station] or an access point
+   40/24    . Connectivity information management, e.g.
+connectivity discovery or connectivity update
+   40/242   . . {aging of topology database entries}
+   40/244   . . {using a network of reference devices, e.g.
+   40/246   . . {Connectivity information discovery}
+   40/248   . . {Connectivity information update}
+   40/26    . . for hybrid routing by combining proactive and
+   40/28    . . for reactive routing
+   40/30    . . for proactive routing
+   40/32    . . for defining a routing cluster membership
+   40/34    . Modification of an existing route
+   40/36    . . due to handover
+   40/38    . . adapting due to varying relative distances
+   48/00    Access restriction (access security to prevent
+unauthorised access H04W 12/08); Network
+selection; Access point selection
+   48/02    . Access restriction performed under specific
+   48/04    . . based on user or terminal location or mobility
+data, e.g. moving direction, speed
+   48/06    . . based on traffic conditions
+   48/08    . Access restriction or access information delivery,
+e.g. discovery data delivery (signalling during
+   48/10    . . using broadcasted information
+   48/12    . . using downlink control channel
+   48/14    . . using user query {or user detection}
+   48/16    . Discovering, processing access restriction or access
+   48/17    . {Selecting a data network PoA [Point of
+   48/18    . Selecting a network or a communication service
+   48/20    . Selecting an access point
+   52/00    Power management, e.g. TPC [Transmission
+Power Control], power saving or power classes
+{(gain control in transmitters or power amplifiers
+   52/02    . Power saving arrangements {(in wired systems
+H04L 12/12; signaling of mobile application
+services, e.g. low battery notifications H04W 4/20)}
+   52/0203  . . {in the radio access network or backbone network
+of wireless communication networks}
+   52/0206  . . . {in access points, e.g. base stations (access
+point devices per se H04W 88/08)}
+   52/0209  . . {in terminal devices (terminal devices per se
+   52/0212  . . . {managed by the network, e.g. network or
+access point is master and terminal is slave}
+   52/0216  . . . . {using a pre-established activity schedule,
+   52/0219  . . . . {where the power saving management
+   52/0222  . . . . {in packet switched networks}
+   52/0225  . . . {using monitoring of external events, e.g. the
+   52/0229  . . . . {where the received signal is a wanted
+   52/0232  . . . . . {according to average transmission signal
+   52/0235  . . . . {where the received signal is a power saving
+   52/0238  . . . . {where the received signal is an unwanted
+signal, e.g. interference or idle signal}
+   52/0241  . . . . {where no transmission is received, e.g. out
+   52/0245  . . . . {according to signal strength}
+   52/0248  . . . . {dependent on the time of the day, e.g.
+according to expected transmission activity}
+   52/0251  . . . {using monitoring of local events, e.g. events
+   52/0254  . . . . {detecting a user operation or a tactile
+contact or a motion of the device}
+   52/0258  . . . . {controlling an operation mode according to
+history or models of usage information, e.g.
+activity schedule or time of day}
+   52/0261  . . . {managing power supply demand, e.g.
+   52/0264  . . . . {by selectively disabling software
+   52/0267  . . . . {by controlling user interface components}
+   52/027   . . . . . {by controlling a display operation or
+   52/0274  . . . . {by switching on or off the equipment or
+   52/0277  . . . . . {according to available power supply, e.g.
+switching off when a low battery condition
+   52/028   . . . . . {switching on or off only a part of the
+   52/0283  . . . . . . {with sequential power up or power
+down of successive circuit blocks, e.g.
+switching on the local oscillator before
+   52/0287  . . . . {changing the clock frequency of a controller
+   52/029   . . . . . {reducing the clock frequency of the
+   52/0293  . . . . . {having a sub-controller with a low clock
+frequency switching on and off a main
+controller with a high clock frequency}
+   52/0296  . . . . {switching to a backup power supply}
+   52/08    . . . Closed loop power control
+   52/10    . . . Open loop power control
+   52/12    . . . Outer and inner loops
+   52/125   . . . . {cascaded outer loop power control}
+   52/14    . . . Separate analysis of uplink or downlink
+   52/143   . . . . {Downlink power control}
+   52/146   . . . . {Uplink power control}
+   52/16    . . . Deriving transmission power values from
+   52/18    . . TPC being performed according to specific
+   52/20    . . . using error rate
+   52/22    . . . taking into account previous information or
+   52/221   . . . . {using past power control commands}
+   52/223   . . . . {predicting future states of the transmission}
+   52/225   . . . . {Calculation of statistics, e.g. average,
+   52/226   . . . . {using past references to control power, e.g.
+   52/228   . . . . {using past power values or information}
+   52/24    . . . using SIR [Signal to Interference Ratio] or
+   52/241   . . . . {taking into account channel quality metrics,
+   52/242   . . . . {taking into account path loss}
+   52/243   . . . . {taking into account interferences}
+   52/244   . . . . . {Interferences in heterogeneous networks,
+e.g. among macro and femto or pico
+cells or other sector / system interference
+   52/245   . . . . {taking into account received signal
+   52/246   . . . . {where the output power of a terminal is
+based on a path parameter calculated in said
+   52/247   . . . . {where the output power of a terminal is
+based on a path parameter sent by another
+   52/248   . . . . {where transmission power control
+commands are generated based on a path
+   52/26    . . . using transmission rate or quality of service
+   52/262   . . . . {taking into account adaptive modulation
+and coding [AMC] scheme (AMC per se
+   52/265   . . . . {taking into account the quality of service
+   52/267   . . . . {taking into account the information rate}
+   52/28    . . . using user profile, e.g. mobile speed, priority
+or network state, e.g. standby, idle or non
+   52/281   . . . . {taking into account user or data type
+   52/282   . . . . {taking into account the speed of the mobile}
+   52/283   . . . . {Power depending on the position of the
+   52/285   . . . . {taking into account the mobility of the user}
+   52/286   . . . . {during data packet transmission, e.g. high
+   52/287   . . . . {when the channel is in stand-by}
+   52/288   . . . . {taking into account the usage mode, e.g.
+hands-free, data transmission, telephone}
+   52/30    . . using constraints in the total amount of available
+   52/32    . . . TPC of broadcast or control channels
+   52/322   . . . . {Power control of broadcast channels}
+   52/325   . . . . {Power control of control or pilot channels}
+   52/327   . . . . {Power control of multicast channels}
+   52/34    . . . TPC management, i.e. sharing limited amount
+of power among users or channels or data
+   52/343   . . . . {taking into account loading or congestion
+   52/346   . . . . {distributing total power among users or
+   52/36    . . . with a discrete range or set of values, e.g. step
+   52/362   . . . . {Aspects of the step size}
+   52/365   . . . . {Power headroom reporting}
+   52/367   . . . . {Power values between minimum and
+maximum limits, e.g. dynamic range}
+   52/38    . . TPC being performed in particular situations
+   52/383   . . . {power control in peer-to-peer links}
+   52/386   . . . {centralized, e.g. when the radio network
+controller or equivalent takes part in the power
+   52/40    . . . during macro-diversity or soft handoff
+   52/42    . . . in systems with time, space, frequency or
+   52/44    . . . in connection with interruption of transmission
+   52/46    . . . in multi hop networks, e.g. wireless relay
+   52/48    . . . during retransmission after error or non-
+   52/50    . . . at the moment of starting communication in a
+   52/52    . . using AGC [Automatic Gain Control] circuits or
+   52/54    . . Signalisation aspects of the TPC commands, e.g.
+   52/545   . . . {modifying TPC bits in special situations}
+   52/56    . . . Detection of errors of TPC bits
+   52/58    . . . Format of the TPC bits
+   52/60    . . . using different transmission rates for TPC
+   56/00    Synchronisation arrangements
+   56/0005  . {synchronizing of arrival of multiple uplinks}
+   56/001   . {Synchronization between nodes}
+   56/0015  . . {one node acting as a reference for the others}
+   56/002   . . {Mutual synchronization}
+   56/0025  . . {synchronizing potentially movable access
+   56/003   . {Arrangements to increase tolerance to errors in
+transmission or reception timing}
+   56/0035  . {detecting errors in frequency or phase}
+   56/004   . {compensating for timing error of reception due to
+   56/0045  . . {compensating for timing error by altering
+   56/005   . . {compensating for timing error by adjustment in
+   56/0055  . {determining timing error of reception due to
+   56/006   . . {using known positions of transmitter and
+   56/0065  . . {using measurement of signal travel time}
+   56/007   . . . {Open loop measurement}
+   56/0075  . . . . {based on arrival time vs. expected arrival
+   56/008   . . . . . {detecting arrival of signal based on
+   56/0085  . . . . . {detecting a given structure in the signal}
+   56/009   . . . {Closed loop measurements}
+   56/0095  . . {estimated based on signal strength}
+   60/00    Affiliation to network, e.g. registration;
+Terminating affiliation with the network, e.g. de-
+   60/005   . {Multiple registrations, e.g. multihoming}
+   60/02    . by periodical registration
+   60/04    . using triggered events
+   60/06    . De-registration or detaching
+   64/00    Locating users or terminals {or network
+equipment} for network management purposes,
+   64/003   . {locating network equipment}
+   64/006   . {with additional information processing, e.g. for
+direction or speed determination}
+   68/00    User notification, e.g. alerting and paging, for
+incoming communication, change of service or the
+   68/005   . {Transmission of information for alerting of
+   68/02    . Arrangements for increasing efficiency of
+   68/025   . . {Indirect paging}
+   68/04    . multi-step notification using statistical or historical
+   68/06    . using multi-step notification by changing the
+   68/08    . using multi-step notification by increasing the
+   68/10    . using simulcast notification
+   68/12    . Inter-network notification
+   72/00    Local resource management
+   72/02    . Selection of wireless resources by user or terminal
+Group H04W 72/02 is impacted by
+reclassification into group H04W 72/40.
+Groups H04W 72/02 and H04W 72/40 should
+be considered in order to perform a complete
+   72/04    . Wireless resource allocation
+Group H04W 72/04 is impacted by
+reclassification into groups H04W 72/11,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   72/044   . . based on the type of the allocated resource
+Group H04W 72/044 is impacted by
+reclassification into group H04W 72/0457.
+Groups H04W 72/044 and H04W 72/0457
+should be considered in order to perform a
+   72/0446  . . . Resources in time domain, e.g. slots or frames
+   72/0453  . . . Resources in frequency domain, e.g. a carrier in
+   72/0457  . . . Variable allocation of band or rate
+Group H04W 72/0457 is incomplete
+pending reclassification of documents from
+Groups H04W 72/044 and H04W 72/0457
+should be considered in order to perform a
+   72/046   . . . {the resource being in the space domain, e.g.
+   72/0466  . . . {the resource being a scrambling code}
+   72/0473  . . . {the resource being transmission power}
+   72/11    . . Semi-persistent scheduling
+Group H04W 72/11 is incomplete pending
+reclassification of documents from group
+Groups H04W 72/04 and H04W 72/11 should
+be considered in order to perform a complete
+   72/115   . . Grant-free or autonomous transmission
+Group H04W 72/115 is incomplete pending
+reclassification of documents from group
+Groups H04W 72/04 and H04W 72/115
+should be considered in order to perform a
+   72/12    . Wireless traffic scheduling
+Group H04W 72/12 is incomplete pending
+reclassification of documents from group
+Group H04W 72/12 is also impacted by
+reclassification into groups H04W 72/40,
+H04W 72/50, H04W 72/51, and H04W 72/512.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   72/121   . . for groups of terminals or users
+   72/1215  . . {for collaboration of different radio technologies}
+   72/1221  . . {based on age of data to be sent}
+   72/1263  . . Mapping of traffic onto schedule, e.g. scheduled
+allocation or multiplexing of flows
+   72/1268  . . . of uplink data flows
+   72/1273  . . . of downlink data flows
+   72/20    . Control channels or signalling for resource
+Group H04W 72/20 is impacted by
+reclassification into groups H04W 72/25,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   72/21    . . in the uplink direction of a wireless link, i.e.
+   72/23    . . in the downlink direction of a wireless link, i.e.
+Group H04W 72/23 is impacted by
+reclassification into groups H04W 72/231 and
+Groups H04W 72/23, H04W 72/231 and
+H04W 72/232 should be considered in order to
+   72/231   . . . the control data signalling from the layers
+above the physical layer, e.g. RRC or MAC-CE
+Group H04W 72/231 is incomplete pending
+reclassification of documents from group
+Groups H04W 72/23 and H04W 72/231
+should be considered in order to perform a
+   72/232   . . . the control data signalling from the physical
+Group H04W 72/232 is incomplete pending
+reclassification of documents from group
+Groups H04W 72/23 and H04W 72/232
+should be considered in order to perform a
+   72/25    . . between terminals via a wireless link, e.g.
+Group H04W 72/25 is incomplete pending
+reclassification of documents from group
+Groups H04W 72/20 and H04W 72/25 should
+be considered in order to perform a complete
+   72/27    . . between access points
+Group H04W 72/27 is incomplete pending
+reclassification of documents from group
+Groups H04W 72/20 and H04W 72/27 should
+be considered in order to perform a complete
+   72/29    . . between an access point and the access point
+Group H04W 72/29 is incomplete pending
+reclassification of documents from group
+Groups H04W 72/20 and H04W 72/29 should
+be considered in order to perform a complete
+   72/30    . Resource management for broadcast services
+   72/40    . Resource management for direct mode
+communication, e.g. D2D or sidelink
+Group H04W 72/40 is incomplete pending
+reclassification of documents from groups
+H04W 72/02, H04W 72/04 and H04W 72/12.
+All groups listed in this Warning should be
+considered in order to perform a complete
+   72/50    . Allocation or scheduling criteria for wireless
+Group H04W 72/50 is incomplete pending
+reclassification of documents from group
+Groups H04W 72/12 and H04W 72/50 should
+be considered in order to perform a complete
+   72/51    . . based on terminal or device properties
+Group H04W 72/51 is incomplete pending
+reclassification of documents from group
+Group H04W 72/51 is also impacted by
+reclassification into group H04W 72/512.
+Groups H04W 72/12, H04W 72/51 and
+H04W 72/512 should be considered in order to
+   72/512   . . . for low-latency requirements, e.g. URLLC
+Group H04W 72/512 is incomplete pending
+reclassification of documents from groups
+Groups H04W 72/12, H04W 72/51 and
+H04W 72/512 should be considered in order
+   72/53    . . based on regulatory allocation policies
+   72/535   . . {based on resource usage policies}
+   72/54    . . based on quality criteria
+Group H04W 72/54 is impacted by
+reclassification into group H04W 72/541.
+Groups H04W 72/54 and H04W 72/541
+should be considered in order to perform a
+   72/541   . . . using the level of interference
+Group H04W 72/541 is incomplete pending
+reclassification of documents from group
+Groups H04W 72/54 and H04W 72/541
+should be considered in order to perform a
+   72/542   . . . using measured or perceived quality
+   72/543   . . . based on requested quality, e.g. QoS
+   72/56    . . based on priority criteria
+Group H04W 72/56 is impacted by
+reclassification into group H04W 72/566.
+Groups H04W 72/56 and H04W 72/566
+should be considered in order to perform a
+   72/563   . . . of the wireless resources
+   72/566   . . . of the information or information source or
+Group H04W 72/566 is incomplete pending
+reclassification of documents from group
+Groups H04W 72/56 and H04W 72/566
+should be considered in order to perform a
+   72/569   . . . . {of the traffic information}
+   74/00    Wireless channel access, e.g. scheduled or random
+   74/002   . {Transmission of channel access control
+   74/004   . . {in the uplink, i.e. towards network}
+   74/006   . . {in the downlink, i.e. towards the terminal}
+   74/008   . . {with additional processing of random access
+related information at receiving side}
+   74/02    . Hybrid access techniques
+   74/04    . Scheduled {or contention-free} access
+   74/08    . Non-scheduled {or contention based} access, e.g.
+random access, ALOHA, CSMA [Carrier Sense
+Multiple Access] (H04W 74/02 takes precedence)
+   74/0808  . . {using carrier sensing, e.g. as in CSMA}
+   74/0816  . . . {carrier sensing with collision avoidance}
+   74/0825  . . . {carrier sensing with collision detection}
+   74/0833  . . {using a random access procedure}
+   74/0841  . . . {with collision treatment}
+   74/085   . . . . {collision avoidance}
+   74/0858  . . . . {collision detection}
+   74/0866  . . {using a dedicated channel for access}
+   74/0875  . . . {with assigned priorities based access}
+   74/0883  . . . {for un-synchronized access}
+   74/0891  . . . {for synchronized access}
+   76/00    Connection management
+   76/11    . . Allocation or use of connection identifiers
+   76/12    . . Setup of transport tunnels
+   76/14    . . Direct-mode setup
+   76/15    . . Setup of multiple wireless link connections
+   76/16    . . . Involving different core network technologies,
+e.g. a packet-switched [PS] bearer in
+combination with a circuit-switched [CS]
+   76/18    . . Management of setup rejection or failure
+   76/19    . . Connection re-establishment
+   76/20    . Manipulation of established connections
+   76/22    . . Manipulation of transport tunnels
+   76/23    . . Manipulation of direct-mode connections
+   76/25    . . Maintenance of established connections
+   76/27    . . Transitions between radio resource control [RRC]
+   76/28    . . Discontinuous transmission [DTX];
+   76/30    . Connection release
+   76/32    . . Release of transport tunnels
+   76/34    . . Selective release of ongoing connections
+   76/36    . . . for reassigning the resources associated with
+   76/38    . . triggered by timers
+   76/40    . for selective distribution or broadcast
+   76/45    . . for Push-to-Talk [PTT] or Push-to-Talk over
+   76/50    . for emergency connections
+   80/00    Wireless network protocols or protocol
+adaptations to wireless operation
+   80/02    . Data link layer protocols
+   80/04    . Network layer protocols, e.g. mobile IP [Internet
+   80/045   . . {involving different protocol versions, e.g. MIPv4
+   80/06    . Transport layer protocols, e.g. TCP [Transport
+Control Protocol] over wireless {(transmission
+control protocol/Internet protocol [TCP/IP] or user
+datagram protocol [UDP] H04L 69/16)}
+   80/08    . Upper layer protocols {(network arrangements
+or communication protocols for networked
+   80/085   . . {involving different upper layer protocol
+versions, e.g. LCS - SUPL or WSN-SOA-WSDP}
+   80/10    . . adapted for {application} session management,
+e.g. SIP [Session Initiation Protocol] {(connection
+management H04W 76/00; arrangements for
+session management H04L 67/14)}
+   80/12    . . Application layer protocols, e.g. WAP [Wireless
+In this group, local priority rules supersede
+the first-place priority rule (FPPR) applying
+   84/005   . {Moving wireless networks}
+   84/02    . Hierarchically pre-organised networks, e.g. paging
+networks, cellular networks, WLAN [Wireless
+Local Area Network] or WLL [Wireless Local
+   84/022   . . {One-way selective calling networks, e.g. wide
+   84/025   . . . {with acknowledge back capability}
+   84/027   . . . {providing paging services}
+   84/04    . . Large scale networks; Deep hierarchical networks
+   84/042   . . . {Public Land Mobile systems, e.g. cellular
+   84/045   . . . . {using private Base Stations, e.g. femto Base
+   84/047   . . . . {using dedicated repeater stations}
+   84/06    . . . Airborne or Satellite Networks (space-based or
+   84/08    . . . Trunked mobile radio systems
+   84/10    . . Small scale networks; Flat hierarchical networks
+   84/105   . . . {PBS [Private Base Station] network
+(H04W 84/12 - H04W 84/16 take precedence)}
+   84/12    . . . WLAN [Wireless Local Area Networks]
+   84/14    . . . WLL [Wireless Local Loop]; RLL [Radio
+   84/16    . . . WPBX [Wireless Private Branch Exchange]
+   84/18    . Self-organising networks, e.g. ad-hoc networks or
+   84/20    . . Master-slave {selection or change} arrangements
+   84/22    . . with access to wired networks
+   88/00    Devices specially adapted for wireless
+communication networks, e.g. terminals, base
+stations or access point devices
+   88/005   . {Data network PoA devices}
+   88/021   . . {adapted for Wireless Local Loop operation}
+   88/022   . . {Selective call receivers}
+   88/023   . . . {with message or information receiving
+   88/025   . . . {Selective call decoders}
+   88/026   . . . . {using digital address codes}
+   88/027   . . . . {using frequency address codes}
+   88/028   . . . . {using pulse address codes}
+   88/04    . . adapted for relaying to or from another terminal
+   88/06    . . adapted for operation in multiple networks {or
+having at least two operational modes}, e.g.
+   88/08    . Access point devices
+   88/085   . . {Access point devices with remote components}
+   88/10    . . adapted for operation in multiple networks, e.g.
+   88/12    . Access point controller devices
+   88/14    . Backbone network devices
+   88/16    . Gateway arrangements
+   88/18    . Service support devices; Network management
+   88/181   . . {Transcoding devices; Rate adaptation devices}
+   88/182   . . {Network node acting on behalf of an other
+   88/184   . . {Messaging devices, e.g. message centre}
+   88/185   . . {Selective call encoders for paging networks, e.g.
+   88/187   . . . {using digital or pulse address codes}
+   88/188   . . . {using frequency address codes}
+   92/00    Interfaces specially adapted for wireless
+   92/02    . Inter-networking arrangements
+   92/04    . Interfaces between hierarchically different network
+   92/045   . . {between access point and backbone network
+   92/06    . . between gateways and public network devices
+   92/08    . . between user and terminal device
+   92/10    . . between terminal device and access point, i.e.
+   92/12    . . between access points and access point
+   92/14    . . between access point controllers and backbone
+   92/16    . Interfaces between hierarchically similar devices
+   92/18    . . between terminal devices
+   92/20    . . between access points
+   92/22    . . between access point controllers
+   92/24    . . between backbone network devices
+   99/00    Subject matter not provided for in other groups of

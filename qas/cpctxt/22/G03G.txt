@@ -1,0 +1,1684 @@
+COOPERATIVE PATENT CLASSIFICATION
+PHOTOGRAPHY; CINEMATOGRAPHY; ANALOGOUS TECHNIQUES USING
+WAVES OTHER THAN OPTICAL WAVES; ELECTROGRAPHY; HOLOGRAPHY
+ELECTROGRAPHY; ELECTROPHOTOGRAPHY; MAGNETOGRAPHY (information
+storage based on relative movement between record carrier and transducer G11B; static stores
+with means for writing-in or reading-out information G11C; recording of television signals
+• the production of permanent directly-visible pictures in  conformity with an original picture or document, using an
+intermediate imagewise distribution of an electric or  magnetic quantity, such as a charge pattern, an electric  conductivity
+pattern, or a magnetic pattern;
+• the production of permanent directly-visible pictures  using an intermediate imagewise distribution of an  electric or
+magnetic quantity, when the origin and the  way of generating said intermediate distribution are not  relevant.
+2. This subclass does not cover:
+• use of electric signals for the transmission of the  picture information from the original to the reproduction,  i.e. pictorial
+communication, which is covered by subclass H04N;
+• production of pictures by heat patterns exclusively, not  using an electrostatic or magnetic pattern, which is  covered by
+• production of prints by transferring ink from a printing  form to a printing surface, without physical contact and  using the
+force of an electrostatic field, which is  covered by subclass B41M;
+• selective printing mechanisms characterised by the  selective supply of electric current, or the selective  application of
+magnetism or radiation, to a printing  material or impression-transfer material, which are  covered by groups B41J 2/385,
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    5/00    Recording members for original recording by
+exposure, e.g. to light, to heat, to electrons;
+Manufacture thereof; Selection of materials
+therefor (recording surfaces for measuring
+apparatus G01D 15/34; photosensitive materials for
+    5/005   . {Materials for treating the recording members, e.g.
+for cleaning, reactivating, polishing}
+    5/02    . Charge-receiving layers (G03G 5/153 takes
+    5/0202  . . {Dielectric layers for electrography}
+    5/0205  . . . {Macromolecular components}
+    5/0208  . . . . {obtained by reactions only involving
+carbon-to-carbon unsatured bonds}
+    5/0211  . . . . {obtained otherwise than by reactions only
+involving carbon-to-carbon unsaturated
+    5/0214  . . . {Organic non-macromolecular components}
+    5/0217  . . . {Inorganic components}
+    5/022   . . Layers for surface-deformation imaging, e.g. frost
+    5/024   . . Photoelectret layers
+    5/026   . . Layers in which during the irradiation a chemical
+reaction occurs whereby electrically conductive
+patterns are formed in the layers, e.g. for
+    5/028   . . Layers in which after being exposed to heat
+patterns electrically conductive patterns are
+formed in the layers, e.g. for thermoxerography
+    5/04    . . Photoconductive layers; Charge-generation layers
+or charge-transporting layers; Additives therefor;
+    5/043   . . . Photoconductive layers characterised by having
+two or more layers or characterised by their
+    5/0433  . . . . {all layers being inorganic}
+    5/0436  . . . . {combining organic and inorganic layers}
+    5/047   . . . . characterised by the charge-generation layers
+or charge transport layers {(G03G 5/0433
+and G03G 5/0436 take precedence)}
+    5/05    . . . Organic bonding materials; Methods for
+coating a substrate with a photoconductive
+layer; Inert supplements for use in
+    5/0503  . . . . {Inert supplements}
+    5/0507  . . . . . {Inorganic compounds}
+    5/051   . . . . . {Organic non-macromolecular
+    5/0514  . . . . . . {not comprising cyclic groups}
+    5/0517  . . . . . . {comprising one or more cyclic groups
+consisting of carbon-atoms only}
+    5/0521  . . . . . . {comprising one or more heterocyclic
+    5/0525  . . . . {Coating methods}
+    5/0528  . . . . {Macromolecular bonding materials}
+In groups G03G 5/0528 - G03G 5/0596,
+in the absence of an indication to the
+contrary, a polymer is classified in the last
+    5/0532  . . . . . {obtained by reactions only involving
+carbon-to-carbon unsatured bonds}
+    5/0535  . . . . . . {Polyolefins; Polystyrenes; Waxes}
+    5/0539  . . . . . . {Halogenated polymers}
+    5/0542  . . . . . . {Polyvinylalcohol, polyallylalcohol;
+Derivatives thereof, e.g. polyvinylesters,
+polyvinylethers, polyvinylamines}
+    5/0546  . . . . . . {Polymers comprising at least one
+carboxyl radical, e.g. polyacrylic acid,
+polycrotonic acid, polymaleic acid;
+Derivatives thereof, e.g. their esters,
+salts, anhydrides, nitriles, amides}
+    5/055   . . . . . . {Polymers containing hetero rings in the
+    5/0553  . . . . . . {Polymers derived from conjugated
+double bonds containing monomers, e.g.
+    5/0557  . . . . . {obtained otherwise than by reactions
+only involving carbon-to-carbon unsatured
+    5/056   . . . . . . {Polyesters}
+    5/0564  . . . . . . {Polycarbonates}
+    5/0567  . . . . . . {Other polycondensates comprising
+oxygen atoms in the main chain; Phenol
+    5/0571  . . . . . . {Polyamides; Polyimides}
+    5/0575  . . . . . . {Other polycondensates comprising
+nitrogen atoms with or without oxygen
+    5/0578  . . . . . . {Polycondensates comprising silicon
+    5/0582  . . . . . . {Polycondensates comprising sulfur
+    5/0585  . . . . . . {Cellulose and derivatives}
+    5/0589  . . . . . {Macromolecular compounds
+characterised by specific side-chain
+    5/0592  . . . . . {Macromolecular compounds
+characterised by their structure or by their
+chemical properties, e.g. block polymers,
+reticulated polymers, molecular weight,
+    5/0596  . . . . . {Macromolecular compounds
+characterised by their physical properties}
+    5/06    . . . characterised by the photoconductive material
+In groups G03G 5/06 - G03G 5/0698, in the
+absence of an indication to the contrary, an
+invention is classified in the last appropriate
+    5/0601  . . . . {Acyclic or carbocyclic compounds}
+    5/0603  . . . . . {containing halogens}
+    5/0605  . . . . . {Carbocyclic compounds}
+    5/0607  . . . . . . {containing at least one non-six-
+    5/0609  . . . . . {containing oxygen}
+    5/0611  . . . . . . {Squaric acid}
+    5/0612  . . . . . {containing nitrogen}
+    5/0614  . . . . . . {Amines}
+    5/06142 . . . . . . . {arylamine}
+    5/06144 . . . . . . . . {diamine}
+    5/061443 . . . . . . . . . {benzidine}
+    5/061446 . . . . . . . . . {terphenyl-diamine}
+    5/06145 . . . . . . . . {triamine or greater}
+    5/06147 . . . . . . . . {alkenylarylamine}
+    5/061473 . . . . . . . . . {plural alkenyl groups linked
+directly to the same aryl group}
+    5/06149 . . . . . . . {enamine}
+    5/0616  . . . . . . {Hydrazines; Hydrazones}
+    5/0618  . . . . . {containing oxygen and nitrogen}
+    5/062   . . . . . {containing non-metal elements other than
+hydrogen, halogen, oxygen or nitrogen}
+    5/0622  . . . . {Heterocyclic compounds}
+    5/0624  . . . . . {containing one hetero ring}
+    5/0625  . . . . . . {being three- or four-membered}
+    5/0627  . . . . . . {being five-membered}
+    5/0629  . . . . . . . {containing one hetero atom}
+    5/0631  . . . . . . . {containing two hetero atoms}
+    5/0633  . . . . . . . {containing three hetero atoms}
+    5/0635  . . . . . . {being six-membered}
+    5/0637  . . . . . . . {containing one hetero atom}
+    5/0638  . . . . . . . {containing two hetero atoms}
+    5/064   . . . . . . . {containing three hetero atoms}
+    5/0642  . . . . . . {being more than six-membered}
+    5/0644  . . . . . {containing two or more hetero rings}
+    5/0646  . . . . . . {in the same ring system}
+    5/0648  . . . . . . . {containing two relevant rings}
+    5/065   . . . . . . . {containing three relevant rings}
+    5/0651  . . . . . . . {containing four relevant rings}
+    5/0653  . . . . . . . {containing five relevant rings}
+    5/0655  . . . . . . . {containing six relevant rings}
+    5/0657  . . . . . . . {containing seven relevant rings}
+    5/0659  . . . . . . . {containing more than seven relevant
+    5/0661  . . . . . . {in different ring systems, each system
+containing at least one hetero ring}
+    5/0662  . . . . {containing metal elements}
+Alcoholates, phenates or organic acid
+salts of alkali or alkaline earth metals are
+classified as the parent compounds
+    5/0666  . . . . . {containing a methine or polymethine
+    5/0668  . . . . . . {containing only one methine or
+    5/067   . . . . . . . {containing hetero rings}
+    5/0672  . . . . . . {containing two or more methine or
+    5/0674  . . . . . . . {containing hetero rings}
+    5/0675  . . . . . {Azo dyes}
+    5/0677  . . . . . . {Monoazo dyes}
+    5/0679  . . . . . . {Disazo dyes}
+    5/0681  . . . . . . . {containing hetero rings in the part of
+the molecule between the azo-groups}
+    5/0683  . . . . . . . {containing polymethine or
+    5/0685  . . . . . . . . {containing hetero rings in the part
+of the molecule between the azo-
+    5/0687  . . . . . . {Trisazo dyes}
+    5/0688  . . . . . . . {containing hetero rings}
+    5/069   . . . . . . . {containing polymethine or
+    5/0692  . . . . . . . . {containing hetero rings}
+    5/0694  . . . . . . {containing more than three azo groups}
+    5/0696  . . . . . {Phthalocyanines}
+    5/0698  . . . . {Compounds of unspecified structure
+characterised by a substituent only}
+    5/07    . . . . Polymeric photoconductive materials
+    5/071   . . . . . {obtained by reactions only involving
+carbon-to-carbon unsaturated bonds
+    5/072   . . . . . . {comprising pending monoamine
+    5/073   . . . . . . . {comprising pending carbazole
+    5/0732  . . . . . . . {comprising pending
+    5/074   . . . . . . {comprising pending diamine}
+    5/0745  . . . . . . {comprising pending hydrazone}
+    5/075   . . . . . {obtained otherwise than by reactions only
+involving carbon-to-carbon unsaturated
+bonds (G03G 5/078 takes precedence)}
+    5/076   . . . . . . {having a photoconductive moiety in the
+    5/0763  . . . . . . . {comprising arylamine moiety}
+    5/0764  . . . . . . . . {triarylamine}
+    5/0765  . . . . . . . . {alkenylarylamine}
+    5/0766  . . . . . . . . {benzidine}
+    5/0767  . . . . . . . {comprising hydrazone moiety}
+    5/078   . . . . . {comprising silicon atoms}
+    5/08    . . . characterised by the photoconductive material
+    5/082   . . . . and not being incorporated in a bonding
+material, e.g. vacuum deposited
+    5/08207 . . . . . {Selenium-based}
+    5/08214 . . . . . {Silicon-based}
+    5/08221 . . . . . . {comprising one or two silicon based
+    5/08228 . . . . . . . {at least one with varying
+    5/08235 . . . . . . {comprising three or four silicon-based
+    5/08242 . . . . . . . {at least one with varying
+    5/0825  . . . . . . {comprising five or six silicon-based
+    5/08257 . . . . . . . {at least one with varying
+    5/08264 . . . . . . {comprising seven or more silicon-
+    5/08271 . . . . . . . {at least one with varying
+    5/08278 . . . . . . {Depositing methods}
+    5/08285 . . . . . {Carbon-based (in ad mixture with Si
+    5/08292 . . . . . {Germanium-based (in ad mixture with Si
+    5/085   . . . . and being incorporated in an inorganic
+bonding material, e.g. glass-like layers
+    5/087   . . . . and being incorporated in an organic bonding
+    5/09    . . . Sensitisors or activators, e.g. dyestuffs
+    5/10    . Bases for charge-receiving or other layers
+    5/101   . . {Paper bases (G03G 5/102, G03G 5/104,
+    5/102   . . {consisting of or comprising metals}
+    5/104   . . {comprising inorganic material other than metals,
+    5/105   . . {comprising electroconductive macromolecular
+    5/107   . . . {the electroconductive macromolecular
+    5/108   . . . {the electroconductive macromolecular
+    5/12    . Recording members for multicolour processes
+    5/14    . Inert intermediate or cover layers for charge-
+receiving layers (G03G 5/04 takes precedence)
+    5/142   . . {Inert intermediate layers}
+    5/144   . . . {comprising inorganic material}
+    5/14704 . . . {comprising inorganic material}
+    5/14708 . . . {comprising organic material}
+    5/14713 . . . . {Macromolecular material}
+G03G 5/14713 - G03G 5/14795, in
+the absence of an indication to the
+contrary, a polymer is classified in the last
+    5/14717 . . . . . {obtained by reactions only involving
+carbon-to-carbon unsaturated bonds}
+    5/14721 . . . . . . {Polyolefins; Polystyrenes; Waxes}
+    5/14726 . . . . . . {Halogenated polymers}
+    5/1473  . . . . . . {Polyvinylalcohol, polyallylalcohol;
+Derivatives thereof, e.g. polyvinylesters,
+polyvinylethers, polyvinylamines}
+    5/14734 . . . . . . {Polymers comprising at least one
+carboxyl radical, e.g. polyacrylic acid,
+polycrotonic acid, polymaleic acid;
+Derivatives thereof, e.g. their esters,
+salts, anhydrides, nitriles, amides}
+    5/14739 . . . . . . {Polymers containing hereto rings in the
+    5/14743 . . . . . . {Polymers derived from conjugated
+double bonds containing monomers, e.g.
+    5/14747 . . . . . {obtained otherwise than by reactions only
+involving carbon-to-carbon unsaturated
+    5/14752 . . . . . . {Polyesters}
+    5/14756 . . . . . . {Polycarbonates}
+    5/1476  . . . . . . {Other polycondensates comprising
+oxygen atoms in the main chain; Phenol
+    5/14765 . . . . . . {Polyamides; Polyimides}
+    5/14769 . . . . . . {Other polycondensates comprising
+nitrogen atoms with or without oxygen
+    5/14773 . . . . . . {Polycondensates comprising silicon
+    5/14778 . . . . . . {Polycondensates comprising sulfur
+    5/14782 . . . . . . {Cellulose and derivatives}
+    5/14786 . . . . . {Macromolecular compounds
+characterised by specific side-chain
+    5/14791 . . . . . {Macromolecular compounds
+characterised by their structure, e.g. block
+polymers, reticulated polymers, or by their
+chemical properties, e.g. by molecular
+    5/14795 . . . . . {Macromolecular compounds
+characterised by their physical properties}
+    5/153   . Charge-receiving layers combined with additional
+photo- or thermo-sensitive, but not photoconductive,
+layers, e.g. silver-salt layers
+    5/16    . Layers for recording by changing the magnetic
+properties, e.g. for Curie-point-writing
+    7/00    Selection of materials for use in image-receiving
+members, i.e. for reversal by physical contact;
+Manufacture thereof (photosensitive materials for
+    7/0006  . {Cover layers for image-receiving members;
+    7/0013  . . {Inorganic components thereof}
+    7/002   . . {Organic components thereof}
+    7/0026  . . . {being macromolecular}
+    7/0033  . . . . {Natural products or derivatives thereof, e.g.
+    7/004   . . . . {obtained by reactions only involving
+carbon-to-carbon unsaturated bonds}
+    7/0046  . . . . {obtained otherwise than by reactions only
+involving carbon-to-carbon unsaturated
+    7/0053  . {Intermediate layers for image-receiving members}
+    7/006   . {Substrates for image-receiving members; Image-
+receiving members comprising only one layer}
+    7/0066  . . {Inorganic components thereof}
+    7/0073  . . {Organic components thereof}
+    7/008   . . . {being macromolecular}
+    7/0086  . {Back layers for image-receiving members;
+    7/0093  . {Image-receiving members, based on materials
+other than paper or plastic sheets, e.g. textiles,
+    8/00    Layers covering the final reproduction, e.g. for
+protecting, for writing thereon
+    9/06    . the developer being electrolytic
+    9/08    . with toner particles
+{G03G 9/0802 - G03G 9/1355}, the last place
+priority rule is applied, i.e. at each hierarchical
+level, in the absence of an indication to the
+contrary, classification is made in the last
+G03G 9/10 - G03G 9/10884 the common rule is
+    9/0802  . . {Preparation methods}
+    9/0804  . . . {whereby the components are brought together
+    9/0806  . . . . {whereby chemical synthesis of at least one
+of the toner components takes place}
+    9/0808  . . . {by dry mixing the toner components in solid
+    9/081   . . . {by mixing the toner components in a liquefied
+state; melt kneading; reactive mixing}
+    9/0812  . . . {Pretreatment of components}
+    9/0815  . . . {Post-treatment}
+    9/0817  . . . {Separation; Classifying}
+    9/0819  . . {characterised by the dimensions of the particles}
+    9/0821  . . {characterised by physical parameters (magnetic
+    9/0823  . . . {Electric parameters}
+    9/0825  . . {characterised by their structure; characterised
+by non-homogenuous distribution of components
+(microcapsular toners G03G 9/093)}
+    9/0827  . . {characterised by their shape, e.g. degree of
+    9/083   . . Magnetic toner particles
+    9/0831  . . . {Chemical composition of the magnetic
+    9/0834  . . . . {Non-magnetic inorganic compounds
+chemically incorporated in magnetic
+    9/0835  . . . {Magnetic parameters of the magnetic
+    9/0836  . . . {Other physical parameters of the magnetic
+    9/0837  . . . {Structural characteristics of the magnetic
+components, e.g. shape, crystallographic
+    9/0838  . . . {Size of magnetic components}
+    9/0839  . . . {Treatment of the magnetic components;
+Combination of the magnetic components with
+non-magnetic materials (G03G 9/0834 takes
+    9/087   . . Binders for toner particles
+    9/08702 . . . {comprising macromolecular compounds
+obtained by reactions only involving carbon-to-
+    9/08704 . . . . {Polyalkenes}
+    9/08706 . . . . {Polymers of alkenyl-aromatic compounds}
+    9/08708 . . . . . {Copolymers of styrene}
+    9/08711 . . . . . . {with esters of acrylic or methacrylic
+    9/08713 . . . . {Polyvinylhalogenides}
+    9/08715 . . . . . {containing chlorine, bromine or iodine}
+    9/08717 . . . . . . {Polyvinylchloride}
+    9/0872  . . . . . {containing fluorine}
+    9/08722 . . . . {Polyvinylalcohols; Polyallylalcohols;
+Polyvinylethers; Polyvinylaldehydes;
+Polyvinylketones; Polyvinylketals}
+    9/08724 . . . . {Polyvinylesters}
+    9/08726 . . . . {Polymers of unsaturated acids or derivatives
+    9/08728 . . . . . {Polymers of esters}
+    9/08731 . . . . . {Polymers of nitriles}
+    9/08733 . . . . . {Polymers of unsaturated polycarboxylic
+    9/08735 . . . . {Polymers of unsaturated cyclic compounds
+having no unsaturated aliphatic groups in a
+side-chain, e.g. coumarone-indene resins}
+    9/08737 . . . . {Polymers derived from conjugated dienes}
+    9/0874  . . . . {Polymers comprising hetero rings in the
+    9/08742 . . . {comprising macromolecular compounds
+obtained otherwise than by reactions only
+involving carbon-to-carbon unsaturated bonds}
+    9/08744 . . . . {Polyacetals}
+    9/08746 . . . . {Condensation polymers of aldehydes or
+    9/08748 . . . . . {Phenoplasts}
+    9/08751 . . . . . {Aminoplasts}
+    9/08753 . . . . {Epoxyresins}
+    9/08755 . . . . {Polyesters}
+    9/08757 . . . . {Polycarbonates}
+    9/08759 . . . . {Polyethers}
+    9/08762 . . . . {Other polymers having oxygen as the only
+    9/08764 . . . . {Polyureas; Polyurethanes}
+    9/08766 . . . . {Polyamides, e.g. polyesteramides}
+    9/08768 . . . . {Other polymers having nitrogen in the main
+chain, with or without oxygen or carbon
+    9/08771 . . . . {Polymers having sulfur in the main chain,
+with or without oxygen, nitrogen or carbon
+    9/08773 . . . . {Polymers having silicon in the main chain,
+with or without sulfur, oxygen, nitrogen or
+    9/08775 . . . {Natural macromolecular compounds or
+    9/08777 . . . . {Cellulose or derivatives thereof}
+    9/08779 . . . . {Natural rubber}
+    9/08784 . . . {Macromolecular material not specially
+provided for in a single one of groups
+    9/08786 . . . . {Graft polymers}
+    9/08788 . . . . {Block polymers}
+    9/08791 . . . . {characterised by the presence of specified
+    9/08793 . . . . {Crosslinked polymers}
+    9/08795 . . . . {characterised by their chemical properties,
+e.g. acidity, molecular weight, sensitivity to
+    9/08797 . . . . {characterised by their physical properties,
+e.g. viscosity, solubility, melting
+temperature, softening temperature, glass
+    9/09    . . Colouring agents for toner particles
+    9/0902  . . . {Inorganic compounds}
+    9/0904  . . . . {Carbon black}
+    9/0906  . . . {Organic dyes}
+    9/0908  . . . . {Anthracene dyes}
+    9/0912  . . . . {Indigoid; Diaryl and Triaryl methane;
+    9/0914  . . . . {Acridine; Azine; Oxazine; Thiazine-;
+    9/0916  . . . . {Quinoline; Polymethine dyes}
+    9/0918  . . . . {Phthalocyanine dyes}
+    9/092   . . . . {Quinacridones}
+    9/0922  . . . . {Formazane dyes; Nitro and Nitroso dyes;
+Quinone imides; Azomethine dyes}
+    9/0924  . . . . {Dyes characterised by specific substituents}
+    9/0926  . . . {characterised by physical or chemical
+    9/0928  . . . {Compounds capable to generate colouring
+    9/093   . . Encapsulated toner particles
+    9/09307 . . . {specified by the shell material}
+    9/09314 . . . . {Macromolecular compounds}
+    9/09321 . . . . . {obtained by reactions only involving
+carbon-to-carbon unsaturated bonds}
+    9/09328 . . . . . {obtained otherwise than by reactions only
+involving carbon-to-carbon unsaturated
+    9/09335 . . . . {Non-macromolecular organic compounds}
+    9/09342 . . . . {Inorganic compounds}
+    9/0935  . . . {specified by the core material}
+    9/09357 . . . . {Macromolecular compounds}
+    9/09364 . . . . . {obtained by reactions only involving
+carbon-to-carbon unsaturated bonds}
+    9/09371 . . . . . {obtained otherwise than by reactions only
+involving carbon-to-carbon unsaturated
+    9/09378 . . . . {Non-macromolecular organic compounds}
+    9/09385 . . . . {Inorganic compounds}
+    9/09392 . . . {Preparation thereof}
+    9/097   . . Plasticisers; Charge controlling agents
+    9/09708 . . . {Inorganic compounds}
+    9/09716 . . . . {treated with organic compounds}
+    9/09725 . . . . {Silicon-oxides; Silicates}
+    9/09733 . . . {Organic compounds (G03G 9/08782 takes
+    9/09758 . . . . {comprising a heterocyclic ring}
+    9/09766 . . . . {comprising fluorine}
+    9/09775 . . . . {containing atoms other than
+(G03G 9/09741 - G03G 9/09766 take
+    9/09783 . . . {Organo-metallic compounds}
+    9/09791 . . . . {Metallic soaps of higher carboxylic acids}
+    9/10    . . characterised by carrier particles
+    9/103   . . . {Glass particles}
+    9/107   . . . having magnetic components
+    9/1075  . . . . {Structural characteristics of the carrier
+particles, e.g. shape or crystallographic
+    9/108   . . . . {Ferrite carrier, e.g. magnetite}
+    9/1085  . . . . . {with non-ferrous metal oxide, e.g. MgO-
+    9/1087  . . . . {Specified elemental magnetic metal or
+alloy, e.g. alnico comprising iron, nickel,
+cobalt, and aluminum, or permalloy
+    9/1088  . . . . {Binder-type carrier}
+    9/10882 . . . . . {Binder is obtained by reactions only
+involving carbon-carbon unsaturated
+    9/10884 . . . . . {Binder is obtained other than by reactions
+only involving carbon-carbon unsaturated
+    9/113   . . . having coatings applied thereto
+    9/1131  . . . . {Coating methods; Structure of coatings}
+    9/1132  . . . . {Macromolecular components of coatings}
+    9/1133  . . . . . {obtained by reactions only involving
+carbon-to-carbon unsaturated bonds}
+    9/1134  . . . . . . {containing fluorine atoms}
+    9/1135  . . . . . {obtained otherwise than by reactions only
+involving carbon-to-carbon unsaturated
+    9/1136  . . . . . . {containing silicon atoms}
+    9/1137  . . . . . {being crosslinked}
+    9/1138  . . . . {Non-macromolecular organic components
+    9/1139  . . . . {Inorganic components of coatings}
+    9/12    . . in liquid developer mixtures
+    9/122   . . . {characterised by the colouring agents}
+    9/125   . . . characterised by the liquid
+    9/13    . . . characterised by polymer components
+    9/131   . . . . {obtained by reactions only involving
+carbon-to-carbon unsaturated bonds}
+    9/132   . . . . {obtained otherwise than by reactions only
+involving carbon-to-carbon unsaturated
+    9/133   . . . . {Graft-or block polymers}
+    9/135   . . . characterised by stabiliser or charge-controlling
+    9/1355  . . . . {Ionic, organic compounds}
+    9/16    . Developers not provided for in groups
+G03G 9/06 - G03G 9/135, e.g. solutions, aerosols
+    9/18    . . Differentially wetting liquid developers
+   11/00    Selection of substances for use as fixing agents
+   13/00    Electrographic processes using a charge pattern
+(G03G 15/00, G03G 16/00, G03G 17/00 take
+Group G03G 15/00 also deals with processes
+in so far as they are characterised by the use or
+manipulation of apparatus classifiable per se in
+group G03G 15/00 and therefor takes precedence
+   13/01    . for multicoloured copies {(colour correction on
+photography G03B 27/725; picture communication
+   13/013   . . {characterised by the developing step, e.g. the
+properties of the colour developers}
+   13/0131  . . . {developing using a step for liquid
+development, e.g. plural liquid color
+   13/0133  . . . {developing using a step for deposition of
+subtractive colorant developing compositions,
+   13/0135  . . . {developing using a step for deposition of five
+or more developing compositions of different
+colors, excluding black, e.g. pentachrome
+printing or hexachrome printing}
+   13/0137  . . . {developing using a step for deposition
+of security developing composition, e.g.
+fluorescent colorants, decolorizable colorants
+or magnetic ink character recognition toners
+   13/0139  . . . {developing using a step for clear toner
+deposition, e.g. for regulating gloss or
+   13/016   . . {in which the colour powder image is formed
+directly on the recording material, e.g. DEP
+   13/02    . Sensitising, i.e. laying-down a uniform charge
+(devices for corona discharge per se H01T 19/00)
+   13/025   . . {by contact, friction or induction}
+   13/04    . Exposing, i.e. imagewise exposure by optically
+projecting the original image on a photoconductive
+   13/045   . . Charging or discharging distinct portions of
+the charge pattern on the recording material,
+e.g. discharging non-image areas, contrast
+enhancement (G03G 13/34, G03G 15/36,
+   13/05    . Imagewise charging, i.e. laying-down a charge
+in the configuration of an original image using
+a modulated stream of charged particles, e.g. of
+corona ions, modulated by a photoconductive
+control screen bearing a charge pattern or by
+optically activated charging means (using charging
+means controlled by electric image signals B41J)
+   13/054   . using X-rays, e.g. electroradiography
+   13/056   . using internal polarisation
+   13/08    . . using a solid developer, e.g. powder developer
+   13/09    . . . using magnetic brush
+   13/095   . . . Removing excess solid developer
+   13/10    . . using a liquid developer {, e.g. liquid suspension}
+   13/11    . . . Removing excess liquid developer, e.g. by heat
+   13/14    . Transferring a pattern to a second base
+   13/16    . . of a toner pattern, e.g. a powder pattern
+   13/18    . . of a charge pattern
+   13/20    . Fixing, e.g. by using heat
+   13/22    . Processes involving a combination of more than one
+step according to groups G03G 13/02 - G03G 13/20
+   13/23    . . specially adapted for copying both sides of
+an original or for copying on both sides of a
+recording or image-receiving material
+   13/24    . . whereby at least two steps are performed
+   13/26    . for the production of printing plates for non-
+   13/28    . . Planographic printing plates
+   13/283   . . . {obtained by a process including the transfer of
+a tonered image, i.e. indirect process}
+   13/286   . . . {for dry lithography}
+   13/30    . . Hectographic masters
+   13/32    . . Relief printing plates
+   13/34    . Editing, i.e. producing a composite image by
+copying one or more original images or parts
+   15/00    Apparatus for electrographic processes using
+a charge pattern (G03G 16/00, G03G 17/00 take
+precedence {; xerographic printers for data processors
+   15/01    . for producing multicoloured copies {(colour
+correction in photography G03C; colour correction
+   15/0105  . . {Details of unit}
+   15/011   . . . {for exposing}
+   15/0115  . . . . {and forming a half-tone image}
+   15/0121  . . . {for developing}
+   15/0126  . . . {using a solid developer}
+   15/0131  . . . {for transferring a pattern to a second base}
+   15/0136  . . . . {transfer member separable from recording
+member or vice versa, mode switching}
+   15/0142  . . {Structure of complete machines}
+   15/0147  . . . {using a single reusable electrographic
+   15/0152  . . . . {onto which the monocolour toner images
+are superposed before common transfer from
+   15/0157  . . . . . {with special treatment between
+   15/0163  . . . . . {primary transfer to the final recording
+   15/0168  . . . . . {single rotation of recording member
+(G03G 15/0163 takes precedence)}
+   15/0173  . . . . . {plural rotations of recording member to
+produce multicoloured copy, e.g. rotating
+set of developing units (G03G 15/0163
+   15/0178  . . . {using more than one reusable electrographic
+recording member, e.g. one for every
+   15/0184  . . . . {at least one recording member having plural
+   15/0189  . . . . {primary transfer to an intermediate transfer
+belt (G03G 15/0184 takes precedence)}
+   15/0194  . . . . {primary transfer to the final recording
+medium (G03G 15/0184 takes precedence)}
+   15/02    . for laying down a uniform charge, e.g. for
+sensitising; Corona discharge devices (G03G 15/14
+   15/0208  . . {by contact, friction or induction, e.g. liquid
+   15/0216  . . . {by bringing a charging member into contact
+with the member to be charged, e.g. roller,
+   15/0225  . . . . {provided with means for cleaning the
+   15/0233  . . . . {Structure, details of the charging member,
+e.g. chemical composition, surface
+   15/0241  . . . {by bringing charging powder particles into
+contact with the member to be charged, e.g. by
+   15/025   . . . {by bringing a charging member in the vicinity
+with the member to be charged, e.g. proximity
+   15/0258  . . {provided with means for the maintenance of the
+charging apparatus, e.g. cleaning devices, ozone
+removing devices G03G 15/0225, G03G 15/0291
+   15/0266  . . {Arrangements for controlling the amount of
+   15/0275  . . {Arrangements for controlling the area of the
+   15/0283  . . {Arrangements for supplying power to the
+   15/0291  . . {corona discharge devices, e.g. wires, pointed
+electrodes, means for cleaning the corona
+   15/04    . for exposing, i.e. imagewise exposure by optically
+projecting the original image on a photoconductive
+The original image is obtained by direct optical
+projection or received from other sources, e.g. by
+computer modified or generated image data, by
+scanning , e.g. digital copiers
+   15/04009 . . {by forming an intermediate temporary image
+   15/04018 . . {Image composition, e.g. adding or superposing
+informations on the original image (composition
+of facsimile picture signals H04N 1/387)}
+   15/04027 . . {and forming half-tone image}
+   15/04036 . . {Details of illuminating systems, e.g. lamps,
+reflectors (lamp housings for copying cameras,
+reflex exposure lighting G03B 27/542)}
+   15/04045 . . . {for exposing image information provided
+otherwise than by directly projecting the
+original image onto the photoconductive
+recording material, e.g. digital copiers
+   15/04054 . . . . {by LED arrays}
+   15/04063 . . . . {by EL-bars}
+   15/04081 . . . {Exposure from behind the photoconductive
+   15/0409  . . {Details of projection optics (for projection
+printing apparatus G03B 27/522)}
+   15/041   . . with variable magnification
+   15/0415  . . . {and means for controlling illumination or
+   15/043   . . with means for controlling illumination or
+exposure (G03G 15/041 takes precedence)
+   15/0435  . . . {by introducing an optical element in the
+   15/045   . . with means for charging or discharging distinct
+portions of the charge pattern on the recording
+material, e.g. for contrast enhancement or
+discharging non-image areas (G03G 15/36,
+   15/047   . . . for discharging non-image areas
+   15/05    . for imagewise charging, e.g. photoconductive
+control screen, optically activated charging means
+(charging means controlled by electric image
+   15/051   . . {by modulating an ion flow through a
+photoconductive screen onto which a charge
+   15/052   . . . {Details and conditioning means of the screen,
+e.g. cleaning means, ozone removing means}
+   15/054   . using X-rays, e.g. electroradiography
+   15/0545  . . {Ionography, i.e. X-rays induced liquid or gas
+   15/056   . using internal polarisation
+   15/065   . . {Arrangements for controlling the potential of the
+   15/08    . . using a solid developer, e.g. powder developer
+   15/0801  . . . {for cascading}
+   15/0803  . . . {in a powder cloud}
+   15/0805  . . . {on a brush (G03G 15/09 takes precedence)}
+   15/0806  . . . {on a donor element, e.g. belt, roller (complete
+   15/0808  . . . . {characterised by the developer supplying
+means, e.g. structure of developer supply
+   15/081   . . . . {characterised by the developer handling
+means after the supply and before the
+regulating, e.g. means for preventing
+   15/0812  . . . . {characterised by the developer regulating
+means, e.g. structure of doctor blade}
+   15/0813  . . . . {characterised by means in the developing
+zone having an interaction with the image
+carrying member, e.g. distance holders}
+   15/0815  . . . . {characterised by the developer handling
+means after the developing zone and before
+the supply, e.g. developer recovering roller}
+   15/0817  . . . . {characterised by the lateral sealing at both
+sides of the donor member with respect to
+the developer carrying direction}
+   15/0818  . . . . {characterised by the structure of the donor
+member, e.g. surface properties}
+   15/082   . . . {for immersion}
+   15/0822  . . . {Arrangements for preparing, mixing,
+supplying or dispensing developer}
+   15/0844  . . . . {Arrangements for purging used developer
+   15/0848  . . . . {Arrangements for testing or measuring
+developer properties or quality, e.g. charge,
+   15/0849  . . . . . {Detection or control means for the
+   15/0851  . . . . . . {the concentration being measured by
+   15/0853  . . . . . . {the concentration being measured by
+   15/0855  . . . . . . {the concentration being measured by
+   15/0856  . . . . . {Detection or control means for the
+   15/0858  . . . . . . {the level being measured by
+   15/086   . . . . . . {the level being measured by electro-
+   15/0862  . . . . . . {the level being measured by optical
+   15/0863  . . . . {provided with identifying means or means
+for storing process- or use parameters, e.g. an
+   15/0865  . . . . {Arrangements for supplying new
+   15/0867  . . . . . {cylindrical developer cartridges, e.g.
+toner bottles for the developer replenishing
+   15/0868  . . . . . . {Toner cartridges fulfilling a continuous
+function within the electrographic
+apparatus during the use of the supplied
+developer material, e.g. toner discharge
+on demand, storing residual toner, acting
+as an active closure for the developer
+   15/087   . . . . . . {Developer cartridges having a
+longitudinal rotational axis, around
+which at least one part is rotated when
+mounting or using the cartridge}
+   15/0872  . . . . . . . {the developer cartridges being
+parallel to its longitudinal rotational
+   15/0874  . . . . . {non-rigid containers, e.g. foldable
+   15/0875  . . . . . {cartridges having a box like shape}
+   15/0877  . . . . {Arrangements for metering and dispensing
+developer from a developer cartridge into the
+   15/0879  . . . . . {for dispensing developer from a
+developer cartridge not directly attached to
+   15/0881  . . . . . {Sealing of developer cartridges}
+   15/0882  . . . . . . {by a peelable sealing film (resealing
+used developer units before refilling:
+   15/0884  . . . . . . {by a sealing film to be ruptured or cut}
+   15/0886  . . . . . . {by mechanical means, e.g. shutter,
+   15/0887  . . . . {Arrangements for conveying and
+conditioning developer in the developing
+unit, e.g. agitating, removing impurities or
+   15/0889  . . . . . {for agitation or stirring}
+   15/0891  . . . . . {for conveying or circulating developer,
+   15/0893  . . . . . . {in a closed loop within the sump of the
+   15/0894  . . . {Reconditioning of the developer unit, i.e.
+reusing or recycling parts of the unit, e.g.
+resealing of the unit before refilling with toner}
+   15/0896  . . . {Arrangements or disposition of the complete
+developer unit or parts thereof not provided for
+by groups G03G 15/08 - G03G 15/0894}
+   15/0898  . . . . {for preventing toner scattering during
+operation, e.g. seals (sealing the donor
+member G03G 15/0817; sealing the magnetic
+   15/09    . . . using magnetic brush
+   15/0907  . . . . {with bias voltage (G03G 15/065 takes
+   15/0914  . . . . {with a one-component toner}
+   15/0921  . . . . {Details concerning the magnetic brush
+roller structure, e.g. magnet configuration}
+   15/0928  . . . . . {relating to the shell, e.g. structure,
+   15/0935  . . . . . {relating to bearings or driving
+   15/0942  . . . . {with means for preventing toner scattering
+from the magnetic brush, e.g. magnetic
+   15/095   . . . Removing excess solid developer {, e.g. fog
+   15/10    . . using a liquid developer
+   15/101   . . . {for wetting the recording material}
+   15/102   . . . . {for differentially wetting the recording
+material (developers for differentially
+   15/104   . . . {Preparing, mixing, transporting or dispensing
+   15/105   . . . . {Detection or control means for the toner
+   15/107   . . . {Condensing developer fumes (G03G 15/11
+   15/108   . . . {with which the recording material is brought
+in contact, e.g. immersion or surface immersion
+   15/11    . . . Removing excess liquid developer, e.g. by heat
+   15/14    . for transferring a pattern to a second base
+   15/16    . . of a toner pattern, e.g. a powder pattern {, e.g.
+   15/1605  . . . {using at least one intermediate support
+(G03G 15/1625 takes precedence)}
+   15/161   . . . . {with means for handling the intermediate
+support, e.g. heating, cleaning, coating with a
+   15/1615  . . . . {relating to the driving mechanism for the
+intermediate support, e.g. gears, couplings,
+   15/162   . . . . {details of the the intermediate support, e.g.
+   15/1625  . . . {on a base other than paper}
+   15/163   . . . {using the force produced by an electrostatic
+transfer field formed between the second base
+and the electrographic recording member, e.g.
+   15/1635  . . . . {the field being produced by laying down an
+electrostatic charge behind the base or the
+recording member, e.g. by a corona device}
+   15/164   . . . . . {the second base being a continuous paper
+   15/1645  . . . . . {Arrangements for controlling the amount
+   15/165   . . . . . {Arrangements for supporting or
+transporting the second base in the transfer
+   15/1655  . . . . . . {comprising a rotatable holding member
+to which the second base is attached or
+attracted, e.g. screen transfer holding
+   15/166   . . . . . . . {with means for conditioning the
+   15/1665  . . . {by introducing the second base in the nip
+formed by the recording member and at least
+one transfer member, e.g. in combination with
+   15/167   . . . . {at least one of the recording member or the
+transfer member being rotatable during the
+   15/1675  . . . . . {with means for controlling the bias
+   15/168   . . . . . {with means for conditioning the transfer
+   15/1685  . . . . . {Structure, details of the transfer member,
+   15/169   . . . {with means for preconditioning the toner
+image before the transfer (G03G 15/095 and
+   15/1695  . . . {with means for preconditioning the paper base
+   15/18    . . of a charge pattern
+   15/20    . for fixing, e.g. by using heat
+   15/2007  . . . {using radiant heat, e.g. infra-red lamps,
+   15/201   . . . . {of high intensity and short duration, i.e.
+   15/2014  . . . {using contact heat}
+   15/2017  . . . . {Structural details of the fixing unit in
+general, e.g. cooling means, heat shielding
+means (G03G 15/2053 takes precedence)}
+   15/2021  . . . . . {Plurality of separate fixing and/or cooling
+areas or units, two step fixing}
+   15/2025  . . . . . {with special means for lubricating and/
+or cleaning the fixing unit, e.g. applying
+   15/2028  . . . . . {with means for handling the copy
+material in the fixing nip, e.g. introduction
+   15/2032  . . . . . {Retractable heating or pressure unit}
+   15/2035  . . . . . . {for maintenance purposes, e.g. for
+   15/2039  . . . . {with means for controlling the fixing
+   15/2042  . . . . . {specially for the axial heat partition}
+   15/2046  . . . . . {specially for the influence of heat loss,
+e.g. due to the contact with the copy
+   15/205   . . . . . {specially for the mode of operation,
+e.g. standby, warming-up, error
+(G03G 15/2046 takes precedence)}
+   15/2053  . . . . {Structural details of heat elements, e.g.
+structure of roller or belt, eddy current,
+   15/2057  . . . . . {relating to the chemical composition of
+the heat element and layers thereof}
+   15/206   . . . . {Structural details or chemical composition
+of the pressure elements and layers thereof}
+   15/2064  . . . . {combined with pressure}
+   15/2092  . . {using pressure only}
+   15/2096  . . {using a solvent}
+   15/2098  . . {using light, e.g. UV photohardening}
+   15/22    . involving the combination of more than one step
+according to groups G03G 13/02 - G03G 13/20
+   15/221   . . {Machines other than electrographic copiers,
+e.g. electrophotographic cameras, electrostatic
+   15/222   . . . {Machines for handling xeroradiographic
+images, e.g. xeroradiographic processors}
+   15/223   . . . {Machines for handling microimages, e.g.
+   15/224   . . . {Machines for forming tactile or three
+dimensional images by electrographic means,
+   15/225   . . {using contact-printing}
+   15/226   . . {where the image is formed on a dielectric layer
+covering the photoconductive layer}
+   15/227   . . . {the length of the inner surface of the dielectric
+layer being greater than the length of the outer
+surface of the photoconductive layer}
+   15/228   . . {the process involving the formation of a master,
+e.g. photocopy-printer machines}
+   15/23    . . specially adapted for copying both sides of
+an original or for copying on both sides of a
+recording or image-receiving material
+   15/231   . . . {Arrangements for copying on both sides of a
+recording or image-receiving material}
+   15/232   . . . . {using a single reusable electrographic
+   15/234   . . . . . {by inverting and refeeding the image
+receiving material with an image on one
+face to the recording member to transfer
+a second image on its second face, e.g. by
+using a duplex tray; Details of duplex trays
+   15/235   . . . . . . {the image receiving member being
+preconditioned before transferring
+the second image, e.g. decurled, or
+the second image being formed with
+different operating parameters, e.g. a
+   15/237   . . . . . . {the image receiving member being in
+form of a continuous web (G03G 15/235
+   15/238   . . . . {using more than one reusable electrographic
+recording member, e.g. single pass duplex
+   15/24    . . whereby at least two steps are performed
+   15/26    . . in which the charge pattern is obtained by
+projection of the entire image, i.e. whole-frame
+projection (G03G 15/04 takes precedence)
+   15/263   . . . {using a reusable recording medium in form of
+   15/266   . . . {using a reusable recording medium in form of
+   15/28    . . in which projection is obtained by line scanning
+   15/283   . . . {using a reusable recording medium in form of
+   15/286   . . . {using a reusable recording medium in form of
+   15/30    . . . in which projection is formed on a drum
+   15/302   . . . . {with arrangements for copying different
+kinds of originals, e.g. sheets, books}
+   15/305   . . . . {with special means to synchronize the
+scanning optic to the operation of other parts
+of the machine, e.g. photoreceptor, copy
+   15/307   . . . . {with more than one photoconductor
+revolution for each copying cycle}
+   15/32    . . in which the charge pattern is formed dotwise,
+{e.g. by a thermal head}(G03G 15/04,
+G03G 15/05, G03G 15/34 take precedence)
+   15/321   . . . {by charge transfer onto the recording material
+   15/323   . . . . {by modulating charged particles through
+   15/325   . . . . {using a stylus or a multi-styli array}
+   15/326   . . . {by application of light, e.g. using a LED
+   15/328   . . . . {using a CRT}
+   15/34    . . in which the powder image is formed directly on
+the recording material {, e.g. by using a liquid
+   15/342   . . . {by forming a uniform powder layer and then
+   15/344   . . . {by selectively transferring the powder to the
+recording medium, e.g. by using a LED array}
+   15/346   . . . . {by modulating the powder through holes or
+   15/348   . . . . {using a stylus or a multi-styli array}
+   15/36    . Editing, i.e. producing a composite image by
+copying one or more original images or parts
+   15/50    . {Machine control of apparatus for electrographic
+processes using a charge pattern, e.g. regulating
+differents parts of the machine, multimode copiers,
+microprocessor control (sequencing control
+   15/5004  . . {Power supply control, e.g. power-saving mode,
+   15/5008  . . {Driving control for rotary photosensitive
+medium, e.g. speed control, stop position control}
+   15/5012  . . {Priority interrupt; Job recovery, e.g. after
+   15/5016  . . {User-machine interface; Display panels; Control
+   15/502   . . . {relating to the structure of the control menu,
+e.g. pop-up menus, help screens}
+   15/5025  . . {by measuring the original characteristics, e.g.
+   15/5029  . . {by measuring the copy material characteristics,
+   15/5033  . . {by measuring the photoconductor characteristics,
+e.g. temperature, or the characteristics of an
+   15/5037  . . . {the characteristics being an electrical
+   15/5041  . . . {Detecting a toner image, e.g. density, toner
+coverage, using a test patch (G03G 15/553
+   15/5045  . . . {Detecting the temperature}
+   15/505   . . . {Detecting the speed, e.g. for continuous
+control of recording starting time}
+   15/5054  . . {by measuring the characteristics of an
+intermediate image carrying member or the
+characteristics of an image on an intermediate
+image carrying member, e.g. intermediate transfer
+   15/5058  . . . {using a test patch}
+   15/5062  . . {by measuring the characteristics of an image on
+   15/5066  . . {by using information from an external support,
+   15/507   . . . {being interleaved with the original or directly
+written on he original, e.g. using a control
+   15/5075  . . {Remote control machines, e.g. by a host}
+   15/5079  . . . {for maintenance}
+   15/5083  . . . {for scheduling}
+   15/5087  . . . {for receiving image data}
+   15/5091  . . . {for user-identification or authorisation}
+   15/5095  . . {Matching the image with the size of the copy
+material, e.g. by calculating the magnification or
+selecting the adequate copy material size}
+   15/55    . {Self-diagnostics; Malfunction or lifetime display}
+   15/553   . . {Monitoring or warning means for exhaustion or
+lifetime end of consumables, e.g. indication of
+insufficient copy sheet quantity for a job}
+   15/556   . . . {for toner consumption, e.g. pixel counting,
+toner coverage detection or toner density
+   15/60    . {Apparatus which relate to the handling of originals
+(for photographic purposes in general G03B)}
+   15/602   . . {for transporting}
+   15/605   . . {Holders for originals or exposure platens (for
+photographic purposes in general G03B)}
+   15/607   . . {for detecting size, presence or position of
+   15/65    . {Apparatus which relate to the handling of copy
+material (handling sheets or webs in general B65H;
+for photographic purposes in general G03B)}
+   15/6502  . . {Supplying of sheet copy material; Cassettes
+   15/6505  . . . {for copy sheets in ream}
+   15/6508  . . . {Automatic supply devices interacting with the
+rest of the apparatus, e.g. selection of a specific
+cassette (matching the image with the size of
+the copy material G03G 15/5095)}
+   15/6511  . . . {Feeding devices for picking up or separation
+   15/6514  . . . {Manual supply devices}
+   15/6517  . . {Apparatus for continuous web copy material
+of plain paper, e.g. supply rolls; Roll holders
+   15/652   . . . {Feeding a copy material originating from a
+   15/6526  . . . {Computer form folded [CFF] continuous web,
+e.g. having sprocket holes or perforations}
+   15/6529  . . {Transporting (G03G 15/6555 takes precedence)}
+   15/6532  . . {Removing a copy sheet form a xerographic
+drum, band or plate (removing sheets from
+printing cylinders B65H 29/02)}
+   15/6535  . . . {using electrostatic means, e.g. a separating
+   15/6538  . . {Devices for collating sheet copy material, e.g.
+sorters, control, copies in staples form}
+   15/6541  . . . {Binding sets of sheets, e.g. by stapling,
+   15/6544  . . . . {Details about the binding means or
+   15/6547  . . . {Shifting sets of sheets in the discharge tray}
+   15/655   . . . {Placing job divider sheet between set of
+   15/6552  . . {Means for discharging uncollated sheet copy
+material, e.g. discharging rollers, exit trays}
+   15/6555  . . {Handling of sheet copy material taking place in a
+specific part of the copy material feeding path}
+   15/6558  . . . {Feeding path after the copy sheet preparation
+and up to the transfer point, e.g. registering;
+Deskewing; Correct timing of sheet feeding to
+   15/6561  . . . . {for sheet registration}
+   15/6564  . . . . . {with correct timing of sheet feeding}
+   15/6567  . . . . {for deskewing or aligning}
+   15/657   . . . {Feeding path after the transfer point and up to
+the fixing point, e.g. guides and feeding means
+for handling copy material carrying an unfused
+   15/6573  . . . {Feeding path after the fixing point and up to
+the discharge tray or the finisher, e.g. special
+treatment of copy material to compensate for
+   15/6576  . . . . {Decurling of sheet material}
+   15/6579  . . . {Refeeding path for composite copying}
+   15/6582  . . {Special processing for irreversibly adding or
+changing the sheet copy material characteristics
+or its appearance, e.g. stamping, annotation
+   15/6585  . . . {by using non-standard toners, e.g. transparent
+   15/6588  . . {characterised by the copy material, e.g.
+postcards, large copies, multi-layered materials,
+   15/6591  . . . {characterised by the recording material, e.g.
+plastic material, OHP, ceramics, tiles, textiles
+(details transferring the toner pattern onto
+particular materials G03G 15/1625)}
+   15/6594  . . . {characterised by the format or the thickness,
+   15/6597  . . {the imaging being conformed directly on the
+copy material, e.g. using photosensitive copy
+material, dielectric copy material for electrostatic
+   15/70    . {Detecting malfunctions relating to paper handling,
+   15/703   . . {Detecting multiple sheets}
+   15/706   . . {Detecting missed stripping form xerographic
+   15/75    . {Details relating to xerographic drum, band or plate,
+e.g. replacing, testing (electrographic recording
+   15/751   . . {relating to drum (G03G 15/757 takes
+   15/752   . . . {with renewable photoconductive layer}
+   15/754   . . {relating to band, e.g. tensioning (G03G 15/757
+   15/755   . . . {for maintaining the lateral alignment of the
+   15/757   . . {Drive mechanisms for photosensitive medium,
+   15/758   . . {relating to plate or sheet}
+   15/80    . {Details relating to power supplies, circuits boards,
+   16/00    Electrographic processes using deformation of
+thermoplastic layers (layers for surface-deformation
+imaging G03G 5/022); Apparatus therefor {(shaping
+of plastic objects with thermoplastic memory effect
+B29C 61/00; digital stores using thermoplastic
+elements G11C 11/46; television signal recording
+using deformable thermoplastic recording medium
+   17/00    Electrographic processes using patterns other
+than charge patterns, e.g. an electric conductivity
+pattern; Processes involving a migration, e.g.
+photoelectrophoresis, photoelectrosolography;
+Processes involving a selective transfer, e.g.
+electrophoto-adhesive processes; Apparatus
+essentially involving a single such process
+   17/005   . {Radiation field photography, e.g. Kirlian
+photography, colour-discharge photography
+(recording electrical waveforms in general
+G01R 13/04, e.g. G01R 13/12 - G01R 13/14)}
+   17/02    . with electrolytic development
+   17/04    . using photoelectrophoresis
+   17/06    . . Apparatus therefor
+   17/08    . using an electrophoto-adhesive process, e.g.
+   17/10    . using migration imaging, e.g.
+photoelectrosolography (G03G 17/04 takes
+   19/00    Processes using magnetic patterns; Apparatus
+therefor {, i.e. magnetography}
+This group comprises also processes and apparatus
+wherein magnetography and electrography are
+combined; magnetographic printing apparatus
+for data processing machines G06K 15/14;
+recording members therefor G03G 5/00; magnetic
+recording members for television G11B;
+recording of sound G11B; recording of electric
+measurements G01R 13/00; recording apparatus
+for measurements in general G01D
+   19/005   . {where the image is formed by selective
+demagnetizing, e.g. thermomagnetic recording}
+   21/00    Arrangements not provided for by groups
+G03G 13/00 - G03G 19/00, e.g. cleaning,
+   21/0005  . {for removing solid developer or debris from the
+electrographic recording medium}
+   21/0011  . . {using a blade; Details of cleaning blades, e.g.
+   21/0017  . . . {Details relating to the internal structure or
+chemical composition of the blades}
+   21/0023  . . . {with electric bias}
+   21/0029  . . . {Details relating to the blade support}
+   21/0035  . . {using a brush; Details of cleaning brushes, e.g.
+fibre density (G03G 21/0064 takes precedence;
+magnetic brushes G03G 21/0047)}
+   21/0041  . . {using a band; Details of cleaning bands, e.g.
+   21/0047  . . {using electrostatic or magnetic means; Details
+thereof, e.g. magnetic pole arrangement
+of magnetic devices (G03G 21/0064 takes
+   21/0052  . . {using an air flow; Details thereof, e.g. nozzle
+   21/0058  . . {using a roller or a polygonal rotating cleaning
+member; Details thereof, e.g. surface structure
+(G03G 21/0064 takes precedence)}
+   21/0064  . . {using the developing unit, e.g. cleanerless or
+   21/007   . . {Arrangement or disposition of parts of the
+   21/0076  . . . {Plural or sequential cleaning devices}
+   21/0082  . . . . {Separate cleaning member for toner and
+   21/0088  . {removing liquid developer}
+   21/0094  . {fatigue treatment of the photoconductor}
+   21/02    . Counting the number of copies; Billing
+   21/04    . Preventing copies being made of an original
+   21/043   . . {by using an original which is not reproducible
+or only reproducible with a different appearence,
+e.g. originals with a photochromic layer or a
+   21/046   . . {by discriminating a special original, e.g. a bank
+   21/06    . Eliminating residual charges from a reusable
+   21/08    . . using optical radiation
+   21/10    . Collecting or recycling waste developer
+   21/105   . . {Arrangements for conveying toner waste}
+   21/12    . . Toner waste containers
+   21/14    . Electronic sequencing control
+   21/145   . . {wherein control pulses are generated by the
+mechanical movement of parts of the machine,
+   21/16    . Mechanical means for facilitating the maintenance
+of the apparatus, e.g. modular arrangements
+   21/1604  . . {Arrangement or disposition of the entire
+   21/1609  . . . {for space saving, e.g. structural arrangements}
+   21/1614  . . . {Measures for handling of apparatus by
+   21/1619  . . . {Frame structures}
+   21/1623  . . . {Means to access the interior of the apparatus}
+   21/1628  . . . . {Clamshell type (G03G 21/1638 takes
+   21/1633  . . . . {using doors or covers (G03G 21/1638 takes
+   21/1638  . . . . {directed to paper handling or jam
+   21/1642  . . {for connecting the different parts of the
+   21/1647  . . . {Mechanical connection means}
+   21/1652  . . . {Electrical connection means}
+   21/1657  . . . {Wireless connection means, e.g. RFID}
+   21/1661  . . {means for handling parts of the apparatus in the
+apparatus (G03G 21/1604, G03G 21/1642 take
+   21/1666  . . . {for the exposure unit}
+   21/1671  . . . {for the photosensitive element}
+   21/1676  . . . {for the developer unit}
+   21/168   . . . {for the transfer unit}
+   21/1685  . . . {for the fixing unit}
+   21/169   . . . {for the cleaning unit}
+   21/1695  . . . {for paper transport}
+   21/18    . . using a processing cartridge {, whereby the
+process cartridge comprises at least two image
+processing means in a single unit}
+   21/1803  . . . {Arrangements or disposition of the complete
+process cartridge or parts thereof}
+   21/181   . . . . {Manufacturing or assembling, recycling,
+reuse, transportation, packaging or storage}
+   21/1814  . . . . {Details of parts of process cartridge, e.g.
+for charging, transfer, cleaning, developing
+(G03G 21/1835 takes precedence)}
+   21/1817  . . . . {having a submodular arrangement}
+   21/1821  . . . . . {means for connecting the different
+parts of the process cartridge, e.g.
+attachment, positioning of parts with
+each other, pressure/distance regulation
+(G03G 21/1825 takes precedence)}
+   21/1825  . . . . . {Pivotable subunit connection}
+   21/1828  . . . . {Prevention of damage or soiling, e.g.
+mechanical abrasion (G03G 21/1839 takes
+   21/1832  . . . . . {Shielding members, shutter, e.g. light,
+heat shielding, prevention of toner
+   21/1835  . . . . {the process cartridge not comprising a
+   21/1839  . . . {Means for handling the process cartridge in
+   21/1842  . . . . {for guiding and mounting the process
+cartridge, positioning, alignment, locks
+(G03G 21/1864 and G03G 21/1871 take
+   21/1846  . . . . . {using a handle for carrying or pulling out
+of the main machine, legs of casings}
+   21/185   . . . . . {the process cartridge being mounted
+parallel to the axis of the photosensitive
+   21/1853  . . . . . {the process cartridge being mounted
+perpendicular to the axis of the
+   21/1857  . . . . {for transmitting mechanical drive power
+to the process cartridge, drive mechanisms,
+gears, couplings, braking mechanisms}
+   21/186   . . . . . {Axial couplings}
+   21/1864  . . . . . {associated with a positioning function}
+   21/1867  . . . . {for electrically connecting the process
+cartridge to the apparatus, electrical
+   21/1871  . . . . . {associated with a positioning function}
+   21/1875  . . . {provided with identifying means or means for
+storing process- or use parameters, e.g. lifetime
+   21/1878  . . . . {Electronically readable memory}
+   21/1882  . . . . . {details of the communication with
+memory, e.g. wireless communication,
+   21/1885  . . . . . . {position of the memory; memory
+   21/1889  . . . . . {for auto-setting of process parameters,
+   21/1892  . . . . . {for presence detection, authentication}
+   21/1896  . . . . {mechanical or optical identification means,
+   21/20    . Humidity or temperature control {also ozone
+evacuation; Internal apparatus environment control}
+   21/206   . . {Conducting air through the machine, e.g. for
+cooling, filtering, removing gases like ozone}
+ 2215/00    Apparatus for electrophotographic processes
+ 2215/00004 . Handling of entire apparatus
+ 2215/00008 . . Upright positioning for maintenance or storage
+ 2215/00012 . . Upright positioning as well as horizontal
+ 2215/00016 . Special arrangement of entire apparatus
+ 2215/00021 . . Plural substantially independent image forming
+units in cooperation, e.g. for duplex, colour or
+ 2215/00025 . Machine control, e.g. regulating different parts of
+ 2215/00029 . . Image density detection
+ 2215/00033 . . . on recording member
+ 2215/00037 . . . . Toner image detection
+ 2215/00042 . . . . . Optical detection
+ 2215/00046 . . . . . Magnetical detection
+ 2215/0005  . . . . . without production of a specific test patch
+ 2215/00054 . . . . Electrostatic image detection
+ 2215/00059 . . . on intermediate image carrying member, e.g.
+ 2215/00067 . . . on recording medium
+ 2215/00071 . . by measuring the photoconductor or its
+ 2215/00075 . . . the characteristic being its speed
+ 2215/0008  . . . . for continuous control of recording starting
+ 2215/00084 . . . the characteristic being the temperature
+ 2215/00088 . . by using information from an external support
+ 2215/00092 . . . the support being an IC card
+ 2215/00097 . . . the support being a counter
+ 2215/00101 . . . the support being a magnetic card
+ 2215/00105 . . . the support being a payment means, e.g. a coin
+ 2215/00109 . . Remote control of apparatus, e.g. by a host
+ 2215/00113 . . . Plurality of apparatus configured in groups
+ 2215/00118 . . using fuzzy logic
+ 2215/00122 . . using speech synthesis or voice recognition
+ 2215/00126 . . Multi-job machines
+ 2215/0013  . . for producing copies with MICR
+ 2215/00135 . Handling of parts of the apparatus
+ 2215/00143 . . . Meandering prevention
+ 2215/00147 . . . . using tractor sprocket holes
+ 2215/00151 . . . . using edge limitations
+ 2215/00156 . . . . by controlling drive mechanism
+ 2215/0016  . . . . by mark detection, e.g. optical
+ 2215/00164 . . . . by electronic scan control
+ 2215/00168 . . . . by friction
+ 2215/00172 . relative to the original handling
+ 2215/00181 . . . concerning the original's state of motion
+ 2215/00185 . . . . original at rest
+ 2215/00189 . . . . original moving
+ 2215/00194 . . . . original either moving or at rest
+ 2215/00198 . . . . . where one single scanning surface is used
+ 2215/00202 . . . . . where separate scanning surfaces are used
+ 2215/00206 . . Original medium
+ 2215/0021  . . . Plural types handled
+ 2215/00215 . . . . Mixed types handled
+ 2215/00223 . . . . Continuous web, i.e. roll
+ 2215/00227 . . . . . Fan fold, e.g. CFF, normally perforated
+ 2215/00232 . . . . Non-standard format
+ 2215/00236 . . . . . Large sized, e.g. technical plans
+ 2215/0024  . . . . . Small sized, e.g. postcards
+ 2215/00244 . . . . Non-standard property
+ 2215/00265 . . . . Overhead Transparency, i.e. OHP
+ 2215/0027  . . . . Transparent film roll
+ 2215/00286 . . . With punch holes or other non-image related
+ 2215/00291 . . . Fragile, e.g. old documents
+ 2215/00295 . . . Valuable, e.g. cheques, passport
+ 2215/00299 . . . Confidential, e.g. secret documents
+ 2215/00303 . . . Control sheet
+ 2215/00308 . . . Object for which a graphic image is not of
+ 2215/00312 . . . Other special types
+ 2215/00316 . . . Electronic image supplied to the apparatus
+ 2215/0032  . . Original binding
+ 2215/00324 . . Document property detectors
+ 2215/00329 . . . Document size detectors
+ 2215/00333 . . . . detecting feeding of documents
+ 2215/00337 . . Document set detector
+ 2215/00341 . . Jam handling in document feeder
+ 2215/00345 . . . Copying machine problems
+ 2215/0035  . . . Document related problems, e.g. double-fed
+ 2215/00354 . . Specific document handling machines
+ 2215/00358 . . . Plural feed trays for document sets, e.g. multi-
+ 2215/00362 . relating to the copy medium handling
+ 2215/00367 . . The feeding path segment where particular
+handling of the copy medium occurs, segments
+being adjacent and non-overlapping. Each
+segment is identified by the most downstream
+point in the segment, so that for instance the
+segment labelled "Fixing device" is referring to
+the path between the "Transfer device" and the
+ 2215/00371 . . . General use over the entire feeding path
+ 2215/00375 . . . Package, e.g. a ream
+ 2215/00379 . . . Copy medium holder
+ 2215/00388 . . . . . rotatable
+ 2215/00392 . . . . Manual input tray
+ 2215/00396 . . . Pick-up device
+ 2215/004   . . . Separation device
+ 2215/00405 . . . Registration device
+ 2215/00409 . . . Transfer device
+ 2215/00413 . . . Fixing device
+ 2215/00417 . . . Post-fixing device
+ 2215/00421 . . . . Discharging tray, e.g. devices stabilising
+the quality of the copy medium, postfixing-
+ 2215/00426 . . . . Post-treatment device adding qualities to the
+copy medium product (G03G 2215/00421
+ 2215/0043  . . . . Refeeding path (G03G 2215/00421 takes
+ 2215/00434 . . . . . Refeeding tray or cassette
+ 2215/00438 . . . . . Inverter of refeeding path
+ 2215/00447 . . . Plural types handled
+ 2215/00455 . . . . Continuous web, i.e. roll
+ 2215/00459 . . . . . Fan fold, e.g. CFF, normally perforated
+ 2215/00464 . . . . Non-standard format
+ 2215/00468 . . . . . Large sized, e.g. technical plans
+ 2215/00472 . . . . . Small sized, e.g. postcards
+ 2215/00476 . . . . Non-standard property
+ 2215/00497 . . . . Overhead Transparency, i.e. OHP
+ 2215/00502 . . . . Transparent film
+ 2215/00518 . . . Recording medium, e.g. photosensitive
+ 2215/00523 . . . Other special types, e.g. tabbed
+ 2215/00527 . . . . Fabrics, e.g. textiles
+ 2215/00531 . . . transported through the apparatus for non-
+imaging purposes, e.g. cleaning
+ 2215/00535 . . Stable handling of copy medium
+ 2215/0054  . . . Detachable element of feed path
+ 2215/00544 . . . Openable part of feed path
+ 2215/00548 . . . Jam, error detection, e.g. double feeding
+ 2215/00552 . . . . Purge of recording medium at jam
+ 2215/00556 . . . Control of copy medium feeding
+ 2215/00561 . . . . Aligning or deskewing
+ 2215/00565 . . . . . Mechanical details
+ 2215/00569 . . . . Calibration, test runs, test prints
+ 2215/00573 . . . . Recording medium stripping from image
+ 2215/00578 . . . . Composite print mode
+ 2215/00582 . . . . . Plural adjacent images on one side
+ 2215/00586 . . . . duplex mode
+ 2215/0059  . . . . Effect of changed recording medium size,
+ 2215/00594 . . . . Varying registration in order to produce
+special effect, e.g. binding margin
+ 2215/00599 . . . . Timing, synchronisation
+ 2215/00603 . . . Control of other part of the apparatus according
+to the state of copy medium feeding
+ 2215/00607 . . . Debris handling means
+ 2215/00611 . . . Detector details, e.g. optical detector
+ 2215/00616 . . . . Optical detector
+ 2215/0062  . . . . . infra-red
+ 2215/00624 . . . . Magnetic detector or switch, e.g. reed switch
+ 2215/00628 . . . . Mechanical detector or switch
+ 2215/00632 . . . . Electric detector, e.g. of voltage or current
+ 2215/00637 . . . . Acoustic detector
+ 2215/00641 . . . . Pneumatic detector
+ 2215/00645 . . . . Speedometer
+ 2215/00649 . . . Electrodes close to the copy feeding path
+ 2215/00654 . . . Charging device
+ 2215/00658 . . . Brush (G03G 2215/00654 takes precedence)
+ 2215/00662 . . . Decurling device
+ 2215/00666 . . . Heating or drying device
+ 2215/0067  . . . Damping device
+ 2215/00675 . . . Mechanical copy medium guiding means, e.g.
+ 2215/00679 . . . Conveying means details, e.g. roller
+ 2215/00683 . . . . Chemical properties
+ 2215/00687 . . . Handling details
+ 2215/00696 . . . . Turner acting in plane of recording medium,
+ 2215/007   . . . . Inverter not for refeeding purposes
+ 2215/00704 . . . . Curl adding, bending
+ 2215/00708 . . . . Cleaning of sheet or feeding structures
+ 2215/00713 . . . . Lock related to feeding device
+ 2215/00717 . . . Detection of physical properties
+ 2215/00721 . . . . of sheet position
+ 2215/00725 . . . . of sheet presence in input tray
+ 2215/00729 . . . . of sheet amount in input tray
+ 2215/00734 . . . . of sheet size
+ 2215/00738 . . . . of sheet thickness or rigidity
+ 2215/00742 . . . . of sheet weight
+ 2215/00746 . . . . of sheet velocity
+ 2215/00751 . . . . of sheet type, e.g. OHP
+ 2215/00755 . . . . of sheet toner density
+ 2215/00759 . . . . of sheet image, e.g. presence, type
+ 2215/00763 . . . . of sheet resistivity
+ 2215/00767 . . . . of sheet potential
+ 2215/00772 . . . . of temperature influencing copy sheet
+ 2215/00776 . . . . of humidity or moisture influencing copy
+ 2215/0078  . . . . of opening of structural part
+ 2215/00784 . . . . of connection or pressing of structural part
+ 2215/00789 . . Adding properties or qualities to the copy
+ 2215/00793 . . . Stamping device
+ 2215/00797 . . . Printing device, i.e. annotation
+ 2215/00801 . . . Coating device
+ 2215/00805 . . . Gloss adding or lowering device
+ 2215/0081  . . . . Gloss level being selectable
+ 2215/00822 . . . Binder, e.g. glueing device
+ 2215/00835 . . . . Toner binding
+ 2215/00839 . . . . Binding tape
+ 2215/00848 . . . . Details of binding device
+ 2215/00852 . . . . Temporary binding
+ 2215/00856 . . . . External binding device
+ 2215/0086  . . . . Manual activation of binding
+ 2215/00864 . . . . Plural selectable binding modes
+ 2215/00869 . . . Cover sheet adding means
+ 2215/00873 . . . Tape adding means
+ 2215/00877 . . . Folding device
+ 2215/00881 . . . Magnetic information
+ 2215/00886 . . Sorting or discharging
+ 2215/0089  . . . Shifting jobs
+ 2215/00894 . . . Placing job divider sheet
+ 2215/00898 . . . Mechanical separator between jobs
+ 2215/00902 . . . Sorting marks of jobs, e.g. on the sheet edges
+ 2215/00907 . . . Electronically addressable mailing bins
+ 2215/00911 . . . Detection of copy amount or presence in
+ 2215/00915 . . . . Detection of weight of copies
+ 2215/00919 . . Special copy medium handling apparatus
+ 2215/00924 . . . two or more parallel feed paths
+ 2215/00928 . . . Copies and originals use a common part of the
+ 2215/00932 . . . Security copies
+ 2215/0094  . . . Copy produced and used as original
+ 2215/00945 . . . Copy material feeding speed varied over the
+ 2215/00949 . . . Copy material feeding speed switched
+according to current mode of the apparatus, e.g.
+ 2215/00953 . Electrographic recording members
+ 2215/00962 . . Electrographic apparatus defined by the
+electrographic recording member
+ 2215/00966 . . . Sheet type electrographic recording members
+from which a toner or charge image is
+ 2215/0097  . . . . Sheet cartridge or tray
+ 2215/00974 . . . Electrographic recording member arranged
+as a carriage to be movable in a direction
+perpendicular to the recording sheet transport
+ 2215/00978 . Details relating to power supplies
+ 2215/00983 . . using batteries
+ 2215/00987 . Remanufacturing, i.e. reusing or recycling parts of
+ 2215/00991 . . Inserting seal through a gap
+ 2215/00995 . . . Insertion tool used
+ 2215/01    . for producing multicoloured copies
+ 2215/0103  . . Plural electrographic recording members
+ 2215/0106  . . . At least one recording member having plural
+ 2215/0109  . . . Single transfer point used by plural recording
+ 2215/0112  . . . . Linearly moving set of recording members
+ 2215/0116  . . . . Rotating set of recording members
+ 2215/0119  . . . Linear arrangement adjacent plural transfer
+ 2215/0122  . . . . primary transfer to an intermediate transfer
+ 2215/0125  . . . . . the linear arrangement being horizontal or
+ 2215/0129  . . . . . . horizontal medium transport path at the
+ 2215/0132  . . . . . . vertical medium transport path at the
+ 2215/0135  . . . . . the linear arrangement being vertical
+ 2215/0138  . . . . primary transfer to a recording medium
+ 2215/0141  . . . . . the linear arrangement being horizontal
+ 2215/0145  . . . . . the linear arrangement being vertical
+ 2215/0148  . . . . . the linear arrangement being slanted
+ 2215/0151  . . characterised by the technical problem
+ 2215/0154  . . . Vibrations and positional disturbances when
+one member abuts or contacts another member
+ 2215/0158  . . . Colour registration
+ 2215/0161  . . . . Generation of registration marks
+ 2215/0164  . . . Uniformity control of the toner density at
+ 2215/0167  . . single electrographic recording member
+ 2215/017   . . . single rotation of recording member to produce
+ 2215/0174  . . . plural rotations of recording member to
+ 2215/0177  . . . . Rotating set of developing units
+ 2215/018   . . . . Linearly moving set of developing units, one
+at a time adjacent the recording member
+ 2215/0183  . . . . Reciprocal movement of transfer member
+ 2215/0187  . . . Multicoloured toner image formed on the
+ 2215/019   . . Structural features of the multicolour image
+ 2215/0193  . . . transfer member separable from recording
+ 2215/0196  . . . Recording medium carrying member with
+ 2215/02    . Arrangements for laying down a uniform charge
+ 2215/021   . . by contact, friction or induction
+ 2215/022   . . . using a magnetic brush
+ 2215/023   . . . using a laterally vibrating brush
+ 2215/025   . . . using contact charging means having lateral
+dimensions related to other apparatus means,
+e.g. photodrum, developing roller
+ 2215/028   . . . using pointed electrodes
+ 2215/04    . Arrangements for exposing and producing an image
+ 2215/0402  . . Exposure devices
+ 2215/0407  . . . Light-emitting array or panel
+ 2215/0409  . . . . Light-emitting diodes, i.e. LED-array
+ 2215/0412  . . . . Electroluminescent elements, i.e. EL-array
+ 2215/0414  . . . . Liquid-crystal display elements, i.e. LCD-
+ 2215/0417  . . . Standard lamp used to produce a reflection or
+transmission image of an original
+ 2215/0419  . . . Device not using light, e.g. ion-writer
+ 2215/0421  . . . Plurality of devices for producing the image
+(excluding dedicated erasing means)
+ 2215/0424  . . . Using contents of CCD array to produce the
+ 2215/0426  . . Editing of the image, e.g. adding or deleting
+(correction, i.e. changing or enhancing the image
+ 2215/0429  . . Changing or enhancing the image
+ 2215/0431  . . . Producing a clean non-image area, i.e. avoiding
+ 2215/0434  . . . . Parameters defining the non-image area to be
+ 2215/0436  . . . . . Document properties at the scanning
+position, e.g. position and density
+ 2215/0439  . . . . . . Automatic detection of properties
+ 2215/0441  . . . . . . Manual input of properties
+ 2215/0443  . . . . . Copy medium outline relative to the
+ 2215/0446  . . . . . Magnification degree
+ 2215/0448  . . . . Charge-erasing means for the non-image area
+ 2215/0451  . . . . . Light-emitting array or panel
+ 2215/0453  . . . . . . Light-emitting diodes, i.e. LED-array
+ 2215/0456  . . . . . . Electroluminescent elements, i.e. EL-
+ 2215/0458  . . . . . . Liquid-crystal display elements, i.e.
+ 2215/0463  . . . . . Exposure lamp used for scanning
+ 2215/0465  . . . . Developing conditions changed to produce a
+ 2215/0468  . . . Image area information changed (default is the
+ 2215/047   . . . . Image corrections
+ 2215/0473  . . . . . due to document imperfections, e.g.
+ 2215/0475  . . . . . due to cover imperfection, i.e. show-
+ 2215/0478  . . . . . due to image carrier variations, e.g. ageing
+ 2215/048   . . . . Technical-purpose-oriented image area
+ 2215/0482  . . . . . Toner-free areas produced
+ 2215/0485  . . . . . . Avoiding problems in standard
+processing steps, such as transfer and
+ 2215/0487  . . . . . . Adapted to post-processing step, e.g.
+ 2215/049   . . . . . Hiding of information contained in the
+ 2215/0492  . . . . Without changing the charge image
+ 2215/0495  . . Plural charge levels of latent image produced, e.g.
+ 2215/0497  . . Exposure from behind the image carrying surface
+ 2215/06    . Developing structures, details
+ 2215/0607  . . . . two-component
+ 2215/0609  . . . . . magnetic brush
+ 2215/0614  . . . . one-component
+ 2215/0617  . . . . . contact development (i.e. the developer
+layer on the donor member contacts the
+ 2215/0619  . . . . . non-contact (flying development)
+ 2215/0621  . . . . . powder cloud
+ 2215/0624  . . . . plural systems represented (e.g. in a
+multicolour device or for optimising photo
+ 2215/0626  . . . liquid type (at developing position)
+ 2215/0629  . . . . liquid at room temperature
+ 2215/0631  . . . . melted, or otherwise made liquid
+ 2215/0634  . . Developing device
+ 2215/0636  . . . Specific type of dry developer device
+ 2215/0639  . . . . Without donor member (i.e. developing
+housing slides on latent image-carrying
+ 2215/0641  . . . . Without separate supplying member (i.e.
+with developing housing sliding on donor
+ 2215/0643  . . . . Electrodes in developing area, e.g. wires, not
+belonging to the main donor part
+ 2215/0646  . . . . . Electrodes only acting from one side of the
+developing area, e.g. plate electrode
+ 2215/0648  . . . . Two or more donor members
+ 2215/0651  . . . . Electrodes in donor member surface
+ 2215/0653  . . . . . Microelectrodes in donor member surface,
+ 2215/0656  . . . . Fixed electrodes behind moving donor
+ 2215/0658  . . . Liquid developer devices
+ 2215/066   . . Toner cartridge or other attachable and detachable
+container for supplying developer material to
+ 2215/0663  . . . having a longitudinal rotational axis, around
+which at least one part is rotated when
+mounting or using the cartridge
+ 2215/0665  . . . . Generally horizontally mounting of said
+toner cartridge parallel to its longitudinal
+ 2215/0668  . . . . . Toner discharging opening at one axial
+ 2215/067   . . . . . Toner discharging opening covered by
+ 2215/0673  . . . . Generally vertically mounting of said toner
+cartridge parallel to its longitudinal rotational
+ 2215/0675  . . . . Generally cylindrical container shape having
+ 2215/0678  . . . . Bottle shaped container having a bottle neck
+ 2215/068   . . . having a box like shape
+ 2215/0682  . . . Bag-type non-rigid container
+ 2215/0685  . . . fulfilling a continuous function within the
+electrographic apparatus during the use of
+the supplied developer material, e.g. toner
+discharge on demand, storing residual toner,
+not acting as a passive closure for the developer
+ 2215/0687  . . . using a peelable sealing film
+ 2215/069   . . . using a sealing member to be ruptured or cut
+ 2215/0692  . . . using a slidable sealing member, e.g. shutter
+ 2215/0695  . . . using identification means or means for storing
+ 2215/0697  . . . . being an electronically readable memory
+ 2215/08    . Details of powder developing device not concerning
+ 2215/0802  . . Arrangements for agitating or circulating
+ 2215/0805  . . . Cleaning blade adjacent to the donor member
+ 2215/0808  . . . Donor member rotation direction
+ 2215/0811  . . . . Upper part of donor member transports used
+ 2215/0813  . . . . Lower part of donor member transports used
+ 2215/0816  . . . Agitator type
+ 2215/0819  . . . . two or more agitators
+ 2215/0822  . . . . . with wall or blade between agitators
+ 2215/083   . . . . . with two opposed pitches on one shaft
+ 2215/0833  . . . . . with varying pitch on one shaft
+ 2215/0836  . . . Way of functioning of agitator means
+ 2215/0838  . . . . Circulation of developer in a closed loop
+within the sump of the developing device
+ 2215/0841  . . . . Presentation of developer to donor member
+ 2215/0844  . . . . . by upward movement of agitator member
+ 2215/0847  . . . . . by downward movement of agitator
+ 2215/085   . . . Stirring member in developer container
+ 2215/0852  . . . . reciprocating
+ 2215/0855  . . Materials and manufacturing of the developing
+ 2215/0861  . . . . Particular composition or materials
+ 2215/0863  . . . . Manufacturing
+ 2215/0866  . . . Metering member
+ 2215/0869  . . . Supplying member
+ 2215/0872  . . . Housing of developing device
+ 2215/0875  . . Arrangements for shipping or transporting of the
+developing device to or from the user
+ 2215/0877  . . . Sealing of the developing device opening,
+facing the image-carrying member
+ 2215/088   . . . . Peelable sealing film
+ 2215/0883  . . . . Rupturable sealing film, e.g. tearable film
+ 2215/0886  . . . Container for holding the whole developing
+device when outside the machine, e.g. box,
+ 2215/0888  . . Arrangements for detecting toner level or
+concentration in the developing device
+ 2215/0891  . . . Optical detection
+ 2215/0894  . . . . through a light transmissive window in the
+ 2215/0897  . . . . . Cleaning of the light transmissive window
+ 2215/16    . Transferring device, details
+ 2215/1604  . . Main transfer electrode
+ 2215/1614  . . . Transfer roll
+ 2215/1619  . . . Transfer drum
+ 2215/1623  . . . Transfer belt
+ 2215/1647  . . Cleaning of transfer member
+ 2215/1652  . . . of transfer roll
+ 2215/1657  . . . of transfer drum
+ 2215/1661  . . . of transfer belt
+ 2215/1666  . . Preconditioning of copy medium before the
+ 2215/1671  . . . Preheating the copy medium before the transfer
+ 2215/1676  . . Simultaneous toner image transfer and fixing
+ 2215/168   . . . at the first transfer point
+ 2215/169   . . . . without heat
+ 2215/1695  . . . at the second or higher order transfer point
+ 2215/20    . Details of the fixing device or porcess
+ 2215/2003  . . Structural features of the fixing device
+ 2215/2006  . . . Plurality of separate fixing areas
+ 2215/2009  . . . Pressure belt
+ 2215/2012  . . . . having an end
+ 2215/2019  . . . . the belt not heating the toner or medium
+directly, e.g. heating a heating roller
+ 2215/2022  . . . . the fixing nip having both a stationary and
+a rotating belt support member opposing a
+ 2215/2025  . . . . the fixing nip having a rotating belt support
+member opposing a pressure member
+ 2215/2029  . . . . . the belt further entrained around one or
+more stationary belt support members, the
+latter not being a cooling device
+ 2215/2032  . . . . . the belt further entrained around additional
+ 2215/2035  . . . . the fixing nip having a stationary belt support
+member opposing a pressure member
+ 2215/2038  . . . . . the belt further entrained around one or
+more rotating belt support members
+ 2215/2041  . . . . the fixing nip being formed by tensioning
+the belt over a surface portion of a pressure
+ 2215/2045  . . . Variable fixing speed
+ 2215/2048  . . . Surface layer material
+ 2215/2051  . . . . Silicone rubber
+ 2215/2054  . . . . Inorganic filler, e.g. silica powder
+ 2215/2058  . . . Shape of roller along rotational axis
+ 2215/2067  . . . . Shape of roller core
+ 2215/207   . . Type of toner image to be fixed 
+ 2215/2077  . . . . Fixing between separate colour toner
+ 2215/208   . . . black and white
+ 2215/209   . . . plural types of toner image handled by the
+ 2215/2093  . . Release agent handling devices
+ 2215/2096  . . . using porous fluoropolymers for wicking the
+ 2217/00    Details of electrographic processes using patterns
+ 2217/0008  . Process where toner image is produced by
+controlling which part of the toner should move to
+ 2217/0016  . . where the toner is conveyed over the electrode
+array to get a charging and then being moved
+ 2217/0025  . . where the toner starts moving from behind the
+electrode array, e.g. a mask of holes
+ 2217/0033  . . where the toner is held behind a gate electrode
+ 2217/0041  . Process where the image-carrying member is always
+completely covered by a toner layer
+ 2217/005   . . where the toner is charged before producing the
+toner layer on the image-carrying member
+ 2217/0058  . . where the toner layer is being charged
+ 2217/0066  . . where no specific pick-up of toner occurs before
+ 2217/0075  . Process using an image-carrying member having an
+ 2217/0083  . Process using a fixed electrode array behind a
+ 2217/0091  . Process comprising image exposure at the
+ 2221/00    Processes not provided for by group
+G03G 2215/00, e.g. cleaning or residual charge
+ 2221/0005  . Cleaning of residual toner
+ 2221/001   . . Plural sequential cleaning devices
+ 2221/0015  . . Width of cleaning device related to other parts of
+the apparatus, e.g. transfer belt width
+ 2221/0021  . . applying vibrations to the electrographic
+recording medium for assisting the cleaning, e.g.
+ 2221/0026  . Cleaning of foreign matter, e.g. paper powder, from
+ 2221/0031  . . Type of foreign matter
+ 2221/0036  . . . Oil and other liquid matter
+ 2221/0042  . . . Paper powder and other dry foreign matter
+ 2221/0047  . . Type of cleaning device
+ 2221/0052  . . . Common container for holding cleaned foreign
+ 2221/0057  . . . . Separate cleaning members for foreign
+ 2221/0063  . . . Cleaning device for foreign matter separate
+from residual toner cleaning device
+ 2221/0068  . . Cleaning mechanism
+ 2221/0073  . . . Electrostatic
+ 2221/16    . Mechanical means for facilitating the maintenance
+of the apparatus, e.g. modular arrangements and
+ 2221/1603  . . for multicoloured copies
+ 2221/1606  . . for the photosensitive element
+ 2221/1609  . . . protective arrangements for preventing damage
+ 2221/1612  . . . . plural shutters for openings of process
+ 2221/1618  . . for the cleaning unit
+ 2221/1621  . . . re-use of cleaned toner
+ 2221/1624  . . . transporting cleaned toner into separate vessels,
+e.g. photoreceptors, external containers
+ 2221/1627  . . . Details concerning the cleaning process
+ 2221/163   . . for the developer unit
+ 2221/1633  . . . Details concerning the developing process
+ 2221/1636  . . for the exposure unit
+ 2221/1639  . . for the fixing unit
+ 2221/1642  . . for the transfer unit
+ 2221/1645  . . for conducting air through the machine, e.g.
+ 2221/1648  . . using seals, e.g. to prevent scattering of
+toner (light shields for the photoreceptor
+ 2221/1651  . . for connecting the different parts
+ 2221/1654  . . . Locks and means for positioning or alignment
+ 2221/1657  . . . transmitting mechanical drive power
+ 2221/166   . . . Electrical connectors
+ 2221/1663  . . having lifetime indicators
+ 2221/1666  . . . integer lifetimes of each other
+ 2221/1669  . . Details about used materials
+ 2221/1675  . . . jam treatment
+ 2221/1678  . . Frame structures
+ 2221/1681  . . . Portable machines
+ 2221/1684  . . . using extractable subframes, e.g. on rails or
+ 2221/1687  . . . using opening shell type machines, e.g.
+ 2221/169   . . . Structural door designs
+ 2221/1696  . . for auxiliary devices, e.g. add-on modules
+ 2221/18    . . Cartridge systems
+ 2221/1807  . . . Transport of supply parts, e.g. process
+ 2221/1815  . . . for cleaning or developing but not being a
+ 2221/1823  . . . Cartridges having electronically readable
+ 2221/183   . . . Process cartridge
+ 2221/1838  . . . . Autosetting of process parameters
+ 2221/1846  . . . . using a handle for carrying or pulling out of
+ 2221/1853  . . . . having a submodular arrangement
+ 2221/1861  . . . . . Rotational subunit connection
+ 2221/1869  . . . . . Cartridge holders, e.g. intermediate frames
+for placing cartridge parts therein
+ 2221/1876  . . . . . for production purposes, e.g. manufacture
+ 2221/1884  . . . . Projections on process cartridge for guiding
+mounting thereof in main machine
+ 2221/1892  . . . . Presence detection

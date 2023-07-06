@@ -1,0 +1,897 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+REFRIGERATION OR COOLING; COMBINED HEATING AND REFRIGERATION
+SYSTEMS; HEAT PUMP SYSTEMS; MANUFACTURE OR STORAGE OF ICE;
+LIQUEFACTION SOLIDIFICATION OF GASES
+LIQUEFACTION, SOLIDIFICATION OR SEPARATION OF GASES OR GASEOUS
+{OR LIQUEFIED GASEOUS} MIXTURES BY PRESSURE AND COLD TREATMENT
+{OR BY BRINGING THEM INTO THE SUPERCRITICAL STATE (cryogenic pumps
+F04B 37/08; gas storage vessels, gas holders F17; filing vessels with, or discharging from
+vessels, compressed, liquefied or solidified gases F17C; refrigeration machines, plants, or
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Processes or apparatus for liquefying or solidifying
+gases or gaseous mixtures {(recovering volatile
+solvents by condensation B01D 5/00; vapor recovery
+systems combined with filling nozzles B67D 7/54;
+solidification of carbonic acid C01B 32/55; for
+    1/0002  . {characterised by the fluid to be liquefied}
+    1/0005  . . {Light or noble gases (F25J 1/0012 takes
+    1/0012  . . {Primary atmospheric gases, e.g. air}
+    1/0022  . . {Hydrocarbons, e.g. natural gas}
+    1/0025  . . . {Boil-off gases "BOG" from storages}
+    1/0027  . . {Oxides of carbon, e.g. CO2}
+    1/003   . {characterised by the kind of cold generation within
+the liquefaction unit for compensating heat leaks
+    1/0032  . . {using the feed stream itself or separated fractions
+from it, i.e. "internal refrigeration"}
+    1/0035  . . . {by gas expansion with extraction of work}
+    1/0037  . . . . {of a return stream}
+    1/004   . . . {by flash gas recovery (F25J 1/0267 takes
+    1/0042  . . . {by liquid expansion with extraction of work}
+    1/0045  . . . {by vaporising a liquid return stream}
+    1/0047  . . {using an "external" refrigerant stream in a
+closed vapor compression cycle (F25J 1/0221,
+    1/005   . . . {by expansion of a gaseous refrigerant stream
+    1/0052  . . . {by vaporising a liquid refrigerant stream}
+    1/0055  . . . . {originating from an incorporated cascade}
+    1/0057  . . . . {after expansion of the liquid refrigerant
+stream with extraction of work}
+    1/006   . {characterised by the refrigerant fluid used
+(refrigerants in vapor compression cycles
+F25B 9/002, refrigerant materials per se
+    1/0062  . . {Light or noble gases, mixtures thereof
+    1/007   . . {Primary atmospheric gases, mixtures thereof}
+    1/0085  . . . {Ethane; Ethylene}
+    1/0087  . . . {Propane; Propylene}
+    1/009   . . . {Hydrocarbons with four or more carbon
+    1/0092  . . . {Mixtures of hydrocarbons comprising possibly
+also minor amounts of nitrogen}
+    1/0095  . . {Oxides of carbon, e.g. CO2}
+    1/0097  . . {Others, e.g. F-, Cl-, HF-, HClF-, HCl-
+hydrocarbons etc. or mixtures thereof}
+    1/02    . requiring the use of refrigeration, e.g. of helium
+or hydrogen {Details and kind of the refrigeration
+system used; Integration with other units or
+processes; Controlling aspects of the process}
+    1/0201  . . {using only internal refrigeration means, i.e.
+without external refrigeration}
+    1/0202  . . . {in a quasi-closed internal refrigeration loop
+(F25J 1/0208, F25J 1/0219, F25J 1/0224 take
+    1/0203  . . {using a single-component refrigerant [SCR]
+fluid in a closed vapor compression cycle
+(F25J 1/0211 takes precedence)}
+    1/0204  . . . {as a single flow SCR cycle}
+    1/0205  . . . {as a dual level SCR refrigeration cascade}
+    1/0207  . . . {as at least a three level SCR refrigeration
+    1/0208  . . . {in combination with an internal quasi-closed
+refrigeration loop, e.g. with deep flash recycle
+loop (F25J 1/021 takes precedence)}
+    1/0209  . . . . {as at least a three level refrigeration
+    1/021   . . . . . {using a deep flash recycle loop}
+    1/0211  . . {using a multi-component refrigerant [MCR]
+fluid in a closed vapor compression cycle}
+    1/0212  . . . {as a single flow MCR cycle}
+    1/0214  . . . {as a dual level refrigeration cascade with at
+    1/0215  . . . . {with one SCR cycle}
+    1/0216  . . . . . {using a C3 pre-cooling cycle}
+    1/0217  . . . {as at least a three level refrigeration cascade
+    1/0218  . . . . {with one or more SCR cycles, e.g. with a
+    1/0219  . . . {in combination with an internal quasi-closed
+refrigeration loop, e.g. using a deep flash
+    1/0221  . . {using the cold stored in an external cryogenic
+component in an open refrigeration loop}
+    1/0222  . . . {in combination with an intermediate heat
+exchange fluid between the cryogenic
+component and the fluid to be liquefied
+(F25J 1/0224 takes precedence)}
+    1/0223  . . . {in combination with the subsequent re-
+vaporisation of the originally liquefied gas
+at a second location to produce the external
+    1/0224  . . . {in combination with an internal quasi-closed
+refrigeration loop (F25J 1/0208, F25J 1/0219
+    1/0225  . . {using other external refrigeration means not
+provided before, e.g. heat driven absorption
+    1/0227  . . . {within a refrigeration cascade}
+    1/0228  . . {Coupling of the liquefaction unit to other units
+or processes, so-called integrated processes
+(combined plants, e.g. engine plant combined
+with an industrial process F01K 23/064;
+gas turbine plants in combination with other
+    1/0229  . . . {Integration with a unit for using hydrocarbons,
+e.g. consuming hydrocarbons as feed stock}
+    1/023   . . . . {for the combustion as fuels, i.e. integration
+    1/0231  . . . . {for the working-up of the hydrocarbon feed,
+e.g. reinjection of heavier hydrocarbons into
+    1/0232  . . . {integration within a pressure letdown station
+of a high pressure pipeline system}
+    1/0234  . . . {Integration with a cryogenic air separation
+unit (cryogenic separation of air F25J 3/04)}
+    1/0235  . . . {Heat exchange integration}
+    1/0236  . . . . {providing refrigeration for different
+processes treating not the same feed stream}
+    1/0237  . . . . {integrating refrigeration provided for
+liquefaction and purification/treatment of the
+gas to be liquefied, e.g. heavy hydrocarbon
+removal from natural gas (details related
+to rectification F25J 3/02; details related to
+partial condensation F25J 3/06; working-up
+    1/0238  . . . . . {Purification or treatment step is
+integrated within one refrigeration cycle
+only, i.e. the same or single refrigeration
+cycle provides feed gas cooling (if present)
+    1/0239  . . . . . {Purification or treatment step being
+integrated between two refrigeration
+cycles of a refrigeration cascade, i.e. first
+cycle providing feed gas cooling and
+second cycle providing overhead gas
+    1/0241  . . . . . . {wherein the overhead cooling
+comprises providing reflux for a
+    1/0242  . . . . {Waste heat recovery, e.g. from heat of
+    1/0243  . . {Start-up or control of the process; Details of
+the apparatus used; Details of the refrigerant
+    1/0244  . . . {Operation; Control and regulation;
+Instrumentation (F25J 1/0279 takes
+    1/0245  . . . . {Different modes, i.e. 'runs', of operation;
+    1/0247  . . . . . {start-up of the process}
+    1/0248  . . . . . {Stopping of the process, e.g. defrosting or
+deriming, maintenance; Back-up mode or
+    1/0249  . . . . . {Controlling refrigerant inventory, i.e.
+composition or quantity (charging or
+discharging refrigerants in cooling systems
+    1/025   . . . . . . {Details related to the refrigerant
+production or treatment, e.g. make-up
+    1/0251  . . . . . {Intermittent or alternating process, so-
+called batch process, e.g. "peak-shaving"}
+    1/0252  . . . . {Control strategy, e.g. advanced process
+    1/0254  . . . . {controlling particular process parameter,
+    1/0255  . . . . . {controlling the composition of the feed or
+liquefied gas, e.g. to achieve a particular
+    1/0256  . . . . {Safety aspects of operation (F25J 1/0298
+    1/0257  . . . {Construction and layout of liquefaction
+equipments, e.g. valves, machines (F25J 1/0279
+    1/0258  . . . . {vertical layout of the equipments within in
+    1/0259  . . . . {Modularity and arrangement of parts of
+the liquefaction unit and in particular of the
+cold box, e.g. pre-fabrication, assembling
+and erection, dimensions, horizontal layout
+    1/0261  . . . . {Details of cold box insulation, housing and
+internal structure (buildings forming parts of
+    1/0262  . . . . {Details of the cold heat exchange
+system (constructional details F25J 5/00,
+construction of cold-exchangers in general
+    1/0263  . . . . . {using different types of heat exchangers}
+    1/0264  . . . . . {Arrangement of heat exchanger cores
+in parallel with different functions, e.g.
+different cooling streams (F25J 1/0272
+    1/0265  . . . . . . {comprising cores associated
+exclusively with the cooling of a
+refrigerant stream, e.g. for auto-
+    1/0267  . . . . . . . {using flash gas as heat sink}
+    1/0268  . . . . . . . {using a dedicated refrigeration
+    1/0269  . . . . {Arrangement of liquefaction units or
+equipments fulfilling the same process step,
+e.g. multiple "trains" concept (F25J 1/0294
+    1/027   . . . . . {Inter-connecting multiple hot equipments
+    1/0271  . . . . . {Inter-connecting multiple cold
+equipments within or downstream of the
+    1/0272  . . . . . . {Multiple identical heat exchangers in
+    1/0274  . . . . {Retrofitting or revamping of an existing
+    1/0275  . . . . {adapted for special use of the liquefaction
+unit, e.g. portable or transportable devices}
+    1/0276  . . . . . {Laboratory or other miniature devices}
+    1/0277  . . . . . {Offshore use, e.g. during shipping}
+    1/0278  . . . . . . {Unit being stationary, e.g. on floating
+    1/0279  . . . {Compression of refrigerant or internal recycle
+fluid, e.g. kind of compressor, accumulator,
+    1/0281  . . . . {characterised by the type of prime driver,
+    1/0282  . . . . . {Steam turbine as the prime mechanical
+    1/0283  . . . . . {Gas turbine as the prime mechanical
+    1/0284  . . . . . {Electrical motor as the prime mechanical
+    1/0285  . . . . {Combination of different types of drivers
+mechanically coupled to the same refrigerant
+compressor, possibly split on multiple
+    1/0287  . . . . . {including an electrical motor}
+    1/0288  . . . . . {using work extraction by mechanical
+coupling of compression and expansion of
+the refrigerant, so-called companders}
+    1/0289  . . . . {Use of different types of prime drivers of
+at least two refrigerant compressors in a
+    1/029   . . . . {Mechanically coupling of different
+refrigerant compressors in a cascade
+refrigeration system to a common driver}
+    1/0291  . . . . {Refrigerant compression by combined gas
+compression and liquid pumping}
+    1/0292  . . . . {Refrigerant compression by cold or
+cryogenic suction of the refrigerant gas}
+    1/0294  . . . . {Multiple compressor casings/strings in
+parallel, e.g. split arrangement}
+    1/0295  . . . . {Shifting of the compression load between
+different cooling stages within a refrigerant
+cycle or within a cascade refrigeration
+    1/0296  . . . . {Removal of the heat of compression, e.g.
+within an inter- or afterstage-cooler against
+    1/0297  . . . . . {using an externally chilled fluid, e.g.
+    1/0298  . . . . {Safety aspects and control of the refrigerant
+compression system, e.g. anti-surge control}
+    3/00    Processes or apparatus for separating the
+constituents of gaseous {or liquefied gaseous}
+mixtures involving the use of liquefaction or
+    3/02    . by rectification, i.e. by continuous interchange of
+heat and material between a vapour stream and
+a liquid stream (F25J 3/08 takes precedence {;
+purification of hydrocarbons in general C07C 7/00})
+    3/0204  . . {characterised by the feed stream (for air
+    3/0209  . . . {Natural gas or substitute natural gas}
+    3/0214  . . . . {Liquefied natural gas}
+    3/0219  . . . {Refinery gas, cracking gas, coke oven
+gas, gaseous mixtures containing aliphatic
+unsaturated CnHm or gaseous mixtures of
+    3/0223  . . . {H2/CO mixtures, i.e. synthesis gas; Water
+gas or shifted synthesis gas (production of
+carbon monoxide containing gas in general
+C01B 32/40, C10J, C10K; production of
+hydrogen containing gas C01B 3/00)}
+    3/0228  . . {characterised by the separated product stream}
+    3/0233  . . . {separation of CnHm with 1 carbon atom or
+    3/0238  . . . {separation of CnHm with 2 carbon atoms or
+    3/0242  . . . {separation of CnHm with 3 carbon atoms or
+    3/0247  . . . {separation of CnHm with 4 carbon atoms or
+    3/0252  . . . {separation of hydrogen (production of
+hydrogen containing gas in general C01B 3/00,
+e.g. separation of hydrogen or hydrogen
+containing gases form gaseous mixtures at low
+    3/0257  . . . {separation of nitrogen (from air F25J 3/04,
+production of nitrogen in general C01B 21/00)}
+    3/0261  . . . {separation of carbon monoxide (production
+of carbon monoxide containing gas in general
+    3/0266  . . . {separation of carbon dioxide (production of
+carbon dioxide in general C01B 32/00)}
+    3/0271  . . . {separation of H2/CO mixtures, i.e. of synthesis
+gas (production of carbon monoxide containing
+gas in general C01B 32/40, C10J, C10K,
+production of hydrogen containing gas
+    3/0276  . . . {separation of H2/N2 mixtures, i.e. of ammonia
+synthesis gas (in general C01B 3/00)}
+    3/028   . . . {separation of noble gases (from air
+F25J 3/04642; in general C01B 23/00)}
+    3/029   . . . . {of helium}
+    3/0295  . . {Start-up or control of the process; Details of the
+apparatus used, e.g. sieve plates, packings}
+    3/04006 . . . {Providing pressurised feed air or process
+streams within or from the air fractionation
+    3/04012 . . . . {by compression of warm gaseous streams;
+details of intake or interstage cooling
+(F25J 3/04048 takes precedence; operation of
+compressors F25J 3/04781; particular layout
+of compressors used in air fractionation units
+    3/04018 . . . . . {of main feed air}
+    3/04024 . . . . . {of purified feed air, so-called boosted air}
+    3/0403  . . . . . {of nitrogen}
+    3/04036 . . . . . {of oxygen}
+    3/04042 . . . . . {of argon or argon enriched stream}
+    3/04048 . . . . {by compression of cold gaseous streams,
+e.g. intermediate or oxygen enriched (waste)
+    3/0406  . . . . . {of nitrogen}
+    3/04066 . . . . . {of oxygen}
+    3/04072 . . . . . {of argon or argon enriched stream}
+    3/04078 . . . . {providing pressurized products by liquid
+compression and vaporisation with cold
+recovery, i.e. so-called internal compression
+(operation of pumps F25J 3/04781; particular
+layout of pumps used in air fractionation
+    3/04084 . . . . . {of nitrogen}
+    3/0409  . . . . . {of oxygen}
+    3/04096 . . . . . {of argon or argon enriched stream}
+    3/04103 . . . . . {using solely hydrostatic liquid head}
+    3/04109 . . . . {Arrangements of compressors and /or their
+drivers (using work extraction by mechanical
+coupling of compression and cold expansion
+    3/04115 . . . . . {characterised by the type of prime driver,
+    3/04121 . . . . . . {Steam turbine as the prime mechanical
+    3/04127 . . . . . . {Gas turbine as the prime mechanical
+    3/04133 . . . . . . {Electrical motor as the prime
+    3/04139 . . . . . {Combination of different types of
+drivers mechanically coupled to the same
+compressor, possibly split on multiple
+    3/04145 . . . . . {Mechanically coupling of different
+compressors of the air fractionation
+    3/04151 . . . {Purification and (pre-)cooling of the feed
+air; recuperative heat-exchange with product
+    3/04157 . . . . {Afterstage cooling and so-called "pre-
+cooling" of the feed air upstream the air
+purification unit and main heat exchange line
+(F25J 3/04618 takes precedence)}
+    3/04163 . . . . {Hot end purification of the feed air
+(arrangements of cold regenerators
+    3/04169 . . . . . {by adsorption of the impurities
+(adsorption in general B01D 53/02)}
+    3/04175 . . . . . . {at a pressure of substantially more than
+    3/04181 . . . . . . {Regenerating the adsorbents}
+    3/04187 . . . . {Cooling of the purified feed air by
+recuperative heat-exchange; Heat-exchange
+with product streams (arrangements of cold
+    3/04193 . . . . . {Division of the main heat exchange line
+in consecutive sections having different
+    3/042   . . . . . . {having an intermediate feed
+    3/04206 . . . . . . {including a so-called "auxiliary
+vaporiser" for vaporising and producing
+    3/04212 . . . . . . . {and simultaneously condensing
+vapor from a column serving as reflux
+    3/04218 . . . . . {Parallel arrangement of the main heat
+exchange line in cores having different
+functions, e.g. in low pressure and high
+pressure cores (F25J 3/04503 takes
+    3/04224 . . . . . . {Cores associated with a liquefaction or
+    3/0423  . . . . . {Subcooling of liquid process streams}
+    3/04236 . . . . . {Integration of different exchangers in
+a single core, so-called integrated cores
+(F25J 3/04624 takes precedence)}
+    3/04242 . . . . {Cold end purification of the feed air}
+    3/04248 . . . {Generation of cold for compensating heat
+leaks or liquid production, e.g. by Joule-
+    3/04254 . . . . {using the cold stored in external cryogenic
+fluids (closed loop F25J 3/04278)}
+    3/0426  . . . . . {The cryogenic component does not
+participate in the fractionation}
+    3/04266 . . . . . . {and being liquefied hydrocarbons}
+    3/04272 . . . . . . . {and comprising means for reducing
+the risk of pollution of hydrocarbons
+    3/04278 . . . . {using external refrigeration units,
+e.g. closed mechanical or regenerative
+    3/04284 . . . . {using internal refrigeration by open-loop
+gas work expansion, e.g. of intermediate
+or oxygen enriched (waste-)streams
+(F25J 3/04333 takes precedence)}
+    3/0429  . . . . . {of feed air, e.g. used as waste or product
+air or expanded into an auxiliary column}
+    3/04296 . . . . . . {Claude expansion, i.e. expanded into
+the main or high pressure column}
+    3/04303 . . . . . . {Lachmann expansion, i.e. expanded
+into oxygen producing or low pressure
+    3/04309 . . . . . {of nitrogen}
+    3/04315 . . . . . . {Lowest pressure or impure nitrogen,
+so-called waste nitrogen expansion}
+    3/04321 . . . . . {of oxygen}
+    3/04327 . . . . . {of argon or argon enriched stream}
+    3/04333 . . . . {using quasi-closed loop internal vapor
+compression refrigeration cycles, e.g.
+of intermediate or oxygen enriched
+    3/04345 . . . . . . {and comprising a gas work expansion
+    3/04351 . . . . . {of nitrogen}
+    3/04357 . . . . . . {and comprising a gas work expansion
+    3/04363 . . . . . {of oxygen}
+    3/04369 . . . . . {of argon or argon enriched stream}
+    3/04375 . . . . {Details relating to the work expansion, e.g.
+    3/04381 . . . . . {using work extraction by mechanical
+coupling of compression and expansion
+    3/04387 . . . . . {using liquid or hydraulic turbine
+    3/04393 . . . . . {using multiple or multistage gas work
+    3/044   . . . {using a single pressure main column
+system only (F25J 3/0446, F25J 3/04624,
+    3/04406 . . . {using a dual pressure main column system
+(F25J 3/0446, F25J 3/04624, F25J 3/04636 and
+    3/04412 . . . . {in a classical double column flowsheet, i.e.
+with thermal coupling by a main reboiler-
+condenser in the bottom of low pressure
+respectively top of high pressure column}
+    3/04418 . . . . {with thermally overlapping high and low
+    3/04424 . . . . {without thermally coupled high and low
+pressure columns, i.e. a so-called split
+    3/0443  . . . . {A main column system not otherwise
+provided, e.g. a modified double column
+    3/04436 . . . {using at least a triple pressure main
+column system (F25J 3/0446, F25J 3/04624,
+F25J 3/04636 and F25J 3/04715 take
+    3/04442 . . . . {in a double column flowsheet with a high
+    3/04448 . . . . {in a double column flowsheet with an
+    3/04454 . . . . {a main column system not otherwise
+provided, e.g. serially coupling of columns or
+more than three pressure levels}
+    3/0446  . . . {using the heat generated by mixing two
+    3/04466 . . . . {for producing oxygen as a mixing column
+overhead gas by mixing gaseous air feed and
+    3/04472 . . . {using the cold from cryogenic liquids
+produced within the air fractionation unit and
+stored in internal or intermediate storages}
+    3/04478 . . . . {for controlling purposes, e.g. start-up or
+back-up procedures (F25J 3/04496 takes
+    3/04484 . . . . . {for purity control during steady state
+    3/0449  . . . . . {for rapid load change of the air
+    3/04496 . . . . {for compensating variable air feed or
+variable product demand by alternating
+between periods of liquid storage and liquid
+    3/04503 . . . . . {by exchanging "cold" between at
+least two different cryogenic liquids,
+e.g. independently from the main heat
+exchange line of the air fractionation and/
+or by using external alternating storage
+    3/04509 . . . . . . {within the cold part of the air
+fractionation, i.e. exchanging "cold"
+within the fractionation and/or main heat
+    3/04515 . . . . . . . {Simultaneously changing air feed
+    3/04521 . . . {Coupling of the air fractionation unit
+to an air gas-consuming unit, so-called
+integrated processes (combined plants, e.g.
+engine plant combined with an industrial
+process F01K 23/064; gas-turbine plants
+supplying working fluid to a chemical process
+    3/04527 . . . . {Integration with an oxygen consuming
+unit, e.g. glass facility, waste incineration or
+oxygen based processes in general}
+    3/04533 . . . . . {for the direct combustion of fuels
+in a power plant, so-called "oxyfuel
+    3/04539 . . . . . {for the H2/CO synthesis by partial
+oxidation or oxygen consuming reforming
+    3/04545 . . . . . . {for the gasification of solid or heavy
+liquid fuels, e.g. integrated gasification
+    3/04551 . . . . . {for the metal production}
+    3/04557 . . . . . . {for pig iron or steel making, e.g. blast
+    3/04563 . . . . {Integration with a nitrogen consuming unit,
+e.g. for purging, inerting, cooling or heating}
+    3/04569 . . . . . {for enhanced or tertiary oil recovery}
+    3/04575 . . . . . {for a gas expansion plant, e.g. dilution of
+the combustion gas in a gas turbine}
+    3/04581 . . . . . . {Hot gas expansion of indirect heated
+    3/04587 . . . . . {for the NH3 synthesis, e.g. for adjusting
+    3/04593 . . . . {The air gas consuming unit is also fed by an
+    3/046   . . . . . {Completely integrated air feed
+    3/04606 . . . . . {Partially integrated air feed compression,
+i.e. independent MAC for the air
+fractionation unit plus additional air feed
+from the air gas consuming unit}
+    3/04612 . . . . {Heat exchange integration with process
+streams, e.g. from the air gas consuming
+    3/04618 . . . . . {for cooling an air stream fed to the air
+    3/04624 . . . {using integrated mass and heat exchange,
+so-called non-adiabatic rectification, e.g.
+dephlegmator, reflux exchanger}
+    3/0463  . . . . {Simultaneously between rectifying and
+stripping sections, i.e. double dephlegmator}
+    3/04636 . . . {using a hybrid air separation unit, e.g.
+combined process by cryogenic separation
+and non-cryogenic separation techniques
+(F25J 3/04733 and F25J 3/04757 take
+    3/04642 . . . {Recovering noble gases from air (from
+gas mixtures other than air F25J 3/028 or
+    3/04654 . . . . . {Producing crude argon in a crude argon
+    3/0466  . . . . . . {as a parallel working rectification
+column or auxiliary column system in a
+single pressure main column system}
+    3/04666 . . . . . . {as a parallel working rectification
+column of the low pressure column in a
+dual pressure main column system}
+    3/04672 . . . . . . . {having a top condenser}
+    3/04678 . . . . . . . . {cooled by oxygen enriched
+liquid from high pressure column
+    3/04684 . . . . . . . . {and a bottom re-boiler
+(F25J 3/04696 takes precedence)}
+    3/0469  . . . . . . . . {and an intermediate re-boiler/
+    3/04696 . . . . . . . . {a bottom re-boiler and an
+intermediate re-boiler/condenser}
+    3/04703 . . . . . . . . {being arranged in more than one
+    3/04709 . . . . . . {as an auxiliary column system in
+at least a dual pressure main column
+    3/04715 . . . . . . . {The auxiliary column system
+simultaneously produces oxygen}
+    3/04721 . . . . . {Producing pure argon, e.g. recovered
+    3/04727 . . . . . . {using an auxiliary pure argon column
+for nitrogen rejection (F25J 3/04739
+    3/04733 . . . . . . {using a hybrid system, e.g. using
+adsorption, permeation or catalytic
+    3/04739 . . . . . . . {in combination with an auxiliary
+    3/04745 . . . . {Krypton and/or Xenon}
+    3/04751 . . . . . {Producing pure krypton and/or xenon
+recovered from a crude krypton/xenon
+    3/04757 . . . . . . {using a hybrid system, e.g. using
+adsorption, permeation or catalytic
+    3/04763 . . . {Start-up or control of the process; Details of
+    3/04769 . . . . {Operation, control and regulation of the
+process; Instrumentation within the process}
+    3/04775 . . . . . {Air purification and pre-cooling}
+    3/04781 . . . . . {Pressure changing devices, e.g. for
+compression, expansion, liquid pumping}
+    3/04787 . . . . . {Heat exchange, e.g. main heat exchange
+line; Subcooler, external reboiler-
+condenser (F25J 3/04793 and F25J 3/0486
+    3/04793 . . . . . {Rectification, e.g. columns; Reboiler-
+    3/048   . . . . . . {Argon recovery}
+    3/04806 . . . . . . . {High purity argon purification}
+    3/04812 . . . . . {Different modes, i.e. "runs" of operation
+(F25J 3/04472 takes precedence)}
+    3/04818 . . . . . . {Start-up of the process}
+    3/04824 . . . . . . {Stopping of the process, e.g. defrosting
+or deriming; Back-up procedures}
+    3/0483  . . . . . . {Rapid load change of the air
+    3/04836 . . . . . . {Variable air feed, i.e. "load" or product
+demand during specified periods, e.g.
+during periods with high respectively
+low power costs (F25J 3/0483 takes
+    3/04842 . . . . . . {Intermittent process, so-called batch
+    3/04848 . . . . . {Control strategy, e.g. advanced process
+    3/04854 . . . . . {Safety aspects of operation}
+    3/0486  . . . . . . {of vaporisers for oxygen enriched
+liquids, e.g. purging of liquids}
+    3/04866 . . . . {Construction and layout of air fractionation
+equipments, e.g. valves, machines (F25J 5/00
+    3/04872 . . . . . {Vertical layout of cold equipments
+within in the cold box, e.g. columns, heat
+    3/04878 . . . . . . {Side by side arrangement of multiple
+vessels in a main column system,
+wherein the vessels are normally
+mounted one upon the other or forming
+different sections of the same column
+(multiple vessels of a crude argon
+    3/04884 . . . . . . {Arrangement of reboiler-condensers}
+    3/0489  . . . . . {Modularity and arrangement of parts
+of the air fractionation unit, in particular
+of the cold box, e.g. pre-fabrication,
+assembling and erection, dimensions,
+horizontal layout "plot" (F25J 3/04872
+    3/04896 . . . . . {Details of columns, e.g. internals, inlet/
+    3/04903 . . . . . . {Plates or trays}
+    3/04909 . . . . . . {Structured packings}
+    3/04915 . . . . . . {Combinations of different material
+exchange elements, e.g. within different
+    3/04921 . . . . . . . {within the same column}
+    3/04927 . . . . . . {Liquid or gas distribution devices}
+    3/04933 . . . . . . {Partitioning walls or sheets}
+    3/04939 . . . . . . . {Vertical, e.g. dividing wall
+columns (details of dephlegmators
+    3/04945 . . . . . {Details of internal structure; insulation
+    3/04951 . . . . . {Arrangements of multiple air
+fractionation units or multiple equipments
+fulfilling the same process step, e.g.
+multiple trains in a network (F25J 3/04636
+    3/04957 . . . . . . {and inter-connecting equipments
+upstream of the fractionation unit (s),
+    3/04963 . . . . . . {and inter-connecting equipment
+fractionation unit(s) (F25J 3/04393 takes
+    3/04969 . . . . . {Retrofitting or revamping of an existing
+    3/04975 . . . . . {adapted for special use of the air
+fractionation unit, e.g. transportable
+devices by truck or small scale use}
+    3/04981 . . . . . . {for portable medical or home use}
+    3/04987 . . . . . . {for offshore use}
+    3/04993 . . . . . . {for space applications, e.g. for rocket
+    3/06    . by partial condensation (F25J 3/08 takes
+precedence; by rectification F25J 3/02 {;
+purification of hydrocarbons in general C07C 7/00})
+    3/0605  . . {characterised by the feed stream (for air
+    3/061   . . . {Natural gas or substitute natural gas}
+    3/0615  . . . . {Liquefied natural gas}
+    3/062   . . . {Refinery gas, cracking gas, coke oven
+gas, gaseous mixtures containing aliphatic
+unsaturated CnHm or gaseous mixtures of
+    3/0625  . . . {H2/CO mixtures, i.e. synthesis gas; Water
+gas or shifted synthesis gas (production of
+carbon monoxide containing gas in general
+C01B 32/40, C10J, C10K; production of
+hydrogen containing gas C01B 3/00)}
+    3/063   . . {characterised by the separated product stream}
+    3/0635  . . . {separation of CnHm with 1 carbon atom or
+    3/064   . . . {separation of CnHm with 2 carbon atoms or
+    3/0645  . . . {separation of CnHm with 3 carbon atoms or
+    3/065   . . . {separation of CnHm with 4 carbon atoms or
+    3/0655  . . . {separation of hydrogen (production of
+hydrogen containing gas in general C01B 3/00,
+e.g. separation of hydrogen or hydrogen
+containing gases form gaseous mixtures at low
+    3/066   . . . {separation of nitrogen (from air F25J 3/04,
+production of nitrogen in general C01B 21/00)}
+    3/0665  . . . {separation of carbon monoxide (production
+of carbon monoxide containing gas in general
+    3/067   . . . {separation of carbon dioxide (production of
+carbon dioxide in general C01B 32/00)}
+    3/0675  . . . {separation of H2/CO mixtures, i.e. of synthesis
+gas (production of carbon monoxide containing
+gas in general C01B 32/40, C10J, C10K,
+production of hydrogen containing gas
+    3/068   . . . {separation of H2/N2 mixtures, i.e. of ammonia
+synthesis gas (in general C01B 3/00)}
+    3/0685  . . . {separation of noble gases (from air
+F25J 3/04642; in general C01B 23/00)}
+    3/069   . . . . {of helium}
+    3/0695  . . {Start-up or control of the process; Details of the
+    3/08    . Separating gaseous impurities from gases or
+gaseous mixtures {or from liquefied gases or
+liquefied gaseous mixtures}(cold traps B01D 8/00)
+    5/00    Arrangements of cold exchangers or cold
+accumulators in separation or liquefaction plants
+(heat exchangers F28C, F28D, F28F)
+    5/002   . {for continuously recuperating cold, i.e. in a so-
+called recuperative heat exchanger}
+    5/005   . . {in a reboiler-condenser, e.g. within a column}
+    5/007   . . {combined with mass exchange, i.e. in a so-called
+ 2200/00    Processes or apparatus using separation by
+ 2200/02    . in a single pressure main column system
+ 2200/04    . in a dual pressure main column system
+ 2200/06    . . in a classical double column flow-sheet, i.e. with
+thermal coupling by a main reboiler-condenser
+in the bottom of low pressure respectively top of
+ 2200/08    . in a triple pressure main column system
+ 2200/10    . in a quadruple, or more, column or pressure system
+ 2200/20    . in an elevated pressure multiple column system
+wherein the lowest pressure column is at a pressure
+well above the minimum pressure needed to
+overcome pressure drop to reject the products to
+ 2200/30    . using a side column in a single pressure column
+ 2200/32    . using a side column fed by a stream from the high
+ 2200/34    . using a side column fed by a stream from the low
+ 2200/38    . using pre-separation or distributed distillation before
+a main column system, e.g. in a at least a double
+ 2200/40    . Features relating to the provision of boil-up in the
+ 2200/50    . using multiple (re-)boiler-condensers at different
+ 2200/52    . . in the high pressure column of a double pressure
+ 2200/54    . . in the low pressure column of a double pressure
+ 2200/70    . Refluxing the column with a condensed part of the
+feed stream, i.e. fractionator top is stripped or self-
+ 2200/72    . Refluxing the column with at least a part of the
+ 2200/74    . Refluxing the column with at least a part of the
+partially condensed overhead gas
+ 2200/76    . Refluxing the column with condensed overhead gas
+being cycled in a quasi-closed loop refrigeration
+ 2200/78    . Refluxing the column with a liquid stream
+originating from an upstream or downstream
+ 2200/80    . using integrated mass and heat exchange, i.e. non-
+adiabatic rectification in a reflux exchanger or
+ 2200/90    . Details relating to column internals, e.g. structured
+packing, gas or liquid distribution
+ 2200/92    . . Details relating to the feed point
+ 2200/94    . . Details relating to the withdrawal point
+ 2200/96    . . Dividing wall column
+ 2205/00    Processes or apparatus using other separation and/
+ 2205/02    . using simple phase separation in a vessel or drum
+ 2205/04    . . in the feed line, i.e. upstream of the fractionation
+ 2205/10    . using combined expansion and separation, e.g. in
+a vortex tube, "Ranque tube" or a "cyclonic fluid
+separator", i.e. combination of an isentropic nozzle
+and a cyclonic separator; Centrifugal separation
+ 2205/20    . using solidification of components
+ 2205/24    . using regenerators, cold accumulators or reversible
+ 2205/30    . using a washing, e.g. "scrubbing" or bubble column
+ 2205/32    . . as direct contact cooling tower to produce a
+cooled gas stream, e.g. direct contact after cooler
+ 2205/34    . . as evaporative cooling tower to produce chilled
+water, e.g. evaporative water chiller [EWC]
+ 2205/40    . using hybrid system, i.e. combining cryogenic and
+non-cryogenic separation techniques
+ 2205/50    . using absorption, i.e. with selective solvents or
+lean oil, heavier CnHm and including generally a
+regeneration step for the solvent or lean oil
+ 2205/60    . using adsorption on solid adsorbents, e.g. by
+temperature-swing adsorption [TSA] at the hot or
+ 2205/62    . . Purifying more than one feed stream in multiple
+adsorption vessels, e.g. for two feed streams at
+ 2205/64    . . by pressure-swing adsorption [PSA] at the hot
+ 2205/66    . . Regenerating the adsorption vessel, e.g. kind of
+ 2205/68    . . . Cooling the adsorption vessel
+ 2205/70    . . . Heating the adsorption vessel
+ 2205/72    . . . Pressurising or depressurising the adsorption
+ 2205/80    . using membrane, i.e. including a permeation step
+ 2205/82    . using a reactor with combustion or catalytic reaction
+ 2205/86    . using electrical phenomena, e.g. Corona discharge,
+ 2205/90    . Mixing of components
+ 2210/00    Processes characterised by the type or other details
+ 2210/02    . Multiple feed streams, e.g. originating from
+ 2210/04    . Mixing or blending of fluids with the feed stream
+ 2210/06    . Splitting of the feed stream, e.g. for treating or
+ 2210/12    . Refinery or petrochemical off-gas
+ 2210/18    . H2/CO mixtures, i.e. synthesis gas; Water gas,
+shifted synthesis gas or purge gas from HYCO
+ 2210/20    . H2/N2 mixture, i.e. synthesis gas for or purge gas
+ 2210/40    . Air or oxygen enriched air, i.e. generally less than
+ 2210/60    . Natural gas or synthetic natural gas [SNG]
+ 2210/62    . Liquefied natural gas [LNG]; Natural gas liquids
+[NGL]; Liquefied petroleum gas [LPG]
+ 2210/66    . Landfill or fermentation off-gas, e.g. "Bio-gas"
+ 2210/70    . Flue or combustion exhaust gas
+ 2210/90    . Boil-off gas from storage
+ 2215/00    Processes characterised by the type or other details
+ 2215/02    . Mixing or blending of fluids to yield a certain
+ 2215/04    . Recovery of liquid products
+ 2215/18    . HYCO synthesis gas, e.g. H2/CO mixture
+ 2215/20    . Ammonia synthesis gas, e.g. H2/N2 mixture
+ 2215/40    . Air or oxygen enriched air, i.e. generally less than
+ 2215/42    . Nitrogen or special cases, e.g. multiple or low purity
+ 2215/44    . . Ultra high purity nitrogen, i.e. generally less than
+ 2215/50    . Oxygen or special cases, e.g. isotope-mixtures or
+ 2215/52    . . Oxygen production with multiple purity O2
+ 2215/54    . . Oxygen production with multiple pressure O2
+ 2215/56    . . Ultra high purity oxygen, i.e. generally more than
+ 2215/62    . Ethane or ethylene
+ 2215/64    . Propane or propylene
+ 2215/66    . Butane or mixed butanes
+ 2220/00    Processes or apparatus involving steps for the
+ 2220/02    . Separating impurities in general from the feed
+ 2220/04    . Separating impurities in general from the product
+ 2220/40    . Separating high boiling, i.e. less volatile
+components from air, e.g. CO2, hydrocarbons
+ 2220/42    . Separating low boiling, i.e. more volatile
+components from nitrogen, e.g. He, H2, Ne
+ 2220/44    . Separating high boiling, i.e. less volatile
+components from nitrogen, e.g. CO, Ar, O2,
+ 2220/50    . Separating low boiling, i.e. more volatile
+components from oxygen, e.g. N2, Ar
+ 2220/52    . Separating high boiling, i.e. less volatile
+components from oxygen, e.g. Kr, Xe,
+Hydrocarbons, Nitrous oxides, O3
+ 2220/60    . Separating impurities from natural gas, e.g.
+ 2220/62    . . Separating low boiling components, e.g. He, H2,
+ 2220/64    . . Separating heavy hydrocarbons, e.g. NGL, LPG,
+C4+ hydrocarbons or heavy condensates in
+ 2220/66    . . Separating acid gases, e.g. CO2, SO2, H2S or RSH
+ 2220/68    . . Separating water or hydrates
+ 2220/80    . Separating impurities from carbon dioxide, e.g. H2O
+ 2220/82    . . Separating low boiling, i.e. more volatile
+components, e.g. He, H2, CO, Air gases, CH4
+ 2220/84    . . Separating high boiling, i.e. less volatile
+ 2220/90    . Separating isotopes of a component, e.g. H2, O2
+ 2230/00    Processes or apparatus involving steps for
+increasing the pressure of gaseous process streams
+ 2230/02    . Compressor intake arrangement, e.g. filtering or
+ 2230/04    . Compressor cooling arrangement, e.g. inter- or
+after-stage cooling or condensate removal
+ 2230/06    . Adiabatic compressor, i.e. without interstage
+ 2230/08    . Cold compressor, i.e. suction of the gas at cryogenic
+temperature and generally without afterstage-cooler
+ 2230/20    . Integrated compressor and process expander;
+Gear box arrangement; Multiple compressors on a
+ 2230/22    . Compressor driver arrangement, e.g. power supply
+ 2230/24    . Multiple compressors or compressor stages in
+ 2230/30    . Compression of the feed stream
+ 2230/32    . Compression of the product stream
+ 2230/40    . the fluid being air
+ 2230/42    . the fluid being nitrogen
+ 2230/50    . the fluid being oxygen
+ 2230/52    . the fluid being oxygen enriched compared to air,
+ 2230/58    . the fluid being argon or crude argon
+ 2230/60    . the fluid being hydrocarbons or a mixture of
+ 2230/80    . the fluid being carbon dioxide
+ 2235/00    Processes or apparatus involving steps for
+increasing the pressure or for conveying of liquid
+ 2235/02    . using a pump in general or hydrostatic pressure
+ 2235/04    . using a pressure accumulator
+ 2235/06    . Lifting of liquids by gas lift, e.g. "Mammutpumpe"
+ 2235/42    . the fluid being nitrogen
+ 2235/50    . the fluid being oxygen
+ 2235/52    . the fluid being oxygen enriched compared to air
+ 2235/58    . the fluid being argon or crude argon
+ 2235/60    . the fluid being (a mixture of) hydrocarbons
+ 2235/80    . the fluid being carbon dioxide
+ 2240/00    Processes or apparatus involving steps for
+ 2240/02    . Expansion of a process fluid in a work-extracting
+turbine (i.e. isentropic expansion), e.g. of the feed
+ 2240/04    . . Multiple expansion turbines in parallel
+ 2240/10    . . the fluid being air
+ 2240/12    . . the fluid being nitrogen
+ 2240/20    . . the fluid being oxygen
+ 2240/22    . . the fluid being oxygen enriched compared to air,
+ 2240/28    . . the fluid being argon or crude argon
+ 2240/30    . Dynamic liquid or hydraulic expansion with
+extraction of work, e.g. single phase or two-phase
+ 2240/40    . Expansion without extracting work, i.e. isenthalpic
+throttling, e.g. JT valve, regulating valve or venturi,
+or isentropic nozzle, e.g. Laval
+ 2240/42    . . the fluid being air
+ 2240/44    . . the fluid being nitrogen
+ 2240/46    . . the fluid being oxygen
+ 2240/48    . . the fluid being oxygen enriched compared to air,
+ 2240/60    . Expansion by ejector or injector, e.g.
+"Gasstrahlpumpe", "venturi mixing", "jet pumps"
+ 2240/70    . Steam turbine, e.g. used in a Rankine cycle
+ 2240/80    . Hot exhaust gas turbine combustion engine
+ 2240/82    . . with waste heat recovery, e.g. in a combined
+cycle, i.e. for generating steam used in a Rankine
+ 2240/90    . Hot gas waste turbine of an indirect heated gas for
+ 2245/00    Processes or apparatus involving steps for
+ 2245/02    . Recycle of a stream in general, e.g. a by-pass stream
+ 2245/40    . the recycled stream being air
+ 2245/42    . the recycled stream being nitrogen
+ 2245/50    . the recycled stream being oxygen
+ 2245/58    . the recycled stream being argon or crude argon
+ 2245/90    . the recycled stream being boil-off gas from storage
+ 2250/00    Details related to the use of reboiler-condensers
+ 2250/02    . Bath type boiler-condenser using thermo-siphon
+effect, e.g. with natural or forced circulation or pool
+boiling, i.e. core-in-kettle heat exchanger
+ 2250/04    . Down-flowing type boiler-condenser, i.e. with
+evaporation of a falling liquid film
+ 2250/10    . Boiler-condenser with superposed stages
+ 2250/20    . Boiler-condenser with multiple exchanger cores in
+parallel or with multiple re-boiling or condensing
+ 2250/30    . External or auxiliary boiler-condenser in general,
+e.g. without a specified fluid or one fluid is not a
+primary air component or an intermediate fluid
+ 2250/40    . . One fluid being air
+ 2250/42    . . One fluid being nitrogen
+ 2250/50    . . One fluid being oxygen
+ 2250/52    . . One fluid being oxygen enriched compared to air,
+ 2250/58    . . One fluid being argon or crude argon
+ 2260/00    Coupling of processes or apparatus to other units;
+ 2260/02    . Integration in an installation for exchanging heat,
+ 2260/10    . Integration in a gas transmission system at a
+pressure reduction, e.g. "let down" station
+ 2260/20    . Integration in an installation for liquefying or
+ 2260/30    . Integration in an installation using renewable energy
+ 2260/42    . Integration in an installation using nitrogen, e.g.
+as utility gas, for inerting or purging purposes
+in IGCC, POX, GTL, PSA, float glass forming,
+incineration processes, for heat recovery or for
+ 2260/44    . . using nitrogen for cooling purposes
+ 2260/50    . Integration in an installation using oxygen, e.g. in
+the burner of a glass facility, waste incineration or
+oxygen based process [OBP] in general
+ 2260/58    . Integration in an installation using argon
+ 2260/60    . Integration in an installation using hydrocarbons,
+ 2260/80    . Integration in an installation using carbon dioxide,
+e.g. for EOR, sequestration, refrigeration etc.
+ 2270/00    Refrigeration techniques used
+ 2270/02    . Internal refrigeration with liquid vaporising loop
+ 2270/04    . Internal refrigeration with work-producing gas
+ 2270/06    . . with multiple gas expansion loops
+ 2270/08    . Internal refrigeration by flash gas recovery loop
+ 2270/12    . External refrigeration with liquid vaporising loop
+ 2270/14    . External refrigeration with work-producing gas
+ 2270/16    . . with mutliple gas expansion loops of the same
+ 2270/18    . External refrigeration with incorporated cascade
+ 2270/20    . Quasi-closed internal or closed external hydrogen
+ 2270/24    . Quasi-closed internal or closed external carbon
+ 2270/30    . Quasi-closed internal or closed external helium
+ 2270/40    . Quasi-closed internal or closed external air
+ 2270/42    . Quasi-closed internal or closed external nitrogen
+ 2270/50    . Quasi-closed internal or closed external oxygen
+ 2270/58    . Quasi-closed internal or closed external argon
+ 2270/60    . Closed external refrigeration cycle with single
+component refrigerant [SCR], e.g. C1-, C2- or C3-
+ 2270/66    . Closed external refrigeration cycle with multi
+component refrigerant [MCR], e.g. mixture of
+ 2270/80    . Quasi-closed internal or closed external carbon
+ 2270/88    . Quasi-closed internal refrigeration or heat pump
+cycle, if not otherwise provided
+ 2270/90    . External refrigeration, e.g. conventional closed-loop
+mechanical refrigeration unit using Freon or NH3,
+unspecified external refrigeration
+ 2270/902   . . Details about the refrigeration cycle used, e.g.
+composition of refrigerant, arrangement of
+compressors or cascade, make up sources, use of
+ 2270/904   . . by liquid or gaseous cryogen in an open loop
+ 2270/906   . . by heat driven absorption chillers
+ 2270/908   . . by regenerative chillers, i.e. oscillating or
+dynamic systems, e.g. Stirling refrigerator,
+thermoelectric ("Peltier") or magnetic
+ 2270/91    . . . using pulse tube refrigeration
+ 2270/912   . . Liquefaction cycle of a low-boiling (feed) gas in a
+cryocooler, i.e. in a closed-loop refrigerator
+ 2280/00    Control of the process or apparatus
+ 2280/02    . Control in general, load changes, different modes
+ 2280/10    . Control for or during start-up and cooling down of
+ 2280/20    . Control for stopping, deriming or defrosting after an
+emergency shut-down of the installation or for back
+ 2280/30    . Control of a discontinuous or intermittent ("batch")
+ 2280/40    . Control of freezing of components
+ 2280/50    . Advanced process control, e.g. adaptive or
+ 2290/00    Other details not covered by groups
+ 2290/02    . Comparison of processes or apparatuses
+ 2290/10    . Mathematical formulae, modeling, plot or curves;
+ 2290/12    . Particular process parameters like pressure,
+ 2290/20    . Particular dimensions; Small scale or microdevices
+ 2290/30    . Details about heat insulation or cold insulation
+ 2290/32    . Details on header or distribution passages of heat
+exchangers, e.g. of reboiler-condenser or plate heat
+ 2290/34    . Details about subcooling of liquids
+ 2290/40    . Vertical layout or arrangement of cold equipments
+within in the cold box, e.g. columns, condensers,
+ 2290/42    . Modularity, pre-fabrication of modules, assembling
+and erection, horizontal layout, i.e. plot plan, and
+vertical arrangement of parts of the cryogenic unit,
+ 2290/44    . Particular materials used, e.g. copper, steel or alloys
+thereof or surface treatments used, e.g. enhanced
+ 2290/50    . Arrangement of multiple equipments fulfilling the
+ 2290/60    . Details about pipelines, i.e. network, for feed or
+ 2290/62    . Details of storing a fluid in a tank
+ 2290/70    . Processing device is mobile or transportable, e.g. by
+hand, car, ship, rocket engine etc.
+ 2290/72    . Processing device is used off-shore, e.g. on a
+platform or floating on a ship or barge
+ 2290/80    . Retrofitting, revamping or debottlenecking of
+ 2290/90    . Details about safety operation of the installation

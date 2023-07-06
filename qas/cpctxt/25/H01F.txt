@@ -1,0 +1,886 @@
+COOPERATIVE PATENT CLASSIFICATION
+MAGNETS; INDUCTANCES; TRANSFORMERS; SELECTION OF MATERIALS FOR
+THEIR MAGNETIC PROPERTIES (ceramics based on ferrites C04B 35/26; alloys C22C {;
+construction of loading coils H01B}; loudspeakers, microphones, gramophone pick-ups or like
+acoustic electromechanical transducers H04R; thermomagnetic devices H10N 15/00)
+In this subclass, inductances and transformers are regarded as being "for power supply" if they are intended for this purpose
+even in systems operating at frequencies above 60 cycles/sec.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Magnets or magnetic bodies characterised by the
+magnetic materials therefor; Selection of materials
+1. Attention is drawn to Note (3) after the title of
+section C, which Note indicates to which version
+of the periodic table of chemical elements the IPC
+refers. In this group, the Periodic System used is
+the 8 group system indicated by Roman numerals
+in the Periodic Table thereunder.
+2. {Group H01F 1/0036 takes precedence over
+groups H01F 1/09, H01F 1/11, H01F 1/20,
+    1/0009  . {Antiferromagnetic materials, i.e. materials
+exhibiting a Néel transition temperature
+(H01F 1/0036 takes precedence)}
+    1/0018  . {Diamagnetic or paramagnetic materials, i.e.
+materials with low susceptibility and no hysteresis
+(H01F 1/0036 takes precedence)}
+    1/0027  . {Thick magnetic films (forming thick magnetic
+    1/0036  . {showing low dimensional magnetism, i.e. spin
+rearrangements due to a restriction of dimensions,
+e.g. showing giant magnetoresistivity, (H01F 1/153,
+H01F 1/42 and H01F 10/00 take precedence;
+magnetoresistive sensors G01D 5/16, G01R 33/06;
+magnetoresistive recording G11B 5/39; magnetic-
+field-controlled resistors H10N 50/10)}
+    1/0045  . . {Zero dimensional, e.g. nanoparticles,
+soft nanoparticles for medical/biological
+use (preparation of fullerenes in general
+    1/0054  . . . {Coated nanoparticles, e.g. nanoparticles
+coated with organic surfactant}
+    1/0063  . . . {in a non-magnetic matrix, e.g. granular solids
+    1/0072  . . {one dimensional, i.e. linear or dendritic
+    1/0081  . . . {in a non-magnetic matrix, e.g. Fe-nanowires
+    1/009   . . {bidimensional, e.g. nanoscale period
+nanomagnet arrays (H01F 10/007 takes
+    1/01    . of inorganic materials (H01F 1/44 takes precedence)
+    1/012   . . {adapted for magnetic entropy change by
+magnetocaloric effect, e.g. used as magnetic
+refrigerating material (refrigeration systems using
+    1/015   . . . {Metals or alloys}
+    1/03    . . characterised by their coercivity {(H01F 1/40
+    1/0302  . . . {characterised by unspecified or heterogeneous
+hardness or specially adapted for magnetic
+    1/0304  . . . . {adapted for large Barkhausen jumps or
+domain wall rotations, e.g. WIEGAND
+or MATTEUCCI effect (H01F 1/143 and
+    1/0306  . . . . {Metals or alloys, e.g. LAVES phase alloys
+of the MgCu2-type (H01F 1/0304 takes
+    1/0308  . . . . . {with magnetic shape memory [MSM],
+i.e. with lattice transformations driven by a
+magnetic field, e.g. Heusler alloys}
+    1/0311  . . . . {Compounds (H01F 1/0304 takes
+    1/0313  . . . . . {Oxidic compounds}
+    1/0315  . . . . . . {Ferrites}
+    1/0317  . . . . . . {Manganites}
+    1/032   . . . of hard-magnetic materials
+    1/04    . . . . metals or alloys
+    1/047   . . . . . Alloys characterised by their composition
+In groups H01F 1/053 - H01F 1/059, an
+alloy is classified in the last appropriate
+    1/053   . . . . . . containing rare earth metals
+    1/0533  . . . . . . . {in a bonding agent}
+    1/0536  . . . . . . . {sintered}
+    1/055   . . . . . . . and magnetic transition metals, e.g.
+    1/0551  . . . . . . . . {in the form of particles, e.g.
+rapid quenched powders or ribbon
+    1/0552  . . . . . . . . . {with a protective layer}
+    1/0553  . . . . . . . . {obtained by reduction or by
+    1/0555  . . . . . . . . {pressed, sintered or bonded
+    1/0556  . . . . . . . . . {pressed}
+    1/0557  . . . . . . . . . {sintered}
+    1/0558  . . . . . . . . . {bonded together}
+    1/057   . . . . . . . . and IIIa elements, e.g. Nd2Fe14B
+    1/0571  . . . . . . . . . {in the form of particles, e.g.
+    1/0572  . . . . . . . . . . {with a protective layer}
+    1/0573  . . . . . . . . . . {obtained by reduction or by
+    1/0574  . . . . . . . . . . {obtained by liquid dynamic
+    1/0575  . . . . . . . . . . {pressed, sintered or bonded
+    1/0576  . . . . . . . . . . . {pressed, e.g. hot working}
+    1/0577  . . . . . . . . . . . {sintered}
+    1/0578  . . . . . . . . . . . {bonded together}
+    1/0579  . . . . . . . . . {with exchange spin coupling
+    1/058   . . . . . . . . and IVa elements, e.g. Gd2Fe14C
+    1/059   . . . . . . . . and Va elements, e.g. Sm2Fe17N2
+    1/0593  . . . . . . . . . {of tetragonal ThMn12-structure}
+    1/0596  . . . . . . . . . {of rhombic or rhombohedral
+    1/06    . . . . . in the form of particles, e.g. powder
+(H01F 1/047 takes precedence {; record
+    1/061   . . . . . . {with a protective layer}
+    1/063   . . . . . . {with a non magnetic core}
+    1/065   . . . . . . {obtained by a reduction}
+    1/066   . . . . . . {obtained by liquid dynamic
+    1/068   . . . . . . {having a L10 crystallographic
+    1/08    . . . . . . pressed, sintered, or bound together
+    1/083   . . . . . . . {in a bonding agent}
+    1/086   . . . . . . . {sintered}
+    1/09    . . . . mixtures of metallic and non-metallic
+particles; metallic particles having oxide skin
+    1/10    . . . . non-metallic substances, e.g. ferrites {, e.g.
+[(Ba,Sr)O(Fe2O3)6] ferrites with hexagonal
+    1/11    . . . . . in the form of particles {(for magnetic
+    1/111   . . . . . . {with a non-magnetic core}
+    1/112   . . . . . . {with a skin (H01F 1/113 takes
+    1/113   . . . . . . in a bonding agent
+    1/117   . . . . . . . Flexible bodies
+    1/12    . . . of soft-magnetic materials
+    1/14    . . . . metals or alloys
+    1/143   . . . . . {in the form of wires (H01F 1/147 takes
+    1/147   . . . . . Alloys characterised by their composition
+{(treatment thereof for enhancing their
+electromagnetic properties C21D 8/12)}
+H01F 1/14708 - H01F 1/15391, an
+alloy is classified in the last appropriate
+    1/14708 . . . . . . {Fe-Ni based alloys (pure Fe or Ni
+H01F 1/14, H01F 1/16 or H01F 1/20)}
+    1/14716 . . . . . . . {in the form of sheets}
+    1/14725 . . . . . . . . {with insulating coating}
+    1/14733 . . . . . . . {in the form of particles}
+    1/14741 . . . . . . . . {pressed, sintered or bonded
+    1/1475  . . . . . . . . . {the particles being insulated}
+    1/14758 . . . . . . . . . . {by macromolecular organic
+    1/14766 . . . . . . {Fe-Si based alloys}
+    1/14775 . . . . . . . {in the form of sheets}
+    1/14783 . . . . . . . . {with insulating coating}
+    1/14791 . . . . . . . {Fe-Si-Al based alloys, e.g. Sendust}
+    1/153   . . . . . . Amorphous metallic alloys, e.g. glassy
+metals {(making ferrous amorphous
+    1/15308 . . . . . . . {based on Fe/Ni (H01F 1/15325 takes
+    1/15316 . . . . . . . {based on Co (H01F 1/15325 takes
+    1/15325 . . . . . . . {containing rare earths}
+    1/15333 . . . . . . . {containing nanocrystallites, e.g.
+    1/15341 . . . . . . . {Preparation processes therefor}
+    1/1535  . . . . . . . . {by powder metallurgy, e.g. spark
+    1/15358 . . . . . . . {Making agglomerates therefrom, e.g.
+    1/15366 . . . . . . . . {using a binder}
+    1/15375 . . . . . . . . . {using polymers}
+    1/15383 . . . . . . . {Applying coatings thereon
+(H01F 1/15366 takes precedence)}
+    1/15391 . . . . . . . {Elongated structures, e.g. wires}
+    1/16    . . . . . in the form of sheets (H01F 1/147 takes
+    1/18    . . . . . . with insulating coating
+    1/20    . . . . . in the form of particles, e.g. powder
+    1/22    . . . . . . pressed, sintered, or bound together
+    1/24    . . . . . . . the particles being insulated
+    1/26    . . . . . . . . by macromolecular organic
+    1/28    . . . . . . dispersed or suspended in a bonding
+    1/33    . . . . mixtures of metallic and non-metallic
+particles; metallic particles having oxide skin
+    1/34    . . . . non-metallic substances, e.g. ferrites
+    1/342   . . . . . {Oxides (H01F 1/36 and H01F 1/38 take
+    1/344   . . . . . . {Ferrites, e.g. having a cubic spinel
+    1/346   . . . . . . . {[(TO4) 3] with T= Si, Al, Fe, Ga
+    1/348   . . . . . . . {Hexaferrites with decreased hardness
+or anisotropy, i.e. with increased
+(GHz) range, e.g. having a hexagonal
+    1/36    . . . . . in the form of particles {(H01F 1/346,
+    1/37    . . . . . . in a bonding agent
+    1/375   . . . . . . . Flexible bodies
+    1/38    . . . . . amorphous, e.g. amorphous oxides
+    1/40    . . of magnetic semiconductor materials, e.g.
+CdCr2S4 (devices using galvano-magnetic or
+In group H01F 1/401, a diluted magnetic
+semiconductor (DMS) is classified in the
+    1/402   . . . . {of II-VI type, e.g. Zn1-x Crx Se}
+    1/404   . . . . {of III-V type, e.g. In1-x Mnx As}
+    1/405   . . . . {of IV type, e.g. Ge1-xMnx}
+    1/407   . . . . {Diluted non-magnetic ions in a magnetic
+cation-sublattice, e.g. perovskites, La1-
+    1/408   . . . {half-metallic, i.e. having only one electronic
+spin direction at the Fermi level, e.g.
+CrO2, Heusler alloys (H01F 10/1936 takes
+    1/42    . of organic or organo-metallic materials {, e.g.
+graphene}(H01F 1/44 takes precedence)
+    1/44    . of magnetic liquids, e.g. ferrofluids (particles
+in a bonding agent H01F 1/28, H01F 1/36,
+    1/442   . . {the magnetic component being a metal or alloy,
+e.g. Fe (H01F 1/447 takes precedence)}
+    1/445   . . {the magnetic component being a compound, e.g.
+Fe3O4 (H01F 1/447 takes precedence)}
+    1/447   . . {characterised by magnetoviscosity, e.g.
+magnetorheological, magnetothixotropic,
+magnetodilatant liquids (electrorheological fluids
+    3/00    Cores, Yokes, or armatures (magnetic materials
+H01F 1/00; permanent magnets H01F 7/02)
+ 2003/005   . {Magnetic cores for receiving several windings with
+perpendicular axes, e.g. for antennae or inductive
+    3/04    . made from strips or ribbons
+    3/08    . made from powder (powder coatings on sheets
+H01F 3/02; on strips or ribbons H01F 3/04; on wires
+    3/10    . Composite arrangements of magnetic circuits
+ 2003/103   . . {Magnetic circuits with permanent magnets}
+ 2003/106   . . {Magnetic circuits using combinations of
+    3/12    . . Magnetic shunt paths
+    3/14    . . Constrictions; Gaps, e.g. air-gaps (in magnetic
+    5/00    Coils (superconducting coils H01F 6/06; fixed
+inductances of the signal type H01F 17/00)
+    5/003   . {Printed circuit coils}
+ 2005/006   . {with conical spiral form}
+    5/02    . wound on non-magnetic supports, e.g. formers
+ 2005/022   . . {wound on formers with several winding
+chambers separated by flanges, e.g. for high
+ 2005/025   . . {wound on coaxial arrangement of two or more
+ 2005/027   . . {wound on formers for receiving several coils
+with perpendicular winding axes, e.g. for
+antennae or inductive power transfer}
+    5/04    . Arrangements of electric connections to coils, e.g.
+ 2005/043   . . {having multiple pin terminals, e.g. arranged in
+two parallel lines at both sides of the coil}
+ 2005/046   . . {Details of formers and pin terminals related to
+    5/06    . Insulation of windings
+    6/00    Superconducting magnets; Superconducting
+coils {(magnetic resonance assemblies using
+superconducting coil systems G01R 33/3815)}
+ 2006/001   . {Constructive details of inductive current limiters}
+    6/003   . {Methods and means for discharging
+superconductive storage (superconducting alloys
+C22C; static memories with superconducting
+elements G11C 11/44; superconducting
+circuit breakers with contacts H01H 33/004;
+superconducting switches for low power
+H03K 17/92; superconducting material
+H10N 60/00; power cryotons H10N 60/355)}
+    6/005   . {Methods and means for increasing the stored
+energy in superconductive coils by increments (flux
+    6/006   . {Supplying energising or de-energising current;
+    6/008   . . {Electric circuit arrangements for energising
+superconductive electromagnets}
+    6/02    . Quenching; Protection arrangements during
+quenching {(protection circuits H02H 7/001)}
+    6/06    . Coils, e.g. winding, insulating, terminating or casing
+    6/065   . . {Feed-through bushings, terminals and joints
+(leading of conductors or axles through casings of
+    7/00    Magnets (superconducting magnets H01F 6/00; for
+separation of solid materials or fluids B03C 1/00; for
+bench or like work-holders B23B 31/28, B23Q 3/00;
+work-holding devices B25B 11/00; lifting magnets
+B66C 1/00; {operating or controlling locks using
+permanent magnets E05B 47/0038; devices for
+holding a wing, e.g. door or window, by magnetic or
+electromagnetic attraction E05C 19/16; relieving load
+or bearings using magnetic means F16C 39/06} ; for
+electric meters G01R; for relays H01H; {for electric
+discharge tubes H01J, e.g. H01J 3/24, H01J 23/10,
+H01J 29/68} ; for dynamo-electric machines H02K)
+    7/02    . Permanent magnets {[PM]}
+    7/0205  . . {Magnetic circuits with PM in general}
+    7/021   . . . {Construction of PM (H01F 7/0278 takes
+precedence; PM compositions H01F 1/032)}
+    7/0215  . . . . {Flexible forms, sheets}
+    7/0221  . . . {Mounting means for PM, supporting, coating,
+    7/0226  . . . {PM with variable field strength (H01F 7/0284
+    7/0231  . . {Magnetic circuits with PM for power or force
+    7/0236  . . . {Magnetic suspension or levitation (for
+vehicles B60L 13/04; magnetic bearings
+    7/0242  . . . {Magnetic drives, magnetic coupling devices}
+    7/0247  . . . {Orientating, locating, transporting
+    7/0252  . . . {PM holding devices (H01F 7/021,
+H01F 7/0215, H01F 7/0226 take precedence)}
+    7/0257  . . . . {Lifting, pick-up magnetic objects}
+    7/0263  . . . . {Closures, bags, bands, engagement devices
+    7/0268  . . . . {Magnetic cylinders}
+    7/0273  . . {Magnetic circuits with PM for magnetic field
+    7/0278  . . . {for generating uniform fields, focusing,
+deflecting electrically charged particles
+(for magnetic separation by Lorentz force
+B03C 1/023; specially adapted for NMR
+    7/0284  . . . . {using a trimmable or adjustable magnetic
+circuit, e.g. for a symmetric dipole or
+    7/0289  . . . {Transducers, loudspeakers, moving coil
+    7/0294  . . . {Detection, inspection, magnetic treatment}
+    7/04    . . Means for releasing the attractive force
+    7/06    . Electromagnets; Actuators including electromagnets
+{(electric coils H01F 5/00; devices for holding
+workpieces using electric force B23Q 3/15;
+load-engaging elements for lifting articles
+electromagnetically B66C 1/06; electromagnetic
+couplings F16D 27/00; magnetic brakes
+F16D 63/002; electromagnetically operated valves
+F16K 11/24, F16K 31/00; analysing materials
+by magnetic means G01N 27/72, G01N 27/80;
+electromagnets for winding mechanical clocks
+G04C 1/02; electromagnetic relays H01H 51/00;
+windings for salient poles of dynamo-electric
+machines H02K 3/18; electromagnets for
+telegraphic communication H04L; for arc lamps
+ 2007/062   . . {Details of terminals or connectors for
+    7/064   . . {Circuit arrangements for actuating
+electromagnets (circuit arrangements for
+obtaining special operating characteristics
+H01F 7/18; driving circuits for electromagnets
+making use of a switching regulator
+    7/066   . . {Electromagnets with movable winding}
+ 2007/068   . . {using printed circuit coils}
+    7/081   . . . {Magnetic constructions}
+ 2007/083   . . . . {External yoke surrounding the coil bobbin,
+e.g. made of bent magnetic sheet}
+ 2007/085   . . . . {Yoke or polar piece between coil bobbin
+and armature having a gap, e.g. filled with
+ 2007/086   . . . . {Structural details of the armature}
+    7/088   . . . {provided with means for absorbing shocks}
+    7/10    . . . specially adapted for alternating current
+    7/11    . . . . reducing or eliminating the effects of eddy
+    7/12    . . . . having anti-chattering arrangements
+    7/1205  . . . . . {having short-circuited conductors
+(electromagnetic relays provided with
+short-circuited conducting sleeves
+    7/121   . . . Guiding or setting position of armatures, e.g.
+retaining armatures in their end position
+    7/122   . . . . by permanent magnets {(H01F 7/1615,
+    7/123   . . . . by ancillary coil
+    7/124   . . . . by mechanical latch, e.g. detent
+    7/126   . . . Supporting or mounting
+    7/128   . . . Encapsulating, encasing or sealing
+    7/129   . . . . of armatures
+    7/13    . . . characterised by pulling-force characteristics
+    7/14    . . . Pivoting armatures (H01F 7/17 takes
+    7/145   . . . . {Rotary electromagnets with variable
+gap (with fixed gap or torque motors
+    7/16    . . . Rectilinearly-movable armatures (H01F 7/17
+    7/1607  . . . . {Armatures entering the winding}
+    7/1615  . . . . . {Armatures or stationary parts of magnetic
+circuit having permanent magnet}
+    7/1623  . . . . . {Armatures having T-form}
+ 2007/163   . . . . . {with axial bearing}
+    7/1638  . . . . {Armatures not entering the winding}
+    7/1646  . . . . . {Armatures or stationary parts of magnetic
+circuit having permanent magnet}
+    7/1653  . . . . {Magnetic circuit having axially spaced
+ 2007/1661  . . . . {Electromagnets or actuators with anti-stick
+ 2007/1669  . . . . {Armatures actuated by current pulse, e.g.
+ 2007/1676  . . . . {Means for avoiding or reducing eddy
+currents in the magnetic circuit, e.g. radial
+ 2007/1684  . . . . {Armature position measurement using
+ 2007/1692  . . . . {Electromagnets or actuators with two coils}
+    7/17    . . . Pivoting and rectilinearly-movable armatures
+    7/18    . . . Circuit arrangements for obtaining desired
+operating characteristics, e.g. for slow
+operation, for sequential energisation of
+windings, for high-speed energisation of
+    7/1805  . . . . {Circuit arrangements for holding the
+operation of electromagnets or for holding
+the armature in attracted position with
+reduced energising current (for holding relay
+armature in attracted position with reduced
+energising current H01H 47/04; quick
+energising of electro-dynamic machines
+H02P 9/08; for quickly de-energising of
+dynamo-electric generators H02P 9/123)}
+    7/1811  . . . . . {demagnetising upon switching off,
+    7/1816  . . . . . {making use of an energy accumulator (for
+ 2007/1822  . . . . . . {using a capacitor to produce a boost
+    7/1827  . . . . . {by changing number of serially-
+connected turns or windings (for relays
+    7/1833  . . . . . {by changing number of parallel-
+connected turns or windings (for relays
+    7/1838  . . . . . {by switching-in or -out impedance (for
+    7/1844  . . . . {Monitoring or fail-safe circuits (for relays
+ 2007/185   . . . . . {with armature position measurement}
+ 2007/1855  . . . . . {using a stored table to deduce one
+ 2007/1861  . . . . . {using derivative of measured variable}
+ 2007/1866  . . . . . {with regulation loop}
+    7/1872  . . . . {Bistable or bidirectional current devices
+    7/1877  . . . . {controlling a plurality of loads}
+    7/1883  . . . . {by steepening leading and trailing edges of
+magnetisation pulse, e.g. printer drivers}
+ 2007/1888  . . . . {using pulse width modulation}
+ 2007/1894  . . . . {minimizing impact energy on closure of
+    7/20    . . without armatures (cores H01F 3/00; coils
+H01F 5/00 {; shaping metal by applying magnetic
+forces B21D 26/14; electromagnets specially
+adapted for NMR applications G01R 33/381})
+    7/202   . . . {Electromagnets for high magnetic field
+strength (for superconducting electromagnets
+H01F 6/00; for transformers or inductances
+without a magnetic core H01F 30/08)}
+    7/204   . . . . {Circuits for energising or de-energising}
+    7/206   . . . {Electromagnets for lifting, handling or
+transporting of magnetic pieces or material
+(electromagnets for guidance of vehicles,
+workpieces B65G 21/2009; for magnetic
+suspension or levitation H02N 15/00)}
+ 2007/208   . . . . {combined with permanent magnets}
+   10/00    Thin magnetic films, e.g. of one-domain structure
+(magnetic record carriers G11B 5/00; thin-film
+   10/002   . {Antiferromagnetic thin films, i.e. films exhibiting
+a Néel transition temperature (H01F 10/3218 and
+   10/005   . {organic or organo-metallic films, e.g.
+monomolecular films obtained by Langmuir-
+   10/007   . {ultrathin or granular films (H01F 10/005 and
+H01F 10/3227 take precedence; applying ultrathin
+or granular layers to substrates H01F 41/301)}
+   10/06    . characterised by the coupling or physical contact
+with connecting or interacting conductors
+   10/08    . characterised by magnetic layers ({H01F 10/32
+takes precedence } ; applying thin magnetic films to
+   10/10    . . characterised by the composition
+   10/12    . . . being metals or alloys (intermetallic
+   10/123   . . . . {having a L10 crystallographic structure, e.g.
+   10/126   . . . . {containing rare earth metals (H01F 10/133
+   10/13    . . . . Amorphous metallic alloys, e.g. glassy
+metals {(H01F 10/3204 takes precedence)}
+In this group, amorphous metallic alloys
+are classified in the last appropriate place
+   10/131   . . . . . {containing iron or nickel}
+   10/132   . . . . . {containing cobalt}
+   10/133   . . . . . {containing rare earth metals}
+   10/135   . . . . . . {containing transition metals}
+   10/136   . . . . . . . {containing iron}
+   10/137   . . . . . . . {containing cobalt}
+   10/138   . . . . . {containing nanocrystallites, e.g. obtained
+   10/14    . . . . containing iron or nickel ({H01F 10/126} ,
+H01F 10/13, H01F 10/16 take precedence)
+In this group, alloys containing iron or
+nickel are classified in the last appropriate
+   10/142   . . . . . {containing Si}
+   10/145   . . . . . . {containing Al, e.g. SENDUST}
+   10/147   . . . . . {with lattice under strain, e.g.
+expanded by interstitial nitrogen
+   10/16    . . . . containing cobalt ({H01F 10/126} ,
+   10/18    . . . being compounds
+   10/187   . . . . Amorphous compounds {(H01F 10/3204
+   10/193   . . . . Magnetic semiconductor compounds
+{(in general H01F 1/40; multilayers, e.g.
+   10/1933  . . . . . {Perovskites}
+   10/1936  . . . . . {Half-metallic, e.g. epitaxial CrO2 or
+   10/205   . . . . . {Hexagonal ferrites}
+   10/22    . . . . . Orthoferrites {, e.g. RFeO3 (R= rare earth
+element) with orthorhombic structure}
+   10/24    . . . . . Garnets {(in general H01F 1/346;
+multilayers, e.g. superlattices
+H01F 10/3209; applying magnetic
+garnet films to substrates by sputtering
+   10/245   . . . . . . {Modifications for enhancing
+interaction with electromagnetic wave
+   10/26    . characterised by the substrate or intermediate layers
+{(H01F 10/06 and H01F 10/32 take precedence)}
+   10/265   . . {Magnetic multilayers non exchange-coupled
+   10/28    . . characterised by the composition of the substrate
+   10/30    . . characterised by the composition of the
+intermediate layers {, e.g. seed, buffer, template,
+diffusion preventing, cap layers (H01F 10/06 and
+   10/32    . Spin-exchange-coupled multilayers, e.g.
+nanostructured superlattices {(applying spin-
+exchange-coupled multilayers to substrates
+   10/3204  . . {Exchange coupling of amorphous multilayers}
+   10/3209  . . {Exchange coupling of garnet multilayers}
+   10/3213  . . {Exchange coupling of magnetic semiconductor
+multilayers, e.g. MnSe/ZnSe superlattices
+(semiconductor materials for use in
+semiconductor devices H01L 29/12)}
+   10/3218  . . {Exchange coupling of magnetic films via an
+antiferromagnetic interface (H01F 10/3268 takes
+   10/3222  . . {Exchange coupled hard/soft multilayers, e.g.
+CoPt/Co or NiFe/CoSm (nanocomposite spring
+   10/3227  . . {Exchange coupling via one or more
+magnetisable ultrathin or granular films}
+   10/3231  . . . {via a non-magnetic spacer}
+   10/3236  . . . . {made of a noble metal, e.g.(Co/Pt) n
+multilayers having perpendicular anisotropy
+(H01F 10/3286 takes precedence)}
+   10/324   . . {Exchange coupling of magnetic film pairs via a
+very thin non-magnetic spacer, e.g. by exchange
+with conduction electrons of the spacer}
+   10/3245  . . . {the spacer being superconductive}
+   10/325   . . . {the spacer being noble metal}
+   10/3254  . . . {the spacer being semiconducting or insulating,
+e.g. for spin tunnel junction [STJ]}
+   10/3259  . . . . {Spin-exchange-coupled multilayers
+comprising at least a nanooxide layer [NOL],
+   10/3263  . . . {the exchange coupling being symmetric, e.g.
+for dual spin valve, e.g. NiO/Co/Cu/Co/Cu/Co/
+   10/3268  . . . {the exchange coupling being asymmetric,
+e.g. by use of additional pinning, by using
+antiferromagnetic or ferromagnetic coupling
+interface, i.e. so-called spin-valve [SV]
+structure, e.g. NiFe/Cu/NiFe/FeMn}
+   10/3272  . . . . {by use of anti-parallel coupled [APC]
+ferromagnetic layers, e.g. artificial
+ferrimagnets [AFI], artificial [AAF] or
+synthetic [SAF] anti-ferromagnets}
+   10/3277  . . . . . {by use of artificial ferrimagnets [AFI]
+   10/3281  . . . . {only by use of asymmetry of the magnetic
+film pair itself, i.e. so-called pseudospin
+valve [PSV] structure, e.g. NiFe/Cu/Co}
+   10/3286  . . . {Spin-exchange coupled multilayers having
+at least one layer with perpendicular magnetic
+   10/329   . . . {Spin-exchange coupled multilayers wherein
+the magnetisation of the free layer is switched
+by a spin-polarised current, e.g. spin torque
+   10/3295  . . . {Spin-exchange coupled multilayers wherein
+the magnetic pinned or free layers are
+laminated without anti-parallel coupling within
+   13/00    Apparatus or processes for magnetising or
+demagnetising ({devices for holding workpieces
+using magnetic or electric force acting directly
+on the workpieces B23Q 3/15} ; for degaussing
+ships B63G 9/06; for clocks or watches G04D 9/00;
+{recording or erasing of information on magnetic
+record carriers G11B 5/00} ; demagnetising
+arrangements for colour television H04N 9/29)
+   13/003   . {Methods and devices for magnetising permanent
+magnets (permanent magnets H01F 7/02)}
+   13/006   . {Methods and devices for demagnetising of
+magnetic bodies, e.g. workpieces, sheet material
+(for erasing of information on magnetic record
+   17/00    Fixed inductances of the signal type (coils in
+general H01F 5/00 {inductors without a potential-
+jump or surface barrier specially adapted for
+integrated circuits, details thereof and multistep
+manufacturing processes therefor H01L 28/10})
+   17/0006  . {Printed inductances (printed coils for dynamo-
+electric machines H02K 3/26; printed circuits
+   17/0013  . . {with stacked layers}
+ 2017/002   . . . {Details of via holes for interconnecting the
+ 2017/0026  . . . {Multilayer LC-filter}
+   17/0033  . . {with the coil helically wound around a magnetic
+ 2017/004   . . {with the coil helically wound around an axis
+ 2017/0046  . . {with a conductive path having a bridge}
+ 2017/0053  . . {with means to reduce eddy currents}
+ 2017/006   . . {flexible printed inductors}
+ 2017/0066  . . {with a magnetic layer}
+ 2017/0073  . . {with a special conductive pattern, e.g. flat spiral}
+ 2017/008   . . {Electric or magnetic shielding of printed
+ 2017/0086  . . {on semiconductor substrate (inductors for
+integrated circuits H01L 28/10)}
+ 2017/0093  . {Common mode choke coil}
+   17/02    . without magnetic core
+   17/03    . . with ceramic former
+   17/04    . with magnetic core
+   17/041   . . {Means for preventing rotation or displacement of
+   17/043   . . {with two, usually identical or nearly identical
+parts enclosing completely the coil (pot cores)}
+   17/045   . . {with core of cylindric geometry and coil wound
+along its longitudinal axis, i.e. rod or drum core}
+ 2017/046   . . . {helical coil made of flat wire, e.g. with smaller
+extension of wire cross section in the direction
+ 2017/048   . . {with encapsulating core, e.g. made of resin and
+   17/06    . . with core substantially closed in itself, e.g. toroid
+   17/062   . . . {Toroidal core with turns of coil around it}
+ 2017/065   . . . {Core mounted around conductor to absorb
+ 2017/067   . . . {Core with two or more holes to lead through
+   17/08    . . . Loading coils for telecommunication circuits
+   19/00    Fixed transformers or mutual inductances of the
+signal type (H01F 36/00 takes precedence)
+   19/02    . Audio-frequency transformers or mutual
+inductances, i.e. not suitable for handling
+frequencies considerably beyond the audio range
+   19/04    . Transformers or mutual inductances suitable for
+handling frequencies considerably beyond the audio
+   19/06    . . Broad-band transformers, e.g. suitable for
+handling frequencies well down into the audio
+   19/08    . . Transformers having magnetic bias, e.g. for
+ 2019/085   . . . {Transformer for galvanic isolation}
+   21/00    Variable inductances or transformers of the signal
+type (H01F 36/00 takes precedence)
+   21/005   . {Inductances without magnetic core}
+   21/02    . continuously variable, e.g. variometers
+   21/04    . . by relative movement of turns or parts of
+   21/06    . . by movement of core or part of core relative to
+   21/065   . . . {Measures for obtaining a desired relation
+between the position of the core and the
+   21/08    . . by varying the permeability of the core, e.g. by
+   21/10    . . by means of a movable shield
+   21/12    . discontinuously variable, e.g. tapped
+ 2021/125   . . {Printed variable inductor with taps, e.g. for
+   27/00    Details of transformers or inductances, in general
+   27/002   . {Arrangements provided on the transformer
+   27/004   . {Arrangements for interchanging inductances,
+   27/006   . {with special arrangement or spacing of turns of the
+winding(s), e.g. to produce desired self-resonance}
+   27/008   . {with temperature compensation}
+   27/022   . . {Encapsulation}
+   27/025   . . {Constructional details relating to cooling}
+   27/027   . . {specially adapted for combination of signal type
+inductors or transformers with electronic circuits,
+e.g. mounting on printed circuit boards}
+   27/04    . . Leading of conductors or axles through casings,
+e.g. for tap-changing arrangements
+   27/06    . Mounting, supporting or suspending transformers,
+reactors or choke coils {not being of the signal
+ 2027/065   . . {Mounting on printed circuit boards}
+   27/08    . Cooling (heat-transfer elements F28F); Ventilating
+(structural details of casings H01F 27/02)
+   27/085   . . {Cooling by ambient air}
+   27/105   . . . {Cooling by special liquid or by liquid of
+   27/125   . . . . {Cooling by synthetic insulating and
+   27/14    . . . . Expansion chambers; Oil conservators;
+Gas cushions; Arrangements for purifying,
+   27/16    . . . Water cooling
+   27/18    . . . by evaporating liquids
+   27/20    . . Cooling by special gases or non-ambient air
+   27/22    . . Cooling by heat conduction through solid or
+   27/23    . Corrosion protection
+   27/245   . . made from sheets, e.g. grain-oriented
+   27/2455  . . . {using bent laminations}
+   27/25    . . made from strips or ribbons (H01F 27/26 takes
+   27/255   . . made from particles (H01F 27/26 takes
+   27/26    . . Fastening parts of the core together; Fastening or
+mounting the core on casing or support (on coil
+   27/263   . . . {Fastening parts of the core together}
+   27/266   . . . {Fastening or mounting the core on casing or
+   27/28    . Coils; Windings; Conductive connections
+   27/2804  . . {Printed windings}
+ 2027/2809  . . . {on stacked layers}
+ 2027/2814  . . . {with only part of the coil or of the winding in
+the printed circuit board, e.g. the remaining coil
+or winding sections can be made of wires or
+ 2027/2819  . . . {Planar transformers with printed windings,
+e.g. surrounded by two cores and to be
+   27/2823  . . {Wires (H01F 27/2866 takes precedence)}
+   27/2828  . . . {Construction of conductive connections, of
+ 2027/2833  . . . {using coaxial cable as wire}
+ 2027/2838  . . . {using transposed wires}
+ 2027/2842  . . . {Wire coils wound in conical zigzag to reduce
+   27/2847  . . {Sheets; Strips (H01F 27/2866 takes
+   27/2852  . . . {Construction of conductive connections, of
+ 2027/2857  . . . {Coil formed from wound foil conductor}
+ 2027/2861  . . . {Coil formed by folding a blank}
+   27/2866  . . {Combination of wires and sheets}
+   27/2871  . . {Pancake coils}
+   27/2876  . . {Cooling (cooling transformers and inductances
+   27/2885  . . . {with shields or electrodes (shields or
+electrodes for pancake coils H01F 27/2871;
+construction of electric or magnetic shields or
+   27/289   . . . {with auxiliary windings (for pancake coils
+   27/2895  . . {Windings disposed upon ring cores}
+   27/29    . . Terminals; Tapping arrangements {for signal
+   27/292   . . . {Surface mounted devices}
+ 2027/295   . . . . {with flexible terminals}
+ 2027/297   . . . {with pin-like terminal to be inserted in hole of
+   27/30    . . Fastening or clamping coils, windings, or parts
+thereof together; Fastening or mounting coils or
+windings on core, casing, or other support
+   27/303   . . . {Clamping coils, windings or parts thereof
+   27/306   . . . {Fastening or mounting coils or windings on
+   27/32    . . Insulating of coils, windings, or parts thereof
+   27/321   . . . {using a fluid for insulating purposes only}
+   27/322   . . . {the insulation forming channels for circulation
+   27/323   . . . {Insulation between winding turns, between
+   27/324   . . . {Insulation between coil and core, between
+different winding sections, around the coil;
+   27/325   . . . . {Coil bobbins (formers for coils in general
+   27/326   . . . . {specifically adapted for discharge lamp
+   27/327   . . . {Encapsulating or impregnating (encapsulating
+ 2027/328   . . . . {Dry-type transformer with encapsulated foil
+winding, e.g. windings coaxially arranged on
+core legs with spacers for cooling and with
+ 2027/329   . . . {Insulation with semiconducting layer, e.g. to
+   27/33    . Arrangements for noise damping
+   27/34    . Special means for preventing or reducing unwanted
+electric or magnetic effects, e.g. no-load losses,
+reactive currents, harmonics, oscillations, leakage
+   27/341   . . {Preventing or reducing no-load losses or reactive
+   27/343   . . {Preventing or reducing surge voltages;
+   27/345   . . . {using auxiliary conductors}
+   27/346   . . {Preventing or reducing leakage fields (using
+magnetic shields H01F 27/36; using auxiliary
+ 2027/348   . . {Preventing eddy currents}
+   27/36    . . Electric or magnetic shields or screens (movable
+for varying inductance H01F 21/10)
+   27/361   . . . {made of combinations of electrically
+conductive material and ferromagnetic
+   27/363   . . . {made of electrically conductive material}
+   27/366   . . . {made of ferromagnetic material}
+   27/38    . . Auxiliary core members; Auxiliary coils or
+   27/385   . . . {for reducing harmonics}
+   27/40    . Structural association with built-in electric
+   27/402   . . {Association of measuring or protective means}
+ 2027/404   . . . {Protective devices specially adapted for fluid
+ 2027/406   . . . {Temperature sensor or protection}
+ 2027/408   . . {Association with diode or rectifier}
+   27/42    . Circuits specially adapted for the purpose
+of modifying, or compensating for, electric
+characteristics of transformers, reactors, or choke
+coils (circuits for controlling transformers, reactors
+or choke coils, for the purpose of obtaining a
+desired output H02P 13/00; impedance networks
+   27/422   . . {for instrument transformers}
+   27/425   . . . {for voltage transformers}
+   27/427   . . . {for current transformers}
+   29/00    Variable transformers or inductances not
+covered by group H01F 21/00 {(tap change devices
+   29/02    . with tappings on coil or winding; with provision for
+rearrangement or interconnection of windings
+   29/025   . . {Constructional details of transformers or reactors
+with tapping on coil or windings}
+   29/04    . . having provision for tap-changing without
+   29/06    . with current collector gliding or rolling on or along
+   29/08    . with core, coil, winding, or shield movable to offset
+variation of voltage or phase shift, e.g. induction
+   29/10    . . having movable part of magnetic circuit {(high
+leakage transformers H01F 38/08; dynamo-
+electric machines with movable part of magnetic
+circuit H02K 23/44, H02K 23/48)}
+   29/12    . . having movable coil, winding, or part thereof;
+   29/14    . with variable magnetic bias ({amplitude
+modulation by means of variable impedance
+element H03C 1/08} ; magnetic amplifiers H03F;
+{circuits for automatic telephonic communication
+ 2029/143   . . {with control winding for generating magnetic
+   29/146   . . {Constructional details}
+   30/00    Fixed transformers not covered by group
+   30/02    . Auto-transformers
+   30/04    . having two or more secondary windings, each
+supplying a separate load, e.g. for radio set power
+   30/06    . characterised by the structure
+   30/08    . . without magnetic core
+   30/10    . . Single-phase transformers (H01F 30/16 takes
+   30/12    . . Two-phase, three-phase or polyphase
+   30/14    . . . for changing the number of phases
+   30/16    . . Toroidal transformers
+   36/00    Transformers with superconductive windings or
+with windings operating at cryogenic temperature
+(superconducting magnets or superconducting coils
+   37/00    Fixed inductances not covered by group
+   37/005   . {without magnetic core}
+   38/00    Adaptations of transformers or inductances for
+specific applications or functions
+ 2038/003   . {High frequency transformer for microwave oven}
+ 2038/006   . {matrix transformer consisting of several
+interconnected individual transformers working as a
+   38/02    . for non-linear operation
+   38/023   . . {of inductances}
+ 2038/026   . . . {non-linear inductive arrangements for
+converters, e.g. with additional windings}
+   38/04    . . for frequency changing
+   38/06    . . for changing the wave shape
+   38/08    . High-leakage transformers or inductances
+   38/085   . . {Welding transformers}
+   38/10    . . Ballasts, e.g. for discharge lamps
+   38/12    . Ignition, e.g. for IC engines
+ 2038/122   . . {with rod-shaped core}
+ 2038/125   . . {with oil insulation}
+ 2038/127   . . {with magnetic circuit including permanent
+   38/14    . Inductive couplings {(for wireless supply or
+distribution of electric power using inductive
+ 2038/146   . . {in combination with capacitive coupling}
+   38/16    . Cascade transformers, e.g. for use with extra high
+   38/18    . Rotary transformers
+   38/20    . Instruments transformers
+   38/22    . . for single phase ac
+   38/24    . . . Voltage transformers
+   38/26    . . . . Constructions
+   38/28    . . . Current transformers
+   38/30    . . . . Constructions
+ 2038/305   . . . . . {with toroidal magnetic core}
+   38/32    . . . . Circuit arrangements
+   38/34    . . . Combined voltage and current transformers
+   38/36    . . . . Constructions
+   38/38    . . for polyphase ac
+   38/42    . Flyback transformers
+ 2038/423   . . {with adjusting potentiometers}
+ 2038/426   . . {with gap in transformer core}
+   41/00    Apparatus or processes specially adapted
+for manufacturing or assembling magnets,
+inductances or transformers; Apparatus or
+processes specially adapted for manufacturing
+materials characterised by their magnetic
+Group H01F 41/30 takes precedence over groups
+H01F 41/16 - H01F 41/24 {, and over group
+This Note corresponds to IPC Note (1) relating to
+H01F 41/16 - H01F 41/24, H01F 41/32.}
+   41/005   . {Impregnating or encapsulating (insulating of
+   41/02    . for manufacturing cores, coils, or magnets
+(H01F 41/14 takes precedence; for dynamo-electric
+   41/0206  . . {Manufacturing of magnetic cores by mechanical
+means (magnetic cores per se H01F 27/24)}
+   41/0213  . . . {Manufacturing of magnetic circuits made
+from strip(s) or ribbon(s) (magnetic cores made
+by winding a ribbon H01F 27/25)}
+   41/022   . . . . {by winding the strips or ribbons around a
+   41/0226  . . . . {from amorphous ribbons}
+   41/0233  . . . {Manufacturing of magnetic circuits made
+from sheets (magnetic cores made from sheets
+H01F 27/245; soft magnetic alloys in the form
+   41/024   . . . . {Manufacturing of magnetic circuits made
+from deformed sheets (magnetic cores made
+from deformed sheets H01F 27/2455)}
+   41/0246  . . . {Manufacturing of magnetic circuits by
+moulding or by pressing powder (magnetic
+cores made by moulding or by pressing
+powder H01F 27/255; soft magnetic particles
+   41/0253  . . {for manufacturing permanent magnets}
+   41/026   . . . {protecting methods against environmental
+influences, e.g. oxygen, by surface treatment
+(magnetic particles with skin H01F 1/061,
+H01F 1/09, H01F 1/24, H01F 1/33 and
+   41/0266  . . . {Moulding; Pressing (H01F 41/0273 takes
+precedence; hard magnetic particles H01F 1/06,
+   41/0273  . . . {Imparting anisotropy (methods and
+devices for magnetising permanent magnets
+   41/028   . . . . {Radial anisotropy (for rotor or stator bodies
+   41/0293  . . . {diffusion of rare earth elements, e.g. Tb, Dy or
+   41/04    . . for manufacturing coils {(coils for transformer or
+   41/041   . . . {Printed circuit coils (apparatus or processes
+for manufacturing printed circuits in general
+   41/042   . . . . {by thin film techniques}
+   41/043   . . . . {by thick film techniques}
+   41/046   . . . . {structurally combined with ferromagnetic
+   41/047   . . . . {structurally combined with superconductive
+   41/048   . . . {Superconductive coils}
+   41/061   . . . . Winding flat conductive wires or sheets
+   41/063   . . . . . with insulation
+   41/064   . . . . Winding non-flat conductive wires, e.g. rods,
+   41/066   . . . . . with insulation
+   41/068   . . . . . . in the form of strip material
+   41/069   . . . . . Winding two or more wires, e.g. bifilar
+   41/07    . . . . . . Twisting
+   41/071   . . . . Winding coils of special form (winding
+conductors onto closed formers or cores
+ 2041/0711  . . . . . {Winding saddle or deflection coils}
+   41/073   . . . . . Winding onto elongate formers
+   41/074   . . . . . Winding flat coils
+   41/076   . . . . Forming taps or terminals while winding,
+e.g. by wrapping or soldering the wire onto
+pins, or by directly forming terminals from
+   41/077   . . . . Deforming the cross section or shape of the
+   41/079   . . . . Measuring electrical characteristics while
+   41/08    . . . . Winding conductors onto closed formers
+or cores, e.g. threading conductors through
+   41/082   . . . . Devices for guiding or positioning the
+   41/084   . . . . . for forming pancake coils
+   41/086   . . . . . in a special configuration on the former,
+e.g. orthocyclic coils or open mesh coils
+   41/088   . . . . . using revolving flyers
+   41/09    . . . . Winding machines having two or more work
+   41/092   . . . . . Turrets; Turntables
+   41/094   . . . . Tensioning or braking devices
+   41/096   . . . . Dispensing or feeding devices
+   41/098   . . . . Mandrels; Formers
+   41/10    . . . Connecting leads to windings (making electric
+connections in general H01R 43/00)
+   41/12    . . . Insulating of windings ({impregnating or
+encapsulating of transformers H01F 41/005} ;
+of conductors in general H01B 13/06)
+   41/122   . . . . {Insulating between turns or between
+   41/125   . . . . {Other insulating structures; Insulating
+between coil and core, between different
+winding sections, around the coil}
+   41/127   . . . . {Encapsulating or impregnating
+(encapsulating coil and core H01F 41/005)}
+   41/14    . for applying magnetic films to substrates
+   41/16    . . the magnetic material being applied in the
+form of particles, e.g. by serigraphy {, to form
+thick magnetic films or precursors therefor}
+(H01F 41/18 {-H01F 41/24} take precedence)
+   41/18    . . by cathode sputtering
+   41/183   . . . {Sputtering targets therefor}
+   41/186   . . . {for applying a magnetic garnet film (magnetic
+garnet materials H01F 1/346; magnetic garnet
+   41/205   . . . {by laser ablation, e.g. pulsed laser deposition
+   41/22    . . Heat treatment; Thermal decomposition;
+   41/26    . . . using electric currents {, e.g. electroplating}
+   41/28    . . . by liquid phase epitaxy
+   41/30    . . for applying nanostructures, e.g. by molecular
+   41/301   . . . {for applying ultrathin or granular layers
+(ultrathin or granular layers H01F 10/007)}
+   41/302   . . . {for applying spin-exchange-coupled
+multilayers, e.g. nanostructured superlattices
+(spin-exchange-coupled multilayers
+   41/303   . . . . {with exchange coupling adjustment
+of magnetic film pairs, e.g. interface
+modifications by reduction, oxidation}
+   41/304   . . . . . {using temporary decoupling, e.g.
+involving blocking, Néel or Curie
+temperature transitions by heat treatment
+in presence/absence of a magnetic field}
+   41/305   . . . . {applying the spacer or adjusting its
+interface, e.g. in order to enable particular
+effect different from exchange coupling}
+   41/306   . . . . . {conductive spacer}
+   41/307   . . . . . {insulating or semiconductive spacer}
+   41/308   . . . . {lift-off processes, e.g. ion milling, for
+   41/309   . . . . {electroless or electrodeposition processes
+   41/32    . for applying conductive, insulating or magnetic
+material on a magnetic film {, specially adapted for
+   41/325   . . {applying a noble metal capping on a spin-
+exchange-coupled multilayer, e.g. spin filter
+   41/34    . . in patterns, e.g. by lithography

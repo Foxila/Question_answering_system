@@ -1,0 +1,663 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+OPENING, CLOSING {OR CLEANING} BOTTLES, JARS OR SIMILAR
+DISPENSING, DELIVERING OR TRANSFERRING LIQUIDS, NOT OTHERWISE
+PROVIDED FOR (cleaning pipes or tubes or systems of pipes or tubes B08B 9/02; emptying
+or filling of bottles, jars, cans, casks, barrels, or similar containers, not otherwise provided
+for B67C; water supply E03; pipe systems F17D; domestic hot-water supply systems F24D;
+measuring volume, volume flow, mass flow or liquid level, metering by volume G01F; coin-
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Apparatus or devices for dispensing beverages on
+draught (B67D 3/00 takes precedence; apparatus for
+    1/0001  . {by squeezing collapsible or flexible storage
+containers (B67D 1/0462 takes precedence)}
+    1/0002  . {specially adapted to be used in microgravity
+conditions, e.g. in outer space}
+    1/0003  . {the beverage being a single liquid (B67D 1/02,
+B67D 1/04 take precedence; drinking fountains
+    1/0004  . . {the beverage being stored in a container, e.g.
+bottle, cartridge, bag-in-box, bowl}
+    1/0005  . . . {the apparatus comprising means for
+automatically controlling the amount to be
+    1/0006  . . . . {based on the timed opening of a valve}
+    1/0007  . . . . {based on volumetric dosing}
+    1/0008  . . . . {based on weighing}
+    1/0009  . . {the beverage being stored in an intermediate
+container connected to a supply}
+    1/001   . . . {the apparatus comprising means for
+automatically controlling the amount to be
+    1/0011  . . . . {based on the timed opening of a valve}
+    1/0012  . . . . {based on volumetric dosing}
+    1/0013  . . . . {based on weighing}
+    1/0014  . . {the beverage being supplied from water mains}
+    1/0015  . {the beverage being prepared by mixing at least two
+    1/0016  . . {the beverage being stored in an intermediate
+container before dispensing, i.e. pre-mix
+    1/0017  . . . {the apparatus comprising means for
+automatically controlling the amount to be
+    1/0018  . . . . {based on the timed opening of a valve}
+    1/0019  . . . . {based on volumetric dosing}
+    1/002   . . . . {based on weighing}
+    1/0021  . . {the components being mixed at the time of
+dispensing, i.e. post-mix dispensers}
+    1/0022  . . . {the apparatus comprising means for
+automatically controlling the amount to be
+    1/0023  . . . . {control of the amount of the mixture, i.e.
+    1/0024  . . . . . {based on the timed opening of a valve}
+    1/0025  . . . . . {based on volumetric dosing}
+    1/0026  . . . . . {based on weighing}
+    1/0027  . . . . {control of the amount of one component,
+the amount of the other components(s) being
+    1/0028  . . . . . {based on the timed opening of a valve}
+    1/0029  . . . . . {based on volumetric dosing}
+    1/003   . . . . . . {by means of a dosing chamber}
+    1/0031  . . . . . . . {in the form of a metering pump}
+    1/0032  . . . . . . {using flow-rate sensors}
+    1/0033  . . . . . {based on weighing}
+    1/0034  . . . . {for controlling the amount of each
+    1/0035  . . . . . {the controls being based on the same
+    1/0036  . . . . . . {based on the timed opening of valves}
+    1/0037  . . . . . . {based on volumetric dosing}
+    1/0038  . . . . . . {based on weighing}
+    1/0039  . . . . . {the controls involving at least two
+    1/004   . . {the diluent being supplied from water mains}
+    1/0041  . {Fully automated cocktail bars, i.e. apparatuses
+combining the use of packaged beverages, pre-mix
+    1/0042  . {Details of specific parts of the dispensers}
+    1/0043  . . {Mixing devices for liquids}
+    1/0044  . . . {for mixing inside the dispensing nozzle}
+    1/0045  . . . . {Venturi arrangements; Aspirators;
+    1/0046  . . . . {Mixing chambers}
+    1/0047  . . . . . {with movable parts, e.g. for stirring}
+    1/0048  . . . . . {with baffles}
+    1/0049  . . . . . {with means for diverging streams}
+    1/005   . . . . . {with means for converging streams}
+    1/0051  . . . {for mixing outside the nozzle}
+    1/0052  . . . . {by means for directing respective streams
+    1/0053  . . . . {by stirring in the cup}
+    1/0054  . . . {Recirculation means}
+    1/0055  . . . . {with fountain effect}
+    1/0056  . . . . . {with illumination}
+    1/0058  . . . {In-line carbonators}
+    1/0059  . . . . {in combination with a mixer tap
+(constructional features of the tap
+    1/006   . . . {Conventional carbonators}
+    1/0061  . . . {with cooling means}
+    1/0062  . . . . {inside the carbonator}
+    1/0063  . . . . . {Cooling coil}
+    1/0064  . . . . . {Cold plate}
+    1/0065  . . . . . {Ice bank}
+    1/0066  . . . . {outside the carbonator}
+    1/0067  . . . . . {Cooling coil}
+    1/0068  . . . . . {Cooling bath}
+    1/007   . . . . {Structure of the carbonating chamber}
+    1/0071  . . . . {Carbonating by injecting CO2 in the liquid}
+    1/0072  . . . . . {through a diffuser, a bubbler}
+    1/0073  . . . . {Carbonating by spraying the liquid}
+    1/0074  . . . . {Automatic carbonation control}
+    1/0075  . . . . . {by sensing gas pressure}
+    1/0076  . . . . . {by sensing temperature}
+    1/0077  . . . . {Carbonator being specially adapted for
+adding a second gas to the CO2}
+    1/0078  . . {Ingredient cartridges}
+    1/0079  . . . {having their own dispensing means}
+    1/008   . . . {Gas cartridges or bottles}
+    1/0081  . . {Dispensing valves}
+    1/0082  . . . {entirely mechanical}
+    1/0083  . . . . {with means for separately dispensing a
+    1/0084  . . . . . {Hand-held gun type valves}
+    1/0085  . . . {electro-mechanical}
+    1/0086  . . . . {Hand-held gun type valves}
+ 2001/0087  . . . {being mounted on the dispenser housing}
+ 2001/0088  . . . . {operated by push buttons}
+ 2001/0089  . . . . {operated by lever means}
+ 2001/009   . . . . {operated by cup detection}
+ 2001/0091  . {Component storage means}
+ 2001/0092  . . {Containers for gas, for, e.g. CO2, N2}
+ 2001/0094  . . {Valve mountings in dispensers}
+ 2001/0095  . {Constructional details}
+ 2001/0096  . . {Means for pressurizing liquid}
+ 2001/0097  . . . {using a pump}
+ 2001/0098  . . . {using a gas}
+    1/02    . Beer engines or like manually-operable pumping
+    1/025   . . {with means for carbonating the beverage, or for
+    1/04    . Apparatus utilising compressed air or other gas
+acting directly or indirectly on beverages in storage
+    1/0406  . . {with means for carbonating the beverage, or for
+maintaining its carbonation (B67D 1/0418 takes
+    1/0412  . . {the whole dispensing unit being fixed to the
+    1/0418  . . . {comprising a CO2 cartridge for dispensing and
+    1/0425  . . . {comprising an air pump system}
+    1/0431  . . . . {power-operated}
+    1/0437  . . . {comprising a gas pressure space within the
+    1/0443  . . . {comprising a gas generator (apparatus for
+generating gases in general B01J 7/00)}
+    1/045   . . {using elastic bags and pistons actuated by air or
+    1/0456  . . {Siphons, i.e. beverage containers under gas
+pressure without supply of further pressurised gas
+    1/0462  . . {Squeezing collapsible or flexible beverage
+containers, e.g. bag-in-box containers}
+    1/0468  . . {comprising means for the recovery of the gas
+ 2001/0475  . . {Type of gas or gas mixture used, other than pure
+ 2001/0481  . . . {Single inert gas, e.g. N2}
+ 2001/0487  . . . {Mixture of gases, e.g. N2 + CO2}
+    1/06    . Mountings or arrangements of dispensing apparatus
+in or on shop or bar counters (shop or bar counters
+    1/07    . Cleaning beverage-dispensing apparatus
+{(B67D 1/0834, B67D 1/0837 take precedence)}
+ 2001/075   . . {Sanitising or sterilising the apparatus}
+    1/0801  . . {of beverage containers, e.g. casks, kegs}
+    1/0804  . . . {Shape or materials}
+    1/0805  . . . {Openings for filling}
+    1/0807  . . . {Openings for emptying, e.g. taped openings}
+    1/0808  . . . {Closing means, e.g. bungholes, barrel bungs}
+    1/0809  . . . {Opening means, e.g. means for assisting the
+ 2001/0811  . . . {provided with coded information}
+ 2001/0812  . . . {Bottles, cartridges or similar containers}
+ 2001/0814  . . . . {for upside down use}
+ 2001/0815  . . . . . {with integral venting tube}
+ 2001/0817  . . . . . {with a venting orifice}
+ 2001/0818  . . . . {arranged in series}
+ 2001/082   . . . . {arranged in parallel}
+ 2001/0821  . . . . {having different compartments for different
+ 2001/0822  . . . {Pressurised rigid containers, e.g. kegs, figals}
+ 2001/0824  . . . . {with dip tubes}
+ 2001/0825  . . . . {details of dip tube}
+ 2001/0827  . . . {Bags in box}
+ 2001/0828  . . . . {in pressurised housing}
+    1/0829  . . {Keg connection means}
+    1/0831  . . . {combined with valves}
+    1/0832  . . . . {with two valves disposed concentrically}
+    1/0834  . . . . . {and having means for admitting a
+    1/0835  . . . . {with one valve}
+    1/0837  . . . . . {and having means for admitting a
+    1/0838  . . . . {comprising means for preventing blow-out
+on disassembly of the spear valve}
+    1/0839  . . . {Automatically operating handles for locking
+or unlocking a connector to or from a keg}
+    1/0842  . . . . {Multiple connectors, e.g. for simultaneously
+    1/0844  . . . . {for containers in crates}
+    1/0845  . . . . {Security means}
+    1/0847  . . . . {Tamper-evident devices}
+    1/0848  . . . . {Locking means}
+    1/0849  . . . . {provided with means to open the keg valve
+when gas pressure is applied to it}
+    1/0851  . . . . {composed of a piston and ram assembly,
+    1/0852  . . . . {composed of a membrane and ram
+    1/0854  . . . . {provided with means to open the keg valve
+when water pressure is applied to it}
+    1/0855  . . {concerning the used flowmeter (flowmeter per se
+    1/0857  . . {Cooling arrangements (cooling systems per se
+    1/0858  . . . {using compression systems}
+    1/0859  . . . . {the evaporator being in direct heat contact
+with the beverage, e.g. placed inside a
+    1/0861  . . . . {the evaporator acting through an
+intermediate heat transfer means}
+    1/0862  . . . . . {in the form of a cold plate or a cooling
+    1/0864  . . . . . {in the form of a cooling bath}
+    1/0865  . . . . . {by circulating a cooling fluid along
+beverage supply lines, e.g. pythons}
+    1/0867  . . . . . . {the cooling fluid being a liquid}
+    1/0868  . . . . . . {the cooling fluid being a gas}
+    1/0869  . . . {using solid state elements, e.g. Peltier cells}
+    1/0871  . . {Level gauges for beverage storage containers
+(level indicators in general G01F)}
+    1/0872  . . {Aesthetics, advertising}
+    1/0874  . . . {Means for illuminating the handle of taps or
+    1/0875  . . . {Means for illuminating the beverage to be
+    1/0877  . . . {Advertising means (advertising in general
+    1/0878  . . {Safety, warning or controlling devices
+    1/0879  . . . {Doors for protecting the vessel to be filled}
+    1/0881  . . . {Means for counting the doses of dispensed
+    1/0882  . . . {Devices for controlling the dispensing
+    1/0884  . . . . {Means for controlling the parameters of
+the state of the liquid to be dispensed, e.g.
+    1/0885  . . . . {Means for dispensing under specific
+atmospheric conditions, e.g. under inert gas}
+    1/0887  . . . {Sanitary protection means for dispensing
+nozzles or taps, e.g. outlet closures}
+    1/0888  . . {Means comprising electronic circuitry (e.g.
+control panels, switching or controlling means)}
+    1/0891  . . . {for the beverage container}
+    1/0892  . . . . {the beverage container being stored in a
+    1/0894  . . . {for the vessel to be filled}
+    1/0895  . . {Heating arrangements}
+    1/0897  . . . {located in nozzles}
+    1/0898  . . . {Beer warmers (B67D 1/0897 takes
+    1/10    . . Pump mechanism (in general F04)
+    1/101   . . . {of the piston-cylinder type}
+    1/102   . . . . {for one liquid component only}
+    1/103   . . . . . {the piston being driven by a liquid or a
+    1/104   . . . . . . {by the liquid to be dispensed}
+    1/105   . . . . {for two or more components}
+    1/106   . . . . . {the piston being driven by a liquid or a
+    1/107   . . . . . . {by one of the components to be
+    1/108   . . . {of the peristaltic type}
+    1/12    . . Flow or pressure control devices or systems {,
+e.g. valves, gas pressure control, level control in
+    1/1202  . . . {Flow control, e.g. for controlling total amount
+or mixture ratio of liquids to be dispensed}
+    1/1204  . . . . {for ratio control purposes}
+    1/1206  . . . . . {Flow detectors}
+    1/1209  . . . . . . {combined with a timer}
+    1/1211  . . . . . {Flow rate sensor}
+    1/1213  . . . . . . {combined with a timer}
+    1/1215  . . . . . . {combined with a counter}
+    1/1218  . . . . . . {modulating the opening of a valve}
+    1/122   . . . . . . {modulating a pumping rate}
+    1/1222  . . . . . {Pressure gauges}
+    1/1225  . . . . . {Weighing}
+    1/1227  . . . . . . {the cup to be filled}
+    1/1229  . . . . . . {the storage container}
+    1/1231  . . . . . {Metering pumps}
+    1/1234  . . . . {to determine the total amount}
+    1/1236  . . . . . {comprising means for detecting the size
+    1/1238  . . . . . {comprising means for detecting the
+liquid level in vessels to be filled, e.g.
+using ultrasonic waves, optical reflexion,
+    1/124   . . . . . {the flow being started or stopped by
+means actuated by the vessel to be filled,
+    1/1243  . . . . . {comprising flow or pressure sensors, e.g.
+    1/1245  . . . {Change-over devices, i.e. connecting a flow
+line from an empty container to a full one}
+    1/1247  . . . {Means for detecting the presence or absence
+    1/125   . . . {Safety means, e.g. over-pressure valves}
+    1/1252  . . . {Gas pressure control means, e.g. for
+maintaining proper carbonation (for beer
+ 2001/1254  . . . . {comprising means for making a mixture of
+    1/1256  . . . {Anti-dripping devices (drip trays B67D 1/16)}
+ 2001/1259  . . . {Fluid level control devices}
+ 2001/1261  . . . . {the level being detected mechanically}
+ 2001/1263  . . . . {the level being detected electrically}
+ 2001/1265  . . . . . {Pressure switches}
+ 2001/1268  . . . . . {Capacitors}
+    1/127   . . . {Froth control (B67D 1/1411 takes
+    1/1272  . . . . {preventing froth}
+    1/1275  . . . . {promoting froth}
+    1/1277  . . . {Flow control valves}
+    1/1279  . . . . {regulating the flow}
+    1/1281  . . . . . {responsive to pressure}
+    1/1284  . . . {Ratio control}
+    1/1286  . . . . {by mechanical construction}
+    1/1288  . . . . . {Multi-chamber piston pumps
+(construction of pumps: B67D 1/10)}
+    1/129   . . . . . {Means for changing the ratio by acting on
+    1/1293  . . . . . {Means for changing the ratio by acting on
+    1/1295  . . . . {Ratio defined by setting flow controllers}
+    1/1297  . . . . {Ratio defined by setting of timers}
+    1/14    . . . Reducing valves or control taps
+    1/1405  . . . . {Control taps}
+    1/1411  . . . . . {Means for controlling the build-up of
+foam in the container to be filled}
+    1/1416  . . . . . . {comprising foam inducing means}
+    1/1422  . . . . . . {comprising foam avoiding means}
+    1/1427  . . . . . . . {by rotating the container to be filled}
+    1/1433  . . . . . . . {by delivering the beverage using a
+    1/1438  . . . . . {comprising a valve shutter movable in
+a direction parallel to the valve seat, e.g.
+    1/1444  . . . . . . {the valve shutter being rotated}
+    1/145   . . . . . {comprising a valve shutter movable in a
+direction perpendicular to the valve seat}
+    1/1455  . . . . . . {the valve shutter being opened in the
+same direction as the liquid flow}
+    1/1461  . . . . . . . {the valve shutter being integral with
+    1/1466  . . . . . . {the valve shutter being opened in a
+direction opposite to the liquid flow}
+    1/1472  . . . . . . . {the valve shutter being integral with
+    1/1477  . . . . . {Devices for assisting tap handling, e.g.
+ 2001/1483  . . . . {electrically or electro-mechanically
+ 2001/1488  . . . . {pneumatically operated}
+ 2001/1494  . . . . {Taps with means for adjusting the position
+    1/16    . . Devices for collecting spilled beverages
+    1/165   . . . {and re-injecting them in the dispensing line}
+    3/00    Apparatus or devices for controlling flow of
+liquids under gravity from storage containers for
+dispensing purposes (separating and dispensing
+metered quantities of liquids G01F)
+    3/0003  . {provided with automatic fluid control means}
+    3/0006  . . {responsive to coded information provided on the
+neck or spout of the storage container, e.g. bar-
+    3/0009  . {provided with cooling arrangements (cooling perse
+    3/0012  . {provided with mixing devices}
+    3/0016  . . {Mixing valves or taps}
+    3/0019  . {using ingredient cartridges}
+    3/0022  . {provided with heating arrangements}
+    3/0025  . {provided with dispensing valves actuated by
+the receptacle to be filled (B67D 3/02 takes
+    3/0029  . {provided with holders for bottles or similar
+    3/0032  . . {the bottle or container being held upside down
+and provided with a closure, e.g. a cap, adapted to
+    3/0035  . . {the bottle or container being held upside down
+and not provided with a closure, e.g. a bottle
+screwed onto a base of a dispenser}
+    3/0038  . {the liquid being stored in an intermediate container
+    3/0041  . {with provisions for metering the liquid to be
+    3/0045  . . {by filling a predetermined volume before
+    3/0048  . {using siphoning arrangements}
+    3/0051  . {dispensing by tilting}
+    3/0054  . {Mounting or arrangements of dispensing apparatus
+    3/0061  . . {of liquid containers, e.g. filling, emptying,
+    3/0067  . . . {relating to shape or materials, e.g. bag-in-box
+    3/007   . . . {containers with adjustable volume}
+    3/0074  . . {Safety or warning devices}
+    3/0077  . . {Electronic circuitry}
+    3/0083  . . . {for the liquid container}
+    3/0087  . . . . {the beverage container being stored in a
+    3/009   . . . {for the vessel to be filled}
+    3/0093  . . {Level indicators}
+    3/0096  . . {Aesthetics, advertising}
+    3/02    . Liquid-dispensing valves having operating members
+arranged to be pressed upwards, e.g. by the rims of
+receptacles held below the delivery orifice
+    3/04    . Liquid-dispensing taps or cocks adapted to seal and
+open tapping holes of casks, e.g. for beer {(closures
+with filling and discharging devices for containers
+    3/041   . . {operated by pinching action on flexible tubes}
+    3/042   . . {operated by deforming a membrane-like closing
+    3/043   . . {with a closing element having a linear
+movement, in a direction perpendicular to the
+    3/044   . . . {and venting means operated automatically
+    3/045   . . {with a closing element having a linear
+movement, in a direction parallel to the seat}
+    3/046   . . . {and venting means operated automatically
+    3/047   . . {with a closing element having a rotational
+    3/048   . . . {and venting means operated automatically
+    7/00    Apparatus or devices for transferring liquids from
+bulk storage containers or reservoirs into vehicles
+or into portable containers, e.g. for retail sale
+purposes (general disposition of plant in stations for
+supplying fuel to vehicles B60S 5/02; for filling or
+emptying locomotive water tanks, e.g. water columns,
+B61K 11/00; for refuelling aircraft during flight
+B64D 39/00; liquid- handling ground installations
+specially adapted for fuelling stationary aircraft
+    7/002   . {using articulated pipes}
+    7/007   . {using siphoning arrangements}
+    7/02    . for transferring liquids other than fuel or lubricants
+    7/0205  . . {by manually operable pumping apparatus (hand-
+held apparatus with pumps for dispensing or
+spraying liquids or fluent materials B05B 11/00)}
+    7/0211  . . . {with pump locking means}
+    7/0216  . . {by squeezing collapsible or flexible storage
+containers (B67D 7/0255 takes precedence; for
+dispensing beverages on draught B67D 1/0001)}
+    7/0222  . . . {the dispensed quantity of liquid being replaced
+by air sucked through the dispensing opening}
+    7/0227  . . {by an ejection plunger (B67D 7/0238 takes
+    7/0233  . . . {the plunger being gas driven}
+    7/0238  . . {utilising compressed air or other gas acting
+directly or indirectly on liquids in storage
+containers (for dispensing beverages on draught
+    7/0244  . . . {by using elastic expandable bags}
+    7/025   . . . . {specially adapted for transferring liquids of
+    7/0255  . . . {squeezing collapsible or flexible storage
+containers (for dispensing beverages on draught
+    7/0261  . . . . {specially adapted for transferring liquids of
+    7/0266  . . . {by gas acting directly on the liquid}
+    7/0272  . . . . {specially adapted for transferring liquids of
+    7/0277  . . {using negative pressure}
+    7/0283  . . . {specially adapted for transferring liquids of
+    7/0288  . . {Container connection means (for dispensing
+beverages on draught B67D 1/0829)}
+    7/0294  . . . {Combined with valves}
+    7/04    . for transferring fuels, lubricants or mixed fuels and
+    7/0401  . . {arrangements for automatically fuelling vehicles,
+i.e. without human intervention}
+ 2007/0403  . . . {Fuelling robots}
+ 2007/0405  . . . . {Opening devices}
+ 2007/0407  . . . . . {for fuel tank flaps}
+ 2007/0409  . . . . . . {using vacuum cups}
+ 2007/0411  . . . . . . {using grippers}
+ 2007/0413  . . . . . . {using air blast}
+ 2007/0415  . . . . . {for filler caps}
+ 2007/0417  . . . . {Manipulator arms}
+ 2007/0419  . . . . {Fuelling nozzles}
+ 2007/0421  . . . . . {with locking devices}
+ 2007/0423  . . . . {Fuelling hoses}
+ 2007/0425  . . . . . {comprising a single hose for several
+ 2007/0426  . . . . . {comprising several hoses for several
+ 2007/0428  . . . . . {having devices to avoid a mix up of
+ 2007/0432  . . . . . {according to a planar coordinate system}
+ 2007/0434  . . . . . . {with the ability to compensate
+movements of the car during filling}
+ 2007/0436  . . . . . {according to a spatial coordinate system}
+ 2007/0438  . . . . . . {with the ability to conpensate
+movements of the car during filling}
+ 2007/044   . . . {Customer interfaces}
+ 2007/0442  . . . . {interface for orders and payments}
+ 2007/0446  . . . . {measuring physical properties of the fluid to
+ 2007/0448  . . . . . {Density}
+ 2007/0449  . . . . . {Viscosity}
+ 2007/0451  . . . . . {Temperature}
+ 2007/0453  . . . . {recognising the fuel to be dispensed}
+ 2007/0455  . . . . {recognising the position}
+ 2007/0457  . . . . . {of the car}
+ 2007/0459  . . . . . . {by interrogating a transponder}
+ 2007/0461  . . . . . . {by calculating from a reference
+position, e.g. the car's silhouette,
+ 2007/0463  . . . . . . {optically}
+ 2007/0465  . . . . . . {by GPS}
+ 2007/0467  . . . . . {of the fuel tank flap and/or fuel tank
+ 2007/0469  . . . . . . {by interrogating a transponder}
+ 2007/0471  . . . . . . {by calculating from a reference
+position, e.g. the car's silhouette,
+ 2007/0473  . . . . . . {optically}
+ 2007/0474  . . . . . {of the filling nozzle relative to the fuel
+tank opening, e.g. engagement between
+    7/0476  . . {Vapour recovery systems}
+    7/0478  . . . {constructional features or components (vapour
+    7/048   . . . . {Vapour flow control means, e.g. valves,
+    7/0482  . . . . . {using pumps driven at different flow
+    7/0484  . . . . . . {Liquid jet pumps, e.g. venturis}
+    7/0486  . . . . . . {Pumps driven in response to electric
+signals indicative of pressure,
+    7/0488  . . . . {Means for preventing the formation
+of condensation on, or for removing
+condensation from, vapour recovery lines}
+    7/049   . . . . {Vapour recovery methods, e.g. condensing
+    7/0492  . . . . {Vapour storing means, e.g. dedicated ullage
+ 2007/0494  . . . . {Means for condensing the vapours and
+reintroducing them into the storage tanks}
+    7/0496  . . . {Performance test devices therefor}
+    7/0498  . . {Arrangements specially adapted for transferring
+biofuels, e.g. ethanol-gasoline mixture}
+    7/06    . Details or accessories
+    7/061   . . {Means for transferring liquids from a chosen
+    7/062   . . . {from the free surface level of the liquid}
+    7/064   . . {Drive-off preventing means, e.g. in case of non-
+    7/065   . . . {acting on the vehicle}
+    7/067   . . . {using communication means}
+    7/068   . . . {using imaging means, e.g. cameras}
+    7/08    . . Arrangements of devices for controlling,
+indicating, metering or registering quantity or
+price of liquid transferred (arrangement of flow-
+or pressure-control valves B67D 7/36; computing,
+calculating, counting G06; coin-freed apparatus
+for dispensing fluids G07F 13/00; prepayment
+devices for metering liquids G07F 15/00)
+    7/085   . . . {Testing or calibrating apparatus therefore
+(testing or calibrating apparatus for measuring
+volume flow in general G01F 25/00)}
+    7/10    . . . operated by keys, push-buttons or cash registers
+    7/103   . . . . {operated by keys}
+    7/106   . . . . {operated by push-buttons}
+    7/12    . . . operated by movement of delivery hose or
+nozzle or by devices associated therewith
+    7/14    . . . responsive to input of recorded programmed
+information, e.g. on punched cards
+    7/145   . . . . {by wireless communication means, e.g. RF,
+    7/16    . . . Arrangements of liquid meters
+    7/163   . . . . {of fixed measuring chamber type}
+    7/166   . . . . . {comprising at least two chambers}
+    7/18    . . . . of piston type
+    7/20    . . . . of rotary type
+    7/22    . . . Arrangements of indicators or registers
+(indicating or recording in fluid meters
+    7/221   . . . . {using electrical or electro-mechanical
+means (B67D 7/224 takes precedence)}
+    7/222   . . . . . {involving digital counting}
+    7/224   . . . . {involving price indicators}
+    7/225   . . . . . {combined with variators}
+    7/227   . . . . . {using electrical or electro-mechanical
+    7/228   . . . . . . {using digital counting}
+    7/24    . . . . with means for producing or issuing a receipt
+    7/243   . . . . . {using electrical or electro-mechanical
+    7/246   . . . . . . {involving digital counting}
+    7/26    . . . . with resetting or zeroing means
+    7/263   . . . . . {using electrical or electro-mechanical
+    7/266   . . . . . . {involving digital counting}
+    7/28    . . . with automatic means for reducing or
+intermittently interrupting flow before
+completion of delivery, e.g. to produce dribble
+    7/30    . . . with means for predetermining quantity of
+liquid to be transferred (B67D 7/10, B67D 7/14
+    7/301   . . . . {using mechanical means (B67D 7/306 takes
+    7/302   . . . . {using electrical or electro-mechanical
+means (B67D 7/307 takes precedence)}
+    7/303   . . . . . {involving digital counting}
+    7/305   . . . . {in function of money to be spent therefor}
+    7/306   . . . . . {using mechanical means}
+    7/307   . . . . . {using electrical or electro-mechanical
+    7/308   . . . . . . {involving digital counting}
+    7/32    . . Arrangements of safety or warning devices;
+Means for preventing unauthorised delivery of
+    7/3209  . . . {relating to spillage or leakage, e.g. spill
+containments, leak detection (leak detectors
+for underground fuel dispensing systems
+    7/3218  . . . {relating to emergency shut-off means}
+    7/3227  . . . {relating to venting of a container during
+    7/3236  . . . {relating to electrostatic charges}
+    7/3245  . . . {relating to the transfer method}
+    7/3254  . . . . {using a pressurised liquid acting directly
+or indirectly on the bulk of the liquid to be
+    7/3263  . . . . {using a pressurised gas acting directly
+or indirectly on the bulk of the liquid to
+be transferred (use of compressed air or
+gas for transferring liquids B67D 7/0238,
+    7/3272  . . . . {using pumps}
+ 2007/329   . . . . {Function indicator devices}
+    7/34    . . . Means for preventing unauthorised delivery of
+    7/342   . . . . {by discriminating the kind of liquid by
+analysis or by physical properties, e.g.
+    7/344   . . . . {by checking a correct coupling or coded
+    7/346   . . . . . {by reading a code}
+    7/348   . . . . . {by interrogating an information
+transmitter, e.g. a transponder
+    7/36    . . Arrangements of flow- or pressure-control valves
+(associated with nozzles B67D 7/42)
+    7/362   . . . {combined with over-fill preventing means
+(indicating or measuring liquid level
+G01F 23/00; level control G05D 9/00)}
+    7/365   . . . . {using floats}
+    7/367   . . . . . {the float acting pneumatically on a shut-
+    7/38    . . Arrangements of hoses, e.g. operative connection
+with pump motor (hoses in general F16L 11/00)
+    7/40    . . . Suspending, reeling or storing devices
+(supports for storing lengths of hoses, in
+    7/403   . . . . {the hose carrier comprising a sliding unit}
+    7/406   . . . . {the hose carrier comprising a pivoting unit}
+    7/42    . . Filling nozzles
+    7/421   . . . {comprising protective covers, e.g. anti-splash
+    7/423   . . . {specially adapted for blending several fluids
+    7/425   . . . {including components powered by electricity
+    7/426   . . . {including means for displaying information,
+e.g. for advertising (B67D 7/425 takes
+    7/428   . . . {for delivering at least two different liquids
+    7/44    . . . automatically closing
+    7/445   . . . . {after a predetermined time}
+    7/46    . . . . when liquid in container to be filled reaches
+    7/465   . . . . . {Electrical probes sensing the level of the
+    7/48    . . . . . by making use of air suction through an
+opening closed by the rising liquid
+    7/50    . . . . and provided with an additional hand lever
+    7/52    . . . . and provided with additional flow-
+    7/54    . . . with means for preventing escape of liquid
+or vapour or for recovering escaped liquid or
+vapour (B67D 7/44 takes precedence)
+ 2007/545   . . . . {Additional means for preventing dispensing
+of liquid by incorrect sealing engagement
+with the tank opening of the vapour
+recovering means, e.g. bellows, shrouds}
+    7/56    . . Arrangements of flow-indicators, e.g. transparent
+compartments, windows, rotary vanes (indicating
+or recording presence, absence or direction of
+    7/565   . . . {for indicating end of flow, e.g. by optical or
+    7/58    . . Arrangements of pumps
+    7/60    . . . manually operable
+    7/62    . . . power operated
+    7/64    . . . . of piston type
+    7/645   . . . . . {Barrel pumps}
+    7/66    . . . . of rotary type
+    7/68    . . . submerged in storage tank or reservoir
+    7/70    . . . of two or more pumps in series or parallel
+    7/72    . . Devices for applying air or other gas pressure for
+forcing liquid to delivery point
+    7/725   . . . {using negative pressure}
+    7/74    . . Devices for mixing two or more different
+liquids to be transferred (coin-freed apparatus
+    7/741   . . . {mechanically operated}
+    7/742   . . . . {involving mechanical counters, e.g. of
+    7/743   . . . {electrically or electro-mechanically operated}
+    7/744   . . . . {involving digital counting}
+ 2007/745   . . . {for obtaining fuel of a given octane level}
+ 2007/746   . . . . {by mixing different fuel grades or fuel and
+ 2007/747   . . . . . {involving means responsive to the octane
+level, e.g. octane sensor, knock engine}
+ 2007/748   . . . . {by mixing fuel with additives, e.g. anti-
+ 2007/749   . . . . . {involving means responsive to the octane
+level, e.g. octane sensor, knock engine}
+    7/76    . . Arrangements of devices for purifying liquids
+to be transferred, e.g. of filters, of air or water
+    7/763   . . . {of air separators}
+    7/766   . . . {of water separators}
+    7/78    . . Arrangements of storage tanks, reservoirs or pipe-
+    7/80    . . Arrangements of heating or cooling devices for
+    7/84    . . Casings, cabinets or frameworks; Trolleys or like
+    7/845   . . . {Trolleys or like movable supports}
+    7/86    . . Illuminating arrangements
+    9/00    Apparatus or devices for transferring liquids when
+loading or unloading ships (ship-based equipment
+    9/02    . using articulated pipes
+   99/00    Subject matter not provided for in other groups of
+ 2210/00    Indexing scheme relating to aspects and details of
+apparatus or devices for dispensing beverages on
+draught or for controlling flow of liquids under
+gravity from storage containers for dispensing
+ 2210/00013 . . Sterilising means
+ 2210/00028 . Constructional details
+ 2210/00036 . . . . for use with or in refrigerators
+ 2210/00052 . . . . with flow tranquilisers
+ 2210/00055 . . . . with turbulent flow generators, e.g. vortices
+ 2210/00057 . . . . adapted for being easily cleaned
+ 2210/00065 . . related to the use of drinking cups or glasses
+ 2210/00068 . . . Means for filling simultaneously a plurality of
+ 2210/0007  . . . For use with partially pre-filled cups
+ 2210/00073 . . . Cup cleaning devices
+ 2210/00076 . . . Cup conveyors
+ 2210/00078 . . . Cup dispensers
+ 2210/00081 . . related to bartenders
+ 2210/00083 . . . Access code recognition means
+ 2210/00086 . . . Selector circuits
+ 2210/00089 . . . Remote control means, e.g. by electromagnetic
+ 2210/00091 . . . Bar management means
+ 2210/00097 . . . Handling of storage containers
+ 2210/00099 . . Temperature control
+ 2210/00107 . . . . by spraying fluids on the inner or outer
+surfaces of the receptacles to be filled
+ 2210/0011  . . . . . The sprayed fluid being a liquid
+ 2210/00112 . . . . . The sprayed fluid being a gas
+ 2210/00115 . . . . . The sprayed fluid being a cryogen
+ 2210/00118 . . . Heating and cooling
+ 2210/0012  . . related to concentrate handling
+ 2210/00123 . . . Preparing a mix of concentrates
+ 2210/00125 . . . Treating or conditioning the concentrate, e.g.
+ 2210/00128 . . relating to outdoor use; movable; portable
+ 2210/00131 . . . wearable by a person, e.g. as a backpack or
+ 2210/00136 . . . . vehicle carried
+ 2210/00144 . . . Magnets, e.g. used in valves or for stirring
+ 2210/00146 . Component storage means
+ 2210/00149 . . Fixed containers to be filled in situ
+ 2210/00152 . . . Automatically
+ 2210/00154 . . . . Level detected by a float
+ 2210/00157 . . . . Level detected electrically by contact with
+ 2210/0016  . Adapted for dispensing high viscosity products

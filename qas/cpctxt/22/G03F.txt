@@ -1,0 +1,901 @@
+COOPERATIVE PATENT CLASSIFICATION
+PHOTOGRAPHY; CINEMATOGRAPHY; ANALOGOUS TECHNIQUES USING
+WAVES OTHER THAN OPTICAL WAVES; ELECTROGRAPHY; HOLOGRAPHY
+PHOTOMECHANICAL PRODUCTION OF TEXTURED OR PATTERNED
+SURFACES, e.g. FOR PRINTING, FOR PROCESSING OF SEMICONDUCTOR
+DEVICES; MATERIALS THEREFOR; ORIGINALS THEREFOR; APPARATUS
+SPECIALLY ADAPTED THEREFOR; (phototypographic composing devices B41B;
+photosensitive materials or processes for photographic purposes G03C; electrophotography,
+sensitive layers or processes therefor G03G)
+In this subclass, the following terms or expressions are used with the meanings indicated :
+• "photosensitive" means not only sensitive to electro-  magnetic radiation but also to corpuscular radiation;
+• "photosensitive compositions" covers photosensitive  substances, e.g. quinonediazides, and, if applicable,  binders or
+• "photosensitive materials" covers the photosensitive  compositions, e.g. photoresists, the bases carrying them  and, if
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Originals for photomechanical production of
+textured or patterned surfaces, e.g., masks, photo-
+masks, reticles; Mask blanks or pellicles therefor;
+Containers specially adapted therefor; Preparation
+In this group, the first place priority rule is applied,
+i.e. at each hierarchical level, in the absence of an
+indication to the contrary, classification is made in
+    1/20    . Masks or mask blanks for imaging by charged
+particle beam [CPB] radiation, e.g. by electron
+    1/22    . Masks or mask blanks for imaging by radiation of
+100nm or shorter wavelength, e.g. X-ray masks,
+extreme ultra-violet [EUV] masks; Preparation
+    1/24    . . Reflection masks; Preparation thereof
+    1/26    . Phase shift masks [PSM]; PSM blanks; Preparation
+    1/28    . . with three or more diverse phases on the same
+    1/29    . . Rim PSM or outrigger PSM; Preparation thereof
+    1/30    . . Alternating PSM, e.g. Levenson-Shibuya PSM;
+    1/32    . . Attenuating PSM [att-PSM], e.g. halftone PSM or
+PSM having semi-transparent phase shift portion,;
+    1/34    . . Phase-edge PSM, e.g. chromeless PSM;
+    1/36    . Masks having proximity correction features;
+Preparation thereof, e.g. optical proximity
+correction [OPC] design processes
+    1/38    . Masks having auxiliary features, e.g. special
+coatings or marks for alignment or testing;
+    1/40    . . Electrostatic discharge [ESD] related features,
+e.g. antistatic coatings or a conductive metal layer
+around the periphery of the mask substrate
+    1/42    . . Alignment or registration features, e.g. alignment
+    1/44    . . Testing or measuring features, e.g. grid patterns,
+focus monitors, sawtooth scales or notched scales
+    1/46    . . Antireflective coatings
+    1/48    . . Protective coatings
+    1/50    . Mask blanks not covered by
+G03F 1/20 - G03F 1/34; Preparation thereof
+    1/54    . Absorbers, e.g. of opaque materials
+    1/56    . . Organic absorbers, e.g. of photo-resists
+    1/58    . . having two or more different absorber layers, e.g.
+    1/62    . Pellicles, e.g. pellicle assemblies, e.g. having
+membrane on support frame; Preparation thereof
+    1/64    . . characterised by the frames, e.g. structure or
+material, including bonding means therefor
+    1/66    . Containers specially adapted for masks, mask
+blanks or pellicles; Preparation thereof
+    1/68    . Preparation processes not covered by groups
+    1/70    . . Adapting basic layout or design of masks to
+lithographic process requirements, e.g., second
+iteration correction of mask patterns for imaging
+    1/72    . . Repair or correction of mask defects
+    1/74    . . . by charged particle beam [CPB], e.g. focused
+    1/76    . . Patterning of masks by imaging
+    1/78    . . . by charged particle beam [CPB], e.g. electron
+    1/82    . . Auxiliary processes, e.g. cleaning or inspecting
+    1/86    . . . . by charged particle beam [CPB]
+    1/88    . prepared by photographic processes for production
+    1/90    . prepared by montage processes
+    1/92    . prepared from printing surfaces
+    3/00    Colour separation; Correction of tonal value
+(photographic copying apparatus in general G03B)
+    3/04    . by photographic means
+    3/10    . Checking the colour or tonal value of separation
+    3/101   . . {Colour or tonal value checking by non-
+photographic means or by means other than using
+non-impact printing methods or duplicating or
+marking methods covered by B41M 5/00}
+    3/102   . . {Lamination or delamination method or apparatus
+    3/103   . . {using tonable photoresist or photopolymerisable
+    3/105   . . {using electro photographic materials}
+    3/106   . . {using non-macromolecular photopolymerisable
+compounds having carbon-to-carbon double
+bonds, other than silicon containing compounds}
+    3/107   . . {using silver halide photosensitive materials}
+    3/108   . . {using a non-impact printing method, e.g. ink jet,
+using duplicating or marking methods covered by
+B41M 5/00, e.g. by ablation or by thermographic
+    5/00    Screening processes; Screens therefor {(plates
+or light sensitive layers with incorporated screen
+    5/02    . by projection methods (cameras G03B)
+    5/04    . . changing the screen effect
+    5/06    . . changing the diaphragm effect
+    5/08    . . using line screens
+    5/10    . . using cross-line screens
+    5/12    . . using other screens, e.g. granulated screen
+    5/14    . by contact methods
+    5/16    . . using grey half-tone screens
+    5/18    . . using colour half-tone screens
+    5/20    . using screens for gravure printing
+    5/22    . combining several screens; Elimination of moiré
+    5/24    . by multiple exposure, e.g. combined processes for
+    7/00    Photomechanical, e.g. photolithographic,
+production of textured or patterned surfaces,
+e.g. printing surfaces; Materials therefor, e.g.
+comprising photoresists; Apparatus specially
+adapted therefor (using photoresist structures for
+special production processes, see the relevant places,
+e.g. B44C, H01L, e.g. H01L 21/00, H05K)
+    7/0002  . {Lithographic processes using patterning methods
+other than those involving the exposure to radiation,
+    7/0005  . {Production of optical devices or components in so
+far as characterised by the lithographic processes or
+    7/0007  . . {Filters, e.g. additive colour filters; Components
+    7/001   . . {Phase modulating patterns, e.g. refractive index
+    7/0012  . {Processes making use of the tackiness of the
+photolithographic materials, e.g. for mounting;
+Packaging for photolithographic material; Packages
+obtained by processing photolithographic materials}
+    7/0015  . {Production of aperture devices, microporous
+    7/0017  . {for the production of embossing, cutting or similar
+devices; for the production of casting means}
+    7/002   . {using materials containing microcapsules;
+Preparing or processing such materials, e.g. by
+pressure; Devices or apparatus specially designed
+    7/0022  . . {Devices or apparatus}
+    7/0025  . . . {characterised by means for coating the
+    7/0027  . . . {characterised by pressure means}
+    7/003   . . . {characterised by storage means for the light
+sensitive material, e.g. cartridges}
+    7/0032  . . . {characterised by heat providing or glossing
+    7/0035  . {Multiple processes, e.g. applying a further resist
+layer on an already in a previously step, processed
+    7/0037  . {Production of three-dimensional images}
+    7/004   . Photosensitive materials (G03F 7/12, G03F 7/14
+    7/0041  . . {providing an etching agent upon exposure
+(G03F 7/075 takes precedence; photolytic
+halogen compounds G03F 7/0295)}
+    7/0042  . . {with inorganic or organometallic light-sensitive
+compounds not otherwise provided for, e.g.
+inorganic resists (G03F 7/075 takes precedence)}
+    7/0043  . . . {Chalcogenides; Silicon, germanium, arsenic
+or derivatives thereof; Metals, oxides or alloys
+thereof (G03F 7/0044 takes precedence)}
+    7/0044  . . . {involving an interaction between the metallic
+and non-metallic component, e.g. photodope
+    7/0045  . . {with organic non-macromolecular light-sensitive
+compounds not otherwise provided for, e.g.
+    7/0046  . . {with perfluoro compounds, e.g. for dry
+lithography (G03F 7/0048 takes precedence)}
+    7/0047  . . {characterised by additives for obtaining a
+metallic or ceramic pattern, e.g. by firing}
+    7/0048  . . {characterised by the solvents or agents
+facilitating spreading, e.g. tensio-active agents}
+    7/008   . . Azides (G03F 7/075 takes precedence)
+    7/0085  . . . {characterised by the non-macromolecular
+    7/012   . . . Macromolecular azides; Macromolecular
+additives, e.g. binders {(G03F 7/0085 takes
+    7/0125  . . . . {characterised by the polymeric binder or
+the macromolecular additives other than the
+    7/016   . . Diazonium salts or compounds (G03F 7/075 takes
+    7/0163  . . . {Non ionic diazonium compounds, e.g.
+diazosulphonates; Precursors thereof, e.g.
+    7/0166  . . . {characterised by the non-macromolecular
+    7/021   . . . Macromolecular diazonium compounds;
+Macromolecular additives, e.g. binders
+{(G03F 7/0166 takes precedence)}
+    7/0212  . . . . {characterised by the polymeric binder or
+the macromolecular additives other than
+the diazo resins or the polymeric diazonium
+    7/0215  . . . . . {Natural gums; Proteins, e.g. gelatins;
+Macromolecular carbohydrates, e.g.
+cellulose; Polyvinyl alcohol and
+derivatives thereof, e.g. polyvinylacetals}
+    7/0217  . . . . . {Polyurethanes; Epoxy resins}
+    7/022   . . Quinonediazides (G03F 7/075 takes precedence)
+    7/0223  . . . {Iminoquinonediazides; Para-quinonediazides}
+    7/0226  . . . {characterised by the non-macromolecular
+    7/023   . . . Macromolecular quinonediazides;
+Macromolecular additives, e.g. binders
+{(G03F 7/0226 takes precedence)}
+    7/0233  . . . . {characterised by the polymeric binders or
+the macromolecular additives other than the
+macromolecular quinonediazides}
+    7/0236  . . . . . {Condensation products of carbonyl
+compounds and phenolic compounds, e.g.
+    7/025   . . Non-macromolecular photopolymerisable
+compounds having carbon-to-carbon triple bonds,
+e.g. acetylenic compounds (G03F 7/075 takes
+    7/027   . . Non-macromolecular photopolymerisable
+compounds having carbon-to-carbon double
+bonds, e.g. ethylenic compounds (G03F 7/075
+    7/0275  . . . {with dithiol or polysulfide compounds}
+    7/028   . . . with photosensitivity-increasing substances,
+    7/0285  . . . . {Silver salts, e.g. a latent silver salt image}
+    7/029   . . . . Inorganic compounds; Onium compounds;
+Organic compounds having hetero atoms
+other than oxygen, nitrogen or sulfur
+    7/0295  . . . . . {Photolytic halogen compounds}
+    7/031   . . . . Organic compounds not covered by group
+    7/0325  . . . . {the binders being polysaccharides, e.g.
+    7/033   . . . . the binders being polymers obtained by
+reactions only involving carbon-to-carbon
+unsaturated bonds, e.g. vinyl polymers
+    7/035   . . . . the binders being polyurethanes
+    7/037   . . . . the binders being polyamides or polyimides
+    7/038   . . Macromolecular compounds which are rendered
+insoluble or differentially wettable (G03F 7/075
+takes precedence; macromolecular azides
+G03F 7/012; macromolecular diazonium
+    7/0381  . . . {using a combination of a phenolic resin and a
+    7/0382  . . . {the macromolecular compound being present
+in a chemically amplified negative photoresist
+    7/0384  . . . {with ethylenic or acetylenic bands in the main
+    7/0385  . . . {using epoxidised novolak resin}
+    7/0387  . . . {Polyamides or polyimides}
+    7/0388  . . . {with ethylenic or acetylenic bands in the side
+    7/039   . . Macromolecular compounds which are
+photodegradable, e.g. positive electron resists
+(G03F 7/075 takes precedence; macromolecular
+    7/0392  . . . {the macromolecular compound being present
+in a chemically amplified positive photoresist
+    7/0395  . . . . {the macromolecular compound having a
+backbone with alicyclic moieties}
+    7/0397  . . . . {the macromolecular compound having an
+alicyclic moiety in a side chain}
+    7/04    . . Chromates (G03F 7/075 takes precedence)
+    7/06    . . Silver salts (G03F 7/075 takes precedence)
+    7/063   . . . {Additives or means to improve the
+lithographic properties; Processing solutions
+characterised by such additives; Treatment
+after development or transfer, e.g. finishing,
+washing; Correction or deletion fluids}
+    7/066   . . . . {Organic derivatives of bivalent sulfur, e.g.
+    7/07    . . . used for diffusion transfer {(G03F 7/063 takes
+    7/075   . . Silicon-containing compounds
+    7/0751  . . . {used as adhesion-promoting additives or as
+    7/0752  . . . {in non photosensitive layers or as additives,
+    7/0754  . . . {Non-macromolecular compounds containing
+silicon-to-silicon bonds (G03F 7/0752 takes
+    7/0755  . . . {Non-macromolecular compounds containing
+Si-O, Si-C or Si-N bonds (G03F 7/0752 takes
+    7/0757  . . . {Macromolecular compounds containing Si-
+O, Si-C or Si-N bonds (G03F 7/0752 takes
+    7/0758  . . . . {with silicon- containing groups in the side
+    7/085   . . Photosensitive compositions characterised
+by adhesion-promoting non-macromolecular
+additives (G03F 7/075 takes precedence)
+    7/09    . . characterised by structural details, e.g. supports,
+auxiliary layers (supports for printing plates in
+    7/091   . . . {characterised by antireflection means or light
+filtering or absorbing means, e.g. anti-halation,
+    7/092   . . . {characterised by backside coating or layers,
+by lubricating-slip layers or means, by oxygen
+barrier layers or by stripping-release layers or
+    7/093   . . . {characterised by antistatic means, e.g. for
+    7/094   . . . {Multilayer resist systems, e.g. planarising
+    7/095   . . . having more than one photosensitive layer
+    7/0952  . . . . {comprising silver halide or silver salt based
+image forming systems, e.g. for camera
+    7/0955  . . . . {one of the photosensitive systems
+comprising a non-macromolecular
+photopolymerisable compound having
+carbon-to-carbon double bonds, e.g.
+    7/0957  . . . . {with sensitive layers on both sides of the
+    7/105   . . . having substances, e.g. indicators, for forming
+    7/11    . . . having cover layers or intermediate layers, e.g.
+subbing layers {(G03F 7/091 - G03F 7/093,
+    7/115   . . . having supports or layers with means for
+obtaining a screen effect or for obtaining better
+    7/12    . Production of screen printing forms or similar
+    7/14    . Production of collotype printing forms
+    7/16    . Coating processes; Apparatus therefor (applying
+coatings to base materials in general B05;
+applying photosensitive compositions to base for
+photographic purposes G03C 1/74)
+    7/161   . . {using a previously coated surface, e.g. by
+stamping or by transfer lamination}
+    7/162   . . {Coating on a rotating support, e.g. using a
+    7/164   . . {using electric, electrostatic or magnetic means;
+    7/165   . . {Monolayers, e.g. Langmuir-Blodgett}
+    7/167   . . {from the gas phase, by plasma deposition
+(G03F 7/2035 takes precedence)}
+    7/168   . . {Finishing the coated layer, e.g. drying, baking,
+    7/18    . . Coating curved surfaces
+    7/20    . Exposure; Apparatus therefor (photographic
+printing apparatus for making copies G03B 27/00)
+    7/2002  . . {with visible light or UV light, through an
+original having an opaque pattern on a transparent
+support, e.g. film printing, projection printing; by
+reflection of visible or UV light from an original
+    7/2004  . . . {characterised by the use of a particular light
+source, e.g. fluorescent lamps or deep UV
+    7/2006  . . . . {using coherent light; using polarised light}
+    7/2008  . . . {characterised by the reflectors, diffusers, light
+or heat filtering means or anti-reflective means
+    7/201   . . . {characterised by an oblique exposure;
+characterised by the use of plural sources;
+characterised by the rotation of the optical
+device; characterised by a relative movement of
+the optical device, the light source, the sensitive
+    7/2012  . . . {using liquid photohardening compositions,
+e.g. for the production of reliefs such as
+    7/2014  . . . {Contact or film exposure of light sensitive
+plates such as lithographic plates or circuit
+boards, e.g. in a vacuum frame}
+    7/2016  . . . . {Contact mask being integral part of the
+photosensitive element and subject to
+destructive removal during post-exposure
+    7/2018  . . . . . {Masking pattern obtained by selective
+application of an ink or a toner, e.g. ink jet
+    7/202   . . . . . {Masking pattern being obtained by
+thermal means, e.g. laser ablation}
+    7/2022  . . {Multi-step exposure, e.g. hybrid; backside
+exposure; blanket exposure, e.g. for image
+reversal; edge exposure, e.g. for edge bead
+    7/2024  . . . {of the already developed image}
+    7/2026  . . . {for the removal of unwanted material, e.g.
+image or background correction}
+    7/2028  . . . . {of an edge bead on wafers}
+    7/203   . . . {comprising an imagewise exposure to
+electromagnetic radiation or corpuscular
+    7/2032  . . . {Simultaneous exposure of the front side and
+    7/2035  . . {simultaneous coating and exposure; using a belt
+    7/2037  . . {Exposure with X-ray radiation or corpuscular
+radiation, through a mask with a pattern opaque to
+    7/2039  . . . {X-ray radiation}
+    7/2041  . . {in the presence of a fluid, e.g. immersion; using
+    7/2043  . . . {with the production of a chemical active
+agent from a fluid, e.g. an etching agent; with
+meterial deposition from the fluid phase, e.g.
+    7/2045  . . {using originals with apertures, e.g. stencil
+    7/2047  . . . {Exposure with radiation other than visible
+light or UV light, e.g. shadow printing,
+    7/2049  . . {using a cantilever}
+    7/2051  . . {Exposure without an original mask, e.g. using
+a programmed deflection of a point source, by
+scanning, by drawing with a light beam, using an
+addressed light or corpuscular source (G03F 7/70
+    7/2053  . . . {using a laser (ablative removal B41C)}
+    7/2055  . . . . {for the production of printing plates;
+Exposure of liquid photohardening
+    7/2057  . . . {using an addressed light valve, e.g. a liquid
+    7/2059  . . . {using a scanning corpuscular radiation beam,
+    7/2061  . . . . {Electron scattering (proximity) correction or
+    7/2063  . . . . {for the production of exposure masks or
+    7/2065  . . . . {using corpuscular radiation other than
+    7/213   . . Exposing with the same light pattern different
+positions of the same surface at the same time
+    7/22    . . Exposing sequentially with the same light
+pattern different positions of the same surface
+    7/24    . . Curved surfaces {(G03F 7/70 takes precedence)}
+    7/26    . Processing photosensitive materials; Apparatus
+therefor (G03F 7/12 - G03F 7/24 take precedence)
+    7/265   . . {Selective reaction with inorganic or
+organometallic reagents after image-wise
+    7/28    . . for obtaining powder images (G03F 3/10 takes
+    7/30    . . Imagewise removal using liquid means
+    7/3007  . . . {combined with electrical means, e.g. force
+    7/3014  . . . {combined with ultrasonic means}
+    7/3021  . . . {from a wafer supported on a rotating chuck}
+    7/3028  . . . . {characterised by means for on-wafer
+    7/3035  . . . {from printing plates fixed on a cylinder or on
+a curved surface; from printing cylinders}
+    7/3042  . . . {from printing plates transported horizontally
+through the processing stations}
+    7/305   . . . . {characterised by the brushing or rubbing
+    7/3057  . . . . {characterised by the processing units other
+than the developing unit, e.g. washing units}
+    7/3064  . . . . {characterised by the transport means or
+means for confining the different units, e.g.
+    7/3071  . . . . {Process control means, e.g. for
+    7/3078  . . . . {Processing different kinds of plates, e.g.
+negative and positive plates, in the same
+    7/3085  . . . {from plates or webs transported vertically;
+from plates suspended or immersed vertically
+    7/3092  . . . {Recovery of material; Waste processing}
+    7/32    . . . Liquid compositions therefor, e.g. developers
+    7/322   . . . . {Aqueous alkaline compositions}
+    7/325   . . . . {Non-aqueous compositions}
+    7/327   . . . . . {Non-aqueous alkaline compositions, e.g.
+anhydrous quaternary ammonium salts}
+    7/34    . . Imagewise removal by selective transfer, e.g.
+    7/343   . . . {Lamination or delamination methods or
+apparatus for photolitographic photosensitive
+    7/346   . . . {using photosensitive materials other than
+non-macromolecular photopolymerisable
+compounds having carbon-to-carbon double
+    7/36    . . Imagewise removal not covered by groups
+G03F 7/30 - G03F 7/34, e.g. using gas streams,
+    7/38    . . Treatment before imagewise removal, e.g.
+prebaking {(G03F 7/265 takes precedence)}
+    7/40    . . Treatment after imagewise removal, e.g. baking
+    7/405   . . . {Treatment with inorganic or organometallic
+reagents after imagewise removal}
+    7/42    . . Stripping or agents therefor
+Stripping involving the use of a combination
+of means, e.g. plasma and radiation, is
+classified in group G03F 7/42 only
+    7/421   . . . {using biological means only, e.g. enzymes}
+    7/422   . . . {using liquids only (G03F 7/421 takes
+    7/423   . . . . {containing mineral acids or salts thereof,
+containing mineral oxidizing substances, e.g.
+    7/425   . . . . {containing mineral alkaline compounds;
+containing organic basic compounds,
+e.g. quaternary ammonium compounds;
+containing heterocyclic basic compounds
+    7/426   . . . . {containing organic halogen compounds;
+containing organic sulfonic acids or salts
+thereof; containing sulfoxides}
+    7/427   . . . {using plasma means only}
+    7/428   . . . {using ultrasonic means only}
+    7/70    . {Microphotolithographic exposure; Apparatus
+therefor (photo-masks G03F 1/00)}
+Group G03F 7/70 is incomplete pending
+reclassification of documents from group
+Groups G03F 7/70375 and G03F 7/70 should
+be considered in order to perform a complete
+    7/70008 . . {Production of exposure light, i.e. light sources}
+    7/70016 . . . {by discharge lamps}
+    7/70033 . . . {by plasma extreme ultraviolet [EUV] sources}
+    7/70041 . . . {by pulsed sources, e.g. multiplexing, pulse
+duration, interval control or intensity control}
+    7/7005  . . . {by multiple sources, e.g. light-emitting diodes
+[LED] or light source arrays (addressable array
+sources specially adapted to produce patterns
+    7/70058 . . {Mask illumination systems}
+    7/70066 . . . {Size and form of the illuminated area in the
+mask plane, e.g. reticle masking blades or
+    7/70075 . . . {Homogenization of illumination intensity
+in the mask plane by using an integrator, e.g.
+fly's eye lens, facet mirror or glass rod, by
+using a diffusing optical element or by beam
+    7/70083 . . . {Non-homogeneous intensity distribution in the
+    7/70091 . . . {Illumination settings, i.e. intensity distribution
+in the pupil plane or angular distribution in the
+field plane; On-axis or off-axis settings, e.g.
+annular, dipole or quadrupole settings; Partial
+coherence control, i.e. sigma or numerical
+    7/701   . . . . {Off-axis setting using an aperture}
+    7/70108 . . . . {Off-axis setting using a light-guiding
+element, e.g. diffractive optical elements
+    7/70116 . . . . {Off-axis setting using a programmable
+means, e.g. liquid crystal display [LCD],
+digital micromirror device [DMD] or pupil
+    7/70125 . . . {Use of illumination settings tailored to
+particular mask patterns (details of setting
+    7/70133 . . . {Measurement of illumination distribution, in
+    7/70141 . . . {Illumination system adjustment, e.g.
+adjustments during exposure or alignment
+during assembly of illumination system}
+    7/7015  . . . {Details of optical elements}
+    7/70158 . . . . {Diffractive optical elements}
+    7/70166 . . . . {Capillary or channel elements, e.g. nested
+extreme ultraviolet [EUV] mirrors or shells,
+optical fibers or light guides}
+    7/70175 . . . . {Lamphouse reflector arrangements or
+collector mirrors, i.e. collecting light from
+solid angle upstream of the light source}
+    7/70183 . . . . {Zoom systems for adjusting beam diameter}
+    7/70191 . . . {Optical correction elements, filters or phase
+plates for controlling intensity, wavelength,
+polarisation, phase or the like}
+Wavelength or polarisation control is
+further classified in groups G03F 7/70566,
+    7/702   . . . {Reflective illumination, i.e. reflective
+optical elements other than folding mirrors,
+e.g. extreme ultraviolet [EUV] illumination
+    7/70208 . . . {Multiple illumination paths, e.g. radiation
+distribution devices, microlens illumination
+systems, multiplexers or demultiplexers for
+single or multiple projection systems}
+    7/70216 . . {Mask projection systems}
+    7/70225 . . . {Optical aspects of catadioptric systems, i.e.
+comprising reflective and refractive elements}
+Catadioptric systems are further classified in
+    7/70233 . . . {Optical aspects of catoptric systems, i.e.
+comprising only reflective elements, e.g.
+extreme ultraviolet [EUV] projection systems}
+Further aspects of catoptric systems are
+    7/70241 . . . {Optical aspects of refractive lens systems, i.e.
+comprising only refractive elements}
+Further aspects of refractive systems are
+classified in group G02B 13/143
+    7/7025  . . . {Size or form of projection system aperture,
+e.g. aperture stops, diaphragms or pupil
+    7/70258 . . . {Projection system adjustments, e.g.
+adjustments during exposure or alignment
+during assembly of projection system}
+    7/70266 . . . . {Adaptive optics, e.g. deformable optical
+elements for wavefront control, e.g. for
+aberration adjustment or correction}
+    7/70275 . . . {Multiple projection paths, e.g. array of
+projection systems, microlens projection
+systems or tandem projection systems}
+    7/70283 . . . {Mask effects on the imaging process}
+    7/70291 . . . . {Addressable masks, e.g. spatial light
+modulators [SLMs], digital micro-mirror
+devices [DMDs] or liquid crystal display
+    7/703   . . . {Non-planar pattern areas or non-planar masks,
+e.g. curved masks or substrates}
+    7/70308 . . . {Optical correction elements, filters or phase
+plates for manipulating imaging light, e.g.
+intensity, wavelength, polarisation, phase or
+Wavelength or polarisation control is
+further classified in groups G03F 7/70566,
+    7/70316 . . . {Details of optical elements, e.g. of Bragg
+reflectors, extreme ultraviolet [EUV] multilayer
+or bilayer mirrors or diffractive optical
+1. Particular optical materials are further
+classified in group G03F 7/70958;
+2. Multilayer reflectors for X-ray or EUV
+lithography are further classified in group
+    7/70325 . . . {Resolution enhancement techniques not
+otherwise provided for, e.g. darkfield
+imaging, interfering beams, spatial frequency
+multiplication, nearfield lenses or solid
+    7/70333 . . . . {Focus drilling, i.e. increase in depth of
+focus for exposure by modulating focus
+    7/70341 . . . {Details of immersion lithography aspects, e.g.
+exposure media or control of immersion liquid
+supply (chemical composition of immersion
+    7/7035  . . . {Proximity or contact printers}
+    7/70358 . . . {Scanning exposure, i.e. relative movement of
+patterned beam and workpiece during imaging}
+    7/70366 . . . . {Rotary scanning}
+    7/70375 . . {Multiphoton lithography or multiphoton
+photopolymerization; Imaging systems
+comprising means for converting one type of
+radiation into another type of radiation}
+Group G03F 7/70375 is impacted by
+reclassification into group G03F 7/70.
+Groups G03F 7/70375 and G03F 7/70 should
+be considered in order to perform a complete
+    7/70383 . . {Direct write, i.e. pattern is written directly
+without the use of a mask by one or multiple
+beams (maskless lithography using a
+programmable mask G03F 7/70291)}
+    7/70391 . . . {Addressable array sources specially adapted to
+produce patterns, e.g. addressable LED arrays}
+    7/704   . . . {Scanned exposure beam, e.g. raster-, rotary-
+and vector scanning (mask projection exposure
+involving relative movement of patterned beam
+and workpiece during imaging G03F 7/70358)}
+    7/70408 . . {Interferometric lithography; Holographic
+lithography; Self-imaging lithography, e.g.
+    7/70416 . . {2.5D lithography}
+{Apparatus for photolithographical production
+of three-dimensional images are further
+classified in group G03F 7/0037}
+by reclassification into groups
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/70425 . . {Imaging strategies, e.g. for increasing
+throughput or resolution, printing product fields
+larger than the image field or compensating
+lithography- or non-lithography errors, e.g.
+proximity correction, mix-and-match, stitching or
+    7/70433 . . . {Layout for increasing efficiency or for
+compensating imaging errors, e.g. layout of
+exposure fields for reducing focus errors; Use
+of mask features for increasing efficiency or for
+    7/70441 . . . . {Optical proximity correction [OPC]}
+    7/7045  . . . {Hybrid exposures, i.e. multiple exposures
+of the same area using different types of
+exposure apparatus, e.g. combining projection,
+proximity, direct write, interferometric, UV, x-
+    7/70458 . . . {Mix-and-match, i.e. multiple exposures of
+the same area using a similar type of exposure
+apparatus, e.g. multiple exposures using a UV
+    7/70466 . . . {Multiple exposures, e.g. combination of fine
+and coarse exposures, double patterning or
+multiple exposures for printing a single feature
+    7/70475 . . . {Stitching, i.e. connecting image fields to
+produce a device field, the field occupied by a
+device such as a memory chip, processor chip,
+    7/70483 . . {Information management; Active and passive
+control; Testing; Wafer monitoring, e.g. pattern
+Group G03F 7/70483 is impacted by
+reclassification into groups G03F 7/70605,
+G03F 7/70653, G03F 7/70655, G03F 7/70681,
+G03F 7/706835 - G03F 7/706841 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/70491 . . . {Information management, e.g. software;
+Active and passive control, e.g. details of
+controlling exposure processes or exposure tool
+by reclassification into groups
+G03F 7/706835 - G03F 7/706841 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/705   . . . . {Modelling or simulating from physical
+phenomena up to complete wafer processes
+or whole workflow in wafer productions}
+G03F 7/706843 and G03F 7/706845.
+All groups listed in this Warning should
+be considered in order to perform a
+    7/70504 . . . . . {Optical system modelling, e.g. lens
+Group G03F 7/70504 is incomplete
+pending reclassification of documents
+Groups G03F 7/705 and G03F 7/70504
+should be considered in order to
+    7/70508 . . . . {Data handling in all parts of the
+microlithographic apparatus, e.g. handling
+pattern data for addressable masks or data
+transfer to or from different components
+by reclassification into groups
+G03F 7/706837 and G03F 7/706845.
+All groups listed in this Warning should
+be considered in order to perform a
+    7/70516 . . . . {Calibration of components of the
+microlithographic apparatus, e.g. light
+sources, addressable masks or detectors}
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+    7/70525 . . . . {Controlling normal operating mode, e.g.
+matching different apparatus, remote control
+by reclassification into groups
+G03F 7/706835 - G03F 7/706841 should
+be considered in order to perform a
+    7/70533 . . . . {Controlling abnormal operating mode, e.g.
+taking account of waiting time, decision to
+by reclassification into groups
+G03F 7/706835 - G03F 7/706841 should
+be considered in order to perform a
+    7/70541 . . . . {Tagging, i.e. hardware or software tagging
+of features or components, e.g. using tagging
+scripts or tagging identifier codes for
+identification of chips, shots or wafers}
+    7/7055  . . . {Exposure light control in all parts of the
+microlithographic apparatus, e.g. pulse length
+    7/70558 . . . . {Dose control, i.e. achievement of a desired
+    7/70566 . . . . {Polarisation control}
+    7/70575 . . . . {Wavelength control, e.g. control of
+bandwidth, multiple wavelength, selection
+of wavelength or matching of optical
+    7/70583 . . . . {Speckle reduction, e.g. coherence control or
+    7/70591 . . . {Testing optical components}
+    7/706   . . . . {Aberration measurement}
+    7/70605 . . . {Workpiece metrology}
+Group G03F 7/70605 is incomplete
+pending reclassification of documents from
+groups G03F 7/70483, G03F 7/70491 and
+All groups listed in this Warning should be
+considered in order to perform a complete
+    7/70608 . . . . {Monitoring the unpatterned workpiece, e.g.
+measuring thickness, reflectivity or effects of
+G03F 7/706835 - G03F 7/706841 and
+All groups listed in this Warning should
+be considered in order to perform a
+    7/70616 . . . . {Monitoring the printed patterns}
+by reclassification into groups
+G03F 7/706835 - G03F 7/706841 and
+All groups listed in this Warning should
+be considered in order to perform a
+    7/70625 . . . . . {Dimensions, e.g. line width, critical
+dimension [CD], profile, sidewall angle or
+G03F 7/706835 - G03F 7/706841 and
+All groups listed in this Warning should
+be considered in order to perform a
+    7/70633 . . . . . {Overlay, i.e. relative alignment between
+patterns printed by separate exposures in
+different layers, or in the same layer in
+multiple exposures or stitching}
+G03F 7/706835 - G03F 7/706841 and
+All groups listed in this Warning should
+be considered in order to perform a
+G03F 7/706835 - G03F 7/706841 and
+All groups listed in this Warning should
+be considered in order to perform a
+    7/7065  . . . . . {Defects, e.g. optical inspection of
+G03F 7/706835 - G03F 7/706841 and
+All groups listed in this Warning should
+be considered in order to perform a
+    7/70653 . . . . {Metrology techniques}
+Group G03F 7/70653 is incomplete
+pending reclassification of documents
+from groups G03F 7/70483, G03F 7/705,
+All groups listed in this Warning should
+be considered in order to perform a
+    7/70655 . . . . . {Non-optical, e.g. atomic force
+microscope [AFM] or critical dimension
+scanning electron microscope [CD-SEM]}
+Group G03F 7/70655 is incomplete
+pending reclassification of documents
+All groups listed in this Warning should
+be considered in order to perform a
+    7/70658 . . . . . {Electrical testing}
+G03F 7/706843 and G03F 7/706845.
+All groups listed in this Warning should
+be considered in order to perform a
+    7/70666 . . . . . {Aerial image, i.e. measuring the image of
+the patterned exposure light at the image
+plane of the projection system}
+Group G03F 7/70666 is incomplete
+pending reclassification of documents
+All groups listed in this Warning should
+be considered in order to perform a
+    7/70675 . . . . . {Latent image, i.e. measuring the image of
+the exposed resist prior to development}
+by reclassification into groups
+G03F 7/706835 - G03F 7/706841 and
+All groups listed in this Warning should
+be considered in order to perform a
+    7/70681 . . . . {Metrology strategies}
+Group G03F 7/70681 is incomplete
+pending reclassification of documents
+All groups listed in this Warning should
+be considered in order to perform a
+    7/70683 . . . . . {Mark designs}
+Group G03F 7/70683 is incomplete
+pending reclassification of documents
+Group G03F 7/70683 is also impacted
+by reclassification into groups
+G03F 7/706843 and G03F 7/706845.
+All groups listed in this Warning should
+be considered in order to perform a
+    7/706831 . . . . . {Recipe selection or optimisation, e.g.
+select or optimise recipe parameters such
+as wavelength, polarisation or illumination
+Group G03F 7/706831 is incomplete
+pending reclassification of documents
+All groups listed in this Warning should
+be considered in order to perform a
+    7/706833 . . . . . {Sampling plan selection or optimisation,
+e.g. select or optimise the number, order or
+locations of measurements taken per die,
+Group G03F 7/706833 is incomplete
+pending reclassification of documents
+All groups listed in this Warning should
+be considered in order to perform a
+    7/706835 . . . . {Metrology information management or
+G03F 7/706837 are incomplete pending
+reclassification of documents from
+groups G03F 7/70483, G03F 7/70491,
+All groups listed in this Warning should
+be considered in order to perform a
+    7/706837 . . . . . {Data analysis, e.g. filtering, weighting,
+flyer removal, fingerprints or root cause
+    7/706839 . . . . . {Modelling, e.g. modelling scattering or
+G03F 7/706841 are incomplete pending
+reclassification of documents from
+groups G03F 7/70483, G03F 7/70491,
+All groups listed in this Warning should
+be considered in order to perform a
+    7/706841 . . . . . . {Machine learning}
+    7/706843 . . . . {Metrology apparatus}
+Group G03F 7/706843 is incomplete
+pending reclassification of documents
+from groups G03F 7/70483, G03F 7/705,
+All groups listed in this Warning should
+be considered in order to perform a
+    7/706845 . . . . . {Calibration, e.g. tool-to-tool calibration,
+beam alignment, spot position or focus}
+Group G03F 7/706845 is incomplete
+pending reclassification of documents
+All groups listed in this Warning should
+be considered in order to perform a
+    7/706847 . . . . . {Production of measurement radiation, e.g.
+synchrotron, free-electron laser, plasma
+source or higher harmonic generation
+Group G03F 7/706847 is incomplete
+pending reclassification of documents
+All groups listed in this Warning should
+be considered in order to perform a
+    7/706849 . . . . . {Irradiation branch, e.g. optical system
+details, illumination mode or polarisation
+Group G03F 7/706849 is incomplete
+pending reclassification of documents
+All groups listed in this Warning should
+be considered in order to perform a
+    7/706851 . . . . . {Detection branch, e.g. detector
+arrangements, polarisation control,
+wavelength control or dark/bright field
+Group G03F 7/706851 is incomplete
+pending reclassification of documents
+All groups listed in this Warning should
+be considered in order to perform a
+    7/70691 . . {Handling of masks or workpieces}
+    7/707   . . . {Chucks, e.g. chucking or un-chucking
+operations or structural details}
+    7/70708 . . . . {being electrostatic; Electrostatically
+    7/70733 . . . {Handling masks and workpieces, e.g.
+exchange of workpiece or mask, transport of
+    7/70741 . . . . {Handling masks outside exposure position,
+Protective means, e.g. containers, for
+masks, blanks or pellicles, are further
+    7/7075  . . . . {Handling workpieces outside exposure
+    7/70758 . . . {Drive means, e.g. actuators, motors for long-
+or short-stroke modules or fine or coarse
+    7/70766 . . . {Reaction force control means, e.g.
+    7/70775 . . . {Position control, e.g. interferometers or
+encoders for determining the stage position}
+    7/70783 . . . {Handling stress or warp of chucks, masks or
+workpieces, e.g. to compensate for imaging
+errors or considerations related to warpage of
+masks or workpieces due to their own weight}
+    7/70791 . . . {Large workpieces, e.g. glass substrates for flat
+panel displays or solar panels}
+    7/708   . . {Construction of apparatus, e.g. environment
+aspects, hygiene aspects or materials}
+    7/70808 . . . {Construction details, e.g. housing, load-lock,
+seals or windows for passing light in or out of
+    7/70825 . . . . {Mounting of individual elements, e.g.
+mounts, holders or supports (workpiece or
+    7/70833 . . . . {Mounting of optical systems, e.g. mounting
+of illumination system, projection system or
+stage systems on base-plate or ground}
+    7/70841 . . . . {Constructional issues related to vacuum
+environment, e.g. load-lock chamber}
+    7/7085  . . . {Detection arrangement, e.g. detectors of
+apparatus alignment possibly mounted on
+wafers, exposure dose, photo-cleaning flux,
+    7/70858 . . . {Environment aspects, e.g. pressure of beam-
+path gas, temperature (pollution aspects
+    7/70866 . . . . {of mask or workpiece}
+    7/70875 . . . . . {Temperature, e.g. temperature control of
+masks or workpieces via control of stage
+    7/70883 . . . . {of optical system}
+    7/70891 . . . . . {Temperature}
+    7/709   . . . . {Vibration, e.g. vibration detection,
+compensation, suppression or isolation}
+    7/70908 . . . {Hygiene, e.g. preventing apparatus pollution,
+mitigating effect of pollution or removing
+    7/70916 . . . . {Pollution mitigation, i.e. mitigating effect of
+contamination or debris, e.g. foil traps}
+    7/70925 . . . . {Cleaning, i.e. actively freeing apparatus
+from pollutants, e.g. using plasma cleaning}
+    7/70933 . . . . {Purge, e.g. exchanging fluid or gas to
+    7/70941 . . . . {Stray fields and charges, e.g. stray light,
+scattered light, flare, transmission loss}
+    7/7095  . . . {Materials, e.g. materials for housing, stage
+or other support having particular properties,
+e.g. weight, strength, conductivity, thermal
+    7/70958 . . . . {Optical materials or coatings, e.g. with
+particular transmittance, reflectance or anti-
+    7/70966 . . . . . {Birefringence}
+    7/70975 . . . {Assembly, maintenance, transport or storage
+    7/70983 . . . {Optical system protection, e.g. pellicles or
+removable covers for protection of mask}
+    7/70991 . . . {Connection with other apparatus, e.g. multiple
+exposure stations, particular arrangement of
+exposure apparatus and pre-exposure and/or
+post-exposure apparatus; Shared apparatus, e.g.
+having shared radiation source, shared mask or
+workpiece stage, shared base-plate; Utilities,
+e.g. cable, pipe or wireless arrangements for
+    9/00    Registration or positioning of originals, masks,
+frames, photographic sheets or textured or
+patterned surfaces, e.g. automatically (G03F 7/22
+takes precedence; preparation of photographic masks
+G03F 1/00; within photographic printing apparatus for
+ 2009/005   . {for microlithography}
+    9/70    . {for microlithography (measuring printed patterns
+for monitoring overlay G03F 7/70633 or focus
+G03F 7/70641; projection system adjustment
+G03F 7/70258; position control G03F 7/70775)}
+    9/7003  . . {Alignment type or strategy, e.g. leveling, global
+    9/7007  . . . {Alignment other than original with
+    9/7011  . . . . {Pre-exposure scan; original with original
+holder alignment; Prealignment, i.e.
+workpiece with workpiece holder}
+    9/7015  . . . . {Reference, i.e. alignment of original or
+workpiece with respect to a reference not on
+    9/7019  . . . {Calibration}
+    9/7023  . . . {Aligning or positioning in direction
+perpendicular to substrate surface}
+    9/703   . . . . {Gap setting, e.g. in proximity printer}
+    9/7038  . . . {Alignment for proximity or contact
+printer (proximity or contact printers per se
+    9/7042  . . . {Alignment for lithographic apparatus using
+patterning methods other than those involving
+the exposure to radiation, e.g. by stamping
+or imprinting (non-exposure lithographic
+    9/7046  . . . {Strategy, e.g. mark, sensor or wavelength
+    9/7049  . . {Technique, e.g. interferometric}
+    9/7053  . . . {Non-optical, e.g. mechanical, capacitive,
+using an electron beam, acoustic or thermal
+    9/7057  . . . . {Gas flow, e.g. for focusing, leveling or gap
+    9/7061  . . . . {Scanning probe microscopy, e.g. AFM,
+    9/7065  . . {Production of alignment light, e.g. light source,
+control of coherence, polarization, pulse length,
+    9/7069  . . {Alignment mark illumination, e.g. darkfield,
+    9/7073  . . {Alignment marks and their environment (marks
+specific to masks G03F 1/42; marks specific to
+molds or stamps G03F 7/0002; overlay marks
+G03F 7/70633; marks applied to semiconductor
+    9/7076  . . . {Mark details, e.g. phase grating mark,
+    9/708   . . . {Mark formation}
+    9/7084  . . . {Position of mark on substrate, i.e. position in
+(x, y, z) of mark, e.g. buried or resist covered
+mark, mark on rearside, at the substrate edge,
+in the circuit area, latent image mark, marks in
+    9/7088  . . {Alignment mark detection, e.g. TTR, TTL, off-
+axis detection, array detector, video detection}
+    9/7092  . . {Signal processing}
+    9/7096  . . {Arrangement, mounting, housing, environment,
+cleaning or maintenance of apparatus}

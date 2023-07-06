@@ -1,0 +1,55 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+FLUID-PRESSURE ACTUATORS; HYDRAULICS OR PNEUMATICS IN GENERAL
+FLUID DYNAMICS, i.e. METHODS OR MEANS FOR INFLUENCING THE FLOW OF
+GASES OR LIQUIDS ({nozzles, spray heads B05B; devices to decrease friction or resistance
+or to increase speed of ships B63B; ship rudders B63H 25/38; influencing the flow or the
+viscosity of fluids with chemical additives C09K 3/00, C10M; hydraulic engineering E02B};
+fluid circuit elements F15C; {one-way check valves F16K 15/00})
+This subclass comprises boundary-layer control and other arrangements and methods, not provided for in other classes, for
+influencing the flow of fluids relative to constraining surfaces and after leaving these surfaces, e.g. producing or removing
+turbulence, deflecting jets, guiding flow through bends in conduits, affecting distribution of fluid in a conduit, reducing fluid
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Influencing flow of fluids
+    1/001   . {Flow of fluid from conduits such as pipes, sleeves,
+tubes, with equal distribution of fluid flow over the
+    1/002   . {by influencing the boundary layer (F15D 1/06 and
+    1/0025  . . {using passive means, i.e. without external energy
+    1/003   . . . {comprising surface features, e.g. indentations
+or protrusions (F15D 1/0055, F15D 1/006 take
+    1/0035  . . . . {in the form of riblets}
+    1/004   . . . . . {oriented essentially parallel to the
+    1/0045  . . . . . {oriented essentially perpendicular to the
+    1/005   . . . . {in the form of dimples}
+    1/0055  . . . {comprising apertures in the surface, through
+which fluid is withdrawn from or injected into
+    1/006   . . . {comprising moving surfaces, wherein the
+surface, or at least a portion thereof is moved or
+    1/0065  . . {using active means, e.g. supplying external
+    1/007   . . . {comprising surfaces being moved by external
+    1/0075  . . . {comprising electromagnetic or electrostatic
+means for influencing the state of the fluid,
+e.g. for ionising the fluid or for generating a
+    1/008   . . . {comprising fluid injection or suction means}
+    1/0085  . . {Methods of making characteristic surfaces for
+influencing the boundary layer}
+    1/009   . {by means of vortex rings}
+    1/0095  . {by means of injecting jet pulses of fluid wherein
+the injected fluid is taken from the fluid and
+re-injected again, e.g. synthetic jet actuators
+    1/02    . in pipes or conduits
+    1/025   . . {by means of orifice or throttle elements}
+    1/04    . . Arrangements of guide vanes in pipe elbows or
+duct bends; Construction of pipe conduit elements
+or elbows with respect to flow, specially for
+    1/06    . . by influencing the boundary layer {(use
+of materials, e.g. to reduce surface friction
+    1/065   . . . {Whereby an element is dispersed in a pipe
+over the whole length or whereby several
+elements are regularly distributed in a pipe}
+    1/08    . of jets leaving an orifice (nozzles or outlets with
+means for mechanically breaking up or deflecting
+    1/10    . around bodies of solid material
+    1/12    . . by influencing the boundary layer {(use
+of materials, e.g. to reduce surface friction
+    1/14    . Diverting flow into alternative channels (in

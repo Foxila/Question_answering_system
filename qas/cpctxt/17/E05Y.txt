@@ -1,0 +1,315 @@
+COOPERATIVE PATENT CLASSIFICATION
+LOCKS; KEYS; WINDOW OR DOOR FITTINGS; SAFES
+INDEXING SCHEME RELATING TO HINGES OR OTHER SUSPENSION DEVICES
+FOR DOORS, WINDOWS OR WINGS AND DEVICES FOR MOVING WINGS INTO
+OPEN OR CLOSED POSITION, CHECKS FOR WINGS AND WING FITTINGS NOT
+OTHERWISE PROVIDED FOR, CONCERNED WITH THE FUNCTIONING OF THE
+ 2201/00    Constructional elements; Accessories therefore
+ 2201/20    . Brakes; Disengaging means, e.g. clutches; Holders,
+e.g. locks; Stops; Accessories therefore
+ 2201/214   . . Disengaging means
+ 2201/222   . . . Stabilizers, e.g. anti-rattle devices
+ 2201/23    . . Actuation thereof
+ 2201/232   . . . by automatically acting means
+ 2201/234   . . . . direction dependent
+ 2201/236   . . . . using force or torque
+ 2201/238   . . . . . reaction force or torque
+ 2201/24    . . . . using lost motion
+ 2201/242   . . . . using threshold speed
+ 2201/244   . . . by manual operation
+ 2201/246   . . . by motors, magnets, springs or weights
+ 2201/248   . . . characterised by the transmission
+ 2201/25    . . Force or torque adjustment therefore
+(E05Y 2400/21 takes precedence)
+ 2201/252   . . characterised by type of friction
+ 2201/254   . . . Fluid or viscous friction
+ 2201/256   . . . . with pistons or vanes
+ 2201/258   . . . Magnetic or electromagnetic friction
+ 2201/26    . . . Mechanical friction
+ 2201/262   . . characterised by type of motion
+ 2201/40    . Motors; Magnets; Springs; Weights; Accessories
+ 2201/404   . . characterised by the function
+ 2201/406   . . . for additional wing movements only
+ 2201/412   . . . . for the final closing movement
+ 2201/414   . . . . for the initial closing movement
+ 2201/416   . . . for counterbalancing
+ 2201/424   . . . . for the final opening movement
+ 2201/426   . . . . for the initial opening movement
+ 2201/428   . . . for suspending or supporting
+ 2201/434   . . . Electromotors; Details thereof
+ 2201/448   . . . Fluid motors; Details thereof
+ 2201/462   . . . Electromagnets
+ 2201/47    . . Springs; Spring tensioners
+ 2201/474   . . . Compression springs
+ 2201/482   . . . Ribbon springs
+ 2201/484   . . . Torsion springs
+ 2201/486   . . . . Torsion rods
+ 2201/488   . . . Traction springs
+ 2201/492   . . . Spring tensioners, tension sensors
+ 2201/496   . . . Double acting springs
+ 2201/60    . Suspension or transmission members; Accessories
+ 2201/602   . . Suspension members
+ 2201/604   . . Transmission members
+ 2201/606   . . Accessories therefore
+ 2201/61    . . . Cooperation between suspension or
+ 2201/612   . . . . between carriers and rails
+ 2201/614   . . . . . Anti-derailing means
+ 2201/616   . . . . to ensure mutual engagement, e.g. counter-
+ 2201/618   . . . Transmission ratio variation
+ 2201/62    . . . Synchronisation of transmission members
+ 2201/622   . . Suspension or transmission members elements
+ 2201/636   . . . . Universal or ball joints
+ 2201/642   . . . . Trackless carriers
+ 2201/644   . . . Flexible elongated pulling elements; Members
+cooperating with flexible elongated pulling
+ 2201/646   . . . . continuous, e.g. closed loops
+ 2201/648   . . . . having teeth (toothed gearing E05Y 2201/71)
+ 2201/658   . . . . Members cooperating with flexible elongated
+ 2201/66    . . . . . Deflectors; Guides
+ 2201/662   . . . . . . Cable sheaths
+ 2201/666   . . . . . Magazines
+ 2201/668   . . . . . Pulleys; Wheels
+ 2201/67    . . . . . . in tackles
+ 2201/672   . . . . . Tensioners, tension sensors
+ 2201/674   . . . Friction wheels
+ 2201/676   . . . Transmission of human force
+ 2201/678   . . . . Hand chains
+ 2201/68    . . . . Handles, cranks
+ 2201/69    . . . . having inclined axes
+ 2201/692   . . . . having vertical axes
+ 2201/694   . . . Scissor mechanisms
+ 2201/696   . . . Screw mechanisms
+ 2201/702   . . . . Spindles; Worms
+ 2201/704   . . . . Worm wheels
+ 2201/708   . . . Sliders (E05Y 2201/64 takes precedence)
+ 2201/71    . . . Toothed gearing
+ 2201/712   . . . . with incomplete toothing
+ 2201/718   . . . . . Bevelled pinions
+ 2201/72    . . . . Planetary gearing
+ 2201/726   . . . . Ring gears; Internal gears
+ 2400/00    Electronic control; Power supply; Power or signal
+ 2400/10    . Electronic control
+ 2400/20    . . of brakes, disengaging means, holders or stops
+ 2400/202   . . . Force or torque control (mechanical aspects
+ 2400/21    . . . . by controlling the viscosity
+ 2400/302   . . . during electromotoric braking
+ 2400/31    . . . Force or torque control
+ 2400/315   . . . . Curve setting or adjusting
+ 2400/32    . . . Position control, detection or monitoring
+ 2400/322   . . . . by using absolute position sensors (sensors
+for electronic control of hinges, wings,
+ 2400/326   . . . . . of the angular type
+ 2400/328   . . . . . of the linear type
+ 2400/33    . . . . by using load sensors (sensors for electronic
+control of hinges, wings, windows as such
+ 2400/334   . . . . by using pulse generators
+ 2400/336   . . . . . of the angular type
+ 2400/337   . . . . . . Encoder wheels
+ 2400/338   . . . . . of the linear type
+ 2400/34    . . . . . Pulse count limit setting
+ 2400/342   . . . . . Pulse count value setting or correcting
+ 2400/35    . . . . related to specific positions
+ 2400/354   . . . . . End positions
+ 2400/356   . . . . . Predefined intermediate positions
+ 2400/358   . . . . . . in the proximity of end positions
+ 2400/36    . . . Speed control, detection or monitoring
+ 2400/40    . . . Control units therefore
+ 2400/41    . . . . for multiple motors
+ 2400/415   . . . . . for multiple wings
+ 2400/42    . . . . . . for multiple openings
+ 2400/44    . . Sensors therefore (E05Y 2400/322,
+E05Y 2400/33, E05Y 2400/55, E05Y 2400/56,
+ 2400/452   . . . for saving energy
+ 2400/454   . . . for accommodating handicapped users
+ 2400/456   . . . for programming
+ 2400/458   . . . for generating service signals
+ 2400/50    . . Fault detection
+ 2400/502   . . . of components
+ 2400/506   . . . of counterbalance
+ 2400/51    . . . of position, of back drive
+ 2400/512   . . . of electric power
+ 2400/52    . . Safety arrangements (Safety means for manual
+ 2400/522   . . . Back-drive prevention
+ 2400/525   . . . Car-jacking prevention
+ 2400/53    . . . Wing impact prevention or reduction
+ 2400/532   . . . . Emergency braking
+ 2400/54    . . . . Obstruction or resistance detection
+ 2400/55    . . . . . by using load sensors (sensors for
+electronic control of hinges, wings,
+ 2400/552   . . . . . . Switches
+ 2400/554   . . . . . . sensing motor load
+ 2400/56    . . . . . by using speed sensors (sensors for
+electronic control of hinges, wings,
+ 2400/562   . . . . . . Switches
+ 2400/564   . . . . . . sensing motor speed
+ 2400/57    . . . . . Disabling thereof
+ 2400/58    . . . . . Sensitivity setting or adjustment
+ 2400/59    . . . Travel display
+ 2400/60    . Power supply; Power or signal transmission
+ 2400/614   . . . . charging thereof
+ 2400/628   . . . . Solar cells
+ 2400/65    . . Power or signal transmission
+ 2400/654   . . . by electrical cables
+ 2400/656   . . . by travelling contacts
+ 2400/658   . . . . with current rails
+ 2400/66    . . . Wireless transmission
+ 2400/662   . . . . by optical waves
+ 2400/664   . . . . by radio waves
+ 2400/812   . . . with acoustic display
+ 2400/814   . . . . Sound emitters, e.g. speakers
+ 2400/816   . . . . . Voice emitters
+ 2400/818   . . . with visual display
+ 2400/82    . . . . Images, Symbols
+ 2400/822   . . . . Light emitters, e.g. LEDs
+ 2400/85    . . User input means
+ 2400/856   . . . . Actuation thereof
+ 2400/858   . . . . . by body parts
+ 2400/86    . . . . . . by hand
+ 2600/00    Mounting or coupling arrangements for elements
+ 2600/10    . Adjustable or movable
+ 2600/11    . . by automatically acting means
+ 2600/12    . . by manual operation
+ 2600/13    . . by motors, magnets, springs, weights
+ 2600/14    . . with position retaining means
+ 2600/20    . . characterised by the movement transmission
+ 2600/30    . . characterised by the type of motion
+ 2600/31    . . . Linear motion
+ 2600/312   . . . . Horizontal motion
+ 2600/314   . . . . Vertical motion
+ 2600/32    . . . Rotary motion
+ 2600/322   . . . . around a horizontal axis
+ 2600/324   . . . . around a vertical axis
+ 2600/33    . . . Stepwise motion
+ 2600/40    . Mounting location; Visibility of the elements
+ 2600/412   . . . in the rabbet
+ 2600/45    . . in or on the fixed frame
+ 2600/452   . . in or on the floor or wall
+ 2600/454   . . in or on the motor
+ 2600/456   . . in or on a suspension member
+ 2600/458   . . in or on a transmission member
+ 2600/46    . . in or on the wing
+ 2600/50    . Mounting methods; Positioning
+ 2600/506   . . Plastic deformation
+ 2600/508   . . . Riveting (in general B21J)
+ 2600/51    . . Screwing or bolting
+ 2600/522   . . . Axial stacking
+ 2600/526   . . . Glueing or cementing
+ 2600/528   . . . Hooking, e.g. using bayonets; Locking
+ 2600/54    . . Welding (in general B23K, B29C 65/02)
+ 2600/56    . . Positioning or pre-mounting
+ 2600/60    . Mounting or coupling members (devices for
+fastening or securing constructional elements or
+machine parts together, e.g. nails, bolts, in general
+ 2600/61    . . Threaded members
+ 2600/626   . . Plates or brackets
+ 2800/00    Details, accessories and auxiliary operations not
+ 2800/10    . Additional functions
+ 2800/102   . . Additional wing movements
+ 2800/11    . . Manual wing operation
+ 2800/112   . . . Back driving the transmission or motor
+ 2800/113   . . . . Power assistance
+ 2800/114   . . . . Overriding existing wing movement
+ 2800/116   . . . Safety means therefore
+ 2800/122   . . Telescopic action
+ 2800/16    . . applicable on combinations of fixed and movable
+ 2800/162   . . . the wings being coplanar when the movable
+ 2800/17    . . Universally applicable
+ 2800/172   . . . on different wing or frame locations
+ 2800/174   . . . . on the left or right side
+ 2800/176   . . . on different wing types
+ 2800/178   . . . on wings having different thicknesses
+ 2800/20    . Combinations of elements
+ 2800/21    . . of identical elements, e.g. of identical
+ 2800/22    . . of not identical elements of the same category,
+e.g. combinations of not identical springs
+ 2800/23    . . of elements of different categories
+ 2800/232   . . . of motors and transmissions
+ 2800/234   . . . of motors and brakes
+ 2800/236   . . . of motors and springs
+ 2800/238   . . . of springs and transmissions
+ 2800/24    . . . of springs and brakes
+ 2800/242   . . arranged in parallel relationship
+ 2800/244   . . arranged in serial relationship
+ 2800/246   . . with at least one element being redundant
+ 2800/25    . Emergency conditions
+ 2800/252   . . the elements functioning only in case of
+ 2800/254   . . the elements not functioning in case of emergency
+ 2800/29    . . forming a unitary piece with another element
+ 2800/292   . . having apertures
+ 2800/298   . . having indentations
+ 2800/33    . . having protrusions
+ 2800/35    . . . of specific parts
+ 2800/356   . . . horizontal frame members
+ 2800/358   . . . vertical frame members or posts
+ 2800/362   . . . horizontal frame members
+ 2800/364   . . . vertical frame members
+ 2800/37    . Length, width adjustment
+ 2800/40    . Protection (E05Y 2400/50, E05Y 2400/52 take
+ 2800/402   . . against corrosion
+ 2800/404   . . against component faults or failure
+ 2800/406   . . against deformation
+ 2800/407   . . . plastic deformation
+ 2800/409   . . against faulty mounting or coupling
+ 2800/41    . . against finger injury
+ 2800/412   . . against friction
+ 2800/414   . . against high or low temperatures
+ 2800/42    . . against smoke or gas
+ 2800/422   . . against vibration or noise
+ 2800/424   . . against unintended use
+ 2800/426   . . . against unauthorised use (E05Y 2400/51,
+ 2800/455   . . Extrusion (in general B29C 48/00, B21C 23/00)
+ 2800/46    . . Injection moulding (in general B29C 45/00)
+ 2800/67    . Materials; Strength alteration thereof
+ 2800/68    . . Combinations of materials
+ 2800/682   . . Strength alteration by reinforcing, e.g. by
+ 2800/684   . . Strength alteration by weakening, e.g. by
+ 2800/69    . Permanence of use
+ 2800/694   . . during manufacturing
+ 2800/696   . . during transport or storage
+ 2800/70    . Retrofitting of elements
+ 2800/71    . Secondary wings, e.g. pass doors
+ 2800/72    . Sets of mutually exchangeable elements
+ 2800/73    . Single use of elements
+ 2800/74    . Specific positions (E05Y 2400/35 takes precedence)
+ 2800/744   . . . cleaning or service
+ 2800/746   . . . emergency or extended
+ 2900/00    Application of doors, windows, wings or fittings
+ 2900/10    . for buildings or parts thereof
+ 2900/11    . . for industrial buildings
+ 2900/13    . . characterised by the type of wing
+ 2900/131   . . . Access panels
+ 2900/136   . . . . Insect doors
+ 2900/14    . . . . Doors disappearing in pockets of a wall, e.g.
+ 2900/142   . . . Partition walls
+ 2900/144   . . . Security grills
+ 2900/15    . . . . Balcony glazing
+ 2900/152   . . . . Roof windows
+ 2900/154   . . . . . Skylights
+ 2900/20    . for furnitures, e.g. cabinets
+ 2900/202   . . for display cabinets
+ 2900/204   . . for display counters
+ 2900/208   . . for metal cabinets
+ 2900/21    . . for safety cabinets
+ 2900/212   . . Doors disappearing in pockets in the furniture
+ 2900/30    . for domestic appliances
+ 2900/302   . . for built-in appliances
+ 2900/304   . . for dishwashers
+ 2900/31    . . for refrigerators
+ 2900/312   . . for washing machines
+ 2900/402   . . for cantilever gates
+ 2900/404   . . for railway platform gates
+ 2900/504   . . for armored vehicles
+ 2900/508   . . for convertibles
+ 2900/51    . . for railway cars or mass transit vehicles
+ 2900/512   . . for recreational vehicles
+ 2900/516   . . for trucks or trailers
+ 2900/518   . . for working vehicles
+ 2900/53    . . characterised by the type of wing
+ 2900/532   . . . . Back doors or end doors
+ 2900/538   . . . Interior lids
+ 2900/54    . . . Luggage compartment lids for buses
+ 2900/544   . . . Tailboards or sideboards
+ 2900/604   . . . for large containers
+ 2900/606   . . for electronic devices
+ 2900/612   . . for manhole covers
+ 2900/614   . . for toilet seats or covers

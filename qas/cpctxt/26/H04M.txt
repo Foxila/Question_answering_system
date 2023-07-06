@@ -1,0 +1,1589 @@
+COOPERATIVE PATENT CLASSIFICATION
+ELECTRIC COMMUNICATION TECHNIQUE
+TELEPHONIC COMMUNICATION (circuits for controlling other apparatus via a telephone
+cable and not involving telephone switching apparatus G08)
+• telephonic communication systems combined with other electrical systems;
+• testing arrangements peculiar to telephonic communication  systems.
+2. In this subclass, the following terms or expressions are used with the meanings indicated :
+• "subscriber" is a general term for terminal equipment, e.g. fixed, wireless, mobile or cellular phones, or for a user of
+• "substation" means a subscriber or monitoring equipment  which may connect a single subscriber to a line without  choice
+• "satellite" is a type of exchange the operation of which  depends upon control signals received from a supervisory
+• "switching centres" include exchanges and satellites.
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Substation equipment, e.g. for use by subscribers
+(subscriber services or facilities provided at
+exchanges H04M 3/00; prepayment telephone coin
+boxes H04M 17/00; current supply arrangements
+    1/003   . {Telephone sets using electrooptical means in the
+    1/006   . {Call diverting means}
+    1/02    . Constructional features of telephone sets
+    1/0202  . . {Portable telephone sets, e.g. cordless
+phones, mobile phones or bar type handsets
+(constructional features of telephone transmitters
+or receivers, e.g. of speakers or microphones
+    1/0206  . . . {Portable telephones comprising a plurality of
+mechanically joined movable body parts, e.g.
+    1/0208  . . . . {characterized by the relative motions of the
+    1/021   . . . . . {using combined folding and rotation
+motions (combined with translation
+    1/0212  . . . . . . {with a two degrees of freedom
+mechanism, i.e. folding around a first
+axis and rotating around a second axis
+    1/0214  . . . . . {Foldable telephones, i.e. with body parts
+pivoting to an open position around an
+axis parallel to the plane they define in
+closed position (combined with translation
+    1/0216  . . . . . . {Foldable in one direction, i.e. using a
+    1/0218  . . . . . . . {The hinge comprising input and/or
+    1/022   . . . . . . . {The hinge comprising two parallel
+    1/0222  . . . . . . {Foldable in two directions, i.e. using a
+    1/0225  . . . . . {Rotatable telephones, i.e. the body parts
+pivoting to an open position around an axis
+perpendicular to the plane they define in
+closed position (combined with translation
+    1/0227  . . . . . . {Rotatable in one plane, i.e. using a one
+    1/0229  . . . . . . . {The hinge comprising input and/or
+    1/0231  . . . . . . {Including a rotatable keypad body
+    1/0233  . . . . . . {Including a rotatable display body
+    1/0235  . . . . . {Slidable or telescopic telephones, i.e.
+with a relative translation movement
+of the body parts; Telephones using a
+combination of translation and other
+relative motions of the body parts}
+    1/0237  . . . . . . {Sliding mechanism with one degree of
+    1/0239  . . . . . . {Sliding mechanism with two degree of
+freedom, e.g. translation in two different
+    1/0241  . . . . {using relative motion of the body parts
+to change the operational status of the
+telephone set, e.g. switching on/off,
+    1/0243  . . . . . {using the relative angle between
+    1/0245  . . . . . {using open/close detection}
+    1/0247  . . . . {comprising more than two body parts}
+    1/0249  . . . {Details of the mechanical connection between
+the housing parts or relating to the method of
+    1/0252  . . . . {by means of a snap-on mechanism}
+    1/0254  . . . {comprising one or a plurality of mechanically
+    1/0256  . . . . {wherein the modules are operable in the
+detached state, e.g. one module for the user
+interface and one module for the transceiver}
+    1/0258  . . . . {for a headset device}
+    1/026   . . . {Details of the structure or mounting of
+    1/0262  . . . . {for a battery compartment}
+    1/0264  . . . . {for a camera module assembly}
+    1/0266  . . . . {for a display module assembly}
+    1/0268  . . . . . {including a flexible display panel}
+H04M 1/0269 should be considered in
+order to perform a complete search.
+    1/0269  . . . . . . {mounted in a fixed curved
+configuration, e.g. display curved
+around the edges of the telephone
+Group H04M 1/0269 is incomplete
+H04M 1/0269 should be considered
+    1/027   . . . . . {including magnifying means}
+    1/0272  . . . . {for a projector or beamer module assembly
+(constructional features of projectors per
+se G03B 21/00; constructional details of
+projectors using electronic spatial light
+    1/0274  . . . . {for an electrical connector module}
+    1/0277  . . . . {for a printed circuit board assembly}
+    1/0279  . . . {Improving the user comfort or ergonomics}
+    1/0281  . . . . {for providing single handed use or left/right
+    1/0283  . . . . {for providing a decorative aspect, e.g.
+customization of casings, exchangeable
+    1/0285  . . . . {Pen-type handsets}
+    1/0287  . . . {being disposable or recyclable}
+    1/0289  . . {Telephone sets for operators}
+    1/0291  . . {Door telephones}
+    1/0293  . . {Terminal boxes for telephone sets}
+    1/0295  . . {Mechanical mounting details of display
+    1/0297  . . {Telephone sets adapted to be mounted on a desk
+    1/03    . . Constructional features of telephone transmitters
+or receivers, e.g. telephone hand-sets
+    1/035   . . . {Improving the acoustic characteristics
+by means of constructional features of the
+housing, e.g. ribs, walls, resonating chambers
+    1/04    . . Supports for telephone transmitters or receivers
+    1/05    . . . specially adapted for use on head, throat or
+    1/06    . . . Hooks; Cradles
+    1/08    . . . . associated with switches operated by the
+weight of the receiver or hand-set
+    1/10    . . . . associated with switches operated by
+magnetic effect due to proximity of receiver
+    1/11    . . Supports for sets, e.g. incorporating armrests
+    1/12    . . . Adjustable supports, e.g. extensible
+    1/13    . . . . pantographic
+    1/14    . . . with resilient means to eliminate extraneous
+    1/15    . . Protecting or guiding telephone cords
+    1/17    . . Hygienic or sanitary devices on telephone
+equipment (for mouthpieces or earpieces
+    1/18    . . Telephone sets specially adapted for use in
+ships, mines, or other places exposed to adverse
+environment (H04M 1/19 takes precedence)
+    1/185   . . . {Improving the rigidity of the casing or
+    1/19    . . Arrangements of transmitters, receivers, or
+complete sets to prevent eavesdropping, to
+attenuate local noise or to prevent undesired
+transmission; Mouthpieces or receivers specially
+adapted therefor (circuit arrangements for
+preventing eavesdropping H04M 1/68; telephone
+    1/20    . . Arrangements for preventing acoustic feed-back
+    1/21    . . Combinations with auxiliary equipment, e.g. with
+    1/215   . . . by non-intrusive coupling means, e.g. acoustic
+    1/2155  . . . . {Acoustic coupling}
+    1/22    . . Illumination; Arrangements for improving the
+visibility of characters on dials
+    1/23    . . Construction or mounting of dials or of equivalent
+devices; Means for facilitating the use thereof (by
+improving visibility H04M 1/22)
+    1/233   . . . {including a pointing device, e.g. roller
+key, track ball, rocker switch or joystick
+(constructional details of pointing devices per
+    1/236   . . . {including keys on side or rear faces}
+    1/24    . Arrangements for testing
+    1/247   . Telephone sets including user guidance or feature
+selection means facilitating their use (user interfaces
+specially adapted for cordless or mobile telephones
+    1/2471  . . {Configurable and interactive telephone terminals
+with subscriber controlled features modifications,
+e.g. with ADSI capability [Analog Display
+Services Interface] (systems providing special
+services or facilities to subscribers H04M 3/42;
+administration or customization of services
+H04M 3/42136; by downloading data to
+substation equipment H04M 3/42178)}
+    1/2472  . . . {with programmable function keys}
+    1/2473  . . {Telephone terminals interfacing a personal
+computer, e.g. using an API (Application
+Programming Interface) (details of API
+    1/2474  . . {Telephone terminals specially adapted for
+disabled people (user interfaces for cordless or
+mobile telephones specially adapted for disabled
+users H04M 1/72475; network based special
+services or facilities for hearing-impaired persons
+H04M 3/42391; devices for conversing with the
+    1/2475  . . . {for a hearing impaired user}
+    1/2476  . . . {for a visually impaired user (illuminating
+or arrangements for improving visibility of
+characters on dials H04M 1/22)}
+    1/2477  . . {for selecting a function from a menu display
+(H04M 1/2474 takes precedence)}
+    1/2478  . . {Telephone terminals specially adapted for
+non-voice services, e.g. email, internet access
+(centralized arrangements where telephones
+services are combined H04M 7/0024; for
+recording text messages H04M 3/5322; for
+accessing Internet H04M 3/4938)}
+    1/253   . Telephone sets using digital voice transmission
+    1/2535  . . {adapted for voice communication over an
+Internet Protocol [IP] network (Voice over
+Internet Protocol (VoIP) network equipment
+and services H04M 7/006; implementation
+or adaptation of Internet protocol [IP], of
+transmission control protocol [TCP] or of user
+datagram protocol [UDP] H04L 69/16)}
+    1/26    . Devices for calling a subscriber (H04M 1/66 takes
+    1/27    . . Devices whereby a plurality of signals may be
+    1/271   . . . {controlled by voice recognition}
+    1/272   . . . with provision for storing only one subscriber
+number at a time, e.g. by keyboard or dial
+    1/2725  . . . . {using electronic memories}
+    1/274   . . . with provision for storing more than one
+subscriber number at a time {, e.g. using
+    1/2745  . . . . using static electronic memories, e.g. chips
+    1/27453 . . . . . Directories allowing storage of additional
+    1/27457 . . . . . . Management thereof, e.g. manual
+    1/2746  . . . . . . Sorting, e.g. according to history or
+    1/27463 . . . . . {Predictive input, predictive dialling by
+comparing the dialled sequence with the
+content of a telephone directory}
+    1/27467 . . . . . Methods of retrieving data
+    1/2747  . . . . . . Scrolling on a display
+    1/27475 . . . . . . using interactive graphical means or
+    1/2748  . . . . . . by matching character strings
+    1/27485 . . . . . Appending a prefix to or inserting a pause
+    1/2749  . . . . . Automatic dialling or redialling systems,
+e.g. on off-hook or redial on busy
+    1/27495 . . . . . implemented by means of discrete
+electronic components, i.e. neither
+programmable nor microprocessor-
+controlled (H04M 1/27457-H04M 1/2749
+    1/275   . . . . . implemented by means of portable
+    1/2753  . . . . . providing data content
+    1/2755  . . . . . . by optical scanning
+    1/2757  . . . . . . by data transmission, e.g. downloading
+    1/276   . . . . using magnetic recording, e.g. on tape
+    1/2765  . . . . . {implemented by means of portable
+    1/278   . . . . using punched cards or tapes
+    1/30    . . Devices which can set up and transmit only one
+    1/31    . . . by interrupting current to generate trains of
+pulses; by periodically opening and closing
+contacts to generate trains of pulses
+    1/312   . . . . {pulses produced by electronic circuits}
+    1/315   . . . . Clutches; Spring assemblies; Speed
+regulators, e.g. centrifugal brakes
+(H04M 1/32 – H04M 1/40 take precedence)
+    1/32    . . . . Locking setting devices during transmission
+to prevent interference by user
+    1/34    . . . . Lost-motion or other arrangements for
+ensuring a pause between successive digit
+    1/38    . . . . Pulses transmitted by a movement variably
+limited by the setting of a stop
+    1/40    . . . . wherein the setting-operation short-circuits
+or open-circuits the transmitting mechanism
+during a variable part of a cycle
+    1/50    . . . by generating or selecting currents of
+predetermined frequencies or combinations of
+    1/505   . . . . {signals generated in digital form}
+    1/515   . . by generating or selecting signals other than trains
+of pulses of similar shape, or signals other than
+currents of one or more different frequencies, e.g.
+generation of dc signals of alternating polarity,
+coded pulses or impedance dialling
+    1/52    . . Arrangements wherein a dial or the like is
+mechanically coupled to a line selector
+    1/53    . . Generation of additional signals, e.g. additional
+    1/54    . . . Arrangements wherein a dial or the like
+generates identifying signals, e.g. in party-line
+    1/56    . Arrangements for indicating or recording the called
+number at the calling subscriber's set
+    1/57    . Arrangements for indicating or recording the
+number of the calling subscriber at the called
+subscriber's set (at the operator set in a manual
+    1/571   . . {Blocking transmission of caller identification to
+    1/573   . . {Line monitoring circuits for detecting caller
+    1/575   . . {Means for retrieving and displaying personal
+    1/576   . . . {associated with a pictorial or graphical
+    1/578   . . . {associated with a synthesized vocal
+    1/58    . Anti-side-tone circuits
+    1/585   . . {implemented without inductive element}
+    1/60    . including speech amplifiers
+    1/6008  . . {in the transmitter circuit}
+    1/6016  . . {in the receiver circuit}
+    1/6025  . . {implemented as integrated speech networks}
+    1/6033  . . {for providing handsfree use or a loudspeaker
+mode in telephone sets (arrangements for
+preventing acoustic echo H04M 9/08)}
+    1/6041  . . . {Portable telephones adapted for handsfree
+    1/605   . . . . {involving control of the receiver volume to
+provide a dual operational mode at close or
+    1/6058  . . . . {involving the use of a headset accessory
+device connected to the portable telephone}
+    1/6066  . . . . . {including a wireless connection}
+    1/6075  . . . . {adapted for handsfree use in a vehicle
+arrangements for holding telephones in a
+    1/6083  . . . . . {by interfacing with the vehicle audio
+    1/6091  . . . . . . {including a wireless interface}
+    1/62    . . Constructional arrangements
+    1/64    . Automatic arrangements for answering calls;
+Automatic arrangements for recording messages
+for absent subscribers; Arrangements for recording
+conversations (centralised dictation systems
+    1/642   . . {storing speech in digital form}
+    1/645   . . . {with speech synthesis}
+    1/647   . . {using magnetic tape (H04M 1/642 takes
+    1/65    . . Recording arrangements {for recording a
+message from the calling party (in the exchange
+    1/6505  . . . {storing speech in digital form}
+    1/651   . . . . {with speech synthesis}
+    1/6515  . . . {using magnetic tape (H04M 1/6505 takes
+    1/652   . . . Means for playing back the recorded messages
+by remote control over a telephone line
+    1/654   . . . Telephone line monitoring circuits therefor,
+    1/6545  . . . . {mechanically actuating hook switch, e.g.
+    1/656   . . . for recording conversations
+    1/658   . . . Means for redirecting recorded messages to
+    1/66    . with means for preventing unauthorised or
+fraudulent calling (verifying user identity or
+authority in secret or secure digital communications
+    1/663   . . Preventing unauthorised calls to a telephone set
+    1/665   . . . by checking the validity of a code
+    1/667   . . Preventing unauthorised calls from a telephone
+set (H04M 1/677 takes precedence)
+    1/67    . . . by electronic means
+    1/673   . . . . the user being required to key in a code
+    1/675   . . . . the user being required to insert a coded
+card, e.g. a smart card carrying an integrated
+    1/677   . . Preventing the dialling or sending of
+predetermined telephone numbers or selected
+types of telephone numbers, e.g. long distance
+    1/6775  . . . {by providing access to preprogrammed keys}
+    1/68    . Circuit arrangements for preventing eavesdropping
+    1/70    . . Lock-out or secrecy arrangements in party-line
+    1/71    . Substation extension arrangements
+    1/715   . . using two or more extensions per line (cordless
+    1/72    . Mobile telephones; Cordless telephones, i.e. devices
+for establishing wireless links to base stations
+    1/724   . . User interfaces specially adapted for cordless or
+    1/72403 . . . with means for local support of applications
+that increase the functionality
+    1/72406 . . . . by software upgrading or downloading
+    1/72409 . . . . by interfacing with external accessories
+by reclassification into groups
+H04M 1/724095, H04M 1/724097 and
+All groups listed in this Warning should
+be considered in order to perform a
+    1/724092 . . . . . {Interfacing with an external cover
+providing additional functionalities}
+Group H04M 1/724092 is incomplete
+pending reclassification of documents
+H04M 1/724092 should be considered
+in order to perform a complete search.
+    1/724094 . . . . . {Interfacing with a device worn on the
+user's body to provide access to telephonic
+functionalities, e.g. accepting a call,
+reading or composing a message}
+H04M 1/724095 and H04M 1/724097
+are incomplete pending reclassification
+All groups listed in this Warning should
+be considered in order to perform a
+    1/724095 . . . . . . {Worn on the wrist, hand or arm}
+    1/724097 . . . . . . {Worn on the head}
+    1/724098 . . . . . {Interfacing with an on-board device
+of a vehicle (for hands-free speaking in
+Group H04M 1/724098 is incomplete
+pending reclassification of documents
+H04M 1/724098 should be considered
+in order to perform a complete search.
+    1/72412 . . . . . using two-way short-range wireless
+    1/72415 . . . . . for remote control of appliances
+    1/72418 . . . . for supporting emergency services
+    1/72421 . . . . . with automatic activation of emergency
+service functions, e.g. upon sensing an
+    1/72424 . . . . . with manual activation of emergency-
+    1/72427 . . . . for supporting games or graphical animations
+    1/7243  . . . . with interactive means for internal
+    1/72433 . . . . . for voice messaging, e.g. dictaphones (for
+answering incoming calls H04M 1/64)
+    1/72436 . . . . . for text messaging, e.g. SMS or e-mail
+    1/72439 . . . . . for image or video messaging
+    1/72442 . . . . for playing music files
+    1/72445 . . . . for supporting Internet browser applications
+    1/72448 . . . with means for adapting the functionality of the
+device according to specific conditions
+    1/72451 . . . . according to schedules, e.g. using calendar
+    1/72454 . . . . according to context-related or environment-
+    1/72457 . . . . according to geographic location
+    1/7246  . . . . by connection of exchangeable housing parts
+    1/72463 . . . . to restrict the functionality of the device
+by reclassification into groups
+H04M 1/724631 and H04M 1/724634.
+Groups H04M 1/72463, H04M 1/724631
+considered in order to perform a complete
+    1/724631 . . . . . {by limiting the access to the user
+interface, e.g. locking a touch-screen or a
+pending reclassification of documents
+H04M 1/724631 and H04M 1/724634
+should be considered in order to
+    1/724634 . . . . . . {With partially locked states, e.g. when
+some telephonic functional locked states
+or applications remain accessible in the
+    1/72466 . . . with selection means, e.g. keys, having
+functions defined by the mode or the status of
+    1/72469 . . . for operating the device by selecting functions
+from two or more displayed items, e.g. menus
+    1/72472 . . . . wherein the items are sorted according to
+specific criteria, e.g. frequency of use
+    1/72475 . . . specially adapted for disabled users
+    1/72478 . . . . for hearing-impaired users
+    1/72481 . . . . for visually impaired users
+    1/72484 . . . wherein functions are triggered by incoming
+    1/725   . . Cordless telephones (user interfaces specially
+    1/72502 . . . with one base station connected to a single line
+    1/72505 . . . . Radio link set-up procedures
+    1/72508 . . . . . using a control channel
+    1/72511 . . . . . Searching for available channels
+    1/72513 . . . . . On hold, intercom or transfer
+    1/72516 . . . . with means for out-of-range alerting
+    1/727   . . . Identification code transfer arrangements
+    1/73    . . . Battery saving arrangements
+    1/733   . . . with a plurality of base stations connected to
+a plurality of lines {(for selection in cordless
+    1/737   . . . Characterised by transmission of
+electromagnetic waves other than radio waves,
+    1/738   . Interface circuits for coupling substations to
+external telephone lines (H04M 1/78 takes
+    1/7385  . . {Programmable or microprocessor-controlled}
+    1/74    . . with means for reducing interference; with means
+for reducing effects due to line faults
+    1/745   . . . {Protection devices or circuits for voltages
+    1/76    . . Compensating for differences in line impedance
+    1/78    . Circuit arrangements in which low-frequency
+speech signals proceed in one direction on the
+line, while speech signals proceeding in the other
+direction on the line are modulated on a high-
+    1/80    . Telephone line holding circuits
+    1/82    . Line monitoring circuits for call progress or status
+discrimination {(for detecting caller identity
+    3/00    Automatic or semi-automatic exchanges
+    3/002   . {Applications of echo suppressors or cancellers in
+telephonic connections (in two-way loud-speaking
+telephone systems H04M 9/08, echo suppressors or
+    3/005   . {Interface circuits for subscriber lines (current
+supply H04M 19/00 and subgroups; supervisory,
+monitoring or testing arrangements H04M 3/22 and
+subgroups; in key telephone systems H04M 9/006)}
+    3/007   . . {Access interface units for simultaneous
+transmission of speech and data, e.g. digital
+subscriber line [DSL] access interface units
+(DSL access multiplexers H04Q 11/0478, and
+    3/02    . Calling substations, e.g. by ringing (selective calling
+    3/04    . . the calling signal being supplied from the final
+    3/06    . . the calling signal being supplied from the
+    3/08    . Indicating faults in circuits or apparatus
+    3/085   . . {Fault locating arrangements}
+    3/10    . . Providing fault- or trouble-signals
+    3/12    . . Marking faulty circuits "busy"; Enabling
+equipment to disengage itself from faulty circuits
+{; Using redundant circuits; Response of a circuit,
+apparatus or system to an error}
+    3/14    . . Signalling existence of persistent "off-hook"
+    3/16    . with lock-out or secrecy provision in party-line
+    3/18    . with means for reducing interference {or noise};
+with means for reducing effects due to line faults
+{with means for protecting lines}
+    3/20    . with means for interrupting existing connections;
+with means for breaking-in on conversations
+    3/205   . . {Eavesdropping prevention - indication of
+    3/22    . Arrangements for supervision, monitoring or testing
+    3/2209  . . {for lines also used for data transmission}
+    3/2218  . . {Call detail recording}
+    3/2227  . . {Quality of service monitoring}
+    3/2236  . . {Quality of speech transmission monitoring}
+    3/2245  . . {Management of the local loop plant}
+    3/2263  . . . {Network management}
+    3/2272  . . {Subscriber line supervision circuits, e.g. call
+    3/2281  . . {Call monitoring, e.g. for law enforcement
+purposes; Call tracing; Detection or prevention of
+    3/229   . . {Wire identification arrangements; Number
+    3/24    . . with provision for checking the normal operation
+    3/241   . . . {for stored program controlled exchanges}
+    3/242   . . . . {Software testing}
+    3/244   . . . {for multiplex systems}
+    3/245   . . . . {for ISDN systems}
+    3/247   . . . {Knowledge-based maintenance systems}
+    3/248   . . . {for metering arrangements or prepayment
+telephone systems (metering arrangements per
+se H04M 15/00; prepayment telephone systems
+    3/26    . . with means for applying test signals {or for
+    3/28    . . . Automatic routine testing {; Fault testing;
+Installation testing; Test methods, test
+equipment or test arrangements therefor}
+    3/30    . . . . for subscriber's lines {, for the local loop}
+    3/301   . . . . . {Circuit arrangements at the subscriber's
+    3/302   . . . . . {using modulation techniques for copper
+pairs (for ISDN systems H04M 3/245;
+ISDN selection or connection testing
+    3/303   . . . . . . {and using PCM multiplexers, e.g. pair
+    3/304   . . . . . . {and using xDSL modems (xDSL line
+    3/305   . . . . . {testing of physical copper line
+parameters, e.g. capacitance or resistance
+(locating faults in cables G01R 31/08)}
+    3/306   . . . . . . {for frequencies above the voice
+frequency, e.g. xDSL line qualification
+(test methods, test equipment and test
+arrangements for subscriber lines using
+xDSL modems H04M 3/304; systems
+modifying transmission characteristics
+according to link quality H04L 1/0001;
+monitoring and/or testing of line
+transmission systems H04B 3/46)}
+    3/307   . . . . . {using ringback}
+    3/308   . . . . . {Craftsperson test terminals}
+    3/32    . . . . for lines between exchanges
+    3/323   . . . . . {for the arrangements providing the
+connection (test connection, test call, call
+    3/326   . . . . . {for registers and translators}
+    3/34    . . . Testing for cross-talk
+    3/36    . . Statistical metering, e.g. recording occasions
+when traffic exceeds capacity of trunks
+    3/362   . . . {Traffic simulation}
+    3/365   . . . {Load metering of control unit}
+    3/367   . . . {Traffic or load control}
+    3/38    . Graded-service arrangements, i.e. some subscribers
+prevented from establishing certain connections
+(queuing arrangements H04Q 3/64)
+    3/382   . . {using authorisation codes or passwords}
+    3/385   . . . {using speech signals}
+    3/387   . . {using subscriber identification cards}
+    3/40    . Applications of speech amplifiers
+    3/42    . Systems providing special services or facilities
+to subscribers (specially adapted for wireless
+communication networks H04W 4/00)
+    3/42008 . . {Systems for anonymous communication between
+parties, e.g. by use of disposal contact identifiers}
+    3/42017 . . {Customized ring-back tones}
+    3/42025 . . {Calling or Called party identification service}
+    3/42034 . . . {Calling party identification service}
+    3/42042 . . . . {Notifying the called party of information
+on the calling party (details within substation
+equipment H04M 1/57, signalling details
+    3/42051 . . . . . {where the notification is included in the
+    3/42059 . . . . {Making use of the calling party identifier}
+    3/42068 . . . . . {where the identifier is used to access a
+    3/42076 . . . . . {where the identifier is a Uniform
+    3/42085 . . . {Called party identification service}
+    3/42093 . . . . {Notifying the calling party of information
+on the called or connected party}
+    3/42102 . . . . {Making use of the called party identifier}
+    3/4211  . . . . . {where the identifier is used to access a
+    3/42119 . . . . . {where the identifier is a Uniform
+    3/42127 . . {Systems providing several special
+services or facilities from groups
+    3/42136 . . {Administration or customisation of services}
+    3/42144 . . . {by service provider}
+    3/42153 . . . {by subscriber}
+    3/42161 . . . . {via computer interface}
+    3/4217  . . . {Managing service interactions}
+    3/42178 . . . {by downloading data to substation equipment}
+    3/42187 . . {Lines and connections with preferential service}
+    3/42195 . . {Arrangements for calling back a calling
+subscriber (when the wanted subscriber ceases to
+    3/42204 . . {Arrangements at the exchange for service
+or number selection by voice (at the terminal
+    3/42212 . . {Call pickup (comprising simultaneous alerting
+    3/42221 . . {Conversation recording systems (at the
+    3/42229 . . {Personal communication services, i.e. services
+related to one subscriber independent of his
+terminal and/or location (diverting calls from one
+subscriber to another subscriber, i.e. two different
+subscriptions H04M 3/54; selecting arrangements
+in intelligent networks H04Q 3/005)}
+    3/42238 . . . {in systems with telephone lines with multiple
+    3/42246 . . . {where the subscriber uses a multi-mode
+terminal which moves and accesses different
+networks with at least one network having a
+wireline access including cordless PBX}
+    3/42255 . . . . {with the subscriber having a personal
+    3/42263 . . . {where the same subscriber uses different
+    3/42272 . . . . {whereby the subscriber registers to the
+terminals for personalised service provision}
+    3/42289 . . . {with carrierprovider selection by subscriber}
+    3/42297 . . . {with number portability}
+    3/42306 . . . {Number translation services, e.g. premium-
+rate, freephone or vanity number services}
+    3/42314 . . {in private branch exchanges}
+    3/42323 . . . {PBX's with CTI arrangements}
+    3/42331 . . . {Direct inward dialling}
+    3/4234  . . . {Remote access to features of PBX or home
+telephone systems-teleworking in a PBX}
+    3/42348 . . {Location-based services which utilize the
+location information of a target}
+    3/42357 . . . {where the information is provided to a
+monitoring entity such as a potential calling
+party or a call processing server}
+    3/42365 . . {Presence services providing information on
+the willingness to communicate or the ability
+to communicate in terms of media capability or
+    3/42374 . . . {where the information is provided to a
+monitoring entity such as a potential calling
+party or a call processing server}
+    3/42382 . . {Text-based messaging services in telephone
+networks such as PSTN/ISDN, e.g. User-to-User
+Signalling or Short Message Service for fixed
+    3/42391 . . {where the subscribers are hearing-impaired
+persons, e.g. telephone devices for the deaf}
+    3/424   . . Arrangements for automatic redialling (at the
+    3/428   . . Arrangements for placing incoming calls on hold
+    3/4281  . . . {when the called subscriber is connected to a
+data network using his telephone line, e.g. dial-
+up connection, Internet browsing}
+    3/4283  . . . {Call holding circuits}
+    3/4285  . . . {Notifying, informing or entertaining a held
+party while on hold, e.g. Music On Hold}
+    3/4286  . . . {Notifying a held subscriber when his held call
+    3/4288  . . . {Notifying a called subscriber of an incoming
+call during an ongoing call, e.g. Call Waiting}
+    3/432   . . Arrangements for calling a subscriber at a specific
+time, e.g. morning call service
+    3/436   . . Arrangements for screening incoming calls {,
+i.e. evaluating the characteristics of a call before
+deciding whether to answer it (based on the
+calling party profile H04M 3/42059; based on
+location H04M 3/42348; based on presence
+H04M 3/42365; diversion H04M 3/54)}
+    3/4365  . . . {based on information specified by the calling
+party, e.g. priority or subject}
+    3/44    . . Additional connecting arrangements for providing
+access to frequently-wanted subscribers, e.g.
+abbreviated dialling (at the subscriber's set
+H04M 1/27; automatic redialling H04M 3/424)
+    3/46    . . Arrangements for calling a number of substations
+in a predetermined sequence until an answer is
+    3/465   . . . {Arrangements for simultaneously calling
+a number of substations until an answer is
+    3/48    . . Arrangements for recalling a calling subscriber
+when the wanted subscriber ceases to be busy
+    3/487   . . Arrangements for providing information
+services, e.g. recorded voice services or time
+    3/4872  . . . {Non-interactive information services}
+    3/4874  . . . . {Intercept announcements}
+    3/4876  . . . . {Time announcements}
+    3/4878  . . . . {Advertisement messages}
+    3/493   . . . Interactive information services, e.g. directory
+enquiries {; Arrangements therefor, e.g.
+interactive voice response [IVR] systems or
+    3/4931  . . . . {Directory assistance systems}
+    3/4933  . . . . . {with operator assistance}
+    3/4935  . . . . . {Connection initiated by DAS system}
+    3/4936  . . . . {Speech interaction details (speech
+recognition per se G10L 15/00)}
+    3/4938  . . . . {comprising a voice browser which renders
+    3/50    . . Centralised arrangements for answering calls;
+Centralised arrangements for recording messages
+for absent or busy subscribers (H04M 3/487
+takes precedence; centralised dictation systems
+H04M 11/10); {Centralised arrangements for
+    3/51    . . . Centralised call answering arrangements
+requiring operator intervention {, e.g. call or
+contact centers for telemarketing}
+    3/5108  . . . . {Secretarial services}
+    3/5116  . . . . {for emergency applications}
+    3/5125  . . . . {with remote located operators}
+    3/5133  . . . . {Operator terminal details}
+    3/5141  . . . . {Details of processing calls and other types
+of contacts in an unified manner (unified
+messaging in packet-switching networks
+    3/515   . . . . {Night service systems}
+    3/5158  . . . . {in combination with automated outdialling
+systems (devices for signalling identity of
+    3/5166  . . . . {in combination with interactive voice
+response systems or voice portals, e.g. as
+    3/5175  . . . . {Call or contact centers supervision
+    3/5183  . . . . {Call or contact centers with computer-
+    3/5191  . . . . . {interacting with the Internet}
+    3/52    . . . . Arrangements for routing dead number calls
+    3/523   . . . . with call distribution or queueing
+    3/5231  . . . . . {with call back arrangements}
+    3/5232  . . . . . {Call distribution algorithms}
+    3/5233  . . . . . . {Operator skill based call distribution}
+    3/5234  . . . . . . {Uniform load distribution}
+    3/5235  . . . . . . {Dependent on call type or called
+    3/5236  . . . . . . {Sequential or circular distribution}
+    3/5237  . . . . . {Interconnection arrangements between
+    3/5238  . . . . . {with waiting time or load prediction
+    3/527   . . . Centralised call answering arrangements not
+requiring operator intervention
+    3/53    . . . Centralised arrangements for recording
+incoming messages {, i.e. mailbox systems}
+    3/5307  . . . . {for recording messages comprising any
+combination of audio and non-audio
+    3/5315  . . . . . {where the non-audio components are
+still images or video (still image mailbox
+systems H04N 1/324, intermediate
+storage of video signals for videophones
+    3/5322  . . . . {for recording text messages}
+    3/533   . . . . Voice mail systems
+    3/53308 . . . . . {Message originator indirectly connected
+to the message centre, e.g. after detection
+of busy or absent state of a called party}
+    3/53316 . . . . . {Messaging centre selected by message
+    3/53325 . . . . . {Interconnection arrangements between
+    3/53333 . . . . . {Message receiving aspects}
+    3/53341 . . . . . . {Message reply}
+    3/5335  . . . . . . {Message type or catagory, e.g. priority,
+    3/53358 . . . . . . {Message preview}
+    3/53366 . . . . . {Message disposing or creating aspects}
+    3/53375 . . . . . . {Message broadcasting}
+    3/53383 . . . . . . {Message registering commands or
+    3/53391 . . . . . . . {dependent on calling party}
+    3/537   . . . . Arrangements for indicating the presence of
+a recorded message {, whereby the presence
+information might include a preview or
+    3/54    . . Arrangements for diverting calls for
+one subscriber to another predetermined
+subscriber {(based on the calling party
+profile H04M 3/42059; based on location
+H04M 3/42348; based on presence
+H04M 3/42365; to voice mail H04M 3/53308)}
+    3/541   . . . {based on information specified by the calling
+    3/543   . . . {Call deflection}
+    3/545   . . . {with loop avoiding arrangements}
+    3/546   . . . {in private branch exchanges}
+    3/548   . . . {with remote control}
+    3/56    . . Arrangements for connecting several subscribers
+to a common circuit, i.e. affording conference
+facilities (video conference systems H04N 7/15)
+    3/561   . . . {by multiplexing}
+    3/562   . . . {where the conference facilities are distributed}
+    3/563   . . . {User guidance or feature selection}
+    3/564   . . . . {whereby the feature is a sub-conference}
+    3/565   . . . . {relating to time schedule aspects}
+    3/566   . . . . {relating to a participants right to
+speak (arrangements for multi-party
+communication with floor control, e.g. for
+conferences, H04L 65/4038, H04L 65/4046,
+    3/567   . . . {Multimedia conference systems}
+    3/568   . . . {audio processing specific to telephonic
+conferencing, e.g. spatial distribution, mixing
+of participants (echo suppression in two-way
+loud-speaking telephone systems H04M 9/02;
+sound field processing per se H04S 7/30)}
+    3/569   . . . . {using the instant speaker's algorithm
+(speech detection per se G10L 25/78)}
+    3/58    . . Arrangements for transferring received calls
+from one subscriber to another; Arrangements
+affording interim conversations between either
+the calling or the called party and a third party
+(substation line holding circuits H04M 1/80)
+    3/60    . Semi-automatic systems, i.e. in which the numerical
+selection of the outgoing line is under the control of
+    3/62    . . Keyboard equipment {(in key telephone systems
+    3/64    . . Arrangements for signalling the number or
+class of the calling line to the operator (between
+operators in inter- exchange working H04M 5/18)
+    5/00    Manual exchanges (substation equipment in general
+    5/02    . Constructional details (jacks, jack-plugs
+    5/04    . Arrangements for indicating calls or supervising
+connections for calling or clearing
+    5/06    . . affording automatic call distribution
+    5/08    . using connecting means other than cords
+    5/10    . using separate plug for each subscriber
+    5/12    . Calling substations, e.g. by ringing
+    5/14    . Applications of speech amplifiers
+    5/16    . with means for reducing interference; with means
+for reducing effects due to line faults
+    5/18    . Arrangements for signalling the class or number of
+called or calling line from one exchange to another
+    5/20    . . Arrangements for indicating the numbers of the
+    7/00    Arrangements for interconnection between
+    7/0003  . {Interconnection between telephone networks and
+This group is no longer used for the classification
+of new documents as from February 1, 2007.
+The backlog of this group is being continuously
+reclassified to subgroups of H04M 7/0024 or
+    7/0006  . . {where voice calls cross both networks}
+This group is no longer used for the
+classification of new documents as from
+February 1, 2007. The backlog of this group is
+being continuously reclassified to subgroups
+    7/0009  . . {where voice calls remain entirely in the
+This group is no longer used for the
+classification of new documents as from
+February 1, 2007. The backlog of this group is
+being continuously reclassified to subgroups
+    7/0012  . {Details of application programming interfaces
+[API] for telephone networks; Arrangements which
+combine a telephonic communication equipment
+and a computer, i.e. computer telephony integration
+    7/0015  . . {First party call control architectures}
+    7/0018  . . {Computer Telephony Resource Boards}
+    7/0021  . . {Details of Application Programming Interfaces}
+    7/0024  . {Services and arrangements where telephone
+services are combined with data services
+(arrangements which combine a telephonic
+equipment and a computer H04M 7/0012)}
+    7/0027  . . {Collaboration services where a computer is used
+for data transfer and the telephone is used for
+    7/003   . . {Click to dial services}
+    7/0033  . . {Notification or handling of incoming calls by a
+    7/0036  . . {where the data service is an information service}
+    7/0039  . . {where the data service is provided by a stream
+of packets which are rendered in real time by the
+receiving terminal (network streaming of media
+    7/0042  . . {where the data service is a text-based messaging
+service (H04M 7/0054 takes precedence)}
+    7/0045  . . . {where the text-based messaging service is an
+    7/0048  . . . {where the text-based messaging service is a
+    7/0051  . . {where the data service is a multimedia
+    7/0054  . . {where the data service is an electronic mail
+    7/0057  . . {Services where the data services network
+provides a telephone service in addition or as
+an alternative, e.g. for backup purposes, to the
+telephone service provided by the telephone
+    7/006   . {Networks other than PSTN/ISDN providing
+telephone service, e.g. Voice over Internet Protocol
+(VoIP) , including next generation networks with
+a packet-switched transport layer (H04L 65/00
+takes precedence; aspects not specific to the type
+of network H04M 3/00; special services in those
+    7/0063  . . {where the network is a peer-to-peer network}
+    7/0066  . . {Details of access arrangements to the networks
+(where the access arrangement is a PSTN/ISDN
+    7/0069  . . . {comprising a residential gateway, e.g. those
+which provide an adapter for POTS or ISDN
+    7/0072  . . {Speech codec negotiation (H04L 65/1069 takes
+    7/0075  . . {Details of addressing, directories or routing
+    7/0078  . . {Security; Fraud detection; Fraud prevention}
+    7/0081  . . {Network operation, administration, maintenance,
+    7/0084  . . . {Network monitoring; Error detection; Error
+    7/0087  . . . {Network planning or provisioning}
+    7/009   . {in systems involving PBX or KTS networks}
+    7/0093  . {signalling arrangements in networks}
+    7/06    . using auxiliary connections for control or
+supervision {, e.g. where the auxiliary connection is
+a signalling system number 7 link}
+    7/063   . . {where the telephone network is a network other
+    7/066   . . {where the auxiliary connection is via an Internet
+Protocol network (interworking of signalling
+system number 7 (SS7) with Internet Protocol-
+based session control protocols H04M 7/1265,
+    7/08    . for phantom working {(phantom working in
+transmission of digital information H04L 5/20)}
+    7/12    . for working between exchanges having different
+types of switching equipment, e.g. power-driven and
+step by step or decimal and non-decimal
+    7/1205  . . {where the types of switching equipement
+comprises PSTN/ISDN equipment and switching
+equipment of networks other than PSTN/ISDN,
+e.g. Internet Protocol networks}
+    7/121   . . . {Details of network access arrangements or
+    7/1215  . . . . {where a cable TV network is used as an
+    7/122   . . . . {where the PSTN/ISDN access is used as
+an access to networks other than PSTN/
+ISDN (access arrangements to networks
+other than PSTN/ISDN H04M 7/0066;
+access arrangements to public data networks
+    7/1225  . . . {Details of core network interconnection
+    7/123   . . . . {where the packet-switched network is an
+Internet Protocol Multimedia System-type
+    7/1235  . . . . {where one of the core networks is a wireless
+    7/124   . . . {where PSTN/ISDN interconnects two
+    7/1245  . . . {where a network other than PSTN/ISDN
+interconnects two PSTN/ISDN networks}
+    7/125   . . . {Details of gateway equipment}
+    7/1255  . . . . {where the switching fabric and the
+switching logic are decomposed such as in
+    7/126   . . . {Interworking of session control protocols}
+    7/1265  . . . . {where the session control protocols
+    7/127   . . . . {where the session control protocols
+    7/1275  . . . {Methods and means to improve the telephone
+service quality, e.g. reservation, prioritisation
+    7/128   . . . {Details of addressing, directories or routing
+    7/1285  . . . {Details of finding and selecting a gateway for
+    7/129   . . . {Details of providing call progress tones or
+    7/1295  . . . {Details of dual tone multiple frequency
+    7/14    . in systems involving main and subordinate
+    7/16    . in systems employing carrier frequencies
+    9/00    Arrangements for interconnection not involving
+    9/001   . {Two-way communication systems between a
+    9/002   . {with subscriber controlled access to a line, i.e. key
+    9/003   . . {Transmission of control signals from or to the
+key telephone set; signalling equipment at key
+telephone set, e.g. keyboard or display equipment
+(keyboard equipment in semi-automatic systems
+    9/005   . . {with subscriber controlled access to an exchange
+    9/006   . . . {Exchange line circuits (subscriber line circuits
+    9/007   . . . {wherein the key telephone sets are star-
+connected to a central unit by a limited number
+    9/008   . . {Multiplex systems}
+    9/02    . involving a common line for all parties
+    9/022   . . {Multiplex systems}
+    9/025   . . . {Time division multiplex systems, e.g. loop
+    9/027   . . . {Frequency division multiplex systems}
+    9/04    . involving a separate line for each pair of parties
+    9/06    . involving combinations of interconnecting lines
+    9/08    . Two-way loud-speaking telephone systems
+with means for conditioning the signal, e.g. for
+suppressing echoes for one or both directions of
+    9/082   . . {using echo cancellers (echo cancellers per se
+    9/085   . . {using digital techniques (H04M 9/082 takes
+    9/087   . . {using different frequency bands for transmitting
+and receiving paths (for line transmission
+in general H04B 3/21); using phase shifting
+    9/10    . . with switching of direction of transmission by
+   11/00    Telephonic communication systems specially
+adapted for combination with other electrical
+   11/002   . {with telemetering systems (telemetering in general
+   11/005   . . {using recorded signals, e.g. speech}
+   11/007   . {with remote control systems (remote control in
+   11/02    . with bell or annunciator systems
+   11/022   . . {Paging systems (personal calling arrangements
+or devices G08B 3/1008; selective calling
+   11/025   . . {Door telephones (adapted for television
+   11/027   . . {Annunciator systems for hospitals}
+   11/04    . with alarm systems, e.g. fire, police or burglar alarm
+   11/045   . . {using recorded signals, e.g. speech}
+   11/06    . Simultaneous speech and data transmission, e.g.
+telegraphic transmission over the same conductors
+   11/062   . . {using different frequency bands for speech and
+   11/064   . . {Data transmission during pauses in telephone
+   11/066   . . {Telephone sets adapted for data transmision}
+   11/068   . . {using time division multiplex techniques;
+(integrated services digital networks
+   11/08    . specially adapted for optional reception of
+entertainment or informative matter
+   11/085   . . {using a television receiver, e.g. viewdata
+   11/10    . with dictation recording and playback systems
+   13/00    Party-line systems (substation equipment
+H04M 1/00; exchange equipment H04M 3/00,
+H04M 5/00; metering arrangements H04M 15/36)
+   15/00    Arrangements for metering, time-control or
+time indication {; Metering, charging or billing
+arrangements for voice wireline or wireless
+   15/04    . Recording calls {, or communications} in printed,
+perforated or other permanent form
+   15/06    . . Recording class or number of calling {, i.e. A-
+party} or called party {, i.e. B-party}
+   15/07    . {Split billing, i.e. both A-party and B-party charged
+   15/08    . Metering calls to called party {, i.e. B-party charged
+   15/09    . {Third party charged communications}
+   15/10    . Metering calls from calling party {, i.e. A-party
+   15/12    . . Discriminative metering {, charging or billing}
+   15/14    . . . according to class of calling party
+   15/16    . . . according to connection obtained
+   15/18    . . . according to duration of the call {, or the
+   15/20    . . . . Operator's time recording or indicating
+   15/22    . . . according to time of day
+   15/24    . . . preventing metering of tax-free calls to certain
+lines, e.g. to fire or ambulance stations
+   15/26    . . with a meter {or performing charging or billing}
+at the exchange controlled by an operator
+   15/28    . with meter at substation {or with calculation of
+   15/30    . . the meter {or calculation of charges} not being
+   15/31    . {Distributed metering or calculation of charges}
+   15/32    . {Charging, billing or} metering arrangements for
+satellites or concentrators which connect one or
+more exchange lines with a group of local lines
+   15/34    . {Charging, billing or} metering arrangements for
+   15/36    . {Charging, billing or} metering arrangements for
+   15/38    . {Charging, billing or} metering by apparatus other
+than mechanical step-by-step counter type
+   15/39    . {Arrangements for preventing metering, charging or
+   15/41    . {Billing record details, i.e. parameters, identifiers,
+structure of call data record [CDR]}
+   15/42    . {Dynamic individual rates per user}
+   15/43    . {Billing software details}
+   15/44    . {Augmented, consolidated or itemized billing
+statement or bill presentation}
+   15/46    . {Real-time negotiation between users and providers
+   15/47    . {Fraud detection or prevention means}
+   15/48    . {Secure or trusted billing, e.g. trusted elements or
+   15/49    . {Connection to several service providers}
+   15/50    . {for cross-charging network operators}
+   15/51    . {for resellers, retailers or service providers}
+   15/52    . {for operator independent billing system}
+   15/53    . {using mediation}
+   15/54    . {for revenue sharing}
+   15/55    . {for hybrid networks}
+   15/56    . {for VoIP communications}
+   15/57    . {for integrated multimedia messaging subsystem
+   15/58    . {based on statistics of usage or network monitoring}
+   15/59    . {based on real time}
+   15/60    . {based on actual use of network resources}
+   15/61    . {based on the service used}
+   15/62    . {based on trigger specification}
+   15/63    . {based on the content carried by the session
+initiation protocol [SIP] messages}
+   15/64    . {On-line charging system [OCS]}
+   15/65    . {Off-line charging system}
+   15/66    . {Policy and charging system}
+   15/67    . {Transmitting arrangements for sending billing
+   15/68    . {Payment of value-added services}
+   15/70    . {Administration or customization aspects; Counter-
+   15/705   . . {Account settings, e.g. limits or numbers or
+   15/71    . . {Modifying recharging resources}
+   15/715   . . {Activating new subscriber or card}
+   15/721   . . . {using the Internet}
+   15/723   . . . {using the user's device}
+   15/725   . . {by the operator}
+   15/73    . . {Validating charges}
+   15/735   . . {Re-crediting user}
+   15/745   . . {Customizing according to wishes of subscriber,
+   15/75    . . {Account location specifications}
+   15/751   . . . {Card based account, e.g. smart card, SIM card
+   15/752   . . . {Terminal based account}
+   15/753   . . . {Network based account}
+   15/755   . . {Account identification}
+   15/7553  . . . {via service number, e.g. calling card}
+   15/7556  . . . {by SIM, e.g. smart card account in SCP, SDP
+   15/76    . . {Synchronization of distributed accounts}
+   15/765   . . {Linked or grouped accounts, e.g. of users or
+   15/7652  . . . {shared by users}
+   15/7655  . . . {shared by technologies}
+   15/7657  . . . {for closed subscriber group [CSG]}
+   15/77    . . {involving multiple accounts per user}
+   15/771   . . . {per terminal or location, e.g. mobile device
+with multiple directory numbers}
+   15/772   . . . {per service, e.g. prepay or post-pay}
+   15/773   . . . {per technology, e.g. PSTN or wireless}
+   15/775   . . {Account specifications on parallel
+   15/78    . . {Redistributing amount between accounts}
+   15/781   . . . {dynamically}
+   15/783   . . . {by user request}
+   15/785   . . {Reserving amount on the account}
+   15/79    . . {Virtual purses}
+   15/80    . {Rating or billing plans; Tariff determination
+   15/8011  . . {using class of subscriber}
+   15/8016  . . {based on quality of service [QoS]}
+   15/8022  . . {Determining tariff or charge band}
+   15/8027  . . {based on network load situation}
+   15/8033  . . {location-dependent, e.g. business or home}
+   15/8038  . . {Roaming or handoff}
+   15/8044  . . {Least cost routing}
+   15/8055  . . . {Selecting cheaper transport technology for a
+   15/8061  . . . {Selecting least cost route depending on origin
+   15/8066  . . {According to the number of recipients}
+   15/8072  . . . {Group, conference or multi-party call}
+   15/8077  . . . {Group MMS or SMS; Point-to-multi-point
+services or broadcast services}
+   15/8083  . . {involving reduced rates or discounts, e.g. time-
+of-day reductions or volume discounts}
+   15/8088  . . {involving increased rates, e.g. spam messaging
+   15/8094  . . {Trial service, i.e. free of charge service for trial
+   15/81    . {Dynamic pricing, e.g. change of tariff during call}
+   15/82    . {Criteria or parameters used for performing billing
+   15/8207  . . {Time based data metric aspects, e.g. VoIP or
+   15/8214  . . {Data or packet based}
+   15/8221  . . {Message based}
+   15/8228  . . {Session based}
+   15/8242  . . {Transaction based}
+   15/825   . . {based on the number of used channels, e.g.
+bundling channels, frequencies or CDMA codes}
+   15/8271  . . {Based on the number of used services, e.g. call
+   15/8285  . . {Money or currency based}
+   15/8292  . . {Charging for signaling or unsuccessful
+   15/83    . {Notification aspects}
+   15/835   . . {Time or frequency of notifications, e.g. Advice
+   15/8351  . . . {before establishing a communication}
+   15/8353  . . . {during the communication}
+   15/8355  . . . {after the end of the communication}
+   15/8356  . . . {in regular intervals}
+   15/8358  . . . {Dynamic change of the length or frequency of
+   15/84    . . {Types of notifications}
+   15/842   . . . {Announcement, e.g. IVR dialogue}
+   15/844   . . . {Message, e.g. SMS}
+   15/846   . . . {optical, e.g. icon}
+   15/848   . . . {Tone, e.g. beeper}
+   15/85    . . {characterised by the type of condition triggering
+   15/851   . . . {Determined tariff}
+   15/852   . . . {Low balance or limit reached}
+   15/853   . . . {Calculate maximum communication time or
+   15/854   . . . {Available credit}
+   15/855   . . . {Successful event}
+   15/856   . . . {Unsuccessful event}
+   15/857   . . . {Cumulative charges}
+   15/858   . . . {Request users acknowledgement prior to use}
+   15/86    . . {Recipients of the notification}
+   15/863   . . . {multiple parties, e.g. multi party AOC}
+   15/866   . . . {a predetermined or undetermined destination,
+e.g. notifying a prepaid accounting server of a
+successful delivery of a service}
+   15/88    . {Provision for limiting connection, or expenditure}
+   15/881   . . {for continuing the call beyond the limit using
+   15/882   . . {for continuing the call beyond the limit using an
+alternative, e.g. alternative account}
+   15/883   . . {linked escalation limits, i.e. establish, first or
+   15/885   . . {limit per application}
+   15/886   . . {limit per terminal}
+   15/887   . . {limit per user or user related number}
+   15/888   . . {severing connection after predetermined time or
+   15/90    . {using Intelligent Networks [IN] or Advanced
+   15/93    . {using near field or similar technologies}
+   17/00    Prepayment {of wireline communication systems,
+wireless communication systems or} telephone
+systems (using a coded card to authorise calls from a
+   17/005   . {Disposable prepaid communication devices}
+   17/01    . {Cocot systems, i.e. private ownership of
+   17/02    . Coin-freed or check-freed systems {, e.g. mobile- or
+card-operated phones, public telephones or booths}
+   17/023   . . {Circuit arrangements}
+   17/026   . . {Constructional features}
+   17/10    . {Account details or usage}
+   17/103   . . {using SIMs (USIMs) or calling cards}
+   17/106   . . {using commercial credit or debit cards}
+ 2017/12    . {using calling, telephone credit/debit cards}
+ 2017/14    . {using commercial credit/debit cards, e.g. VISA,
+   17/20    . {with provision for recharging the prepaid account
+or card, or for credit establishment}
+   17/201   . . {automatic recharging with predetermined
+   17/202   . . {selecting interactively a payment method}
+   17/203   . . . {cash-based recharging, i.e. physical input of
+   17/204   . . {on-line recharging, e.g. cashless}
+   17/205   . . . {by calling a service number, e.g. interactive
+   17/206   . . . {by sending a message, e.g. SMS, MMS or
+   17/207   . . . {using signaling, e.g. USSD, UUS or DTMF}
+   17/208   . . . {using WAP or Internet, i.e. including
+electronic payment, e.g. e-cash}
+ 2017/22    . {with automatic recharging of account/card, e.g. if
+limit is reached during connection the account is
+ 2017/225   . . {with predetermined amount}
+ 2017/227   . . {with amount selected interactively}
+ 2017/24    . {with on-line recharging of an account or card, e.g.
+ 2017/241   . . {by calling a service number IVR, menu}
+ 2017/243   . . {by sending a message, e.g. SMS, MMS, EMS}
+ 2017/245   . . {using money, i.e. physical input of coins or bank
+ 2017/246   . . {using signalling, e.g. USSD, UUS, DTMF}
+ 2017/248   . . {using WAP or Internet, i.e. including electronic
+ 2017/2506  . . {code input or reading}
+ 2017/2512  . . . {from communication terminal display}
+ 2017/2518  . . . {from material card, using a magnetic stripe
+ 2017/2525  . . . {optical code recognition [OCR], e.g. bar code
+ 2017/2531  . . . {wireless, e.g. Bluetooth, RFID}
+ 2017/2543  . . . {public, e.g. public recharge point}
+ 2017/255   . . . {local at the terminal itself}
+ 2017/2562  . . . {alphanumeric}
+ 2017/2575  . . . {pattern, i.e. single or changing sequences of
+ 2017/2581  . . . {punched holes}
+ 2017/2587  . . . {temporarily valid code}
+ 2017/2593  . . {code management}
+ 2017/26    . {with real-time recharging of account/card, e.g. if
+limit is reached during connection user is asked if he
+   17/301   . . {Code input or reading}
+   17/302   . . . {from communication terminal display}
+   17/303   . . . {from material cards, i.e. magnetic stripe card}
+   17/304   . . . {Optical code recognition [OCR], e.g. bar code
+   17/305   . . . {Wireless codes, e.g. Bluetooth or RFID}
+   17/306   . . . {using public code readers, e.g. public payment
+   17/307   . . {Code type, e.g. alphanumeric code, bar code}
+   17/308   . . {Code management}
+   19/00    Current supply arrangements for telephone
+systems (for selecting-equipment H04Q 1/28)
+   19/001   . {Current supply source at the exchanger providing
+   19/003   . . {Arrangements for compensation of the DC flux
+   19/005   . . {Feeding arrangements without the use of line
+   19/006   . . {Circuits for increasing the range of current
+   19/008   . . {Using DC/DC converters (DC/DC converters
+   19/02    . providing ringing current or supervisory tones, e.g.
+   19/023   . . {by reversing the polarity of the current at the
+   19/026   . . {Arrangements for interrupting the ringing
+   19/04    . . the ringing-current being generated at the
+   19/041   . . . {Encoding the ringing signal, i.e. providing
+distinctive or selective ringing capability}
+   19/042   . . . {with variable loudness of the ringing tone, e.g.
+variable envelope or amplitude of ring signal}
+   19/044   . . . . {according to the level of ambient noise}
+   19/045   . . . {Call privacy arrangements, e.g. timely
+   19/047   . . . {Vibrating means for incoming calls}
+   19/048   . . . {Arrangements providing optical indication of
+the incoming call, e.g. flasher circuits}
+   19/06    . in which current supply sources at subordinate
+switching centres are charged from the main
+   19/08    . with current supply sources at the substations
+(generating ringing current H04M 19/04)
+   99/00    Subject matter not provided for in other groups of
+ 2201/00    Electronic components, circuits, software, systems
+or apparatus used in telephone systems
+ 2201/06    . Integrated circuits
+ 2201/08    . Magnetic elements
+ 2201/12    . Counting circuits
+ 2201/14    . Delay circuits; Timers
+ 2201/16    . Sequence circuits
+ 2201/22    . Synchronisation circuits
+ 2201/32    . Personal computers
+ 2201/39    . using speech synthesis (speech synthesis per se
+ 2201/40    . using speech recognition (speech recognition per se
+ 2201/405   . . involving speaker-dependent recognition
+(adaptation to speaker for speech recognition
+ 2201/41    . using speaker recognition (speaker recognition per
+ 2201/42    . Graphical user interfaces
+ 2201/50    . Telephonic communication in combination with
+ 2201/52    . Telephonic communication in combination with fax
+ 2201/54    . Object oriented software
+ 2201/60    . Medium conversion
+ 2201/80    . line protection circuits such as current or
+overvoltage protection circuits
+ 2203/00    Aspects of automatic or semi-automatic exchanges
+ 2203/051   . . technician dispatch system
+ 2203/052   . . software update
+ 2203/053   . . remote terminal provisioning, e.g. of applets
+ 2203/055   . . loopback testing
+ 2203/056   . . non-invasive testing, i.e. in operation testing
+ 2203/057   . . distortion monitoring (QoS monitoring
+H04M 3/2227; quality of speech transmission
+ 2203/058   . . signature devices
+ 2203/10    . related to the purpose or context of the telephonic
+ 2203/1008  . . Calls without connection establishment for
+implicit information transfer or as a service
+ 2203/1033  . . Remote administration, e.g. of web servers
+ 2203/105   . . Financial transactions and auctions, e.g. bidding
+(auctioneering devices in packet switching
+ 2203/1058  . . Shopping and product ordering
+ 2203/1075  . . Telemetering, e.g. transmission of ambient
+ 2203/1091  . . Fixed mobile conversion
+ 2203/15    . related to dial plan and call routing
+ 2203/152   . . Temporary dial plan
+ 2203/154   . . Functional or symbolic dial plan such as license
+ 2203/156   . . On-line status dependent routing
+ 2203/158   . . Call-type dependent routing (route determination
+based on the nature of the carried application in
+packet switching networks H04L 45/306)
+ 2203/20    . related to features of supplementary services
+ 2203/2005  . . Temporarily overriding a service configuration
+ 2203/2011  . . Service processing based on information
+specified by a party before or during a call, e.g.
+information, tone or routing selection
+ 2203/2016  . . Call initiation by network rather than by
+ 2203/2022  . . Path replacement
+ 2203/2027  . . Live party detection
+ 2203/2033  . . Call handling or answering restrictions, e.g.
+ 2203/2038  . . Call context notifications
+ 2203/2044  . . Group features, e.g. closed user group
+ 2203/205   . . Broadcasting (broadcasting in packet switching
+ 2203/2055  . . Line restrictions
+ 2203/2061  . . Language aspects
+ 2203/2066  . . Call type detection of indication, e.g. voice or fax,
+ 2203/2072  . . Schedules, e.g. personal calendars
+ 2203/2077  . . Call queuing apart from automatic call
+ 2203/2083  . . Confirmation by serviced party
+ 2203/2088  . . Call or conference reconnect, e.g. resulting from
+ 2203/25    . related to user interface aspects of the telephonic
+ 2203/251   . . where a voice mode or a visual mode can be used
+ 2203/252   . . . where a voice mode is enhanced with visual
+ 2203/253   . . . where a visual mode is used instead of a voice
+ 2203/254   . . . . where the visual mode comprises menus
+ 2203/255   . . comprising a personalized user interface
+ 2203/256   . . comprising a service specific user interface
+ 2203/257   . . remote control of substation user interface for
+telephonic services, e.g. by ISDN stimulus, ADSI,
+wireless telephony application WTA, MExE or
+ 2203/258   . . Service state indications
+ 2203/30    . related to audio recordings in general
+ 2203/301   . . Management of recordings
+ 2203/305   . . Recording playback features, e.g. increased speed
+ 2203/306   . . Prerecordings to be used during a voice call
+ 2203/308   . . Personal name recording
+ 2203/35    . related to information services provided via a voice
+ 2203/351   . . Pre or post-call/conference information service
+ 2203/352   . . In-call/conference information service
+ 2203/353   . . where the information comprises non-audio
+but is provided over voice channels (protocols
+for multimedia information services per se
+ 2203/354   . . Reverse directory service
+ 2203/355   . . Interactive dialogue design tools, features or
+ 2203/357   . . Autocues for dialog assistance
+ 2203/358   . . Digital rights management
+ 2203/359   . . Augmented reality
+ 2203/40    . related to call centers
+ 2203/401   . . Performance feedback
+ 2203/402   . . Agent or workforce management
+ 2203/403   . . Agent or workforce training
+ 2203/404   . . Collaboration among agents
+ 2203/405   . . Competitive bidding for work items
+ 2203/406   . . Rerouting calls between call centers
+ 2203/407   . . Call center operated for multiple customers
+ 2203/408   . . Customer-specific call routing plans
+ 2203/45    . related to voicemail messaging
+ 2203/4509  . . Unified messaging with single point of access to
+voicemail and other mail or messaging systems
+(unified messaging in packet switching networks
+ 2203/4518  . . Attachments to voicemail (messages including
+annexed information, e.g. Attachments, in packet
+ 2203/4527  . . Voicemail attached to other kind of message
+ 2203/4536  . . Voicemail combined with text-based messaging
+ 2203/4545  . . Message forwarding (selective message
+forwarding in packet switching networks
+ 2203/4554  . . Sender-side editing
+ 2203/4563  . . Voicemail monitoring during recording
+ 2203/4581  . . Sending message identifiers instead of whole
+messages (notification of incoming messages in
+packet-switching networks H04L 51/224)
+ 2203/459   . . Calling party redirected to message centre on
+ 2203/50    . related to audio conference
+ 2203/5009  . . Adding a party to an existing conference
+(conducting a computer conference, e.g.
+admission detection H04L 12/1822)
+ 2203/5018  . . Initiating a conference during a two-party
+conversation, i.e. three-party-service or three-
+way-call (computer conference organisation
+ 2203/5027  . . Dropping a party from a conference (conducting
+a computer conference, e.g. admission detection
+ 2203/5036  . . using conference for collection of feedback
+ 2203/5045  . . Selection of bridge/multipoint control unit
+(network arrangements for computer conference
+ 2203/5054  . . Meet-me conference, i.e. participants dial-in
+ 2203/5063  . . Centrally initiated conference, i.e. Conference
+server dials participants (computer conference
+organisation arrangements H04L 12/1818)
+ 2203/5072  . . Multiple active speakers (conducting a
+computer conference, e.g. Admission detection
+ 2203/5081  . . Inform conference party of participants,
+e.g. of change of participants (conducting a
+computer conference, e.g. admission detection,
+ 2203/509   . . Microphone arrays
+ 2203/55    . related to network data storage and management
+ 2203/551   . . Call history (recording a computer conference
+ 2203/552   . . Call annotations
+ 2203/554   . . Data synchronization
+ 2203/555   . . Statistics, e.g. about subscribers but not being call
+ 2203/556   . . . Statistical analysis and interpretation
+ 2203/557   . . Portable profiles
+ 2203/559   . . Sorting systems
+ 2203/60    . related to security aspects in telephonic
+communication systems (network architectures
+or network communication protocols for network
+ 2203/6009  . . Personal information, e.g. profiles or personal
+directories being only provided to authorised
+ 2203/6018  . . Subscriber or terminal logon/logoff
+ 2203/6027  . . Fraud preventions
+ 2203/6036  . . Anti virus measures
+ 2203/6045  . . Identity confirmation
+ 2203/6054  . . Biometric subscriber identification
+ 2203/6063  . . Authentication using cards
+ 2203/6072  . . Authentication using challenger response
+ 2203/6081  . . Service authorization mechanisms
+ 2203/609   . . Secret communication
+ 2203/65    . related to applications where calls are combined
+with other types of communication
+ 2203/651   . . Text message transmission triggered by call
+(automatic reactions in messaging within packet-
+ 2203/652   . . Call initiation triggered by text message
+ 2203/654   . . Pre, in or post-call message
+ 2203/655   . . Combination of telephone service and social
+networking (messaging within social networks
+ 2203/657   . . Combination of voice and fax calls
+ 2203/658   . . Combination of voice calls and paging
+ 2207/00    Type of exchange or network, i.e. telephonic
+medium, in which the telephonic communication
+ 2207/12    . intelligent networks
+ 2207/18    . wireless networks
+ 2207/182   . . wireless circuit-switched
+ 2207/185   . . wireless packet-switched
+ 2207/187   . . combining circuit and packet-switched, e.g.
+ 2207/203   . . composed of PSTN and data network, e.g. the
+ 2207/206   . . composed of PSTN and wireless network
+ 2207/30    . third party service providers
+ 2207/35    . virtual private networks
+ 2207/40    . terminals with audio html browser
+ 2207/45    . public-private interworking, e.g. centrex
+ 2215/00    Metering arrangements; Time controlling
+arrangements; Time indicating arrangements
+ 2215/01    . Details of billing arrangements
+ 2215/0104  . . Augmented, consolidated or itemised billing
+statement, e.g. additional billing information,
+bill presentation, layout, format, e-mail, fax,
+printout, itemised bill per service or per account,
+cumulative billing, consolidated billing
+ 2215/0108  . . Customization according to wishes of subscriber,
+e.g. customer preferences, friends and family,
+selecting services or billing options, Personal
+ 2215/0112  . . Dynamic pricing, e.g. change of tariff during call
+ 2215/0116  . . Provision for limiting expenditure, e.g. limit on
+ 2215/012   . . . Continue allow grace, e.g. accept negative
+ 2215/0124  . . . Continue alternative, i.e. alternative account to
+ 2215/0128  . . . Linked escalation limits, establish, first or
+ 2215/0132  . . . Limit per application
+ 2215/0136  . . . Limit per terminal
+ 2215/014   . . . Limit per user or user related number
+ 2215/0144  . . . Release upon reaching limit
+ 2215/0148  . . Fraud detection or prevention means
+ 2215/0152  . . General billing plans, rate plans, e.g. charge rates,
+numbering plans, rate centers, customer accounts
+ 2215/0156  . . Secure and trusted billing, e.g. trusted elements,
+encryption, digital signature, codes or double
+check mechanisms to secure billing calculation
+ 2215/016   . . Billing using Intelligent Networks [IN] or
+Advanced Intelligent Networks [AIN]
+ 2215/0164  . . Billing record, e.g. Call Data Record [CDR],
+Toll Ticket[TT], Automatic Message Accounting
+[AMA], Call Line Identifier [CLI], details, i.e.
+parameters, identifiers, structure
+ 2215/0168  . . On line or real-time flexible customization or
+negotiation according to wishes of subscriber
+ 2215/0172  . . Mediation, i.e. device or program to reformat
+CDRS from one or more switches in order to
+adapt to one or more billing programs formats
+ 2215/0176  . . Billing arrangements using internet
+ 2215/018   . . On-line real-time billing, able to see billing
+information while in communication, e.g. via the
+ 2215/0184  . . involving reduced rates or discounts, e.g. time-of-
+day reductions, volume discounts, cell discounts,
+group billing, frequent calling destination(s) or
+ 2215/0188  . . Network monitoring; statistics on usage on called/
+ 2215/0192  . . Sponsored, subsidised calls via advertising, e.g.
+calling cards with ads or connecting to special
+ads, free calling time by purchasing goods
+ 2215/0196  . . Payment of value-added services, mainly when
+their charges are added on the telephone bill, e.g.
+payment of non-telecom services, e-commerce,
+ 2215/14    . Billing aspects relating to the actual charge
+ 2215/143   . . Non communication time, i.e. billing the user for
+the actual time used by the service, not for the
+time awaiting responses due to network problems;
+Billing the user when there is a satisfied QoS
+ 2215/146   . . Data billing, e.g. wherein the user is charged
+based only on the time he receives data
+ 2215/20    . Technology dependant metering
+ 2215/2006  . . Fixed telephone network, e.g. POTS, ISDN
+ 2215/2013  . . Fixed data network, e.g. PDN, ATM, B-ISDN
+ 2215/202   . . VoIP; Packet switched telephony
+ 2215/2026  . . Wireless network, e.g. GSM, PCS, TACS
+ 2215/206   . . CDMA, i.e. Code Division Multiple Access
+ 2215/2066  . . Service node based PPS
+ 2215/2073  . . Multipoint, e.g. messaging, broadcast or group
+ 2215/208   . . IMS, i.e. Integrated Multimedia messaging
+ 2215/2086  . . xDSL Modem lines, e.g. HDSL or ADSL
+ 2215/22    . Bandwidth or usage-sensitve billing
+ 2215/24    . Voice over IP billing
+ 2215/26    . Data billing charged as a voice call, i.e. based on
+ 2215/32    . Involving wireless systems
+ 2215/42    . Least cost routing, i.e. provision for selecting the
+ 2215/44    . Charging/billing arrangements for connection made
+over different networks, e.g. wireless and PSTN,
+ 2215/46    . Connection to several service providers
+ 2215/48    . Sending information over a non-traffic network
+channel or another connection than the one actually
+used, e.g. signalling, D-channel, data and voice
+ 2215/52    . Interconnection, inter-exchange, reseller billing,
+billing agreements between different operators, e.g.
+billing identifier added on the CDR in order to cross
+charge the other operator, inter-operator accounting,
+reconciliation, bill directly resellers customers
+ 2215/54    . Resellers-retail or service providers billing, e.g.
+agreements with telephone service operator,
+activation, charging/recharging of accounts
+ 2215/56    . On line or real-time flexible agreements between
+service providers and telecoms operators
+ 2215/62    . Called party billing, e.g. reverse billing, freephone,
+ 2215/64    . Split billing, sharing the cost of calls, e.g. between
+ 2215/66    . Third party billing, i.e. third party can also be the
+predetermined telephone line of the caller if he is
+calling from another telephone set
+ 2215/68    . Billing calls completely to the calling party, except
+POTS, e.g. charge on caller's choice service
+ 2215/70    . Administration aspects, modify settings or limits or
+ 2215/7009  . . Account settings, e.g. users, terminals, limits,
+ 2215/7018  . . Modify recharging resources, e.g. banking, credit,
+ 2215/7027  . . Activate new subscriber or card
+ 2215/7036  . . Administer via user
+ 2215/7045  . . . Using Internet or WAP
+ 2215/7054  . . . Using the phone
+ 2215/7063  . . Administer via operator
+ 2215/7072  . . Validate charges
+ 2215/7081  . . . Re-credit user, e.g. repay user with the amount
+or free time after finding an error in calculating
+ 2215/72    . Account specifications
+ 2215/7204  . . Account location
+ 2215/7209  . . . Card based, e.g. smart card, SIM card or USIM
+ 2215/7213  . . . Terminal based
+ 2215/7218  . . . Network based
+ 2215/7222  . . Account identification
+ 2215/7227  . . . via service number, e.g. calling card
+ 2215/7231  . . . by SIM, e.g. smart card account in SCP, SDP
+ 2215/7236  . . Synchronisation of distributed accounts
+ 2215/724   . . Linked accounts
+ 2215/7245  . . . Shared by users, e.g. group accounts or one
+ 2215/725   . . . Shared by technologies, e.g. one account for
+ 2215/7254  . . . Multiple accounts per user
+ 2215/7259  . . . . per terminal or location; Mobile with
+ 2215/7263  . . . . per service, e.g. prepay and post-pay
+ 2215/7268  . . . . per technology, e.g. PSTN or wireless
+ 2215/7277  . . Account specifications on parallel
+ 2215/7281  . . . Redistribute amount between accounts
+ 2215/7286  . . . . Dynamically
+ 2215/729   . . . . by user request
+ 2215/7295  . . . Reserve amount, e.g. according to estimated
+costs for a typical communication duration
+or according to the estimated volume to be
+ 2215/74    . Rating aspects, e.g. rating parameters or tariff
+ 2215/7407  . . class of subscriber
+ 2215/7421  . . Determine tariff or charge band
+ 2215/7428  . . Load situation, e.g. Current network load, traffic
+ 2215/7435  . . Location dependent, e.g. Bussiness or home
+ 2215/745   . . Least cost routing, e.g. Automatic or manual, call
+ 2215/7464  . . . Select transport technology for a given service,
+e.g. use for data connection WLAN rather
+than GSM/UMTS/GPRS or use company's
+communication network rather than a public
+ 2215/7471  . . . Select route depending on origin or type
+of service, e.g. route TDMA voice calls
+ 2215/7478  . . According to the number of recipients
+ 2215/7485  . . . Group call; Conference call; Multi Party Call
+ 2215/7492  . . . Group MMS or SMS; Point-to-multi-point
+ 2215/7813  . . Time based data, e.g. VoIP or circuit switched
+ 2215/782   . . Data or packet based
+ 2215/7846  . . Transaction based
+ 2215/7853  . . Based on the number of used channels, e.g.
+bundling channels or frequencies or CDMA codes
+ 2215/7873  . . Based on the number of used services, e.g. call
+ 2215/7886  . . Apply cheapest or best package, e.g. selection
+among available tariffs or packages (least cost
+ 2215/7893  . . Money or currency based
+ 2215/81    . Notifying aspects, e.g. notifications or displays to
+ 2215/8104  . . Time or frequency of notification
+ 2215/8108  . . . before establishing a communication
+ 2215/8112  . . . during the communication
+ 2215/8116  . . . after the end of the communication
+ 2215/812   . . . in regular intervals
+ 2215/8125  . . . Dynamic change of the length/frequency of
+the length of the notification interval, e.g.
+depending on the remaining available prepaid
+ 2215/8129  . . Type of notification
+ 2215/8133  . . . Announcement, e.g. IVR dialogue, intelligent
+ 2215/8137  . . . Message, e.g. alphanumeric text, SMS, MMS,
+EMS or www-based messaging service
+ 2215/8141  . . . Optical, e.g. flashing indication of a lamp, icon,
+ 2215/8145  . . . Tone, e.g. beeper, sound, wave
+ 2215/815   . . Notification when a specific condition, service or
+ 2215/8154  . . . Determined tariff
+ 2215/8158  . . . Low balance or limit reached
+ 2215/8162  . . . Calculate maximum communication time or
+ 2215/8166  . . . Available credit
+ 2215/817   . . . Successful event, e.g. successful recharge or
+ 2215/8175  . . . Unsuccessful event, e.g. service rejected due to
+ 2215/8179  . . . Cumulative charges
+ 2215/8183  . . . Request users acknowledgement prior to use
+ 2215/8191  . . . multiple parties, e.g. multi party AOC
+ 2215/8195  . . . a predetermined or undetermined destination,
+e.g. notifying a prepaid accounting server of a
+successful delivery of a service, a connection,
+or chargeable content to a mobile terminal
+ 2215/82    . Advice-of-Charge [AOC], i.e. notify subscriber of
+charges/cumulative charge; meter at the substation
+ 2215/825   . . Select from different charging routines or
+ 2215/92    . Autonomous calculations of charges in terminal, i.e.
+meter not controlled from exchange
+ 2215/96    . Distributed calculation of charges, e.g. in different
+nodes like for mobiles between HLR and VLR, or
+between the terminal and the billing function
+ 2242/00    Special services or facilities
+ 2242/04    . for emergency applications
+ 2242/06    . Lines and connections with preferential service
+ 2242/08    . menus for interactive user guidance
+ 2242/10    . Secret communications
+ 2242/12    . Language recognition, selection or translation
+ 2242/14    . with services dependent on location (where the
+service is an information service H04M 2242/15;
+services independent of location H04M 3/42229)
+ 2242/15    . Information service where the information is
+dependent on the location of the subscriber
+ 2242/16    . with computer telephone integration
+ 2242/18    . Automated outdialling systems
+ 2242/20    . Televoting service
+ 2242/22    . Automatic class or number identification
+ 2242/24    . Detection or indication of type terminal or call, (e.g.
+ 2242/28    . Services making use of subscriber schedule
+ 2242/30    . Determination of the location of a subscriber
+ 2242/40    . Data synchronization between user terminals and
+ 2242/405   . . Incremental backup
+ 2250/00    Details of telephonic subscriber devices
+ 2250/02    . including a Bluetooth interface
+ 2250/04    . including near field communication means, e.g.
+ 2250/06    . including a wireless LAN interface
+ 2250/08    . home cordless telephone systems using the DECT
+ 2250/10    . including a GPS signal receiver
+ 2250/12    . including a sensor for measuring a physical value,
+e.g. temperature or motion (telephones including
+GPS signal receivers H04M 2250/10)
+ 2250/14    . including a card reading device
+ 2250/16    . including more than one display unit
+ 2250/18    . including more than one keyboard unit
+ 2250/20    . including a rotatable camera
+ 2250/22    . including a touch pad, a touch sensor or a touch
+detector (digitizers for touch screens G06F 3/041)
+ 2250/52    . including functional features of a camera
+(constructional features concerning the integration
+of cameras in portable phones H04M 1/0264)
+ 2250/54    . including functional features of a projector or
+beamer module assembly (constructional features
+concerning the integration of projectors in portable
+ 2250/56    . including a user help function
+ 2250/58    . including a multilanguage function
+ 2250/60    . logging of communication history, e.g. outgoing
+or incoming calls, missed calls, messages or
+URLs (logging of telephone numbers H04M 1/56,
+ 2250/62    . user interface aspects of conference calls
+ 2250/64    . file transfer between terminals (download of
+applications H04M 1/72406; transfer of messages,
+e.g. SMS, e-mail or MMS H04M 1/7243)
+ 2250/66    . user interface aspects for indicating selection
+options for a communication line
+ 2250/68    . with means for recording information, e.g.
+telephone number during a conversation (recording
+of telephone conversations H04M 1/656)
+ 2250/70    . methods for entering alphabetical characters,
+e.g. multi-tap or dictionary disambiguation
+(methods for entering alphabetical characters per se
+ 2250/72    . user manuals of subscriber equipments, e.g. of
+ 2250/74    . with voice recognition means (voice activated
+dialling H04M 1/271; voice recognition algorithms

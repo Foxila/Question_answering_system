@@ -1,0 +1,128 @@
+COOPERATIVE PATENT CLASSIFICATION
+GENERATION; CONVERSION OR DISTRIBUTION OF ELECTRIC POWER
+BOARDS, SUBSTATIONS OR SWITCHING ARRANGEMENTS FOR THE SUPPLY
+OR DISTRIBUTION OF ELECTRIC POWER
+This subclass covers boards, switchyards, switchgear or their installation, or the association of switching devices with each
+other or with other devices, e.g. transformers, fuses, meters or distribution boards; such associations constitute substations or
+{In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Frameworks, boards, panels, desks, casings;
+Details of substations or switching arrangements
+In groups H02B 1/01-H02B 1/56, the last place
+priority rule is applied, i.e. at each hierarchical
+level, in the absence of an indication to the
+contrary, classification is made in the last
+    1/011   . . {Open support bases}
+    1/012   . . {Details of mechanical connections}
+    1/013   . . {Profiles for cabinet frames}
+    1/014   . . {Corner connections for frameworks}
+    1/015   . Boards, panels, desks; Parts thereof or accessories
+ 2001/0155  . . {Removable shutters for non-used openings}
+    1/03    . . for energy meters
+    1/04    . . Mounting thereon of switches or of other devices
+in general, the switch or device having, or being
+    1/041   . . . {Mechanical coupling for side-by-side mounted
+    1/042   . . . {Mounting on perforated supports by means of
+    1/043   . . . . {the perforated support having openings
+distributed according to a pattern}
+    1/044   . . . Mounting through openings
+    1/048   . . . . Snap mounting
+    1/052   . . . Mounting on rails
+    1/0523  . . . . {locked into position by a sliding member}
+    1/0526  . . . . {locking or releasing devices actuated from
+the front face of the apparatus}
+    1/056   . . . Mounting on plugboards
+    1/0565  . . . . {by means of an adapter carrying one or
+more apparatuses (holders with sockets
+    1/06    . . having associated enclosures, e.g. for preventing
+    1/063   . . . {with tamper resistant sealing device}
+    1/066   . . . {with hinged covers (covers for distribution
+    1/14    . Shutters or guards for preventing access to contacts
+(shielding of isolating-contacts in withdrawable
+    1/16    . Earthing arrangements (earthing arrangements for
+substations H02B 5/01; earthing arrangements for
+switchgear H02B 11/28, H02B 13/075)
+    1/18    . Disposition or arrangement of fuses (for switchgear
+having a withdrawable carriage H02B 11/26)
+    1/20    . Bus-bar or other wiring layouts, e.g. in cubicles, in
+switchyards (installations of bus-bars H02G 5/00)
+    1/202   . . {Cable lay-outs}
+    1/205   . . {for connecting electrical apparatus mounted side
+    1/207   . . {Cross-bar layouts}
+    1/21    . . Bus-bar arrangements for rack-mounted devices
+    1/22    . . Layouts for duplicate bus-bar selection
+    1/24    . Circuit arrangements for boards or switchyards
+    1/26    . Casings; Parts thereof or accessories therefor
+In groups H02B 1/26 - H02B 1/56, the last place
+priority rule is applied, i.e. at each hierarchical
+level, in the absence of an indication to the
+contrary, classification is made in the last
+    1/28    . . dustproof, splashproof, drip-proof, waterproof or
+    1/30    . . Cabinet-type casings; Parts thereof or accessories
+    1/301   . . . {mainly consisting of a frame onto which
+    1/303   . . . {Bases or feet}
+    1/305   . . . {Cable entries}
+    1/306   . . . {Accessories, e.g. windows}
+    1/308   . . . {Mounting of cabinets together}
+    1/32    . . . Mounting of devices therein
+    1/36    . . . . . with withdrawable units
+    1/38    . . . Hinged covers or doors
+    1/40    . . Wall-mounted casings; Parts thereof or
+    1/42    . . . Mounting of devices therein
+    1/44    . . . Hinged covers or doors
+    1/46    . . Boxes; Parts thereof or accessories therefor
+    1/48    . . . Mounting of devices therein
+    1/50    . . Pedestal- or pad-mounted casings; Parts thereof
+    1/505   . . . {retractable installations}
+    1/52    . . Mobile units, e.g. for work sites
+    1/54    . Anti-seismic devices or installations
+    1/56    . Cooling; Ventilation
+    3/00    Apparatus specially adapted for the manufacture,
+assembly, or maintenance of boards or switchgear
+    5/00    Non-enclosed substations; Substations with
+enclosed and non-enclosed equipment
+    5/01    . Earthing arrangements, e.g. earthing rods
+    5/02    . mounted on pole, e.g. pole transformer substation
+    7/00    Enclosed substations, e.g. compact substations
+    7/06    . Distribution substations, e.g. for urban network
+    7/08    . . Underground substations
+   11/00    Switchgear having carriage withdrawable for
+   11/04    . . Isolating-contacts, e.g. mountings or shieldings
+   11/06    . . Means for duplicate bus-bar selection
+   11/08    . . Oil-tank lowering means associated with
+   11/10    . . Indicating electrical condition of gear;
+   11/12    . with isolation by horizontal withdrawal
+   11/127   . . Withdrawal mechanism
+   11/133   . . . with interlock
+   11/167   . . truck type (H02B 11/127 takes precedence)
+   11/173   . . drawer type (H02B 11/127 takes precedence)
+   11/18    . with isolation by vertical withdrawal
+   11/20    . . having an enclosure
+   11/22    . . . wherein front of enclosure moves with carriage
+upon horizontal withdrawal subsequent to
+   11/24    . Shutters or guards
+   11/26    . Arrangements of fuses, resistors, voltage arresters or
+   11/28    . Earthing arrangements
+   13/00    Arrangement of switchgear in which switches
+are enclosed in, or structurally associated with,
+a casing, e.g. cubicle (switchgear having carriage
+withdrawable for isolation H02B 11/00)
+   13/005   . {Electrical connection between switchgear cells}
+   13/01    . with resin casing
+   13/02    . with metal casing
+   13/025   . . Safety arrangements, e.g. in case of excessive
+pressure or fire due to electrical defect
+   13/035   . . Gas-insulated switchgear
+   13/0352  . . . {for three phase switchgear}
+   13/0354  . . . {comprising a vacuum switch (H02B 13/0352
+   13/0356  . . . {Mounting of monitoring devices, e.g. current
+   13/0358  . . . {Connections to in or out conductors
+   13/045   . . . Details of casing, e.g. gas tightness
+   13/055   . . . Features relating to the gas
+   13/065   . . . Means for detecting or reacting to mechanical
+   13/0655  . . . . {through monitoring changes of gas
+   13/075   . . . Earthing arrangements
+   13/08    . with stone, brick or concrete casing
+   15/00    Supervisory desks or panels for centralised control
+   15/02    . with mimic diagrams
+   15/04    . . consisting of building blocks
+   99/00    Subject matter not provided for in other groups of

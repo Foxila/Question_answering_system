@@ -1,0 +1,978 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+LAND VEHICLES FOR TRAVELLING OTHERWISE THAN ON RAILS
+MOTOR VEHICLES; TRAILERS (steering, or guiding on a desired track, of agricultural
+machines or implements A01B 69/00; wheels, castors, axles, increasing wheel adhesion B60B;
+vehicle tyres, tyre inflation or tyre changing B60C; connections between vehicles of a train
+or the like B60D; vehicles for use on rail and road, amphibious or convertible vehicles B60F;
+suspension arrangements B60G; heating, cooling, ventilating or other air treating devices
+B60H; windows, windscreens, non-fixed roofs, doors or similar devices, protective coverings
+for vehicles not in use B60J; propulsion plant arrangements, auxiliary drives, transmissions,
+controls, instrumentation or dashboards B60K; electric equipment or propulsion of electrically-
+propelled vehicles B60L; power supply for electrically-propelled vehicles B60M; passenger
+accommodation not otherwise provided for B60N; adaptations for load transportation or to carry
+special loads or objects B60P; arrangement of signalling or lighting devices, the mounting or
+supporting thereof or circuits therefor, for vehicles in general B60Q; vehicles, vehicle fittings or
+vehicle parts not otherwise provided for B60R; servicing, cleaning, repairing, supporting, lifting,
+or manoeuvring, not otherwise provided for, B60S; brake arrangements, brake control systems or
+parts thereof B60T; air-cushion vehicles B60V; motor-cycles, accessories therefor B62J, B62K;
+In this subclass, the following terms are used with the meanings indicated:
+• "vehicles" include motor vehicles and trailers;
+• "trailers" include forecars or sidecars.
+The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+Steering of motor vehicles or trailers
+    1/00    Steering controls, i.e. means for initiating a change
+    1/043   . . . {with a device allowing single-hand operation
+    1/046   . . . {Adaptations on rotatable parts of the steering
+wheel for accommodation of switches}
+    1/06    . . . Rims, e.g. with heating means; Rim covers
+    1/065   . . . . {Steering wheels with heating and
+ventilating means (heating and ventilation
+of steering wheel when connected to vehicle
+    1/08    . . . Spokes, e.g. resilient (B62D 1/11 takes
+    1/10    . . . Hubs; Connecting hubs to steering columns,
+e.g. adjustable (B62D 1/11 takes precedence)
+    1/105   . . . . {Non-rotatable hubs, e.g. the central part of
+the steering wheel not rotating}
+    1/11    . . . incorporating energy-absorbing arrangements,
+e.g. by being yieldable or collapsible (padded
+linings associated with the steering wheel
+B60R 21/05; shock absorbers using plastic
+deformation of members in general F16F 7/12)
+1Steering of motor vehicles or trailers
+    1/14    . . . Tillers, i.e. hand levers operating on steering
+    1/16    . . Steering columns
+    1/163   . . . {Part of the steering column replaced by
+flexible means, e.g. cable or belt}
+    1/166   . . . {Means changing the transfer ratio between
+steering wheel and steering gear}
+    1/18    . . . yieldable or adjustable, e.g. tiltable (padded
+linings associated with the steering column
+Group B62D 1/181 takes precedence over
+groups B62D 1/183 - B62D 1/187.
+    1/181   . . . . with power actuated adjustment, e.g. with
+    1/183   . . . . adjustable between in-use and out-of-use
+positions, e.g. to improve access
+    1/184   . . . . Mechanisms for locking columns at selected
+    1/185   . . . . adjustable by axial displacement, e.g.
+telescopically (B62D 1/183, B62D 1/187,
+    1/187   . . . . with tilt adjustment; with tilt and axial
+adjustment (B62D 1/183, B62D 1/19 takes
+    1/189   . . . . . the entire column being tiltable as a unit
+    1/19    . . . . incorporating energy-absorbing
+arrangements, e.g. by being yieldable
+or collapsible (shock absorbers using
+plastic deformation of members in general
+    1/192   . . . . . {Yieldable or collapsible columns}
+    1/195   . . . . . {Yieldable supports for the steering
+    1/197   . . . . . {incorporating devices for preventing
+ingress of the steering column into the
+passengers space in case of accident}
+    1/20    . . . Connecting steering column to steering gear
+    1/22    . . Alternative steering-control elements, e.g. for
+    1/24    . not vehicle-mounted
+    1/26    . . mechanical, e.g. by a non-load-bearing guide
+    1/265   . . . {especially adapted for guiding road vehicles
+carrying loads or passengers, e.g. in urban
+networks for public transportation}
+    1/28    . . non-mechanical {, e.g. following a line or other
+    1/283   . . . {for unmanned vehicles}
+    1/286   . . . {Systems for interrupting non-mechanical
+steering due to driver intervention}
+    3/00    Steering gears (power assisted or power driven
+B62D 5/00; steering linkages B62D 7/00; for non-
+deflectable wheels B62D 11/00; gearing in general
+    3/06    . . . with screw and nut
+    3/08    . . . . using intermediate balls or the like
+    3/10    . . . with worm engaging in sector or roller gear
+    3/12    . . of rack-and-pinion type
+    3/123   . . . {characterised by pressure yokes}
+    3/126   . . . {characterised by the rack}
+    5/00    Power-assisted or power-driven steering (for
+non-deflectable wheels B62D 11/00; fluid-pressure
+    5/001   . {Mechanical components or aspects of steer-by-
+wire systems, not otherwise provided for in this
+    5/003   . . {Backup systems, e.g. for manual steering
+    5/005   . . {means for generating torque on steering wheel or
+    5/006   . . . {power actuated}
+    5/008   . {Changing the transfer ratio between the steering
+wheel and the steering gear by variable supply of
+energy, e.g. by using a superposition gear}
+    5/02    . mechanical, e.g. using a power-take-off mechanism
+for taking power from a rotating shaft of the vehicle
+and applying it to the steering gear
+    5/04    . electrical, e.g. using an electric servo-motor
+connected to, or forming part of, the steering gear
+    5/0403  . . {characterised by constructional features, e.g.
+common housing for motor and gear box}
+    5/0406  . . . {including housing for electronic control unit}
+    5/0409  . . {Electric motor acting on the steering column}
+    5/0412  . . . {the axes of motor and steering column being
+    5/0415  . . . . {the axes being coaxial}
+    5/0418  . . {Electric motor acting on road wheel carriers}
+    5/0421  . . {Electric motor acting on or near steering gear}
+    5/0424  . . . {the axes of motor and final driven element of
+steering gear, e.g. rack, being parallel}
+    5/0427  . . . . {the axes being coaxial}
+    5/043   . . {characterised by clutch means between driving
+element, e.g. motor, and driven element, e.g.
+steering column or steering gear}
+    5/0433  . . . {the clutch being of on-off type}
+    5/0436  . . . . {the clutch being a controlled emergency
+clutch, e.g. for disconnecting at motor break-
+    5/0439  . . . {Controllable friction clutches (B62D 5/0436
+    5/0442  . . {Conversion of rotational into longitudinal
+    5/0445  . . . {Screw drives}
+    5/0448  . . . . {Ball nuts}
+    5/0451  . . . {Roller spindle drives}
+    5/0457  . . {characterised by control features of the drive
+    5/046   . . . {Controlling the motor}
+    5/0463  . . . . {calculating assisting torque from the motor
+    5/0466  . . . . {for returning the steering wheel to neutral
+    5/0469  . . . . {End-of-stroke control}
+    5/0472  . . . . {for damping vibrations}
+    5/0475  . . . {Controlling other elements}
+    5/0481  . . . {monitoring the steering system, e.g. failures}
+    5/0484  . . . . {for reaction to failures, e.g. limp home}
+2Steering of motor vehicles or trailers
+    5/0487  . . . . {detecting motor faults (B62D 5/0496 takes
+    5/049   . . . . {detecting sensor failures}
+    5/0493  . . . . {detecting processor errors, e.g. plausibility
+    5/0496  . . . . {by using a temperature sensor}
+    5/06    . fluid, i.e. using a pressurised fluid for most or all the
+force required for steering a vehicle
+    5/061   . . {provided with effort, steering lock, or end-of-
+    5/062   . . {Details, component parts}
+    5/063   . . . {Pump driven by vehicle engine (B62D 5/065
+    5/064   . . . {Pump driven independently from vehicle
+engine, e.g. electric driven pump (B62D 5/065
+    5/065   . . characterised by specially adapted means for
+varying pressurised fluid supply based on need,
+e.g. on-demand, variable assist
+    5/07    . . Supply of pressurised fluid for steering also
+supplying other consumers {; control thereof}
+    5/075   . . . {using priority valves}
+    5/08    . . characterised by type of {steering} valve used
+    5/081   . . . {Seat valves}
+    5/083   . . . Rotary valves
+    5/0832  . . . . {with elastic means other than a torsion bar,
+    5/0835  . . . . {characterised by means for actively
+influencing the deflection angle of the valve,
+e.g. depending on driving parameters}
+    5/0837  . . . . {characterised by the shape of the control
+    5/087   . . . Sliding spool valves
+    5/09    . . characterised by means for actuating valves
+    5/091   . . . {Hydraulic steer-by-wire systems, e.g. the
+valve being actuated by an electric motor}
+    5/092   . . . . {the electric motor being connected to the
+final driven element of the steering gear, e.g.
+    5/093   . . . Telemotor driven by steering wheel movement
+(hydraulic steering gear B62D 3/14)
+    5/097   . . . . gerotor type
+    5/10    . . characterised by type of power unit
+    5/12    . . . Piston and cylinder
+    5/16    . . . Expansible chamber with flexible wall
+    5/18    . . characterised by power transmitting means
+    5/20    . . specially adapted for particular type of steering
+gear or particular application (steering gears per
+se B62D 3/00; steering linkages not characterised
+by being power-assisted or power-driven
+    5/22    . . . for rack-and-pinion type
+    5/24    . . . for worm type
+    5/26    . . . for pivoted axles
+    5/28    . . . for pivoted bogies
+    5/30    . . Safety devices, e.g. alternate emergency power
+supply or transmission means to ensure steering
+upon failure of the primary steering means
+    5/32    . . . for telemotor systems
+    6/00    Arrangements for automatically controlling
+steering depending on driving conditions sensed
+and responded to, e.g. control circuits (means for
+initiating a change in direction B62D 1/00; steering
+valves B62D 5/06; combined with means for inclining
+the vehicle body or wheels on bends B62D 9/00)
+When classifying in this group, classification
+is also made in the appropriate one
+of groups B62D 1/00 - B62D 5/00 or
+B62D 7/00 - B62D 19/00 if other aspects of the
+steering system are of interest
+    6/001   . {the torque NOT being among the input
+    6/002   . {computing target steering angles for front or rear
+wheels (B62D 7/159 takes precedence)}
+    6/003   . . {in order to control vehicle yaw movement,
+i.e. around a vertical axis (B62D 6/007 takes
+    6/005   . . . {treating sensor outputs to obtain the actual
+    6/006   . . {using a measured or estimated road friction
+    6/007   . {adjustable by the driver, e.g. sport mode}
+    6/008   . {Control of feed-back to the steering input
+member, e.g. simulating road feel in steer-by-wire
+    6/02    . responsive only to vehicle speed
+    6/04    . responsive only to forces disturbing the intended
+course of the vehicle, e.g. forces acting transversely
+to the direction of vehicle travel
+    6/06    . responsive only to vehicle vibration dampening
+arrangements (steering dampers for cycles
+    6/08    . responsive only to {driver} input torque
+    6/10    . . characterised by means for sensing {or
+    7/00    Steering linkage; Stub axles or their mountings
+(B62D 13/00 takes precedence; power-assisted or
+power-driven steering B62D 5/00)
+    7/02    . for pivoted bogies
+    7/023   . . {Steering turntables}
+    7/026   . . {characterised by comprising more than one
+bogie, e.g. situated in more than one plane
+transversal to the longitudinal centre line of the
+    7/04    . . with more than one wheel
+    7/06    . for individually-pivoted wheels, e.g. on king-pins
+    7/08    . . the pivotal axes being situated in a single plane
+transverse to the longitudinal centre line of the
+    7/09    . . . characterised by means varying the ratio
+between the steering angles of the steered
+wheels (varying the ratio automatically
+depending on driving conditions B62D 6/00)
+    7/10    . . . with single-output steering gear
+    7/12    . . . with twin-output steering gear
+    7/14    . . the pivotal axes being situated in more than one
+plane transverse to the longitudinal centre line of
+the vehicle, e.g. all-wheel steering
+    7/142   . . . {specially adapted for particular vehicles, e.g.
+tractors, carts, earth-moving vehicles, trucks}
+3Steering of motor vehicles or trailers
+    7/144   . . . . {for vehicles with more than two axles}
+    7/146   . . . {characterised by comprising means for
+steering by acting on the suspension system,
+e.g. on the mountings of the suspension arms}
+    7/148   . . . {provided with safety devices}
+    7/15    . . . characterised by means varying the ratio
+between the steering angles of the steered
+wheels {(B62D 7/148 takes precedence)}
+    7/1509  . . . . {with different steering modes, e.g. crab-
+steering, or steering specially adapted for
+    7/1518  . . . . {comprising a mechanical interconnecting
+system between the steering control means of
+    7/1527  . . . . . {comprising only mechanical parts, i.e.
+    7/1536  . . . . . {provided with hydraulic assistance}
+    7/1545  . . . . . {provided with electrical assistance}
+    7/1554  . . . . {comprising a fluid interconnecting system
+between the steering control means of the
+    7/1563  . . . . . {provided with fluid control means
+(B62D 7/1572 takes precedence)}
+    7/1572  . . . . . {provided with electro-hydraulic control
+    7/1581  . . . . {characterised by comprising an electrical
+interconnecting system between the steering
+control means of the different axles}
+    7/159   . . . . {characterised by computing methods or
+stabilisation processes or systems, e.g.
+responding to yaw rate, lateral wind, load,
+    7/16    . Arrangement of linkage connections (pivots per se
+    7/163   . . {substantially in axial direction, e.g. between rack
+    7/166   . . {substantially perpendicular, e.g. between tie-rod
+    7/18    . Steering knuckles; King pins
+    7/20    . Links, e.g. track rods (means for adjusting camber,
+    7/22    . Arrangements for reducing or eliminating reaction,
+e.g. vibration, from parts, e.g. wheels, of the
+    7/222   . . {acting on the steering wheel}
+    7/224   . . {acting between the steering wheel and the
+steering gear, e.g. on the steering column}
+    7/226   . . {acting on the steering gear}
+    7/228   . . {acting between the steering gear and the road
+    9/00    Steering deflectable wheels not otherwise provided
+for (steering positon indicators B62D 15/02)
+    9/002   . {combined with means for differentially distributing
+power on the deflectable wheels during cornering}
+    9/005   . {Emergency systems using brakes for steering}
+    9/007   . {Emergency systems using the steering system for
+    9/02    . combined with means for inwardly inclining vehicle
+    9/04    . combined with means for {inwardly} inclining
+wheels on bends (B62D 9/02 takes precedence)
+   11/00    Steering non-deflectable wheels; Steering endless
+Gearings of interest apart from this application are
+also classified in the relevant group of subclass
+   11/001   . {control systems (B62D 11/183 takes precedence)}
+{When classifying in this group, classification
+is also made in the appropriate one of groups
+B62D 11/02 - B62D 11/24 if other aspects of the
+steering system are of interest}
+   11/003   . . {Electric or electronic control systems}
+   11/005   . . {Hydraulic control systems}
+   11/006   . . {Mechanical control systems}
+   11/008   . . {Pneumatic control systems}
+   11/02    . by differentially driving ground-engaging elements
+   11/04    . . by means of separate power sources
+   11/06    . . by means of a single main power source
+   11/08    . . . using brakes or clutches as main steering-
+   11/10    . . . using gearings with differential power outputs
+on opposite sides, e.g. twin-differential or
+   11/105   . . . . {using variable ratio belt and pulley
+   11/12    . . . . using separate change-speed gearings
+   11/14    . . . . differential power outputs being effected
+by additional power supply to one side, e.g.
+power originating from secondary power
+   11/16    . . . . . the additional power supply being supplied
+   11/18    . . . . . the additional power supply being supplied
+   11/183   . . . . . . {Control systems therefor}
+   11/186   . . . . . . {Uncoupling devices for the hydraulic
+   11/20    . Endless-track steering having pivoted bogie
+carrying track (B62D 11/02 takes precedence)
+   11/22    . Endless track steering being effected by deflecting
+endless track rollers or the like
+   11/24    . Endless track steering specially adapted for vehicles
+having both steerable wheels and endless track
+   12/00    Steering specially adapted for vehicles operating
+in tandem or having pivotally connected frames
+(steering endless tracks or the like B62D 11/00;
+steering specially adapted for trailers B62D 13/00)
+   12/02    . for vehicles operating in tandem
+   13/00    Steering specially adapted for trailers (combined
+traction and steering hitches B60D)
+   13/005   . {operated from tractor steering system}
+   13/02    . for centrally-pivoted axles
+   13/025   . . {the pivoted movement being initiated by the
+coupling means between tractor and trailer}
+   13/04    . for individually-pivoted wheels
+   13/06    . for backing a normally drawn trailer
+   15/00    Steering not otherwise provided for
+4Steering of motor vehicles or trailers
+   15/02    . Steering position indicators {; Steering position
+   15/0205  . . {Mechanical indicators, e.g. in or near steering
+   15/021   . . {Determination of steering angle}
+   15/0215  . . . {by measuring on the steering column}
+   15/022   . . . . {on or near the connection between the
+steering wheel and steering column}
+   15/0225  . . . {by measuring on a steering gear element, e.g.
+   15/023   . . . {by measuring on the king pin}
+   15/0235  . . . {by measuring or deriving directly at the
+   15/024   . . . {Other means for determination of steering
+angle without directly measuring it, e.g.
+deriving from wheel speeds on different sides
+   15/0245  . . . {Means or methods for determination of the
+central position of the steering system, e.g.
+   15/025   . . {Active steering aids, e.g. helping the driver
+by actively influencing the steering system
+after environment evaluation (B62D 1/28 takes
+   15/0255  . . . {Automatic changing of lane, e.g. for passing
+   15/026   . . . {combined with automatic distance control, i.e.
+   15/0265  . . . {Automatic obstacle avoidance by steering}
+   15/027   . . {Parking aids, e.g. instruction means}
+   15/0275  . . . {by overlaying a vehicle path based on
+present steering angle over an image without
+   15/028   . . . {Guided parking by providing commands to the
+driver, e.g. acoustically or optically}
+   15/0285  . . . {Parking performed automatically}
+   15/029   . . {Steering assistants using warnings or proposing
+actions to the driver without influencing the
+   15/0295  . . . {by overlaying a vehicle path based on
+present steering angle over an image without
+   17/00    Means on vehicles for adjusting camber, castor, or
+   19/00    Radius rods, i.e. distance members
+Understructures; Superstructures; Vehicle bodies
+   21/00    Understructures, i.e. chassis frame on which a
+vehicle body may be mounted (combined frame
+and vehicle body B62D 23/00 {; characterised by the
+   21/02    . comprising longitudinally or transversely arranged
+   21/03    . . transverse members providing body support
+   21/04    . . single longitudinal type
+   21/05    . . pinched frame type, i.e. formed of at least two
+longitudinal frame sections connected by other
+longitudinal frame sections of lesser transverse
+   21/06    . of X-shaped or fork-shaped construction, i.e. having
+members which form an X or fork as the frame is
+   21/07    . wide-hipped frame type, i.e. a wide box-shaped mid
+portion with narrower sections extending from said
+mid portion in both fore and aft directions
+   21/08    . built up with interlaced cross members
+   21/09    . Means for mounting load bearing surfaces
+   21/10    . in which the main member is plate-like
+   21/11    . with resilient means for suspension {, e.g. of wheels
+or engine; sub-frames for mounting engine or
+This group does not cover subject matter
+primarily relating to the suspension, with only a
+nominal recitation of frame structure, which are
+   21/12    . assembled from readily detachable parts
+   21/14    . of adjustable length or width
+   21/15    . having impact absorbing means, e.g. a frame
+designed to permanently or temporarily change
+shape or dimension upon impact with another body
+(bumpers B60R 19/02; shock absorbers in general
+   21/152   . . {Front or rear frames}
+   21/155   . . . {Sub-frames or underguards}
+   21/157   . . {for side impacts}
+   21/16    . having fluid storage compartment
+   21/17    . forming fluid or electrical conduit means or having
+other means to accommodate the transmission of a
+   21/18    . characterised by the vehicle type and not provided
+for in groups B62D 21/02 - B62D 21/17
+   21/183   . . {specially adapted for sports vehicles, e.g.
+race, dune buggies, go-karts (tubular skeleton
+   21/186   . . {for building site vehicles or multi-purpose
+tractors (tracked vehicles B62D 55/10; tractors
+in general B62D 49/00; building site vehicles in
+general E02F; lift-trucks B66F)}
+   21/20    . . trailer type, i.e. a frame specifically constructed
+for use in a non-powered vehicle
+   23/00    Combined superstructure and frame, i.e.
+monocoque constructions ({having impact absorbing
+means B62D 21/15; } superstructure {or monocoque
+structure} sub-units {or parts or details thereof}
+B62D 25/00 {; characterised by the material thereof
+   23/005   . {with integrated chassis in the whole shell, e.g.
+meshwork, tubes, or the like (B62D 33/044 takes
+   24/00    Connections between vehicle body and vehicle
+frame (B62D 23/00, B62D 33/077 take precedence)
+   24/02    . Vehicle body, not intended to move relatively to the
+vehicle frame, and mounted on vibration absorbing
+   24/04    . Vehicle body mounted on resilient suspension for
+movement relative to the vehicle frame
+5Understructures; Superstructures; Vehicle bodies
+   25/00    Superstructure {or monocoque structure} sub-
+units; Parts or details thereof not otherwise
+provided for {(having impact absorbing means
+B62D 21/15; running-boards, steps, or the like as
+superstructure sub-unit B60R 3/00)}
+   25/02    . Side panels {(B62D 33/046 takes precedence;
+sideboards for open load compartments
+   25/025   . . {Side sills thereof}
+   25/04    . Door pillars {; windshield pillars}
+   25/06    . Fixed roofs (non-fixed roofs or like shelters
+B60J 7/00; roof liners B60R 13/02; insulating
+   25/07    . . having water drainage or guide means integral
+   25/08    . Front or rear portions {(sub-frames for mounting
+engine or suspensions B62D 21/11)}
+   25/081   . . {Cowls (ventilating openings situated directly in
+front of the vehicle front window B60H 1/28)}
+   25/082   . . {Engine compartments}
+   25/084   . . . {Radiator supports}
+   25/085   . . . {Front-end modules}
+   25/087   . . {Luggage compartments}
+   25/088   . . {Details of structures as upper supports for
+   25/10    . . Bonnets or lids {, e.g. for trucks, tractors, busses,
+work vehicles (for truck beds B60J 7/1607; for
+boats B63B 19/12; doors arranged at the vehicle
+rear B60J 5/10; inlet covers for vehicle fuel tanks
+B60K 15/05; for protecting non-occupants of a
+   25/105   . . . {for motor cars}
+   25/12    . . . Parts or details thereof (locks E05B,
+{E05B 83/16; devices for holding open
+E05C 17/00, e.g. while carrying oversize
+objects E05C 17/042}; hinges E05D;
+counterbalancing means E05F; {checks, stops,
+buffers E05F 5/00; } springs, {e.g. pneumatic
+   25/14    . . Dashboards as superstructure sub-units (other
+   25/142   . . . {having ventilation channels incorporated
+   25/145   . . . {having a crossbeam incorporated therein}
+   25/147   . . . . {with adjustable connection to the A-pillars}
+   25/16    . . Mud-guards or wings; Wheel cover panels
+(equipped with means for freeing wheels or tyres
+   25/161   . . . {Mud-guards made of non-conventional
+material, e.g. rubber, plastics}
+   25/163   . . . {Mounting devices}
+   25/165   . . . . {including sealing devices}
+   25/166   . . . . {by rods or other distance-keeping devices}
+   25/168   . . . {Mud guards for utility vehicles}
+   25/18    . . . Parts or details thereof, e.g. mudguard flaps
+   25/182   . . . . {Movable mudguards, or mudguards
+comprising movable or detachable parts
+(B62D 25/188 takes precedence)}
+   25/184   . . . . . {to facilitate access to wheels}
+   25/186   . . . . . {being attached or suspended laterally
+from the wheel (B62D 25/184 takes
+   25/188   . . . . {Mud-guard flaps for utility vehicles}
+   25/20    . Floors or bottom sub-units {(sub-frames for
+mounting engine or suspensions B62D 21/11; drip
+   25/2009  . . {in connection with other superstructure
+   25/2018  . . . {the subunits being front structures}
+   25/2027  . . . {the subunits being rear structures}
+   25/2036  . . . {the subunits being side panels, sills or pillars
+(B62D 21/157 takes precedence)}
+   25/2045  . . . {the subunits being fire walls}
+   25/2054  . . {Load carrying floors for commercial vehicles}
+   25/2063  . . {Floor elements for repairs}
+   25/2072  . . {Floor protection, e.g. from corrosion or
+scratching (floor mats B60N 3/04, armour
+F41H 7/042, insulation B60R 13/08, streamlining
+   25/2081  . . {Jack receiving devices}
+   25/209   . . {Arrangements for the mounting of vehicle
+hitches (vehicle connections in general B60D)}
+   25/24    . Superstructure sub-units with access {or drainage}
+openings having movable or removable closures;
+{Sealing means therefor}(inlet covers for vehicle
+   27/00    Connections between superstructure {or
+understructure} sub-units {(B62D 33/0207,
+B62D 33/044 take precedence; between sub-
+units predominently made of synthetic material
+   27/023   . . {Assembly of structural joints}
+   27/026   . . {Connections by glue bonding (in general
+F16B 11/00; processes C09J 5/00)}
+   27/06    . readily releasable
+   27/065   . . {using screwthread (connection of crossbeam to
+A- pillars B62D 25/147; mounting load bearing
+surfaces B62D 21/09; securing mudguards
+B62D 25/163; connections for synthetic parts
+   29/00    Superstructures, {understructures, or sub-units
+thereof,} characterised by the material thereof
+{(B62D 33/044, B62D 33/048 take precedence)}
+   29/001   . {characterised by combining metal and synthetic
+   29/002   . . {a foamable synthetic material or metal being
+added in situ (shaping of substances in a plastic
+state by foaming, in general B29C 44/00)}
+   29/004   . . {the metal being over-moulded by the synthetic
+   29/005   . . {preformed metal and synthetic material elements
+being joined together, e.g. by adhesives}
+   29/007   . {predominantly of special steel or specially treated
+steel, e.g. stainless steel or locally surface hardened
+   29/008   . {predominantly of light alloys, e.g. extruded}
+   29/02    . predominantly of wood
+   29/04    . predominantly of synthetic material (working of
+plastics or substances in a plastic state B29)
+   29/041   . . {Understructures}
+   29/043   . . {Superstructures (B62D 25/161 takes
+   29/045   . . . {Van bodies composed of substantially
+6Understructures; Superstructures; Vehicle bodies
+   29/046   . . {Combined superstructure and frame, i.e.
+   29/048   . . {Connections therefor, e.g. joints (B62D 29/045
+   31/00    Superstructures for passenger vehicles (passenger
+vehicles specially adapted to co-operate with aircraft
+or terminal buildings B64F 1/31)
+   31/003   . {compact cars, e.g. city cars}
+   31/006   . . {foldable (droppable B60F 5/006)}
+   31/02    . for carrying large numbers of passengers, e.g.
+   31/025   . . {having modular sections}
+   31/04    . with more than one deck
+   33/00    Superstructures for load-carrying vehicles
+({having impact absorbing means B62D 21/15; }
+in which a load-carrying element is movable B60P;
+liners B60R 13/00 {; joining sheets or plates to
+one another or to strips or bars parallel to them
+   33/02    . Platforms; Open load compartments {(flat wagons
+including posts or standards B61D 3/08)}
+   33/0207  . . {Connections of movable or detachable racks or
+   33/0215  . . . {for log hauling vehicles (vehicles for log
+transport in general B60P 3/41)}
+   33/0222  . . {Connecting elements between stanchions, e.g.
+roof supporting elements, stiffeners (non-fixed
+roofs B60J 7/00; securing and covering of load
+   33/023   . . Sideboard or tailgate structures {(vehicle side
+   33/0273  . . . . {Movable tailboards for vehicles comprising
+non-movable sideboards, e.g. pick-up trucks
+(B62D 33/037 takes precedence)}
+   33/0276  . . . . {by vertical translation (B62D 33/0273 takes
+   33/03    . . . . by swinging down {(B62D 33/0273 takes
+   33/033   . . . . removable {(B62D 33/0273 takes
+   33/037   . . . . Latching means therefor
+   33/04    . Enclosed load compartments {Frameworks
+for movable panels, tarpaulins or side curtains
+(tarpaulins per se B60J 7/00, B60P 7/04; side
+   33/042   . . {divided into compartments (movable bulk heads
+B60P 7/14; cattle transport B60P 3/04; bottled
+   33/044   . . {built up with profiles of constant elongated
+shape, e.g. extruded, mechanically interconnected
+by coupling members, e.g. by clamping, riveting
+   33/046   . . {built up with flat self-supporting panels; Fixed
+connections between panels (B62D 29/045,
+   33/048   . . {for refrigerated goods vehicles}
+   33/06    . Drivers' cabs {(overhead guards, e.g. against loads
+falling down B60R 21/11; roll-over protection
+   33/0604  . . {Cabs insulated against vibrations or noise, e.g.
+with elastic suspension (resilient connections
+between superstructure sub-units B62D 27/04;
+damping noise in general G10K 11/00; for
+vehicles in general B60R 13/08)}
+   33/0608  . . . {pneumatic or hydraulic suspension}
+   33/0612  . . {Cabins with living accommodation, especially
+for long distance road vehicles, i.e. sleeping,
+cooking, or other facilities (beds in general
+adapted to be used in vahicles A47C 17/80;
+sanitation devices in vehicles in general
+B60R 15/00; living accommodation in vehicles in
+general B60P 3/32; passenger fittings in general
+   33/0617  . . {for tractors or off-the-road vehicles (protective
+devices for drivers in case of overturning of
+   33/0621  . . . {able to be dismantled, folding}
+   33/063   . . movable from one position into at least one other
+position, e.g. tiltable, pivotable about a vertical
+axis, displaceable from one side of the vehicle to
+   33/0633  . . . {pivotable about a vertical axis}
+   33/0636  . . . {displaceable along a linear path}
+   33/07    . . . . characterised by the device for locking the
+cab in the tilted or in the driving position
+   33/071   . . . . . {Locking devices for cabins in driving
+position; Shock and vibration absorbing
+   33/073   . . . characterised by special adaptations of vehicle
+   33/077   . characterised by the connection of the
+superstructure to the vehicle frame {(B62D 33/06
+   33/08    . comprising adjustable means (B62D 33/10 takes
+   33/10    . . comprising means for the suspension of the
+   35/00    Vehicle bodies characterised by streamlining
+   35/001   . {For commercial vehicles or tractor-trailer
+   35/002   . . {for caravans (B62D 35/004 takes precedence)}
+   35/004   . . {Inflatable nose or rear cones}
+   35/005   . {Front spoilers (B62D 35/001 takes precedence)}
+   35/007   . {Rear spoilers (B62D 35/001 takes precedence)}
+   35/008   . {Side spoilers (B62D 35/001 takes precedence)}
+   35/02    . Streamlining the undersurfaces {(B62D 35/005,
+B62D 35/007, B62D 35/008 take precedence)}
+   37/00    Stabilising vehicle bodies without controlling
+   37/02    . by aerodynamic means
+   37/04    . by means of movable masses
+   37/06    . . using gyroscopes
+   39/00    Vehicle bodies not otherwise provided for {, e.g.
+safety vehicles (safety equipment B60R 21/00)}
+   41/00    Fittings for identifying vehicles in case of collision;
+Fittings for marking or recording collision areas
+   43/00    Spare wheel stowing, holding, or mounting
+7Understructures; Superstructures; Vehicle bodies
+   43/002   . {Handling devices, mainly for heavy wheels (via
+cables and chains B62D 43/045)}
+   43/005   . {Protective coverings for spare wheels}
+   43/007   . {Anti-theft devices for spare wheels}
+   43/02    . external to the vehicle body
+   43/04    . . attached beneath the vehicle body
+   43/045   . . . {the wheel or its cradle being attached to one or
+more chains or cables for handling}
+   43/06    . within the vehicle body
+   43/08    . . and arranged substantially vertically
+   43/10    . . and arranged substantially horizontally
+Motor vehicles or trailers classified according to type; Parts or
+accessories thereof (frames for vehicles of special type B62D 21/18)
+   47/00    Motor vehicles or trailers predominantly for
+carrying passengers (superstructures B62D 31/00)
+   47/003   . {convertible in order to modify the number of seats
+(foldable compact cars B62D 31/006; convertible
+from one use to a different one B60P 3/42)}
+   47/006   . {Vehicles which can be divided in sub-vehicles;
+   47/02    . for large numbers of passengers, e.g. omnibus
+   47/025   . . {articulated buses with interconnecting
+passageway, e.g. bellows (coupling aspects
+   49/00    Tractors (of walk type B62D 51/04; endless-
+track features B62D 55/00 {; tractors for handling
+aircraft B64F 1/22; transport specially adapted for
+underground galleries E21F 13/02})
+   49/002   . {characterised by being of the low ground pressure
+   49/005   . {Tractors for semi-trailers (combinations of tractor
+plus semi- trailer B62D 53/06)}
+   49/007   . . {Tractors for handling trailers, e.g. roll-trailers in
+   49/02    . modified to take lifting devices
+   49/04    . modified to take pushing devices
+   49/06    . adapted for multi-purpose use
+   49/0607  . . {Straddle tractors, used for instance above vine
+stocks, rows of bushes, or the like}
+   49/0614  . . {equipped with visual aids for positioning
+implements or to control working condition
+(optical signalling for vehicles in general
+   49/0621  . . {comprising traction increasing arrangements,
+e.g. all-wheel traction devices, multiple-
+axle traction arrangements, auxiliary traction
+increasing devices (anti-skid or anti-slip devices
+fitted onto the wheels B60B 15/02, B60B 39/12;
+arrangements of transmission for driving both
+front and rear wheels or tandem wheels of
+vehicles B60K 17/34, B60K 17/36)}
+   49/0628  . . . {using detachable weights (counterweights
+against overturning B62D 49/085; movable
+stabilisation masses B62D 37/04)}
+   49/0635  . . . {using additional ground engaging means, e.g.
+endless tracks (vehicles with endless tracks and
+either additional or alternative ground wheels
+   49/0642  . . . {by coupling of tractors}
+   49/065   . . {Coupling of multi-purpose tractors with
+equipment (towing bars B60D; with load transfer
+B62D 53/08; power take-off B60K; with lifting
+devices B62D 49/02; pushing gear B62D 49/04)}
+   49/0657  . . {Asymmetrical tractors}
+   49/0664  . . {Light, simple, and economical tractors
+(B62D 49/002 takes precedence)}
+   49/0671  . . . {the driver riding on the tractor}
+   49/0678  . . {Tractors of variable track width or wheel
+base (for vehicles in general B60B 23/12 and
+   49/0685  . . {Reversible tractors adapted for shuttle work}
+   49/0692  . . {characterised by the particular arrangement of
+control devices, e.g. having more than one control
+stand, operable from vehicle extension (control
+devices or systems characterised by mechanical
+   49/08    . having means for preventing overturning or tipping
+(safety devices for propulsion-unit control, specially
+adapted for, or arranged in, vehicles B60K 28/00)
+   49/085   . . {Counterweight}
+   51/00    Motor vehicles characterised by the driver not
+being seated {(wheeled carriers for golf bags
+   51/001   . {characterised by the vehicle control device
+(mechanical features of control devices in general
+G05G; arrangements of vehicle control devices in
+general B60K 20/00, B60K 23/00, B60K 26/00)}
+   51/002   . . {comprising safety arrangements (safety devices
+for vehicle propulsion unit control B60K 28/00)}
+   51/004   . {characterised by the transmission (arrangements or
+mounting of transmissions in vehicles B60K 17/00;
+   51/005   . {Vehicular characteristics of load handling vehicles,
+e.g. pedestrian trucks (fork-lift trucks B66F 9/06)}
+   51/007   . {the vehicle being of the endless track type (endless
+track vehicles in general B62D 55/00)}
+   51/008   . {characterised by the vehicle being formed
+by articulated or separable units (road trains
+   51/02    . the driver standing in the vehicle
+   51/04    . the driver walking
+   51/06    . . Uniaxle walk-type tractors
+   51/065   . . . {the vehicle baving only one wheel}
+   53/00    Tractor-trailer combinations; Road trains (traction
+couplings other than fifth wheel coupling B60D {;
+tracked vehicles comprising at least two articulated
+   53/005   . {Combinations with at least three axles and
+comprising two or more articulated parts
+(articulated buses B62D 47/025)}
+   53/02    . comprising a uniaxle tractor unit and a uniaxle
+trailer unit {(see B60B 11/00 - B60B 11/08)}
+   53/021   . . {comprising a universal coupling joint}
+   53/023   . . {with two or more coupling joints allowing
+staggering of the units from a central plane}
+   53/025   . . {Comprising a transmission shaft passing
+through the coupling joints (B62D 53/021
+takes precedence; trailers with powered axles
+   53/026   . . . {With all wheels powered}
+8Motor vehicles or trailers classified according to type; Parts or accessories thereof
+   53/028   . . {Having only coupling joints other than
+directional (articulated frames B62D 21/186 and
+   53/04    . comprising a vehicle carrying an essential part of
+the other vehicle's load by having supporting means
+for the front or rear part of the other vehicle
+   53/045   . . {with rigid linkage in the horizontal plane
+(luggage trailers B62D 63/064 - B62D 63/067)}
+   53/061   . . . {of flat bed or low loader type or fitted
+with swan necks (detachable swan necks
+B62D 53/065; swan neck-fifth wheel couplings
+   53/062   . . . . {having inclinable, lowerable platforms;
+Lift bed trailers; Straddle trailers (lifting
+coupling saddles B62D 53/0821; crane
+   53/064   . . . . . {inclining platforms by detachable bogies}
+   53/065   . . . . . {inclining platforms by detachable or
+   53/067   . . . {Multi-purpose, convertible or extendable load
+surface semi-trailers (for container transport
+B60P 1/6418; convertible road transport
+vehicles in general B60P 3/42)}
+   53/068   . . . {having devices to equalise or modify the
+load between the fifth wheel and the rear
+wheels (adjustable couping saddles per se
+B62D 53/0807; load transfer devices to permit
+coupling or uncoupling B62D 53/0857; anti
+jack-knifing devices B62D 53/0871)}
+   53/08    . . Fifth wheel traction couplings {(tractors for
+handling trailers in terminals B62D 49/007)}
+   53/0807  . . . {adjustable coupling saddles mounted on sub-
+frames; Mounting plates therefor}
+   53/0814  . . . . {with adjustment of the clearance between
+the tractor or the trailer (devices modifying
+the load in tractor-trailer combinations
+   53/0821  . . . . {Lifting saddles, i.e. to lift the trailer front
+(tilting body constructions B60P)}
+   53/0828  . . . . {Removable or fold-away traction couplings
+for non-specialised tractor vehicles}
+   53/0835  . . . . {Coupling saddles able to rock in all
+directions, e.g. for use in rough terrain}
+   53/085   . . . . {fitted with anti-coupling devices, pivotal
+or retractable king pins, e.g. to prevent
+theft (vehicle fittings for preventing theft in
+   53/0857  . . . {Auxiliary semi-trailer handling or loading
+equipment, e.g. ramps, rigs, coupling supports}
+   53/0864  . . . . {Dollies for fifth wheel coupling}
+   53/0871  . . . {with stabilising means, e.g. to prevent jack-
+knifing, pitching, rolling, buck jumping
+(stabilising in general B62D 37/00; tractors
+   53/0878  . . . . {the fifth wheel coupling incorporating
+   53/0885  . . . {Comprising devices to limit or to compensate
+for wear or excessive play; Lubricating, shock
+absorbing, bearing devices, or the like}
+   53/0892  . . . {comprising power transmission shafts (trailers
+with driven ground wheels B62D 59/00)}
+   53/10    . . . with means for preventing accidental
+   53/12    . . . engaging automatically
+   53/125   . . . . {with simultaneous coupling of the service
+   55/00    Endless track vehicles (steering aspects B62D 11/00;
+{characterised by the driver not being seated
+   55/02    . with tracks and additional ground wheels {(for
+multi-purpose tractors B62D 49/0635)}
+   55/04    . with tracks and alternative ground wheels, e.g.
+changeable from endless track vehicle into wheeled
+vehicle and vice versa {(for multi-purpose tractors
+   55/06    . with tracks without ground wheels
+   55/062   . . {Tracked vehicles of great dimensions adapted
+for moving bulky loads or gear}
+   55/065   . . Multi-track vehicles, i.e. more than two tracks
+{(soil-shifting machines E02F; mining machines
+   55/0655  . . . {Articulated endless track vehicles (steering
+specially adapted for trailers B62D 13/00;
+articulated buses B62D 47/025; tractor-trailer
+combinations or road trains comprising a uni-
+axle unit and a uni-axle trailer B62D 53/02)}
+   55/07    . . Mono-track vehicles
+   55/075   . . Tracked vehicles for ascending or
+descending stairs, {steep slopes or vertical
+surfaces}(magnetic or pneumatic ground-
+engaging parts B62D 55/265; chairs or multi-
+track cycles specially adapted for invalids
+   55/08    . Endless track units; Parts thereof
+   55/084   . . Endless-track units or carriages mounted
+separably, adjustably or extensibly on vehicles,
+e.g. portable track units (B62D 55/07 takes
+   55/0842  . . . {Tracked vehicle with track carriages
+suspended on three points, e.g. by an equaliser
+   55/0845  . . . {Protection devices}
+   55/0847  . . . {Track blocking devices mounted on the frame;
+   55/088   . . with means to exclude or remove foreign matter,
+e.g. sealing means, self-cleaning track links or
+sprockets, deflector plates or scrapers
+   55/0882  . . . {Track or sprocket cleaning devices mounted
+on the frame (wheel cleaning devices in general
+   55/0885  . . . {Self-cleaning sprockets}
+   55/0887  . . . {Track-articulation sealings against dust,
+water, mud or the like (sealing of bearings in
+general F16C 33/72; chain bushings in general
+   55/092   . . with lubrication means (lubricating in general
+   55/096   . . with noise reducing means
+   55/0963  . . . {Anti-noise driving sprockets}
+   55/0966  . . . {Low noise rollers, e.g. with antivibration
+means (elastic wheel rims in general
+   55/10    . . Bogies; Frames (track-tensioning means
+   55/104   . . Suspension devices for wheels, rollers, bogies or
+frames (vehicle suspension in general B60G)
+   55/108   . . . with mechanical springs, e.g. torsion bars
+9Motor vehicles or trailers classified according to type; Parts or accessories thereof
+   55/1083  . . . . {Torsion-bar springs}
+   55/1086  . . . . {Rubber springs}
+   55/112   . . . with fluid springs, e.g. hydraulic pneumatic
+   55/1125  . . . . {Hydro-pneumatic or pneumatic, e.g. air-
+   55/116   . . . Attitude or position control of chassis by action
+on suspension, e.g. to compensate for a slope
+   55/12    . . Arrangement, location, or adaptation of driving
+   55/13    . . . . readily interchangeable modular type
+   55/135   . . . with dismountable driving crown
+   55/14    . . Arrangement, location, or adaptation of rollers
+   55/145   . . . {Rollers with replaceable wear rings or rims
+(driving sprockets with replaceable rims
+   55/15    . . . Mounting devices, e.g. bushings, axles,
+bearings, sealings {(with lubrication means
+   55/18    . . Tracks (self-cleaning track links B62D 55/088)
+   55/20    . . . of articulated type, e.g. chains {(with
+lubrication means B62D 55/092)}
+   55/202   . . . . {Wheel engaging parts; Wheel guides on
+   55/205   . . . . Connections between track links
+   55/21    . . . . . Links connected by transverse pivot pins
+   55/211   . . . . . . {Bitubular chain links assembled by
+   55/213   . . . . . . {Master track links}
+   55/215   . . . . . Resilient connections between links
+   55/22    . . . . Arrangements for preventing or modifying
+   55/24    . . . of continuously flexible type, e.g. rubber belts
+   55/242   . . . . {The flexible band being semi-rigid for
+resisting back-flexing and contributing to
+   55/244   . . . . {Moulded in one piece, with either smooth
+surfaces or surfaces having projections, e.g.
+incorporating reinforcing elements}
+   55/247   . . . . Gas filled or inflatable flexible tracks
+(connection of valves to inflatable elastic
+   55/253   . . . . having elements interconnected by one or
+   55/26    . . . Ground engaging parts or elements {(tracks
+specially adapted for amphibious vehicles
+   55/265   . . . . having magnetic or pneumatic adhesion
+   55/27    . . . . having different types of crampons for
+progression over varying ground
+   55/275   . . . . with street plate, i.e. means to prevent tread
+   55/283   . . . . . {and movable, e.g. around an axis or
+   55/286   . . . . . {For soft grounds, e.g. consisting of snow
+   55/30    . . Track-tensioning means
+   55/305   . . . {acting on pivotably mounted idlers}
+   55/32    . Assembly, disassembly, repair or servicing of
+   57/00    Vehicles characterised by having other propulsion
+or other ground- engaging means than wheels or
+endless track, alone or in addition to wheels or
+endless track (sledges B62B; motor sledges B62M)
+   57/02    . with ground-engaging propulsion means, e.g.
+   57/021   . . {the ground engaging means being sequentially
+inflatable bags for peristaltic movement
+(B62D 57/024 takes precedence)}
+   57/022   . . {consisting of members having both rotational
+   57/024   . . specially adapted for moving on inclined or
+vertical surfaces (endless-track vehicles for
+ascending or descending stairs B62D 55/075;
+hand-carts with provision for travelling up or
+   57/028   . . having wheels and mechanical legs (B62D 57/024
+takes precedence; ground-engaging vehicle
+fittings for supporting, lifting or manoeuvring the
+vehicle, wholly or in part B60S 9/00)
+   57/032   . . with alternately or sequentially lifted supporting
+base and legs; with alternately or sequentially
+lifted feet or skid (B62D 57/024 takes
+   57/036   . . screw type, e.g. Archimedian screw {(amphibious
+vehicles comprising screw-type ground-engaging
+   57/04    . having other than ground-engaging propulsion
+means, e.g. having propellers (arrangement of jet-
+   59/00    Trailers with driven ground wheels or the like
+   59/02    . driven from external propulsion unit
+   59/04    . driven from propulsion unit on trailer
+   61/00    Motor vehicles or trailers, characterised by the
+arrangement or number of wheels, not otherwise
+provided for, e.g. four wheels in diamond pattern
+   61/02    . with two road wheels in tandem on the longitudinal
+   61/04    . . with two other wheels which are coaxial
+   61/06    . with only three wheels
+   61/065   . . {with single rear wheel}
+   61/08    . . with single front wheel
+   61/10    . with more than four wheels {(tractors of the low
+ground pressure type B62D 49/002)}
+   61/12    . with variable number of ground engaging wheels,
+e.g. with some wheels arranged higher than others,
+or with retractable wheels (for manoeuvring
+   61/125   . . {the retractable wheel being a part of a set of
+tandem wheels (resilient suspension for a single
+set of tandem wheels B60G 5/00)}
+   63/00    Motor vehicles or trailers not otherwise provided
+   63/025   . . {Modular vehicles (superstructures for busses
+having modular sections B62D 31/025)}
+   63/04    . . Component parts or accessories
+   63/06    . Trailers (vehicles comprising living accommodation
+for people, e.g. caravans, camping or like vehicles
+   63/061   . . {Foldable, extensible or yielding trailers (foldable
+caravans B60P 3/34; adjustable chassis frames
+10Motor vehicles or trailers classified according to type; Parts or accessories thereof
+   63/062   . . {Trailers with one axle or two wheels (semi-
+   63/064   . . . {light luggage or equipment trailers, e.g. for
+batteries, gas generators, gas bottles, stretchers
+(luggage carriers per se B60R)}
+   63/065   . . . {forming an extension of the towing vehicle,
+   63/067   . . . . {single wheeled (rigid or semi-rigid
+   63/068   . . {with more than two axles or more than four
+wheels (vehicles with more than four wheels in
+   63/08    . . Component parts or accessories
+   65/00    Designing, manufacturing, e.g. assembling,
+facilitating disassembly, or structurally modifying
+motor vehicles or trailers, not otherwise provided
+   65/005   . {Inspection and final control devices}
+   65/02    . Joining sub-units or components to, or positioning
+sub-units or components with respect to, body shell
+or other sub-units or components
+   65/022   . . {Transferring or handling sub-units or
+components, e.g. in work stations or between
+workstations and transportation systems}
+   65/024   . . {Positioning of sub-units or components with
+respect to body shell or other sub-units or
+   65/026   . . . {by using a jig or the like; Positioning of the
+   65/028   . . . {by determining relative positions by
+   65/04    . . Joining preassembled modular units composed
+of sub-units performing diverse functions, e.g.
+engine and bonnet (B62D 65/06 - B62D 65/16
+   65/06    . . the sub-units or components being doors,
+windows, openable roofs, lids, bonnets, or
+weather strips or seals therefor {(assembling
+sealing arrangements with vehicle parts, e.g.
+   65/10    . . the sub-units or components being engines,
+   65/12    . . the sub-units or components being suspensions,
+   65/14    . . the sub-units or components being passenger
+compartment fittings, e.g. seats, linings, trim,
+   65/16    . . the sub-units or components being exterior
+fittings, e.g. bumpers, lights, wipers {, exhausts}
+   65/18    . . Transportation, conveyor or haulage systems
+specially adapted for motor vehicle or trailer
+assembly lines {(conveyors and haulage in
+   67/00    Systematic disassembly of vehicles for recovery
+of salvageable components, e.g. for recycling (for
+disposal of vehicles by destroying or transformation
+B09B 3/00, B09B 5/00 {; general arrangement of
+separating plants B03B 9/00; recovery of plastics

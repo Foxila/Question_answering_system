@@ -1,0 +1,200 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+SEPARATING SOLIDS FROM SOLIDS; SORTING
+POSTAL SORTING; SORTING INDIVIDUAL ARTICLES, OR BULK MATERIAL FIT
+TO BE SORTED PIECE-MEAL, e.g. BY PICKING (specially adapted for a specific purpose
+covered by another class, see the relevant place, e.g. A43D 33/06, B23Q 7/12)
+This subclass covers sorting of materials or articles by hand or by devices actuated, manually or automatically, as a result of
+inspection or of detection or measurement of some feature of the material or articles
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+Postal sorting; Similar sorting of documents, e.g. cheques (tube
+mail systems B65G 51/04; sorting information records, e.g. punched
+    1/00    Measures preceding sorting according to
+    1/02    . Forming articles into a stream; Arranging articles
+in a stream, e.g. spacing, orientating {(transport of
+    1/025   . . {Devices for the temporary stacking of objects
+provided with a stacking and destacking device
+    1/04    . . Forming a stream from a bulk; Controlling the
+stream, e.g. spacing the articles
+    1/06    . . Orientating; Aligning {Aligning to one edge}
+    1/10    . Sorting according to size or flexibility
+    1/12    . . Separating letters from parcels
+    1/14    . . Sorting according to length or width
+    1/16    . . Sorting according to thickness or stiffness
+    1/18    . Orientating articles other than in a stream {, e.g.
+turning, deflecting or changing direction}
+    1/20    . Sorting according to orientation, e.g. according to
+    3/00    Sorting according to destination {(collating the
+    3/001   . {Code converters for keyboards in coding stations
+(code converters in reading devices B07C 3/10)}
+    3/003   . {Destination control; Electro-mechanical or electro-
+    3/005   . . {the transport holders of objects being
+provided with means for storing the destination
+signals (sorting devices for transport holders
+    3/006   . . {Electric or electronic control circuits, e.g.
+delay lines (delay devices per se H03H 7/30,
+    3/008   . {Means for collecting objects, e.g. containers
+for sorted mail items (pile receivers in general
+    3/02    . Apparatus characterised by the means used for
+    3/04    . . Drum-type sorting machines {or having circularly
+    3/06    . . Linear sorting machines in which articles are
+removed from a stream at selected points
+    3/065   . . . {construction of switches therefor}
+    3/08    . . using arrangements of conveyors {(transport of
+sheets B65H; transport in general B65G)}
+    3/082   . . . {In which the objects are carried by transport
+holders and the transport holders form part of
+the conveyor belts (conveyors with carriers
+    3/085   . . . . {making use of transport holders in the form
+of clamps or grips (cable post B65G)}
+    3/087   . . . . {the objects being taken up in transport files
+or holders which are not part of the conveyor
+    3/10    . Apparatus characterised by the means used
+for detection ofthe destination (methods or
+arrangements for reading and recognising printed or
+written characters or geometric figures G06V 30/00)
+    3/12    . . using electric or electronic detecting means
+    3/14    . . using light-responsive detecting means {(for
+information carriers G06K 7/14)}
+    3/16    . . using magnetic detecting means {(for information
+    3/18    . Devices or arrangements for indicating destination,
+e.g. by code marks {(applying data to information
+    3/20    . Arrangements for facilitating the visual reading
+of addresses, e.g. display arrangements {coding
+1Postal sorting; Similar sorting of documents, e.g. cheques
+    5/00    Sorting according to a characteristic or feature of
+the articles or material being sorted, e.g. by control
+effected by devices which detect or measure such
+characteristic or feature; Sorting by manually
+actuated devices, e.g. switches (sorting by hand only
+B07C 7/00; separating solids from solids by sieving,
+screening, or sifting or by using gas currents or other
+separating by dry methods applicable to bulk material
+    5/02    . Measures preceding sorting, e.g. arranging articles
+in a stream orientating {(sorting and transport of
+    5/04    . Sorting according to size {(sorting devices as a
+component of the automatic supply and removal of
+    5/06    . . measured mechanically {(sorting of cartridges
+    5/065   . . . {with multiple measuring appliances adjusted
+according to different standards, for example
+length or thickness, which detect the shape of
+an object so that if it conforms to the standard
+set by the measuring appliance, it is removed
+from the conveyor, e.g. by means of a number
+of differently calibrated openings}
+    5/07    . . . by calipering using relatively moving article-
+    5/08    . . measured electrically or electronically
+(B07C 5/10 takes precedence {; sorting according
+to electric or electromagnetic properties
+B07C 5/344; measuring size in general using
+electric or magnetic means G01B 7/00; testing
+    5/083   . . . {Mechanically moved sensing devices, the
+movement of which influences the electric
+    5/086   . . . {Magnetic sensing devices}
+    5/10    . . measured by light-responsive means {(sorting
+according to colour B07C 5/342)}
+    5/12    . . characterised by the application to particular
+articles, not otherwise provided for ({B07C 99/00
+takes precedence}; sorting eggs A01K 43/00
+{; measuring and sorting devices for shoe
+components A43D 119/00; sorting cartridges
+    5/122   . . . {for bottles, ampoules, jars and other glassware
+(sorting and transport of caps B67B 3/06)}
+    5/124   . . . . {by means of mechanical measuring devices
+which may also control electrical contacts}
+    5/126   . . . . {by means of photo-electric sensors, e.g.
+according to colour (sorting according to
+optical properties B07C 5/342; material
+testing with the aid of optical means
+    5/128   . . . . {by means of electric, for example electronic
+    5/14    . . . Sorting timber or logs {, e.g. tree trunks,
+    5/16    . Sorting according to weight (sorting eggs
+A01K 43/00; weighing apparatus per se G01G)
+    5/18    . . using a single stationary weighing mechanism
+    5/20    . . . for separating articles of less than a
+predetermined weight from those of more than
+    5/22    . . using a plurality of stationary weighing
+    5/24    . . using moving weighing mechanisms, e.g. moving
+    5/26    . . . wherein the counterbalancing effect of the
+weighing mechanisms is varied during such
+    5/28    . . using electrical control means
+    5/30    . . with associated counting means
+    5/32    . . with associated check-weighing means {(check-
+    5/34    . Sorting according to other particular properties
+{(material testing per se G01N; quality control
+    5/3404  . . {according to properties of containers or
+receptacles, e.g. rigidity, leaks, fill-level
+(control devices for cigarette or cigar packaging
+B65B 19/28; investigation of fluid-tightness of
+    5/3408  . . . {for bottles, jars or other glassware (according
+    5/3412  . . {according to a code applied to the object
+which indicates a property of the object, e.g.
+quality class, contents or incorrect indication
+(sorting according to size measured by
+light-responsive means B07C 5/10; sorting
+according to optical properties B07C 5/342; for
+packages B65D 79/02; for information carriers
+    5/3416  . . {according to radiation transmissivity, e.g. for
+light, x-rays, particle radiation (detecting hidden
+    5/342   . . according to optical properties, e.g. colour
+{(according to radiation transmittivity
+    5/3422  . . . {using video scanning devices, e.g. TV-
+    5/3425  . . . {of granular material, e.g. ore particles, grain
+(investigation moving fluids or granular solids
+using optical means G01N 21/85)}
+    5/3427  . . . . {by changing or intensifying the optical
+properties prior to scanning, e.g. by inducing
+fluorescence under UV or x-radiation,
+subjecting the material to a chemical
+    5/344   . . according to electric or electromagnetic properties
+{(sorting according to size measured electrically
+or electronically B07C 5/08; material testing
+by magnetic means G01N 24/00, G01N 27/00,
+by electrical means G01N 27/00; electrical
+measuring devices in general G01R; coin testing
+    5/346   . . according to radioactive properties {(material
+testing G01N 23/00; radiation measurement
+    5/36    . Sorting apparatus characterised by the means used
+for distribution {(sorting according to destination
+    5/361   . . {Processing or control devices therefor, e.g.
+    5/362   . . . {Separating or distributor mechanisms
+(switches for postal sorting B07C 3/065;
+particular discharging devices for
+    5/363   . . {by means of air}
+2Postal sorting; Similar sorting of documents, e.g. cheques
+    5/365   . . . {using a single separation means}
+    5/366   . . . . {during free fall of the articles}
+    5/367   . . . {using a plurality of separation means}
+    5/368   . . . . {actuated independently}
+    5/38    . . Collecting or arranging articles in groups
+    7/00    Sorting by hand only {e.g. of mail}
+    7/005   . {Computer assisted manual sorting, e.g. for mail}
+    7/02    . Compartmented furniture, e.g. pigeon-holes
+({B07C 7/005 takes precedence; furniture per se
+    7/04    . Apparatus or accessories for hand picking
+   99/00    Subject matter not provided for in other groups of
+ 2201/00    Measures preceding sorting according to
+ 2201/003   . Cancellation, e.g. stamps by stamping, printing
+ 2201/006   . Hazardous Substances, e.g. checking for
+contamination, explosives, anthrax
+ 2301/00    Sorting according to destination
+ 2301/0008  . Electronic Devices, e.g. keyboard, displays
+ 2301/0025  . Recipient identification providing a unique ID for a
+ 2301/0033  . Returning of unsold articles, e.g. magazines
+ 2301/0041  . Sequencing items to a carrier walk sequence or
+ 2301/005   . Redirection or forwarding of mail pieces
+ 2301/0058  . Verification for the correct postage amount
+ 2301/0066  . Check for destination address in a database or list
+ 2301/0075  . Packaging or wrapping of sorted mail pieces
+ 2301/0083  . Merging of mail pieces of different categories, e.g.
+ 2301/0091  . Creating a signature of fingerprint based on graphic
+appearance of the mail piece, e.g. to avoid barcode
+ 2501/00    Sorting according to a characteristic or feature of
+the articles or material to be sorted
+ 2501/0009  . Sorting of fasteners, e.g. screws, nuts, bolts
+ 2501/0018  . Sorting the articles during free fall
+ 2501/0027  . Sorting the articles according to a sound
+ 2501/0036  . Sorting out metallic particles
+ 2501/0045  . Return vending of articles, e.g. bottles
+ 2501/0054  . Sorting of waste or refuse
+ 2501/0081  . Sorting of food items

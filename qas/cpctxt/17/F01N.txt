@@ -1,0 +1,758 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+MACHINES OR ENGINES IN GENERAL; ENGINE PLANTS IN GENERAL; STEAM
+GAS-FLOW SILENCERS OR EXHAUST APPARATUS FOR MACHINES OR
+ENGINES IN GENERAL; GAS-FLOW SILENCERS OR EXHAUST APPARATUS FOR
+INTERNAL COMBUSTION ENGINES ({evacuation of fumes from the area where they
+are produced B08B 15/00; arrangement of exhaust or silencing apparatus on percussive tools
+B25D 17/12} ; arrangements in connection with gas exhaust of propulsion units in vehicles
+B60K 13/00, {on ships or other waterborne vessels B63H 21/32, on aircraft B64D 33/04;
+arrangement of exhaust or silencing apparatus on firearms F41A 21/30; ground installations for
+reducing aircraft engine or jet noise B64F 1/26; silencers specially adapted for steam engines
+F01B 31/16; air-intake silencers for gas turbine or jet propulsion plants F02C 7/045; jet pipe
+or nozzles for jet propulsion plants F02K} ; combustion-air intake silencers specially adapted
+for, or arranged on, internal-combustion engines F02M 35/00; {combating noise or silencing in
+positive displacement machines or pumps F04B 39/0027, in rotary-piston machines or pumps
+F04C 29/06, in non-positive displacement pumps F04D 29/66; means in valves for absorbing
+noise F16K 47/02; noise absorbers in pipe system F16L 55/02; conducting smoke or fumes
+from various locations to the outside F23J 11/00; means for preventing or suppressing noise in
+air-conditioning or ventilation systems F24F 13/24} ; protecting against, or damping, noise in
+Attention is drawn to the notes preceding Class F01, especially as regards Note 2(b).
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Silencing apparatus characterised by method
+of silencing {(by cooling F01N 3/02; using liquids
+    1/003   . {by using dead chambers communicating with gas
+flow passages (resonance chambers F01N 1/02;
+chambers containing sound-absorbing materials
+    1/006   . . {comprising at least one perforated tube
+extending from inlet to outlet of the silencer}
+    1/02    . by using resonance
+    1/023   . . {Helmholtz resonators}
+    1/026   . . {Annular resonance chambers arranged
+concentrically to an exhaust passage and
+communicating with it, e.g. via at least one
+opening in the exhaust passage}
+    1/04    . . having sound-absorbing materials in resonance
+    1/06    . by using interference effect
+    1/065   . . {by using an active noise source, e.g. speakers}
+    1/08    . by reducing exhaust energy by throttling or whirling
+    1/081   . . {by passing the gases through a mass of particles}
+    1/082   . . {the gases passing through porous members
+    1/083   . . {using transversal baffles defining a tortuous path
+for the gases or successively throttling gas flow}
+    1/084   . . {the gases flowing through the silencer two or
+more times longitudinally in opposite directions,
+e.g. using parallel or concentric tubes}
+    1/085   . . {using a central core throttling gas passage}
+    1/086   . . {having means to impart whirling motion to the
+gases (with helically or spirally shaped channels
+    1/087   . . . {using tangential inlets into a circular
+    1/088   . . . {using vanes arranged on gas flow path or gas
+flow tubes with tangentially directed apertures}
+    1/089   . . {using two or more expansion chambers in series
+(F01N 1/083, F01N 1/084, F01N 1/086 take
+    1/10    . . in combination with sound-absorbing materials
+    1/12    . . using spirally or helically shaped channels
+    1/125   . . . {in combination with sound-absorbing
+    1/14    . by adding air to exhaust gases {(in tailpipes
+    1/16    . by using movable parts
+    1/161   . . {for adjusting resonance or dead chambers or
+passages to resonance or dead chambers}
+    1/163   . . . {by means of valves}
+    1/165   . . {for adjusting flow area}
+    1/166   . . {for changing gas flow path through the silencer
+or for adjusting the dimensions of a chamber or a
+pipe (F01N 1/165 takes precedence)}
+    1/168   . . {for controlling or modifying silencing
+    1/18    . . having rotary movement
+    1/20    . . having oscillating or vibrating movement {(the
+parts being resilient walls F01N 1/22)}
+    1/22    . . the parts being resilient walls
+    1/24    . by using sound-absorbing materials (F01N 1/04,
+F01N 1/06, F01N 1/10, F01N 1/14, F01N 1/16 take
+    3/00    Exhaust or silencing apparatus having means
+for purifying, rendering innocuous, or otherwise
+treating exhaust (electric control F01N 9/00;
+monitoring or diagnostic devices for exhaust-
+gas treatment apparatus F01N 11/00 {; collecting
+or removing exhaust gases of vehicle engines in
+workshops B08B 15/00, on highways E01C 1/005})
+    3/005   . {for draining or otherwise eliminating condensates
+or moisture accumulating in the apparatus
+    3/01    . by means of electric or electrostatic separators
+    3/02    . for cooling, or for removing solid constituents
+of, exhaust (by means of electric or electrostatic
+separators F01N 3/01 {; mixing air with exhaust in
+tailpipes F01N 13/082, F01N 13/20})
+    3/0205  . . {using heat exchangers}
+    3/021   . . by means of filters
+    3/0211  . . . {Arrangements for mounting filtering elements
+in housing, e.g. with means for compensating
+thermal expansion or vibration}
+    3/0212  . . . {with one or more perforated tubes surrounded
+by filtering material, e.g. filter candles}
+    3/0214  . . . {with filters comprising movable parts, e.g.
+    3/0215  . . . {the filtering elements having the form of disks
+    3/0217  . . . {the filtering elements having the form of
+    3/0218  . . . {the filtering elements being made from
+spirally-wound filtering material}
+    3/022   . . . characterised by specially adapted filtering
+structure, e.g. honeycomb, mesh or fibrous
+    3/0222  . . . . {the structure being monolithic, e.g.
+    3/0224  . . . . {the structure being granular}
+    3/0226  . . . . {the structure being fibrous}
+    3/0228  . . . . {the structure being made of foamed rubber
+    3/023   . . . using means for regenerating the filters, e.g.
+by burning trapped particles (by electrically
+controlling the supply of combustible mixture
+or its constituents only F02D 41/0235)
+    3/0231  . . . . {using special exhaust apparatus upstream of
+the filter for producing nitrogen dioxide, e.g.
+for continuous filter regeneration systems
+    3/0232  . . . . {removing incombustible material from a
+    3/0233  . . . . {periodically cleaning filter by blowing a gas
+through the filter in a direction opposite to
+exhaust flow, e.g. exposing filter to engine
+    3/0234  . . . . {using heat exchange means in the exhaust
+    3/0235  . . . . {using exhaust gas throttling means}
+    3/0236  . . . . {using turbine waste gate valve}
+    3/0237  . . . . {for regenerating ex situ}
+    3/0238  . . . . {for regenerating during engine standstill}
+    3/025   . . . . using fuel burner or by adding fuel to
+    3/0253  . . . . . {adding fuel to exhaust gases}
+    3/0256  . . . . . . {the fuel being ignited by electrical
+    3/027   . . . . using electric or magnetic heating means
+    3/0275  . . . . . {using electric discharge means}
+    3/028   . . . . . using microwaves
+    3/029   . . . . by adding non-fuel substances to exhaust
+    3/0293  . . . . . {injecting substances in exhaust stream}
+    3/0296  . . . . . . {having means for preheating additional
+    3/031   . . . having means for by-passing filters, e.g. when
+clogged or during cold engine start
+    3/032   . . . . during filter regeneration only
+    3/033   . . . in combination with other devices {(with
+adsorbents or absorbents F01N 3/0821)}
+    3/0335  . . . . {with exhaust silencers in a single housing}
+    3/035   . . . . with catalytic reactors {, e.g. catalysed diesel
+    3/037   . . by means of inertial or centrifugal separators,
+e.g. of cyclone type, optionally combined or
+    3/038   . . by means of perforated plates defining expansion
+chambers associated with condensation and
+collection chambers, e.g. for adiabatic expansion
+of gases and subsequent collection of condensed
+    3/043   . . . {without contact between liquid and exhaust
+    3/046   . . . . {Exhaust manifolds with cooling jacket}
+    3/05    . . by means of air, e.g. by mixing exhaust with
+air (silencers working by addition of air to
+exhaust F01N 1/14; arrangements for the supply
+of additional air for the thermal or catalytic
+conversion of noxious components of exhaust
+F01N 3/30 {; in tailpipes F01N 13/082})
+    3/055   . . . {without contact between air and exhaust
+    3/06    . for extinguishing sparks
+    3/08    . for rendering innocuous (using electric or
+electrostatic separators F01N 3/01; chemical aspects
+    3/0807  . . {by using absorbents or adsorbents}
+    3/0814  . . . {combined with catalytic converters, e.g. NOx
+absorption/storage reduction catalysts}
+    3/0821  . . . {combined with particulate filters (catalysed
+diesel particulate filters F01N 3/035)}
+    3/0828  . . . {characterised by the absorbed or adsorbed
+    3/0835  . . . . {Hydrocarbons}
+    3/0842  . . . . {Nitrogen oxides}
+    3/085   . . . . {Sulfur or sulfur oxides}
+    3/0857  . . . . {Carbon oxides}
+    3/0871  . . . {Regulation of absorbents or adsorbents, e.g.
+purging (by electrically controlling the supply
+of combustible mixture or its constituents only
+    3/0878  . . . . {Bypassing absorbents or adsorbents}
+    3/0885  . . . . {Regeneration of deteriorated absorbents
+or adsorbents, e.g. desulfurization of NOx
+    3/0892  . . {Electric or magnetic treatment, e.g. dissociation
+of noxious components (electric filters
+F01N 3/01; regeneration of exhaust filters
+F01N 3/023; heating catalytic converters
+    3/10    . . by thermal or catalytic conversion of noxious
+components of exhaust (by using other chemical
+processes, chemical aspects of catalytic
+conversion, e.g. using specified catalysts,
+    3/101   . . . {Three-way catalysts}
+    3/103   . . . {Oxidation catalysts for HC and CO only}
+    3/105   . . . {General auxiliary catalysts, e.g. upstream or
+downstream of the main catalyst}
+    3/106   . . . . {Auxiliary oxidation catalysts}
+    3/108   . . . . {Auxiliary reduction catalysts}
+    3/18    . . . characterised by methods of operation; Control
+    3/20    . . . . specially adapted for catalytic conversion
+(F01N 3/22 takes precedence){; Methods of
+operation or control of catalytic converters}
+    3/2006  . . . . . {Periodically heating or cooling
+catalytic reactors, e.g. at cold starting or
+overheating (by electrically controlling
+the supply of combustible mixture or its
+constituents only F02D 41/0235)}
+    3/2013  . . . . . . {using electric or magnetic heating
+    3/202   . . . . . . . {using microwaves}
+    3/2026  . . . . . . . {directly electrifying the catalyst
+substrate, i.e. heating the electrically
+conductive catalyst substrate by joule
+    3/2033  . . . . . . {using a fuel burner or introducing fuel
+    3/204   . . . . . . {using an exhaust gas igniter, e.g. a
+spark or glow plug, without introducing
+    3/2046  . . . . . . {Periodically cooling catalytic reactors}
+    3/2053  . . . . . {By-passing catalytic reactors, e.g. to
+    3/206   . . . . . {Adding periodically or continuously
+substances to exhaust gases for promoting
+purification, e.g. catalytic material
+in liquid form, NOx reducing agents
+(F01N 3/2066 takes precedence)}
+    3/2066  . . . . . {Selective catalytic reduction [SCR]}
+    3/2073  . . . . . . {with means for generating a reducing
+substance from the exhaust gases}
+    3/208   . . . . . . {Control of selective catalytic reduction
+[SCR], e.g. dosing of reducing agent}
+    3/2086  . . . . . {Activating the catalyst by light, photo-
+    3/2093  . . . . . {Periodically blowing a gas through the
+converter, e.g. in a direction opposite to
+exhaust gas flow or by reversing exhaust
+    3/22    . . . . Control of additional air supply only, e.g.
+using by-passes or variable air pump drives
+    3/222   . . . . . {using electric valves only}
+    3/225   . . . . . {Electric control of additional air supply}
+    3/227   . . . . . {using pneumatically operated valves, e.g.
+    3/24    . . . characterised by constructional aspects of
+converting apparatus (filtering in combination
+with catalytic reactors F01N 3/035)
+    3/26    . . . . Construction of thermal reactors
+    3/28    . . . . Construction of catalytic reactors
+    3/2803  . . . . . {characterised by structure, by material or
+by manufacturing of catalyst support}
+    3/2807  . . . . . . {Metal other than sintered metal
+(F01N 3/2832 and F01N 3/2835 take
+    3/281   . . . . . . . {Metallic honeycomb monoliths made
+of stacked or rolled sheets, foils or
+    3/2814  . . . . . . . . {all sheets, plates or foils being
+    3/2817  . . . . . . . . {only with non-corrugated sheets,
+    3/2821  . . . . . . . . {the support being provided with
+e.g. sheets, plates or foils with
+protrusions or projections to create
+    3/2825  . . . . . . {Ceramics (F01N 3/2832, F01N 3/2835
+    3/2828  . . . . . . . {Ceramic multi-channel monoliths,
+    3/2832  . . . . . . {granular, e.g. pellets}
+    3/2835  . . . . . . {fibrous}
+    3/2839  . . . . . {Arrangements for mounting catalyst
+support in housing, e.g. with means for
+compensating thermal expansion or
+    3/2842  . . . . . . {specially adapted for monolithic
+supports, e.g. of honeycomb type
+(F01N 3/2853 - F01N 3/2871 take
+    3/2846  . . . . . . {specially adapted for granular supports,
+    3/285   . . . . . . {specially adapted for fibrous supports,
+    3/2853  . . . . . . {using mats or gaskets between catalyst
+    3/2857  . . . . . . . {the mats or gaskets being at least
+    3/286   . . . . . . . {the mats or gaskets having
+    3/2864  . . . . . . . {the mats or gaskets comprising two
+    3/2867  . . . . . . . {the mats or gaskets being placed at
+the front or end face of catalyst body}
+    3/2871  . . . . . . . {the mats or gaskets having an
+additional, e.g. non-insulating or non-
+cushioning layer, a metal foil or an
+    3/2875  . . . . . . {by using elastic means, e.g. spring
+leaves, for retaining catalyst body in the
+housing (F01N 3/2853 - F01N 3/2871
+    3/2878  . . . . . . {by using non-elastic means for
+retaining catalyst body in the housing,
+e.g. a metal chamfer, or by corrugation
+or deformation of the metal housing}
+    3/2882  . . . . . {Catalytic reactors combined or associated
+with other devices, e.g. exhaust silencers
+or other exhaust purification devices
+(combined with absorbents or adsorbents
+only F01N 3/0814; combined with
+particulate filters F01N 3/035)}
+    3/2885  . . . . . . {with exhaust silencers in a single
+    3/2889  . . . . . . {with heat exchangers in a single
+    3/2892  . . . . . {Exhaust flow directors or the like, e.g.
+    3/2896  . . . . . {Liquid catalyst carrier}
+    3/30    . . . . Arrangements for supply of additional air
+(control, e.g. using by-passes or variable air
+    3/303   . . . . . {Filtering additional air}
+    3/306   . . . . . {Preheating additional air}
+    3/32    . . . . . using air pump (using jet air pumps
+F01N 3/34; pumps in general F04)
+    3/323   . . . . . . {Electrically driven air pumps}
+    3/326   . . . . . . {Engine-driven air pumps}
+    3/34    . . . . . using air conduits or jet air pumps, e.g.
+    3/36    . . . . Arrangements for supply of additional fuel
+    3/38    . . . . Arrangements for igniting
+    5/00    Exhaust or silencing apparatus combined or
+associated with devices profiting from exhaust
+energy (using kinetic or wave energy of exhaust gases
+in exhaust systems for charging F02B; predominant
+aspects of such devices, see the relevant classes for
+    5/02    . the devices using heat
+    5/025   . . {the device being thermoelectric generators}
+    5/04    . the devices using kinetic energy
+    9/00    Electrical control of exhaust gas treating
+apparatus (monitoring or diagnostic devices for
+exhaust-gas treatment apparatus F01N 11/00; conjoint
+electrical control of two or more combustion engine
+    9/002   . {of filter regeneration, e.g. detection of clogging}
+    9/005   . {using models instead of sensors to determine
+operating characteristics of exhaust systems,
+e.g. calculating catalyst temperature instead of
+    9/007   . {Storing data relevant to operation of exhaust
+systems for later retrieval and analysis, e.g. to
+research exhaust system malfunctions}
+   11/00    Monitoring or diagnostic devices for exhaust-gas
+treatment apparatus {, e.g. for catalytic activity
+(safety, indicating or supervising devices for internal
+combustion engines F02B 77/08; testing of machines
+   11/002   . {the diagnostic devices measuring or estimating
+temperature or pressure in, or downstream of the
+   11/005   . . {the temperature or pressure being estimated, e.g.
+by means of a theoretical model}
+   11/007   . {the diagnostic devices measuring oxygen or air
+concentration downstream of the exhaust apparatus}
+   13/00    Exhaust or silencing apparatus characterised by
+constructional features {; Exhaust or silencing
+apparatus, or parts thereof, having pertinent
+characteristics not provided for in, or of interest
+apart from, groups F01N 1/00 - F01N 5/00,
+   13/001   . {Gas flow channels or gas chambers being at least
+partly formed in the structural parts of the engine
+or machine (using structural parts of the vehicle
+   13/002   . {Apparatus adapted for particular uses, e.g. for
+portable devices driven by machines or engines}
+   13/004   . {specially adapted for marine propulsion, i.e. for
+receiving simultaneously engine exhaust gases and
+engine cooling water (for submerged exhausting
+F01N 13/12; treating exhaust by using liquids
+   13/005   . . {with parts constructed of non-metallic material,
+   13/007   . {Apparatus used as intake or exhaust silencer
+(silencing methods F01N 1/00; intake silencers
+   13/008   . {Mounting or arrangement of exhaust sensors in
+or on exhaust apparatus (sensor arrangements for
+   13/009   . {having two or more separate purifying devices
+   13/0093  . . {the purifying devices are of the same type}
+   13/0097  . . {the purifying devices are arranged in a single
+   13/011   . {having two or more purifying devices arranged in
+   13/017   . . {the purifying devices are arranged in a single
+   13/02    . having two or more separate silencers in series
+   13/04    . having two or more silencers in parallel, e.g. having
+interconnections for multi-cylinder engines
+   13/06    . specially adapted for star-arrangement of cylinders,
+   13/08    . Other arrangements or adaptations of exhaust
+conduits {(pipes, joints or supports therefor in
+general F16L; collecting or removing exhaust gases
+of vehicle engines in workshops B08B 15/00, on
+   13/082   . . {of tailpipe, e.g. with means for mixing air
+with exhaust for exhaust cooling, dilution or
+evacuation (F01N 13/20 takes precedence)}
+   13/085   . . {having means preventing foreign matter from
+   13/087   . . {having valves upstream of silencing apparatus
+for by-passing at least part of exhaust directly to
+atmosphere (valves for changing gas flow path
+through the silencer F01N 1/166)}
+   13/10    . . of exhaust manifolds {(with cooling jacket
+   13/102   . . . {having thermal insulation}
+   13/105   . . . {having the form of a chamber directly
+connected to the cylinder head, e.g. without
+having tubes connected between cylinder head
+   13/107   . . . {More than one exhaust manifold or exhaust
+   13/12    . specially adapted for submerged exhausting
+   13/14    . having thermal insulation {(exhaust manifolds
+   13/141   . . {Double-walled exhaust pipes or housings}
+   13/143   . . . {with air filling the space between both walls}
+   13/145   . . . {with gas other than air filling the space
+   13/146   . . . {with vacuum in the space between both walls}
+   13/148   . . {Multiple layers of insulating material}
+   13/16    . Selection of particular materials
+   13/18    . Construction facilitating manufacture, assembly, or
+   13/1805  . . {Fixing exhaust manifolds, exhaust pipes or
+pipe sections to each other, to engine or to
+vehicle body (pipe joints in general F16L; fixing
+auxiliaries in motor vehicles in general B60K)}
+   13/1811  . . . {with means permitting relative movement,
+e.g. compensation of thermal expansion or
+   13/1816  . . . . {the pipe sections being joined together by
+flexible tubular elements only, e.g. using
+   13/1822  . . . . {for fixing exhaust pipes or devices to
+   13/1827  . . . {Sealings specially adapted for exhaust systems
+(sealings in general F16J 15/00)}
+   13/1833  . . {specially adapted for small internal combustion
+engines, e.g. used in model applications}
+   13/1838  . . {characterised by the type of connection between
+parts of exhaust or silencing apparatus, e.g.
+between housing and tubes, between tubes and
+   13/1844  . . . {Mechanical joints}
+   13/185   . . . . {the connection being realised by deforming
+housing, tube, baffle, plate, or parts thereof}
+   13/1855  . . . . {the connection being realised by using
+bolts, screws, rivets or the like}
+   13/1861  . . {the assembly using parts formed by casting or
+   13/1866  . . . {the channels or tubes thereof being made
+   13/1872  . . {the assembly using stamp-formed parts or
+otherwise deformed sheet-metal}
+   13/1877  . . . {the channels or tubes thereof being made
+   13/1883  . . {manufactured by hydroforming}
+   13/1888  . . {the housing of the assembly consisting of two or
+more parts, e.g. two half-shells}
+   13/1894  . . . {the parts being assembled in longitudinal
+   13/20    . having flared outlets, e.g. of fish-tail shape
+   99/00    Subject matter not provided for in other groups of
+ 2210/00    Combination of methods of silencing
+ 2210/02    . Resonance and interference
+ 2210/04    . Throttling-expansion and resonance
+ 2210/06    . Throttling-expansion and interference
+ 2230/00    Combination of silencers and other devices
+ 2230/04    . Catalytic converters
+ 2240/00    Combination or association of two or more
+different exhaust treating devices, or of at least one
+such device with an auxiliary device, not covered
+by indexing codes F01N 2230/00 or F01N 2250/00,
+ 2240/04    . an electric, e.g. electrostatic, device other than a
+ 2240/05    . a magnetic, e.g. electromagnetic, device other than a
+ 2240/06    . an inertial, e.g. centrifugal, device
+ 2240/10    . a heat accumulator
+ 2240/12    . a thermal reactor
+ 2240/16    . an electric heater, i.e. a resistance heater
+ 2240/18    . an adsorber or absorber
+ 2240/20    . a flow director or deflector
+ 2240/22    . a condensation chamber
+ 2240/25    . an ammonia generator
+ 2240/26    . an exhaust gas reservoir, e.g. emission buffer
+ 2240/38    . an ozone (O3) generator, e.g. for adding ozone after
+ 2240/40    . a hydrolysis catalyst
+ 2250/00    Combinations of different methods of purification
+ 2250/02    . filtering and catalytic conversion
+ 2250/04    . afterburning and catalytic conversion
+ 2250/06    . afterburning and filtering
+ 2250/08    . filtering and inertial particulate separation
+ 2250/10    . cooling and filtering
+ 2250/12    . absorption or adsorption, and catalytic conversion
+ 2250/14    . absorption or adsorption, and filtering
+ 2260/00    Exhaust treating devices having provisions not
+ 2260/02    . for cooling the device
+ 2260/04    . for regeneration or reactivation, e.g. of catalyst
+ 2260/06    . for improving exhaust evacuation or circulation, or
+ 2260/08    . for preventing heat loss or temperature drop, using
+other means than layers of heat-insulating material
+ 2260/10    . for avoiding stress caused by expansions or
+contractions due to temperature variations
+ 2260/12    . for resisting high pressure
+ 2260/14    . for modifying or adapting flow area or back-
+ 2260/16    . for reducing exhaust flow pulsations
+ 2260/18    . for improving rigidity, e.g. by wings, ribs
+ 2260/20    . for heat or sound protection, e.g. using a shield or
+specially shaped outer surface of exhaust device
+ 2260/22    . for preventing theft of exhaust parts or devices, e.g.
+ 2260/24    . for identifying exhaust parts or devices, e.g. by
+labels, stickers or directly printing
+ 2260/26    . for preventing enter of dirt into the device
+ 2270/00    Mixing air with exhaust gases
+ 2270/02    . for cooling exhaust gases or the apparatus
+ 2270/08    . for evacuation of exhaust gases, e.g. in tail-pipes
+ 2270/10    . for rendering exhaust innocuous, e.g. by dilution
+ 2290/00    Movable parts or members in exhaust systems for
+other than for control purposes
+ 2290/02    . with continuous rotary movement
+ 2290/04    . . driven by exhaust gases
+ 2290/06    . . driven by auxiliary drive
+ 2290/08    . with oscillating or vibrating movement
+ 2290/10    . . actuated by pressure of exhaust gases, e.g.
+ 2310/00    Selection of sound absorbing or insulating material
+ 2310/02    . Mineral wool, e.g. glass wool, rock wool, asbestos
+ 2310/04    . Metallic wool, e.g. steel wool, copper wool or the
+ 2310/08    . Exfoliated vermiculite, e.g. zonolite, coke, pumice
+ 2310/12    . Granular material
+ 2310/14    . Wire mesh fabric, woven glass cloth or the like
+ 2330/00    Structure of catalyst support or particle filter
+ 2330/02    . Metallic plates or honeycombs, e.g. superposed or
+rolled-up corrugated or otherwise deformed sheet
+ 2330/04    . . Methods of manufacturing
+ 2330/06    . Ceramic, e.g. monoliths
+ 2330/08    . Granular material
+ 2330/10    . Fibrous material, e.g. mineral or metallic wool
+ 2330/101   . . using binders, e.g. to form a permeable mat, paper
+ 2330/102   . . . fibrous material being fiber reinforced polymer
+made of plastic matrix reinforced by fine glass
+or in the form of a loose mass of filaments or
+ 2330/12    . Metallic wire mesh fabric or knitting
+ 2330/14    . Sintered material
+ 2330/18    . Composite material
+ 2330/20    . Plastics, e.g. polymers, polyester, polyurethane
+ 2330/30    . Honeycomb supports characterised by their
+ 2330/32    . . characterised by the shape, form or number of
+corrugations of plates, sheets or foils
+ 2330/321   . . . with two or more different kinds of
+corrugations in the same substrate
+ 2330/322   . . . Corrugations of trapezoidal form
+ 2330/323   . . . Corrugations of saw-tooth or triangular form
+ 2330/324   . . . Corrugations of rectangular form
+ 2330/325   . . . Corrugations of omega form
+ 2330/34    . . with flow channels of polygonal cross section
+ 2330/36    . . with flow channels formed by tubes
+ 2330/38    . . flow channels with means to enhance flow
+mixing,(e.g. protrusions or projections)
+ 2330/40    . . made of a single sheet, foil or plate
+ 2330/42    . . made of three or more different sheets, foils or
+plates stacked one on the other
+ 2330/44    . . made of stacks of sheets, plates or foils that are
+ 2330/48    . . characterised by the number of flow passages,
+ 2330/60    . Discontinuous, uneven properties of filter
+material, e.g. different material thickness along
+the longitudinal direction; Higher filter capacity
+upstream than downstream in same housing
+ 2340/00    Dimensional characteristics of the exhaust system,
+e.g. length, diameter or volume of the apparatus;
+Spatial arrangements of exhaust apparatuses
+ 2340/02    . characterised by the distance of the apparatus to the
+engine, or the distance between two exhaust treating
+ 2340/04    . characterised by the arrangement of an exhaust pipe,
+manifold or apparatus in relation to vehicle frame or
+ 2340/06    . characterised by the arrangement of the exhaust
+apparatus relative to the turbine of a turbocharger
+ 2350/00    Arrangements for fitting catalyst support or
+particle filter element in the housing
+ 2350/02    . Fitting ceramic monoliths in a metallic housing
+ 2350/04    . . with means compensating thermal expansion
+ 2350/06    . . with means preventing gas flow by-pass or
+ 2350/08    . with means for compressing granular material
+ 2370/00    Selection of materials for exhaust purification
+ 2370/02    . used in catalytic reactors
+ 2370/04    . . Zeolitic material
+ 2370/22    . used in non-catalytic purification apparatus
+ 2370/24    . . Zeolitic material
+ 2370/30    . . Materials having magnetic properties
+ 2370/40    . Activated carbon or charcoal
+ 2390/00    Arrangements for controlling or regulating
+ 2390/02    . using electric components only
+ 2390/04    . using electropneumatic components
+ 2390/06    . using pneumatic components only
+ 2390/08    . using mechanical components only, e.g. actuated
+ 2410/00    By-passing, at least partially, exhaust from inlet
+to outlet of apparatus, to atmosphere or to other
+ 2410/02    . in case of high temperature, e.g. overheating of
+ 2410/03    . in case of low temperature
+ 2410/04    . during regeneration period, e.g. of particle filter
+ 2410/08    . in case of clogging, e.g. of particle filter
+ 2410/10    . for reducing flow resistance, e.g. to obtain more
+ 2410/12    . in case of absorption, adsorption or desorption of
+ 2410/14    . in case of excessive pressure, e.g. using a safety
+ 2430/00    Influencing exhaust purification, e.g. starting of
+catalytic reaction, filter regeneration, or the like,
+by controlling engine operating characteristics
+ 2430/02    . by cutting out a part of engine cylinders
+ 2430/04    . by adding non-fuel substances to combustion air or
+ 2430/06    . by varying fuel-air ratio, e.g. by enriching fuel-air
+ 2430/08    . by modifying ignition or injection timing
+ 2430/085   . . at least a part of the injection taking place during
+ 2430/10    . by modifying inlet or exhaust valve timing
+ 2450/00    Methods or apparatus for fitting, inserting or
+ 2450/02    . Fitting monolithic blocks into the housing
+ 2450/04    . Filling or emptying a chamber with granular
+ 2450/06    . Inserting sound absorbing material into a chamber
+ 2450/08    . Repairing the housing or pipe-joints
+ 2450/10    . Fitting temporarily exhaust apparatus on exhaust
+conduit, e.g. in confined environment, garage or the
+ 2450/16    . by using threaded joints
+ 2450/18    . by using quick-active type locking mechanisms, e.g.
+ 2450/20    . by mechanical joints, e.g. by deforming housing,
+tube, baffle plate or parts thereof
+ 2450/22    . by welding or brazing
+ 2450/24    . by bolts, screws, rivets or the like
+ 2450/26    . by bayonet fittings
+ 2450/28    . by using adhesive material, e.g. cement
+ 2450/30    . Removable or rechangeable blocks or cartridges,
+ 2450/40    . Retrofitting exhaust apparatus
+ 2470/00    Structure or shape of gas passages, pipes or tubes
+ 2470/02    . Tubes being perforated
+ 2470/04    . . characterised by shape, disposition or dimensions
+ 2470/06    . Tubes being formed by assembly of stamped or
+ 2470/08    . Gas passages being formed between the walls of an
+outer shell and an inner chamber
+ 2470/10    . Tubes having non-circular cross section
+ 2470/12    . Tubes being corrugated
+ 2470/14    . Plurality of outlet tubes, e.g. in parallel or with
+ 2470/16    . Plurality of inlet tubes, e.g. discharging into
+ 2470/18    . the axis of inlet or outlet tubes being other than the
+ 2470/20    . Dimensional characteristics of tubes, e.g. length,
+ 2470/22    . Inlet and outlet tubes being positioned on the same
+ 2470/24    . Concentric tubes or tubes being concentric to
+housing, e.g. telescopically assembled
+ 2470/26    . Tubes being formed by extrusion, drawing or rolling
+ 2470/28    . Tubes being formed by moulding or casting x
+ 2470/30    . Tubes with restrictions, i.e. venturi or the like, e.g.
+for sucking air or measuring mass flow
+ 2490/00    Structure, disposition or shape of gas-chambers
+ 2490/02    . Two or more expansion chambers in series
+ 2490/04    . . the gases flowing longitudinally from inlet to
+ 2490/06    . . the gases flowing longitudinally from inlet to
+ 2490/08    . Two or more expansion chambers in series
+separated by apertured walls only
+ 2490/10    . Two or more expansion chambers in parallel
+ 2490/12    . Chambers having variable volumes
+ 2490/14    . Dead or resonance chambers connected to gas flow
+tube by relatively short side-tubes
+ 2490/15    . Plurality of resonance or dead chambers
+ 2490/155   . . being disposed one after the other in flow
+ 2490/16    . Chambers with particular shapes, e.g. spherical
+ 2490/18    . Dimensional characteristics of gas chambers
+ 2490/20    . Chambers being formed inside the exhaust pipe
+without enlargement of the cross section of the pipe,
+ 2510/02    . for thermal insulation
+ 2510/04    . for sound absorption
+ 2510/06    . for exhaust purification, e.g. catalytic reaction
+ 2510/061   . . usable with leaded fuels
+ 2510/065   . . for reducing soot ignition temperature
+ 2510/067   . . usable with sulfurised fuels
+ 2510/068   . . characterised by the distribution of the catalytic
+ 2510/0682  . . . having a discontinuous, uneven or partially
+overlapping coating of catalytic material,
+e.g. higher amount of material upstream than
+ 2510/0684  . . . having more than one coating layer, e.g. multi-
+ 2510/08    . for corrosion prevention
+ 2510/10    . for preventing carbon deposits, e.g. chromium
+ 2510/12    . for smell removal
+ 2530/00    Selection of materials for tubes, chambers or
+ 2530/02    . Corrosion resistive metals
+ 2530/04    . . Steel alloys, e.g. stainless steel
+ 2530/06    . Aluminium or alloys thereof
+ 2530/18    . Plastics material, e.g. polyester resin
+ 2530/20    . . reinforced with mineral or metallic fibres
+ 2530/22    . Flexible elastomeric material
+ 2530/24    . Sintered porous material, e.g. bronze, aluminium or
+ 2530/26    . Multi-layered walls
+ 2550/00    Monitoring or diagnosing the deterioration of
+ 2550/02    . Catalytic activity of catalytic converters
+ 2550/03    . of sorbing activity of adsorbents or absorbents
+ 2550/04    . Filtering activity of particulate filters
+ 2550/05    . Systems for adding substances into exhaust
+ 2550/10    . . of catalytic converters
+ 2550/12    . . of particulate filters
+ 2550/14    . Systems for adding secondary air into exhaust
+ 2550/20    . Monitoring artificially aged exhaust systems
+ 2550/22    . of electric heaters for exhaust systems or their
+ 2550/24    . Determining the presence or absence of an exhaust
+ 2560/00    Exhaust systems with means for detecting
+or measuring exhaust gas components or
+ 2560/02    . the means being an exhaust gas sensor
+ 2560/021   . . for measuring or detecting ammonia NH3
+ 2560/022   . . for measuring or detecting CO or CO2
+ 2560/023   . . for measuring or detecting HC
+ 2560/024   . . for measuring or detecting hydrogen H2
+ 2560/025   . . for measuring or detecting O2, e.g. lambda
+ 2560/026   . . for measuring or detecting NOx
+ 2560/027   . . for measuring or detecting SOx
+ 2560/028   . . for measuring or detecting humidity or water
+ 2560/05    . the means being a particulate sensor
+ 2560/06    . the means being a temperature sensor
+ 2560/07    . the means being an exhaust gas flow rate or
+velocity meter or sensor, intake flow meters only
+when exclusively used to determine exhaust gas
+ 2560/08    . the means being a pressure sensor
+ 2560/12    . Other sensor principles, e.g. using electro
+conductivity of substrate or radio frequency
+ 2560/14    . having more than one sensor of one kind
+ 2560/20    . Sensor having heating means
+ 2570/00    Exhaust treating apparatus eliminating, absorbing
+or adsorbing specific elements or compounds
+ 2570/04    . Sulfur or sulfur oxides
+ 2570/10    . Carbon or carbon oxides
+ 2570/145   . . Dinitrogen oxide
+ 2570/22    . Water or humidity
+ 2570/24    . Hydrogen sulfide (H2S)
+ 2590/00    Exhaust or silencing apparatus adapted to
+particular use, e.g. for military applications,
+ 2590/02    . for marine vessels or naval applications
+ 2590/021   . . for outboard engines
+ 2590/06    . for hand-held tools or portables devices
+ 2590/08    . for heavy duty applications, e.g. trucks, buses,
+ 2590/10    . for stationary applications
+ 2590/11    . for hybrid vehicles
+ 2610/00    Adding substances to exhaust gases
+ 2610/01    . the substance being catalytic material in liquid form
+ 2610/02    . the substance being ammonia or urea
+ 2610/03    . the substance being hydrocarbons, e.g. engine fuel
+ 2610/04    . the substance being hydrogen
+ 2610/05    . the substance being carbon monoxide
+ 2610/06    . the substance being in the gaseous form
+ 2610/08    . with prior mixing of the substances with a gas, e.g.
+ 2610/085   . . Controlling the air supply
+ 2610/10    . the substance being heated, e.g. by heating tank or
+supply line of the added substance
+ 2610/102   . . after addition to exhaust gases, e.g. by a passively
+or actively heated surface in the exhaust conduit
+ 2610/105   . . Control thereof
+ 2610/107   . . using glow plug heating elements
+ 2610/11    . the substance or part of the dosing system being
+ 2610/12    . the substance being in solid form, e.g. pellets or
+ 2610/14    . Arrangements for the supply of substances, e.g.
+ 2610/1406  . . Storage means for substances, e.g. tanks or
+ 2610/1413  . . . Inlet and filling arrangements therefore
+ 2610/142   . . . Controlling the filling of the tank
+ 2610/1426  . . Filtration means
+ 2610/144   . . . Control thereof
+ 2610/1446  . . Means for damping of pressure fluctuations in
+the delivery system, e.g. by puffer volumes or
+ 2610/1453  . . Sprayers or atomisers; Arrangement thereof in the
+ 2610/146   . . . Control thereof, e.g. control of injectors or
+ 2610/1466  . . Means for venting air out of conduits or tanks
+ 2610/1473  . . Overflow or return means for the substances, e.g.
+conduits or valves for the return path
+ 2610/148   . . Arrangement of sensors
+ 2610/1486  . . Means to prevent the substance from freezing
+ 2610/1493  . . Purging the reducing agent out of the conduits or
+ 2900/00    Details of electrical control or of the monitoring of
+the exhaust gas treating apparatus
+ 2900/04    . Methods of control or diagnosing
+ 2900/0402  . . using adaptive learning
+ 2900/0404  . . using a data filter
+ 2900/0406  . . using a model with a division of the catalyst or
+ 2900/0408  . . using a feed-back loop
+ 2900/0411  . . using a feed-forward control
+ 2900/0412  . . using pre-calibrated maps, tables or charts
+ 2900/0414  . . using a state observer
+ 2900/0416  . . using the state of a sensor, e.g. of an exhaust gas
+ 2900/0418  . . using integration or an accumulated value within
+ 2900/0421  . . using an increment counter when a predetermined
+ 2900/0422  . . measuring the elapsed time
+ 2900/06    . Parameters used for exhaust control or diagnosing
+ 2900/0601  . . being estimated
+ 2900/0602  . . Electrical exhaust heater signals
+ 2900/08    . . said parameters being related to the engine
+ 2900/10    . . said parameters being related to the vehicle or its
+ 2900/102   . . . Travelling distance
+ 2900/104   . . . Battery status
+ 2900/12    . . said parameters being related to the vehicle
+ 2900/14    . . said parameters being related to the exhaust gas
+ 2900/1402  . . . Exhaust gas composition
+ 2900/1404  . . . Exhaust gas temperature
+ 2900/1406  . . . Exhaust gas pressure
+ 2900/1411  . . . Exhaust gas flow rate, e.g. mass flow rate or
+ 2900/16    . . said parameters being related to the exhaust
+apparatus, e.g. particulate filter or catalyst
+ 2900/1602  . . . Temperature of exhaust gas apparatus
+ 2900/1606  . . . Particle filter loading or soot amount
+ 2900/1611  . . . Particle filter ash amount
+ 2900/1612  . . . SOx amount trapped in catalyst
+ 2900/1614  . . . NOx amount trapped in catalyst
+ 2900/1616  . . . NH3-slip from catalyst
+ 2900/1618  . . . HC-slip from catalyst
+ 2900/1621  . . . Catalyst conversion efficiency
+ 2900/1622  . . . Catalyst reducing agent absorption capacity or
+ 2900/1624  . . . Catalyst oxygen storage capacity
+ 2900/1626  . . . Catalyst activation temperature
+ 2900/1628  . . . Moisture amount in exhaust apparatus
+ 2900/1631  . . . Heat amount provided to exhaust apparatus
+ 2900/18    . . said parameters being related to the system for
+adding a substance into the exhaust
+ 2900/1804  . . . Properties of secondary air added directly to the
+ 2900/1806  . . . Properties of reducing agent or dosing system
+ 2900/1811  . . . . Temperature
+ 2900/1818  . . . . Concentration of the reducing agent
+ 2900/1821  . . . . Injector parameters
+ 2900/1822  . . . . Pump parameters
+ 2900/1824  . . . . Properties of the air to be mixed with
+added substances, e.g. air pressure or air

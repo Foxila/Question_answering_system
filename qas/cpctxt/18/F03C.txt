@@ -1,0 +1,190 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+MACHINES OR ENGINES FOR LIQUIDS; WIND, SPRING, OR WEIGHT MOTORS;
+PRODUCING MECHANICAL POWER OR A REACTIVE PROPULSIVE THRUST,
+POSITIVE-DISPLACEMENT ENGINES DRIVEN BY LIQUIDS (positive- displacement
+engines for liquids and elastic fluids F01; positive- displacement machines for liquids F04; fluid-
+pressure actuators F15B; fluid gearing F16H)
+Attention is drawn to the notes preceding class F01, especially as regards the meanings of "positive displacement", "rotary-
+piston machines", "oscillating-piston machines", "rotary-piston", "co-operating members", "movement of co-operating
+members", "teeth or tooth-equivalents", and "internal axis".
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+F03C 1/0409, F03C 1/0631, F03C 1/0668
+F03C 1/0415, F03C 1/0626, F03C 1/0652
+F03C 1/0435, F03C 1/0615, F03C 1/0655
+F03C 1/0435, F03C 1/0615, F03C 1/0655
+F03C 1/0435, F03C 1/0615, F03C 1/0655
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Reciprocating-piston liquid engines
+    1/001   . {the movement in two directions being obtained by
+two or more double-acting piston liquid motors}
+    1/002   . {details; components parts}
+    1/004   . . {speed-control}
+    1/005   . . {motor piston stroke control}
+    1/007   . with single cylinder, double-acting piston
+    1/0073  . . {one side of the double-acting piston being
+always under the influence of the liquid under
+    1/0076  . . . {the liquid under pressure being continuously
+delivered to one cylinder chamber through
+a valve in the piston for actuating the return
+    1/013   . with single cylinder, single-acting piston
+    1/0135  . . {with actuation of the return stroke by gravity}
+    1/02    . with multiple-cylinders, characterised by the
+number or arrangement of cylinders (with movable
+cylinders F03C 1/22; of flexible-wall type
+    1/03    . . with movement in two directions being obtained
+by two single-acting piston liquid engines, each
+    1/035   . . . {one single-acting piston being always under
+the influence of the liquid under pressure}
+    1/04    . . with cylinders in star or fan arrangement
+    1/0403  . . . {Details, component parts specially adapted of
+    1/0412  . . . . . {consisting of several cylindrical elements,
+    1/0415  . . . . {Cylinders}
+    1/0419  . . . . {Arrangements for pressing or connecting
+the pistons against the actuated cam}
+    1/0422  . . . . . {hydraulically}
+    1/0425  . . . . {Disconnecting the pistons from the actuated
+    1/0428  . . . . {Supporting and guiding means for the
+    1/0431  . . . . {Draining of the engine housing;
+arrangements dealing with leakage fluid}
+    1/0435  . . . . {Particularities relating to the distribution
+members (F03C 1/0472, F03C 1/0531, and
+    1/0438  . . . . . {to cylindrical distribution members}
+    1/0441  . . . . . {to conical distribution members}
+    1/0444  . . . . . {to plate-like distribution members}
+    1/0447  . . . {Controlling}
+    1/045   . . . . {by using a valve in a system with several
+pump or motor chambers, wherein the flow
+path through the chambers can be changed,
+    1/0454  . . . . {by changing the effective cross sectional
+    1/0457  . . . . {by changing the effective piston stroke}
+    1/046   . . . . . {by changing the excentricity of one
+element relative to another element}
+    1/0463  . . . . {by changing the phase relationship between
+    1/0466  . . . . {by changing the phase relationship between
+the actuated cam and the distributing means}
+    1/047   . . . the pistons co-operating with an actuated
+element at the outer ends of the cylinders
+    1/0472  . . . . {with cam-actuated distribution members}
+    1/0474  . . . . {with two or more radial piston/cylinder
+    1/0476  . . . . . {directly located side by side}
+    1/0478  . . . . . {having several cylinder barrels coupled
+    1/053   . . . the pistons co-operating with an actuated
+element at the inner ends of the cylinders
+    1/0531  . . . . {with cam-actuated distribution members}
+    1/0533  . . . . . {each piston being provided with channels
+coacting with the cylinder and being used
+as a distribution member for another
+    1/0535  . . . . {with two or more radial piston/cylinder
+    1/0536  . . . . . {directly located side by side}
+    1/0538  . . . . {the piston-driven cams being provided with
+    1/06    . . with cylinder axes generally coaxial with, or
+parallel or inclined to, main shaft axis
+    1/0602  . . . {Component parts, details}
+    1/0605  . . . . {Adaptations of pistons (pump pistons
+    1/0607  . . . . {Driven means}
+    1/061   . . . {having stationary cylinders}
+    1/0613  . . . . {having two or more sets of cylinders or
+    1/0615  . . . . {distributing members}
+    1/0618  . . . . . {cylindrical distribution members}
+    1/0621  . . . . . {conical distribution members}
+    1/0623  . . . . {Details, component parts}
+    1/0626  . . . . . {Cylinders}
+    1/0628  . . . . . {Casings, housings}
+    1/0631  . . . . . {Wobbler or actuated element}
+    1/0634  . . . . . . {Actuated element bearing means or
+    1/0636  . . . {having rotary cylinder block}
+    1/0639  . . . . {having two or more sets of cylinders or
+    1/0642  . . . . . {inclined on main shaft axis}
+    1/0644  . . . . {Component parts}
+    1/0647  . . . . . {Particularities in the contacting area
+between cylinder barrel and valve plate}
+    1/0649  . . . . . . {Bearing means}
+    1/0652  . . . . . {Cylinders}
+    1/0655  . . . . . {Valve means}
+    1/0657  . . . . . . {Cylindrical valve means}
+    1/066   . . . . . . {Conical valve means}
+    1/0663  . . . . . {Casings, housings}
+    1/0665  . . . . . . {Cylinder barrel bearing means}
+    1/0668  . . . . . {Swash or actuated plate}
+    1/0671  . . . . . . {Swash or actuated plate bearing means
+    1/0673  . . . . {Connection between rotating cylinder and
+    1/0676  . . . . {Arrangement for pressing the cylinder
+barrel against the valve plate}
+    1/0681  . . . . {using a valve in a system with several motor
+chambers, wherein the flow path through the
+    1/0684  . . . . {using a by-pass valve}
+    1/0686  . . . . {by changing the inclination of the swash
+    1/0689  . . . . . {using wedges}
+    1/0692  . . . . {by changing the phase relationship between
+the actuated element and the distribution
+means, e.g. turning the valve plate; turning
+    1/0694  . . . . {by changing the inclination of the axis of
+the cylinder barrel in relation to the axis of
+    1/0697  . . . . {responsive to the speed}
+    1/08    . Distributing valve-gear peculiar thereto (for engines
+with positive-displacement in general F01L;
+    1/10    . . actuated by piston or piston-rod
+    1/14    . . by driving liquid of engine
+    1/16    . . Speed controlling, equalising or cushioning
+    1/20    . . specially adapted for engines generating vibration
+    1/22    . with movable cylinders {or cylinder}
+    1/223   . . {having cylinders in star or fan arrangement,
+the connection of the pistons with an actuated
+element being at the inner ends of the cylinders}
+    1/226   . . . {with cam actuated distribution members}
+    1/24    . . in which the liquid exclusively displaces one or
+more pistons reciprocating in rotary cylinders
+{(F03C 1/0636 takes precedence)}
+    1/2407  . . . {having cylinders in star or fan arrangement,
+the connection of the pistons with an actuated
+element being at the outer ends of the
+    1/2415  . . . . {cylinder block and actuated cam both
+rotating (F03C 1/2431 and F03C 1/2446 take
+    1/2423  . . . . {with two or more series radial piston-
+    1/2431  . . . . . {cylinder block and actuated cam both
+rotating (F03C 1/2446 takes precedence)}
+    1/2438  . . . . . {directly located side by side}
+    1/2446  . . . . . . {cylinder block and actuated cam both
+    1/2454  . . . {having cylinders in star or fan arrangement,
+the connection of the pistons with an actuated
+element being at the inner ends of the
+    1/2462  . . . {the rotary cylinder being provided with only
+one piston reciprocating within this cylinder}
+    1/247   . . . with cylinders in star- or fan-arrangement
+{, the connection of the pistons with an
+actuated element being at the outer ends of the
+    1/26    . adapted for special use or combined with apparatus
+driven thereby (aspects predominantly concerning
+the driven apparatus see the relevant classes for
+    2/00    Rotary-piston engines (in which the liquid
+exclusively displaces one or more piston reciprocating
+Group F03C 2/30 takes precedence over groups
+    2/02    . of arcuate-engagement type, i.e. with circular
+translatory movement of co-operating members,
+each member having the same number of teeth or
+    2/08    . of intermeshing-engagement type, i.e. with
+engagement of co- operating members similar to
+    2/22    . of internal-axis type with equidirectional
+movement of co-operating members at the points
+of engagement, or with one of the co-operating
+members being stationary, the inner member having
+more teeth or tooth- equivalents than the outer
+    2/24    . of counter-engagement type, i.e. the movement of
+co-operating members at the points of engagement
+    2/30    . having the characteristics covered by two or more
+of groups F03C 2/02, F03C 2/08, F03C 2/22,
+F03C 2/24 or having the characteristics covered by
+one of these groups together with some other type of
+movement between co-operating members
+    2/302   . . {having both the movements defined in sub-
+groups F03C 2/02 and relative reciprocation
+    2/304   . . {having both the movements defined in sub-
+group F03C 2/08 or F03C 2/22 and relative
+    2/306   . . {having both the movements defined in sub-
+groups F03C 2/22 and F03C 2/24}
+    2/308   . . {having the movement defined in F03C 2/08 and
+    4/00    Oscillating-piston engines
+    7/00    Engines of flexible-wall type
+   99/00    Subject matter not provided for in other groups of
+   99/005   . {Free-piston type engines}

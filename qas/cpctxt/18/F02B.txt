@@ -1,0 +1,901 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+COMBUSTION ENGINES; HOT-GAS OR COMBUSTION-PRODUCT ENGINE
+INTERNAL-COMBUSTION PISTON ENGINES; COMBUSTION ENGINES IN
+GENERAL (gas-turbine plants F02C; hot-gas or combustion-product positive-displacement
+1. In this subclass, the following terms or expressions are used with the meanings indicated:
+• "positive ignition" means ignition by a source external to the working fluid, e.g. by spark or incandescent source;
+• "charging" means forcing air or fuel-air mixture into engine cylinders, and thus includes supercharging;
+• "scavenging" means forcing the combustion residues from the cylinders other than by movement of the working pistons,
+and thus includes tuned exhaust systems.
+2. Attention is drawn to the Notes preceding class F01, especially as regards Note (1).
+3. Engines with specified cycles or number of cylinders are classified in group F02B 75/02 or F02B 75/16, unless other
+classifying features predominate.
+{In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+Engines characterised by the working fluid to be compressed or
+characterised by the type of ignition
+    1/00    Engines characterised by fuel-air mixture
+compression (characterised by both fuel-air mixture
+compression and air compression, or characterised
+by both positive ignition and compression ignition
+in this group the following indexing codes are
+    1/02    . with positive ignition (with non-timed positive
+    1/04    . . with fuel-air mixture admission into cylinder
+    1/06    . . . Methods of operating
+    1/08    . . with separate admission of air and fuel into
+    1/10    . . . Methods of operating
+    1/12    . with compression ignition (with fuel-air charge
+ignited by compression ignition of an additional fuel
+    1/14    . . Methods of operating
+    3/00    Engines characterised by air compression and
+subsequent fuel addition (characterised by both
+fuel-air mixture compression and air compression,
+or characterised by both positive ignition and
+compression ignition F02B 11/00)
+in this group the following indexing codes are
+    3/02    . with positive ignition (with non-timed positive
+    3/04    . . Methods of operating
+    3/06    . with compression ignition (compression ignition
+engines using air or gas for blowing fuel into
+compressed air in cylinder F02B 13/02)
+    3/08    . . Methods of operating (F02B 3/12 takes
+    3/10    . . with intermittent fuel introduction
+    3/12    . . . Methods of operating
+    5/00    Engines characterised by positive ignition (engines
+characterised by fuel-air mixture compression with
+positive ignition F02B 1/02; engines characterised
+by air compression and subsequent fuel addition
+with positive ignition F02B 3/02; with non-timed
+positive ignition F02B 9/06; characterised by both
+fuel-air mixture compression and air compression,
+or characterised by both positive ignition and
+compression ignition F02B 11/00)
+    5/02    . Methods of operating
+1Engines characterised by the working fluid to be compressed or characterised by the type of ignition
+    7/00    Engines characterised by the fuel-air charge being
+ignited by compression ignition of an additional
+fuel (characterised by both fuel-air mixture
+compression and air compression, or characterised
+by both positive ignition and compression ignition
+    7/02    . the fuel in the charge being liquid
+    7/04    . . Methods of operating
+    7/06    . the fuel in the charge being gaseous
+    7/08    . . Methods of operating
+    9/00    Engines characterised by other types of ignition
+(characterised by both fuel-air mixture compression
+and air compression, or characterised by both positive
+ignition and compression ignition F02B 11/00)
+- in this group the following indexing codes are
+    9/02    . with compression ignition (engines characterised
+by fuel-air mixture compression with compression
+ignition F02B 1/12; engines characterised by air
+compression and subsequent fuel addition with
+compression ignition F02B 3/06)
+    9/04    . . Methods of operating
+    9/06    . with non-timed positive ignition, e.g. with hot-spots
+    9/08    . . with incandescent chambers
+    9/10    . . . Chamber shapes or constructions
+   11/00    Engines characterised by both fuel-air mixture
+compression and air compression, or characterised
+by both positive ignition and compression ignition,
+   11/02    . convertible from fuel-air mixture compression to air
+Engines characterised by the method of introducing liquid fuel
+   13/00    Engines characterised by the introduction of liquid
+fuel into cylinders by use of auxiliary fluid
+   13/02    . Compression ignition engines using air or gas for
+blowing fuel into compressed air in cylinder
+   13/04    . . Arrangements or adaptations of pumps
+   13/06    . Engines having secondary air mixed with fuel in
+pump, compressed therein without ignition, and
+fuel-air mixture being injected into air in cylinder
+   13/08    . . Arrangements or adaptations of pumps
+   13/10    . Use of specific auxiliary fluids, e.g. steam,
+   15/00    Engines characterised by the method of
+introducing liquid fuel into cylinders and not
+   15/02    . having means for sucking fuel directly into cylinder
+   17/00    Engines characterised by means for effecting
+stratification of charge in cylinders
+   17/005   . {having direct injection in the combustion chamber}
+Engines characterised by precombustion chambers or air-storage
+chambers, or characterised by special shape or construction of
+combustion chambers to improve operation
+   19/00    Engines characterised by precombustion chambers
+ 2019/002   . {with electric heater fitted to at least part of
+prechamber-wall or transfer passage}
+ 2019/004   . . {with heater control}
+ 2019/006   . {with thermal insulation}
+   19/02    . the chamber being periodically isolated from its
+   19/04    . . the isolation being effected by a protuberance on
+   19/06    . with auxiliary piston in chamber for transferring
+ignited charge to cylinder space
+   19/08    . the chamber being of air-swirl type
+   19/10    . with fuel introduced partly into pre-combustion
+chamber, and partly into cylinder
+   19/1004  . . {details of combustion chamber, e.g. mounting
+   19/1009  . . . {heating, cooling}
+   19/1014  . . . {design parameters, e.g. volume, torch passage
+cross sectional area, length, orientation, or the
+   19/1019  . . {with only one pre-combustion chamber
+(F02B 19/1004 take precedence)}
+   19/1023  . . . {pre-combustion chamber and cylinder being
+   19/1028  . . . . {pre-combustion chamber and cylinder
+having both intake ports or valves, e.g.
+   19/1033  . . . . . {specially adapted valves, e.g. rotary
+valves, pre-combustion chamber being part
+   19/1038  . . . . . {timing of valves}
+   19/1042  . . . . . {auxiliary intake, valve drive}
+   19/1047  . . . . . {means for varying the size of the torch
+   19/1052  . . . . . {controlling, e.g. varying fuel-air ratio,
+   19/1057  . . . . . {with fuel injectors disposed upstream of
+   19/1061  . . . . . {with residual gas chamber, e.g.
+   19/1066  . . . . {pre-combustion chamber having an inlet
+and an outlet port and with two distinct
+intake conduits or with one intake conduit in
+which the heavier fuel particles are separated
+from the main stream, e.g. by gravitational
+   19/1071  . . . . {pre-combustion chamber having only one
+orifice,(i.e. an orifice by means of which
+it communicates with the cylinder); the
+intake system comprising two distinct intake
+   19/1076  . . . . {pre-combustion chamber being formed
+within the piston, e.g. two-cycle engines}
+   19/108   . . . {with fuel injection at least into pre-combustion
+chamber, i.e. injector mounted directly in the
+   19/1085  . . . . {controlling fuel injection}
+   19/109   . . . {with injection of a fuel-air mixture into the
+pre-combustion chamber by means of a pump,
+2Engines characterised by precombustion chambers or air-storage chambers, or characterised by special
+   19/1095  . . {with more than one pre-combustion chamber (a
+stepped form of the main combustion chamber
+above the piston is to be considered as a pre-
+combustion chamber if this stepped portion is not
+   19/12    . with positive ignition (engines with non-timed
+positive ignition, and with incandescent chambers
+   19/14    . with compression ignition
+   19/16    . Chamber shapes or constructions not specific to
+sub-groups F02B 19/02 - F02B 19/10
+   19/165   . . {The shape or construction of the pre-
+combustion chambers is specially adapted to
+be formed, at least in part, of ceramic material
+(surface coverings of combustion-gas-swept
+parts F02B 77/02; shaped ceramic products
+characterised by their composition or ceramic
+compositions C04B 35/00; ceramic material for
+   19/18    . . Transfer passages between chamber and cylinder
+   21/00    Engines characterised by air-storage chambers
+   21/02    . Chamber shapes or constructions
+   23/00    Other engines characterised by special shape or
+construction of combustion chambers to improve
+operation (engines with incandescent chambers
+- in this group the following indexing codes are
+   23/02    . with compression ignition
+   23/04    . . the combustion space being subdivided into
+two or more chambers (with pre-combustion
+   23/06    . . the combustion space being arranged in working
+piston (F02B 23/04 takes precedence)
+   23/0603  . . . {at least part of the interior volume or the wall
+of the combustion space being made of material
+different from the surrounding piston part, e.g.
+combustion space formed within a ceramic part
+ 2023/0606  . . . . {the material being a catalyst}
+ 2023/0609  . . . . {the material being a porous medium, e.g.
+ 2023/0612  . . . . {the material having a high temperature and
+pressure resistance, e.g. ceramic}
+ 2023/0615  . . . {the combustion space having a volume
+defined by revolution around an axis inclined
+   23/0618  . . . {having in-cylinder means to influence the
+   23/0621  . . . . {Squish flow}
+   23/0624  . . . . {Swirl flow}
+   23/0627  . . . . {having additional bores or grooves
+machined into the piston for guiding air or
+charge flow to the piston bowl}
+   23/063   . . . . {the combustion space in the piston
+interacting fluid dynamically with the
+cylinder head, the injector body or
+the cylinder wall (F02B 23/04 takes
+   23/0633  . . . {the combustion space being almost completely
+enclosed in the piston, i.e. having a small inlet
+   23/0636  . . . {the combustion space having a substantially
+   23/0639  . . . . {the combustion space having substantially
+   23/0642  . . . {the depth of the combustion space being much
+smaller than the diameter of the piston, e.g.
+the depth being in the order of one tenth of the
+   23/0645  . . . {Details related to the fuel injector or the fuel
+   23/0648  . . . . {Means or methods to improve the spray
+dispersion, evaporation or ignition}
+   23/0651  . . . . . {the fuel spray impinging on reflecting
+surfaces or being specially guided
+throughout the combustion space}
+   23/0654  . . . . {Thermal treatments, e.g. with heating
+   23/0657  . . . . . {the spray interacting with one or more
+   23/066   . . . . {the injector being located substantially off-
+set from the cylinder centre axis}
+   23/0663  . . . . {having multiple injectors per combustion
+   23/0666  . . . . {having a single fuel spray jet per injector
+   23/0669  . . . . {having multiple fuel spray jets per injector
+   23/0672  . . . {Omega-piston bowl, i.e. the combustion space
+having a central projection pointing towards
+the cylinder head and the surrounding wall
+being inclined towards the cylinder center axis
+(the surrounding wall being exactly vertical
+   23/0675  . . . {the combustion space being substantially
+spherical, hemispherical, ellipsoid or parabolic}
+   23/0678  . . . {Unconventional, complex or non-rotationally
+symmetrical shapes of the combustion space,
+e.g. flower like, having special shapes related
+to the orientation of the fuel spray jets}
+   23/0681  . . . . {Square, rectangular or the like profiles}
+   23/0684  . . . . {Ring like bowl, e.g. toroidal}
+   23/0687  . . . . {Multiple bowls in the piston, e.g. one bowl
+   23/069   . . . . {characterised by its eccentricity from the
+   23/0693  . . . . {the combustion space consisting of step-
+wise widened multiple zones of different
+   23/0696  . . . {W-piston bowl, i.e. the combustion space
+having a central projection pointing towards the
+cylinder head and the surrounding wall being
+inclined towards the cylinder wall}
+   23/08    . with positive ignition
+ 2023/085   . . {using several spark plugs per cylinder}
+   23/10    . . with separate admission of air and fuel into
+   23/101   . . . {the injector being placed on or close to
+the cylinder centre axis, e.g. with mixture
+formation using spray guided concepts}
+ 2023/102   . . . {the spark plug being placed offset the cylinder
+3Engines characterised by precombustion chambers or air-storage chambers, or characterised by special
+ 2023/103   . . . {the injector having a multi-hole nozzle for
+   23/104   . . . {the injector being placed on a side position of
+   23/105   . . . . {the fuel is sprayed directly onto or close to
+ 2023/106   . . . {Tumble flow, i.e. the axis of rotation of the
+main charge flow motion is horizontal}
+ 2023/107   . . . . {Reverse tumble flow, e.g. having
+substantially vertical intake ports}
+ 2023/108   . . . {Swirl flow, i.e. the axis of rotation of the main
+charge flow motion is vertical}
+Engines characterised by provision for charging or scavenging
+   25/00    Engines characterised by using fresh charge for
+- in this group the following indexing codes are
+   25/02    . using unidirectional scavenging
+   25/04    . . Engines having ports both in cylinder head and in
+cylinder wall near bottom of piston stroke
+   25/06    . . . the cylinder-head ports being controlled
+by working pistons, e.g. by sleeve-shaped
+   25/08    . . Engines with oppositely-moving reciprocating
+   25/10    . . . with one piston having a smaller diameter or
+   25/12    . . Engines with U-shaped cylinders, having ports in
+   25/14    . using reverse-flow scavenging, e.g. with both outlet
+and inlet ports arranged near bottom of piston stroke
+   25/145   . . {with intake and exhaust valves exclusively in the
+   25/16    . . the charge flowing upward essentially
+along cylinder wall opposite the inlet ports
+{(F02B 25/145 takes precedence)}
+   25/18    . . the charge flowing upward essentially along
+cylinder wall adjacent the inlet ports, e.g. by
+means of deflection rib on piston {(F02B 25/145
+   25/20    . Means for reducing the mixing of charge and
+combustion residues or for preventing escape of
+fresh charge through outlet ports not provided
+for in, or of interest apart from, subgroups
+   25/22    . . by forming air cushion between charge and
+   25/24    . . Inlet or outlet openings being timed
+asymmetrically relative to bottom dead-centre
+   25/26    . Multi-cylinder engines other than those
+provided for in, or of interest apart from, groups
+F02B 25/02 - F02B 25/24 (internal-combustion
+aspects of rotary engines F02B 57/00)
+   25/28    . . with V-, fan-, or star-arrangement of cylinders
+   27/00    Use of kinetic or wave energy of charge in
+induction systems, or of combustion residues in
+exhaust systems, for improving quantity of charge
+or for increasing removal of combustion residues
+   27/001   . {the system having electrically controlled acoustic
+pulse generating devices, e.g. loudspeakers}
+   27/003   . {using check valves}
+   27/005   . {Oscillating pipes with charging achieved by
+arrangement, dimensions or shapes of intakes pipes
+   27/006   . . {of intake runners}
+   27/008   . {Resonance charging}
+   27/02    . the systems having variable, i.e. adjustable, cross-
+sectional areas, chambers of variable volume,
+or like variable means (in exhaust systems only
+   27/0205  . . {characterised by the charging effect}
+   27/021   . . . {Resonance charging (combined with
+oscillating pipe charging F02B 27/0221)}
+   27/0215  . . . {Oscillating pipe charging, i.e. variable intake
+   27/0221  . . . . {Resonance charging combined with
+   27/0226  . . {characterised by the means generating the
+   27/0231  . . . {Movable ducts, walls or the like
+(F02B 27/0257 takes precedence)}
+   27/0236  . . . . {with continuously variable adjustment of a
+   27/0242  . . . {Fluid communication passages between intake
+   27/0247  . . . {Plenum chambers; Resonance chambers or
+   27/0252  . . . . {Multiple plenum chambers or plenum
+chambers having inner separation walls, e.g.
+comprising valves for the same group of
+   27/0257  . . . . {Rotatable plenum chambers}
+   27/0263  . . . . {the plenum chamber and at least one
+of the intake ducts having a common
+wall, and the intake ducts wrap partially
+around the plenum chamber, i.e. snail-type
+(F02B 27/0257 takes precedence)}
+   27/0273  . . . . {Flap valves}
+   27/0278  . . . . {Multi-way valves}
+   27/0284  . . . . {Rotary slide valves}
+   27/0289  . . . {Intake runners having multiple intake valves
+   27/0294  . . {Actuators or controllers therefor; Diagnosis;
+   27/04    . in exhaust systems only, e.g. for sucking-off
+   27/06    . . the systems having variable, i.e. adjustable, cross-
+sectional areas, chambers of variable volume, or
+   29/00    Engines characterised by provision for charging or
+scavenging not provided for in groups F02B 25/00,
+F02B 27/00 or F02B 33/00 - F02B 39/00; Details
+   29/02    . Other fluid-dynamic features of induction systems
+for improving quantity of charge (for also imparting
+a rotation to the charge in the cylinder F02B 31/00)
+   29/04    . Cooling of air intake supply
+   29/0406  . . {Layout of the intake air cooling or coolant
+   29/0412  . . . {Multiple heat exchangers arranged in parallel
+4Engines characterised by provision for charging or scavenging
+   29/0418  . . . {the intake air cooler having a bypass or
+multiple flow paths within the heat exchanger
+to vary the effective heat transfer surface}
+   29/0425  . . . {Air cooled heat exchangers}
+   29/0431  . . . . {Details or means to guide the ambient air to
+the heat exchanger, e.g. having a fan, flaps,
+a bypass or a special location in the engine
+   29/0437  . . . {Liquid cooled heat exchangers}
+   29/0443  . . . . {Layout of the coolant or refrigerant circuit}
+   29/045   . . {Constructional details of the heat exchangers,
+e.g. pipes, plates, ribs, insulation, materials, or
+   29/0456  . . . {Air cooled heat exchangers}
+   29/0462  . . . {Liquid cooled heat exchangers}
+   29/0468  . . . {Water separation or drainage means}
+   29/0475  . . . {the intake air cooler being combined with
+another device, e.g. heater, valve, compressor,
+filter or EGR cooler, or being assembled on a
+   29/0481  . . {Intake air cooling by means others than heat
+exchangers, e.g. by rotating drum regenerators,
+cooling by expansion or by electrical means}
+   29/0493  . . {Controlling the air charge temperature}
+   29/06    . After-charging, i.e. supplementary charging after
+   29/08    . Modifying distribution valve timing for charging
+purposes (F02B 29/06 takes precedence)
+   29/083   . . {Cyclically operated valves disposed upstream of
+the cylinder intake valve, controlled by external
+   29/086   . . {the engine having two or more inlet valves}
+   31/00    Modifying induction systems for imparting a
+rotation to the charge in the cylinder (air intakes
+or induction systems for internal-combustion engines
+ 2031/003   . {with an auxiliary intake conduit starting upstream
+of personally controlled throttle valve and ending
+upstream of and close to the intake valve, or with
+an auxiliary intake conduit being an independent
+passage, e.g. having its own carburettor}
+ 2031/006   . {having multiple air intake valves}
+   31/02    . in engines having inlet valves arranged eccentrically
+   31/04    . by means within the induction channel, e.g.
+   31/06    . . Movable means, e.g. butterfly valves
+   31/08    . . . having multiple air inlets {, i.e. having main
+   31/082   . . . . {the main passage having a helical shape
+around the intake valve axis; Engines
+characterised by provision of driven charging
+or scavenging pumps (introducing fuel into
+cylinders by air-pressure F02B 13/00; after-
+charging F02B 29/06; arrangements of
+such pumps or other auxiliary apparatus on
+engines F02B 67/00; combined engine pump
+control, control dependent on variables other
+than those generic to pump F02D)}
+   31/085   . . . . {having two inlet valves}
+   31/087   . . . . {having three or more inlet valves}
+Engines characterised by provision of driven charging or
+   33/00    Engines characterised by provision of pumps for
+   33/02    . Engines with reciprocating-piston pumps; Engines
+   33/04    . . with simple crankcase pumps, i.e. with the rear
+face of a non-stepped working piston acting as
+sole pumping member in co-operation with the
+   33/06    . . with reciprocating-piston pumps other than
+   33/08    . . . with the working-cylinder head arranged
+between working and pumping cylinders
+   33/10    . . . with the pumping cylinder situated between
+working cylinder and crankcase, or with
+the pumping cylinder surrounding working
+   33/12    . . . . the rear face of working piston acting as
+pumping member and co-operating with a
+pumping chamber isolated from crankcase,
+the connecting-rod passing through the
+chamber and co-operating with movable
+   33/14    . . . . working and pumping pistons forming
+   33/16    . . . . working and pumping pistons having
+   33/18    . . . with crankshaft being arranged between
+   33/20    . . . with pumping-cylinder axis arranged at an
+angle to working-cylinder axis, e.g. at an angle
+   33/22    . . . with pumping cylinder situated at side of
+working cylinder, e.g. the cylinders being
+   33/24    . . with crankcase pumps other than with
+   33/26    . . Four-stroke engines characterised by having
+   33/28    . . Component parts, details or accessories
+of crankcase pumps, not provided for
+in, or of interest apart from, subgroups
+   33/30    . . . Control of inlet or outlet ports
+   33/32    . Engines with pumps other than of reciprocating-
+piston type (with crankcase pumps F02B 33/02)
+   33/34    . . with rotary pumps (with cell-type pressure
+exchangers or the like F02B 33/42)
+   33/36    . . . of positive-displacement type
+   33/38    . . . . of Roots type
+   33/40    . . . of non-positive-displacement type
+   33/42    . . with driven apparatus for immediate conversion
+of combustion gas pressure into pressure of fresh
+charge, e.g. with cell-type pressure exchangers
+   33/44    . Passages conducting the charge from the pump to
+the engine inlet, e.g. reservoirs
+   33/443   . . {Heating of charging air, e.g. for facilitating the
+   33/446   . . {having valves for admission of atmospheric air
+   35/00    Engines characterised by provision of pumps for
+sucking combustion residues from cylinders
+5Engines characterised by provision of driven charging or scavenging pumps
+   35/02    . using rotary pumps
+   37/00    Engines characterised by provision of pumps
+driven at least for part of the time by exhaust
+   37/001   . {using exhaust drives arranged in parallel}
+   37/002   . . {the exhaust supply to one of the exhaust drives
+   37/004   . {with exhaust drives arranged in series}
+   37/005   . {Exhaust driven pumps being combined with an
+exhaust driven auxiliary apparatus, e.g. a ventilator}
+   37/007   . with exhaust-driven pumps arranged in parallel {,
+e.g. at least one pump supplying alternatively}
+   37/013   . with exhaust-driven pumps arranged in series
+   37/02    . Gas passages between engine outlet and pump
+   37/025   . . {Multiple scrolls or multiple gas passages guiding
+   37/04    . Engines with exhaust drive and other drive
+of pumps, e.g. with exhaust-driven pump and
+mechanically-driven second pump
+   37/10    . . at least one pump being alternatively {or
+simultaneously} driven by exhaust and other
+drive, {e.g. by pressurised fluid from a reservoir
+   37/105   . . . {exhaust drive and pump being both connected
+through gearing to engine-driven shaft}
+   37/11    . . driven by other drive at starting only
+   37/12    . Control of the pumps
+ 2037/122   . . {Control of rotational speed of the pump}
+ 2037/125   . . {Control for avoiding pump stall or surge}
+   37/14    . . {Control} of the alternation between {or the
+operation of} exhaust drive and other drive of a
+   37/16    . . by bypassing charging air
+   37/162   . . . {by bypassing, e.g. partially, intake air from
+   37/164   . . . {the bypassed air being used in an auxiliary
+apparatus, e.g. in an air turbine}
+   37/166   . . . . {the auxiliary apparatus being a combustion
+chamber, e.g. upstream of turbine}
+   37/168   . . . {into the exhaust conduit (F02B 37/166 takes
+   37/18    . . by bypassing exhaust {from the inlet to the outlet
+of turbine or to the atmosphere}
+   37/183   . . . {Arrangements of bypass valves or actuators
+   37/186   . . . . {Arrangements of actuators or linkage for
+   37/20    . . by increasing exhaust energy, e.g. using
+combustion chamber {by after-burning (using
+an auxiliary combustion chamber supplied by
+   37/22    . . by varying cross-section of exhaust passages or
+air passages {, e.g. by throttling turbine inlets or
+outlets or by varying effective number of guide
+conduits} (F02B 37/24 takes precedence)
+   37/225   . . . {air passages}
+   37/24    . . by using pumps or turbines with adjustable guide
+   39/00    Component parts, details, or accessories relating
+to, driven charging or scavenging pumps, not
+provided for in groups F02B 33/00 - F02B 37/00
+   39/005   . {Cooling of pump drives}
+   39/02    . Drives of pumps (exhaust drives or combined
+exhaust and other drives F02B 37/00); Varying
+   39/04    . . Mechanical drives; Variable-gear-ratio drives
+(non-mechanical pump drives having variable
+   39/06    . . . the engine torque being divided by a
+differential gear for driving a pump and the
+   39/08    . . Non-mechanical drives, e.g. fluid drives having
+   39/085   . . . {the fluid drive using expansion of fluids other
+than exhaust gases, e.g. a Rankine cycle}
+   39/12    . . Drives characterised by use of couplings or
+clutches therein (using fluid slip couplings for
+   39/14    . Lubrication of pumps; Safety measures therefor
+   39/16    . Other safety measures for, or other control of,
+ 2039/162   . . {Control of pump parameters to improve safety
+ 2039/164   . . . {the temperature of the pump, of the pump
+drive or the pumped fluid being limited}
+ 2039/166   . . . {the fluid pressure in the pump or exhaust drive
+ 2039/168   . . . {the rotational speed of pump or exhaust drive
+   41/00    Engines characterised by special means for
+improving conversion of heat or pressure energy
+   41/02    . Engines with prolonged expansion
+   41/04    . . in main cylinders
+   41/06    . . in compound cylinders
+   41/08    . . . Two-stroke compound engines
+   41/10    . . in exhaust turbines (use of exhaust turbines for
+ 2041/12    . . {in jet propulsion apparatus}
+Engines operating on non-liquid fuels; Plants including such
+engines, i.e. combinations of the engine with fuel-generating
+   43/00    Engines characterised by operating on gaseous
+fuels; Plants including such engines (engines
+characterised by the gas-air charge being ignited
+by compression ignition of an additional fuel
+F02B 7/06; engines convertible from gas to other fuel
+- in this group the following indexing codes are
+   43/02    . Engines characterised by means for increasing
+   43/04    . . for improving efficiency of combustion
+   43/06    . . for enlarging charge
+   43/08    . Plants characterised by the engines using gaseous
+fuel generated in the plant from solid fuel, e.g. wood
+   43/10    . Engines or plants characterised by use of other
+specific gases, e.g. acetylene, oxyhydrogen
+ 2043/103   . . {Natural gas, e.g. methane or LNG used as a
+6Engines operating on non-liquid fuels; Plants including such engines, i.e. combinations of the engine
+ 2043/106   . . {Hydrogen obtained by electrolysis}
+   43/12    . . Methods of operating
+   45/00    Engines characterised by operating on non-liquid
+fuels other than gas; Plants including such engines
+(plants involving generation of gaseous fuel from
+solid fuel F02B 43/08; engines convertible from gas
+to other fuel consumption F02B 69/04)
+   45/02    . operating on powdered fuel, e.g. powdered coal
+(operating on fuel containing oxidant F02B 45/06)
+   45/04    . . Plants, e.g. having coal-grinding apparatus
+   45/06    . operating on fuel containing oxidant
+   45/08    . operating on other solid fuels
+   45/10    . operating on mixtures of liquid and non-liquid fuels,
+Methods of operating engines involving specific pre-treating of,
+or adding specific substances to, combustion air, fuel or fuel-air
+mixture of the engines, and not otherwise provided for
+   47/00    Methods of operating engines involving adding
+non-fuel substances or anti-knock agents to
+combustion air, fuel, or fuel-air mixtures of
+   47/02    . the substances being water or steam
+   47/04    . the substances being other than water or steam only
+   47/06    . . the substances including non-airborne oxygen
+   47/08    . . the substances including exhaust gas
+   47/10    . . . Circulation of exhaust gas in closed or semi-
+closed circuits, e.g. with simultaneous addition
+   49/00    Methods of operating air-compressing
+compression-ignition engines involving
+introduction of small quantities of fuel in the form
+of a fine mist into the air in the engine's intake
+   51/00    Other methods of operating engines involving
+pretreating of, or adding substances to,
+combustion air, fuel, or fuel-air mixture of the
+   51/02    . involving catalysts
+   51/04    . involving electricity or magnetism
+   51/06    . involving rays or sound waves
+Internal-combustion aspects of rotary-piston or oscillating-piston
+   53/00    Internal-combustion aspects of rotary-piston or
+oscillating-piston engines (internal-combustion
+aspects of rotary pistons or outer members for co-
+operation therewith F02B 55/00)
+- in this group the following indexing codes are
+   53/02    . Methods of operating
+   53/04    . Charge admission or combustion-gas discharge
+   53/06    . . Valve control therefor
+   53/08    . . Charging, e.g. by means of rotary-piston pump
+   53/10    . Fuel supply; Introducing fuel to combustion space
+   53/14    . Adaptations of engines for driving, or engine
+combinations with, other devices
+   55/00    Internal-combustion aspects of rotary pistons;
+Outer members for co-operation with rotary
+   55/04    . . Cooling thereof
+   55/06    . . . by air or other gas
+   55/08    . Outer members for co-operation with rotary pistons;
+   55/10    . . Cooling thereof
+   55/12    . . . by air or other gas
+   55/14    . Shapes or constructions of combustion chambers
+   55/16    . Admission or exhaust passages in pistons or outer
+Internal-combustion aspects of reciprocating-piston engines with
+   57/00    Internal-combustion aspects of rotary engines in
+which the combusted gases displace one or more
+   57/02    . Fuel or combustion-air supply (cylinder-charge
+admission or exhaust control F02B 57/04)
+   57/04    . Control of cylinder-charge admission or exhaust
+(peculiar to two-stroke engines or to other engines
+with working-piston-controlled charge admission or
+   57/06    . Two-stroke engines or other engines with working-
+piston-controlled cylinder-charge admission or
+exhaust (with combustion space in centre of star
+   57/08    . Engines with star-shaped cylinder arrangements
+   57/085   . . {having two parallel main shafts}
+   57/10    . . with combustion space in centre of star
+   59/00    Internal-combustion aspects of other
+reciprocating-piston engines with movable,
+e.g. oscillating, cylinders (with yieldable walls
+Adaptations of engines for special use; Combinations of engines
+with devices other than engine parts or auxiliaries
+   61/00    Adaptations of engines for driving vehicles or
+for driving propellers; Combinations of engines
+with gearing (the engine torque being divided by a
+differential gear for driving a scavenging or charging
+pump and the engine output shaft F02B 39/06;
+adaptations or combinations of rotary-piston or
+oscillating-piston engines F02B 53/14)
+   61/02    . for driving cycles
+   61/04    . for driving propellers
+   61/045   . . {for outboard marine engines}
+   61/06    . Combinations of engines with mechanical gearing
+(F02B 61/02, F02B 61/04 take precedence)
+   63/00    Adaptations of engines for driving pumps,
+hand-held tools or electric generators; Portable
+combinations of engines with engine-driven
+devices (of rotary-piston or oscillating-piston engines
+   63/02    . for hand-held tools
+   63/04    . for electric generators
+   63/041   . . {Linear electric generators}
+   63/042   . . {Rotating electric generators}
+7Adaptations of engines for special use; Combinations of engines with devices other than engine parts or
+   63/043   . . {Electric generators using oscillating movement}
+   63/044   . . {the engine-generator unit being placed on a
+ 2063/045   . . . {Frames for generator-engine sets}
+ 2063/046   . . . {Handles adapted therefor, e.g. handles or grips
+   63/047   . . . {Movable engine-generator combinations on
+   63/048   . . . {Portable engine-generator combinations}
+   65/00    Adaptations of engines for special uses not
+provided for in groups F02B 61/00 or F02B 63/00;
+Combinations of engines with other devices, e.g.
+with non-driven apparatus (of rotary-piston or
+oscillating-piston engines F02B 53/14; combinations
+of prime-movers consisting of electric motors and
+internal combustion engines for mutual or common
+Engines with pertinent characteristics other than those provided
+for in or of interest apart from, preceding main groups
+   67/00    Engines characterised by the arrangement of
+auxiliary apparatus not being otherwise provided
+for, e.g. the apparatus having different functions;
+Driving auxiliary apparatus from engines, not
+   67/04    . of mechanically-driven auxiliary apparatus
+   67/06    . . driven by means of chains, belts, or like endless
+   67/08    . of non-mechanically driven auxiliary apparatus
+   67/10    . of charging or scavenging apparatus
+   69/00    Internal-combustion engines convertible into
+other combustion-engine type, not provided for
+in F02B 11/00; Internal-combustion engines of
+different types characterised by constructions
+facilitating use of same main engine-parts in
+   69/02    . for different fuel types, other than engines
+indifferent to fuel consumed, e.g. convertible from
+   69/04    . . for gaseous and non-gaseous fuels
+   69/06    . for different cycles, e.g. convertible from two-stroke
+   71/00    Free-piston engines; Engines without rotary main
+   71/04    . Adaptations of such engines for special use;
+Combinations of such engines with apparatus driven
+   71/045   . . {with hydrostatic transmission}
+   71/06    . . Free-piston combustion gas generators per se
+   73/00    Combinations of two or more engines, not
+   75/002   . {Double acting engines}
+   75/005   . {having horizontal cylinders (F02B 75/007 takes
+   75/007   . {having vertical crankshafts}
+   75/02    . Engines characterised by their cycles, e.g. six-stroke
+   75/021   . . {having six or more strokes per cycle}
+ 2075/022   . . {having less than six strokes per cycle}
+   75/04    . Engines with variable distances between pistons at
+top dead-centre positions and cylinder heads
+   75/041   . . {by means of cylinder or cylinderhead
+   75/042   . . . {the cylinderhead comprising a counter-piston}
+   75/044   . . {by means of an adjustable piston length}
+   75/045   . . {by means of a variable connecting rod length}
+   75/047   . . {by means of variable crankshaft position}
+   75/048   . . {by means of a variable crank stroke length}
+   75/06    . Engines with means for equalising torque
+   75/065   . . {with double connecting rods or crankshafts}
+   75/08    . Engines with means for preventing corrosion in gas-
+   75/10    . Engines with means for rendering exhaust gases
+innocuous (apparatus per se F01N 3/00)
+   75/12    . Other methods of operation
+ 2075/125   . . {Direct injection in the combustion chamber for
+spark ignition engines, i.e. not in pre-combustion
+   75/16    . Engines characterised by number of cylinders,
+e.g. single-cylinder engines (F02B 75/26 takes
+   75/18    . . Multi-cylinder engines (scavenging aspects
+ 2075/1804  . . . {Number of cylinders}
+ 2075/1872  . . . . {twenty-two}
+ 2075/1876  . . . . {twenty-four}
+ 2075/1884  . . . . {thirty-two}
+ 2075/1888  . . . . {thirty-four}
+ 2075/1892  . . . . {thirty-six}
+   75/1896  . . . {with two or more pistons connected to one
+crank and having a common combustion space}
+   75/20    . . . with cylinders all in one line
+   75/22    . . . with cylinders in V, fan, or star arrangement
+   75/221   . . . . {with cylinder banks in narrow V-
+arrangement, having a single cylinder head}
+   75/222   . . . . {with cylinders in star arrangement}
+   75/224   . . . . {with cylinders in fan arrangement}
+   75/225   . . . . {having two or more crankshafts}
+8Engines with pertinent characteristics other than those provided for in or of interest apart from, preceding
+   75/227   . . . . {with cylinder banks in X-arrangement, e.g.
+   75/228   . . . . {with cylinders arranged in parallel banks}
+   75/24    . . . with cylinders arranged oppositely relative to
+   75/243   . . . . {with only one crankshaft of the "boxer"
+type, e.g. all connecting rods attached to
+   75/246   . . . . {with only one crankshaft of the "pancake"
+type, e.g. pairs of connecting rods attached to
+   75/26    . Engines with cylinder axes coaxial with, or parallel
+or inclined to, main-shaft axis; Engines with
+cylinder axes arranged substantially tangentially to a
+circle centred on main-shaft axis
+   75/265   . . {Engines with cylinder axes substantially
+tangentially to a circle centred on main-shaft
+   75/28    . Engines with two or more pistons reciprocating
+within same cylinder or within essentially coaxial
+cylinders (arranged oppositely relative to main shaft
+   75/282   . . {the pistons having equal strokes}
+   75/285   . . {comprising a free auxiliary piston}
+   75/287   . . {with several pistons positioned in one cylinder
+   75/30    . . with one working piston sliding inside another
+   75/32    . Engines characterised by connections between
+pistons and main shafts and not specific to
+   75/34    . Ultra-small engines, e.g. for driving models
+   75/36    . Engines with parts of combustion- or working-
+chamber walls resiliently yielding under pressure
+   75/38    . . Reciprocating - piston engines (F02B 75/04
+takes precedence; with resiliently-urged auxiliary
+piston in pre-combustion chamber F02B 19/06)
+   75/40    . Other reciprocating-piston engines
+   77/00    Component parts, details or accessories, not
+   77/02    . Surface coverings of combustion-gas-swept parts
+(of pistons F02F 3/10; of cylinders and cylinder
+   77/04    . Cleaning of, preventing corrosion or erosion in,
+or preventing unwanted deposits in, combustion
+engines {(cleaning of fuel injection apparatus
+ 2077/045   . . {by flushing or rinsing}
+ 2077/06    . {Arrangements of purifying apparatus for liquid fuel
+   77/08    . Safety, indicating or supervising devices (thermal
+insulation F02B 77/11; {rendering engines
+inoperative or idling F02D 17/04; dependent on
+lubricating conditions F01M 1/22; dependent on
+   77/081   . . {relating to endless members (endless members,
+e.g. belts, for driving auxiliary apparatus
+   77/082   . . {relating to valves}
+   77/083   . . {relating to maintenance, e.g. diagnostic device
+(relating to lubrication F01M 11/10)}
+   77/084   . . {indicating economy}
+   77/085   . . {with sensors measuring combustion processes,
+e.g. knocking, pressure, ionization, combustion
+   77/086   . . . {Sensor arrangements in the exhaust, e.g. for
+temperature, misfire, air/fuel ratio, oxygen
+   77/087   . . {determining top dead centre or ignition-timing}
+   77/088   . . {relating to tightness}
+   77/089   . . {relating to engine temperature (concerning
+coolant temperature F01P 11/16)}
+   77/10    . . Safety means relating to crankcase explosions
+   77/11    . Thermal or acoustic insulation
+   77/13    . . Acoustic insulation
+   77/14    . Engine-driven auxiliary devices combined into units
+   79/00    Running-in of internal-combustion engines
+(lubrication thereof F01M 7/00)
+ 2201/06    . Dual fuel applications
+ 2201/062   . . Liquid and liquid
+ 2201/0622  . . . Liquid and liquefied gas
+ 2275/00    Other engines, components or details, not provided
+for in other groups of this subclass
+ 2275/02    . Attachment or mounting of cylinder heads on
+ 2275/06    . Endless member is a belt
+ 2275/08    . Endless member is a chain
+ 2275/10    . Diamond configuration of valves in cylinder heads
+ 2275/14    . Direct injection into combustion chamber
+ 2275/16    . Indirect injection
+ 2275/18    . DOHC [Double overhead camshaft]
+ 2275/20    . SOHC [Single overhead camshaft]
+ 2275/28    . Timing distribution gear
+ 2275/30    . Inverted positioning of engines
+ 2275/34    . Lateral camshaft position
+ 2275/36    . Modified dwell of piston in TDC
+ 2275/38    . Square four-cylinder configuration
+ 2275/42    . Texaco combustion process
+ 2275/44    . Tools for engines
+ 2275/46    . Total Energy plant
+ 2275/48    . Tumble motion in gas movement in cylinder
+ 2275/50    . Walking beam arrangement of rockers in valve
+ 2700/00    Measures relating to the combustion process
+without indication of the kind of fuel or with more
+ 2700/02    . Four stroke engines
+ 2700/021   . . with measures for removing exhaust gases from
+ 2700/023   . . with measures for charging, increasing the power
+ 2700/025   . . with measures for compressing the cylinder
+ 2700/026   . . with measures for increasing the part of the heat
+transferred to power, compound engines
+ 2700/03    . Two stroke engines
+ 2700/031   . . with measures for removing exhaust gases from
+ 2700/032   . . . by means of the exhaust gases
+ 2700/034   . . with measures for charging, increasing the power
+ 2700/035   . . with reservoir for scavenging or charging air
+ 2700/037   . . Scavenging or charging channels or openings
+ 2700/038   . . with measures for compressing the cylinder
+ 2710/02    . Four stroke engines
+ 2710/021   . . with measures for removing exhaust gases from
+ 2710/023   . . with measures for charging, increasing the power
+ 2710/025   . . with measures for compressing the cylinder
+ 2710/026   . . with measures for improving combustion
+ 2710/028   . . with measures for increasing the part of the heat
+transferred to power, compound engines
+ 2710/03    . Two stroke engines
+ 2710/032   . . with measures for removing exhaust gases from
+ 2710/034   . . with measures for charging, increasing the power
+ 2710/036   . . Scavenging or charging channels or openings
+ 2710/038   . . with measures for improving combustion
+ 2720/00    Engines with liquid fuel
+ 2720/10    . Mixture compressing engines for liquid fuel
+ 2720/12    . Four stroke engines with ignition device
+ 2720/122   . . with measures for removing exhaust gases from
+ 2720/124   . . with measures for charging, increasing the power
+ 2720/126   . . with measures for compressing the cylinder
+ 2720/128   . . with measures for increasing the part of the heat
+transferred to power, compound engines
+ 2720/13    . Two stroke engines with ignition device
+ 2720/131   . . with measures for removing exhaust gases from
+ 2720/132   . . . by means of exhaust gases
+ 2720/133   . . with measures for charging, increasing the power
+ 2720/135   . . with reservoir for scavenging or charging air
+ 2720/136   . . Scavenging or charging channels or openings
+ 2720/137   . . with measures for improving combustion
+ 2720/138   . . with measures for increasing the part of the heat
+transferred to power, compound engines
+ 2720/15    . Mixture compressing engines with ignition device
+and mixture formation in the cylinder
+ 2720/151   . . with fuel supply and pulverisation by air or gas
+under pressure during the suction or compression
+ 2720/152   . . with fuel supply and pulverisation by injecting
+the fuel under pressure during the suction or
+ 2720/153   . . with injection of an air-fuel mixture under
+pressure during the suction or compression stroke
+ 2720/155   . . with pulverisation by air sucked into the cylinder
+ 2720/156   . . with pulverisation by the compressed air stream
+ 2720/157   . . with means for improving the mixture in the
+ 2720/158   . . with an auxiliary cylinder in which an explosion
+ 2720/16    . Mixture compressing engines with ignition by
+ 2720/20    . Air compressing engines with ignition by the heat of
+ 2720/22    . Four stroke engines
+ 2720/221   . . with measures for removing exhaust gases from
+ 2720/223   . . with measures for charging, increasing the power
+ 2720/225   . . with measures for compressing the cylinder
+ 2720/226   . . with measures for improving combustion
+ 2720/228   . . with measures for increasing the part of the heat
+transferred to power, compound engines
+ 2720/23    . Two stroke engines
+ 2720/231   . . with measures for removing exhaust gases from
+ 2720/232   . . . by means of the exhaust gases
+ 2720/233   . . with measures for charging, increasing the power
+ 2720/235   . . with reservoir for scavenging or charging air
+ 2720/236   . . scavenging or charging channels or openings
+ 2720/237   . . with measures for improving combustion
+ 2720/238   . . with measures for increasing the part of the heat
+transferred to power, compound engines
+ 2720/25    . Supply of fuel in the cylinder
+ 2720/251   . . Fuel supply by high pressure gas
+ 2720/252   . . . with air pump fixed to engine cylinder; high
+pressure air being taken from the atmosphere or
+ 2720/253   . . . with high pressure air reservoir close to the
+point of injection; high pressure air taken from
+ 2720/255   . . . with mixture compressing pump; fuel-air
+mixture being compressed in the pump cylinder
+ 2720/256   . . . using steam or other gas as high pressure gas
+ 2720/257   . . Supply of fuel under pressure in the cylinder
+ 2720/258   . . . with compression and ignition exclusively in
+ 2720/27    . Air compressing engines with hot-bulb ignition
+ 2720/272   . . Supply of all the fuel into the prechamber
+ 2720/274   . . . with injection of all the fuel into the
+ 2720/276   . . Supply of only a part of the fuel into the
+ 2720/278   . . . with injection of only a part of the fuel into the
+ 2720/30    . Engines with air compression and ignition device
+ 2730/00    Internal combustion engines with pistons rotating
+or oscillating with relation to the housing
+ 2730/01    . with one or more pistons in the form of a disk or
+rotor rotating with relation to the housing; with
+ 2730/011   . . with vanes sliding in the housing
+ 2730/012   . . with vanes sliding in the piston
+ 2730/013   . . . Vanes fixed in the centre of the housing;
+ 2730/015   . . with vanes hinged to the housing
+ 2730/016   . . with vanes hinged to the piston
+ 2730/017   . . with rotating elements fixed to the housing or on
+ 2730/018   . . with piston rotating around an axis passing
+through the gravity centre, this piston or the
+housing rotating at the same time around an axis
+ 2730/02    . with piston rotating around its axis and having a
+reciprocating movement in a cylinder
+ 2730/03    . with piston oscillating in a housing or in a space in
+ 2730/05    . with pistons intermeshing as gear wheels; with
+ 2730/09    . Arrangements or specially formed elements for
+engines according to the preceding groups
+ 2730/095   . . Hydraulic pistons

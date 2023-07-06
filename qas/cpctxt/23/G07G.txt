@@ -1,0 +1,40 @@
+COOPERATIVE PATENT CLASSIFICATION
+REGISTERING THE RECEIPT OF CASH, VALUABLES, OR TOKENS (digital
+computing in general G06C, G06F)
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Cash registers (alarm indicators G07G 3/00)
+    1/0009  . {Details of the software in the checkout register,
+electronic cash register [ECR] or point of sale
+    1/0018  . {Constructional details, e.g. of drawer, printing
+    1/0027  . . {Details of drawer or money-box}
+    1/0036  . {Checkout procedures}
+    1/0045  . . {with a code reader for reading of an identifying
+code of the article to be registered, e.g. barcode
+reader or radio-frequency identity [RFID] reader}
+    1/0054  . . . {with control of supplementary check-
+parameters, e.g. weight or number of articles}
+    1/0063  . . . . {with means for detecting the geometric
+dimensions of the article of which the code
+is read, such as its size or height, for the
+verification of the registration}
+    1/0072  . . . . {with means for detecting the weight of
+the article of which the code is read, for the
+verification of the registration (weighing
+combined with recording means, e.g. in
+    1/0081  . . . {the reader being a portable scanner or data
+reader (G07G 1/009 takes precedence)}
+    1/009   . . . {the reader being an RFID reader}
+    1/01    . Details for indicating (displaying information in
+    1/06    . . with provision for the noting of the money to be
+    1/08    . . with rotating drums which display the money
+    1/10    . mechanically operated
+    1/12    . electronically operated (digital data processing
+    1/14    . . Systems including one or more distant stations
+co-operating with a central processing unit (data
+transmission in general H04L; telemetry systems
+for selectively calling a substation from a main
+    1/145   . . . {PLU-management}
+    3/00    Alarm indicators, e.g. bells
+    3/003   . {Anti-theft control (theft alarms G08B 13/00)}
+    3/006   . {False operation}
+    5/00    Receipt-giving machines (cash registers giving

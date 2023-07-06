@@ -1,0 +1,3504 @@
+COOPERATIVE PATENT CLASSIFICATION
+PERFORMING OPERATIONS; TRANSPORTING
+CONVEYING; PACKING; STORING; HANDLING THIN OR FILAMENTARY
+HANDLING THIN OR FILAMENTARY MATERIAL, e.g. SHEETS, WEBS, CABLES
+1. This subclass does not cover methods or devices intimately associated with other operations on thin or filamentary material,
+e.g. sheets, webs, cables or means for performing such operations, which are classified in the relevant subclasses for these
+Postal sorting, similar sorting of documents,  e.g. cheques
+Cleaning travelling work, e.g. webs, by methods  involving the use of tools, brushes or like
+Metal rolling involving guiding, conveying or  accumulating easily-flexible work, e.g. wire,
+sheet metal bands, in loops or curves
+, Winding-up,coiling, winding-off or temporarily
+accumulating metal wire, metal band or other  flexible metal material, characterised by
+features relevant to metal processing only,  other than by rolling
+Feeding, positioning or storing devices,  combined with, or arranged in, or specially  adapted
+for use in connection with, apparatus  for working or processing sheet metal without
+Means for automatic feeding of electrodes for  spot or seam welding or cutting
+Handling for shaping or joining of plastics, for  shaping of substances in a plastic state in
+general or for after-treatment of shaped  products, e.g. feeding the material to be shaped
+, Film-handling mechanisms in photographic
+Conveying or guiding webs through rotary  printing presses or machines
+to Handling of copy- or impression-transfer material
+in typewriters or selective printing mechanisms
+Means for handling copy matter in stamping or  numbering apparatus or devices
+Handling sheets or webs in apparatus or devices  for manifolding, duplicating or printing
+for  office or other commercial purposes, or on  addressing machines or like series-printing
+Handling relating to permanently attaching  together sheets, quires, or signatures
+Handling sheets in book-binding
+Handling of sheets or webs in apparatus for, or  methods of, packaging articles, not of interest
+apart from their application in packaging  machines
+Handling of labels in labelling or tagging  apparatus
+Winding or stacking hides or leather in  machines or devices for manufacturing leather
+Spinning, weaving, braiding, lace-making,  knitting, sewing, making ropes or cables
+Transferring webs from wet ends to press  sections in paper-making
+Handling fabrics, fibres, yarns or other  material in long lengths in drying apparatus
+Film-strip handling or handling of pictures  in apparatus for taking photographs or for
+Conveying record carriers from one station to  another
+Counting of flat articles, e.g. sheets, carried  by a conveyor
+to Information storage based on relative movement
+, between record carrier and transducer,
+, involving handling record carriers for
+Manufacturing coils for magnets, inductances,  transformers, by winding
+Machines for winding capacitors
+Sheet handling not of interest apart from its  use in systems for transmission or reproduction
+of pictures or patterns not varying in  time, e.g. facsimile transmission
+1Feeding articles to machines; Separating articles from piles; Pile supports
+• the groups relating to thin material, as defined under (i) of Note (3) below, are primarily intended to cover the handling of
+articles made of paper or cardboard,but also include the handling of articles made of other materials which have similar
+characteristics or present similar handling problems, e.g. articles made of sheet- plastics or leather;
+• the groups relating to filamentary material (groups  B65H 49/00  onwards,) as defined in Note (3) below, cover only
+methods or devices of general application or interest.
+3. In this subclass, the following terms or expressions are used with the meanings indicated:
+• "handling" includes feeding, folding (other than in the manufacture of products), guiding, orientating, storing, unwinding,
+i. sheets, signatures, envelopes, blanks, and thin and thin piles thereof (hereinafter referred to as "articles"), and
+ii. webs, tapes, and films, e.g. of paper, fabric, metal foil, or plastics;
+• "filamentary material" includes thread, wires, ropes, cables, and hoses;
+• "package" means a mass of filamentary material, formedby coiling, depositing, or winding, with or without a supporting
+core or former or an enclosing container or receptacle.
+• {"yarn" also covers similar filamentary materials.}
+1. The following IPC groups are not in the CPC scheme. The subject matter for these IPC groups is classified in the following
+2. In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+Feeding articles to machines; Separating articles from piles; Pile
+    1/00    Supports or magazines for piles from which
+articles are to be separated (carriers used
+for associating, collating, or gathering articles
+    1/02    . adapted to support articles on edge
+    1/022   . . {with non-controlled means for advancing the
+pile to present the pile to the separating device,
+    1/025   . . {with controlled positively-acting mechanical
+devices for advancing the pile to present the
+articles to the separating device}
+    1/027   . . {Support fully or partially removable from the
+handling machine, e.g. cassette, drawer}
+    1/04    . adapted to support articles substantially
+horizontally, e.g. for separation from top of pile
+    1/06    . . for separation from bottom of pile
+    1/08    . with means for advancing the articles to present the
+articles to the separating device {(B65H 1/02 takes
+    1/10    . . comprising weights {(B65H 1/022 takes
+    1/12    . . comprising spring {(B65H 1/022 takes
+    1/14    . . comprising positively-acting mechanical devices
+{(B65H 1/025 takes precedence)}
+    1/16    . . comprising pneumatic or hydraulic means
+{(B65H 1/18, B65H 1/20 take precedence)}
+    1/18    . . controlled by height of pile
+    1/20    . . controlled by weight of pile; Floating
+    1/22    . . moving in direction of plane of articles, e.g. for
+bodily advancement of fanned-out piles
+    1/225   . . . {Round stack feeders}
+    1/24    . . with means for relieving or controlling pressure
+    1/26    . with auxiliary supports to facilitate introduction or
+    1/263   . . {Auxiliary supports for keeping the pile in the
+separation process during introduction of a new
+    1/266   . . {Support fully or partially removable from
+the handling machine, e.g. cassette, drawer
+    1/28    . compartmented to receive piles side-by-side
+    1/30    . with means for replenishing the pile during
+continuous separation of articles therefrom
+    3/00    Separating articles from piles (associating,
+collating, or gathering articles B65H 39/00; machines
+for separating superposed webs B65H 41/00; unpiling
+thin material combined with folding B65H 45/26;
+combinations of piling and depiling operations, of
+interest apart from the single operation of piling or
+    3/02    . using friction forces between articles and separator
+    3/04    . . Endless-belt separators
+    3/042   . . . {separating from the bottom of the pile}
+    3/045   . . . {for separating substantially vertically stacked
+    3/047   . . . {separating from the top of a pile}
+    3/06    . . Rollers or like rotary separators {(B65H 3/42
+    3/0607  . . . {cooperating with means for automatically
+separating the pile from roller or rotary
+separator after a separation step}
+    3/0615  . . . {reciprocating and rotatable in one direction
+    3/0623  . . . {acting at least during a part of each separation
+cycle on the articles in a direction opposite to
+the final separating direction}
+    3/063   . . . {separating from the bottom of pile
+(B65H 3/0615, B65H 3/0623 take precedence)}
+2Feeding articles to machines; Separating articles from piles; Pile supports
+    3/0638  . . . {Construction of the rollers or like rotary
+separators (B65H 3/0615 takes precedence;
+construction of feed or guide rollers
+    3/0646  . . . . {Wave generation rollers, i.e. combing
+    3/0653  . . . {for separating substantially vertically stacked
+    3/0661  . . . {for separating inclined-stacked articles with
+separator rollers above the stack}
+    3/0669  . . . {Driving devices therefor}
+    3/0676  . . . {with two or more separator rollers in the
+    3/0684  . . . {on moving support, e.g. pivoting, for bringing
+the roller or like rotary separator into contact
+    3/0692  . . . {Vacuum assisted separator rollers}
+    3/08    . using pneumatic force {(B65H 3/40, B65H 3/42
+    3/0808  . . {Suction grippers}
+    3/0816  . . . {separating from the top of pile}
+    3/0825  . . . . {and acting on the rear part of the articles
+relatively to the final separating direction}
+    3/0833  . . . . {and acting on the front part of the articles
+relatively to the final separating direction}
+    3/0841  . . . . . {this action resulting at least during a part
+of each separating cycle, in a movement
+of at least the front part of the articles in a
+direction opposite to the final separating
+    3/085   . . . {separating from the bottom of pile}
+    3/0858  . . . . {this action resulting merely in a curvature of
+each article being separated (in combination
+with the use of screw or like separators
+    3/0866  . . . . . {the final separation being performed
+    3/0875  . . . . . {the final separation being performed by
+    3/0883  . . . {Construction of suction grippers or their
+    3/0891  . . . {Generating or controlling the depression
+(B65H 3/0883, B65H 3/14 take precedence;
+in response to abnormal circumstances
+    3/10    . . Suction rollers
+    3/12    . . Suction bands, belts, or tables moving relatively
+    3/122   . . . {Suction tables}
+    3/124   . . . {Suction bands or belts}
+    3/126   . . . . {separating from the bottom of pile}
+    3/128   . . . . {separating from the top of pile}
+    3/14    . . Air blasts producing partial vacuum
+    3/16    . using magnetic force
+    3/18    . using electrostatic force
+    3/22    . by needles or the like engaging the articles
+    3/24    . by pushers engaging the edges of the articles
+    3/242   . . {for separating a part of the pile, i.e. several
+    3/245   . . . {the pile being pre-marked}
+    3/247   . . . {the pile being off-set}
+    3/26    . by separators engaging folds, flaps, or projections of
+    3/28    . by screw or like separators
+    3/30    . by escapement devices (screw and like separators
+B65H 3/28); from staggered piles; from piles of
+articles having staggered formations, e.g. cuts or
+    3/32    . by elements, e.g. fingers, plates, rollers, inserted
+or traversed between articles to be separated and
+remainder of the pile (such elements acting only
+as supplementary devices to assist separation or
+    3/322   . . {for separating a part of the pile, i.e. several
+    3/325   . . . {the pile being pre-marked}
+    3/327   . . . {the pile being off-set}
+    3/34    . Article-retaining devices controlling the release of
+    3/36    . by separators moved in special paths, e.g. enclosing
+    3/38    . . the paths not enclosing an area
+    3/40    . by two or more separators acting alternately on the
+same pile (rotary or oscillating bodies carrying two
+    3/42    . by two or more separators mounted for movement
+with, or relative to, rotary or oscillating bodies
+    3/44    . Simultaneously, alternately, or selectively
+separating articles from two or more piles
+    3/443   . . {simultaneously}
+    3/446   . . {alternatively, i.e. according to a fixed sequence}
+    3/46    . Supplementary devices or measures to assist
+separation or prevent double feed (control means
+comprising detectors responsive to double feed
+    3/48    . . Air blast acting on edges of, or under, articles
+    3/50    . . Elements, e.g. fingers, plates, rollers, inserted or
+traversed between articles to be separated and
+    3/52    . . Friction retainers acting on under or rear side of
+    3/5207  . . . {Non-driven retainers, e.g. movable retainers
+being moved by the motion of the article}
+    3/5215  . . . . {the retainers positioned under articles
+separated from the top of the pile}
+    3/5223  . . . . . {Retainers of the pad-type, e.g. friction
+    3/523   . . . . {the retainers positioned over articles
+separated from the bottom of the pile}
+    3/5238  . . . . . {Retainers of the pad-type, e.g. friction
+    3/5246  . . . {Driven retainers, i.e. the motion thereof being
+    3/5253  . . . . {the retainers positioned under articles
+separated from the top of the pile}
+    3/5261  . . . . . {Retainers of the roller type, e.g. rollers}
+    3/5269  . . . . . {Retainers of the belt type, e.g. belts}
+    3/5276  . . . . {the retainers positioned over articles
+separated from the bottom of the pile}
+    3/5284  . . . . . {Retainers of the roller type, e.g. rollers}
+    3/5292  . . . . . {Retainers of the belt type, e.g. belts}
+    3/54    . . Pressing or holding devices
+    3/56    . . Elements, e.g. scrapers, fingers, needles, brushes,
+acting on separated article or on edge of the pile
+    3/565   . . . {for reintroducing partially separated articles in
+3Feeding articles to machines; Separating articles from piles; Pile supports
+    3/58    . . Articles spiked, threaded, cemented, or gummed
+together, to prevent double feed, e.g. piles with
+    3/60    . . Loosening articles in piles
+    3/62    . . . by swinging, agitating, or knocking the pile
+    3/64    . . . by vacuum apparatus
+    3/66    . Article guides or smoothers, e.g. movable in
+    3/68    . . immovable in operation
+    5/00    Feeding articles separated from piles; Feeding
+articles to machines ({B65H 9/00 takes
+precedence; } identical mechanisms or parts for
+delivering or advancing articles from machines
+B65H 29/00; recirculating articles B65H 85/00 {,
+    5/002   . {Adaptations of counting devices}
+    5/004   . {using electrostatic force}
+    5/006   . {Feeding stacks of articles to machines}
+    5/008   . {using vibrations}
+    5/02    . by belts or chains {, e.g. between belts or chains
+(by combinations of endless conveyors and grippers
+B65H 5/085; by suction belts B65H 5/224)}
+    5/023   . . . {between a pair of belts forming a transport
+    5/025   . . . {between belts and rotary means, e.g. rollers,
+drums, cylinders or balls, forming a transport
+    5/026   . . . {between belts and stationary pressing,
+supporting or guiding elements forming a
+    5/04    . by movable tables or carriages (rotary tables
+B65H 5/18 {; suction gripper or gripper tables
+    5/06    . by rollers {or balls, e.g. between rollers (transport
+by suction rollers B65H 5/226)}
+    5/062   . . {between rollers or balls}
+    5/064   . . . {the axes of the rollers being perpendicular to
+    5/066   . . {the articles resting on rollers or balls}
+    5/068   . . {between one or more rollers or balls and
+stationary pressing, supporting or guiding
+    5/08    . by grippers, e.g. suction grippers
+    5/085   . . {by combinations of endless conveyors and
+grippers (suction belts B65H 5/224)}
+    5/10    . . Reciprocating or oscillating grippers {, e.g.
+    5/12    . . Revolving grippers, e.g. mounted on arms, frames
+    5/14    . . Details of grippers; Actuating-mechanisms
+    5/16    . by pusher, needles, friction, or like devices adapted
+to feed single articles along a surface or table
+    5/18    . by rotary dials or tables
+    5/20    . by dropping-roller or like device
+    5/22    . by air-blast or suction device (suction grippers
+    5/222   . . {by suction devices}
+    5/224   . . . {by suction belts (B65H 11/005 takes
+    5/226   . . . {by suction rollers}
+    5/228   . . {by air-blast devices}
+    5/24    . {Feeding articles in overlapping streams, i.e. by
+separation of articles from a pile}
+    5/26    . Duplicate, alternate, selective, or coacting feeds
+    5/28    . Feeding articles stored in rolled or folded bands
+    5/30    . Opening devices for folded sheets or signatures
+    5/301   . . {comprising blade-like means inserted between
+    5/302   . . . {the blade-like means being stationary}
+    5/303   . . {comprising movable endless means for opening
+the folded sheets (B65H 5/308 takes precedence)}
+    5/305   . . {comprising rotary means for opening the folded
+sheets (B65H 5/308 takes precedence)}
+    5/306   . . . {two opposite rotary means, only one of them
+    5/307   . . . {two opposite rotary means, both having
+    5/308   . . {the folded sheets or signatures travelling in
+    5/32    . Saddle-like members over which partially-unfolded
+sheets or signatures are fed to signature-gathering,
+    5/34    . Varying the phase of feed relative to the receiving
+    5/36    . Article guides or smoothers, e.g. movable in
+    5/38    . . immovable in operation
+    7/00    Controlling article feeding, separating, pile-
+advancing, or associated apparatus, to take
+account of incorrect feeding, absence of articles, or
+    7/02    . by feelers or detectors
+    7/04    . . responsive to absence of articles, e.g. exhaustion
+of pile (B65H 7/14 takes precedence)
+    7/06    . . responsive to presence of faulty articles or
+incorrect separation or feed (B65H 7/14 takes
+    7/08    . . . responsive to incorrect front register
+    7/10    . . . responsive to incorrect side register (controlling
+transverse register of webs B65H 23/032)
+    7/12    . . . responsive to double feed or separation
+    7/125   . . . . {sensing the double feed or separation
+without contacting the articles}
+    7/14    . . by photoelectric feelers or detectors
+    7/16    . Controlling air-supply to pneumatic separators
+    7/18    . Modifying or stopping actuation of separators
+    7/20    . Controlling associated apparatus
+    9/00    Registering, e.g. orientating, articles; Devices
+    9/002   . {changing orientation of sheet by only controlling
+movement of the forwarding means, i.e. without the
+    9/004   . {Deskewing sheet by abutting against a stop, i.e.
+producing a buckling of the sheet}
+    9/006   . . {the stop being formed by forwarding means in
+    9/008   . . {the stop being formed by reversing the
+    9/04    . Fixed or adjustable stops or gauges (gauge pins
+    9/06    . Movable stops or gauges, e.g. rising and falling
+front stops {(B65H 11/007 takes precedence)}
+4Feeding articles to machines; Separating articles from piles; Pile supports
+    9/08    . Holding devices, e.g. finger, needle, suction, for
+retaining articles in registered position
+    9/10    . Pusher and like movable registers; Pusher or gripper
+devices which move articles into registered position
+    9/101   . . {acting on the edge of the article}
+    9/103   . . {acting by friction or suction on the article for
+pushing or pulling it into registered position, e.g.
+    9/105   . . . {using suction means}
+    9/106   . . . {using rotary driven elements as part acting
+on the article (B65H 9/105 takes precedence;
+registering laterally while article is forwarded
+in principal direction B65H 9/16)}
+    9/108   . . {acting by air blast}
+    9/12    . carried by article grippers
+    9/14    . Retarding or controlling the forward movement of
+articles as they approach stops
+    9/16    . Inclined tape, roller, or like article-forwarding side
+    9/18    . Assisting by devices such as reflectors, lenses,
+transparent sheets, or mechanical indicators
+    9/20    . Assisting by photoelectric, sonic, or pneumatic
+   11/002   . {incorporating transport belts}
+   11/005   . . {Suction belts}
+   11/007   . {with front stop arrangements}
+   11/02    . angularly adjustable in plane of articles
+   13/00    Lifting the ends of piles to facilitate the formation
+   15/00    Overturning articles
+   15/004   . {employing rollers}
+   15/008   . {employing belts}
+   15/012   . . {twisted belts}
+   15/016   . {employing rotary or reciprocating elements
+   15/02    . Overturning piles
+Feeding webs to or from machines; Winding or unwinding webs;
+   16/00    Unwinding, paying-out webs {(reel-to-reel type web
+winding and unwinding mechanisms B65H 18/103,
+   16/005   . {Dispensers, i.e. machines for unwinding only parts
+   16/02    . Supporting web roll
+   16/021   . . {Multiple web roll supports}
+   16/028   . . {on its outer circumference (B65H 16/08 takes
+   16/04    . . cantilever type
+   16/08    . . parallel rollers type
+   16/10    . Arrangements for effecting positive rotation of web
+   16/103   . . {in which power is applied to web-roll spindle}
+   16/106   . . {in which power is applied to web roll}
+   18/02    . Supporting web roll
+   18/021   . . {Multiple web roll supports}
+   18/023   . . {on its outer circumference}
+   18/025   . . . {Parallel rollers type}
+   18/026   . . {Cantilever type}
+   18/028   . . {Both ends type}
+   18/04    . . Interior-supporting
+   18/06    . . Lateral-supporting
+   18/08    . Web-winding mechanisms
+   18/085   . . {for non-continuous winding}
+   18/10    . . Mechanisms in which power is applied to web-
+   18/103   . . . {Reel-to-reel type web winding and unwinding
+   18/106   . . . {for several juxtaposed strips}
+   18/12    . . . to effect step-by-step advancement of web
+   18/14    . . Mechanisms in which power is applied to web
+roll, e.g. to effect continuous advancement of web
+   18/145   . . . {Reel-to-reel type web winding and unwinding
+   18/16    . . . by friction roller
+   18/18    . . . . to effect step-by-step advancement of web
+   18/20    . . . the web roll being supported on two parallel
+rollers at least one of which is driven
+   18/22    . . . by friction band
+   18/24    . . . . to effect step-by-step advancement of web
+   18/26    . . Mechanisms for controlling contact pressure on
+winding-web package, e.g. for regulating the
+quantity of air between web layers
+   18/28    . Wound package of webs
+   19/00    Changing the web roll
+   19/10    . in unwinding mechanisms or in connection with
+   19/102   . . {Preparing the leading end of the replacement
+web before splicing operation; Adhesive
+arrangements on leading end of replacement web;
+Tabs and adhesive tapes for splicing}
+   19/105   . . {Opening of web rolls; Removing damaged outer
+layers; Detecting the leading end of a closed web
+   19/107   . . {Processing the trailing end of the replaced web
+after splicing operation, e.g. rewinding it}
+   19/12    . . Lifting, transporting, or inserting the web roll;
+   19/123   . . . {with cantilever supporting arrangements}
+   19/126   . . . {with both-ends supporting arrangements}
+   19/14    . . Accumulating surplus web for advancing to
+machine while changing the web roll
+   19/18    . . Attaching, e.g. pasting, the replacement web
+to the expiring web {(adhesive arrangements
+on leading end of replacement web, tabs and
+adhesive tapes for splicing B65H 19/102)}
+   19/1805  . . . {Flying splicing, i.e. the expiring web moving
+   19/181   . . . . {taking place on the replacement roll}
+   19/1815  . . . . . {the replacement web being stationary
+5Feeding webs to or from machines; Winding or unwinding webs; Splicing webs
+   19/1821  . . . . . {the replacement web being accelerated or
+running prior to splicing contact}
+   19/1826  . . . . {taking place at a distance from the
+   19/1831  . . . . . {the replacement web being stationary
+   19/1836  . . . . . {the replacement web being accelerated or
+running prior to splicing contact}
+   19/1842  . . . {standing splicing, i.e. the expiring web being
+stationary during splicing contact}
+   19/1847  . . . . {taking place on the replacement roll}
+   19/1852  . . . . {taking place at a distance from the
+   19/1857  . . . {Support arrangement of web rolls}
+   19/1863  . . . . {with translatory or arcuated movement of
+   19/1868  . . . . {The roll support being of the turret type}
+   19/1873  . . . . {with two stationary roll supports carrying
+alternately the replacement and the expiring
+   19/1878  . . . . {with one stationary support for the rolls}
+   19/1884  . . . {Details for effecting a positive rotation of web
+roll, e.g. accelerating the replacement roll}
+   19/1889  . . . . {related to driving arrangements}
+   19/1894  . . . . {the replacement web being accelerated
+through contact with the expiring web}
+   19/20    . . Cutting-off the expiring web
+   19/22    . in winding mechanisms or in connection with
+   19/2207  . . {the web roll being driven by a winding
+mechanism of the centre or core drive type}
+   19/2215  . . . {Turret-type with two roll supports}
+   19/2223  . . . {Turret-type with more than two roll supports}
+   19/223   . . . {with roll supports being independently
+displaceable along a common path}
+   19/2238  . . {The web roll being driven by a winding
+mechanism of the nip or tangential drive type
+(B65H 19/2276 takes precedence)}
+   19/2246  . . . {and the roll being supported on two rollers}
+   19/2253  . . . {and the roll being displaced during the
+   19/2261  . . . . {Pope-roller}
+   19/2276  . . {The web roll being driven by a winding
+mechanism of the coreless type}
+   19/2284  . . {Simultaneous winding at several stations, e.g.
+   19/2292  . . {Removing cores or mandrels from web roll after
+   19/24    . . Accumulating surplus delivered web while
+   19/26    . . Cutting-off the web running to the wound web
+   19/262   . . . {using a thin or filamentary material which is
+   19/265   . . . {using a cutting member moving linearly in
+a plane parallel to the surface of the web and
+along a direction crossing the web}
+   19/267   . . . {by tearing or bursting}
+   19/28    . . Attaching the leading end of the web to the
+replacement web-roll core or spindle (cores,
+formers, supports or holders, e.g. reels, with
+arrangements for securing ends of material
+   19/283   . . . {by applying adhesive to the core}
+   19/286   . . . {by applying adhesive to the web}
+   19/29    . . Securing the trailing end of the wound web to
+the web roll (cores, formers, supports or holders,
+e.g. reels, with arrangements for securing ends of
+   19/30    . . Lifting, transporting, or removing the web roll;
+   19/305   . . . {Inserting core}
+   20/005   . {Electrical drive motor control devices therefor}
+   20/02    . by friction roller
+   20/04    . . to effect step-by-step advancement of web
+   20/08    . . to effect step-by-step advancement of web
+   20/10    . by a feed band against which web is held by fluid
+pressure, e.g. suction or air blast
+   20/12    . by suction roller
+   20/14    . by direct action on web of moving fluid
+   20/16    . by web-gripping means, e.g. grippers, clips
+   20/18    . . to effect step-by-step advancement of web
+   20/20    . by web-penetrating means, e.g. pins
+   20/22    . . to effect step-by-step advancement of web
+   20/24    . by looping or like devices
+   20/26    . Mechanisms for advancing webs to or from the
+   20/28    . Mechanisms for delivering webs in superposed
+folds and refeeding them from the lower end of the
+   20/30    . Arrangements for accumulating surplus web (while
+changing the web roll B65H 19/14, B65H 19/24)
+   20/32    . . by making loops
+   20/36    . having means to optionally advance the web either
+in one longitudinal direction or in the opposite
+   20/38    . . by changing the direction of mechanism driving
+   20/40    . . by changing the direction of mechanism driving
+   21/00    Apparatus for splicing webs (during web-roll
+   21/02    . for premarked, e.g. preprinted, webs
+   23/00    Registering, tensioning, smoothing or guiding webs
+(registering articles B65H 9/00; in connection with
+   23/005   . {Sensing web roll diameter (warning or safety
+devices responsive to a predetermined diameter
+   23/02    . transversely (by tentering, gripper, or like apparatus
+   23/0204  . . {Sensing transverse register of web (and
+   23/0208  . . . {with an element engaging the edge of the
+   23/0212  . . . {with an element utilising fluid flow}
+   23/0216  . . . {with an element utilising photoelectric effect}
+   23/022   . . by tentering devices
+   23/0251  . . . . {with a straight axis}
+   23/0253  . . . . . {with axially movable elements}
+6Feeding webs to or from machines; Winding or unwinding webs; Splicing webs
+   23/0255  . . . . . {with axially stretchable elements}
+   23/0256  . . . . . {with opposed helicoidal windings}
+   23/0258  . . . . {with a bowed axis}
+   23/032   . . Controlling transverse register of web
+   23/0322  . . . {by acting on edge regions of the web}
+   23/0324  . . . {by acting on lateral regions of the web}
+   23/0326  . . . {by moving the unwinding device}
+   23/0328  . . . {by moving the winding device}
+   23/035   . . . by guide bars
+   23/042   . . {Sensing the length of a web loop (sensing web
+   23/044   . . {Sensing web tension (B65H 23/06, B65H 23/18
+   23/046   . . {Sensing longitudinal register of web
+   23/048   . . {by positively actuated movable bars or rollers}
+   23/06    . . by retarding devices, e.g. acting on web-roll
+   23/063   . . . {and controlling web tension}
+   23/066   . . . {Electrical brake devices therefor
+(B65H 23/063 takes precedence)}
+   23/08    . . . acting on web roll being unwound
+   23/085   . . . . {and controlling web tension}
+   23/10    . . . acting on running web (suction retarders
+   23/105   . . . . {and controlling web tension}
+   23/12    . . . . and causing parts thereof to move in opposite
+directions and in frictional engagement
+   23/14    . . . . Tensioning rollers applying braking forces
+   23/16    . . by weighted or spring-pressed movable bars or
+   23/18    . . by controlling or regulating the web-advancing
+mechanism, e.g. mechanism acting on the running
+   23/1806  . . . {in reel-to-reel type web winding and
+unwinding mechanism, e.g. mechanism acting
+   23/1813  . . . . {acting on web-roll}
+   23/182   . . . in unwinding mechanisms or in connection
+   23/1825  . . . . {and controlling web tension}
+   23/185   . . . . motor-controlled
+   23/188   . . . in connection with running-web
+   23/1882  . . . . {and controlling longitudinal register of
+   23/1884  . . . . . {with step-by-step advancement}
+   23/1886  . . . . . {Synchronising two or more webs}
+   23/1888  . . . . {and controlling web tension}
+   23/192   . . . . motor-controlled
+   23/195   . . . in winding mechanisms or in connection with
+   23/1955  . . . . {and controlling web tension}
+   23/198   . . . . motor-controlled {(Controlling electrical
+   23/24    . . by fluid action, e.g. to retard the running web
+   23/245   . . . {Suction retarders}
+   23/26    . . by transverse stationary or adjustable bars or
+   23/28    . . by longitudinally-extending strips, tubes, plates,
+or wires (flexible tapes or bands B65H 23/30)
+   23/30    . . by longitudinally-extending flexible tapes or
+   23/32    . . Arrangements for turning or reversing webs
+   23/34    . . Apparatus for taking-out curl from webs
+   26/00    Warning or safety devices, e.g. automatic fault
+detectors, stop-motions, for web-advancing
+mechanisms (safety devices in general F16P;
+investigating chemical or physical properties of
+materials in general G01N; indicating devices in
+   26/02    . responsive to presence of irregularities in running
+   26/025   . . {responsive to web breakage}
+   26/04    . . for variation in tension
+   26/06    . responsive to predetermined lengths of webs
+   26/063   . . {responsive to detection of the trailing edge}
+   26/066   . . {responsive to information, e.g. printed mark, on
+   26/08    . responsive to a predetermined diameter
+   27/00    Special constructions, e.g. surface features, of
+feed or guide rollers for webs (rollers in general
+Delivering articles from machines; Piling articles; Article or web
+delivery apparatus incorporating devices for performing specified
+auxiliary operations; Associating or gathering articles or webs;
+Machines for separating superposed webs
+   29/00    Delivering or advancing articles from machines;
+Advancing articles to or into piles
+   29/001   . {Adaptations of counting devices (to feeding of
+articles to machines B65H 5/002)}
+   29/003   . {by grippers (B65H 29/02 takes precedence)}
+   29/005   . . {by chains or bands having mechanical
+grippers engaging the side edges of articles, e.g.
+   29/006   . {Winding articles into rolls}
+   29/008   . . {Winding single articles into single rolls}
+   29/02    . by mechanical grippers engaging the leading edge
+   29/04    . . the grippers being carried by endless chains or
+   29/041   . . . {and introducing into a pile (slowing-down
+   29/042   . . . {Intermediate conveyors, e.g. transferring
+   29/044   . . . . {conveying through a machine}
+   29/045   . . . {Details of grippers}
+   29/047   . . . . {Gripper opening devices}
+   29/048   . . . . {Self-opening and -closing grippers}
+   29/06    . . the grippers being carried by rotating members
+   29/08    . . the grippers being oscillated in arcuate paths
+   29/10    . . the grippers being reciprocated in rectilinear paths
+   29/12    . by means of the nip between two, or between two
+sets of, moving tapes or bands {or rollers}
+   29/125   . . {between two sets of rollers}
+   29/14    . . and introducing into a pile
+   29/145   . . . {the pile being formed between the two, or
+between the two sets of, tapes or bands or
+   29/16    . by contact of one face only with moving tapes,
+bands, or chains {(with suction belts B65H 29/242)}
+   29/18    . . and introducing into a pile
+7Delivering articles from machines; Piling articles; Article or web delivery apparatus incorporating devices
+   29/20    . by contact with rotating friction members, e.g.
+rollers, brushes, or cylinders {(with suction rollers
+   29/22    . . and introducing into a pile
+   29/24    . by air blast or suction apparatus ({B65H 5/22 takes
+precedence; } dropping articles from suction carriers
+B65H 29/32 {; pneumatic brakes B65H 29/686})
+   29/241   . . {Suction devices}
+   29/242   . . . {Suction bands or belts}
+   29/243   . . . {Suction rollers}
+   29/245   . . {Air blast devices}
+   29/246   . . . {acting on stacking devices}
+   29/247   . . . . {blowing on upperside of the sheet}
+   29/248   . . . {with coanda effect (separating from a stack
+   29/26    . by dropping {the articles}
+   29/28    . . from mechanical grippers (grippers engaging the
+   29/30    . . from magnetic holders
+   29/32    . . from pneumatic, e.g. suction, carriers
+   29/34    . . from supports slid from under the articles
+   29/36    . . from tapes, bands, or rollers rolled from under the
+   29/38    . by movable piling or advancing arms, frames,
+plates, or like members with which the articles are
+   29/40    . . Members rotated about an axis perpendicular to
+direction of article movement, e.g. star-wheels
+   29/42    . . Members rotated about an axis parallel to
+direction of article movement, e.g. helices
+   29/44    . . Members oscillated in arcuate paths
+   29/46    . . Members reciprocated in rectilinear path
+   29/48    . by tables arranged to be tilted to cause sliding of
+   29/50    . Piling apparatus of which the discharge point moves
+in accordance with the height to the pile
+   29/51    . . piling by collecting on the periphery of cylinders
+   29/52    . Stationary guides or smoothers
+   29/54    . Article strippers, e.g. for stripping from advancing
+   29/56    . . for stripping from elements or machines {(for
+   29/58    . Article switches or diverters
+   29/585   . . {taking samples from the main stream}
+   29/60    . . diverting the stream into alternative paths
+   29/62    . . diverting faulty articles from the main streams
+(control devices detecting faulty articles
+   29/64    . . directing the components of composite articles
+   29/66    . Advancing articles in overlapping streams
+   29/6609  . . {forming an overlapping stream (by separation of
+articles from a pile B65H 5/24)}
+   29/6618  . . . {upon transfer from a first conveyor to a
+second conveyor advancing at slower speed}
+   29/6627  . . . . {in combination with auxiliary means for
+   29/6636  . . . . {in combination with auxiliary means for
+   29/6645  . . {buffering an overlapping stream of articles
+(winding articles into rolls B65H 29/006)}
+   29/6654  . . {changing the overlapping figure}
+   29/6663  . . . {reversing the overlapping figure (round stack
+   29/6672  . . {dividing an overlapping stream into two or
+more streams; (articles switches or diverters
+   29/6681  . . {merging two or more streams into an
+   29/669   . . {ending an overlapping stream}
+   29/68    . Reducing the speed of articles as they advance
+   29/683   . . {Slowing-down from chain delivery
+(B65H 29/686 takes precedence)}
+   29/686   . . {Pneumatic brakes}
+   29/70    . Article bending or stiffening arrangements
+   31/00    Pile receivers (carriers used for associating, collating
+or gathering articles B65H 39/00)
+   31/02    . with stationary end support against which pile
+   31/04    . with movable end support arranged to recede as pile
+   31/06    . . the articles being piled on edge
+   31/08    . . the articles being piled one above another
+   31/10    . . . and applied at the top of the pile
+   31/12    . . Devices relieving the weight of the pile or
+permitting or effecting movement of the pile end
+   31/14    . . . Springs (fluid springs B65H 31/16)
+   31/16    . . . Fluid-pressure devices
+   31/18    . . . Positively-acting mechanical devices
+   31/20    . adjustable for different article sizes
+   31/22    . removable or interchangeable
+   31/24    . multiple or compartmented, e.d. for alternate,
+programmed, or selective filling
+   31/26    . Auxiliary devices for retaining articles in the pile
+   31/28    . Bands, chains, or like moving receivers (for articles
+   31/30    . Arrangements for removing completed piles (bands,
+chains, or like moving receivers B65H 31/28)
+   31/3009  . . {by dropping, e.g. removing the pile support from
+   31/3018  . . . {from opposite part-support elements, e.g.
+   31/3027  . . {by the nip between moving belts or rollers
+(pile being formed between belts or rollers
+   31/3036  . . {by gripping the pile}
+   31/3045  . . . {on the outermost articles of the pile for
+   31/3054  . . {by moving the surface supporting the lowermost
+article of the pile, e.g. by using belts or rollers}
+   31/3063  . . . {by special supports like carriages, containers,
+trays, compartments, plates or bars, e.g. moved
+   31/3072  . . {by moving a surface supporting the pile of
+articles on edge, e.g. by using belts or carriages}
+   31/3081  . . {by acting on edge of the pile for moving it along
+   31/309   . . {by acting on one of the outermost articles
+for moving the pile of articles on edge along a
+   31/32    . Auxiliary devices for receiving articles during
+   31/34    . Apparatus for squaring-up piled articles
+8Delivering articles from machines; Piling articles; Article or web delivery apparatus incorporating devices
+   31/36    . . Auxiliary devices for contacting each article with
+   31/38    . . Apparatus for vibrating or knocking the pile
+   31/40    . . Separate receivers, troughs, and like apparatus for
+   33/00    Forming counted batches in delivery pile or stream
+   33/02    . by moving a blade or like member into the pile
+   33/04    . by inserting marker slips in pile or stream
+   33/06    . by displacing articles to define batches
+   33/08    . . Displacing whole batches, e.g. forming stepped
+   33/10    . . Displacing the end articles of a batch
+   33/12    . by creating gaps in the stream
+   33/14    . by diverting batches to separate receivers
+{(B65H 33/16 takes precedence; article switches or
+   33/16    . by depositing articles in batches on moving supports
+   33/18    . . with separators between adjacent batches
+   35/00    Delivering articles from cutting or line-perforating
+machines; Article or web delivery apparatus
+incorporating cutting or line-perforating devices,
+e.g. adhesive tape dispensers (cutting or perforating
+machines or devices in general B26D, B26F)
+   35/0006  . {Article or web delivery apparatus incorporating
+cutting or line-perforating devices}
+   35/0013  . . {and applying the article or the web by adhesive
+to a surface (B65H 35/002 takes precedence)}
+   35/002   . . {Hand-held or table apparatus (B65H 35/006
+   35/0026  . . . {for delivering pressure-sensitive adhesive
+   35/0033  . . . . {and affixing it to a surface (B65H 35/004
+   35/004   . . . . {simultaneously with a second roll, e.g.
+   35/0046  . . . {with means for moistening or coating the
+articles or webs, or applying adhesive thereto}
+   35/0053  . . . . {and affixing it to a surface}
+   35/006   . . {with means for delivering a predetermined
+   35/0066  . . . {this length being adjustable}
+   35/008   . . . {Arrangements or adaptations of cutting
+   35/0086  . . . . {using movable cutting elements}
+   35/0093  . . . {Arrangements or adaptations of length
+   35/02    . from or with longitudinal slitters or perforators
+   35/04    . from or with transverse cutters or perforators
+   35/06    . . from or with blade, e.g. shear-blade, cutters
+or perforators (from or with revolving blade
+   35/08    . . from or with revolving, e.g. cylinder, cutters or
+   35/10    . from or with devices for breaking partially-cut or
+   37/00    Article or web delivery apparatus incorporating
+devices for performing specified auxiliary
+operations (incorporating cutting or line-perforating
+   37/002   . {Web delivery apparatus, the web serving as
+support for articles, material or another web}
+   37/005   . . {Hand-held apparatus}
+   37/007   . . . {Applicators for applying coatings, e.g.
+correction, colour or adhesive coatings}
+   37/02    . for applying adhesive (and securing together
+   37/04    . for securing together articles or webs, e.g.
+by adhesive, stitching or stapling (adhering
+replacement to expiring web during change of web
+   39/00    Associating, collating, or gathering articles or webs
+(combinations of piling and depiling operations, of
+interest apart from the single operation of piling or
+depiling B65H 83/00; machines for both collating or
+gathering and permanently attaching together sheets
+   39/02    . Associating,collating or gathering articles from
+   39/041   . . . the piles being disposed in rotary carriers
+   39/042   . . . the piles being disposed in superposed carriers
+   39/043   . . . the piles being disposed in juxtaposed carriers
+   39/045   . . . by collecting in rotary carriers
+   39/05    . . . by collecting in superposed carriers
+   39/055   . . . by collecting in juxtaposed carriers
+   39/06    . . from delivery streams
+   39/065   . . . by collecting in rotary carriers
+   39/07    . . . by collecting in superposed carriers
+   39/075   . . . by collecting in juxtaposed carriers
+   39/10    . Associating articles from a single source, to form,
+e.g. a writing-pad {(laminating B32B 37/00,
+   39/105   . . in rotary carriers
+   39/11    . . in superposed carriers
+   39/115   . . in juxtaposed carriers
+   39/14    . Associating sheets with webs
+   39/16    . Associating two or more webs
+   41/00    Machines for separating superposed webs
+   43/00    Use of control, checking, or safety devices, e.g.
+automatic devices comprising an element for
+   43/02    . detecting, or responding to, absence of articles
+   43/04    . detecting, or responding to, presence of faulty
+articles (B65H 43/08 takes precedence; diverting
+faulty articles from main streams B65H 29/62)
+   43/06    . detecting, or responding to, completion of pile
+   43/08    . Photoelectric devices
+Folding or unfolding thin material
+   45/00    Folding thin material (specially adapted for the
+manufacture or treatment of particular products, see
+appropriate subclasses, e.g. D06F 89/00)
+   45/02    . Folding limp material without application of
+pressure to define or form crease lines (winding or
+unwinding fabrics for feeding to or from machines
+B65H 16/00 - B65H 27/00; folding garments for
+packaging purposes B65B; folding fabrics in sewing
+9Folding or unfolding thin material
+   45/06    . . Folding webs (B65H 20/28 takes precedence)
+   45/08    . . . longitudinally
+   45/09    . . . . Doubling, i.e. folding into half of width
+   45/101   . . . . in combination with laying, i.e. forming a
+   45/1015  . . . . . {Folding webs provided with predefined
+fold lines; Refolding prefolded webs, e.g.
+   45/103   . . . . . by a carriage which reciprocates above the
+   45/105   . . . . . . coacting with fold holders
+   45/107   . . . . . by means of swinging or reciprocating
+   45/109   . . . . Registering or counting the folds; Detecting
+irregularities in the zig-zag pile
+   45/12    . Folding articles or webs with application of pressure
+to define or form crease lines (B65H 20/28 takes
+precedence; pleating, kilting or goffering textile
+   45/14    . . Buckling folders
+   45/141   . . . {with noise reducing means}
+   45/142   . . . {Pocket-type folders}
+   45/144   . . . . {Pockets or stops therefor}
+   45/145   . . . . . {circular pockets}
+   45/147   . . . . {folding rollers therefor}
+   45/148   . . . . {diverters therefor}
+   45/161   . . . {Flying tuck folders}
+   45/162   . . . {with folding jaw cylinders}
+   45/163   . . . . {Details of folding jaws therefor}
+   45/164   . . . . {Details of folding blades therefor}
+   45/165   . . . . {Details of sheet gripping means therefor}
+   45/166   . . . . {having an adjustable circumference}
+   45/167   . . . . {having associated sheet guide means}
+   45/168   . . . . {having changeable mode of operation}
+   45/18    . . Oscillating or reciprocating blade folders (carried
+   45/20    . . Zig-zag folders {(B65H 45/228 takes
+   45/22    . . Longitudinal folders, i.e. for folding moving sheet
+material parallel to the direction of movement
+   45/221   . . . {incorporating folding triangles}
+   45/223   . . . . {Details of folding triangles}
+   45/225   . . . . {Arrangements of folding triangles}
+   45/226   . . . . {Positional adjustment of folding triangles}
+   45/228   . . . {Zig-zag folders}
+   45/24    . . Interfolding sheets, e.g. cigarette or toilet papers
+   45/26    . . Folding in combination with unpiling (unpiling
+   45/28    . . Folding in combination with cutting (cutting
+   45/30    . . Folding in combination with creasing, smoothing
+or application of adhesive (folding or adhesive
+application in article or web delivering
+   47/00    Unfolding thin limp material (B65H 20/28 takes
+precedence; opening devices for sheets or signatures
+Unwinding, paying-out, forwarding, winding, coiling or
+depositing filamentary material
+   49/00    Unwinding or paying-out filamentary material;
+Supporting, storing or transporting packages from
+which filamentary material is to be withdrawn or
+paid-out (winding B65H 54/00; bobbins, tubes or
+other cores for packages B65H 75/00)
+   49/02    . Methods or apparatus in which packages do not
+   49/04    . . Package-supporting devices
+   49/06    . . . for a single operative package
+   49/08    . . . . enclosing the package
+   49/10    . . . for one operative package and one or more
+   49/12    . . . . the reserve packages being mounted to
+permit manual or automatic transfer to
+   49/14    . . . for several operative packages
+   49/16    . . . . Stands or frameworks
+   49/18    . Methods or apparatus in which packages rotate
+(supports or holders, for storing and repeatedly
+paying-out and rewinding lengths of material
+provided for particular purposes B65H 75/34)
+   49/20    . . Package-supporting devices
+   49/205   . . . {Hand-held or portable dispensers}
+   49/22    . . . Overhead suspension devices
+   49/26    . . . Axial shafts or spigots
+   49/28    . . . Turntables {, i.e. package resting on a table
+(having also means for clamping the package
+   49/30    . . . Swifts or skein holders
+   49/305   . . . . {with axially adjustable or removable
+elements for retaining the package}
+   49/32    . . . Stands or frameworks
+   49/321   . . . . {characterised by features enabling their
+   49/322   . . . . {Enclosing boxes with supporting means for
+the package or reel during unwinding}
+   49/324   . . . . {Constructional details}
+   49/325   . . . . . {Arrangements or adaptations for
+supporting the shafts, e.g. saddle type shaft
+   49/327   . . . . . {Arrangements or adaptations for
+attachment to a wall, a post or the like}
+   49/328   . . . . . {Arrangements or adaptations for
+   49/34    . . Arrangements for effecting positive rotation of
+   49/36    . Securing packages to supporting devices (replacing
+or removing cores, receptacles, or completed
+packages at paying-out, winding, or depositing
+   49/38    . Skips, cages, racks, or containers, adapted solely for
+the transport or storage of bobbins, cops, or the like
+   51/00    Forwarding filamentary material (stretch-spinning
+methods D01D 5/12; drawing or drafting rovings or
+   51/005   . Separating a bundle of forwarding filamentary
+materials into a plurality of groups
+   51/01    . . by means of static electricity
+   51/015   . Gathering a plurality of forwarding filamentary
+10Unwinding, paying-out, forwarding, winding, coiling or depositing filamentary material
+   51/02    . Rotary devices, e.g. with helical forwarding surfaces
+(devices for temporarily storing filamentary material
+during forwarding B65H 51/20; driven rotary
+devices for controlling tension B65H 59/18)
+   51/04    . . Rollers, pulleys, capstans, or intermeshing rotary
+   51/06    . . . arranged to operate singly
+   51/08    . . . arranged to operate in groups or in co-operation
+   51/10    . . . . with opposed coacting surfaces, e.g.
+   51/105   . . . . . {one of which is an endless belt}
+   51/12    . . . . in spaced relation to provide a series of
+independent forwarding surfaces around
+which material is passed or wound
+   51/14    . Aprons, endless belts, lattices, or like driven
+   51/16    . Devices for entraining material by flow of liquids or
+gases, e.g. air-blast devices (blowing slag wool in
+   51/18    . Gripping devices with linear motion
+   51/20    . Devices for temporarily storing filamentary material
+during forwarding, e.g. for buffer storage
+   51/205   . . {by means of a fluid}
+   51/22    . . Reels or cages, e.g. cylindrical, with storing and
+forwarding surfaces provided by rollers or bars
+{(measuring and temporaly storing the weft in
+looms D03D 47/36; thread feeding devices for
+weft knitting machines D04B 15/48)}
+   51/24    . . . with interdigitating bars
+   51/26    . . Rollers or bars mounted askew to facilitate
+movement of filamentary material along them,
+   51/28    . Arrangements for initiating a forwarding operation
+   51/30    . Devices controlling the forwarding speed to
+synchronise with supply, treatment, or take-
+up apparatus (B65H 59/10, B65H 59/38 take
+   51/32    . Supporting or driving arrangements for forwarding
+   54/00    Winding, coiling, or depositing filamentary
+material (cores, formers, holders, cans or receptacles
+   54/02    . Winding and traversing material on to reels,
+bobbins, tubes, or like package cores or formers
+   54/023   . . {Hank to spool winders}
+   54/026   . . {Doubling winders, i.e. for winding two or more
+parallel yarns on a bobbin, e.g. in preparation for
+   54/04    . . for making packages with closely-wound
+   54/06    . . for making cross-wound packages
+   54/08    . . . Precision winding arrangements
+   54/10    . . for making packages of specified shapes or
+on specified types of bobbins, tubes, cores, or
+   54/103   . . . {forming frusto-conical packages or forming
+packages on frusto-conical bobbins, tubes,
+   54/106   . . . {Manual or other small, compact or portable
+winding devices for forming packages for
+   54/12    . . . on flanged bobbins or spools (B65H 54/20
+   54/14    . . . on tubes, cores, or formers having generally
+parallel sides, e.g. cops or packages to be
+   54/16    . . . forming bottle bobbin packages
+   54/18    . . . forming spools to be loaded into sewing, lace,
+   54/20    . . . forming multiple packages
+   54/205   . . . . {the winding material being continuously
+transferred from one bobbin to the adjacent
+   54/22    . . Automatic winding machines, i.e. machines with
+servicing units for automatically performing end-
+finding, interconnecting of successive lengths of
+material, controlling and fault-detecting of the
+running material and replacing or removing of
+   54/24    . . . having a plurality of winding units moving
+along an endless path past one or more fixed
+   54/26    . . . having one or more servicing units moving
+along a plurality of fixed winding units
+   54/28    . . Traversing devices; Package-shaping
+arrangements (arrangements for preventing
+ribbon winding B65H 54/38; grooved, slotted, or
+split drums for driving of packages B65H 54/46)
+   54/2803  . . . {with a traversely moving package}
+   54/2806  . . . {Traversing devices driven by cam}
+   54/2809  . . . . {rotating grooved cam (driving split drums
+   54/2812  . . . . . {with a traversing guide running in the
+   54/2815  . . . . {heart-shaped cam}
+   54/2818  . . . {Traversing devices driven by rod}
+   54/2821  . . . {Traversing devices driven by belts or chains
+(B65H 54/2836 takes precedence)}
+   54/2824  . . . . {with at least two traversing guides travelling
+   54/2827  . . . {Traversing devices with a pivotally mounted
+   54/283   . . . {Traversing devices driven by pneumatic or
+   54/2833  . . . {Traversing devices driven by electromagnetic
+   54/2836  . . . {with a rotating guide for traversing the yarn}
+   54/2839  . . . . {counter rotating guides, e.g. wings}
+   54/2842  . . . . {grooved, slotted, or split drums}
+   54/2845  . . . . {"screw" type Owens Fiberglas}
+   54/2848  . . . {Arrangements for aligned winding (reels
+with grooves or grooved elements for aligned
+   54/2851  . . . . {by pressing the material being wound
+against the drum, flange or already wound
+material, e.g. by fingers or rollers; guides
+moved by the already wound material
+(B65H 54/2869 takes precedence)}
+   54/2854  . . . . {Detection or control of aligned winding or
+   54/2857  . . . . . {Reversal control}
+   54/286   . . . . . . {by detection that the material has
+reached the flange or the reel end}
+   54/2863  . . . . . . . {the flange acting on the material, e.g.
+provoking wire climbing or incident
+11Unwinding, paying-out, forwarding, winding, coiling or depositing filamentary material
+   54/2866  . . . . . . {by detection of position, or distance
+   54/2869  . . . . . {Control of the rotating speed of the
+reel or the traversing speed for aligned
+   54/2872  . . . . . . {by detection of the incidence angle}
+   54/2875  . . . . . . {by detecting or following the already
+wound material, e.g. contour following}
+   54/2878  . . . . . . {by detection of incorrect conditions
+on the wound surface, e.g. material
+climbing on the next layer, a gap
+   54/2881  . . . {Traversing devices with a plurality of guides
+for winding on a plurality of bobbins (forming
+   54/2884  . . . {Microprocessor-controlled traversing
+devices in so far the control is not special
+to one of the traversing devices of groups
+B65H 54/2803 - B65H 54/325 or group
+   54/2887  . . . . {detecting the position of the yarn guide}
+   54/289   . . . . {stopping the yarn guide in a predetermined
+   54/2893  . . . {Superposed traversing, i.e. traversing or
+other movement superposed on a traversing
+   54/30    . . . with thread guides reciprocating
+or oscillating with fixed stroke
+{(B65H 54/2803 - B65H 54/2896 take
+   54/32    . . . with thread guides reciprocating or oscillating
+   54/325   . . . . {in accordance with growth of the package}
+   54/34    . . . for laying subsidiary winding, e.g. transfer tails
+   54/343   . . . . {when starting winding on an empty bobbin}
+   54/346   . . . . {on or outwardly of the fully wound yarn
+   54/36    . . . Yarn-guide advancing or raising mechanisms,
+   54/365   . . . . {for cops of pirn winding machine
+   54/38    . . Arrangements for preventing ribbon winding
+{; Arrangements for preventing irregular edge
+forming, e.g. edge raising or yarn falling from the
+   54/381   . . . {Preventing ribbon winding in a precision
+winding apparatus, i.e. with a constant
+ratio between the rotational speed of the
+bobbin spindle and the rotational speed of the
+traversing device driving shaft}
+   54/383   . . . . {in a stepped precision winding apparatus,
+i.e. with a constant wind ratio in each step}
+   54/385   . . . {Preventing edge raising, e.g. creeping
+   54/386   . . . . {with energy storing means for recovering
+the kinetic energy at the end of the traversing
+   54/388   . . . {Preventing the yarn from falling off the edge
+   54/40    . . Arrangements for rotating packages
+   54/42    . . . in which the package, core, or former is rotated
+by frictional contact of its periphery with a
+   54/44    . . . in which the package, core, or former is
+engaged with, or secured to, a driven member
+rotatable about the axis of the package
+   54/46    . . . Package drive drums
+   54/48    . . . . Grooved drums
+   54/485   . . . . . {with an auxiliary guide}
+   54/50    . . . . Slotted or split drums
+   54/52    . . . Drive contact pressure control, e.g. pressing
+   54/54    . . . Arrangements for supporting cores or formers
+at winding stations; Securing cores or formers
+   54/543   . . . . {Securing cores or holders to supporting or
+driving members, e.g. collapsible mandrels}
+   54/547   . . . . Cantilever supporting arrangements
+   54/553   . . . . Both-ends supporting arrangements
+   54/56    . Winding of hanks or skeins
+   54/58    . . Swifts or reels adapted solely for the formation of
+hanks or skeins (B65H 49/30 takes precedence)
+   54/585   . . . {Reels for rolling tape-like material, e.g. flat
+hose or strap, into flat spiral form; Means for
+retaining the roll after removal of the reel}
+   54/60    . . Devices for domestic use
+   54/62    . . Binding of skeins
+   54/64    . Winding of balls; {(forming hollow objects by
+winding on to fusible or soluble cores, e.g. forming
+   54/66    . . Winding yarns into balls
+   54/68    . Winding on to cards or other flat cores, e.g. of star
+   54/70    . Other constructional features of yarn-winding
+   54/702   . . {Arrangements for confining or removing dust
+(for spinning D01H 11/00; cleaning in general
+   54/705   . . {Arrangements for reducing hairyness of the
+   54/707   . . {Suction generating system}
+   54/71    . . Arrangements for severing filamentary materials
+   54/72    . . Framework; Casings; Coverings
+   54/74    . . Driving arrangements (arrangements for
+preventing ribbon winding B65H 54/38;
+arrangements for rotating packages B65H 54/40)
+   54/76    . Depositing materials in cans or receptacles
+   54/78    . . Apparatus in which the depositing device or the
+   54/80    . . Apparatus in which the depositing device or the
+   54/82    . . . and in which coils are formed before deposition
+   54/84    . . Arrangements for compacting materials in
+   54/86    . Arrangements for taking-up waste material before
+   54/88    . . by means of pneumatic arrangements, e.g. suction
+   55/00    Wound packages of filamentary material
+   55/005   . {with two or more filaments wound in parallel on
+   55/02    . Self-supporting packages
+   55/04    . characterised by method of winding
+   55/043   . . {the yarn paying off through the centre of the
+12Unwinding, paying-out, forwarding, winding, coiling or depositing filamentary material
+   55/046   . . {packages having a radial opening through which
+   57/00    Guides for filamentary materials; Supports
+   57/003   . {Arrangements for threading or unthreading the
+   57/006   . {Traversing guides}
+   57/02    . Stationary rods or plates
+   57/04    . Guiding surfaces within slots or grooves
+   57/06    . Annular guiding surfaces; Eyes, e.g. pigtails
+   57/08    . . formed of wire or the like
+   57/10    . . with flared apertures
+   57/14    . Pulleys, rollers, or rotary bars
+   57/16    . formed to maintain a plurality of filaments in spaced
+   57/18    . mounted to facilitate unwinding of material from
+   57/20    . . Flyers (for inserting twist D01H)
+   57/22    . adapted to prevent excessive ballooning of material
+   57/24    . with wear-resistant surfaces
+   57/26    . Supports for guides
+   57/28    . Reciprocating or oscillating guides (traversing
+devices for winding, coiling, or depositing
+filamentary material B65H 54/28)
+   59/00    Adjusting or controlling tension in filamentary
+material, e.g. for preventing snarling; Applications
+   59/005   . {Means compensating the yarn tension in relation
+with its moving due to traversing arrangements}
+   59/02    . by regulating delivery of material from supply
+package (by contact of package with support
+B65H 49/02; by controlling speed of driving
+mechanism of unwinding or paying-out devices
+   59/04    . . by devices acting on package or support
+   59/043   . . . {with a braking force varying proportionally to
+the diameter or the weight of the package being
+   59/046   . . . . {varying proportionally to the weight only}
+   59/06    . . by devices acting on material leaving the package
+   59/08    . by contact of running length of material with supply
+   59/10    . by devices acting on running material and not
+associated with supply or take-up devices (by
+controlling speed of driving mechanism of material-
+   59/105   . . {the material being subjected to the action of a
+   59/12    . . Stationary elements arranged to deflect material
+   59/14    . . . and provided with surfaces imposing additional
+   59/16    . . Braked elements rotated by material
+   59/18    . . Driven rotary elements (material-forwarding
+   59/20    . . Co-operating surfaces mounted for relative
+   59/22    . . . and arranged to apply pressure to material
+   59/225   . . . . {Tension discs}
+   59/24    . . . . Surfaces movable automatically to
+compensate for variation in tension
+   59/26    . . . and arranged to deflect material from straight
+   59/28    . . . . the surfaces being urged towards each other
+   59/30    . . . . . Surfaces movable automatically to
+compensate for variation in tension
+   59/32    . . . . the surfaces being urged away from each
+   59/34    . . . . . Surfaces movable automatically to
+compensate for variation in tension
+   59/36    . . Floating elements compensating for irregularities
+in supply or take-up of material (buffer storage
+   59/38    . by regulating speed of driving mechanism of
+unwinding, paying-out, forwarding, winding, or
+depositing devices, e.g. automatically in response to
+   59/381   . . {using pneumatic or hydraulic means}
+   59/382   . . {using mechanical means}
+   59/384   . . {using electronic means}
+   59/385   . . . {Regulating winding speed}
+   59/387   . . . {Regulating unwinding speed}
+   59/388   . . . {Regulating forwarding speed}
+   59/40    . Applications of tension indicators
+   61/00    Applications of devices for metering
+predetermined lengths of running material (of
+   61/005   . {for measuring speed of running yarns}
+   63/00    Warning or safety devices, e.g. automatic fault
+detectors, stop-motions (safety devices in general
+F16P; indicating devices in general G08B ){; Quality
+   63/003   . {responsive to winding of yarns around rotating
+   63/006   . {quality control of the package}
+   63/02    . responsive to reduction in material tension, failure
+of supply, or breakage, of material
+   63/024   . . responsive to breakage of materials
+   63/028   . . . characterised by the detecting or sensing
+   63/032   . . . . electrical or pneumatic
+   63/0321  . . . . . {using electronic actuators}
+   63/0322  . . . . . . {using capacitor sensing means, i.e.
+the defect signal is a variation of
+   63/0324  . . . . . . {using photo-electric sensing means, i.e.
+the defect signal is a variation of light
+   63/0325  . . . . . . {using fluid sensing means, e.g.
+   63/0327  . . . . . . {using piezo-electric sensing means}
+   63/0328  . . . . . {using pneumatic sensing means}
+   63/036   . . . characterised by the combination of the
+detecting or sensing elements with other
+devices, e.g. stopping devices for material
+   63/0362  . . . . {by a plate separating the package from the
+   63/0364  . . . . {by lifting or raising the package away from
+   63/0366  . . . . . {Braking means for the raised or lifted
+13Unwinding, paying-out, forwarding, winding, coiling or depositing filamentary material
+   63/0368  . . . . {by clutching or de-clutching the package
+from its driving means (package secured to a
+   63/04    . responsive to excessive tension or irregular
+   63/06    . responsive to presence of irregularities in
+running material, e.g. for severing the material at
+irregularities {; Control of the correct working of
+   63/061   . . {Mechanical slub catcher and detector}
+   63/062   . . {Electronic slub detector}
+   63/064   . . . {using capacitor sensing means, i.e. the defect
+signal is a variation of impedance}
+   63/065   . . . {using photo-electric sensing means, i.e. the
+defect signal is a variation of light energy}
+   63/067   . . . {using fluid sensing means, e.g. acoustic}
+   63/068   . . . {using piezo-electric sensing means}
+   63/08    . responsive to delivery of a measured length of
+material, completion of winding of a package, or
+   63/082   . . {responsive to a predetermined size or diameter
+   63/084   . . {responsive to a predetermined weight of the
+   63/086   . . {responsive to completion of unwinding of a
+   63/088   . . {Clamping device (connected with slub-catcher
+   65/00    Securing material to cores or formers
+(arrangements for securing ends of material to cores,
+formers, supports or holders, e.g. reels, B65H 75/28)
+   65/005   . {Securing end of yarn in the wound or completed
+   67/00    Replacing or removing cores, receptacles, or
+completed packages at paying-out, winding, or
+   67/02    . Arrangements for removing spent cores or
+receptacles and replacing by supply packages
+at paying-out stations ({for cans D01H 9/008;
+arrangement of the service carriage B65H 54/26; }
+supports for packages B65H 49/04, B65H 49/20)
+   67/04    . Arrangements for removing completed take-up
+packages and {or} replacing by cores, formers,
+or empty receptacles at winding or depositing
+stations; Transferring material between adjacent full
+and empty take-up elements {(arrangement of the
+   67/0405  . . {Arrangements for removing completed take-
+up packages or for loading an empty core
+(B65H 67/044 takes precedence)}
+   67/0411  . . . {for removing completed take-up packages}
+   67/0417  . . . {for loading an empty core}
+   67/0422  . . . . {for loading a starter winding, i.e. a spool
+core with a small length of yarn wound on it;
+   67/0428  . . {for cans, boxes and other receptacles}
+   67/0434  . . . {Transferring material devices between full and
+   67/044   . . Continuous winding apparatus for winding on
+two or more winding heads in succession
+   67/048   . . . having winding heads arranged on rotary
+   67/052   . . . having two or more winding heads arranged in
+   67/056   . . . having two or more winding heads arranged in
+   67/06    . Supplying cores, receptacles, or packages to,
+or transporting from, winding or depositing
+stations {(between spinning and winding machines
+D01H 9/18, e.g. transporting cans D01H 9/185)}
+   67/061   . . {Orientating devices}
+   67/062   . . {Sorting devices for full/empty packages}
+   67/063   . . {Marking or identifying devices for packages}
+   67/064   . . {Supplying or transporting cross-wound
+packages, also combined with transporting the
+   67/065   . . . {Manipulators with gripping or holding means
+for transferring the packages from one station
+to another, e.g. from a conveyor to a creel
+   67/066   . . {Depositing full or empty bobbins into a
+   67/067   . . {Removing full or empty bobbins from a
+   67/068   . . {Supplying or transporting empty cores}
+   67/069   . . {Removing or fixing bobbins or cores from or on
+the vertical peg of trays, pallets or the pegs of a
+   67/08    . Automatic end-finding and material-interconnecting
+arrangements (knot-tying devices B65H 69/00)
+   67/081   . . {acting after interruption of the winding
+process, e.g. yarn breakage, yarn cut or package
+   67/083   . . . {handling the yarn-end of the new supply
+   67/085   . . . {end-finding at the take-up package, e.g. by
+suction and reverse package rotation}
+   67/086   . . {Preparing supply packages}
+   67/088   . . . {Prepositioning the yarn end into the interior of
+   69/00    Methods of, or devices for, interconnecting
+successive lengths of material; Knot-tying
+devices {;Control of the correct working of the
+   69/02    . by means of adhesives
+   69/043   . . {the threads are moved in ducts having the form
+   69/06    . by splicing {(grommets made by splicing
+D07B 1/18, auxiliary apparatus for splicing ropes or
+   69/061   . . {using pneumatic means}
+   69/063   . . . {Preparation of the yarn ends}
+   69/065   . . . . {using mechanical means}
+   69/066   . . . {Wet splicing, i.e. adding liquid to the splicing
+room or to the yarn ends preparing rooms}
+   69/068   . . {using a binding thread, e.g. sewing}
+   69/085   . . {using ultrasonic means}
+   71/00    Moistening, sizing, oiling, waxing, colouring
+or drying filamentary material as additional
+measures during package formation (applying
+liquids or other fluent materials to surfaces in general
+14Unwinding, paying-out, forwarding, winding, coiling or depositing filamentary material
+   71/002   . {Abrading, scraping (in general D02J 3/00)}
+   71/005   . {Oiling, waxing by applying solid wax cake during
+   71/007   . {Oiling, waxing by applying liquid during spooling}
+   73/00    Stripping waste material from cores or formers,
+Methods, apparatus or devices of general interest or not
+otherwise provided for in connection with the handling of webs,
+   75/00    Storing webs, tapes, or filamentary material, e.g.
+on reels (fishing reels A01K 89/00; storing means for
+record carriers, specially adapted for cooperation with
+the recording or reproducing apparatus G11B 23/02)
+   75/005   . {Working on damaged packages, e.g. reshaping
+collapsed cores (working on cores, reels or the like
+to permit their reuse B65H 75/505)}
+   75/02    . Cores, formers, supports, or holders for coiled,
+wound, or folded material, e.g. reels, spindles,
+bobbins, cop tubes, cans {, mandrels or chucks}
+   75/025   . . {specially adapted for winding or storing webs
+with the confronting layers spaced from each
+other, e.g. frames for storing nap fabrics}
+   75/04    . . Kinds or types (B65H 75/18 takes precedence)
+   75/06    . . . Flat cores, e.g. cards
+   75/08    . . . of circular or polygonal cross-section (cans or
+   75/10    . . . . without flanges, e.g. cop tubes
+   75/105   . . . . . {Pirns destined for use in shuttles, i.e. with
+a yarn receiving portion and a thicker base
+portion, this thicker portion being adapted
+to be engaged by a spindle in a spinning
+frame and also being adapted for fitting in
+   75/12    . . . . with a single end flange {(e.g. with a conical
+end flange)}; formed with one end of greater
+   75/14    . . . . with two end flanges
+   75/141   . . . . . {covers therefor}
+   75/143   . . . . . {at least one end flange being shaped to
+   75/145   . . . . . {Reinforcement or protection
+arrangements for the peripheral edge of the
+   75/146   . . . . . {with at least one intermediate flange
+   75/148   . . . . . {with at least one frustoconical end
+   75/16    . . . Cans or receptacles, e.g. sliver cans
+   75/18    . . Constructional details
+   75/182   . . . {Identification means}
+   75/185   . . . {End caps, plugs or adapters}
+   75/187   . . . . {Reinforcing end caps}
+   75/20    . . . Skeleton construction, e.g. formed of wire
+{(perforated supports for textile materials to be
+   75/22    . . . collapsible; with removable parts
+Group B65H 75/22 is impacted by
+reclassification into groups B65H 75/2209,
+All groups listed in this Warning should be
+considered in order to perform a complete
+   75/2209  . . . . {collapsible by use of hinged or slidable
+parts; foldable without removing parts}
+Group B65H 75/2209 is incomplete
+pending reclassification of documents
+Groups B65H 75/22 and B65H 75/2209
+should be considered in order to perform
+   75/2218  . . . . {Collapsible hubs}
+Groups B65H 75/2218 and B65H 75/2227
+are incomplete pending reclassification of
+documents from group B65H 75/22.
+Groups B65H 75/22, B65H 75/2218 and
+B65H 75/2227 should be considered in
+order to perform a complete search.
+   75/2227  . . . . . {with a flange fixed to the hub part}
+   75/2236  . . . . {Collapsible flanges}
+Group B65H 75/2236 is incomplete
+pending reclassification of documents
+Groups B65H 75/22 and B65H 75/2236
+should be considered in order to perform
+   75/2245  . . . . {connecting flange to hub}
+Group B65H 75/2245 is incomplete
+pending reclassification of documents
+Groups B65H 75/22 and B65H 75/2245
+should be considered in order to perform
+15Methods, apparatus or devices of general interest or not otherwise provided for in connection with the
+   75/2254  . . . . {with particular joining means for releasably
+Groups B65H 75/2254, B65H 75/2263,
+B65H 75/229 are incomplete pending
+reclassification of documents from group
+All groups listed in this Warning should
+be considered in order to perform a
+   75/2263  . . . . . {Discrete fasteners, e.g. bolts or screws}
+   75/2272  . . . . . {releasably connected by relative rotatable
+movement of parts, e.g. threaded or
+   75/2281  . . . . . {Snap-fit connections}
+   75/229   . . . . . {Bendable tabs being deformable over a
+   75/24    . . . adjustable in configuration, e.g. expansible
+Group B65H 75/24 is impacted by
+reclassification into group B65H 75/2495.
+Groups B65H 75/24 and B65H 75/2495
+should be considered in order to perform a
+   75/241   . . . . {axially adjustable reels or bobbins}
+Group B65H 75/241 is impacted by
+reclassification into groups B65H 75/2413
+Groups B65H 75/241, B65H 75/2413 and
+B65H 75/2416 should be considered in
+order to perform a complete search.
+   75/2413  . . . . . {adjustable by threaded means}
+Group B65H 75/2413 is incomplete
+pending reclassification of documents
+B65H 75/2413 should be considered in
+order to perform a complete search.
+   75/2416  . . . . . {with axial positions defined by discrete
+Group B65H 75/2416 is incomplete
+pending reclassification of documents
+B65H 75/2416 should be considered in
+order to perform a complete search.
+   75/242   . . . . {Expansible spindles, mandrels or chucks,
+e.g. for securing or releasing cores, holders
+Group B65H 75/242 is impacted by
+reclassification into groups B65H 75/243,
+All groups listed in this Warning should
+be considered in order to perform a
+   75/243   . . . . . {actuated by use of a fluid}
+Group B65H 75/243 is incomplete
+pending reclassification of documents
+Group B65H 75/243 is also impacted
+Groups B65H 75/242, B65H 75/243
+considered in order to perform a
+   75/2437  . . . . . . {comprising a fluid-pressure-actuated
+elastic member, e.g. a diaphragm or a
+incomplete pending reclassification
+Groups B65H 75/242, B65H 75/243
+considered in order to perform a
+   75/245   . . . . . {by deformation of an elastic or
+flexible material (B65H 75/2437 takes
+Group B65H 75/245 is incomplete
+pending reclassification of documents
+Group B65H 75/245 is also impacted
+Groups B65H 75/242, B65H 75/245
+considered in order to perform a
+16Methods, apparatus or devices of general interest or not otherwise provided for in connection with the
+   75/2455  . . . . . . {deformation resulting from axial
+compression of elastic or flexible
+incomplete pending reclassification
+Groups B65H 75/242, B65H 75/245
+considered in order to perform a
+   75/246   . . . . . {expansion caused by relative rotation
+around the supporting spindle or core axis}
+Group B65H 75/246 is incomplete
+pending reclassification of documents
+Group B65H 75/246 is also impacted
+Groups B65H 75/242, B65H 75/246
+and B65H 75/249 should be considered
+in order to perform a complete search.
+   75/247   . . . . . . {using rollers or rods moving relative to
+Group B65H 75/247 is incomplete
+documents from group B65H 75/242.
+Group B65H 75/247 is also impacted
+Groups B65H 75/242, B65H 75/247
+considered in order to perform a
+   75/248   . . . . . {expansion caused by actuator movable in
+Group B65H 75/248 is incomplete
+pending reclassification of documents
+Group B65H 75/248 is also impacted
+by reclassification into groups
+All groups listed in this Warning should
+be considered in order to perform a
+   75/2484  . . . . . . {movable actuator including wedge-like
+incomplete pending reclassification
+Groups B65H 75/242, B65H 75/248
+considered in order to perform a
+   75/2487  . . . . . . {comprising a linkage}
+incomplete pending reclassification
+Groups B65H 75/242, B65H 75/248
+considered in order to perform a
+   75/249   . . . . . {expansion caused by actuator movable
+in direction perpendicular to or about the
+axis (B65H 75/243 – B65H 75/2487 take
+Group B65H 75/249 is incomplete
+pending reclassification of documents
+All groups listed in this Warning should
+be considered in order to perform a
+   75/2495  . . . . . {including plural segments or spokes
+which are individually adjustable}
+Group B65H 75/2495 is incomplete
+pending reclassification of documents
+Groups B65H 75/24, B65H 75/242 and
+B65H 75/2495 should be considered in
+order to perform a complete search.
+   75/26    . . . Arrangements for preventing slipping of
+   75/265   . . . . {Reels with grooves or grooved elements
+inhibiting aligned or orderly winding}
+   75/28    . . . Arrangements for positively securing ends of
+   75/285   . . . . {Holding devices to prevent the wound
+   75/30    . . . Arrangements to facilitate driving or braking
+   75/305   . . . . {Arrangements to facilitate driving by a
+   75/32    . . . Arrangements to facilitate severing of material
+17Methods, apparatus or devices of general interest or not otherwise provided for in connection with the
+   75/34    . . specially adapted or mounted for storing and
+repeatedly paying-out and re-storing lengths of
+material provided for particular purposes, e.g.
+anchored hoses, power cables (retractors for
+storing flexible hoses as accessories of dental
+work stands A61G 15/18; vehicle safety belt
+retractors B60R 22/34; hose-storing devices in
+apparatus or devices for transferring liquids from
+bulk storage containers or reservoirs into vehicles
+or portable containers B67D 7/40; clothes-line
+supports D06F 53/00; spring drums for liftable
+blinds with horizontal lamellae E06B 9/322;
+spring drums or tape drums for roll-type closures
+or roller blinds E06B 9/56; hauling- or hoisting-
+chains with arrangements for holding electric
+cables, hoses or the like F16G 13/16; devices
+for guiding pipes, cables or protective tubing,
+between relatively movable points, e.g. movable
+channels, F16L 3/01; flexible rulers or tapes with
+scales G01B 3/10; electrical features of stored
+material, see the relevant subclasses, e.g. H02G)
+   75/36    . . . without essentially involving the use of a
+core or former internal to a stored package
+of material, e.g. with stored material housed
+within casing or container, or intermittently
+engaging a plurality of supports as in sinuous
+   75/362   . . . . {with stored material housed within a
+casing or container (B65H 75/368 takes
+   75/364   . . . . . {the stored material being coiled}
+   75/366   . . . . {with stored package of material loosely
+hanging on a support, e.g. a hose hanger}
+   75/368   . . . . {with pulleys}
+   75/38    . . . involving the use of a core or former internal
+to, and supporting, a stored package of material
+   75/40    . . . . mobile or transportable
+   75/403   . . . . . {Carriage with wheels}
+   75/406   . . . . . {hand-held during use (B65H 75/48,
+   75/42    . . . . . attached to, or forming part of, mobile
+   75/425   . . . . . . {attached to, or forming part of a
+vehicle, e.g. truck, trailer, vessel}
+   75/44    . . . . Constructional details
+   75/4402  . . . . . {Guiding arrangements to control paying-
+out and re-storing of the material (guides
+   75/4405  . . . . . . {Traversing devices; means for orderly
+arranging the material on the drum}
+   75/4407  . . . . . . . {positively driven, e.g. by a
+transmission between the drum and
+   75/441   . . . . . . . {with a handle on the guide for
+   75/4413  . . . . . . . {with a traversely moving drum}
+   75/4415  . . . . . . . {Guiding ribs on the drum}
+   75/4418  . . . . . {Arrangements for stopping winding or
+unwinding; Arrangements for releasing the
+   75/4421  . . . . . . {acting directly on the material}
+   75/4423  . . . . . . . {Manual stop or release button}
+   75/4426  . . . . . . . {Stopping at the end of winding or
+   75/4428  . . . . . . {acting on the reel or on a reel blocking
+   75/4431  . . . . . . . {Manual stop or release button}
+   75/4434  . . . . . . . {actuated by pulling on or imparting
+an inclination to the material}
+   75/4436  . . . . . {Arrangements for yieldably braking the
+reel or the material for moderating speed
+   75/4439  . . . . . . {acting directly on the material}
+   75/4442  . . . . . . {acting on the reel}
+   75/4444  . . . . . . . {with manually adjustable brake
+   75/4447  . . . . . . . {centrifugally}
+   75/4449  . . . . . {Arrangements or adaptations to avoid
+movable contacts or rotary couplings, e.g.
+by the use of an expansion chamber for a
+   75/4452  . . . . . . {Simultaneous winding and unwinding
+of the material, e.g. winding or
+unwinding on a stationary drum while
+respectively unwinding or winding on a
+rotating drum using a planetary guiding
+   75/4455  . . . . . . . {using a planetary assembly coaxially
+rotating around a central drum}
+   75/4457  . . . . . {Arrangements of the frame or housing}
+   75/446   . . . . . . {for releasably or permanently attaching
+the frame to a wall, on a floor or on a
+   75/4463  . . . . . . . {Swivelling attachment}
+   75/4465  . . . . . . {Foldable or collapsible}
+   75/4468  . . . . . . {Tubular frame}
+   75/4471  . . . . . . {Housing enclosing the reel}
+   75/4473  . . . . . {without arrangements or adaptations for
+   75/4476  . . . . . . {with stored material wound around two
+   75/4478  . . . . . {relating to handling of fluids}
+   75/4481  . . . . . {Arrangements or adaptations for driving
+the reel or the material (by a spring
+   75/4484  . . . . . . {Electronic arrangements or adaptations
+unwinding process, e.g. with sensors}
+   75/4486  . . . . . . {Electric motors}
+   75/4489  . . . . . . {Fluid motors}
+   75/4492  . . . . . . {Manual drives}
+   75/4494  . . . . . . . {Arrangements or adaptations of the
+   75/4497  . . . . . . {driving by the wheels of the carriage or
+   75/48    . . . . . Automatic re-storing devices
+   75/483   . . . . . . {Balance reel}
+   75/486   . . . . . . {Arrangements or adaptations of the
+   75/50    . Methods of making reels, bobbins, cop tubes, or the
+like by working an unspecified material, or several
+   75/505   . . {Working on cores, reels or the like to permit
+their reuse, e.g. correcting distortion, replacing
+18Methods, apparatus or devices of general interest or not otherwise provided for in connection with the
+   79/00    Driving-gear for devices for forwarding, winding,
+unwinding, or depositing material, not otherwise
+   81/00    Methods, apparatus, or devices for covering
+or wrapping cores by winding webs, tapes, or
+filamentary material, not otherwise provided for
+(forming hollow objects by winding filamentary
+material on to fusible or soluble cores {B29C 53/56} ;
+wrapping for the purpose of packaging B65B 11/00;
+making wound articles of paper B31C)
+   81/02    . Covering or wrapping annular or like cores forming
+a closed or substantially closed figure
+   81/04    . . by feeding material obliquely to the axis of the
+   81/06    . Covering or wrapping elongated cores
+   81/08    . . by feeding material obliquely to the axis of the
+   83/00    Combinations of piling and depiling operations,
+e.g. performed simultaneously, of interest apart
+from the single operation of piling or depiling as
+   83/02    . performed on the same pile or stack
+   83/025   . . {onto and from the same side of the pile or stack}
+   85/00    Recirculating articles, i.e. feeding each article to,
+and delivering it from, the same machine work-
+   99/00    Subject matter not provided for in other groups of
+ 2220/00    Function indicators
+ 2220/01    . indicating an entity as a function of which control,
+adjustment or change is performed, i.e. input
+ 2220/02    . indicating an entity which is controlled, adjusted or
+changed by a control process, i.e. output
+ 2220/03    . indicating an entity which is measured, estimated,
+evaluated, calculated or determined but which does
+not constitute an entity which is adjusted or changed
+ 2220/04    . for distinguishing adjusting from controlling, i.e.
+ 2220/08    . for distinguishing changing an entity in function of
+another entity purely by mechanical means, i.e. no
+ 2220/09    . indicating that several of an entity are present
+ 2220/11    . indicating that the input or output entities
+exclusively relate to machine elements
+ 2301/00    Handling processes for sheets or webs
+ 2301/10    . Selective handling processes
+ 2301/11    . . of web or zig-zag web
+ 2301/12    . . of sheets or web
+ 2301/121   . . . for sheet handling processes, i.e. wherein the
+ 2301/122   . . . for web or sheet handling processes wherein
+the sheets are cut from the web
+ 2301/13    . . Relative to size or orientation of the material
+ 2301/131   . . . single width or double width
+ 2301/132   . . . single face or double face
+ 2301/1321  . . . . Printed material
+ 2301/133   . . . Face-up or face-down handling mode
+ 2301/134   . . . Portrait or landscape printing
+ 2301/14    . . of batches of material of different characteristics
+ 2301/141   . . . of different format, e.g. A0 - A4
+ 2301/142   . . . of different thickness
+ 2301/1421  . . . . Single sheet or set of sheets
+ 2301/1422  . . . . Sheet or envelope
+ 2301/15    . . of sheets in pile or in shingled formation
+ 2301/151   . . . Selective shingled formation
+ 2301/1511  . . . . Selective shingled or non shingled formation
+ 2301/152   . . . of sheets piled horizontally or vertically
+ 2301/16    . . of discharge in bins, stacking, collating or
+ 2301/161   . . . Mailing or sorting mode
+ 2301/162   . . . Normal or offset stacking mode
+ 2301/163   . . . Bound or non bound, e.g. stapled or non stapled
+ 2301/1635  . . . selective stapling modes, e.g. corner or edge or
+ 2301/164   . . . Folded or non folded stacking mode
+ 2301/165   . . . Normal or finished stacking mode
+ 2301/166   . . . Superposed or interfolded stacking mode
+ 2301/17    . . Selective folding mode
+ 2301/20    . Continuous handling processes
+ 2301/21    . . of batches of material of different characteristics
+ 2301/211   . . . of different format, e.g. A0 - A4
+ 2301/212   . . . of different thickness
+ 2301/22    . . of material of different characteristics
+ 2301/23    . . of multiple materials in parallel to each other
+ 2301/231   . . . Recto verso portions of a single material
+ 2301/30    . Orientation, displacement, position of the handled
+ 2301/31    . . Features of transport path
+ 2301/311   . . . for transport path in plane of handled material,
+ 2301/31122 . . . . Omega-shaped
+ 2301/3114  . . . . oblique with respect to axis of handled
+ 2301/312   . . . for transport path involving at least two planes
+of transport forming an angle between each
+ 2301/3162  . . . . involving only one plane containing the roll
+ 2301/31622 . . . . . rectilinear transport path
+ 2301/3164  . . . . involving at least two planes containing the
+ 2301/32    . . Orientation of handled material
+ 2301/321   . . . Standing on edge
+ 2301/322   . . . Riding over one elongated or saddle-like
+ 2301/3221  . . . . on saddle-like member extending
+perpendicularly to the transport direction
+ 2301/325   . . . of roll of material
+ 2301/3251  . . . . vertical axis
+ 2301/3253  . . . . inclined axis
+ 2301/33    . . Modifying, selecting, changing orientation
+ 2301/331   . . . Skewing, correcting skew, i.e. changing
+slightly orientation of material
+ 2301/332   . . . Turning, overturning
+ 2301/3321  . . . . kinetic therefor
+ 2301/33212 . . . . . about an axis parallel to the direction of
+ 2301/33214 . . . . . about an axis perpendicular to the
+direction of displacement and parallel to
+ 2301/33216 . . . . . about an axis perpendicular to the
+direction of displacement and to the
+ 2301/3322  . . . . according to a determined angle
+ 2301/3331  . . . . Involving forward reverse transporting
+ 2301/33312 . . . . . forward reverse rollers pairs
+ 2301/33314 . . . . . forward reverse belts
+ 2301/3332  . . . . Tri-rollers type
+ 2301/34    . . Modifying, selecting, changing direction of
+ 2301/341   . . . without change of plane of displacement
+ 2301/3411  . . . . Right angle arrangement, i.e. 90 degrees
+ 2301/34112 . . . . . changing leading edge
+ 2301/3412  . . . . involving transport means arranged obliquely
+to the in-feed or/and out-feed conveyor
+ 2301/342   . . . with change of plane of displacement
+ 2301/3421  . . . . for changing level of plane of displacement,
+i.e. the material being transported in parallel
+planes after at least two changes of direction
+ 2301/3422  . . . . by travelling a path section in arc of circle
+ 2301/3423  . . . . by travelling an angled curved path section
+for overturning and changing feeding
+ 2301/34232 . . . . . involving conical angled curved path
+ 2301/351   . . . parallel to the direction of displacement
+ 2301/36    . . Positioning; Changing position
+ 2301/361   . . . during displacement
+ 2301/3611  . . . . centering, positioning material symmetrically
+relatively to a given axis of displacement
+ 2301/36112 . . . . . by elements engaging both sides of web
+ 2301/3612  . . . . oscillating material transversely relatively to
+ 2301/3613  . . . . Lateral positioning
+ 2301/36132 . . . . . involving slanted belts or chains
+ 2301/362   . . . of stationary material
+ 2301/3621  . . . . perpendicularly to a first direction in which
+the material is already in registered position
+ 2301/36212 . . . . . centering, positioning material
+symmetrically relatively to said first
+ 2301/363   . . . of material in pile
+ 2301/364   . . . of material in roll
+ 2301/40    . Type of handling process
+ 2301/41    . . Winding, unwinding
+ 2301/4124  . . . . Outer end attachment
+ 2301/41242 . . . . . Tab arrangement
+ 2301/41244 . . . . . glued between outmost layer and tail
+ 2301/41246 . . . . . by machine, e.g. on unwinder turret
+ 2301/4127  . . . . with interleaf layer, e.g. liner
+ 2301/4128  . . . . Multiple rolls
+ 2301/41282 . . . . . coaxially arranged
+ 2301/41284 . . . . . involving juxtaposed lanes wound around
+ 2301/412845 . . . . . . and spliced to each other, e.g. for serial
+ 2301/413   . . . Supporting web roll
+ 2301/41306 . . . . Slot arrangement, e.g. saddle shaft bearing
+ 2301/41308 . . . . Releasably clamping the web roll shaft
+ 2301/4131  . . . . Support with vertical axis
+ 2301/41312 . . . . . the axis being displaced on circular path of
+ 2301/4132  . . . . Cantilever arrangement
+ 2301/41322 . . . . . pivoting movement of roll support
+ 2301/413223 . . . . . . around an axis parallel to roll axis
+ 2301/413226 . . . . . . around an axis perpendicular to roll axis
+ 2301/41324 . . . . . linear movement of roll support
+ 2301/413243 . . . . . . parallel to roll axis
+ 2301/413246 . . . . . . perpendicular to roll axis (e.g. lowering)
+ 2301/4133  . . . . . . special features
+ 2301/41335 . . . . . . . locking mechanism for roll, e.g. axial
+ 2301/4134  . . . . Both ends type arrangement
+ 2301/41342 . . . . . shaft transversing the roll (see also
+ 2301/41344 . . . . . . the roll being fixed to the shaft (e.g. by
+ 2301/41346 . . . . . separate elements engaging each end of
+ 2301/4135  . . . . Movable supporting means
+ 2301/41352 . . . . . moving on linear path (including linear
+ 2301/413523 . . . . . . reciprocrating supporting means
+ 2301/413526 . . . . . . vertically moving supporting means
+ 2301/41354 . . . . . moving along a path enclosing a circular
+ 2301/41356 . . . . . moving on path enclosing a non-circular
+ 2301/41358 . . . . . moving on an arc of a circle, i.e. pivoting
+ 2301/4136  . . . . Mounting arrangements not otherwise
+ 2301/41361 . . . . . sequentially used roll supports for the
+ 2301/41362 . . . . . one of the supports for the roller axis being
+ 2301/41364 . . . . . the roller axis pivoting around an axis
+ 2301/41366 . . . . . arrangements for mounting and supporting
+and -preferably- driving the (un)winding
+ 2301/413665 . . . . . . articulated bearing
+ 2301/41368 . . . . . one or two lateral flanges covering part of
+ 2301/413683 . . . . . . at least one flange transmitting driving
+ 2301/413686 . . . . . . The driving flange being rotationally
+ 2301/41369 . . . . . hub arrangements, i.e. involving additional
+part between core / roll and machine
+ 2301/4137  . . . . on its outer circumference
+ 2301/41372 . . . . . rollers or balls arrangement
+ 2301/41374 . . . . . . arranged in a stationary manner
+ 2301/41376 . . . . . . arranged in a non-stationary manner,
+i.e. changing according to actual roll
+ 2301/4138  . . . . . belt arrangement
+ 2301/41382 . . . . . . arranged in stationary manner
+ 2301/41384 . . . . . . arranged in non-stationary manner,
+i.e. changing according to actual roll
+ 2301/41386 . . . . . fixed or flexible frictional surface
+ 2301/41387 . . . . . on inclined surface
+ 2301/4139  . . . . Supporting means for several rolls
+ 2301/41392 . . . . . moving in forced (kinematic) relationship
+ 2301/41394 . . . . . moving independently from each other
+ 2301/41398 . . . . . juxtaposed
+ 2301/4141  . . . . Preparing winding process
+ 2301/41414 . . . . . involving pulper or doctor blade or air
+ 2301/41417 . . . . . cutting leading strip (überführstreifen) for
+ 2301/41419 . . . . Starting winding process
+ 2301/41421 . . . . . involving electrostatic means
+ 2301/41422 . . . . . involving mechanical means
+ 2301/414222 . . . . . . fixed to frame, tucking leading edge to
+ 2301/414225 . . . . . . fixed to shaft or mandrel, e.g. clamping
+or pinching leading edge to shaft or
+ 2301/414227 . . . . . . rotatable grippers for coreless winding
+ 2301/41423 . . . . . involving liquid, e.g. wetting core by water
+ 2301/41424 . . . . . involving use of glue
+ 2301/41425 . . . . . involving blowing means, e.g. air blast
+ 2301/41426 . . . . . involving suction means, e.g. core with
+ 2301/41427 . . . . . involving arrangements for securing
+leading edge to core, e.g. adhesive tape
+ 2301/41428 . . . . . involving additional element between core
+ 2301/41429 . . . . . in coreless applications
+ 2301/4143  . . . . Performing winding process
+ 2301/41432 . . . . . special features of winding process
+ 2301/414321 . . . . . . helical winding (B65H 2701/18444
+ 2301/414322 . . . . . . oscillated winding, i.e. oscillating the
+axis of the winding roller or material
+ 2301/414323 . . . . . . spiral winding, i.e. single layers not
+touching each other, e.g. for tyre rubber
+ 2301/414324 . . . . . . involving interleaf web/sheet, e.g. liner
+ 2301/414325 . . . . . . winding a core in-line with the web, e.g.
+wound core made out of sheet material
+ 2301/414326 . . . . . . winding on core with non-circular cross-
+sectional profile, e.g. polygonal, oval,
+ 2301/414327 . . . . . . winding on core irregular inner or outer
+longitudinal profile, e.g. stepped or
+ 2301/414328 . . . . . . different torques on both ends of core
+ 2301/414329 . . . . . . blowing gas into winding gap
+ 2301/4144  . . . . Finishing winding process
+ 2301/41441 . . . . . and blocking outer layers against falling
+ 2301/41442 . . . . . . Specified by the sealing medium sealing
+ 2301/414421 . . . . . . . Glue or hot-melt
+ 2301/414422 . . . . . . . Adhesive tape
+ 2301/414424 . . . . . . . Electrostatic charge
+ 2301/414425 . . . . . . . Simultaneous deformation of trailing
+ 2301/414427 . . . . . . . Heating or use of thermoplastic
+ 2301/414428 . . . . . . . Folding of trailing end
+ 2301/41443 . . . . . . Specified by the place to where the
+ 2301/414433 . . . . . . . onto the roll
+ 2301/414436 . . . . . . . onto the web
+ 2301/41444 . . . . . . Specified by process phase during which
+ 2301/414443 . . . . . . . Sealing or securing within the
+ 2301/414446 . . . . . . . Sealing or securing in a separate
+ 2301/41445 . . . . . after winding process
+ 2301/41446 . . . . . . removing roll/core from shaft/mandrel,
+ 2301/41447 . . . . . . discharging roll by, e.g. rolling it down
+ 2301/4146  . . . . involving particular drive arrangement
+ 2301/41461 . . . . . centre drive
+ 2301/41462 . . . . . nip drive
+ 2301/41464 . . . . . lateral drive arrangement, e.g. operating on
+ 2301/41466 . . . . . combinations of drives
+ 2301/41468 . . . . . . centre and nip drive
+ 2301/41482 . . . . . prepare slitting process
+ 2301/41484 . . . . . slitting roll after winding, i.e. cutting log
+ 2301/41485 . . . . . winding on one single shaft or support
+ 2301/41486 . . . . . winding on two or more winding shafts
+ 2301/414863 . . . . . . directly against central support roller
+ 2301/414866 . . . . . . on bed rollers
+ 2301/41487 . . . . . trimming edge
+ 2301/4149  . . . . . features concerning supply of cores
+ 2301/41493 . . . . . . integrated core cutter
+ 2301/41496 . . . . . . loading pre-arranged set of cores
+ 2301/41501 . . . . Special features of unwinding process
+ 2301/415013 . . . . . Roll holder being able to pivote around an
+axis perpendicular to roller axis
+ 2301/415016 . . . . . Roll material fed from inner layer
+ 2301/41505 . . . . Preparing unwinding process
+ 2301/41506 . . . . . the web roll not yet being in the unwinding
+ 2301/415063 . . . . . . the preparation performed in a roll
+ 2301/415066 . . . . . . by connecting trailing edge of expiring
+web to leading edge of following web
+ 2301/41508 . . . . . the web roll being in the unwinding
+ 2301/415085 . . . . . . by adjusting / registering the lateral
+ 2301/41509 . . . . . . opening web roll and related steps
+ 2301/415095 . . . . . . . gripping an edge of the web, e.g.
+by clamping and forward it, e.g. to
+ 2301/4151  . . . . Starting unwinding process
+ 2301/41518 . . . . Performing unwinding process
+ 2301/415185 . . . . . Web unwound being guided over
+(pivoting) guide resting on the roller
+ 2301/4152  . . . . Finishing unwinding process
+ 2301/41522 . . . . . Detecting residual amount of web
+ 2301/41524 . . . . . Detecting trailing edge
+ 2301/41525 . . . . . and consuming web roll up to trailing edge
+ 2301/4155  . . . . after unwinding process
+ 2301/41552 . . . . . separating core from remaining layers of
+ 2301/415525 . . . . . . by cutting wound material, e.g.
+ 2301/4165  . . . Unwinding or winding material from or to one
+station in which the material is stored
+ 2301/417   . . . Handling or changing web rolls
+ 2301/41702 . . . . management and organisation of stock and
+ 2301/41704 . . . . involving layout of production or storage
+ 2301/4171  . . . . Handling web roll
+ 2301/4172  . . . . . by circumferential portion, e.g. rolling on
+ 2301/41722 . . . . . . by acting on outer surface, e.g. gripping
+ 2301/41724 . . . . . . by crane
+ 2301/41726 . . . . . . by conveyor
+ 2301/4173  . . . . . by central portion, e.g. gripping central
+ 2301/41732 . . . . . . by crane
+ 2301/41734 . . . . . . involving rail
+ 2301/4174  . . . . . by side portion, e.g. forwarding roll lying
+ 2301/41745 . . . . . by axial movement of roll
+ 2301/4175  . . . . . involving cart (see B65H 2405/422)
+ 2301/4176  . . . . Preparing leading edge of replacement roll
+ 2301/41764 . . . . . by adhesive tab
+ 2301/41766 . . . . . by adhesive tab or tape with cleavable or
+ 2301/418   . . . . Changing web roll
+ 2301/4181  . . . . . Core or mandrel supply
+ 2301/41812 . . . . . . by conveyor belt or chain running in
+ 2301/41814 . . . . . . by container storing cores and feeding
+through wedge-shaped slot or elongated
+ 2301/41816 . . . . . . by core magazine within winding
+machine, i.e. horizontal or inclined ramp
+ 2301/41818 . . . . . . mandrels circulating (cycling) in
+ 2301/4182  . . . . . Core or mandrel insertion, e.g. means
+for loading core or mandrel in winding
+ 2301/41822 . . . . . . from above, i.e. by gravity
+ 2301/41824 . . . . . . from below, e.g. between rollers of
+ 2301/41826 . . . . . . by gripping or pushing means,
+ 2301/41828 . . . . . . in axial direction
+ 2301/41829 . . . . . positioning the core, e.g. in axial direction
+ 2301/4185  . . . . . Core or mandrel discharge or removal,
+also organisation of core removal
+ 2301/41852 . . . . . . by extracting mandrel from wound roll,
+ 2301/418523 . . . . . . . by movement of the wound web roll
+ 2301/418526 . . . . . . . by movement of the mandrel
+ 2301/41854 . . . . . . by extracting core from wound roll, i.e.
+ 2301/41856 . . . . . . by stripping core from mandrel or
+chuck, e.g. by spring mechanism
+ 2301/41858 . . . . . . by collecting cores in container
+ 2301/41859 . . . . . . by continuously operated device, e.g.
+ 2301/4186  . . . . . . by lifting or lowering device, e.g. crane
+ 2301/4187  . . . . Relative movement of core or web roll in
+ 2301/41891 . . . . . . Cutting knife located between two
+ 2301/41892 . . . . . . Cutting knife located in winding or
+guiding roller and protruding therefrom
+ 2301/418925 . . . . . . . and cooperating with second
+assembly located in another roller
+ 2301/41893 . . . . . . Cutting knife moving on circular path
+ 2301/41894 . . . . . . Cutting knife moving on circular
+or acuate path, e.g. pivoting around
+ 2301/41896 . . . . . . Several cutting devices, e.g. located
+at different upstream/downstream
+ 2301/41898 . . . . . . Cutting threading tail and leading it to
+ 2301/419   . . . from or to storage, i.e. the storage integrating
+ 2301/4191  . . . . for handling articles of limited length, e.g.
+AO format, arranged at intervals from each
+ 2301/41912 . . . . . between two belt like members
+ 2301/4192  . . . . for handling articles of limited length in
+ 2301/41922 . . . . . and wound together with single belt like
+ 2301/419225 . . . . . . Several belts spaced in axis direction
+ 2301/41924 . . . . . between two belt like members
+ 2301/4193  . . . . for handling continuous material
+ 2301/42    . . Piling, depiling, handling piles
+ 2301/421   . . . Forming a pile
+ 2301/4211  . . . . of articles alternatively overturned, or
+ 2301/42112 . . . . . swivelled from 180°
+ 2301/42114 . . . . . swivelled from 90°
+ 2301/4212  . . . . of articles substantially horizontal
+ 2301/42122 . . . . . by introducing articles from under the pile
+ 2301/42124 . . . . . by introducing articles selectively from
+ 2301/4213  . . . . of a limited number of articles, e.g.
+ 2301/42132 . . . . . between belts
+ 2301/42134 . . . . . Feeder loader, i.e. picking up articles from
+a main stack for maintaining continuously
+enough articles in a machine feeder
+ 2301/4214  . . . . of articles on edge
+ 2301/42142 . . . . . by introducing articles from beneath
+ 2301/42144 . . . . . by erecting articles from horizontal
+transport flushing with the supporting
+ 2301/42146 . . . . . by introducing articles from above
+ 2301/4215  . . . . of articles riding on an elongated member
+ 2301/4216  . . . . of web folded in zig-zag form
+ 2301/42162 . . . . . Juxtaposing several piles
+ 2301/42164 . . . . . Guiding web alternatively to corner of pile
+ 2301/421645 . . . . . . by stationary guide element
+ 2301/4217  . . . . Forming multiple piles
+ 2301/42172 . . . . . simultaneously
+ 2301/4218  . . . . Changing the pile
+ 2301/4219  . . . . forming a pile in which articles are offset
+from each other, e.g. forming stepped pile
+ 2301/42192 . . . . . forming a pile of articles in zigzag fashion
+ 2301/42194 . . . . . forming a pile in which articles are offset
+from each other in the delivery direction
+ 2301/422   . . . Handling piles, sets or stacks of articles
+ 2301/4221  . . . . Removing package around stack
+ 2301/42212 . . . . . Extracting staple from stapled set of
+ 2301/4222  . . . . Squaring-up piles
+ 2301/4223  . . . . Pressing piles
+ 2301/4224  . . . . Gripping piles, sets or stacks of articles
+ 2301/42242 . . . . . by acting on the outermost articles of the
+ 2301/42244 . . . . . Sets in which articles are offset to each
+ 2301/4225  . . . . in or on special supports
+ 2301/42252 . . . . . Vehicles, e.g. carriage, truck
+ 2301/42254 . . . . . Boxes; Cassettes; Containers
+ 2301/422542 . . . . . . emptying or unloading processes
+ 2301/422544 . . . . . . opening processes
+ 2301/422546 . . . . . . superposed
+ 2301/422548 . . . . . . filling or loading process
+ 2301/42256 . . . . . Pallets; Skids; Platforms with feet, i.e.
+handled together with the stack
+ 2301/4226  . . . . Delivering, advancing piles
+ 2301/42261 . . . . . by dropping
+ 2301/422615 . . . . . . from opposite part-support elements,
+ 2301/42262 . . . . . by acting on surface of outermost articles
+of the pile, e.g. in nip between pair of
+belts or rollers (Nota: gripping pile see
+ 2301/42264 . . . . . by moving the surface supporting
+the lowermost article of the pile, e.g.
+ 2301/42265 . . . . . by moving the surface supporting the
+pile of articles on edge, e.g. conveyor or
+ 2301/42266 . . . . . by acting on edge of the pile for moving it
+ 2301/42268 . . . . . by acting on one of the outermost article
+for moving pile of articles on edge along a
+ 2301/4227  . . . . Deforming piles, e.g. folding
+ 2301/4228  . . . . Dividing piles
+ 2301/4229  . . . . cutting piles
+ 2301/423   . . . Depiling; Separating articles from a pile
+ 2301/4231  . . . . by two or more separators acting selectively
+ 2301/4232  . . . . of horizontal or inclined articles, i.e. wherein
+articles support fully or in part the mass of
+ 2301/42322 . . . . . from bottom of the pile
+ 2301/423225 . . . . . . by dropping the article through an
+ 2301/42324 . . . . . from top of the pile
+ 2301/423245 . . . . . . the pile lying on a stationary support,
+i.e. the separator moving according to
+the decreasing height of the pile
+ 2301/42326 . . . . . selectively from bottom or top of the pile
+ 2301/42328 . . . . . of inclined articles and inclination angle
+ 2301/4233  . . . . by peeling, i.e. involving elongated elements
+ 2301/4234  . . . . assisting separation or preventing double
+ 2301/42342 . . . . . vibrating
+ 2301/42344 . . . . . separating stack from the sheet separating
+ 2301/42346 . . . . . Releasing stack holding means during
+ 2301/4236  . . . . of web material in zig-zag form
+ 2301/4237  . . . . of vertical articles, e.g. by extracting articles
+ 2301/42372 . . . . . by extracting articles upwards from the
+ 2301/426   . . . Forming batches
+ 2301/4261  . . . . by inserting a wire or tape shaped marker
+ 2301/42612 . . . . . cut into tabs before or upon insertion
+ 2301/4262  . . . . by inserting auxiliary support as defined in
+ 2301/42622 . . . . . and using auxiliary means for facilitating
+introduction of the auxiliary support
+ 2301/4263  . . . . Feeding end plate or end sheet before
+formation or after completion of a pile
+ 2301/42632 . . . . . feeding batch receiving board or sheet into
+the pile for receiving next batch
+ 2301/43    . . Gathering; Associating; Assembling
+ 2301/431   . . . Features with regard to the collection, nature,
+sequence and/or the making thereof
+ 2301/4311  . . . . Making personalised books or mail packets
+according to personal, geographic or
+ 2301/4312  . . . . Gathering material delivered from a digital
+ 2301/4313  . . . . Making samples assemblies
+ 2301/4314  . . . . Making packets of bundles of banknotes or
+ 2301/43151 . . . . . and ribbons, tapes or strips
+ 2301/43152 . . . . . and threads
+ 2301/4316  . . . . sheet-like articles and threads
+ 2301/4317  . . . . Signatures, i.e. involving folded main
+ 2301/43171 . . . . . Inserting subproducts in a signature as
+ 2301/431711 . . . . . . the subproduct being inserted in a
+direction substantially perpendicular to
+ 2301/431713 . . . . . . . the main product being slightly
+inclined or horizontal and oriented
+with opening face laterally to its
+ 2301/431715 . . . . . . . the main product being slightly
+inclined or horizontal and oriented
+with opening face rearwards to its
+ 2301/431716 . . . . . . . the main product being oriented with
+ 2301/431718 . . . . . . the subproduct being inserted in a
+direction parallel to the fold of the main
+ 2301/43172 . . . . . attaching subproducts on outer portion of a
+ 2301/4318  . . . . Gathering, associating, assembling articles
+from a single source which is supplied by
+ 2301/432   . . . in pockets, i.e. vertically
+ 2301/4321  . . . . and dropping material through bottom of the
+ 2301/4322  . . . . Asymmetric pockets
+ 2301/433   . . . in trays, i.e. horizontally
+ 2301/434   . . . In channels, e.g. in which the articles are
+substantially vertical or inclined
+ 2301/4341  . . . . with several channels on a rotary carrier
+rotating around an axis parallel to the
+ 2301/435   . . . on collecting conveyor
+ 2301/4351  . . . . receiving articles astride thereon
+ 2301/4352  . . . . with pushers, e.g. the articles being
+ 2301/4353  . . . . with compartments, e.g. the articles being
+substantially horizontal in each compartment
+ 2301/4354  . . . . with grippers
+ 2301/4355  . . . . with pins engaging into handled material
+ 2301/4356  . . . . with supports for receiving combination of
+articles astride and in standing position
+ 2301/4361  . . . . on a rotary carrier rotating around an axis
+ 2301/437   . . . Repairing a faulty collection due to, e.g.
+ 2301/4381  . . . . Bringing a cover
+ 2301/4382  . . . . Binding or attaching processes
+ 2301/43821 . . . . . involving binding tape
+ 2301/43822 . . . . . involving heating
+ 2301/43823 . . . . . involving pressure sensitive adhesive
+ 2301/43824 . . . . . involving wrapping, banding or strapping
+ 2301/43825 . . . . . involving elastically deformable member,
+ 2301/43826 . . . . . involving wire element supplied from a
+ 2301/43827 . . . . . involving coating adhesive on at least a
+ 2301/43828 . . . . . involving simultaneous deformation of at
+least a part of the articles to be bound
+ 2301/44    . . Moving, forwarding, guiding material
+ 2301/442   . . . by acting on edge of handled material
+ 2301/4421  . . . . by abutting edge
+ 2301/4422  . . . . with guide member moving in the material
+ 2301/4423  . . . . with guide member rotating against the edges
+ 2301/443   . . . by acting on surface of handled material
+ 2301/4431  . . . . by means with operating surfaces contacting
+ 2301/44312 . . . . . between belts and rollers
+ 2301/44314 . . . . . between belts and cylinder
+ 2301/44316 . . . . . between belts
+ 2301/44318 . . . . . between rollers
+ 2301/44319 . . . . . between balls
+ 2301/4432  . . . . by means having an operating surface
+contacting only one face of the material, e.g.
+ 2301/443243 . . . . . . pivoting around an axis perpendicular
+to the plane of the material (especially
+when web is running in a U-loop)
+ 2301/443246 . . . . . . pivoting around an axis parallel to the
+ 2301/4433  . . . . by means holding the material
+ 2301/44331 . . . . . at particular portion of handled material
+(to be used in combination with at least
+ 2301/44332 . . . . . using magnetic forces
+ 2301/44334 . . . . . using electrostatic forces
+ 2301/44335 . . . . . using adhesive forces
+ 2301/44336 . . . . . using suction forces
+ 2301/44338 . . . . . using mechanical grippers
+ 2301/4434  . . . . involving user cooperation
+ 2301/4435  . . . . by acting only on part of the surface
+ 2301/44352 . . . . . on opposite lateral edge regions
+ 2301/444   . . . Stream of articles in shingled formation,
+ 2301/4447  . . . . multiple streams
+ 2301/44472 . . . . . superposed
+ 2301/44474 . . . . . interfolded
+ 2301/445   . . . stream of articles separated from each other
+ 2301/4451  . . . . forming a stream or streams of separated
+ 2301/44512 . . . . . forming parallel streams of separated
+ 2301/44514 . . . . . Separating superposed articles
+ 2301/44516 . . . . . so that there are no intervals between the
+ 2301/4452  . . . . Regulating space between separated articles
+ 2301/44522 . . . . . Varying space between separated articles
+ 2301/4453  . . . . and performing dynamic accumulation
+ 2301/4454  . . . . Merging two or more streams
+ 2301/4455  . . . . Diverting a main stream into part streams
+ 2301/44552 . . . . . by alternatively directing articles
+following each other to appropriate part
+ 2301/446   . . . Assisting moving, forwarding or guiding of
+ 2301/4461  . . . . by blowing air towards handled material
+ 2301/447   . . . transferring material between transport devices
+When classifying in this group, the notation
++ B65H 2220/01 designates downstream
+transport device, while the notation +
+B65H 2220/02 designates the upstream
+ 2301/4471  . . . . Grippers, e.g. moved in paths enclosing an
+ 2301/44712 . . . . . carried by chains or bands
+ 2301/44714 . . . . . carried by rotating members
+ 2301/44716 . . . . . oscillated in arcuate paths
+ 2301/44718 . . . . . reciprocated in rectilinear paths
+ 2301/4472  . . . . Suction grippers, e.g. moved in paths
+ 2301/44722 . . . . . oscillated in arcuate paths
+ 2301/44724 . . . . . reciprocated in rectilinear paths
+ 2301/4473  . . . . Belts, endless moving elements on which the
+ 2301/44732 . . . . . transporting articles in overlapping stream
+ 2301/44734 . . . . . overhead, i.e. hanging material ba
+attraction forces, e.g. suction, magnetic
+ 2301/44735 . . . . . suction belt
+ 2301/4474  . . . . Pair of cooperating moving elements as
+rollers, belts forming nip into which material
+ 2301/4475  . . . . Rotary or endless transport devices having
+elements acting on edge of articles
+ 2301/4476  . . . . Endless transport devices with compartments
+ 2301/44765 . . . . Rotary transport devices with compartments
+ 2301/4477  . . . . Transport device with transport surface in
+sliding contact with handled material
+ 2301/4478  . . . . Transport device acting on edge of material
+ 2301/4479  . . . . Saddle conveyor with saddle member
+extending in transport direction
+ 2301/44795 . . . . Saddle conveyor with saddle member
+extending transversally to transport direction
+ 2301/4481  . . . . Stripping material from carrier web
+ 2301/4482  . . . . to multiple paths, i.e. more than 2
+ 2301/449   . . . Features of movement or transforming
+ 2301/4491  . . . . transforming movement from continuous to
+ 2301/44921 . . . . . by friction contact with non driven
+ 2301/4493  . . . . intermittent
+ 2301/45    . . Folding, unfolding
+ 2301/4505  . . . Folding bound sheets, e.g. stapled sheets
+ 2301/451   . . . involving manual operations
+ 2301/452   . . . utilising rotary folding means
+ 2301/4521  . . . . without tucker blades
+ 2301/453   . . . opening folded material
+ 2301/4531  . . . . by opposite opening drums
+ 2301/45312 . . . . . adjusting stop relative to one of the drum,
+ 2301/4532  . . . . by movable member crossing the path of the
+folded material, i.e. traversing along product
+ 2301/45322 . . . . . Helical member
+ 2301/4533  . . . . by stationary member in the transport path
+of the folded material, i.e. the fold being
+parallel to the direction of transport
+ 2301/4601  . . . special splicing features or applications
+ 2301/46011 . . . . in winding process
+ 2301/46013 . . . . and maintaining register of spliced webs
+ 2301/46014 . . . . of webs with labels
+ 2301/46015 . . . . of (half) tube webs
+ 2301/46016 . . . . replacing lap slice by butt splice
+ 2301/46017 . . . . involving several layers
+ 2301/46018 . . . . involving location or further processing of
+ 2301/460183 . . . . . marking of splice
+ 2301/460186 . . . . . detect location of splice
+ 2301/4602  . . . Preparing splicing process
+ 2301/46022 . . . . by detecting mark on rotating new roll and/or
+synchronize roll with trailing web speed
+ 2301/46024 . . . . by collecting a loop of material of the fresh
+web downstream of the splicing station
+ 2301/4604  . . . Opening web rolls, remove outer layers
+ 2301/46042 . . . . by tearing, bursting etc. preferably only outer
+ 2301/46043 . . . . by cutting or tearing only outermost layer
+ 2301/46044 . . . . by cutting or perforating in tranverse
+ 2301/4606  . . . Preparing leading edge for splicing
+ 2301/46064 . . . . by transversally operated carriage
+ 2301/46066 . . . . by inserting adhesive tape between leading
+ 2301/4607  . . . . by adhesive tape
+ 2301/46072 . . . . . inserted between leading edge and wound
+ 2301/46075 . . . . by adhesive tab
+ 2301/46078 . . . . the adhesive tab or tab having a cleavable or
+ 2301/461   . . . Processing webs in splicing process
+ 2301/4611  . . . . before splicing
+ 2301/46115 . . . . . by bringing leading edge to splicing
+ 2301/4613  . . . . during splicing
+ 2301/46132 . . . . . consuming web up to trailing edge
+ 2301/4615  . . . . after splicing
+ 2301/46152 . . . . . cutting off tail after (flying) splicing
+ 2301/46154 . . . . . guiding tail after (flying) splicing
+ 2301/4617  . . . . . cutting webs in splicing process
+ 2301/46171 . . . . . . cutting leading edge of new web, e.g.
+ 2301/46172 . . . . . . cutting expiring web only
+ 2301/46174 . . . . . . cutting both spliced webs separately
+ 2301/46176 . . . . . . cutting both spliced webs
+ 2301/46178 . . . . . . cutting by transversally moving element
+ 2301/462   . . . Form of splice
+ 2301/4621  . . . . Overlapping article or web portions
+ 2301/46212 . . . . . with C-folded trailing edge for embedding
+ 2301/46213 . . . . . with L-folded edges sealed together
+ 2301/4622  . . . . Abutting article or web portions, i.e. edge to
+ 2301/46222 . . . . . involving double butt splice, i.e. adhesive
+tape applied on both sides of the article or
+ 2301/4623  . . . . Spaced article or web portions, i.e. gap
+ 2301/463   . . . splicing means, i.e. means by which a web end
+ 2301/4631  . . . . Adhesive tape
+ 2301/46312 . . . . . double-sided
+ 2301/46314 . . . . . Pieces of adhesive tape, e.g. labels
+ 2301/4632  . . . . Simultaneous deformation of the two web
+ 2301/46325 . . . . Separate element, e.g. clip
+ 2301/46326 . . . . Stitched or seamed together
+ 2301/46327 . . . . Ultrasonic sealing
+ 2301/4634  . . . . Heat seal splice
+ 2301/4636  . . . . None, i.e. simply feeding both webs
+ 2301/4637  . . . . Male and female configuration
+ 2301/464   . . . effecting splice
+ 2301/4641  . . . . by pivoting element
+ 2301/46412 . . . . by element moving in a direction
+perpendicular to the running direction of the
+ 2301/46414 . . . . by nipping rollers
+ 2301/464145 . . . . . at least one of the rollers having additional
+feature, eg. knife or at least partly non-
+ 2301/4695  . . . longitudinally
+ 2301/50    . Auxiliary process performed during handling
+ 2301/51    . . Modifying a characteristic of handled material
+ 2301/511   . . . Processing surface of handled material upon
+transport or guiding thereof, e.g. cleaning
+ 2301/5111  . . . . Printing; Marking
+ 2301/51115 . . . . freeing product contained in handled material
+ 2301/5112  . . . . removing material from outer surface
+ 2301/51121 . . . . . removing printed information, e.g. marks
+ 2301/51122 . . . . . peeling layer of material
+ 2301/5113  . . . . applying adhesive
+ 2301/51132 . . . . . hot melt adhesive
+ 2301/51145 . . . . . by vapour deposition
+ 2301/512   . . . Changing form of handled material
+ 2301/5121  . . . . Bending, buckling, curling, bringing a
+ 2301/51212 . . . . . perpendicularly to the direction of
+displacement of handled material, e.g.
+ 2301/512125 . . . . . . by abutting against a stop
+ 2301/51214 . . . . . parallel to direction of displacement of
+ 2301/512145 . . . . . . Forming a tube
+ 2301/5122  . . . . Corrugating; Stiffening
+ 2301/5123  . . . . Compressing, i.e. diminishing thickness
+ 2301/51232 . . . . . for flattening
+ 2301/5124  . . . . Stretching; Tentering
+ 2301/51242 . . . . . Stretching transversely; Tentering
+ 2301/512422 . . . . . . involving roller pair acting on edge of
+ 2301/512425 . . . . . . involving guiding web along the
+circumference of a ring section
+ 2301/512427 . . . . . . involving members moving axially on
+ 2301/5125  . . . . Restoring form
+ 2301/51252 . . . . . Compensating stretching
+ 2301/51254 . . . . . Unshirring
+ 2301/51256 . . . . . Removing waviness or curl, smoothing
+ 2301/512565 . . . . . . involving tri-roller arrangement
+ 2301/5126  . . . . Embossing, crimping or similar processes
+ 2301/513   . . . Modifying electric properties
+ 2301/5131  . . . . Magnetising
+ 2301/5132  . . . . Bringing electrostatic charge
+ 2301/5133  . . . . Removing electrostatic charge
+ 2301/514   . . . Modifying physical properties
+ 2301/5141  . . . . Rendering inert
+ 2301/51422 . . . . . by passing through a bath
+ 2301/51432 . . . . . Applying heat and pressure
+ 2301/515   . . . Cutting handled material
+ 2301/5151  . . . . transversally to feeding direction
+ 2301/51512 . . . . . using a cutting member moving linearly in
+a plane parallel to the surface of the web
+and along a direction crossing the handled
+ 2301/515123 . . . . . . arranged for cutting web supported on
+ 2301/515126 . . . . . . . for cutting from inside of the cylinder
+ 2301/51514 . . . . . Breaking; Bursting; Tearing, i.e. cutting
+ 2301/5152  . . . . Cutting partially, e.g. perforating
+ 2301/5153  . . . . Details of cutting means
+ 2301/51531 . . . . . involving forms of stored energy, e.g.
+ 2301/51532 . . . . . Blade cutter, e.g. single blade cutter
+ 2301/515323 . . . . . . rotary
+ 2301/515326 . . . . . . Multiple blade cutter
+ 2301/51534 . . . . . Water jet
+ 2301/51535 . . . . . adhesive tape or tab
+ 2301/51537 . . . . . Vacuum means
+ 2301/51538 . . . . . Die-cutting
+ 2301/5154  . . . . from hand-held or table dispenser
+ 2301/51541 . . . . . with means mounted on roll of material
+ 2301/5155  . . . . longitudinally
+ 2301/516   . . . Securing handled material to another material
+ 2301/5161  . . . . Binding processes
+ 2301/51611 . . . . . involving at least a binding element
+traversing the handled material, e.g. staple
+ 2301/51612 . . . . . involving ultrasonic waves
+ 2301/51614 . . . . . involving heating element
+ 2301/51616 . . . . . involving simultaneous deformation of
+parts of the material to be bound
+ 2301/5162  . . . . Coating, applying liquid or layer of any
+ 2301/5163  . . . . Applying label, tab to handled material
+ 2301/517   . . . Drying material
+ 2301/521   . . . Stripping web from roll
+ 2301/522   . . . Threading web into machine
+ 2301/52202 . . . . around several subsequent rollers (e.g.
+ 2301/53    . . for acting on performance of handling machine
+ 2301/5305  . . . Cooling parts or areas of handling machine
+ 2301/531   . . . Cleaning parts of handling machine
+ 2301/532   . . . Modifying characteristics of surface of parts in
+ 2301/5321  . . . . Removing electrostatic charge generated at
+ 2301/5322  . . . . Generating electrostatic charge at said
+ 2301/5323  . . . . bringing adhesive properties
+ 2301/533   . . . Self-repair; Self-recovery; Automatic
+ 2301/54    . . for managing processing of handled material
+ 2301/542   . . . Quality control
+ 2301/5421  . . . . taking samples
+ 2301/543   . . . processing waste material
+ 2301/544   . . . Reading; Scanning
+ 2401/00    Materials used for the handling apparatus or parts
+ 2401/11    . . Polymer compositions
+ 2401/112   . . . Fibre reinforced
+ 2401/114   . . . Polyester, e.g. polyethylene terephthalate [PET]
+ 2401/13    . . Coatings, paint or varnish
+ 2401/14    . . Textiles, e.g. woven or knitted fabrics
+ 2401/20    . Physical properties, e.g. lubricity
+ 2401/21    . . Electrical or magnetic properties, e.g.
+ 2401/22    . . Optical properties, e.g. opacity or transparency
+ 2401/23    . . Strength of materials, e.g. Young's modulus or
+ 2402/00    Constructional details of the handling apparatus
+ 2402/10    . Modular constructions, e.g. using preformed
+ 2402/20    . Force systems, e.g. composition of forces
+ 2402/30    . Supports; Subassemblies; Mountings thereof
+ 2402/31    . . Pivoting support means
+ 2402/32    . . Sliding support means
+ 2402/33    . . cantilever support means
+ 2402/35    . . rotating around an axis
+ 2402/40    . Details of frames, housings or mountings of the
+ 2402/41    . . Portable or hand-held apparatus
+ 2402/411   . . . with means for mounting the apparatus on the
+ 2402/412   . . . details or the parts to be hold by the user, e.g.
+ 2402/413   . . . with means for mounting the apparatus to
+ 2402/414   . . . Manual tools for filamentary material, e.g. for
+mounting or removing a bobbin, measuring
+ 2402/42    . . Mobile apparatus, i.e. mounted on mobile carrier
+ 2402/43    . . Wall apparatus, i.e. mounted on vertical support
+ 2402/441   . . . movable for facilitating access to area inside
+the housing, e.g. pivoting or sliding
+ 2402/442   . . . with openings for introducing material to be
+handled, e.g. for inserting web rolls
+ 2402/443   . . . with openings for delivering material, e.g. for
+ 2402/46    . . Table apparatus
+ 2402/51    . . Joints, e.g. riveted or magnetic joints
+ 2402/52    . . Bearings, e.g. magnetic or hydrostatic bearings
+ 2402/54    . . Springs, e.g. helical or leaf springs
+ 2402/60    . Coupling, adapter or locking means
+ 2402/80    . characterised by the manufacturing process
+ 2403/00    Power transmission; Driving means
+ 2403/10    . Friction gearings
+ 2403/11    . . Variable-speed drive unit
+ 2403/211   . . . Double-sided timing belts
+ 2403/25    . . Arrangement for tensioning
+ 2403/31    . . involving non endless chain, e.g. the chain being
+ 2403/41    . . Rack-and-pinion, cogwheel in cog railway
+ 2403/411   . . . Double rack cooperating with one pinion,
+e.g. for performing symmetrical displacement
+ 2403/412   . . . Flexible rack
+ 2403/421   . . . involving at least a gear with toothless portion
+ 2403/422   . . . involving at least a swing gear
+ 2403/44    . . Internal gearing
+ 2403/45    . . helical gearing
+ 2403/482   . . . Harmonic drive
+ 2403/483   . . . Differential gearing
+ 2403/484   . . . Speed reducers
+ 2403/50    . Driving mechanisms
+ 2403/511   . . . involving cylindrical cam, i.e. cylinder with
+helical groove at its periphery
+ 2403/512   . . . involving radial plate cam
+ 2403/513   . . . involving elongated cam, i.e. parallel to linear
+ 2403/514   . . . involving eccentric
+ 2403/52    . . Translation screw-thread mechanisms
+ 2403/53    . . Articulated mechanisms
+ 2403/531   . . . Planar mechanisms
+ 2403/5311  . . . . Parallelogram mechanisms
+ 2403/532   . . . Crank-and-rocker mechanism
+ 2403/5321  . . . . with oscillating crank, i.e. angular movement
+ 2403/533   . . . Slotted link mechanism
+ 2403/5331  . . . . with sliding slotted link
+ 2403/5332  . . . . with rotating slotted link
+ 2403/5333  . . . . with oscillating slotted link
+ 2403/541   . . . Trigger mechanisms
+ 2403/542   . . . Geneva mechanisms
+ 2403/543   . . . producing cycloids
+ 2403/544   . . . involving rolling up - unrolling of transmission
+ 2403/5441  . . . . with steel band as tracting element
+ 2403/55    . . Tandem; twin or multiple mechanisms, i.e.
+ 2403/60    . Damping means, shock absorbers
+ 2403/61    . . Rotation damper
+ 2403/70    . Clutches; Couplings
+ 2403/72    . . Clutches, brakes, e.g. one-way clutch +F204
+ 2403/721   . . . Positive-contact clutches, jaw clutches
+ 2403/722   . . . Gear clutches
+ 2403/723   . . . Wrap spring clutches
+ 2403/724   . . . electromagnetic clutches
+ 2403/7241  . . . . eddy current clutches
+ 2403/7251  . . . . Block brakes
+ 2403/7252  . . . . fluid controlled
+ 2403/7253  . . . . pneumatically controlled
+ 2403/7254  . . . . Dynamo electric brakes
+ 2403/7255  . . . . Disc brakes
+ 2403/731   . . . Slip couplings
+ 2403/732   . . . Torque limiters
+ 2403/733   . . . Spring overload-release arrangements
+ 2403/735   . . . Rubber couplings
+ 2403/80    . Transmissions, i.e. for changing speed
+ 2403/81    . . involving swing gear
+ 2403/82    . . Variable speed drive units
+ 2403/921   . . . Piezoelectric drives
+ 2403/923   . . . Synchronous motor
+ 2403/93    . . Fluid power drive
+ 2403/94    . . Other features of machine drive
+ 2403/941   . . . Manually powered handling device
+ 2403/942   . . . Bidirectional powered handling device
+ 2403/943   . . . Electronic shaft arrangement
+ 2403/944   . . . Multiple power sources for one mechanism
+ 2403/945   . . . Self-weight powered
+ 2403/946   . . . Means for restitution of accumulated energy,
+ 2404/00    Parts for transporting or guiding the handled
+ 2404/11    . . Details of cross-section or profile
+ 2404/1114  . . . . Paddle wheel
+ 2404/1115  . . . . toothed roller
+ 2404/1116  . . . . Polygonal cross-section
+ 2404/1118  . . . . with at least a relief portion on the periphery
+ 2404/1119  . . . . with at least an axial cavity on the periphery
+ 2404/112   . . . Means for varying cross-section
+ 2404/1121  . . . . for changing diameter
+ 2404/11211 . . . . . by inflation
+ 2404/1122  . . . . for rendering elastically deformable
+ 2404/11221 . . . . . involving spring
+ 2404/113   . . . made of circular segments
+ 2404/114   . . . Built-up elements
+ 2404/1141  . . . . covering a part of the periphery
+ 2404/1152  . . . . Markings, patterns
+ 2404/117   . . . comprising hollow portions
+ 2404/12    . . with at least an active member on periphery
+ 2404/121   . . . articulated around axis parallel to roller axis
+ 2404/122   . . . rotated around an axis parallel to the roller axis
+(B65H 2404/54 takes precedence)
+ 2404/123   . . . moving in parallel to roller axis
+ 2404/1231  . . . . Arrangement of axially movable active
+elements, i.e. movable in parallel to roller
+ 2404/13    . . Details of longitudinal profile
+ 2404/1311  . . . . Undulations, wavy shape
+ 2404/1312  . . . . tapered shape
+ 2404/1316  . . . . stepped or grooved
+ 2404/13161 . . . . . Regularly spaced grooves
+ 2404/13162 . . . . . Helicoidal grooves
+ 2404/13163 . . . . . in longitudinal direction
+ 2404/1317  . . . . End profile
+ 2404/132   . . . arrangement of segments along axis
+ 2404/1321  . . . . Segments juxtaposed along axis
+ 2404/13211 . . . . . and interconnected by gearing, e.g.
+ 2404/13212 . . . . . and driven independently
+ 2404/133   . . . Limited number of active elements on common
+ 2404/1341  . . . . Elastic mounting, i.e. subject to biasing
+ 2404/1342  . . . . Built-up, i.e. arrangement for mounting axle
+ 2404/13421 . . . . . involving two elements, i.e. an element at
+ 2404/1343  . . . . axially limiting roller
+ 2404/1344  . . . . with eccentric shaft
+ 2404/1345  . . . . with two or more degrees of freedom
+ 2404/1346  . . . . balancing roller
+ 2404/1351  . . . . Pipe element
+ 2404/1361  . . . . with cooling/heating system
+ 2404/1363  . . . . air supply or suction
+ 2404/137   . . . Means for varying longitudinal profiles
+ 2404/1371  . . . . Means for bending, e.g. for controlled
+ 2404/1372  . . . . anti-deflection
+ 2404/1373  . . . . means for varying width
+ 2404/1374  . . . . means for varying longitudinal length
+ 2404/1375  . . . . means for assemble/disassemble
+ 2404/1385  . . . . built up out of spar elements
+ 2404/141   . . . with particular shape of cross profile
+ 2404/1411  . . . . D-shape / cylindrical
+ 2404/1412  . . . . Polygonal / cylindrical
+ 2404/1413  . . . . Paddle / cylindrical
+ 2404/1414  . . . . complementary relief
+ 2404/1415  . . . . with male / female profiles
+ 2404/1416  . . . . toothed or cylindrical
+ 2404/142   . . . arranged on movable frame
+ 2404/1421  . . . . rotating, pivoting or oscillating around an
+axis, e.g. parallel to the roller axis
+ 2404/14211 . . . . . the axis being one the roller axis, i.e.
+ 2404/14212 . . . . . rotating, pivoting or oscillating around an
+axis perpendicular to the roller axis
+ 2404/1422  . . . . reciprocating
+ 2404/1423  . . . . circulating on a path, e.g. not enclosing an
+ 2404/14231 . . . . . enclosing an area
+ 2404/1424  . . . . moving in parallel to their axis
+ 2404/143   . . . driving roller and idler roller arrangement
+ 2404/1431  . . . . idler roller details
+ 2404/144   . . . with relative movement of the rollers to / from
+ 2404/1441  . . . . involving controlled actuator
+ 2404/1442  . . . . Tripping arrangements
+ 2404/1452  . . . . web tension
+ 2404/147   . . . both nip rollers being driven
+ 2404/15    . . Roller assembly, particular roller arrangement
+ 2404/152   . . . Arrangement of roller on a movable frame
+ 2404/1521  . . . . rotating, pivoting or oscillating around an
+axis, e.g. parallel to the roller axis
+ 2404/15212 . . . . . rotating, pivoting or oscillating around an
+axis perpendicular to the roller axis
+ 2404/1522  . . . . moving linearly in feeding direction
+ 2404/1523  . . . . moving in parallel to its axis
+ 2404/1526  . . . . both roller ends being journalled to be
+movable independently from each other
+ 2404/153   . . . Arrangements of rollers facing a transport
+ 2404/1531  . . . . the transport surface being a cylinder
+ 2404/1532  . . . . the transport surface being a belt
+ 2404/154   . . . Rollers conveyor
+ 2404/1541  . . . . Arrangement for curved path section, e.g.
+perpendicular to plane of handled material
+ 2404/1542  . . . . Details of pattern of rollers
+ 2404/15421 . . . . . Chevron or herringbone configuration
+ 2404/15422 . . . . . Quadrant or basket roller configuration
+ 2404/1544  . . . . on a movable frame
+ 2404/16    . . Details of driving
+ 2404/161   . . . Means for driving a roller parallely to its axis
+of rotation, e.g. during its rotation
+ 2404/162   . . . containing, enclosing own driving means
+ 2404/1621  . . . . containing, enclosing braking means
+ 2404/164   . . . self-centring or automatically centring
+ 2404/165   . . . braking roller
+ 2404/166   . . . reverse roller
+ 2404/17    . . Details of bearings
+ 2404/173   . . . bearing inside roller for surface to rotate
+ 2404/174   . . . free bearing but slots or liquid support
+ 2404/18    . . composed of several layers
+ 2404/181   . . . with cavities or projections at least at one layer
+ 2404/182   . . . with emery paper like coating (gripping, anti-
+ 2404/183   . . . with outer layer helicoidally turned around
+ 2404/1831  . . . . wire around shaft
+ 2404/184   . . . light weighted
+ 2404/185   . . . easy deformable
+ 2404/186   . . . with electro-conductive layer
+ 2404/187   . . . with wear resistance
+ 2404/19    . . Other features of rollers
+ 2404/192   . . . noise limiting roller
+ 2404/193   . . . Incorporating element used for control, e.g. IC
+ 2404/211   . . . edge structure
+ 2404/22    . . Cross section profile
+ 2404/2211  . . . . Multiplicity of round belts spaced out each
+ 2404/2221  . . . . Flat belt wider than width of transported
+ 2404/2222  . . . . with protrusions on inner side; Beads
+ 2404/224   . . . details of edges
+ 2404/23    . . with auxiliary handling means
+ 2404/231   . . . pocket or gripper type
+ 2404/2311  . . . . integrally attached to or part of belt material
+ 2404/232   . . . Blade, plate, finger
+ 2404/2321  . . . . on two opposite belts or set of belts, i.e.
+having active handling section cooperating
+ 2404/2322  . . . . Dog pins, i.e. details of construction or
+ 2404/233   . . . rotary means, e.g. rollers
+ 2404/234   . . . penetrating means
+ 2404/24    . . Longitudinal profile
+ 2404/241   . . . Endless helicoidal spring
+ 2404/2421  . . . . Double-sided timing belts
+ 2404/243   . . . with portions of different thickness
+ 2404/25    . . Driving or guiding arrangements
+ 2404/251   . . . Details of drive roller
+ 2404/2511  . . . . Arrangement for varying outer diameter, e.g.
+ 2404/252   . . . Details of idler roller
+ 2404/253   . . . Relative position of driving and idler rollers
+ 2404/2531  . . . . for performing transport along a path curved
+according to an axis parallel to the transport
+ 2404/2532  . . . . Arrangement for selectively changing the
+relative position of the driving and idler
+ 2404/254   . . . Arrangement for varying the guiding or
+ 2404/255   . . . Arrangement for tensioning
+ 2404/256   . . . Arrangement of endless belt
+ 2404/2561  . . . . twisted around an axis parallel the transport
+ 2404/257   . . . Arrangement of non endless belt
+ 2404/2571  . . . . Wrapping/unwrapping arrangement
+ 2404/26    . . Particular arrangement of belt, or belts
+ 2404/261   . . . Arrangement of belts, or belt(s) / roller(s)
+facing each other for forming a transport nip
+ 2404/2611  . . . . forming curved transport path
+ 2404/2612  . . . . forming serpentine transport path
+ 2404/2613  . . . . Means for changing the transport path, e.g.
+ 2404/2614  . . . . Means for engaging or disengaging belts into
+or out of contact with opposite belts, rollers
+ 2404/2615  . . . . arranged on a movable frame, e.g. pivoting
+ 2404/262   . . . Arrangements of belts facing rollers
+ 2404/263   . . . Arrangements of belts facing balls
+ 2404/264   . . . Arrangement of side-by-side belts
+ 2404/2641  . . . . on movable frame
+ 2404/265   . . . Arrangement of belt forming a deformable ring,
+e.g. driven in the nip of a roller pair
+ 2404/267   . . . Arrangement of belt(s) in edge contact with
+ 2404/268   . . . Arrangement of belts facing a transport surface,
+e.g. contact glass in copy machine
+ 2404/2682  . . . . means for engaging/disengaging with/from
+ 2404/269   . . . other arrangements
+ 2404/2691  . . . . Arrangement of successive belts forming a
+ 2404/2692  . . . . Arrangement of belts in pressure contact
+ 2404/2693  . . . . Arrangement of belts on movable frame
+ 2404/271   . . . felt or wire mesh
+ 2404/28    . . Other properties of belts
+ 2404/285   . . . including readable marks, patterns, e.g. serving
+ 2404/31    . . with auxiliary handling means
+ 2404/311   . . . Blades, lugs, plates, paddles, fingers
+ 2404/3111  . . . . on two opposite chains or set of chains, i.e.
+having active handling section cooperating
+ 2404/312   . . . Pockets, containers
+ 2404/313   . . . Bars, rods, e.g. bridging two chains running
+ 2404/3132  . . . . arranged obliquely relatively to transport
+ 2404/314   . . . Means penetrating in handled material, e.g.
+ 2404/3141  . . . . Wicket pins
+ 2404/315   . . . Details of arrangement of the auxiliary
+ 2404/32    . . Saddle conveyor
+ 2404/321   . . . with articulated pusher element, e.g. retractable
+ 2404/33    . . Means for guiding chains
+ 2404/34    . . Gripper bars bridging at least two chains running
+ 2404/341   . . . Details of driving or return drum
+ 2404/342   . . . Details of guiding
+ 2404/3421  . . . . in curved sections
+ 2404/343   . . . Details of the bar bridging the chains
+ 2404/35    . . Arrangement of chains facing each other for
+ 2404/351   . . . the nip being formed between elongate
+members bridging two chains running
+ 2404/352   . . . Details of guiding
+ 2404/36    . . Arrangement of side-by-side chains
+ 2404/40    . Shafts, cylinders, drums, spindles
+ 2404/41    . . Details of cross section profile
+ 2404/411   . . . Means for varying cross-section
+ 2404/412   . . . made of circular segments
+ 2404/4121  . . . . moving relatively to each other during
+ 2404/42    . . Arrangement of pairs of drums
+ 2404/421   . . . Bed arrangement, i.e. involving parallel and
+spaced drums, e.g. arranged horizontally for
+supporting a roll to be wound or unwound
+ 2404/4211  . . . . with means for changing space between the
+ 2404/4212  . . . . with means for changing inclination of bed
+ 2404/4213  . . . . the drums having different diameter
+ 2404/4214  . . . . the drums having different deformability
+ 2404/422   . . . Nip arrangement, i.e. parallel drums in pressure
+ 2404/43    . . Rider roll construction
+ 2404/431   . . . involving several segments in axial direction
+ 2404/432   . . . involving a plurality of parallel rider rolls
+ 2404/433   . . . involving at least one rider roller following
+a spindle moved on a path, e.g. arcuate or
+ 2404/434   . . . Driven rider roll arrangement
+ 2404/50    . Surface of the elements in contact with the
+ 2404/51    . . Cross section, i.e. section perpendicular to the
+ 2404/513   . . . with limited number of active areas
+ 2404/5131  . . . . saw profile
+ 2404/52    . . other geometrical properties
+ 2404/5211  . . . . only a part of the element in contact with the
+ 2404/5212  . . . . produced by embedding particles
+ 2404/52121 . . . . . by subjecting to blast finishing
+ 2404/52122 . . . . . by subjecting to knurling
+ 2404/5213  . . . . Geometric details
+ 2404/52132 . . . . . perforations
+ 2404/5214  . . . . extending in parallel to transport direction
+ 2404/522   . . . details of surface roughness and/or surface
+ 2404/53    . . with particular mechanical, physical properties
+ 2404/531   . . . particular coefficient of friction
+ 2404/5311  . . . . Surface with different coefficients of friction
+ 2404/532   . . . with particular durometer
+ 2404/5321  . . . . means for changing hardness
+ 2404/5322  . . . . surface with different hardness
+ 2404/533   . . . with particular electric properties, e.g.
+ 2404/5331  . . . . with conductive material
+ 2404/5391  . . . . adhesive properties
+ 2404/5392  . . . . reflecting particular waves
+ 2404/54    . . Surface including rotary elements, e.g. balls or
+ 2404/55    . . Built-up surface, e.g. arrangement for attaching
+the surface to the forwarding or guiding element
+ 2404/551   . . . Non permanent attachment, i.e. allowing
+interchange ability of the surface
+ 2404/5511  . . . . Non permanent attachment, i.e. allowing
+ 2404/5512  . . . . covering only a part of the surface
+ 2404/5513  . . . . Strip-shaped built-up surface
+ 2404/552   . . . permanent attachment
+ 2404/56    . . Flexible surface
+ 2404/561   . . . Bristles, brushes
+ 2404/562   . . . involving inflatable elements
+ 2404/563   . . . Elastic, supple built-up surface
+ 2404/5631  . . . . Floating built-up surface
+ 2404/60    . Other elements in face contact with handled
+ 2404/61    . . Longitudinally-extending strips, tubes, plates, or
+ 2404/611   . . . arranged to form a channel
+ 2404/6111  . . . . and shaped for curvilinear transport path
+ 2404/6112  . . . . and displaceable for changing direction of
+ 2404/612   . . . and shaped for curvilinear transport path
+ 2404/62    . . Transversely-extending bars or tubes
+ 2404/621   . . . with variable cross-section, e.g. inflatable
+ 2404/622   . . . Details of longitudinal profile
+ 2404/623   . . . gate arrangement
+ 2404/63    . . Oscillating, pivoting around an axis parallel to
+face of material, e.g. diverting means
+ 2404/631   . . . Juxtaposed diverting means with each an
+ 2404/633   . . . Sword member, i.e. member contacting the
+surface of material with an edge portion
+ 2404/64    . . reciprocating perpendicularly to face of material,
+ 2404/65    . . rotating around an axis parallel to face of material
+and perpendicular to transport direction, e.g. star
+ 2404/651   . . . having at least one element, e.g. stacker/
+ 2404/652   . . . having two elements diametrically opposed
+ 2404/653   . . . having 3 or 4 elements
+ 2404/654   . . . having more than 4 elements
+ 2404/655   . . . Means for holding material on element
+ 2404/6551  . . . . Suction means
+ 2404/6552  . . . . peripheral means closing the area formed
+ 2404/656   . . . Means for disengaging material from element
+ 2404/657   . . . Means for varying the space between the
+ 2404/658   . . . Means for introducing material on elements
+ 2404/6581  . . . . in a direction parallel to the axis of rotation
+ 2404/6582  . . . . multiple, i.e. for introducing material
+selectively, alternatively or simultaneously at
+different angular positions at the periphery
+ 2404/659   . . . particular arrangement
+ 2404/6591  . . . . Pair of opposite elements rotating around
+parallel axis, synchronously in opposite
+ 2404/66    . . rotating around an axis perpendicular to face of
+ 2404/663   . . . Helical or worm shaped
+ 2404/67    . . rotating around an axis parallel to face of material
+and parallel to transport direction
+ 2404/68    . . reciprocating in transport direction
+ 2404/69    . . Other means designated for special purpose
+ 2404/691   . . . Guiding means extensible in material transport
+ 2404/6911  . . . . by unwinding from storage section
+ 2404/692   . . . Chute, e.g. inclined surface on which material
+ 2404/6922  . . . . Shaft-like element channel
+ 2404/693   . . . Retractable guiding means, i.e. between
+guiding and non guiding position
+ 2404/694   . . . Non driven means for pressing the handled
+material on forwarding or guiding elements
+ 2404/6942  . . . . in sliding contact with handled material
+ 2404/695   . . . Paternoster type
+ 2404/6961  . . . . Driving means
+ 2404/70    . Other elements in edge contact with handled
+material, e.g. registering, orientating, guiding
+ 2404/71    . . Adaptor, mask, i.e. restricting the working area of
+the parts for transporting or guiding the handled
+ 2404/72    . . Stops, gauge pins, e.g. stationary
+ 2404/722   . . . movable in operation
+ 2404/723   . . . formed of forwarding means
+ 2404/7231  . . . . by nip rollers in standby
+ 2404/7232  . . . . by nip rollers in reversed rotation
+ 2404/724   . . . formed of sensing means
+ 2404/73    . . Means for sliding the handled material on a
+ 2404/731   . . . moved in a path enclosing an area
+ 2404/7312  . . . . by means of chains
+ 2404/732   . . . in a direction perpendicular to a feeding /
+ 2404/733   . . . reciprocating
+ 2404/741   . . . movable in operation
+ 2404/7412  . . . . retractable
+ 2404/742   . . . for guiding transversely
+ 2404/743   . . . for guiding longitudinally
+ 2404/7431  . . . . along a curved path
+ 2405/00    Parts for holding the handled material
+ 2405/10    . Cassettes, holders, bins, decks, trays, supports
+or magazines for sheets stacked substantially
+ 2405/11    . . Parts and details thereof
+ 2405/1111  . . . . with several surface portions forming an
+ 2405/1112  . . . . with stepped surface portions
+ 2405/1113  . . . . with surface portions curved in width-wise
+ 2405/11131 . . . . . forming a wavy profile
+ 2405/1114  . . . . with surface portions curved in lengthwise
+ 2405/11141 . . . . . forming wavy profile
+ 2405/1115  . . . . with surface inclined, e.g. in width-wise
+ 2405/11151 . . . . . with surface inclined upwardly in transport
+ 2405/11152 . . . . . with surface inclined downwardly in
+ 2405/1116  . . . . with means for changing geometry
+ 2405/11161 . . . . . by at least a protruding portion
+ 2405/11162 . . . . . Front portion pivotable around an axis
+perpendicular to transport direction
+ 2405/11163 . . . . . Portion pivotable around an axis parallel to
+ 2405/11164 . . . . . Rear portion extensible in parallel to
+ 2405/111643 . . . . . . involving extension members pivotable
+around an axis perpendicular to bottom
+ 2405/111646 . . . . . . involving extension members pivotable
+around an axis parallel to bottom surface
+and perpendicular to transport direction
+ 2405/1117  . . . . pivotable, e.g. around an axis perpendicular
+to transport direction, e.g. arranged at rear
+ 2405/11171 . . . . . around an axis parallel to transport
+ 2405/11172 . . . . . around an axis perpendicular to both
+transport direction and surface of sheets
+ 2405/1118  . . . . Areas with particular friction properties, e.g.
+ 2405/1119  . . . . Areas with particular deformation properties,
+ 2405/112   . . . Rear, i.e. portion opposite to the feeding /
+ 2405/1122  . . . . movable linearly, details therefor
+ 2405/1124  . . . . pivotable, details therefor
+ 2405/113   . . . Front, i.e. portion adjacent to the feeding /
+ 2405/1132  . . . . with stepped surface portions
+ 2405/1134  . . . . movable, e.g. pivotable
+ 2405/1136  . . . . inclined, i.e. forming an angle different from
+ 2405/114   . . . Side, i.e. portion parallel to the feeding /
+ 2405/1142  . . . . Projections or the like in surface contact with
+ 2405/11425 . . . . . retractable
+ 2405/12    . . Parts to be handled by user
+ 2405/121   . . . Locking means
+ 2405/13    . . Elements acting on corner of sheet, e.g. snubber
+ 2405/14    . . Details of surface
+ 2405/141   . . . Reliefs, projections
+ 2405/1412  . . . . Ribs extending in parallel to feeding/delivery
+ 2405/1414  . . . . Hook and loop-type fastener
+ 2405/142   . . . relating to particular friction properties
+ 2405/15    . . Large capacity supports arrangements
+ 2405/20    . Cassettes, holders, bins, decks, trays, supports or
+magazines for sheets stacked on edge
+ 2405/21    . . Parts and details thereof
+ 2405/2111  . . . . with several surface portions forming an
+ 2405/22    . . pocket like holder
+ 2405/221   . . . details of bottom
+ 2405/30    . Other features of supports for sheets
+ 2405/31    . . Supports for sheets fully removable from the
+handling machine, e.g. cassette
+ 2405/311   . . . and serving also as package
+ 2405/312   . . . Trolley, cart, i.e. support movable on the floor
+ 2405/313   . . . with integrated handling means, e.g. separating
+ 2405/32    . . Supports for sheets partially insertable -
+extractable, e.g. upon sliding movement, drawer
+ 2405/321   . . . Shutter type element, i.e. involving multiple
+ 2405/3211  . . . . with means to span a long self-supporting
+ 2405/322   . . . with belt or curtain like support member, i.e.
+for avoiding relative movement between sheets
+and support during insertion or extraction
+ 2405/323   . . . Cantilever finger member, e.g. reciprocating in
+parallel to plane of handled material
+ 2405/3231  . . . . Cantilever during insertion but supported on
+both sides of the pile upon full insertion
+ 2405/324   . . . between operative position and non operative
+ 2405/325   . . . with integrated handling means, e.g. separating
+ 2405/33    . . Compartmented support
+ 2405/331   . . . Juxtaposed compartments
+ 2405/3311  . . . . for storing articles horizontally or slightly
+ 2405/33115 . . . . . Feed tray juxtaposed to discharge tray
+ 2405/3312  . . . . for storing articles vertically or inclined
+ 2405/33125 . . . . . Feed tray juxtaposed to discharge tray
+ 2405/332   . . . Superposed compartments
+ 2405/3321  . . . . Feed tray superposed to discharge tray
+ 2405/3322  . . . . discharge tray superposed to feed tray
+ 2405/34    . . Holder with cylindrical section
+ 2405/35    . . Means for moving support
+ 2405/351   . . . shifting transversely to transport direction, e.g.
+ 2405/352   . . . in closed loop
+ 2405/3521  . . . . rail guided means, e.g. without permanent
+ 2405/354   . . . around an axis, e.g. horizontal
+ 2405/36    . . Multiple support
+ 2405/361   . . . Movable from storage of support, e.g. stack of
+ 2405/40    . Holders, supports for rolls
+ 2405/42    . . Supports for rolls fully removable from the
+ 2405/421   . . . and serving also as package
+ 2405/422   . . . Trolley, cart, i.e. support movable on floor
+ 2405/4221  . . . . for both full and empty (or partial) roll
+ 2405/4222  . . . . Carts with full reels placed laterally one
+ 2405/4223  . . . . Cart holding roll placed onto another cart
+ 2405/4225  . . . . comprising means for rotating the roll around
+ 2405/4226  . . . . Cart comprising splicing means
+ 2405/4228  . . . . with air bearing, e.g. Luftkissen
+ 2405/423   . . . Overhead means, gantry
+ 2405/43    . . Supports for rolls partially removable from the
+ 2405/44    . . Supports for storing rolls
+ 2405/4412  . . . . combined with a frame for superposing
+ 2405/4414  . . . . Rib-cage bin
+ 2405/45    . . Shafts for winding/unwinding
+ 2405/451   . . . Radially extending end abuttments
+ 2405/452   . . . Active holding elements, e.g. inflatable
+ 2405/4521  . . . . engaging the side portion of the web roll
+ 2405/453   . . . Passive holding elements, e.g. spring-biased
+ 2405/454   . . . Means for penetrating into the core material,
+ 2405/46    . . Grippers for bobbins, i.e. rolls
+ 2405/461   . . . center gripper (inside the core)
+ 2405/462   . . . outer gripper (on circumference)
+ 2405/51    . . oscillating in arcuate paths
+ 2405/53    . . Rotary gripping arms
+ 2405/531   . . . with relative movement of the arms relatively
+to the axis of rotation during rotation
+ 2405/532   . . . with means for changing the length of the arms
+ 2405/54    . . Rotary gripping arms, i.e. integrated in a rotary
+element as for instance a cylinder, a disk or a
+ 2405/541   . . . arranged on opposite and synchronised rotary
+ 2405/55    . . Rail guided gripping means running in closed
+loop, e.g. without permanent interconnecting
+ 2405/551   . . . with permanent interconnection allowing
+variable spacing between the grippers
+ 2405/552   . . . with permanent interconnection and determined
+ 2405/5521  . . . . details of interconnection, e.g. chain, link
+ 2405/56    . . releasably connected to transporting means
+ 2405/57    . . Details of the gripping parts
+ 2405/571   . . . Compliant material
+ 2405/572   . . . Retractable parts
+ 2405/573   . . . Pair of L-shaped reciprocating jaws
+ 2405/574   . . . laterally projecting from feeding direction
+ 2405/575   . . . Details of gripping surface
+ 2405/58    . . Means for achieving gripping/releasing operation
+ 2405/581   . . . moving only one of the gripping parts towards
+ 2405/5812  . . . pivoting the movable gripping part towards the
+ 2405/582   . . . movable in transport direction, e.g. on a portion
+of the transport path of the gripping means
+ 2405/583   . . . Details of gripper orientation
+ 2405/5831  . . . . Gripping mouth orientated in direction of
+ 2405/5832  . . . . and varying its orientation after gripping
+ 2405/584   . . . Associated control means
+ 2405/60    . Penetrating means
+ 2406/10    . made only for exhausting gaseous medium
+ 2406/11    . . producing fluidised bed
+ 2406/111   . . . for handling material along a curved path, e.g.
+ 2406/1115  . . . . pivoting around an axis perpendicular to the
+ 2406/112   . . . for handling material along preferably
+rectilinear path, e.g. nozzle bed for web
+ 2406/113   . . . Details of the part distributing the air cushion
+ 2406/1131  . . . . Porous material
+ 2406/1132  . . . . Multiple nozzles arrangement
+ 2406/11325 . . . . . Adjustable impact angle
+ 2406/12    . . producing gas blast
+ 2406/1222  . . . . adjustable impact angle
+ 2406/13    . . pressure arrangement for compensating weight of
+ 2406/131   . . . in combination with rollers or drums
+ 2406/14    . . with selectively operated air supply openings
+ 2406/15    . . rotary pressurized means, e.g. cylinder, drum,
+ 2406/20    . made only for liquid medium
+ 2406/21    . . for spraying liquid
+ 2406/31    . . Suction box; Suction chambers
+ 2406/311   . . . for accumulating a loop of handled material
+ 2406/312   . . . incorporating means for transporting the
+handled material against suction force
+ 2406/321   . . . integral in feed table
+ 2406/322   . . . Suction distributing means
+ 2406/3221  . . . . for variable distribution in the direction of
+ 2406/3222  . . . . switchable suction elements
+ 2406/3223  . . . . details of the openings in the belt, e.g. shape,
+ 2406/32231 . . . . . belt with alternated perforated and non
+perforated sections in transport direction
+ 2406/323   . . . Overhead suction belt, i.e. holding material
+ 2406/33    . . Rotary suction means, e.g. roller, cylinder or
+ 2406/331   . . . arranged for rotating while moving along
+material to be handled, e.g. rolling on material
+ 2406/3312  . . . . arranged for planetary movement on rotary
+ 2406/3314  . . . . arranged for linear movement, e.g. on
+ 2406/332   . . . Details on suction openings
+ 2406/333   . . . rotating around an axis perpendicular to the
+surface of handled material, e.g. disk
+ 2406/334   . . . arranged on movable frame
+ 2406/34    . . Suction grippers
+ 2406/341   . . . being oscillated in arcuate paths
+ 2406/342   . . . being reciprocated in a rectilinear path
+ 2406/343   . . . Details of sucking member
+ 2406/3432  . . . . Elongated sucking member; Sucking bar
+ 2406/344   . . . circulating in closed loop
+ 2406/345   . . . Rotary suction grippers
+ 2406/3452  . . . . performing reciprocating movement during
+ 2406/34525 . . . . . parallely to the axis of rotation
+ 2406/3454  . . . . performing oscillating movement during
+ 2406/35    . . Other elements with suction surface, e.g. plate or
+ 2406/351   . . . facing the surface of the handled material
+ 2406/3511  . . . . with nozzles oriented obliquely towards the
+ 2406/352   . . . facing the edge of the handled material
+ 2406/36    . . Means for producing, distributing or controlling
+ 2406/361   . . . distributing vacuum from stationary element to
+ 2406/3612  . . . . involving a shoe in sliding contact with
+ 2406/3614  . . . . involving a shoe in sliding contact with an
+inner section of the periphery of a rotating
+ 2406/362   . . . adjusting or controlling distribution of vacuum
+transversally to the transport direction, e.g.
+according to the width of material
+ 2406/3622  . . . . adjusting or controlling distribution of
+vacuum in the transport direction
+ 2406/363   . . . adjusting or controlling distribution of vacuum
+for a plurality of suction means
+ 2406/3632  . . . . means for auto adjustment of vacuum
+distribution according to the size of handled
+ 2406/364   . . . simultaneously blowing and sucking
+ 2406/365   . . . selectively blowing or sucking
+ 2406/366   . . . producing vacuum
+ 2406/36625 . . . . . cross flow, transverse
+ 2406/40    . Fluid power drive; Fluid supply elements
+ 2406/411   . . . Spool or slide valves
+ 2406/412   . . . Rotary valves
+ 2406/415   . . . Throttle valves
+ 2406/418   . . . Diaphragm valves
+ 2406/42    . . Distribution circuits
+ 2406/421   . . . with means for changing the temperature of the
+ 2406/4212  . . . . for cooling fluid
+ 2406/422   . . . Air throttling devices
+ 2406/423   . . . distributing fluid from stationary elements to
+ 2407/00    Means not provided for in groups B65H 2220/00
+– B65H 2406/00 specially adapted for particular
+ 2407/10    . Safety means, e.g. for preventing injuries or illegal
+ 2407/20    . for manual intervention of operator
+ 2407/22    . . means for observing the handled material during
+ 2407/30    . Means for preventing damage of handled material,
+ 2407/40    . Means for adding commercial value, e.g. sound
+ 2407/50    . Means for protecting parts of handling machine
+ 2407/51    . . Means for making dustproof
+ 2408/10    . for handling sheet(s)
+ 2408/11    . . Sorters or machines for sorting articles
+ 2408/111   . . . with stationary location in space of the bins and
+ 2408/112   . . . with stationary location in space of the bins and
+in-feed member movable from bin to bin
+ 2408/1121  . . . . pivoting in-feed member
+ 2408/113   . . . with variable location in space of the bins
+relative to a stationary in-feed path
+ 2408/1131  . . . . and variable bin capacity
+ 2408/114   . . . means for shifting articles contained in at least
+one bin, e.g. for displacing the articles towards
+processing means as stapler, perforator
+ 2408/1141  . . . . performing alignment in the totality or a
+ 2408/1142  . . . . performing alignment in one bin or a limited
+ 2408/1143  . . . . performing extraction of the sheets from the
+ 2408/1144  . . . . combination of shifting means for
+performing shifting in several directions
+ 2408/116   . . . non sort tray arrangement, i.e. high capacity
+tray for collecting multiple set
+ 2408/1162  . . . . above sorting trays
+ 2408/1164  . . . . beneath sorting trays
+ 2408/118   . . . Combination of several sorting modules
+ 2408/12    . . stapler arrangement
+ 2408/121   . . . stationary stapler
+ 2408/122   . . . movable stapler
+ 2408/1221  . . . . movable from bin to bin
+ 2408/1222  . . . . movable transversely to direction of transport
+ 2408/1223  . . . . reciprocating relatively to the bin
+ 2408/123   . . . means for replenishing stapler with staples
+ 2408/124   . . . means for changing size of staple
+ 2408/125   . . . head unit separate from anvil unit
+ 2408/13    . . Wall or kiosk dispenser, i.e. for positively
+handling or holding material until withdrawal by
+ 2408/20    . for handling web(s)
+ 2408/211   . . . Coil type accumulator
+ 2408/212   . . . of zigzag-type
+ 2408/213   . . . with several cascaded loops
+ 2408/214   . . . loop hanger accumulator
+ 2408/215   . . . supported by vacuum or blown air
+ 2408/216   . . . roller with accumulated material wound around
+ 2408/217   . . . of rollers type, e.g. with at least one fixed and
+ 2408/2171  . . . . the position of the movable roller(s), i.e. the
+web loop, being positively actuated
+ 2408/2172  . . . . several cascaded loops of rollers
+ 2408/2173  . . . . the rollers wrapped by the web being
+rotationally driven otherwise than by web
+ 2408/2174  . . . . belt or similar device for carrying web
+ 2408/22    . . Splicing machines
+ 2408/221   . . . features of splicing unit
+ 2408/2211  . . . . splicing unit located above several web rolls
+arranged parallel to each other
+ 2408/23    . . Winding machines
+ 2408/231   . . . Turret winders
+ 2408/2312  . . . . with bedroll, i.e. very big roll used as
+ 2408/23121 . . . . . and transfer pad (to attach leading edge to
+ 2408/23122 . . . . . with integrated core supply
+ 2408/2313  . . . . with plurality of reel supporting or back-up
+rollers travelling around turret axis
+ 2408/2315  . . . . specified by number of arms
+ 2408/23152 . . . . . with two arms
+ 2408/23155 . . . . . with three arms
+ 2408/23157 . . . . . with more than three arms
+ 2408/232   . . . Winding beds consisting of two rollers
+ 2408/2321  . . . . with winding bed supplied with vacuum or
+ 2408/2324  . . . . The winding rollers having different
+ 2408/2326  . . . . at least one of the winding rollers being
+ 2408/233   . . . Central support turret
+ 2408/234   . . . Hand-held winding device
+ 2408/236   . . . Pope-winders with first winding on an arc of
+circle and secondary winding along rails
+ 2408/2362  . . . with two secondary winding spools, e.g. on
+ 2408/2364  . . . . with additional element for facilitating web
+ 2408/237   . . . with substantially continuous horizontal
+movement of roll support, e.g. Metso-Type
+ 2408/238   . . . Modified Pope-winders with secondary
+ 2408/24    . . unwinding machines
+ 2408/2411  . . . . with protruding guiding roll or surface
+between unwound rolls on mobile assembly
+ 2408/2412  . . . . details of indexing drive or mechanism
+ 2408/2415  . . . . specified by number of arms
+ 2408/24153 . . . . . with two arms
+ 2408/24156 . . . . . with three arms
+ 2408/40    . Machines for test or simulation purposes
+ 2511/00    Dimensions; Position; Numbers; Identification;
+ 2511/112   . . . of a loop, e.g. a free loop or a loop of dancer
+ 2511/114   . . . Remaining length of web roll
+ 2511/135   . . Surface texture; e.g. roughness
+ 2511/14    . . Diameter, e.g. of roll or package
+ 2511/15    . . Height, e.g. of stack
+ 2511/16    . . Irregularities, e.g. protuberances
+ 2511/166   . . . relative to diameter, eccentricity or circularity
+ 2511/17    . . Deformation, e.g. stretching
+ 2511/18    . . relative to handling machine
+ 2511/20    . Location in space
+ 2511/212   . . . Rotary position
+ 2511/216   . . . Orientation, e.g. with respect to direction of
+ 2511/224   . . . Nip between rollers, between belts or between
+ 2511/23    . . Coordinates, e.g. three dimensional coordinates
+ 2511/24    . . Irregularities, e.g. in orientation or skewness
+ 2511/30    . Numbers, e.g. of windings or rotations
+ 2511/412   . . of user, e.g. user code
+ 2511/414   . . of mode of operation
+ 2511/417   . . of state of the machine
+ 2511/512   . . . Marks, e.g. invisible to the human eye; Patterns
+ 2511/514   . . . Particular portion of element
+ 2511/516   . . . Marks; Patterns
+ 2511/518   . . . Particular portion of element
+ 2511/52    . . Defective operating conditions
+ 2511/521   . . . Presence of foreign object or undesirable
+material, i.e. material of another nature than the
+ 2511/522   . . . Folds or misfolding
+ 2511/524   . . . Multiple articles, e.g. double feed
+ 2511/529   . . . number thereof, frequency of occurrence
+ 2513/00    Dynamic entities; Timing aspects
+ 2513/20    . Acceleration or deceleration
+ 2513/41    . . Direction of movement
+ 2513/412   . . . Direction of rotation of motor powering the
+ 2513/51    . . Sequence of process
+ 2513/512   . . Starting; Stopping
+ 2513/52    . . Age; Duration; Life time or chronology of event
+ 2515/00    Physical entities not provided for in groups
+ 2515/10    . Mass, e.g. mass flow rate; Weight; Inertia
+ 2515/20    . Volume; Volume flow
+ 2515/314   . . . Tension profile, i.e. distribution of tension, e.g.
+across the material feeding direction or along
+ 2515/32    . . Torque e.g. braking torque
+ 2515/34    . . Pressure, e.g. fluid pressure
+ 2515/37    . . Elasticity modulus
+ 2515/40    . Temperature; Thermal conductivity
+ 2515/50    . Vibrations; Oscillations
+ 2515/60    . Optical characteristics, e.g. colour, light
+ 2515/70    . Electrical or magnetic properties, e.g. electric power
+ 2515/81    . Rigidity; Stiffness; Elasticity
+ 2515/83    . Environmental conditions, i.e. in the area confining
+the handled material or the handling machine
+ 2515/84    . Quality; Condition, e.g. degree of wear
+ 2519/00    Chemical characteristics
+ 2551/00    Means for control to be used by operator; User
+ 2551/10    . Command input means
+ 2551/11    . . Sliding or rotating members
+ 2551/13    . . Remote control devices, e.g. speech recognition
+ 2551/14    . . Switches; Selectors (contact switches
+ 2551/15    . . Push buttons; Keyboards
+ 2551/16    . . Levers; Joysticks
+ 2551/18    . . Graphical interactive displays; Mouses;
+ 2551/185   . . Voice actuated input means
+ 2551/20    . Display means; Information output means
+ 2551/21    . . Monitors; Displays
+ 2551/22    . . Numerical displays
+ 2551/23    . . Analog displays
+ 2551/24    . . Sound or voice generating means
+ 2551/25    . . Printing or plotting means
+ 2551/26    . . For input or output variables
+ 2551/29    . . Means displaying permanently a particular
+ 2553/00    Sensing or detecting means
+ 2553/10    . using fluids, e.g. pneumatics
+ 2553/20    . using electric elements
+ 2553/21    . . Variable resistances, e.g. rheostats,
+potentiometers or strain gauges
+ 2553/22    . . Magnetic detectors, e.g. Hall detectors
+ 2553/23    . . Capacitive detectors, e.g. electrode arrangements
+ 2553/24    . . Inductive detectors
+ 2553/25    . . Contact switches
+ 2553/26    . . Piëzo-electric sensors
+ 2553/27    . . Electro mechanical thermal sensors, e.g.
+thermocouples, pyroelectric sensors, temperature
+ 2553/30    . using acoustic or ultrasonic elements
+ 2553/40    . using optical, e.g. photographic, elements
+ 2553/41    . . Photoelectric detectors
+ 2553/412   . . . in barrier arrangements, i.e. emitter facing a
+ 2553/414   . . . involving receptor receiving light reflected by
+a reflecting surface and emitted by a separate
+ 2553/416   . . . Array arrangement, i.e. row of emitters or
+ 2553/43    . . Bar code reader
+ 2553/44    . . Involving light guide, e.g. optical fibres
+ 2553/46    . . Illumination arrangement
+ 2553/51    . Encoders, e.g. linear
+ 2553/60    . Details of intermediate means between the sensing
+means and the element to be sensed
+ 2553/61    . . Mechanical means, e.g. contact arms
+ 2553/62    . . involving vibrating element
+ 2553/80    . Arangement of the sensing means
+ 2553/81    . . on a movable element
+ 2553/82    . . with regard to the direction of transport of the
+ 2553/83    . . selectively positionable in operative state
+ 2555/11    . . pneumatic, e.g. inflatable elements
+ 2555/13    . . magnetic, e.g. induction motors
+ 2555/23    . . magnetic, e.g. rotary solenoids
+ 2555/25    . . D.C. motors, e.g. shunt motors
+ 2555/41    . using electrostatic forces or magnets
+ 2557/00    Means for control not provided for in groups
+ 2557/10    . for signal transmission
+ 2557/11    . . wireless (input by remote control devices
+ 2557/13    . . Data carrier, e.g. chip, transponder, magnetic strip
+ 2557/20    . Calculating means; Controlling methods
+ 2557/23    . . Recording or storing data
+ 2557/24    . . Calculating methods; Mathematic models
+ 2557/242   . . . involving a particular data profile or curve
+ 2557/2423  . . . . involving an average value
+ 2557/2426  . . . . involving a standard deviation
+ 2557/25    . . Modular control, i.e. systems which work
+independently or partially dependently on other
+ 2557/26    . . with key characteristics based on open loop
+ 2557/262   . . with key characteristics based on feed forward
+ 2557/264   . . with key characteristics based on closed loop
+ 2557/2644  . . . characterised by PID control
+ 2557/266   . . characterised by function other than PID for the
+transformation of input values to output values,
+ 2557/30    . Control systems architecture or components, e.g.
+electronic or pneumatic modules; Details thereof
+ 2557/31    . . for converting, e.g. A/D converters
+ 2557/32    . . for modulating frequency or amplitude
+ 2557/33    . . for digital control, e.g. for generating, counting or
+ 2557/34    . . for analog control, e.g. proportional, integral or
+ 2557/352   . . . Clocks; Timers
+ 2557/354   . . . Sequence controllers
+ 2557/37    . . for fluid control
+ 2557/38    . . for neural adaptive control
+ 2557/50    . Use of particular electromagnetic waves, e.g. light,
+ 2557/516   . . Polarized light
+ 2557/52    . . Particle radiation
+ 2557/60    . Details of processes or procedures
+ 2557/61    . . for calibrating
+ 2557/62    . . for web tracking, i.e. retrieving a certain position
+ 2557/63    . . Optimisation, self-adjustment, self-learning
+processes or procedures, e.g. during start-up
+ 2557/64    . . for detecting type or properties of handled
+ 2557/652   . . . need of maintenance
+ 2601/00    Problem to be solved or advantage achieved
+ 2601/10    . Ensuring correct operation
+ 2601/11    . . Clearing faulty handling, e.g. jams
+ 2601/111   . . . Clearing uncorrect discharge of sheet
+ 2601/12    . . Compensating; Taking-up
+ 2601/123   . . . . Defaults of handled material
+ 2601/1231  . . . . relative to geometry, shape of handled
+ 2601/125   . . . Vibration (B65H 2601/524 takes precedence)
+ 2601/20    . Avoiding or preventing undesirable effects
+ 2601/21    . . Dynamic air effects
+ 2601/211   . . . Entrapping air in or under the material
+ 2601/212   . . . Environmental change in the area confining the
+ 2601/22    . . Gravity effects, e.g. effect of weight of handled
+ 2601/221   . . . Centrifugal force effect
+ 2601/24    . . Deformation of part of handling machine
+ 2601/25    . . Damages to handled material
+ 2601/252   . . . Collapsing, e.g. of piles
+ 2601/253   . . . to particular parts of material
+ 2601/254   . . . Permanent deformation
+ 2601/26    . . Damages to handling machine
+ 2601/271   . . . Over stacking
+ 2601/272   . . . Skewing of handled material during handling
+ 2601/273   . . . Adhering of handled material to another
+handled material or to part of the handling
+ 2601/30    . Facilitating or easing
+ 2601/31    . . entities relating to handled material
+ 2601/32    . . entities relating to handling machine
+ 2601/3222  . . . . of binding material, e.g. needles
+ 2601/324   . . . Removability or inter-changeability of machine
+ 2601/325   . . . Manual handling of handled material
+ 2601/326   . . . Manual handling of handling machine
+ 2601/40    . Increasing or maximizing
+ 2601/41    . . entities relating to handled material
+ 2601/42    . . entities relating to the handling machine
+ 2601/50    . Diminishing, minimizing or reducing
+ 2601/51    . . entities relating to handled material
+ 2601/511   . . . Waste of handled material
+ 2601/52    . . entities relating to handling machine
+ 2601/522   . . . Wear of friction surface
+ 2601/523   . . . Required space
+ 2601/5242  . . . . by using mass damper
+ 2601/5244  . . . . by using electro-rheological fluid [ERF]
+ 2601/525   . . . Cost of application or use, e.g. energy,
+ 2601/61    . . Refurbishing; Renewing the handling machine;
+Upgrading modifying functions of the handling
+ 2701/00    Handled material; Storage means
+ 2701/10    . Handled articles or webs
+ 2701/11    . . Dimensional aspect of article or web
+ 2701/111   . . . Plane geometry, contour
+ 2701/1111  . . . . Geometric shape
+ 2701/1113  . . . . irregular shape
+ 2701/11132 . . . . . tabbed sheet
+ 2701/112   . . . Section geometry
+ 2701/11216 . . . . . circular segment
+ 2701/11218 . . . . . corrugations
+ 2701/1123  . . . . Folded article or web
+ 2701/11231 . . . . . Fan-folded material or zig-zag or leporello
+ 2701/11238 . . . . . Asymmetric folded material
+ 2701/1125  . . . . variable thickness
+ 2701/11252 . . . . . thicker edges, e.g. reinforced
+ 2701/11312 . . . . . large formats, i.e. above A3
+ 2701/11332 . . . . . strip, tape, narrow web
+ 2701/12    . . Surface aspects
+ 2701/1211  . . . . arranged linearly
+ 2701/12112 . . . . . transversally
+ 2701/1212  . . . . where perforations serve for handling
+ 2701/122   . . . Projecting portions
+ 2701/1221  . . . . regularly distributed
+ 2701/12212 . . . . . ball relief
+ 2701/12213 . . . . . polygonal humps relief
+ 2701/123   . . . Hollow portions
+ 2701/12312 . . . . . linear, e.g. for further folding
+ 2701/124   . . . Patterns, marks, printed information
+ 2701/1241  . . . . register marks
+ 2701/1242  . . . . printed information
+ 2701/12422 . . . . . codes or the like which can be used
+for further processing, e.g. relative to
+consumed or still available material
+ 2701/1244  . . . . RFID [Radio Frequency Identification Data]
+ 2701/125   . . . Particular treatment
+ 2701/1252  . . . . for facilitating sliding contact
+ 2701/13    . . Parts concerned of the handled material
+ 2701/1311  . . . . leading edge
+ 2701/1313  . . . . trailing edge
+ 2701/1315  . . . . side edges, i.e. regarded in context of
+ 2701/132   . . . Side portions
+ 2701/1321  . . . . of folded article or web
+ 2701/13212 . . . . . Fold, spine portion of folded article
+ 2701/13214 . . . . . Side opposite to spine portion of folded
+ 2701/139   . . . Piled package
+ 2701/17    . . Nature of material
+ 2701/171   . . . Physical features of handled article or web
+ 2701/1712  . . . . Transparent
+ 2701/1718  . . . . Porous or permeable
+ 2701/1719  . . . . Photosensitive, e.g. exposure, photographic
+ 2701/172   . . . Composite material
+ 2701/1722  . . . . including layer with adhesive properties
+ 2701/17222 . . . . . Encapsulated adhesive
+ 2701/17224 . . . . . distributed only on a part of the surface of
+ 2701/1724  . . . . including layer with magnetic properties
+ 2701/1726  . . . . including detachable components
+ 2701/17262 . . . . . distributed only on a part of the surface of
+ 2701/1727  . . . . including layer with anti-adhesive properties
+ 2701/1728  . . . . Liquid soaked material
+ 2701/174   . . . Textile, fibre (for filamentary material
+ 2701/1752  . . . . Polymer film
+ 2701/1764  . . . . Cut-out, single-layer, e.g. flat blanks for
+ 2701/1766  . . . . Cut-out, multi-layer, e.g. folded blanks or
+ 2701/1768  . . . . Book covers and the like
+ 2701/177   . . . Fibrous or compressible material
+ 2701/178   . . . Hide, leather or skin
+ 2701/18    . . Form of handled article or web
+ 2701/182   . . . Piled package
+ 2701/1822  . . . . Juxtaposed stacks
+ 2701/1824  . . . . Web material folded in zig-zag form
+ 2701/18242 . . . . . Juxtaposed sets
+ 2701/1826  . . . . Arrangement of sheets
+ 2701/18262 . . . . . Ordered set of articles forming one batch
+ 2701/18263 . . . . . . wherein each article is offset from its
+ 2701/18264 . . . . . Pile of alternate articles of different
+properties, e.g. pile of working sheets with
+intermediate sheet between each working
+ 2701/18265 . . . . . Ordered set of batches of articles
+ 2701/18266 . . . . . . wherein the batches are offset from each
+ 2701/18267 . . . . . . wherein the batches are separated by
+ 2701/18268 . . . . . Unordered set of articles
+ 2701/18269 . . . . . Marker arrangement
+ 2701/1827  . . . . . Interleaf layers
+ 2701/18271 . . . . of folded sheet material
+ 2701/1828  . . . . Parts concerned of piled package
+ 2701/1829  . . . . Bound, bundled or stapled stacks or packages
+ 2701/18292 . . . . . Stapled sets of sheets
+ 2701/184   . . . Wound packages
+ 2701/1844  . . . . Parts concerned
+ 2701/18444 . . . . . Helically wound material
+ 2701/1846  . . . . Parts concerned
+ 2701/1848  . . . . Dimensional aspect
+ 2701/18482 . . . . . Proportion
+ 2701/18483 . . . . . . Diameter much larger than width, e.g.
+ 2701/18484 . . . . . . Diameter substantially equal to width,
+ 2701/18485 . . . . . . Diameter much smaller than width
+ 2701/18486 . . . . . Non-cylindrical form, e.g. flat bobbin
+ 2701/1849  . . . . in cartridge or similar packaging device
+ 2701/186   . . . Several articles or webs processed together
+ 2701/1862  . . . . Rolls and sheets
+ 2701/1864  . . . . Superposed webs
+ 2701/19    . . Specific article or web
+ 2701/191   . . . Bags, sachets and pouches or the like
+ 2701/1912  . . . Banknotes, bills and cheques or the like
+ 2701/1914  . . . Cards, e.g. telephone, credit and identity cards
+ 2701/1916  . . . Envelopes and articles of mail
+ 2701/1918  . . . Insert between web or strip layer, e.g. wire
+ 2701/192   . . . Labels (carrying webs or liners
+ 2701/1922  . . . for covering surfaces such as carpets, roads,
+ 2701/1924  . . . Napkins or tissues, e.g. dressings, toweling,
+serviettes, kitchen paper and compresses
+ 2701/1926  . . . Opened booklet
+ 2701/1928  . . . Printing plate
+ 2701/193   . . . Sample, e.g. laminate
+ 2701/1932  . . . Signatures, folded printed matter, newspapers
+ 2701/1934  . . . Sticky notes, e.g. sheets partially coated with
+ 2701/1936  . . . Tickets or coupons
+ 2701/194   . . . Web supporting regularly spaced adhesive
+articles, e.g. labels, rubber articles, labels or
+ 2701/19402 . . . . Glue dots, arranged individually or in
+ 2701/19404 . . . . Supporting second web with articles as
+ 2701/1942  . . . Web supporting regularly spaced non-adhesive
+ 2701/1944  . . . Wrapping or packing material
+ 2701/20    . Features of handled material other than dimensional
+ 2701/30    . Handled filamentary material
+ 2701/31    . . Textiles threads or artificial strands of filaments
+ 2701/312   . . . Fibreglass strands
+ 2701/3122  . . . . extruded from spinnerets
+ 2701/313   . . . Synthetic polymer threads
+ 2701/3132  . . . . extruded from spinnerets
+ 2701/314   . . . Carbon fibres
+ 2701/319   . . . Elastic threads
+ 2701/32    . . Optical fibres or optical cables
+ 2701/33    . . Hollow or hose-like material
+ 2701/331   . . . leaving an extruder
+ 2701/332   . . . Flattened hoses
+ 2701/333   . . . Hoses for drip irrigation
+ 2701/34    . . electric cords or electric power cables
+ 2701/341   . . . in a manufacturing process
+ 2701/351   . . . in a manufacturing process
+ 2701/353   . . . Construction lines, e.g. masonry line or for
+ 2701/354   . . . Cutting lines, e.g. for grass cutting
+ 2701/357   . . . Marking strings, e.g. pre-inked lines
+ 2701/358   . . . Strings for guiding plants
+ 2701/361   . . . Semiconductor bonding wires
+ 2701/362   . . . Tying wires, e.g. for tying concrete
+ 2701/364   . . . Wires used in fences
+ 2701/365   . . . Aerial wires, e.g. for wireless telegraph
+ 2701/366   . . . Pintle for seaming paper machine fabrics
+ 2701/371   . . . Curved tapes, e.g. "Spreizband"
+ 2701/374   . . . Warning bands, e.g. police warning tapes
+ 2701/375   . . . Strapping tapes
+ 2701/376   . . . Electrician's fish tapes
+ 2701/377   . . . Adhesive tape
+ 2701/3772  . . . . Double-sided
+ 2701/378   . . . Recording tape
+ 2701/38    . . Thread sheet, e.g. sheet of parallel yarns or wires
+ 2701/39    . . Other types of filamentary materials or special
+ 2701/391   . . . Spiral coiled hoses or cords
+ 2701/3912  . . . Fences made of wire
+ 2701/3913  . . . Extruded profiled strands
+ 2701/3914  . . . Irregular cross section, i.e. not circular
+ 2701/3915  . . . Strings of lights, e.g. Christmas lighting
+ 2701/3916  . . . Inserts between layers of wire, hose or yarn
+ 2701/3917  . . . Faired cables
+ 2701/3918  . . . Surgical sutures
+ 2701/3919  . . . USB, earphones, audio or video cables, e.g.
+for connecting small electronic devices such as
+MP3 players or mobile telephones
+ 2701/50    . Storage means for webs, tapes, or filamentary
+ 2701/51    . . Cores or reels characterised by the material
+ 2701/511   . . . essentially made of sheet material
+ 2701/5112  . . . . Paper or plastic sheet material
+ 2701/5114  . . . . Metal sheets
+ 2701/5116  . . . . Wood veneer
+ 2701/5118  . . . . Textile material
+ 2701/5126  . . . . Particles of fibres, e.g. lignocelluloses
+ 2701/5128  . . . . Vitreous material
+ 2701/513   . . . assembled mainly from rigid elements of the
+ 2701/5132  . . . . Wooden planks or similar material
+ 2701/5134  . . . . Metal elements
+ 2701/51342 . . . . . Moulded metal elements
+ 2701/51344 . . . . . Metal profiles
+ 2701/5136  . . . . Moulded plastic elements
+ 2701/514   . . . Elastic elements
+ 2701/515   . . . assembled from parts made of different
+ 2701/5152  . . . . End flanges and barrel of different material
+ 2701/51522 . . . . . Wooden barrel
+ 2701/51524 . . . . . Paperboard barrel
+ 2701/51526 . . . . . Metal barrel
+ 2701/51528 . . . . . Plastic barrel
+ 2701/52    . . Integration of elements inside the core or reel
+ 2701/522   . . . Chemical agents
+ 2701/528   . . . Heating or cooling devices
+ 2701/53    . . Adaptations of cores or reels for special purposes
+ 2701/532   . . . Tearable or frangible cores or reels
+ 2701/533   . . . Storage compartments for accessories
+ 2701/534   . . . Stackable or interlockable reels or parts of reels
+ 2701/535   . . . Dimensional aspect, e.g. non-cylindrical cores
+ 2701/536   . . . Arrangements for protecting connectors
+ 2701/537   . . . Stopping the winding or unwinding of reels
+which do not feature spring motors
+ 2701/71    . Special purposes; Special handling other than the
+ 2801/03    . Image reproduction devices
+ 2801/06    . . Office-type machines, e.g. photocopiers
+ 2801/09    . . Single-function copy machines
+ 2801/12    . . Single-function printing machines, typically
+ 2801/15    . . Digital printing machines
+ 2801/18    . . Stencil printing machines
+ 2801/21    . . Industrial-size printers, e.g. rotary printing press
+ 2801/24    . Post -processing devices
+ 2801/27    . . Devices located downstream of office-type
+ 2801/31    . . Devices located downstream of industrial printers
+ 2801/45    . Audio or video tape players, or related mechanism
+ 2801/57    . Diaper manufacture
+ 2801/61    . Display device manufacture, e.g. liquid crystal
+ 2801/63    . Dunnage conversion
+ 2801/66    . Envelope filling machines
+ 2801/69    . Form fill-and-seal machines
+ 2801/72    . Fuel cell manufacture
+ 2801/75    . Labelling machines
+ 2801/81    . Packaging machines
+ 2801/84    . Paper-making machines
+ 2801/87    . Photovoltaic element manufacture, e.g. solar panels
+ 2801/91    . Recording tape manufacture

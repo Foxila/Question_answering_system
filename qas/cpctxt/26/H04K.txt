@@ -1,0 +1,124 @@
+COOPERATIVE PATENT CLASSIFICATION
+ELECTRIC COMMUNICATION TECHNIQUE
+SECRET COMMUNICATION; JAMMING OF COMMUNICATION
+In this subclass, the following expression is used with the meaning indicated:
+• "secret communication" includes secret line and radiation transmission systems, i.e. those in which apparatus at the
+transmitting station modifies the signal in such a way that the information cannot be intelligibly received without
+corresponding modifying apparatus at the receiving station.
+    1/00    Secret communication
+    1/003   . {by varying carrier frequency at or within
+predetermined or random intervals (H04K 1/04
+    1/006   . {by varying or inverting the phase, at periodic or
+    1/02    . by adding a second signal to make the desired signal
+    1/025   . . {using an analogue chaotic signal}
+    1/04    . by frequency scrambling, i.e. by transposing or
+inverting parts of the frequency band or by inverting
+    1/06    . by transmitting the information or elements
+thereof at unnatural speeds or in jumbled order or
+    1/08    . by varying the polarisation of transmitted waves
+    1/10    . by using two signals transmitted simultaneously or
+    3/00    Jamming of communication; Counter-measures
+    3/20    . {Countermeasures against jamming (in radar
+G01S 7/36; interference suppression in receivers
+    3/22    . . {including jamming detection and monitoring}
+    3/222   . . . {wherein jamming detection includes detecting
+the absence or impossibility of intelligible
+communication on at least one channel}
+    3/224   . . . {with countermeasures at transmission and/or
+reception of the jammed signal, e.g. stopping
+operation of transmitter or receiver, nulling or
+enhancing transmitted power in direction of or
+    3/226   . . . . {Selection of non-jammed channel
+for communication (spectrum sharing
+arrangements H04W 16/14; selection of
+wireless resources by user or terminal
+    3/228   . . . . {Elimination in the received signal of
+jamming or of data corrupted by jamming
+(interference suppression in receivers
+    3/25    . . {based on characteristics of target signal or
+of transmission (as countermeasure against
+surveillance H04K 3/827), e.g. using direct
+sequence spread spectrum or fast frequency
+hopping (spread spectrum techniques
+    3/255   . . . {based on redundancy of transmitted data,
+transmission path or transmitting source}
+    3/28    . . {with jamming and anti-jamming mechanisms
+both included in a same device or system, e.g.
+wherein anti-jamming includes prevention of
+undesired self-jamming resulting from jamming}
+    3/40    . {Jamming having variable characteristics}
+    3/41    . . {characterized by the control of the jamming
+activation or deactivation time (control of
+jamming activation and deactivation time only for
+the purpose of alternating between jamming mode
+and target monitoring mode H04K 3/45)}
+    3/415   . . . {based on motion status or velocity, e.g. for
+disabling use of mobile phones in a vehicle}
+    3/42    . . {characterized by the control of the jamming
+    3/43    . . {characterized by the control of the jamming
+power, signal-to-noise ratio or geographic
+    3/44    . . {characterized by the control of the jamming
+    3/45    . . {characterized by including monitoring of the
+target or target signal, e.g. in reactive jammers
+or follower jammers for example by means of an
+alternation of jamming phases and monitoring
+phases, called "look-through mode"}
+    3/46    . . {characterized in that the jamming signal is
+produced by retransmitting a received signal, after
+    3/60    . {Jamming involving special techniques}
+    3/62    . . {by exposing communication, processing
+or storing systems to electromagnetic wave
+radiation, e.g. causing disturbance, disruption or
+damage of electronic circuits, or causing external
+injection of faults in the information}
+    3/65    . . {using deceptive jamming or spoofing, e.g.
+transmission of false signals for premature
+triggering of RCIED, for forced connection or
+disconnection to/from a network or for generation
+    3/68    . . {using passive jamming, e.g. by shielding or
+reflection (shielding of apparatus or components
+against electric or magnetic field H05K 9/00)}
+    3/80    . {Jamming or countermeasure characterized by its
+    3/82    . . {related to preventing surveillance, interception
+    3/822   . . . {by detecting the presence of a surveillance,
+    3/827   . . . {using characteristics of target signal or of
+transmission (as countermeasure against
+jamming H04K 3/25), e.g. using direct
+sequence spread spectrum or fast frequency
+hopping (spread spectrum techniques
+    3/84    . . {related to preventing electromagnetic
+interference in petrol station, hospital, plane or
+    3/86    . . {related to preventing deceptive jamming or
+unauthorized interrogation or access, e.g. WLAN
+access or RFID reading (record carriers with
+integrated circuit chips including means for
+preventing undesired reading or writing from or
+to record carriers by hindering electromagnetic
+reading or writing G06K 19/07318; arrangements
+for sensing record carriers including arrangements
+for protecting the interrogation against piracy
+    3/88    . . {related to allowing or preventing alarm
+    3/90    . . {related to allowing or preventing navigation or
+    3/92    . . {related to allowing or preventing remote
+    3/94    . . {related to allowing or preventing testing or
+ 2203/00    Jamming of communication; Countermeasures
+ 2203/10    . Jamming or countermeasure used for a particular
+ 2203/12    . . for acoustic communication
+ 2203/14    . . for the transfer of light or images, e.g. for video-
+surveillance, for television or from a computer
+ 2203/18    . . for wireless local area networks or WLAN
+ 2203/20    . . for contactless carriers, e.g. RFID carriers
+(record carriers with integrated circuit chips
+including means for preventing undesired
+reading or writing from or to record carriers by
+hindering electromagnetic reading or writing
+G06K 19/07318; arrangements for sensing
+record carriers including arrangements for
+protecting the interrogation against piracy attacks
+ 2203/22    . . for communication related to vehicles
+ 2203/24    . . for communication related to weapons
+ 2203/30    . Jamming or countermeasure characterized by the
+ 2203/32    . . including a particular configuration of antennas
+ 2203/34    . . involving multiple cooperating jammers
+ 2203/36    . . including means for exchanging jamming data
+between transmitter and receiver, e.g. in forward

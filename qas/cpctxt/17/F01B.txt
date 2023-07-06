@@ -1,0 +1,356 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+MACHINES OR ENGINES IN GENERAL; ENGINE PLANTS IN GENERAL; STEAM
+MACHINES OR ENGINES, IN GENERAL OR OF POSITIVE-DISPLACEMENT
+TYPE, e.g. STEAM ENGINES (of rotary-piston or oscillating-piston type F01C; of non-
+positive-displacement type F01D; internal-combustion aspects of reciprocating-piston engines
+F02B 57/00, F02B 59/00; crankshafts, crossheads, connecting-rods F16C; flywheels F16F;
+gearings for interconverting rotary motion and reciprocating motion in general F16H; pistons,
+piston rods, cylinders, for engines in general F16J)
+1. This subclass covers, with the exception of the matter provided for in subclasses F01C - F01P :
+• engines for elastic fluids, e.g. steam engines;
+• engines for liquids and elastic fluids;
+• machines for liquids and elastic fluids.
+2. Attention is drawn to the note preceding class F01, especially as regards the definitions of "steam" and "special vapour".
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Reciprocating-piston machines or engines
+characterised by number or relative disposition
+of cylinders or by being built-up from separate
+cylinder-crankcase elements (F01B 3/00, F01B 5/00
+    1/01    . with one single cylinder
+    1/02    . with cylinders all in one line
+    1/04    . with cylinders in V-arrangement
+    1/06    . with cylinders in star or fan arrangement
+    1/0603  . . {the connection of the pistons with an element
+being at the outer ends of the cylinders}
+    1/0606  . . . {with cam-actuated distribution member(s)}
+    1/061   . . . {with two or more series radial piston-cylinder
+    1/0613  . . . . {directly located side by side}
+    1/0617  . . . . {coupling of several cylinders-barrels}
+    1/062   . . {the connection of the pistons with an actuating
+or actuated element being at the inner ends of the
+    1/0624  . . . {with cam-actuated distribution member(s)}
+    1/0627  . . . . {each machine piston being provided
+with channels, which are coacting with
+the cylinder and are used as a distribution
+member for another piston-cylinder unit}
+    1/0631  . . . {the piston-driving or -driven cam being
+provided with an inlet or an outlet}
+    1/0634  . . . {with two or more series radial piston-cylinder
+    1/0637  . . . . {directly located side by side}
+    1/0641  . . {Details, component parts specially adapted for
+    1/0651  . . . . {consisting of several cylindrical elements,
+    1/0658  . . . {Arrangements for pressing or connecting the
+pistons against the actuating or actuated cam}
+    1/0662  . . . . {hydraulically}
+    1/0665  . . . {Disconnecting the pistons from the actuating
+or actuated cam (in general F01B 31/24)}
+    1/0668  . . . {Supporting and guiding means for the piston}
+    1/0672  . . . {Draining of the machine housing;
+arrangements dealing with leakage fluid}
+    1/0679  . . . {by using a valve in a system with several
+pump or motor chambers, wherein the flow
+path through the chambers can be changed, e.g.
+    1/0682  . . . {by changing the effective cross sectional
+    1/0686  . . . {by changing the effective piston stroke}
+    1/0689  . . . . {by changing the excentricity of one element
+    1/0693  . . . {by changing the phase relationship between
+two actuating or actuated cams}
+    1/0696  . . . {by changing the phase relationship between
+the actuating or actuated cam and the
+    1/08    . with cylinders arranged oppositely relative to main
+    1/10    . with more than one main shaft, e.g. coupled to
+common output shaft (combinations of two or more
+machines or engines F01B 21/00)
+    1/12    . Separate cylinder-crankcase elements coupled
+    3/00    Reciprocating-piston machines or engines with
+cylinder axes coaxial with, or parallel or inclined
+    3/0002  . {having stationary cylinders}
+    3/0005  . . {having two or more sets of cylinders or pistons}
+    3/0008  . . {having self-acting distribution members, e.g.
+    3/0011  . . . {Cylindrical distribution members}
+    3/0014  . . . {Conical distribution members}
+    3/0017  . . {Component parts, details, e.g. sealings,
+    3/0023  . . . {Actuating or actuated elements}
+    3/0026  . . . . {Actuating or actuated element bearing
+means or driving or driven axis bearing
+    3/0029  . . . {Casings, housings}
+    3/0032  . {having rotary cylinder block}
+    3/0035  . . {having two or more sets of cylinders or pistons}
+    3/0038  . . . {inclined to main shaft axis}
+    3/0041  . . {Arrangements for pressing the cylinder barrel
+against the valve plate, e.g. fluid pressure}
+    3/0044  . . {Component parts, details, e.g. valves, sealings,
+    3/0047  . . . {Particularities in the contacting area between
+cylinder barrel and valve plate}
+    3/005   . . . . {Bearing arrangements}
+    3/0052  . . . {Cylinder barrel}
+    3/0055  . . . {Valve means, e.g. valve plate}
+    3/0058  . . . . {Cylindrical valve means}
+    3/0061  . . . . {Conical valve means}
+    3/0064  . . . {Machine housing}
+    3/0067  . . . . {cylinder barrel bearing means}
+    3/007   . . . {Swash plate}
+    3/0073  . . . . {swash plate bearing means or driving or
+    3/0076  . . {Connection between cylinder barrel and inclined
+    3/0079  . {having pistons with rotary and reciprocating
+    3/0088  . . . {Piston shoe retaining means}
+    3/0091  . . {Casings, housings}
+    3/0094  . . {Driving or driven means}
+ 2003/0097  . . . {Z-shafts, i.e. driven or driving shafts in Z-
+    3/02    . with wobble-plate
+    3/04    . the piston motion being transmitted by curved
+    3/045   . . {by two or more curved surfaces, e.g. for two or
+    3/06    . . by multi-turn helical surfaces and automatic
+    3/08    . . . the helices being arranged on the pistons
+    3/10    . Control of working-fluid admission or discharge
+peculiar thereto (suitable for more general
+    3/101   . . {for machines with stationary cylinders}
+    3/102   . . . {Changing the piston stroke by changing the
+    3/103   . . {for machines with rotary cylinder block}
+    3/104   . . . {by turning the valve plate}
+    3/105   . . . {by moving the swash plate in a direction
+perpendicular to the axis of rotation of the
+    3/106   . . . {by changing the inclination of the swash
+    3/107   . . . . {using wedges}
+    3/108   . . . {by turning the swash plate (with fixed
+    3/109   . . . {by changing the inclination of the axis of
+the cylinder barrel relative to the swash plate
+    5/00    Reciprocating-piston machines or engines with
+cylinder axes arranged substantially tangentially
+to a circle centred on main shaft axis
+    5/003   . {the connection of the pistons with an actuated or
+actuating element being at the outer ends of the
+    5/006   . {the connection of the pistons with an actuated or
+actuating element being at the inner ends of the
+    7/00    Machines or engines with two or more pistons
+reciprocating within same cylinder or within
+essentially coaxial cylinders (in opposite
+arrangement relative to main shaft F01B 1/08)
+    7/02    . with oppositely reciprocating pistons
+    7/04    . . acting on same main shaft
+    7/06    . . . using only connecting-rods for conversion of
+reciprocatory into rotary motion or vice versa
+    7/08    . . . . with side rods
+    7/10    . . . . having piston-rod of one piston passed
+    7/12    . . . using rockers and connecting-rods
+    7/14    . . acting on different main shafts
+    7/16    . with pistons synchronously moving in tandem
+    7/18    . with differential piston (F01B 7/20 takes
+    7/20    . with two or more pistons reciprocating one within
+another, e.g. one piston forming cylinder of the
+    9/00    Reciprocating-piston machines or engines
+characterised by connections between pistons and
+main shafts and not specific to preceding groups
+(connections disengageable during idling F01B 31/24)
+    9/023   . . {of Bourke-type or Scotch yoke}
+    9/026   . . {Rigid connections between piston and rod;
+    9/04    . with rotary main shaft other than crankshaft
+    9/042   . . {the connections comprising gear transmissions}
+ 2009/045   . . . {Planetary gearings}
+    9/047   . . {with rack and pinion}
+    9/06    . . the piston motion being transmitted by curved
+ 2009/063   . . . . {Mono-lobe cams}
+ 2009/065   . . . . {Bi-lobe cams}
+ 2009/066   . . . . {Tri-lobe cams}
+ 2009/068   . . . . {Quadri-lobe cams}
+    9/08    . . with ratchet and pawl
+   11/00    Reciprocating-piston machines or engines without
+rotary main shaft, e.g. of free-piston type
+   11/001   . {in which the movement in the two directions is
+obtained by one double acting piston motor}
+   11/002   . . {one side of the double acting piston motor being
+always under the influence of the fluid under
+   11/003   . . . {the fluid under pressure being continuously
+delivered to one motor chamber and reacting
+the other chamber through a valve located in
+the piston, to bring the piston back in its start-
+   11/004   . {in which the movement in the two directions is
+obtained by two single acting piston motors, each
+ 2011/005   . . {with oscillating pistons, i.e. the pistons are
+arranged in ring like cylinder sections and
+oscillate with respect to the center of the ring}
+   11/006   . . {one single acting piston motor being always
+under the influence of the fluid under pressure}
+   11/007   . {in which the movement in only one direction is
+obtained by a single acting piston motor, e.g. with
+actuation in the other direction by spring means}
+   11/008   . . {with actuation in the other direction by gravity}
+   11/009   . {in which the movement in two directions is
+obtained by two or more double acting piston
+   11/02    . Equalising or cushioning devices
+   11/04    . Engines combined with reciprocatory driven
+devices, e.g. hammers (with pumps F01B 23/08;
+predominating aspects of driven devices, see the
+relevant classes for the devices)
+   11/06    . . for generating vibration only
+   11/08    . with direct fluid transmission link (F01B 11/02
+   13/00    Reciprocating-piston machines or engines
+with rotating cylinders in order to obtain the
+reciprocating-piston motion (machines or engines of
+   13/02    . with one cylinder only
+   13/04    . with more than one cylinder {(F01B 3/0032 takes
+   13/045   . . {with cylinder axes arranged substantially
+tangentially to a circle centred on main shaft axis}
+   13/06    . . in star arrangement
+   13/061   . . . {the connection of the pistons with the actuated
+or actuating element being at the outer ends of
+   13/062   . . . . {cylinder block and actuating or actuated
+cam both rotating (F01B 13/064 and
+   13/063   . . . . {with two or more series radial piston-
+   13/064   . . . . . {cylinder block and actuating or actuated
+cam both rotating (F01B 13/066 takes
+   13/065   . . . . . {directly located side by side}
+   13/066   . . . . . . {cylinder block and actuating or
+   13/067   . . . . {with pistons and cylinders having two
+different parallel axis of rotation}
+   13/068   . . . {the connection of the pistons with an actuated
+or actuating element being at the inner ends of
+   15/00    Reciprocating-piston machines or engines with
+movable cylinders other than provided for in
+group F01B 13/00 (with movable cylinder sleeves for
+   15/002   . {having cylinders in star or fan arrangement, the
+connection of the pistons with the actuated or
+actuating element being at the outer ends of the
+   15/005   . {having cylinders in star or fan arrangement, the
+connection of the pistons with the actuated or
+actuating element being at the inner ends of the
+   15/007   . {having spinning cylinders, i.e. the cylinders
+rotating about their longitudinal axis}
+   15/02    . with reciprocating cylinders (with one piston within
+   15/04    . with oscillating cylinder
+   15/06    . . Control of working-fluid admission or discharge
+   15/065   . . . {by cam-actuated distribution members}
+   17/00    Reciprocating-piston machines or engines
+characterised by use of uniflow principle
+   17/022   . . {with fluid heating}
+   17/025   . . {using liquid air}
+   17/027   . . {using separators}
+in this group the following indexing codes are
+F01B 2170/0411 - F01B 2170/0494
+   19/00    Positive-displacement machines or engines of
+   19/02    . with plate-like flexible members
+   19/04    . with tubular flexible members
+   21/00    Combinations of two or more machines or
+engines (F01B 23/00 takes precedence; regulating or
+controlling, see the relevant groups; combinations of
+two or more pumps F04; fluid gearing F16H)
+   21/02    . the machines or engines being all of reciprocating-
+   21/04    . the machines or engines being not all of
+reciprocating-piston type, e.g. of reciprocating
+steam engine with steam turbine
+   23/00    Adaptations of machines or engines for special
+use; Combinations of engines with devices driven
+thereby (F01B 11/00 takes precedence; fluid gearing
+F16H; aspects predominantly concerning driven
+devices, see the relevant classes for these devices;
+regulating or controlling, see the relevant groups)
+   23/02    . Adaptations for driving vehicles, e.g. locomotives
+(arrangements in vehicles, see the relevant classes
+   23/04    . . the vehicles being waterborne vessels
+   23/06    . Adaptations for driving, or combinations with,
+   23/08    . Adaptations for driving, or combinations with,
+   23/10    . Adaptations for driving, or combinations with,
+   23/12    . Adaptations for driving rolling mills or other heavy
+   25/00    Regulating, controlling, or safety means (regulating
+in this group the following indexing codes are
+   25/02    . Regulating or controlling by varying working-fluid
+admission or exhaust, e.g. by varying pressure or
+quantity (distributing or expansion valve gear F01L)
+   25/04    . . Sensing elements
+   25/06    . . . responsive to speed
+   25/08    . . Final actuators
+   25/10    . . . Arrangements or adaptations of working-
+fluid admission or discharge valves (valves in
+   25/12    . . Devices dealing with sensing elements or final
+actuators or transmitting means between them,
+e.g. power-assisted (sensing elements alone
+F01B 25/04; final actuators alone F01B 25/08)
+   25/14    . . peculiar to particular kinds of machines or
+   25/16    . Safety means responsive to specific conditions
+(against water hammer or the like in steam engines
+   25/18    . . preventing rotation in wrong direction
+   25/20    . Checking operation on safety devices
+   25/22    . Braking by redirecting working-fluid
+   25/24    . . thereby regenerating energy
+   27/00    Starting of machines or engines (starting
+   27/02    . of reciprocating-piston engines
+   27/04    . . by directing working-fluid supply, e.g. by aid of
+   27/06    . . . specially for compound engines
+   27/08    . . Means for moving crank off dead-centre (turning-
+   29/00    Machines or engines with pertinent characteristics
+other than those provided for in preceding main
+   29/02    . Atmospheric engines, i.e. atmosphere acting against
+   29/04    . characterised by means for converting from one
+   29/06    . . from steam engine into combustion engine
+   29/08    . Reciprocating-piston machines or engines not
+   29/10    . . Engines (refrigeration machines F25B)
+   29/12    . . . Steam engines (toy steam engines A63H 29/16)
+   31/00    Component parts, details, or accessories not
+provided for in, or of interest apart from, other
+groups (machine or engine casings, other than those
+peculiar to steam engines, F16M)
+   31/005   . {Silencing equipment (silencing for steam engines
+   31/02    . De-icing means for engines having icing
+   31/04    . Means for equalising torque in reciprocating-piston
+machines or engines (compensation of inertial
+forces, suppression of vibration in systems F16F)
+   31/06    . Means for compensating relative expansion of
+   31/08    . Cooling of steam engines (cooling of fluid machines
+or engines in general F01P); Heating; Heat
+insulation (heat insulation in general F16L 59/00)
+   31/10    . Lubricating arrangements of steam engines (of fluid
+machines or engines in general F01M)
+   31/12    . Arrangements of measuring or indicating devices
+(warning apparatus F01B 25/26; measuring
+instruments or the like per se G01)
+   31/14    . Changing of compression ratio
+   31/16    . Silencers specially adapted for steam engines
+(arrangements of exhaust pipes or tubes on steam
+engines F01B 31/30; gas-flow silencers or exhaust
+silencers for machines or engines in general F01N)
+   31/22    . Idling devices, e.g. having by-passing valves
+   31/24    . . Disengagement of connections between pistons
+   31/26    . Other component parts, details, or accessories,
+   31/28    . . Cylinders or cylinder covers
+   31/30    . . Arrangements of steam conduits
+   31/32    . . Arrangements or adaptations of vacuum breakers
+   31/34    . . Safety means against water hammers or against
+the penetration of water (steam traps F16T)
+   31/36    . . . automatically cutting-off steam supply
+ 2170/00    Steam engines, e.g. for locomotives or ships
+ 2170/04    . To-be-deleted with administrative transfer to parent
+ 2170/0405  . . To-be-deleted with administrative transfer to
+ 2170/0411  . . . for locomotives
+ 2170/0417  . . . for locomobiles driven by small motors
+ 2170/0423  . . . Single acting steam engines with 1, 2 or 3
+ 2170/0429  . . . Double acting high pressure machines
+ 2170/0435  . . . Compound machines with double or plural
+expansion; Auxiliaries driven by main engine
+ 2170/0441  . . . Compound engines with monolytic pistons in
+ 2170/0447  . . . Machines with more than one piston in a
+cylinder and with counter moving pistons
+ 2170/0452  . . . Engines without connecting rods
+ 2170/0458  . . . Moving cylinders for steam engines, e.g. with
+telescopic cylinder arrangements
+ 2170/0464  . . . Oscillating cylinders for steam engines
+ 2170/047   . . . General arrangements for steam engines
+ 2170/0476  . . . Components or parts for steam engines
+ 2170/0482  . . . with toroidal cylinder space
+ 2170/0488  . . . . To-be-deleted with administrative transfer to
+ 2170/0494  . . . . . with fixed cylinder space
+ 2250/00    Accessories of steam engines; Arrangements or
+control devices of piston pumps, compressors
+without crank shafts or condensors for so far as
+they influence the functioning of the engines
+ 2250/001   . Valves for steam inlet or outlet
+ 2250/002   . Valves, brakes, control or safety devices for steam
+ 2250/003   . Apparatus for control or receiver or condensor
+ 2250/004   . Devices for draining or idling of steam cylinders or
+for uncoupling piston and connecting rod
+ 2250/005   . Oil separators for steam engines
+ 2250/006   . Arrangement of or controlling of piston pumps or
+compressors without crank shaft
+ 2250/007   . Condensing devices for steam engines
+ 2250/008   . Surface condensors for so far as they influence the
+ 2250/009   . Condenser pumps for steam engines

@@ -1,0 +1,498 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+STORING OR DISTRIBUTING GASES OR LIQUIDS
+VESSELS FOR CONTAINING OR STORING COMPRESSED, LIQUEFIED OR
+SOLIDIFIED GASES; FIXED-CAPACITY GAS-HOLDERS; FILLING VESSELS
+WITH, OR DISCHARGING FROM VESSELS, COMPRESSED, LIQUEFIED, OR
+SOLIDIFIED GASES (storing fluids in natural or artificial cavities or chambers in the earth
+B65G 5/00; construction or assembling of bulk storage containers employing civil-engineering
+techniques E04H 7/00; variable-capacity gas-holders F17B; liquefaction or refrigeration
+machines, plants, or systems F25)
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+    1/00    Pressure vessels, e.g. gas cylinder, gas tank,
+replaceable cartridge (pressurised apparatus
+for purposes other than storage, see the relevant
+subclasses such as A62C, B05B; associated with
+vehicles, see the appropriate subclass of classes
+B60 - B64; pressure vessels in general F16J 12/00
+{; autoclaves B01J 3/04; tank vehicles B60P 3/22;
+railway tank wagons for carrying fluent materials
+B61D 5/00; accumulators for supplying fluid under
+pressure F15B 1/04; liquefied gas stoves F24C 3/00})
+    1/002   . {Storage in barges or on ships}
+    1/005   . {Storage of gas or gaseous mixture at high pressure
+and at high density condition, e.g. in the single state
+    1/007   . {Underground or underwater storage}
+    1/02    . involving reinforcing arrangements {(F17C 1/14,
+    1/04    . . Protecting sheathings
+    1/06    . . . built-up from wound-on bands or filamentary
+    1/08    . . Integral reinforcements, e.g. ribs
+    1/10    . with provision for protection against corrosion,
+e.g. due to gaseous acid ({F17C 1/14, F17C 1/16
+take precedence}; inhibiting corrosion of metallic
+material or incrustation in general C23F)
+    1/12    . with provision for thermal insulation ({F17C 1/14,
+F17C 1/16 take precedence}; thermal insulation in
+    1/14    . constructed of aluminium; constructed of non-
+    1/16    . constructed of plastics materials {(shaping of
+    3/00    Vessels not under pressure
+    3/005   . {Underground or underwater containers or vessels
+(storing in natural or artificial cavities in the earth in
+    3/02    . with provision for thermal insulation (thermal
+insulation in general F16L 59/00 {; refrigerators
+F25D; insulation specially adapted for cryogenic
+vessels F17C 13/001; tank vehicles B60P 3/22;
+railway tank wagons B61D 5/00})
+    3/022   . . {Land-based bulk storage containers (civil
+engineering aspects E04H 7/00)}
+    3/025   . . {Bulk storage in barges or on ships (constructive
+    3/027   . . . {Wallpanels for so-called membrane tanks}
+    3/04    . . by insulating layers (F17C 3/08 takes precedence)
+    3/06    . . . on the inner surface, i.e. in contact with the
+    3/08    . . by vacuum spaces, e.g. Dewar flask (for
+    3/10    . . by liquid-circulating or vapour-circulating jackets
+    3/12    . with provision for protection against corrosion, e.g.
+due to gaseous acid (protection against corrosion in
+    5/00    Methods or apparatus for filling containers with
+liquefied, solidified, or compressed gases under
+pressures (adding propellants to aerosol containers
+This group includes not only the filling of vessels
+for storage of compressed or liquefied gases, but
+also the filling of pressurised apparatus insofar as
+it is not covered by a single other subclass, e.g.
+    5/002   . {Automated filling apparatus}
+    5/005   . . {for gas bottles, such as on a continuous belt or
+    5/007   . . {for individual gas tanks or containers, e.g.
+in vehicles (filling with liquid fuel not under
+pressure, B60S 5/02, B67D 7/00)}
+    5/02    . for filling with liquefied gases
+    5/04    . . requiring the use of refrigeration, e.g. filling with
+    5/06    . for filling with compressed gases
+    6/00    Methods and apparatus for filling vessels not
+under pressure with liquefied or solidified gases
+    7/00    Methods or apparatus for discharging liquefied,
+solidified, or compressed gases from pressure
+vessels, not covered by another subclass
+    7/02    . Discharging liquefied gases
+    7/04    . . with change of state, e.g. vaporisation
+    9/00    Methods or apparatus for discharging liquefied or
+solidified gases from vessels not under pressure
+    9/02    . with change of state, e.g. vaporisation
+    9/04    . . Recovery of thermal energy
+   11/00    Use of gas-solvents or gas-sorbents in vessels
+{(absorbing compositions for acetylene C10L 3/04;
+absorbing compositions for hydrogen C01B 3/0005)}
+   11/007   . {for hydrocarbon gases, such as methane or natural
+gas, propane, butane or mixtures thereof [LPG]}
+   13/00    Details of vessels or of the filling or discharging of
+   13/001   . {Thermal insulation specially adapted for
+cryogenic vessels (vessels not under pressure with
+insulation F17C 3/02; thermal insulation in general
+   13/002   . {for vessels under pressure (F17C 13/008 and
+F17C 13/02 - F17C 13/12 take precedence)}
+   13/003   . . {Means for coding or identifying them and/or
+   13/004   . {for large storage vessels not under pressure
+(F17C 13/008 and F17C 13/02 - F17C 13/12 take
+   13/005   . {for medium-size and small storage vessels
+not under pressure (F17C 13/008 and
+F17C 13/02 - F17C 13/12 take precedence)}
+   13/006   . . {for Dewar vessels or cryostats}
+   13/007   . . . {used for superconducting phenomena
+(investigating by nuclear magnetic resonance
+G01N 24/08; magnets having superconductive
+   13/008   . {for use under microgravity conditions}
+   13/02    . Special adaptations of indicating, measuring, or
+monitoring equipment (measuring in general G01)
+   13/021   . . {having the height as the parameter}
+   13/023   . . {having the mass as the parameter}
+   13/025   . . {having the pressure as the parameter}
+   13/026   . . {having the temperature as the parameter}
+   13/028   . . {having the volume as the parameter}
+   13/04    . Arrangement or mounting of valves (valves per se
+F16K {; snap-coupling of nipples F16L 37/00})
+   13/045   . . {Automatic change-over switching assembly
+for bottled gas systems with two (or more) gas
+   13/06    . Closures, e.g. cap, breakable member ({for
+autoclaves B01J 3/03}; closures for {large}
+containers in general B65D {B65D 90/54}; {for
+pressure vessels in general F16J 13/00})
+   13/08    . Mounting arrangements for vessels
+   13/081   . . {for large land-based storage vessels (supports for
+large containers in general B65D 90/12)}
+   13/082   . . {for large sea-borne storage vessels (load-
+accommodating arrangements for ships or
+waterborne vessels B63B 25/12)}
+   13/083   . . {for medium-sized mobile storage vessels, e.g.
+tank vehicles or railway tank vehicles}
+   13/084   . . {for small-sized storage vessels, e.g. compressed
+gas cylinders or bottles, disposable gas vessels,
+vessels adapted for automotive use}
+   13/085   . . . {on wheels (hand carts B62B)}
+   13/086   . . {for Dewar vessels or cryostats}
+   13/087   . . . {used for superconducting phenomena}
+   13/088   . . {for use under microgravity conditions}
+   13/10    . Arrangements for preventing freezing
+   13/12    . Arrangements or mounting of devices for
+preventing or minimising the effect of explosion
+(flame traps A62C 4/00 ){; Other safety measures}
+   13/123   . . {for gas bottles, cylinders or reservoirs for tank
+vehicles or for railway tank wagons}
+   13/126   . . {for large storage containers for liquefied gas (for
+large containers in general B65D 90/22)}
+ 2201/00    Vessel construction, in particular geometry,
+ 2201/0109  . . . with exteriorly curved end-piece
+ 2201/0114  . . . with interiorly curved end-piece
+ 2201/0119  . . . with flat end-piece
+ 2201/0123  . . . with variable thickness or diameter
+ 2201/0128  . . spherical or elliptical
+ 2201/0166  . . . divided in several chambers
+ 2201/0171  . . . comprising a communication hole between
+ 2201/018   . . . with bladders
+ 2201/0185  . . . with separating membrane
+ 2201/032   . . with substantially vertical main axis
+ 2201/035   . . with substantially horizontal main axis
+ 2201/037   . . with sloping main axis
+ 2201/052   . . large (>1000 m3)
+ 2201/058   . . portable (<30 l)
+ 2201/06    . Vessel construction using filling material in contact
+ 2203/00    Vessel construction, in particular walls or details
+ 2203/01    . Reinforcing or suspension means
+ 2203/011   . . Reinforcing means
+ 2203/012   . . . on or in the wall, e.g. ribs
+ 2203/013   . . . in the vessel, e.g. columns
+ 2203/014   . . Suspension means
+ 2203/017   . . . Magnetic means
+ 2203/018   . . . by attachment at the neck
+ 2203/03    . Thermal insulations
+ 2203/0308  . . . Radiation shield
+ 2203/0312  . . . . cooled by external means
+ 2203/0316  . . . . cooled by vaporised gas from the interior
+ 2203/032   . . . . Multi-sheet layers
+ 2203/0333  . . . . Polyurethane
+ 2203/0358  . . . in form of panels
+ 2203/0362  . . by liquid means
+ 2203/06    . Materials for walls or layers thereof; Properties or
+structures of walls or their materials
+ 2203/0602  . . Wall structures; Special features thereof
+ 2203/0609  . . . Straps, bands or ribbons
+ 2203/0612  . . . Wall structures
+ 2203/0614  . . . . Single wall
+ 2203/0617  . . . . . with one layer
+ 2203/0619  . . . . . with two layers
+ 2203/0621  . . . . . with three layers
+ 2203/0624  . . . . . with four or more layers
+ 2203/0626  . . . . Multiple walls
+ 2203/0629  . . . . . Two walls
+ 2203/0631  . . . . . Three or more walls
+ 2203/0634  . . Materials for walls or layers thereof
+ 2203/0641  . . . . . Non-magnetic steels
+ 2203/0643  . . . . . Stainless steels
+ 2203/0648  . . . . Alloys or compositions of metals
+ 2203/0656  . . . . in form of filaments
+ 2203/0663  . . . . in form of fibers or filaments
+ 2203/0665  . . . . . radially wound
+ 2203/0668  . . . . . axially wound
+ 2203/067   . . . . . helically wound
+ 2203/0675  . . . . with details of composition
+ 2203/068   . . Special properties of materials for vessel walls
+ 2203/0682  . . . with liquid or gas layer
+ 2203/0687  . . . superconducting
+ 2203/069   . . . Break point in the wall
+ 2203/0695  . . . pre-constrained
+ 2203/0697  . . . comprising nanoparticles
+ 2205/00    Vessel construction, in particular mounting
+arrangements, attachments or identifications
+ 2205/01    . Mounting arrangements
+ 2205/0103  . . Exterior arrangements
+ 2205/0115  . . . Dismountable protective hulls
+ 2205/0119  . . . Vessel walls form part of another structure
+ 2205/0123  . . characterised by number of vessels
+ 2205/013   . . . Two or more vessels
+ 2205/0134  . . . . characterised by the presence of fluid
+ 2205/0138  . . . . . bundled in series
+ 2205/0142  . . . . . bundled in parallel
+ 2205/0146  . . . . . with details of the manifold
+ 2205/0149  . . . . Vessel mounted inside another one
+ 2205/0153  . . Details of mounting arrangements
+ 2205/0157  . . . for transport
+ 2205/0161  . . . . with wheels
+ 2205/0165  . . . . with handgrip
+ 2205/0176  . . . with ventilation
+ 2205/018   . . . Supporting feet
+ 2205/0184  . . . Attachments to the ground, e.g. mooring or
+ 2205/0188  . . . Hanging up devices
+ 2205/0192  . . . with external bearing means
+ 2205/0196  . . . with shock absorbing means
+ 2205/03    . Fluid connections, filters, valves, closure means or
+ 2205/0302  . . Fittings, valves, filters, or components in
+connection with the gas storage device
+ 2205/0305  . . . Bosses, e.g. boss collars
+ 2205/0308  . . . Protective caps
+ 2205/0311  . . . Closure means
+ 2205/0314  . . . . breakable, e.g. with burst discs
+ 2205/0317  . . . . fusing or melting
+ 2205/0326  . . . . electrically actuated
+ 2205/0329  . . . . manually actuated
+ 2205/0332  . . . . Safety valves or pressure relief valves
+ 2205/0335  . . . . Check-valves or non-return valves
+ 2205/0338  . . . Pressure regulators
+ 2205/0344  . . . . Sinter type
+ 2205/0347  . . . . Active charcoal type
+ 2205/035   . . . Flow reducers
+ 2205/0355  . . . . Insulation thereof
+ 2205/0364  . . . . flexible or articulated, e.g. a hose
+ 2205/0367  . . . . Arrangements in parallel
+ 2205/037   . . . Quick connecting means, e.g. couplings
+ 2205/0376  . . . Dispensing pistols
+ 2205/0379  . . . Manholes or access openings for human beings
+ 2205/0382  . . . Constructional details of valves, regulators
+ 2205/0385  . . . . in blocks or units
+ 2205/0388  . . Arrangement of valves, regulators, filters
+ 2205/0391  . . . inside the pressure vessel
+ 2205/0394  . . . in direct contact with the pressure vessel
+ 2205/0397  . . . . on both sides of the pressure vessel
+ 2205/05    . Vessel or content identifications, e.g. labels
+ 2205/055   . . by magnetic means
+ 2205/058   . . by Radio Frequency Identification
+ 2209/00    Vessel construction, in particular methods of
+ 2209/21    . Shaping processes
+ 2209/2136  . . . using wax moulds
+ 2209/2163  . . . with a mandrel
+ 2209/2181  . . Metal working processes, e.g. deep drawing,
+ 2209/219   . . Working processes for non metal materials, e.g.
+ 2209/22    . Assembling processes
+ 2209/224   . . Press-fitting; Shrink-fitting
+ 2209/227   . . by adhesive means
+ 2209/228   . . by screws, bolts or rivets
+ 2209/23    . Manufacturing of particular parts or at special
+ 2209/234   . . of closing end pieces, e.g. caps
+ 2209/236   . . . Apparatus therefore
+ 2209/238   . . Filling of insulants
+ 2221/00    Handled fluid, in particular type of fluid
+ 2221/013   . . Carbone dioxide
+ 2221/015   . . Carbon monoxide
+ 2221/016   . . Noble gases (Ar, Kr, Xe)
+ 2221/033   . . . Methane, e.g. natural gas, CNG, LNG, GNL,
+ 2221/035   . . . Propane butane, e.g. LPG, GPL
+ 2221/037   . . Containing pollutant, e.g. H2S, Cl
+ 2221/07    . Hyperpolarised gases
+ 2221/08    . Ergols, e.g. hydrazine
+Fluid contained in the vessel; Filling and discharging the fluid
+ 2223/00    Handled fluid before transfer, i.e. state of fluid
+when stored in the vessel or before transfer from
+ 2223/01    . characterised by the phase
+ 2223/0115  . . . dense or supercritical, i.e. at high pressure and
+ 2223/0123  . . . gaseous, e.g. CNG, GNC
+ 2223/0153  . . . Liquefied gas, e.g. LPG, GPL
+ 2223/0161  . . . . cryogenic, e.g. LNG, GNL, PLNG
+ 2223/0176  . . . Solids and gas
+ 2223/0184  . . . Liquids and solids
+ 2223/0192  . . Three-phase, e.g. CO2 at triple point
+ 2223/03    . characterised by the pressure level
+ 2223/031   . . Not under pressure, i.e. containing liquids or
+ 2223/033   . . Small pressure, e.g. for liquefied gas
+ 2223/035   . . High pressure (>10 bar)
+ 2223/036   . . Very high pressure (>80 bar)
+ 2223/038   . . Subatmospheric pressure
+ 2223/04    . characterised by other properties of handled fluid
+ 2223/042   . . Localisation of the removal point
+ 2223/045   . . . . with a dip tube
+ 2223/046   . . . in the liquid
+ 2223/047   . . . . with a dip tube
+ 2225/00    Handled fluid after transfer, i.e. state of fluid after
+ 2225/01    . characterised by the phase
+ 2225/0115  . . . dense or supercritical, i.e. at high pressure and
+ 2225/0123  . . . gaseous, e.g. CNG, GNC
+ 2225/0153  . . . Liquefied gas, e.g. LPG, GPL
+ 2225/0161  . . . . cryogenic, e.g. LNG, GNL, PLNG
+4Fluid contained in the vessel; Filling and discharging the fluid
+ 2225/0176  . . . Solids and gas
+ 2225/0184  . . . Liquids and solids
+ 2225/0192  . . Three-phase, e.g. CO2 at triple point
+ 2225/03    . characterised by the pressure level
+ 2225/031   . . Not under pressure, i.e. containing liquids or
+ 2225/033   . . Small pressure, e.g. for liquefied gas
+ 2225/035   . . High pressure, i.e. between 10 and 80 bars
+ 2225/036   . . Very high pressure, i.e. above 80 bars
+ 2225/038   . . Subatmospheric pressure
+ 2225/04    . characterised by other properties of handled fluid
+ 2225/042   . . Localisation of the filling point
+ 2225/044   . . . . at several points, e.g. with a device for
+ 2225/045   . . . . with a dip tube
+ 2225/046   . . . in the liquid
+ 2225/047   . . . . with a dip tube
+ 2227/00    Transfer of fluids, i.e. method or means for
+transferring the fluid; Heat exchange with the
+ 2227/01    . Propulsion of the fluid
+ 2227/0107  . . by pressurising the ullage
+ 2227/0114  . . with vacuum injectors, e.g. venturi
+ 2227/0128  . . with pumps or compressors
+ 2227/0142  . . . . with specified pump type, e.g. piston or
+ 2227/015   . . . . with cooling of the pump
+ 2227/0164  . . . . with specified compressor type, e.g. piston or
+ 2227/0178  . . . . in the vessel
+ 2227/0185  . . . . comprising several pumps or compressors
+ 2227/0192  . . by using a working fluid
+ 2227/03    . Heat exchange with the fluid
+ 2227/0304  . . . using an electric heater
+ 2227/0306  . . . using the same fluid
+ 2227/0309  . . . using another fluid
+ 2227/0311  . . . . Air heating
+ 2227/0313  . . . . . by forced circulation, e.g. using a fan
+ 2227/0316  . . . . Water heating
+ 2227/0318  . . . . . using seawater
+ 2227/032   . . . . . using geothermal water
+ 2227/0323  . . . . in a closed loop
+ 2227/0325  . . . by expansion using "Joule-Thompson" effect
+ 2227/0327  . . . with recovery of heat
+ 2227/033   . . . using solar energy
+ 2227/0332  . . . by burning a combustible
+ 2227/0334  . . . by radiation means
+ 2227/0339  . . . using the same fluid
+ 2227/0341  . . . using another fluid
+ 2227/0344  . . . . Air cooling
+ 2227/0346  . . . . . by forced circulation, e.g. using a fan
+ 2227/0348  . . . . Water cooling
+ 2227/0351  . . . . . using seawater
+ 2227/0353  . . . . using cryocooler
+ 2227/0355  . . . . in a closed loop
+ 2227/036   . . . . "Joule-Thompson" effect
+ 2227/0362  . . . . in a turbine
+ 2227/0365  . . . with recovery of heat
+ 2227/0367  . . Localisation of heat exchange
+ 2227/0369  . . . in or on a vessel
+ 2227/0374  . . . . in the liquid
+ 2227/0376  . . . . in wall contact
+ 2227/0379  . . . . . inside the vessel
+ 2227/0381  . . . . . integrated in the wall
+ 2227/0383  . . . . . outside the vessel
+ 2227/0386  . . . . . . with a jacket
+ 2227/039   . . . . on the pipes
+ 2227/0393  . . . . using a vaporiser
+ 2227/0395  . . . . using a submerged heat exchanger
+ 2227/0397  . . . characterised by fins
+ 2227/04    . Methods for emptying or filling
+ 2227/041   . . vessel by vessel
+ 2227/042   . . . with change-over from one vessel to another
+ 2227/043   . . by pressure cascade
+ 2227/046   . . by even emptying or filling
+ 2227/047   . . by repeating a process cycle
+ 2227/048   . . by maintaining residual pressure
+ 2250/00    Accessories; Control means; Indicating, measuring
+ 2250/01    . Intermediate tanks
+ 2250/032   . . using computers
+ 2250/034   . . using wireless transmissions
+ 2250/04    . Indicating or measuring of parameters as input
+ 2250/0404  . . Parameters indicated or measured
+ 2250/0408  . . . Level of content in the vessel
+ 2250/0413  . . . . with floats
+ 2250/0417  . . . . with electrical means
+ 2250/0421  . . . Mass or weight of the content of the vessel
+ 2250/0434  . . . . Pressure difference
+ 2250/0443  . . . Flow or movement of content
+ 2250/0447  . . . Composition; Humidity
+ 2250/0452  . . . . Concentration of a product
+ 2250/0456  . . . . Calorific or heating value
+ 2250/0465  . . . Vibrations, e.g. of acoustic type
+ 2250/0469  . . . Constraints, e.g. by gauges
+ 2250/0473  . . . Time or time periods
+ 2250/0478  . . . Position or presence
+5Fluid contained in the vessel; Filling and discharging the fluid
+ 2250/0486  . . Indicating or measuring characterised by the
+ 2250/0491  . . . Parameters measured at or inside the vessel
+ 2250/0495  . . . the indicated parameter is a converted
+ 2250/06    . Controlling or regulating of parameters as output
+ 2250/061   . . . Level of content in the vessel
+ 2250/0615  . . . Mass or weight of the content of the vessel
+ 2250/0636  . . . Flow or movement of content
+ 2250/0642  . . . Composition; Humidity
+ 2250/0647  . . . . Concentration of a product
+ 2250/0652  . . . . Calorific or heating value
+ 2250/0663  . . . Vibrations, e.g. of acoustic type
+ 2250/0668  . . . Constraints, e.g. by gauges
+ 2250/0673  . . . Time or time periods
+ 2250/0678  . . . Position or presence
+ 2250/0689  . . Methods for controlling or regulating
+ 2250/0694  . . . with calculations
+ 2250/07    . Actions triggered by measured parameters
+ 2250/072   . . Action when predefined value is reached
+ 2260/00    Purposes of gas storage and gas handling
+ 2260/01    . Improving mechanical properties or manufacturing
+ 2260/011   . . Improving strength
+ 2260/012   . . Reducing weight
+ 2260/013   . . Reducing manufacturing time or effort
+ 2260/015   . . Facilitating maintenance
+ 2260/016   . . Preventing slosh
+ 2260/018   . . Adapting dimensions
+ 2260/02    . Improving properties related to fluid or fluid
+ 2260/021   . . Avoiding over pressurising
+ 2260/022   . . Avoiding overfilling
+ 2260/023   . . Avoiding overheating
+ 2260/024   . . Improving metering
+ 2260/025   . . Reducing transfer time
+ 2260/027   . . Making transfer independent of vessel orientation
+ 2260/028   . . Avoiding unauthorised transfer
+ 2260/03    . Dealing with losses
+ 2260/031   . . due to heat transfer
+ 2260/032   . . . Avoiding freezing or defrosting
+ 2260/033   . . . by enhancing insulation
+ 2260/036   . . . Avoiding leaks
+ 2260/037   . . . Handling leaked fluid
+ 2260/038   . . . Detecting leaked fluid
+ 2260/04    . Reducing risks and environmental impact
+ 2260/042   . . Reducing risk of explosion
+ 2260/044   . . Avoiding pollution or contamination
+ 2260/046   . . Enhancing energy recovery
+ 2260/05    . Improving chemical properties
+ 2260/053   . . Reducing corrosion
+ 2260/056   . . Improving fluid characteristics
+ 2265/00    Effects achieved by gas storage or gas handling
+ 2265/01    . Purifying the fluid
+ 2265/017   . . . different phases of a same fluid
+ 2265/022   . . identical fluid
+ 2265/025   . . different fluids
+ 2265/027   . . . with odorizing
+ 2265/03    . Treating the boil-off
+ 2265/034   . . . . with condensing the gas phase
+ 2265/035   . . . . with subcooling the liquid phase
+ 2265/037   . . . with pressurising
+ 2265/038   . . . with expanding
+ 2265/04    . using an independent energy source, e.g. battery
+ 2265/06    . Fluid distribution
+ 2265/061   . . for supply of supplying vehicles
+ 2265/063   . . for supply of refueling stations
+ 2265/065   . . for refueling vehicle fuel tanks
+ 2265/066   . . for feeding engines for propulsion
+ 2265/068   . . Distribution pipeline networks
+ 2265/07    . Generating electrical power as side effect
+ 2270/01    . for fluid transport or storage
+ 2270/0102  . . on or in the water
+ 2270/0107  . . . . Wall panels
+ 2270/0128  . . . . Storage in depth
+ 2270/0134  . . placed above the ground
+ 2270/0139  . . . Fuel stations
+ 2270/0142  . . placed underground
+ 2270/0144  . . . Type of cavity
+ 2270/0147  . . . . by burying vessels
+ 2270/0149  . . . . by digging cavities
+ 2270/0152  . . . . . Salt caverns
+ 2270/0155  . . . . by using natural cavities
+ 2270/0157  . . . Location of cavity
+ 2270/0186  . . in the air or in space
+ 2270/0192  . . . Hot air balloons
+ 2270/0194  . . . for use under microgravity conditions, e.g.
+ 2270/02    . for medical applications
+ 2270/05    . for industrial use
+ 2270/0509  . . "Dewar" vessels
+ 2270/0527  . . Superconductors
+ 2270/0536  . . . Magnetic resonance imaging
+ 2270/0554  . . Hydraulic applications
+ 2270/0563  . . Pneumatic applications
+ 2270/0572  . . Isostatic presses
+ 2270/059   . . Mass bottling, e.g. merry belts
+ 2270/07    . for household use
+ 2270/0736  . . Capsules, e.g. CO2
+ 2270/0754  . . Fire extinguishers
+ 2270/0772  . . Inflation devices, e.g. for rescue vests or tyres
+ 2270/0781  . . Diving equipments
+ 2270/079   . . Respiration devices for rescuing

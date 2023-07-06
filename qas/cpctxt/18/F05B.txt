@@ -1,0 +1,455 @@
+COOPERATIVE PATENT CLASSIFICATION
+MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+INDEXING SCHEMES RELATING TO ENGINES OR PUMPS IN VARIOUS
+INDEXING SCHEME RELATING TO WIND, SPRING, WEIGHT, INERTIA OR
+LIKE MOTORS, TO MACHINES OR ENGINES FOR LIQUIDS COVERED BY
+This subclass constitutes an internal scheme for indexing only.
+ 2200/00    Mathematical features
+ 2200/20    . Special functions
+ 2200/25    . . Hyperbolic trigonometric, e.g. sinh, cosh, tanh
+ 2200/34    . . biggest/smallest
+Indexing codes of group F05B 2210/00 can be
+followed by a name for a specific working fluid
+preceded by the "+" sign, e.g. F05B 2210/11
+ 2210/11    . . liquid, i.e. incompressible
+ 2210/12    . . gaseous, i.e. compressible
+ 2210/13    . . mixed, e.g. two-phase fluid
+ 2210/132   . . . Pumps with means for separating and
+ 2210/14    . . Refrigerants with particular properties, e.g.
+ 2210/16    . Air or water being indistinctly used as working
+fluid, i.e. the machine can work equally with air or
+ 2210/18    . Air and water being simultaneously used as working
+ 2210/30    . Flow characteristics
+ 2210/301   . . with Mach-number kept constant along the flow
+ 2210/302   . . Pressure kept constant along the flow
+ 2210/40    . Flow geometry or direction
+ 2210/401   . . upwards due to the buoyancy of compressed air
+ 2210/402   . . Axial inlet and radial outlet
+ 2210/403   . . Radial inlet and axial outlet
+ 2210/404   . . bidirectional, i.e. in opposite, alternating
+ 2220/10    . in ram-jet engines or ram-jet driven vehicles
+ 2220/20    . within closed fluid conduits, e.g. pipes
+ 2220/301   . . in steam turbines
+ 2220/302   . . in gas turbines
+ 2220/31    . . in ram-air turbines ("RATS")
+ 2220/32    . . in water turbines
+ 2220/50    . for auxiliary power units (APU's)
+ 2220/60    . making use of surplus or waste energy
+ 2220/602   . . with energy recovery turbines
+ 2220/604   . . for domestic central heating or production of
+ 2220/61    . for hydrogen and/or oxygen production
+ 2220/70    . in combination with
+ 2220/702   . . the other apparatus being a steam turbine
+ 2220/703   . . the other apparatus being a water turbine
+ 2220/704   . . the other apparatus being a gas turbine
+ 2220/705   . . the other apparatus being a wind turbine
+ 2220/706   . . an electrical generator
+ 2220/7062  . . . of the direct current (D.C.) type
+ 2220/7064  . . . of the alternating current (A.C.) type
+ 2220/70642 . . . . of the synchronous type
+ 2220/70644 . . . . of the asynchronous type, i.e. induction type
+ 2220/70646 . . . . . Double fed induction generators (DFIGs)
+ 2220/7066  . . . via a direct connection, i.e. a gearless
+ 2220/7068  . . . equipped with permanent magnets
+ 2220/707   . . . of the linear type
+ 2220/708   . . Photoelectric means, i.e. photovoltaic or solar
+ 2220/709   . . Piezoelectric means
+Manufacture comprises also treatment, assembly
+or disassembly methods, repairing, handling or the
+ 2230/10    . by removing material
+ 2230/101   . . by electrochemical methods
+ 2230/102   . . by spark erosion methods
+ 2230/20    . essentially without removing material
+ 2230/211   . . . by precision casting, e.g. microfusing or
+ 2230/23    . . by permanently joining parts together
+ 2230/233   . . . . Electron beam welding
+ 2230/234   . . . . Laser welding
+ 2230/235   . . . . Tig/Mig welding
+ 2230/236   . . . . Diffusion bonding
+ 2230/239   . . . . Inertia or friction welding
+ 2230/30    . with deposition of material
+ 2230/31    . . Layer deposition
+ 2230/311   . . . by torch or flame spray
+ 2230/312   . . . by plasma spray
+ 2230/313   . . . by physical vapour deposition
+ 2230/314   . . . by chemical vapour deposition
+ 2230/41    . . Hardening; Annealing
+ 2230/50    . Building or constructing in particular ways
+ 2230/502   . . using existing or "off the shelf" parts, e.g. using
+standardised turbocharger elements
+ 2230/601   . . using limited numbers of standard modules which
+ 2230/604   . . using positioning or alignment devices for
+aligning or centering, e.g. pins
+ 2230/606   . . . using maintaining alignment while permitting
+ 2230/608   . . . for adjusting the position or the alignment, e.g.
+ 2230/61    . . using auxiliary equipment for lifting or holding
+(hoisting on to a stationary structure with
+provisions on the structure itself F05B 2240/916)
+ 2230/6102  . . . carried on a floating platform
+ 2230/70    . Disassembly methods
+ 2230/80    . Repairing, retrofitting or upgrading methods
+ 2230/90    . Coating; Surface treatment (manufacture with
+deposition of material F05B 2220/30)
+Components are the basic elements of
+ 2240/11    . . Shroud seal segments
+ 2240/12    . . Fluid guiding means, e.g. vanes
+ 2240/121   . . . Baffles or ribs
+ 2240/122   . . . Vortex generators, turbulators, or the like, for
+mixing (by creating turbulence F05B 2260/222)
+ 2240/1231  . . . . Plug nozzles
+ 2240/124   . . . Cascades, i.e. assemblies of similar profiles
+ 2240/13    . . to collect or cause flow towards or away from
+ 2240/131   . . . by means of vertical structures, i.e. chimneys
+ 2240/132   . . . creating a vortex or tornado effect
+ 2240/133   . . . with a convergent-divergent guiding structure,
+ 2240/14    . . Casings, housings, nacelles, gondels or the like,
+protecting or supporting assemblies within
+ 2240/142   . . . in the form of a standard ISO container
+ 2240/201   . . using the Magnus-effect
+ 2240/202   . . with adjustable area of intercepted fluid
+ 2240/2021  . . . by means of telescoping blades
+ 2240/2022  . . . by means of tethering or coning blades
+ 2240/2023  . . . by means of radially reefing blades
+ 2240/21    . . for wind turbines
+ 2240/211   . . . with vertical axis
+ 2240/212   . . . . of the Darrieus type
+ 2240/213   . . . . of the Savonius type
+ 2240/214   . . . . of the Musgrove or "H"-type
+ 2240/215   . . . . of the panemone or "vehicle ventilator" type
+ 2240/216   . . . . of the anemometer type
+ 2240/217   . . . . of the crossflow- or "Banki"- or "double
+ 2240/218   . . . . with horizontally hinged vanes
+ 2240/221   . . . with horizontal axis
+ 2240/2211  . . . . of the multibladed, low speed, e.g.
+ 2240/2212  . . . . perpendicular to wind direction
+ 2240/2213  . . . . and with the rotor downwind from the yaw
+ 2240/231   . . . driven by aerodynamic lift effects
+ 2240/232   . . . . driven by drag
+ 2240/241   . . . of impulse type
+ 2240/2411  . . . . Pelton type
+ 2240/242   . . . of reaction type
+ 2240/243   . . . of the Archimedes screw type
+ 2240/244   . . . of the cross-flow, e.g. Banki, Ossberger type
+ 2240/30    . . Characteristics of rotor blades, i.e. of any element
+transforming dynamic fluid energy to or from
+rotational energy and being attached to a rotor
+ 2240/301   . . . Cross-section characteristics
+ 2240/302   . . . Segmented or sectional blades
+ 2240/303   . . . Details of the leading edge
+ 2240/304   . . . Details of the trailing edge
+ 2240/3042  . . . . Serrated trailing edge
+ 2240/305   . . . Flaps, slats or spoilers
+ 2240/306   . . . Surface measures
+ 2240/3062  . . . . Vortex generators
+ 2240/307   . . . Blade tip, e.g. winglets
+ 2240/31    . . . of changeable form or shape
+ 2240/311   . . . . flexible or elastic
+ 2240/312   . . . . capable of being reefed
+ 2240/3121  . . . . . around an axis orthogonal to rotor
+ 2240/313   . . . . with adjustable flow intercepting area
+(F05B 2240/312 takes precedence)
+ 2240/32    . . . with roughened surfaces
+ 2240/33    . . Shrouds which are part of or which are rotating
+ 2240/37    . . Multiple rotors
+ 2240/372   . . . coaxially arranged
+ 2240/374   . . . Auxiliary rotors attached to blades of main
+ 2240/40    . Use of a multiplicity of similar components
+ 2240/511   . . . with permanent magnets
+ 2240/515   . . . electromagnetic
+ 2240/52    . . Axial thrust bearings
+ 2240/53    . . Hydrodynamic or hydrostatic bearings
+ 2240/54    . . Radial bearings
+ 2240/63    . . Glands for admission or removal of fluids from
+ 2240/70    . Slinger plates or washers
+ 2240/80    . Platforms for stationary or moving blades
+ 2240/801   . . cooled platforms
+ 2240/85    . Electrical connection arrangements
+ 2240/90    . Mounting on supporting structures or systems
+ 2240/91    . . on a stationary structure
+ 2240/911   . . . already existing for a prior purpose
+ 2240/9111  . . . . which is a chimney
+ 2240/9112  . . . . which is a building
+ 2240/9113  . . . . which is a roadway, rail track, or the like for
+recovering energy from moving vehicles
+ 2240/9121  . . . . on a lattice tower
+ 2240/914   . . . on an inflatable structure
+ 2240/915   . . . which is vertically adjustable
+ 2240/9151  . . . . telescopically
+ 2240/9152  . . . . by being hinged
+ 2240/91521 . . . . . at ground level
+ 2240/916   . . . with provision for hoisting onto the structure
+ 2240/917   . . . attached to cables
+ 2240/9172  . . . . of kite type with traction and retraction
+ 2240/9174  . . . . of kite type with a turbine and a flying
+ 2240/9176  . . . . Wing, kites or buoyant bodies with a turbine
+attached without flying pattern
+ 2240/92    . . on an airborne structure
+ 2240/921   . . . kept aloft due to aerodynamic effects
+ 2240/922   . . . kept aloft due to buoyancy effects
+ 2240/923   . . . which is a vehicle
+ 2240/93    . . on a structure floating on a liquid surface
+ 2240/931   . . . which is a vehicle
+ 2240/932   . . . which is a catamaran-like structure
+ 2240/94    . . on a movable wheeled structure
+ 2240/941   . . . which is a land vehicle
+ 2240/96    . . as part of a wind turbine farm
+ 2240/965   . . as part of a water turbine farm
+ 2240/97    . . on a submerged structure
+ 2240/98    . . which is inflatable
+ 2240/99    . characterised by colour or colour patterns
+Geometry indicates the shape or form of a
+component or the configuration or arrangement of
+components in a machine or in a plant.
+ 2250/182   . . . crenellated, notched
+ 2250/19    . . machined; miscellaneous
+ 2250/20    . three-dimensional
+ 2250/22    . . parallelepipedic
+ 2250/282   . . . Cubic pattern
+ 2250/29    . . machined; miscellaneous
+ 2250/293   . . . lathed, e.g. rotation symmetrical
+ 2250/30    . Arrangement of components
+ 2250/31    . . according to the direction of their main axis or
+ 2250/311   . . . the axes being in line
+ 2250/312   . . . the axes being parallel to each other
+ 2250/313   . . . the axes being perpendicular to each other
+ 2250/314   . . . the axes being inclined in relation to each other
+ 2250/315   . . . the main axis being substantially vertical
+ 2250/32    . . according to their shape
+ 2250/36    . . in inner-outer relationship, e.g. shaft-bearing
+ 2250/40    . Movement of component
+ 2250/41    . . with one degree of freedom
+ 2250/42    . . with two degrees of freedom
+ 2250/43    . . with three degrees of freedom
+ 2250/44    . . one element moving inside another one, e.g.
+wave-operated member (wom) moving inside
+ 2250/5011  . . . augmenting, i.e. with intercepting fluid flow
+cross sectional area greater than the rest of the
+ 2250/5012  . . . concentrating only, i.e. with intercepting fluid
+flow cross sectional area not greater than the
+rest of the machine behind the inlet
+ 2250/503   . . of regenerative pumps
+ 2250/60    . Structure; Surface texture
+ 2250/80    . Size or power range of the machines
+ 2250/84    . . Nanomachines (Nanotechnology for interacting,
+sensing or actuating B82Y 15/00)
+ 2260/02    . Transport, e.g. specific adaptations or devices
+for conveyance (transport of wind turbines or
+equipments therefore F03D 13/40)
+ 2260/04    . Deployment, e.g. installing underwater structures
+ 2260/10    . Particular cycles
+ 2260/20    . Heat transfer, e.g. cooling
+ 2260/201   . . by impingement of a fluid
+ 2260/202   . . by film cooling
+ 2260/203   . . by transpiration cooling
+ 2260/205   . . Cooling fluid recirculation, i.e. after having
+cooled one or more components the cooling
+fluid is recovered and used elsewhere for other
+ 2260/207   . . using a phase changing mass, (e.g. heat absorbing
+ 2260/208   . . using heat pipes
+ 2260/209   . . using vortex tubes
+ 2260/211   . . by intercooling, e.g. during a compression cycle
+ 2260/212   . . . by water injection
+ 2260/221   . . Improvement of heat transfer
+ 2260/222   . . . by creating turbulence (vortex generators,
+turbulators or the like for mixing
+ 2260/224   . . . by increasing the heat transfer surface
+ 2260/2241  . . . . using fins or ribs
+ 2260/231   . . Preventing heat transfer
+ 2260/232   . . characterised by the cooling medium
+ 2260/233   . . . the medium being steam
+ 2260/24    . . for draft enhancement in chimneys, using solar or
+ 2260/30    . Retaining components in desired mutual position
+ 2260/301   . . Retaining bolts or nuts
+ 2260/3011  . . . of the frangible or shear type
+ 2260/302   . . by means of magnetic or electromagnetic forces
+ 2260/303   . . with a bayonet coupling
+ 2260/304   . . Balancing of radial or axial forces on regenerative
+ 2260/305   . . Reducing friction between regenerative impeller
+ 2260/31    . . Locking rotor in position
+ 2260/40    . Transmission of power
+ 2260/402   . . through friction drives
+ 2260/4021  . . . through belt drives
+ 2260/4022  . . . through endless chains
+ 2260/4023  . . . through a friction clutch
+ 2260/403   . . through the shape of the drive components
+ 2260/4031  . . . as in toothed gearing
+ 2260/40311 . . . . of the epicyclic, planetary or differential type
+ 2260/40312 . . . . Ratchet wheels
+ 2260/404   . . through magnetic drive coupling
+ 2260/4041  . . . the driven magnets encircling the driver
+ 2260/406   . . through hydraulic systems
+ 2260/407   . . through piezoelectric conversion
+ 2260/408   . . through magnetohydrodynamic conversion
+ 2260/42    . Storage of energy
+ 2260/421   . . in the form of rotational kinetic energy, e.g. in
+ 2260/422   . . in the form of potential energy, e.g. pressurized or
+ 2260/50    . Kinematic linkage, i.e. transmission of position
+ 2260/502   . . involving springs
+ 2260/5032  . . . of the bevel or angled type
+ 2260/504   . . using flat or V-belts and pulleys
+ 2260/505   . . using chains and sprockets; using toothed belts
+ 2260/506   . . using cams or eccentrics
+ 2260/507   . . using servos, independent actuators, etc.
+ 2260/601   . . using an ejector or a jet pump
+ 2260/603   . . . of leakage having past a seal (seals
+F05B 2240/57; glands F05B 2240/63)
+ 2260/604   . . Vortex non-clogging type pumps
+ 2260/63    . . Preventing clogging or obstruction of flow paths
+by dirt, dust, or foreign particles
+ 2260/64    . . Aeration, ventilation, dehumidification or
+moisture removal of closed spaces
+ 2260/70    . Adjusting of angle of incidence or attack of rotating
+ 2260/71    . . as a function of flow velocity
+ 2260/72    . . by turning around an axis parallel to the rotor
+ 2260/74    . . by turning around an axis perpendicular the rotor
+ 2260/75    . . the adjusting mechanism not using auxiliary
+ 2260/76    . . the adjusting mechanism using auxiliary power
+ 2260/77    . . the adjusting mechanism driven or triggered by
+ 2260/78    . . the adjusting mechanism driven or triggered by
+ 2260/79    . . Bearing, support or actuation arrangements
+ 2260/821   . . Parameter estimation or prediction
+ 2260/8211  . . . of the weather
+ 2260/83    . Testing, e.g. methods, components or tools therefor
+ 2260/84    . Modelling or simulation
+ 2260/87    . Using a generator as a motor
+ 2260/901   . . using aerodynamic forces, i.e. lift or drag
+ 2260/9011  . . . of the tips of rotor blades
+ 2260/902   . . using frictional mechanical forces
+ 2260/903   . . using electrical or magnetic forces
+ 2260/904   . . using hydrodynamic forces
+ 2260/95    . Preventing corrosion (coating or surface treatment
+ 2260/96    . Preventing, counteracting or reducing vibration or
+ 2260/962   . . my means creating "anti-noise"
+ 2260/964   . . by damping means
+ 2260/966   . . by correcting static or dynamic imbalance
+ 2260/97    . Reducing windage losses
+ 2260/972   . . in radial flow machines
+ 2270/10    . Purpose of the control system
+ 2270/101   . . to control rotational speed (n)
+ 2270/1011  . . . to prevent overspeed
+ 2270/1012  . . . to prevent underspeed
+ 2270/1013  . . . of different spools or shafts
+ 2270/1014  . . . to keep rotational speed constant
+ 2270/1016  . . in variable speed operation
+ 2270/102   . . to control acceleration (u)
+ 2270/1021  . . . by keeping it below damagingly high values
+ 2270/1022  . . . by making it as high as possible
+ 2270/103   . . to affect the output of the engine
+ 2270/1033  . . . Power (if explicitly mentioned)
+ 2270/104   . . to match engine to driven device
+ 2270/1041  . . . in particular the electrical frequency of driven
+ 2270/107   . . to cope with emergencies
+ 2270/1071  . . . in particular sudden load loss
+ 2270/10711 . . . . applying a low voltage ride through method
+ 2270/1072  . . . in particular blow-out and relight
+ 2270/1073  . . . of one engine in a multi-engine system
+ 2270/1074  . . . by using back-up controls
+ 2270/1075  . . . by temporary overriding set control limits
+ 2270/1076  . . . caused by water or hail ingestion
+ 2270/1077  . . . Storm protection
+ 2270/109   . . to prolong engine life
+ 2270/1091  . . . by limiting temperatures
+ 2270/1095  . . . by limiting mechanical stresses
+ 2270/1097  . . . by preventing reverse rotation
+ 2270/11    . . to maintain desired vehicle trajectory parameters
+ 2270/111   . . to control two or more engines simultaneously
+ 2270/17    . . to avoid excessive deflection of the blades
+ 2270/18    . . to control buoyancy
+ 2270/19    . . to avoid stroboscopic flicker shadow on
+ 2270/20    . . to optimise the performance of a machine
+ 2270/202   . . . Tuning to wave conditions
+ 2270/204   . . . taking into account the wake effect
+ 2270/30    . Control parameters, e.g. input parameters
+ 2270/3032  . . . excessive temperatures, e.g. caused by
+ 2270/304   . . Spool rotational speed
+ 2270/309   . . Rate of change of parameters
+ 2270/3201  . . . "cut-off" or "shut-down" wind speed
+ 2270/3202  . . . "cut-in" or starting wind speed
+ 2270/321   . . Wind directions
+ 2270/322   . . the detection or prediction of a wind gust
+ 2270/325   . . Air temperature
+ 2270/327   . . Rotor or generator speeds
+ 2270/328   . . Blade pitch angle
+ 2270/329   . . Azimuth or yaw angle
+ 2270/33    . . Proximity of blade to tower
+ 2270/331   . . Mechanical loads
+ 2270/332   . . Maximum loads or fatigue criteria
+ 2270/333   . . Noise or sound levels
+ 2270/334   . . Vibration measurements
+ 2270/335   . . Output power or torque
+ 2270/336   . . Blade lift measurements
+ 2270/337   . . Electrical grid status parameters, e.g. voltage,
+ 2270/341   . . Liquid flow velocity or direction
+ 2270/342   . . Wave conditions, e.g. amplitude, frequency or
+ 2270/40    . Type of control system
+ 2270/402   . . passive or reactive, e.g. using large wind vanes
+ 2270/404   . . active, predictive, or anticipative
+ 2270/50    . Control logic embodiment by
+ 2270/502   . . electrical means, e.g. relays or switches
+ 2270/504   . . electronic means, e.g. electronic tubes, transistors
+or IC's within an electronic circuit
+ 2270/506   . . hydraulic means, e.g. hydraulic valves within a
+ 2270/508   . . mechanical means, e.g. levers, gears or cams
+ 2270/60    . Control system actuates through
+ 2270/602   . . electrical actuators
+ 2270/604   . . hydraulic actuators
+ 2270/605   . . Pneumatic actuators
+ 2270/606   . . mechanical actuators (F05B 2270/602 takes
+ 2270/70    . Type of control algorithm
+ 2270/704   . . proportional-differential
+ 2270/705   . . proportional-integral
+ 2270/706   . . proportional-integral-differential
+ 2270/708   . . with comparison tables
+ 2270/709   . . with neural networks
+ 2270/80    . Devices generating input signals, e.g. transducers,
+sensors, cameras or strain gauges
+ 2270/802   . . Calibration thereof
+ 2270/803   . . Sampling thereof
+ 2270/804   . . Optical devices
+ 2270/8042  . . . Lidar systems
+ 2270/808   . . Strain gauges; Load cells
+ 2270/821   . . Displacement measuring means, e.g. inductive
+ 2280/00    Materials; Properties thereof
+ 2280/10    . Inorganic materials, e.g. metals
+ 2280/10301 . . . Refractory metals, e.g. V, W
+ 2280/1043  . . . Platinum group, e.g. Pt, Ir
+ 2280/106   . . Rare earth metals, e.g. Sc, Y
+ 2280/10722 . . . Phosphor-bronze alloy
+ 2280/10723 . . . Nickel-Copper alloy, e.g. monel
+ 2280/1073  . . Aluminium alloy, e.g. AlCuMgPb
+ 2280/1074  . . Alloys not otherwise provided for
+ 2280/10742 . . . Heat stable alloys
+ 2280/10743 . . . Ni - Si alloys
+ 2280/10744 . . . Metal-aluminide intermetalllic compounds
+ 2280/20    . Inorganic materials, e.g. non-metallic materials
+ 2280/2004  . . Ceramics; Oxides
+ 2280/20041 . . . Aluminium oxides
+ 2280/20043 . . . Zirconium oxides
+ 2280/2005  . . Non-oxide ceramics
+ 2280/2006  . . Carbon, e.g. graphite
+ 2280/20072 . . . of titanium, e.g. TiB
+ 2280/20073 . . . of wolfram, e.g. tungsten carbide
+ 2280/20091 . . . of molybdenum
+ 2280/2011  . . Aluminium titanate
+ 2280/30    . Inorganic materials not otherwise provided for
+ 2280/40    . Organic materials
+ 2280/4002  . . Cellulosic materials, e.g. wood
+ 2280/4003  . . Synthetic polymers, e.g. plastics
+ 2280/4005  . . PTFE [PolyTetraFluorEthylene]
+ 2280/4006  . . Polyamides, e.g. NYLON
+ 2280/4009  . . Polyetherketones, e.g. PEEK
+ 2280/401   . . Silicon polymers
+ 2280/4011  . . Organic materials not otherwise provided for
+ 2280/50    . Intrinsic material properties or characteristics
+ 2280/5002  . . Thermal properties
+ 2280/5005  . . Reflective properties
+ 2280/5008  . . Magnetic properties
+ 2280/501   . . Self lubricating materials; Solid lubricants
+ 2280/5011  . . Surface roughness
+ 2280/60    . Properties or characteristics given to material by
+ 2280/6002  . . . Woven fabrics
+ 2280/6003  . . Composites; e.g. fibre-reinforced
+ 2280/6006  . . Directionally-solidified crystalline structures
+ 2280/6007  . . monocrystalline
+ 2280/70    . Treatments or modification of materials
+ 2280/701   . . Heat treatments

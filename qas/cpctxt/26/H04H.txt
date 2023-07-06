@@ -1,0 +1,251 @@
+COOPERATIVE PATENT CLASSIFICATION
+ELECTRIC COMMUNICATION TECHNIQUE
+BROADCAST COMMUNICATION (multiplex communication H04J; pictorial
+communication aspects of broadcast systems H04N)
+In this subclass, the following terms or expressions are used with the meaning indicated:
+• "broadcast" is simultaneous distribution of identical signals to plural receiving stations. The term "broadcast" does not
+include distribution to receiving stations which is controlled by requests or responses from the receiving stations;
+• "broadcast information" covers all kinds of information distributed by broadcast systems;
+• "broadcast-related information" is information required by services provided via broadcast systems, other than broadcast
+• "broadcast time" is a time when particular broadcast information exists and is available;
+• "broadcast channel" is a channel via which broadcast information is distributed, e.g. carrier waves, time slots, cables or
+wireless broadcast service areas;
+• "broadcast space" is either a set of broadcast channels in which particular broadcast information exists and is available or a
+geographical area determined by the set of broadcast channels;
+• "broadcast space-time" is space-time determined by broadcast space and broadcast time in which particular broadcast
+information exists and is available;
+• "broadcast system" is a system which consists of transmitter, transponder and receiver for broadcast;
+• "broadcast-related system" is a system which is directly affected by generation, broadcast, reception or use of broadcast
+• "broadcast service" is a service directly provided by a broadcast system, i.e. distribution service of broadcast information;
+• "broadcast-related service" is a service provided by broadcast-related systems;
+• "A with a direct linkage to B" means that A directly affects B or that A is directly affected by B.
+In this subclass non-limiting references (in the sense of paragraph 39 of the Guide to the IPC) may still be displayed in the
+   20/00    Arrangements for broadcast or for distribution
+   20/02    . Arrangements for relaying broadcast information
+   20/04    . . from field pickup units [FPU]
+   20/06    . . among broadcast stations
+   20/08    . . among terminal devices
+   20/10    . Arrangements for replacing or switching
+information during the broadcast or the distribution
+   20/103   . . {Transmitter-side switching}
+   20/106   . . {Receiver-side switching}
+   20/12    . Arrangements for observation, testing or
+   20/14    . . for monitoring programmes
+   20/16    . Arrangements for broadcast or for distribution of
+identical information repeatedly
+   20/18    . Arrangements for synchronising broadcast or
+distribution via plural systems
+   20/20    . Arrangements for broadcast or distribution of
+identical information via plural systems
+   20/22    . . Arrangements for broadcast of identical
+information via plural broadcast systems
+   20/24    . . Arrangements for distribution of identical
+information via broadcast system and non-
+   20/26    . Arrangements for switching distribution systems
+   20/28    . Arrangements for simultaneous broadcast of plural
+   20/30    . . by a single channel
+   20/31    . . . using in-band signals, e.g. subsonic or cue
+   20/33    . . by plural channels
+   20/34    . . . using an out-of-band subcarrier signal
+   20/36    . . for AM broadcasts
+   20/38    . Arrangements for distribution where lower stations,
+e.g. receivers, interact with the broadcast
+   20/40    . Arrangements for broadcast specially adapted for
+   20/42    . Arrangements for resource management
+   20/423   . . {Transmitter side}
+   20/426   . . {Receiver side}
+   20/44    . Arrangements characterised by circuits or
+components specially adapted for broadcast
+   20/46    . . specially adapted for broadcast systems covered
+by groups H04H 20/53-H04H 20/95
+   20/47    . . . specially adapted for stereophonic broadcast
+   20/48    . . . . for FM stereophonic broadcast systems
+   20/49    . . . . for AM stereophonic broadcast systems
+   20/51    . . . specially adapted for satellite broadcast systems
+   20/53    . Arrangements specially adapted for specific
+applications, e.g. for traffic information or for
+   20/55    . . for traffic information
+   20/57    . . for mobile receivers
+   20/59    . . for emergency or urgency
+   20/61    . . for local area broadcast, e.g. instore broadcast
+   20/62    . . . for transportation systems, e.g. in vehicles
+   20/63    . . . to plural spots in a confined site, e.g. MATV
+   20/65    . Arrangements characterised by transmission
+   20/67    . . Common-wave systems, i.e. using separate
+transmitters operating on substantially the same
+   20/69    . . Optical systems
+   20/71    . . Wireless systems
+   20/72    . . . of terrestrial networks
+   20/74    . . . of satellite networks
+   20/77    . . . using carrier waves
+   20/78    . . . . CATV [Community Antenna Television]
+   20/79    . . . . . using downlink of the CATV systems, e.g.
+audio broadcast via CATV network
+   20/80    . . . . having frequencies in two or more frequency
+bands, e.g. medium wave and VHF
+   20/81    . . . . combined with telephone network over
+which the broadcast is continuously available
+   20/82    . . . using signals not modulated onto a carrier
+   20/83    . . . . not sharing the network with any other
+   20/84    . . . combined with power distribution network
+   20/86    . Arrangements characterised by the broadcast
+   20/88    . . Stereophonic broadcast systems {(multiplex
+   20/89    . . . using three or more audio channels, e.g.
+   20/91    . . broadcasting computer programmes
+   20/93    . . which locates resources of other pieces of
+information, e.g. URL [Uniform Resource
+   20/95    . . characterised by a specific format, e.g. MP3
+   40/00    Arrangements specially adapted for receiving
+   40/09    . Arrangements for receiving desired information
+automatically according to timetables
+   40/18    . Arrangements characterised by circuits or
+components specially adapted for receiving
+   40/27    . . specially adapted for broadcast systems covered
+by groups H04H 20/53 - H04H 20/95
+   40/36    . . . specially adapted for stereophonic broadcast
+   40/45    . . . . for FM stereophonic broadcast systems
+   40/54    . . . . . generating subcarriers
+   40/63    . . . . . for separation improvements or
+   40/72    . . . . . for noise suppression
+   40/81    . . . . . for stereo-monaural switching
+   40/90    . . . specially adapted for satellite broadcast
+   60/00    Arrangements for broadcast applications with
+a direct linking to broadcast information or
+broadcast space-time; Broadcast-related systems
+   60/02    . Arrangements for generating broadcast information;
+Arrangements for generating broadcast-
+related information with a direct linking to
+broadcast information or to broadcast space-
+time; Arrangements for simultaneous generation
+of broadcast information and broadcast-related
+   60/04    . . Studio equipment; Interconnection of studios
+   60/05    . . . Mobile studios
+   60/06    . . Arrangements for scheduling broadcast services
+   60/07    . . characterised by processes or methods for the
+   60/09    . Arrangements for device control with a direct
+linkage to broadcast information or to broadcast
+space-time; Arrangements for control of broadcast-
+   60/11    . . Arrangements for counter-measures when a
+portion of broadcast information is unavailable
+   60/12    . . . wherein another information is substituted for
+the portion of broadcast information
+   60/13    . . Arrangements for device control affected by the
+   60/14    . . Arrangements for conditional access to broadcast
+information or to broadcast-related services
+   60/15    . . . on receiving information
+   60/16    . . . on playing information
+   60/17    . . . on recording information
+   60/18    . . . on copying information
+   60/19    . . . on transmission of information
+   60/20    . . . on secondary editing information
+   60/21    . . . Billing for the use of broadcast information or
+   60/23    . . . using cryptography, e.g. encryption,
+authentication, key distribution
+   60/25    . Arrangements for updating broadcast information or
+   60/27    . Arrangements for recording or accumulating
+broadcast information or broadcast-related
+   60/29    . Arrangements for monitoring broadcast services or
+   60/31    . . Arrangements for monitoring the use made of the
+   60/32    . . Arrangements for monitoring conditions of
+receiving stations, e.g. malfunction or breakdown
+   60/33    . . Arrangements for monitoring the users' behaviour
+   60/35    . Arrangements for identifying or recognising
+characteristics with a direct linkage to broadcast
+information or to broadcast space-time, e.g. for
+identifying broadcast stations or for identifying
+   60/37    . . for identifying segments of broadcast
+information, e.g. scenes or extracting programme
+   60/38    . . for identifying broadcast time or space
+   60/39    . . . for identifying broadcast space-time (use of
+Electronic Programme Guides H04H 60/72)
+   60/40    . . . for identifying broadcast time
+   60/41    . . . for identifying broadcast space, i.e. broadcast
+channels, broadcast stations or broadcast areas
+   60/42    . . . . for identifying broadcast areas
+   60/43    . . . . for identifying broadcast channels
+   60/44    . . . . for identifying broadcast stations
+   60/45    . . for identifying users
+   60/46    . . for recognising users' preferences
+   60/47    . . for recognising genres
+   60/48    . . for recognising items expressed in broadcast
+   60/49    . . for identifying locations
+   60/50    . . . of broadcast or relay stations
+   60/51    . . . of receiving stations
+   60/53    . . . of destinations
+   60/54    . . . where broadcast information is generated
+   60/56    . Arrangements characterised by components
+specially adapted for monitoring,
+identification or recognition covered by groups
+   60/58    . . of audio {(determination or detection of speech
+characteristics in general G10L 25/00; speech
+recognition in general G10L 15/00)}
+   60/59    . . of video {(recognising characters or patterns in
+general G06F 18/00, G06V 20/00)}
+   60/61    . Arrangements for services using the result of
+monitoring, identification or recognition covered by
+   60/63    . . for services of sales {(data processing systems
+or methods specially adapted for electronic
+   60/64    . . for providing detail information
+   60/65    . . for using the result on users' side
+   60/66    . . for using the result on distributors' side
+   60/68    . Systems specially adapted for using specific
+information, e.g. geographical or meteorological
+   60/70    . . using geographical information, e.g. maps, charts
+   60/71    . . using meteorological information
+   60/72    . . using electronic programme guides [EPG]
+(focusing on identifying broadcast space time
+H04H 60/39 {; menu type display of EPG in
+television receivers H04N 21/47})
+   60/73    . . using meta-information
+   60/74    . . . using programme related information, e.g. title,
+   60/76    . Arrangements characterised by transmission
+systems other than for broadcast, e.g. the Internet
+   60/78    . . characterised by source locations or destination
+   60/79    . . . characterised by transmission among broadcast
+   60/80    . . . characterised by transmission among terminal
+   60/81    . . characterised by the transmission system itself
+   60/82    . . . the transmission system being the Internet
+   60/83    . . . . accessed over telephonic networks
+   60/84    . . . . . which are fixed telephone networks
+   60/85    . . . . . which are mobile communication
+   60/86    . . . . accessed over CATV networks
+   60/87    . . . . accessed over computer networks
+   60/88    . . . . . which are wireless networks
+   60/89    . . . . . which are wired networks
+   60/90    . . . Wireless transmission systems
+   60/91    . . . . Mobile communication networks (for
+accessing the Internet H04H 60/85)
+   60/92    . . . . for local area
+   60/93    . . . Wired transmission systems
+   60/94    . . . . Telephonic networks (for accessing the
+   60/95    . . . . for local area
+   60/96    . . . . CATV systems (for accessing the Internet
+   60/97    . . . . . using uplink of the CATV systems
+   60/98    . . . Physical distribution of media, e.g. postcards,
+ 2201/00    Aspects of broadcast communication
+ 2201/10    . characterised by the type of broadcast system
+ 2201/11    . . digital multimedia broadcasting [DMB]
+ 2201/12    . . digital radio mondiale [DRM]
+ 2201/13    . . radio data system/radio broadcast data system
+ 2201/14    . . direct broadcast satellite [DBS]
+ 2201/15    . . system for wireless information forwarding and
+ 2201/16    . . digital video broadcasting - handhelds [DVB-H]
+ 2201/17    . . in band adjacent channel [IBAC]
+ 2201/18    . . in band on channel [IBOC]
+ 2201/183   . . . FM digital or hybrid
+ 2201/186   . . . AM digital or hybrid
+ 2201/19    . . digital satellite radio [DSR]
+ 2201/20    . . digital audio broadcasting [DAB]
+ 2201/30    . characterised by the use of a return channel, e.g. for
+collecting users' opinions, for returning broadcast
+space/time information or for requesting data
+ 2201/33    . . via the broadcast channel
+ 2201/37    . . via a different channel
+ 2201/40    . characterised in that additional data relating to the
+broadcast data are available via a different channel
+ 2201/50    . characterised by the use of watermarks
+ 2201/60    . characterised in that the receiver comprises more
+ 2201/70    . characterised in that receivers can be addressed
+ 2201/80    . characterised in that motion picture association of
+America [MPAA] ratings are used
+ 2201/90    . characterised by the use of signatures
