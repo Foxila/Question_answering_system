@@ -27,7 +27,7 @@ with st.form("filter"):
         nr_answers = st.sidebar.slider('Max. Answers:', min_value=1, max_value=30, value=10)
 
         rrf_retrieval = st.sidebar.checkbox("Reciprocal Rank Fusion", value=False,
-                                             help="Reciprocal Rank Fusion (RRF) is a simple method for combining the document rankings from multiple IR systems")
+                                             help="Reciprocal Rank Fusion (RRF) is a simple method for combining the document rankings from multiple IR systems. When you use RRF alpha is not taken into accout")
 
         patent_class = st.sidebar.text_input("Find patents of the subclass:")
         patent_year = st.sidebar.text_input("Year:")
@@ -122,10 +122,11 @@ def run_pipeline():
             st.markdown("""---""")
             # Write Answers:
             try:
+                answers = []
                 answer = response
-                for key, value in answer.items():
-                    answers_placeholder.write("{}: {}".format(key, value))
-
+                answers.append(answer)
+                answers_placeholder.write(answers)
+                
             except IndexError:
                 st.write("No more relevant Answers found")
 
